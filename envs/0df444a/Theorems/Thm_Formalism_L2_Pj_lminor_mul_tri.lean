@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_lminor_mul_tri
 -- name    : Formalism.L2.Pj.lminor_mul_tri
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:48.760806+00:00
 -- url     : https://prove2.me/theorems/5009a983-993f-452f-b7e3-7e97b1bd3251

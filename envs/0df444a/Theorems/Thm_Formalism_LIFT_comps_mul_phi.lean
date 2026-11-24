@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_comps_mul_phi
 -- name    : Formalism.LIFT.comps_mul_phi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:06.629252+00:00
 -- url     : https://prove2.me/theorems/d7964798-2f49-4040-b676-24322c38a25b

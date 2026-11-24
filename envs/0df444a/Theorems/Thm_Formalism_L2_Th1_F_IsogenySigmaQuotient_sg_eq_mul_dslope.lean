@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_IsogenySigmaQuotient_sg_eq_mul_dslope
 -- name    : Formalism.L2.Th1.F.IsogenySigmaQuotient.sg_eq_mul_dslope
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:30.414159+00:00
 -- url     : https://prove2.me/theorems/91d9f363-0f2b-47cb-8967-f41bb7e51b69

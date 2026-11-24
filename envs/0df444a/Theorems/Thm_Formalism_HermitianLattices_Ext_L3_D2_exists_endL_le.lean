@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_exists_endL_le
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.exists_endL_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:33:30.982255+00:00
 -- url     : https://prove2.me/theorems/af4a7fe3-f71e-4955-91b6-faf1f30fc99b

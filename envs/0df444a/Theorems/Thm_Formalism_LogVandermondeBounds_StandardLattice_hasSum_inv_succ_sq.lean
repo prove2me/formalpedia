@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_hasSum_inv_succ_sq
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.hasSum_inv_succ_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:17.277173+00:00
 -- url     : https://prove2.me/theorems/1a56090b-029d-41ba-a41e-ca2c05b2f4b2

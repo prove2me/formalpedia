@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_precompHeisenberg
 -- name    : Formalism.L2.Th1.H.precompHeisenberg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:45.437517+00:00
 -- url     : https://prove2.me/theorems/4da8a5a8-a314-434e-9b98-a60b735eb416

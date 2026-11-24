@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_gl_action_exists
 -- name    : Formalism.InvariantFactorPaths.L4.gl_action_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:19:39.565839+00:00
 -- url     : https://prove2.me/theorems/cae0de4e-a1ba-412e-80a8-a40bcd35f91b

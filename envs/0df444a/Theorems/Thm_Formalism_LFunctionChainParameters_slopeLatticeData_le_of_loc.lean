@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_le_of_loc
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.le_of_loc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:16.470357+00:00
 -- url     : https://prove2.me/theorems/e2b7621f-bb2a-485d-ac86-3221894b8e5e

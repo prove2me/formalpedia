@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ProjectiveLineModels_projective_lines_geometry
 -- name    : Formalism.LFunctionChainParameters.ProjectiveLineModels.projective_lines_geometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:50:07.194919+00:00
 -- url     : https://prove2.me/theorems/2ac9cfca-d4f9-49e0-80f5-3887dbafb4b4

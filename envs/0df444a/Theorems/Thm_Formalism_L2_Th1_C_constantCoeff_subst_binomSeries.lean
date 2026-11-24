@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_constantCoeff_subst_binomSeries
 -- name    : Formalism.L2.Th1.C.constantCoeff_subst_binomSeries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:30.830981+00:00
 -- url     : https://prove2.me/theorems/f2300209-1c38-4649-9b73-6b18570b8198

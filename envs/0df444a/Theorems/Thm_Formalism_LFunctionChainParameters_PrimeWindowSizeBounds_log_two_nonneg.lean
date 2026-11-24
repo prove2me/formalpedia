@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_log_two_nonneg
 -- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.log_two_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:32.999565+00:00
 -- url     : https://prove2.me/theorems/7434877c-f606-4870-a8cd-31c241fb562d

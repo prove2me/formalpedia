@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Power_tri_succ
 -- name    : Formalism.L2.Th1.E.Power.tri_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:09.016659+00:00
 -- url     : https://prove2.me/theorems/d83a18cf-73d0-4602-afc4-65f40365c697

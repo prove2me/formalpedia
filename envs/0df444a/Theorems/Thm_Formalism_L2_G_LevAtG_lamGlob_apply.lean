@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_LevAtG_lamGlob_apply
 -- name    : Formalism.L2.G.LevAtG.lamGlob_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:23:46.608923+00:00
 -- url     : https://prove2.me/theorems/8497dcde-2ba5-471e-99bf-9fdde3d3c3c0

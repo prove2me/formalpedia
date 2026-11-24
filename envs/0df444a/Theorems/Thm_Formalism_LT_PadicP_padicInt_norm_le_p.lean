@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_PadicP_padicInt_norm_le_p
 -- name    : Formalism.LT.PadicP.padicInt_norm_le_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:52:07.395824+00:00
 -- url     : https://prove2.me/theorems/205c34a6-23ad-42a5-b59b-aceacae235c9

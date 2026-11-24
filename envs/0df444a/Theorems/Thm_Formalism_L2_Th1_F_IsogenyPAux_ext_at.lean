@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_IsogenyPAux_ext_at
 -- name    : Formalism.L2.Th1.F.IsogenyPAux.ext_at
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:33.278844+00:00
 -- url     : https://prove2.me/theorems/9523fa11-a20b-4814-a971-0f10c28fdd09

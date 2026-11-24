@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_exponential_specification
 -- name    : Formalism.L2.Th1.D.exponential_specification
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:08.732535+00:00
 -- url     : https://prove2.me/theorems/25ce3e8d-ec13-4897-8a29-147ccf1092c4

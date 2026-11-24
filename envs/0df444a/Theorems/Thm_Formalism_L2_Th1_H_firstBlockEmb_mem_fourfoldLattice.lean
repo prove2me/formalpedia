@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_firstBlockEmb_mem_fourfoldLattice
 -- name    : Formalism.L2.Th1.H.firstBlockEmb_mem_fourfoldLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:11.824799+00:00
 -- url     : https://prove2.me/theorems/4b12d05b-b3c1-4ce1-9470-99e8656cc29a

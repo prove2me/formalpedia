@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Homog_wFactor_scale
 -- name    : Formalism.L2.Th1.F.Homog.wFactor_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:32.369102+00:00
 -- url     : https://prove2.me/theorems/763230cb-6067-41f2-beda-04b89e30d5ba

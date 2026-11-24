@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_exists_basis_of_lattice
 -- name    : Formalism.L2.Th1.H.exists_basis_of_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:26.656769+00:00
 -- url     : https://prove2.me/theorems/0e45ba34-a2f5-43a8-9dfd-e35a0f4fc6d7

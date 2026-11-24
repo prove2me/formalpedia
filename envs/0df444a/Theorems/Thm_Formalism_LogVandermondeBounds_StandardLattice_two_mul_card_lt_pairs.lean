@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_two_mul_card_lt_pairs
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.two_mul_card_lt_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:53:15.863473+00:00
 -- url     : https://prove2.me/theorems/f33cd742-5e52-4eb6-9536-c25a0c709461

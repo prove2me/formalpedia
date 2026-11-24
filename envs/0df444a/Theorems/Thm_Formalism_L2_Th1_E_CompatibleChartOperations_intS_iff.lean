@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_CompatibleChartOperations_intS_iff
 -- name    : Formalism.L2.Th1.E.CompatibleChartOperations.intS_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:30.535699+00:00
 -- url     : https://prove2.me/theorems/04dbfea2-795e-4605-ab7a-bc91138c6da3

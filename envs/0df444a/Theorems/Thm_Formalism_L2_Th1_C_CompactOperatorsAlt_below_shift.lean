@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_CompactOperatorsAlt_below_shift
 -- name    : Formalism.L2.Th1.C.CompactOperatorsAlt.below_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:06.04489+00:00
 -- url     : https://prove2.me/theorems/6fe64385-b1fa-44bb-9c7d-91803c3d636d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_ExpP_term_eq
 -- name    : Formalism.LT.ExpP.term_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:51:22.834686+00:00
 -- url     : https://prove2.me/theorems/5e72ca73-c27a-47a8-a0f8-b54c34076649

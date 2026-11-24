@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_log_inj
 -- name    : Formalism.L2.Th1.B.log_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:22.360048+00:00
 -- url     : https://prove2.me/theorems/18f21216-24fd-4d8c-bee5-26c08eb33831

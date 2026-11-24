@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_up_gap_of_step
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.up_gap_of_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:53:23.072952+00:00
 -- url     : https://prove2.me/theorems/9cba9037-2acb-4f2c-a291-35d0a71eeaf8

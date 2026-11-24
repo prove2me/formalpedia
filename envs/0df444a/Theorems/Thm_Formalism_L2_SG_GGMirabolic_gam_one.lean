@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_GGMirabolic_gam_one
 -- name    : Formalism.L2.SG.GGMirabolic.gam_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:48:52.259807+00:00
 -- url     : https://prove2.me/theorems/d1ab47c9-dfcb-4005-8d26-d38d86644419

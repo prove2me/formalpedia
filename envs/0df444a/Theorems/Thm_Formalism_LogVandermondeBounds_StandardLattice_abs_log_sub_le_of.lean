@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_abs_log_sub_le_of
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.abs_log_sub_le_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:06.505809+00:00
 -- url     : https://prove2.me/theorems/b26229ed-2b65-4421-a307-351c78fa681a

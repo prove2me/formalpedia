@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_FormalExponential_norm_pow_sub_pow_le
 -- name    : Formalism.L2.Th1.D.FormalExponential.norm_pow_sub_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:35.455277+00:00
 -- url     : https://prove2.me/theorems/8b52690b-3d19-4ca2-9239-5b62ca30626a

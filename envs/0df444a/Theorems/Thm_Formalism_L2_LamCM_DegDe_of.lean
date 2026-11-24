@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_DegDe_of
 -- name    : Formalism.L2.LamCM.DegDe_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:12.258451+00:00
 -- url     : https://prove2.me/theorems/75e18f38-eb9e-46e5-a467-d64f3339f416

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_ga_eq
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.ga_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:09.142408+00:00
 -- url     : https://prove2.me/theorems/3b9cb682-bc1a-46be-b6f7-dfdfdfb1877a

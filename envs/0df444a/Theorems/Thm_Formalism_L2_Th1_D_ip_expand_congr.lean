@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_ip_expand_congr
 -- name    : Formalism.L2.Th1.D.ip_expand_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:46.429911+00:00
 -- url     : https://prove2.me/theorems/57528704-1886-4100-b757-ef6d1a567b3b

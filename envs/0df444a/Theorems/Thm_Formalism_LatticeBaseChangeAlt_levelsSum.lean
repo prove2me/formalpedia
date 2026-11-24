@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_levelsSum
 -- name    : Formalism.LatticeBaseChangeAlt.levelsSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:30.611573+00:00
 -- url     : https://prove2.me/theorems/191558d9-7425-41a0-b974-b6cba6f77845

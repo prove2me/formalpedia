@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_classSubst
 -- name    : Formalism.InvariantFactorPaths.G7.Top.classSubst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:24:00.511805+00:00
 -- url     : https://prove2.me/theorems/d5024192-8ba3-4bd5-a2bc-f482e72e2e17

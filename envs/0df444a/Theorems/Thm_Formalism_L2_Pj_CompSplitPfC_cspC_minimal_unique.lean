@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_CompSplitPfC_cspC_minimal_unique
 -- name    : Formalism.L2.Pj.CompSplitPfC.cspC_minimal_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:56.044665+00:00
 -- url     : https://prove2.me/theorems/5d441df3-9c66-4eca-b8e7-967a0f992bae

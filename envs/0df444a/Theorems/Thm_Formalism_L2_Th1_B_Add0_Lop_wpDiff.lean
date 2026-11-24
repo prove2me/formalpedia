@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Add0_Lop_wpDiff
 -- name    : Formalism.L2.Th1.B.Add0.Lop_wpDiff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:40.746179+00:00
 -- url     : https://prove2.me/theorems/a5e817b7-3230-4834-9af6-a1d29338034b

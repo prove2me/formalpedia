@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_w_series_factorization
 -- name    : Formalism.L2.Th1.A.w_series_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:04:30.548618+00:00
 -- url     : https://prove2.me/theorems/65e82230-b6e4-401c-8931-4fbd9a1a418a

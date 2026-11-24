@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TorusDerivation_exists_of_sum_eq_one
 -- name    : Formalism.L2.Th1.D.TorusDerivation.exists_of_sum_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:22.279247+00:00
 -- url     : https://prove2.me/theorems/5f3ce29f-a382-4b21-a58b-316ec909d486

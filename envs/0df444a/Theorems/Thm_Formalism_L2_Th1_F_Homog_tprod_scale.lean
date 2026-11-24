@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Homog_tprod_scale
 -- name    : Formalism.L2.Th1.F.Homog.tprod_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:43.376024+00:00
 -- url     : https://prove2.me/theorems/051a06b4-67ca-4974-85e2-6355d3095f83

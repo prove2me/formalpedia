@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_LatOnly_wSigma_eq
 -- name    : Formalism.L2.Th1.F.LatOnly.wSigma_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:26:24.239658+00:00
 -- url     : https://prove2.me/theorems/5d03707e-5e9f-47e3-8dff-be99b024d6e5

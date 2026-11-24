@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Cm2_half_mem_iff
 -- name    : Formalism.L2.Th1.F.Cm2.half_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:46.553814+00:00
 -- url     : https://prove2.me/theorems/7b765db7-1ee6-4e23-bc92-6f63e193dfef

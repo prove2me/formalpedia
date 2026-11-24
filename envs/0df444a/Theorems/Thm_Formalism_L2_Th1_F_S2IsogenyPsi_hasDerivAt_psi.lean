@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_S2IsogenyPsi_hasDerivAt_psi
 -- name    : Formalism.L2.Th1.F.S2IsogenyPsi.hasDerivAt_psi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:40.438345+00:00
 -- url     : https://prove2.me/theorems/f664860e-fb1b-4f57-b500-c407ffcad30f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_GradedDegree_aeval_mem
 -- name    : Formalism.LIFT.GradedDegree.aeval_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:50:15.961337+00:00
 -- url     : https://prove2.me/theorems/3becc4aa-3c4e-43e5-8224-f39b2edf9886

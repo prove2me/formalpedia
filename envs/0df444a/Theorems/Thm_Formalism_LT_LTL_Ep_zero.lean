@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_Ep_zero
 -- name    : Formalism.LT.LTL.Ep_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:44.153668+00:00
 -- url     : https://prove2.me/theorems/94bee5ef-75d9-4c56-a3ec-5708c9bdb214

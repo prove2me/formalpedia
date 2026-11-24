@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_SC_quadratic_form_theta_scaling
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.SC.quadratic_form_theta_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:59:06.618803+00:00
 -- url     : https://prove2.me/theorems/c9465054-21d3-4e85-9907-8e5ee187d526

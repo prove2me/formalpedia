@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_length_at_span_localized
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.length_at_span_localized
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:49:32.211016+00:00
 -- url     : https://prove2.me/theorems/e5fabe63-5413-468a-901d-f4b8d1314ee4

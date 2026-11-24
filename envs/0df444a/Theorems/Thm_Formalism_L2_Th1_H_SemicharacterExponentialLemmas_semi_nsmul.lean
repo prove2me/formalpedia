@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_SemicharacterExponentialLemmas_semi_nsmul
 -- name    : Formalism.L2.Th1.H.SemicharacterExponentialLemmas.semi_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:48:52.190414+00:00
 -- url     : https://prove2.me/theorems/a1c4f2d5-d78f-400c-af89-c443a1da565b

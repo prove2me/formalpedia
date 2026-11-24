@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_card_inertia_d
 -- name    : Formalism.LFunctionChainParameters.characterSumData.card_inertia_d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:04.128313+00:00
 -- url     : https://prove2.me/theorems/c2940092-b8df-4c53-8684-5fc8ebd5a747

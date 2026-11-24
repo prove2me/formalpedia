@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_square_mass_le_one
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.square_mass_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:14:50.203806+00:00
 -- url     : https://prove2.me/theorems/76e83a23-91bc-4dde-a5f1-ff409f8d5fb0

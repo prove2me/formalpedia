@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_PadicP_isHom_of_subst_eq_smul
 -- name    : Formalism.LT.PadicP.isHom_of_subst_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:28.795415+00:00
 -- url     : https://prove2.me/theorems/cf806666-0056-4feb-88cc-b7c5e6750fb4

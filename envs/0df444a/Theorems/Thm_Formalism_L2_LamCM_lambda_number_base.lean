@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_lambda_number_base
 -- name    : Formalism.L2.LamCM.lambda_number_base
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:09:33.865111+00:00
 -- url     : https://prove2.me/theorems/3e28e801-6bad-410a-9455-1574057ea955

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_pairP_vecP
 -- name    : Formalism.L2.DIV.pairP_vecP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:09.839281+00:00
 -- url     : https://prove2.me/theorems/a5f0350a-28e3-438b-a33d-6604d7ad1857

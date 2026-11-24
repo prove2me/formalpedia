@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_CompatibleChartOperations_series_at_variable_mul
 -- name    : Formalism.L2.Th1.E.CompatibleChartOperations.series_at_variable_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:12.782796+00:00
 -- url     : https://prove2.me/theorems/c556fe82-02e9-4fb5-816d-3f757c3590a7

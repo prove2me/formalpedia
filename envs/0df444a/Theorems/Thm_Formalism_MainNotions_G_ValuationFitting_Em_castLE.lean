@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_ValuationFitting_Em_castLE
 -- name    : Formalism.MainNotions.G.ValuationFitting.Em_castLE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:37.905799+00:00
 -- url     : https://prove2.me/theorems/e50a7fe1-c2da-49b5-89da-4470c32b4c0a

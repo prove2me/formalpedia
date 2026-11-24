@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TorusDerivation_subst_zero_of_constantCoeff
 -- name    : Formalism.L2.Th1.D.TorusDerivation.subst_zero_of_constantCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:15.783869+00:00
 -- url     : https://prove2.me/theorems/8f4aea44-3f80-4012-9e94-411a1e41aebf

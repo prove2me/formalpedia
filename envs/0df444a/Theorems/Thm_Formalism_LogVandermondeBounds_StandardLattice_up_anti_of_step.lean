@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_up_anti_of_step
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.up_anti_of_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:53:14.726351+00:00
 -- url     : https://prove2.me/theorems/a53054b1-bb0c-4fde-9b2b-d770a29bfb0b

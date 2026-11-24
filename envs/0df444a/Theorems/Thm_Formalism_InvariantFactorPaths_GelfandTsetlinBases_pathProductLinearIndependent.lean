@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_pathProductLinearIndependent
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.pathProductLinearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:32.494892+00:00
 -- url     : https://prove2.me/theorems/6f4cf997-ea21-4cbb-bdc9-9b3857a0cbc0

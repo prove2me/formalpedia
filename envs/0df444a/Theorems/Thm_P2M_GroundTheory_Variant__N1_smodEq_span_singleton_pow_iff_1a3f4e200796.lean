@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_smodEq_span_singleton_pow_iff_1a3f4e200796
 -- name    : P2M_GroundTheory_Variant__N1_smodEq_span_singleton_pow_iff_1a3f4e200796
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:24:20.565045+00:00
 -- url     : https://prove2.me/theorems/f82fb2d8-d161-4a0d-a40b-33258201cac3

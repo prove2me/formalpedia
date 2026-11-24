@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_JetSubstitutionLemmas_intPS_derivative_of_LG
 -- name    : Formalism.L2.Th1.C.JetSubstitutionLemmas.intPS_derivative_of_LG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:47.770016+00:00
 -- url     : https://prove2.me/theorems/27b6b688-9beb-49ff-815a-f2deed3322ca

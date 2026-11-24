@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_difference_quotient_rule_holds
 -- name    : Formalism.L2.Th1.B.difference_quotient_rule_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:59.496957+00:00
 -- url     : https://prove2.me/theorems/c617c90c-99ce-4a28-851f-b85d069456e8

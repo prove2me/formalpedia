@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_WfrS_isom
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.WfrS_isom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:15.531099+00:00
 -- url     : https://prove2.me/theorems/1173b773-071d-474e-a514-763f2aad84f3

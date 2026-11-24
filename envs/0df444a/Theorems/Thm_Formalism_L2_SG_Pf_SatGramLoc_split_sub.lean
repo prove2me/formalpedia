@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_SatGramLoc_split_sub
 -- name    : Formalism.L2.SG.Pf.SatGramLoc.split_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:07.335838+00:00
 -- url     : https://prove2.me/theorems/3fbd845c-90ce-4819-9b4c-e96082de982a

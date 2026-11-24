@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Power_ratio
 -- name    : Formalism.L2.Th1.E.Power.ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:00.871602+00:00
 -- url     : https://prove2.me/theorems/fcf8f656-c8a2-4fa1-9cfb-f5ce862505ff

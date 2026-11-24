@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Homog_wp_scale
 -- name    : Formalism.L2.Th1.F.Homog.wp_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:56.438847+00:00
 -- url     : https://prove2.me/theorems/45dd9ed1-f3ab-4b95-99bf-261d5071c675

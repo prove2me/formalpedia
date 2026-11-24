@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ProjectiveLineModels_line_rank_sum_eq
 -- name    : Formalism.LFunctionChainParameters.ProjectiveLineModels.line_rank_sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:28.542806+00:00
 -- url     : https://prove2.me/theorems/8e7751d4-8f85-4980-bd15-f35c826b9d79

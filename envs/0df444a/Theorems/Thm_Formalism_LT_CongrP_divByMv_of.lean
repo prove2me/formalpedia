@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_CongrP_divByMv_of
 -- name    : Formalism.LT.CongrP.divByMv_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:51:13.475247+00:00
 -- url     : https://prove2.me/theorems/23ba3bdd-0752-4590-9964-c9c576e66df6

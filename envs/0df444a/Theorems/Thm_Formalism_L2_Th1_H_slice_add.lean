@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_slice_add
 -- name    : Formalism.L2.Th1.H.slice_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:18.378579+00:00
 -- url     : https://prove2.me/theorems/d134a6a5-67fe-447d-90e3-23eb529984af

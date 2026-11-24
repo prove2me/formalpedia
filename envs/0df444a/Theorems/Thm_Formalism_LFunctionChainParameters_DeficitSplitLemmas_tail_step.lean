@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_tail_step
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.tail_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:32.006799+00:00
 -- url     : https://prove2.me/theorems/8acae489-b0c4-4d37-bb70-af242d95e0fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_cube_identity
 -- name    : Formalism.L2.Th1.B.cube_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:48:27.165803+00:00
 -- url     : https://prove2.me/theorems/7e90d0fd-bfb8-4a48-a3b4-100653957c73

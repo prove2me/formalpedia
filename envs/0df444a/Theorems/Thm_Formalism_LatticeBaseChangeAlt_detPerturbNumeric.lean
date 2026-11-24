@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_detPerturbNumeric
 -- name    : Formalism.LatticeBaseChangeAlt.detPerturbNumeric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:51:52.272481+00:00
 -- url     : https://prove2.me/theorems/7dcb08c8-8c19-4f15-b282-50e831a38592

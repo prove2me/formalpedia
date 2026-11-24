@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_gHadamard
 -- name    : Formalism.LatticeBaseChangeAlt.gHadamard
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:31.631252+00:00
 -- url     : https://prove2.me/theorems/2e024f66-51a1-4142-a963-192dc48433fa

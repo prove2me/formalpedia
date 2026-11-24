@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PeriodLatticeBasisLemmas_coords_half
 -- name    : Formalism.L2.Th1.F.PeriodLatticeBasisLemmas.coords_half
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:17.999797+00:00
 -- url     : https://prove2.me/theorems/5eb4f682-4cfd-4ad6-ad4d-eb8f5c3c7ca6

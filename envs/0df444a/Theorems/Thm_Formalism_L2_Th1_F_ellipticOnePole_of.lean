@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ellipticOnePole_of
 -- name    : Formalism.L2.Th1.F.ellipticOnePole_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:31.736971+00:00
 -- url     : https://prove2.me/theorems/f594118f-57a1-436b-b630-4f02453de348

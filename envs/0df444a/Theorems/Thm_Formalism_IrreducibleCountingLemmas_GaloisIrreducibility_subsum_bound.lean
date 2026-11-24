@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_subsum_bound
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.subsum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:19.773799+00:00
 -- url     : https://prove2.me/theorems/8be0d7d1-200c-404a-bb0b-a5363ab57a08

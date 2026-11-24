@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_SigmaLog_logDeriv_wFactor
 -- name    : Formalism.L2.Th1.F.SigmaLog.logDeriv_wFactor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:50.579514+00:00
 -- url     : https://prove2.me/theorems/1297cf0e-07c6-4de6-a908-7c8f94918248

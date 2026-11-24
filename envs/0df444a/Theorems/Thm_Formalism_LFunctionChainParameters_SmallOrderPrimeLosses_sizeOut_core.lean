@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SmallOrderPrimeLosses_sizeOut_core
 -- name    : Formalism.LFunctionChainParameters.SmallOrderPrimeLosses.sizeOut_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:50:21.089495+00:00
 -- url     : https://prove2.me/theorems/0cc18b2d-4174-4b44-9629-202430d260d5

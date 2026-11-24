@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_WpSh_clearedM_of_ode
 -- name    : Formalism.L2.Th1.A.WpSh.clearedM_of_ode
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:18:39.776831+00:00
 -- url     : https://prove2.me/theorems/4eef3ba0-bccc-4456-8311-36d7a041455f

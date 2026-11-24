@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ProjectiveLineModels_hs_sq_one
 -- name    : Formalism.LFunctionChainParameters.ProjectiveLineModels.hs_sq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:33.814061+00:00
 -- url     : https://prove2.me/theorems/fd21081e-78ea-4757-b366-d1a131f639dd

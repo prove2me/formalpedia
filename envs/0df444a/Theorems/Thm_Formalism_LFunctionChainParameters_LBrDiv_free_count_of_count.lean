@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_free_count_of_count
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.free_count_of_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:53.219199+00:00
 -- url     : https://prove2.me/theorems/701cb525-7a31-4abe-b024-5a7ea9c33c43

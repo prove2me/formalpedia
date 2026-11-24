@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_QuadraticFlow_der_ofNat
 -- name    : Formalism.L2.Th1.A.QuadraticFlow.der_ofNat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:31.752805+00:00
 -- url     : https://prove2.me/theorems/84d25124-a3fb-4228-a120-29baf79f1a22

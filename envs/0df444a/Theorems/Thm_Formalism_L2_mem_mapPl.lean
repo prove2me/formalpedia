@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_mem_mapPl
 -- name    : Formalism.L2.mem_mapPl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:39.14111+00:00
 -- url     : https://prove2.me/theorems/62c1b37b-fb95-4163-ad60-da725acf7139

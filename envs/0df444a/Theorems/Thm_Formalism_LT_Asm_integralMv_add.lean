@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_Asm_integralMv_add
 -- name    : Formalism.LT.Asm.integralMv_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:50:04.196594+00:00
 -- url     : https://prove2.me/theorems/500f361d-f7d2-4996-80a6-675499dfb85e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThreeTermRelation_twistedGamma_analyticAt_zero
 -- name    : Formalism.L2.Th1.F.ThreeTermRelation.twistedGamma_analyticAt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:27:16.501997+00:00
 -- url     : https://prove2.me/theorems/6f590bd0-ad74-449e-bf81-2d761a9ecb8a

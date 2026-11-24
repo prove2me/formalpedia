@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LatticeToWeightTransfer_Model_HHV_pos
 -- name    : Formalism.LFunctionChainParameters.LatticeToWeightTransfer.Model.HHV_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:53.979141+00:00
 -- url     : https://prove2.me/theorems/de0bd0b5-89a5-4672-84b4-1e77fdc237e2

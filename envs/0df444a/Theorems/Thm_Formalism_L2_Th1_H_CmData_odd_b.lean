@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_CmData_odd_b
 -- name    : Formalism.L2.Th1.H.CmData.odd_b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:14.592341+00:00
 -- url     : https://prove2.me/theorems/09a63d82-1732-45ad-9e7a-44b7dca289f6

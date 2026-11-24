@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_compl_uF
 -- name    : Formalism.LFunctionChainParameters.LChain.compl_uF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:03:26.890353+00:00
 -- url     : https://prove2.me/theorems/e4ff6efe-3df8-4afc-884c-78f8026c4a71

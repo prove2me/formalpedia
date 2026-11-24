@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Sq_fExp_even
 -- name    : Formalism.L2.Th1.B.Sq.fExp_even
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:22:04.114156+00:00
 -- url     : https://prove2.me/theorems/dbe3512c-33e8-48bc-9e29-f7ccde6c7818

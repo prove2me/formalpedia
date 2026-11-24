@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_LieAlg_fg_eq_span_singleton
 -- name    : Formalism.L2.Pj.LieAlg.fg_eq_span_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:02.954974+00:00
 -- url     : https://prove2.me/theorems/da15ee73-1a0c-4945-8d2e-d3e0c3ee59cd

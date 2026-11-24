@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_exists_sys_isT
 -- name    : Formalism.L2.FormalSeriesBounds.RF.exists_sys_isT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:51:48.80439+00:00
 -- url     : https://prove2.me/theorems/e7f30e33-39bd-4b13-8286-8ff24db3e230

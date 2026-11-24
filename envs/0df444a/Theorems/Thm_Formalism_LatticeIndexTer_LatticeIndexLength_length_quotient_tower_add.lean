@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_LatticeIndexLength_length_quotient_tower_add
 -- name    : Formalism.LatticeIndexTer.LatticeIndexLength.length_quotient_tower_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:43.821211+00:00
 -- url     : https://prove2.me/theorems/11770771-75be-4711-9638-f7f88718b3de

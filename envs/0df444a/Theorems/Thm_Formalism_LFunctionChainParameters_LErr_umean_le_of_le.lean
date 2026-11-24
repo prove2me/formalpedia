@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LErr_umean_le_of_le
 -- name    : Formalism.LFunctionChainParameters.LErr.umean_le_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:39.827568+00:00
 -- url     : https://prove2.me/theorems/d71db1e2-9f89-4e4f-944a-af7c202315e1

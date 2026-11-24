@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_gelfand_tsetlin_pieri
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.gelfand_tsetlin_pieri
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:39:53.863909+00:00
 -- url     : https://prove2.me/theorems/15d2c7b8-0aaa-476d-9c84-30a721c62e17

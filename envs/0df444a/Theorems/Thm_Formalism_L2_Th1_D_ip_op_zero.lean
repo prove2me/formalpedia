@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_ip_op_zero
 -- name    : Formalism.L2.Th1.D.ip_op_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:01.726359+00:00
 -- url     : https://prove2.me/theorems/efdeb3ba-6226-4509-99e3-4beaa3347478

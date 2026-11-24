@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_product_first_zeroth_parts_length_quot_le_of_pow_smul
 -- name    : Formalism.LogVandermondeBounds.product_first_zeroth_parts.length_quot_le_of_pow_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:40.977447+00:00
 -- url     : https://prove2.me/theorems/89761900-b691-4ecb-baac-3d24757fbaca

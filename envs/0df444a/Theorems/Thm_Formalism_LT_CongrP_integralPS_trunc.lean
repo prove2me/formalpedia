@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_CongrP_integralPS_trunc
 -- name    : Formalism.LT.CongrP.integralPS_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:31.125945+00:00
 -- url     : https://prove2.me/theorems/6ee0a6c9-603a-478d-81af-325792dc52bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_idealSmul_le_span
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.idealSmul_le_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:42.019541+00:00
 -- url     : https://prove2.me/theorems/84a0109e-c408-45e4-b6ba-e389c531a2ee

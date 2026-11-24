@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_B4_subst_first_sum_even
 -- name    : Formalism.L2.Th1.D.B4.subst_first_sum_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:25:35.935649+00:00
 -- url     : https://prove2.me/theorems/0ad6c2f4-c329-4bcd-ac2c-7ee34e4736a7

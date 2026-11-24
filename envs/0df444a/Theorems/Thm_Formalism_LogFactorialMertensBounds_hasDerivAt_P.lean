@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogFactorialMertensBounds_hasDerivAt_P
 -- name    : Formalism.LogFactorialMertensBounds.hasDerivAt_P
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:52:32.250523+00:00
 -- url     : https://prove2.me/theorems/9e72c80e-b2bf-428e-9a5f-b2d695f3722a

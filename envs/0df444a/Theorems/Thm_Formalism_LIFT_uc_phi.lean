@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_uc_phi
 -- name    : Formalism.LIFT.uc_phi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:05.721342+00:00
 -- url     : https://prove2.me/theorems/c68a7c49-afa2-4188-8a7d-1adedfbb1bf5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_Model_log_wM
 -- name    : Formalism.LFunctionChainParameters.LChain.Model.log_wM
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:52.0758+00:00
 -- url     : https://prove2.me/theorems/56b2428b-1e81-48b1-9e84-ede7798cb836

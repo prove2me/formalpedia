@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_Asm_psubst_zero
 -- name    : Formalism.LT.Asm.psubst_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:51:16.969568+00:00
 -- url     : https://prove2.me/theorems/d5cd1bd0-f796-489b-af0e-36f5a2417c91

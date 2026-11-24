@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Ser_intS_sub
 -- name    : Formalism.L2.Th1.E.Ser.intS_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:13.942958+00:00
 -- url     : https://prove2.me/theorems/4a4912ad-c910-4adc-bea6-1c7d30552dbc

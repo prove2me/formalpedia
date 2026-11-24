@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_lGSubst_of
 -- name    : Formalism.L2.Th1.C.lGSubst_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:53.098797+00:00
 -- url     : https://prove2.me/theorems/dfdd2f58-0c40-4e3d-985b-e9d18d61e073

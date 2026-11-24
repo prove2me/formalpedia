@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WCC_core
 -- name    : Formalism.HermitianLattices.Ext.L3.WCC.core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:31:45.240741+00:00
 -- url     : https://prove2.me/theorems/0d51f920-cd1a-41ce-9f92-e758d7f32cbb

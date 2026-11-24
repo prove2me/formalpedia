@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_ind_sum_le
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.ind_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:20.019266+00:00
 -- url     : https://prove2.me/theorems/c3094450-ef00-4976-a751-59c5c984de77

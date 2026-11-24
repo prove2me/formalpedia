@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_AN_norm_cosetMean_le
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.AN.norm_cosetMean_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:50:20.164617+00:00
 -- url     : https://prove2.me/theorems/63ff497c-4a5c-4024-a985-2d0eed9b4938

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NGCut_TorsionTotientBound_le_two_totient_sq
 -- name    : Formalism.L2.SG.NGCut.TorsionTotientBound.le_two_totient_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:20.136984+00:00
 -- url     : https://prove2.me/theorems/cb0e2cf0-f303-4d68-a2b8-44ceb5b149fd

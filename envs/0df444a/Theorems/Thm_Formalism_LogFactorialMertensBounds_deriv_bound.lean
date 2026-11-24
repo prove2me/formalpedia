@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogFactorialMertensBounds_deriv_bound
 -- name    : Formalism.LogFactorialMertensBounds.deriv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:08.400576+00:00
 -- url     : https://prove2.me/theorems/943f8aa5-f2e3-41fa-afc7-e3bc5a8af64c

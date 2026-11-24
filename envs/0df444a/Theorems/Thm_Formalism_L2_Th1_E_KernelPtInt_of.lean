@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_KernelPtInt_of
 -- name    : Formalism.L2.Th1.E.KernelPtInt_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:25.017746+00:00
 -- url     : https://prove2.me/theorems/752b98d2-9040-4115-bbc5-f65867a0af8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThreeTermRelation_threeTermDenom_eventually_ne
 -- name    : Formalism.L2.Th1.F.ThreeTermRelation.threeTermDenom_eventually_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:48:02.630066+00:00
 -- url     : https://prove2.me/theorems/bc9a2272-f760-4055-833c-949feefc73e7

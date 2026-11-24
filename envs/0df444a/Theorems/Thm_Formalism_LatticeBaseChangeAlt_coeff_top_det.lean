@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_coeff_top_det
 -- name    : Formalism.LatticeBaseChangeAlt.coeff_top_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:45.851999+00:00
 -- url     : https://prove2.me/theorems/d90c4595-6d7d-4f3d-bea0-cd140d51ba2b

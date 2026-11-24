@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_LemmaG_of
 -- name    : Formalism.L2.LamCM.LemmaG_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:40.167954+00:00
 -- url     : https://prove2.me/theorems/5bd2ee60-dd8e-47ca-b43d-696281b6cb5e

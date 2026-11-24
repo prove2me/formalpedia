@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_BeSumPf_sum_vla_log_fin
 -- name    : Formalism.L2.Pj.QAt.BeSumPf.sum_vla_log_fin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:04:14.34388+00:00
 -- url     : https://prove2.me/theorems/b9b4b10d-6d34-4665-90b4-bf7e909e9988

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PjFree_isVal_vAt
 -- name    : Formalism.L2.PjFree.isVal_vAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:06.466558+00:00
 -- url     : https://prove2.me/theorems/a7f9e09a-15c8-4d5a-a82e-33a7a30c8082

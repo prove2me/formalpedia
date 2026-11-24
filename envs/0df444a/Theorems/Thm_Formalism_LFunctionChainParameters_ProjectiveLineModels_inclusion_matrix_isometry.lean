@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ProjectiveLineModels_inclusion_matrix_isometry
 -- name    : Formalism.LFunctionChainParameters.ProjectiveLineModels.inclusion_matrix_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:05.212062+00:00
 -- url     : https://prove2.me/theorems/b5354d0d-0f14-436e-bc9f-64438d5d2f5d

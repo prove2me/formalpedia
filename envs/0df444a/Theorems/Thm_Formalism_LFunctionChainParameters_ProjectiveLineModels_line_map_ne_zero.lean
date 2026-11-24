@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ProjectiveLineModels_line_map_ne_zero
 -- name    : Formalism.LFunctionChainParameters.ProjectiveLineModels.line_map_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:12.566264+00:00
 -- url     : https://prove2.me/theorems/4d52b839-b48e-41eb-9573-25eb25890123

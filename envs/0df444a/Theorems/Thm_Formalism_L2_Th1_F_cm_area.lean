@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_cm_area
 -- name    : Formalism.L2.Th1.F.cm_area
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:26.412803+00:00
 -- url     : https://prove2.me/theorems/e1cc2975-8b69-4553-98df-9243346beb5d

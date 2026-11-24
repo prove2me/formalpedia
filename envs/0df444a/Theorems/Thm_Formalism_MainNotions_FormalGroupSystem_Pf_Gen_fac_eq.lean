@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_FormalGroupSystem_Pf_Gen_fac_eq
 -- name    : Formalism.MainNotions.FormalGroupSystem.Pf.Gen.fac_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:54:03.157802+00:00
 -- url     : https://prove2.me/theorems/fbb4b093-3d2c-4e54-a8f3-b9809c060b3e

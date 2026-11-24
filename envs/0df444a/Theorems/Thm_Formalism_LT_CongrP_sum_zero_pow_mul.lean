@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_CongrP_sum_zero_pow_mul
 -- name    : Formalism.LT.CongrP.sum_zero_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:51:11.440859+00:00
 -- url     : https://prove2.me/theorems/b3bcf7f6-2e68-496d-8231-a7a8ce4ec486

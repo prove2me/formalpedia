@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_MatrixLatticeEstimates_quadratic_matrix_fin_reindex
 -- name    : Formalism.LFunctionChainParameters.MatrixLatticeEstimates.quadratic_matrix_fin_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:40.417496+00:00
 -- url     : https://prove2.me/theorems/96795f1e-c940-43c6-befd-352dbc65404f

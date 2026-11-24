@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sigmaZero_of
 -- name    : Formalism.L2.Th1.F.sigmaZero_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:37.042941+00:00
 -- url     : https://prove2.me/theorems/27b9ef4c-4dc8-4ba1-b1bd-1fddf9791cb3

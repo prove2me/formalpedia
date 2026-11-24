@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_mul_early_letters_mod_p
 -- name    : Formalism.InvariantFactorPaths.L4.mul_early_letters_mod_p
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:02:28.584372+00:00
 -- url     : https://prove2.me/theorems/0310c1c6-1ee0-4d9a-ba81-6e80faa52713

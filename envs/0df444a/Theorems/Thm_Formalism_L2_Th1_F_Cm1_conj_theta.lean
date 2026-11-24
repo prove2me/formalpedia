@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Cm1_conj_theta
 -- name    : Formalism.L2.Th1.F.Cm1.conj_theta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:19.894933+00:00
 -- url     : https://prove2.me/theorems/176b335f-088a-458d-8d01-ee6bbcd0a638

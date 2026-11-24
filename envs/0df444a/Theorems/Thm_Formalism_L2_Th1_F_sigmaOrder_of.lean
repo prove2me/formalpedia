@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sigmaOrder_of
 -- name    : Formalism.L2.Th1.F.sigmaOrder_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:09.659751+00:00
 -- url     : https://prove2.me/theorems/d0ef51a9-68a5-40b1-ac37-eb977a6ab280

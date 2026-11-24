@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_BN_charpoly_asAlgebraHom_eq_alt
 -- name    : Formalism.IrreducibleCountingLemmas.Z.BN.charpoly_asAlgebraHom_eq_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:31.92866+00:00
 -- url     : https://prove2.me/theorems/2478a208-4724-4e31-b7fb-262e16e043be

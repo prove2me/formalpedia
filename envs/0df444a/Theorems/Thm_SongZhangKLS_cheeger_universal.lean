@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SongZhangKLS_cheeger_universal
 -- name    : SongZhangKLS.cheeger_universal
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T08:34:23.089019+00:00
 -- url     : https://prove2.me/theorems/c94e37c1-0fbd-484b-9b06-4c1cf799b375

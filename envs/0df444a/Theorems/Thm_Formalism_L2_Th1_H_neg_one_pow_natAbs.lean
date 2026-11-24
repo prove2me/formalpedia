@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_neg_one_pow_natAbs
 -- name    : Formalism.L2.Th1.H.neg_one_pow_natAbs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:24.167366+00:00
 -- url     : https://prove2.me/theorems/c46c31f3-4a58-43ec-a7a8-47ee7cb67fa1

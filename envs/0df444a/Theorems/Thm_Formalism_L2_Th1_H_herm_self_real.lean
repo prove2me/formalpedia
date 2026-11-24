@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_herm_self_real
 -- name    : Formalism.L2.Th1.H.herm_self_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:49:02.897196+00:00
 -- url     : https://prove2.me/theorems/74e9a01e-4272-4733-a53b-9cf53763ca78

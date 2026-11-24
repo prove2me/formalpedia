@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Power_sum_sub
 -- name    : Formalism.L2.Th1.E.Power.sum_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:35.952843+00:00
 -- url     : https://prove2.me/theorems/c5d158bc-3a1c-435c-b0e4-1311505672ae

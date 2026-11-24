@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_prod_span_le_of_loc
 -- name    : Formalism.L2.LamCM.prod_span_le_of_loc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:48.711066+00:00
 -- url     : https://prove2.me/theorems/c1a80c09-de32-4fb9-b5fe-56e30cb220f5

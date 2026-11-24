@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_CoeffP_pow_sub_pow_bd
 -- name    : Formalism.LT.CoeffP.pow_sub_pow_bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:51:35.324981+00:00
 -- url     : https://prove2.me/theorems/8752ff55-e898-4a4c-8da0-5d8afaa47983

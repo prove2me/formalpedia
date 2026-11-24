@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TorusDerivation_geom_zero
 -- name    : Formalism.L2.Th1.D.TorusDerivation.geom_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:50.075471+00:00
 -- url     : https://prove2.me/theorems/790a1dc4-7368-4612-ad0b-65d2515eb43c

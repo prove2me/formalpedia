@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Dict_cob_eq
 -- name    : Formalism.L2.Th1.C.Dict.cob_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:28.268963+00:00
 -- url     : https://prove2.me/theorems/b45d1958-c8dc-4c9b-920a-669445d9edda

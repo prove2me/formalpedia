@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_packingCount
 -- name    : Formalism.LatticeBaseChangeAlt.packingCount
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:57.51226+00:00
 -- url     : https://prove2.me/theorems/5b05ba1c-43ed-4585-ae03-df666a750bd3

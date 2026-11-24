@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_KernelCokernelKilling_combo
 -- name    : Formalism.L2.Th1.D.KernelCokernelKilling.combo
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:25.367156+00:00
 -- url     : https://prove2.me/theorems/1d62f73c-52b2-4730-9662-0caa2cb18803

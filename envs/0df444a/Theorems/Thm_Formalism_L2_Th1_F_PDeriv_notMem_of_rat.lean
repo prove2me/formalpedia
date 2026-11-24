@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PDeriv_notMem_of_rat
 -- name    : Formalism.L2.Th1.F.PDeriv.notMem_of_rat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:36.171683+00:00
 -- url     : https://prove2.me/theorems/0e703239-c25e-472f-ba0e-615445c3845b

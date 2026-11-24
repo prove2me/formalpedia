@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_CompFin_isNoetherian_XF
 -- name    : Formalism.L2.Pj.CompFin.isNoetherian_XF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:25.016668+00:00
 -- url     : https://prove2.me/theorems/aed3ee8b-9464-4b38-b05c-2933ec373bd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_fock_pairing_divided_adjoint
 -- name    : Formalism.L2.G.Model.TS.fock_pairing_divided_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:16.908561+00:00
 -- url     : https://prove2.me/theorems/b432962d-4df9-4a78-96c0-60f7e10e195e

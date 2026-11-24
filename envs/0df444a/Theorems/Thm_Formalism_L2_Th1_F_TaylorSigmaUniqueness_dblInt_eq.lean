@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_TaylorSigmaUniqueness_dblInt_eq
 -- name    : Formalism.L2.Th1.F.TaylorSigmaUniqueness.dblInt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:47.675295+00:00
 -- url     : https://prove2.me/theorems/a31f938b-0d08-4834-9aed-86d58a26efe8

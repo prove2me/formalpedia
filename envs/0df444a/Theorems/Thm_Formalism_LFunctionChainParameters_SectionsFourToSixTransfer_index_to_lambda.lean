@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SectionsFourToSixTransfer_index_to_lambda
 -- name    : Formalism.LFunctionChainParameters.SectionsFourToSixTransfer.index_to_lambda
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:55.599805+00:00
 -- url     : https://prove2.me/theorems/1a9f7827-94ae-469c-b389-eeb94f9233c5

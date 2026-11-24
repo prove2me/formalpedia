@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_zeta_has_deriv
 -- name    : Formalism.L2.Th1.F.zeta_has_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:27:46.198867+00:00
 -- url     : https://prove2.me/theorems/af8793d0-ef78-4acb-8336-b9659e635e83

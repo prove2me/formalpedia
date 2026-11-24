@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_CovariantRepresentation_map_conj_of_bounded
 -- name    : Formalism.L2.SG.CovariantRepresentation.map_conj_of_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:15.716647+00:00
 -- url     : https://prove2.me/theorems/fd5e70f7-325f-45dc-b8c4-82472d2d725f

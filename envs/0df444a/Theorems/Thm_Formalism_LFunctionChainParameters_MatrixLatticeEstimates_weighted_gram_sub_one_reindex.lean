@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_MatrixLatticeEstimates_weighted_gram_sub_one_reindex
 -- name    : Formalism.LFunctionChainParameters.MatrixLatticeEstimates.weighted_gram_sub_one_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:54.37368+00:00
 -- url     : https://prove2.me/theorems/9351255d-6078-4255-ac5c-b0ddbc1de634

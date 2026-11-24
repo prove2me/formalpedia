@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_up_vand_le
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.up_vand_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:25.111625+00:00
 -- url     : https://prove2.me/theorems/31f00907-bd83-41ba-83a3-0ed71002db58

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_principal_minor_factor
 -- name    : Formalism.LatticeBaseChangeAlt.principal_minor_factor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:55.03057+00:00
 -- url     : https://prove2.me/theorems/725e9c71-1a3a-4f76-9c08-952a791847f6

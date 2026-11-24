@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_hadamard_of_le
 -- name    : Formalism.L2.LamCM.hadamard_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:33.967747+00:00
 -- url     : https://prove2.me/theorems/7fe9bf17-2391-496f-8519-1b1f72c2fc89

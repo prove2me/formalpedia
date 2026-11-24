@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_high_bucket_bound
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.high_bucket_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:28.743623+00:00
 -- url     : https://prove2.me/theorems/8fcfe93a-eb8b-4602-8d38-2733c500cf6b

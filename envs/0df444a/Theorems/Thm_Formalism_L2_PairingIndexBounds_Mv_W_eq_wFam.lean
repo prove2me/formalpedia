@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PairingIndexBounds_Mv_W_eq_wFam
 -- name    : Formalism.L2.PairingIndexBounds.Mv.W_eq_wFam
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:26.557191+00:00
 -- url     : https://prove2.me/theorems/ba6dfe52-06fa-4600-984c-6c3519fb4e6a

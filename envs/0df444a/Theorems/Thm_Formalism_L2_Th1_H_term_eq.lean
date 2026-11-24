@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_term_eq
 -- name    : Formalism.L2.Th1.H.term_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:18.615815+00:00
 -- url     : https://prove2.me/theorems/67d9a71f-5340-4251-af12-157cc21b0228

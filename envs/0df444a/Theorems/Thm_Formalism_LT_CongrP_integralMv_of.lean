@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_CongrP_integralMv_of
 -- name    : Formalism.LT.CongrP.integralMv_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:51:22.473789+00:00
 -- url     : https://prove2.me/theorems/d61495e2-e574-4aa2-a3e8-1a479345c6f4

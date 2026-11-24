@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FundamentalDomainD5_trace_id
 -- name    : Formalism.L2.Pj.FundamentalDomainD5.trace_id
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:40.19071+00:00
 -- url     : https://prove2.me/theorems/02cf3cbc-3f67-482d-9191-b95e26dcc4f8

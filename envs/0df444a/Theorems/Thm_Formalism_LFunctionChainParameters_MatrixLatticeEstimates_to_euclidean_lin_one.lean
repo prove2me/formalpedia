@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_MatrixLatticeEstimates_to_euclidean_lin_one
 -- name    : Formalism.LFunctionChainParameters.MatrixLatticeEstimates.to_euclidean_lin_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:03:20.070213+00:00
 -- url     : https://prove2.me/theorems/c3fbd38f-e40f-4e34-8234-522055879305

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_IsogenySigmaQuotient_fac_add
 -- name    : Formalism.L2.Th1.F.IsogenySigmaQuotient.fac_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:36.554872+00:00
 -- url     : https://prove2.me/theorems/b57ba206-644c-455d-90b3-2e40674ba26a

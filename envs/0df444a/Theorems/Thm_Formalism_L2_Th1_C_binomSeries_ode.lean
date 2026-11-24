@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_binomSeries_ode
 -- name    : Formalism.L2.Th1.C.binomSeries_ode
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:38.092892+00:00
 -- url     : https://prove2.me/theorems/68413ca4-cfd0-420c-883a-af16c45e22f4

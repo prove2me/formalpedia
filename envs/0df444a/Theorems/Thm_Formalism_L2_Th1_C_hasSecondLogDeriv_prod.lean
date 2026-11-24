@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_hasSecondLogDeriv_prod
 -- name    : Formalism.L2.Th1.C.hasSecondLogDeriv_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:50.409239+00:00
 -- url     : https://prove2.me/theorems/7511e77d-e0ef-40b6-820e-265f05349c71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_iteratedDeriv_line
 -- name    : Formalism.L2.Th1.H.iteratedDeriv_line
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:36.716412+00:00
 -- url     : https://prove2.me/theorems/f2f2f842-0df5-4f90-a58a-661b60691603

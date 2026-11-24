@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_L6_UnitaryStandardVectors_isUB_A
 -- name    : Formalism.L2.S.L6.UnitaryStandardVectors.isUB_A
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:27:31.042632+00:00
 -- url     : https://prove2.me/theorems/150c6789-7a68-4add-9503-fee580098ab0

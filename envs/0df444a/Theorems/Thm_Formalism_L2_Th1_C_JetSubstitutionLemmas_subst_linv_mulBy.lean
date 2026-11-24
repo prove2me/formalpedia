@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_JetSubstitutionLemmas_subst_linv_mulBy
 -- name    : Formalism.L2.Th1.C.JetSubstitutionLemmas.subst_linv_mulBy
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:27.525541+00:00
 -- url     : https://prove2.me/theorems/f916d245-b150-4962-b6ce-ad0f5b4f7ff3

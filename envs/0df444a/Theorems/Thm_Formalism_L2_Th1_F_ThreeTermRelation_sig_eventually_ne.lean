@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThreeTermRelation_sig_eventually_ne
 -- name    : Formalism.L2.Th1.F.ThreeTermRelation.sig_eventually_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:17.782147+00:00
 -- url     : https://prove2.me/theorems/6978b90f-8e15-4d9b-840a-01e55552bb4f

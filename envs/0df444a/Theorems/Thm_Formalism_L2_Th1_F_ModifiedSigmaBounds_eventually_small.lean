@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ModifiedSigmaBounds_eventually_small
 -- name    : Formalism.L2.Th1.F.ModifiedSigmaBounds.eventually_small
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:34.496346+00:00
 -- url     : https://prove2.me/theorems/2b5e69f2-39fd-4103-a5a7-9c5cf54bc67c

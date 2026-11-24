@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_LatticeIndexDeterminant_length_tower
 -- name    : Formalism.LatticeIndexTer.LatticeIndexDeterminant.length_tower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:42.18725+00:00
 -- url     : https://prove2.me/theorems/0ac2df57-d1b2-4211-b0c5-0936f1b927d2

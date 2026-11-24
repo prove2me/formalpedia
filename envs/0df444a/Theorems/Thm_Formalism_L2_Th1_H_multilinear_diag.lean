@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_multilinear_diag
 -- name    : Formalism.L2.Th1.H.multilinear_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:23.163188+00:00
 -- url     : https://prove2.me/theorems/21d4a488-4de1-435c-8a6d-eff5dda51106

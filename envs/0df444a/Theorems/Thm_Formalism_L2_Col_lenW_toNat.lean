@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_lenW_toNat
 -- name    : Formalism.L2.Col.lenW_toNat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:46.6648+00:00
 -- url     : https://prove2.me/theorems/00c9ce63-8eaa-46d1-9b3b-888af8543bd3

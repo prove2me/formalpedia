@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_EtaEis_core
 -- name    : Formalism.L2.Th1.F.EtaEis.core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:48:21.256848+00:00
 -- url     : https://prove2.me/theorems/5a394dd9-1fff-499f-b531-dca8d51df20c

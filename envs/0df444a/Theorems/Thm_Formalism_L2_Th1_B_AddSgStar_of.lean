@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_AddSgStar_of
 -- name    : Formalism.L2.Th1.B.AddSgStar_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:03:14.412818+00:00
 -- url     : https://prove2.me/theorems/30c24752-80cf-42e2-9a4a-9e2f39186a6c

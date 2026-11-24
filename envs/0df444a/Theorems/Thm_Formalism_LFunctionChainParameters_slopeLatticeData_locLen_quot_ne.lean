@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_locLen_quot_ne
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.locLen_quot_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:50:32.613017+00:00
 -- url     : https://prove2.me/theorems/db19e782-cbf6-4eb6-bc63-d732812b927b

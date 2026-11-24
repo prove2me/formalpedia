@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Cm2_form_even_iff
 -- name    : Formalism.L2.Th1.F.Cm2.form_even_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:08.401556+00:00
 -- url     : https://prove2.me/theorems/1ee4ac8c-00a4-490e-bce6-af6df21a9f39

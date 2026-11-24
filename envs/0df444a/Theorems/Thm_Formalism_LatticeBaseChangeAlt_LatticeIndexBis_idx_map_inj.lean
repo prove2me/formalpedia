@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_LatticeIndexBis_idx_map_inj
 -- name    : Formalism.LatticeBaseChangeAlt.LatticeIndexBis.idx_map_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:51:58.200879+00:00
 -- url     : https://prove2.me/theorems/0f58dc82-b24c-4152-b581-cc758eb73b15

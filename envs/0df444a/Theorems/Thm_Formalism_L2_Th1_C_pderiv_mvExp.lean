@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_pderiv_mvExp
 -- name    : Formalism.L2.Th1.C.pderiv_mvExp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:57.849816+00:00
 -- url     : https://prove2.me/theorems/eb1f5dd1-c555-48ff-a945-786ac6945123

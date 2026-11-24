@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sgStarQuasi_of
 -- name    : Formalism.L2.Th1.F.sgStarQuasi_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:35.467594+00:00
 -- url     : https://prove2.me/theorems/6e6550ed-6954-4b0b-83a1-51d8ae8454f8

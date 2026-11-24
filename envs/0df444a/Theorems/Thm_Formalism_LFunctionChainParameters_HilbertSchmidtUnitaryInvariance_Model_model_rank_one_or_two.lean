@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_Model_model_rank_one_or_two
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.Model.model_rank_one_or_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:27.718677+00:00
 -- url     : https://prove2.me/theorems/c7c00b99-e001-4d2a-97c3-af1655f67439

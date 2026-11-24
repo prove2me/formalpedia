@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_IsDer_map_pow
 -- name    : Formalism.L2.Th1.A.IsDer.map_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:31:34.334419+00:00
 -- url     : https://prove2.me/theorems/6d028b01-1886-4643-95a2-c09db233334a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_divisibility_free_at
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.divisibility_free_at
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:03:13.351161+00:00
 -- url     : https://prove2.me/theorems/58d46897-57e2-4fe5-bdb6-2a9e0deb44e0

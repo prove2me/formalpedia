@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_CoeffP_Bd_mul_natCast
 -- name    : Formalism.LT.CoeffP.Bd.mul_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:51:25.092882+00:00
 -- url     : https://prove2.me/theorems/611ba36a-c828-4b3d-81ea-d398365c59af

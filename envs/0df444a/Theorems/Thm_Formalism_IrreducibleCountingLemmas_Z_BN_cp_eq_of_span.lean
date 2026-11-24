@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_BN_cp_eq_of_span
 -- name    : Formalism.IrreducibleCountingLemmas.Z.BN.cp_eq_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:36.733546+00:00
 -- url     : https://prove2.me/theorems/f843763a-4c44-4622-aec2-0d16cc374c31

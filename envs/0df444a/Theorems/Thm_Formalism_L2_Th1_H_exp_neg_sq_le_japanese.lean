@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_exp_neg_sq_le_japanese
 -- name    : Formalism.L2.Th1.H.exp_neg_sq_le_japanese
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:48.985173+00:00
 -- url     : https://prove2.me/theorems/7addc069-2dbd-4d19-a63d-3d243c2d5101

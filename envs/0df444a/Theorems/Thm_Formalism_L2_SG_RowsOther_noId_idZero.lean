@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RowsOther_noId_idZero
 -- name    : Formalism.L2.SG.RowsOther.noId_idZero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:19:44.2758+00:00
 -- url     : https://prove2.me/theorems/d75b937a-1ad2-4f0d-93e8-c8502d045f90

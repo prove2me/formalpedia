@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_ExpP_norm_coeff_monomial_le
 -- name    : Formalism.LT.ExpP.norm_coeff_monomial_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:20.149159+00:00
 -- url     : https://prove2.me/theorems/ccf6009b-4806-4aeb-b977-789e290ccd5e

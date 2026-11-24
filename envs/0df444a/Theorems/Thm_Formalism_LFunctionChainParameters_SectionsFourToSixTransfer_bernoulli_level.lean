@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SectionsFourToSixTransfer_bernoulli_level
 -- name    : Formalism.LFunctionChainParameters.SectionsFourToSixTransfer.bernoulli_level
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:42.196182+00:00
 -- url     : https://prove2.me/theorems/823a5a44-e034-429e-9238-ce667f05d126

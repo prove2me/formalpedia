@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_wave_equation_unique
 -- name    : Formalism.L2.Th1.B.wave_equation_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:50.145691+00:00
 -- url     : https://prove2.me/theorems/75c49cde-cd0d-401d-9531-07152d4bd836

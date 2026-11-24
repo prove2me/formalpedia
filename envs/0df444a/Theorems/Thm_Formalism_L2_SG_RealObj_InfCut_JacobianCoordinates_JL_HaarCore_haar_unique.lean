@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RealObj_InfCut_JacobianCoordinates_JL_HaarCore_haar_unique
 -- name    : Formalism.L2.SG.RealObj.InfCut.JacobianCoordinates.JL.HaarCore.haar_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:33.407469+00:00
 -- url     : https://prove2.me/theorems/2a5ee677-49c0-457a-ad25-976d4da57376

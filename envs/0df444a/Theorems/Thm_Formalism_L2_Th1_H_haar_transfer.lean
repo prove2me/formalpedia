@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_haar_transfer
 -- name    : Formalism.L2.Th1.H.haar_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:17.801491+00:00
 -- url     : https://prove2.me/theorems/3e12eaea-f198-48d3-9b4a-79a3f3caa368

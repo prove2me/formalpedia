@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_cm_half_lattice_iff
 -- name    : Formalism.L2.Th1.F.cm_half_lattice_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:30.0588+00:00
 -- url     : https://prove2.me/theorems/7af154fd-e871-4954-ac59-8df95b1747d8

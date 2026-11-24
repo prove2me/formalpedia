@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PeriodLatticeBasisLemmas_add_notMem
 -- name    : Formalism.L2.Th1.F.PeriodLatticeBasisLemmas.add_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:23.890458+00:00
 -- url     : https://prove2.me/theorems/02670df9-4395-405b-ad12-76155d7cd7a7

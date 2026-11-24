@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Power_scaled_x_eq_off_origin
 -- name    : Formalism.L2.Th1.E.Power.scaled_x_eq_off_origin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:35.802951+00:00
 -- url     : https://prove2.me/theorems/08de5bd5-b9cd-4315-a998-b3e1925b2562

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_ColsDim_sharp_bijective
 -- name    : Formalism.L2.SG.ColsDim.sharp_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:41.019099+00:00
 -- url     : https://prove2.me/theorems/e6ea4ae7-73b5-42a5-96bd-6333f5327d6e

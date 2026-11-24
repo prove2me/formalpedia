@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_LatticeIndexValuation_length_map_inj
 -- name    : Formalism.LatticeIndexTer.LatticeIndexValuation.length_map_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:37.234781+00:00
 -- url     : https://prove2.me/theorems/20507eea-9005-4bfa-aebf-8589269097fc

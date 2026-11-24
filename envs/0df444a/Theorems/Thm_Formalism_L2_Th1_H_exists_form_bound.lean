@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_exists_form_bound
 -- name    : Formalism.L2.Th1.H.exists_form_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:41.846266+00:00
 -- url     : https://prove2.me/theorems/a9656a11-4be4-4477-967a-69db330ad8d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Map_map_cob
 -- name    : Formalism.L2.Th1.B.Map.map_cob
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:54.978991+00:00
 -- url     : https://prove2.me/theorems/4427749f-1ff0-4049-ac8b-bc505a09ca64

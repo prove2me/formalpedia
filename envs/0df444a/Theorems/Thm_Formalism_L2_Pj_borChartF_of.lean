@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_borChartF_of
 -- name    : Formalism.L2.Pj.borChartF_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:37.991725+00:00
 -- url     : https://prove2.me/theorems/9f2e93fb-17c3-4161-9706-89365d9715dc

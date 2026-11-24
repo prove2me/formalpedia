@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_size_bad_orbits_bound
 -- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.size_bad_orbits_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:59.477943+00:00
 -- url     : https://prove2.me/theorems/9d1007a3-0c67-4f64-ad1f-41196c5766d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_wave_operator_kills
 -- name    : Formalism.L2.Th1.B.wave_operator_kills
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:35.872846+00:00
 -- url     : https://prove2.me/theorems/e77ded7a-8dfb-48db-9a2a-5576d2bfe475

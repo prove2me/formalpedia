@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_ExpP_norm_finsum_le
 -- name    : Formalism.LT.ExpP.norm_finsum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:51:06.276452+00:00
 -- url     : https://prove2.me/theorems/aa1a0e3f-8b2d-42fc-9f8e-ac4c392fef60

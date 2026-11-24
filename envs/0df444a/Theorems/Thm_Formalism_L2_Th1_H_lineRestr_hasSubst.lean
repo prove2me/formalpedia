@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_lineRestr_hasSubst
 -- name    : Formalism.L2.Th1.H.lineRestr_hasSubst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:04.438797+00:00
 -- url     : https://prove2.me/theorems/56f24494-c8ee-45f4-b54c-ef440acd534b

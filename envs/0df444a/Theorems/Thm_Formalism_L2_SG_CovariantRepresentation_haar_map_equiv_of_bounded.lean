@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_CovariantRepresentation_haar_map_equiv_of_bounded
 -- name    : Formalism.L2.SG.CovariantRepresentation.haar_map_equiv_of_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:08.555646+00:00
 -- url     : https://prove2.me/theorems/3b03d894-540f-41fb-8bb1-435f268450b0

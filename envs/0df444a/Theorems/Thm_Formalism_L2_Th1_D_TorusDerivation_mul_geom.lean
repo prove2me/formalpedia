@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TorusDerivation_mul_geom
 -- name    : Formalism.L2.Th1.D.TorusDerivation.mul_geom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:34.795737+00:00
 -- url     : https://prove2.me/theorems/29e47dde-f522-474b-928c-f45f6ecd3e92

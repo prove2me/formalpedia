@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_degree_norm_base
 -- name    : Formalism.L2.LamCM.degree_norm_base
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:09:40.242189+00:00
 -- url     : https://prove2.me/theorems/97387b79-c717-431c-b079-36eb7dec731f

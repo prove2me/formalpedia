@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_JetSubstitutionLemmas_hurwitz_mul
 -- name    : Formalism.L2.Th1.C.JetSubstitutionLemmas.hurwitz_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:21.492587+00:00
 -- url     : https://prove2.me/theorems/59e2076f-01db-4262-8133-e63f97f2d421

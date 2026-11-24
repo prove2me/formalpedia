@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_GcUnique_of
 -- name    : Formalism.InvariantFactorPaths.G7.GcUnique_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:24:47.871041+00:00
 -- url     : https://prove2.me/theorems/beec31f5-e476-4f40-8df1-fe3328773810

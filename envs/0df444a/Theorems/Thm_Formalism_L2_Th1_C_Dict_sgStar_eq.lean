@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Dict_sgStar_eq
 -- name    : Formalism.L2.Th1.C.Dict.sgStar_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:55.911505+00:00
 -- url     : https://prove2.me/theorems/da395994-8f74-4ebd-94d5-4dd4cf4e76a8

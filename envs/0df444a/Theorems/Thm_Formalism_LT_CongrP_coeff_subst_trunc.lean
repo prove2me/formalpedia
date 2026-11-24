@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_CongrP_coeff_subst_trunc
 -- name    : Formalism.LT.CongrP.coeff_subst_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:50:57.739924+00:00
 -- url     : https://prove2.me/theorems/9dd5676f-8ee6-4238-8adc-8c521b46f995

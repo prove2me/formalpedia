@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_product_first_zeroth_parts_trV_eq_zero
 -- name    : Formalism.LogVandermondeBounds.product_first_zeroth_parts.trV_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:46.281869+00:00
 -- url     : https://prove2.me/theorems/e4f5f941-83d6-4140-bd1d-b02076176008

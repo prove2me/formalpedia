@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_wtField_of_borChart
 -- name    : Formalism.L2.Pj.wtField_of_borChart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:02:58.456973+00:00
 -- url     : https://prove2.me/theorems/a3d0ac3e-4837-48e4-b0ac-6f16c584e92e

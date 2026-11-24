@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_OnePole_eq_of_eventuallyEq_nhdsNE
 -- name    : Formalism.L2.Th1.F.OnePole.eq_of_eventuallyEq_nhdsNE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:28.463818+00:00
 -- url     : https://prove2.me/theorems/cf827feb-aca8-462e-9c56-a5b712e4d34f

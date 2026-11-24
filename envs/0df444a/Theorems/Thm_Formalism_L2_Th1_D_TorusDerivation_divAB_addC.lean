@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TorusDerivation_divAB_addC
 -- name    : Formalism.L2.Th1.D.TorusDerivation.divAB_addC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:51.227391+00:00
 -- url     : https://prove2.me/theorems/1952cf0e-5f68-40dc-be69-7401f4b02107

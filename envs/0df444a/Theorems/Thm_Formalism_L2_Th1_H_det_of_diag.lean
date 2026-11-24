@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_det_of_diag
 -- name    : Formalism.L2.Th1.H.det_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:11.940805+00:00
 -- url     : https://prove2.me/theorems/43b43eda-9eed-42b4-bc26-81e5f0b72c65

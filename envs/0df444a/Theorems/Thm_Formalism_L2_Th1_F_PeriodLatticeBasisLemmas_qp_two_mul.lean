@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PeriodLatticeBasisLemmas_qp_two_mul
 -- name    : Formalism.L2.Th1.F.PeriodLatticeBasisLemmas.qp_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:47:54.063539+00:00
 -- url     : https://prove2.me/theorems/2a5e54bf-a538-415d-a1f8-2aff80ebab52

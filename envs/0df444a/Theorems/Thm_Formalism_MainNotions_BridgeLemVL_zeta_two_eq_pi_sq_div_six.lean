@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVL_zeta_two_eq_pi_sq_div_six
 -- name    : Formalism.MainNotions.BridgeLemVL.zeta_two_eq_pi_sq_div_six
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:05.396869+00:00
 -- url     : https://prove2.me/theorems/c869f42e-cea6-4d7b-b425-ab1adb6d285f

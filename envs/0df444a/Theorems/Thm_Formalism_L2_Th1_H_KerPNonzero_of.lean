@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_KerPNonzero_of
 -- name    : Formalism.L2.Th1.H.KerPNonzero_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:51.291632+00:00
 -- url     : https://prove2.me/theorems/f99c67fd-48c2-407a-9a86-137cf90659be

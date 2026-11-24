@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_band_count
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.band_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:03.577945+00:00
 -- url     : https://prove2.me/theorems/2d0dbcb2-46c9-4778-88d5-cb097bf9df41

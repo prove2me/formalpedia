@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RowsOther_rowNG_of_cut
 -- name    : Formalism.L2.SG.RowsOther.rowNG_of_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:19:51.548795+00:00
 -- url     : https://prove2.me/theorems/1229a10e-5f4c-4883-ab1b-81ffc0a162b2

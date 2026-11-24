@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_complexNoise_zero
 -- name    : MomentComparison.complexNoise_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:20:44.475831+00:00
 -- url     : https://prove2.me/theorems/e157a724-8bc7-4e32-a53f-68e73abeb71f

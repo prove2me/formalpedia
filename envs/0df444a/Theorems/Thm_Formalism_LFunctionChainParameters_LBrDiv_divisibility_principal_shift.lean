@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_divisibility_principal_shift
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.divisibility_principal_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:49:03.156548+00:00
 -- url     : https://prove2.me/theorems/955ab599-cfec-4199-95a1-7ed8eecc5219

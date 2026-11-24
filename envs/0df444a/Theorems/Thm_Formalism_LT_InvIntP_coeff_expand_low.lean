@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_InvIntP_coeff_expand_low
 -- name    : Formalism.LT.InvIntP.coeff_expand_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:50:51.537296+00:00
 -- url     : https://prove2.me/theorems/7acb0423-abf3-4477-826e-5482d045a4b6

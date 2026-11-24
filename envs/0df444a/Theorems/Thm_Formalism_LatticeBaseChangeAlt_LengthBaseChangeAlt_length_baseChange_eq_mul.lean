@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_LengthBaseChangeAlt_length_baseChange_eq_mul
 -- name    : Formalism.LatticeBaseChangeAlt.LengthBaseChangeAlt.length_baseChange_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:51:48.897701+00:00
 -- url     : https://prove2.me/theorems/25926801-739e-4223-b7ca-74b2f9eac2e1

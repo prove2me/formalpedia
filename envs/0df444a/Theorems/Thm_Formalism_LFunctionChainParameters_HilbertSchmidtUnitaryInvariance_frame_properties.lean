@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_frame_properties
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.frame_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:45.248504+00:00
 -- url     : https://prove2.me/theorems/06284e5a-a1c2-4f85-9eca-2f2480787725

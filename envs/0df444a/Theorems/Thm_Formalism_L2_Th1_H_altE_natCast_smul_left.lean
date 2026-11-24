@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_altE_natCast_smul_left
 -- name    : Formalism.L2.Th1.H.altE_natCast_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:49:29.15655+00:00
 -- url     : https://prove2.me/theorems/e70d2cdc-a0dc-4e4a-b8f1-29995fae47db

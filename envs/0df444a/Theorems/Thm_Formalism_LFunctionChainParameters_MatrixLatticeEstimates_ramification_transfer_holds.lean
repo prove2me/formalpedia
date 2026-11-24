@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_MatrixLatticeEstimates_ramification_transfer_holds
 -- name    : Formalism.LFunctionChainParameters.MatrixLatticeEstimates.ramification_transfer_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:03.199713+00:00
 -- url     : https://prove2.me/theorems/b80358a1-6aad-40c1-97df-cbae6cb4ceef

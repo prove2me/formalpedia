@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PeriodAreaSignLemmas_disc_ne_zero
 -- name    : Formalism.L2.Th1.F.PeriodAreaSignLemmas.disc_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:48:14.91779+00:00
 -- url     : https://prove2.me/theorems/c7ba9f4c-e645-4a37-a2bb-195622d8849e

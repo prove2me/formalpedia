@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_uc_pull_xn
 -- name    : Formalism.LIFT.uc_pull_xn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:12.664594+00:00
 -- url     : https://prove2.me/theorems/aac01690-a01f-47c3-8ab1-97419f61cb00

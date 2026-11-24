@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LandauMellinIdentity_imel_differentiableOn
 -- name    : Formalism.LandauMellinIdentity.imel_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:51:39.819946+00:00
 -- url     : https://prove2.me/theorems/8c8844bc-6072-469e-bc20-f42383a8fb73

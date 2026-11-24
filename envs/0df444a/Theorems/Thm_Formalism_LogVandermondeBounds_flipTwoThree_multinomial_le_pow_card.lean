@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_flipTwoThree_multinomial_le_pow_card
 -- name    : Formalism.LogVandermondeBounds.flipTwoThree.multinomial_le_pow_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:52:55.585182+00:00
 -- url     : https://prove2.me/theorems/630b97d6-6736-4c9f-86d0-098b7999aa28

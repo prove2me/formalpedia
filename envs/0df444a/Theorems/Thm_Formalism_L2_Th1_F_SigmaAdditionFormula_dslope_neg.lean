@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_SigmaAdditionFormula_dslope_neg
 -- name    : Formalism.L2.Th1.F.SigmaAdditionFormula.dslope_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:18.20565+00:00
 -- url     : https://prove2.me/theorems/4e38e3ee-5161-4938-81bd-9b3da4d09117

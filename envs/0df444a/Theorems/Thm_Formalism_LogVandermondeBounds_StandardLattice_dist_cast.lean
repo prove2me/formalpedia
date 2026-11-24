@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_dist_cast
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.dist_cast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:58.254707+00:00
 -- url     : https://prove2.me/theorems/f9f75452-f67f-4407-b167-9c1290efdeb2

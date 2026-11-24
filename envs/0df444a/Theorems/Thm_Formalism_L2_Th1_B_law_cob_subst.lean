@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_law_cob_subst
 -- name    : Formalism.L2.Th1.B.law_cob_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:13.291646+00:00
 -- url     : https://prove2.me/theorems/b3803356-fb41-4fbc-8b6c-3a8bd54ab23d

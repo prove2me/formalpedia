@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_RedC_mem_smul_of_smul_mem
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.RedC.mem_smul_of_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:47:01.473889+00:00
 -- url     : https://prove2.me/theorems/bd4fdcb4-f88e-4305-9a68-15a4335c45b9

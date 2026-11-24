@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_evalWD_fr
 -- name    : Formalism.L2.Pj.evalWD_fr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:58:49.244718+00:00
 -- url     : https://prove2.me/theorems/0a10bc83-f68a-4861-aa27-4ec6dd42bc2a

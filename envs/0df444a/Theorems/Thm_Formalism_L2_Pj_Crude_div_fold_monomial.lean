@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_div_fold_monomial
 -- name    : Formalism.L2.Pj.Crude.div_fold_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:04.565811+00:00
 -- url     : https://prove2.me/theorems/8c43bc7d-35c1-4610-9e73-25edfe19e46e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_localEstimateIV_of_typeSetWeight
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.localEstimateIV_of_typeSetWeight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:56.07524+00:00
 -- url     : https://prove2.me/theorems/f1392d54-33e4-41a3-b047-3d99c6226901

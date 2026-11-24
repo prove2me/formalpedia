@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_CovariantRepresentation_measurable_lwt
 -- name    : Formalism.L2.SG.CovariantRepresentation.measurable_lwt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:16.580151+00:00
 -- url     : https://prove2.me/theorems/05ed6ea0-afec-4087-a875-c9459d2b4bee

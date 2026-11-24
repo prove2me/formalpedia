@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_SigmaLog_differentiable_wFactor
 -- name    : Formalism.L2.Th1.F.SigmaLog.differentiable_wFactor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:55.65922+00:00
 -- url     : https://prove2.me/theorems/3db8f3b7-3e1f-4549-a8df-7aedd74a99b3

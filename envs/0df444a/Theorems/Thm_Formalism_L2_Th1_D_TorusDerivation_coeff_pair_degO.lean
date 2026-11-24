@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TorusDerivation_coeff_pair_degO
 -- name    : Formalism.L2.Th1.D.TorusDerivation.coeff_pair_degO
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:56.622335+00:00
 -- url     : https://prove2.me/theorems/113bcbc0-3032-485a-b4b2-a87e9cc91788

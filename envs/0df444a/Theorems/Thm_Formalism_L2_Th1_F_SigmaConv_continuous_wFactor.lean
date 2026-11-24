@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_SigmaConv_continuous_wFactor
 -- name    : Formalism.L2.Th1.F.SigmaConv.continuous_wFactor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:25.169842+00:00
 -- url     : https://prove2.me/theorems/c36905ca-cbe0-43a0-8345-aaadf4c4a7d6

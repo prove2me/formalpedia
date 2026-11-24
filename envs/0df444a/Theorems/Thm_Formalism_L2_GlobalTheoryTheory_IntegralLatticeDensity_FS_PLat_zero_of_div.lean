@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_FS_PLat_zero_of_div
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.FS.PLat.zero_of_div
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:55.406408+00:00
 -- url     : https://prove2.me/theorems/6701cb39-8203-4498-ae78-66a5b36e9dc3

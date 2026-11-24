@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_WuDec_continuous_tens
 -- name    : Formalism.L2.SG.Pf.WuDec.continuous_tens
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:27.22819+00:00
 -- url     : https://prove2.me/theorems/c59218e9-de69-4943-a3e5-3abca8f55e1b

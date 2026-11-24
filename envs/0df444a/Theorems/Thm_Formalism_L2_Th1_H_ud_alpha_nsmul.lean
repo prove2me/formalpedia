@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_ud_alpha_nsmul
 -- name    : Formalism.L2.Th1.H.ud_alpha_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:48:46.950773+00:00
 -- url     : https://prove2.me/theorems/bdc436b4-8da1-4bf0-b62e-c8a28ad63876

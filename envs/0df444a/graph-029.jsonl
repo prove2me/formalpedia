@@ -82419,7 +82419,7 @@
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.KerrSchild.VIII08.bfun_abs_le_sharp", "child": "Atlas_EinsteinMaxwell_ES5_KerrSchild_VIII05_Anchor", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.KerrSchild.VIII08.bfun_abs_le_sharp", "child": "Atlas_EinsteinMaxwell_ES5_KerrSchild_VIII08_Class", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.KerrSchild.VIII08.bfun_abs_le_sharp", "child": "Atlas_EinsteinMaxwell_ES5_KerrSchild_VIII08_Ops", "via": ["solution", "statement"]}
-{"parent": "NovyPQZK.Main.lemma_2", "child": "NovyPQZK_Main_Fidelity", "via": ["statement"]}
+{"parent": "NovyPQZK.Main.lemma_2", "child": "NovyPQZK_Main_Fidelity", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg107", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg25906", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg22572", "child": "OAIQ259US007", "via": ["statement"]}

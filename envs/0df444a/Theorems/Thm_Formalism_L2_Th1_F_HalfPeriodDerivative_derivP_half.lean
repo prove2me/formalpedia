@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_HalfPeriodDerivative_derivP_half
 -- name    : Formalism.L2.Th1.F.HalfPeriodDerivative.derivP_half
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:20.502471+00:00
 -- url     : https://prove2.me/theorems/dd791e3c-00f2-45c7-a28f-336d29424bed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_JetSubstitutionLemmas_subst_Dinv_iterate
 -- name    : Formalism.L2.Th1.C.JetSubstitutionLemmas.subst_Dinv_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:42.890653+00:00
 -- url     : https://prove2.me/theorems/d3751b44-3c59-48c3-b2fe-8b293600f769

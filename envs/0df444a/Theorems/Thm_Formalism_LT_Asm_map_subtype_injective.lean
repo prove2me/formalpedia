@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_Asm_map_subtype_injective
 -- name    : Formalism.LT.Asm.map_subtype_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:06.997829+00:00
 -- url     : https://prove2.me/theorems/4f701f91-49d7-4557-a8d0-bb562a955c7f

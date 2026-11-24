@@ -6981,7 +6981,7 @@
 {"parent": "PNT_ZeroFree_433_0129", "child": "PNT_ZeroFree_433_0129_parallel1", "via": ["statement"]}
 {"parent": "PNT_ZeroFree_433_0129", "child": "PNT_ZeroFree_433_0129_parallel2", "via": ["statement"]}
 {"parent": "PNT_ZeroFree_433_0129", "child": "PNT_ZeroFree_433_0127", "via": ["statement"]}
-{"parent": "RiemannVonMangoldt.dirichlet_L_zero_count", "child": "RiemannVonMangoldt_ZeroCounts", "via": ["statement"]}
+{"parent": "RiemannVonMangoldt.dirichlet_L_zero_count", "child": "RiemannVonMangoldt_ZeroCounts", "via": ["solution", "statement"]}
 {"parent": "NLogN.fmUnpar_runs", "child": "IntMul_Kappa_K_Defs18", "via": ["solution", "statement"]}
 {"parent": "IntMul_HvdH_MachineRef", "child": "IntMul_HvdH_Fermat", "via": ["statement"]}
 {"parent": "IntMul_HvdH_MachineRef", "child": "IntMul_HvdH_ExactConv", "via": ["statement"]}

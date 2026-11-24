@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_factSplit_valid
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.factSplit_valid
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:35.019872+00:00
 -- url     : https://prove2.me/theorems/f5dd9b16-ec68-4db1-aafe-b8119db1c0a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_AvAlg_exists_adjoin_eq_top
 -- name    : Formalism.L2.Pj.AvAlg.exists_adjoin_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:43.786876+00:00
 -- url     : https://prove2.me/theorems/5732d271-3a3b-4781-94c6-bba14f7bf2c7

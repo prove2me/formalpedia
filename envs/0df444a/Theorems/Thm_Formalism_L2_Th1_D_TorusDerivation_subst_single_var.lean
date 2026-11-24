@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TorusDerivation_subst_single_var
 -- name    : Formalism.L2.Th1.D.TorusDerivation.subst_single_var
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:23.106983+00:00
 -- url     : https://prove2.me/theorems/3d9783bf-50cf-40cf-8ce4-8268cb1b2253

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_uc_gamma
 -- name    : Formalism.LIFT.uc_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:50:36.56049+00:00
 -- url     : https://prove2.me/theorems/bf0b8a59-82d4-4196-aab8-34b700558677

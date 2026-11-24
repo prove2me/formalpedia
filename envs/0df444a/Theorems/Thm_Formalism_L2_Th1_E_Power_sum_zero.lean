@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Power_sum_zero
 -- name    : Formalism.L2.Th1.E.Power.sum_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:23:41.340126+00:00
 -- url     : https://prove2.me/theorems/fc263df5-0df3-4b8c-9c08-e2c5260236f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_TaylorLogMetric_coefL_zero
 -- name    : Formalism.LogVandermondeBounds.TaylorLogMetric.coefL_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:53:22.000424+00:00
 -- url     : https://prove2.me/theorems/bd88a514-f078-4115-b36a-6bbc32b8f179

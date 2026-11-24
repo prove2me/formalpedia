@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PairingIndexBounds_Mv_lattice_moves_hold
 -- name    : Formalism.L2.PairingIndexBounds.Mv.lattice_moves_hold
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:15:28.31887+00:00
 -- url     : https://prove2.me/theorems/486ca720-8d09-4010-a3ed-2dbbc227347a

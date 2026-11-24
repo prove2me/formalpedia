@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_flowThirdPoint
 -- name    : Formalism.L2.Th1.A.flowThirdPoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:34.858118+00:00
 -- url     : https://prove2.me/theorems/ca9bf314-9a1a-4b58-8dc9-f4f084005c20

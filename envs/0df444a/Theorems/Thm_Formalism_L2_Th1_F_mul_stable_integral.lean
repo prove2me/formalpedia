@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_mul_stable_integral
 -- name    : Formalism.L2.Th1.F.mul_stable_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:38.565211+00:00
 -- url     : https://prove2.me/theorems/cc53b209-2bd3-4639-b8de-777e9454885a

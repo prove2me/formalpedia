@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TorusDerivation_constantCoeff_inVar
 -- name    : Formalism.L2.Th1.D.TorusDerivation.constantCoeff_inVar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:45.716636+00:00
 -- url     : https://prove2.me/theorems/ebd220b2-5756-4ee1-b895-009a6f4ef6b8

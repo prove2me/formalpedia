@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_S4_ch_split
 -- name    : Formalism.L2.FormalSeriesBounds.S4.ch_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:44.667024+00:00
 -- url     : https://prove2.me/theorems/11bdf19b-6dd1-4373-ae0b-81d9b57b2292

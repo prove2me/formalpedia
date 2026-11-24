@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_PsiTrCore_exists_approx
 -- name    : Formalism.L2.S.Pv.PsiTrCore.exists_approx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:16:29.731789+00:00
 -- url     : https://prove2.me/theorems/46fdbf90-99f1-4258-ba60-d916bbd41801

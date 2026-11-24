@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_HalfPeriodDerivative_notMem_of_comb
 -- name    : Formalism.L2.Th1.F.HalfPeriodDerivative.notMem_of_comb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:39.456279+00:00
 -- url     : https://prove2.me/theorems/cbc0455a-336e-4c3e-aa9d-6b7d15da2090

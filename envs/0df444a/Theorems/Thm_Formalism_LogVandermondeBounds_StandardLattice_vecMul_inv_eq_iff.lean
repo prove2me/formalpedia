@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_vecMul_inv_eq_iff
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.vecMul_inv_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:14.72499+00:00
 -- url     : https://prove2.me/theorems/1ba3c55c-2f99-4380-b3e3-6c66e78be847

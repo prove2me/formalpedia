@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThetaZeroHermitianLemmas_herm_sub_swap
 -- name    : Formalism.L2.Th1.F.ThetaZeroHermitianLemmas.herm_sub_swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:50:06.986606+00:00
 -- url     : https://prove2.me/theorems/58b90f51-9ec3-49cf-9c84-2b5ee5e70739

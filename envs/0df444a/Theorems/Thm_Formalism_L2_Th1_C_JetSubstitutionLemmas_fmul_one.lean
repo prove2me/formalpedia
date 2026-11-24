@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_JetSubstitutionLemmas_fmul_one
 -- name    : Formalism.L2.Th1.C.JetSubstitutionLemmas.fmul_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:21.143816+00:00
 -- url     : https://prove2.me/theorems/2993bb2e-aefa-4a42-9d77-f315d908cda1

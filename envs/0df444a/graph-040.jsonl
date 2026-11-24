@@ -37746,9 +37746,9 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineSectionProof_isMultiHomog_chartMon_ffa9ade91345", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PFlagLineSectionForms", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineSectionProof_isMultiHomog_chartMon_ffa9ade91345", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_StatementsFlagLineSection", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PGaussFourierSelf", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_StatementsGauss", "via": ["statement"]}
-{"parent": "Formalism.InvariantFactorPaths.L4.space_vanishing_holds", "child": "Formalism_ThetaLogCoordinates_FockResolutionOnto_FockMonomialProofs_OmegaInjectiveHolds", "via": ["statement"]}
-{"parent": "Formalism.InvariantFactorPaths.L4.space_vanishing_holds", "child": "Formalism_ThetaLogCoordinates_FockResolutionOnto_FockMonomialProofs_Vanish", "via": ["statement"]}
-{"parent": "Formalism.InvariantFactorPaths.L4.space_vanishing_holds", "child": "Formalism_ThetaLogCoordinates_FockResolutionOnto_StatementG", "via": ["statement"]}
+{"parent": "Formalism.InvariantFactorPaths.L4.space_vanishing_holds", "child": "Formalism_ThetaLogCoordinates_FockResolutionOnto_FockMonomialProofs_OmegaInjectiveHolds", "via": ["solution", "statement"]}
+{"parent": "Formalism.InvariantFactorPaths.L4.space_vanishing_holds", "child": "Formalism_ThetaLogCoordinates_FockResolutionOnto_FockMonomialProofs_Vanish", "via": ["solution", "statement"]}
+{"parent": "Formalism.InvariantFactorPaths.L4.space_vanishing_holds", "child": "Formalism_ThetaLogCoordinates_FockResolutionOnto_StatementG", "via": ["solution", "statement"]}
 {"parent": "FunctorialResolution.EmbeddedResolution.specToAffineSpaceExtendCoords_appTop_coord_inr", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_ExtendCoordinatesToAffineSpace", "via": ["solution", "statement"]}
 {"parent": "FunctorialResolution.EmbeddedResolution.specToAffineSpaceExtendCoords_appTop_coord_inr", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_AffineSpaceCoordinates", "via": ["solution", "statement"]}
 {"parent": "FunctorialResolution.EmbeddedResolution.specToAffineSpaceExtendCoords_appTop_coord_inr", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionOfSingularities", "via": ["solution", "statement"]}
@@ -69741,7 +69741,7 @@
 {"parent": "GlobalTheory.FormalConnection.invariantDerivations_commute_formal_connection", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_ConnectionKillsSeries", "via": ["statement"]}
 {"parent": "GlobalTheory.SplitFlip.smallF_of_isEmpty", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_T2SpaceGeneralLinearGroup", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SplitFlip.smallF_of_isEmpty", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_RankEqCardIffExistsFrameMatrixFirstColumnBlock", "via": ["solution", "statement"]}
-{"parent": "Formalism.L2.SG.NGCut.TorsionTotientBound.torsionOrder_le", "child": "Formalism_LocalToGlobal_SiegelLatticeTheory_CokernelGLCounts_RankPointCounts_TorsionTotientBound", "via": ["statement"]}
+{"parent": "Formalism.L2.SG.NGCut.TorsionTotientBound.torsionOrder_le", "child": "Formalism_LocalToGlobal_SiegelLatticeTheory_CokernelGLCounts_RankPointCounts_TorsionTotientBound", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.WeilM.HaarUniq.exists_eq_mul_integral", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_HilbertNinetyQuotientHomEqIff", "via": ["statement"]}
 {"parent": "GlobalTheory.WeilM.HaarUniq.exists_eq_mul_integral", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsCompactOpenAddSubgroup", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_BlockTheory_TwistedDiscreteSeries_HalfPowerSpherical", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_MatrixMeasurableSpace", "via": ["statement"]}
@@ -73554,7 +73554,7 @@
 {"parent": "GlobalTheory.SgGlob.Inhab.mem_splitLat", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_FrameLats", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SgGlob.Inhab.mem_splitLat", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_ExistsDifferentPair", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.summable_and_tsum_le_of_box_count", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_SummableAndTsumLeOfBoxCount", "via": ["solution", "statement"]}
-{"parent": "Formalism.L2.G.Cmp.extK_unique", "child": "Formalism_LocalToGlobal_GroupLattices_ComparisonMaps_IsComplRatCompl", "via": ["statement"]}
+{"parent": "Formalism.L2.G.Cmp.extK_unique", "child": "Formalism_LocalToGlobal_GroupLattices_ComparisonMaps_IsComplRatCompl", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PNormalisationModelLocalizationX", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StNormalisationModelLocalization", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PNormalisationModelLocalizationX", "child": "P2M_GroundTheory_Heights__Heights_isUnit_algebraMap_curveLocalRing_358a5a627391", "via": ["statement"]}
 {"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.ExpTiePf.psJet_pow", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_ExpTiePf", "via": ["solution", "statement"]}
@@ -80135,8 +80135,8 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_RemainderTerms_PRestBoundOfPrimeBound", "child": "GroundTheory_HeightsAndTheta_Heights_RemainderTerms_Elementary", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_RemainderTerms_PRestBoundOfPrimeBound", "child": "GroundTheory_HeightsAndTheta_Heights_RemainderTerms_PrimeWeightEqZeroOfLt", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_RemainderTerms_PRestBoundOfPrimeBound", "child": "GroundTheory_HeightsAndTheta_Heights_RemainderTerms_StatementsElem", "via": ["statement"]}
-{"parent": "Formalism.L2.Pj.isCombAt_pull", "child": "Formalism_LocalToGlobal_ProjectiveLattices_FrameCharts", "via": ["statement"]}
-{"parent": "Formalism.L2.Pj.isCombAt_pull", "child": "Formalism_LocalToGlobal_ProjectiveLattices_UnitIndepOfCharts", "via": ["statement"]}
+{"parent": "Formalism.L2.Pj.isCombAt_pull", "child": "Formalism_LocalToGlobal_ProjectiveLattices_FrameCharts", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Pj.isCombAt_pull", "child": "Formalism_LocalToGlobal_ProjectiveLattices_UnitIndepOfCharts", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_EisensteinTails_ExistsIntOfIsIntegralThree", "child": "GroundTheory_HeightsAndTheta_Heights_ArithDegree", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_EisensteinTails_ExistsIntOfIsIntegralThree", "child": "GroundTheory_HeightsAndTheta_Heights_HermitianSum", "via": ["statement"]}
 {"parent": "PositivityTheory.ThKF0.Chr.box_ne", "child": "Development_WeilBound_ThetaLifts_LeviDeterminants_CharacterAdmissibility_SchrodingerApplyZeroOfFst", "via": ["solution", "statement"]}

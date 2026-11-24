@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_cro_iter
 -- name    : Formalism.L2.Pj.Crude.cro_iter
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:37.11598+00:00
 -- url     : https://prove2.me/theorems/c40fbe90-20b5-4020-9ba9-7836da250745

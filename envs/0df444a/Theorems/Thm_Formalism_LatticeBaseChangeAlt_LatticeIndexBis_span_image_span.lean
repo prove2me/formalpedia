@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_LatticeIndexBis_span_image_span
 -- name    : Formalism.LatticeBaseChangeAlt.LatticeIndexBis.span_image_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:51:46.042687+00:00
 -- url     : https://prove2.me/theorems/b73cca32-cd60-41af-9de3-e4f6873b8d08

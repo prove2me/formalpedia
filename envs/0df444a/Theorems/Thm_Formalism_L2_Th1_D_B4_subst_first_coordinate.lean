@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_B4_subst_first_coordinate
 -- name    : Formalism.L2.Th1.D.B4.subst_first_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:25:44.946834+00:00
 -- url     : https://prove2.me/theorems/c3a9e4eb-f712-43d5-8f2e-43b2096c76d9

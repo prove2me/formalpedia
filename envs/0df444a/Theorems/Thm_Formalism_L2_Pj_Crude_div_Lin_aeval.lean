@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_div_Lin_aeval
 -- name    : Formalism.L2.Pj.Crude.div_Lin_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:50.948595+00:00
 -- url     : https://prove2.me/theorems/9253307f-f9a8-4e9e-b12e-49614666721d

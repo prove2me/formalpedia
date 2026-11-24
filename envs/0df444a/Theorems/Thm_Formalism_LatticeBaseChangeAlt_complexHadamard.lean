@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_complexHadamard
 -- name    : Formalism.LatticeBaseChangeAlt.complexHadamard
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:51:36.342412+00:00
 -- url     : https://prove2.me/theorems/e3a55b1e-43d1-416d-9b88-9e8e497a1c5c

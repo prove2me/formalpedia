@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_wUnit_inv
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.wUnit_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:01.742804+00:00
 -- url     : https://prove2.me/theorems/cc55cde8-7279-4f5c-bb0f-26099bc0b7ba

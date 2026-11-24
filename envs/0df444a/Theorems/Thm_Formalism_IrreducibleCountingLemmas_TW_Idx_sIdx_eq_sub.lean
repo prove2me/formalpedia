@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_Idx_sIdx_eq_sub
 -- name    : Formalism.IrreducibleCountingLemmas.TW.Idx.sIdx_eq_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:16:12.581402+00:00
 -- url     : https://prove2.me/theorems/7b4de9ee-6db6-49e3-9569-58a25b49d32f

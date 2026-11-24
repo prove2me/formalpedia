@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FundamentalDomainD5_cover_round
 -- name    : Formalism.L2.Pj.FundamentalDomainD5.cover_round
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:49.402146+00:00
 -- url     : https://prove2.me/theorems/e89a5381-c654-4df4-8844-996637c22a5e

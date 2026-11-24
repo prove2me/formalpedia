@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_LegendreModelEllipticTorsion_e2Summand_succ
 -- name    : Formalism.L2.Th1.F.LegendreModelEllipticTorsion.e2Summand_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:17.059129+00:00
 -- url     : https://prove2.me/theorems/96646988-1f4f-4b40-be78-541c26bfa88c

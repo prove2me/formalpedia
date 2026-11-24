@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_B4_subst_s1Prime_even
 -- name    : Formalism.L2.Th1.D.B4.subst_s1Prime_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:25:29.427146+00:00
 -- url     : https://prove2.me/theorems/49e3efe3-30f6-4758-9367-7bb557ab04cc

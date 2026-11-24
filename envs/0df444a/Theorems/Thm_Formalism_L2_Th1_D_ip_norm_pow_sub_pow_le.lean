@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_ip_norm_pow_sub_pow_le
 -- name    : Formalism.L2.Th1.D.ip_norm_pow_sub_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:28.979938+00:00
 -- url     : https://prove2.me/theorems/e145a94f-c362-4cdc-a176-0465427a842a

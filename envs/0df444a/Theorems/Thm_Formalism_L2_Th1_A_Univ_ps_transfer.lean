@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Univ_ps_transfer
 -- name    : Formalism.L2.Th1.A.Univ.ps_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:09:35.087798+00:00
 -- url     : https://prove2.me/theorems/1f60002c-3aa0-41a0-a927-120a81928f96

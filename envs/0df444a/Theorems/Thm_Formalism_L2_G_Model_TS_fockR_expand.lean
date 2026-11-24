@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_fockR_expand
 -- name    : Formalism.L2.G.Model.TS.fockR_expand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:28.530051+00:00
 -- url     : https://prove2.me/theorems/ab8d2485-edac-4a06-9ec4-18536c28f00b

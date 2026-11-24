@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_eventually_capThreshold_mem
 -- name    : GaussianPerimeter.eventually_capThreshold_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:23.528817+00:00
 -- url     : https://prove2.me/theorems/496898ff-75ac-4ae8-8868-f8080d57dcbf

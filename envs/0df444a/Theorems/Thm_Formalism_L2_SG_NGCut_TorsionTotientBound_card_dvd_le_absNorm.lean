@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NGCut_TorsionTotientBound_card_dvd_le_absNorm
 -- name    : Formalism.L2.SG.NGCut.TorsionTotientBound.card_dvd_le_absNorm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:19.939891+00:00
 -- url     : https://prove2.me/theorems/274ab96d-12dc-4802-8a42-62ddeb717f3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThreeTermRelation_det_eq
 -- name    : Formalism.L2.Th1.F.ThreeTermRelation.det_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:00.245223+00:00
 -- url     : https://prove2.me/theorems/913f9f5e-fa51-49b2-bfd6-cb0bf751cbe0

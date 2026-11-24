@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_idempotent_central
 -- name    : Formalism.L2.DIV.idempotent_central
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:40:30.575075+00:00
 -- url     : https://prove2.me/theorems/97176ae0-a4a8-445f-b4d6-ab506ffd0a8c

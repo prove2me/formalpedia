@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LLcv_pLen_simple_ne
 -- name    : Formalism.LFunctionChainParameters.LLcv.pLen_simple_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:49:21.643984+00:00
 -- url     : https://prove2.me/theorems/30aacd36-36ad-4854-87fc-b48fe67a9327

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_shiftedReciprocalInverted
 -- name    : Formalism.L2.Th1.B.shiftedReciprocalInverted
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:24.146796+00:00
 -- url     : https://prove2.me/theorems/71a5c7b6-f412-4e8d-98ad-6c056ae9e3d9

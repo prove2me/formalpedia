@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_block_count_valid
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.block_count_valid
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:03:54.631315+00:00
 -- url     : https://prove2.me/theorems/1e21c2bd-79b6-4189-855f-450d1450ffea

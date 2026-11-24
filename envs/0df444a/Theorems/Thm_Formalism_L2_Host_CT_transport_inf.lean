@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_CT_transport_inf
 -- name    : Formalism.L2.Host.CT.transport_inf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:43.114903+00:00
 -- url     : https://prove2.me/theorems/e3af4261-ecc3-495d-8674-6f58e668e083

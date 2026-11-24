@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_TaylorSigmaUniqueness_analyticAt_v
 -- name    : Formalism.L2.Th1.F.TaylorSigmaUniqueness.analyticAt_v
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:04.526225+00:00
 -- url     : https://prove2.me/theorems/13211d46-8805-419b-9018-38645d2534f4

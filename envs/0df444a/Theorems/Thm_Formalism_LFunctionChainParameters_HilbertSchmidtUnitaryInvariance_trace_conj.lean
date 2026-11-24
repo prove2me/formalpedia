@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_trace_conj
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.trace_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:56.67703+00:00
 -- url     : https://prove2.me/theorems/b9655888-9341-4e0d-8049-e18cbaa4cf1c

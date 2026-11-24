@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Homog_wSigma_scale
 -- name    : Formalism.L2.Th1.F.Homog.wSigma_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:25:32.806836+00:00
 -- url     : https://prove2.me/theorems/bb7870b9-7e8e-4cf7-9fe6-d1eba8915a46

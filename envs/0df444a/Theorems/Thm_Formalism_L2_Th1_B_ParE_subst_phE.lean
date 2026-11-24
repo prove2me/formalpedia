@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_ParE_subst_phE
 -- name    : Formalism.L2.Th1.B.ParE.subst_phE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:32.078174+00:00
 -- url     : https://prove2.me/theorems/61d25145-633b-4f80-b669-9f7dcb9772f1

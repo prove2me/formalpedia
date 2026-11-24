@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_uc_pi_iota
 -- name    : Formalism.LIFT.uc_pi_iota
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:46.833519+00:00
 -- url     : https://prove2.me/theorems/607046f3-aca3-4388-8146-d179e6012bd6

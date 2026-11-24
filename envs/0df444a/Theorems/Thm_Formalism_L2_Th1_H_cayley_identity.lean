@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_cayley_identity
 -- name    : Formalism.L2.Th1.H.cayley_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:59.995507+00:00
 -- url     : https://prove2.me/theorems/12d8fc64-bb91-49e4-b22c-2ea515cc4ca0

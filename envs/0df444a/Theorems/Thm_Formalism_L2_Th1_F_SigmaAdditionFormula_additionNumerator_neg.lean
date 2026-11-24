@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_SigmaAdditionFormula_additionNumerator_neg
 -- name    : Formalism.L2.Th1.F.SigmaAdditionFormula.additionNumerator_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:59:48.541439+00:00
 -- url     : https://prove2.me/theorems/ea4d9e47-ebd1-4e61-915e-5ec6f1bd5371

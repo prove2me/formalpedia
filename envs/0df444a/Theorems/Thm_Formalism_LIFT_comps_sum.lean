@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_comps_sum
 -- name    : Formalism.LIFT.comps_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:50:16.645107+00:00
 -- url     : https://prove2.me/theorems/06977ca1-2923-4af1-9ef2-b96d08646f56

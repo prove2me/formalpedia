@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_TaylorSigmaUniqueness_u_zero
 -- name    : Formalism.L2.Th1.F.TaylorSigmaUniqueness.u_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:23.243891+00:00
 -- url     : https://prove2.me/theorems/4ad87c1e-5a76-4c52-a91d-e5b5d1e489ef

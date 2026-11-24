@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogFactorialBounds_log_factorial_le
 -- name    : Formalism.LogFactorialBounds.log_factorial_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:14.504638+00:00
 -- url     : https://prove2.me/theorems/f3057548-b2ba-4c52-8bed-1997363b40eb

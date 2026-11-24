@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Add1_constantCoeff_inVar_eq_zero
 -- name    : Formalism.L2.Th1.B.Add1.constantCoeff_inVar_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:30.454852+00:00
 -- url     : https://prove2.me/theorems/6dccbda8-bfff-4623-99b2-843eed0db1bb

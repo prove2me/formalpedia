@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_cmQuasiPeriodConst_of
 -- name    : Formalism.L2.Th1.F.cmQuasiPeriodConst_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:35.629672+00:00
 -- url     : https://prove2.me/theorems/19bf03ac-5e26-48d1-b705-d22736de2a7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_locLen_quot_self
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.locLen_quot_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:50:05.303805+00:00
 -- url     : https://prove2.me/theorems/bc979590-56df-4fc8-b7bb-33c941e1e21b

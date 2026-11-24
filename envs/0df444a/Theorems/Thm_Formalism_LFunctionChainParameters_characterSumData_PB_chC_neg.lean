@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_PB_chC_neg
 -- name    : Formalism.LFunctionChainParameters.characterSumData.PB.chC_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:05.635312+00:00
 -- url     : https://prove2.me/theorems/8de75aa2-94b9-44bb-8f91-17ec8d3632f8

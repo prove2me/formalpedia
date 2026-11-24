@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_cntVec_prod
 -- name    : Formalism.L2.Th1.H.cntVec_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:53.22683+00:00
 -- url     : https://prove2.me/theorems/7cde68b2-5e9a-4a89-ad0b-b92ec0f00001

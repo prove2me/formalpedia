@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_slice_analyticAt
 -- name    : Formalism.L2.Th1.H.slice_analyticAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:15.464988+00:00
 -- url     : https://prove2.me/theorems/85c84a55-b0a2-4ca7-92fa-cec8aab46b01

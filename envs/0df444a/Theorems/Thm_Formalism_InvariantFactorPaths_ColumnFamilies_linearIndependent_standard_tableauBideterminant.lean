@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_linearIndependent_standard_tableauBideterminant
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.linearIndependent_standard_tableauBideterminant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:26:09.154125+00:00
 -- url     : https://prove2.me/theorems/56773586-2bc2-481f-9802-32e85bfa84af

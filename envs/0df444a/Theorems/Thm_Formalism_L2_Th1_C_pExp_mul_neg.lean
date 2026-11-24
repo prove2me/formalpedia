@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_pExp_mul_neg
 -- name    : Formalism.L2.Th1.C.pExp_mul_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:42.840062+00:00
 -- url     : https://prove2.me/theorems/82f23b24-ae21-47dd-a469-29d2812f6f40

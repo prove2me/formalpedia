@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NormCut_PsiNatEquivPf_psiU_mul
 -- name    : Formalism.L2.SG.NormCut.PsiNatEquivPf.psiU_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:47.93371+00:00
 -- url     : https://prove2.me/theorems/2d54b84e-f0a1-47f5-8e9d-20b7d72f4e42

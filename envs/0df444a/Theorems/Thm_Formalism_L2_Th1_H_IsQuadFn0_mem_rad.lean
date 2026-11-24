@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_IsQuadFn0_mem_rad
 -- name    : Formalism.L2.Th1.H.IsQuadFn0.mem_rad
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:13.730683+00:00
 -- url     : https://prove2.me/theorems/684d48a7-1f71-4134-b189-01ccf6575cea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_Pair_simeq_of_sub
 -- name    : Formalism.L2.Th1.D.Pair.simeq_of_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:23:38.752391+00:00
 -- url     : https://prove2.me/theorems/6b0aaeb5-8aa5-4e3c-bbd0-cfeb7c511248

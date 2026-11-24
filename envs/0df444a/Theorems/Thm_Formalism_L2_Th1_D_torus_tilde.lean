@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_torus_tilde
 -- name    : Formalism.L2.Th1.D.torus_tilde
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:10.378229+00:00
 -- url     : https://prove2.me/theorems/ae804376-f559-4c4c-9262-9b0b66add1d0

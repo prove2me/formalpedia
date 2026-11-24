@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_unitIndep_of
 -- name    : Formalism.L2.Pj.unitIndep_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:02:45.750749+00:00
 -- url     : https://prove2.me/theorems/6e7f8615-b6e1-46c2-84f3-65ca6a9019c5

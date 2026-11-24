@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_linIndep_cpts
 -- name    : Formalism.L2.Pj.linIndep_cpts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:56.159501+00:00
 -- url     : https://prove2.me/theorems/a6f520fd-f76c-4b22-a432-b29639b09bb6

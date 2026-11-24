@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_main3
 -- name    : main3
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:17:56.346966+00:00
 -- url     : https://prove2.me/theorems/a5b33c85-cc01-4374-b196-b1c9b5bde2d4

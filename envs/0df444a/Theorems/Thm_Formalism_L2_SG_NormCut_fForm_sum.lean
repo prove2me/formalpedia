@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NormCut_fForm_sum
 -- name    : Formalism.L2.SG.NormCut.fForm_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:34.091873+00:00
 -- url     : https://prove2.me/theorems/856c3f6b-e7df-4a5e-94c9-f2fa25e33971

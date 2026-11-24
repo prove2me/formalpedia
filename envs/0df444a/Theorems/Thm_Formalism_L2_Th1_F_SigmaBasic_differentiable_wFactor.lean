@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_SigmaBasic_differentiable_wFactor
 -- name    : Formalism.L2.Th1.F.SigmaBasic.differentiable_wFactor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:28.156799+00:00
 -- url     : https://prove2.me/theorems/a048851b-fa52-4e95-a235-32d165ac9d84

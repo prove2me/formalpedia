@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TorusDerivation_wt_ne_one
 -- name    : Formalism.L2.Th1.D.TorusDerivation.wt_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:07.301611+00:00
 -- url     : https://prove2.me/theorems/8cb2170e-1c40-44c7-99dc-9ceef47918ed

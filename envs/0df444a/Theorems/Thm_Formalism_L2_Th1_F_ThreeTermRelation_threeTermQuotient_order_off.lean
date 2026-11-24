@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThreeTermRelation_threeTermQuotient_order_off
 -- name    : Formalism.L2.Th1.F.ThreeTermRelation.threeTermQuotient_order_off
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:48:09.174966+00:00
 -- url     : https://prove2.me/theorems/157bc7ac-227f-4471-818a-42a268a4499c

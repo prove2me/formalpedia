@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_relIndex_eq_abs_det_real
 -- name    : Formalism.L2.Th1.H.relIndex_eq_abs_det_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:46.40746+00:00
 -- url     : https://prove2.me/theorems/898de34c-c21a-4bf2-9ce6-a100747a6503

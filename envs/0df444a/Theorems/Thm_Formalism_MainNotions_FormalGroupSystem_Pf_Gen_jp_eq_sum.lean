@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_FormalGroupSystem_Pf_Gen_jp_eq_sum
 -- name    : Formalism.MainNotions.FormalGroupSystem.Pf.Gen.jp_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:53.225751+00:00
 -- url     : https://prove2.me/theorems/c1a9af79-0c88-469d-b153-8079e21c260f

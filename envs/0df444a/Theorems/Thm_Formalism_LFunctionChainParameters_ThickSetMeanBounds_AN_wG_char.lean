@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_AN_wG_char
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.AN.wG_char
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:34.321805+00:00
 -- url     : https://prove2.me/theorems/ee77e128-aa46-46f7-8f24-1769bde89bdb

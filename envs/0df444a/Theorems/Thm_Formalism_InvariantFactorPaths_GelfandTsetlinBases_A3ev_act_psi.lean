@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A3ev_act_psi
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A3ev.act_psi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:50.824678+00:00
 -- url     : https://prove2.me/theorems/df9d8f9d-bf25-4d9f-a9aa-2b49a3c313c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_flipTwoThree_term_le_B0
 -- name    : Formalism.LogVandermondeBounds.flipTwoThree.term_le_B0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:52:54.907794+00:00
 -- url     : https://prove2.me/theorems/e6fe45e0-a542-44e7-b2be-811734d5a4c8

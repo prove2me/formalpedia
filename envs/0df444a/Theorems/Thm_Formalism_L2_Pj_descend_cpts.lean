@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_descend_cpts
 -- name    : Formalism.L2.Pj.descend_cpts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:34.63216+00:00
 -- url     : https://prove2.me/theorems/4080129a-5231-4a6c-8a45-93a78e7389ce

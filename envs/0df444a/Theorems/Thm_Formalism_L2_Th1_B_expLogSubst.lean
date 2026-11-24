@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_expLogSubst
 -- name    : Formalism.L2.Th1.B.expLogSubst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:16:10.124661+00:00
 -- url     : https://prove2.me/theorems/a2bc2e99-cbde-4b5f-90f2-988de818e772

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_L6_UnitaryStandardVectors_IsUB_inv
 -- name    : Formalism.L2.S.L6.UnitaryStandardVectors.IsUB.inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:15.387075+00:00
 -- url     : https://prove2.me/theorems/7eb63ab0-8c97-4712-ae1d-a6ec5b0c7565

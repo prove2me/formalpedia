@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_prod_range_sub_cast_eq_factorial
 -- name    : Formalism.QuantumDeterminants.prod_range_sub_cast_eq_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:20:15.606323+00:00
 -- url     : https://prove2.me/theorems/39d939df-375a-46aa-8ec3-f214b110b052

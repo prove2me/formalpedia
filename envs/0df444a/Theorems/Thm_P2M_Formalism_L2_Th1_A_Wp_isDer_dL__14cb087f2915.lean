@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_A_Wp_isDer_dL__14cb087f2915
 -- name    : P2M_Formalism_L2_Th1_A_Wp_isDer_dL__14cb087f2915
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:06:59.429104+00:00
 -- url     : https://prove2.me/theorems/1930a429-0603-45d0-b311-e20e8d01373d

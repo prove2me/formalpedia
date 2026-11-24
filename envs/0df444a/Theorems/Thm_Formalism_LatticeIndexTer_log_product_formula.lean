@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_log_product_formula
 -- name    : Formalism.LatticeIndexTer.log_product_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:52:32.231213+00:00
 -- url     : https://prove2.me/theorems/8900db5a-1bc9-4857-9415-91c31843a464

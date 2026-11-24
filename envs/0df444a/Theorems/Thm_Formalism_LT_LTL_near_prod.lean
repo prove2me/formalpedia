@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_near_prod
 -- name    : Formalism.LT.LTL.near_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:51:55.703824+00:00
 -- url     : https://prove2.me/theorems/1361a8f7-cf25-45d3-876c-bc737a17a311

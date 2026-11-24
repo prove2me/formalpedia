@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_akCount_eq_mul_basis
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.akCount_eq_mul_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:46.077+00:00
 -- url     : https://prove2.me/theorems/19abe640-5aa5-463c-be01-1b5b942fe2f0

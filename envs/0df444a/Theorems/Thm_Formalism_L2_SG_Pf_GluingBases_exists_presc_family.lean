@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_GluingBases_exists_presc_family
 -- name    : Formalism.L2.SG.Pf.GluingBases.exists_presc_family
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:26.420489+00:00
 -- url     : https://prove2.me/theorems/8bfdc566-97c2-4975-8cbd-9ccaa9cdea8b

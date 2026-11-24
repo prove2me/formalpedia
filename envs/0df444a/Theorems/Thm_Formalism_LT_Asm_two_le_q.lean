@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_Asm_two_le_q
 -- name    : Formalism.LT.Asm.two_le_q
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:52.539148+00:00
 -- url     : https://prove2.me/theorems/95df1145-7887-44e1-889d-9832815fc465

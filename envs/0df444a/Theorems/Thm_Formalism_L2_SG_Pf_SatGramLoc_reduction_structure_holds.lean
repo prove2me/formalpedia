@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_SatGramLoc_reduction_structure_holds
 -- name    : Formalism.L2.SG.Pf.SatGramLoc.reduction_structure_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:17:29.824921+00:00
 -- url     : https://prove2.me/theorems/177c6770-c5da-4cc1-89c9-46cfefc846cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_GradedDegree_X_pow_inj
 -- name    : Formalism.LIFT.GradedDegree.X_pow_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:50:32.986808+00:00
 -- url     : https://prove2.me/theorems/89bf5979-b069-49eb-b8fb-c7a45b31c2d7

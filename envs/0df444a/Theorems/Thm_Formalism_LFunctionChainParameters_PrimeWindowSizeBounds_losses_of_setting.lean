@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_losses_of_setting
 -- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.losses_of_setting
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:45.324692+00:00
 -- url     : https://prove2.me/theorems/128ebf2b-b342-42bf-9ee0-1c85956ac480

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_LocFrM_range_free
 -- name    : Formalism.L2.Pj.LocFrM.range_free
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:14.176462+00:00
 -- url     : https://prove2.me/theorems/46366a58-fa7a-4995-84ad-3fd1aa5edd9d

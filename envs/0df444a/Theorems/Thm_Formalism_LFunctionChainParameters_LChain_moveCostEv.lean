@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_moveCostEv
 -- name    : Formalism.LFunctionChainParameters.LChain.moveCostEv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:44.023865+00:00
 -- url     : https://prove2.me/theorems/d5bb97f1-ffe1-4444-8c81-b9f9ced44390

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_band_exponent_bound
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.band_exponent_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:41.425693+00:00
 -- url     : https://prove2.me/theorems/6fd1da3b-b70e-46d1-b460-9222a1d06341

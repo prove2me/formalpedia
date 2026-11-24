@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_hsSq_right
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.hsSq_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:38.57925+00:00
 -- url     : https://prove2.me/theorems/09e0d4c2-3780-4581-9f36-a730e8aa32d5

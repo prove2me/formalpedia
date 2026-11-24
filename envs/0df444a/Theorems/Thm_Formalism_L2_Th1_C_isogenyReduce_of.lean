@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_isogenyReduce_of
 -- name    : Formalism.L2.Th1.C.isogenyReduce_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:00.846354+00:00
 -- url     : https://prove2.me/theorems/1eae6c10-91a7-4f02-83af-2f83861db055

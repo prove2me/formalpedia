@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_LatticeIndexBis_indep_baseChange
 -- name    : Formalism.LatticeBaseChangeAlt.LatticeIndexBis.indep_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:52:07.388344+00:00
 -- url     : https://prove2.me/theorems/68ab870e-76c2-4d87-bebf-c793fd9922de

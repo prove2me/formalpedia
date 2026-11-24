@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_logRescaleUnique
 -- name    : Formalism.InvariantFactorPaths.G7.Top.logRescaleUnique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:25:09.705318+00:00
 -- url     : https://prove2.me/theorems/5be909a5-1119-47be-8252-034cebcdffee

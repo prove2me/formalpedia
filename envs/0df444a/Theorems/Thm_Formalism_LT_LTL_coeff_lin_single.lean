@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_coeff_lin_single
 -- name    : Formalism.LT.LTL.coeff_lin_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:50:58.229962+00:00
 -- url     : https://prove2.me/theorems/675a60ce-e0b8-41c7-a626-7a1c9dcde24e

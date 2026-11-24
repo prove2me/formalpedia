@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_derivative2_dblInt
 -- name    : Formalism.L2.Th1.C.derivative2_dblInt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:22.960569+00:00
 -- url     : https://prove2.me/theorems/0828fd2b-eabd-43f1-a4f0-235f7fd82e3c

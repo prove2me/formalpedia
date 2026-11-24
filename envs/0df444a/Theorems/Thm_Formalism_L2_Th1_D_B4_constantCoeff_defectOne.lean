@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_B4_constantCoeff_defectOne
 -- name    : Formalism.L2.Th1.D.B4.constantCoeff_defectOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:24:48.33781+00:00
 -- url     : https://prove2.me/theorems/6cd86d90-da21-4d07-80fd-320f04ad31e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_unitary_core
 -- name    : Formalism.L2.Pj.FJ.unitary_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:23.602419+00:00
 -- url     : https://prove2.me/theorems/c534de53-7d7a-4cad-afc3-11dd6bf963f1

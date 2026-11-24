@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_BasisReduction_q_zero
 -- name    : Formalism.LatticeBaseChangeAlt.BasisReduction.q_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:11.862125+00:00
 -- url     : https://prove2.me/theorems/6c946987-e550-4ed9-8f88-b8ff99292234

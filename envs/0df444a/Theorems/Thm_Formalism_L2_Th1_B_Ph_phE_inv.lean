@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Ph_phE_inv
 -- name    : Formalism.L2.Th1.B.Ph.phE_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:38.595559+00:00
 -- url     : https://prove2.me/theorems/60256e23-c1ef-40cd-9888-0037a4db8844

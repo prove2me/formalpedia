@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_MulSpec_of
 -- name    : Formalism.L2.Th1.D.MulSpec_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:06.481453+00:00
 -- url     : https://prove2.me/theorems/89841367-f20c-4df9-842d-39d11aacda15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_prod_wpShift_form
 -- name    : Formalism.L2.Th1.C.prod_wpShift_form
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:00.552625+00:00
 -- url     : https://prove2.me/theorems/cf4eb97b-8d98-4e56-b4c4-0a3c32e7f506

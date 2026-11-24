@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Ser_unitAt_of_coeff
 -- name    : Formalism.L2.Th1.E.Ser.unitAt_of_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:49.642903+00:00
 -- url     : https://prove2.me/theorems/117c4d0a-cab2-45ba-9c4d-cce21418c7d0

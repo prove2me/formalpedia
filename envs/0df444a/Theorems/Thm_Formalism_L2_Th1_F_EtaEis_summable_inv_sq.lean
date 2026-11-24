@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_EtaEis_summable_inv_sq
 -- name    : Formalism.L2.Th1.F.EtaEis.summable_inv_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:30.489122+00:00
 -- url     : https://prove2.me/theorems/d451c565-2647-4245-957a-cf388aae853a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_card_quot_inf_mul
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.card_quot_inf_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:47:50.873683+00:00
 -- url     : https://prove2.me/theorems/2f903c0c-5403-4d5b-9b2c-194c6435869e

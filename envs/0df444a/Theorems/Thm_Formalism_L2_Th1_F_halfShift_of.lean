@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_halfShift_of
 -- name    : Formalism.L2.Th1.F.halfShift_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:37.746482+00:00
 -- url     : https://prove2.me/theorems/0e337145-0bfb-4290-8892-c7009299ef8b

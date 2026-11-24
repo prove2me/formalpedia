@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogFactorialBounds_div_le_factorization_factorial
 -- name    : Formalism.LogFactorialBounds.div_le_factorization_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:00.225094+00:00
 -- url     : https://prove2.me/theorems/193a983c-08db-4622-b89d-37fe5177c066

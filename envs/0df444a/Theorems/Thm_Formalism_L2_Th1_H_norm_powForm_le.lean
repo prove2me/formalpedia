@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_norm_powForm_le
 -- name    : Formalism.L2.Th1.H.norm_powForm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:48:51.151424+00:00
 -- url     : https://prove2.me/theorems/119db17e-1102-4773-8a4b-b132ad48598b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_unit_flow
 -- name    : Formalism.L2.Th1.A.unit_flow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:05:34.204812+00:00
 -- url     : https://prove2.me/theorems/9c7a1182-fb92-438a-b613-2433d3cbc8fb

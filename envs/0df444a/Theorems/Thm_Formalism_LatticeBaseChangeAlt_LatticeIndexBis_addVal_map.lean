@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_LatticeIndexBis_addVal_map
 -- name    : Formalism.LatticeBaseChangeAlt.LatticeIndexBis.addVal_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:52:10.395735+00:00
 -- url     : https://prove2.me/theorems/f625dbe2-ae5d-4346-a0b7-0690105025b9

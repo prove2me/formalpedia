@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_MatrixLatticeEstimates_word_count_bound_holds
 -- name    : Formalism.LFunctionChainParameters.MatrixLatticeEstimates.word_count_bound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:04.484037+00:00
 -- url     : https://prove2.me/theorems/900b6f44-bf35-40e7-8962-be97ec46bc90

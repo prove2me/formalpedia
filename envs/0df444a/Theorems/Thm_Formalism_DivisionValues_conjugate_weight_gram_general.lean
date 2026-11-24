@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_conjugate_weight_gram_general
 -- name    : Formalism.DivisionValues.conjugate_weight_gram_general
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:06:20.805825+00:00
 -- url     : https://prove2.me/theorems/09e45218-dfbd-4129-a3f9-447cc83179ec

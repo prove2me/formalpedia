@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_exists_equiv_of_mem_endL
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.exists_equiv_of_mem_endL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:31:50.912306+00:00
 -- url     : https://prove2.me/theorems/354819e0-9286-4ff9-8bb5-0dacfd72dba5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ModifiedSigmaBounds_norm_semiChar
 -- name    : Formalism.L2.Th1.F.ModifiedSigmaBounds.norm_semiChar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:21.947511+00:00
 -- url     : https://prove2.me/theorems/e25b3111-0f23-40df-898c-6d715ae14a9e

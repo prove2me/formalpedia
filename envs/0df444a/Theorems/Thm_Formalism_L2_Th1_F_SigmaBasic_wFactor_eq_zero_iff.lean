@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_SigmaBasic_wFactor_eq_zero_iff
 -- name    : Formalism.L2.Th1.F.SigmaBasic.wFactor_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:12.414203+00:00
 -- url     : https://prove2.me/theorems/44eb4ba6-2874-4701-ae32-c1d69376a4e7

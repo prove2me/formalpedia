@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_LatOnly_tprod_submodule_congr
 -- name    : Formalism.L2.Th1.F.LatOnly.tprod_submodule_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:25.534936+00:00
 -- url     : https://prove2.me/theorems/af516794-6925-44d5-ab06-c4f374d825e5

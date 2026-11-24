@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_OnePole_analyticAt_zetaExcept
 -- name    : Formalism.L2.Th1.F.OnePole.analyticAt_zetaExcept
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:11.466266+00:00
 -- url     : https://prove2.me/theorems/53cc6483-9538-4662-a41b-16b2ce30b206

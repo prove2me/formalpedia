@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_iSerSpec_of
 -- name    : Formalism.L2.Th1.A.iSerSpec_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:04:51.854121+00:00
 -- url     : https://prove2.me/theorems/c6b083a8-fd20-463f-a086-c2443554b7e6

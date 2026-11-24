@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_nval_add
 -- name    : Formalism.L2.Pj.nval_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:15:46.836542+00:00
 -- url     : https://prove2.me/theorems/c20d06eb-c4ff-4962-b878-70411a78bc57

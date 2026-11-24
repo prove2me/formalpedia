@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RealObj_InfCut_NilradicalHermitianFrames_PF_mem_iff
 -- name    : Formalism.L2.SG.RealObj.InfCut.NilradicalHermitianFrames.PF_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:18:59.089855+00:00
 -- url     : https://prove2.me/theorems/3b178c93-b089-46f1-9d98-e26bf4ddb1d3

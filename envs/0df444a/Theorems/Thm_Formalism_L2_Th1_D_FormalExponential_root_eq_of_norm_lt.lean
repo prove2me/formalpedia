@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_FormalExponential_root_eq_of_norm_lt
 -- name    : Formalism.L2.Th1.D.FormalExponential.root_eq_of_norm_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:03:14.88081+00:00
 -- url     : https://prove2.me/theorems/25249b20-c635-415e-8fab-8a1b30a7c1b8

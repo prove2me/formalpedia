@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_product_first_zeroth_parts_fourier_eq_down_comp_gauss
 -- name    : Formalism.LogVandermondeBounds.product_first_zeroth_parts.fourier_eq_down_comp_gauss
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:12.498855+00:00
 -- url     : https://prove2.me/theorems/598fc17d-df67-4b82-a8e0-09d321957985

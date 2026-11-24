@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_CompactOperatorsAlt_isOneUnit_veluXs
 -- name    : Formalism.L2.Th1.C.CompactOperatorsAlt.isOneUnit_veluXs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:54.36586+00:00
 -- url     : https://prove2.me/theorems/8982eb59-f23f-4d27-b40c-0d4dd6cf64b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_hasSecondLogDeriv_mul
 -- name    : Formalism.L2.Th1.C.hasSecondLogDeriv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:08.27309+00:00
 -- url     : https://prove2.me/theorems/613cdf02-b7ff-4e9a-9c2b-5a8f845b01e7

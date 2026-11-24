@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SectionsFourToSixTransfer_exact_coefficient_difference
 -- name    : Formalism.LFunctionChainParameters.SectionsFourToSixTransfer.exact_coefficient_difference
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:04.75639+00:00
 -- url     : https://prove2.me/theorems/ae7adf11-e265-4f23-99e6-be25e09a8b2e

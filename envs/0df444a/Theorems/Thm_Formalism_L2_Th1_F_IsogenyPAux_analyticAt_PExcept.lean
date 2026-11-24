@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_IsogenyPAux_analyticAt_PExcept
 -- name    : Formalism.L2.Th1.F.IsogenyPAux.analyticAt_PExcept
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:47.82206+00:00
 -- url     : https://prove2.me/theorems/acea1445-e5df-45aa-acb2-24f7b305b9e5

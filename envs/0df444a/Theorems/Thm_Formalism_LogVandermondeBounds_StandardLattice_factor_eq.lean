@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_factor_eq
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.factor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:57.950249+00:00
 -- url     : https://prove2.me/theorems/7ed51ddd-4618-44a5-b2f3-e66c156ea737

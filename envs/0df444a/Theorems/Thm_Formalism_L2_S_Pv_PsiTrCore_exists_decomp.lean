@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_PsiTrCore_exists_decomp
 -- name    : Formalism.L2.S.Pv.PsiTrCore.exists_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:25.108946+00:00
 -- url     : https://prove2.me/theorems/2eb33dbe-344c-4974-88b3-ec2fde153360

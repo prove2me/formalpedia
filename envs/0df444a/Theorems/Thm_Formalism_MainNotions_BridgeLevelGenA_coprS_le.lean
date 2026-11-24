@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLevelGenA_coprS_le
 -- name    : Formalism.MainNotions.BridgeLevelGenA.coprS_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:00.084802+00:00
 -- url     : https://prove2.me/theorems/9a5813d5-781f-47b4-8359-f1ec42aea6e9

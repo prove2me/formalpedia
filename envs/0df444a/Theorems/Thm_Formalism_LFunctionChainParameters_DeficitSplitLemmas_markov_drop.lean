@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_markov_drop
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.markov_drop
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:29.504992+00:00
 -- url     : https://prove2.me/theorems/3c96e9ae-2fb0-4d78-b08f-e277394e2551

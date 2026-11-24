@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_nO_of_rel
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.nO_of_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:48:25.44052+00:00
 -- url     : https://prove2.me/theorems/2e5532c4-20d3-425d-8645-d6f772e5fef9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThreeTermRelation_threeTermNum_eq_zero_right
 -- name    : Formalism.L2.Th1.F.ThreeTermRelation.threeTermNum_eq_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:48:16.496831+00:00
 -- url     : https://prove2.me/theorems/46416842-6b3a-4199-afa3-eb01c4a7a236

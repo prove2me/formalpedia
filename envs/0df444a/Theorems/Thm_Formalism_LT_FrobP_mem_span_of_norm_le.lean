@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_FrobP_mem_span_of_norm_le
 -- name    : Formalism.LT.FrobP.mem_span_of_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:27.315237+00:00
 -- url     : https://prove2.me/theorems/20e1755f-6fbd-4057-8821-479609dafd61

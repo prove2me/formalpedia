@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLevelGenA_mem_of_disjoint
 -- name    : Formalism.MainNotions.BridgeLevelGenA.mem_of_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:56.610972+00:00
 -- url     : https://prove2.me/theorems/fe287939-003f-4217-be94-f97c8c158110

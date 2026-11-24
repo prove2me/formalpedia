@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_SZ_T1
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.SZ.T1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:35.358467+00:00
 -- url     : https://prove2.me/theorems/316f8177-8533-4901-b135-c7fb7cc2dfb8

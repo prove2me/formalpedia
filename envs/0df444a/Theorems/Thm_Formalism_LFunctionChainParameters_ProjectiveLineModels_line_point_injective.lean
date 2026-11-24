@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ProjectiveLineModels_line_point_injective
 -- name    : Formalism.LFunctionChainParameters.ProjectiveLineModels.line_point_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:24.210486+00:00
 -- url     : https://prove2.me/theorems/786e508d-9f6b-479d-90c0-316d52a9a189

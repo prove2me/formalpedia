@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_OnePole_zeta_local
 -- name    : Formalism.L2.Th1.F.OnePole.zeta_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:49.387105+00:00
 -- url     : https://prove2.me/theorems/84ccb1ce-dfa4-48a1-af24-5fea4d502de9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_map_tableauBideterminant
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.map_tableauBideterminant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:25:07.507041+00:00
 -- url     : https://prove2.me/theorems/01b7d0c7-a465-4702-bc36-76c3b62d2b25

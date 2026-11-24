@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_CR_chpsC_ne_zero
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.CR.chpsC_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:49.834504+00:00
 -- url     : https://prove2.me/theorems/7120f609-0a3a-49e5-90db-cf5c368f680d

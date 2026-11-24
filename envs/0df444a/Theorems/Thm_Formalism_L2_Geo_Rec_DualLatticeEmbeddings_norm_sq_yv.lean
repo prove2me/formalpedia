@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Rec_DualLatticeEmbeddings_norm_sq_yv
 -- name    : Formalism.L2.Geo.Rec.DualLatticeEmbeddings.norm_sq_yv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:58.477932+00:00
 -- url     : https://prove2.me/theorems/435eb7b8-de2a-474d-aa3b-324bbde8d066

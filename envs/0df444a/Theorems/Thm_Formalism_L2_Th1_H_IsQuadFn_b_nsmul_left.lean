@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_IsQuadFn_b_nsmul_left
 -- name    : Formalism.L2.Th1.H.IsQuadFn.b_nsmul_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:17.398728+00:00
 -- url     : https://prove2.me/theorems/4f29e3f9-164c-487a-afa3-8b8439abeac8

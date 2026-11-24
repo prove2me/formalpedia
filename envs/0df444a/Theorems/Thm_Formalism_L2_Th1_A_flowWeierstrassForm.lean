@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_flowWeierstrassForm
 -- name    : Formalism.L2.Th1.A.flowWeierstrassForm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:22.236856+00:00
 -- url     : https://prove2.me/theorems/bbadc577-51c0-467f-adb3-3af9478b2d29

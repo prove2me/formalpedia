@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_CharacteristicFromRanks_CH_of_lenCoker
 -- name    : Formalism.L2.FormalSeriesBounds.CharacteristicFromRanks.CH_of_lenCoker
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:20.189586+00:00
 -- url     : https://prove2.me/theorems/8cb0277d-9371-4661-b23f-72d9a967de35

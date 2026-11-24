@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_Pair_constantCoeff_inVar_eq_zero
 -- name    : Formalism.L2.Th1.D.Pair.constantCoeff_inVar_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:23:19.021268+00:00
 -- url     : https://prove2.me/theorems/f1ce421a-d3e0-4922-827d-91f6d9ed301c

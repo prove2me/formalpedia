@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_matrixFormBasic
 -- name    : Formalism.L2.Th1.H.matrixFormBasic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:20.686187+00:00
 -- url     : https://prove2.me/theorems/b0ab39d7-cdf7-43f5-b211-46025ef95997

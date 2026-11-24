@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PeriodAreaSignLemmas_exists_coord
 -- name    : Formalism.L2.Th1.F.PeriodAreaSignLemmas.exists_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:47:46.117823+00:00
 -- url     : https://prove2.me/theorems/d198816a-fdbb-400f-b388-c464981d7e95

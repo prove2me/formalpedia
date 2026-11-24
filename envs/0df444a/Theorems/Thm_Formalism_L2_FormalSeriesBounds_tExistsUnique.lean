@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_tExistsUnique
 -- name    : Formalism.L2.FormalSeriesBounds.tExistsUnique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:09.32984+00:00
 -- url     : https://prove2.me/theorems/a52548ee-0350-422c-b51c-2e79831b208c

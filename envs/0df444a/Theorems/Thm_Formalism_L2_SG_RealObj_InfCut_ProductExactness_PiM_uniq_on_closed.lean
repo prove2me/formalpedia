@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RealObj_InfCut_ProductExactness_PiM_uniq_on_closed
 -- name    : Formalism.L2.SG.RealObj.InfCut.ProductExactness.PiM.uniq_on_closed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:25:51.727301+00:00
 -- url     : https://prove2.me/theorems/6885eea7-1e9d-41de-ac9c-706ab33035ce

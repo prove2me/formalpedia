@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_sw_euler_monomial
 -- name    : Formalism.L2.G.Model.sw_euler_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:47.035074+00:00
 -- url     : https://prove2.me/theorems/bc35a4b0-e4fa-42e3-afad-2f6bfb77289f

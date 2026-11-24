@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_CocyclePolynomialSubmodules_N_le_QS
 -- name    : Formalism.LIFT.CocyclePolynomialSubmodules.N_le_QS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:10.069791+00:00
 -- url     : https://prove2.me/theorems/1870c12e-73da-4799-af2d-95d1bceb25c2

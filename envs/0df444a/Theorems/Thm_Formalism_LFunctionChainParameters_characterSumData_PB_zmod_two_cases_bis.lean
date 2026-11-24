@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_PB_zmod_two_cases_bis
 -- name    : Formalism.LFunctionChainParameters.characterSumData.PB.zmod_two_cases_bis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:46.408019+00:00
 -- url     : https://prove2.me/theorems/9d277003-befe-4fde-9122-46ad195914f2

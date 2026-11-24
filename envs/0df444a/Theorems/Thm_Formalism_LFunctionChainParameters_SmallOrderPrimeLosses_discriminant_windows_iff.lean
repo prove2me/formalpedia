@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SmallOrderPrimeLosses_discriminant_windows_iff
 -- name    : Formalism.LFunctionChainParameters.SmallOrderPrimeLosses.discriminant_windows_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:20.223847+00:00
 -- url     : https://prove2.me/theorems/5a3b8e14-84f3-4758-9a7e-3aca414fb80c

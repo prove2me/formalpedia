@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Jets_inv_dz_eq
 -- name    : Formalism.L2.Th1.B.Jets.inv_dz_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:33.73478+00:00
 -- url     : https://prove2.me/theorems/0c2e2095-a2f5-4d8a-bdfe-99b57b8238b1

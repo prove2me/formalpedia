@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ProjectiveLineModels_local_length_self_eq_zero
 -- name    : Formalism.LFunctionChainParameters.ProjectiveLineModels.local_length_self_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:57.273679+00:00
 -- url     : https://prove2.me/theorems/bd099547-f0c8-4016-9873-bf186647642f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_IntegralMvPolynomialLemmas_pderiv_subst_coe
 -- name    : Formalism.L2.Th1.C.IntegralMvPolynomialLemmas.pderiv_subst_coe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:45.967417+00:00
 -- url     : https://prove2.me/theorems/14ec9d0f-9aac-416b-83c0-577ee22af5cc

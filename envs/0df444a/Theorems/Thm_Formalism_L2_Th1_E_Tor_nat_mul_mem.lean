@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Tor_nat_mul_mem
 -- name    : Formalism.L2.Th1.E.Tor.nat_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:50.527951+00:00
 -- url     : https://prove2.me/theorems/04a81e62-53a3-4b8f-88ba-2dd9051d8bd5

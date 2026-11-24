@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_cayleyGaussianIntegrals_lin_fact
 -- name    : Formalism.L2.Th1.H.cayleyGaussianIntegrals_lin_fact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:49:04.341103+00:00
 -- url     : https://prove2.me/theorems/b872f92b-f7bf-4957-9cb7-0b12d666869e

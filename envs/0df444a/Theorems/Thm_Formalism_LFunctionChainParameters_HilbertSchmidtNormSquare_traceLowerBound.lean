@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtNormSquare_traceLowerBound
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtNormSquare.traceLowerBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:07.876708+00:00
 -- url     : https://prove2.me/theorems/914a36fb-f67a-496c-9c44-7d796aaea210

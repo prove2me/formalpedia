@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_matrixForm_fourfoldBlock_firstBlockEmb
 -- name    : Formalism.L2.Th1.H.matrixForm_fourfoldBlock_firstBlockEmb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:45.057873+00:00
 -- url     : https://prove2.me/theorems/71d05666-2411-457d-8d96-5bde896891e7

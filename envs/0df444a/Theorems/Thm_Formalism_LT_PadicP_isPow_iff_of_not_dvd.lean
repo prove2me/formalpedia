@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_PadicP_isPow_iff_of_not_dvd
 -- name    : Formalism.LT.PadicP.isPow_iff_of_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:34.068333+00:00
 -- url     : https://prove2.me/theorems/7d142f4e-2aa6-4917-84e0-c60ffde48c45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Sim_simeq_integral_series
 -- name    : Formalism.L2.Th1.B.Sim.simeq_integral_series
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:23.345538+00:00
 -- url     : https://prove2.me/theorems/880283a2-aa17-43c4-8bc1-aa6388e846fa

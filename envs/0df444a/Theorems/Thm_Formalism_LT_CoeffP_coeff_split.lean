@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_CoeffP_coeff_split
 -- name    : Formalism.LT.CoeffP.coeff_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:42.37853+00:00
 -- url     : https://prove2.me/theorems/9da1f1fb-ef95-46f3-9d20-3d26f4b69a37

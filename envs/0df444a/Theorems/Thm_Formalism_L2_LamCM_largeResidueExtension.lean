@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_largeResidueExtension
 -- name    : Formalism.L2.LamCM.largeResidueExtension
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:56.374141+00:00
 -- url     : https://prove2.me/theorems/9379553b-abad-4a60-912c-093ca6b3e67a

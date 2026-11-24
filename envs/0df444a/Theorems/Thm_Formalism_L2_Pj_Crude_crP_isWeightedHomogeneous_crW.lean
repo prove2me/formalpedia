@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crP_isWeightedHomogeneous_crW
 -- name    : Formalism.L2.Pj.Crude.crP_isWeightedHomogeneous_crW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:39:40.939798+00:00
 -- url     : https://prove2.me/theorems/dcc9adcd-d12e-4906-afc8-07334e27a682

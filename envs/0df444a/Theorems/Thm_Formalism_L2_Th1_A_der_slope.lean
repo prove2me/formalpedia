@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_der_slope
 -- name    : Formalism.L2.Th1.A.der_slope
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:19:45.297966+00:00
 -- url     : https://prove2.me/theorems/2fa89a9f-407e-4707-8177-cac90479b8a1

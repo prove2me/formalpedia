@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PairingIndexBounds_Mv_fourier_transform_identity_holds
 -- name    : Formalism.L2.PairingIndexBounds.Mv.fourier_transform_identity_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:59.957797+00:00
 -- url     : https://prove2.me/theorems/fb638327-ba1f-45a0-b66a-73038de229ab

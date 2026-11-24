@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TorusDerivation_iter_pow
 -- name    : Formalism.L2.Th1.D.TorusDerivation.iter_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:59.943882+00:00
 -- url     : https://prove2.me/theorems/300bf881-33cd-42c6-8f4c-312fcab95839

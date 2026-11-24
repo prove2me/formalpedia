@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_FrobeniusSubstitution_pderiv_prod
 -- name    : Formalism.InvariantFactorPaths.G7.FrobeniusSubstitution.pderiv_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:11:42.776906+00:00
 -- url     : https://prove2.me/theorems/3eab43d5-ed8d-4ad0-b374-49e3d4f4bed0

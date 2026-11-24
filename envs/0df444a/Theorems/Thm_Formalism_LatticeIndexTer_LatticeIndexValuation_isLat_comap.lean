@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_LatticeIndexValuation_isLat_comap
 -- name    : Formalism.LatticeIndexTer.LatticeIndexValuation.isLat_comap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:00.343804+00:00
 -- url     : https://prove2.me/theorems/f8659720-6a71-4fdc-a439-9aa544c05cde

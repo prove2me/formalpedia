@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_FormalGroupSystem_Pf_Gen_C_mem
 -- name    : Formalism.MainNotions.FormalGroupSystem.Pf.Gen.C_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:54:34.791995+00:00
 -- url     : https://prove2.me/theorems/e11aa9c2-82b0-4b55-8a19-a170807b0646

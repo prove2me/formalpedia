@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtNormSquare_hsSq_split
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtNormSquare.hsSq_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:11.097195+00:00
 -- url     : https://prove2.me/theorems/5b59710e-f324-4604-be7a-72fd3b6d6790

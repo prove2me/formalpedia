@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RealObj_InfCut_ProductExactness_PiM_lintegral_pi_prod
 -- name    : Formalism.L2.SG.RealObj.InfCut.ProductExactness.PiM.lintegral_pi_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:19:01.650639+00:00
 -- url     : https://prove2.me/theorems/1f44cf87-4b7e-42f9-82b0-05fb288a1bac

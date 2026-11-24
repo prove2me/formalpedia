@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_ph_ge_neg_one
 -- name    : Formalism.LatticeIndexTer.ph_ge_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:52:12.611643+00:00
 -- url     : https://prove2.me/theorems/62ddaff2-79e3-414f-94c2-016e1fd2ca75

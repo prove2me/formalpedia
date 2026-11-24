@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Plus_xL_eq
 -- name    : Formalism.L2.Th1.A.Plus.xL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:15:38.781098+00:00
 -- url     : https://prove2.me/theorems/f063d2a5-d7f2-49bd-b5c0-77f0faa9d03f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_space_vanishing_holds
 -- name    : Formalism.InvariantFactorPaths.L4.space_vanishing_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:27:57.506845+00:00
 -- url     : https://prove2.me/theorems/c4581ba8-c3a4-4927-8d66-fed07ff26bf7

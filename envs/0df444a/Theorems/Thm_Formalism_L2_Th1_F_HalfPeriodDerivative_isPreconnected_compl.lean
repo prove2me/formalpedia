@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_HalfPeriodDerivative_isPreconnected_compl
 -- name    : Formalism.L2.Th1.F.HalfPeriodDerivative.isPreconnected_compl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:49.840813+00:00
 -- url     : https://prove2.me/theorems/9c3c7fb0-d6df-46fe-a549-3da073543013

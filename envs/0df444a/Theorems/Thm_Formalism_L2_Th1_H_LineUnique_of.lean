@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_LineUnique_of
 -- name    : Formalism.L2.Th1.H.LineUnique_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:13.927992+00:00
 -- url     : https://prove2.me/theorems/c15083d7-4093-4d90-a374-597428403c66

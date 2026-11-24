@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemOne_exists_limit
 -- name    : Formalism.InvariantFactorPaths.G7.LemOne.exists_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:45.355856+00:00
 -- url     : https://prove2.me/theorems/edf374d3-cd1e-46b8-8e32-948c6448c6f4

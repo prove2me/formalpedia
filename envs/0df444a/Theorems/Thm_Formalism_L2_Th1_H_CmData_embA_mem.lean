@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_CmData_embA_mem
 -- name    : Formalism.L2.Th1.H.CmData.embA_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:06.823455+00:00
 -- url     : https://prove2.me/theorems/d52e9a5b-ebda-467d-92a2-32324ae1e634

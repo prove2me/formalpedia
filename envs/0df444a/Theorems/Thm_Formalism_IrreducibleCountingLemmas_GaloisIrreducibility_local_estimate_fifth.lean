@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_local_estimate_fifth
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.local_estimate_fifth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:48.735769+00:00
 -- url     : https://prove2.me/theorems/6ce9eabf-ecca-44e9-91d6-08262311370c

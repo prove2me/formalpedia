@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_constantCoeff_derivative_lam
 -- name    : Formalism.L2.Th1.C.constantCoeff_derivative_lam
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:31.973433+00:00
 -- url     : https://prove2.me/theorems/fd60e71b-6368-4134-9763-1ae2645e64eb

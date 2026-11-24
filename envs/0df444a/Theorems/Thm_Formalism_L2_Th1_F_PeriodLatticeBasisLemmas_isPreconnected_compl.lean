@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PeriodLatticeBasisLemmas_isPreconnected_compl
 -- name    : Formalism.L2.Th1.F.PeriodLatticeBasisLemmas.isPreconnected_compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:47:49.215908+00:00
 -- url     : https://prove2.me/theorems/87286b77-d0d1-4350-be26-0238f6aa26c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Cmp_extK_unique
 -- name    : Formalism.L2.G.Cmp.extK_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:12:03.009153+00:00
 -- url     : https://prove2.me/theorems/095b3929-1355-4659-bd1b-d56c0eb5930f

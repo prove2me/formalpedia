@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_L6_UnitaryStandardVectors_conj_apply
 -- name    : Formalism.L2.S.L6.UnitaryStandardVectors.conj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:19.134798+00:00
 -- url     : https://prove2.me/theorems/c1f3fd77-7646-40c7-aad0-5bf994823e9b

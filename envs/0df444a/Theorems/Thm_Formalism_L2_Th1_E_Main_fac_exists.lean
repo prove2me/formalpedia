@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Main_fac_exists
 -- name    : Formalism.L2.Th1.E.Main.fac_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:43.364047+00:00
 -- url     : https://prove2.me/theorems/f79d0ba2-5b5d-4f92-8615-855e473601f9

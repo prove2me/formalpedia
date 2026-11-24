@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SectionsFourToSixTransfer_logT_bounds
 -- name    : Formalism.LFunctionChainParameters.SectionsFourToSixTransfer.logT_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:40.285378+00:00
 -- url     : https://prove2.me/theorems/8098f7c0-c819-4321-bff9-92f886a6bc9d

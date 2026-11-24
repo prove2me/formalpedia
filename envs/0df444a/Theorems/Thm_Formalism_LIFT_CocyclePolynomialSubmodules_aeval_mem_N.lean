@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_CocyclePolynomialSubmodules_aeval_mem_N
 -- name    : Formalism.LIFT.CocyclePolynomialSubmodules.aeval_mem_N
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:20.671109+00:00
 -- url     : https://prove2.me/theorems/a6f19952-2674-42a4-b5e2-56eccdf0956e

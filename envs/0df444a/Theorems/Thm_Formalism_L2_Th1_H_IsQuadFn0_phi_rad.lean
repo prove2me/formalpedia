@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_IsQuadFn0_phi_rad
 -- name    : Formalism.L2.Th1.H.IsQuadFn0.phi_rad
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:45.57332+00:00
 -- url     : https://prove2.me/theorems/be83f5c8-3f57-4706-9173-49860178194a

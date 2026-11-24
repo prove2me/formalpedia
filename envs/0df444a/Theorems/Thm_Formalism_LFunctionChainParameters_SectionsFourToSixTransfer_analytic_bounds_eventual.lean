@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SectionsFourToSixTransfer_analytic_bounds_eventual
 -- name    : Formalism.LFunctionChainParameters.SectionsFourToSixTransfer.analytic_bounds_eventual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:37.995956+00:00
 -- url     : https://prove2.me/theorems/41c0c8aa-c216-4f0d-b54e-14ff66715e33

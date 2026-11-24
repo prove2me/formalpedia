@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_exist3_of
 -- name    : Formalism.L2.Pj.exist3_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:02:46.386869+00:00
 -- url     : https://prove2.me/theorems/b77c8eb5-164a-466b-9421-460ff5f2e497

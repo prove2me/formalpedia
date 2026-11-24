@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FundamentalDomainD5_nondeg
 -- name    : Formalism.L2.Pj.FundamentalDomainD5.nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:47.583854+00:00
 -- url     : https://prove2.me/theorems/e9469cf0-c743-4136-b8a6-9428c2733312

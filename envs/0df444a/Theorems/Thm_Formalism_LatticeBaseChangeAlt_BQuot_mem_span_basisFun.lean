@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_BQuot_mem_span_basisFun
 -- name    : Formalism.LatticeBaseChangeAlt.BQuot.mem_span_basisFun
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:03.173833+00:00
 -- url     : https://prove2.me/theorems/14c3baed-0a1e-411f-bdb8-90a52f90c715

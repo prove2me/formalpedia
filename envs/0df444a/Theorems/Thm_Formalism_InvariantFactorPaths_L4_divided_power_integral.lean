@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_divided_power_integral
 -- name    : Formalism.InvariantFactorPaths.L4.divided_power_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:13.738055+00:00
 -- url     : https://prove2.me/theorems/d0cb41c3-6718-4e31-aeaf-302243fa30b7

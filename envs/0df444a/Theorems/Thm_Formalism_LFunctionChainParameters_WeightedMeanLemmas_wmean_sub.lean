@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_WeightedMeanLemmas_wmean_sub
 -- name    : Formalism.LFunctionChainParameters.WeightedMeanLemmas.wmean_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:49:20.231258+00:00
 -- url     : https://prove2.me/theorems/37fa0070-ac67-437a-bfe6-4d9b57db62a4

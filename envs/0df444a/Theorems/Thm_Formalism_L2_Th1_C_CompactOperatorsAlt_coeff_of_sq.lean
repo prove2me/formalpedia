@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_CompactOperatorsAlt_coeff_of_sq
 -- name    : Formalism.L2.Th1.C.CompactOperatorsAlt.coeff_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:47.114104+00:00
 -- url     : https://prove2.me/theorems/ebb2a2fd-ccc3-40c3-8c17-c465adc1ad75

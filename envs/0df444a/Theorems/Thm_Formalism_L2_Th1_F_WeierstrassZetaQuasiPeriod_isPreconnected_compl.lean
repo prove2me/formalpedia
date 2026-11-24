@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_WeierstrassZetaQuasiPeriod_isPreconnected_compl
 -- name    : Formalism.L2.Th1.F.WeierstrassZetaQuasiPeriod.isPreconnected_compl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:27.244665+00:00
 -- url     : https://prove2.me/theorems/d62d49f3-40d7-4753-b154-7298a07e3994

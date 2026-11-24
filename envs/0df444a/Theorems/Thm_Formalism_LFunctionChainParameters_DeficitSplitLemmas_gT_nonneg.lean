@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_gT_nonneg
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.gT_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:06.334698+00:00
 -- url     : https://prove2.me/theorems/3854893d-5fbe-4aa8-b472-e12277cb9b50

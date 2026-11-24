@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_filtration_eq_holds
 -- name    : Formalism.InvariantFactorPaths.L4.filtration_eq_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:24.706114+00:00
 -- url     : https://prove2.me/theorems/a9584901-0140-4ceb-b6f7-cf6920ed023c

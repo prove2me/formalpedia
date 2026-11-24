@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DatLin_two_card
 -- name    : Formalism.L2.Pj.DatLin.two_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:15:16.81188+00:00
 -- url     : https://prove2.me/theorems/9f56149f-8da2-41bb-972a-adcff659f222

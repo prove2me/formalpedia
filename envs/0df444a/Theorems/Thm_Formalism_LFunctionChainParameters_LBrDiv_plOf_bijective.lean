@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_plOf_bijective
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.plOf_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:56.934966+00:00
 -- url     : https://prove2.me/theorems/c7c9f6a0-4f84-4053-840a-4ef6f130313d

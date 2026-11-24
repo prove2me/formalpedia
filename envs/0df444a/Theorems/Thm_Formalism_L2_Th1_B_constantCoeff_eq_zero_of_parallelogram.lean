@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_constantCoeff_eq_zero_of_parallelogram
 -- name    : Formalism.L2.Th1.B.constantCoeff_eq_zero_of_parallelogram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:42:06.119747+00:00
 -- url     : https://prove2.me/theorems/9ad8105f-f6c5-4d05-8bc8-a511cd189ab3

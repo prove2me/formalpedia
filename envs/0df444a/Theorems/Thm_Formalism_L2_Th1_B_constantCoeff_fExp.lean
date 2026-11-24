@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_constantCoeff_fExp
 -- name    : Formalism.L2.Th1.B.constantCoeff_fExp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:09:51.737111+00:00
 -- url     : https://prove2.me/theorems/6363d68b-1628-498b-a580-e6939affb526

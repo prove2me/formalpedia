@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_prod_blockSlice_firstBlockEmb
 -- name    : Formalism.L2.Th1.H.prod_blockSlice_firstBlockEmb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:25.641821+00:00
 -- url     : https://prove2.me/theorems/48e3a595-3850-4428-b0d3-6097bec15e76

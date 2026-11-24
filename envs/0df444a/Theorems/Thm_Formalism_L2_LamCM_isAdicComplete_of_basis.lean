@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_isAdicComplete_of_basis
 -- name    : Formalism.L2.LamCM.isAdicComplete_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:56.101918+00:00
 -- url     : https://prove2.me/theorems/b69598a3-8e4e-4ebd-a117-940f0bd0f388

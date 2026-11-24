@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_periodicity_solvable
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.periodicity_solvable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:04.076047+00:00
 -- url     : https://prove2.me/theorems/e3e2e877-6ef4-4bbf-8178-ca056a918cb5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_LatticeIndexBis_exists_indep
 -- name    : Formalism.LatticeBaseChangeAlt.LatticeIndexBis.exists_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:52:18.978222+00:00
 -- url     : https://prove2.me/theorems/91b1f470-8753-40ea-afd4-d3a982e6dc09

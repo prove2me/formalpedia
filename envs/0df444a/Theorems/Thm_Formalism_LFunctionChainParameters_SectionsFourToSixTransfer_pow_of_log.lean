@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SectionsFourToSixTransfer_pow_of_log
 -- name    : Formalism.LFunctionChainParameters.SectionsFourToSixTransfer.pow_of_log
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:32.537167+00:00
 -- url     : https://prove2.me/theorems/a77436db-08d1-47f5-857d-e83d11d7a93f

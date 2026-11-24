@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_LocalLatticeBases_factorMap_injective
 -- name    : Formalism.L2.GlobalTheoryTheory.LocalLatticeBases.factorMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:08.919875+00:00
 -- url     : https://prove2.me/theorems/7902f2d1-671a-4b4b-97c8-7fb7840f40bb

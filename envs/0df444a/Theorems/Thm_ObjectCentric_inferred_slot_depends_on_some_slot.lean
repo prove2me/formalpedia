@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObjectCentric_inferred_slot_depends_on_some_slot
 -- name    : ObjectCentric.inferred_slot_depends_on_some_slot
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T19:39:10.555784+00:00
 -- url     : https://prove2.me/theorems/54cc348d-c9f2-406a-b808-29dc0c209c9b

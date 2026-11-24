@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_CompactOperatorsAlt_int_of_eq
 -- name    : Formalism.L2.Th1.C.CompactOperatorsAlt.int_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:05.334844+00:00
 -- url     : https://prove2.me/theorems/2517dc8f-7ffb-433e-a891-53611f23d988

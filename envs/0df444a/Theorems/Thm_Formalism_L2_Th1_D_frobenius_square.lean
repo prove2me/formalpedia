@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_frobenius_square
 -- name    : Formalism.L2.Th1.D.frobenius_square
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:14:02.960199+00:00
 -- url     : https://prove2.me/theorems/ab08d88a-548a-494f-bf46-c1dba69527f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_quad_bound
 -- name    : Formalism.L2.Th1.H.quad_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:08.33838+00:00
 -- url     : https://prove2.me/theorems/55ff6f3a-201e-45d8-8d5a-e2c3f46e2f96

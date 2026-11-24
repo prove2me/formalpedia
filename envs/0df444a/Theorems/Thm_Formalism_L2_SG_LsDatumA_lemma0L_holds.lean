@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_LsDatumA_lemma0L_holds
 -- name    : Formalism.L2.SG.LsDatumA.lemma0L_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:07.071951+00:00
 -- url     : https://prove2.me/theorems/a2f40b5e-7f7a-42a9-9934-a0f724180583

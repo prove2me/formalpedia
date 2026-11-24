@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_integral_part_closure
 -- name    : Formalism.L2.Th1.D.integral_part_closure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:52.912341+00:00
 -- url     : https://prove2.me/theorems/ba546ce6-549f-4df0-b54b-58961df26322

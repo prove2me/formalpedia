@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_invariant_integral_holds
 -- name    : Formalism.InvariantFactorPaths.PW.invariant_integral_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:45:19.911051+00:00
 -- url     : https://prove2.me/theorems/0e96246e-16e8-4606-b3cc-f64d0bbf2281

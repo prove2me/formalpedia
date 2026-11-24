@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoefficientSupportCongruences_DeS_Gser
 -- name    : Formalism.InvariantFactorPaths.G7.CoefficientSupportCongruences.DeS_Gser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:21:56.264881+00:00
 -- url     : https://prove2.me/theorems/4bcecc82-2fa0-4be0-a9f8-edd3f023eae1

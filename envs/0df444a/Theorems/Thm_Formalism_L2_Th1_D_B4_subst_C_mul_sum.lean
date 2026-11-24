@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_B4_subst_C_mul_sum
 -- name    : Formalism.L2.Th1.D.B4.subst_C_mul_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:25:48.527447+00:00
 -- url     : https://prove2.me/theorems/e9b8ae72-2caf-4694-a1fa-f17e7e7acfbc

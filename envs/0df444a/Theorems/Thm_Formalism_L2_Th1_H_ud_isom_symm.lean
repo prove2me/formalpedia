@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_ud_isom_symm
 -- name    : Formalism.L2.Th1.H.ud_isom_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:39.521883+00:00
 -- url     : https://prove2.me/theorems/2114eeba-ca2a-44d9-845a-4c20a416251d

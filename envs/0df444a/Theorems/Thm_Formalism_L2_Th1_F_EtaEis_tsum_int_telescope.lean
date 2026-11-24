@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_EtaEis_tsum_int_telescope
 -- name    : Formalism.L2.Th1.F.EtaEis.tsum_int_telescope
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:51.185716+00:00
 -- url     : https://prove2.me/theorems/f6d6f2f1-fee5-47ab-a2fc-d9824407a871

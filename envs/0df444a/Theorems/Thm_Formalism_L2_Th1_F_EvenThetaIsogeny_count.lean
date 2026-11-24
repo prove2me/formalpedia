@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_EvenThetaIsogeny_count
 -- name    : Formalism.L2.Th1.F.EvenThetaIsogeny.count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:42.590956+00:00
 -- url     : https://prove2.me/theorems/2378fb8b-9678-4861-bb6c-d3bc36e59f87

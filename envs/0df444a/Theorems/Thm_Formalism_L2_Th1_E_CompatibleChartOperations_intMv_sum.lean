@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_CompatibleChartOperations_intMv_sum
 -- name    : Formalism.L2.Th1.E.CompatibleChartOperations.intMv_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:25.232857+00:00
 -- url     : https://prove2.me/theorems/71f26c25-0737-40dd-bc52-4cf3a160d6d5

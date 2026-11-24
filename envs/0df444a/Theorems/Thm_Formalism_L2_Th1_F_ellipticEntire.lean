@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ellipticEntire
 -- name    : Formalism.L2.Th1.F.ellipticEntire
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:25.098639+00:00
 -- url     : https://prove2.me/theorems/61a4f5de-65e2-46a0-afa7-0d123b420d40

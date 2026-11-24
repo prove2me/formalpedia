@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_modCond_p_smul
 -- name    : Formalism.InvariantFactorPaths.L4.modCond_p_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:27.937429+00:00
 -- url     : https://prove2.me/theorems/e45a3c5b-964f-43bc-a0ed-16b3aaebb951

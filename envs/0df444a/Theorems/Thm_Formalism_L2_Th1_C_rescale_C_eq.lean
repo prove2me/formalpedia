@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_rescale_C_eq
 -- name    : Formalism.L2.Th1.C.rescale_C_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:06.232923+00:00
 -- url     : https://prove2.me/theorems/1fccf0da-9206-4114-ab52-b3890a58b0a7

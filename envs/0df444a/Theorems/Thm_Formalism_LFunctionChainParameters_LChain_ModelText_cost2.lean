@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_ModelText_cost2
 -- name    : Formalism.LFunctionChainParameters.LChain.ModelText.cost2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:24.782122+00:00
 -- url     : https://prove2.me/theorems/d02c0b49-185a-4906-8a0d-6358c67048ad

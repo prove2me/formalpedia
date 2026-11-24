@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_flipTwoThree_gamma_term
 -- name    : Formalism.LogVandermondeBounds.flipTwoThree.gamma_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:53:04.734804+00:00
 -- url     : https://prove2.me/theorems/2f2961ad-9d1f-4ed2-9d4b-185eca69915f

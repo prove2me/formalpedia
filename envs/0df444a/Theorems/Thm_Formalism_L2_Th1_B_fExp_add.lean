@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_fExp_add
 -- name    : Formalism.L2.Th1.B.fExp_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:04:19.964833+00:00
 -- url     : https://prove2.me/theorems/43a7fadb-250b-4dde-a06a-beb88353212e

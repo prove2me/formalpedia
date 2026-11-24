@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_log_absNorm_idealPow
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.log_absNorm_idealPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:50:28.212523+00:00
 -- url     : https://prove2.me/theorems/c57ec3e0-2d58-4c41-b43f-a8ef036bc92f

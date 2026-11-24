@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_gauss_plane
 -- name    : Formalism.L2.Th1.H.gauss_plane
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:33.908605+00:00
 -- url     : https://prove2.me/theorems/a223b74d-23bc-4081-ac60-bdd04e83c2f6

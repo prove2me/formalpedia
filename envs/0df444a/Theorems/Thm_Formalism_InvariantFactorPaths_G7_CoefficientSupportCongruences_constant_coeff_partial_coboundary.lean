@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoefficientSupportCongruences_constant_coeff_partial_coboundary
 -- name    : Formalism.InvariantFactorPaths.G7.CoefficientSupportCongruences.constant_coeff_partial_coboundary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:22:18.936414+00:00
 -- url     : https://prove2.me/theorems/70795f7e-b9fc-41c7-9c5d-8ad70d48a3da

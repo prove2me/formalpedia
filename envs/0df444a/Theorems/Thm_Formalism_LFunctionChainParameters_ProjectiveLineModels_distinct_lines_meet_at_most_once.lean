@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ProjectiveLineModels_distinct_lines_meet_at_most_once
 -- name    : Formalism.LFunctionChainParameters.ProjectiveLineModels.distinct_lines_meet_at_most_once
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:52.631956+00:00
 -- url     : https://prove2.me/theorems/00dc427a-38d5-414d-9e6f-80389f29ad4b

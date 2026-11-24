@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_half_sq_sub_le
 -- name    : Formalism.L2.Th1.H.half_sq_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:17.23951+00:00
 -- url     : https://prove2.me/theorems/b7b71e7b-5b87-4800-a9c9-519e92d082cb

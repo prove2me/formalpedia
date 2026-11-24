@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_xcFD_restrict
 -- name    : Formalism.L2.Pj.FJ.xcFD_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:40.130828+00:00
 -- url     : https://prove2.me/theorems/f393d838-6bf7-4e3a-a809-c0d2274aa53d

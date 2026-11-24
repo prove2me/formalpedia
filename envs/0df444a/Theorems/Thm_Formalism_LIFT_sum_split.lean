@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_sum_split
 -- name    : Formalism.LIFT.sum_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:49:59.986743+00:00
 -- url     : https://prove2.me/theorems/728e28a7-f3c1-4f94-9697-9b73b3027e5a

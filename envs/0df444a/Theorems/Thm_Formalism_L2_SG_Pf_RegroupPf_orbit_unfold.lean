@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RegroupPf_orbit_unfold
 -- name    : Formalism.L2.SG.Pf.RegroupPf.orbit_unfold
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:26.542131+00:00
 -- url     : https://prove2.me/theorems/20650359-e77d-4006-a2c3-13365c80ddc3

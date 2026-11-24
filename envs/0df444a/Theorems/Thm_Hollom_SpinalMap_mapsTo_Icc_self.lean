@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hollom_SpinalMap_mapsTo_Icc_self
 -- name    : Hollom.SpinalMap.mapsTo_Icc_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:47.385133+00:00
 -- url     : https://prove2.me/theorems/c354e1bc-7af6-47e9-8310-849f5aab87dc

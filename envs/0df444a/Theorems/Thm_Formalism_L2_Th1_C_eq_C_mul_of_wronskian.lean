@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_eq_C_mul_of_wronskian
 -- name    : Formalism.L2.Th1.C.eq_C_mul_of_wronskian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:51.230385+00:00
 -- url     : https://prove2.me/theorems/0b0dd8e2-17f1-4b19-8303-5fb228c498a3

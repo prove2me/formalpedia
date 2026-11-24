@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_GenericSectionMinimum_IsDer_mul_map_pow
 -- name    : Formalism.L2.Pj.GenericSectionMinimum.IsDer.mul_map_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:35.753984+00:00
 -- url     : https://prove2.me/theorems/5cfc6857-0de3-4236-a166-252f544403e9

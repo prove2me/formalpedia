@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_zeta_odd
 -- name    : Formalism.L2.Th1.F.zeta_odd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:13.169817+00:00
 -- url     : https://prove2.me/theorems/13c3070d-303e-426d-b840-7e5f2ea2b547

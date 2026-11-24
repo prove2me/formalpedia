@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PeriodLatticeBasisLemmas_semiChar_ne_zero
 -- name    : Formalism.L2.Th1.F.PeriodLatticeBasisLemmas.semiChar_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:40.991888+00:00
 -- url     : https://prove2.me/theorems/cc6b68d1-2295-4ab5-b71b-def73bf8e590

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Tor_omegaK_sq
 -- name    : Formalism.L2.Th1.E.Tor.omegaK_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:25.205302+00:00
 -- url     : https://prove2.me/theorems/552df5df-f4a3-4384-8001-3d00de6053ff

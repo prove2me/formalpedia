@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ProjectiveLineModels_power_hyp_to_ramified
 -- name    : Formalism.LFunctionChainParameters.ProjectiveLineModels.power_hyp_to_ramified
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:27.932946+00:00
 -- url     : https://prove2.me/theorems/b1e87c9e-7cdb-428b-a52b-2ecbe7b849c3

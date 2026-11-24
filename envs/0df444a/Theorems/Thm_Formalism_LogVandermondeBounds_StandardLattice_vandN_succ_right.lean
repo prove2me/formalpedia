@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_vandN_succ_right
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.vandN_succ_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:38.066123+00:00
 -- url     : https://prove2.me/theorems/e8669643-0d36-4bb2-8bf1-d21356446679

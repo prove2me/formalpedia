@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_Pmin_degree
 -- name    : Formalism.L2.Pj.Crude.Pmin_degree
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:07.669836+00:00
 -- url     : https://prove2.me/theorems/71f7355e-dd00-46ae-978a-8f9988fbc84c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_Cay_gram_det_ne_zero
 -- name    : Formalism.L2.Th1.H.Cay.gram_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:48.222796+00:00
 -- url     : https://prove2.me/theorems/be202543-a2ea-44b7-a81c-a6e50278c784

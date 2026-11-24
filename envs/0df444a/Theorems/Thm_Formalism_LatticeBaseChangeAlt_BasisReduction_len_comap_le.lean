@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_BasisReduction_len_comap_le
 -- name    : Formalism.LatticeBaseChangeAlt.BasisReduction.len_comap_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:51:41.968995+00:00
 -- url     : https://prove2.me/theorems/818f57be-5bfb-4616-93cf-da3e5e2500fb

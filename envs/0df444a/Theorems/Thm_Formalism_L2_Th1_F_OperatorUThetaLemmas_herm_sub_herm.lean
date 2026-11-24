@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_OperatorUThetaLemmas_herm_sub_herm
 -- name    : Formalism.L2.Th1.F.OperatorUThetaLemmas.herm_sub_herm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:36.967582+00:00
 -- url     : https://prove2.me/theorems/200ba12e-f097-4402-87d4-e528f9910b69

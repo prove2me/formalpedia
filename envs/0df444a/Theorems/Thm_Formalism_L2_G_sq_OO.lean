@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_sq_OO
 -- name    : Formalism.L2.G.sq_OO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:18:05.277575+00:00
 -- url     : https://prove2.me/theorems/a7895475-c7e6-4b2f-9e1d-6c7643feb6ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Ser_unitAt_mul
 -- name    : Formalism.L2.Th1.E.Ser.unitAt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:36.892555+00:00
 -- url     : https://prove2.me/theorems/38b8e5a7-bd23-4a9f-afbf-3e34cea6c7ca

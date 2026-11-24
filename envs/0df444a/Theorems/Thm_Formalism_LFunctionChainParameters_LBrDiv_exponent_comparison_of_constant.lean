@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_exponent_comparison_of_constant
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.exponent_comparison_of_constant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:56.915748+00:00
 -- url     : https://prove2.me/theorems/b25ab95f-3db7-4ee8-8ba6-10c3724efd6c

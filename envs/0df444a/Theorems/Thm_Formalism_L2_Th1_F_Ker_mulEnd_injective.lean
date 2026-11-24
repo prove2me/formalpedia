@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Ker_mulEnd_injective
 -- name    : Formalism.L2.Th1.F.Ker.mulEnd_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:01.075086+00:00
 -- url     : https://prove2.me/theorems/f02813ab-1d41-4ba3-b85e-c62d9519637b

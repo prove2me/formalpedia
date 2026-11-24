@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_ip_lgF_funEq
 -- name    : Formalism.L2.Th1.D.ip_lgF_funEq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:42.873503+00:00
 -- url     : https://prove2.me/theorems/60bd7057-9bc0-45cf-8d89-5cb64160c4d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_keyDegCore_core
 -- name    : Formalism.L2.LamCM.keyDegCore_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:18.185792+00:00
 -- url     : https://prove2.me/theorems/c1f094db-726a-4d54-b4f3-bfc0d9e23fbf

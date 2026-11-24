@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_log_dimVN
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.log_dimVN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:52:37.379798+00:00
 -- url     : https://prove2.me/theorems/c8492cc1-1176-4464-a77f-32f57d97b95d

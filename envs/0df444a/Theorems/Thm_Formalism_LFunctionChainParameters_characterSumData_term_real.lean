@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_term_real
 -- name    : Formalism.LFunctionChainParameters.characterSumData.term_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:47.638942+00:00
 -- url     : https://prove2.me/theorems/325fb6d2-fd92-49e9-9e96-1aa108d1a993

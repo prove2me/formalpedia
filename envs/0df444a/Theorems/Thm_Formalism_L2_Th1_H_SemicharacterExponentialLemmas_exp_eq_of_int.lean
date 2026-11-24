@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_SemicharacterExponentialLemmas_exp_eq_of_int
 -- name    : Formalism.L2.Th1.H.SemicharacterExponentialLemmas.exp_eq_of_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:49:48.512396+00:00
 -- url     : https://prove2.me/theorems/59a6a395-cdc8-4477-bfec-d9141dc257f7

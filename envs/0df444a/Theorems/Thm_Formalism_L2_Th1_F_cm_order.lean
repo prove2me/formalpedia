@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_cm_order
 -- name    : Formalism.L2.Th1.F.cm_order
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:26.785297+00:00
 -- url     : https://prove2.me/theorems/2e605ee8-f200-49e9-ae3f-5a16bd99c163

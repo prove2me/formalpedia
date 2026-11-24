@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Taylor_ode_zero
 -- name    : Formalism.L2.Th1.F.Taylor.ode_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:32.490775+00:00
 -- url     : https://prove2.me/theorems/b6470533-2450-4789-b462-578495d21d3b

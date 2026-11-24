@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_le_ph_sub
 -- name    : Formalism.LatticeIndexTer.le_ph_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:52:29.840563+00:00
 -- url     : https://prove2.me/theorems/08e54c58-7647-4ca3-97c1-1c3ad2d7f052

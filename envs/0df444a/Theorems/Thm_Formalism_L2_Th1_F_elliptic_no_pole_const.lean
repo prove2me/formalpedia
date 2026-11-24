@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_elliptic_no_pole_const
 -- name    : Formalism.L2.Th1.F.elliptic_no_pole_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:27:21.634016+00:00
 -- url     : https://prove2.me/theorems/94630e55-f451-41e3-9ba6-d19821f6b030

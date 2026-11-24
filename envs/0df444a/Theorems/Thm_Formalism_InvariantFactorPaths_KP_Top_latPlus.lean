@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_Top_latPlus
 -- name    : Formalism.InvariantFactorPaths.KP.Top.latPlus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:10.114158+00:00
 -- url     : https://prove2.me/theorems/1302f6be-ba3b-4a38-8e26-267a946be267

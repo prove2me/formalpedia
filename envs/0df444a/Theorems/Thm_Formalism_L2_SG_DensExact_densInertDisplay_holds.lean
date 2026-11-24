@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_DensExact_densInertDisplay_holds
 -- name    : Formalism.L2.SG.DensExact.densInertDisplay_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:29.278798+00:00
 -- url     : https://prove2.me/theorems/98f264a4-29d3-4557-b073-09e9b8e2d8ac

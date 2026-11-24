@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_IsogenySigmaQuotient_herm_mul
 -- name    : Formalism.L2.Th1.F.IsogenySigmaQuotient.herm_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:56.372803+00:00
 -- url     : https://prove2.me/theorems/ef9b173d-216d-477a-b0f6-6818815645be

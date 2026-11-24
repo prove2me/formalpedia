@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_S4_ch_minor
 -- name    : Formalism.L2.FormalSeriesBounds.S4.ch_minor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:25:50.057662+00:00
 -- url     : https://prove2.me/theorems/8a2e9dc0-8f95-457c-9c1a-894a38b98c0b

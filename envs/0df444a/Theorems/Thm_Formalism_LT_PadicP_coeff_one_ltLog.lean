@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_PadicP_coeff_one_ltLog
 -- name    : Formalism.LT.PadicP.coeff_one_ltLog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:05.990387+00:00
 -- url     : https://prove2.me/theorems/fb30165b-b178-490a-ae0b-f2c4e22faa47

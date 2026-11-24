@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_uc_cocycle_smul
 -- name    : Formalism.LIFT.uc_cocycle_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:50:15.773798+00:00
 -- url     : https://prove2.me/theorems/78ab14be-a847-4e9f-84c7-63beaf289d3b

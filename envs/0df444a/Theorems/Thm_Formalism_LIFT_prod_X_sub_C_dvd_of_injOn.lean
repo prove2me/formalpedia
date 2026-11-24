@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_prod_X_sub_C_dvd_of_injOn
 -- name    : Formalism.LIFT.prod_X_sub_C_dvd_of_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:50:16.506159+00:00
 -- url     : https://prove2.me/theorems/4b07a721-6b0c-481c-8a4b-341e42ea95bc

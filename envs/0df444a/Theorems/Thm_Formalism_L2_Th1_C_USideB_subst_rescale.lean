@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_USideB_subst_rescale
 -- name    : Formalism.L2.Th1.C.USideB.subst_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:24.467992+00:00
 -- url     : https://prove2.me/theorems/11f75b41-f43b-4820-9978-9fa5307b57d5

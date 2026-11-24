@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_S2IsogenyPsi_isPreconnected_dom
 -- name    : Formalism.L2.Th1.F.S2IsogenyPsi.isPreconnected_dom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:45.083089+00:00
 -- url     : https://prove2.me/theorems/6f0b4c2e-a98c-4619-826c-9438898d73c8

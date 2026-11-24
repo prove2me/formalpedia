@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_FormalExponential_isMul_root
 -- name    : Formalism.L2.Th1.D.FormalExponential.isMul_root
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:03:39.585801+00:00
 -- url     : https://prove2.me/theorems/baccdfca-72c6-4838-97df-7fbbf2d4cb17

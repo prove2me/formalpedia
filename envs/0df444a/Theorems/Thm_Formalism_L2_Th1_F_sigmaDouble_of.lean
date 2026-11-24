@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sigmaDouble_of
 -- name    : Formalism.L2.Th1.F.sigmaDouble_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:48.727446+00:00
 -- url     : https://prove2.me/theorems/0cc584c6-2e73-4bfe-9059-2337b167eb1d

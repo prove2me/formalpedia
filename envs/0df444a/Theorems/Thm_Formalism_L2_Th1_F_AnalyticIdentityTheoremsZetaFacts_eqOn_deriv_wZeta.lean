@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_AnalyticIdentityTheoremsZetaFacts_eqOn_deriv_wZeta
 -- name    : Formalism.L2.Th1.F.AnalyticIdentityTheoremsZetaFacts.eqOn_deriv_wZeta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:17.46189+00:00
 -- url     : https://prove2.me/theorems/d1ef2f17-907b-43a2-a260-47e636285135

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Cmp_li_basis
 -- name    : Formalism.L2.G.Cmp.li_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:53.593462+00:00
 -- url     : https://prove2.me/theorems/b751e3c7-a6c0-4831-8fc3-9f45fc52a4e7

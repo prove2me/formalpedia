@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DatLin_phi1_bijective
 -- name    : Formalism.L2.Pj.DatLin.phi1_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:34.022843+00:00
 -- url     : https://prove2.me/theorems/96559129-fe2f-43b9-a0bd-3a952c040058

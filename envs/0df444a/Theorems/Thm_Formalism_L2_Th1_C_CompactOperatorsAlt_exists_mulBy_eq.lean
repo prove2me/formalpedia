@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_CompactOperatorsAlt_exists_mulBy_eq
 -- name    : Formalism.L2.Th1.C.CompactOperatorsAlt.exists_mulBy_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:47.992969+00:00
 -- url     : https://prove2.me/theorems/8292a713-f12c-4a1a-b95c-bc00f600e904

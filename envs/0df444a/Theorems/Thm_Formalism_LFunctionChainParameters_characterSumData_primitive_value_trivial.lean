@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_primitive_value_trivial
 -- name    : Formalism.LFunctionChainParameters.characterSumData.primitive_value_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:49:23.303113+00:00
 -- url     : https://prove2.me/theorems/2a185dd1-fc04-4dbe-b77c-077275d85f81

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_IsQuadFn_sum_sq_of_anti
 -- name    : Formalism.L2.Th1.H.IsQuadFn.sum_sq_of_anti
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:57.464374+00:00
 -- url     : https://prove2.me/theorems/449ff156-0041-4d45-95c1-5292fc778559

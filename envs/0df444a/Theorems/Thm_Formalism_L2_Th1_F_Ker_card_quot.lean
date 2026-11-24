@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Ker_card_quot
 -- name    : Formalism.L2.Th1.F.Ker.card_quot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:26:12.907785+00:00
 -- url     : https://prove2.me/theorems/2474e7d1-d419-4961-8cb3-5e64f0b4f5f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_binom_zero_succ
 -- name    : Formalism.L2.Th1.C.binom_zero_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:45.284857+00:00
 -- url     : https://prove2.me/theorems/a9d686b7-9eb4-4bc2-85f9-eabc12f329ba

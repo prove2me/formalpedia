@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_KernelCokernelKilling_coeff_gLog_single
 -- name    : Formalism.L2.Th1.D.KernelCokernelKilling.coeff_gLog_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:24.640039+00:00
 -- url     : https://prove2.me/theorems/c4e152a0-7b3a-4a9c-a095-8717e80a942d

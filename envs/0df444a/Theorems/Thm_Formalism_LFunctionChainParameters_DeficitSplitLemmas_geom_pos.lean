@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_geom_pos
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.geom_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:34.858802+00:00
 -- url     : https://prove2.me/theorems/b482dbb9-7045-4529-a626-e14358d92c80

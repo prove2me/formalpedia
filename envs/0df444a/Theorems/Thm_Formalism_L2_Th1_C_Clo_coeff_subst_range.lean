@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Clo_coeff_subst_range
 -- name    : Formalism.L2.Th1.C.Clo.coeff_subst_range
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:01.56329+00:00
 -- url     : https://prove2.me/theorems/4ea550e5-5063-4696-9ebd-5848f8358e58

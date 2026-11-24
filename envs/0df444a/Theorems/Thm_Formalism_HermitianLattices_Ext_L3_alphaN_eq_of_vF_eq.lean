@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_alphaN_eq_of_vF_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.alphaN_eq_of_vF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:56.414002+00:00
 -- url     : https://prove2.me/theorems/76953762-a677-4f3a-bdd0-e608c451d0b1

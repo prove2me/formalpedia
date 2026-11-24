@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NCov_iSup_maxGen_eq_top
 -- name    : Formalism.L2.NCov.iSup_maxGen_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:36:54.57968+00:00
 -- url     : https://prove2.me/theorems/084ddf47-c2e3-4b61-b30c-301c092d38bb

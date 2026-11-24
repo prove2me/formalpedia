@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_continuous_diag
 -- name    : Formalism.L2.Th1.H.continuous_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:22.470143+00:00
 -- url     : https://prove2.me/theorems/de50dbe1-74d1-403c-95a1-d4664433683b

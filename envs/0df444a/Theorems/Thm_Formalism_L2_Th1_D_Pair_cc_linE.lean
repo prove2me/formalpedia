@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_Pair_cc_linE
 -- name    : Formalism.L2.Th1.D.Pair.cc_linE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:23:25.348822+00:00
 -- url     : https://prove2.me/theorems/2f55f53d-e378-431b-b944-4cb5a8c668f6

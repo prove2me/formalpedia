@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_adj_rowDiv_int
 -- name    : Formalism.L2.G.Model.TS.adj_rowDiv_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:17.236159+00:00
 -- url     : https://prove2.me/theorems/3fb6676f-99f4-4e2e-a9de-f340dcf3ace4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_DividedPowerNorms_norm_pow_div
 -- name    : Formalism.InvariantFactorPaths.G7.DividedPowerNorms.norm_pow_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:11:29.705791+00:00
 -- url     : https://prove2.me/theorems/7c46625b-01f2-4fe5-8d14-7de8a0500dcc

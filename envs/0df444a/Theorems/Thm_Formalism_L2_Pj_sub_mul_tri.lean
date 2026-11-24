@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_sub_mul_tri
 -- name    : Formalism.L2.Pj.sub_mul_tri
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:54.206605+00:00
 -- url     : https://prove2.me/theorems/dcfe0a77-b205-4bac-8e53-db0452bd76a3

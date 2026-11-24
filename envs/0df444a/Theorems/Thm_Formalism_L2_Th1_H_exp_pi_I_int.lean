@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_exp_pi_I_int
 -- name    : Formalism.L2.Th1.H.exp_pi_I_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:17.807713+00:00
 -- url     : https://prove2.me/theorems/c7da1bb4-4da3-4640-9eac-157ba0fa707a

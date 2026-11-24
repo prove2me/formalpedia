@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_ExtensionFiltration_opNormAt_le_of_points
 -- name    : Formalism.L2.Geo.ExtensionFiltration.opNormAt_le_of_points
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:53.970652+00:00
 -- url     : https://prove2.me/theorems/f4570b74-30e3-4943-9930-164b0c9ae104

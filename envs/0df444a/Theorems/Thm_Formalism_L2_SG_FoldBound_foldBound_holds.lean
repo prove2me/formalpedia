@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_FoldBound_foldBound_holds
 -- name    : Formalism.L2.SG.FoldBound.foldBound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:48:31.832796+00:00
 -- url     : https://prove2.me/theorems/deac9cb5-ca51-497c-897d-9dd528a8bd6a

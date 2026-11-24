@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_binom_pascal
 -- name    : Formalism.L2.Th1.C.binom_pascal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:44.587469+00:00
 -- url     : https://prove2.me/theorems/f4047986-8252-41df-aead-f2f83adef1fc

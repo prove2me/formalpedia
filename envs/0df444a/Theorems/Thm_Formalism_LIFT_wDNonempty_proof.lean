@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_wDNonempty_proof
 -- name    : Formalism.LIFT.wDNonempty_proof
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:47.776464+00:00
 -- url     : https://prove2.me/theorems/49529765-2942-4896-b9b9-b80c538143a2

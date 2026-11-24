@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_EtaEis_tendsto_one_div_linear
 -- name    : Formalism.L2.Th1.F.EtaEis.tendsto_one_div_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:43.979886+00:00
 -- url     : https://prove2.me/theorems/501ce9fe-1fba-4400-aa45-39c7218b96f4

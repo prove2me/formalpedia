@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_pairInv
 -- name    : Formalism.L2.DIV.pairInv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:58.918625+00:00
 -- url     : https://prove2.me/theorems/9c6ad6ea-6bd5-42c2-91e2-161a058c0296

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PeriodAreaSignLemmas_semiChar_coord
 -- name    : Formalism.L2.Th1.F.PeriodAreaSignLemmas.semiChar_coord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:14.728187+00:00
 -- url     : https://prove2.me/theorems/609e2910-e533-4243-b8f1-91a31953f6b1

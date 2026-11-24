@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SongZhangKLS_theorem_6_1
 -- name    : SongZhangKLS.theorem_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T23:07:41.089525+00:00
 -- url     : https://prove2.me/theorems/e102c8bd-fa70-4077-92b0-e6f84e164dae

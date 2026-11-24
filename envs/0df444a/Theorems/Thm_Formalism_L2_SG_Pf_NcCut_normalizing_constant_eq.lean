@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_NcCut_normalizing_constant_eq
 -- name    : Formalism.L2.SG.Pf.NcCut.normalizing_constant_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:30.032806+00:00
 -- url     : https://prove2.me/theorems/2f8ba6dc-0579-406b-96ff-cc6d9451eb83

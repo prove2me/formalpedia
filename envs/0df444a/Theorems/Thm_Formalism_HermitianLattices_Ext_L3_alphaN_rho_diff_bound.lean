@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_alphaN_rho_diff_bound
 -- name    : Formalism.HermitianLattices.Ext.L3.alphaN_rho_diff_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:51.055688+00:00
 -- url     : https://prove2.me/theorems/e5a30a65-8b64-4df5-939d-9436d0fe6786

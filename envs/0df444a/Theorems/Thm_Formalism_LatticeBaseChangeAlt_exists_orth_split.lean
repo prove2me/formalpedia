@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_exists_orth_split
 -- name    : Formalism.LatticeBaseChangeAlt.exists_orth_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:51:46.541382+00:00
 -- url     : https://prove2.me/theorems/bf791a7c-60e9-4854-8ea0-6154d55e64db

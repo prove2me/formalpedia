@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_comps_mul_eps
 -- name    : Formalism.LIFT.comps_mul_eps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:50.169859+00:00
 -- url     : https://prove2.me/theorems/4d860db3-f4ac-4b21-a03b-eaad7ea9e5fb

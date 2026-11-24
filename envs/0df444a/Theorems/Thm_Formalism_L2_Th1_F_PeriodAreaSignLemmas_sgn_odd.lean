@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PeriodAreaSignLemmas_sgn_odd
 -- name    : Formalism.L2.Th1.F.PeriodAreaSignLemmas.sgn_odd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:20.031832+00:00
 -- url     : https://prove2.me/theorems/a7e80b95-db1d-4c17-815e-1cef3cbc696e

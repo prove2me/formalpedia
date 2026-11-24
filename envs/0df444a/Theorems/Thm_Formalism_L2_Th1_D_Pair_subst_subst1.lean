@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_Pair_subst_subst1
 -- name    : Formalism.L2.Th1.D.Pair.subst_subst1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:23:39.717411+00:00
 -- url     : https://prove2.me/theorems/323fce32-aa7f-48e3-bd0c-d53b12dc0dd1

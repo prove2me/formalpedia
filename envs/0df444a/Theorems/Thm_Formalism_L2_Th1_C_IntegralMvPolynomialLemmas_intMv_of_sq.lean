@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_IntegralMvPolynomialLemmas_intMv_of_sq
 -- name    : Formalism.L2.Th1.C.IntegralMvPolynomialLemmas.intMv_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:58.677934+00:00
 -- url     : https://prove2.me/theorems/ef81b419-9137-4564-b0ce-1a9b993a58aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_SigmaAdditionFormula_additionQuotient_meromorphicAt
 -- name    : Formalism.L2.Th1.F.SigmaAdditionFormula.additionQuotient_meromorphicAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:21.699731+00:00
 -- url     : https://prove2.me/theorems/ab0142f6-20b2-4f1f-996e-eb632652b808

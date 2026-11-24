@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_LatticeDescentAlt_fg_inf
 -- name    : Formalism.LatticeBaseChangeAlt.LatticeDescentAlt.fg_inf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:17.176051+00:00
 -- url     : https://prove2.me/theorems/8e6bd42c-df88-4dae-843d-589b0f02a602

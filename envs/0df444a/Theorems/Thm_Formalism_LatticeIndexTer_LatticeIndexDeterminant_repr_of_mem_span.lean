@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_LatticeIndexDeterminant_repr_of_mem_span
 -- name    : Formalism.LatticeIndexTer.LatticeIndexDeterminant.repr_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:41.553489+00:00
 -- url     : https://prove2.me/theorems/3546e71d-3406-4205-8a51-59687084736e

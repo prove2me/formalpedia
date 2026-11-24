@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_ModelText_famAt
 -- name    : Formalism.LFunctionChainParameters.LChain.ModelText.famAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:59.262188+00:00
 -- url     : https://prove2.me/theorems/01f3fe12-f73b-4f8e-a88d-cad917d45f2b

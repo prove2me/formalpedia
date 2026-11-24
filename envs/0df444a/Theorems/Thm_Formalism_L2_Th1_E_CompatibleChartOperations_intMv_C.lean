@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_CompatibleChartOperations_intMv_C
 -- name    : Formalism.L2.Th1.E.CompatibleChartOperations.intMv_C
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:52.293537+00:00
 -- url     : https://prove2.me/theorems/4404e9e6-72b8-4c75-8913-a313fd3d51e7

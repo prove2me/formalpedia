@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_small_costs_split
 -- name    : Formalism.LFunctionChainParameters.LChain.small_costs_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:51.701452+00:00
 -- url     : https://prove2.me/theorems/2e074471-47ff-4b50-9427-6fbe3ce24711

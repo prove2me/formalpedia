@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_PB_chC_mul_self
 -- name    : Formalism.LFunctionChainParameters.characterSumData.PB.chC_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:49:48.068337+00:00
 -- url     : https://prove2.me/theorems/97469d08-4417-4945-9c06-89d6fb50efd9

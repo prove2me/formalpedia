@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_B4_linEL_congr
 -- name    : Formalism.L2.Th1.D.B4.linEL_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:25:14.4205+00:00
 -- url     : https://prove2.me/theorems/efbfa618-cdad-403b-8ee6-3d6f53acef5b

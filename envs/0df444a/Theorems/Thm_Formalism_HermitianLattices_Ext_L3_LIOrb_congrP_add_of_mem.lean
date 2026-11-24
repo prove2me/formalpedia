@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_congrP_add_of_mem
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.congrP_add_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:47:24.323579+00:00
 -- url     : https://prove2.me/theorems/6ba7d215-6bc0-44ec-8e36-e1975a109d43

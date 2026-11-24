@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PeriodLatticeBasisLemmas_exists_const
 -- name    : Formalism.L2.Th1.F.PeriodLatticeBasisLemmas.exists_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:31:17.515898+00:00
 -- url     : https://prove2.me/theorems/f77ab7ab-743e-4f52-b426-2672baf9c1d7

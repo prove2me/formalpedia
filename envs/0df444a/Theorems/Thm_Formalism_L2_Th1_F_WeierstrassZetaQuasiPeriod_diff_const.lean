@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_WeierstrassZetaQuasiPeriod_diff_const
 -- name    : Formalism.L2.Th1.F.WeierstrassZetaQuasiPeriod.diff_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:20.997077+00:00
 -- url     : https://prove2.me/theorems/d3b44c33-d0bd-4b4c-a77d-04f9e134d229

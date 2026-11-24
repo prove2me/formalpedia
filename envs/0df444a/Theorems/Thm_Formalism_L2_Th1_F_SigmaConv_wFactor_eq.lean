@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_SigmaConv_wFactor_eq
 -- name    : Formalism.L2.Th1.F.SigmaConv.wFactor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:57.4799+00:00
 -- url     : https://prove2.me/theorems/6d177fd2-e54f-4c5c-86b4-13f5bd2aa2a7

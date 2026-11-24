@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_WeightedSlopeBounds_key_identity5
 -- name    : Formalism.LFunctionChainParameters.WeightedSlopeBounds.key_identity5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:49:38.24899+00:00
 -- url     : https://prove2.me/theorems/668ae34f-8e58-4320-85e7-4f4c80f64665

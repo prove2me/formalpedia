@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_J_nO_prod
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.J.nO_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:54:15.320293+00:00
 -- url     : https://prove2.me/theorems/d22dc8a0-6096-43b1-8157-2b0b22fc0c8c

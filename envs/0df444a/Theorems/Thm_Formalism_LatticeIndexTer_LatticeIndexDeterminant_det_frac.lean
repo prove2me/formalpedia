@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_LatticeIndexDeterminant_det_frac
 -- name    : Formalism.LatticeIndexTer.LatticeIndexDeterminant.det_frac
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:28.263258+00:00
 -- url     : https://prove2.me/theorems/f146652d-a424-4a95-86fb-9d6e9e44f516

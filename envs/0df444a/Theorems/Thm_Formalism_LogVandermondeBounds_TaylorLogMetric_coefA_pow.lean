@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_TaylorLogMetric_coefA_pow
 -- name    : Formalism.LogVandermondeBounds.TaylorLogMetric.coefA_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:53:08.946453+00:00
 -- url     : https://prove2.me/theorems/794ccfa5-3e91-430e-942b-3114d5920a20

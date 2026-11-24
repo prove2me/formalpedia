@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_NcCut_nc_iff
 -- name    : Formalism.L2.SG.Pf.NcCut.nc_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:27.645719+00:00
 -- url     : https://prove2.me/theorems/ed5a311f-a38d-47ab-ae8c-077b9b2db555

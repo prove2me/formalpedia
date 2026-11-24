@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_LatticeIndexDeterminant_length_quot_range
 -- name    : Formalism.LatticeIndexTer.LatticeIndexDeterminant.length_quot_range
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:53.564329+00:00
 -- url     : https://prove2.me/theorems/a109ffc8-e057-449a-b394-fffa45896c2f

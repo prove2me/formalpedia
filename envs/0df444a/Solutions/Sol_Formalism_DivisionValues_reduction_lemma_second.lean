@@ -1,0 +1,43 @@
+-- Prove2me | solution 1 for Formalism.DivisionValues.reduction_lemma_second
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-24T10:32:05.430808+00:00
+-- url     : https://prove2.me/submissions/8106b39a-f292-4fe2-a236-c9b81b2975ed
+
+import Mathlib
+import Definitions.Def_Formalism_QuotientMetricDivisors_ProdFormula
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ConjTransposeEqOfPosDef
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_SpecDet
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_DeterminantCauchySchwarz
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_LcvBasis
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_IdxChange
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ReductionLemmaSecond
+import Theorems.Thm_Formalism_DivisionValues_lemmaRb_of
+import Theorems.Thm_Formalism_DivisionValues_covolume_via_basis
+import Theorems.Thm_Formalism_DivisionValues_determinant_cauchy_schwarz
+import Theorems.Thm_Formalism_DivisionValues_finite_sum_conjugation
+import Theorems.Thm_Formalism_DivisionValues_gram_matrix_change
+import Theorems.Thm_Formalism_DivisionValues_index_change_formula
+import Theorems.Thm_Formalism_DivisionValues_valuation_basic_properties
+import Theorems.Thm_P2M_Formalism_DivisionValues_prod_formula__ad6919c95c2d
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Module NumberField IsDedekindDomain
+open scoped Matrix ComplexOrder
+noncomputable section
+open Formalism Formalism.DivisionValues
+namespace Formalism.DivisionValues
+theorem _root_.solution : LemmaRb :=
+  lemmaRb_of prod_formula' determinant_cauchy_schwarz covolume_via_basis index_change_formula valuation_basic_properties
+    gram_matrix_change finite_sum_conjugation
+end Formalism.DivisionValues

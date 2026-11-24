@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LatticeToWeightTransfer_Model_ident
 -- name    : Formalism.LFunctionChainParameters.LatticeToWeightTransfer.Model.ident
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:10.348104+00:00
 -- url     : https://prove2.me/theorems/1fcebde7-e50c-4471-87d0-c75dbe1e1847

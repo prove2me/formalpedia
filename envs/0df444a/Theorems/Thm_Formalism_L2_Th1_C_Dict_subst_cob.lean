@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Dict_subst_cob
 -- name    : Formalism.L2.Th1.C.Dict.subst_cob
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:30:14.23878+00:00
 -- url     : https://prove2.me/theorems/f51f19bf-604e-42a1-a627-6ae834b96b95

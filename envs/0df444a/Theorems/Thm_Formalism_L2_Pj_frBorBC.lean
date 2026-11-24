@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_frBorBC
 -- name    : Formalism.L2.Pj.frBorBC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:48:15.957272+00:00
 -- url     : https://prove2.me/theorems/0a9b48f2-b00e-4544-a198-d98881baf8a8

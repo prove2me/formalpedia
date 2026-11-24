@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_rdOrbInt_of
 -- name    : Formalism.L2.Pj.FJ.rdOrbInt_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:14.246356+00:00
 -- url     : https://prove2.me/theorems/4c651b06-a899-4802-9e84-6529b9cd3f1b

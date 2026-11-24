@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_ballVolume
 -- name    : Formalism.LatticeBaseChangeAlt.ballVolume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:51:58.2196+00:00
 -- url     : https://prove2.me/theorems/7d28176d-41fe-4868-b6ba-2edbb4906426

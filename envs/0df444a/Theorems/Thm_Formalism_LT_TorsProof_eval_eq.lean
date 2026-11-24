@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_TorsProof_eval_eq
 -- name    : Formalism.LT.TorsProof.eval_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:52:07.579198+00:00
 -- url     : https://prove2.me/theorems/c437fc08-69c0-42f8-936d-ec53873b46a5

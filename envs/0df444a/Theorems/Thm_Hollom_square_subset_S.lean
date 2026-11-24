@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hollom_square_subset_S
 -- name    : Hollom.square_subset_S
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:10:14.385169+00:00
 -- url     : https://prove2.me/theorems/512d6517-f997-4702-a25c-394f4bbbc0c2

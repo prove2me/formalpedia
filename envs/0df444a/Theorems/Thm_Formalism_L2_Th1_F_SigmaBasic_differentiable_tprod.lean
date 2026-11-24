@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_SigmaBasic_differentiable_tprod
 -- name    : Formalism.L2.Th1.F.SigmaBasic.differentiable_tprod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:24:50.763771+00:00
 -- url     : https://prove2.me/theorems/5a87ead0-1042-4a52-bfb4-caa979bfdd45

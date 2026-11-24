@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_vAtV_zero
 -- name    : Formalism.L2.Pj.vAtV_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:01.46307+00:00
 -- url     : https://prove2.me/theorems/c06ee2c2-4ec4-4a46-8c5e-29ff3b9c1887

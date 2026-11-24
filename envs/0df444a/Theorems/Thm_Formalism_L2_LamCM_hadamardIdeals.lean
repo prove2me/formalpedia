@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_hadamardIdeals
 -- name    : Formalism.L2.LamCM.hadamardIdeals
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:03:23.958028+00:00
 -- url     : https://prove2.me/theorems/5eeda5ab-c437-4c9a-a66c-8b9f4a0f1e3d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_Asm_map_lift
 -- name    : Formalism.LT.Asm.map_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:50:30.178801+00:00
 -- url     : https://prove2.me/theorems/102b19ea-2ebb-43fa-9644-677f6fcc9d7e

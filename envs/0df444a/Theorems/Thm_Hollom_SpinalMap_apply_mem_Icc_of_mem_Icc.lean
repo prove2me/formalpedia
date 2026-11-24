@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hollom_SpinalMap_apply_mem_Icc_of_mem_Icc
 -- name    : Hollom.SpinalMap.apply_mem_Icc_of_mem_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:10:38.158523+00:00
 -- url     : https://prove2.me/theorems/7105e5bd-1c1d-4bee-93f9-22f8aada2f9e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_strip_le
 -- name    : Formalism.InvariantFactorPaths.L4.strip_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:03:50.264877+00:00
 -- url     : https://prove2.me/theorems/6ebec84b-d7b4-4381-bf05-e2bc6b8d54e4

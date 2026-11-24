@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_summable_gauss_of_discrete
 -- name    : Formalism.L2.Th1.H.summable_gauss_of_discrete
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:39.601322+00:00
 -- url     : https://prove2.me/theorems/41df952d-6810-42d1-b460-d12c84aec9f7

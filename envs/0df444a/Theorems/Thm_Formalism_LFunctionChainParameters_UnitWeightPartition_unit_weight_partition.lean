@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_UnitWeightPartition_unit_weight_partition
 -- name    : Formalism.LFunctionChainParameters.UnitWeightPartition.unit_weight_partition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:49:31.171199+00:00
 -- url     : https://prove2.me/theorems/76adfcad-befc-4270-84d4-6355f98d032c

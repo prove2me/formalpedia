@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TorusDerivation_constantCoeff_expF
 -- name    : Formalism.L2.Th1.D.TorusDerivation.constantCoeff_expF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:29.532804+00:00
 -- url     : https://prove2.me/theorems/2150a771-753a-4040-9978-072c484ddd16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThetaZeroHermitianLemmas_herm_conj
 -- name    : Formalism.L2.Th1.F.ThetaZeroHermitianLemmas.herm_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:47:58.272722+00:00
 -- url     : https://prove2.me/theorems/b6d4a4b8-c298-4305-82ea-7ac75dcd015f

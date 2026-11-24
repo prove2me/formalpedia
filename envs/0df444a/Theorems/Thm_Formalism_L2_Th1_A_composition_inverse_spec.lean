@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_composition_inverse_spec
 -- name    : Formalism.L2.Th1.A.composition_inverse_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:03:47.014165+00:00
 -- url     : https://prove2.me/theorems/c20e2af4-1ddd-435d-93ae-c8e58fea7b5f

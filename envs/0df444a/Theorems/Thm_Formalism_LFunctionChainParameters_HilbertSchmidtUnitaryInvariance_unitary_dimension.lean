@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_unitary_dimension
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.unitary_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:04.396312+00:00
 -- url     : https://prove2.me/theorems/411c4974-5a41-41f1-a7cb-4a7534750221

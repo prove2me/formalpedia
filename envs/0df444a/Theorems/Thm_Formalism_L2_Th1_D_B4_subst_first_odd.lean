@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_B4_subst_first_odd
 -- name    : Formalism.L2.Th1.D.B4.subst_first_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:25:51.718322+00:00
 -- url     : https://prove2.me/theorems/2def26fa-ef27-4bbc-ad1b-55c98931bee9

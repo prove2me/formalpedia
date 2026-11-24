@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_PadicP_map_map_unitBall
 -- name    : Formalism.LT.PadicP.map_map_unitBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:52:06.130036+00:00
 -- url     : https://prove2.me/theorems/906c4327-7b0f-402e-b0d4-f165a7cab492

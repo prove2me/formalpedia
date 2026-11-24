@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_one_le_log
 -- name    : Formalism.LatticeIndexTer.one_le_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:52:21.554009+00:00
 -- url     : https://prove2.me/theorems/66bd2889-45da-44fb-8900-cbc4f02733c6

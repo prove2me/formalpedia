@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_coeff_corr
 -- name    : Formalism.LT.LTL.coeff_corr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:50:45.377782+00:00
 -- url     : https://prove2.me/theorems/520b72a0-c2e6-4eaa-89d6-ae8179ad7f4a

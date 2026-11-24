@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_finrank_comap_bij
 -- name    : Formalism.L2.Indef.finrank_comap_bij
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:59:53.613207+00:00
 -- url     : https://prove2.me/theorems/4d845466-01b0-496d-99ca-4348577982c4

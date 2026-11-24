@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_Asm_subst_zero_eq_rescale
 -- name    : Formalism.LT.Asm.subst_zero_eq_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:18.991994+00:00
 -- url     : https://prove2.me/theorems/21df201c-49f7-4573-a149-5f5ec3dc64ac

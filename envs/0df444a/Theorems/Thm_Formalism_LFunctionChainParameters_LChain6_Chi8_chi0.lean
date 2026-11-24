@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain6_Chi8_chi0
 -- name    : Formalism.LFunctionChainParameters.LChain6.Chi8.chi0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:42.120289+00:00
 -- url     : https://prove2.me/theorems/f27bf400-2b6a-4548-aec8-29443bebfc1d

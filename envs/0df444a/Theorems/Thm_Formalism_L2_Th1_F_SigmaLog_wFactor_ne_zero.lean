@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_SigmaLog_wFactor_ne_zero
 -- name    : Formalism.L2.Th1.F.SigmaLog.wFactor_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:50.020775+00:00
 -- url     : https://prove2.me/theorems/1b52a2c7-3435-4fbc-8e79-7fc66cbf7279

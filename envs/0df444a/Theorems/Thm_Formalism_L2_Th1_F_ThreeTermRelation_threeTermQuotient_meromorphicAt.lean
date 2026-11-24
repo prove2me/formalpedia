@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThreeTermRelation_threeTermQuotient_meromorphicAt
 -- name    : Formalism.L2.Th1.F.ThreeTermRelation.threeTermQuotient_meromorphicAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:48:17.714465+00:00
 -- url     : https://prove2.me/theorems/7c0d1c71-639f-46a8-acd1-e5eabc47b0fb

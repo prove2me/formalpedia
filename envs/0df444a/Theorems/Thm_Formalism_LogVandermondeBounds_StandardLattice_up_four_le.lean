@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_up_four_le
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.up_four_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:53:22.216551+00:00
 -- url     : https://prove2.me/theorems/d80a1ab0-c83e-455a-8185-74e0dcc6ca64

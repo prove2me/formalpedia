@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NGCut_TorsionTotientBound_torsionOrder_le
 -- name    : Formalism.L2.SG.NGCut.TorsionTotientBound.torsionOrder_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:54:33.38529+00:00
 -- url     : https://prove2.me/theorems/28267907-ea43-4093-a53a-baa685cca027

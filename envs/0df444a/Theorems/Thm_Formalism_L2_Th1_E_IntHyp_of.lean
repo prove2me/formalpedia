@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_IntHyp_of
 -- name    : Formalism.L2.Th1.E.IntHyp_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:46.017819+00:00
 -- url     : https://prove2.me/theorems/7d9d4c37-720e-489c-9747-cd084b597b3e

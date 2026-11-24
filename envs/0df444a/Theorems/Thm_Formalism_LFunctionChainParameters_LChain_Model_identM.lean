@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_Model_identM
 -- name    : Formalism.LFunctionChainParameters.LChain.Model.identM
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:03.072295+00:00
 -- url     : https://prove2.me/theorems/14080719-929a-49e3-97b7-17c7782a421d

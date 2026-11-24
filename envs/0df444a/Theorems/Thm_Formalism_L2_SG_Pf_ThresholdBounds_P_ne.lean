@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ThresholdBounds_P_ne
 -- name    : Formalism.L2.SG.Pf.ThresholdBounds.P_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:40:50.820717+00:00
 -- url     : https://prove2.me/theorems/540dda76-12e0-4c94-a6c1-f247e939178d

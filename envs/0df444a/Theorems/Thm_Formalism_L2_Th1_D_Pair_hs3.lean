@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_Pair_hs3
 -- name    : Formalism.L2.Th1.D.Pair.hs3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:23:29.791921+00:00
 -- url     : https://prove2.me/theorems/b6bbe41b-2c5e-4024-ad01-0556b4bbb82d

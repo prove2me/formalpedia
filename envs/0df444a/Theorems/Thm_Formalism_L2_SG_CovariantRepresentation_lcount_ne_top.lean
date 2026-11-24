@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_CovariantRepresentation_lcount_ne_top
 -- name    : Formalism.L2.SG.CovariantRepresentation.lcount_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:27.299539+00:00
 -- url     : https://prove2.me/theorems/2ee9746e-baf7-408e-83f6-159cb4271c72

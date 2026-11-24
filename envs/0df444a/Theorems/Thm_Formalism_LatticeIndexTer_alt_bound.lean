@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_alt_bound
 -- name    : Formalism.LatticeIndexTer.alt_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:20.333863+00:00
 -- url     : https://prove2.me/theorems/54cc8e4c-72a3-4cf2-ae68-98d0b2bb038e

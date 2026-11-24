@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_SigmaConv_norm_factor_sub_one_le
 -- name    : Formalism.L2.Th1.F.SigmaConv.norm_factor_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:46.39317+00:00
 -- url     : https://prove2.me/theorems/92f5435c-3159-458e-8824-d4920d99251c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_TaylorSigmaUniqueness_formal_unique
 -- name    : Formalism.L2.Th1.F.TaylorSigmaUniqueness.formal_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:48:49.090911+00:00
 -- url     : https://prove2.me/theorems/d07faeeb-7831-4769-8112-92f4983c0e61

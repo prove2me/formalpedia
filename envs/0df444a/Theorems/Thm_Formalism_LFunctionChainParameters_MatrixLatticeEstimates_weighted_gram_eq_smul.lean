@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_MatrixLatticeEstimates_weighted_gram_eq_smul
 -- name    : Formalism.LFunctionChainParameters.MatrixLatticeEstimates.weighted_gram_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:21.932258+00:00
 -- url     : https://prove2.me/theorems/33112065-b677-43d5-ae94-6dbaf5221953

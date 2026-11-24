@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_Asm_cc_subst2
 -- name    : Formalism.LT.Asm.cc_subst2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:04.031188+00:00
 -- url     : https://prove2.me/theorems/6f418d07-4bfe-490b-b8c6-144c38d8c2b3

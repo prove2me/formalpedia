@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVL_eulerFac_two_le
 -- name    : Formalism.MainNotions.BridgeLemVL.eulerFac_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:14.464419+00:00
 -- url     : https://prove2.me/theorems/d0eedb2a-78b3-48be-8ebd-eb51c6db1a05

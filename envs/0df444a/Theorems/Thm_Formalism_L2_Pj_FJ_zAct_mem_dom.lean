@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_zAct_mem_dom
 -- name    : Formalism.L2.Pj.FJ.zAct_mem_dom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:40.929428+00:00
 -- url     : https://prove2.me/theorems/5491dfc8-4fdc-47b0-8c65-9807cfcc04c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_rescale_pExp
 -- name    : Formalism.L2.Th1.C.rescale_pExp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:06.074469+00:00
 -- url     : https://prove2.me/theorems/5fff066d-c029-4262-a7a9-af0a527dc128

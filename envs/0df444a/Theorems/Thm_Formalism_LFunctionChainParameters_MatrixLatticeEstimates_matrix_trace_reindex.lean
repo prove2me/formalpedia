@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_MatrixLatticeEstimates_matrix_trace_reindex
 -- name    : Formalism.LFunctionChainParameters.MatrixLatticeEstimates.matrix_trace_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:07.788479+00:00
 -- url     : https://prove2.me/theorems/cec8eed0-f39a-477b-9114-723e9f3664d7

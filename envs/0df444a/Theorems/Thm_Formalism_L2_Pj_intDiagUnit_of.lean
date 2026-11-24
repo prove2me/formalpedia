@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_intDiagUnit_of
 -- name    : Formalism.L2.Pj.intDiagUnit_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:57:45.783788+00:00
 -- url     : https://prove2.me/theorems/77473227-3d35-4bea-9c5b-8da8544cc142

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Fgl1_nu_cc
 -- name    : Formalism.L2.Th1.A.Fgl1.nu_cc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:10:00.196797+00:00
 -- url     : https://prove2.me/theorems/e45539c8-6650-4e75-beb6-008e6bc0528c

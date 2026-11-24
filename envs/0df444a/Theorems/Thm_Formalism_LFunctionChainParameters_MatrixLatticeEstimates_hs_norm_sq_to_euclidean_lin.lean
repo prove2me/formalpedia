@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_MatrixLatticeEstimates_hs_norm_sq_to_euclidean_lin
 -- name    : Formalism.LFunctionChainParameters.MatrixLatticeEstimates.hs_norm_sq_to_euclidean_lin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:17.49424+00:00
 -- url     : https://prove2.me/theorems/5c6bec69-daa8-4059-8e6b-7dc71c19f75b

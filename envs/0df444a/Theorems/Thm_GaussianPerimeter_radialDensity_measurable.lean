@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_radialDensity_measurable
 -- name    : GaussianPerimeter.radialDensity_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:32.705645+00:00
 -- url     : https://prove2.me/theorems/238726a8-18de-4dcf-98a1-6a20b031755d

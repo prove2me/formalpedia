@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LLcv_span_inf
 -- name    : Formalism.LFunctionChainParameters.LLcv.span_inf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:26.192162+00:00
 -- url     : https://prove2.me/theorems/2c478271-8f3e-486d-bdcf-660aeff1b0a0

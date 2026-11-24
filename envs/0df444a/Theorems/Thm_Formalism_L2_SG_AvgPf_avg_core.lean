@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_AvgPf_avg_core
 -- name    : Formalism.L2.SG.AvgPf.avg_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:58.103187+00:00
 -- url     : https://prove2.me/theorems/688c5576-122a-42ea-b905-7f8f13ff7fbc

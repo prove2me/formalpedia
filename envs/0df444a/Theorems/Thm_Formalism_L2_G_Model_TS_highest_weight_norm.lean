@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_highest_weight_norm
 -- name    : Formalism.L2.G.Model.TS.highest_weight_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:06.767257+00:00
 -- url     : https://prove2.me/theorems/18a6aab2-60d8-4190-b6ee-d5ef0e7d678b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_exists_clear_col
 -- name    : Formalism.L2.Pj.exists_clear_col
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:45.848528+00:00
 -- url     : https://prove2.me/theorems/74ad38e6-b378-472d-9465-8248439e5def

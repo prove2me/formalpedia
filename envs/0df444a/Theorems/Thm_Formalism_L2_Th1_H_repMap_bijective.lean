@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_repMap_bijective
 -- name    : Formalism.L2.Th1.H.repMap_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:56.840857+00:00
 -- url     : https://prove2.me/theorems/a9b876df-642e-45e8-addb-04f000bca50c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_LatticeDescentAlt_span_inf_eq
 -- name    : Formalism.LatticeBaseChangeAlt.LatticeDescentAlt.span_inf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:17.959189+00:00
 -- url     : https://prove2.me/theorems/e1c5e152-ee5c-4297-9f52-32096ce69367

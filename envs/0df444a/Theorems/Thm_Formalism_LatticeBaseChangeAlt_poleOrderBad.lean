@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_poleOrderBad
 -- name    : Formalism.LatticeBaseChangeAlt.poleOrderBad
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:50.81287+00:00
 -- url     : https://prove2.me/theorems/c723f1cc-0ee0-4f13-b491-05903eb2b5f1

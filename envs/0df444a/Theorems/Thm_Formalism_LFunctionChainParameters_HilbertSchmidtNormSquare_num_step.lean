@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtNormSquare_num_step
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtNormSquare.num_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:23.26299+00:00
 -- url     : https://prove2.me/theorems/f9bac02a-dad5-4a16-a5b7-8f5ac55e9e38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantGroupCounts_range_trD
 -- name    : Formalism.L2.SG.Pf.discriminantGroupCounts.range_trD
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:25.511726+00:00
 -- url     : https://prove2.me/theorems/51d6b04a-cc93-4a62-a052-59dda3d855f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_prod_const_pow
 -- name    : Formalism.LT.LTL.prod_const_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:53.521639+00:00
 -- url     : https://prove2.me/theorems/a6d6af4c-9d46-4080-ad75-2b12c1760e0c

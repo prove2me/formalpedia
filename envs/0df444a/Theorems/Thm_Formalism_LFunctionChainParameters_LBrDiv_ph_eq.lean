@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_ph_eq
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.ph_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:09.569802+00:00
 -- url     : https://prove2.me/theorems/c0d04b10-0724-4a4e-beb5-1bfd0bf88482

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_UnitWeightPartition_truncatedLength_bound
 -- name    : Formalism.LFunctionChainParameters.UnitWeightPartition.truncatedLength_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:49:20.372634+00:00
 -- url     : https://prove2.me/theorems/0bf65015-d823-4a09-babf-cadfb316a7ed

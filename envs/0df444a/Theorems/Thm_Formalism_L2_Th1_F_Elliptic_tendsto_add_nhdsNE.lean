@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Elliptic_tendsto_add_nhdsNE
 -- name    : Formalism.L2.Th1.F.Elliptic.tendsto_add_nhdsNE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:40.961165+00:00
 -- url     : https://prove2.me/theorems/c08b8c92-5ad5-42ef-957b-38dfc554839f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_SigmaBasic_wFactor_zero_left
 -- name    : Formalism.L2.Th1.F.SigmaBasic.wFactor_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:27.408344+00:00
 -- url     : https://prove2.me/theorems/334fe4f7-5e20-4234-9f4c-be35ee4289d0

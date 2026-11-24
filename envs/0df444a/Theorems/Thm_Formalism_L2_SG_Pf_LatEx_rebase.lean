@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatEx_rebase
 -- name    : Formalism.L2.SG.Pf.LatEx.rebase
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:32.293087+00:00
 -- url     : https://prove2.me/theorems/30eaba9b-2c27-445b-8ded-2c8b49a673b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Cmp_li_of_li
 -- name    : Formalism.L2.G.Cmp.li_of_li
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:53.666374+00:00
 -- url     : https://prove2.me/theorems/2edd1662-210f-4e6e-9870-fecf2e75904a

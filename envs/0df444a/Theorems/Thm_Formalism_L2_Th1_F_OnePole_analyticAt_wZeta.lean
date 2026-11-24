@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_OnePole_analyticAt_wZeta
 -- name    : Formalism.L2.Th1.F.OnePole.analyticAt_wZeta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:09.49985+00:00
 -- url     : https://prove2.me/theorems/b4da1573-b32a-445f-a004-4334225f8525

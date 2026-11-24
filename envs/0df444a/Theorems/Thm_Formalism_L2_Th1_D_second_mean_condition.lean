@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_second_mean_condition
 -- name    : Formalism.L2.Th1.D.second_mean_condition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:04.254776+00:00
 -- url     : https://prove2.me/theorems/edf93a15-6a5d-4f58-b2d9-28396b279e6c

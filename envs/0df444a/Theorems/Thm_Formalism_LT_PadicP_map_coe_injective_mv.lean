@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_PadicP_map_coe_injective_mv
 -- name    : Formalism.LT.PadicP.map_coe_injective_mv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:51:57.966669+00:00
 -- url     : https://prove2.me/theorems/c7b612d1-dec5-420e-b82c-4c669a14dcb5

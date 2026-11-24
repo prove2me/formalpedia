@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_flipTwoThree_loss_bound_nonneg
 -- name    : Formalism.LogVandermondeBounds.flipTwoThree.loss_bound_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:53:06.388802+00:00
 -- url     : https://prove2.me/theorems/3beb1e37-0adb-4c9f-baee-f45af93084e7

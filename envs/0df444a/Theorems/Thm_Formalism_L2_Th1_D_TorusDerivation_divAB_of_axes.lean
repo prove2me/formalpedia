@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TorusDerivation_divAB_of_axes
 -- name    : Formalism.L2.Th1.D.TorusDerivation.divAB_of_axes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:40.420828+00:00
 -- url     : https://prove2.me/theorems/3319e91f-973f-4e83-9094-f65440b492af

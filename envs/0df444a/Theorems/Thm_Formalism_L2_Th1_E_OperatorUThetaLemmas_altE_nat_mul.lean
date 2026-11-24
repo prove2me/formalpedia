@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_OperatorUThetaLemmas_altE_nat_mul
 -- name    : Formalism.L2.Th1.E.OperatorUThetaLemmas.altE_nat_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:42.067076+00:00
 -- url     : https://prove2.me/theorems/ae20d325-5e8f-4ba2-83b2-e3842305d3ad

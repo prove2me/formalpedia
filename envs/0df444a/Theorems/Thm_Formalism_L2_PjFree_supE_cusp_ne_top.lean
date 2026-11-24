@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PjFree_supE_cusp_ne_top
 -- name    : Formalism.L2.PjFree.supE_cusp_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:41.603359+00:00
 -- url     : https://prove2.me/theorems/161912de-49d5-4384-a53b-2087a85c66bb

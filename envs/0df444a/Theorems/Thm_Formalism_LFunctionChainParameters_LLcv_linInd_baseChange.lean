@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LLcv_linInd_baseChange
 -- name    : Formalism.LFunctionChainParameters.LLcv.linInd_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:49:02.410392+00:00
 -- url     : https://prove2.me/theorems/b98894bb-a33c-4f4d-9090-50de5331331d

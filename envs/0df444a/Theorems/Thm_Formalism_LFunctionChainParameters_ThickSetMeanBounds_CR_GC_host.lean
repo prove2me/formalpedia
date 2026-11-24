@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_CR_GC_host
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.CR.GC_host
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:27.383501+00:00
 -- url     : https://prove2.me/theorems/c5263281-9f94-42b4-875e-dffb0af52a41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_locLen_congr
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.locLen_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:50:42.65444+00:00
 -- url     : https://prove2.me/theorems/ea2d9f6f-a05b-4dea-b5fc-d9d826bb8457

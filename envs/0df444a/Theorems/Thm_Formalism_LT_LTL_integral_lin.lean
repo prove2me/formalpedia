@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_integral_lin
 -- name    : Formalism.LT.LTL.integral_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:50:58.308602+00:00
 -- url     : https://prove2.me/theorems/c3f79632-e685-4e0c-9940-777400711036

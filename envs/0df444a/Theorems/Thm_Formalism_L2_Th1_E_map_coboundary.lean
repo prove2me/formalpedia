@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_map_coboundary
 -- name    : Formalism.L2.Th1.E.map_coboundary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:01.86675+00:00
 -- url     : https://prove2.me/theorems/fd358063-7666-4a22-a10c-f067f6604638

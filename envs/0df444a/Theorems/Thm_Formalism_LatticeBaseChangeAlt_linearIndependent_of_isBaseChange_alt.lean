@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_linearIndependent_of_isBaseChange_alt
 -- name    : Formalism.LatticeBaseChangeAlt.linearIndependent_of_isBaseChange_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:33.194869+00:00
 -- url     : https://prove2.me/theorems/969f731b-e6c1-46e9-887f-e2342a618e31

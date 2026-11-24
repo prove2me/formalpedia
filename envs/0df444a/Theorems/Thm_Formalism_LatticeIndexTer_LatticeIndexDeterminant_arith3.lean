@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_LatticeIndexDeterminant_arith3
 -- name    : Formalism.LatticeIndexTer.LatticeIndexDeterminant.arith3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:24.957005+00:00
 -- url     : https://prove2.me/theorems/3b80c99d-1be6-482f-b1a2-4887a6319660

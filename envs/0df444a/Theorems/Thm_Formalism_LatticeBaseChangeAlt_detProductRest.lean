@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_detProductRest
 -- name    : Formalism.LatticeBaseChangeAlt.detProductRest
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:24.737406+00:00
 -- url     : https://prove2.me/theorems/672a3d8a-fb95-4302-975f-1e8ebaf2fbae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_Asm_map_subst2
 -- name    : Formalism.LT.Asm.map_subst2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:50:37.476005+00:00
 -- url     : https://prove2.me/theorems/e9f3ca71-40c5-474b-81f5-0f85fed401c6

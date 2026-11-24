@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_FormalExponential_expF_eq
 -- name    : Formalism.L2.Th1.D.FormalExponential.expF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:49.486135+00:00
 -- url     : https://prove2.me/theorems/c8382fad-8290-4a9b-b98a-914e20cf9cb9

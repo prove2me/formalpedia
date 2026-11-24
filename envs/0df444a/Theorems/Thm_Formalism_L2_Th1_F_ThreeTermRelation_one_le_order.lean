@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThreeTermRelation_one_le_order
 -- name    : Formalism.L2.Th1.F.ThreeTermRelation.one_le_order
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:06.683557+00:00
 -- url     : https://prove2.me/theorems/701d4d14-5563-48c4-83f6-911172553814

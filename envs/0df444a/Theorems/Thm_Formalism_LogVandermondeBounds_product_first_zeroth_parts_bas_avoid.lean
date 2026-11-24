@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_product_first_zeroth_parts_bas_avoid
 -- name    : Formalism.LogVandermondeBounds.product_first_zeroth_parts.bas_avoid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:52:57.79667+00:00
 -- url     : https://prove2.me/theorems/15a9367e-da9f-4a79-95fd-90f180304600

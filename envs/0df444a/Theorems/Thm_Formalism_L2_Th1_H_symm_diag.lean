@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_symm_diag
 -- name    : Formalism.L2.Th1.H.symm_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:52.83029+00:00
 -- url     : https://prove2.me/theorems/3a7b8283-bf97-4421-acb2-92330c21694a

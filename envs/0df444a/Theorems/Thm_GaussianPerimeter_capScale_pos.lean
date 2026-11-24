@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_capScale_pos
 -- name    : GaussianPerimeter.capScale_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:27.788788+00:00
 -- url     : https://prove2.me/theorems/88636790-a2f9-4553-9363-7b3efdc653bb

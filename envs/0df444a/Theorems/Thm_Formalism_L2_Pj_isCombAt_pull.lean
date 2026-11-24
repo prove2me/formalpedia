@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_isCombAt_pull
 -- name    : Formalism.L2.Pj.isCombAt_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:37:00.729633+00:00
 -- url     : https://prove2.me/theorems/f5abc997-b99e-410a-ac2d-b65a74ee5118

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_ip_map_lgF
 -- name    : Formalism.L2.Th1.D.ip_map_lgF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:46.247511+00:00
 -- url     : https://prove2.me/theorems/055baa07-b9d4-4230-978a-325b46f56d4d

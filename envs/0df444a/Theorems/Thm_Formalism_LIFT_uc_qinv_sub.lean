@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_uc_qinv_sub
 -- name    : Formalism.LIFT.uc_qinv_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:45.94626+00:00
 -- url     : https://prove2.me/theorems/3fd0961c-70a9-44f3-adea-c518381e15bc

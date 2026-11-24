@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_trBE_nondeg
 -- name    : Formalism.L2.Pj.FJ.trBE_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:23.340525+00:00
 -- url     : https://prove2.me/theorems/20656097-7a26-4492-9713-c68999802ea0

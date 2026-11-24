@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_ModelEv_geo7
 -- name    : Formalism.LFunctionChainParameters.LChain.ModelEv.geo7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:16.24629+00:00
 -- url     : https://prove2.me/theorems/75621708-e058-4984-b848-e5b1d5bbfcf1

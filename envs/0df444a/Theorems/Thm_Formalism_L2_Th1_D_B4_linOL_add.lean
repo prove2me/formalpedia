@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_B4_linOL_add
 -- name    : Formalism.L2.Th1.D.B4.linOL_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:25:29.918321+00:00
 -- url     : https://prove2.me/theorems/7ce81a5b-e81b-4b1a-8725-ad5bfd0a2167

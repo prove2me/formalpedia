@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_sum_log_factorial
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.sum_log_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:53:27.683826+00:00
 -- url     : https://prove2.me/theorems/9512f0b7-8149-4f1e-afab-1760758671b7

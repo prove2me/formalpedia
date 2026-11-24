@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RealObj_InfCut_ProductExactness_PiM_factor_eq
 -- name    : Formalism.L2.SG.RealObj.InfCut.ProductExactness.PiM.factor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:55.889663+00:00
 -- url     : https://prove2.me/theorems/5559c3b6-2760-4fba-944f-d8b28d34ea4a

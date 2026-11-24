@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_FormalGroupSystem_Pf_Gen_coeff_prod_rename
 -- name    : Formalism.MainNotions.FormalGroupSystem.Pf.Gen.coeff_prod_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:54:08.744255+00:00
 -- url     : https://prove2.me/theorems/6d0acaae-18ff-4589-bf63-79e8996a1beb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_nO_ne_zero
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.nO_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:42:04.920518+00:00
 -- url     : https://prove2.me/theorems/99190c74-bdf6-4a1b-9916-9c40296334ee

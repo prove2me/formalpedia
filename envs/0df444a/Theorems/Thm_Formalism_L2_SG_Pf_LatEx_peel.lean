@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatEx_peel
 -- name    : Formalism.L2.SG.Pf.LatEx.peel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:47.079024+00:00
 -- url     : https://prove2.me/theorems/4325ea50-3e90-496f-8151-8268413cb9e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Ser_intS_pow
 -- name    : Formalism.L2.Th1.E.Ser.intS_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:18:42.448117+00:00
 -- url     : https://prove2.me/theorems/68f7bcd5-c0e3-4c2e-806d-3e6be3ef177a

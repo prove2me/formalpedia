@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Main_unitAt_of_oneUnit
 -- name    : Formalism.L2.Th1.E.Main.unitAt_of_oneUnit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:04.473415+00:00
 -- url     : https://prove2.me/theorems/ba328140-2f13-4136-a14a-977e5df82e25

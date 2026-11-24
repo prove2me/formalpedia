@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_MatrixLatticeEstimates_weighted_frame_operator_to_lin
 -- name    : Formalism.LFunctionChainParameters.MatrixLatticeEstimates.weighted_frame_operator_to_lin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:44.310857+00:00
 -- url     : https://prove2.me/theorems/b64f3986-727a-45c1-b4ea-32f5af1a2dca

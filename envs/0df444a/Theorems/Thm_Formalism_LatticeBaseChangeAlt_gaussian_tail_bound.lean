@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_gaussian_tail_bound
 -- name    : Formalism.LatticeBaseChangeAlt.gaussian_tail_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:15.261946+00:00
 -- url     : https://prove2.me/theorems/3bb57c81-cd8d-41d6-afd0-2bf79f305f3a

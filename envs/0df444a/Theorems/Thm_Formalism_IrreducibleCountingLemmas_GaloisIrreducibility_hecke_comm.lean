@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_hecke_comm
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.hecke_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:08.40079+00:00
 -- url     : https://prove2.me/theorems/f38773a0-e87e-4a11-b627-de78a35bdb85

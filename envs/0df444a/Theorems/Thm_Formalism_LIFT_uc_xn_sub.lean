@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_uc_xn_sub
 -- name    : Formalism.LIFT.uc_xn_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:19.17682+00:00
 -- url     : https://prove2.me/theorems/91de6f20-24a1-4277-9250-efa4b84ae43d

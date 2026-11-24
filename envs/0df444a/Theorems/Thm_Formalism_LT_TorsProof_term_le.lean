@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_TorsProof_term_le
 -- name    : Formalism.LT.TorsProof.term_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:52:08.928517+00:00
 -- url     : https://prove2.me/theorems/949384d8-b6bb-4e93-965e-5de0d23efa5f

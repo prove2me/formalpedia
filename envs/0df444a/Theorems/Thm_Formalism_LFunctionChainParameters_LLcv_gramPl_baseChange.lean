@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LLcv_gramPl_baseChange
 -- name    : Formalism.LFunctionChainParameters.LLcv.gramPl_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:05.662921+00:00
 -- url     : https://prove2.me/theorems/1833e5df-b252-41b0-b4a6-02ffa4cb9e28

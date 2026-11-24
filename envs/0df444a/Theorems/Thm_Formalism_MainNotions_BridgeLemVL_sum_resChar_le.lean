@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVL_sum_resChar_le
 -- name    : Formalism.MainNotions.BridgeLemVL.sum_resChar_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:06.098134+00:00
 -- url     : https://prove2.me/theorems/23dbdb38-ca47-4e41-9bf3-e3bf9e9b34c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_phase_self
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.phase_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:30.457976+00:00
 -- url     : https://prove2.me/theorems/f3999dc2-e673-473e-9497-80ad53811b83

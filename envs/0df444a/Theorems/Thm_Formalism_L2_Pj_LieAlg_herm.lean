@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_LieAlg_herm
 -- name    : Formalism.L2.Pj.LieAlg.herm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:19.771814+00:00
 -- url     : https://prove2.me/theorems/5efecc5d-fba2-40f5-ba9d-d7aeb2e1f70c

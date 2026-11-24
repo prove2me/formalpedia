@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_product_first_zeroth_parts_up_down_operators_adjoint
 -- name    : Formalism.LogVandermondeBounds.product_first_zeroth_parts.up_down_operators_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:47.818014+00:00
 -- url     : https://prove2.me/theorems/5713db9d-aadc-47af-b6ef-2bfd2c3a8bd2

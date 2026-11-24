@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_q_two_le
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.q_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:52:27.582511+00:00
 -- url     : https://prove2.me/theorems/a1a81bf4-69b0-44c2-ba80-2989ae178b37

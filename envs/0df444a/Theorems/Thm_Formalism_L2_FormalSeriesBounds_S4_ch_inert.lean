@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_S4_ch_inert
 -- name    : Formalism.L2.FormalSeriesBounds.S4.ch_inert
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:56.878426+00:00
 -- url     : https://prove2.me/theorems/35e67eb5-1c60-4c68-a877-fb165817e4ba

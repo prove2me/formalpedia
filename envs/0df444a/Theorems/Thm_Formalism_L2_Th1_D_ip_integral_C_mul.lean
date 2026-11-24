@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_ip_integral_C_mul
 -- name    : Formalism.L2.Th1.D.ip_integral_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:24.440355+00:00
 -- url     : https://prove2.me/theorems/f7e02f62-4998-4d5e-8990-da721dc8b602

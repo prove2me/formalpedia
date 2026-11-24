@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_CompatibleChartOperations_series_at_variable_neg
 -- name    : Formalism.L2.Th1.E.CompatibleChartOperations.series_at_variable_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:32.892382+00:00
 -- url     : https://prove2.me/theorems/3aa01d42-78e2-472c-9d84-329a2854320c

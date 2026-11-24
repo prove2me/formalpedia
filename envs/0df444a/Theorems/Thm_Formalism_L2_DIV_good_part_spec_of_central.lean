@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_good_part_spec_of_central
 -- name    : Formalism.L2.DIV.good_part_spec_of_central
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:45:36.551123+00:00
 -- url     : https://prove2.me/theorems/36817fe4-2b75-4679-8afb-aaed0ac6ea54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_CR_card_char
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.CR.card_char
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:41.852095+00:00
 -- url     : https://prove2.me/theorems/93376081-e47e-433a-9dce-fbad371f733a

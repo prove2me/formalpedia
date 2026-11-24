@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Main_unitAt_C_mul_X
 -- name    : Formalism.L2.Th1.E.Main.unitAt_C_mul_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:53.138919+00:00
 -- url     : https://prove2.me/theorems/5a0e60e0-6482-44f1-95e7-b08954df453f

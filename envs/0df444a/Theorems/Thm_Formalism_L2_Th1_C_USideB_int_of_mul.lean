@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_USideB_int_of_mul
 -- name    : Formalism.L2.Th1.C.USideB.int_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:51.959247+00:00
 -- url     : https://prove2.me/theorems/56eae712-6377-4d59-ab0f-16b775665f4e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThreeTermRelation_analyticAt_dslope
 -- name    : Formalism.L2.Th1.F.ThreeTermRelation.analyticAt_dslope
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:25.391334+00:00
 -- url     : https://prove2.me/theorems/4c6180a6-25b9-4e7c-91ad-460422a114ab

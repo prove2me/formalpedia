@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DatLin_exists_cplx_str
 -- name    : Formalism.L2.Pj.DatLin.exists_cplx_str
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:48.749219+00:00
 -- url     : https://prove2.me/theorems/44517642-ea44-4bd2-90ab-5fad0fc06bb3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_hasSecondLogDeriv_powerSeriesExp
 -- name    : Formalism.L2.Th1.C.hasSecondLogDeriv_powerSeriesExp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:57.817563+00:00
 -- url     : https://prove2.me/theorems/80112bab-e1bd-4d2d-84ac-9cbffdac4e61

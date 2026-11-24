@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_FormalExponential_at_variable_C_mul_X
 -- name    : Formalism.L2.Th1.D.FormalExponential.at_variable_C_mul_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:30.03848+00:00
 -- url     : https://prove2.me/theorems/378e23f0-135d-4105-ad60-c2a563451392

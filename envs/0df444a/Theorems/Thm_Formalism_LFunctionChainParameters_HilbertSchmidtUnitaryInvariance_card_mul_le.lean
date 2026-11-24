@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_card_mul_le
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.card_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:18.911253+00:00
 -- url     : https://prove2.me/theorems/4d8f07f6-1a1d-4edf-9d49-a6c3fbaaa700

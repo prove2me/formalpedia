@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LErr_core_lower
 -- name    : Formalism.LFunctionChainParameters.LErr.core_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:48:36.20507+00:00
 -- url     : https://prove2.me/theorems/3f2a8929-1c81-4b75-99b6-0ebf79571e66

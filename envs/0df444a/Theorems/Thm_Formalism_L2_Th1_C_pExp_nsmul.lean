@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_pExp_nsmul
 -- name    : Formalism.L2.Th1.C.pExp_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:35.592808+00:00
 -- url     : https://prove2.me/theorems/7d4ca09e-9f93-46d6-aada-af1e67694720

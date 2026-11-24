@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_GradedDegree_graded_prod
 -- name    : Formalism.LIFT.GradedDegree.graded_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:29.403236+00:00
 -- url     : https://prove2.me/theorems/3de65174-c7c5-4908-ac84-fadb275fcb14

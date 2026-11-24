@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_flipTwoThree_factor_bound
 -- name    : Formalism.LogVandermondeBounds.flipTwoThree.factor_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:53:05.602095+00:00
 -- url     : https://prove2.me/theorems/a43f412f-366f-49b8-82fd-fd601ba5e3bf

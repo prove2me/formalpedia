@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hollom_S_infinite
 -- name    : Hollom.S_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:17:20.341901+00:00
 -- url     : https://prove2.me/theorems/38e6f224-9c10-4214-badf-5ef72f2ce1c0

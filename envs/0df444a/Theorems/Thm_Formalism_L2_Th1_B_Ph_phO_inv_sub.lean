@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Ph_phO_inv_sub
 -- name    : Formalism.L2.Th1.B.Ph.phO_inv_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:36.720408+00:00
 -- url     : https://prove2.me/theorems/cebf93d5-edb9-4395-bef2-af3184481249

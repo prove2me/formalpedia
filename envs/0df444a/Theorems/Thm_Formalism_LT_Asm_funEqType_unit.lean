@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_Asm_funEqType_unit
 -- name    : Formalism.LT.Asm.funEqType_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:00.659561+00:00
 -- url     : https://prove2.me/theorems/dc26ee9b-2bc5-4924-9c47-4c98f9d165e5

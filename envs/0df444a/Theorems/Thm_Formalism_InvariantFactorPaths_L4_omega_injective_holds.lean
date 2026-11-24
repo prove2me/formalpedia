@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_omega_injective_holds
 -- name    : Formalism.InvariantFactorPaths.L4.omega_injective_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:41:02.832223+00:00
 -- url     : https://prove2.me/theorems/aebe8339-ec8c-4741-95cc-005e211197ed

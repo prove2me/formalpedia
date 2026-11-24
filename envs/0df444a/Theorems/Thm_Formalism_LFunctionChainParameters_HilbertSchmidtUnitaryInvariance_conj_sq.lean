@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_conj_sq
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.conj_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:10.628487+00:00
 -- url     : https://prove2.me/theorems/6dad5d7b-80d3-475d-9c95-101ff42bf969

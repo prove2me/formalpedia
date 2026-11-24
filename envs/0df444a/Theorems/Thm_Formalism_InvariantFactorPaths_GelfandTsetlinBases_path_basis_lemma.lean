@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_path_basis_lemma
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.path_basis_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:32.773022+00:00
 -- url     : https://prove2.me/theorems/9a274960-027b-4fbd-a74d-74038aad59e0

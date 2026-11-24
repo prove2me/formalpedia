@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_period_skew_form_add_left
 -- name    : Formalism.L2.Th1.H.period_skew_form_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:49:16.212693+00:00
 -- url     : https://prove2.me/theorems/f5a857e9-1de9-4e59-a961-fdb3e9fe5446

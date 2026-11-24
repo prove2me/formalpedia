@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G1_exists_unif_fin
 -- name    : Formalism.L2.SG.Pf.G1.exists_unif_fin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:57.584356+00:00
 -- url     : https://prove2.me/theorems/bfbed735-a66f-44a2-afac-d3d0c419f939

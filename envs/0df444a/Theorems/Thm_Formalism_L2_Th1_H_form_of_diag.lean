@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_form_of_diag
 -- name    : Formalism.L2.Th1.H.form_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:52.722808+00:00
 -- url     : https://prove2.me/theorems/0216d7f8-3f39-49ed-b5e5-e418baf97685

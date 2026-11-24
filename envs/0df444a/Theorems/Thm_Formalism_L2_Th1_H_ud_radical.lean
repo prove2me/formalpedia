@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_ud_radical
 -- name    : Formalism.L2.Th1.H.ud_radical
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:50.61723+00:00
 -- url     : https://prove2.me/theorems/1731e891-8bc7-401f-9f47-1b392e2a3767

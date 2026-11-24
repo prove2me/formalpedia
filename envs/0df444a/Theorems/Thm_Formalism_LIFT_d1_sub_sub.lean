@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_d1_sub_sub
 -- name    : Formalism.LIFT.d1_sub_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:50:05.129562+00:00
 -- url     : https://prove2.me/theorems/9ab5a98e-4a12-4dde-8265-e0104bc8030b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_lineRestr_monomial
 -- name    : Formalism.L2.Th1.H.lineRestr_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:50:24.52354+00:00
 -- url     : https://prove2.me/theorems/accae152-293c-488c-b458-9928690330be

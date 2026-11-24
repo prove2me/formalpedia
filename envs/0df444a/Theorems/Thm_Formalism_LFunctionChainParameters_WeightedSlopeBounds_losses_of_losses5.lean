@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_WeightedSlopeBounds_losses_of_losses5
 -- name    : Formalism.LFunctionChainParameters.WeightedSlopeBounds.losses_of_losses5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:49:40.315258+00:00
 -- url     : https://prove2.me/theorems/246ca587-911f-493c-ab8e-3a1d40b5287c

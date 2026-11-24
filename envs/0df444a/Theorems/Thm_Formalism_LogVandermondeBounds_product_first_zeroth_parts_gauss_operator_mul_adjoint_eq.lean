@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_product_first_zeroth_parts_gauss_operator_mul_adjoint_eq
 -- name    : Formalism.LogVandermondeBounds.product_first_zeroth_parts.gauss_operator_mul_adjoint_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:13.175667+00:00
 -- url     : https://prove2.me/theorems/344f6f48-b7b0-4d1f-bf09-34810b8a3080

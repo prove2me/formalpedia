@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_blockSlice_fourfoldMk
 -- name    : Formalism.L2.Th1.H.blockSlice_fourfoldMk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:53.892066+00:00
 -- url     : https://prove2.me/theorems/b52fc24e-df29-4504-9391-3a44b0b3cd67

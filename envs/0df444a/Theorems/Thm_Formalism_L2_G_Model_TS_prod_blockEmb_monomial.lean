@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_prod_blockEmb_monomial
 -- name    : Formalism.L2.G.Model.TS.prod_blockEmb_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:48.592687+00:00
 -- url     : https://prove2.me/theorems/fec2bd98-da94-4dce-9a14-06274a9ed2fa

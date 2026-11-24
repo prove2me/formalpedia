@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_InvIntP_decomp
 -- name    : Formalism.LT.InvIntP.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:03.374674+00:00
 -- url     : https://prove2.me/theorems/5b12161e-b9df-4204-bdbc-57cce2a580a0

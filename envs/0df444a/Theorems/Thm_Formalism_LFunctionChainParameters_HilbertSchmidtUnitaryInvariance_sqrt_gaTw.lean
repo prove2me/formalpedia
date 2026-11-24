@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_sqrt_gaTw
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.sqrt_gaTw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:37.531799+00:00
 -- url     : https://prove2.me/theorems/9bb478ee-689f-4d58-bf26-b06bfa371f4d

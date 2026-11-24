@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_uGraded_of
 -- name    : Formalism.LIFT.uGraded_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:50:27.655901+00:00
 -- url     : https://prove2.me/theorems/1c36d9ed-95c5-4fb6-8274-6cf0a23c397e

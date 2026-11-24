@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_sigma_mean
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.sigma_mean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:48:59.972386+00:00
 -- url     : https://prove2.me/theorems/5a510676-7acd-4d78-807d-600ed11a47b8

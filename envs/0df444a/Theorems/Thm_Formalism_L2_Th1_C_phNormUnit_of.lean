@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_phNormUnit_of
 -- name    : Formalism.L2.Th1.C.phNormUnit_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:19.338697+00:00
 -- url     : https://prove2.me/theorems/1d36982d-4428-48b7-9158-6f642264d0aa

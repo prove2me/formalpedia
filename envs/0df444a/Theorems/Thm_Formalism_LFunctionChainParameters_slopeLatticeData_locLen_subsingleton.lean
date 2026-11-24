@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_locLen_subsingleton
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.locLen_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:50:27.603439+00:00
 -- url     : https://prove2.me/theorems/c3e39e03-9307-4bed-8126-fbb2ea0f9458

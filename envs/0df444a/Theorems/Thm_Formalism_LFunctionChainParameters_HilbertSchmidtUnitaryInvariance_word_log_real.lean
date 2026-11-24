@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_word_log_real
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.word_log_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:57.583083+00:00
 -- url     : https://prove2.me/theorems/4ae1de61-1144-4ad5-8539-340e344e9efd

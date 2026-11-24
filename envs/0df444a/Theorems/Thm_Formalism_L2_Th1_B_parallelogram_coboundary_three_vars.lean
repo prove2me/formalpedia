@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_parallelogram_coboundary_three_vars
 -- name    : Formalism.L2.Th1.B.parallelogram_coboundary_three_vars
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:48:26.59007+00:00
 -- url     : https://prove2.me/theorems/8fea839b-8fe0-42f9-b6b4-a26158aff9df

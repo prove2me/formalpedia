@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_CoeffP_sigma_norm_le_one
 -- name    : Formalism.LT.CoeffP.sigma_norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:50:41.388736+00:00
 -- url     : https://prove2.me/theorems/5fbda463-6128-48de-bb7b-1d652df2151b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_ModelEv_wE_cases
 -- name    : Formalism.LFunctionChainParameters.LChain.ModelEv.wE_cases
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:06.018274+00:00
 -- url     : https://prove2.me/theorems/83e125f7-e102-4f90-9889-195eedf8e977

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_top_from_weighted_mean
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.top_from_weighted_mean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:49:31.233337+00:00
 -- url     : https://prove2.me/theorems/801beaab-a454-4d8a-8029-1f9eae4a95ea

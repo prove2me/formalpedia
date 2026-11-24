@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_HalfPeriodDerivative_derivWeierstrassP_not_eventually_zero
 -- name    : Formalism.L2.Th1.F.HalfPeriodDerivative.derivWeierstrassP_not_eventually_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:20.879825+00:00
 -- url     : https://prove2.me/theorems/3f3eddeb-32cf-4639-80c3-e1a453a429b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Main_norm_natCast_of_dvd
 -- name    : Formalism.L2.Th1.E.Main.norm_natCast_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:55.804602+00:00
 -- url     : https://prove2.me/theorems/8dfd88e4-b7ab-4bff-810a-5cd145b1d65e

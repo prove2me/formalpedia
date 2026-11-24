@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_halfUnit_mul
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.halfUnit_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:49:33.045222+00:00
 -- url     : https://prove2.me/theorems/75784089-4782-41dd-bed6-8a4b74f7b087

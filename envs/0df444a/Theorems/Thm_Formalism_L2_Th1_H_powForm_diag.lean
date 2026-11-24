@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_powForm_diag
 -- name    : Formalism.L2.Th1.H.powForm_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:48:46.125803+00:00
 -- url     : https://prove2.me/theorems/0a298818-08ad-4fc5-a3bd-3a3cb71747ca

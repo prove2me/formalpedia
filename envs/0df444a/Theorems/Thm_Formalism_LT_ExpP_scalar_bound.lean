@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_ExpP_scalar_bound
 -- name    : Formalism.LT.ExpP.scalar_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:51:20.032801+00:00
 -- url     : https://prove2.me/theorems/2c898a0f-0acc-4259-b548-f70859d9d57d

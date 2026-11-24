@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_JetSubstitutionLemmas_addDefect_eq
 -- name    : Formalism.L2.Th1.C.JetSubstitutionLemmas.addDefect_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:19.651968+00:00
 -- url     : https://prove2.me/theorems/d3ac18e4-9272-4fe7-b8e7-80e380541a05

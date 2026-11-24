@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_parallelogram_cauchy_equation
 -- name    : Formalism.L2.Th1.B.parallelogram_cauchy_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:55.56118+00:00
 -- url     : https://prove2.me/theorems/28ee2204-60e0-4d88-a36b-b175e76c821d

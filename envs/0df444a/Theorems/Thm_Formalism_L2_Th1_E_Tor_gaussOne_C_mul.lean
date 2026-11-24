@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Tor_gaussOne_C_mul
 -- name    : Formalism.L2.Th1.E.Tor.gaussOne_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:06.740828+00:00
 -- url     : https://prove2.me/theorems/2bd63d25-c82a-4b10-9173-fce2c716919f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_typeProj_wtsp_later
 -- name    : Formalism.InvariantFactorPaths.L4.typeProj_wtsp_later
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:41.859791+00:00
 -- url     : https://prove2.me/theorems/31f6724a-d997-457f-90f9-a3837289660b

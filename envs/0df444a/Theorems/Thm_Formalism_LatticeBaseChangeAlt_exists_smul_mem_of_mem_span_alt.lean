@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_exists_smul_mem_of_mem_span_alt
 -- name    : Formalism.LatticeBaseChangeAlt.exists_smul_mem_of_mem_span_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:51:58.856315+00:00
 -- url     : https://prove2.me/theorems/f0e87da5-1ee3-4911-9916-6fb151635af5

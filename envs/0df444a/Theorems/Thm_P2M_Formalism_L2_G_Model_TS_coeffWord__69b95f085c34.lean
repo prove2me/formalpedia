@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_G_Model_TS_coeffWord__69b95f085c34
 -- name    : P2M_Formalism_L2_G_Model_TS_coeffWord__69b95f085c34
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:25.205535+00:00
 -- url     : https://prove2.me/theorems/e186f951-a399-4b24-8c7d-7bf19bdd998a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_weierstrassReducedEquations
 -- name    : Formalism.L2.Th1.B.weierstrassReducedEquations
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:22:21.933061+00:00
 -- url     : https://prove2.me/theorems/21639709-dc80-4092-a2f0-13da0c27cd1e

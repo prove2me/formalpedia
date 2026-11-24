@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_sigma_le_one
 -- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.sigma_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:28.69085+00:00
 -- url     : https://prove2.me/theorems/04d9da77-f18c-4838-a258-b93033aced14

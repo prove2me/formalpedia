@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_B4_exp_of_simeq
 -- name    : Formalism.L2.Th1.D.B4.exp_of_simeq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:24:59.860392+00:00
 -- url     : https://prove2.me/theorems/2e39e483-c510-4d52-8dc9-fdd1e3423c01

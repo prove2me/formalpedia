@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_WeightedSlopeBounds_exponent_ge_lower
 -- name    : Formalism.LFunctionChainParameters.WeightedSlopeBounds.exponent_ge_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:49:40.615138+00:00
 -- url     : https://prove2.me/theorems/d520ae5a-2238-4004-a34c-342c30918240

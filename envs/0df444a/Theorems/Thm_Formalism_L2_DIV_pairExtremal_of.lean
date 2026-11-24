@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_pairExtremal_of
 -- name    : Formalism.L2.DIV.pairExtremal_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:25.291564+00:00
 -- url     : https://prove2.me/theorems/416d659f-0ecb-46f2-bbf4-134b1d51a5d9

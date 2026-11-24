@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_hasSecondLogDeriv_right_unique
 -- name    : Formalism.L2.Th1.C.hasSecondLogDeriv_right_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:58.91757+00:00
 -- url     : https://prove2.me/theorems/9d080269-ceef-4283-a4fb-73e4a57ecd14

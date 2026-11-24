@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_reduction_lemma_second
 -- name    : Formalism.DivisionValues.reduction_lemma_second
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:20:48.860851+00:00
 -- url     : https://prove2.me/theorems/2e73997c-dee1-4281-ba7e-7e3e3e0095db

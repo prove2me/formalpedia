@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_PadicP_isPow_mul_iff
 -- name    : Formalism.LT.PadicP.isPow_mul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:34.007808+00:00
 -- url     : https://prove2.me/theorems/74dcb76d-7832-4856-9e25-52b0b663867f

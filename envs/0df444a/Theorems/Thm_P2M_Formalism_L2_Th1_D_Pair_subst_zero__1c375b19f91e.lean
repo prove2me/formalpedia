@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_D_Pair_subst_zero__1c375b19f91e
 -- name    : P2M_Formalism_L2_Th1_D_Pair_subst_zero__1c375b19f91e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:24:22.290149+00:00
 -- url     : https://prove2.me/theorems/41a477d0-3f2a-4797-85be-d66b53cfa46f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Ser_gaussMul
 -- name    : Formalism.L2.Th1.E.Ser.gaussMul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:23:08.260713+00:00
 -- url     : https://prove2.me/theorems/7c07e149-3e32-4fc5-b346-cf8bf485cba5

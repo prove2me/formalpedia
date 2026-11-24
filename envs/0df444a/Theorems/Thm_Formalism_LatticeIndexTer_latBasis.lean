@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_latBasis
 -- name    : Formalism.LatticeIndexTer.latBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:52:04.43541+00:00
 -- url     : https://prove2.me/theorems/c9602edd-7925-499e-b5df-579cb29fc151

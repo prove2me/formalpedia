@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_product_first_zeroth_parts_pairTwoLinear_apply
 -- name    : Formalism.LogVandermondeBounds.product_first_zeroth_parts.pairTwoLinear_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:34.417873+00:00
 -- url     : https://prove2.me/theorems/fc363850-c4b4-4bbf-b2f3-41f69333ad76

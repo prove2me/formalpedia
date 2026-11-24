@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_four_term_sum_bound
 -- name    : Formalism.LatticeBaseChangeAlt.four_term_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:51:58.914848+00:00
 -- url     : https://prove2.me/theorems/61c9af06-e96b-4279-98ad-bdba81d0bd84

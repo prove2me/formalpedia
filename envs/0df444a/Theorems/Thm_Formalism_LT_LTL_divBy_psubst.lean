@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_divBy_psubst
 -- name    : Formalism.LT.LTL.divBy_psubst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:51:01.750504+00:00
 -- url     : https://prove2.me/theorems/015fe809-e5de-4d04-aff5-5d45cf77b534

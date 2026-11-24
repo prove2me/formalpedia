@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_fockSymTensor_holds
 -- name    : Formalism.L2.DIV.fockSymTensor_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:56.917858+00:00
 -- url     : https://prove2.me/theorems/f925a3e0-6c75-436b-aecb-45137649bc7c

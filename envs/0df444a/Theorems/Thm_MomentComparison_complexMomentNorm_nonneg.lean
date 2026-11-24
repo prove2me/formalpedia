@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_complexMomentNorm_nonneg
 -- name    : MomentComparison.complexMomentNorm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:18:09.17823+00:00
 -- url     : https://prove2.me/theorems/27be075f-8f70-407e-b009-89382b702a82

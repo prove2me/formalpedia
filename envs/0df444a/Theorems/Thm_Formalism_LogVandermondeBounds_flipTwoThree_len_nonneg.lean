@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_flipTwoThree_len_nonneg
 -- name    : Formalism.LogVandermondeBounds.flipTwoThree.len_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:53:13.373428+00:00
 -- url     : https://prove2.me/theorems/3043af69-8180-431b-b1f2-1498abdb2f97

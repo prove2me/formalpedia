@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_dv_neg
 -- name    : Formalism.LT.LTL.dv_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:51:38.623304+00:00
 -- url     : https://prove2.me/theorems/ab17df2b-bbc4-46b3-944b-5c88bc51dbc6

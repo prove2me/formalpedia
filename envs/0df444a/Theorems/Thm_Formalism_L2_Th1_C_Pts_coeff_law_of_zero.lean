@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Pts_coeff_law_of_zero
 -- name    : Formalism.L2.Th1.C.Pts.coeff_law_of_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:44.388469+00:00
 -- url     : https://prove2.me/theorems/14a603ed-517b-43d1-8011-482f5dce177b

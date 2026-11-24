@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Taylor_iteratedDeriv_comp_mul
 -- name    : Formalism.L2.Th1.F.Taylor.iteratedDeriv_comp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:12.424636+00:00
 -- url     : https://prove2.me/theorems/b6933da7-efbb-405a-8bed-e2a3f687bb6a

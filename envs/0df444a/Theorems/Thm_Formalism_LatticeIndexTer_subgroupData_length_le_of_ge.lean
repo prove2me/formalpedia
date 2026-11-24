@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_subgroupData_length_le_of_ge
 -- name    : Formalism.LatticeIndexTer.subgroupData.length_le_of_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:50.568503+00:00
 -- url     : https://prove2.me/theorems/0d1f2d93-88e0-44c9-8cc9-bb5e8a412b17

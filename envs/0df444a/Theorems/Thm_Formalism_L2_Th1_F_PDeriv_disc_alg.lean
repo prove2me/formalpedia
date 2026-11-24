@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PDeriv_disc_alg
 -- name    : Formalism.L2.Th1.F.PDeriv.disc_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:48:09.513569+00:00
 -- url     : https://prove2.me/theorems/0eb4d672-a4ba-4925-9099-74315c7ee42c

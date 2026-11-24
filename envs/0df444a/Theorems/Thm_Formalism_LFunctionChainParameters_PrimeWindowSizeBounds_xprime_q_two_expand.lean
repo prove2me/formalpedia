@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_xprime_q_two_expand
 -- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.xprime_q_two_expand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:17.824403+00:00
 -- url     : https://prove2.me/theorems/1b48a8bd-11e9-468a-a129-4f7410fcb058

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_MatrixLatticeEstimates_hs_sq_reindex
 -- name    : Formalism.LFunctionChainParameters.MatrixLatticeEstimates.hs_sq_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:24.042143+00:00
 -- url     : https://prove2.me/theorems/0391db43-6dd7-4da8-9288-ed16c245334d

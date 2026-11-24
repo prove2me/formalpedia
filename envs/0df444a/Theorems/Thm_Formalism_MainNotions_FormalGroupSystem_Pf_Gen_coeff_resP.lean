@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_FormalGroupSystem_Pf_Gen_coeff_resP
 -- name    : Formalism.MainNotions.FormalGroupSystem.Pf.Gen.coeff_resP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:54:20.37932+00:00
 -- url     : https://prove2.me/theorems/aeeb28fc-723a-4831-b579-85edc2e2c0dc

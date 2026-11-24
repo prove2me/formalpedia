@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogFactorialMertensBounds_Sz_eq
 -- name    : Formalism.LogFactorialMertensBounds.Sz_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:09.870852+00:00
 -- url     : https://prove2.me/theorems/d4be2cb3-9006-4ec1-bb8e-febce7e0f460

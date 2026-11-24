@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PhiMonotonicityLemmas_corollary_model_side_condition
 -- name    : Formalism.LFunctionChainParameters.PhiMonotonicityLemmas.corollary_model_side_condition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:51.350808+00:00
 -- url     : https://prove2.me/theorems/d11aa3f3-9208-40f3-b185-d3bf1154a5fa

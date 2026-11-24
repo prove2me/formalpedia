@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_Weil_QuotInt_measurable_fib
 -- name    : Formalism.L2.SG.Pf.Weil.QuotInt.measurable_fib
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:24.040981+00:00
 -- url     : https://prove2.me/theorems/6fbefc68-832c-4824-b7fa-dd1f45901496

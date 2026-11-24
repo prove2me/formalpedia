@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_product_first_zeroth_parts_pair_zero_right
 -- name    : Formalism.LogVandermondeBounds.product_first_zeroth_parts.pair_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:40.555266+00:00
 -- url     : https://prove2.me/theorems/12cf79c9-f3f5-4a59-9c04-b06bd23f68d2
