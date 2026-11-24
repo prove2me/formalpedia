@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_pa_holoSmooth
 -- name    : ReciprocityTheory.AnForm.M.pa_holoSmooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:53.164581+00:00
 -- url     : https://prove2.me/theorems/62c560d0-c231-4267-a41c-30aa1c12dd55

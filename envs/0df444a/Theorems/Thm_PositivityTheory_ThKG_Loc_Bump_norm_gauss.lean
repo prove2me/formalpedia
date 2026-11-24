@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_norm_gauss
 -- name    : PositivityTheory.ThKG.Loc.Bump.norm_gauss
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:56:00.938947+00:00
 -- url     : https://prove2.me/theorems/599c712b-8d3d-4a68-a689-b5b26eb84eb2

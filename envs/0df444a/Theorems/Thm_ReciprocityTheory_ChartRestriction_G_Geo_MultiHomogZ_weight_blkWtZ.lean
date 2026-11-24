@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_MultiHomogZ_weight_blkWtZ
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.MultiHomogZ.weight_blkWtZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:39.382948+00:00
 -- url     : https://prove2.me/theorems/63e4ad3b-a11d-4126-8b04-e79e34b3416f

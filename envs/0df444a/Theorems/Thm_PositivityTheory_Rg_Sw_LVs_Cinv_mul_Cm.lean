@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_Cinv_mul_Cm
 -- name    : PositivityTheory.Rg.Sw.LVs.Cinv_mul_Cm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:17.256417+00:00
 -- url     : https://prove2.me/theorems/cc560fab-1fb1-45af-ac7c-85b71a727f6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Asm_isCoprime_list_prod_right
 -- name    : PositivityTheory.RgUd.T.Nil.Asm.isCoprime_list_prod_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:45.937108+00:00
 -- url     : https://prove2.me/theorems/1c06cd0c-34e4-49b2-82e7-b7d8734a61ec

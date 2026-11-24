@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_gram_upper_unique
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.gram_upper_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:12.337691+00:00
 -- url     : https://prove2.me/theorems/d59f2335-f03b-4b5f-be5e-d6b8d99bc7b3

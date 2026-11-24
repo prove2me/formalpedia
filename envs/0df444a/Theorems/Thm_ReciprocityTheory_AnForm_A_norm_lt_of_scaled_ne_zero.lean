@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_norm_lt_of_scaled_ne_zero
 -- name    : ReciprocityTheory.AnForm.A.norm_lt_of_scaled_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:20:30.762006+00:00
 -- url     : https://prove2.me/theorems/fa6c7422-8b6b-4de3-af73-2266bc4f508d

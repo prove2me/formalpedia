@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshMean_measurable_piecewise
 -- name    : ReciprocityTheory.AnForm.A.PshMean.measurable_piecewise
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:49.270648+00:00
 -- url     : https://prove2.me/theorems/673e4c1c-efb2-4eb7-9ad4-6cb6c9c445f9

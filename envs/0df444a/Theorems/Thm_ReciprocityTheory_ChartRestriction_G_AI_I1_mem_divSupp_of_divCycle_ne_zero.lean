@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_mem_divSupp_of_divCycle_ne_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.mem_divSupp_of_divCycle_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:13.973798+00:00
 -- url     : https://prove2.me/theorems/7aa0eaed-f9ca-4340-bc8d-c1289d01f923

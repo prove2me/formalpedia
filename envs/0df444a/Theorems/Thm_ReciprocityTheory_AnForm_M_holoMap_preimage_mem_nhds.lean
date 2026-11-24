@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_holoMap_preimage_mem_nhds
 -- name    : ReciprocityTheory.AnForm.M.holoMap_preimage_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:49.978831+00:00
 -- url     : https://prove2.me/theorems/0a79414b-b0d6-4839-bac2-6c207b184cf6

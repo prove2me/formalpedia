@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SiegelT_rule_of_conj
 -- name    : PositivityTheory.ThK.SiegelT.rule_of_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:51.134904+00:00
 -- url     : https://prove2.me/theorems/13fede22-8c99-4b3c-aeb8-e7f2300b3b46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_weight_cycBlockWt
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.weight_cycBlockWt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:16.556902+00:00
 -- url     : https://prove2.me/theorems/c6571092-d345-4dd0-9608-8dcda7dbad13

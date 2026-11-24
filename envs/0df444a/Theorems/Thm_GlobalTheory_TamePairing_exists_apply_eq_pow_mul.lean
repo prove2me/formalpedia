@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TamePairing_exists_apply_eq_pow_mul
 -- name    : GlobalTheory.TamePairing.exists_apply_eq_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:22.158812+00:00
 -- url     : https://prove2.me/theorems/a3c7d510-6962-4554-8a65-ac7421f4f6a7

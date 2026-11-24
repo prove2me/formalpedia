@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_sidesIn_EB_even
 -- name    : ULHC.sidesIn_EB_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:41:29.249655+00:00
 -- url     : https://prove2.me/theorems/ec33acb8-1fa0-4c2e-87f9-bfc52d1ea8c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_norm_rationalWeight_le
 -- name    : PositivityTheory.ThKG.Loc.Bump.norm_rationalWeight_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:56:02.528362+00:00
 -- url     : https://prove2.me/theorems/124fb482-a6bc-4698-b974-4c38b88e616f

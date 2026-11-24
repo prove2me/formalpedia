@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_adb_mem_mcPts_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.adb_mem_mcPts_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:28.62889+00:00
 -- url     : https://prove2.me/theorems/fc54a4d8-5293-4512-b198-ea7cb98ed5e4

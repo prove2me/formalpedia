@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_symm_swap_nat
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.symm_swap_nat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:07.957978+00:00
 -- url     : https://prove2.me/theorems/b82285e7-d542-4e65-bace-4c3e7de9cf7f

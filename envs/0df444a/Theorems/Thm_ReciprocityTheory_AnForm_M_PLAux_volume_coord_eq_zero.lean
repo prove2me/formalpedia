@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLAux_volume_coord_eq_zero
 -- name    : ReciprocityTheory.AnForm.M.PLAux.volume_coord_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:50.932795+00:00
 -- url     : https://prove2.me/theorems/5fbf4f06-3925-4e77-b194-dd9745c23b13

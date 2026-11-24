@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BB6Kit_prop39_int
 -- name    : BB6Kit.prop39_int
--- status  : Open
+-- status  : Proved
 -- author  : @alon yuval
 -- created : 2026-11-23T22:12:56.325795+00:00
 -- url     : https://prove2.me/theorems/be490290-6cc5-4ff4-8fac-7441078a516c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_cont_seminorm
 -- name    : PositivityTheory.ThKG.Loc.Bump.cont_seminorm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:47.551465+00:00
 -- url     : https://prove2.me/theorems/bc89ab58-9014-4eb3-aca9-376b8475835e

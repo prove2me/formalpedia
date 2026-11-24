@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF_L2_integral_right
 -- name    : PositivityTheory.ThKF.L2.integral_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:53:03.008799+00:00
 -- url     : https://prove2.me/theorems/6f3ecb50-7273-44dc-b453-f1511da65a3b

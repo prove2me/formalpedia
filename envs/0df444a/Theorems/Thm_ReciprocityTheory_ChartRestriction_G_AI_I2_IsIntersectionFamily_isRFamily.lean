@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I2_IsIntersectionFamily_isRFamily
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I2.IsIntersectionFamily.isRFamily
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:54.554403+00:00
 -- url     : https://prove2.me/theorems/3aec642d-7632-4899-a978-244520392fda

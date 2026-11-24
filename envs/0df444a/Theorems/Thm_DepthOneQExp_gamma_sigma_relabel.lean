@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DepthOneQExp_gamma_sigma_relabel
 -- name    : DepthOneQExp.gamma_sigma_relabel
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:52:21.126963+00:00
 -- url     : https://prove2.me/theorems/869c30d0-9f72-4e41-8d83-4d964a14688a

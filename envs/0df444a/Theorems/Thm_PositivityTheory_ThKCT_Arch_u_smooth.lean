@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Arch_u_smooth
 -- name    : PositivityTheory.ThKCT.Arch.u_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:52:10.686516+00:00
 -- url     : https://prove2.me/theorems/4ce6fe64-bd94-4d59-aec5-d67bf1d585eb

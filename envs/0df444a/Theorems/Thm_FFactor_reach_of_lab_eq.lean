@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FFactor_reach_of_lab_eq
 -- name    : FFactor.reach_of_lab_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T06:01:14.601993+00:00
 -- url     : https://prove2.me/theorems/a7e5f46b-9d19-4f99-ac73-afa26fff83c6

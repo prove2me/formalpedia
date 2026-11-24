@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_frozenClassification
 -- name    : InverseZeroSum.Candidate3.frozenClassification
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:35:06.763519+00:00
 -- url     : https://prove2.me/theorems/79bfac39-2150-465a-8a24-dd88895481d6

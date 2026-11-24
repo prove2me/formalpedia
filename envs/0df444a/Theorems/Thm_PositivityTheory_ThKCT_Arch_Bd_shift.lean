@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Arch_Bd_shift
 -- name    : PositivityTheory.ThKCT.Arch.Bd.shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:41.542788+00:00
 -- url     : https://prove2.me/theorems/8349023f-998f-4a01-b6eb-9b8c1afd0427

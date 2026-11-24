@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CK_ipeel
 -- name    : PositivityTheory.Rg.Sw.LVs.CK.ipeel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:18.311507+00:00
 -- url     : https://prove2.me/theorems/1df3940c-b83e-4ce5-bab0-438845003c57

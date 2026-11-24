@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF_E_quad_mem
 -- name    : PositivityTheory.ThKF.E.quad_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:52:59.918177+00:00
 -- url     : https://prove2.me/theorems/25fc0b2d-6fbf-43d5-9707-4c55acdf8e9a

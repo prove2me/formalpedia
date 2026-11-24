@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_chain_border_l
 -- name    : ULHC.chain_border_l
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:41:59.903716+00:00
 -- url     : https://prove2.me/theorems/889301b0-6e84-4669-aa0b-ba9c26b1a812

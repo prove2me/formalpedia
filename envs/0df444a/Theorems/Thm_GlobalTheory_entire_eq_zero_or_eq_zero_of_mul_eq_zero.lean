@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_entire_eq_zero_or_eq_zero_of_mul_eq_zero
 -- name    : GlobalTheory.entire_eq_zero_or_eq_zero_of_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:32.896275+00:00
 -- url     : https://prove2.me/theorems/7d959d20-6270-4f7a-a195-62e810ff4736

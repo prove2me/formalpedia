@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertiaAlmostAll_finite_mem
 -- name    : GlobalTheory.InertiaAlmostAll.finite_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:13.518311+00:00
 -- url     : https://prove2.me/theorems/8370b51d-b344-4527-9b11-9c56c0e50abe

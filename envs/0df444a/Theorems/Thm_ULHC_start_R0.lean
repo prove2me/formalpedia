@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_start_R0
 -- name    : ULHC.start_R0
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:03:18.733949+00:00
 -- url     : https://prove2.me/theorems/fbdef8b8-93c0-4f11-9abe-34b47a7a88f1

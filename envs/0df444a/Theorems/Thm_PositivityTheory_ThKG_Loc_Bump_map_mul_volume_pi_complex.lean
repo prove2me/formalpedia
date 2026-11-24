@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_map_mul_volume_pi_complex
 -- name    : PositivityTheory.ThKG.Loc.Bump.map_mul_volume_pi_complex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:47.980854+00:00
 -- url     : https://prove2.me/theorems/88c10588-1820-481b-8f70-9d4a71ee7d24

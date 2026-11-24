@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_end_side_far2
 -- name    : ULHC.end_side_far2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:25:46.316583+00:00
 -- url     : https://prove2.me/theorems/d4082040-2e41-4eca-85e3-3ae1ebe7f33a

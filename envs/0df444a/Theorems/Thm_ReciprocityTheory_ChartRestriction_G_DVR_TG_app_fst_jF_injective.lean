@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_TG_app_fst_jF_injective
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.TG.app_fst_jF_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:21:39.248808+00:00
 -- url     : https://prove2.me/theorems/f60ee1d8-42ba-4d04-8384-5050bc818936

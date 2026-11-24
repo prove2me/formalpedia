@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_inh_single_unit
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.inh_single_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:16.923704+00:00
 -- url     : https://prove2.me/theorems/19d2a39f-a439-4a39-b255-57f6ccd41d67

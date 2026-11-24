@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_LinAct_norm_char
 -- name    : PositivityTheory.ThK.LinAct.norm_char
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:02:04.234192+00:00
 -- url     : https://prove2.me/theorems/fe9215ac-abf7-40cd-86af-40fb5175825f

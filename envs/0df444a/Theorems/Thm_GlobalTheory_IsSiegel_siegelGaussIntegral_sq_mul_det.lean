@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSiegel_siegelGaussIntegral_sq_mul_det
 -- name    : GlobalTheory.IsSiegel.siegelGaussIntegral_sq_mul_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:56:46.506152+00:00
 -- url     : https://prove2.me/theorems/c02c7159-35bc-46ee-87d0-31b9a550626f

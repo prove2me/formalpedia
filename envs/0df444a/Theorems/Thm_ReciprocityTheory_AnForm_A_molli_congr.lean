@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_molli_congr
 -- name    : ReciprocityTheory.AnForm.A.molli_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:01:07.839733+00:00
 -- url     : https://prove2.me/theorems/c2ebc9b0-116b-4979-9d49-85e0891e1832

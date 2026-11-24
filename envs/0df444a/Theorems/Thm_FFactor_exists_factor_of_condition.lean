@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FFactor_exists_factor_of_condition
 -- name    : FFactor.exists_factor_of_condition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T06:02:50.294924+00:00
 -- url     : https://prove2.me/theorems/ee0995f9-97a6-48a5-80a9-58288875b2e8

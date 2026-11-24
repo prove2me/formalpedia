@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_exists_piSystem_iInf_join_pastSigma_in_join_germ
 -- name    : Kyprianou.Ch03.exists_piSystem_iInf_join_pastSigma_in_join_germ
--- status  : Open
+-- status  : Disproved
 -- author  : @pageman
 -- created : 2026-11-24T05:30:20.845929+00:00
 -- url     : https://prove2.me/theorems/08f74e80-d24c-4c4f-858c-8b77cf2fb606

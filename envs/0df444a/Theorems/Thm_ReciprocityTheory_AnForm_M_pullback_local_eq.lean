@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_pullback_local_eq
 -- name    : ReciprocityTheory.AnForm.M.pullback_local_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:38:37.613452+00:00
 -- url     : https://prove2.me/theorems/fa263ca2-44da-4363-84d5-de0f5da4b8db

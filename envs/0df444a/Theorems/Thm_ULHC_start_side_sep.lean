@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_start_side_sep
 -- name    : ULHC.start_side_sep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:24:59.979986+00:00
 -- url     : https://prove2.me/theorems/bea67286-4e65-477c-a259-1febed345c21

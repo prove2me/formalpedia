@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_psiPoly_homog
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.psiPoly_homog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:54.254981+00:00
 -- url     : https://prove2.me/theorems/007e1cb9-fc49-40dd-89e9-728695888206

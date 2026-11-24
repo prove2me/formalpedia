@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_LL_exists_lip
 -- name    : PositivityTheory.ThKR.LL.exists_lip
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:22.182716+00:00
 -- url     : https://prove2.me/theorems/57c4ca97-71f2-4c10-b54e-e9d745d22976

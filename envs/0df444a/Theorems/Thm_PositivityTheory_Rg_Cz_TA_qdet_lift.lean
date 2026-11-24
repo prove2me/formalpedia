@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TA_qdet_lift
 -- name    : PositivityTheory.Rg.Cz.TA.qdet_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:08.70212+00:00
 -- url     : https://prove2.me/theorems/e0e0bfec-42f8-423c-93cb-14eedeb5f515

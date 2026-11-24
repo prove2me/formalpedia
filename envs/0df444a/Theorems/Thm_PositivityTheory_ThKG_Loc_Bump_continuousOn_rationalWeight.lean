@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_continuousOn_rationalWeight
 -- name    : PositivityTheory.ThKG.Loc.Bump.continuousOn_rationalWeight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:34.882294+00:00
 -- url     : https://prove2.me/theorems/44aa1d4d-79a5-402c-8158-8d9dbaf02af7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_cut_has_dark_lat
 -- name    : ULHC.cut_has_dark_lat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:37:43.341147+00:00
 -- url     : https://prove2.me/theorems/e13df028-4d7b-4795-b02b-541f135eaaf4

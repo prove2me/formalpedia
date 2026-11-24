@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_inh_divCycle_of_supp
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.inh_divCycle_of_supp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:27.0459+00:00
 -- url     : https://prove2.me/theorems/59ea7791-aa6c-4c80-9d59-058e0b496834

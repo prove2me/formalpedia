@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_avg_fd_prod
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.avg_fd_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:49.856442+00:00
 -- url     : https://prove2.me/theorems/a865d905-ace5-4466-894d-da609c81dbb1

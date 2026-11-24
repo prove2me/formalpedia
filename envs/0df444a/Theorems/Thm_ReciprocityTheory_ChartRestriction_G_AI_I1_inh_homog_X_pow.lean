@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_inh_homog_X_pow
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.inh_homog_X_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:34.88397+00:00
 -- url     : https://prove2.me/theorems/d2921c16-aba6-4c09-8fb4-238480c5e56f

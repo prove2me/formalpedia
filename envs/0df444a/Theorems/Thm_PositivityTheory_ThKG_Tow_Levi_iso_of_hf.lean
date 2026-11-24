@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Tow_Levi_iso_of_hf
 -- name    : PositivityTheory.ThKG.Tow.Levi.iso_of_hf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:24.81227+00:00
 -- url     : https://prove2.me/theorems/817e2bfb-b4a0-43e8-b8f5-9e6e72b1f50b

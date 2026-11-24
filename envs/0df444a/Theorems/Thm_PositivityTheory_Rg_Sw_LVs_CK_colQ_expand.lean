@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CK_colQ_expand
 -- name    : PositivityTheory.Rg.Sw.LVs.CK.colQ_expand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:33.724652+00:00
 -- url     : https://prove2.me/theorems/5af531b4-f949-4da1-b84f-ae5844362263

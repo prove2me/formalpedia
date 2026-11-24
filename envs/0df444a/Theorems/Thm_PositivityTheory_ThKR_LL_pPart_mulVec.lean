@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_LL_pPart_mulVec
 -- name    : PositivityTheory.ThKR.LL.pPart_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:46.173803+00:00
 -- url     : https://prove2.me/theorems/d8385002-6fdc-4e96-bafd-f6a6cb85055a

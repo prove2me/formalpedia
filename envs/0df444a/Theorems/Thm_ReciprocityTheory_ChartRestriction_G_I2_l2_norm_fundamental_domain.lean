@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_l2_norm_fundamental_domain
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.l2_norm_fundamental_domain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:06:31.060389+00:00
 -- url     : https://prove2.me/theorems/8b375f29-90f5-48a8-9ba3-9dab2be99b81

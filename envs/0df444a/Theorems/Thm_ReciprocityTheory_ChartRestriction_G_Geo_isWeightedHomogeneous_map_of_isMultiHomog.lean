@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_isWeightedHomogeneous_map_of_isMultiHomog
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.isWeightedHomogeneous_map_of_isMultiHomog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:41.192363+00:00
 -- url     : https://prove2.me/theorems/0a279163-95d8-418e-9010-16226d0a9cd6

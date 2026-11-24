@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_t3_link
 -- name    : ULHC.t3_link
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:01:29.527151+00:00
 -- url     : https://prove2.me/theorems/e07c078a-23f9-4a8d-95bd-4122075a7e74

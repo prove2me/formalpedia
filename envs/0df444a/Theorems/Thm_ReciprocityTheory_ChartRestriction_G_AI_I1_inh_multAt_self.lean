@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_inh_multAt_self
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.inh_multAt_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:20.916637+00:00
 -- url     : https://prove2.me/theorems/c57586ec-961e-45b7-9a4d-2a9a819db340

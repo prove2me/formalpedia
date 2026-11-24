@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_LowA_expo_castSucc
 -- name    : PI.OddDualWeyl.LowA.expo_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:53.011904+00:00
 -- url     : https://prove2.me/theorems/f3b72b8b-3fde-4f6c-8928-bcd1b265657c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HAct_group_part
 -- name    : GlobalTheory.SW.HAct.group_part
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:53.269928+00:00
 -- url     : https://prove2.me/theorems/c711139c-ad86-4fed-86e6-1bef655c3867

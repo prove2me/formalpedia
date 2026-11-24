@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Contr_fixPt_close
 -- name    : Formalism.L2.FormalSeriesBounds.Contr.fixPt_close
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:13.950584+00:00
 -- url     : https://prove2.me/theorems/7188a06f-4f91-4e7b-b2e7-f137bddc5ca1

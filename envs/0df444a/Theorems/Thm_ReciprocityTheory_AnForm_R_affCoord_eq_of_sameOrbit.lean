@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_affCoord_eq_of_sameOrbit
 -- name    : ReciprocityTheory.AnForm.R.affCoord_eq_of_sameOrbit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:48.61172+00:00
 -- url     : https://prove2.me/theorems/accf5bda-d8c8-43b8-b949-89ea24fb9c1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_secSet_finite
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.secSet_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:29.481164+00:00
 -- url     : https://prove2.me/theorems/3641c717-1e5f-412e-964a-7d4e8941f6fc

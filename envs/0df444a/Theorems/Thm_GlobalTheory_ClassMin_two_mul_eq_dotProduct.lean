@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_two_mul_eq_dotProduct
 -- name    : GlobalTheory.ClassMin.two_mul_eq_dotProduct
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:00.624663+00:00
 -- url     : https://prove2.me/theorems/30c0dd1e-12fc-448e-8ee4-d30625a4540c

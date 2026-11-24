@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_eq_ratMul_scaleOff
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.eq_ratMul_scaleOff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:43.205217+00:00
 -- url     : https://prove2.me/theorems/26584d20-24b2-4a09-8a68-e7b717e214dd

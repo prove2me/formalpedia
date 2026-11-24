@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_potOf_germ
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.potOf_germ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:47.673801+00:00
 -- url     : https://prove2.me/theorems/a8ce71e1-f3a5-496c-9474-f4ffd6df8d9e

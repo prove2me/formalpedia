@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_hasFDerivAt_mvPolynomial_eval
 -- name    : ReciprocityTheory.AnForm.hasFDerivAt_mvPolynomial_eval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:19.178279+00:00
 -- url     : https://prove2.me/theorems/d06fc978-825a-4b3f-b863-bb1ff2ac7ff9

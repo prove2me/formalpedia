@@ -1,0 +1,28 @@
+-- Prove2me | solution 1 for GlobalTheory.MatchParts.r_left
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-24T06:26:37.645225+00:00
+-- url     : https://prove2.me/submissions/ac3d10e5-806e-4754-9094-8a18be1b437b
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Degenerations_NotAllMatchRankZero
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DegenerationProofs_DegenerationDataTorsionStructureAlgClosedStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DegenerationProofs_TxCosetCriterionStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DegenerationProofs_ThetaRecognitionMatchedPartsDimEq
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ReciprocityTheory.ChartRestriction.G.Geo.Tor GlobalTheory.Ex
+open scoped BigOperators
+open GlobalTheory GlobalTheory.MatchParts
+variable {C : Type} [NormedField C] {N N' : NumD C} {n : ℕ}
+namespace GlobalTheory.MatchParts
+theorem _root_.solution (μ : Match N N' n) {k : ℕ} {p q : N.QT k} {p' : N'.QT k} (h : μ.r k p p') (e : N.QEq p q) :
+    μ.r k q p' := (μ.eqv k p q p' p' h e).2 (qrefl p')
+end GlobalTheory.MatchParts

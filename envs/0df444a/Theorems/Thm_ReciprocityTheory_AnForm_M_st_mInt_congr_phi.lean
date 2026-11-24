@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_st_mInt_congr_phi
 -- name    : ReciprocityTheory.AnForm.M.st_mInt_congr_phi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:48.470548+00:00
 -- url     : https://prove2.me/theorems/da6f2202-921b-4fda-9aca-75549436d634

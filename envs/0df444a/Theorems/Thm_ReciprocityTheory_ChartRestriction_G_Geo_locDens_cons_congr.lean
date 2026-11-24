@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_locDens_cons_congr
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.locDens_cons_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:56:55.851109+00:00
 -- url     : https://prove2.me/theorems/3f7a2fb3-1c61-4feb-a3ad-c8e7fe2e361e

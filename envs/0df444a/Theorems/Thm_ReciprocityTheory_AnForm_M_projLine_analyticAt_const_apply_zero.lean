@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_projLine_analyticAt_const_apply_zero
 -- name    : ReciprocityTheory.AnForm.M.projLine_analyticAt_const_apply_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:20.940127+00:00
 -- url     : https://prove2.me/theorems/bdb56b37-db26-4bee-b70a-7e06fad69bd1

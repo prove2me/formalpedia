@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameQuot_cupMu_mk
 -- name    : GlobalTheory.TameQuot.cupMu_mk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:31.694025+00:00
 -- url     : https://prove2.me/theorems/f096ff9a-65fa-4c36-a17c-db4c2469c507

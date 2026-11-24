@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_inter_dark_lat_l
 -- name    : ULHC.inter_dark_lat_l
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:50:55.939844+00:00
 -- url     : https://prove2.me/theorems/3fe97414-acb9-4623-9b72-e618c3213b55

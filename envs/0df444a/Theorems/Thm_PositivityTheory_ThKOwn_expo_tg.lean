@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKOwn_expo_tg
 -- name    : PositivityTheory.ThKOwn.expo_tg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:44.536655+00:00
 -- url     : https://prove2.me/theorems/f2b8cfa0-825e-4f24-bc51-3ab3c39775ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSiegel_integral_cexp_quadratic
 -- name    : GlobalTheory.IsSiegel.integral_cexp_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:56:49.874449+00:00
 -- url     : https://prove2.me/theorems/a9c59078-e67e-461a-8402-d2c5b074185c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L1ResistanceCount_Counting_lemma_4_6
 -- name    : L1ResistanceCount.Counting.lemma_4_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:11:22.622993+00:00
 -- url     : https://prove2.me/theorems/bc0cb301-5130-47f2-b656-8b1565e10b5d

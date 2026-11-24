@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_LQ_apply
 -- name    : PositivityTheory.Rg.Sw.LVs.LQ_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:34.373158+00:00
 -- url     : https://prove2.me/theorems/f7d56351-c4e2-4d83-9e0a-7ac41f99c04e

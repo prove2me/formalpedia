@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_TG_app_injective_of_flat_surj
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.TG.app_injective_of_flat_surj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:37.832417+00:00
 -- url     : https://prove2.me/theorems/a50a6db4-b22b-4145-8e0c-c5bcf8149968

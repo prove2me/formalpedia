@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_KH_KrullDimensionPrincipalIdeal_ringKrullDim_quotient_ne_bot
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.KH.KrullDimensionPrincipalIdeal.ringKrullDim_quotient_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:58.541552+00:00
 -- url     : https://prove2.me/theorems/b8e15ed5-de95-4dcc-a2d5-af497b574212

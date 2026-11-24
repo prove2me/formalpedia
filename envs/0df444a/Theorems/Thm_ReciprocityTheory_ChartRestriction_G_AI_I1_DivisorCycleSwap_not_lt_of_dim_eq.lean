@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_DivisorCycleSwap_not_lt_of_dim_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.DivisorCycleSwap.not_lt_of_dim_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:31.108798+00:00
 -- url     : https://prove2.me/theorems/42bbd437-40a4-4007-9596-e30c91b6eaa0

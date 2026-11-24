@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_measurable_dens
 -- name    : PositivityTheory.ThKG.Loc.Bump.measurable_dens
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:56:02.263665+00:00
 -- url     : https://prove2.me/theorems/c707041d-60d0-4762-9f53-0a963f60e24b

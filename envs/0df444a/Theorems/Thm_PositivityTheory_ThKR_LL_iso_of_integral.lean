@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_LL_iso_of_integral
 -- name    : PositivityTheory.ThKR.LL.iso_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:59.821403+00:00
 -- url     : https://prove2.me/theorems/16a42221-7fc5-4ab6-b491-0a09922e8b20

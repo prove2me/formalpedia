@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_symplectic_fromBlocks_inv_relations
 -- name    : GlobalTheory.symplectic_fromBlocks_inv_relations
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:09.178795+00:00
 -- url     : https://prove2.me/theorems/cadb8068-394a-4b43-81a6-00e49293bd63

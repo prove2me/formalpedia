@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_MatchParts_r_left
+-- name    : GlobalTheory.MatchParts.r_left
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-24T06:22:11.026865+00:00
+-- url     : https://prove2.me/theorems/c9b27fc0-0120-4ebe-94b8-065035dca049
+-- title:
+--   Match Parts: r left
+-- statement:
+--   The Match Parts construction uses the r left property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/DegenerationProofs/ThetaRecognitionMatchedPartsDimEq.lean#L19-L20
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/DegenerationProofs/ThetaRecognitionMatchedPartsDimEq.lean#L19-L20
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Degenerations_NotAllMatchRankZero
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DegenerationProofs_DegenerationDataTorsionStructureAlgClosedStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DegenerationProofs_TxCosetCriterionStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DegenerationProofs_ThetaRecognitionMatchedPartsDimEq
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ReciprocityTheory.ChartRestriction.G.Geo.Tor GlobalTheory.Ex
+open scoped BigOperators
+open GlobalTheory GlobalTheory.MatchParts
+variable {C : Type} [NormedField C] {N N' : NumD C} {n : ℕ}
+
+theorem GlobalTheory.MatchParts.r_left (μ : Match N N' n) {k : ℕ} {p q : N.QT k} {p' : N'.QT k} (h : μ.r k p p') (e : N.QEq p q) :
+    μ.r k q p' := by sorry

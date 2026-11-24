@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_LL_isUnit_fouInv
 -- name    : PositivityTheory.ThKR.LL.isUnit_fouInv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:59:10.783529+00:00
 -- url     : https://prove2.me/theorems/b5d368a3-1dfc-4279-bd14-f1dc34e82207

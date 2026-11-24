@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Asm_aeval_prod_lin
 -- name    : PositivityTheory.RgUd.T.Nil.Asm.aeval_prod_lin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:15.140798+00:00
 -- url     : https://prove2.me/theorems/a0e308c5-5477-4732-b517-525932327b19

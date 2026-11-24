@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_one_strip
 -- name    : ULHC.one_strip
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:42:21.054037+00:00
 -- url     : https://prove2.me/theorems/14243b86-3e7b-4bb0-947e-295386608dd3

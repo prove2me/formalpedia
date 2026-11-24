@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_ind_zero
 -- name    : PositivityTheory.ThKG.Std.ind_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:02:20.903299+00:00
 -- url     : https://prove2.me/theorems/65c27049-e8f4-413d-b0e8-84dbcd4f1126

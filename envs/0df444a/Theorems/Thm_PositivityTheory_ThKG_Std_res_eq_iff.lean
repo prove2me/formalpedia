@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_res_eq_iff
 -- name    : PositivityTheory.ThKG.Std.res_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:09.292719+00:00
 -- url     : https://prove2.me/theorems/1866a4c5-821b-4283-ba27-08b41bcc36ef

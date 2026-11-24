@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_coincide_null
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.coincide_null
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:38.576119+00:00
 -- url     : https://prove2.me/theorems/3294fbdb-c5b2-4593-9c7b-a22d8e8f8020

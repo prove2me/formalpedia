@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_eta_sq
 -- name    : PositivityTheory.ThKF0.Chr.eta_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:53:33.891828+00:00
 -- url     : https://prove2.me/theorems/3d5b2ce7-7df7-4b93-9269-6358889dfcfb

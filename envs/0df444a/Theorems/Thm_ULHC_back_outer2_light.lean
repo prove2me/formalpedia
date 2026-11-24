@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_back_outer2_light
 -- name    : ULHC.back_outer2_light
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:25:14.261674+00:00
 -- url     : https://prove2.me/theorems/febc5c42-8046-46d5-8f0a-5da9c242609b

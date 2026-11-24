@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_box_cancel
 -- name    : PositivityTheory.ThKF0.Chr.box_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:53:15.934173+00:00
 -- url     : https://prove2.me/theorems/1f7e37b9-2a87-43f2-bca8-bac87014c331

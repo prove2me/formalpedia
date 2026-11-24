@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_gradMat_eq_vecMulVec
 -- name    : ReciprocityTheory.AnForm.A.gradMat_eq_vecMulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:17:25.209095+00:00
 -- url     : https://prove2.me/theorems/7d2c9c8e-5efe-488b-9a41-ae65910f1593

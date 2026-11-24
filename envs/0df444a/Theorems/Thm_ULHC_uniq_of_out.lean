@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_uniq_of_out
 -- name    : ULHC.uniq_of_out
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:48:12.330799+00:00
 -- url     : https://prove2.me/theorems/ff2a0de5-36cd-49bc-890e-74f24100df71

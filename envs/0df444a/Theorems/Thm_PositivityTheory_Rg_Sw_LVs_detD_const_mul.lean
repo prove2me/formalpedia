@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_detD_const_mul
 -- name    : PositivityTheory.Rg.Sw.LVs.detD_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:06.22211+00:00
 -- url     : https://prove2.me/theorems/f543a75b-141d-4116-9b4b-e736be12ee6d

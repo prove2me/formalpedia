@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKH_Evl_exists_subgroup
 -- name    : PositivityTheory.ThKH.Evl.exists_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:33.3868+00:00
 -- url     : https://prove2.me/theorems/e882bb89-85ce-498d-8807-b08f18fe9845

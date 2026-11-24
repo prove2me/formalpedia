@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Contr_coeff_iterate_zero
 -- name    : Formalism.L2.FormalSeriesBounds.Contr.coeff_iterate_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:38.825133+00:00
 -- url     : https://prove2.me/theorems/bb69197d-22c6-4110-a192-34110ad9bc04

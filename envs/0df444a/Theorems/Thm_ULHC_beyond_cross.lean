@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_beyond_cross
 -- name    : ULHC.beyond_cross
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:28:40.376557+00:00
 -- url     : https://prove2.me/theorems/3b448d49-a0c9-4857-a0e3-467dab03d214

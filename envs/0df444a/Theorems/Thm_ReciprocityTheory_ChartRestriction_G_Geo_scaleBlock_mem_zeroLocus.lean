@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_scaleBlock_mem_zeroLocus
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.scaleBlock_mem_zeroLocus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:09:24.659983+00:00
 -- url     : https://prove2.me/theorems/e3e1ff85-8335-4125-af93-21f579227051

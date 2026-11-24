@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_mul_map_add_le
 -- name    : GlobalTheory.ClassMin.mul_map_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:19.269454+00:00
 -- url     : https://prove2.me/theorems/88078f2d-ab51-4fbe-9c65-85fe238ac2d9

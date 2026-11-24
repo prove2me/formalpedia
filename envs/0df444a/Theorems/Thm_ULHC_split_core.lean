@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_split_core
 -- name    : ULHC.split_core
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:35:37.927863+00:00
 -- url     : https://prove2.me/theorems/0b6ef8e4-bc82-48b3-9b6d-2b317441320c

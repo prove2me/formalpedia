@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLAux_hessC_congr_eventuallyEq
 -- name    : ReciprocityTheory.AnForm.M.PLAux.hessC_congr_eventuallyEq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:08.870793+00:00
 -- url     : https://prove2.me/theorems/b58b80f7-f5a3-470d-8936-36485805755b

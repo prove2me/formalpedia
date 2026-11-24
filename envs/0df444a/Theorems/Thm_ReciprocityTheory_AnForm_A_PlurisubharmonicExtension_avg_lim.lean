@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PlurisubharmonicExtension_avg_lim
 -- name    : ReciprocityTheory.AnForm.A.PlurisubharmonicExtension.avg_lim
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:59:12.276631+00:00
 -- url     : https://prove2.me/theorems/316e1912-d657-4457-8e69-ef4a0b31cb10

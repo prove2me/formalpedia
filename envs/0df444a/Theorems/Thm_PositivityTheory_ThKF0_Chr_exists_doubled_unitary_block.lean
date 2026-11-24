@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_exists_doubled_unitary_block
 -- name    : PositivityTheory.ThKF0.Chr.exists_doubled_unitary_block
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:53:59.635904+00:00
 -- url     : https://prove2.me/theorems/cee3feb5-9a34-4632-bf85-86a2b7890710

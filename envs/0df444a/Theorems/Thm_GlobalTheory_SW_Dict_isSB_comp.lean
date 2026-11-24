@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Dict_isSB_comp
 -- name    : GlobalTheory.SW.Dict.isSB_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:31.840702+00:00
 -- url     : https://prove2.me/theorems/12c78338-2899-4455-83aa-824ea4cea164

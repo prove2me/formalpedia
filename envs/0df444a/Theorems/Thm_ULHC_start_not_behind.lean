@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_start_not_behind
 -- name    : ULHC.start_not_behind
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:01:42.042799+00:00
 -- url     : https://prove2.me/theorems/f89ca758-2f76-4671-be16-76b26b2071a4

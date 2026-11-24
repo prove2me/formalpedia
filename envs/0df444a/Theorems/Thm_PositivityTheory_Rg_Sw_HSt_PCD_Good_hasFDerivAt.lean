@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_PCD_Good_hasFDerivAt
 -- name    : PositivityTheory.Rg.Sw.HSt.PCD.Good.hasFDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:04:30.347596+00:00
 -- url     : https://prove2.me/theorems/251c5c55-3d6b-4095-83e4-fd28ad879449

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_lt_add_zsmul_of_le_add
 -- name    : GlobalTheory.ClassMin.lt_add_zsmul_of_le_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:43.214851+00:00
 -- url     : https://prove2.me/theorems/7b8be26c-f2b3-4a63-90d0-6776d87a4f8d

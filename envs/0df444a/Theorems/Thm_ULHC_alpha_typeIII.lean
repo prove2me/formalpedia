@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_alpha_typeIII
 -- name    : ULHC.alpha_typeIII
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:43:40.589288+00:00
 -- url     : https://prove2.me/theorems/ade69307-3c58-456e-bcfb-c7cbe0896d80

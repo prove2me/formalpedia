@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_cyc_exists_blockComponent
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.cyc_exists_blockComponent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:52:59.084387+00:00
 -- url     : https://prove2.me/theorems/1ff3fd9e-f651-4151-8b25-776fd89d2479

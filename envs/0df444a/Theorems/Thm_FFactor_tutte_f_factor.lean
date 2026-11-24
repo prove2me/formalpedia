@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FFactor_tutte_f_factor
 -- name    : FFactor.tutte_f_factor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:58:54.860766+00:00
 -- url     : https://prove2.me/theorems/ad28147d-2dca-44a5-8139-3fcf1b66ba29

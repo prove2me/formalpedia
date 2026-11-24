@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_inh_length_quot_maximal
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.inh_length_quot_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:30.122674+00:00
 -- url     : https://prove2.me/theorems/c3504538-01ba-4f1a-b47f-825e6c5e0436

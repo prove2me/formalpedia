@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_CS_Dual_intOn
 -- name    : PositivityTheory.ThKEst.CS.Dual.intOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:53:07.267822+00:00
 -- url     : https://prove2.me/theorems/abd111a2-3729-4b2b-9e5c-9497ece17623

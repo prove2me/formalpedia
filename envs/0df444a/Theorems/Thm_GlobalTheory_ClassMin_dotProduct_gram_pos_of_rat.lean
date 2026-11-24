@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_dotProduct_gram_pos_of_rat
 -- name    : GlobalTheory.ClassMin.dotProduct_gram_pos_of_rat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:44.280644+00:00
 -- url     : https://prove2.me/theorems/62402538-ee8a-4c6d-b5e9-6e8e7c19d058

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_sgn_mul_self
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.sgn_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:41.28491+00:00
 -- url     : https://prove2.me/theorems/3ce557f2-04a4-4d53-8eda-8b6f62106dd3

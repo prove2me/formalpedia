@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PlurisubharmonicExtension_trunc_cobdd
 -- name    : ReciprocityTheory.AnForm.A.PlurisubharmonicExtension.trunc_cobdd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:54.284109+00:00
 -- url     : https://prove2.me/theorems/3ba26513-0710-4eb5-935c-17afa8c99f01

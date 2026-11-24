@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_blk_val
 -- name    : PositivityTheory.ThKF0.Chr.blk_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:53:35.701802+00:00
 -- url     : https://prove2.me/theorems/89531c9b-e069-4116-a3a4-4cb4806c1b3d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_secFun_map_int
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.secFun_map_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:52.913946+00:00
 -- url     : https://prove2.me/theorems/8337a0ba-63a7-479a-94dd-561580f7e798

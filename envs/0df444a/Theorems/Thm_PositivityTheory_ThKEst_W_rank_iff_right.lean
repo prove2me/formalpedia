@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_W_rank_iff_right
 -- name    : PositivityTheory.ThKEst.W.rank_iff_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:54:01.333973+00:00
 -- url     : https://prove2.me/theorems/1dd76f12-48ef-46d5-a88c-47c5025eb93a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_T_rpow_neg_le_add
 -- name    : PositivityTheory.Rg.Sw.WR.T.rpow_neg_le_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:24.655856+00:00
 -- url     : https://prove2.me/theorems/d6998bd6-43fe-4ea8-8039-a74a30cc1382

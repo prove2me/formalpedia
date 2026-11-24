@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FFactor_ncard_odd_le
 -- name    : FFactor.ncard_odd_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T06:02:22.584601+00:00
 -- url     : https://prove2.me/theorems/aed55a6e-06df-46c4-8826-2db7220cc925

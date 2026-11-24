@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_theorem61
 -- name    : ULHC.theorem61
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:21:40.748804+00:00
 -- url     : https://prove2.me/theorems/cb87c63e-0100-4e91-b557-e637be78f927

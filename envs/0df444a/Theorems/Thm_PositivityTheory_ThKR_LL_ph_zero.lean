@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_LL_ph_zero
 -- name    : PositivityTheory.ThKR.LL.ph_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:33:21.756874+00:00
 -- url     : https://prove2.me/theorems/41f38665-dd5e-4a0b-a2a3-1426df493b7e

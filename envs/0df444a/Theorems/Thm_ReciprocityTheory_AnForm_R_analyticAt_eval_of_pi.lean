@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_analyticAt_eval_of_pi
 -- name    : ReciprocityTheory.AnForm.R.analyticAt_eval_of_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:18.882675+00:00
 -- url     : https://prove2.me/theorems/c7712d47-1569-4cb3-ba05-8a6a22df1a1b

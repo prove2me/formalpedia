@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I4_isBlockMap_inr
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I4.isBlockMap_inr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:15.268899+00:00
 -- url     : https://prove2.me/theorems/f9c07b6b-8c30-4786-967e-0db3a9154668

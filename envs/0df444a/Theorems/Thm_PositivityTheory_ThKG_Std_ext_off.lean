@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_ext_off
 -- name    : PositivityTheory.ThKG.Std.ext_off
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:31.132793+00:00
 -- url     : https://prove2.me/theorems/be46d9e0-131c-4833-9d65-186b18c512d9

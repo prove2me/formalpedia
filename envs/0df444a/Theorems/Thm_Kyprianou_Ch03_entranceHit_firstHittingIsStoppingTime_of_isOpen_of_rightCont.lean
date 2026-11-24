@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_entranceHit_firstHittingIsStoppingTime_of_isOpen_of_rightCont
 -- name    : Kyprianou.Ch03.entranceHit_firstHittingIsStoppingTime_of_isOpen_of_rightCont
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T03:42:12.852195+00:00
 -- url     : https://prove2.me/theorems/2e8e30d3-a2d9-4be9-bd87-f43f60ac147b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_polyMax_usc
 -- name    : ReciprocityTheory.AnForm.A.polyMax_usc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:01:16.16366+00:00
 -- url     : https://prove2.me/theorems/349b4a59-c3e9-42df-a3ce-ab21569ea460

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_vol_smul
 -- name    : PositivityTheory.ThKG.Std.vol_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:45.08944+00:00
 -- url     : https://prove2.me/theorems/cab7341e-830b-4ff6-ac65-310c43f5a120

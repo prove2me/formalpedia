@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_val_pow_le
 -- name    : PositivityTheory.ThKG.Std.val_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:40.176983+00:00
 -- url     : https://prove2.me/theorems/0293c5ed-3900-45af-ad3c-34cd18f55d33

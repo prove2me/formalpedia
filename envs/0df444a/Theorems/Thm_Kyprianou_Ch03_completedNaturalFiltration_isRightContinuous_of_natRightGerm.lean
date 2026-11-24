@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_completedNaturalFiltration_isRightContinuous_of_natRightGerm
 -- name    : Kyprianou.Ch03.completedNaturalFiltration_isRightContinuous_of_natRightGerm
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T04:00:18.660359+00:00
 -- url     : https://prove2.me/theorems/af0ba35c-4e23-4cfb-ac61-5947d66a2460

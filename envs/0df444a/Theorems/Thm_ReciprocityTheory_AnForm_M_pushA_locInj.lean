@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_pushA_locInj
 -- name    : ReciprocityTheory.AnForm.M.pushA_locInj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:41.731793+00:00
 -- url     : https://prove2.me/theorems/6fea83ef-db79-4f9b-8083-5c7540d28e28

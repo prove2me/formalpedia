@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_isWeightedHomogeneous_cycBlockWt
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.isWeightedHomogeneous_cycBlockWt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:33.502435+00:00
 -- url     : https://prove2.me/theorems/35f015b0-088e-4ff1-ab93-5d0e2a83b4c9

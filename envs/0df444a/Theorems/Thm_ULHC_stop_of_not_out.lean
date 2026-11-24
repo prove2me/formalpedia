@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_stop_of_not_out
 -- name    : ULHC.stop_of_not_out
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:48:22.696261+00:00
 -- url     : https://prove2.me/theorems/e210a132-e6dd-4f74-8569-56f4dfd263da

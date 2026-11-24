@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_AlgRes_isOpen_nonvan
 -- name    : ReciprocityTheory.AnForm.R.AlgRes.isOpen_nonvan
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:05.149804+00:00
 -- url     : https://prove2.me/theorems/a7f3a901-6fb1-4585-82f9-daf53c78b8c1

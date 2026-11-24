@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Geo_eq_zero_of_om
 -- name    : PositivityTheory.ThKF0.Geo.eq_zero_of_om
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:53:39.637257+00:00
 -- url     : https://prove2.me/theorems/7eae6353-f354-40d6-bd53-31d86e154210

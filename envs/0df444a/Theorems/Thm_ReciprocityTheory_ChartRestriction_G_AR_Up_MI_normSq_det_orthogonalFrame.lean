@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_normSq_det_orthogonalFrame
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.normSq_det_orthogonalFrame
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:53.638803+00:00
 -- url     : https://prove2.me/theorems/06a0cb6a-9af5-4eda-9414-389f19e24e4d

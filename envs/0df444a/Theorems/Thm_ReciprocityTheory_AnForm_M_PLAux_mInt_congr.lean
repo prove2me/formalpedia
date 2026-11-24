@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLAux_mInt_congr
 -- name    : ReciprocityTheory.AnForm.M.PLAux.mInt_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:05.015034+00:00
 -- url     : https://prove2.me/theorems/b49f5529-3ba3-43ac-9b51-b418f468aaa0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_analyticAt_brQ
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.analyticAt_brQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:45:16.308841+00:00
 -- url     : https://prove2.me/theorems/96cacd35-7428-48e6-a73d-2adc9eb99826

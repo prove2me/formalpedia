@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_scaled_hasCompactSupport
 -- name    : ReciprocityTheory.AnForm.A.scaled_hasCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:21:37.452496+00:00
 -- url     : https://prove2.me/theorems/a1150681-fced-4319-9e7d-7cb56eb1d4c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_split_prod
 -- name    : PositivityTheory.ThKG.Std.split_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:58.575645+00:00
 -- url     : https://prove2.me/theorems/ee7fe91b-aa10-4461-966e-c835fe493fcf

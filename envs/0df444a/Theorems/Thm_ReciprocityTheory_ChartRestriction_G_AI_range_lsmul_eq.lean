@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_range_lsmul_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.range_lsmul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:06.109145+00:00
 -- url     : https://prove2.me/theorems/a164b273-c89e-4edd-ac5c-0c8c4247f6bf

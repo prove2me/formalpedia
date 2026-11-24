@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_RealFourierCoefficientBounds_H_smooth
 -- name    : PositivityTheory.ThKEst.RealFourierCoefficientBounds.H_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:52:59.482911+00:00
 -- url     : https://prove2.me/theorems/85e08b50-be1a-416f-a78e-d3f1b67ffc16

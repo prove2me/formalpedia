@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_kE_dv
 -- name    : PositivityTheory.ThKF0.Chr.kE_dv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:53:23.297526+00:00
 -- url     : https://prove2.me/theorems/bb0eeadc-45ce-4da2-b28f-acfbc33e483d

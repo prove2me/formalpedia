@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_LL_fouInv_mul_fou
 -- name    : PositivityTheory.ThKR.LL.fouInv_mul_fou
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:51:19.539138+00:00
 -- url     : https://prove2.me/theorems/cfab12d5-1e73-4f6c-a41b-0e2f4d0863cb

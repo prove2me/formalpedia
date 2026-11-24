@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMS_neg_of_lt
 -- name    : PI.FJMS.neg_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:06.405276+00:00
 -- url     : https://prove2.me/theorems/6987bd85-eb21-417d-9b31-695deea13252

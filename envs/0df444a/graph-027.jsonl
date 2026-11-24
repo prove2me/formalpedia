@@ -73105,7 +73105,7 @@
 {"parent": "BootstrapRecolorVerify_MetricGap_Construction", "child": "BootstrapRecolorVerify_MetricGap_MetricLP", "via": ["statement"]}
 {"parent": "BootstrapRecolorVerify_MetricGap_Construction", "child": "BootstrapRecolorVerify_MetricGap_Hierarchy", "via": ["statement"]}
 {"parent": "OAI.MaximalSeshadri.Projective.exists_centered_rational_jet_in_open_s01", "child": "Q223SES009", "via": ["solution", "statement"]}
-{"parent": "L1ResistanceCount.Counting.lemma_4_6", "child": "L1ResistanceCount_Counting_Obstacle", "via": ["statement"]}
+{"parent": "L1ResistanceCount.Counting.lemma_4_6", "child": "L1ResistanceCount_Counting_Obstacle", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelCuspFourier_principal_residue", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CuspAverage", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelCuspFourier_principal_residue", "child": "OAI_NumberTheory_DirichletL_Eisenstein_TranslatedFourierResidues", "via": ["solution", "statement"]}
 {"parent": "SubquadCutReach.Faster.lemma_A_2", "child": "SubquadCutReach_Faster_Averaging", "via": ["statement"]}

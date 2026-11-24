@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourier_inversion_schwartz_bruhat
 -- name    : GlobalTheory.T.fourier_inversion_schwartz_bruhat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:51.939476+00:00
 -- url     : https://prove2.me/theorems/ae50ad19-3011-43d2-8ae6-b6b3c7faa1ca

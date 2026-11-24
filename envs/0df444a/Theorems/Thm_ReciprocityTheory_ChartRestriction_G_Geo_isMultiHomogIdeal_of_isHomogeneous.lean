@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_isMultiHomogIdeal_of_isHomogeneous
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.isMultiHomogIdeal_of_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:42.214038+00:00
 -- url     : https://prove2.me/theorems/c4e52c23-4970-4614-b74f-07aefbfb4c56

@@ -36442,12 +36442,12 @@
 {"parent": "AbelianCayleyHDX_IsExplicitFamily", "child": "ReplParity_Vec", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm1_1_1_23.sums_eq_g", "child": "OAIQ098G1000", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm1_1_1_23.sums_eq_g", "child": "OAIQ098G997", "via": ["solution", "statement"]}
-{"parent": "DepthOneQExp.gamma_sigma_relabel", "child": "DepthOneQExp_relabel", "via": ["statement"]}
-{"parent": "DepthOneQExp.gamma_sigma_relabel", "child": "DepthOneQExp_sigma", "via": ["statement"]}
-{"parent": "DepthOneQExp.gamma_sigma_relabel", "child": "MITMSynthesis_Gate", "via": ["statement"]}
-{"parent": "DepthOneQExp.gamma_sigma_relabel", "child": "DepthOneQExp_cnotGroup", "via": ["statement"]}
-{"parent": "DepthOneQExp.gamma_sigma_relabel", "child": "DepthOneQExp_cnotU", "via": ["statement"]}
-{"parent": "DepthOneQExp.gamma_sigma_relabel", "child": "DepthOneQExp_gamma", "via": ["statement"]}
+{"parent": "DepthOneQExp.gamma_sigma_relabel", "child": "DepthOneQExp_relabel", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.gamma_sigma_relabel", "child": "DepthOneQExp_sigma", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.gamma_sigma_relabel", "child": "MITMSynthesis_Gate", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.gamma_sigma_relabel", "child": "DepthOneQExp_cnotGroup", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.gamma_sigma_relabel", "child": "DepthOneQExp_cnotU", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.gamma_sigma_relabel", "child": "DepthOneQExp_gamma", "via": ["solution", "statement"]}
 {"parent": "SkipListConc_dMor", "child": "SkipListConc_morris", "via": ["statement"]}
 {"parent": "IdentityTesting39.ExactRadius.eq_7_tv_branches", "child": "IdentityTesting39_ExactRadius_MomentPrograms", "via": ["statement"]}
 {"parent": "MatroidOptGame.lemma_4", "child": "MatroidOptGame_OutputsBasePair", "via": ["statement"]}
@@ -45534,8 +45534,8 @@
 {"parent": "AvramDividend.Classical.avram_ubv_finite12_original_positive_clock_postpayment_left_tendsto", "child": "AvramDividend.Classical.avram_ubv_top11_original_zero_nu_global_continuous_ae", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ubv_finite12_original_positive_clock_postpayment_left_tendsto", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ubv_finite12_original_positive_clock_postpayment_left_tendsto", "child": "AvramDividend.Classical.avram_p4_e_localise_preruin_postpayment_nonnegative", "via": ["solution", "statement"]}
-{"parent": "DepthOneQExp.lemma_2_12", "child": "DepthOneQExp_sigma", "via": ["statement"]}
-{"parent": "DepthOneQExp.lemma_2_12", "child": "ConstGapCircuits_spectralGap", "via": ["statement"]}
+{"parent": "DepthOneQExp.lemma_2_12", "child": "DepthOneQExp_sigma", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.lemma_2_12", "child": "ConstGapCircuits_spectralGap", "via": ["solution", "statement"]}
 {"parent": "HypercliqueAC0.FixedDepth.lemma_4_3", "child": "HypercliqueAC0_FixedDepth_Planting", "via": ["statement"]}
 {"parent": "AbelianCayleyHDX.section_2_4_relation_complex", "child": "AbelianCayleyHDX_IsCayleyComplex", "via": ["statement"]}
 {"parent": "AbelianCayleyHDX.section_2_4_relation_complex", "child": "AbelianCayleyHDX_linkWeight", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF_Abs_mem_orb
 -- name    : PositivityTheory.ThKF.Abs.mem_orb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:53:00.773796+00:00
 -- url     : https://prove2.me/theorems/06f26567-68d8-4fb1-be24-a13971748eb4

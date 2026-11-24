@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_back_down
 -- name    : ULHC.back_down
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:20:31.565061+00:00
 -- url     : https://prove2.me/theorems/0ab5ec80-a969-4a7f-99d5-d81cdea2b5c0

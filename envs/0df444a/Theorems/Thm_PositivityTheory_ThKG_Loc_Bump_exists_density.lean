@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_exists_density
 -- name    : PositivityTheory.ThKG.Loc.Bump.exists_density
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:48.174589+00:00
 -- url     : https://prove2.me/theorems/cf5387dc-36a5-420c-852f-eb3894ce6927

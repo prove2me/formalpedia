@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_qmap_injective
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.qmap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:30.891922+00:00
 -- url     : https://prove2.me/theorems/a4d48e79-444a-42d3-8025-e8937abf6a8f

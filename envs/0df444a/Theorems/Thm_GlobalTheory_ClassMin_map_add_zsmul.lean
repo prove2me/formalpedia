@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_map_add_zsmul
 -- name    : GlobalTheory.ClassMin.map_add_zsmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:46.523391+00:00
 -- url     : https://prove2.me/theorems/5146b3ce-ad29-44c5-904e-fbe54fd7c60f

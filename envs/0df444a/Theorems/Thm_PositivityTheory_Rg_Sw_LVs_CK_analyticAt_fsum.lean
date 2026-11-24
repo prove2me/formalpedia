@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CK_analyticAt_fsum
 -- name    : PositivityTheory.Rg.Sw.LVs.CK.analyticAt_fsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:46:03.50101+00:00
 -- url     : https://prove2.me/theorems/26215f34-bc54-4f57-8312-ef7ef5ce1e27

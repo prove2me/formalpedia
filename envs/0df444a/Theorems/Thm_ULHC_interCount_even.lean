@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_interCount_even
 -- name    : ULHC.interCount_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:50:30.438023+00:00
 -- url     : https://prove2.me/theorems/14a870ed-c137-493b-b227-b96cbbab917b

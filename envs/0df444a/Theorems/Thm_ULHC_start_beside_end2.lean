@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_start_beside_end2
 -- name    : ULHC.start_beside_end2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:01:47.69682+00:00
 -- url     : https://prove2.me/theorems/814a8aa4-28a0-40b3-9a98-f0de8e2e1f41

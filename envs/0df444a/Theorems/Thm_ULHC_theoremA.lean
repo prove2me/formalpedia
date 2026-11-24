@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_theoremA
 -- name    : ULHC.theoremA
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:49:27.419417+00:00
 -- url     : https://prove2.me/theorems/467ac604-77e0-4b1c-a28e-897119aecb70

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_LL_intw_ph
 -- name    : PositivityTheory.ThKR.LL.intw_ph
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:25.619948+00:00
 -- url     : https://prove2.me/theorems/90ebae6e-cb35-4fa5-bb3b-dc88bba2d146

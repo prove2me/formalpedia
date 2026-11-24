@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_h_eq_of_sameOrbit
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.h_eq_of_sameOrbit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:36.881297+00:00
 -- url     : https://prove2.me/theorems/605cca96-93a6-4a73-a574-590307c77a58

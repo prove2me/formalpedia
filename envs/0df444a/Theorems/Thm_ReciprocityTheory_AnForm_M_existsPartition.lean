@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_existsPartition
 -- name    : ReciprocityTheory.AnForm.M.existsPartition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:24:43.382934+00:00
 -- url     : https://prove2.me/theorems/0d02668a-673a-4e29-b0ed-8fb2e0a99fca

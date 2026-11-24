@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_dl_mul_unit
 -- name    : PositivityTheory.ThKG.Std.dl_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:56:33.208891+00:00
 -- url     : https://prove2.me/theorems/7fd69234-b792-4b1d-9e68-0fe91cf183e8

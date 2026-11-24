@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_A_polyMax_mono__555a93f5b347
 -- name    : P2M_ReciprocityTheory_AnForm_A_polyMax_mono__555a93f5b347
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:33:42.459291+00:00
 -- url     : https://prove2.me/theorems/14f09465-7248-40b1-8971-a3137aac9a2b

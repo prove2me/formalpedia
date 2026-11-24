@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMS_idxN
 -- name    : PI.FJMS.idxN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:40:41.945796+00:00
 -- url     : https://prove2.me/theorems/f9b8dc7e-8ec8-4b9c-90ef-385f1a190003

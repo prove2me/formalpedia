@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_lemma57
 -- name    : ULHC.lemma57
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:43:53.634184+00:00
 -- url     : https://prove2.me/theorems/0cbd7f3e-4876-4c44-aa6e-934a02a6ff87

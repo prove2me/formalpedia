@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_AlgRes_analyticAt_coord_symm
 -- name    : ReciprocityTheory.AnForm.R.AlgRes.analyticAt_coord_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:23.944751+00:00
 -- url     : https://prove2.me/theorems/5538f93b-2afa-42f9-af98-9ec7c92acefd

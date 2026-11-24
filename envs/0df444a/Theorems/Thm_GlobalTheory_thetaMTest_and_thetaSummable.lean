@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_thetaMTest_and_thetaSummable
 -- name    : GlobalTheory.thetaMTest_and_thetaSummable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:01.524607+00:00
 -- url     : https://prove2.me/theorems/ceaeee30-8f0d-42ca-93db-7cb179d58f6f

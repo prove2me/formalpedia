@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_Supplement_primitive_suite_410
 -- name    : QuantumLTF.Membership.Supplement.primitive_suite_410
--- status  : Open
+-- status  : Proved
 -- author  : @Robin Kothari
 -- created : 2026-11-24T06:09:07.952796+00:00
 -- url     : https://prove2.me/theorems/a9ab63ed-1903-466e-a889-966704cfb011

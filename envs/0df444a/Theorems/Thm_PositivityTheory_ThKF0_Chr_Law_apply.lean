@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_Law_apply
 -- name    : PositivityTheory.ThKF0.Chr.Law.apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:53:18.960858+00:00
 -- url     : https://prove2.me/theorems/f8fdadb0-fe13-425d-95ef-cfaf9a2fc0ff

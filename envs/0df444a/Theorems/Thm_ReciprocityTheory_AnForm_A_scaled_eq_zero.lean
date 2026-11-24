@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_scaled_eq_zero
 -- name    : ReciprocityTheory.AnForm.A.scaled_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:47.582034+00:00
 -- url     : https://prove2.me/theorems/05592253-4a95-4e2d-ab70-09fb9fa38c17

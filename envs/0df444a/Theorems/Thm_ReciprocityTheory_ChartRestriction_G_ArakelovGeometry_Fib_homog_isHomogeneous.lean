@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_Fib_homog_isHomogeneous
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.Fib.homog_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:47.460545+00:00
 -- url     : https://prove2.me/theorems/79e26d07-4689-4536-97df-c49e57bf375e

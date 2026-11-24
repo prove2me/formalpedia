@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_weight_blkW
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.weight_blkW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:31.428992+00:00
 -- url     : https://prove2.me/theorems/c4b3bbe3-4328-4560-9cb7-d54c0cc53476

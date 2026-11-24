@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rankOneCurve_mem
 -- name    : GlobalTheory.rankOneCurve_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:55.511703+00:00
 -- url     : https://prove2.me/theorems/aea3a572-b4b7-4c10-8272-d4f6efa97f6f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_FinLine_uniform
 -- name    : PositivityTheory.ThKF0.FinLine.uniform
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:53:24.323809+00:00
 -- url     : https://prove2.me/theorems/5e0937ff-2bd2-41b9-a1be-73648f27cb4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_continuous_nm
 -- name    : PositivityTheory.ThKG.Loc.Bump.continuous_nm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:39.486258+00:00
 -- url     : https://prove2.me/theorems/18c28770-6bc3-4bb2-8e98-3151b38c9ca1

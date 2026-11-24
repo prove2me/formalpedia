@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_locLen_ne_top
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.locLen_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:58:33.069811+00:00
 -- url     : https://prove2.me/theorems/42cbb1f5-972c-4316-b7ec-77bd1e962b91

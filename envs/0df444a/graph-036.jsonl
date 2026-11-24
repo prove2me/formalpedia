@@ -21702,12 +21702,12 @@
 {"parent": "RH1E6S06.group_072", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "LevyStochCalc.Driver.LevyDriver.ae_eq_zero_of_integral_char_joint", "child": "LevyStochCalc_Driver_JointCharacters_F000", "via": ["statement"]}
 {"parent": "RH1E6S06_D012_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "LL_Decomp587i.r2j16_short", "child": "LL_Decomp587i_domain", "via": ["statement"]}
-{"parent": "LL_Decomp587i.r2j16_short", "child": "LL_Decomp587i_ZeroBelowOne", "via": ["statement"]}
-{"parent": "LL_Decomp587i.r2j16_short", "child": "LL_Decomp587i_IsBuchstab", "via": ["statement"]}
-{"parent": "LL_Decomp587i.r2j16_short", "child": "LL_Decomp587i_r2j16_lo", "via": ["statement"]}
-{"parent": "LL_Decomp587i.r2j16_short", "child": "LL_Decomp587i_buchstabIntegral", "via": ["statement"]}
-{"parent": "LL_Decomp587i.r2j16_short", "child": "LL_Decomp587i_r2j16_hi", "via": ["statement"]}
+{"parent": "LL_Decomp587i.r2j16_short", "child": "LL_Decomp587i_domain", "via": ["solution", "statement"]}
+{"parent": "LL_Decomp587i.r2j16_short", "child": "LL_Decomp587i_ZeroBelowOne", "via": ["solution", "statement"]}
+{"parent": "LL_Decomp587i.r2j16_short", "child": "LL_Decomp587i_IsBuchstab", "via": ["solution", "statement"]}
+{"parent": "LL_Decomp587i.r2j16_short", "child": "LL_Decomp587i_r2j16_lo", "via": ["solution", "statement"]}
+{"parent": "LL_Decomp587i.r2j16_short", "child": "LL_Decomp587i_buchstabIntegral", "via": ["solution", "statement"]}
+{"parent": "LL_Decomp587i.r2j16_short", "child": "LL_Decomp587i_r2j16_hi", "via": ["solution", "statement"]}
 {"parent": "SourceProof_98060ebf5440d361a80e7715", "child": "LevyStochCalc_Poisson_CompensatedProductMoments_F001", "via": ["statement"]}
 {"parent": "RH1E6S06.part_077_1", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S06.part_077_1", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}

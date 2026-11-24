@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VerticalPointResidue_exists_homog_2fc2a6e46147
 -- name    : P2M_GroundTheory_Heights__Heights_VerticalPointResidue_exists_homog_2fc2a6e46147
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:41:46.821095+00:00
 -- url     : https://prove2.me/theorems/ea11df35-cc6e-4fdb-a742-bcd44c8ad0ea

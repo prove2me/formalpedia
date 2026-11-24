@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_circleAverage_poissonKernel_zero
 -- name    : ReciprocityTheory.AnForm.A.circleAverage_poissonKernel_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:57.359798+00:00
 -- url     : https://prove2.me/theorems/84fa8253-1db1-4f1e-8330-aaf09982ccfd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PlurisubharmonicExtension_coordDiv_closed
 -- name    : ReciprocityTheory.AnForm.A.PlurisubharmonicExtension.coordDiv_closed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:03.948808+00:00
 -- url     : https://prove2.me/theorems/382d0760-5ce0-4eb8-8ca7-772423ec7730

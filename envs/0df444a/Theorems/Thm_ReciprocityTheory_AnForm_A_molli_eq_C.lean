@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_molli_eq_C
 -- name    : ReciprocityTheory.AnForm.A.molli_eq_C
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:21:34.806301+00:00
 -- url     : https://prove2.me/theorems/251ad0e2-2147-4e48-99bc-e04b2ded7690

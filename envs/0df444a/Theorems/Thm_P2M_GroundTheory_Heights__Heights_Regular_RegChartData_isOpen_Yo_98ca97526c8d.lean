@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_RegChartData_isOpen_Yo_98ca97526c8d
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_RegChartData_isOpen_Yo_98ca97526c8d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:47:52.164654+00:00
 -- url     : https://prove2.me/theorems/ea5e4716-902e-416a-b49c-159ee34d716b

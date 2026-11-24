@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_finrank_sec_free
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.finrank_sec_free
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:40.67661+00:00
 -- url     : https://prove2.me/theorems/df0ef1d5-35c1-41d3-b74d-38cb74049cae

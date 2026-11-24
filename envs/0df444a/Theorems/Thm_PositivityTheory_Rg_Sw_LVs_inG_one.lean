@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_inG_one
 -- name    : PositivityTheory.Rg.Sw.LVs.inG_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:24.429475+00:00
 -- url     : https://prove2.me/theorems/9a0419dd-fe97-46dc-a6cf-9f38e7cd348f

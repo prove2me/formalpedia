@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_succ_le_inf
 -- name    : ReciprocityTheory.AnForm.A.succ_le_inf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:01.083903+00:00
 -- url     : https://prove2.me/theorems/bcdbdb3c-e18a-4a1f-a1ec-4350c2bc6fef

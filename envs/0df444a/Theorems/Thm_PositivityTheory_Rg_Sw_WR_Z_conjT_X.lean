@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_Z_conjT_X
 -- name    : PositivityTheory.Rg.Sw.WR.Z.conjT_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:09.889082+00:00
 -- url     : https://prove2.me/theorems/af8c614a-a25c-4b75-bf52-67de5f3e0825

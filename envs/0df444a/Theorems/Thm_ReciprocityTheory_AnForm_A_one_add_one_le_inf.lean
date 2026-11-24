@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_one_add_one_le_inf
 -- name    : ReciprocityTheory.AnForm.A.one_add_one_le_inf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:34:05.334665+00:00
 -- url     : https://prove2.me/theorems/3c100078-69b7-42d3-8d58-7e1389d99f2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_touch_side1
 -- name    : ULHC.touch_side1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:54:00.99297+00:00
 -- url     : https://prove2.me/theorems/2f4e165c-0288-4d2f-88f3-29ca035c9fbf

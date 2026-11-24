@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_support_coker
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.support_coker
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:12.446403+00:00
 -- url     : https://prove2.me/theorems/f2604a63-4b20-4a28-8014-8c2c391da060

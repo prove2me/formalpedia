@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeLocalSheets_mem_zeroSet_chartIdeal_0963b45b1ca9
 -- name    : P2M_GroundTheory_Heights__Heights_ConeLocalSheets_mem_zeroSet_chartIdeal_0963b45b1ca9
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:59:07.678034+00:00
 -- url     : https://prove2.me/theorems/ee39c035-a6e2-4067-b488-eda5c40a1f03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_length_quot_prime_ne_top_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.length_quot_prime_ne_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:59.73701+00:00
 -- url     : https://prove2.me/theorems/6a585842-b658-42ec-907d-10ec02fb42af

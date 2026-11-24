@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_end_side_link1
 -- name    : ULHC.end_side_link1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:01:06.709319+00:00
 -- url     : https://prove2.me/theorems/c244d3ce-3af9-41f8-9b80-3d22de867cf2

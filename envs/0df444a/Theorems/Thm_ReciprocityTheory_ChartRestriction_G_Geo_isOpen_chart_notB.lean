@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_isOpen_chart_notB
+-- name    : ReciprocityTheory.ChartRestriction.G.Geo.isOpen_chart_notB
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-24T06:14:38.227886+00:00
+-- url     : https://prove2.me/theorems/bb4a1d21-f2e7-41f7-a233-8c3e016d632b
+-- title:
+--   Geo: is Open chart not B
+-- statement:
+--   The Geo construction uses the is Open chart not B property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/BirationalGeometry/InterBridgeL.lean#L40-L61
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/BirationalGeometry/InterBridgeL.lean#L40-L61
+
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterBridgeE
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterBridgeK
+import Definitions.Def_ReciprocityTheory_AnalyticForms_AnalyticCharts_NullZero
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterBridgeL
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open ReciprocityTheory ReciprocityTheory.ChartRestriction ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Geo
+open MvPolynomial MeasureTheory ReciprocityTheory.AnForm.M Topology Filter Set
+variable {K : Type} [Fintype K] {ι : K → Type} [∀ k, Fintype (ι k)]
+  {P J : Ideal (MRing ι)} {e : ℕ} (R : AnLogRes P J e)
+
+theorem ReciprocityTheory.ChartRestriction.G.Geo.isOpen_chart_notB (j : Fin R.A.n) :
+    IsOpen ((R.A.chart j).target ∩ (R.A.chart j).symm ⁻¹' {x | R.lift x x ∉ mcPts J}) := by sorry
