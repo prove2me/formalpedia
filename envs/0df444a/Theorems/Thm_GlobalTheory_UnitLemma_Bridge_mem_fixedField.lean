@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Bridge_mem_fixedField
 -- name    : GlobalTheory.UnitLemma.Bridge.mem_fixedField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:26:06.786337+00:00
 -- url     : https://prove2.me/theorems/eba1fe0c-f392-45a4-af13-1199ee7770c1

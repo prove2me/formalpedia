@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_interior_zeroSet_eq_empty
 -- name    : GlobalTheory.AffinePoints.interior_zeroSet_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:55:25.494097+00:00
 -- url     : https://prove2.me/theorems/e7410675-be07-468f-bb3f-c8abb7aa201c

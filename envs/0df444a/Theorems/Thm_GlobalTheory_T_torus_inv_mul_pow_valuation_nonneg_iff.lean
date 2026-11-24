@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_torus_inv_mul_pow_valuation_nonneg_iff
 -- name    : GlobalTheory.T.torus_inv_mul_pow_valuation_nonneg_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:39.705352+00:00
 -- url     : https://prove2.me/theorems/7646d9c2-d9a9-4a4f-9c57-6a6579bb8f94

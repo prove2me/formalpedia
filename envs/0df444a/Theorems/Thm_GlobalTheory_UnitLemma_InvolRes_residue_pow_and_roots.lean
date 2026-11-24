@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_InvolRes_residue_pow_and_roots
 -- name    : GlobalTheory.UnitLemma.InvolRes.residue_pow_and_roots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:27:30.438384+00:00
 -- url     : https://prove2.me/theorems/0a81aafa-61e6-4e5d-a016-c95bd48552b5

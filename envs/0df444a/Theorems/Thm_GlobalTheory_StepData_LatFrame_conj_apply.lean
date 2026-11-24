@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_LatFrame_conj_apply
 -- name    : GlobalTheory.StepData.LatFrame.conj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:49:44.637134+00:00
 -- url     : https://prove2.me/theorems/31380d11-f1ca-457d-ba9f-26668aa69111

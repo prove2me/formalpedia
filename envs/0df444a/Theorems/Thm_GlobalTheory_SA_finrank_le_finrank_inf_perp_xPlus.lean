@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_finrank_le_finrank_inf_perp_xPlus
 -- name    : GlobalTheory.SA.finrank_le_finrank_inf_perp_xPlus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:48:56.309344+00:00
 -- url     : https://prove2.me/theorems/fe92025e-7727-49ed-a134-6c0e4461f4b0

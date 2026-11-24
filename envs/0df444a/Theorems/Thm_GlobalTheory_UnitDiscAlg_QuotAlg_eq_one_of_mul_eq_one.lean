@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDiscAlg_QuotAlg_eq_one_of_mul_eq_one
 -- name    : GlobalTheory.UnitDiscAlg.QuotAlg.eq_one_of_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:25:47.281833+00:00
 -- url     : https://prove2.me/theorems/f54fabea-1176-488d-b43f-f77c7a00a245

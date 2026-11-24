@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Cocycle_isCombIn_restrict_chart
 -- name    : GlobalTheory.SecGlue.Cocycle.isCombIn_restrict_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:50:39.485029+00:00
 -- url     : https://prove2.me/theorems/9cb5e5b8-56e2-4ecc-8a6e-e77637788368

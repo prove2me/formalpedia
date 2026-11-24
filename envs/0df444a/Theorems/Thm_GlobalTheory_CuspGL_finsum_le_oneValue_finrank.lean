@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_finsum_le_oneValue_finrank
 -- name    : GlobalTheory.CuspGL.finsum_le_oneValue_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:32:59.447326+00:00
 -- url     : https://prove2.me/theorems/83566a23-132a-4545-9ced-947a28e3f63b

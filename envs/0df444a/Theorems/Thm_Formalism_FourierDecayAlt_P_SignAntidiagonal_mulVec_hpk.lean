@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_mulVec_hpk
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.mulVec_hpk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:44:42.384822+00:00
 -- url     : https://prove2.me/theorems/2d7a902a-10a8-4ce7-b48c-30e57d2455d5

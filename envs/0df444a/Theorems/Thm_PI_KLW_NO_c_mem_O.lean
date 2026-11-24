@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_NO_c_mem_O
 -- name    : PI.KLW.NO.c_mem_O
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:44:23.929766+00:00
 -- url     : https://prove2.me/theorems/ad8ff96e-bc22-47e0-beae-0190d617fc76

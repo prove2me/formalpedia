@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_exists_denominator_primes_prescribed
 -- name    : GlobalTheory.UnRep.exists_denominator_primes_prescribed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:18:22.698207+00:00
 -- url     : https://prove2.me/theorems/c542a99e-b46c-452a-a0a3-f04a725dcb6c

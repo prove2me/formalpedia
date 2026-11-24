@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_dvr_dvd_pow
 -- name    : GlobalTheory.UnitLemma.Desc.dvr_dvd_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:27:52.461899+00:00
 -- url     : https://prove2.me/theorems/981785c1-a14c-4f3f-9fc7-28a808b36239

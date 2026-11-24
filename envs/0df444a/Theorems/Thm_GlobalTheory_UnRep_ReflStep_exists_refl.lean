@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_ReflStep_exists_refl
 -- name    : GlobalTheory.UnRep.ReflStep.exists_refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:22:57.64392+00:00
 -- url     : https://prove2.me/theorems/397fe918-1daf-4e62-bbbd-3c420de1624a

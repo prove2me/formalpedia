@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Split_proj_le
 -- name    : CompanionTheory.Split.proj_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:46:02.180112+00:00
 -- url     : https://prove2.me/theorems/0e04289f-4893-409b-a4a1-f4fad2c6b609

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_mfact_mul_dvd
 -- name    : Formalism.DworkPowerSeriesWeights.mfact_mul_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:44:28.474896+00:00
 -- url     : https://prove2.me/theorems/178e84a9-e1f4-4c1f-9547-d120b5022036

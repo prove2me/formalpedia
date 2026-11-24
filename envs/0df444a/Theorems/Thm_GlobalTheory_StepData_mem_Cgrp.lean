@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_mem_Cgrp
 -- name    : GlobalTheory.StepData.mem_Cgrp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:49:15.091545+00:00
 -- url     : https://prove2.me/theorems/c3730f88-4c4e-487e-98c6-16587790f595

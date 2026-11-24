@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsExists_exists_contraction
 -- name    : GlobalTheory.TorsExists.exists_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:08:49.591528+00:00
 -- url     : https://prove2.me/theorems/9dabd387-76b2-479f-839c-1fbba0c43b86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_le_ker_of_local_finite_length_to_simple
 -- name    : GlobalTheory.T.le_ker_of_local_finite_length_to_simple
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:36.313863+00:00
 -- url     : https://prove2.me/theorems/59070d96-6f54-4189-8647-9177882f6ff5

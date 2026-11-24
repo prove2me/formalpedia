@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Correct_exists_nat_mulVec_mem
 -- name    : GlobalTheory.UnRep.Correct.exists_nat_mulVec_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:24:35.926792+00:00
 -- url     : https://prove2.me/theorems/b6cb6d88-1318-440e-b317-be9dcd01b896

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_VertFamily_existsUnique_vector
 -- name    : GlobalTheory.KS.VertFamily.existsUnique_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:49:58.354634+00:00
 -- url     : https://prove2.me/theorems/a66eaed4-98bd-4de5-93f6-b563f501eb55

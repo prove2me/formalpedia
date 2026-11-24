@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDiscAlg_Red_sm_add
 -- name    : GlobalTheory.UnitDiscAlg.Red.sm_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:26:55.130798+00:00
 -- url     : https://prove2.me/theorems/b80ad00b-93c8-4059-9195-8554c50091f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_SmallMat_exists_coprime_nsmul_integral
 -- name    : GlobalTheory.UnRep.SmallMat.exists_coprime_nsmul_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:23:22.84064+00:00
 -- url     : https://prove2.me/theorems/067546fc-58b7-4d60-b3f7-a5bf4ed0e321

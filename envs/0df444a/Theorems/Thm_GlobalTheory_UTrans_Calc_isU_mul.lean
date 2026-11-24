@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_Calc_isU_mul
 -- name    : GlobalTheory.UTrans.Calc.isU_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:19:51.966577+00:00
 -- url     : https://prove2.me/theorems/b2f85e7e-6f30-4ab2-b4cf-b9ee03cbac6a

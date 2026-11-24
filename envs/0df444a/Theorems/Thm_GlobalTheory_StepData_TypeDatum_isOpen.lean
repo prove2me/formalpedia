@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_TypeDatum_isOpen
 -- name    : GlobalTheory.StepData.TypeDatum.isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:48:54.475853+00:00
 -- url     : https://prove2.me/theorems/14356f55-24c1-4a85-ae8e-7c9d4c856ab3

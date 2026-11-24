@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_virt_mul_comap_conj_ind_linear
 -- name    : GlobalTheory.BI.virt_mul_comap_conj_ind_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:13:15.668558+00:00
 -- url     : https://prove2.me/theorems/086009a2-b634-4cdd-95a0-e2ac91d44968

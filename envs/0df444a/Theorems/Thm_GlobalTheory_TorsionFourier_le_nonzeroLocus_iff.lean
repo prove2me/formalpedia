@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFourier_le_nonzeroLocus_iff
 -- name    : GlobalTheory.TorsionFourier.le_nonzeroLocus_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:08:49.566239+00:00
 -- url     : https://prove2.me/theorems/8894784b-33fb-4ed3-af4b-40774714fafd

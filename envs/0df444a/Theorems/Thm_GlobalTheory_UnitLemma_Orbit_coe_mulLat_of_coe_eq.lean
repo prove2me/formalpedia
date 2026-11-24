@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Orbit_coe_mulLat_of_coe_eq
 -- name    : GlobalTheory.UnitLemma.Orbit.coe_mulLat_of_coe_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:29:07.395234+00:00
 -- url     : https://prove2.me/theorems/2bfc7c07-3287-42fd-8239-e1aa825bd9bb

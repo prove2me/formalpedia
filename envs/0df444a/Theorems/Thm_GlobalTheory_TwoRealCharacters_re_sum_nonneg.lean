@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoRealCharacters_re_sum_nonneg
 -- name    : GlobalTheory.TwoRealCharacters.re_sum_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:15:48.957691+00:00
 -- url     : https://prove2.me/theorems/16570f04-3b01-44fd-bf9b-2ad54bab0df4

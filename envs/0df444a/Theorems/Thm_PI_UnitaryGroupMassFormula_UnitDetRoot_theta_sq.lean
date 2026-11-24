@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnitDetRoot_theta_sq
 -- name    : PI.UnitaryGroupMassFormula.UnitDetRoot.theta_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:43:50.626328+00:00
 -- url     : https://prove2.me/theorems/90640fc1-1572-4e58-8a8a-1e6acfe837fa

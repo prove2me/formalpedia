@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_Homog_measure_mul_measure_units_eq
 -- name    : GlobalTheory.KSp.Homog.measure_mul_measure_units_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:22:10.506532+00:00
 -- url     : https://prove2.me/theorems/c786f1c6-0c67-4a28-b58e-c37fc8345c47

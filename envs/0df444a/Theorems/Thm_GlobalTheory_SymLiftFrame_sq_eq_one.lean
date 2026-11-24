@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftFrame_sq_eq_one
 -- name    : GlobalTheory.SymLiftFrame.sq_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:26:43.728586+00:00
 -- url     : https://prove2.me/theorems/27c528dd-85fa-4e72-8dd0-b890582075ba

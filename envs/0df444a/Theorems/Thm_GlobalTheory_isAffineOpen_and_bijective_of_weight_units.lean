@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isAffineOpen_and_bijective_of_weight_units
 -- name    : GlobalTheory.isAffineOpen_and_bijective_of_weight_units
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:25:03.838155+00:00
 -- url     : https://prove2.me/theorems/7ae3c9b0-701d-4e7e-b789-64b52b416712

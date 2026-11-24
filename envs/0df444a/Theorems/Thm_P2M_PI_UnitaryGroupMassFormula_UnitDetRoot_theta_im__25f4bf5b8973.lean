@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryGroupMassFormula_UnitDetRoot_theta_im__25f4bf5b8973
 -- name    : P2M_PI_UnitaryGroupMassFormula_UnitDetRoot_theta_im__25f4bf5b8973
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:44:56.344278+00:00
 -- url     : https://prove2.me/theorems/e240dd6a-e148-40e5-b8f3-46d457b2e020

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusOrbitLat_isIntegral_inv_mul_iff
 -- name    : GlobalTheory.TorusOrbitLat.isIntegral_inv_mul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:11:04.416255+00:00
 -- url     : https://prove2.me/theorems/5ad59c4b-53eb-458e-96d1-f0b0eafdd372

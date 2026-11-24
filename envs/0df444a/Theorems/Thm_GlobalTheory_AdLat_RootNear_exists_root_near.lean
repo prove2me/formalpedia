@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_RootNear_exists_root_near
 -- name    : GlobalTheory.AdLat.RootNear.exists_root_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:54:15.883173+00:00
 -- url     : https://prove2.me/theorems/c3cb696e-3b56-4eac-90da-ee7db00f520d

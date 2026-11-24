@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnimodOver_exists_unimodular
 -- name    : GlobalTheory.UnimodOver.exists_unimodular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:25:27.189207+00:00
 -- url     : https://prove2.me/theorems/3fa10575-e287-46f7-ba16-450a2e71a1db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDiscAlg_QuotAlg_comp2
 -- name    : GlobalTheory.UnitDiscAlg.QuotAlg.comp2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:25:42.657101+00:00
 -- url     : https://prove2.me/theorems/b67cdcbd-f1c8-4f59-81ac-5bb6edab61bb

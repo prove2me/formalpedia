@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_intAt_coe
 -- name    : PI.SqPairLocal.intAt_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:32:25.91604+00:00
 -- url     : https://prove2.me/theorems/fc39a741-7692-48f0-b657-35fbd9a95989

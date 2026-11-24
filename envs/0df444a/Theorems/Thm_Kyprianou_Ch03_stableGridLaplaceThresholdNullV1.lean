@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableGridLaplaceThresholdNullV1
 -- name    : Kyprianou.Ch03.stableGridLaplaceThresholdNullV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T18:58:38.757912+00:00
 -- url     : https://prove2.me/theorems/8a70a83f-879c-4977-83d6-c624ac134c8e

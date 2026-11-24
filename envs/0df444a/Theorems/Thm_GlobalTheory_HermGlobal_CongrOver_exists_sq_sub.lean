@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermGlobal_CongrOver_exists_sq_sub
 -- name    : GlobalTheory.HermGlobal.CongrOver.exists_sq_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:11:30.657009+00:00
 -- url     : https://prove2.me/theorems/83258593-3243-4963-a287-97f622e3749c

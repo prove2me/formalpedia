@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorSiegel_eq_period
 -- name    : GlobalTheory.TensorSiegel.eq_period
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:04:19.491794+00:00
 -- url     : https://prove2.me/theorems/0fb10d2c-e5a6-41ff-b3b3-a88dd934ac69

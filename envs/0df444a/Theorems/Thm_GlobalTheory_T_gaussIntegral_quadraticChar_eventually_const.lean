@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gaussIntegral_quadraticChar_eventually_const
 -- name    : GlobalTheory.T.gaussIntegral_quadraticChar_eventually_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:32:56.081082+00:00
 -- url     : https://prove2.me/theorems/11cd8a16-9f9d-4f34-a7af-9d764cf8c124

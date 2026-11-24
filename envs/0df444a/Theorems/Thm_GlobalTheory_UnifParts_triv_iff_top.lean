@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifParts_triv_iff_top
 -- name    : GlobalTheory.UnifParts.triv_iff_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:24:18.204544+00:00
 -- url     : https://prove2.me/theorems/91ec1c45-4e04-4dde-bc07-48d32de37053

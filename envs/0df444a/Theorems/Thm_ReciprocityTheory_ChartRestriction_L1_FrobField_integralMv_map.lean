@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_FrobField_integralMv_map
 -- name    : ReciprocityTheory.ChartRestriction.L1.FrobField.integralMv_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:46:16.464435+00:00
 -- url     : https://prove2.me/theorems/4b27983d-4f13-49d7-afb4-c72ac80f952e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameKummer_mem_range_of_pow_eq_one
 -- name    : GlobalTheory.TameKummer.mem_range_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:32:23.021076+00:00
 -- url     : https://prove2.me/theorems/74a324e4-fb0d-4481-bfe4-88d8d1c35939

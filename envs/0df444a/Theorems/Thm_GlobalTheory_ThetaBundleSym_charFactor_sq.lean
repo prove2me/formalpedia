@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaBundleSym_charFactor_sq
 -- name    : GlobalTheory.ThetaBundleSym.charFactor_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:03:37.282521+00:00
 -- url     : https://prove2.me/theorems/d1e73428-2bf0-45e4-a6c1-98cefcab3889

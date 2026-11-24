@@ -334,7 +334,7 @@
 {"parent": "row23_rh_supp_RH67156FastPiece02Prefixes", "child": "row23_rh_supp_RH67156FastPiece02Block01", "via": ["statement"]}
 {"parent": "row23_rh_supp_RH67156FastPiece02Prefixes", "child": "row23_rh_supp_RH67156FastPiece02Block05", "via": ["statement"]}
 {"parent": "row23_rh_supp_RH67156FastPiece02Prefixes", "child": "row23_rh_supp_RH67156FastPiece02Block03", "via": ["statement"]}
-{"parent": "KissingNumber.kissing_number_eight", "child": "KissingNumber", "via": ["statement"]}
+{"parent": "KissingNumber.kissing_number_eight", "child": "KissingNumber", "via": ["solution", "statement"]}
 {"parent": "ShiShallow.padIn_castAdd", "child": "ShiShallow_Circuit", "via": ["solution", "statement"]}
 {"parent": "ShiShallow.padIn_castAdd", "child": "ShiShallow_Operator", "via": ["solution", "statement"]}
 {"parent": "Polychromatic418967fa_Branch224_Segment000", "child": "Polychromatic418967fa_Helpers016", "via": ["statement"]}
@@ -83264,7 +83264,7 @@
 {"parent": "Formalism.DivisionValues.ReductionFirst.vw_int_nonneg", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ReductionLemmaFirst", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SemidirectVolume_ProjGen", "child": "Formalism_SatakeDualWeyl_Statement", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FormalDegreeSquareIntegrable_IntegrableCf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FormalDegreeSquareIntegrable_FormalDegreeFromOrthogonality", "via": ["statement"]}
-{"parent": "RamseyValues.ramsey_three_three", "child": "Erdos77_asymmetric_ramsey", "via": ["statement"]}
+{"parent": "RamseyValues.ramsey_three_three", "child": "Erdos77_asymmetric_ramsey", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_RankTwoDimensionFormula_IdxDcvAlg", "child": "Formalism_SatakeDualWeyl_Statement", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_DyadicPrimeIntervals_Run1", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_DyadicPrimeIntervals_SmallLoop", "via": ["statement"]}
 {"parent": "Comp.HideOrRun.lw_fixed", "child": "Comp_QualitativeAlmostFinset", "via": ["solution", "statement"]}
@@ -83293,7 +83293,7 @@
 {"parent": "Formalism.HermitianLattices.Ext.L3.OrbitRepresentatives.gmap_mem_genus", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardStabilizerAutSub", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.OrbitRepresentatives.gmap_mem_genus", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsIsomMapOfEq", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.OrbitRepresentatives.gmap_mem_genus", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_FiniteRepSetOfOrtho", "via": ["solution", "statement"]}
-{"parent": "RamseyValues.ramsey_four_four", "child": "Erdos77_asymmetric_ramsey", "via": ["statement"]}
+{"parent": "RamseyValues.ramsey_four_four", "child": "Erdos77_asymmetric_ramsey", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.EtaPartialSums.dterm_zero", "child": "Formalism_LFunctionBounds_LFunctionBoundsProofs_LFunctionEqGOfOneLt", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.EtaPartialSums.dterm_zero", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_PNTDensLsA", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.EtaPartialSums.dterm_zero", "child": "Formalism.FX.LFunctionPartialSum.dterm_zero", "via": ["statement"]}
@@ -95357,8 +95357,8 @@
 {"parent": "Formalism_MonomialMeanResidues_MonomialMeanProofs_SpanEqTopAndRankOfLinearIndependent", "child": "Formalism_HarderNarasimhan_ShiftInvariance", "via": ["statement"]}
 {"parent": "Formalism_MonomialMeanResidues_MonomialMeanProofs_SpanEqTopAndRankOfLinearIndependent", "child": "Formalism_MonomialMeanResidues_FilteredDegree", "via": ["statement"]}
 {"parent": "Formalism_PadicSubsetSums_CentralIdempotents_HCDisjointO", "child": "Formalism_PadicSubsetSums_CentralIdempotents_GaloisConjCentralIdempotent", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.PeriodAreaSignLemmas.altE_coord", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_ThetaZeroLogDerivative", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.PeriodAreaSignLemmas.altE_coord", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_QuasiPeriodConstUniqueOf", "via": ["statement"]}
+{"parent": "Formalism.L2.Th1.F.PeriodAreaSignLemmas.altE_coord", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_ThetaZeroLogDerivative", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.PeriodAreaSignLemmas.altE_coord", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_QuasiPeriodConstUniqueOf", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Jx6.psd_pull", "child": "Formalism_HermitianCurvature_StatementJ", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Jx6.psd_pull", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RecursionGivesUniformBoundsForm", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UJClassMass", "child": "Formalism_HermitianLattices_StatementMass", "via": ["statement"]}

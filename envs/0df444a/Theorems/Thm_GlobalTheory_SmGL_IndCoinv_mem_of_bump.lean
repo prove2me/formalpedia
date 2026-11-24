@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_IndCoinv_mem_of_bump
 -- name    : GlobalTheory.SmGL.IndCoinv.mem_of_bump
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:36:05.548653+00:00
 -- url     : https://prove2.me/theorems/46480bbc-37f4-4e78-af6b-fd309fe7b51b

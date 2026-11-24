@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gaussianConvolutionSeriesCoefficient_descFactorial_estimate
 -- name    : GlobalTheory.T.gaussianConvolutionSeriesCoefficient_descFactorial_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:53:27.611084+00:00
 -- url     : https://prove2.me/theorems/10fe0d29-a777-4830-b279-55463fcf8e05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_Level_mem_map
 -- name    : GlobalTheory.StepData.Level.mem_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:48:19.64861+00:00
 -- url     : https://prove2.me/theorems/c4d454b0-3b67-4d2b-a2af-afcb6b0da2dd

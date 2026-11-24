@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SerreTorsion_eq_one_of_pow
 -- name    : GlobalTheory.SerreTorsion.eq_one_of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:36:09.550696+00:00
 -- url     : https://prove2.me/theorems/91196144-d708-41cc-8bb2-5e2b27d5d1a7

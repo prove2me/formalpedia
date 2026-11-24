@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_eta_c
 -- name    : GlobalTheory.UnitLemma.Desc.eta_c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:27:49.98505+00:00
 -- url     : https://prove2.me/theorems/40fd0bd2-519b-4405-be36-27eb172d4f89

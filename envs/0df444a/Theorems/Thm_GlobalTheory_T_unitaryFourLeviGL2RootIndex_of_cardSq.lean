@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryFourLeviGL2RootIndex_of_cardSq
 -- name    : GlobalTheory.T.unitaryFourLeviGL2RootIndex_of_cardSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:31:38.170689+00:00
 -- url     : https://prove2.me/theorems/7a53423b-378b-4b49-8317-d3a0942f4655

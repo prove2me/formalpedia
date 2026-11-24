@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_rational_matrix_move_admissible_uniform_level
 -- name    : GlobalTheory.T.exists_rational_matrix_move_admissible_uniform_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:38:20.986773+00:00
 -- url     : https://prove2.me/theorems/1dcee8f6-04a7-470e-9f79-39f571f5bd49

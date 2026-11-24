@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_IsTransv_disjoint_norLift
 -- name    : GlobalTheory.SA.IsTransv.disjoint_norLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:37:08.32727+00:00
 -- url     : https://prove2.me/theorems/8f485d2b-f3fe-4f06-9302-2b97327709a5

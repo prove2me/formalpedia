@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_prod_eta_infinite
 -- name    : GlobalTheory.QuadSymbol.prod_eta_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:16:13.656073+00:00
 -- url     : https://prove2.me/theorems/2327f364-7f77-4697-8396-7f6f35d4e516

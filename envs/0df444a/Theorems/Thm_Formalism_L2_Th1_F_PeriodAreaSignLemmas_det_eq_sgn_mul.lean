@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PeriodAreaSignLemmas_det_eq_sgn_mul
 -- name    : Formalism.L2.Th1.F.PeriodAreaSignLemmas.det_eq_sgn_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:26:33.646335+00:00
 -- url     : https://prove2.me/theorems/e94b07cd-722a-490e-89cc-923f38f299be

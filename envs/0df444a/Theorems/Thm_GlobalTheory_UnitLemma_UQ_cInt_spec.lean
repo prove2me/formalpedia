@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_UQ_cInt_spec
 -- name    : GlobalTheory.UnitLemma.UQ.cInt_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:34:19.842557+00:00
 -- url     : https://prove2.me/theorems/a81911e1-6eec-4511-b8a7-e582dddd32d7

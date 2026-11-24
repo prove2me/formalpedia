@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusNil_ringHom_ext_int_torus
 -- name    : GlobalTheory.TorusNil.ringHom_ext_int_torus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:04:54.913974+00:00
 -- url     : https://prove2.me/theorems/87e278e1-1a9c-43bb-bbc6-a0162ec2164d

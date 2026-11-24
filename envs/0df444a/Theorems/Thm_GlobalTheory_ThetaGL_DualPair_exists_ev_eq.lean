@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGL_DualPair_exists_ev_eq
 -- name    : GlobalTheory.ThetaGL.DualPair.exists_ev_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:06:25.9008+00:00
 -- url     : https://prove2.me/theorems/9a0954ee-5124-446f-b536-698e0ce231d4

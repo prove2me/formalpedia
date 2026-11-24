@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Red_affineCombination_squareZero_lifts_cocycle
 -- name    : GlobalTheory.SecGlue.Red.affineCombination_squareZero_lifts_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:50:41.424869+00:00
 -- url     : https://prove2.me/theorems/3ac9432b-823d-405c-beee-884d56406928

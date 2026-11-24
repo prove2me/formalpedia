@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_reversedCharpolyCoeff_map_of_isPushout
 -- name    : GlobalTheory.T.reversedCharpolyCoeff_map_of_isPushout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:57:06.808237+00:00
 -- url     : https://prove2.me/theorems/5e98e8aa-91c4-40be-b9b9-ec654f5a986e

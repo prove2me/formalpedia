@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Orbit_cut_aeval
 -- name    : GlobalTheory.UnitLemma.Orbit.cut_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:29:10.175065+00:00
 -- url     : https://prove2.me/theorems/0d645992-0006-42fa-8105-8d584cebd6c1

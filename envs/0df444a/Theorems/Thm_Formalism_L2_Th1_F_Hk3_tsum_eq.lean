@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Hk3_tsum_eq
 -- name    : Formalism.L2.Th1.F.Hk3.tsum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:33:12.487668+00:00
 -- url     : https://prove2.me/theorems/c7a6bfec-9aeb-4d56-b940-767e6f0eee7f

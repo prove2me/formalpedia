@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_trace_lift_monomialMatrix_eq_sum_eigenvalues
 -- name    : GlobalTheory.T.trace_lift_monomialMatrix_eq_sum_eigenvalues
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:00:34.951717+00:00
 -- url     : https://prove2.me/theorems/f5a46dbd-a4e1-4c32-8936-fa9b13046602

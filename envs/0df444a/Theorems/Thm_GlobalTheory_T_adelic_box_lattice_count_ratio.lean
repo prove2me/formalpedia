@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_adelic_box_lattice_count_ratio
 -- name    : GlobalTheory.T.adelic_box_lattice_count_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:26:58.16379+00:00
 -- url     : https://prove2.me/theorems/acde49c7-40e9-4744-8159-2f7a7ce285e2

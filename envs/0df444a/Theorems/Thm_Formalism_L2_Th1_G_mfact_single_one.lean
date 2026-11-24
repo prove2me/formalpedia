@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_mfact_single_one
 -- name    : Formalism.L2.Th1.G.mfact_single_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:46:50.255292+00:00
 -- url     : https://prove2.me/theorems/e8eab36c-af4c-40e3-b627-29074e50b195

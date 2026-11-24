@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PadicComplexIso_mk_padicComplex
 -- name    : GlobalTheory.PadicComplexIso.mk_padicComplex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:33:17.644798+00:00
 -- url     : https://prove2.me/theorems/159fa2eb-c516-46c6-8d8a-4210d08e0e1e

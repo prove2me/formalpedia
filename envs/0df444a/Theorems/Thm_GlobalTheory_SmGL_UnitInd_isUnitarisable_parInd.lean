@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnitInd_isUnitarisable_parInd
 -- name    : GlobalTheory.SmGL.UnitInd.isUnitarisable_parInd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:36:44.949308+00:00
 -- url     : https://prove2.me/theorems/e35dde79-359b-4a20-8d5d-6bf8603b55d9

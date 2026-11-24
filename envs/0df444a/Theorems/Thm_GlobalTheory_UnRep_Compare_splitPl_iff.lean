@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_splitPl_iff
 -- name    : GlobalTheory.UnRep.Compare.splitPl_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:19:18.362562+00:00
 -- url     : https://prove2.me/theorems/65ff018a-5141-49c7-9bb9-8af3abfe2d0e

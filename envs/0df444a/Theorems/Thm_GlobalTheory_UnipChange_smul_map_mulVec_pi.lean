@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipChange_smul_map_mulVec_pi
 -- name    : GlobalTheory.UnipChange.smul_map_mulVec_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:25:40.846258+00:00
 -- url     : https://prove2.me/theorems/d1dfbef2-2e8d-49ff-9002-54f483758c89

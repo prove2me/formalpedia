@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_ResVal_aeval_P
 -- name    : GlobalTheory.UnitLemma.Unr.ResVal.aeval_P
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:36:28.5638+00:00
 -- url     : https://prove2.me/theorems/1e1150d2-5234-4f76-923b-a380fa09dc96

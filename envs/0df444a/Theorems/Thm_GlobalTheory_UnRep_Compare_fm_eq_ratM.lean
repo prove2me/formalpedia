@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_fm_eq_ratM
 -- name    : GlobalTheory.UnRep.Compare.fm_eq_ratM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:23:14.568423+00:00
 -- url     : https://prove2.me/theorems/c44af4e4-7004-431b-817c-6231001f07fa

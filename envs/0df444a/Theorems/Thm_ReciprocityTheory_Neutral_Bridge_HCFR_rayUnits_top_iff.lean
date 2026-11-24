@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_HCFR_rayUnits_top_iff
 -- name    : ReciprocityTheory.Neutral.Bridge.HCFR.rayUnits_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:43:31.054611+00:00
 -- url     : https://prove2.me/theorems/21ec995b-d4fd-401b-b370-229e71ef3265

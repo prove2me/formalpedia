@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_NormUnits_group_fg_pi
 -- name    : GlobalTheory.UnitLemma.NormUnits.group_fg_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:27:15.085724+00:00
 -- url     : https://prove2.me/theorems/8962365e-7c4a-4ed5-9bb2-f51db81f4222

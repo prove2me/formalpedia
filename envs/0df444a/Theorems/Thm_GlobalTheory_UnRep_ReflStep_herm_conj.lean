@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_ReflStep_herm_conj
 -- name    : GlobalTheory.UnRep.ReflStep.herm_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:23:11.001498+00:00
 -- url     : https://prove2.me/theorems/efdb5a09-99b1-49fd-9a04-85aaf13afd87

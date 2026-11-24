@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_intO_val_algebraMap_nonneg
 -- name    : GlobalTheory.UnitLemma.Unr.intO_val_algebraMap_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:37:49.255574+00:00
 -- url     : https://prove2.me/theorems/1d2802cd-308f-41b0-9f18-cf0127c3e281

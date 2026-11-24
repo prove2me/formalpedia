@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Klein_const_mem_intFun
 -- name    : GlobalTheory.Klein.const_mem_intFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:45:52.648337+00:00
 -- url     : https://prove2.me/theorems/08b42bae-394d-4b08-a899-5e98784d7260

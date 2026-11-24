@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_OrthoSelfDual_herm_basis
 -- name    : GlobalTheory.UnitLemma.OrthoSelfDual.herm_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:28:55.737652+00:00
 -- url     : https://prove2.me/theorems/b9fbfbef-3c21-4b75-a067-ccc67c516ca6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_PhiOrder_prod_wN
 -- name    : GlobalTheory.UT.PhiOrder.prod_wN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:20:59.700628+00:00
 -- url     : https://prove2.me/theorems/0015aaa6-ce54-4199-9137-53f0e4433fa1

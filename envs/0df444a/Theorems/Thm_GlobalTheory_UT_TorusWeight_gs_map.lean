@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_TorusWeight_gs_map
 -- name    : GlobalTheory.UT.TorusWeight.gs_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:20:36.713803+00:00
 -- url     : https://prove2.me/theorems/1200d54e-990f-44b9-b0cb-84c2fcf2aff6

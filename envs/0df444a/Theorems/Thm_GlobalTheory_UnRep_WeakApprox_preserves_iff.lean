@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_WeakApprox_preserves_iff
 -- name    : GlobalTheory.UnRep.WeakApprox.preserves_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:25:50.563996+00:00
 -- url     : https://prove2.me/theorems/2a8b0c86-f625-47db-89a7-f5a7b964e311

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_jetsTwo
 -- name    : Formalism.ELL.jetsTwo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:38:53.776804+00:00
 -- url     : https://prove2.me/theorems/03b82fa1-913f-424f-868a-48ce1f8fdf40

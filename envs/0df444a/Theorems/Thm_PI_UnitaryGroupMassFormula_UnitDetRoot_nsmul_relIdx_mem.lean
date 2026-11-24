@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnitDetRoot_nsmul_relIdx_mem
 -- name    : PI.UnitaryGroupMassFormula.UnitDetRoot.nsmul_relIdx_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:44:45.682732+00:00
 -- url     : https://prove2.me/theorems/7e5b70f4-f61e-4d8e-a86b-32ceca390897

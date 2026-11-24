@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_FlagExample_vec_mem
 -- name    : GlobalTheory.SA.FlagExample.vec_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:34:41.96787+00:00
 -- url     : https://prove2.me/theorems/234245af-c845-47b8-b24e-496d9df40ff2

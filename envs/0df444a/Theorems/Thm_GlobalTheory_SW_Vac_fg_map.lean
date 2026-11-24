@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Vac_fg_map
 -- name    : GlobalTheory.SW.Vac.fg_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:42:02.651841+00:00
 -- url     : https://prove2.me/theorems/0725c1e6-ea2d-4ad7-bc11-67db77ce28c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_valuation_le_one_of_val_nonneg
 -- name    : GlobalTheory.UnitLemma.Unr.valuation_le_one_of_val_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:38:22.181634+00:00
 -- url     : https://prove2.me/theorems/b5e0d5a7-b711-45a1-b6ab-e9d5fdfac435

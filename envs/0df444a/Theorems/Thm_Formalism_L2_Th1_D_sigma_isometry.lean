@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_sigma_isometry
 -- name    : Formalism.L2.Th1.D.sigma_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:48:53.40725+00:00
 -- url     : https://prove2.me/theorems/217e7016-8157-4b03-8748-7f08da8db2a1

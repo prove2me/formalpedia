@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_restart_clock_ge
 -- name    : Kyprianou.Ch08.StageB.p2m810_restart_clock_ge
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:47:44.888937+00:00
 -- url     : https://prove2.me/theorems/92d44e08-2bcc-4a99-8e57-2e6dd374f748

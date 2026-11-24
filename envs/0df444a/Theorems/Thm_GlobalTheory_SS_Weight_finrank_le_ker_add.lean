@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Weight_finrank_le_ker_add
 -- name    : GlobalTheory.SS.Weight.finrank_le_ker_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:36:18.401868+00:00
 -- url     : https://prove2.me/theorems/c333d7fa-7b19-47ac-acb2-06ade3d37553

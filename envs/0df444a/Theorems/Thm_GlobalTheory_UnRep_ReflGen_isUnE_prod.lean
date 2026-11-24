@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_ReflGen_isUnE_prod
 -- name    : GlobalTheory.UnRep.ReflGen.isUnE_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:23:00.94489+00:00
 -- url     : https://prove2.me/theorems/9ef8b9a8-7627-4c04-8904-8c7d8d5e0525

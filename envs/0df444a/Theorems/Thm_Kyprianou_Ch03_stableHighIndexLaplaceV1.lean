@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableHighIndexLaplaceV1
 -- name    : Kyprianou.Ch03.stableHighIndexLaplaceV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T17:59:55.32239+00:00
 -- url     : https://prove2.me/theorems/8d8d637d-5e55-437e-a81a-2f3fbca4cf25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTr_eq_evalMat
 -- name    : GlobalTheory.UTr.eq_evalMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:20:04.955803+00:00
 -- url     : https://prove2.me/theorems/9881d759-250d-4089-94ef-7bb9ff095c99

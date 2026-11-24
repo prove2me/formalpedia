@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_decomp
 -- name    : Formalism.HC.Der.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:28:43.8298+00:00
 -- url     : https://prove2.me/theorems/0ec5626d-0ae1-4ac2-a22f-34d8c9cc18bb

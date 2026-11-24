@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quasiReflection_eq_mul_transvections_of_hyperbolicPlane
 -- name    : GlobalTheory.T.quasiReflection_eq_mul_transvections_of_hyperbolicPlane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:57:13.064176+00:00
 -- url     : https://prove2.me/theorems/3b4f0a06-682f-43dd-85a8-c7e3cf2d7997

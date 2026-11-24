@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_InertUnit_charpoly_root
 -- name    : GlobalTheory.UnitLemma.InertUnit.charpoly_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:27:12.693217+00:00
 -- url     : https://prove2.me/theorems/4dc5fdad-d7f3-435e-8f73-c9283ef7a1a3

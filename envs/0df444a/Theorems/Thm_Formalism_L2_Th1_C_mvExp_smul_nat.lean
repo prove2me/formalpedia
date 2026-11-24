@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_mvExp_smul_nat
 -- name    : Formalism.L2.Th1.C.mvExp_smul_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:49:07.896876+00:00
 -- url     : https://prove2.me/theorems/ec154ea9-f6a4-401f-b758-db33c0a936c3

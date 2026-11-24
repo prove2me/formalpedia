@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelExp_HolAt_eventually_near
 -- name    : GlobalTheory.RelExp.HolAt.eventually_near
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:10:37.25614+00:00
 -- url     : https://prove2.me/theorems/3c0149e7-b18d-4ce4-80c2-d1c542dbbf02

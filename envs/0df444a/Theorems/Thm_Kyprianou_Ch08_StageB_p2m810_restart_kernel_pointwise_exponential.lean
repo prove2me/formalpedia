@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_restart_kernel_pointwise_exponential
 -- name    : Kyprianou.Ch08.StageB.p2m810_restart_kernel_pointwise_exponential
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T21:47:45.419818+00:00
 -- url     : https://prove2.me/theorems/ef798d8a-ac08-4362-8891-cddf26fddb2b

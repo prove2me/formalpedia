@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCompare_jetPt_zR
 -- name    : GlobalTheory.TorsionCompare.jetPt_zR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:10:04.466199+00:00
 -- url     : https://prove2.me/theorems/84c9ca0d-9d70-4100-b1bf-0075900a093d

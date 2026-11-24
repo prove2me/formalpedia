@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_Model_det_of_mem_tvGen
 -- name    : GlobalTheory.UTrans.Model.det_of_mem_tvGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:20:44.415071+00:00
 -- url     : https://prove2.me/theorems/deb8b490-7e24-4712-94a8-8cefcdcb8ef3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_mfact_mul_dvd_add
 -- name    : Formalism.L2.Th1.G.mfact_mul_dvd_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:46:03.649089+00:00
 -- url     : https://prove2.me/theorems/2c8db582-5008-455f-9b8e-34f047cf50bb

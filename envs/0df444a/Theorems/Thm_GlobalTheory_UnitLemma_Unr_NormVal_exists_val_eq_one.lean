@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_NormVal_exists_val_eq_one
 -- name    : GlobalTheory.UnitLemma.Unr.NormVal.exists_val_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:34:26.065439+00:00
 -- url     : https://prove2.me/theorems/cdbe81f4-20ba-4df8-aa55-268cff3ce3a6

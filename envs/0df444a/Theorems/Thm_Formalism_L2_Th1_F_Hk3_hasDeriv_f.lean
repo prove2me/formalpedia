@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Hk3_hasDeriv_f
 -- name    : Formalism.L2.Th1.F.Hk3.hasDeriv_f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:33:37.782234+00:00
 -- url     : https://prove2.me/theorems/5ab9153c-d76b-459e-bd4e-23cabb5d462b

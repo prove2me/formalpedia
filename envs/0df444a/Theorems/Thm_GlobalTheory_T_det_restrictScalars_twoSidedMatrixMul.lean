@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_det_restrictScalars_twoSidedMatrixMul
 -- name    : GlobalTheory.T.det_restrictScalars_twoSidedMatrixMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:34:17.896705+00:00
 -- url     : https://prove2.me/theorems/d7af854d-971d-4209-838a-4108d7b5f1dd

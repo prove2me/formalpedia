@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifParts_quasiCompact_str
 -- name    : GlobalTheory.UnifParts.quasiCompact_str
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:24:10.709579+00:00
 -- url     : https://prove2.me/theorems/496d300c-f2e2-490a-a55c-6c54f8a4863c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrrPi_prod_mem_virt
 -- name    : GlobalTheory.IrrPi.prod_mem_virt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:20:42.091045+00:00
 -- url     : https://prove2.me/theorems/a3fcdee0-de8d-450f-b1d9-a299c63f7403

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_NormUnits_isIntegral_of_forall_quot
 -- name    : GlobalTheory.UnitLemma.NormUnits.isIntegral_of_forall_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:27:07.578905+00:00
 -- url     : https://prove2.me/theorems/ff86666d-2e10-4717-9ce3-e8353464b4ac

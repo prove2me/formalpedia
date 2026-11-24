@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCone_isPrime
 -- name    : GlobalTheory.ThetaCone.isPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:04:39.105093+00:00
 -- url     : https://prove2.me/theorems/3adebaaf-3846-4059-880e-5c9809ea7284

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_LD_top_cell
 -- name    : GlobalTheory.ThK.Dbl.LD.top_cell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:04:03.455051+00:00
 -- url     : https://prove2.me/theorems/c4d0bdc1-2f0e-414b-a923-fc4130a2d286

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_IsCosetCutoff_isQuotMeasure
 -- name    : GlobalTheory.Tw.IsCosetCutoff.isQuotMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:13:00.666889+00:00
 -- url     : https://prove2.me/theorems/c931eade-18f5-4632-97ac-f25e93929b57

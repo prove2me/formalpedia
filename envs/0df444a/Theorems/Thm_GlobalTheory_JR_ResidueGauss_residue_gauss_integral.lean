@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ResidueGauss_residue_gauss_integral
 -- name    : GlobalTheory.JR.ResidueGauss.residue_gauss_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:35:56.249878+00:00
 -- url     : https://prove2.me/theorems/0a62c8ed-3036-4be8-a0cc-88023d2b7982

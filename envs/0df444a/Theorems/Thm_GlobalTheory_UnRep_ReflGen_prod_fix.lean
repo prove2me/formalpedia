@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_ReflGen_prod_fix
 -- name    : GlobalTheory.UnRep.ReflGen.prod_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:23:32.021335+00:00
 -- url     : https://prove2.me/theorems/5ea0c782-d8ff-438b-8e83-7c8d83fc48ce

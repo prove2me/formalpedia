@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_squarefree_dimension_formula
 -- name    : GlobalTheory.T.squarefree_dimension_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:59:27.683816+00:00
 -- url     : https://prove2.me/theorems/36256793-20f9-4ab7-ab93-28a76761b441

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_Planch_e_zero
 -- name    : GlobalTheory.KSp.Planch.e_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:49:14.970716+00:00
 -- url     : https://prove2.me/theorems/78bc6ed8-4031-4688-a76c-af5e6ffc4a64

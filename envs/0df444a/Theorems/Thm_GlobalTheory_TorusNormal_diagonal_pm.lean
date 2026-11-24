@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusNormal_diagonal_pm
 -- name    : GlobalTheory.TorusNormal.diagonal_pm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:11:27.14145+00:00
 -- url     : https://prove2.me/theorems/0c58bc47-5750-4b62-8c00-cf2beb000f3f

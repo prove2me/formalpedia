@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDifferential_isDiff_prod
 -- name    : GlobalTheory.UnifDifferential.isDiff_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:42:53.426446+00:00
 -- url     : https://prove2.me/theorems/75d3be63-ce14-4a30-9c0c-40d658f47f6a

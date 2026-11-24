@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaInter_card_eq_card
 -- name    : GlobalTheory.ThetaInter.card_eq_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:07:06.585156+00:00
 -- url     : https://prove2.me/theorems/45e3543e-3cd1-410c-afe6-7fcdd539279e

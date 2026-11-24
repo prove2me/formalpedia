@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Klein_half_mem_intAt
 -- name    : GlobalTheory.Klein.half_mem_intAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:45:50.322691+00:00
 -- url     : https://prove2.me/theorems/2ae4c104-5cc6-442b-975a-de324980a5dc

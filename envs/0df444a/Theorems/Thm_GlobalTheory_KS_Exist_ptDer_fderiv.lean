@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Exist_ptDer_fderiv
 -- name    : GlobalTheory.KS.Exist.ptDer_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:47:04.765289+00:00
 -- url     : https://prove2.me/theorems/cafa1478-b1c7-4d1b-917c-07ae5304e794

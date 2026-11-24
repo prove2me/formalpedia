@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoRealCharacters_neg_sum_logDeriv_nonneg
 -- name    : GlobalTheory.TwoRealCharacters.neg_sum_logDeriv_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:49:25.785243+00:00
 -- url     : https://prove2.me/theorems/779e0288-d1e0-40fc-a7d6-772561b398c9

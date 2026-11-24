@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_NormOne_one_add_ne_zero
 -- name    : GlobalTheory.UnRep.NormOne.one_add_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:22:54.789393+00:00
 -- url     : https://prove2.me/theorems/edc9e7e3-57dd-41e7-8cfc-ffe4e2d03a29

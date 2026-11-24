@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnitInd_lintegral_KO_mul_right
 -- name    : GlobalTheory.SmGL.UnitInd.lintegral_KO_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:37:26.661591+00:00
 -- url     : https://prove2.me/theorems/fb681fb2-ce78-4395-a2c7-46a653d18e34

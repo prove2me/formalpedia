@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableHighIndexUnitIntervalVariationV1
 -- name    : Kyprianou.Ch03.stableHighIndexUnitIntervalVariationV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T18:00:10.993922+00:00
 -- url     : https://prove2.me/theorems/c247904c-78ae-4a4a-bb17-dd1f46e7ee68

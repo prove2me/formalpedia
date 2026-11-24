@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_comp_ptSecT
 -- name    : GlobalTheory.ThetaFn.comp_ptSecT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:04:57.833678+00:00
 -- url     : https://prove2.me/theorems/23b8ee48-9f81-467e-a35d-7c2aa458eea2

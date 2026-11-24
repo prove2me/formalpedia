@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_D_KernelCokernelKilling_integral_X__2606e57c7606
 -- name    : P2M_Formalism_L2_Th1_D_KernelCokernelKilling_integral_X__2606e57c7606
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:44:34.520855+00:00
 -- url     : https://prove2.me/theorems/41fee5d7-7f38-4ba8-9abe-6cdfbf00e5d0

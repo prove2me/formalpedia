@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipChange_continuous_linear
 -- name    : GlobalTheory.UnipChange.continuous_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:25:51.957416+00:00
 -- url     : https://prove2.me/theorems/c9156eca-93e2-49b1-b985-bcb4bd8f0c27

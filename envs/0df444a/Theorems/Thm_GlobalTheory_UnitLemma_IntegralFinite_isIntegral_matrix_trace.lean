@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_IntegralFinite_isIntegral_matrix_trace
 -- name    : GlobalTheory.UnitLemma.IntegralFinite.isIntegral_matrix_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:27:51.782688+00:00
 -- url     : https://prove2.me/theorems/22e1b4b4-d22a-4748-a9d4-d53f5c32ba36

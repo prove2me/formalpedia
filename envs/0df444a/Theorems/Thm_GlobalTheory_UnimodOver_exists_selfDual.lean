@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnimodOver_exists_selfDual
 -- name    : GlobalTheory.UnimodOver.exists_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:25:31.294721+00:00
 -- url     : https://prove2.me/theorems/f90a549d-2912-465b-8abd-a818d49750fa

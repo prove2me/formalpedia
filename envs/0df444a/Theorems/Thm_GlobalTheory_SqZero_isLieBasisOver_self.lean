@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_isLieBasisOver_self
 -- name    : GlobalTheory.SqZero.isLieBasisOver_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:29:34.658039+00:00
 -- url     : https://prove2.me/theorems/0d439cb9-cf69-4075-962e-7205008f3be9

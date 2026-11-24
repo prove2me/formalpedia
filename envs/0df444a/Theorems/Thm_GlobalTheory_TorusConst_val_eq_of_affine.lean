@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusConst_val_eq_of_affine
 -- name    : GlobalTheory.TorusConst.val_eq_of_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:10:08.524489+00:00
 -- url     : https://prove2.me/theorems/a6a61328-c8a9-4f98-ba77-1759caadbd3a

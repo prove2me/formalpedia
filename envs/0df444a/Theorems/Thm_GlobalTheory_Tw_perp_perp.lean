@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_perp_perp
 -- name    : GlobalTheory.Tw.perp_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:14:05.099878+00:00
 -- url     : https://prove2.me/theorems/2e44f325-9915-48f6-90d7-5febe1f5ced1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unique_invariantVectorField_of_tangent
 -- name    : GlobalTheory.T.exists_unique_invariantVectorField_of_tangent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:28:58.942892+00:00
 -- url     : https://prove2.me/theorems/8b2bffd6-559d-470c-9840-460e542b90f1

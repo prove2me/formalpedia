@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UDense_map_inv_field_hom
 -- name    : GlobalTheory.UDense.map_inv_field_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:20:10.189446+00:00
 -- url     : https://prove2.me/theorems/2597696d-2291-4eee-b2c6-503ad3ca096f

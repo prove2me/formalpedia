@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Vac_intM_smul
 -- name    : GlobalTheory.SW.Vac.intM_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:42:14.18096+00:00
 -- url     : https://prove2.me/theorems/d618eb03-e018-465e-9de4-2eeddea4e0a6

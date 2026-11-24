@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsExists_nonempty_equiv
 -- name    : GlobalTheory.TorsExists.nonempty_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:08:37.221801+00:00
 -- url     : https://prove2.me/theorems/9e5de406-16c7-49fc-bd60-c66decedf971

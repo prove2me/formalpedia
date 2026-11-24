@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitFrames_lminor_signature
 -- name    : GlobalTheory.UnitFrames.lminor_signature
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:34:37.356208+00:00
 -- url     : https://prove2.me/theorems/81e9ec82-eadf-4be7-bba2-80c41113038e

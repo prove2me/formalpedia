@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_reduction_to_siegel_domain
 -- name    : GlobalTheory.T.reduction_to_siegel_domain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:10.082953+00:00
 -- url     : https://prove2.me/theorems/c5d9f794-5b31-4e72-8ecd-3ca3fc958d99

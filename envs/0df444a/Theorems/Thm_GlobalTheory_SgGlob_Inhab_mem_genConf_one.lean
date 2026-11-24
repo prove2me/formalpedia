@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Inhab_mem_genConf_one
 -- name    : GlobalTheory.SgGlob.Inhab.mem_genConf_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:17:45.818742+00:00
 -- url     : https://prove2.me/theorems/0d235073-3a95-4f10-a868-85559bc6cebe

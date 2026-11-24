@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KernelComm_operatorRules
 -- name    : GlobalTheory.KernelComm.operatorRules
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:12:40.471906+00:00
 -- url     : https://prove2.me/theorems/126e60d6-ef48-40d4-8c42-75ae5476a53e

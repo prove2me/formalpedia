@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_reGL_val
 -- name    : GlobalTheory.StepData.reGL_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:48:55.352857+00:00
 -- url     : https://prove2.me/theorems/b65c9a3e-7762-4e16-9e64-d1612efc6be4

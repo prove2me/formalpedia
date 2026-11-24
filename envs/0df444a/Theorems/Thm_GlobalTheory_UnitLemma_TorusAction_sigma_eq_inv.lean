@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_TorusAction_sigma_eq_inv
 -- name    : GlobalTheory.UnitLemma.TorusAction.sigma_eq_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:34:41.766868+00:00
 -- url     : https://prove2.me/theorems/544c5d8e-c3b7-404c-a74c-0a2af70b4e6b

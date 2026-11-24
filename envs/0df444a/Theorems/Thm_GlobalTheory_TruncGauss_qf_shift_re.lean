@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TruncGauss_qf_shift_re
 -- name    : GlobalTheory.TruncGauss.qf_shift_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:12:49.473878+00:00
 -- url     : https://prove2.me/theorems/1e5368c9-ec24-4de1-80fe-c35d60ad60df

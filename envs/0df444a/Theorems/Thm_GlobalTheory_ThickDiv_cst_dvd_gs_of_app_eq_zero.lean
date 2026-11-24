@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickDiv_cst_dvd_gs_of_app_eq_zero
 -- name    : GlobalTheory.ThickDiv.cst_dvd_gs_of_app_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:04:29.056773+00:00
 -- url     : https://prove2.me/theorems/2430b655-6bc9-4986-9c4c-14298412f2b0

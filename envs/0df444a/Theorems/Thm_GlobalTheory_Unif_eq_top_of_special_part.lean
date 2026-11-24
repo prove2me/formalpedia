@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Unif_eq_top_of_special_part
 -- name    : GlobalTheory.Unif.eq_top_of_special_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:24:42.522045+00:00
 -- url     : https://prove2.me/theorems/0edcbb72-f3c0-4774-a3f3-af029ad3fa87

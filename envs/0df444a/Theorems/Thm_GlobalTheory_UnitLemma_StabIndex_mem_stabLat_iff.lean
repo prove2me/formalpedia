@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_StabIndex_mem_stabLat_iff
 -- name    : GlobalTheory.UnitLemma.StabIndex.mem_stabLat_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:34:02.548218+00:00
 -- url     : https://prove2.me/theorems/52c11404-6a2d-4614-a75e-57a477699656

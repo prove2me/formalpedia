@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_translationInvariant_schwartzBruhat_map_factors_integral
 -- name    : GlobalTheory.T.translationInvariant_schwartzBruhat_map_factors_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:00:31.304927+00:00
 -- url     : https://prove2.me/theorems/92440048-a2d7-4029-a61e-81958b9283e6

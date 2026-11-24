@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsDescent_main
 -- name    : GlobalTheory.SectionsDescent.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:54:47.553609+00:00
 -- url     : https://prove2.me/theorems/8f5866fd-3665-4798-9b72-e8869d260de8

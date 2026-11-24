@@ -30801,8 +30801,6 @@
 {"parent": "AvramDividend.Classical.avram_a43_original_gaussian_continuous_raw_adapted_centered_martingale_indep_stationary_20261114", "child": "AvramDividend.Classical.avram_a21_original_gaussian_limit_integrable_centered_via_source_companion_20261113", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_a43_original_gaussian_continuous_raw_adapted_centered_martingale_indep_stationary_20261114", "child": "AvramDividend.Classical.avram_a41_original_continuous_gaussian_source_raw_adapted_independent_stationary_20261114", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RHLowSlabTenthCell12", "child": "row23_rh_supp_RHLowSlabTenthPilot", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.nonnegativePredictableJumpCompensation", "child": "Kyprianou_Ch04_PoissonCompensationSetting", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.nonnegativePredictableJumpCompensation", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
 {"parent": "MMSImpossibility.Goods.Supplement.mmsCh_ge_prop", "child": "MMSImpossibility_Goods_Supplement_Setting", "via": ["solution", "statement"]}
 {"parent": "SaglamGV.muHat_tail_ks", "child": "SelectiveDPT_H2", "via": ["statement"]}
 {"parent": "SaglamGV.muHat_tail_ks", "child": "SaglamGV_Analytic", "via": ["statement"]}
@@ -46327,7 +46325,7 @@
 {"parent": "CyclicForrelation.Even.Supplement.odd_nonadaptive_lower_bound", "child": "CyclicForrelation_Even_Supplement_quadraticCap", "via": ["statement"]}
 {"parent": "MatroidSensOracle.Supplement.theorem_7_2", "child": "MatroidSensOracle_Supplement_MatroidProblems", "via": ["statement"]}
 {"parent": "MatroidSensOracle.Supplement.theorem_7_2", "child": "OAI_MatrixMultiplication_Arithmetic_omega", "via": ["statement"]}
-{"parent": "ConstructiveArboricity.Exact.Supplement.star_infeasible", "child": "ConstructiveArboricity_Exact_Supplement_StarNetwork", "via": ["statement"]}
+{"parent": "ConstructiveArboricity.Exact.Supplement.star_infeasible", "child": "ConstructiveArboricity_Exact_Supplement_StarNetwork", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.lampertiBranchingToCompoundPoissonPathLawWithoutMoment", "child": "Kyprianou_Ch01_BranchingGenerator", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.lampertiBranchingToCompoundPoissonPathLawWithoutMoment", "child": "Kyprianou_Ch01_BranchingClocks", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.lampertiBranchingToCompoundPoissonPathLawWithoutMoment", "child": "Kyprianou_Ch01_ForwardLampertiPaths", "via": ["solution", "statement"]}
@@ -51028,16 +51026,16 @@
 {"parent": "MatMulDS_Supplement_DynOK", "child": "MatroidSensOracle_AlgRAM", "via": ["statement"]}
 {"parent": "PHIP1887.diagonal_second_euler", "child": "PHIP1887.diagonal_first_euler", "via": ["solution", "statement"]}
 {"parent": "PHIP1887.diagonal_second_euler", "child": "RHPF28_PHIP1887_6e42e337ddd5", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_ChapterCertificationV2", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_6Certification", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_7Certification", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_2Certification", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_8CertificationV2", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_1CertificationV2", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_3Certification", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_5Certification", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_4Certification", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_9Certification", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_ChapterCertificationV2", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_6Certification", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_7Certification", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_2Certification", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_8CertificationV2", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_1CertificationV2", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_3Certification", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_5Certification", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_4Certification", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_9Certification", "via": ["statement"]}
 {"parent": "CircTrichotomy_Supplement_membershipProblem", "child": "CircTrichotomy_BigO", "via": ["statement"]}
 {"parent": "CircTrichotomy_Supplement_membershipProblem", "child": "CircTrichotomy_Supplement_NFAInst", "via": ["statement"]}
 {"parent": "CircTrichotomy_Supplement_membershipProblem", "child": "CircTrichotomy_HLOmega", "via": ["statement"]}
@@ -51962,7 +51960,7 @@
 {"parent": "OnlineSteinitz.Reduction.Supplement.theorem_5_1", "child": "OnlineSteinitz_Reduction_Supplement_Inputs", "via": ["statement"]}
 {"parent": "CondGeoVerif.Supplement.theorem_F_4", "child": "CondGeoVerif_Supplement_boolComp", "via": ["statement"]}
 {"parent": "QTolTest1673.Unified.Supplement.theorem_11_4", "child": "QTolTest1673_Unified_Supplement_Model", "via": ["statement"]}
-{"parent": "ComputableDistributionsWaveMission.retarded_wave_uniqueness", "child": "liuyao_ca_fd889115_k1_Distributions_WaveTargets", "via": ["statement"]}
+{"parent": "ComputableDistributionsWaveMission.retarded_wave_uniqueness", "child": "liuyao_ca_fd889115_k1_Distributions_WaveTargets", "via": ["solution", "statement"]}
 {"parent": "BlockSSM.Supplement.theorem_13", "child": "OddOrder_GroupTheory_IsExtraspecial", "via": ["statement"]}
 {"parent": "BlockSSM.Supplement.theorem_13", "child": "BlockSSM_coverDim", "via": ["statement"]}
 {"parent": "SubmodMDP.Policies.Supplement.theorem_15", "child": "SubmodMDP_Policies_Supplement_Reduction", "via": ["statement"]}

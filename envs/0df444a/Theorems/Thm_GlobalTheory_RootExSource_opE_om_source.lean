@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootExSource_opE_om_source
 -- name    : GlobalTheory.RootExSource.opE_om_source
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:39:27.18866+00:00
 -- url     : https://prove2.me/theorems/7f52b6c6-ab98-4a2a-bcfa-785b5663802e

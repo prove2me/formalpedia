@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_subspaces_mul_generalLinearGroupCard
 -- name    : GlobalTheory.T.card_subspaces_mul_generalLinearGroupCard
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:28:20.107732+00:00
 -- url     : https://prove2.me/theorems/d53e0fc3-0967-471c-b468-6676586c4bfa

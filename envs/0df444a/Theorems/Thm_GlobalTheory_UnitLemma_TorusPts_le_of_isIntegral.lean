@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_TorusPts_le_of_isIntegral
 -- name    : GlobalTheory.UnitLemma.TorusPts.le_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:34:46.774863+00:00
 -- url     : https://prove2.me/theorems/a1860853-71ff-4d04-8239-7833cc2c800c

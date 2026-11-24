@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameKummer_le_adjoin_root
 -- name    : GlobalTheory.TameKummer.le_adjoin_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:02:33.113798+00:00
 -- url     : https://prove2.me/theorems/ca5a32bd-67f3-488f-a4f3-b3ae4368ffc3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_OrthBasis_herm_mul_left_of_fixed
 -- name    : GlobalTheory.UnitLemma.OrthBasis.herm_mul_left_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:28:44.450493+00:00
 -- url     : https://prove2.me/theorems/fce6d518-0680-4994-977c-0338c2d3a7d7

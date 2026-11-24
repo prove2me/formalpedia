@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_chi_cl_lift
 -- name    : GlobalTheory.UnitLemma.Desc.chi_cl_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:28:30.444066+00:00
 -- url     : https://prove2.me/theorems/2bbe4e73-2dd6-4ef9-9185-02abcff8f402

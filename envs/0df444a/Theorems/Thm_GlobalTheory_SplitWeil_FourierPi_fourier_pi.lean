@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_FourierPi_fourier_pi
 -- name    : GlobalTheory.SplitWeil.FourierPi.fourier_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:37:31.756455+00:00
 -- url     : https://prove2.me/theorems/e5fef32e-750d-453d-9c94-c5949871d147

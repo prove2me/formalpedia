@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_hecke_kernel_line_zero
 -- name    : Formalism.L2.Th1.F.hecke_kernel_line_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:32:42.907748+00:00
 -- url     : https://prove2.me/theorems/8344e031-9264-4c5a-9a2b-4150d3fa6e8f

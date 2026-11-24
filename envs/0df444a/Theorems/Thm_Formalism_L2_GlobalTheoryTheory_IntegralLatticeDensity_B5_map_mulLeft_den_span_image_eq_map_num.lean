@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_B5_map_mulLeft_den_span_image_eq_map_num
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.B5.map_mulLeft_den_span_image_eq_map_num
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:48:36.76739+00:00
 -- url     : https://prove2.me/theorems/16b05232-4006-4c89-997a-98185d86c084

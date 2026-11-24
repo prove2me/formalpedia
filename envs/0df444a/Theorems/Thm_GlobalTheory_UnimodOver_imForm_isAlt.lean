@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnimodOver_imForm_isAlt
 -- name    : GlobalTheory.UnimodOver.imForm_isAlt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:25:26.229077+00:00
 -- url     : https://prove2.me/theorems/e658a888-cd05-4a9d-a556-6d998e8cb80b

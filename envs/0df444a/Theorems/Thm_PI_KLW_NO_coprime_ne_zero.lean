@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_NO_coprime_ne_zero
 -- name    : PI.KLW.NO.coprime_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:44:04.53668+00:00
 -- url     : https://prove2.me/theorems/e8401d5d-7449-4135-86c7-5d6343380a96

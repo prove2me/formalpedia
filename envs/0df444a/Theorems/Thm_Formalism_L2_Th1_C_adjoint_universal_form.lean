@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_adjoint_universal_form
 -- name    : Formalism.L2.Th1.C.adjoint_universal_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:44:16.441611+00:00
 -- url     : https://prove2.me/theorems/219c72de-d6df-419f-a7fd-056aef91b81b

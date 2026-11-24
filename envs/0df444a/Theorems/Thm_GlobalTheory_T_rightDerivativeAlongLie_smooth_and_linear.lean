@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rightDerivativeAlongLie_smooth_and_linear
 -- name    : GlobalTheory.T.rightDerivativeAlongLie_smooth_and_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:06:48.453244+00:00
 -- url     : https://prove2.me/theorems/bb97e8c6-a93c-46a3-b3f3-c34aba14044b

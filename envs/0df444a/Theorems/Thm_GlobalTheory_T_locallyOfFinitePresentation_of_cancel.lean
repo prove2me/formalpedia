@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_locallyOfFinitePresentation_of_cancel
 -- name    : GlobalTheory.T.locallyOfFinitePresentation_of_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:53:17.071818+00:00
 -- url     : https://prove2.me/theorems/c5e5ec18-cb9c-4447-aeee-f9f9bbe8fb04

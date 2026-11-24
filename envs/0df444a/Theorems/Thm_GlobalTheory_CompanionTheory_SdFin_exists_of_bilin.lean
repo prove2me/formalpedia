@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SdFin_exists_of_bilin
 -- name    : GlobalTheory.CompanionTheory.SdFin.exists_of_bilin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:00:33.470592+00:00
 -- url     : https://prove2.me/theorems/bcff523d-d1ea-47dc-93d2-c19693c5b76f

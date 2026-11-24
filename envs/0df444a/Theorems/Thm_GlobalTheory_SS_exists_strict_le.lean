@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_strict_le
 -- name    : GlobalTheory.SS.exists_strict_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:38:34.515359+00:00
 -- url     : https://prove2.me/theorems/4a46b115-586c-4784-808a-2afe940efaf8

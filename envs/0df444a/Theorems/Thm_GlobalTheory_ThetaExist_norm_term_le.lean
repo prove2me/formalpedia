@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaExist_norm_term_le
 -- name    : GlobalTheory.ThetaExist.norm_term_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:05:44.972073+00:00
 -- url     : https://prove2.me/theorems/357412fb-32b4-4a8f-b130-5d911bc71f71

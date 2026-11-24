@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceUnit_norm_sub_lt_one_of_pow
 -- name    : GlobalTheory.TraceUnit.norm_sub_lt_one_of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:11:16.009847+00:00
 -- url     : https://prove2.me/theorems/4fee3f63-b7d6-432a-b4d7-ee5687e632d2

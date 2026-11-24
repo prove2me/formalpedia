@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_derivative_flog
 -- name    : PI.AddIntG.Wk.derivative_flog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:49:04.43184+00:00
 -- url     : https://prove2.me/theorems/8836a75c-760d-41a5-9ec9-1deae7082d8c

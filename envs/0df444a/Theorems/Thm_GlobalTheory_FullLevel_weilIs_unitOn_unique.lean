@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullLevel_weilIs_unitOn_unique
 -- name    : GlobalTheory.FullLevel.weilIs_unitOn_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:02:40.71258+00:00
 -- url     : https://prove2.me/theorems/094d856b-eab5-4f08-b1c8-dd9567d76734

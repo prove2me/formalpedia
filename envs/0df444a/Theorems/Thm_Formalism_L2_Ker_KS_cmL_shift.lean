@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Ker_KS_cmL_shift
 -- name    : Formalism.L2.Ker.KS.cmL_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:22:45.512784+00:00
 -- url     : https://prove2.me/theorems/56b93f5d-09fa-49de-a021-72b38c5aab20

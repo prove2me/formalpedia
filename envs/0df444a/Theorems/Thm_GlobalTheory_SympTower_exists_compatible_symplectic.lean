@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympTower_exists_compatible_symplectic
 -- name    : GlobalTheory.SympTower.exists_compatible_symplectic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:24:39.179293+00:00
 -- url     : https://prove2.me/theorems/4c57186a-6938-463c-8c16-6d14d37efd98

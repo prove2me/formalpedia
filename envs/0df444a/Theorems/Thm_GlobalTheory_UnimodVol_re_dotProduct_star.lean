@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnimodVol_re_dotProduct_star
 -- name    : GlobalTheory.UnimodVol.re_dotProduct_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:25:39.638037+00:00
 -- url     : https://prove2.me/theorems/974212bf-13be-4212-91aa-823edc475be0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstructiveArboricity_Exact_Supplement_star_infeasible
 -- name    : ConstructiveArboricity.Exact.Supplement.star_infeasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T10:20:14.416234+00:00
 -- url     : https://prove2.me/theorems/3189bdff-e57f-4b93-ac95-1bd00a4cbfb2

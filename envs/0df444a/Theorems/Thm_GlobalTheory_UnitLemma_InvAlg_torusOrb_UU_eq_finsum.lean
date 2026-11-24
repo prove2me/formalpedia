@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_InvAlg_torusOrb_UU_eq_finsum
 -- name    : GlobalTheory.UnitLemma.InvAlg.torusOrb_UU_eq_finsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:27:30.225206+00:00
 -- url     : https://prove2.me/theorems/d43ca77d-5e3f-4fb7-af7e-5fdf499c5871

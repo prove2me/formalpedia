@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaLarge_exists_theta_apply_ne_zero
 -- name    : GlobalTheory.ThetaLarge.exists_theta_apply_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:16:01.260808+00:00
 -- url     : https://prove2.me/theorems/2aca340b-1150-492e-bff2-11e920a00420

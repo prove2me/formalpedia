@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_SgnProd_trace_mat_toMatrix
 -- name    : GlobalTheory.UnitLemma.SgnProd.trace_mat_toMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:34:33.20149+00:00
 -- url     : https://prove2.me/theorems/f7db4d65-d643-41e9-903a-cf201b444d60

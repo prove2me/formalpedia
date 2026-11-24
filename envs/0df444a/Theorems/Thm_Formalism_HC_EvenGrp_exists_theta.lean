@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenGrp_exists_theta
 -- name    : Formalism.HC.EvenGrp.exists_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:12:40.683148+00:00
 -- url     : https://prove2.me/theorems/3a67dc7d-6eb4-4c45-8a43-64b154769ec0

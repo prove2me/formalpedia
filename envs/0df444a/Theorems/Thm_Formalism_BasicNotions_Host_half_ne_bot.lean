@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_Host_half_ne_bot
 -- name    : Formalism.BasicNotions.Host.half_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:41:09.842876+00:00
 -- url     : https://prove2.me/theorems/381d945e-f074-4001-a88c-123770d17beb

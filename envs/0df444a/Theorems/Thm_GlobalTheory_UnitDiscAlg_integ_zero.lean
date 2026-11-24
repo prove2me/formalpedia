@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDiscAlg_integ_zero
 -- name    : GlobalTheory.UnitDiscAlg.integ_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:26:38.310872+00:00
 -- url     : https://prove2.me/theorems/801d11dc-b660-48b0-b662-0c5db6762abe

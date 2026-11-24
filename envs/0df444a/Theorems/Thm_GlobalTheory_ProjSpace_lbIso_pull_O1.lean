@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_lbIso_pull_O1
 -- name    : GlobalTheory.ProjSpace.lbIso_pull_O1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:44:47.844639+00:00
 -- url     : https://prove2.me/theorems/eca87e22-1c56-4ccc-b3f0-8f8bd20e5b56

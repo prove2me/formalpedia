@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentInvariant_leadMinor_transpose
 -- name    : GlobalTheory.UnipotentInvariant.leadMinor_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:25:38.479572+00:00
 -- url     : https://prove2.me/theorems/d5739e94-899a-4275-a4d4-caf917b24183

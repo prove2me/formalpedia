@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharNormHalf_norm_mul_apow_eq_one
 -- name    : GlobalTheory.CharNormHalf.norm_mul_apow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:08:19.230089+00:00
 -- url     : https://prove2.me/theorems/b32fb190-22e8-495d-9ebb-73a3fa03f796

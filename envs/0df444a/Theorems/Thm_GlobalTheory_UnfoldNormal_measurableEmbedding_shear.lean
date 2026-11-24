@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldNormal_measurableEmbedding_shear
 -- name    : GlobalTheory.UnfoldNormal.measurableEmbedding_shear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:26.091248+00:00
 -- url     : https://prove2.me/theorems/e35c811d-af23-4c02-9c2d-4a231a5095f5

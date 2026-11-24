@@ -1,0 +1,53 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.SliceLastLevel.tr_rw_phi
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-24T21:59:08.469672+00:00
+-- url     : https://prove2.me/submissions/3b3a02fb-ba34-46a1-a118-4c5b2d5513f0
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementJF
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_Block3MulBlocks
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PhiBoundPartsOfRadicalParametrisation
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationUnipotentWeylMeasure
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BetaSesquilinearity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LongWeylElement
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SettingExistence
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OppositeWeylSubgroupClosed
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_HermitianFormFactor
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_TwoByOneBlock
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CompactGroupHaarExists
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SmoothnessOnGoodSet
+import Definitions.Def_Formalism_FormalDegreeBessel_FinalBF
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_NormDiagonalEntryDilationGeneratorLeOne
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_RegularisedPairingViaPhase
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbitalIntegralAeConvergenceContinuity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SliceLastLevel
+import Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_tr_rdV_phi
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Matrix MeasureTheory Filter Topology
+set_option linter.style.haveILetI false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.SliceLastLevel
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt Formalism.FourierDecayAlt.B Formalism.FourierDecayAlt.JF
+attribute [local instance] Matrix.normedAddCommGroup Matrix.normedSpace
+variable {k r : ℕ}
+variable {E : Type*} [NormedAddCommGroup E] [NormedSpace ℂ E]
+namespace Formalism.FourierDecayAlt.P.SliceLastLevel
+theorem _root_.solution (c : Fin r → ℂ) (n : B.Mat k r) {n' : B.Mat k r} (hn' : IsUnit n'.det) :
+    ∀ (v : List (B.Mat k 0)) (f : B.Mat k r → E),
+      Rw v (fun μ => f (phi k r c n n' μ)) =
+        fun μ => Rw (v.map fun Y => n'⁻¹ * emb0 k r Y * n') f (phi k r c n n' μ)
+  | [], _ => rfl
+  | Y :: v, f => by
+    funext μ
+    show RdV Y (Rw v (fun μ => f (phi k r c n n' μ))) μ =
+      RdV (n'⁻¹ * emb0 k r Y * n') (Rw (v.map fun Y => n'⁻¹ * emb0 k r Y * n') f) (phi k r c n n' μ)
+    rw [solution c n hn' v f, tr_rdV_phi c n hn']
+end Formalism.FourierDecayAlt.P.SliceLastLevel

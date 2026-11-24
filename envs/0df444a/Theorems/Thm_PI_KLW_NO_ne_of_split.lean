@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_NO_ne_of_split
 -- name    : PI.KLW.NO.ne_of_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:43:26.109905+00:00
 -- url     : https://prove2.me/theorems/5e366af0-eda5-48d7-b743-119b7b42dea7

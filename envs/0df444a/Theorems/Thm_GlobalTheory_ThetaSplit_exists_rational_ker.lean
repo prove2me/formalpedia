@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaSplit_exists_rational_ker
 -- name    : GlobalTheory.ThetaSplit.exists_rational_ker
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:04:35.733353+00:00
 -- url     : https://prove2.me/theorems/fe6413ce-21b9-4d63-8ad3-e03e45a17fb0

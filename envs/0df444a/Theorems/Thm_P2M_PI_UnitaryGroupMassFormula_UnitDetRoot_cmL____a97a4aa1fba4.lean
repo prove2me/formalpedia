@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryGroupMassFormula_UnitDetRoot_cmL____a97a4aa1fba4
 -- name    : P2M_PI_UnitaryGroupMassFormula_UnitDetRoot_cmL____a97a4aa1fba4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:43:09.664297+00:00
 -- url     : https://prove2.me/theorems/5266a3fc-2a0f-41ac-af7c-8153a76cdaf1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_UnrExt_exists_root
 -- name    : GlobalTheory.UnitLemma.UnrExt.exists_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:38:28.400234+00:00
 -- url     : https://prove2.me/theorems/d71db1d2-66e2-49c4-9954-a9f445dcc5dc

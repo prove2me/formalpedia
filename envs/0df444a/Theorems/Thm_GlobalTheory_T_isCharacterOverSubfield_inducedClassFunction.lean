@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCharacterOverSubfield_inducedClassFunction
 -- name    : GlobalTheory.T.isCharacterOverSubfield_inducedClassFunction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:49:29.400473+00:00
 -- url     : https://prove2.me/theorems/911d88ad-8425-4185-9e9b-d59e81d501a0

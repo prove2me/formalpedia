@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_norm_sigma
 -- name    : GlobalTheory.UnitLemma.Desc.norm_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:28:02.589582+00:00
 -- url     : https://prove2.me/theorems/d69d2ef0-1273-467f-9b63-e9f94bcd8cc1

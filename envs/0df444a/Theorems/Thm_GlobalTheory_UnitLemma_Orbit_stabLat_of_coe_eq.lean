@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Orbit_stabLat_of_coe_eq
 -- name    : GlobalTheory.UnitLemma.Orbit.stabLat_of_coe_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:28:31.68222+00:00
 -- url     : https://prove2.me/theorems/dd9ebeec-e2a3-41bf-967b-9447053d04d9

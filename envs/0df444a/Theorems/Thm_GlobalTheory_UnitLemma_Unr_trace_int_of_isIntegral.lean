@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_trace_int_of_isIntegral
 -- name    : GlobalTheory.UnitLemma.Unr.trace_int_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:38:15.090943+00:00
 -- url     : https://prove2.me/theorems/d9a070c4-ceb3-4cfc-acdf-24d3913c7055

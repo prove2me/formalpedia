@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_valuation_eq_one_of_norm_one_of_not_moved
 -- name    : GlobalTheory.UnRep.valuation_eq_one_of_norm_one_of_not_moved
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:24:51.382818+00:00
 -- url     : https://prove2.me/theorems/4027daa2-63f4-4ad8-b44c-73f004ef309a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_gL_eq_smulLat
 -- name    : GlobalTheory.SA.gL_eq_smulLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:35:28.606695+00:00
 -- url     : https://prove2.me/theorems/8ce1c5fb-75f1-4262-b9ac-fbba08f3cecd

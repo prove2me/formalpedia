@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_haar_map_conj_normalizing_lattice_eq_self
 -- name    : GlobalTheory.T.haar_map_conj_normalizing_lattice_eq_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:41:56.72641+00:00
 -- url     : https://prove2.me/theorems/8d7967ef-b4e5-44f4-8d52-21a5d013deab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_OpELevi_integral_comp_blocks
 -- name    : GlobalTheory.RootEx.OpELevi.integral_comp_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:58:34.977863+00:00
 -- url     : https://prove2.me/theorems/ea83c054-b628-43a8-ae0b-daed2240fbfc

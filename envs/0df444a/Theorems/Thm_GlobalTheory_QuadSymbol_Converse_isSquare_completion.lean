@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_Converse_isSquare_completion
 -- name    : GlobalTheory.QuadSymbol.Converse.isSquare_completion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:27:54.67815+00:00
 -- url     : https://prove2.me/theorems/c65c8227-9ad3-4733-8cec-54c59547311b

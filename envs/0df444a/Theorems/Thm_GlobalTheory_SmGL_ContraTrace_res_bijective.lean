@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_ContraTrace_res_bijective
 -- name    : GlobalTheory.SmGL.ContraTrace.res_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:37:14.021063+00:00
 -- url     : https://prove2.me/theorems/4ea204df-7649-4218-a2a1-56208c00bdb4

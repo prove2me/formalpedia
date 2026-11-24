@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_TwistUnit_adjoin_stab
 -- name    : GlobalTheory.UnitLemma.TwistUnit.adjoin_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:34:43.435741+00:00
 -- url     : https://prove2.me/theorems/161a915c-3f75-4d7a-bbc9-e83c91047556

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx4_cellDecomp
 -- name    : Formalism.FourierDecayAlt.P.Qx4.cellDecomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:22:29.433275+00:00
 -- url     : https://prove2.me/theorems/ba75eee1-39fc-44d0-82bd-50d44067af98

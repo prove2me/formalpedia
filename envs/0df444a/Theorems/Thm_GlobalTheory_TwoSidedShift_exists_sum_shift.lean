@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoSidedShift_exists_sum_shift
 -- name    : GlobalTheory.TwoSidedShift.exists_sum_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:16:30.230284+00:00
 -- url     : https://prove2.me/theorems/21aab65a-978c-461b-9548-e599fee18e24

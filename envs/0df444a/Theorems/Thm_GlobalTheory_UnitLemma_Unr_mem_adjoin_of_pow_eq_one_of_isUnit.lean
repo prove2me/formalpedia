@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_mem_adjoin_of_pow_eq_one_of_isUnit
 -- name    : GlobalTheory.UnitLemma.Unr.mem_adjoin_of_pow_eq_one_of_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:38:18.751001+00:00
 -- url     : https://prove2.me/theorems/0f9b6608-06b8-40e0-9dd3-042ef0cec8f6

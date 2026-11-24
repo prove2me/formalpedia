@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_isIntegral_iff_forall_maximalSpectrum
 -- name    : GlobalTheory.UnitLemma.isIntegral_iff_forall_maximalSpectrum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:37:59.518369+00:00
 -- url     : https://prove2.me/theorems/99f24e6d-7574-4e23-8afd-8d500443aecc

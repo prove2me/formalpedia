@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_mfact_eq_prod_univ
 -- name    : Formalism.DworkPowerSeriesWeights.mfact_eq_prod_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:41:43.724526+00:00
 -- url     : https://prove2.me/theorems/a2a9020b-b2bf-4b52-a777-301ac5da3de2

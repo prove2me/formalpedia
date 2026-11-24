@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_reflectedSignedAdaptedV1
 -- name    : Kyprianou.Ch03.reflectedSignedAdaptedV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:17:43.317345+00:00
 -- url     : https://prove2.me/theorems/48b43e6b-90ca-4da8-a917-d5393e73d55c

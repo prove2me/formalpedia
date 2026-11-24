@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_PlaneRefl_tv_zero
 -- name    : GlobalTheory.UTrans.PlaneRefl.tv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:21:02.094423+00:00
 -- url     : https://prove2.me/theorems/cd7ee335-e581-442d-aa5d-3bab8a623dd5

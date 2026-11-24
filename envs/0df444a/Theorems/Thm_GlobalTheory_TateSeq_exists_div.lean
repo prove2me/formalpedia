@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateSeq_exists_div
 -- name    : GlobalTheory.TateSeq.exists_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:02:30.684644+00:00
 -- url     : https://prove2.me/theorems/93db690e-d336-4a34-8b03-94a8a1830c36

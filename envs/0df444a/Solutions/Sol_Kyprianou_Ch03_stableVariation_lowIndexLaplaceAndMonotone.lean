@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.stableVariation_lowIndexLaplaceAndMonotone
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T21:38:53.663669+00:00
 -- url     : https://prove2.me/submissions/eea8bbd6-cbc8-4921-a274-497f940f8f13
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

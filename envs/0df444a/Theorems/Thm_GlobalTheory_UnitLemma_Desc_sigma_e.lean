@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_sigma_e
 -- name    : GlobalTheory.UnitLemma.Desc.sigma_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:28:33.778649+00:00
 -- url     : https://prove2.me/theorems/75312997-790c-458b-a2f1-a36a72a583bf

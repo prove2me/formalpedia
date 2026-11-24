@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_LD_step_chart
 -- name    : GlobalTheory.ThK.Dbl.LD.step_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:03:46.518312+00:00
 -- url     : https://prove2.me/theorems/84542a76-e26f-4e31-9aaf-b81d23c7dc07

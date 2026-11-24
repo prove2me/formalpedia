@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_UnrAny_card_sub_one_isUnit
 -- name    : GlobalTheory.UnitLemma.UnrAny.card_sub_one_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:38:45.476697+00:00
 -- url     : https://prove2.me/theorems/7a0d84b3-a19e-44d4-8de6-8a28dbe225c2

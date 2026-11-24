@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GelfandKazhdan_transpose_invariant
 -- name    : GlobalTheory.GelfandKazhdan.transpose_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:55:00.912801+00:00
 -- url     : https://prove2.me/theorems/533d0536-7e99-41ca-918e-cfe31424a81b

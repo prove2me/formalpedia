@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_LD_kill_loc
 -- name    : GlobalTheory.ThK.Dbl.LD.kill_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:03:18.985802+00:00
 -- url     : https://prove2.me/theorems/e31007c9-bcbf-41c4-bcdc-98b75f791963

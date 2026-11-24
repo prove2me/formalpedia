@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UltrametricSum_ultra_sum_le
 -- name    : GlobalTheory.UltrametricSum.ultra_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:23:06.152249+00:00
 -- url     : https://prove2.me/theorems/f531aab5-47f4-4081-a92f-940b61eff650

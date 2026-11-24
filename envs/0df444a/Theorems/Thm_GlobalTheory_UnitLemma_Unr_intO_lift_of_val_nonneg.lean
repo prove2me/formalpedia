@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_intO_lift_of_val_nonneg
 -- name    : GlobalTheory.UnitLemma.Unr.intO_lift_of_val_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:36:55.724358+00:00
 -- url     : https://prove2.me/theorems/3deb726c-be9e-4e6f-937b-915c142f207e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SylvesterInertia_hasSignature_fst_unique
 -- name    : GlobalTheory.SylvesterInertia.hasSignature_fst_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:29:08.292808+00:00
 -- url     : https://prove2.me/theorems/ba16a034-d1eb-4f74-9747-a9fcd49415da

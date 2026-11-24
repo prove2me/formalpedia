@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_isIntegral_snd
 -- name    : GlobalTheory.UnitLemma.Desc.isIntegral_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:29:30.615292+00:00
 -- url     : https://prove2.me/theorems/749b3f6b-2c34-4546-9912-7c6c5d0195bf

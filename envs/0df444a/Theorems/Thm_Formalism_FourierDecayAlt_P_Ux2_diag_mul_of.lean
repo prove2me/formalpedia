@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux2_diag_mul_of
 -- name    : Formalism.FourierDecayAlt.P.Ux2.diag_mul_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:59:18.132863+00:00
 -- url     : https://prove2.me/theorems/a45ef798-c31f-4b50-8ad6-28611baf659f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_norm_prod_one
 -- name    : GlobalTheory.UnitLemma.Desc.norm_prod_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:28:17.8248+00:00
 -- url     : https://prove2.me/theorems/eaa93bf0-26b5-4a10-9ff3-e8502ff55ec4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Unfold_unique_translate
 -- name    : GlobalTheory.Unfold.unique_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:24:52.940012+00:00
 -- url     : https://prove2.me/theorems/88cf82c7-b9e5-418f-a538-bb7078d38ff4

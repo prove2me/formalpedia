@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistDual_mulVec_surjective
 -- name    : GlobalTheory.TwistDual.mulVec_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:12:59.056135+00:00
 -- url     : https://prove2.me/theorems/6c613672-451b-440d-804e-91b49c4b84de

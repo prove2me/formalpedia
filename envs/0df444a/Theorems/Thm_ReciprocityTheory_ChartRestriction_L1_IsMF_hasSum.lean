@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_IsMF_hasSum
 -- name    : ReciprocityTheory.ChartRestriction.L1.IsMF.hasSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:55:17.051808+00:00
 -- url     : https://prove2.me/theorems/326d7383-7606-4c64-aed6-101f4a87a409

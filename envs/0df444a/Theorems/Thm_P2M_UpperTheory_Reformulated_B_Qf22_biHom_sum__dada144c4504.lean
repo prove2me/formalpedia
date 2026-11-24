@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qf22_biHom_sum__dada144c4504
 -- name    : P2M_UpperTheory_Reformulated_B_Qf22_biHom_sum__dada144c4504
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:42:56.125022+00:00
 -- url     : https://prove2.me/theorems/3e6ae84e-3086-4cb3-9440-fe2ee98496f0

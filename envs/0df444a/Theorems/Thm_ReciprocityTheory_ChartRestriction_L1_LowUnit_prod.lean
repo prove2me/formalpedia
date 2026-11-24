@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_LowUnit_prod
 -- name    : ReciprocityTheory.ChartRestriction.L1.LowUnit.prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:07:26.501354+00:00
 -- url     : https://prove2.me/theorems/42c30c9c-f38f-4ece-9f1f-577638c3c22a

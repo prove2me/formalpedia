@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_OrthBasis_repr_mul
 -- name    : GlobalTheory.UnitLemma.OrthBasis.repr_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:29:05.132907+00:00
 -- url     : https://prove2.me/theorems/3dbfdb29-cefe-4450-9e5e-df2d30dee926

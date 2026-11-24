@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaReal_closure_eq_top_of_meets_torsion_cosets
 -- name    : GlobalTheory.ThetaReal.closure_eq_top_of_meets_torsion_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:07:31.9958+00:00
 -- url     : https://prove2.me/theorems/e29904ca-c6f1-4309-b0cd-30f737520b7c

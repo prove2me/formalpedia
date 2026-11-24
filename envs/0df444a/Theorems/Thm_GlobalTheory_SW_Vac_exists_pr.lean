@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Vac_exists_pr
 -- name    : GlobalTheory.SW.Vac.exists_pr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:44:57.675159+00:00
 -- url     : https://prove2.me/theorems/48fd4055-3524-49a2-a423-f59dc5479652

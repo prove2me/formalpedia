@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_valuation_map_eq_of_unr
 -- name    : GlobalTheory.UnitLemma.Unr.valuation_map_eq_of_unr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:38:06.550361+00:00
 -- url     : https://prove2.me/theorems/649c7fdb-67f3-4d21-8102-9429f3fb08c8

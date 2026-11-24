@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_betaHypOfF
 -- name    : Formalism.L2.Th1.D.betaHypOfF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:44:02.799484+00:00
 -- url     : https://prove2.me/theorems/619c6225-3629-4d82-825a-5fc350bd87e3

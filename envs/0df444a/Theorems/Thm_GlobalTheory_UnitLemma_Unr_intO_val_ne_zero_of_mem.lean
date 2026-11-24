@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_intO_val_ne_zero_of_mem
 -- name    : GlobalTheory.UnitLemma.Unr.intO_val_ne_zero_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:37:58.377677+00:00
 -- url     : https://prove2.me/theorems/aaf97d39-2fc0-442b-8180-4de5476c5618

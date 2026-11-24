@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFixedAut_twist_comm
 -- name    : GlobalTheory.TorsionFixedAut.twist_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:09:21.934681+00:00
 -- url     : https://prove2.me/theorems/32f113e1-6253-4bc0-8cb6-e4902be64b18

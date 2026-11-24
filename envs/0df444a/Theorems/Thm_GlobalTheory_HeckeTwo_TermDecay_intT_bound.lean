@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermDecay_intT_bound
 -- name    : GlobalTheory.HeckeTwo.TermDecay.intT_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:08:30.962226+00:00
 -- url     : https://prove2.me/theorems/b58c3de8-0a34-4c09-b46e-33423e19a689

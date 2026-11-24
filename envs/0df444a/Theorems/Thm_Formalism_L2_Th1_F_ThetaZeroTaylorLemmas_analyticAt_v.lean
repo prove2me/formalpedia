@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThetaZeroTaylorLemmas_analyticAt_v
 -- name    : Formalism.L2.Th1.F.ThetaZeroTaylorLemmas.analyticAt_v
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:30:05.64402+00:00
 -- url     : https://prove2.me/theorems/44683c3a-fc7a-4807-a2d6-1188316a0279

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsLift_points_lift
 -- name    : GlobalTheory.TorsLift.points_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:21:52.342889+00:00
 -- url     : https://prove2.me/theorems/e1d03780-55c0-42e4-966c-628e92bb4786

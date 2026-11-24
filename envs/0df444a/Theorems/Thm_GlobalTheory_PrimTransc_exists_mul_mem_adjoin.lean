@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimTransc_exists_mul_mem_adjoin
 -- name    : GlobalTheory.PrimTransc.exists_mul_mem_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:54:10.677573+00:00
 -- url     : https://prove2.me/theorems/7f8cbcc2-7345-4a79-b6d4-5ebea377f763

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_PiSelfDual_dual_intLat
 -- name    : GlobalTheory.JR.PiSelfDual.dual_intLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:34:55.859259+00:00
 -- url     : https://prove2.me/theorems/f228099f-08ef-4f2e-b859-b12f26632535

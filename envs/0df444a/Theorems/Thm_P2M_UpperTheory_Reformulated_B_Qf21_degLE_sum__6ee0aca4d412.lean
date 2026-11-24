@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qf21_degLE_sum__6ee0aca4d412
 -- name    : P2M_UpperTheory_Reformulated_B_Qf21_degLE_sum__6ee0aca4d412
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:42:50.669568+00:00
 -- url     : https://prove2.me/theorems/aed6ab98-f77b-4cba-8826-dd42857b6996

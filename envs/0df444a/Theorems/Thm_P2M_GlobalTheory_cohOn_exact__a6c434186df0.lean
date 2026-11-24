@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_cohOn_exact__a6c434186df0
 -- name    : P2M_GlobalTheory_cohOn_exact__a6c434186df0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:42:19.099573+00:00
 -- url     : https://prove2.me/theorems/1bb7b04b-0697-4882-9738-6650567318dd

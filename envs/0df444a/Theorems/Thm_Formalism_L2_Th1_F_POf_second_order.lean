@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_POf_second_order
 -- name    : Formalism.L2.Th1.F.POf.second_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:20:32.923537+00:00
 -- url     : https://prove2.me/theorems/ffaaae3a-f925-46e5-b529-ff239cffcb78

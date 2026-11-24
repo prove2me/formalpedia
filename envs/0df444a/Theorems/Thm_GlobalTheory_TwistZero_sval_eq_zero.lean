@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistZero_sval_eq_zero
 -- name    : GlobalTheory.TwistZero.sval_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:13:55.32483+00:00
 -- url     : https://prove2.me/theorems/0fc2dadc-804d-40fb-b81b-0f71bb0a292d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactHowe_weight_fst_eq_mapDomain
 -- name    : GlobalTheory.CompactHowe.weight_fst_eq_mapDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:49:28.252329+00:00
 -- url     : https://prove2.me/theorems/41362d0c-c164-4b24-b75a-d144953ccb55

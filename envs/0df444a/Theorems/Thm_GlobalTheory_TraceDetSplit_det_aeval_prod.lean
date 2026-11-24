@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceDetSplit_det_aeval_prod
 -- name    : GlobalTheory.TraceDetSplit.det_aeval_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:10:50.329051+00:00
 -- url     : https://prove2.me/theorems/bebf44be-c9f0-41d8-b8ca-6187d890e92c

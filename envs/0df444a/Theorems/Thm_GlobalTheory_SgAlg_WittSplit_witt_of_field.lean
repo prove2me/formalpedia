@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittSplit_witt_of_field
 -- name    : GlobalTheory.SgAlg.WittSplit.witt_of_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:54:47.0487+00:00
 -- url     : https://prove2.me/theorems/1dd4d246-f9e8-481c-bc7d-5127d589dbf8

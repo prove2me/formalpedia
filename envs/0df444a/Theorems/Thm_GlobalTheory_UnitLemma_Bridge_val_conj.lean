@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Bridge_val_conj
 -- name    : GlobalTheory.UnitLemma.Bridge.val_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:26:19.309811+00:00
 -- url     : https://prove2.me/theorems/21cfd2af-89ac-4c05-8334-ee9077a5cf33

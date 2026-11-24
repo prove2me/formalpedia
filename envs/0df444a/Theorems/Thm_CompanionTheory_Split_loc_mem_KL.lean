@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Split_loc_mem_KL
 -- name    : CompanionTheory.Split.loc_mem_KL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:44:52.465503+00:00
 -- url     : https://prove2.me/theorems/800428e1-5281-4852-811f-daa9389985da

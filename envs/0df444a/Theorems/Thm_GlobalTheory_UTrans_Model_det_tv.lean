@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_Model_det_tv
 -- name    : GlobalTheory.UTrans.Model.det_tv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:20:36.783245+00:00
 -- url     : https://prove2.me/theorems/ff762fd1-9187-498f-ba49-19aab6a92f78

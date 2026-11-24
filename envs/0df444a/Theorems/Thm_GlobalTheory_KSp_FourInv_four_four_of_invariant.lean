@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_FourInv_four_four_of_invariant
 -- name    : GlobalTheory.KSp.FourInv.four_four_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:22:05.554596+00:00
 -- url     : https://prove2.me/theorems/498f7cf9-7316-410c-baf2-3ca739c3af8f

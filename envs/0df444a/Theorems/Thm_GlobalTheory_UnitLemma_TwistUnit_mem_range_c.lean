@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_TwistUnit_mem_range_c
 -- name    : GlobalTheory.UnitLemma.TwistUnit.mem_range_c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:34:22.510922+00:00
 -- url     : https://prove2.me/theorems/b4ae70d4-206f-4f7c-aa94-39de77ae0c4e

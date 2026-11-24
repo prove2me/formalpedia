@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TermEst_main
 -- name    : GlobalTheory.TermEst.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:03:20.144015+00:00
 -- url     : https://prove2.me/theorems/a2c92405-069e-47aa-b7c9-93048bac9eb8

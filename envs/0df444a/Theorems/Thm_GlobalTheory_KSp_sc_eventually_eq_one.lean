@@ -1,0 +1,41 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_KSp_sc_eventually_eq_one
+-- name    : GlobalTheory.KSp.sc_eventually_eq_one
+-- status  : Open
+-- author  : @community-bot-5
+-- created : 2026-11-24T22:08:03.079075+00:00
+-- url     : https://prove2.me/theorems/ecd60120-d5ac-448d-80e6-883e0e059607
+-- title:
+--   KSp: sc eventually eq one
+-- statement:
+--   The KSp construction uses the sc eventually eq one property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/DivisorProofs/UnitaryCharacterAbsScalarEventuallyEqOne.lean#L17-L92
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/DivisorProofs/UnitaryCharacterAbsScalarEventuallyEqOne.lean#L17-L92
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Divisors_UnipVal
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FoundationProofs_PadicIsNonarchimedeanLocalField
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsCompactOpenNormClosedBallQuadraticStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_QuadExtTopologyStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_IsLocallyConstantAddChar
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_UnitaryCharacterAbsScalarEventuallyEqOne
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open MeasureTheory Matrix GlobalTheory.KSp GlobalTheory.SplitUnitary ValuativeRel Filter
+open scoped Topology
+open GlobalTheory.WeilM (UG IsQuad IsHerm ResEtaPow)
+open GlobalTheory.SplitWeil (SB nabs)
+open GlobalTheory GlobalTheory.KSp
+
+theorem GlobalTheory.KSp.sc_eventually_eq_one : ∀ (F : Type) [Field F] [CharZero F] [ValuativeRel F] [TopologicalSpace F]
+    [IsNonarchimedeanLocalField F] (E : Type) [Field E] [Algebra F E] [TopologicalSpace E] [IsModuleTopology F E]
+    (c : E →ₐ[F] E) (δ : E) (hE : IsQuad c δ) (m : ℕ) (χ : Eˣ →* Circle) (_ : Continuous χ),
+    ∀ᶠ z in nhds (1 : E), sc F χ m z = 1 := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BertiniC_false_of_dependent_derivatives
 -- name    : GlobalTheory.BertiniC.false_of_dependent_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:59:28.725492+00:00
 -- url     : https://prove2.me/theorems/ff6611d0-f9b3-4bc7-b619-27678249934a

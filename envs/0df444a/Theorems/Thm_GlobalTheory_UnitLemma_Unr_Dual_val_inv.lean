@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_Dual_val_inv
 -- name    : GlobalTheory.UnitLemma.Unr.Dual.val_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:35:20.535473+00:00
 -- url     : https://prove2.me/theorems/3dce42a6-cddc-47dc-bdb0-024af7727238

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TraceDualSums_sum_zmod
 -- name    : Formalism.L2.Th1.D.TraceDualSums.sum_zmod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:45:00.085871+00:00
 -- url     : https://prove2.me/theorems/47c5e6ca-15ae-4779-8be1-f88090c1662d

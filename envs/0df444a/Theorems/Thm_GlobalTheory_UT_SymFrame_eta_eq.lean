@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_SymFrame_eta_eq
 -- name    : GlobalTheory.UT.SymFrame.eta_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:21:20.783418+00:00
 -- url     : https://prove2.me/theorems/0a1ad05b-8ffd-4ad9-9b0c-70afa1d35f9c

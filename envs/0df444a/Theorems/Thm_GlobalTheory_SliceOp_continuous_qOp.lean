@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceOp_continuous_qOp
 -- name    : GlobalTheory.SliceOp.continuous_qOp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:35:41.783815+00:00
 -- url     : https://prove2.me/theorems/e6557446-b028-4bf3-9aca-0b17ea5d3c13

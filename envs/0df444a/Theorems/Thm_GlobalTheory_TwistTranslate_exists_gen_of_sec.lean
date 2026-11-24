@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistTranslate_exists_gen_of_sec
 -- name    : GlobalTheory.TwistTranslate.exists_gen_of_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:13:19.159939+00:00
 -- url     : https://prove2.me/theorems/4ece4ff0-337c-4526-805e-9fcff5310404

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusOrbitLat_rho_cond_mk
 -- name    : GlobalTheory.TorusOrbitLat.rho_cond_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:11:11.436813+00:00
 -- url     : https://prove2.me/theorems/b021abb4-02b6-4154-9b67-12968ca48826

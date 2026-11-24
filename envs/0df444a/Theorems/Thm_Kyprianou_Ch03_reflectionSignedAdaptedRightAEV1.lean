@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_reflectionSignedAdaptedRightAEV1
 -- name    : Kyprianou.Ch03.reflectionSignedAdaptedRightAEV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T21:47:40.514817+00:00
 -- url     : https://prove2.me/theorems/9ffcff5e-6479-41ce-863b-35c820df5566

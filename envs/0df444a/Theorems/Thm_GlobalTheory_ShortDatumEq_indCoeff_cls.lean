@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortDatumEq_indCoeff_cls
 -- name    : GlobalTheory.ShortDatumEq.indCoeff_cls
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:11:41.302995+00:00
 -- url     : https://prove2.me/theorems/87608218-06c2-435b-ad28-b5ffbf68d8d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsorUnit_isTorsorOn
 -- name    : GlobalTheory.TorsorUnit.isTorsorOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:19:00.298571+00:00
 -- url     : https://prove2.me/theorems/7f4ac13f-5dcf-4aab-9c6b-d3ad0b46ebfc

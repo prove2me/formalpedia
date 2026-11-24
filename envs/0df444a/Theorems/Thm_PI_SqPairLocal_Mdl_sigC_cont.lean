@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_Mdl_sigC_cont
 -- name    : PI.SqPairLocal.Mdl.sigC_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:44:59.808952+00:00
 -- url     : https://prove2.me/theorems/7b940702-4b68-4dd4-914f-8d1c30cb0531

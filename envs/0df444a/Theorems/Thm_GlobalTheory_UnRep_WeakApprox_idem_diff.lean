@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_WeakApprox_idem_diff
 -- name    : GlobalTheory.UnRep.WeakApprox.idem_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:23:20.916729+00:00
 -- url     : https://prove2.me/theorems/38d6d5a1-f5d7-45cc-b1c2-9c08b6babc3c

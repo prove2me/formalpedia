@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableExpAbsoluteDeficitBoundV1
 -- name    : Kyprianou.Ch03.stableExpAbsoluteDeficitBoundV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T18:19:12.254051+00:00
 -- url     : https://prove2.me/theorems/a53e063b-bdf0-4746-a295-48556b75901c

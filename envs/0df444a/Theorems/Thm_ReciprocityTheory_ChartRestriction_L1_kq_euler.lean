@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_kq_euler
 -- name    : ReciprocityTheory.ChartRestriction.L1.kq_euler
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:45:46.956928+00:00
 -- url     : https://prove2.me/theorems/aa8a5573-c8b6-4b36-8112-b01d1ebe392d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_IntBasis_adicVal_eq_one_iff
 -- name    : GlobalTheory.UnitLemma.Unr.IntBasis.adicVal_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:34:02.08885+00:00
 -- url     : https://prove2.me/theorems/0f726238-fdf9-4787-bce5-e747547dc411

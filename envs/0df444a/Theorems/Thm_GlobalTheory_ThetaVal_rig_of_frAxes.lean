@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaVal_rig_of_frAxes
 -- name    : GlobalTheory.ThetaVal.rig_of_frAxes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:08:01.074828+00:00
 -- url     : https://prove2.me/theorems/0b4d120f-01a1-40fd-aa20-584bcee20ed2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_conj_matrix_det_isUnit
 -- name    : GlobalTheory.UnitLemma.Unr.conj_matrix_det_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:37:11.376734+00:00
 -- url     : https://prove2.me/theorems/776d7321-480f-4ba9-9d27-87cee1e42c8a

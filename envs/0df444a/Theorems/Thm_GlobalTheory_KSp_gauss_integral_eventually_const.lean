@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_gauss_integral_eventually_const
 -- name    : GlobalTheory.KSp.gauss_integral_eventually_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:22:15.183852+00:00
 -- url     : https://prove2.me/theorems/b974e491-9dcd-4851-be4e-a25b624898a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_PlaneRefl_quasiRefl_eq_mul_of_plane
 -- name    : GlobalTheory.UTrans.PlaneRefl.quasiRefl_eq_mul_of_plane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:21:07.553108+00:00
 -- url     : https://prove2.me/theorems/4507805d-d9ab-45be-a635-30127ef93535

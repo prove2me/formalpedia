@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gaussian_fourier_transform_formula
 -- name    : GlobalTheory.T.gaussian_fourier_transform_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:40:42.890501+00:00
 -- url     : https://prove2.me/theorems/c51653d7-8192-4ba2-8173-51ac95d5d66e

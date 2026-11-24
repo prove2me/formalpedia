@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_cmPairHasCMBy
 -- name    : Formalism.L2.Th1.F.cmPairHasCMBy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:38:57.059251+00:00
 -- url     : https://prove2.me/theorems/0bb4fb33-ae61-4a27-b3c4-3772db467664

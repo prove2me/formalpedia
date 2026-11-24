@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Split_loc_emb
 -- name    : CompanionTheory.Split.loc_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:43:05.957133+00:00
 -- url     : https://prove2.me/theorems/92b77907-b98d-4948-9658-29c971a3b2cc

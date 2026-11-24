@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGen_exists_succ_le_mul_of_integral
 -- name    : GlobalTheory.ThetaGen.exists_succ_le_mul_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:06:13.374735+00:00
 -- url     : https://prove2.me/theorems/1dc089b6-d61f-46ea-a93e-92fc8adb9365

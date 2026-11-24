@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_SchurComp_proportional_field
 -- name    : GlobalTheory.UU.SchurComp.proportional_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:23:49.415328+00:00
 -- url     : https://prove2.me/theorems/ba6cdde5-dd68-4267-9cb1-6bd84bdfd417

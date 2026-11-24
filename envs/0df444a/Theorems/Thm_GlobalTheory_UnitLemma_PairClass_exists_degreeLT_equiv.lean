@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_PairClass_exists_degreeLT_equiv
 -- name    : GlobalTheory.UnitLemma.PairClass.exists_degreeLT_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:29:00.60536+00:00
 -- url     : https://prove2.me/theorems/d4dd111f-ada8-4cc9-8cd9-8064705f9fc3

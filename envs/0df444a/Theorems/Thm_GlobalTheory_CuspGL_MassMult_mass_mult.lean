@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_MassMult_mass_mult
 -- name    : GlobalTheory.CuspGL.MassMult.mass_mult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:31:49.731426+00:00
 -- url     : https://prove2.me/theorems/16c9ec81-d26c-45c0-9109-f67124acead9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ip_self_nonneg_and_bounds
 -- name    : GlobalTheory.SW.ip_self_nonneg_and_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:18:03.741695+00:00
 -- url     : https://prove2.me/theorems/3210debd-0239-490f-9333-1cec0d272a31

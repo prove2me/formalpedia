@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cochainValueOnThickeningHom_eq_sub_of_glued
 -- name    : GlobalTheory.T.cochainValueOnThickeningHom_eq_sub_of_glued
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:31:26.811358+00:00
 -- url     : https://prove2.me/theorems/d91fd640-f75f-4683-9a9c-a4f1c389dd53

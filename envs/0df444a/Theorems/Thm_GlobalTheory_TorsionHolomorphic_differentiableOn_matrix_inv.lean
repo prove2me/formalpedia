@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionHolomorphic_differentiableOn_matrix_inv
 -- name    : GlobalTheory.TorsionHolomorphic.differentiableOn_matrix_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:08:55.415815+00:00
 -- url     : https://prove2.me/theorems/9e905392-669f-40d5-acd7-d661228088cc

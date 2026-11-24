@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLatticeCompare_selfDualLattices_iff
 -- name    : GlobalTheory.SelfDualLatticeCompare.selfDualLattices_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:54:01.998807+00:00
 -- url     : https://prove2.me/theorems/1fc4c0ad-9bac-407c-b3e3-1bd06d904622

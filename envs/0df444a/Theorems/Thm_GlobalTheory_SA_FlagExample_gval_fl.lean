@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_FlagExample_gval_fl
 -- name    : GlobalTheory.SA.FlagExample.gval_fl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:33:17.146266+00:00
 -- url     : https://prove2.me/theorems/61ab3b77-bfac-4b88-925e-5af5a6d2cec0

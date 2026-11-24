@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFreeDividedPowers_exists_factorial_mul_eq
 -- name    : GlobalTheory.TorsionFreeDividedPowers.exists_factorial_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:08:36.221231+00:00
 -- url     : https://prove2.me/theorems/eb4ad9d0-fa61-4204-8a48-eefbfd977a3d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_B_congr
 -- name    : GlobalTheory.SA.B_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:36:38.981721+00:00
 -- url     : https://prove2.me/theorems/d4a11b4b-47f5-45db-a972-770883c9ba7f

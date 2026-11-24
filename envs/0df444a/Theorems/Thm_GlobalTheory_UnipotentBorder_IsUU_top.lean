@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentBorder_IsUU_top
 -- name    : GlobalTheory.UnipotentBorder.IsUU.top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:25:22.824587+00:00
 -- url     : https://prove2.me/theorems/3e655f32-1f49-41a8-871d-76caac254bc6

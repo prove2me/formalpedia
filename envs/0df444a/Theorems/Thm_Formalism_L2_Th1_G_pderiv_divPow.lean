@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_pderiv_divPow
 -- name    : Formalism.L2.Th1.G.pderiv_divPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:45:51.363213+00:00
 -- url     : https://prove2.me/theorems/d3855073-baba-4665-ac51-9070f576b7ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_Calc_calculus
 -- name    : GlobalTheory.UTrans.Calc.calculus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:10:38.946251+00:00
 -- url     : https://prove2.me/theorems/17fc9aab-d6d8-4909-89b8-9fcd2ab9d6ab

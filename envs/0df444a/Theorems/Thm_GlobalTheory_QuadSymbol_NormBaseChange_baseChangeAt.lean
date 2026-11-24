@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormBaseChange_baseChangeAt
 -- name    : GlobalTheory.QuadSymbol.NormBaseChange.baseChangeAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:12:45.265307+00:00
 -- url     : https://prove2.me/theorems/1a4b64c1-8f3b-452b-a4c5-b514a949efce

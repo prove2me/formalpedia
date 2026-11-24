@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unramifiedStandardAddChar_conductor_properties
 -- name    : GlobalTheory.T.unramifiedStandardAddChar_conductor_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:05.652315+00:00
 -- url     : https://prove2.me/theorems/96a13d5c-ab84-4e56-810b-4bb9f82203c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallExtLift_app_eq_zero_of_mul
 -- name    : GlobalTheory.SmallExtLift.app_eq_zero_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:46:42.436994+00:00
 -- url     : https://prove2.me/theorems/dcd6292e-6a1b-46bd-a8e2-ce36055075fe

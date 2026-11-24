@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DvrModel_existsUnique_gen
 -- name    : GlobalTheory.DvrModel.existsUnique_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:59:28.889877+00:00
 -- url     : https://prove2.me/theorems/24397a73-302c-487e-a0d6-ff9023698836

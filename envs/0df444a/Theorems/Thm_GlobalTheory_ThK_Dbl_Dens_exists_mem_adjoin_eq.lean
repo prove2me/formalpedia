@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_Dens_exists_mem_adjoin_eq
 -- name    : GlobalTheory.ThK.Dbl.Dens.exists_mem_adjoin_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:03:36.148634+00:00
 -- url     : https://prove2.me/theorems/0f20e0db-9b1c-4a90-be96-aeb591f76faf

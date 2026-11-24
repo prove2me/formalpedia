@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_theta_qForm
 -- name    : GlobalTheory.Hk.theta_qForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:36:47.144241+00:00
 -- url     : https://prove2.me/theorems/0314b069-63d2-4934-9d9a-915f2135e372

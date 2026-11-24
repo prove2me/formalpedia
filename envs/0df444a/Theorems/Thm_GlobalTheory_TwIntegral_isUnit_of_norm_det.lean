@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwIntegral_isUnit_of_norm_det
 -- name    : GlobalTheory.TwIntegral.isUnit_of_norm_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:13:58.460647+00:00
 -- url     : https://prove2.me/theorems/8aec2860-74ab-4e64-8b12-17f56d9f424c

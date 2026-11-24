@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_val_isUnit
 -- name    : GlobalTheory.UnitLemma.Unr.val_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:37:46.077045+00:00
 -- url     : https://prove2.me/theorems/e97839e0-ee5d-4925-ba1d-a86d5a0b8b29

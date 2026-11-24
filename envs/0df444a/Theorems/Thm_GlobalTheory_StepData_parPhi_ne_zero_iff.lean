@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_parPhi_ne_zero_iff
 -- name    : GlobalTheory.StepData.parPhi_ne_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:49:58.832731+00:00
 -- url     : https://prove2.me/theorems/7d8dfa47-a4b7-4d72-a0fd-54f1613176ee

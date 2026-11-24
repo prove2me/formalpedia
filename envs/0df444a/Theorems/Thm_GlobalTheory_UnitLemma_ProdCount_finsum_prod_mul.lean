@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_ProdCount_finsum_prod_mul
 -- name    : GlobalTheory.UnitLemma.ProdCount.finsum_prod_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:28:43.848797+00:00
 -- url     : https://prove2.me/theorems/a7cd0745-ec97-4974-912c-59c71d3a7361

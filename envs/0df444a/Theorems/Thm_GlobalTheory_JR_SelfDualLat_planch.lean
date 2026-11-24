@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_SelfDualLat_planch
 -- name    : GlobalTheory.JR.SelfDualLat.planch
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:36:07.919574+00:00
 -- url     : https://prove2.me/theorems/68ba952f-6b72-4ad2-99c4-913462de77f1

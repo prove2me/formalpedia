@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzFstOp_hasFDerivAt_opFst
 -- name    : GlobalTheory.SchwartzFstOp.hasFDerivAt_opFst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:47:57.746903+00:00
 -- url     : https://prove2.me/theorems/9dcfe3a5-7705-498a-afd1-0393cf67673b

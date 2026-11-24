@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_Dens_density_of_q
 -- name    : GlobalTheory.CompanionTheory.SW.Core.Dens.density_of_q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:02:55.554457+00:00
 -- url     : https://prove2.me/theorems/fba7f97e-e507-4aec-abde-93bda4e716ad

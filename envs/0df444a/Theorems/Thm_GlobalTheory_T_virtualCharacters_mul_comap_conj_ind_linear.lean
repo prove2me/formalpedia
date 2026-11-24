@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_virtualCharacters_mul_comap_conj_ind_linear
 -- name    : GlobalTheory.T.virtualCharacters_mul_comap_conj_ind_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:02:13.568503+00:00
 -- url     : https://prove2.me/theorems/628e2bdb-794c-492f-b8d8-3e60d91076ba

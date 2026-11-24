@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_LatForm_exists_mem_primes
 -- name    : GlobalTheory.UnRep.LatForm.exists_mem_primes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:24:42.083609+00:00
 -- url     : https://prove2.me/theorems/0e1d8b2b-2646-46fb-92de-5b37e7b09aed

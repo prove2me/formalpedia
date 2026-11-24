@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimMult_exists_scalar
 -- name    : GlobalTheory.SimMult.exists_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:22.063485+00:00
 -- url     : https://prove2.me/theorems/4727eea9-3b36-4bb4-b630-b99d62b4451b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_KerInert_VC_den_mul_vv
 -- name    : Formalism.L2.KerInert.VC.den_mul_vv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:38:09.07974+00:00
 -- url     : https://prove2.me/theorems/4756c944-7987-48b0-8369-3e050d472a0c

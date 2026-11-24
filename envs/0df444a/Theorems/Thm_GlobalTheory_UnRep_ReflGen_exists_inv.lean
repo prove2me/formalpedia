@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_ReflGen_exists_inv
 -- name    : GlobalTheory.UnRep.ReflGen.exists_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:22:52.107334+00:00
 -- url     : https://prove2.me/theorems/ae5549e8-4c9b-4508-b7e7-9c37c508f62d

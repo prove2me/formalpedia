@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RamseyValues_ramsey_three_three
 -- name    : RamseyValues.ramsey_three_three
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-22T23:58:51.541565+00:00
 -- url     : https://prove2.me/theorems/86a27df0-9505-40e1-91a6-84e62fcb7e83

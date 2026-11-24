@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_prime_power_not_dvd_different
 -- name    : GlobalTheory.T.prime_power_not_dvd_different
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:54:39.086393+00:00
 -- url     : https://prove2.me/theorems/d26fdaee-69d5-4f68-af22-39c10aafc2dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_siegelReduced_integral_form_bounded_entries
 -- name    : GlobalTheory.T.siegelReduced_integral_form_bounded_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:57:41.845228+00:00
 -- url     : https://prove2.me/theorems/e208d85e-564f-407a-a619-399ef00f43df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_isPrimitive_psi
 -- name    : GlobalTheory.CuspGL.isPrimitive_psi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:33:10.392933+00:00
 -- url     : https://prove2.me/theorems/1771de67-81b7-493b-bec8-5393624d5e9c

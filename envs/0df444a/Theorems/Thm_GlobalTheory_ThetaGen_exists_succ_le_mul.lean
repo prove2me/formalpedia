@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGen_exists_succ_le_mul
 -- name    : GlobalTheory.ThetaGen.exists_succ_le_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:06:12.878197+00:00
 -- url     : https://prove2.me/theorems/d0cff94f-c879-4f42-a469-8b7df3979245

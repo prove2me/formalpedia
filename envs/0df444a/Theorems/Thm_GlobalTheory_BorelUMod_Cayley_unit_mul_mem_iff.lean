@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_Cayley_unit_mul_mem_iff
 -- name    : GlobalTheory.BorelUMod.Cayley.unit_mul_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:50:23.422187+00:00
 -- url     : https://prove2.me/theorems/09900866-f32f-4b93-be7d-c45221d02aea

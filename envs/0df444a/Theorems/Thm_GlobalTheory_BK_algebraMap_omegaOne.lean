@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_algebraMap_omegaOne
 -- name    : GlobalTheory.BK.algebraMap_omegaOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:39:10.008834+00:00
 -- url     : https://prove2.me/theorems/7781363e-2db8-4e3a-86c3-2fa984001a2b

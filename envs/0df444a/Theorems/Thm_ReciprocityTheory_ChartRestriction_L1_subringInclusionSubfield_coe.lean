@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_subringInclusionSubfield_coe
 -- name    : ReciprocityTheory.ChartRestriction.L1.subringInclusionSubfield_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:49:52.956118+00:00
 -- url     : https://prove2.me/theorems/67dc4cba-a743-4479-8d65-49890e80dc43

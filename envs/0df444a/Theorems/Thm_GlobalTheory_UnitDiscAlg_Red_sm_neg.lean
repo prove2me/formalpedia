@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDiscAlg_Red_sm_neg
 -- name    : GlobalTheory.UnitDiscAlg.Red.sm_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:38:17.16495+00:00
 -- url     : https://prove2.me/theorems/1015513f-2562-414a-8ad9-dfe56bfbcfd7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDiscAlg_mem_unitBallMaxIdeal
 -- name    : GlobalTheory.UnitDiscAlg.mem_unitBallMaxIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:37:35.837745+00:00
 -- url     : https://prove2.me/theorems/48e5bac7-ef9d-45c9-984d-189d1f5afe14

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoVarValRing_not_X_one_dvd_subst
 -- name    : GlobalTheory.TwoVarValRing.not_X_one_dvd_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:16:35.212362+00:00
 -- url     : https://prove2.me/theorems/8402d066-ab61-4093-9b54-286e1f9c4d10

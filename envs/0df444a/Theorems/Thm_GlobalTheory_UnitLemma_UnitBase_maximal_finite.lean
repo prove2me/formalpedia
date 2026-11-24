@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_UnitBase_maximal_finite
 -- name    : GlobalTheory.UnitLemma.UnitBase.maximal_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:34:28.223627+00:00
 -- url     : https://prove2.me/theorems/cefc4c4f-2a28-4bb7-8024-8ef85324c094

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isPrimitiveEndClassFunction_invariantSubspaceMobiusInverse
 -- name    : GlobalTheory.T.isPrimitiveEndClassFunction_invariantSubspaceMobiusInverse
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:08.467803+00:00
 -- url     : https://prove2.me/theorems/e24960b2-5632-4bcb-b2b8-a5065c102693

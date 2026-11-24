@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TransDecay_decay
 -- name    : GlobalTheory.TransDecay.decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:12:05.194165+00:00
 -- url     : https://prove2.me/theorems/edc19cc8-d33c-4dec-bb21-14721a63741b

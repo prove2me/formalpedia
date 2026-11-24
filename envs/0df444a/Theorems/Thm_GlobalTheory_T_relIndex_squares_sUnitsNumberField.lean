@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relIndex_squares_sUnitsNumberField
 -- name    : GlobalTheory.T.relIndex_squares_sUnitsNumberField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:56:16.228917+00:00
 -- url     : https://prove2.me/theorems/5ceeb1a7-4e2a-48ed-bbde-c5e883a89a2d

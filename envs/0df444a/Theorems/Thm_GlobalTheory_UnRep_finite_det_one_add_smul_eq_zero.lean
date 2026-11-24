@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_finite_det_one_add_smul_eq_zero
 -- name    : GlobalTheory.UnRep.finite_det_one_add_smul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:26:00.731796+00:00
 -- url     : https://prove2.me/theorems/0253c8d4-049c-4be6-83f8-b0f51e99b4d9

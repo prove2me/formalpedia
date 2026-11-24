@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_complementary_theta_of_linear_map
 -- name    : GlobalTheory.exists_complementary_theta_of_linear_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:36.257331+00:00
 -- url     : https://prove2.me/theorems/e6333eae-6290-4e8a-9080-640ced274a37

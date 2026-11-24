@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCoord_card_idx
 -- name    : GlobalTheory.TorusCoord.card_idx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:09:38.280956+00:00
 -- url     : https://prove2.me/theorems/a30d9d3f-7abc-41b5-ab71-4526350d6842

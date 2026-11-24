@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_hser_conj
 -- name    : GlobalTheory.HilbFam.hser_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:21:12.889802+00:00
 -- url     : https://prove2.me/theorems/5d602355-2597-48c8-af0e-bbb4ede26b33

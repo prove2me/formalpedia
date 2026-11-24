@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableHighGridExpectationTendstoZeroV1
 -- name    : Kyprianou.Ch03.stableHighGridExpectationTendstoZeroV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T18:24:14.567997+00:00
 -- url     : https://prove2.me/theorems/b41e9f49-2e80-4ff7-b697-4977eab087bf

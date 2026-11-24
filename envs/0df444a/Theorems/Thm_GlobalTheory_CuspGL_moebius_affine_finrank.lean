@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_moebius_affine_finrank
 -- name    : GlobalTheory.CuspGL.moebius_affine_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:33:17.014399+00:00
 -- url     : https://prove2.me/theorems/e23fcf26-5faf-4e36-84e9-47ca3e23bc1c

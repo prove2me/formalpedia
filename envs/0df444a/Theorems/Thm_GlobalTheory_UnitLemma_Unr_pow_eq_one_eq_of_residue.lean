@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_pow_eq_one_eq_of_residue
 -- name    : GlobalTheory.UnitLemma.Unr.pow_eq_one_eq_of_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:39:22.813945+00:00
 -- url     : https://prove2.me/theorems/e03292bb-3b4d-4a5b-a103-4886eec8b3f5

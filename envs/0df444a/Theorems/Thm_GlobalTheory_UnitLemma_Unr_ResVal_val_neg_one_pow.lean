@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_ResVal_val_neg_one_pow
 -- name    : GlobalTheory.UnitLemma.Unr.ResVal.val_neg_one_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:35:35.655207+00:00
 -- url     : https://prove2.me/theorems/a1faec9b-dc8c-4295-8aab-1c64cf5b5128

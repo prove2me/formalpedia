@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_val_pow_of_ne
 -- name    : GlobalTheory.UnitLemma.Unr.val_pow_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:39:01.646861+00:00
 -- url     : https://prove2.me/theorems/a9f48e5f-a7c7-4054-bdd2-05cc9b331453

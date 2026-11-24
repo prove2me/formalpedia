@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_inc_injective
 -- name    : GlobalTheory.UnRep.Compare.inc_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:23:26.881802+00:00
 -- url     : https://prove2.me/theorems/c282b335-92bc-4a0f-8b90-f72ea9ca6769

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_CoefPhi_cubN_mul
 -- name    : GlobalTheory.UT.CoefPhi.cubN_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:19:57.616912+00:00
 -- url     : https://prove2.me/theorems/54a11055-e384-49ae-a2b2-9ae6d81f45c7

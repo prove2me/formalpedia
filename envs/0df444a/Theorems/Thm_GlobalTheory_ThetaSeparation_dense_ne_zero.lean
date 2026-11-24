@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaSeparation_dense_ne_zero
 -- name    : GlobalTheory.ThetaSeparation.dense_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:51:14.023775+00:00
 -- url     : https://prove2.me/theorems/a0bf6b6d-79d2-4adc-b6e8-3f43fbbc1544

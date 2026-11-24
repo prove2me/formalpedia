@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnimodVol_volume_fundamentalDomain_stdRealBasis
 -- name    : GlobalTheory.UnimodVol.volume_fundamentalDomain_stdRealBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:29:43.817466+00:00
 -- url     : https://prove2.me/theorems/30384f40-eba7-460b-8bb7-96c270b1c6c3

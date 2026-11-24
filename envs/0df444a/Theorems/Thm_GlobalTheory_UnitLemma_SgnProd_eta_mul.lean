@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_SgnProd_eta_mul
 -- name    : GlobalTheory.UnitLemma.SgnProd.eta_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:34:28.992223+00:00
 -- url     : https://prove2.me/theorems/f35f4849-868c-4807-81c4-c6b4e78dc51b

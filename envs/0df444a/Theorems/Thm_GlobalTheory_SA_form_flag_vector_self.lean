@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_form_flag_vector_self
 -- name    : GlobalTheory.SA.form_flag_vector_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:37:40.589748+00:00
 -- url     : https://prove2.me/theorems/7664ee5b-0575-490c-ac4c-754671fd40ab

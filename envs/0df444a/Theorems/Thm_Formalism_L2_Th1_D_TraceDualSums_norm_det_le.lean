@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TraceDualSums_norm_det_le
 -- name    : Formalism.L2.Th1.D.TraceDualSums.norm_det_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:47:29.110965+00:00
 -- url     : https://prove2.me/theorems/a5afd24d-9ac5-4b9c-8b08-f7c9f0811929

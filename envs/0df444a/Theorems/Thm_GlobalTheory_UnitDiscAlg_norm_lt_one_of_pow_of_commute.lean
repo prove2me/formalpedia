@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDiscAlg_norm_lt_one_of_pow_of_commute
 -- name    : GlobalTheory.UnitDiscAlg.norm_lt_one_of_pow_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:28:45.230889+00:00
 -- url     : https://prove2.me/theorems/047e2a09-001e-4a5b-b156-485e93bc7ff9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_SatakeCompare_isSubquot_ps_iff
 -- name    : GlobalTheory.LGrp.SatakeCompare.isSubquot_ps_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:57:29.4078+00:00
 -- url     : https://prove2.me/theorems/1a5c4a72-191e-4d60-96d2-69342803ea61

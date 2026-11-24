@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_dX_eq_derivative
 -- name    : PI.AddIntG.Wk.dX_eq_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:48:55.42418+00:00
 -- url     : https://prove2.me/theorems/e836937e-9101-4fc1-8d8b-cfa15b938479

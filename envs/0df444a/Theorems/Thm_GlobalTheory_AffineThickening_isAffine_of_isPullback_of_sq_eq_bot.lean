@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineThickening_isAffine_of_isPullback_of_sq_eq_bot
 -- name    : GlobalTheory.AffineThickening.isAffine_of_isPullback_of_sq_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:57:26.868597+00:00
 -- url     : https://prove2.me/theorems/6b070d7f-18e4-499d-8919-5784d4ba662b

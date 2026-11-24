@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_ltLog_const
 -- name    : ReciprocityTheory.ChartRestriction.L1.ltLog_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:44:44.959875+00:00
 -- url     : https://prove2.me/theorems/95244fc7-61d1-4e4b-864d-fbdb9d4d3036

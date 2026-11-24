@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDifferential_isDiff_mul
 -- name    : GlobalTheory.UnifDifferential.isDiff_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:35:30.71305+00:00
 -- url     : https://prove2.me/theorems/7e7dbaa3-80e7-4aba-807b-4d896fbbdae5

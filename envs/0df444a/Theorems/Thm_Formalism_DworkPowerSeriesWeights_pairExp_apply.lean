@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_pairExp_apply
 -- name    : Formalism.DworkPowerSeriesWeights.pairExp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:41:55.374376+00:00
 -- url     : https://prove2.me/theorems/ab6592a3-7b8c-45c5-a9c6-94977dbdffe1

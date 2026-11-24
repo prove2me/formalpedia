@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_IsU_transpose_mul_mul_map
 -- name    : GlobalTheory.UTrans.IsU.transpose_mul_mul_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:21:51.244525+00:00
 -- url     : https://prove2.me/theorems/b09626f3-5aac-4095-90ec-996f838c8b48

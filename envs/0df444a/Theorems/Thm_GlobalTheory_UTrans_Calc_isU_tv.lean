@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_Calc_isU_tv
 -- name    : GlobalTheory.UTrans.Calc.isU_tv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:20:40.561642+00:00
 -- url     : https://prove2.me/theorems/336f16cb-a880-4d1b-b831-e5bc99fcea35

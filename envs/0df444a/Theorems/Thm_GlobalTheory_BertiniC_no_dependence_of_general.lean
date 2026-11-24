@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BertiniC_no_dependence_of_general
 -- name    : GlobalTheory.BertiniC.no_dependence_of_general
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:59:33.459911+00:00
 -- url     : https://prove2.me/theorems/b64628f7-2bfa-42c5-8182-4bca38a2d706

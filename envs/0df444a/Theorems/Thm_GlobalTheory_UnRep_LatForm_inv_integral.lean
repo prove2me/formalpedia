@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_LatForm_inv_integral
 -- name    : GlobalTheory.UnRep.LatForm.inv_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:25:20.045439+00:00
 -- url     : https://prove2.me/theorems/487eac0f-5991-42a1-a6d2-a82f3a94ff15

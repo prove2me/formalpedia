@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_charpoly_dvd_minpoly_of_separable
 -- name    : GlobalTheory.UnitLemma.charpoly_dvd_minpoly_of_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:38:00.827683+00:00
 -- url     : https://prove2.me/theorems/d32535fd-4c37-4416-8e90-286ae4fee81d

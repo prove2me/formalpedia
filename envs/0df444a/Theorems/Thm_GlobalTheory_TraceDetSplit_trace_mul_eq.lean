@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceDetSplit_trace_mul_eq
 -- name    : GlobalTheory.TraceDetSplit.trace_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:10:42.65218+00:00
 -- url     : https://prove2.me/theorems/19e4f9bf-38f6-492a-ae1a-8ea185a9e4c6

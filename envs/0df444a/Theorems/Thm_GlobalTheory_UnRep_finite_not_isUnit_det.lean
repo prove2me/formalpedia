@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_finite_not_isUnit_det
 -- name    : GlobalTheory.UnRep.finite_not_isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:24:03.192154+00:00
 -- url     : https://prove2.me/theorems/cdeb9578-a500-4a06-ba93-c479ab1b8aa4

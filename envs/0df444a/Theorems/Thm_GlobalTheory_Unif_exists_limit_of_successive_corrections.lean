@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Unif_exists_limit_of_successive_corrections
 -- name    : GlobalTheory.Unif.exists_limit_of_successive_corrections
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:24:13.177505+00:00
 -- url     : https://prove2.me/theorems/24f5090a-5561-4123-8ddc-fac40cfc2d6c

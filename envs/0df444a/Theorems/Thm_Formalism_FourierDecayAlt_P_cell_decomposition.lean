@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_cell_decomposition
 -- name    : Formalism.FourierDecayAlt.P.cell_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:38:22.861006+00:00
 -- url     : https://prove2.me/theorems/0441aed4-84a3-4367-bb50-4633c49be806

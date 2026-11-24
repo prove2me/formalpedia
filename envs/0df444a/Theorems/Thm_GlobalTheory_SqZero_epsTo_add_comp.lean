@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_epsTo_add_comp
 -- name    : GlobalTheory.SqZero.epsTo_add_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:05.340955+00:00
 -- url     : https://prove2.me/theorems/1677b7ee-75b0-427b-8afd-5dac05d2e110

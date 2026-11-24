@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldNormal_shear_eq
 -- name    : GlobalTheory.UnfoldNormal.shear_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:24:34.635144+00:00
 -- url     : https://prove2.me/theorems/f2f62385-d04d-4cee-80db-614ccdbe3840

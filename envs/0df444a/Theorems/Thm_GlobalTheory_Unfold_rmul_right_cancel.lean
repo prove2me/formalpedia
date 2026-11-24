@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Unfold_rmul_right_cancel
 -- name    : GlobalTheory.Unfold.rmul_right_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:24:46.027864+00:00
 -- url     : https://prove2.me/theorems/3eb56560-6b5b-47d7-9324-63ff20a79834

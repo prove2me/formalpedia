@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Unfold_measurableSet_Bor
 -- name    : GlobalTheory.Unfold.measurableSet_Bor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:25:14.012108+00:00
 -- url     : https://prove2.me/theorems/080d3a2e-6385-40ed-b02a-1ce9707a6b3e

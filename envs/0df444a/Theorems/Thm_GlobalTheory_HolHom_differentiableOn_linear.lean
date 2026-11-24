@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_differentiableOn_linear
 -- name    : GlobalTheory.HolHom.differentiableOn_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:36:09.653792+00:00
 -- url     : https://prove2.me/theorems/743481bd-0279-41c0-88a5-4ec18a31e5a0

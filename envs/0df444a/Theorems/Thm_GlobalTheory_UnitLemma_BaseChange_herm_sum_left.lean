@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_BaseChange_herm_sum_left
 -- name    : GlobalTheory.UnitLemma.BaseChange.herm_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:26:45.710205+00:00
 -- url     : https://prove2.me/theorems/3189a4a9-a26b-4a22-8219-409c283d99d3

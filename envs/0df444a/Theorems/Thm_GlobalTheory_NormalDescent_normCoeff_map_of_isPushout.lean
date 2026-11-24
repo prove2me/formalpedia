@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormalDescent_normCoeff_map_of_isPushout
 -- name    : GlobalTheory.NormalDescent.normCoeff_map_of_isPushout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:36:29.084309+00:00
 -- url     : https://prove2.me/theorems/9a885ab5-e826-4e9f-9e38-ad9de3269958

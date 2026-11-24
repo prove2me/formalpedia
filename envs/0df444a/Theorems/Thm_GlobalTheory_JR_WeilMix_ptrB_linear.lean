@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilMix_ptrB_linear
 -- name    : GlobalTheory.JR.WeilMix.ptrB_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:37:12.926743+00:00
 -- url     : https://prove2.me/theorems/d05fddc3-989d-4ad5-b1ac-e316759d7b4e

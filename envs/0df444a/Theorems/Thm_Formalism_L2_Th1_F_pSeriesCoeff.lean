@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_pSeriesCoeff
 -- name    : Formalism.L2.Th1.F.pSeriesCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:40:14.615608+00:00
 -- url     : https://prove2.me/theorems/66ffa231-7ab5-4e01-96f4-77d70995db1d

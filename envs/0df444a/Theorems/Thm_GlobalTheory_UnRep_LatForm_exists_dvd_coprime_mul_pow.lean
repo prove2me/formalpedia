@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_LatForm_exists_dvd_coprime_mul_pow
 -- name    : GlobalTheory.UnRep.LatForm.exists_dvd_coprime_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:23:27.642505+00:00
 -- url     : https://prove2.me/theorems/cfecfe3a-6c9e-4600-a33d-87d330fb37ff

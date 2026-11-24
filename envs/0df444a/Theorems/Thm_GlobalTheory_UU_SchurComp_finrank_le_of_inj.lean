@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_SchurComp_finrank_le_of_inj
 -- name    : GlobalTheory.UU.SchurComp.finrank_le_of_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:23:38.153607+00:00
 -- url     : https://prove2.me/theorems/03c1d58c-ca3b-4e3a-a4e3-a68a32d481f1

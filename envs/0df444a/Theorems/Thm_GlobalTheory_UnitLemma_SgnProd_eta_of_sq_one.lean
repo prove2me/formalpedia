@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_SgnProd_eta_of_sq_one
 -- name    : GlobalTheory.UnitLemma.SgnProd.eta_of_sq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:34:12.765948+00:00
 -- url     : https://prove2.me/theorems/70102ea5-9b8e-4057-a3d5-4332dac16a37

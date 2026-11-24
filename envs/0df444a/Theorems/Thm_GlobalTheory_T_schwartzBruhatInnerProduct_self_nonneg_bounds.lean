@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhatInnerProduct_self_nonneg_bounds
 -- name    : GlobalTheory.T.schwartzBruhatInnerProduct_self_nonneg_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:30:26.615563+00:00
 -- url     : https://prove2.me/theorems/97210b47-43e4-4c95-bfb4-b7514ca349a9

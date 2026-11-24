@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_normalBasis_val
 -- name    : GlobalTheory.StepData.normalBasis_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:49:44.211668+00:00
 -- url     : https://prove2.me/theorems/383dac46-cdc4-4319-b59e-071d0cd7cfd7

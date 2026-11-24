@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsIsometry_ker_and_onto
 -- name    : GlobalTheory.TorsIsometry.ker_and_onto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:09:06.916807+00:00
 -- url     : https://prove2.me/theorems/fbd6700f-23b2-4580-bb81-79b418575965

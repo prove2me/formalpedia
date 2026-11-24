@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCharMult_phase_dvd
 -- name    : GlobalTheory.ThetaCharMult.phase_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:04:31.663857+00:00
 -- url     : https://prove2.me/theorems/d26dbcd1-ea1b-4473-aae0-3da851cd4555

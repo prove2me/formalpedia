@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.exercise37PositiveStableLaplaceAndVariation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T13:12:55.242192+00:00
 -- url     : https://prove2.me/submissions/0a4e0770-984f-4b50-98bd-745eed48ff3a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

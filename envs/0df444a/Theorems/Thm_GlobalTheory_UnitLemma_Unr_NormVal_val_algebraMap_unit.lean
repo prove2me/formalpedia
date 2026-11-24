@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_NormVal_val_algebraMap_unit
 -- name    : GlobalTheory.UnitLemma.Unr.NormVal.val_algebraMap_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:35:41.118849+00:00
 -- url     : https://prove2.me/theorems/d7bea74c-b82a-4651-9ddc-e12b2e3ac924

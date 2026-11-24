@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopForm_forms_ext
 -- name    : GlobalTheory.TopForm.forms_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:03:42.304133+00:00
 -- url     : https://prove2.me/theorems/80d8761c-26e9-432d-b0a5-7e339d51b4e5

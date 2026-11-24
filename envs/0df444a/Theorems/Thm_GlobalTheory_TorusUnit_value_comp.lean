@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusUnit_value_comp
 -- name    : GlobalTheory.TorusUnit.value_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:06:17.025478+00:00
 -- url     : https://prove2.me/theorems/49467df2-83a8-4d65-8442-9ab2964d4e49

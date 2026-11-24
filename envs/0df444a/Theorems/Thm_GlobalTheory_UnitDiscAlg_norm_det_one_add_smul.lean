@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDiscAlg_norm_det_one_add_smul
 -- name    : GlobalTheory.UnitDiscAlg.norm_det_one_add_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:26:47.492376+00:00
 -- url     : https://prove2.me/theorems/2f2b2eba-1e4f-45fb-8fdb-8d7a3319123c

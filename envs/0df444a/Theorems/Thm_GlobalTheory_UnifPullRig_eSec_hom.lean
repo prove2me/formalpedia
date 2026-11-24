@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifPullRig_eSec_hom
 -- name    : GlobalTheory.UnifPullRig.eSec_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:24:41.431067+00:00
 -- url     : https://prove2.me/theorems/4c5acab5-9868-49e9-b46c-1edfeb6f9b6e

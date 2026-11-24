@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_Window_exists_of_dlt_ne_zero
 -- name    : GlobalTheory.UnitLemma.Desc.Window.exists_of_dlt_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:26:44.412511+00:00
 -- url     : https://prove2.me/theorems/84e2a4f7-0826-43b1-ac4e-bac577091d87

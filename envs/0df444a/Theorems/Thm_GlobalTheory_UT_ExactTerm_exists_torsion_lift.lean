@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_ExactTerm_exists_torsion_lift
 -- name    : GlobalTheory.UT.ExactTerm.exists_torsion_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:19:18.306936+00:00
 -- url     : https://prove2.me/theorems/835bf42e-9273-45f9-83bb-d8b3c599fdcc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusConst_val_unit_eq
 -- name    : GlobalTheory.TorusConst.val_unit_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:10:14.761709+00:00
 -- url     : https://prove2.me/theorems/a19d311d-d59b-4206-af7a-0f298b8bdb36

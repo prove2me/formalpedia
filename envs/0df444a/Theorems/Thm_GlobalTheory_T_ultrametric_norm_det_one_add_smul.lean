@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ultrametric_norm_det_one_add_smul
 -- name    : GlobalTheory.T.ultrametric_norm_det_one_add_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:35:50.621161+00:00
 -- url     : https://prove2.me/theorems/cb64d753-48aa-49d8-b396-6e139ec399e3

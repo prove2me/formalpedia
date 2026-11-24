@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimMult_exists_sim_trivial_of_mult
 -- name    : GlobalTheory.SimMult.exists_sim_trivial_of_mult
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:29.186817+00:00
 -- url     : https://prove2.me/theorems/8bf9f000-ab26-4ecf-b471-807386fa5393

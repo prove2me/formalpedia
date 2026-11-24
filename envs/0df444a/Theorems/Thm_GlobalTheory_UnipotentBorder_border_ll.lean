@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentBorder_border_ll
 -- name    : GlobalTheory.UnipotentBorder.border_ll
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:25:03.914814+00:00
 -- url     : https://prove2.me/theorems/29ff5d41-bbb2-4a74-9aa0-8c285f3d6fc0

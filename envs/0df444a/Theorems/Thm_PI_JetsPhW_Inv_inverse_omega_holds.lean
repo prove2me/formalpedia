@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Inv_inverse_omega_holds
 -- name    : PI.JetsPhW.Inv.inverse_omega_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:44:47.654312+00:00
 -- url     : https://prove2.me/theorems/e18e94ca-83ac-4cdd-97fe-ac4d9c262610

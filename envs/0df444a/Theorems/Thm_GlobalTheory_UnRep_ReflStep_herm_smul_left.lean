@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_ReflStep_herm_smul_left
 -- name    : GlobalTheory.UnRep.ReflStep.herm_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:23:07.6004+00:00
 -- url     : https://prove2.me/theorems/8e197387-ea51-4426-bf94-2594d6b69db2

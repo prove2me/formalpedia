@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentInvariant_leadMinor_rowAdd
 -- name    : GlobalTheory.UnipotentInvariant.leadMinor_rowAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:25:42.463797+00:00
 -- url     : https://prove2.me/theorems/6c72762f-438f-4007-9cba-918c69b99332

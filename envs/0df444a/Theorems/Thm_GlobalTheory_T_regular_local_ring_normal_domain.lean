@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_regular_local_ring_normal_domain
 -- name    : GlobalTheory.T.regular_local_ring_normal_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:56:37.35975+00:00
 -- url     : https://prove2.me/theorems/876cd7d0-3be5-4ed5-a9cb-c289619c988b

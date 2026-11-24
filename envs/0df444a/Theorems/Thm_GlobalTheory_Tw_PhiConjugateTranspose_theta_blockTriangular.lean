@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PhiConjugateTranspose_theta_blockTriangular
 -- name    : GlobalTheory.Tw.PhiConjugateTranspose.theta_blockTriangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:15:04.767184+00:00
 -- url     : https://prove2.me/theorems/d47d8191-98a6-4fd0-800d-14fa4a82b289

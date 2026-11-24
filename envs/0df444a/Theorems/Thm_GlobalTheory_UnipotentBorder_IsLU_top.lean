@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentBorder_IsLU_top
 -- name    : GlobalTheory.UnipotentBorder.IsLU.top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:25:05.436011+00:00
 -- url     : https://prove2.me/theorems/d844073d-43ab-490a-809a-8ec8e1efc41e

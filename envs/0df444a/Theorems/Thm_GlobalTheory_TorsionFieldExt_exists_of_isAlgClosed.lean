@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFieldExt_exists_of_isAlgClosed
 -- name    : GlobalTheory.TorsionFieldExt.exists_of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:11.110106+00:00
 -- url     : https://prove2.me/theorems/0ffd4531-0997-473d-9ccd-112888cc2480

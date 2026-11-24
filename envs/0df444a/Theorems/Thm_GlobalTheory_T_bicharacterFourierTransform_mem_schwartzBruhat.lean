@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_bicharacterFourierTransform_mem_schwartzBruhat
 -- name    : GlobalTheory.T.bicharacterFourierTransform_mem_schwartzBruhat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:36:50.804254+00:00
 -- url     : https://prove2.me/theorems/956afa24-b8e5-4b9c-a182-b602abee5b34

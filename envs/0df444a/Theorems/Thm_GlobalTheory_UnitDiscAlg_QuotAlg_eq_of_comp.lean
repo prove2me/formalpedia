@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDiscAlg_QuotAlg_eq_of_comp
 -- name    : GlobalTheory.UnitDiscAlg.QuotAlg.eq_of_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:25:46.871278+00:00
 -- url     : https://prove2.me/theorems/19f9c81d-64bf-4afd-91c6-d2e01431d03d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormalDescent_exists_normCoeff_not_mem
 -- name    : GlobalTheory.NormalDescent.exists_normCoeff_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:36:22.27901+00:00
 -- url     : https://prove2.me/theorems/85d21523-0376-4bdf-a241-c9215bce6007

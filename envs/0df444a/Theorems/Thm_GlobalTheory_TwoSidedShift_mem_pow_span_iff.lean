@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoSidedShift_mem_pow_span_iff
 -- name    : GlobalTheory.TwoSidedShift.mem_pow_span_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:16:43.174369+00:00
 -- url     : https://prove2.me/theorems/41cee169-5418-40c1-a2f3-329194a8f8c2

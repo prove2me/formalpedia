@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_dlt_empty
 -- name    : GlobalTheory.UnitLemma.Desc.dlt_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:27:37.302216+00:00
 -- url     : https://prove2.me/theorems/814a0464-bb83-47b1-9391-58378f529ad0

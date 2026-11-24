@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameDescent_isPullback_of_isPushout_app
 -- name    : GlobalTheory.TameDescent.isPullback_of_isPushout_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:03:23.142653+00:00
 -- url     : https://prove2.me/theorems/22194701-b88d-40dd-98fa-a69369189914

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_TypeDatum_iter_zero
 -- name    : GlobalTheory.StepData.TypeDatum.iter_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:49:08.511892+00:00
 -- url     : https://prove2.me/theorems/7cae3c81-3792-4d35-a5bf-c4463e2f2459

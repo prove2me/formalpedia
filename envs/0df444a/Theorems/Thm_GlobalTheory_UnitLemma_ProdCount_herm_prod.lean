@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_ProdCount_herm_prod
 -- name    : GlobalTheory.UnitLemma.ProdCount.herm_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:29:04.614885+00:00
 -- url     : https://prove2.me/theorems/1f6114c4-29f3-41cf-a1f8-8b77180a6f56

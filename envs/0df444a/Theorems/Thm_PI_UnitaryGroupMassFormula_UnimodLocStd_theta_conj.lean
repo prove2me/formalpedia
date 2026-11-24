@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_theta_conj
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.theta_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:44:41.841643+00:00
 -- url     : https://prove2.me/theorems/eed4537a-5a08-4fd8-a84c-063f012c1293

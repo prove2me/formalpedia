@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Bridge_locallyCompact_of_complete
 -- name    : GlobalTheory.UnitLemma.Bridge.locallyCompact_of_complete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:26:19.79483+00:00
 -- url     : https://prove2.me/theorems/0b8e8870-352e-4bd0-b395-4f3081a92ebe

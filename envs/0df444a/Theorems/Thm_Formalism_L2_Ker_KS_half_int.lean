@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Ker_KS_half_int
 -- name    : Formalism.L2.Ker.KS.half_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:23:45.91246+00:00
 -- url     : https://prove2.me/theorems/ee33ac6a-11e1-4803-b036-5b42f4b853de

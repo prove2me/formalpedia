@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PFlag_lieQ_triv
 -- name    : GlobalTheory.Tw.PFlag.lieQ_triv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:13:19.560278+00:00
 -- url     : https://prove2.me/theorems/5babe98a-66de-4c18-8c4b-c2cb412f0c39

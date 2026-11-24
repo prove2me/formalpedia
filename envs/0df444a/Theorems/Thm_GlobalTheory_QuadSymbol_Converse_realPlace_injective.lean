@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_Converse_realPlace_injective
 -- name    : GlobalTheory.QuadSymbol.Converse.realPlace_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:28:22.682039+00:00
 -- url     : https://prove2.me/theorems/e4247fcd-692f-47c9-b5a7-fcaf2e9f821d

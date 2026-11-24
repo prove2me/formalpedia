@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_Calc_conj_tv
 -- name    : GlobalTheory.UTrans.Calc.conj_tv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:20:02.967945+00:00
 -- url     : https://prove2.me/theorems/b830295d-dda3-4acc-9c07-587853341a9f

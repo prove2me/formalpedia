@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_norm_prime_lt_one_padicField
 -- name    : ReciprocityTheory.ChartRestriction.L1.norm_prime_lt_one_padicField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:49:17.876323+00:00
 -- url     : https://prove2.me/theorems/c4eff611-dfd2-412f-aebe-fd7c9d4b4da6

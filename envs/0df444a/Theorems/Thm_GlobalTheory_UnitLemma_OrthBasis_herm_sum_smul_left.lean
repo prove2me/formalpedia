@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_OrthBasis_herm_sum_smul_left
 -- name    : GlobalTheory.UnitLemma.OrthBasis.herm_sum_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:28:47.163854+00:00
 -- url     : https://prove2.me/theorems/e20144d0-2fd0-40a3-9590-98b5eeaa51cc

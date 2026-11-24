@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShiftedTheta_shifted_theta_bound
 -- name    : GlobalTheory.ShiftedTheta.shifted_theta_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:11:17.526683+00:00
 -- url     : https://prove2.me/theorems/10065d6a-8211-48e3-8e5c-60f9c3577f4c

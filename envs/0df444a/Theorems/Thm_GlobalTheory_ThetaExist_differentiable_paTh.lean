@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaExist_differentiable_paTh
 -- name    : GlobalTheory.ThetaExist.differentiable_paTh
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:06:49.885263+00:00
 -- url     : https://prove2.me/theorems/242adc2d-159a-492a-99c9-222125932498

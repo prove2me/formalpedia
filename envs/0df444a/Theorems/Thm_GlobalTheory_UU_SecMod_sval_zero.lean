@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_SecMod_sval_zero
 -- name    : GlobalTheory.UU.SecMod.sval_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:23:59.009798+00:00
 -- url     : https://prove2.me/theorems/9974a455-dd40-427f-b4c7-dba97b8977e2

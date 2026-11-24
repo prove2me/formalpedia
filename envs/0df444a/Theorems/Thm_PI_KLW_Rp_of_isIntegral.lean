@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Rp_of_isIntegral
 -- name    : PI.KLW.Rp_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:43:35.900166+00:00
 -- url     : https://prove2.me/theorems/78a1d7cd-a359-46cc-9477-d80cf2ea8fde

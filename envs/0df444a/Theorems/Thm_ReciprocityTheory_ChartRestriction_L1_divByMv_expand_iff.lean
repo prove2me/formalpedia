@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_divByMv_expand_iff
 -- name    : ReciprocityTheory.ChartRestriction.L1.divByMv_expand_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:42:01.890802+00:00
 -- url     : https://prove2.me/theorems/5fcb5640-b40b-4dc5-b1a0-9134b208a102

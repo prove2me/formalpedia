@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Move_mulLat_mem_Lin
 -- name    : GlobalTheory.UnitLemma.Move.mulLat_mem_Lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:27:35.283151+00:00
 -- url     : https://prove2.me/theorems/f4d11c1d-fbe7-4cff-b2a2-4a27602be139

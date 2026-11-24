@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_NormOne_hilbert90_matrix_subalgebra_norm_one
 -- name    : GlobalTheory.UnRep.NormOne.hilbert90_matrix_subalgebra_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:22:45.37481+00:00
 -- url     : https://prove2.me/theorems/a3cfa6c5-60dd-4d7b-982f-883af9e221d6

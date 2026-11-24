@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Unipotence_root_of_unity
 -- name    : GlobalTheory.Unipotence.root_of_unity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:25:38.606262+00:00
 -- url     : https://prove2.me/theorems/b79e2d70-2029-4f6f-9f4a-f3aa0982a41f

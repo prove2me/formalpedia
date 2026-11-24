@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Ind_add_smul_mem
 -- name    : PI.KLW.Ind.add_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:42:19.840848+00:00
 -- url     : https://prove2.me/theorems/c1e01f84-3907-4eae-80bf-e22bbf870a1b

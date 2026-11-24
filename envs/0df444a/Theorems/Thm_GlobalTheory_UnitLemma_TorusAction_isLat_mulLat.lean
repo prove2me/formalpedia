@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_TorusAction_isLat_mulLat
 -- name    : GlobalTheory.UnitLemma.TorusAction.isLat_mulLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:34:40.331533+00:00
 -- url     : https://prove2.me/theorems/430e4ab2-866a-4557-a50a-b3de73c2d6a7

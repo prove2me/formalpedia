@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbertRecip_finite_not_mem_nrm
 -- name    : GlobalTheory.HilbertRecip.finite_not_mem_nrm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:15:55.783054+00:00
 -- url     : https://prove2.me/theorems/dd531c81-5ad0-4f4c-b3ca-7c152b445263

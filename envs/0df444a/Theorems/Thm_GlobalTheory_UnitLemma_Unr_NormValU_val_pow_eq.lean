@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_NormValU_val_pow_eq
 -- name    : GlobalTheory.UnitLemma.Unr.NormValU.val_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:35:23.706774+00:00
 -- url     : https://prove2.me/theorems/a28350bf-a9a6-4ca8-bf78-2b4acad662c1

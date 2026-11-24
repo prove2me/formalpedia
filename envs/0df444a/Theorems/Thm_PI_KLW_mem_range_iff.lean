@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_mem_range_iff
 -- name    : PI.KLW.mem_range_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:43:23.795652+00:00
 -- url     : https://prove2.me/theorems/5798f153-38b5-40ab-9ad4-de326c2731af

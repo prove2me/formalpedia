@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorSiegel_im_realForm_period
 -- name    : GlobalTheory.TensorSiegel.im_realForm_period
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:05:16.894424+00:00
 -- url     : https://prove2.me/theorems/07ed4b25-3a7a-4f67-8883-700511f8e0c1

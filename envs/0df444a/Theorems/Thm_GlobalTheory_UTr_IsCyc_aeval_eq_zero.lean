@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTr_IsCyc_aeval_eq_zero
 -- name    : GlobalTheory.UTr.IsCyc.aeval_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:19:24.316571+00:00
 -- url     : https://prove2.me/theorems/9d148195-26fc-479c-98b2-597b16b82421

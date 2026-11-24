@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitFrames_inv_uMat_diag
 -- name    : GlobalTheory.UnitFrames.inv_uMat_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:27:35.10323+00:00
 -- url     : https://prove2.me/theorems/326048d0-e93b-4054-aae2-93270685562b

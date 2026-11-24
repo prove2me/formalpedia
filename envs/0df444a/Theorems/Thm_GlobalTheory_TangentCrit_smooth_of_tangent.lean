@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentCrit_smooth_of_tangent
 -- name    : GlobalTheory.TangentCrit.smooth_of_tangent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:02:05.724532+00:00
 -- url     : https://prove2.me/theorems/e241140a-5b60-49b0-9fa8-f2568a31c7b6

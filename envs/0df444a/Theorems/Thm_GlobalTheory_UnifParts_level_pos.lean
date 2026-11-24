@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifParts_level_pos
 -- name    : GlobalTheory.UnifParts.level_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:24:23.866427+00:00
 -- url     : https://prove2.me/theorems/f3a6fd74-8bbc-43bd-8223-8cc54874506a

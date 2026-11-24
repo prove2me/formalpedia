@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PhiConjugateTranspose_theta_one
 -- name    : GlobalTheory.Tw.PhiConjugateTranspose.theta_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:13:17.796907+00:00
 -- url     : https://prove2.me/theorems/f28bf99e-edd1-462a-be2a-9cda4d74aaaa

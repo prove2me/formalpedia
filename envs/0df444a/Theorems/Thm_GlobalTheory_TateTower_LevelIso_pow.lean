@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateTower_LevelIso_pow
 -- name    : GlobalTheory.TateTower.LevelIso.pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:02:48.8858+00:00
 -- url     : https://prove2.me/theorems/8395836c-66d3-4f18-81c8-b289409961ce

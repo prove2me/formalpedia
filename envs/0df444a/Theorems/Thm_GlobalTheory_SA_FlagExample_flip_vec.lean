@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_FlagExample_flip_vec
 -- name    : GlobalTheory.SA.FlagExample.flip_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:36:50.809912+00:00
 -- url     : https://prove2.me/theorems/a4c9cb93-c650-4939-85ab-a151907b001c

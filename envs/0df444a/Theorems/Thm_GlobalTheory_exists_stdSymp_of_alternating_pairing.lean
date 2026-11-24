@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_stdSymp_of_alternating_pairing
 -- name    : GlobalTheory.exists_stdSymp_of_alternating_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:26:49.133846+00:00
 -- url     : https://prove2.me/theorems/ba074bd7-2b9b-4f76-8ee0-f3b9a7cc968c

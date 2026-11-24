@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_comap_cj_comap
 -- name    : PI.SqPairLocal.comap_cj_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:31:34.878297+00:00
 -- url     : https://prove2.me/theorems/10145d2c-4a9f-4224-9fe8-0bec23ab54e1

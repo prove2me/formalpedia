@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dilation_jacobian_unipotent
 -- name    : Formalism.FourierDecayAlt.P.dilation_jacobian_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:39:20.615786+00:00
 -- url     : https://prove2.me/theorems/cb20237e-3fd0-4254-9369-ce5e538f801b

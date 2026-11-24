@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFreeDividedPowers_exists_dividedPowers
 -- name    : GlobalTheory.TorsionFreeDividedPowers.exists_dividedPowers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:08:42.858819+00:00
 -- url     : https://prove2.me/theorems/de3f8174-0815-4c2f-b60b-82d1ff83bdf2

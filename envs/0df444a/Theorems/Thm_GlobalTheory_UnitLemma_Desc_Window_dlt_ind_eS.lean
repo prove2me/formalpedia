@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_Window_dlt_ind_eS
 -- name    : GlobalTheory.UnitLemma.Desc.Window.dlt_ind_eS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:26:14.432883+00:00
 -- url     : https://prove2.me/theorems/9c289039-6d3e-4d4c-a06c-8c39a2d654f9

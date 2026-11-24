@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceIso_nonempty_linear_equiv_of_charpoly_eq
 -- name    : GlobalTheory.TraceIso.nonempty_linear_equiv_of_charpoly_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:11:02.247464+00:00
 -- url     : https://prove2.me/theorems/99f759a2-f48e-420c-8dc7-0077799cdefe

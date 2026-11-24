@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnimodOver_imForm_nondegenerate
 -- name    : GlobalTheory.UnimodOver.imForm_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:25:19.920631+00:00
 -- url     : https://prove2.me/theorems/1ed350bb-da43-40c2-a137-03cdfe1f676b

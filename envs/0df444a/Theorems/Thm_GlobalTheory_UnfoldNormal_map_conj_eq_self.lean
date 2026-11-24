@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldNormal_map_conj_eq_self
 -- name    : GlobalTheory.UnfoldNormal.map_conj_eq_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:24:34.217799+00:00
 -- url     : https://prove2.me/theorems/7338d4b7-cc02-4619-8eea-07f2c2c2dbb3

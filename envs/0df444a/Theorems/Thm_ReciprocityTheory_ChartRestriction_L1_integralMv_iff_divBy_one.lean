@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_integralMv_iff_divBy_one
 -- name    : ReciprocityTheory.ChartRestriction.L1.integralMv_iff_divBy_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:43:16.482144+00:00
 -- url     : https://prove2.me/theorems/eaa57fb2-5979-4471-a980-f5efaa21842a

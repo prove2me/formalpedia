@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_Window_zpow_smul_eq
 -- name    : GlobalTheory.UnitLemma.Desc.Window.zpow_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:29:30.175362+00:00
 -- url     : https://prove2.me/theorems/ad143d44-bc8a-4f08-82cf-64b0a166b110

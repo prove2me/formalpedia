@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_summable_exp_neg_trace_totallyPositive_hermitian
 -- name    : GlobalTheory.T.summable_exp_neg_trace_totallyPositive_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:58:45.012683+00:00
 -- url     : https://prove2.me/theorems/93dfe53f-c2c1-4cc0-9e05-6fce254e91cb

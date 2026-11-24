@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianMatrixColumnPairing_diagonal_norm
 -- name    : GlobalTheory.T.hermitianMatrixColumnPairing_diagonal_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:36:12.337689+00:00
 -- url     : https://prove2.me/theorems/3dd90698-6627-46e9-a73e-858b7ad35c99

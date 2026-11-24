@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnimodVol_im_hermForm
 -- name    : GlobalTheory.UnimodVol.im_hermForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:25:45.194012+00:00
 -- url     : https://prove2.me/theorems/d99f6504-f59e-4c4a-b630-4931b1656829

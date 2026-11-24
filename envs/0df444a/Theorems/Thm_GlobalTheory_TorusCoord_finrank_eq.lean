@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCoord_finrank_eq
 -- name    : GlobalTheory.TorusCoord.finrank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:10:16.628907+00:00
 -- url     : https://prove2.me/theorems/9d0fbafe-ea6b-4275-8e4d-fcd34931c391

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_B_ParE_integral_add__f399c0a1f89a
 -- name    : P2M_Formalism_L2_Th1_B_ParE_integral_add__f399c0a1f89a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:49:53.010182+00:00
 -- url     : https://prove2.me/theorems/6c63d60f-cc59-4bc6-9620-88994bf444cd

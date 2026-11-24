@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PhiConjugateTranspose_conj_inv
 -- name    : GlobalTheory.Tw.PhiConjugateTranspose.conj_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:13:25.165909+00:00
 -- url     : https://prove2.me/theorems/b000a961-ba9f-48af-b2d2-bcd8da76b7ff

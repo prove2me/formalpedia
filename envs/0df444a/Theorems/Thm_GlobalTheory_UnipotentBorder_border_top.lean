@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentBorder_border_top
 -- name    : GlobalTheory.UnipotentBorder.border_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:25:29.653116+00:00
 -- url     : https://prove2.me/theorems/bb671b84-b7c5-4935-819f-6f066f8d4dc6

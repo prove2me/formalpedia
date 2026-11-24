@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Exchange_exchange_isPos
 -- name    : GlobalTheory.RootEx.Exchange.exchange_isPos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:17.738571+00:00
 -- url     : https://prove2.me/theorems/c771f3e0-eaff-4765-8925-0575e96c7792

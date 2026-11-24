@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_exists_gen_of_valuation_eq
 -- name    : GlobalTheory.UnitLemma.Unr.exists_gen_of_valuation_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:35:36.842165+00:00
 -- url     : https://prove2.me/theorems/144e87f9-1732-4610-9772-7dcfa127deca

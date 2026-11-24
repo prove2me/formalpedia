@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_torsion_points_field_extension
 -- name    : GlobalTheory.torsion_points_field_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:56.17529+00:00
 -- url     : https://prove2.me/theorems/6fc4aa4c-ebd6-48c7-a7d5-0d1befd0a783

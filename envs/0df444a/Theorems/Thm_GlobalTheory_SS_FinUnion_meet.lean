@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FinUnion_meet
 -- name    : GlobalTheory.SS.FinUnion.meet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:51:27.68042+00:00
 -- url     : https://prove2.me/theorems/a05ca70d-2f9e-4580-b5b5-5709df05d73a

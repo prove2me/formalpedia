@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Correct_congAt_conj
 -- name    : GlobalTheory.UnRep.Correct.congAt_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:24:41.900564+00:00
 -- url     : https://prove2.me/theorems/1d8c2dac-e7bc-4204-98c7-c54c2dd44c98

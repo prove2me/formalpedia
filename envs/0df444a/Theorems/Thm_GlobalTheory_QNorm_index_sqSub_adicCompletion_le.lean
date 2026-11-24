@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_index_sqSub_adicCompletion_le
 -- name    : GlobalTheory.QNorm.index_sqSub_adicCompletion_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:02:45.840023+00:00
 -- url     : https://prove2.me/theorems/4599a8d5-d787-40c7-a6e9-1dc5e55cf4e7

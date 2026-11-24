@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGroupFrame_top_le_wchart_two
 -- name    : GlobalTheory.ThetaGroupFrame.top_le_wchart_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:02:17.67927+00:00
 -- url     : https://prove2.me/theorems/c418624f-46e3-40e5-b9a3-072dfa365df8

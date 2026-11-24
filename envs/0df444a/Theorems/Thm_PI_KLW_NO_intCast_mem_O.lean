@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_NO_intCast_mem_O
 -- name    : PI.KLW.NO.intCast_mem_O
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:44:13.33315+00:00
 -- url     : https://prove2.me/theorems/2eb7dd56-8713-4276-8175-6d2d6271a5c2

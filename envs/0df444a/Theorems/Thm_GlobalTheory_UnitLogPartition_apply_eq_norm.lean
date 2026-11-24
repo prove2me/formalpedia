@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLogPartition_apply_eq_norm
 -- name    : GlobalTheory.UnitLogPartition.apply_eq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:38:18.011874+00:00
 -- url     : https://prove2.me/theorems/3a4ba7e1-0d4d-4041-af58-c6e7b03ccaa2

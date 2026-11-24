@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceFormNondegenerate_span_eq_top_of_trace_eq
 -- name    : GlobalTheory.TraceFormNondegenerate.span_eq_top_of_trace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:59:43.296796+00:00
 -- url     : https://prove2.me/theorems/de65804f-9610-49cd-8c92-545fabbebec9

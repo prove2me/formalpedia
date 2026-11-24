@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PeriodAreaSignLemmas_altE_coord
 -- name    : Formalism.L2.Th1.F.PeriodAreaSignLemmas.altE_coord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:43:07.203596+00:00
 -- url     : https://prove2.me/theorems/3a8b380b-15d0-4503-a46d-383d3ef89139

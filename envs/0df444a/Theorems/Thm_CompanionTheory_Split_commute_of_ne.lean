@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Split_commute_of_ne
 -- name    : CompanionTheory.Split.commute_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:48:22.959594+00:00
 -- url     : https://prove2.me/theorems/2e543404-35e8-4c42-989e-27e69ffa375c

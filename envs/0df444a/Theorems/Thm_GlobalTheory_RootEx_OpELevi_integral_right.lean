@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_OpELevi_integral_right
 -- name    : GlobalTheory.RootEx.OpELevi.integral_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:25:31.215804+00:00
 -- url     : https://prove2.me/theorems/05a8e5a0-cb6c-4ab8-8a26-9e83bc9fc4b6

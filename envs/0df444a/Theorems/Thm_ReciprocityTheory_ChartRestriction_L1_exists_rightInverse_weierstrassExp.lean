@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_exists_rightInverse_weierstrassExp
 -- name    : ReciprocityTheory.ChartRestriction.L1.exists_rightInverse_weierstrassExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:44:45.553025+00:00
 -- url     : https://prove2.me/theorems/29fad296-2228-4d46-b39f-3ecaa5817d54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PFlag_summand_le_perp
 -- name    : GlobalTheory.Tw.PFlag.summand_le_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:13:06.913992+00:00
 -- url     : https://prove2.me/theorems/5a2f808f-6749-4ac7-85a1-e2a451a92e34

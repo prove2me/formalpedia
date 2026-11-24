@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianMatrixColumnPairing_algebraic_properties
 -- name    : GlobalTheory.T.hermitianMatrixColumnPairing_algebraic_properties
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:34:52.446564+00:00
 -- url     : https://prove2.me/theorems/9318a52a-d29a-43fb-85c8-53d456fdb554

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_index_unitsSquareUnderRingHom_adicCompletion_le
 -- name    : GlobalTheory.T.index_unitsSquareUnderRingHom_adicCompletion_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:46:31.20974+00:00
 -- url     : https://prove2.me/theorems/48629198-2857-421f-8bf2-6ffb98ff56e0

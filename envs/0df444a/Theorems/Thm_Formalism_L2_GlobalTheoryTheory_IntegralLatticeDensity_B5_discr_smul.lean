@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_B5_discr_smul
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.B5.discr_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:44:12.220201+00:00
 -- url     : https://prove2.me/theorems/da5e1609-1536-4cfc-933f-ee3134c40d0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickStalkEq_fromSpecStalk_comp_eq
 -- name    : GlobalTheory.ThickStalkEq.fromSpecStalk_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:07:56.208917+00:00
 -- url     : https://prove2.me/theorems/eddad9b2-a4d5-475d-9adf-757c2ec5b829

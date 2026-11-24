@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_noetherian_model_of_smooth
 -- name    : GlobalTheory.exists_noetherian_model_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:25:18.006639+00:00
 -- url     : https://prove2.me/theorems/02125a16-af67-4d2b-9319-f704e4dbef7e

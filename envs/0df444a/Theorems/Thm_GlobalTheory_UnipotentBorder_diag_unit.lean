@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentBorder_diag_unit
 -- name    : GlobalTheory.UnipotentBorder.diag_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:25:21.183954+00:00
 -- url     : https://prove2.me/theorems/d09d28f5-d380-41bd-a785-e5095dd12470

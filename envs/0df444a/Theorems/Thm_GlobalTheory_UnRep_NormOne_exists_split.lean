@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_NormOne_exists_split
 -- name    : GlobalTheory.UnRep.NormOne.exists_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:23:14.121666+00:00
 -- url     : https://prove2.me/theorems/87aa3b8c-cbe9-4903-b2df-ad81160a1242

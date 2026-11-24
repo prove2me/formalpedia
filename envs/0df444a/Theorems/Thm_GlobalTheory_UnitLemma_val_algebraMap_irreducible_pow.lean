@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_val_algebraMap_irreducible_pow
 -- name    : GlobalTheory.UnitLemma.val_algebraMap_irreducible_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:38:01.287097+00:00
 -- url     : https://prove2.me/theorems/8d9bdea2-4e0d-40d4-a418-2947d8d4c8f7

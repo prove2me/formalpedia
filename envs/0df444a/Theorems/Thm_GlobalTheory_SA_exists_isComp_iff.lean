@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_exists_isComp_iff
 -- name    : GlobalTheory.SA.exists_isComp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:38:21.986397+00:00
 -- url     : https://prove2.me/theorems/b60a8b31-89b4-4b92-8ac2-a47be16fc481

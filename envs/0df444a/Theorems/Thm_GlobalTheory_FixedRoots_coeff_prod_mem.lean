@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FixedRoots_coeff_prod_mem
 -- name    : GlobalTheory.FixedRoots.coeff_prod_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:31:35.454477+00:00
 -- url     : https://prove2.me/theorems/786cd2e5-f61e-46f2-9707-e7d330c9bfc1

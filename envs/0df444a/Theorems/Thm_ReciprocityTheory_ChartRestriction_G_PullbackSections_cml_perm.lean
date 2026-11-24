@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_cml_perm
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.cml_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:44:27.332823+00:00
 -- url     : https://prove2.me/theorems/ce366297-b807-4faa-98b6-026449c117ec

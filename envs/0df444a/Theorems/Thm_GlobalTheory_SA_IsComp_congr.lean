@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_IsComp_congr
 -- name    : GlobalTheory.SA.IsComp.congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:34:53.911803+00:00
 -- url     : https://prove2.me/theorems/468d28d3-5c61-44a6-8a95-4a1c2a2f8792

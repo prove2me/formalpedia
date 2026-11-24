@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_stdOrd_f
 -- name    : GlobalTheory.StepData.stdOrd_f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:49:11.928182+00:00
 -- url     : https://prove2.me/theorems/7c8e1639-b3e8-4755-b150-c4565781c9b7

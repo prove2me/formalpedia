@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_exists_fieldIdem_family
 -- name    : GlobalTheory.UnitLemma.Desc.exists_fieldIdem_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:27:54.465929+00:00
 -- url     : https://prove2.me/theorems/0017f20b-2237-4106-a4c0-f9fc9ab82b49

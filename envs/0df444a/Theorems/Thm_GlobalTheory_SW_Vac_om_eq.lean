@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Vac_om_eq
 -- name    : GlobalTheory.SW.Vac.om_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:42:17.061299+00:00
 -- url     : https://prove2.me/theorems/437a1a17-dbe1-4462-b786-b031205eabd0

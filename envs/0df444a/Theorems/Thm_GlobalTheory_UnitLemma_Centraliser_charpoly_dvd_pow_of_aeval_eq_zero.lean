@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Centraliser_charpoly_dvd_pow_of_aeval_eq_zero
 -- name    : GlobalTheory.UnitLemma.Centraliser.charpoly_dvd_pow_of_aeval_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:26:14.444272+00:00
 -- url     : https://prove2.me/theorems/70837e3e-b320-49e9-b39d-e9bbf6777236

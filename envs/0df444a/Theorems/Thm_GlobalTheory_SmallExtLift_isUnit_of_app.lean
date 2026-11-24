@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallExtLift_isUnit_of_app
 -- name    : GlobalTheory.SmallExtLift.isUnit_of_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:15:15.48226+00:00
 -- url     : https://prove2.me/theorems/609632a1-a80e-4f51-b183-0eb772142ab2

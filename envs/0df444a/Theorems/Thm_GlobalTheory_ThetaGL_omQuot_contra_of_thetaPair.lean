@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGL_omQuot_contra_of_thetaPair
 -- name    : GlobalTheory.ThetaGL.omQuot_contra_of_thetaPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:06:30.565829+00:00
 -- url     : https://prove2.me/theorems/2b4680d3-45ca-4a83-8a90-16711b75dc4f

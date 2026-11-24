@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Qi27_norm_ringA_le
 -- name    : UpperTheory.Reformulated.B.Qi27.norm_ringA_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:42:30.073464+00:00
 -- url     : https://prove2.me/theorems/3f984587-0df6-4a00-b7fb-d1e50a0eaf43

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDiscAlg_Red_sm_mul_right
 -- name    : GlobalTheory.UnitDiscAlg.Red.sm_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:28:33.263471+00:00
 -- url     : https://prove2.me/theorems/69bd32b2-6884-482d-bc90-546c2fb52db5

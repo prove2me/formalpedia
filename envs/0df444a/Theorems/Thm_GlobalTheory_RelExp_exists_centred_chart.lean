@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelExp_exists_centred_chart
 -- name    : GlobalTheory.RelExp.exists_centred_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:21:16.998942+00:00
 -- url     : https://prove2.me/theorems/03c6835b-95c9-44bb-a72e-82488a2c1e32

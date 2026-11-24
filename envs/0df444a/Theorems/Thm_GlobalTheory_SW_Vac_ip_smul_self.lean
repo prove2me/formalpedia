@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Vac_ip_smul_self
 -- name    : GlobalTheory.SW.Vac.ip_smul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:45:46.865484+00:00
 -- url     : https://prove2.me/theorems/aa58466d-2f7e-48a9-9d97-823a495c9a91

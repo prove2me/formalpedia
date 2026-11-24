@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_herm_Hpk_bvec_eq_star_mul_diag_of_middle
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.herm_Hpk_bvec_eq_star_mul_diag_of_middle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:19:49.622025+00:00
 -- url     : https://prove2.me/theorems/e4a0dd21-1828-43b3-8317-70492db6cd0d

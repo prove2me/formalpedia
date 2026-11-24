@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceExpSmul_trace_R_mul_pow_eq_zero
 -- name    : GlobalTheory.TraceExpSmul.trace_R_mul_pow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:10:51.256581+00:00
 -- url     : https://prove2.me/theorems/6f7e9354-0268-42a8-bb5d-b4c0cfa592c8

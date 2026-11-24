@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_Dual_deg_pos
 -- name    : GlobalTheory.UnitLemma.Unr.Dual.deg_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:34:54.618992+00:00
 -- url     : https://prove2.me/theorems/6d33c74a-e621-4e49-b3b8-d1b5695cb314

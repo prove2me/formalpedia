@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Vac_exists_ex_of_pow
 -- name    : GlobalTheory.SW.Vac.exists_ex_of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:45:49.530133+00:00
 -- url     : https://prove2.me/theorems/2cb923d6-6f98-420a-8d4c-b91fe250ffb7

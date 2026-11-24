@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Ker_KS_cmL_swap
 -- name    : Formalism.L2.Ker.KS.cmL_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:22:47.882115+00:00
 -- url     : https://prove2.me/theorems/e00d1d85-ac8d-4da0-9665-c867a45439f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Exchange_integral_embX
 -- name    : GlobalTheory.RootEx.Exchange.integral_embX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:23:55.023888+00:00
 -- url     : https://prove2.me/theorems/8c197410-977b-4dcb-9a42-34e321c916de

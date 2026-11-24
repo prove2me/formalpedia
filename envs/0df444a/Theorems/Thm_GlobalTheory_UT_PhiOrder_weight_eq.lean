@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_PhiOrder_weight_eq
 -- name    : GlobalTheory.UT.PhiOrder.weight_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:20:34.649635+00:00
 -- url     : https://prove2.me/theorems/ac953824-9b30-4cd6-91b8-e3f3c431cd9f

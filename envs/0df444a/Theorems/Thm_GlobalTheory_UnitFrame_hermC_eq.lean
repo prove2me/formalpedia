@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitFrame_hermC_eq
 -- name    : GlobalTheory.UnitFrame.hermC_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:26:41.4557+00:00
 -- url     : https://prove2.me/theorems/a2d4fb82-d470-486e-ada8-06037b381d84

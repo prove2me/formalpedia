@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_isPairMap_of_aut
 -- name    : GlobalTheory.SA.isPairMap_of_aut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:34:24.338881+00:00
 -- url     : https://prove2.me/theorems/16d3ad5f-ebbb-4b27-bc32-7907b7f2893f

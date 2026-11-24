@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitFrame_hermC_mulVec
 -- name    : GlobalTheory.UnitFrame.hermC_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:35:08.944119+00:00
 -- url     : https://prove2.me/theorems/f0e445f9-5a30-4b8c-804d-6830c2e487eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_real_flow_adelic_units
 -- name    : GlobalTheory.T.exists_real_flow_adelic_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:22:05.705189+00:00
 -- url     : https://prove2.me/theorems/6d478bb0-d905-46a3-93d0-10ac36da0f6b

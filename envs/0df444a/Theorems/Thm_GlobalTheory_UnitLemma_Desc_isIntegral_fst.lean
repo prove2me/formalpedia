@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_isIntegral_fst
 -- name    : GlobalTheory.UnitLemma.Desc.isIntegral_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:27:31.068126+00:00
 -- url     : https://prove2.me/theorems/1525baf0-1aa1-4289-a22d-947153e51021

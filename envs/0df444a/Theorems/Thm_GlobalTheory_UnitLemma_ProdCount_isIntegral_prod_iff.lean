@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_ProdCount_isIntegral_prod_iff
 -- name    : GlobalTheory.UnitLemma.ProdCount.isIntegral_prod_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:28:41.528055+00:00
 -- url     : https://prove2.me/theorems/1f9acd5d-6514-41b5-aeb9-45773f35bbaa

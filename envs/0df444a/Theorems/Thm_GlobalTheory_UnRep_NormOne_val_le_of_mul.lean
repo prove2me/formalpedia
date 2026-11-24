@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_NormOne_val_le_of_mul
 -- name    : GlobalTheory.UnRep.NormOne.val_le_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:17:39.554645+00:00
 -- url     : https://prove2.me/theorems/b63eae27-e2c2-4b0d-9ec9-a416843c27f9

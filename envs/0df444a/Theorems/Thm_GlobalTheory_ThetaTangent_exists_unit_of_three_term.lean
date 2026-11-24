@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaTangent_exists_unit_of_three_term
 -- name    : GlobalTheory.ThetaTangent.exists_unit_of_three_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:07:29.573351+00:00
 -- url     : https://prove2.me/theorems/10f64665-282b-4e8c-afc6-4f5356a5b28b

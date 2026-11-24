@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusUnit_coeff_diag
 -- name    : GlobalTheory.TorusUnit.coeff_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:11:34.524953+00:00
 -- url     : https://prove2.me/theorems/b32b0c4b-9480-4308-ac58-1f20dc432754

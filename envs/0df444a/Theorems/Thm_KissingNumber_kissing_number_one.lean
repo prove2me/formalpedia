@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KissingNumber_kissing_number_one
 -- name    : KissingNumber.kissing_number_one
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-21T21:56:37.136286+00:00
 -- url     : https://prove2.me/theorems/0de21f59-0047-41a3-a8e2-33d1eac68abe

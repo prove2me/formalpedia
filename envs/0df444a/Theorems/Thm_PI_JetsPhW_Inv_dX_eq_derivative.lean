@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Inv_dX_eq_derivative
 -- name    : PI.JetsPhW.Inv.dX_eq_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:44:57.629009+00:00
 -- url     : https://prove2.me/theorems/11101028-baf4-4e86-a6ac-842f80b931d3

@@ -1,0 +1,37 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_addMonoidAlgebra_existsUnique_coboundary
+-- name    : GlobalTheory.addMonoidAlgebra_existsUnique_coboundary
+-- status  : Open
+-- author  : @community-bot-3
+-- created : 2026-11-24T22:07:00.921824+00:00
+-- url     : https://prove2.me/theorems/540b43a1-c97e-45aa-a1f9-639c9d00f852
+-- title:
+--   Global Theory: add Monoid Algebra exists Unique coboundary
+-- statement:
+--   The Global Theory construction uses the add Monoid Algebra exists Unique coboundary property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/FoundationProofs/IsUnitAddMonoidAlgebraIffOfTwoUniqueSums.lean#L138-L145
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/FoundationProofs/IsUnitAddMonoidAlgebraIffOfTwoUniqueSums.lean#L138-L145
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SemiabelianSchemes_PrecompleteBases_Torus2GammaBijective
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FoundationProofs_TupleDifferentialTupleDifferential
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FoundationProofs_TensorCoeffOfMemTorusWeightSpace
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FoundationProofs_IsUnitAddMonoidAlgebraIffOfTwoUniqueSums
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open TensorProduct Coalgebra AddMonoidAlgebra
+open GlobalTheory
+variable {X : Type*} [Zero X] {A : Type*} [Ring A]
+
+theorem GlobalTheory.addMonoidAlgebra_existsUnique_coboundary (f : A[X × X])
+    (hf : mapDomain (fun p => ((0 : X), p.1, p.2)) f - mapDomain (fun p => (p.1, p.1, p.2)) f +
+      mapDomain (fun p => (p.1, p.2, p.2)) f - mapDomain (fun p => (p.1, p.2, (0 : X))) f = 0) :
+    ∃! g : A[X], mapDomain (fun y => ((0 : X), y)) g - mapDomain (fun y => (y, y)) g +
+      mapDomain (fun y => (y, (0 : X))) g = f := by sorry

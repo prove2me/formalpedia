@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_map_mul_left_eq_norm_smul
 -- name    : GlobalTheory.KSp.map_mul_left_eq_norm_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:48:40.896117+00:00
 -- url     : https://prove2.me/theorems/100f2924-0b65-4be9-9c8b-21e704ea6cf2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_exists_hasAnConst
 -- name    : GlobalTheory.ThetaFn.exists_hasAnConst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:06:47.843002+00:00
 -- url     : https://prove2.me/theorems/9acd702e-2843-4da6-bdc4-0867bca9c24a

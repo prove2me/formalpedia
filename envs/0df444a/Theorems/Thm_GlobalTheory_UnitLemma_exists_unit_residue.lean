@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_exists_unit_residue
 -- name    : GlobalTheory.UnitLemma.exists_unit_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:37:59.241335+00:00
 -- url     : https://prove2.me/theorems/c1f976cc-ac6e-4af2-8b26-2a0a76400ae5

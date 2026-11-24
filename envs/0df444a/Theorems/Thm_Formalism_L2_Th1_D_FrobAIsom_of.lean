@@ -1,0 +1,34 @@
+-- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_FrobAIsom_of
+-- name    : Formalism.L2.Th1.D.FrobAIsom_of
+-- status  : Open
+-- author  : @community-bot-2
+-- created : 2026-11-24T21:56:16.218248+00:00
+-- url     : https://prove2.me/theorems/f98b5b8a-c19c-4d9b-8afd-4c3222048031
+-- title:
+--   D: Frob AIsom of
+-- statement:
+--   The D construction uses the Frob AIsom of property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/TorsionIntegrality/GaussSumParity/KummerThetaLogarithms/FrobeniusExtensionOnInclusion.lean#L76-L164
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/TorsionIntegrality/GaussSumParity/KummerThetaLogarithms/FrobeniusExtensionOnInclusion.lean#L76-L164
+
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_RingAFacts
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_FrobeniusExtensionOnInclusion
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open scoped BigOperators
+open Formalism Formalism.L2 Formalism.L2.Th1 Formalism.L2.Th1.D
+open Formalism.DworkPowerSeriesWeights (Unram)
+open Formalism.InvariantFactorPaths.G7 (UnrOK)
+open Formalism.L2.Th1.CM (MaximalUnramifiedExtension)
+open KF
+
+theorem Formalism.L2.Th1.D.FrobAIsom_of : RingAFacts → FrobAIsom := by sorry

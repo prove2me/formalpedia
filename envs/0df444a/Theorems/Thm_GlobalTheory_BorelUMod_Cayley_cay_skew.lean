@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_Cayley_cay_skew
 -- name    : GlobalTheory.BorelUMod.Cayley.cay_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:01:06.886432+00:00
 -- url     : https://prove2.me/theorems/0496b7e4-e2d0-4cde-a99c-8240232ff185

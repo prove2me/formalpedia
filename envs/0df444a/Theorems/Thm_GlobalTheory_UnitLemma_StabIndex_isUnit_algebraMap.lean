@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_StabIndex_isUnit_algebraMap
 -- name    : GlobalTheory.UnitLemma.StabIndex.isUnit_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:34:16.326028+00:00
 -- url     : https://prove2.me/theorems/e596fc3a-d7d3-4675-b1fc-b95c7973e300

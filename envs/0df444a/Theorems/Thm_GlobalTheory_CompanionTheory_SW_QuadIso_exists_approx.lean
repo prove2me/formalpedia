@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_QuadIso_exists_approx
 -- name    : GlobalTheory.CompanionTheory.SW.QuadIso.exists_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:50:10.891673+00:00
 -- url     : https://prove2.me/theorems/14f136a3-09cf-4065-acda-0c32f328c819

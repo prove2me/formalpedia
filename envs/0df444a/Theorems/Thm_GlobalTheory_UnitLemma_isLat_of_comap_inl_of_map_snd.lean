@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_isLat_of_comap_inl_of_map_snd
 -- name    : GlobalTheory.UnitLemma.isLat_of_comap_inl_of_map_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:37:50.179801+00:00
 -- url     : https://prove2.me/theorems/b3223c18-e4db-4cf7-9c5e-6fd528a1e677

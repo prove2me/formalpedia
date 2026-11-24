@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Orbit_val_conj_le
 -- name    : GlobalTheory.UnitLemma.Orbit.val_conj_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:28:21.00624+00:00
 -- url     : https://prove2.me/theorems/bd069633-d459-497b-85db-87624b3d7104

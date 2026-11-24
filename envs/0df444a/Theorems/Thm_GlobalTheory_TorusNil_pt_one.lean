@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusNil_pt_one
 -- name    : GlobalTheory.TorusNil.pt_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:06:29.739392+00:00
 -- url     : https://prove2.me/theorems/401066c8-e867-4acc-b1b9-9b19254baff3

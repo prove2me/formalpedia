@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_eta_prod
 -- name    : GlobalTheory.UnitLemma.Desc.eta_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:27:56.935862+00:00
 -- url     : https://prove2.me/theorems/afb3d083-2c3b-498e-9b84-bd952281bcc8

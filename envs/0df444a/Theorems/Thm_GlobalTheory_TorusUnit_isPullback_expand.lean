@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusUnit_isPullback_expand
 -- name    : GlobalTheory.TorusUnit.isPullback_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:11:35.224981+00:00
 -- url     : https://prove2.me/theorems/f5b1fc93-ea15-4a15-b0b5-720b06aa1169

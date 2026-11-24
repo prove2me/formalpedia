@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RamseyValues_ramsey_four_four
 -- name    : RamseyValues.ramsey_four_four
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-23T00:01:00.334551+00:00
 -- url     : https://prove2.me/theorems/67722277-1c9c-401a-b32c-6d4f4de084f3

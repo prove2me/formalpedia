@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EisNonConst_nonconst_terms
 -- name    : GlobalTheory.EisNonConst.nonconst_terms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:58:52.167933+00:00
 -- url     : https://prove2.me/theorems/3a0370c1-7073-4c6e-818b-9d6cf448d07b

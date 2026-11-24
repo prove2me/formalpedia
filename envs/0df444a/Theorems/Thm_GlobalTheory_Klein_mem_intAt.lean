@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Klein_mem_intAt
 -- name    : GlobalTheory.Klein.mem_intAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:42:41.790514+00:00
 -- url     : https://prove2.me/theorems/832c8230-174e-4529-9543-99d2b7609b4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsorUnit_coaction_coeff
 -- name    : GlobalTheory.TorsorUnit.coaction_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:14:00.586456+00:00
 -- url     : https://prove2.me/theorems/fd332044-0034-4887-ab2d-3669915a6c0a

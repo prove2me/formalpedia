@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_divAt_mul_right
 -- name    : PI.SqPairLocal.divAt_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:32:11.530962+00:00
 -- url     : https://prove2.me/theorems/28c9d575-7594-4ee2-aeac-a1863f7199af

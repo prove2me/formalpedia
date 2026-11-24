@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_KernelCokernelKilling_shiftType_gLog
 -- name    : Formalism.L2.Th1.D.KernelCokernelKilling.shiftType_gLog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:24.085798+00:00
 -- url     : https://prove2.me/theorems/87d93c09-c262-4d18-9cfd-fe77607e2ab5

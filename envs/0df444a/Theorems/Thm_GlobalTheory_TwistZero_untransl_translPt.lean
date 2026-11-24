@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistZero_untransl_translPt
 -- name    : GlobalTheory.TwistZero.untransl_translPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:16:03.265236+00:00
 -- url     : https://prove2.me/theorems/90377739-0635-4ba8-8e85-94b2c6744930

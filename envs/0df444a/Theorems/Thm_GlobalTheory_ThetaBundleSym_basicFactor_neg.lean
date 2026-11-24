@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaBundleSym_basicFactor_neg
 -- name    : GlobalTheory.ThetaBundleSym.basicFactor_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:04:56.076637+00:00
 -- url     : https://prove2.me/theorems/55f5d6cd-cc72-4440-85e7-c3c62edf57f9

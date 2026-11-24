@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_notMem_of_coprime
 -- name    : GlobalTheory.UnRep.Compare.notMem_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:23:22.875901+00:00
 -- url     : https://prove2.me/theorems/e732bc18-bde3-4636-a9de-2fd7f33acb34

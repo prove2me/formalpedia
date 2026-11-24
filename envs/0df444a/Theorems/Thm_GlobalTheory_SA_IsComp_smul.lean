@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_IsComp_smul
 -- name    : GlobalTheory.SA.IsComp.smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:39:43.191836+00:00
 -- url     : https://prove2.me/theorems/70f92921-0526-4532-b8ff-41f492c27f3f

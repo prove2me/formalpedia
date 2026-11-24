@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_InvAlg_isReduced_of_lieReg
 -- name    : GlobalTheory.UnitLemma.InvAlg.isReduced_of_lieReg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:27:43.091613+00:00
 -- url     : https://prove2.me/theorems/fb7b4111-28cb-4595-8a5c-b518f2c1966f

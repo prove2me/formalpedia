@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableNonnegativeOfBoundedNegExpV1
 -- name    : Kyprianou.Ch03.stableNonnegativeOfBoundedNegExpV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:00:20.544799+00:00
 -- url     : https://prove2.me/theorems/29bc45ba-b2cb-4881-a087-67864fa5c962

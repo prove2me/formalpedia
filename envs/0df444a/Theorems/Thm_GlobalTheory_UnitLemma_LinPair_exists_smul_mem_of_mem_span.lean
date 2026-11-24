@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_LinPair_exists_smul_mem_of_mem_span
 -- name    : GlobalTheory.UnitLemma.LinPair.exists_smul_mem_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:27:46.512417+00:00
 -- url     : https://prove2.me/theorems/2c8742dd-4668-48a7-8899-23961bf01336

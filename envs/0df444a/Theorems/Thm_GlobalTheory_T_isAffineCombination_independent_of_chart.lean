@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isAffineCombination_independent_of_chart
 -- name    : GlobalTheory.T.isAffineCombination_independent_of_chart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:28:12.94967+00:00
 -- url     : https://prove2.me/theorems/be1f8b47-479a-4a1b-a867-fb502d17f410

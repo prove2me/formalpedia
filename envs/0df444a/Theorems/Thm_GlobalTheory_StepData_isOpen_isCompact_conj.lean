@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_isOpen_isCompact_conj
 -- name    : GlobalTheory.StepData.isOpen_isCompact_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:50:04.117338+00:00
 -- url     : https://prove2.me/theorems/93599c58-e066-43d1-920c-59c44f6da0b1

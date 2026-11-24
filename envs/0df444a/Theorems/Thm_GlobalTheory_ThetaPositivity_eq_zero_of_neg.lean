@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPositivity_eq_zero_of_neg
 -- name    : GlobalTheory.ThetaPositivity.eq_zero_of_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:06:09.248749+00:00
 -- url     : https://prove2.me/theorems/41848d8f-122d-4921-a605-09755c11fd7c

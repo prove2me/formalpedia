@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaComplement_exists_normal_form
 -- name    : GlobalTheory.ThetaComplement.exists_normal_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:05:15.959379+00:00
 -- url     : https://prove2.me/theorems/5ddec28e-9398-413d-91a8-f37e6c32572b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_perp_anti
 -- name    : GlobalTheory.Tw.perp_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:13:27.703592+00:00
 -- url     : https://prove2.me/theorems/6502bdc7-db55-4064-accd-44ca1ea88794

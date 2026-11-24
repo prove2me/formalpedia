@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_mul_normalisedAbsPow_half_eq_one
 -- name    : GlobalTheory.T.norm_mul_normalisedAbsPow_half_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:53:51.94413+00:00
 -- url     : https://prove2.me/theorems/cc1524e8-a0f8-4f4b-9e5f-2b7e8aa677f3

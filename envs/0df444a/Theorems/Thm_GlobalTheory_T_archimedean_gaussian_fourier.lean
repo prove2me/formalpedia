@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_archimedean_gaussian_fourier
 -- name    : GlobalTheory.T.archimedean_gaussian_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:45:01.549282+00:00
 -- url     : https://prove2.me/theorems/e575c01e-9839-4b4e-aaee-1a671611ce69

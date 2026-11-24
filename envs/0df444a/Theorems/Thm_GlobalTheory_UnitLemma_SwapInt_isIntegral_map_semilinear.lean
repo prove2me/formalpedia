@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_SwapInt_isIntegral_map_semilinear
 -- name    : GlobalTheory.UnitLemma.SwapInt.isIntegral_map_semilinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:34:51.060778+00:00
 -- url     : https://prove2.me/theorems/7d9cfd7f-a604-44a3-9c1b-648191ef4bc3

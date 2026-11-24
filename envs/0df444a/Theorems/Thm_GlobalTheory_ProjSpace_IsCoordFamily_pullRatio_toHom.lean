@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_IsCoordFamily_pullRatio_toHom
 -- name    : GlobalTheory.ProjSpace.IsCoordFamily.pullRatio_toHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:27:49.276308+00:00
 -- url     : https://prove2.me/theorems/e0faabe2-55cd-4000-87d1-d1f25ada2dd9

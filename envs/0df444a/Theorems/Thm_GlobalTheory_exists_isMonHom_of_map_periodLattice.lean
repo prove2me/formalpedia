@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isMonHom_of_map_periodLattice
 -- name    : GlobalTheory.exists_isMonHom_of_map_periodLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:27.097166+00:00
 -- url     : https://prove2.me/theorems/0e8001cd-91fd-4ef4-b6cc-d0c39ba668a0

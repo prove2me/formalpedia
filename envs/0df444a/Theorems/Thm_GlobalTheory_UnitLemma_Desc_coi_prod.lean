@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_coi_prod
 -- name    : GlobalTheory.UnitLemma.Desc.coi_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:27:42.574817+00:00
 -- url     : https://prove2.me/theorems/6858fa64-3791-4b75-829f-ec098d7f8228

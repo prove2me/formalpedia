@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_map_comap_idealSheaf_eq_of_isIso_restrict
 -- name    : GlobalTheory.T.map_comap_idealSheaf_eq_of_isIso_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:52:52.051704+00:00
 -- url     : https://prove2.me/theorems/d1f6f97c-343a-4f57-8dc2-800b7d2e955f

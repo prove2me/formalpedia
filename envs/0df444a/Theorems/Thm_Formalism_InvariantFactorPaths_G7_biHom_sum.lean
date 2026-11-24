@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_biHom_sum
 -- name    : Formalism.InvariantFactorPaths.G7.biHom_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:06:25.168713+00:00
 -- url     : https://prove2.me/theorems/195350f4-78c1-4961-997a-9aea378687b4

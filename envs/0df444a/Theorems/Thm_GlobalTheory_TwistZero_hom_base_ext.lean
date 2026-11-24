@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistZero_hom_base_ext
 -- name    : GlobalTheory.TwistZero.hom_base_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:13:49.044918+00:00
 -- url     : https://prove2.me/theorems/8a809350-3996-49cb-b11f-219327f41137

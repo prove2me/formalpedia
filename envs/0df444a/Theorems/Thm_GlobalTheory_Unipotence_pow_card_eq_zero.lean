@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Unipotence_pow_card_eq_zero
 -- name    : GlobalTheory.Unipotence.pow_card_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:25:35.631953+00:00
 -- url     : https://prove2.me/theorems/d0f48c90-34b1-46eb-ab6c-4796db8c14ea

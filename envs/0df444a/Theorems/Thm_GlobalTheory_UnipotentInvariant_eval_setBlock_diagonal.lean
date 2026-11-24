@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentInvariant_eval_setBlock_diagonal
 -- name    : GlobalTheory.UnipotentInvariant.eval_setBlock_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:25:33.653845+00:00
 -- url     : https://prove2.me/theorems/f049b165-39c6-49c9-8b54-d9bdaff733da

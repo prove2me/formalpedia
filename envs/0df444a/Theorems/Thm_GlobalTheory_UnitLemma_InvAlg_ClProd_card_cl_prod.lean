@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_InvAlg_ClProd_card_cl_prod
 -- name    : GlobalTheory.UnitLemma.InvAlg.ClProd.card_cl_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:27:18.943159+00:00
 -- url     : https://prove2.me/theorems/588ab8e6-98db-444f-910b-393cda7c81cf

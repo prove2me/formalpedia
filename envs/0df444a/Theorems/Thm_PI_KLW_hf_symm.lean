@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_hf_symm
 -- name    : PI.KLW.hf_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:43:52.777923+00:00
 -- url     : https://prove2.me/theorems/fba47e5a-35fa-419b-8ba0-1c9065636aa0

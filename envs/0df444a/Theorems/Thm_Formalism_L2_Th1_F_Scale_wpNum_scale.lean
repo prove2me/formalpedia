@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Scale_wpNum_scale
 -- name    : Formalism.L2.Th1.F.Scale.wpNum_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:19:51.638175+00:00
 -- url     : https://prove2.me/theorems/db8b2fdc-bf25-49b1-b97c-37c39354a63b

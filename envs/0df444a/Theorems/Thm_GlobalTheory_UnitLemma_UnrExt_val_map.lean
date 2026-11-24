@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_UnrExt_val_map
 -- name    : GlobalTheory.UnitLemma.UnrExt.val_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:37:32.622102+00:00
 -- url     : https://prove2.me/theorems/bc061636-cf2b-44e3-b957-9eead9841e11

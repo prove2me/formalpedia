@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_neighbours
 -- name    : GlobalTheory.SW.neighbours
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:53:32.784335+00:00
 -- url     : https://prove2.me/theorems/b5537d60-3630-4201-930e-f03c3a6c46da

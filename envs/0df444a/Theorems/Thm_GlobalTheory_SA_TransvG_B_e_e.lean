@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_TransvG_B_e_e
 -- name    : GlobalTheory.SA.TransvG.B_e_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:47:53.3948+00:00
 -- url     : https://prove2.me/theorems/95ed2679-6ee9-4e87-b1e7-bb60a19b4cc7

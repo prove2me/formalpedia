@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_LD_step_row
 -- name    : GlobalTheory.ThK.Dbl.LD.step_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:03:43.487805+00:00
 -- url     : https://prove2.me/theorems/8d2be766-e89c-4904-a5b3-749c3286c6f4

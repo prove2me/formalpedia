@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDiscAlg_unitBallMaxIdeal_isMaximal
 -- name    : GlobalTheory.UnitDiscAlg.unitBallMaxIdeal_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:26:49.042537+00:00
 -- url     : https://prove2.me/theorems/1d1986c8-79c6-4f1e-b0f2-ac6a0f3df907

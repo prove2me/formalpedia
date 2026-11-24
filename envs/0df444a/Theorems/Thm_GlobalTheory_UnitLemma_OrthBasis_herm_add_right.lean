@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_OrthBasis_herm_add_right
 -- name    : GlobalTheory.UnitLemma.OrthBasis.herm_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:28:45.444815+00:00
 -- url     : https://prove2.me/theorems/352a48d1-a196-435f-a752-73604eb8e960

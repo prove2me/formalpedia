@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TraceNormBounds_norm_le_inv_of_lt_one
 -- name    : Formalism.L2.Th1.D.TraceNormBounds.norm_le_inv_of_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:45:41.441568+00:00
 -- url     : https://prove2.me/theorems/ecb2be5b-4227-440b-8d62-a14075be4ab3

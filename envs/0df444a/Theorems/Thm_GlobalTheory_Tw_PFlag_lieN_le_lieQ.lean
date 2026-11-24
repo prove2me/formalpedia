@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PFlag_lieN_le_lieQ
 -- name    : GlobalTheory.Tw.PFlag.lieN_le_lieQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:13:04.575214+00:00
 -- url     : https://prove2.me/theorems/45f4b485-c374-4c11-855d-0b7e6c4412ea

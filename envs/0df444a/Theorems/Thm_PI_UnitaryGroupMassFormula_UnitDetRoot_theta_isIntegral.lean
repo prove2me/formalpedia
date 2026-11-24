@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnitDetRoot_theta_isIntegral
 -- name    : PI.UnitaryGroupMassFormula.UnitDetRoot.theta_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:44:50.466968+00:00
 -- url     : https://prove2.me/theorems/01a2733f-619d-4a94-8005-27bcfe841ee9

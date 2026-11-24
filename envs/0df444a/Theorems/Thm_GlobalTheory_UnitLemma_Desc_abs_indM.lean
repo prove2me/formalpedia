@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_abs_indM
 -- name    : GlobalTheory.UnitLemma.Desc.abs_indM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:26:55.256451+00:00
 -- url     : https://prove2.me/theorems/426a1507-947a-4936-a0ea-d3ef18bdacdf

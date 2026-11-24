@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusUnit_IsMultiplicative_eq_single
 -- name    : GlobalTheory.TorusUnit.IsMultiplicative.eq_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:22:55.426272+00:00
 -- url     : https://prove2.me/theorems/52b0615c-5c7d-4502-8edb-ab4c9984fc8f

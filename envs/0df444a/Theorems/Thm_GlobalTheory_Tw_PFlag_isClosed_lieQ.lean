@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PFlag_isClosed_lieQ
 -- name    : GlobalTheory.Tw.PFlag.isClosed_lieQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:12:44.202857+00:00
 -- url     : https://prove2.me/theorems/a3767a5e-8ed8-460e-8c85-00ddbcfd3ab1

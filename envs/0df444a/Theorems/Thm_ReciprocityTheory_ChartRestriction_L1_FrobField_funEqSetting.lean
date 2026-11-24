@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_FrobField_funEqSetting
 -- name    : ReciprocityTheory.ChartRestriction.L1.FrobField.funEqSetting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:44:30.254805+00:00
 -- url     : https://prove2.me/theorems/01184e9f-9d44-4d9e-b76b-1c7dca6dab82

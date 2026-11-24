@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsorUnit_exists_coaction
 -- name    : GlobalTheory.TorsorUnit.exists_coaction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:18:26.920082+00:00
 -- url     : https://prove2.me/theorems/cf93e412-c334-4734-aaab-21173869d8a9

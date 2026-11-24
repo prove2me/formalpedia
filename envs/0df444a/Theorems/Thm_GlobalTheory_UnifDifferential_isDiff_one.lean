@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDifferential_isDiff_one
 -- name    : GlobalTheory.UnifDifferential.isDiff_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:24:59.324933+00:00
 -- url     : https://prove2.me/theorems/218d693f-1795-4383-8993-b7c03dd324ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnimodOver_dualSubmoduleToDual_surjective
 -- name    : GlobalTheory.UnimodOver.dualSubmoduleToDual_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:25:23.647791+00:00
 -- url     : https://prove2.me/theorems/43ffcb15-3379-4262-9d1b-d8e793b25930

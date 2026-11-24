@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Vac_heisS_apply
 -- name    : GlobalTheory.SW.Vac.heisS_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:45:23.722867+00:00
 -- url     : https://prove2.me/theorems/05582df8-53b9-4406-b92a-06a7e3032386

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_GaussFlat_gauss_fourier_flat
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.GaussFlat.gauss_fourier_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:11:12.426148+00:00
 -- url     : https://prove2.me/theorems/3265d656-4b9b-4c4e-a5ad-7cd5249c7525

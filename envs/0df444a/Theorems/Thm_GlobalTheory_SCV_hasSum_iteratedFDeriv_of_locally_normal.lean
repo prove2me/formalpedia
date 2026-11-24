@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_hasSum_iteratedFDeriv_of_locally_normal
 -- name    : GlobalTheory.SCV.hasSum_iteratedFDeriv_of_locally_normal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:08.970616+00:00
 -- url     : https://prove2.me/theorems/a4213a19-b657-43e3-8625-62097f3e569a

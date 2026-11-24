@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_TypeDatum_step_J
 -- name    : GlobalTheory.StepData.TypeDatum.step_J
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:49:24.274818+00:00
 -- url     : https://prove2.me/theorems/ebd0ba8c-86e6-48fe-a278-344c62788724

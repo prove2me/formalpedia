@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_SplitRep_mix_inv_val
 -- name    : GlobalTheory.UnRep.SplitRep.mix_inv_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:24:39.54944+00:00
 -- url     : https://prove2.me/theorems/8f74402d-acbb-4707-bb46-029b720f451a

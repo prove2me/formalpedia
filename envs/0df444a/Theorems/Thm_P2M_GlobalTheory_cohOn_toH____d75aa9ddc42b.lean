@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_cohOn_toH____d75aa9ddc42b
 -- name    : P2M_GlobalTheory_cohOn_toH____d75aa9ddc42b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:41:40.790372+00:00
 -- url     : https://prove2.me/theorems/efd46c65-1947-4945-b998-277a2e99b89d

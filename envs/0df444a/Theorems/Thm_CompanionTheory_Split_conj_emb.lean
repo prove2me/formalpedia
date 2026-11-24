@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Split_conj_emb
 -- name    : CompanionTheory.Split.conj_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:44:31.625153+00:00
 -- url     : https://prove2.me/theorems/dfb47454-dcf1-41e4-9fb3-f4d10436eb63

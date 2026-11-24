@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorSiegel_endo_period
 -- name    : GlobalTheory.TensorSiegel.endo_period
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:03:42.817143+00:00
 -- url     : https://prove2.me/theorems/d8c28b42-6b89-4016-a765-6e2e8e931af1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_Model_nrm_diag
 -- name    : GlobalTheory.Tw.Model.nrm_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:12:31.569953+00:00
 -- url     : https://prove2.me/theorems/decb7a39-1658-4a43-bd6e-1440badcef57

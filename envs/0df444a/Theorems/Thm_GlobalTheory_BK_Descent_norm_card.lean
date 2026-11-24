@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Descent_norm_card
 -- name    : GlobalTheory.BK.Descent.norm_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:42:52.948874+00:00
 -- url     : https://prove2.me/theorems/7278c6d4-6cac-4b2d-b409-2233c046d59b

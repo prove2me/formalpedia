@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorExpansion_isNatDatum_resClass
 -- name    : GlobalTheory.TensorExpansion.isNatDatum_resClass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:03:18.228481+00:00
 -- url     : https://prove2.me/theorems/c5087fd5-2480-4f13-a1ab-c25e7b3e822c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_IndDual_mem_span_bump
 -- name    : GlobalTheory.SmGL.IndDual.mem_span_bump
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:24:37.534272+00:00
 -- url     : https://prove2.me/theorems/c3cb636d-e610-4ffe-add8-2f071b2fa157

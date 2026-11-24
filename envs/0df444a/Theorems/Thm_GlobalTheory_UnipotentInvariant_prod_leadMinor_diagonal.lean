@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentInvariant_prod_leadMinor_diagonal
 -- name    : GlobalTheory.UnipotentInvariant.prod_leadMinor_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:25:47.106372+00:00
 -- url     : https://prove2.me/theorems/e4787de6-ec17-4df5-b8bb-d99142c06f21

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_Homog_measurable_absE
 -- name    : GlobalTheory.KSp.Homog.measurable_absE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:22:29.315337+00:00
 -- url     : https://prove2.me/theorems/1f364b04-f214-48b4-9ea3-c6f58c786e72

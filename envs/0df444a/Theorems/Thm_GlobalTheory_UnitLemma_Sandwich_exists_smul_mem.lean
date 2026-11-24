@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Sandwich_exists_smul_mem
 -- name    : GlobalTheory.UnitLemma.Sandwich.exists_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:29:07.335513+00:00
 -- url     : https://prove2.me/theorems/6c9c424e-5d6c-464c-9f89-e4425f6901db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_LD_Eqv_unip
 -- name    : GlobalTheory.ThK.Dbl.LD.Eqv.unip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:03:25.545171+00:00
 -- url     : https://prove2.me/theorems/987d1286-8f1f-4ee8-8512-5c71462dc973

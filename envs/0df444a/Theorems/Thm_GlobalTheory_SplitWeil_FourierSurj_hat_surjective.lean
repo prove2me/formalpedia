@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_FourierSurj_hat_surjective
 -- name    : GlobalTheory.SplitWeil.FourierSurj.hat_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:22:02.688416+00:00
 -- url     : https://prove2.me/theorems/78f6a432-0382-41ed-98af-0790cea0f5fa

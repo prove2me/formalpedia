@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_TorusPts_tt_mul
 -- name    : GlobalTheory.UnitLemma.TorusPts.tt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:35:01.062186+00:00
 -- url     : https://prove2.me/theorems/318772f1-ff2d-4f31-b596-dacb721049ae

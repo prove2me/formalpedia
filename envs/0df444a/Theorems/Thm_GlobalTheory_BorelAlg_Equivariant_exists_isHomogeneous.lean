@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelAlg_Equivariant_exists_isHomogeneous
 -- name    : GlobalTheory.BorelAlg.Equivariant.exists_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:02:10.81641+00:00
 -- url     : https://prove2.me/theorems/f1d10cd5-4b56-4ed4-9a1b-ac7bb91f6cd6

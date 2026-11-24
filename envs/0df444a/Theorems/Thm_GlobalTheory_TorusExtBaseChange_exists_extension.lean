@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusExtBaseChange_exists_extension
 -- name    : GlobalTheory.TorusExtBaseChange.exists_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:03:17.528554+00:00
 -- url     : https://prove2.me/theorems/dbf60f72-f527-4efb-b3ea-abdb5949be36

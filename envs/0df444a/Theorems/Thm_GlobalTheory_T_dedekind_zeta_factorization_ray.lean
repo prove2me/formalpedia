@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_dedekind_zeta_factorization_ray
 -- name    : GlobalTheory.T.dedekind_zeta_factorization_ray
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:31:28.010898+00:00
 -- url     : https://prove2.me/theorems/cd99977a-929d-4a6a-9964-9169c02d63d7

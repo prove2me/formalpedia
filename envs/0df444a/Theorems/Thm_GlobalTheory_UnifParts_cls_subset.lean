@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifParts_cls_subset
 -- name    : GlobalTheory.UnifParts.cls_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:24:19.440498+00:00
 -- url     : https://prove2.me/theorems/17681fa3-03d3-41d2-8542-b2265418329f

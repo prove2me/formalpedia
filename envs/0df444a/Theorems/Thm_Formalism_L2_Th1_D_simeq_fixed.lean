@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_simeq_fixed
 -- name    : Formalism.L2.Th1.D.simeq_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:45:44.226815+00:00
 -- url     : https://prove2.me/theorems/68346aca-55ce-4857-8141-7ddc2c570e21

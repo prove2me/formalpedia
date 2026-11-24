@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_exists_affPt
 -- name    : GlobalTheory.StepData.exists_affPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:49:14.623015+00:00
 -- url     : https://prove2.me/theorems/fbf21922-bd9d-4a43-a635-bbe4b18b74b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionHolomorphic_differentiableOn_det
 -- name    : GlobalTheory.TorsionHolomorphic.differentiableOn_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:10:41.273565+00:00
 -- url     : https://prove2.me/theorems/46abca7b-0083-488c-878a-8669bde82b3d

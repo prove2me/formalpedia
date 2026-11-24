@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorExpansion_exists_sum_pureTensor
 -- name    : GlobalTheory.TensorExpansion.exists_sum_pureTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:04:09.336874+00:00
 -- url     : https://prove2.me/theorems/b3a25c36-90d7-431c-96c0-fb55ec337290

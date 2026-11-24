@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_TwistUnit_mem_adjoin_of_mul_eq_one
 -- name    : GlobalTheory.UnitLemma.TwistUnit.mem_adjoin_of_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:34:17.299219+00:00
 -- url     : https://prove2.me/theorems/3f332b44-c606-48ab-af4d-28373b9c151a

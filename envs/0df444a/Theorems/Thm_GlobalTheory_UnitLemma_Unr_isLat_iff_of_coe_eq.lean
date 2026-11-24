@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_isLat_iff_of_coe_eq
 -- name    : GlobalTheory.UnitLemma.Unr.isLat_iff_of_coe_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:38:10.079248+00:00
 -- url     : https://prove2.me/theorems/58ded3a1-1f71-425a-9340-cf58338a4746

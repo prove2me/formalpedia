@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Vac_fixed_iff
 -- name    : GlobalTheory.SW.Vac.fixed_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:42:25.197326+00:00
 -- url     : https://prove2.me/theorems/15a477d3-cc16-47a4-b7f9-23d6dd09ca26

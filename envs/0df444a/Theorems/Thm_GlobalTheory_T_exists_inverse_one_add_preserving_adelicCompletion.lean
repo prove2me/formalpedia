@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_inverse_one_add_preserving_adelicCompletion
 -- name    : GlobalTheory.T.exists_inverse_one_add_preserving_adelicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:37:21.1402+00:00
 -- url     : https://prove2.me/theorems/eb626960-4663-4d1f-b989-6f50a433879b

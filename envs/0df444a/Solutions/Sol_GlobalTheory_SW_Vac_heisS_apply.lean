@@ -1,0 +1,29 @@
+-- Prove2me | solution 1 for GlobalTheory.SW.Vac.heisS_apply
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-24T21:48:22.460269+00:00
+-- url     : https://prove2.me/submissions/2dfeb6ab-a4ad-4430-9ee1-119afdaef578
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_SpanningFamilies_IMemSiegel
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_SchwartzBruhatInnerProductSelfNonnegBoundsStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_ExistsExOfPow
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix Complex GlobalTheory.SW
+open scoped ComplexConjugate Real
+open GlobalTheory GlobalTheory.SW GlobalTheory.SW.Vac
+noncomputable section
+variable {κ ι : Type} [Fintype κ] [Fintype ι]
+namespace GlobalTheory.SW.Vac
+theorem _root_.solution [DecidableEq ι] (a b : Matrix κ ι ℚ) (φ : Matrix κ ι ℚ → ℂ) (x : Matrix κ ι ℚ) :
+    heisS a b φ x = φ (x - b) * ex (2 * pr x a - pr a b) := by
+  simp only [heisS, ex, pr, Finset.sum_sub_distrib, Finset.mul_sum]
+end GlobalTheory.SW.Vac

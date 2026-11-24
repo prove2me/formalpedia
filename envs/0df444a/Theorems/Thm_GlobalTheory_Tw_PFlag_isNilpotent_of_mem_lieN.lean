@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PFlag_isNilpotent_of_mem_lieN
 -- name    : GlobalTheory.Tw.PFlag.isNilpotent_of_mem_lieN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:13:30.756916+00:00
 -- url     : https://prove2.me/theorems/c8de8ead-06a4-4c76-962a-8608357069ce

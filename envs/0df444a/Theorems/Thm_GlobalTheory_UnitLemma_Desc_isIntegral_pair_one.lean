@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_isIntegral_pair_one
 -- name    : GlobalTheory.UnitLemma.Desc.isIntegral_pair_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:27:37.629259+00:00
 -- url     : https://prove2.me/theorems/684788f8-cf31-4b91-9a69-9fee7bd4bef0

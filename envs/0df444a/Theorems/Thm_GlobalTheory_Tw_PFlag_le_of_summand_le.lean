@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PFlag_le_of_summand_le
 -- name    : GlobalTheory.Tw.PFlag.le_of_summand_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:31:54.043373+00:00
 -- url     : https://prove2.me/theorems/c34fa8af-23b4-4d14-b23f-ea0b8fe75be1

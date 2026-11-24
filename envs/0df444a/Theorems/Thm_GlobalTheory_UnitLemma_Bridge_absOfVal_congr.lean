@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Bridge_absOfVal_congr
 -- name    : GlobalTheory.UnitLemma.Bridge.absOfVal_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:26:19.409824+00:00
 -- url     : https://prove2.me/theorems/635b6a4c-cc20-423c-8f0e-b07c56ef8c86

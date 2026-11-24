@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_LatFrame_coords_mul
 -- name    : GlobalTheory.StepData.LatFrame.coords_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:49:27.536393+00:00
 -- url     : https://prove2.me/theorems/0854b5c6-109f-4b61-b5cf-c049dda4fabf

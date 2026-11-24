@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifTransport_hermForm_add_left
 -- name    : GlobalTheory.UnifTransport.hermForm_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:28:54.787392+00:00
 -- url     : https://prove2.me/theorems/70f3fdb2-4476-4b10-967f-9dcd69b9a1b2

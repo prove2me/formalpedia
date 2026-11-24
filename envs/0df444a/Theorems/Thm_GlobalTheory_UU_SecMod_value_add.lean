@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_SecMod_value_add
 -- name    : GlobalTheory.UU.SecMod.value_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:27:43.443866+00:00
 -- url     : https://prove2.me/theorems/69693611-3052-4829-8ca6-a5d71dc3005e

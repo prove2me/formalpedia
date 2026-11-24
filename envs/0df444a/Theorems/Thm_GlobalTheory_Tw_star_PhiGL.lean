@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_star_PhiGL
 -- name    : GlobalTheory.Tw.star_PhiGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:13:29.861507+00:00
 -- url     : https://prove2.me/theorems/1682a6a8-9b25-4f90-ba81-50fc75cacbac

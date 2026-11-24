@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_LatForm_congAtA_mul
 -- name    : GlobalTheory.UnRep.LatForm.congAtA_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:23:59.420803+00:00
 -- url     : https://prove2.me/theorems/5de1ee29-998e-46db-95d9-ec331e9afe18

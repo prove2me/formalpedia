@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_finite_between
 -- name    : GlobalTheory.UnitLemma.Desc.finite_between
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:28:39.035645+00:00
 -- url     : https://prove2.me/theorems/ffc9b4fc-57f6-42ac-a270-e262e3f06726

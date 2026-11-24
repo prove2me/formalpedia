@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_FlagExample_isTransv_fl
 -- name    : GlobalTheory.SA.FlagExample.isTransv_fl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:35:14.49015+00:00
 -- url     : https://prove2.me/theorems/f48a9469-7c16-428f-91d6-358ca3c4a6b1

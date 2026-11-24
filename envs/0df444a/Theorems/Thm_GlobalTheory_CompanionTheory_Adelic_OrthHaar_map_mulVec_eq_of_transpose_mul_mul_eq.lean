@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Adelic_OrthHaar_map_mulVec_eq_of_transpose_mul_mul_eq
 -- name    : GlobalTheory.CompanionTheory.Adelic.OrthHaar.map_mulVec_eq_of_transpose_mul_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:16:31.72903+00:00
 -- url     : https://prove2.me/theorems/37d9fb32-d262-4975-a45b-a63e1812b6e6

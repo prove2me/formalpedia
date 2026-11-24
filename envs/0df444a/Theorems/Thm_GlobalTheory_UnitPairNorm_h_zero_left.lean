@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitPairNorm_h_zero_left
 -- name    : GlobalTheory.UnitPairNorm.h_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:38:57.38162+00:00
 -- url     : https://prove2.me/theorems/f42a1520-ea19-409d-b881-1a95817af946

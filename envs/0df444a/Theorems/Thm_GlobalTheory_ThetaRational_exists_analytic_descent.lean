@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaRational_exists_analytic_descent
 -- name    : GlobalTheory.ThetaRational.exists_analytic_descent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:06:10.820403+00:00
 -- url     : https://prove2.me/theorems/101208a2-f128-4459-b997-12829b5acaf9

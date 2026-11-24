@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickGlue_exists_scheme_of_thickenings
 -- name    : GlobalTheory.ThickGlue.exists_scheme_of_thickenings
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:08:08.300188+00:00
 -- url     : https://prove2.me/theorems/fb28c834-edec-4481-82bf-b941cda5f3d1

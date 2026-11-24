@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_qminor_poly
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.qminor_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:53:37.643604+00:00
 -- url     : https://prove2.me/theorems/ec4656ec-29b3-41dc-a8db-d529f7a260da

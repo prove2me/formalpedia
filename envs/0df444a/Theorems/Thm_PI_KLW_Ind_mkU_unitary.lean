@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Ind_mkU_unitary
 -- name    : PI.KLW.Ind.mkU_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:42:29.459855+00:00
 -- url     : https://prove2.me/theorems/a82d0ccd-36df-4e6b-9d15-e5bb58ed69ca

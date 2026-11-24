@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Rp_map
 -- name    : PI.KLW.Rp_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:44:12.678677+00:00
 -- url     : https://prove2.me/theorems/76896e8c-59da-436d-8987-277022859a37

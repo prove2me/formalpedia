@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Hk4_split
 -- name    : Formalism.L2.Th1.F.Hk4.split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:30:01.881655+00:00
 -- url     : https://prove2.me/theorems/a5a7a0c4-f147-438d-bb63-f135a179f6de

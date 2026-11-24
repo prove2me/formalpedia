@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BorelNormality_isNormalReal_mul_rat
 -- name    : BorelNormality.isNormalReal_mul_rat
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-18T17:09:39.698916+00:00
 -- url     : https://prove2.me/theorems/a87ba652-e3a9-4aff-a73b-d5206c167528

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LonelyRunnerConjecture_four_runners
 -- name    : LonelyRunnerConjecture.four_runners
--- status  : Open
+-- status  : Proved
 -- author  : @bbchallenge_user
 -- created : 2026-11-24T21:04:15.956018+00:00
 -- url     : https://prove2.me/theorems/7727783e-7514-4c59-8ed1-c08bc06e0606

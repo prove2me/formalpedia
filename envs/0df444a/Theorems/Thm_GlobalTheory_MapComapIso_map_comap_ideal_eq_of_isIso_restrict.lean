@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MapComapIso_map_comap_ideal_eq_of_isIso_restrict
 -- name    : GlobalTheory.MapComapIso.map_comap_ideal_eq_of_isIso_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:20:19.907529+00:00
 -- url     : https://prove2.me/theorems/40c8a548-837d-4773-961f-8990c3aa32fc

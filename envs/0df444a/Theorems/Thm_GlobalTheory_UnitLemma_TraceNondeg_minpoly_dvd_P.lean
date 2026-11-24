@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_TraceNondeg_minpoly_dvd_P
 -- name    : GlobalTheory.UnitLemma.TraceNondeg.minpoly_dvd_P
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:33:50.486288+00:00
 -- url     : https://prove2.me/theorems/3d3e277c-3468-4a9e-97cf-3510be743dd4

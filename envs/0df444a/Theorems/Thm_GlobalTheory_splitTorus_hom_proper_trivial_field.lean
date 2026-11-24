@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_splitTorus_hom_proper_trivial_field
 -- name    : GlobalTheory.splitTorus_hom_proper_trivial_field
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:16:59.671892+00:00
 -- url     : https://prove2.me/theorems/826ffbbf-c220-4588-8516-38bd0b575e9d

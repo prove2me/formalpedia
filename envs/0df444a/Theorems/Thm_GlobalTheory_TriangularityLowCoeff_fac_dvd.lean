@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TriangularityLowCoeff_fac_dvd
 -- name    : GlobalTheory.TriangularityLowCoeff.fac_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:12:17.607895+00:00
 -- url     : https://prove2.me/theorems/fd60b3b1-6a84-41ee-b8ef-17cb2041249a

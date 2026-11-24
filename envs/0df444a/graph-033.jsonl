@@ -96937,7 +96937,7 @@
 {"parent": "NearlyOptimalPPR.Computation.recursive_control_event_count", "child": "NearlyOptimalPPR_Computation_work_analysis", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.BubbleLocalSpectrum.length_bounds", "child": "DeletionCode_BubbleLocalSpectrum", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.BubbleLocalSpectrum.length_bounds", "child": "DeletionCode_SpectrumLocalization", "via": ["solution", "statement"]}
-{"parent": "BorelNormality.isNormalReal_mul_rat", "child": "Normal_Core", "via": ["statement"]}
+{"parent": "BorelNormality.isNormalReal_mul_rat", "child": "Normal_Core", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_1085", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_1085", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.TorusHaar.coordinates_independent", "child": "DeletionCode_TorusHaar", "via": ["solution", "statement"]}
@@ -99115,8 +99115,8 @@
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0244", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_313", "child": "RealPinwheel_FiveSixths_CertificateP9", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_313", "child": "RealPinwheel_FiveSixths_Witness", "via": ["statement"]}
-{"parent": "BorelNormality.adamczewski_bugeaud_complexity", "child": "BorelNormality_Complexity", "via": ["statement"]}
-{"parent": "BorelNormality.adamczewski_bugeaud_complexity", "child": "Normal_Core", "via": ["statement"]}
+{"parent": "BorelNormality.adamczewski_bugeaud_complexity", "child": "BorelNormality_Complexity", "via": ["solution", "statement"]}
+{"parent": "BorelNormality.adamczewski_bugeaud_complexity", "child": "Normal_Core", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0294", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0294", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessD8_185", "child": "RealPinwheel_FiveSixths_Witness", "via": ["statement"]}

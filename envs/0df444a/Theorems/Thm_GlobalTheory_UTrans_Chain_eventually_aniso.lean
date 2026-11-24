@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_Chain_eventually_aniso
 -- name    : GlobalTheory.UTrans.Chain.eventually_aniso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:20:19.543694+00:00
 -- url     : https://prove2.me/theorems/20920e5b-c986-4e7f-983e-56bb63aac0c0

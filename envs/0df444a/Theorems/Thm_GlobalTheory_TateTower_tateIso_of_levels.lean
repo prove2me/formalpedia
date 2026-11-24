@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateTower_tateIso_of_levels
 -- name    : GlobalTheory.TateTower.tateIso_of_levels
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:03:02.453593+00:00
 -- url     : https://prove2.me/theorems/778cdfa0-1a76-45cd-a993-05cd7111bcb3

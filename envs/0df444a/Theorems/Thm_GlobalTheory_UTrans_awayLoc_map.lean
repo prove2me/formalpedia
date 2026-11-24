@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_awayLoc_map
 -- name    : GlobalTheory.UTrans.awayLoc_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:20:58.303967+00:00
 -- url     : https://prove2.me/theorems/76e9538a-ed07-4082-8821-b8c035664221

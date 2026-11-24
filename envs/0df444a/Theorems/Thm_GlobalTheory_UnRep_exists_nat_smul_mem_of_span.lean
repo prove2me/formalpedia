@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_exists_nat_smul_mem_of_span
 -- name    : GlobalTheory.UnRep.exists_nat_smul_mem_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:24:45.251677+00:00
 -- url     : https://prove2.me/theorems/64e91c14-75d1-4e98-9a13-a92856de6ca6

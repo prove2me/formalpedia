@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableGridUnboundedFromLaplaceV1
 -- name    : Kyprianou.Ch03.stableGridUnboundedFromLaplaceV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T18:19:12.937061+00:00
 -- url     : https://prove2.me/theorems/27a16c6d-6896-4cd8-b7ea-b029c49ecf47

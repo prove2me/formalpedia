@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentCriterion_unramified_quasiFinite_of_tangent
 -- name    : GlobalTheory.TangentCriterion.unramified_quasiFinite_of_tangent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:02:21.052262+00:00
 -- url     : https://prove2.me/theorems/87bdb163-acc1-4487-92b8-7dc5b322655d

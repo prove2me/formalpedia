@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_infinite_norm_one
 -- name    : GlobalTheory.UnRep.infinite_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:25:34.197162+00:00
 -- url     : https://prove2.me/theorems/0c4f3566-f12b-4e41-af81-4839425ee583

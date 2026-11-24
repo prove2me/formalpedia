@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableVariation_highIndexLaplaceAndUnboundedVariation
 -- name    : Kyprianou.Ch03.stableVariation_highIndexLaplaceAndUnboundedVariation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T13:11:23.191247+00:00
 -- url     : https://prove2.me/theorems/a3e812a4-fcb3-4b0a-85df-955a6f2f865c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableLogLaplaceCoefficientStrictSignV1
 -- name    : Kyprianou.Ch03.stableLogLaplaceCoefficientStrictSignV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:00:20.836472+00:00
 -- url     : https://prove2.me/theorems/8ec8f378-7e2c-4096-b641-5c8b95fad99b

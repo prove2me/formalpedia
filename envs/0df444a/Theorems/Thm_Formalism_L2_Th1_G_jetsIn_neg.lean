@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_jetsIn_neg
 -- name    : Formalism.L2.Th1.G.jetsIn_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:44:35.548089+00:00
 -- url     : https://prove2.me/theorems/2f4432e3-4c0e-4eec-9192-40d26a8f912e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_dlt_map
 -- name    : GlobalTheory.UnitLemma.Desc.dlt_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:27:48.738697+00:00
 -- url     : https://prove2.me/theorems/de77c322-b3bf-43ec-9080-11934e3ace38

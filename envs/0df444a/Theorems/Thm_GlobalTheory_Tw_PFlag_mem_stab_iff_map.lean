@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PFlag_mem_stab_iff_map
 -- name    : GlobalTheory.Tw.PFlag.mem_stab_iff_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:13:09.861521+00:00
 -- url     : https://prove2.me/theorems/ffb28da0-a12a-49ef-9e82-1f1a9b9315fa

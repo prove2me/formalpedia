@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_WeakApprox_preserves_form_smul_idempotent_glue
 -- name    : GlobalTheory.UnRep.WeakApprox.preserves_form_smul_idempotent_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:23:25.591022+00:00
 -- url     : https://prove2.me/theorems/c03f8eca-2c05-4001-8406-d47f0e602add

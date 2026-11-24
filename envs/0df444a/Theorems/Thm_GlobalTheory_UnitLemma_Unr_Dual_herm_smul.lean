@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_Dual_herm_smul
 -- name    : GlobalTheory.UnitLemma.Unr.Dual.herm_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:35:06.892786+00:00
 -- url     : https://prove2.me/theorems/4c8e025c-ec2f-457d-9c25-52724df1454a

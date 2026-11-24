@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_sum_mul_sum_diag
 -- name    : GlobalTheory.UnitLemma.Desc.sum_mul_sum_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:28:46.139999+00:00
 -- url     : https://prove2.me/theorems/0c579660-c54b-4f9d-b92d-62277c5a7f3e

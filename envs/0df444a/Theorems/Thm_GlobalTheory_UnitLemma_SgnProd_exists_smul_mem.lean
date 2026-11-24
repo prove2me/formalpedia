@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_SgnProd_exists_smul_mem
 -- name    : GlobalTheory.UnitLemma.SgnProd.exists_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:34:16.188345+00:00
 -- url     : https://prove2.me/theorems/593caccd-fc2a-4013-92e9-94542a271ef1

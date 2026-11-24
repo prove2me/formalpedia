@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickDiv_app_eq_zero_iff
 -- name    : GlobalTheory.ThickDiv.app_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:03.599065+00:00
 -- url     : https://prove2.me/theorems/857c94fa-ce79-4a5c-9c73-59e3648abf3d

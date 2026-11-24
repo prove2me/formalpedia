@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTr_evalMat_algMap
 -- name    : GlobalTheory.UTr.evalMat_algMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:21:13.374828+00:00
 -- url     : https://prove2.me/theorems/0be2e122-651a-4fa1-8a8e-ba5712bec8dd

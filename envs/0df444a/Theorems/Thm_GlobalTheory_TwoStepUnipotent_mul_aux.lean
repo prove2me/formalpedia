@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoStepUnipotent_mul_aux
 -- name    : GlobalTheory.TwoStepUnipotent.mul_aux
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:16:28.548715+00:00
 -- url     : https://prove2.me/theorems/1225b3dd-f730-4d42-ada4-9939bb3a5630

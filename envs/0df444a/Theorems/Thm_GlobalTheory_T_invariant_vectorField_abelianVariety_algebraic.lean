@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invariant_vectorField_abelianVariety_algebraic
 -- name    : GlobalTheory.T.invariant_vectorField_abelianVariety_algebraic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:47:47.01796+00:00
 -- url     : https://prove2.me/theorems/e93569f0-0b8a-450f-a449-680cf61559f5

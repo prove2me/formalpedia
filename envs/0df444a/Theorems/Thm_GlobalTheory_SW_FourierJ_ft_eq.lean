@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_FourierJ_ft_eq
 -- name    : GlobalTheory.SW.FourierJ.ft_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:13:16.67178+00:00
 -- url     : https://prove2.me/theorems/2b0088ab-5ac7-4950-a4e4-9623886f0f8c

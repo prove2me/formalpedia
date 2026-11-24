@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentInvariant_BiInvariant_transpose
 -- name    : GlobalTheory.UnipotentInvariant.BiInvariant.transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:25:29.968072+00:00
 -- url     : https://prove2.me/theorems/eb8727cf-58ee-4ad2-8c91-54e1ea013775

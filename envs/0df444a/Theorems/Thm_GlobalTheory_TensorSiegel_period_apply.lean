@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorSiegel_period_apply
 -- name    : GlobalTheory.TensorSiegel.period_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:22:30.803801+00:00
 -- url     : https://prove2.me/theorems/9f56cd10-51e0-4b6e-8648-4cd0a81234e4

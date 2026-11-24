@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_TorusPts_isIntegral_idem
 -- name    : GlobalTheory.UnitLemma.TorusPts.isIntegral_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:35:38.430232+00:00
 -- url     : https://prove2.me/theorems/37cc24b0-91a5-4f0b-b0ec-762b78c143d1

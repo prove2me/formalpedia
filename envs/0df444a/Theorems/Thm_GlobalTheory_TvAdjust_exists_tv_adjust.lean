@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TvAdjust_exists_tv_adjust
 -- name    : GlobalTheory.TvAdjust.exists_tv_adjust
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:12:16.14653+00:00
 -- url     : https://prove2.me/theorems/7d27ac2d-408f-42cb-8ef4-4c5b26227641

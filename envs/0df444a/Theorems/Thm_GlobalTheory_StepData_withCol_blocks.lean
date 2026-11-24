@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_withCol_blocks
 -- name    : GlobalTheory.StepData.withCol_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:49:59.840097+00:00
 -- url     : https://prove2.me/theorems/1d7d0187-b0b7-4718-a149-4a5541602955

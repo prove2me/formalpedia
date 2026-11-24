@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HInv_map_tuple_eq
 -- name    : GlobalTheory.CompanionTheory.SW.HInv.map_tuple_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:06:02.72638+00:00
 -- url     : https://prove2.me/theorems/3349c019-113f-4a2d-94f5-6a095b3346ef

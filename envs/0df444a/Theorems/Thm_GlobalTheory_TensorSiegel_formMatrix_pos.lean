@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorSiegel_formMatrix_pos
 -- name    : GlobalTheory.TensorSiegel.formMatrix_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:04:01.596793+00:00
 -- url     : https://prove2.me/theorems/c4e9cd16-9004-4131-bc73-bc1147910bc2

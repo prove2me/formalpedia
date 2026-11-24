@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusOrbitLat_mulLat_eq_iff
 -- name    : GlobalTheory.TorusOrbitLat.mulLat_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:11:16.456038+00:00
 -- url     : https://prove2.me/theorems/e770aeb4-3a97-4b66-8d31-6e0a416f6bc1

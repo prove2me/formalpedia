@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_ProdCount_mulLat_one
 -- name    : GlobalTheory.UnitLemma.ProdCount.mulLat_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:28:43.447744+00:00
 -- url     : https://prove2.me/theorems/9d4f0f97-da24-4c78-9f4b-494b936e2536

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_NO_mem_O_iff
 -- name    : PI.KLW.NO.mem_O_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:44:08.124796+00:00
 -- url     : https://prove2.me/theorems/96d30c79-f00f-450f-8bc3-85ee0d6655f2

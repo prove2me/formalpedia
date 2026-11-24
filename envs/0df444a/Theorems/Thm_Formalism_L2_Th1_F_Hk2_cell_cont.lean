@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Hk2_cell_cont
 -- name    : Formalism.L2.Th1.F.Hk2.cell_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:30:32.124296+00:00
 -- url     : https://prove2.me/theorems/93a7674f-f4b8-46fa-aab8-5274777d0df4

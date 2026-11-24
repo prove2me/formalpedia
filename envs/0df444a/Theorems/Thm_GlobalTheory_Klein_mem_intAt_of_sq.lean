@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Klein_mem_intAt_of_sq
 -- name    : GlobalTheory.Klein.mem_intAt_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:46:19.187979+00:00
 -- url     : https://prove2.me/theorems/14acab3a-7c5d-4648-bed5-46bb664bff0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_mem_stabLat
 -- name    : GlobalTheory.StepData.mem_stabLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:48:34.575403+00:00
 -- url     : https://prove2.me/theorems/efe9f2ea-1ace-4ad0-9e5d-d6b59aa7c4c9

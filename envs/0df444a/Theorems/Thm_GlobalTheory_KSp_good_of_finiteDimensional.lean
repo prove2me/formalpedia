@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_good_of_finiteDimensional
 -- name    : GlobalTheory.KSp.good_of_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:22:42.351433+00:00
 -- url     : https://prove2.me/theorems/f28f6c95-2242-4e95-b5cb-a449f7a71cd8

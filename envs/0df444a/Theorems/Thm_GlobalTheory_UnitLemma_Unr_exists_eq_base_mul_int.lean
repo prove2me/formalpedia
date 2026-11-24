@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_exists_eq_base_mul_int
 -- name    : GlobalTheory.UnitLemma.Unr.exists_eq_base_mul_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:35:53.483246+00:00
 -- url     : https://prove2.me/theorems/7e33697c-b94c-4711-bdf2-4f41cba79063

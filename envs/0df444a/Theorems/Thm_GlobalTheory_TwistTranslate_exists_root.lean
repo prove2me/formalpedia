@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistTranslate_exists_root
 -- name    : GlobalTheory.TwistTranslate.exists_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:13:40.967288+00:00
 -- url     : https://prove2.me/theorems/178b8f7f-4ad8-4065-aaa1-79440c2d4bca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Bridge_exists_fixed_val
 -- name    : GlobalTheory.UnitLemma.Bridge.exists_fixed_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:26:37.253503+00:00
 -- url     : https://prove2.me/theorems/9f6891c5-fc4b-48c4-a486-9829e1bacc3b

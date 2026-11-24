@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_B5_index_image_ideal
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.B5.index_image_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:48:32.147777+00:00
 -- url     : https://prove2.me/theorems/de0ff4d9-bce8-4fcc-9ccd-bade332b9411

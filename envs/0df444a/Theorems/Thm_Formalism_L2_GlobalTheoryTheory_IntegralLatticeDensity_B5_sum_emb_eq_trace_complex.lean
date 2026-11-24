@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_B5_sum_emb_eq_trace_complex
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.B5.sum_emb_eq_trace_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:49:56.609982+00:00
 -- url     : https://prove2.me/theorems/cc498d4d-c542-4281-8aed-d42b1dbd8c8d

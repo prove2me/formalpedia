@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_last_exit_after_finite_downcrossing
 -- name    : Kyprianou.Ch08.StageB.p2m810_last_exit_after_finite_downcrossing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:34:23.322801+00:00
 -- url     : https://prove2.me/theorems/f4532585-dfd8-4a2e-ab0c-e69d5ebe62ac

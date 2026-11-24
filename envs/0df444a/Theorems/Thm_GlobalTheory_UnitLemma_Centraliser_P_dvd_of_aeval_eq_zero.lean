@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Centraliser_P_dvd_of_aeval_eq_zero
 -- name    : GlobalTheory.UnitLemma.Centraliser.P_dvd_of_aeval_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:32:45.730181+00:00
 -- url     : https://prove2.me/theorems/0e425659-29a4-49b2-87da-4aef1efb69ff

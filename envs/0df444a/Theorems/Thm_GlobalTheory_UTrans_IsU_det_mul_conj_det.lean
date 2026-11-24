@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_IsU_det_mul_conj_det
 -- name    : GlobalTheory.UTrans.IsU.det_mul_conj_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:11:24.776237+00:00
 -- url     : https://prove2.me/theorems/48ece2ee-b0f3-40ea-9253-95d20aca3138

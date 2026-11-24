@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_normOp_comp
 -- name    : GlobalTheory.FinWeil.normOp_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:13:54.448521+00:00
 -- url     : https://prove2.me/theorems/e58ea5a6-8329-4378-9360-2010c3a67680

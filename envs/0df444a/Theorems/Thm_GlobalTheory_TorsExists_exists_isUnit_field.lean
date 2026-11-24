@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsExists_exists_isUnit_field
 -- name    : GlobalTheory.TorsExists.exists_isUnit_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:08:43.394439+00:00
 -- url     : https://prove2.me/theorems/97b1c482-17f9-4e17-ac10-54e12b65c24f

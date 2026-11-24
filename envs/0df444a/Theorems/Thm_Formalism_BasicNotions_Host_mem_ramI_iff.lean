@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_Host_mem_ramI_iff
 -- name    : Formalism.BasicNotions.Host.mem_ramI_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:42:55.681871+00:00
 -- url     : https://prove2.me/theorems/293284ee-2295-47a7-8196-a82e9e16c816

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_Window_not_isIntegral_inv_smul_idem
 -- name    : GlobalTheory.UnitLemma.Desc.Window.not_isIntegral_inv_smul_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:27:17.08099+00:00
 -- url     : https://prove2.me/theorems/04d08133-fb1c-46cf-b0c2-146d85902fcf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_isTransv_iff_gram
 -- name    : GlobalTheory.SA.isTransv_iff_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:36:53.584337+00:00
 -- url     : https://prove2.me/theorems/e9ab3050-a8f1-41ca-a869-7599438b8c63

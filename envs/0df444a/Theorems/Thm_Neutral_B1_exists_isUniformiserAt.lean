@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Neutral_B1_exists_isUniformiserAt
 -- name    : Neutral.B1.exists_isUniformiserAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:42:46.162799+00:00
 -- url     : https://prove2.me/theorems/3da9f54f-d532-4962-9312-0854f8a21f52

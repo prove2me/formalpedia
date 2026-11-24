@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhatIntegral_gaussianShape_rootOfUnityPhase
 -- name    : GlobalTheory.T.schwartzBruhatIntegral_gaussianShape_rootOfUnityPhase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:56:38.128795+00:00
 -- url     : https://prove2.me/theorems/c64ef792-4e1f-4b16-bc92-412115e1c9e8

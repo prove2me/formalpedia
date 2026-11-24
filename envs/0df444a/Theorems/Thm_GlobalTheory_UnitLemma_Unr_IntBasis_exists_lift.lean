@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_IntBasis_exists_lift
 -- name    : GlobalTheory.UnitLemma.Unr.IntBasis.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:34:18.397029+00:00
 -- url     : https://prove2.me/theorems/4726a44b-d9c0-41d1-be27-32cf252f59b9

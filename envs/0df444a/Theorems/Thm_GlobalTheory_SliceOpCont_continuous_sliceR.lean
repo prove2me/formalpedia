@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceOpCont_continuous_sliceR
 -- name    : GlobalTheory.SliceOpCont.continuous_sliceR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:14:53.280254+00:00
 -- url     : https://prove2.me/theorems/6667e6e3-b3b0-4c38-a926-c79a10a9e15a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TransferCommutator_transfer_eq_one
 -- name    : GlobalTheory.TransferCommutator.transfer_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:11:56.062799+00:00
 -- url     : https://prove2.me/theorems/ede8ad3d-4a20-42db-8937-a4c94c0466e3

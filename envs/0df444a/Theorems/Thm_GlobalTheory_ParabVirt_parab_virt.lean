@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ParabVirt_parab_virt
 -- name    : GlobalTheory.ParabVirt.parab_virt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:41:15.351907+00:00
 -- url     : https://prove2.me/theorems/3d0180ea-f6f2-40eb-903b-31d8f94c5ecf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_siegel_cover
 -- name    : GlobalTheory.ClassFin.siegel_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:12:06.141073+00:00
 -- url     : https://prove2.me/theorems/fb49d272-fb7f-411c-91e1-65a61c08f407

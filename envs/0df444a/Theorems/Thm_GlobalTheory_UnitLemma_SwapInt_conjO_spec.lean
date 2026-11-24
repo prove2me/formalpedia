@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_SwapInt_conjO_spec
 -- name    : GlobalTheory.UnitLemma.SwapInt.conjO_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:34:12.322948+00:00
 -- url     : https://prove2.me/theorems/54742efb-90a5-4a44-a34a-3aaac365ad2b

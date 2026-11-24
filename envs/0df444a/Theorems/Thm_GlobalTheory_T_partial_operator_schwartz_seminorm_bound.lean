@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_partial_operator_schwartz_seminorm_bound
 -- name    : GlobalTheory.T.partial_operator_schwartz_seminorm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:55:20.248485+00:00
 -- url     : https://prove2.me/theorems/3a2f30de-dd87-4076-8338-cf50d7662b2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_isMulLeftInvariant_volGL
 -- name    : GlobalTheory.SplitWeil.isMulLeftInvariant_volGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:21:18.781291+00:00
 -- url     : https://prove2.me/theorems/73c59cf2-9c5e-4272-ba36-8f6b3e8c688f

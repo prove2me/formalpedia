@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExactSeq_finite
 -- name    : GlobalTheory.ExactSeq.finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:40:22.284167+00:00
 -- url     : https://prove2.me/theorems/66fa9304-e40f-4eec-b761-7e7a07036305

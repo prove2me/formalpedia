@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TypeComplement_ne_bot_iff_toSubmodule
 -- name    : GlobalTheory.TypeComplement.ne_bot_iff_toSubmodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:16:33.627584+00:00
 -- url     : https://prove2.me/theorems/3cec133c-ef2c-484d-a7a8-f774a3a61b8a

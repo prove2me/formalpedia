@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDataTest_relab_conj
 -- name    : GlobalTheory.UnifDataTest.relab_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:24:37.606315+00:00
 -- url     : https://prove2.me/theorems/f40c50c1-a12c-4d82-a156-ed6cb4fabb35

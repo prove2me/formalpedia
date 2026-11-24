@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDiscAlg_integ_det_le
 -- name    : GlobalTheory.UnitDiscAlg.integ_det_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:26:37.0688+00:00
 -- url     : https://prove2.me/theorems/cedacb02-fb57-4428-85cf-9207d9e8d1ec

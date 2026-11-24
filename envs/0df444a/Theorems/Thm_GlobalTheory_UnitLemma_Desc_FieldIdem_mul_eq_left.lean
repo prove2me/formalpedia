@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_FieldIdem_mul_eq_left
 -- name    : GlobalTheory.UnitLemma.Desc.FieldIdem.mul_eq_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:26:34.815745+00:00
 -- url     : https://prove2.me/theorems/eb4a65ef-3b86-4ae7-82e3-8878ffa94b14

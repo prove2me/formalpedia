@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_Window_mem_of_pos
 -- name    : GlobalTheory.UnitLemma.Desc.Window.mem_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:27:07.494571+00:00
 -- url     : https://prove2.me/theorems/a7c91855-6d17-4a52-9b5b-64ac695334b5

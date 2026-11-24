@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_WeilFormula_setIntegral_addSubgroup_add_right
 -- name    : GlobalTheory.KSp.WeilFormula.setIntegral_addSubgroup_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:48:44.245338+00:00
 -- url     : https://prove2.me/theorems/5ff1389b-cb93-47ed-bbca-97827641d1a6

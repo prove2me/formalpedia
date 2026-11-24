@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isPrimitive_extendZero_of_sum_unipotentRadical
 -- name    : GlobalTheory.T.isPrimitive_extendZero_of_sum_unipotentRadical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:49:03.295718+00:00
 -- url     : https://prove2.me/theorems/5410b63d-8b7e-491c-b248-ab885ab63816

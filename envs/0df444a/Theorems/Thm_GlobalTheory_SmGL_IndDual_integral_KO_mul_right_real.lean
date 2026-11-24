@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_IndDual_integral_KO_mul_right_real
 -- name    : GlobalTheory.SmGL.IndDual.integral_KO_mul_right_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:17:45.395628+00:00
 -- url     : https://prove2.me/theorems/9480a402-37ad-4ac5-829f-65a7d1360f8f

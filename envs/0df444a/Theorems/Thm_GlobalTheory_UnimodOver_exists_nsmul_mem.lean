@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnimodOver_exists_nsmul_mem
 -- name    : GlobalTheory.UnimodOver.exists_nsmul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:25:16.932156+00:00
 -- url     : https://prove2.me/theorems/db2404d3-a9f3-4984-9abb-09314b8a916e

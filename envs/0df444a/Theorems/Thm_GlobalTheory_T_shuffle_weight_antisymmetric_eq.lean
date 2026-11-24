@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_shuffle_weight_antisymmetric_eq
 -- name    : GlobalTheory.T.shuffle_weight_antisymmetric_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:57:49.09795+00:00
 -- url     : https://prove2.me/theorems/d6cf1e32-3991-4511-9b4c-e552fee3fe3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_smaller_unitary_group_embedding
 -- name    : GlobalTheory.T.exists_smaller_unitary_group_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:36:25.347803+00:00
 -- url     : https://prove2.me/theorems/cb3b9aae-40cd-4bca-8e18-a466ee05efbf

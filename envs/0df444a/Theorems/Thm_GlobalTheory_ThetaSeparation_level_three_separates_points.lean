@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaSeparation_level_three_separates_points
 -- name    : GlobalTheory.ThetaSeparation.level_three_separates_points
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:51.442558+00:00
 -- url     : https://prove2.me/theorems/e2a93822-78d5-4652-b797-01b4acf5a104

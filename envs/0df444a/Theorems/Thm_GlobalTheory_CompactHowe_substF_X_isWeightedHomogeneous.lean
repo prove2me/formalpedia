@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactHowe_substF_X_isWeightedHomogeneous
 -- name    : GlobalTheory.CompactHowe.substF_X_isWeightedHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:49:11.880804+00:00
 -- url     : https://prove2.me/theorems/2eaba7aa-2b19-4574-8709-a6224f20c633

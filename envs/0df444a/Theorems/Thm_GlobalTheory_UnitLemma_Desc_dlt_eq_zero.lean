@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_dlt_eq_zero
 -- name    : GlobalTheory.UnitLemma.Desc.dlt_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:27:31.452724+00:00
 -- url     : https://prove2.me/theorems/c1f7e78a-a78e-4b91-9827-efd98b8252fa

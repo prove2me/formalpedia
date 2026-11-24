@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToSplit_exists_gtDatum
 -- name    : GlobalTheory.ToSplit.exists_gtDatum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:08:02.347898+00:00
 -- url     : https://prove2.me/theorems/af1c2131-ec76-4a2c-af15-68243407e1db

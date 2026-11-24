@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_finite_det_line_zero
 -- name    : GlobalTheory.KSp.finite_det_line_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:47:05.020751+00:00
 -- url     : https://prove2.me/theorems/97800248-a05b-4e77-8fca-2e8f841973c4

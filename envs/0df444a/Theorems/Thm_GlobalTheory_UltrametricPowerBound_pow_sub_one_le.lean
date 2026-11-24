@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UltrametricPowerBound_pow_sub_one_le
 -- name    : GlobalTheory.UltrametricPowerBound.pow_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:23:18.677208+00:00
 -- url     : https://prove2.me/theorems/aedf566a-a804-413e-85bd-564bd0caf0fc

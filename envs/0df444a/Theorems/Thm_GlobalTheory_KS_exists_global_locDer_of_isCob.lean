@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_exists_global_locDer_of_isCob
 -- name    : GlobalTheory.KS.exists_global_locDer_of_isCob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:48:07.762183+00:00
 -- url     : https://prove2.me/theorems/4d0479fe-df0f-4a7c-a67f-a959958baeb4

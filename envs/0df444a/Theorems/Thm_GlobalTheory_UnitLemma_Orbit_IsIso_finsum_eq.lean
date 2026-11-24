@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Orbit_IsIso_finsum_eq
 -- name    : GlobalTheory.UnitLemma.Orbit.IsIso.finsum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:27:22.364398+00:00
 -- url     : https://prove2.me/theorems/0f7dec21-aad0-4cb1-aee9-2f8555844f35

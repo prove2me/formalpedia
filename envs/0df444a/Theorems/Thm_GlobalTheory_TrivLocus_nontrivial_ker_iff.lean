@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TrivLocus_nontrivial_ker_iff
 -- name    : GlobalTheory.TrivLocus.nontrivial_ker_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:13:27.840087+00:00
 -- url     : https://prove2.me/theorems/03a51d91-3751-43ed-bb31-354279db64ef

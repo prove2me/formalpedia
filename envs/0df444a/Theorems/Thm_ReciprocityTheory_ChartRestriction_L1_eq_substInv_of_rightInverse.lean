@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_eq_substInv_of_rightInverse
 -- name    : ReciprocityTheory.ChartRestriction.L1.eq_substInv_of_rightInverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:44:30.143818+00:00
 -- url     : https://prove2.me/theorems/d3f3f9c9-43c6-4c34-b984-1bbcc65b4c0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BZBridge_irreducibleAdmissible
 -- name    : GlobalTheory.BZBridge.irreducibleAdmissible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:36:43.914076+00:00
 -- url     : https://prove2.me/theorems/cff054b4-237d-4c21-8b1d-2e55ffe1645a

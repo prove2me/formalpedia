@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_Mdl_sigC_coe
 -- name    : PI.SqPairLocal.Mdl.sigC_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:45:12.08772+00:00
 -- url     : https://prove2.me/theorems/2132a4ff-957c-4629-8b6a-eb10dbfdd609

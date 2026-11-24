@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_ProdCount_stabLat_prod
 -- name    : GlobalTheory.UnitLemma.ProdCount.stabLat_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:28:54.996044+00:00
 -- url     : https://prove2.me/theorems/a2d6a0ce-8d84-45fb-b89d-f1c158d6171e

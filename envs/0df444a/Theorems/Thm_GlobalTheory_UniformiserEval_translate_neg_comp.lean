@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UniformiserEval_translate_neg_comp
 -- name    : GlobalTheory.UniformiserEval.translate_neg_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:29:58.877003+00:00
 -- url     : https://prove2.me/theorems/6ce72bc4-3f41-4032-8127-9ff97d37da3c

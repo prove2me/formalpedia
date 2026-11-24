@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToSplit_hasWeight_of_appLE
 -- name    : GlobalTheory.ToSplit.hasWeight_of_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:08:02.868859+00:00
 -- url     : https://prove2.me/theorems/32e0153c-ff95-4884-a907-01e6861ce2d6

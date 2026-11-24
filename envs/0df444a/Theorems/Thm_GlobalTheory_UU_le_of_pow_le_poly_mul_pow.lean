@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_le_of_pow_le_poly_mul_pow
 -- name    : GlobalTheory.UU.le_of_pow_le_poly_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:23:06.231663+00:00
 -- url     : https://prove2.me/theorems/75a107d4-af67-495a-9d32-03896dc4bb00

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitNormRealPartBound_re_gt
 -- name    : GlobalTheory.UnitNormRealPartBound.re_gt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:37:48.180814+00:00
 -- url     : https://prove2.me/theorems/c2b597cd-2229-4ebd-b302-9c9f6782ab6b

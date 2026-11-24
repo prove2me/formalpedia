@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_NormVal_exists_lift_of_val_eq_zero
 -- name    : GlobalTheory.UnitLemma.Unr.NormVal.exists_lift_of_val_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:34:22.272414+00:00
 -- url     : https://prove2.me/theorems/30b2aa8f-f1ae-42a0-936c-b613d1afe163

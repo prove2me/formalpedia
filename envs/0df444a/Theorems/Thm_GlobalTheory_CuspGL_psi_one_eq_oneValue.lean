@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_psi_one_eq_oneValue
 -- name    : GlobalTheory.CuspGL.psi_one_eq_oneValue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:32:34.205532+00:00
 -- url     : https://prove2.me/theorems/cb9c6482-857a-4ffe-95fd-9ccfd162a7c4

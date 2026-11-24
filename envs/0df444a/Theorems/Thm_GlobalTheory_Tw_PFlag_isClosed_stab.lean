@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PFlag_isClosed_stab
 -- name    : GlobalTheory.Tw.PFlag.isClosed_stab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:40:56.797989+00:00
 -- url     : https://prove2.me/theorems/206849e8-88e3-45ee-aca0-78a3b96521d3

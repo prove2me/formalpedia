@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_twoCocycle_comma_coboundary_of_standardCover_alt
 -- name    : GlobalTheory.T.twoCocycle_comma_coboundary_of_standardCover_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:01:10.66817+00:00
 -- url     : https://prove2.me/theorems/29af07b1-ed82-4b78-bb7b-f55e6703e938

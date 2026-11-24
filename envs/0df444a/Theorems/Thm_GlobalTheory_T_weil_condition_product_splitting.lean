@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weil_condition_product_splitting
 -- name    : GlobalTheory.T.weil_condition_product_splitting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:01:40.903867+00:00
 -- url     : https://prove2.me/theorems/0ae2de41-9a8a-417f-83f6-f66e24ba5d32

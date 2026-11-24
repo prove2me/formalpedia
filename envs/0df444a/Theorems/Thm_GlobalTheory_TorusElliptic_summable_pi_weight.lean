@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusElliptic_summable_pi_weight
 -- name    : GlobalTheory.TorusElliptic.summable_pi_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:09:51.978907+00:00
 -- url     : https://prove2.me/theorems/52077cd2-f33c-4ec8-b4bc-e5d4cf2c38c5

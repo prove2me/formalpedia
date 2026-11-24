@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifParts_isPeriod_transport
 -- name    : GlobalTheory.UnifParts.isPeriod_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:24:24.609822+00:00
 -- url     : https://prove2.me/theorems/66809bed-373a-475f-a23a-27c9870a0ac9

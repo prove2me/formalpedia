@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_SplitRep_exists_div
 -- name    : GlobalTheory.UnRep.SplitRep.exists_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:25:43.162217+00:00
 -- url     : https://prove2.me/theorems/a2874d5d-58da-4dc7-85d4-944254088999

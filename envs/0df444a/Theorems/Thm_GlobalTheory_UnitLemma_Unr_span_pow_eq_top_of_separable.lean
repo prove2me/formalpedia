@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_span_pow_eq_top_of_separable
 -- name    : GlobalTheory.UnitLemma.Unr.span_pow_eq_top_of_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:38:37.451407+00:00
 -- url     : https://prove2.me/theorems/0e68febd-10c5-4597-962d-aaa03d7f4e64

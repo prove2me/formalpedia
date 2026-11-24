@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_SquareField_field_pb
 -- name    : GlobalTheory.KS.SquareField.field_pb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:45:41.639467+00:00
 -- url     : https://prove2.me/theorems/524a4cfc-6ad3-416e-a43f-ada7b6ede5ec

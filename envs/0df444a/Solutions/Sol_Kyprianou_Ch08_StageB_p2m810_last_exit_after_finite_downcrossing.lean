@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.p2m810_last_exit_after_finite_downcrossing
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T21:38:01.523865+00:00
 -- url     : https://prove2.me/submissions/51f501c3-6791-4851-b464-1b14555a1bce
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_restart_clock_order
 import Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_restart_clock_le

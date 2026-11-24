@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilMix_negB_ptrB_wS_ptrB
 -- name    : GlobalTheory.JR.WeilMix.negB_ptrB_wS_ptrB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:38:39.221821+00:00
 -- url     : https://prove2.me/theorems/53733123-52e1-4a58-9e09-f9ab5a388a2e

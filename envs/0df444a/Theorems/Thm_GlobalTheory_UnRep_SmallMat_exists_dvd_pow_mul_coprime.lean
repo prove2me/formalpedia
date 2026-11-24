@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_SmallMat_exists_dvd_pow_mul_coprime
 -- name    : GlobalTheory.UnRep.SmallMat.exists_dvd_pow_mul_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:23:15.570537+00:00
 -- url     : https://prove2.me/theorems/88423baa-aada-43f8-84b5-7d8572371784

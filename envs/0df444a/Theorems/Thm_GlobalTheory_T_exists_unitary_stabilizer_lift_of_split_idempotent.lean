@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unitary_stabilizer_lift_of_split_idempotent
 -- name    : GlobalTheory.T.exists_unitary_stabilizer_lift_of_split_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:38:46.832178+00:00
 -- url     : https://prove2.me/theorems/ddcf8807-75db-4810-9ef1-26a8409e23da

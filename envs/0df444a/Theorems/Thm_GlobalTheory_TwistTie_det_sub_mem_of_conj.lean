@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistTie_det_sub_mem_of_conj
 -- name    : GlobalTheory.TwistTie.det_sub_mem_of_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:13:41.497933+00:00
 -- url     : https://prove2.me/theorems/407e3664-0a7c-4a34-8332-fd14c2a98007

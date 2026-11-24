@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_POf_pOf_split
 -- name    : Formalism.L2.Th1.F.POf.pOf_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:18:22.170671+00:00
 -- url     : https://prove2.me/theorems/60eb1e79-d7b0-4a15-a3e5-efe1b270c0be

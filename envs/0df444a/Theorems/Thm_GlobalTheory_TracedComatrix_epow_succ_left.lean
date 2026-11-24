@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TracedComatrix_epow_succ_left
 -- name    : GlobalTheory.TracedComatrix.epow_succ_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:11:41.377685+00:00
 -- url     : https://prove2.me/theorems/5bea047b-0a07-4f45-a4aa-f82c46a8e3e8

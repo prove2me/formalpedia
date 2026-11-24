@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_val_nonneg_of_int
 -- name    : GlobalTheory.UnitLemma.Unr.val_nonneg_of_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:38:06.324584+00:00
 -- url     : https://prove2.me/theorems/6dd5766d-ee77-4238-8d28-e0d933acd679

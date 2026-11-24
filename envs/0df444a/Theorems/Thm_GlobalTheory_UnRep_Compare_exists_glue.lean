@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_exists_glue
 -- name    : GlobalTheory.UnRep.Compare.exists_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:23:16.568583+00:00
 -- url     : https://prove2.me/theorems/2bac38ec-ba1d-4e6b-a616-2648368562ae

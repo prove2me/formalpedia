@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_sum_powerset_neg_one_pow_inter
 -- name    : GlobalTheory.UnitLemma.Desc.sum_powerset_neg_one_pow_inter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:28:24.331+00:00
 -- url     : https://prove2.me/theorems/8d168b4d-5e9b-400d-8557-d63f1f78d8b5

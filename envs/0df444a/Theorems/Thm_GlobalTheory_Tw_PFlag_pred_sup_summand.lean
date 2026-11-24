@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PFlag_pred_sup_summand
 -- name    : GlobalTheory.Tw.PFlag.pred_sup_summand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:13:15.441711+00:00
 -- url     : https://prove2.me/theorems/cb108e5f-483c-4e42-8f4e-71103f958ed6

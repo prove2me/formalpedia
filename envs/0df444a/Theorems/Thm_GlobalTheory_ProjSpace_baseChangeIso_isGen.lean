@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_baseChangeIso_isGen
 -- name    : GlobalTheory.ProjSpace.baseChangeIso_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:47:13.386845+00:00
 -- url     : https://prove2.me/theorems/8577c2ea-ab83-4cad-800d-fa4d5102cec0

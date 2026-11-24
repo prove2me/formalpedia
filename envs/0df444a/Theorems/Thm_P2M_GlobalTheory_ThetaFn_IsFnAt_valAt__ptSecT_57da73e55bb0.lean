@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ThetaFn_IsFnAt_valAt__ptSecT_57da73e55bb0
 -- name    : P2M_GlobalTheory_ThetaFn_IsFnAt_valAt__ptSecT_57da73e55bb0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:38:43.239964+00:00
 -- url     : https://prove2.me/theorems/04a1703d-5eeb-4b24-844b-f1344e954fbb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_isSplitPlace_of_splitPl
 -- name    : GlobalTheory.UnRep.Compare.isSplitPlace_of_splitPl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:23:41.106847+00:00
 -- url     : https://prove2.me/theorems/d8fc0646-d774-40a1-b642-6d8734557f07

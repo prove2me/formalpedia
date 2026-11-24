@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_exists_inverse_one_add_preserving_hat
 -- name    : GlobalTheory.UnRep.exists_inverse_one_add_preserving_hat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:24:38.607538+00:00
 -- url     : https://prove2.me/theorems/fcdf903e-96d9-4902-a8e7-7119863c6542

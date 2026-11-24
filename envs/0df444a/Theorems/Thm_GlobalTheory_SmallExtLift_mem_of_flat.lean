@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallExtLift_mem_of_flat
 -- name    : GlobalTheory.SmallExtLift.mem_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:14:49.378953+00:00
 -- url     : https://prove2.me/theorems/dc90b0aa-54c8-45fd-89fd-6ab360b41274

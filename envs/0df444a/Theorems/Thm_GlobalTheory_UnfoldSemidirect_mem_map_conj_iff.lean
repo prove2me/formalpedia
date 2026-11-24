@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldSemidirect_mem_map_conj_iff
 -- name    : GlobalTheory.UnfoldSemidirect.mem_map_conj_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:24:28.576802+00:00
 -- url     : https://prove2.me/theorems/d20d58f6-90af-4495-bde9-4b12b0365e73

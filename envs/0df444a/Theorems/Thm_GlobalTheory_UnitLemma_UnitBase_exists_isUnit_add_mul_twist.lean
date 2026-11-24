@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_UnitBase_exists_isUnit_add_mul_twist
 -- name    : GlobalTheory.UnitLemma.UnitBase.exists_isUnit_add_mul_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:34:38.140491+00:00
 -- url     : https://prove2.me/theorems/edbfbd57-63b7-46db-a685-ee2e15d9cd28

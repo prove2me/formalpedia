@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_TypeDatum_iter_succ
 -- name    : GlobalTheory.StepData.TypeDatum.iter_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:49:21.422356+00:00
 -- url     : https://prove2.me/theorems/afba934d-1d9e-4fc5-866f-f8327a7e3039

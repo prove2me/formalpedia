@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_CentralizerAdjoin_inv_mem_adjoin_of_isUnit
 -- name    : GlobalTheory.Tw.CentralizerAdjoin.inv_mem_adjoin_of_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:12:38.757901+00:00
 -- url     : https://prove2.me/theorems/9a0d1fcc-6415-4e39-956a-a0041aaf03b4

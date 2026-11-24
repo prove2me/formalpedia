@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EisTube_psi_indep
 -- name    : EisTube.psi_indep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:20:35.240839+00:00
 -- url     : https://prove2.me/theorems/98fd448b-cc11-42ca-b070-baab8f4a6144

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoprimeBasisExistence_mem_of_natCast_mem
 -- name    : GlobalTheory.CoprimeBasisExistence.mem_of_natCast_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:49:20.379187+00:00
 -- url     : https://prove2.me/theorems/45619147-8b7a-495a-aa72-7cb85ea75691

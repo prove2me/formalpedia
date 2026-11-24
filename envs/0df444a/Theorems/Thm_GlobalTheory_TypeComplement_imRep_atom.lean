@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TypeComplement_imRep_atom
 -- name    : GlobalTheory.TypeComplement.imRep_atom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:16:46.614853+00:00
 -- url     : https://prove2.me/theorems/8a12a25e-059e-4b0c-ae36-db41992c115e

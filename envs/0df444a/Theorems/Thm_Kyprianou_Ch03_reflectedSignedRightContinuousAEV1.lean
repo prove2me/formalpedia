@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_reflectedSignedRightContinuousAEV1
 -- name    : Kyprianou.Ch03.reflectedSignedRightContinuousAEV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:17:29.947303+00:00
 -- url     : https://prove2.me/theorems/68e016b7-1998-4a01-acc4-4e98fd584293

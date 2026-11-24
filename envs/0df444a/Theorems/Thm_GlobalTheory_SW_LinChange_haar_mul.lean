@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_LinChange_haar_mul
 -- name    : GlobalTheory.SW.LinChange.haar_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:09:57.798534+00:00
 -- url     : https://prove2.me/theorems/fb518474-3903-4317-919c-fe3b8af031a2

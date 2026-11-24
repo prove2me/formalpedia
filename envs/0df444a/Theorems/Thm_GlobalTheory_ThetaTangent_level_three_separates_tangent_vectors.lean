@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaTangent_level_three_separates_tangent_vectors
 -- name    : GlobalTheory.ThetaTangent.level_three_separates_tangent_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:23.792848+00:00
 -- url     : https://prove2.me/theorems/0f82addf-9100-4826-8da8-ba9e992d13aa

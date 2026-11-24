@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentInvariant_biInvariant_eval
 -- name    : GlobalTheory.UnipotentInvariant.biInvariant_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:25:23.656308+00:00
 -- url     : https://prove2.me/theorems/27909ae3-e616-43cf-b517-64b0c3ddd277

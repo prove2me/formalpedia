@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_jet_pderiv
 -- name    : Formalism.L2.Th1.G.jet_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:45:01.987347+00:00
 -- url     : https://prove2.me/theorems/4600a927-3972-4209-8975-b014c3d9b642

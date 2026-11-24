@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_ContraTrace_invariant_of_fixed
 -- name    : GlobalTheory.SmGL.ContraTrace.invariant_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:37:07.442797+00:00
 -- url     : https://prove2.me/theorems/602be210-dbf8-40a6-aa06-33e34a192213

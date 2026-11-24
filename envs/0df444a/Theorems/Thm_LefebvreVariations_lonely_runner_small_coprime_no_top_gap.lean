@@ -5,7 +5,7 @@
 -- created : 2026-11-24T21:41:01.335594+00:00
 -- url     : https://prove2.me/theorems/78619544-1f02-44ad-906e-fe9f7c281ec7
 -- title:
---   Lefebvre's variations: the lonely runner with four to seven runners, coprime speeds and no gap at the top
+--   Lefebvre's variations, No. 2 — on a theme by Wills: the lonely runner with four to seven runners, coprime speeds and no gap at the top
 -- statement:
 --   For a real number $x$ write $\|x\| = \min_{z \in \mathbb{Z}} |x - z|$ for its distance to the nearest integer.
 --

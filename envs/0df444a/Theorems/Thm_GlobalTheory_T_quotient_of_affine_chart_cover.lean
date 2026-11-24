@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quotient_of_affine_chart_cover
 -- name    : GlobalTheory.T.quotient_of_affine_chart_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:56:54.296389+00:00
 -- url     : https://prove2.me/theorems/4f75a533-d164-457c-aecd-18fca71c1e7c

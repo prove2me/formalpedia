@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceDetSplit_det_trace_monic
 -- name    : GlobalTheory.TraceDetSplit.det_trace_monic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:11:04.939641+00:00
 -- url     : https://prove2.me/theorems/9425e33e-ca50-40d8-a973-bf221cda5959

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDiscAlg_isUnit_and_integ_inv_of_norm_det_eq_one
 -- name    : GlobalTheory.UnitDiscAlg.isUnit_and_integ_inv_of_norm_det_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:26:54.588732+00:00
 -- url     : https://prove2.me/theorems/dd70ba9c-31bc-41c2-be59-058f1294bd0b

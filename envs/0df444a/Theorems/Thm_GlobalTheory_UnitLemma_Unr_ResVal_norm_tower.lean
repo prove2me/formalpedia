@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_ResVal_norm_tower
 -- name    : GlobalTheory.UnitLemma.Unr.ResVal.norm_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:36:36.939867+00:00
 -- url     : https://prove2.me/theorems/82a7d615-0cbf-4bc2-9a07-6f6feb13f249

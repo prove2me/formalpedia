@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModuleUnits_modK_units
 -- name    : GlobalTheory.ModuleUnits.modK_units
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:59.702724+00:00
 -- url     : https://prove2.me/theorems/e948150a-d794-45e3-828f-cd1f1d6f3fe9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_NormValU_val_inv_eq
 -- name    : GlobalTheory.UnitLemma.Unr.NormValU.val_inv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:35:55.266296+00:00
 -- url     : https://prove2.me/theorems/abbdd0ef-34c4-4542-b646-39eb0157786f

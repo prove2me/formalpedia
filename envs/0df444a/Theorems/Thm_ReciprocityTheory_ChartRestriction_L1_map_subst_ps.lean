@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_map_subst_ps
 -- name    : ReciprocityTheory.ChartRestriction.L1.map_subst_ps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:43:38.509815+00:00
 -- url     : https://prove2.me/theorems/ee9c8b79-35c5-4710-8425-e372b686b2ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_herbrand_prime_order
 -- name    : GlobalTheory.CNorm.herbrand_prime_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:07:55.019709+00:00
 -- url     : https://prove2.me/theorems/fcebca8c-a80e-48a7-9709-43338ec0c7b5

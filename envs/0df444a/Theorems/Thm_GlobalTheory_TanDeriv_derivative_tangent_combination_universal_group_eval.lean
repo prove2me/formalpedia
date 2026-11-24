@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TanDeriv_derivative_tangent_combination_universal_group_eval
 -- name    : GlobalTheory.TanDeriv.derivative_tangent_combination_universal_group_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:04:36.958099+00:00
 -- url     : https://prove2.me/theorems/48785eae-baa0-47db-b20a-1b0b5ff0a002

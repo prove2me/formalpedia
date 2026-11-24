@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integralLatticeInverseIndex_of_elementaryDivisors
 -- name    : GlobalTheory.T.integralLatticeInverseIndex_of_elementaryDivisors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:47:36.236163+00:00
 -- url     : https://prove2.me/theorems/42181208-0df1-4579-ae57-e2c243e36a3c

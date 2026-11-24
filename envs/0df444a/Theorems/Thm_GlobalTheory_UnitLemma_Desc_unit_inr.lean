@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_unit_inr
 -- name    : GlobalTheory.UnitLemma.Desc.unit_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:27:21.630802+00:00
 -- url     : https://prove2.me/theorems/fa156205-318f-407c-ad52-a7e171252762

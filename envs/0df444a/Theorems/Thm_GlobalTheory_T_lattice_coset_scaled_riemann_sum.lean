@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_coset_scaled_riemann_sum
 -- name    : GlobalTheory.T.lattice_coset_scaled_riemann_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:52:04.467326+00:00
 -- url     : https://prove2.me/theorems/069ec608-7345-4cd9-af5c-769740d1844f

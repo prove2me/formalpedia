@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_ReflGen_herm_span
 -- name    : GlobalTheory.UnRep.ReflGen.herm_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:23:11.545374+00:00
 -- url     : https://prove2.me/theorems/441d6c23-45cc-4e3e-acdd-e2ee893952f9

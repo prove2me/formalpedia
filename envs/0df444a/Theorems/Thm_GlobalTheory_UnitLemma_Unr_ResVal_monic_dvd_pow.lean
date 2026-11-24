@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_ResVal_monic_dvd_pow
 -- name    : GlobalTheory.UnitLemma.Unr.ResVal.monic_dvd_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:36:26.392267+00:00
 -- url     : https://prove2.me/theorems/23bdae63-a026-413c-a778-cc0c452e96c9

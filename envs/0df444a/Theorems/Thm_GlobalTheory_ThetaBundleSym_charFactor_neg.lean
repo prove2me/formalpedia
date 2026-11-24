@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaBundleSym_charFactor_neg
 -- name    : GlobalTheory.ThetaBundleSym.charFactor_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:04:46.308127+00:00
 -- url     : https://prove2.me/theorems/af1732db-2897-4602-a20f-b0d1a6e3aaa3

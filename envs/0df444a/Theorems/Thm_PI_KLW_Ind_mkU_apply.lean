@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Ind_mkU_apply
 -- name    : PI.KLW.Ind.mkU_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:41:45.431129+00:00
 -- url     : https://prove2.me/theorems/a4a4154b-98ed-47bb-a898-92862c2cd481

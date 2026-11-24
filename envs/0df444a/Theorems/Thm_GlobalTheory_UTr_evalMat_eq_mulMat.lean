@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTr_evalMat_eq_mulMat
 -- name    : GlobalTheory.UTr.evalMat_eq_mulMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:20:14.100532+00:00
 -- url     : https://prove2.me/theorems/b69e0dd9-6450-47d6-85c9-0deb2b421b31

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableSecondMomentVarianceV1
 -- name    : Kyprianou.Ch03.stableSecondMomentVarianceV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:17:21.608827+00:00
 -- url     : https://prove2.me/theorems/a739a09c-35f2-4e9d-8e44-d1a3e6c69085

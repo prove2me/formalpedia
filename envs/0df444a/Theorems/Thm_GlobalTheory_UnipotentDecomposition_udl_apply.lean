@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentDecomposition_udl_apply
 -- name    : GlobalTheory.UnipotentDecomposition.udl_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:25:17.920816+00:00
 -- url     : https://prove2.me/theorems/b5dc94ad-2cdd-4fdb-afe2-3a53d2307ee0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_IsPullConst_fn_eq
 -- name    : GlobalTheory.ThetaFn.IsPullConst.fn_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:05:00.396197+00:00
 -- url     : https://prove2.me/theorems/9fedfcef-9e2a-4b06-8cb8-44cd7b136a0d

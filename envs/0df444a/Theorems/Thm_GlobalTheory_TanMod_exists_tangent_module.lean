@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TanMod_exists_tangent_module
 -- name    : GlobalTheory.TanMod.exists_tangent_module
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:50:07.781237+00:00
 -- url     : https://prove2.me/theorems/5a6895df-ca2c-4744-9b7a-674273899c0a

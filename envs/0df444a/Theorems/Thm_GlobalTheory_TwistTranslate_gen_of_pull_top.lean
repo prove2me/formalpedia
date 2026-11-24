@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistTranslate_gen_of_pull_top
 -- name    : GlobalTheory.TwistTranslate.gen_of_pull_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:14:00.258815+00:00
 -- url     : https://prove2.me/theorems/a2ed387a-0884-4553-9bf7-d7f490440a0b

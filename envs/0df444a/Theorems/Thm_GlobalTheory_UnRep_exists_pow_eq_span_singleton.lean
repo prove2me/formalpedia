@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_exists_pow_eq_span_singleton
 -- name    : GlobalTheory.UnRep.exists_pow_eq_span_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:24:05.905146+00:00
 -- url     : https://prove2.me/theorems/296f4a06-4ec4-4ded-8360-c91628b0d77e

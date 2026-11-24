@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentBorder_udl_exists
 -- name    : GlobalTheory.UnipotentBorder.udl_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:25:39.60881+00:00
 -- url     : https://prove2.me/theorems/aedf6341-91de-491e-b869-19e0115a184d

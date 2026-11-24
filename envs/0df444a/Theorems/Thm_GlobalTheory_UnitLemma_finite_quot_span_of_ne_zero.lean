@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_finite_quot_span_of_ne_zero
 -- name    : GlobalTheory.UnitLemma.finite_quot_span_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:37:59.931804+00:00
 -- url     : https://prove2.me/theorems/e964a9cb-009f-4c99-9096-38d329eda46c

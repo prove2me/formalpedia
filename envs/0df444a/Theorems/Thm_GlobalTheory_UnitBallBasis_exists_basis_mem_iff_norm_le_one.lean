@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitBallBasis_exists_basis_mem_iff_norm_le_one
 -- name    : GlobalTheory.UnitBallBasis.exists_basis_mem_iff_norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:25:20.220895+00:00
 -- url     : https://prove2.me/theorems/eec9fe89-ea16-41d6-9cc3-9e786da39b83

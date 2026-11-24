@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_IsoBasis_hf_comb
 -- name    : GlobalTheory.UTrans.IsoBasis.hf_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:20:39.160504+00:00
 -- url     : https://prove2.me/theorems/122dcaae-c653-49c9-a771-c427e0196b2a

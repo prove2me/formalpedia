@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusNil_spm_comp
 -- name    : GlobalTheory.TorusNil.spm_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:06:08.170549+00:00
 -- url     : https://prove2.me/theorems/83468b67-260d-468e-8013-b6eb8b2056c8

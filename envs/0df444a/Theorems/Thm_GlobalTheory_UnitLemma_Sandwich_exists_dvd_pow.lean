@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Sandwich_exists_dvd_pow
 -- name    : GlobalTheory.UnitLemma.Sandwich.exists_dvd_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:29:22.662025+00:00
 -- url     : https://prove2.me/theorems/63bbd39c-9938-43f0-9ac6-f235df147a3b

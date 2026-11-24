@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallExtLift_gen_of_refine
 -- name    : GlobalTheory.SmallExtLift.gen_of_refine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:31:40.57836+00:00
 -- url     : https://prove2.me/theorems/db502ae5-2ea1-4530-ade0-b474de84bdc2

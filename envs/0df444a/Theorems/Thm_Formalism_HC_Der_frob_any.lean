@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_frob_any
 -- name    : Formalism.HC.Der.frob_any
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:28:31.026899+00:00
 -- url     : https://prove2.me/theorems/2e310973-e2c8-40fd-bcd0-c5b71d307152

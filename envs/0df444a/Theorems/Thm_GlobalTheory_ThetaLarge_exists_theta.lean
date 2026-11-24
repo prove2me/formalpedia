@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaLarge_exists_theta
 -- name    : GlobalTheory.ThetaLarge.exists_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:06:31.207866+00:00
 -- url     : https://prove2.me/theorems/e4b1394d-0095-441e-9c6f-90783af01ea0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_Chain_hf_line_right
 -- name    : GlobalTheory.UTrans.Chain.hf_line_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:19:58.188833+00:00
 -- url     : https://prove2.me/theorems/a9cc3d1f-b720-4360-8b64-4e0e99cad6a3

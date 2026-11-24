@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_exercise37PositiveStableLaplaceAndVariation
 -- name    : Kyprianou.Ch03.exercise37PositiveStableLaplaceAndVariation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:52:41.075536+00:00
 -- url     : https://prove2.me/theorems/b3d23926-4f6a-47fd-9dfa-7d7010649930

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_z_mem_perp
 -- name    : GlobalTheory.SA.z_mem_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:35:35.723985+00:00
 -- url     : https://prove2.me/theorems/e0a37d5b-ed14-4299-be13-9890a14784be

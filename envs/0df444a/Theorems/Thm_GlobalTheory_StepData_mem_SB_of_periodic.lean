@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_mem_SB_of_periodic
 -- name    : GlobalTheory.StepData.mem_SB_of_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:49:36.056495+00:00
 -- url     : https://prove2.me/theorems/1584fb0a-10a6-43b5-a08a-59c5799da5fb

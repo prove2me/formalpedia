@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifLieBasis_spMap_jetAug_surjective
 -- name    : GlobalTheory.UnifLieBasis.spMap_jetAug_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:27:29.039834+00:00
 -- url     : https://prove2.me/theorems/3c7c1365-7088-4bf9-ae0a-538b47ee4360

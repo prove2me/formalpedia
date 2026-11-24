@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_jets_in_norm_holds
 -- name    : Formalism.L2.Th1.G.jets_in_norm_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:46:38.759922+00:00
 -- url     : https://prove2.me/theorems/209e5252-fe3e-4da1-89cf-7ec7797cf73f

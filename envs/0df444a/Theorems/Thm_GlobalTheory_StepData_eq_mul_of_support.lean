@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_eq_mul_of_support
 -- name    : GlobalTheory.StepData.eq_mul_of_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:49:15.01056+00:00
 -- url     : https://prove2.me/theorems/c7521c39-91a1-42a0-a918-80f35652460b

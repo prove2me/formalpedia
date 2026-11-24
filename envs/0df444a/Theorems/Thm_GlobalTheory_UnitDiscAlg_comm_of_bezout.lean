@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDiscAlg_comm_of_bezout
 -- name    : GlobalTheory.UnitDiscAlg.comm_of_bezout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:26:43.933216+00:00
 -- url     : https://prove2.me/theorems/abc4754b-e97f-4210-8ce6-dc5de8141a27

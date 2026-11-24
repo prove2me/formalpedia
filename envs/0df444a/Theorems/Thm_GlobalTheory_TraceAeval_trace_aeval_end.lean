@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceAeval_trace_aeval_end
 -- name    : GlobalTheory.TraceAeval.trace_aeval_end
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:11:04.688389+00:00
 -- url     : https://prove2.me/theorems/56178ab5-c91f-4deb-8a11-0d6a11ee3cea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_NO_int_of_rat
 -- name    : PI.KLW.NO.int_of_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:44:06.50341+00:00
 -- url     : https://prove2.me/theorems/f55c9ab3-9888-4860-bf1e-c20f614e513f

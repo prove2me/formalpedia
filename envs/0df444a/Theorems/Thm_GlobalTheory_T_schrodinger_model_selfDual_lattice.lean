@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schrodinger_model_selfDual_lattice
 -- name    : GlobalTheory.T.schrodinger_model_selfDual_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:56:32.735798+00:00
 -- url     : https://prove2.me/theorems/2059e736-c886-4870-a9fd-c14b4395693b

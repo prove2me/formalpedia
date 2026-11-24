@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.stableHighGridExpectationTendstoZeroV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T21:38:19.684294+00:00
 -- url     : https://prove2.me/submissions/1955bcd4-5b87-49b4-8811-4d17b8f80e3c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

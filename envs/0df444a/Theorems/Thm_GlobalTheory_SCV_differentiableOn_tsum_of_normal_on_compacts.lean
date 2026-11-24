@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_differentiableOn_tsum_of_normal_on_compacts
 -- name    : GlobalTheory.SCV.differentiableOn_tsum_of_normal_on_compacts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:31:48.577031+00:00
 -- url     : https://prove2.me/theorems/055eaaa9-eb9a-4191-bca4-234c54af8bf4

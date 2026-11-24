@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Vac_pr_neg_left
 -- name    : GlobalTheory.SW.Vac.pr_neg_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:42:23.950342+00:00
 -- url     : https://prove2.me/theorems/06c8ec7c-9243-4759-9c27-d70045db422d

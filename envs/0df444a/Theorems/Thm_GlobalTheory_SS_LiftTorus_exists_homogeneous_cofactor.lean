@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LiftTorus_exists_homogeneous_cofactor
 -- name    : GlobalTheory.SS.LiftTorus.exists_homogeneous_cofactor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:35:27.477919+00:00
 -- url     : https://prove2.me/theorems/c92eba6c-0f94-4b64-be66-252e1b5295d9

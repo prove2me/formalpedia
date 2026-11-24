@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_NO_natCast_mem_O
 -- name    : PI.KLW.NO.natCast_mem_O
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:42:51.78435+00:00
 -- url     : https://prove2.me/theorems/dc3f9789-c2af-40be-97aa-5bbf54ba8dab

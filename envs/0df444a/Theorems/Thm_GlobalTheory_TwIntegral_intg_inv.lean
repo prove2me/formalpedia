@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwIntegral_intg_inv
 -- name    : GlobalTheory.TwIntegral.intg_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:14:34.283485+00:00
 -- url     : https://prove2.me/theorems/c56ba6e2-b68b-48fe-b29f-04e89ed4e885

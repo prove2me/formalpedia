@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_SchurComp_commutant_eq_sum
 -- name    : GlobalTheory.UU.SchurComp.commutant_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:24:21.232819+00:00
 -- url     : https://prove2.me/theorems/7669a54a-70f1-4bd0-811a-8588a94031da

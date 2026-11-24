@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Hk3_tendsto_bot
 -- name    : Formalism.L2.Th1.F.Hk3.tendsto_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:33:28.309958+00:00
 -- url     : https://prove2.me/theorems/7fd4f4fc-fd26-485a-99a6-1cde7bdfaf98

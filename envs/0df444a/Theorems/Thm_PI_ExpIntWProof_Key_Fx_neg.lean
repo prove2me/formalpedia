@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExpIntWProof_Key_Fx_neg
 -- name    : PI.ExpIntWProof.Key.Fx.neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:49:26.432365+00:00
 -- url     : https://prove2.me/theorems/dced6029-fe4b-4bc0-9765-be272c7959a5

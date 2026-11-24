@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPositivity_form_add_self
 -- name    : GlobalTheory.ThetaPositivity.form_add_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:59:11.495888+00:00
 -- url     : https://prove2.me/theorems/02abf709-eb4a-4017-960a-42f204731283

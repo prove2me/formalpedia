@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_valsAt_torus_surjective
 -- name    : GlobalTheory.UnitLemma.valsAt_torus_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:38:14.070823+00:00
 -- url     : https://prove2.me/theorems/07b1b90c-7d34-45cd-8b70-ad30257a14ba

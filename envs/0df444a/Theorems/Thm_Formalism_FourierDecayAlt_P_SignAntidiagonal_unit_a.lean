@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_unit_a
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.unit_a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:19:41.70793+00:00
 -- url     : https://prove2.me/theorems/1f829604-a3c9-4c31-a301-91b51eeec53a

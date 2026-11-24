@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Hk1_summable_norm
 -- name    : Formalism.L2.Th1.F.Hk1.summable_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:30:49.618519+00:00
 -- url     : https://prove2.me/theorems/ea922f79-e63d-41ab-abe5-a1cbe3a3d7a9

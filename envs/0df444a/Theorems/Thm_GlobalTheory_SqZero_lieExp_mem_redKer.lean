@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_lieExp_mem_redKer
 -- name    : GlobalTheory.SqZero.lieExp_mem_redKer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:36.948797+00:00
 -- url     : https://prove2.me/theorems/5422c4bc-254a-4692-a19a-e6257f2c34fe

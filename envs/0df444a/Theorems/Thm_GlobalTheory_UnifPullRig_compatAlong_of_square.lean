@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifPullRig_compatAlong_of_square
 -- name    : GlobalTheory.UnifPullRig.compatAlong_of_square
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:25:03.935141+00:00
 -- url     : https://prove2.me/theorems/11dd0fae-05e0-44b7-a0dd-63948e083d2d

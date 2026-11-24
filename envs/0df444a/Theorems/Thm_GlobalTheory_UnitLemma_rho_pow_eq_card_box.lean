@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_rho_pow_eq_card_box
 -- name    : GlobalTheory.UnitLemma.rho_pow_eq_card_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:37:56.505654+00:00
 -- url     : https://prove2.me/theorems/70de9f71-dcf8-40fc-b114-f15932587184

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_ResDeg_odd_of_involution
 -- name    : GlobalTheory.UnitLemma.ResDeg.odd_of_involution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:28:56.001212+00:00
 -- url     : https://prove2.me/theorems/a4ec3b7a-d2c8-4d56-b488-35c933d0e2cb

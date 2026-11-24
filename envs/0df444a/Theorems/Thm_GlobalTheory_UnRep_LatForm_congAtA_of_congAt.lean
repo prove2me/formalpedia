@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_LatForm_congAtA_of_congAt
 -- name    : GlobalTheory.UnRep.LatForm.congAtA_of_congAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:24:05.736526+00:00
 -- url     : https://prove2.me/theorems/cc9f6e6a-c2bc-4d50-bf90-75f87da6bf07

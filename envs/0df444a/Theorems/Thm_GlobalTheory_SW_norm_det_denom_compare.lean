@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_norm_det_denom_compare
 -- name    : GlobalTheory.SW.norm_det_denom_compare
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:49.107874+00:00
 -- url     : https://prove2.me/theorems/f7d872e0-dd69-4905-ac67-4f606a1bf887

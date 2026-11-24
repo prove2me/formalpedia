@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_resG_pullRatio
 -- name    : GlobalTheory.ProjSpace.resG_pullRatio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:28:30.355018+00:00
 -- url     : https://prove2.me/theorems/96caf048-a7bc-45e4-b90d-585efb8a45ca

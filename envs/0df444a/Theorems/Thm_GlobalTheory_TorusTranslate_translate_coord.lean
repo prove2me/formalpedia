@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusTranslate_translate_coord
 -- name    : GlobalTheory.TorusTranslate.translate_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:11:33.776869+00:00
 -- url     : https://prove2.me/theorems/9843d79b-40bc-47ac-a06e-abe68c080e35

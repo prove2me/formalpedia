@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_siegelThetaTransformationLaw_mul
 -- name    : GlobalTheory.T.siegelThetaTransformationLaw_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:57:05.55892+00:00
 -- url     : https://prove2.me/theorems/0aef4df5-502f-4b75-929d-11de263dc9c7

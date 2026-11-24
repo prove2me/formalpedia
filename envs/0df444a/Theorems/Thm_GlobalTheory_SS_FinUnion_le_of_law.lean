@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FinUnion_le_of_law
 -- name    : GlobalTheory.SS.FinUnion.le_of_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:51:16.515615+00:00
 -- url     : https://prove2.me/theorems/184547fd-a312-4efa-b72e-d3e103ba9a8c

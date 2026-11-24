@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integral_closedBall_addChar_eq_zero
 -- name    : GlobalTheory.T.exists_integral_closedBall_addChar_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:38:05.60366+00:00
 -- url     : https://prove2.me/theorems/f335d39a-2637-4ce0-a7c9-973ed70fa57c

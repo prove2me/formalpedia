@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitPairNorm_exists_unit_pair
 -- name    : GlobalTheory.UnitPairNorm.exists_unit_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:38:01.049419+00:00
 -- url     : https://prove2.me/theorems/1605a9bf-2a43-4b8b-974a-07681197d4ac

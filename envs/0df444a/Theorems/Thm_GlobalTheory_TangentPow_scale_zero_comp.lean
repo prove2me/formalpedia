@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentPow_scale_zero_comp
 -- name    : GlobalTheory.TangentPow.scale_zero_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:58.950804+00:00
 -- url     : https://prove2.me/theorems/d32070b7-df91-49ec-8548-046f77650eeb

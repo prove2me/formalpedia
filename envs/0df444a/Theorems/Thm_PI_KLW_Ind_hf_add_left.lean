@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Ind_hf_add_left
 -- name    : PI.KLW.Ind.hf_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:42:28.931958+00:00
 -- url     : https://prove2.me/theorems/800adb36-9f00-4b32-8384-bb12d251b919

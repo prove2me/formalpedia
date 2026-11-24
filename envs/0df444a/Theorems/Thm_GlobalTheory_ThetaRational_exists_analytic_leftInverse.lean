@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaRational_exists_analytic_leftInverse
 -- name    : GlobalTheory.ThetaRational.exists_analytic_leftInverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:08:00.645674+00:00
 -- url     : https://prove2.me/theorems/a85b884f-0428-465b-a43b-debca0b641db

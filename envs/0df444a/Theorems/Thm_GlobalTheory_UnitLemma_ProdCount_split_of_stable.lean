@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_ProdCount_split_of_stable
 -- name    : GlobalTheory.UnitLemma.ProdCount.split_of_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:28:38.677088+00:00
 -- url     : https://prove2.me/theorems/9899c57f-da86-483b-bb0d-d7967a1a0a2a

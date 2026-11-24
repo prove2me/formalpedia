@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTr_aeval_map_map
 -- name    : GlobalTheory.UTr.aeval_map_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:19:41.932282+00:00
 -- url     : https://prove2.me/theorems/8d344a17-a084-45a7-bf5d-f57e9ec59beb

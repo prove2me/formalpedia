@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceSpread_trace_eq_sum
 -- name    : GlobalTheory.TraceSpread.trace_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:11:38.0888+00:00
 -- url     : https://prove2.me/theorems/8b44a4d7-ba9a-4c29-9a09-285a95915c8d

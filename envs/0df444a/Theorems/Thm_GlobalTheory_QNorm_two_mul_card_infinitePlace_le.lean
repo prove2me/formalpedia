@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_two_mul_card_infinitePlace_le
 -- name    : GlobalTheory.QNorm.two_mul_card_infinitePlace_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:03:29.273805+00:00
 -- url     : https://prove2.me/theorems/f494a6ab-7f50-467e-9452-3ab6e31229c8

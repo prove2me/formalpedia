@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_WeakApprox_exists_stab
 -- name    : GlobalTheory.UnRep.WeakApprox.exists_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:23:31.428738+00:00
 -- url     : https://prove2.me/theorems/c21c2e02-a62c-4779-b616-8b5f828643c1

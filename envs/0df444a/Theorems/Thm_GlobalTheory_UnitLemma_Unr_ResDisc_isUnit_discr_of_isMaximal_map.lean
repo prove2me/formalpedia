@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_ResDisc_isUnit_discr_of_isMaximal_map
 -- name    : GlobalTheory.UnitLemma.Unr.ResDisc.isUnit_discr_of_isMaximal_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:35:37.069039+00:00
 -- url     : https://prove2.me/theorems/164c85fd-8d76-4e69-8658-1231a3044c41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TSetFin_mem_Umax_of_loc
 -- name    : GlobalTheory.TSetFin.mem_Umax_of_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:01:58.779449+00:00
 -- url     : https://prove2.me/theorems/ada22e57-085b-47ae-9154-93bcfcf17d01

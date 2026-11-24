@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_ExactTerm_exists_section_lift
 -- name    : GlobalTheory.UT.ExactTerm.exists_section_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:19:34.479313+00:00
 -- url     : https://prove2.me/theorems/d3e290ee-c3fd-4222-8a41-ee55eaa8c017

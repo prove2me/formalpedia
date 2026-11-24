@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_standard_symplectic_basis_of_pairing
 -- name    : GlobalTheory.T.exists_standard_symplectic_basis_of_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:39:02.742804+00:00
 -- url     : https://prove2.me/theorems/6fa3a876-603b-4094-92a1-e1860d5c6348

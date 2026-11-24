@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLogPartition_exists_nonneg_hasSum_lattice_translates
 -- name    : GlobalTheory.UnitLogPartition.exists_nonneg_hasSum_lattice_translates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:37:59.92544+00:00
 -- url     : https://prove2.me/theorems/9a44ff4a-6dec-403c-a684-406c358a3b73

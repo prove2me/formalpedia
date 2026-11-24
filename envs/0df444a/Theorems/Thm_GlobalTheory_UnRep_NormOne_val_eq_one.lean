@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_NormOne_val_eq_one
 -- name    : GlobalTheory.UnRep.NormOne.val_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:22:56.519178+00:00
 -- url     : https://prove2.me/theorems/8732e68e-f808-49f8-a2f1-2d9edb837cea

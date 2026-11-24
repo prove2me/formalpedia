@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_B5_conj_mul_im_eq_normSq_mul_div_im
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.B5.conj_mul_im_eq_normSq_mul_div_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:48:35.061807+00:00
 -- url     : https://prove2.me/theorems/f1f64438-3729-4bc8-b27b-17a43813c842

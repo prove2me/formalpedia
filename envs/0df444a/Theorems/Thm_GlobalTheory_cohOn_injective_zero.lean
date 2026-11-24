@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cohOn_injective_zero
 -- name    : GlobalTheory.cohOn.injective_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:42:55.209263+00:00
 -- url     : https://prove2.me/theorems/e9634ae0-38fc-4270-b77a-11846f7dfeab

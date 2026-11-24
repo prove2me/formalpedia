@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusToProper_units_family_trivial
 -- name    : GlobalTheory.TorusToProper.units_family_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:11:19.388489+00:00
 -- url     : https://prove2.me/theorems/e5a74192-db63-437c-9b24-9101dd972a67

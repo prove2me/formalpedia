@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourier_transform_inversion_localFieldPi
 -- name    : GlobalTheory.T.fourier_transform_inversion_localFieldPi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:40:58.983822+00:00
 -- url     : https://prove2.me/theorems/a4e42733-adc7-4162-bdb4-63ff49454b94

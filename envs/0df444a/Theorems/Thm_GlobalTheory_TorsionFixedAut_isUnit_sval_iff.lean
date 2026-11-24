@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFixedAut_isUnit_sval_iff
 -- name    : GlobalTheory.TorsionFixedAut.isUnit_sval_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:09:05.598798+00:00
 -- url     : https://prove2.me/theorems/27529527-8aea-427e-9803-5912a3b3f63d

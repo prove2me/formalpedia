@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_newton_lipschitz
 -- name    : ReciprocityTheory.ChartRestriction.L1.newton_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:36:11.347322+00:00
 -- url     : https://prove2.me/theorems/68ef7d75-3df9-45f8-b6cd-eee4a4fbf1ee

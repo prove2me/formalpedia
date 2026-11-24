@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Hk3_bound_f
 -- name    : Formalism.L2.Th1.F.Hk3.bound_f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:33:24.081276+00:00
 -- url     : https://prove2.me/theorems/6eb2a075-c27b-4e53-95fd-0e47a66e52ec

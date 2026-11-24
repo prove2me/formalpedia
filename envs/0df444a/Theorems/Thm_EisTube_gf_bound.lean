@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EisTube_gf_bound
 -- name    : EisTube.gf_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:20:25.808807+00:00
 -- url     : https://prove2.me/theorems/8d44fafe-0c58-4cb8-b0fd-a4d7956f93c8

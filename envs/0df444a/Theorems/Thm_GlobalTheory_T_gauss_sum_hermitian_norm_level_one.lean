@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gauss_sum_hermitian_norm_level_one
 -- name    : GlobalTheory.T.gauss_sum_hermitian_norm_level_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:41:13.595802+00:00
 -- url     : https://prove2.me/theorems/97952599-0de6-4280-98c1-33867bda246f

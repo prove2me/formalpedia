@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_KerInert_VC_flow_vc
 -- name    : Formalism.L2.KerInert.VC.flow_vc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:39:19.046552+00:00
 -- url     : https://prove2.me/theorems/28a7c44d-3e68-4c5d-a740-a67858e554b5

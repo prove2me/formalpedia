@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Descent_map_avg
 -- name    : GlobalTheory.BK.Descent.map_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:42:18.397987+00:00
 -- url     : https://prove2.me/theorems/a5de4bb9-6ba8-433f-af80-368d2c321abe

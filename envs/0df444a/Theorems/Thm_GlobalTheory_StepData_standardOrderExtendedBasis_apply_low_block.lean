@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_standardOrderExtendedBasis_apply_low_block
 -- name    : GlobalTheory.StepData.standardOrderExtendedBasis_apply_low_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:49:44.361209+00:00
 -- url     : https://prove2.me/theorems/1fbc68c8-1f68-4340-85ff-cc4914e54a21

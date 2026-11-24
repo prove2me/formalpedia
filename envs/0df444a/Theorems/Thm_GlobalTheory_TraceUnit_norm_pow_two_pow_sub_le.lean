@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceUnit_norm_pow_two_pow_sub_le
 -- name    : GlobalTheory.TraceUnit.norm_pow_two_pow_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:11:30.819867+00:00
 -- url     : https://prove2.me/theorems/c65750ba-77ea-4e5d-9868-a6f1aee9e4ee

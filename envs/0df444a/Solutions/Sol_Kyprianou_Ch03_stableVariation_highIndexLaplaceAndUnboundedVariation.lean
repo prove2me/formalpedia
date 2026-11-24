@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.stableVariation_highIndexLaplaceAndUnboundedVariation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T18:01:54.394663+00:00
 -- url     : https://prove2.me/submissions/551dd1b2-df76-4f43-a13c-c9bb574ad003
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_quad_pow
 -- name    : Formalism.DworkPowerSeriesWeights.quad_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:44:26.022078+00:00
 -- url     : https://prove2.me/theorems/30e93377-9f4b-4419-81ec-d3f5e9c441c8

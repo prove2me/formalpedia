@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integral_basis_hermitian_matrices_dual
 -- name    : GlobalTheory.T.exists_integral_basis_hermitian_matrices_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:35:27.329277+00:00
 -- url     : https://prove2.me/theorems/be8c750b-976f-450c-b869-c85648692fe0

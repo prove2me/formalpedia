@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDens_measurePreserving_comp_equiv
 -- name    : GlobalTheory.UnifDens.measurePreserving_comp_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:24:28.504895+00:00
 -- url     : https://prove2.me/theorems/899baf15-91d7-4f19-8652-64343dc992e3

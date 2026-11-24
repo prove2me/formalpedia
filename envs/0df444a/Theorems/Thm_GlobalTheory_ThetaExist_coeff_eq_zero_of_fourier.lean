@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaExist_coeff_eq_zero_of_fourier
 -- name    : GlobalTheory.ThetaExist.coeff_eq_zero_of_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:05:06.786682+00:00
 -- url     : https://prove2.me/theorems/5901d54f-6961-45ec-83d7-4f6b3004de84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_ProdCount_isLat_prod
 -- name    : GlobalTheory.UnitLemma.ProdCount.isLat_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:28:31.167247+00:00
 -- url     : https://prove2.me/theorems/41121aa0-cee3-4b54-9835-4829239dce47

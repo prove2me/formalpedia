@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDeterminantBasis_exists_basis_isUnit_det
 -- name    : GlobalTheory.UnitDeterminantBasis.exists_basis_isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:25:23.105633+00:00
 -- url     : https://prove2.me/theorems/f42f55cc-9bc6-4e33-bd5f-f6c5fb6a407b

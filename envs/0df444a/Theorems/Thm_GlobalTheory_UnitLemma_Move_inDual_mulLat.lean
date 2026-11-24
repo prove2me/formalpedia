@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Move_inDual_mulLat
 -- name    : GlobalTheory.UnitLemma.Move.inDual_mulLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:27:48.981007+00:00
 -- url     : https://prove2.me/theorems/b6b6cd1b-e334-47cb-9325-1a822cdedb5b

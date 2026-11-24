@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tube_transform_independent_of_base
 -- name    : GlobalTheory.T.tube_transform_independent_of_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:00:04.150927+00:00
 -- url     : https://prove2.me/theorems/c4dcf3e1-117c-4c63-af9b-237ce41b4a16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableVariation_lowIndexLaplaceAndMonotone
 -- name    : Kyprianou.Ch03.stableVariation_lowIndexLaplaceAndMonotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T13:11:32.874553+00:00
 -- url     : https://prove2.me/theorems/d37f36bc-d7cd-4df7-83a4-ef4337f60740

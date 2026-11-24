@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isConnected_unramified_cover_of_irreducible
 -- name    : GlobalTheory.isConnected_unramified_cover_of_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:59:34.63828+00:00
 -- url     : https://prove2.me/theorems/41afc02f-4a76-44b7-b726-1202cdb95bd0

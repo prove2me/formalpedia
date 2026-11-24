@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtExist_exists_isGenSec_of_retract
 -- name    : GlobalTheory.ThetaPtExist.exists_isGenSec_of_retract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:07:43.875793+00:00
 -- url     : https://prove2.me/theorems/25fcf0b2-a73e-421c-aa16-b598c8e89216

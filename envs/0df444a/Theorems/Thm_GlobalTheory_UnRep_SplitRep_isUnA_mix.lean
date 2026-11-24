@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_SplitRep_isUnA_mix
 -- name    : GlobalTheory.UnRep.SplitRep.isUnA_mix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:24:38.404008+00:00
 -- url     : https://prove2.me/theorems/b6351930-253f-4730-84a9-ef8fe323ab70

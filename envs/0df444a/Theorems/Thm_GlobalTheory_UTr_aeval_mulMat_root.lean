@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTr_aeval_mulMat_root
 -- name    : GlobalTheory.UTr.aeval_mulMat_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:20:11.085595+00:00
 -- url     : https://prove2.me/theorems/20b6a1f6-fe28-4d78-84a6-019f4d189c7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_count_pole
 -- name    : GlobalTheory.SW.HeckeId.count_pole
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:40:00.402011+00:00
 -- url     : https://prove2.me/theorems/14a18225-3bcf-4be4-a82c-12cfe01cbc6d

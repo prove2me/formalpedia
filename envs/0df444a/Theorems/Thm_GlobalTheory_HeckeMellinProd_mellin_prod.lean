@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeMellinProd_mellin_prod
 -- name    : GlobalTheory.HeckeMellinProd.mellin_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:03:26.450856+00:00
 -- url     : https://prove2.me/theorems/88bd0c6b-8b56-40eb-998c-085a09108d68

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_Window_prod_mul_eq
 -- name    : GlobalTheory.UnitLemma.Desc.Window.prod_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:26:34.434465+00:00
 -- url     : https://prove2.me/theorems/70dfe31a-800a-4e34-b640-28109b1a9aa6

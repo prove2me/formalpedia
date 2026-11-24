@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_TypeDatum_extZ_add
 -- name    : GlobalTheory.StepData.TypeDatum.extZ_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:49:55.811677+00:00
 -- url     : https://prove2.me/theorems/462cf74c-f4be-4588-aabc-d03a6eee6901

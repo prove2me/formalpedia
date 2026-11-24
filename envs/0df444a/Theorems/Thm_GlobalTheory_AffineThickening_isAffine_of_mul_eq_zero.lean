@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineThickening_isAffine_of_mul_eq_zero
 -- name    : GlobalTheory.AffineThickening.isAffine_of_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:58:53.873837+00:00
 -- url     : https://prove2.me/theorems/9a05e317-3d0b-4a73-b6ed-bfa775263dd4

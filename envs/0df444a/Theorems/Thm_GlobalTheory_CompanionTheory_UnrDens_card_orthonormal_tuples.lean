@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_card_orthonormal_tuples
 -- name    : GlobalTheory.CompanionTheory.UnrDens.card_orthonormal_tuples
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:20:00.063366+00:00
 -- url     : https://prove2.me/theorems/6f72c9aa-c9e6-42f5-b696-b192ef0faaca

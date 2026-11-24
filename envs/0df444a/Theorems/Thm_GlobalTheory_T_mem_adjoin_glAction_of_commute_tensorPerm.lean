@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_adjoin_glAction_of_commute_tensorPerm
 -- name    : GlobalTheory.T.mem_adjoin_glAction_of_commute_tensorPerm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:27.325868+00:00
 -- url     : https://prove2.me/theorems/e4f28e26-1ed2-4cbc-8081-28355b920bf4

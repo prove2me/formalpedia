@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenGrp_exact
 -- name    : Formalism.HC.EvenGrp.exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:12:58.826054+00:00
 -- url     : https://prove2.me/theorems/bfb6f313-4aaf-4d2d-8fe2-2ef3240be33c

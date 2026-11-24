@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_degLE_sum
 -- name    : Formalism.InvariantFactorPaths.G7.degLE_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:25:36.585076+00:00
 -- url     : https://prove2.me/theorems/ff5b67c6-4f64-4c06-8037-369c7b3e81a1

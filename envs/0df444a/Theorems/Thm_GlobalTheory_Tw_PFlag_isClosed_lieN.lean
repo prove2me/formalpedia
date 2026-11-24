@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PFlag_isClosed_lieN
 -- name    : GlobalTheory.Tw.PFlag.isClosed_lieN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:12:33.054783+00:00
 -- url     : https://prove2.me/theorems/c916f235-cb2a-4962-bdd7-140a09e52684

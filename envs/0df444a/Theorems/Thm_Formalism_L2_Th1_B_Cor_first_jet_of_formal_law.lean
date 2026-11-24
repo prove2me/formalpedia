@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Cor_first_jet_of_formal_law
 -- name    : Formalism.L2.Th1.B.Cor.first_jet_of_formal_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:28:04.336312+00:00
 -- url     : https://prove2.me/theorems/e7f7c380-f487-45e3-b955-883dd92f0300

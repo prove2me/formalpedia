@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCharMult_shift_algebra
 -- name    : GlobalTheory.ThetaCharMult.shift_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:04:55.409807+00:00
 -- url     : https://prove2.me/theorems/023f0a7b-e72d-4a6e-a2c9-93a6835467a8

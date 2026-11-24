@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_newton_derivative_coeff
 -- name    : ReciprocityTheory.ChartRestriction.L1.newton_derivative_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:35:48.524785+00:00
 -- url     : https://prove2.me/theorems/dbe62f33-15e5-475e-9741-24a3babf5cac

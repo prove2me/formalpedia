@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_two_mul_card_infinitePlace_le_quadratic
 -- name    : GlobalTheory.T.two_mul_card_infinitePlace_le_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:59:28.804808+00:00
 -- url     : https://prove2.me/theorems/3c4d8a57-efc7-4720-a3b0-263af0dce351

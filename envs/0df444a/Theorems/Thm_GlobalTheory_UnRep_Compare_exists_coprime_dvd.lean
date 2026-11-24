@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_exists_coprime_dvd
 -- name    : GlobalTheory.UnRep.Compare.exists_coprime_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:23:23.966104+00:00
 -- url     : https://prove2.me/theorems/30377868-b13f-4969-94c2-d065e6ee4996

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_zValuationsAtIndices_torus_eq_one_iff
 -- name    : GlobalTheory.T.zValuationsAtIndices_torus_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:01:23.176584+00:00
 -- url     : https://prove2.me/theorems/5913a428-edc4-48dd-bb63-1d90d88c14df

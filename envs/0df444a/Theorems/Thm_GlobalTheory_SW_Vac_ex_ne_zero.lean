@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Vac_ex_ne_zero
 -- name    : GlobalTheory.SW.Vac.ex_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:45:16.331291+00:00
 -- url     : https://prove2.me/theorems/d09f5d25-401e-4cf5-ae55-098df3817a7b

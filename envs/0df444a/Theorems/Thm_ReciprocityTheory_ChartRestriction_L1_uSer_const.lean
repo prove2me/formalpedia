@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_uSer_const
 -- name    : ReciprocityTheory.ChartRestriction.L1.uSer_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:43:41.771003+00:00
 -- url     : https://prove2.me/theorems/57ce3071-0d4b-4b01-8eca-bb7780394e5b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_HCFR_ordAt_inv
 -- name    : ReciprocityTheory.Neutral.Bridge.HCFR.ordAt_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:43:51.417826+00:00
 -- url     : https://prove2.me/theorems/7ac3027b-7542-40dd-a50c-33f4ec94bea8

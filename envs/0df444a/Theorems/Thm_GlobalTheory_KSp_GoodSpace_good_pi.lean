@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_GoodSpace_good_pi
 -- name    : GlobalTheory.KSp.GoodSpace.good_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:23:01.323851+00:00
 -- url     : https://prove2.me/theorems/a66b9b2b-f34b-4002-9c73-b0e45adf3060

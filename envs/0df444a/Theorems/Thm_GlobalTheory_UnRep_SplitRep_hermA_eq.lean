@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_SplitRep_hermA_eq
 -- name    : GlobalTheory.UnRep.SplitRep.hermA_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:25:07.41495+00:00
 -- url     : https://prove2.me/theorems/d351b1fc-e813-4f93-880f-ba2e2c55b96a

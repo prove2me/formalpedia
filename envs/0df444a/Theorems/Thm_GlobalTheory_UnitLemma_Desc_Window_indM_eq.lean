@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_Window_indM_eq
 -- name    : GlobalTheory.UnitLemma.Desc.Window.indM_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:26:30.546843+00:00
 -- url     : https://prove2.me/theorems/0eaa5eb3-1235-4977-a137-6730de3f57ea

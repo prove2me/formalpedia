@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_NormOne_exists_coprime_multiple
 -- name    : GlobalTheory.UnRep.NormOne.exists_coprime_multiple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:23:40.129677+00:00
 -- url     : https://prove2.me/theorems/89d99645-362e-4518-8f34-c39401c67697

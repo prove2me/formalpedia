@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Hk2_rpow_diff
 -- name    : Formalism.L2.Th1.F.Hk2.rpow_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:30:21.918609+00:00
 -- url     : https://prove2.me/theorems/114b4bbb-ed78-48b1-b814-25b15575d162

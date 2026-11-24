@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_WeakApprox_unitary_inv
 -- name    : GlobalTheory.UnRep.WeakApprox.unitary_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:24:29.522299+00:00
 -- url     : https://prove2.me/theorems/068e795a-da33-4d67-9c52-195d85f114bc

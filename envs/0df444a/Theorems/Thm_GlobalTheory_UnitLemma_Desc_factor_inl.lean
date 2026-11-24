@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_factor_inl
 -- name    : GlobalTheory.UnitLemma.Desc.factor_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:28:23.385012+00:00
 -- url     : https://prove2.me/theorems/e170ce98-174c-4ce0-aaab-676b71b0e731

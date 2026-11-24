@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExactSeq_finite_of_isNoetherian
 -- name    : GlobalTheory.ExactSeq.finite_of_isNoetherian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:41:35.237488+00:00
 -- url     : https://prove2.me/theorems/82d78dff-c08d-46e2-8d02-13febdc19433

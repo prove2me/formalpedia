@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_has_fderiv_at_schwartz_operator_first
 -- name    : GlobalTheory.T.has_fderiv_at_schwartz_operator_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:43:27.1038+00:00
 -- url     : https://prove2.me/theorems/cde2d732-be6e-4bd0-8e34-16d4f99e0eda

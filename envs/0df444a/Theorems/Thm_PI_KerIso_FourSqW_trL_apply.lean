@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerIso_FourSqW_trL_apply
 -- name    : PI.KerIso.FourSqW.trL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:44:48.778057+00:00
 -- url     : https://prove2.me/theorems/143c706c-d009-460f-87a3-bd710202dedf

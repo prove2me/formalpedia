@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_Model_isU_tv
 -- name    : GlobalTheory.UTrans.Model.isU_tv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:20:51.347504+00:00
 -- url     : https://prove2.me/theorems/06b68bce-5766-4303-a2f2-7efd4a7e05d1

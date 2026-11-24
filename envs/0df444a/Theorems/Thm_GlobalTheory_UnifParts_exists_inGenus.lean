@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifParts_exists_inGenus
 -- name    : GlobalTheory.UnifParts.exists_inGenus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:24:28.571806+00:00
 -- url     : https://prove2.me/theorems/60f83535-af2d-471f-bc5c-55fa4cd74a72

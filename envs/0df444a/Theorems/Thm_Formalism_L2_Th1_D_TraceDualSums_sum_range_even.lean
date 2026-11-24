@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TraceDualSums_sum_range_even
 -- name    : Formalism.L2.Th1.D.TraceDualSums.sum_range_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:45:19.871446+00:00
 -- url     : https://prove2.me/theorems/58120550-4420-4abc-96ec-2c4bc17f56f8

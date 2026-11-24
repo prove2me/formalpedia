@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_Window_ne_zero_of_isPre
 -- name    : GlobalTheory.UnitLemma.Desc.Window.ne_zero_of_isPre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:26:15.20204+00:00
 -- url     : https://prove2.me/theorems/387be34c-d69a-40d2-9d73-7232fb568d0d

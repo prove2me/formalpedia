@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_mvSubst_mvExp
 -- name    : Formalism.L2.Th1.C.mvSubst_mvExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:43:34.56792+00:00
 -- url     : https://prove2.me/theorems/709ac725-28eb-460c-82f4-e08adff969ad

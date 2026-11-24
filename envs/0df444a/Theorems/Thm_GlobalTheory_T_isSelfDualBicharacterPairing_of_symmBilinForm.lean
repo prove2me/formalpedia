@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isSelfDualBicharacterPairing_of_symmBilinForm
 -- name    : GlobalTheory.T.isSelfDualBicharacterPairing_of_symmBilinForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:32:32.945307+00:00
 -- url     : https://prove2.me/theorems/46e1e8fe-4dab-41bd-9255-89a5249624a2

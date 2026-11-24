@@ -86388,7 +86388,7 @@
 {"parent": "hasPolychromColouring_neg", "child": "Polychromatic_ForMathlib_Misc", "via": ["solution", "statement"]}
 {"parent": "hasPolychromColouring_neg", "child": "Polychromatic_Colouring", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RHLowSlabTwentyFirstCell04", "child": "row23_rh_supp_RHLowSlabTwentyFirstPilot", "via": ["statement"]}
-{"parent": "KissingNumber.kissing_number_one", "child": "KissingNumber", "via": ["statement"]}
+{"parent": "KissingNumber.kissing_number_one", "child": "KissingNumber", "via": ["solution", "statement"]}
 {"parent": "RH1E6S09.part_068_3", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S09.part_068_3", "child": "ArdaRH65K_RS_Entire", "via": ["statement"]}
 {"parent": "RH1E6S09.part_068_3", "child": "ArdaRH65K_XiLineZeros", "via": ["statement"]}

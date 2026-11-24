@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThetaZeroTaylorLemmas_sigS_add_const
 -- name    : Formalism.L2.Th1.F.ThetaZeroTaylorLemmas.sigS_add_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:29:22.558436+00:00
 -- url     : https://prove2.me/theorems/f17cd867-6ea6-47c8-9935-cbe1ab04ba75

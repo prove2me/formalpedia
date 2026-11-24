@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistZero_mem_nonzeroLocus_iff
 -- name    : GlobalTheory.TwistZero.mem_nonzeroLocus_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:14:19.192813+00:00
 -- url     : https://prove2.me/theorems/9d3f0d40-53a0-4269-8a2c-4388d27d461d

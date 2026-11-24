@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsorUnit_exists_homogeneous
 -- name    : GlobalTheory.TorsorUnit.exists_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:18:46.556837+00:00
 -- url     : https://prove2.me/theorems/39c4266e-95b1-4a63-bc55-3fc9d2f38f11

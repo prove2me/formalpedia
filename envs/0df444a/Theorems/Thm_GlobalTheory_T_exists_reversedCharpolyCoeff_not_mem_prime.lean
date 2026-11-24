@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_reversedCharpolyCoeff_not_mem_prime
 -- name    : GlobalTheory.T.exists_reversedCharpolyCoeff_not_mem_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:38:33.518719+00:00
 -- url     : https://prove2.me/theorems/d3d714db-b213-49c5-8a7e-864b082c89c0

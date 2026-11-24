@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwoDivisibility_half_not_mem
 -- name    : PI.TwoDivisibility.half_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:44:24.356584+00:00
 -- url     : https://prove2.me/theorems/3697c700-89a1-46b1-86b0-e967d1e5280b

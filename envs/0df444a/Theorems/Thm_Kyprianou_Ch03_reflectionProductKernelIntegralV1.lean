@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_reflectionProductKernelIntegralV1
 -- name    : Kyprianou.Ch03.reflectionProductKernelIntegralV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T21:47:48.483494+00:00
 -- url     : https://prove2.me/theorems/7900b9a7-4f6b-47c2-9d68-993da8e4b303

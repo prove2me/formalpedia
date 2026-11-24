@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_SgnBasis_eta_mul_isUnit
 -- name    : GlobalTheory.UnitLemma.SgnBasis.eta_mul_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:29:23.112102+00:00
 -- url     : https://prove2.me/theorems/c35726a3-eef9-44a4-9cc8-0fab451e4d65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorSiegel_im_formMatrix_period
 -- name    : GlobalTheory.TensorSiegel.im_formMatrix_period
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:05:30.23174+00:00
 -- url     : https://prove2.me/theorems/0686a405-7717-41e2-a63d-01a4d9be98ae

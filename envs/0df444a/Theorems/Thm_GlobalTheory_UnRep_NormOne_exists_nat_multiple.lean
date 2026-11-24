@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_NormOne_exists_nat_multiple
 -- name    : GlobalTheory.UnRep.NormOne.exists_nat_multiple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:23:46.091081+00:00
 -- url     : https://prove2.me/theorems/9ff509a6-2c74-4d59-a33b-a6d4cfdbd1be

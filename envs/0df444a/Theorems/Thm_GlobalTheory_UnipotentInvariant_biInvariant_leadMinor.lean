@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentInvariant_biInvariant_leadMinor
 -- name    : GlobalTheory.UnipotentInvariant.biInvariant_leadMinor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:11:39.133927+00:00
 -- url     : https://prove2.me/theorems/54fb925d-795d-47b0-9a76-1165f53e4d98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Hk1_norm_hk
 -- name    : Formalism.L2.Th1.F.Hk1.norm_hk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:31:20.969802+00:00
 -- url     : https://prove2.me/theorems/73341796-d8f6-4324-ad30-fd9f8b33e771

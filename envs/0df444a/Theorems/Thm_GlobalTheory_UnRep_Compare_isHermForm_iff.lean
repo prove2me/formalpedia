@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_isHermForm_iff
 -- name    : GlobalTheory.UnRep.Compare.isHermForm_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:23:25.033666+00:00
 -- url     : https://prove2.me/theorems/bc15176b-768f-4d93-8597-9d5a786ff4ce

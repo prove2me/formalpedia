@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusConst_exists_good
 -- name    : GlobalTheory.TorusConst.exists_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:09:38.075788+00:00
 -- url     : https://prove2.me/theorems/861890ff-e05b-4ab9-be2c-24ca3be841da
