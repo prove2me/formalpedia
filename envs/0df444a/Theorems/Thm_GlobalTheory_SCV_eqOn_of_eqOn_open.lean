@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_eqOn_of_eqOn_open
 -- name    : GlobalTheory.SCV.eqOn_of_eqOn_open
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:57:33.358088+00:00
 -- url     : https://prove2.me/theorems/06e7be11-56ab-4932-bd3f-bfe4644f6ef4

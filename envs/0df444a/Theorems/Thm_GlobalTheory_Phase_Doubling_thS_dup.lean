@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_Doubling_thS_dup
 -- name    : GlobalTheory.Phase.Doubling.thS_dup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:44:22.741395+00:00
 -- url     : https://prove2.me/theorems/098aba54-4d25-41ca-bd7f-969cb7b81ec4

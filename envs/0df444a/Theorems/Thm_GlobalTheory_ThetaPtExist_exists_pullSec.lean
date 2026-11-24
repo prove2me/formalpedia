@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtExist_exists_pullSec
 -- name    : GlobalTheory.ThetaPtExist.exists_pullSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:07:02.93755+00:00
 -- url     : https://prove2.me/theorems/03d56cf8-0ebc-4fa9-ad5a-3626572bad28

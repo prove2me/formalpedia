@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceOpCont_seminorm_sliceR_le
 -- name    : GlobalTheory.SliceOpCont.seminorm_sliceR_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:13:46.579182+00:00
 -- url     : https://prove2.me/theorems/40995853-a5ed-4d63-890c-cfb5f28ae221

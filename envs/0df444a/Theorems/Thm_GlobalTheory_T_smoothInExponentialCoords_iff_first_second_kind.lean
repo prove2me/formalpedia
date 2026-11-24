@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smoothInExponentialCoords_iff_first_second_kind
 -- name    : GlobalTheory.T.smoothInExponentialCoords_iff_first_second_kind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:57:52.425869+00:00
 -- url     : https://prove2.me/theorems/651383b2-471a-4c1c-9b81-18e5cb531bf1

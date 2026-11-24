@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_setIntegral_addSubgroup_add
 -- name    : GlobalTheory.KSp.setIntegral_addSubgroup_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:21:33.55557+00:00
 -- url     : https://prove2.me/theorems/e2105b00-ea69-405c-8341-87f84658d173

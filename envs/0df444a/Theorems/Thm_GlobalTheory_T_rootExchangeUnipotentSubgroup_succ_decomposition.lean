@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rootExchangeUnipotentSubgroup_succ_decomposition
 -- name    : GlobalTheory.T.rootExchangeUnipotentSubgroup_succ_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:56:20.86758+00:00
 -- url     : https://prove2.me/theorems/59bbc7e7-b3ed-4214-8fcb-bfc8b30259f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_summable_lipschitzLatticeNormPowSummand
 -- name    : GlobalTheory.T.summable_lipschitzLatticeNormPowSummand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:59:28.280806+00:00
 -- url     : https://prove2.me/theorems/6a13ae94-7b69-42ae-b21e-cc935603d1c4

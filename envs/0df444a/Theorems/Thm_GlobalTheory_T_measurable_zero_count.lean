@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_measurable_zero_count
 -- name    : GlobalTheory.T.measurable_zero_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:51:59.037855+00:00
 -- url     : https://prove2.me/theorems/c822cf60-3dae-4ab9-b79a-b4d663c898a6

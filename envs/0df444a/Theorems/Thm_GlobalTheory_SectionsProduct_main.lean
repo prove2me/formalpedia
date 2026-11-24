@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsProduct_main
 -- name    : GlobalTheory.SectionsProduct.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:55:57.01083+00:00
 -- url     : https://prove2.me/theorems/5e86bf2f-92b2-44e6-9516-07445e46e562

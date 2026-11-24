@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_localDerivationAlongFibre_of_smooth
 -- name    : GlobalTheory.T.exists_localDerivationAlongFibre_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:37:46.604905+00:00
 -- url     : https://prove2.me/theorems/1f59ff76-fd0a-4709-971e-8698fdf813fc

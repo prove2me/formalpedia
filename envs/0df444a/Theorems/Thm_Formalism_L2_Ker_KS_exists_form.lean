@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Ker_KS_exists_form
 -- name    : Formalism.L2.Ker.KS.exists_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:23:04.587397+00:00
 -- url     : https://prove2.me/theorems/69b09132-a762-4e3c-a80b-ba207b765ee5

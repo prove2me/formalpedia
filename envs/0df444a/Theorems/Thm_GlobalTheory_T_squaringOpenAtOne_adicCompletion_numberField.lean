@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_squaringOpenAtOne_adicCompletion_numberField
 -- name    : GlobalTheory.T.squaringOpenAtOne_adicCompletion_numberField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:58:53.856283+00:00
 -- url     : https://prove2.me/theorems/458a7fbf-02aa-4d3a-b45f-1c0a70c2f376

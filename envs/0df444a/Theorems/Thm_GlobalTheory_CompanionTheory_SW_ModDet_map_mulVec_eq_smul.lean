@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ModDet_map_mulVec_eq_smul
 -- name    : GlobalTheory.CompanionTheory.SW.ModDet.map_mulVec_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:08:37.740258+00:00
 -- url     : https://prove2.me/theorems/eeee98b4-f966-4e8e-88d7-ec40e9878f5a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharInvForm_kills_linear_mul
 -- name    : GlobalTheory.CharInvForm.kills_linear_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:07:42.774321+00:00
 -- url     : https://prove2.me/theorems/53605339-7639-4303-9015-3c02d924c9df

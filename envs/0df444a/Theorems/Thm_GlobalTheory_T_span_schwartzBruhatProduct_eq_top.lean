@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_span_schwartzBruhatProduct_eq_top
 -- name    : GlobalTheory.T.span_schwartzBruhatProduct_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:28.068818+00:00
 -- url     : https://prove2.me/theorems/f7eca347-e42d-4f4b-9c12-3ce5c54979f9

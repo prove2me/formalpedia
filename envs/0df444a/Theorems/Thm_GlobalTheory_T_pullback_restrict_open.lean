@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pullback_restrict_open
 -- name    : GlobalTheory.T.pullback_restrict_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:55:36.133831+00:00
 -- url     : https://prove2.me/theorems/1bb4ee49-5ede-440b-8177-97ac311fab31

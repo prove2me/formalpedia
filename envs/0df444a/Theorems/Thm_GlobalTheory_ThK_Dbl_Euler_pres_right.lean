@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_Euler_pres_right
 -- name    : GlobalTheory.ThK.Dbl.Euler.pres_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:03:07.282034+00:00
 -- url     : https://prove2.me/theorems/80555984-ba7a-4349-8af6-7a912e6cf2fc

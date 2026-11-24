@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaRational_exists_algHom
 -- name    : GlobalTheory.ThetaRational.exists_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:06:04.827794+00:00
 -- url     : https://prove2.me/theorems/47baad36-9153-4889-8e87-3bbbdd71b194

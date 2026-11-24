@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_HaarFactor_translation_invariant_factors
 -- name    : GlobalTheory.SplitWeil.HaarFactor.translation_invariant_factors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:21:41.922565+00:00
 -- url     : https://prove2.me/theorems/21b4997b-5ec9-400d-b62d-2d5268f494ce

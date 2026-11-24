@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_ProperTriple_proper_triple
 -- name    : GlobalTheory.RootEx.ProperTriple.proper_triple
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:19:24.961009+00:00
 -- url     : https://prove2.me/theorems/8c80b877-f5fc-4f2b-8ba7-a6f043bcd135

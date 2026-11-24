@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unipotent_upper_inv_upperTriangular_bounded
 -- name    : GlobalTheory.T.unipotent_upper_inv_upperTriangular_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:00:54.686652+00:00
 -- url     : https://prove2.me/theorems/a21f0b58-58bb-4df5-9fc7-e8e738f5a283

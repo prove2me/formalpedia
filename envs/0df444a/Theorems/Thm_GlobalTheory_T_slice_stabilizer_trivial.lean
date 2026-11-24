@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_slice_stabilizer_trivial
 -- name    : GlobalTheory.T.slice_stabilizer_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:57:48.56583+00:00
 -- url     : https://prove2.me/theorems/3d4827b7-525c-40f4-b0c6-c8e58060e1c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_isUnitVol_iff_isSelfDual
 -- name    : GlobalTheory.SplitWeil.isUnitVol_iff_isSelfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:21:22.275402+00:00
 -- url     : https://prove2.me/theorems/6dd1227a-7b30-433e-996f-7ff8835848f4

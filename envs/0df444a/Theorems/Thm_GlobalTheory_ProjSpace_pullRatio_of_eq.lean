@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_pullRatio_of_eq
 -- name    : GlobalTheory.ProjSpace.pullRatio_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:27:25.35993+00:00
 -- url     : https://prove2.me/theorems/ee484e53-3d8f-4ef0-9505-5bd6043e5234

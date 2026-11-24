@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensHead_exists_maximal_stab_of_finset
 -- name    : GlobalTheory.TensHead.exists_maximal_stab_of_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:01:58.816643+00:00
 -- url     : https://prove2.me/theorems/29b8afc9-92f3-411f-968b-d8b43207869c

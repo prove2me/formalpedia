@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGroupFrame_exp_herm_eq
 -- name    : GlobalTheory.ThetaGroupFrame.exp_herm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:06:32.863603+00:00
 -- url     : https://prove2.me/theorems/f45de2a8-7fec-4240-b9d9-38d05b4d9631

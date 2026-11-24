@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopForm_span_dForm
 -- name    : GlobalTheory.TopForm.span_dForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:08:41.215827+00:00
 -- url     : https://prove2.me/theorems/c1e469cb-82b9-4198-8851-d7fa9927d027

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaRational_growth
 -- name    : GlobalTheory.ThetaRational.growth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:07:19.173656+00:00
 -- url     : https://prove2.me/theorems/2a4250b5-5d4e-4c26-87bf-a0a8fbe5ec5e

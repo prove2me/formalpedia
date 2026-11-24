@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShiftHomomorphism_shiftHom_X
 -- name    : GlobalTheory.ShiftHomomorphism.shiftHom_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:29:24.331171+00:00
 -- url     : https://prove2.me/theorems/59a69ad2-75cf-4b97-95dc-868b7951417f

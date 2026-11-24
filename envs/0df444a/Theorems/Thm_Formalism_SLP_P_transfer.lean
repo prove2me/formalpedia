@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_transfer
 -- name    : Formalism.SLP.P.transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:25:44.937279+00:00
 -- url     : https://prove2.me/theorems/872d3086-d6e9-4c92-b113-98a7ff9833d2

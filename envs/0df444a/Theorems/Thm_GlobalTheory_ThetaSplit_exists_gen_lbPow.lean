@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaSplit_exists_gen_lbPow
 -- name    : GlobalTheory.ThetaSplit.exists_gen_lbPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:08:04.983511+00:00
 -- url     : https://prove2.me/theorems/3278e908-7c70-4de8-b8a8-4c64d3f07765

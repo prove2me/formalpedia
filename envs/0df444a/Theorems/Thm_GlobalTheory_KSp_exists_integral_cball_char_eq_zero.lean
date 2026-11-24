@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_exists_integral_cball_char_eq_zero
 -- name    : GlobalTheory.KSp.exists_integral_cball_char_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:23:11.302398+00:00
 -- url     : https://prove2.me/theorems/c3bd718d-cc5c-485f-ad57-9da79716589e

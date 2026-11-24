@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_levi_summation_geometric_series
 -- name    : GlobalTheory.T.unitary_levi_summation_geometric_series
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:01:50.222459+00:00
 -- url     : https://prove2.me/theorems/daf5d953-516a-4089-b45f-618f877729c5

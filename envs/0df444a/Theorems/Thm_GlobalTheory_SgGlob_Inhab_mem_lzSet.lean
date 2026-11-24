@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Inhab_mem_lzSet
 -- name    : GlobalTheory.SgGlob.Inhab.mem_lzSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:54:42.257991+00:00
 -- url     : https://prove2.me/theorems/b93e6e67-5837-4342-86b9-0f7387de2a63

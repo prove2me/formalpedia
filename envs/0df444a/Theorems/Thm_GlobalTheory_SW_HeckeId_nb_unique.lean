@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_nb_unique
 -- name    : GlobalTheory.SW.HeckeId.nb_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:40:18.563208+00:00
 -- url     : https://prove2.me/theorems/f655c99d-201d-47f2-958a-429813e7351c

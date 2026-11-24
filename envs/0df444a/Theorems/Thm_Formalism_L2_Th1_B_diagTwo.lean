@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_diagTwo
 -- name    : Formalism.L2.Th1.B.diagTwo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:21:07.905097+00:00
 -- url     : https://prove2.me/theorems/25fd26f6-67d4-4625-9032-9a47db3d207d

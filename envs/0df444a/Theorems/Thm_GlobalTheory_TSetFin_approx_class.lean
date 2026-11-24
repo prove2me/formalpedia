@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TSetFin_approx_class
 -- name    : GlobalTheory.TSetFin.approx_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:01:20.003426+00:00
 -- url     : https://prove2.me/theorems/f5bce0c3-3a6a-4667-be51-29075dc7638f

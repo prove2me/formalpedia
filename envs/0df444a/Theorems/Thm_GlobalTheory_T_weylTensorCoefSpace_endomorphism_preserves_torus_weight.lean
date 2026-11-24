@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weylTensorCoefSpace_endomorphism_preserves_torus_weight
 -- name    : GlobalTheory.T.weylTensorCoefSpace_endomorphism_preserves_torus_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:22:06.601024+00:00
 -- url     : https://prove2.me/theorems/9ad93f08-01fa-45c9-b795-f6786ba96948

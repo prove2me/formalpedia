@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThetaZeroTaylorLemmas_derivative_prim
 -- name    : Formalism.L2.Th1.F.ThetaZeroTaylorLemmas.derivative_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:29:50.606452+00:00
 -- url     : https://prove2.me/theorems/0b7921ee-cd84-433e-a297-f3bb4f1125c2

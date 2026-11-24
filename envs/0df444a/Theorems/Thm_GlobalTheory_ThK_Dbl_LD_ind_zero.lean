@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_LD_ind_zero
 -- name    : GlobalTheory.ThK.Dbl.LD.ind_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:03:18.592928+00:00
 -- url     : https://prove2.me/theorems/ff33a4a1-176c-43e8-a62d-ad5d2e07e423

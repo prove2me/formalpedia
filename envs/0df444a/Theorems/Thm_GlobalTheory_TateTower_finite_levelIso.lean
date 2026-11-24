@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateTower_finite_levelIso
 -- name    : GlobalTheory.TateTower.finite_levelIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:02:37.682397+00:00
 -- url     : https://prove2.me/theorems/dfb62bbe-9301-4d15-901e-2055924f3b84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelAlg_Equivariant_det_pow_dvd
 -- name    : GlobalTheory.BorelAlg.Equivariant.det_pow_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:01:24.854169+00:00
 -- url     : https://prove2.me/theorems/4bfaf9f5-96b8-45a5-8bf5-c4c8b0d2561e

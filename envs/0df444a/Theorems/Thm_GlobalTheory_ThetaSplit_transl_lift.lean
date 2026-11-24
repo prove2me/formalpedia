@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaSplit_transl_lift
 -- name    : GlobalTheory.ThetaSplit.transl_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:07:53.12394+00:00
 -- url     : https://prove2.me/theorems/49819c70-c34b-4a8b-b447-8bb7a8103f2c

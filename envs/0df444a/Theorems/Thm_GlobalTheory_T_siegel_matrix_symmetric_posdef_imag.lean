@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_siegel_matrix_symmetric_posdef_imag
 -- name    : GlobalTheory.T.siegel_matrix_symmetric_posdef_imag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:57:23.024657+00:00
 -- url     : https://prove2.me/theorems/6c35d224-a2a9-4793-a9d8-95353eb750d2

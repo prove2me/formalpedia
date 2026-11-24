@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TriSqrt_det_minor
 -- name    : GlobalTheory.TriSqrt.det_minor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:12:04.661895+00:00
 -- url     : https://prove2.me/theorems/7ecc5ce1-7771-40d2-a4d1-9b05ef4432f0

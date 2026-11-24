@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_frames_preserve_norm_sq_sum
 -- name    : GlobalTheory.T.unitary_frames_preserve_norm_sq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:01:19.853442+00:00
 -- url     : https://prove2.me/theorems/38a2a3a4-3c67-4918-9edf-82234231c26a

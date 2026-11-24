@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_relIndex_sqs_sUnits
 -- name    : GlobalTheory.QNorm.relIndex_sqs_sUnits
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:41:56.031795+00:00
 -- url     : https://prove2.me/theorems/7f2d711d-b3d4-4258-a8fe-23a29665ba54

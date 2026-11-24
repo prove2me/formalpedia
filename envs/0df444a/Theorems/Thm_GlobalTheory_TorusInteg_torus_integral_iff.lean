@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusInteg_torus_integral_iff
 -- name    : GlobalTheory.TorusInteg.torus_integral_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:10:07.843945+00:00
 -- url     : https://prove2.me/theorems/863c0b46-8a09-4e49-ba5f-95dc065fbb03

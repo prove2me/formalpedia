@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_FiniteSupport_finite_unfSupport_of_ne_one
 -- name    : GlobalTheory.FunObj.FiniteSupport.finite_unfSupport_of_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:43:33.939531+00:00
 -- url     : https://prove2.me/theorems/6abe40a4-f382-4f44-bf68-d95b17c71d13

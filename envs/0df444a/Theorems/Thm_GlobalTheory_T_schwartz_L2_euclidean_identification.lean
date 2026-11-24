@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_L2_euclidean_identification
 -- name    : GlobalTheory.T.schwartz_L2_euclidean_identification
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:57:29.10967+00:00
 -- url     : https://prove2.me/theorems/21802e9b-28c4-4985-9b0e-bffdb2af9a2c

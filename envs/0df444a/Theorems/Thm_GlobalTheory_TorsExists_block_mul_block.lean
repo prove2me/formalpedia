@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsExists_block_mul_block
 -- name    : GlobalTheory.TorsExists.block_mul_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:08:30.883098+00:00
 -- url     : https://prove2.me/theorems/b88cb431-56ac-48b2-890e-d780b8649188

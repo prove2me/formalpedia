@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_exists_int_of_exp_eq_one
 -- name    : GlobalTheory.ThetaFn.exists_int_of_exp_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:07:16.570871+00:00
 -- url     : https://prove2.me/theorems/aa1b3172-dabc-4515-84bf-e741bf97efb3

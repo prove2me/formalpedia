@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_shortLatticeVectorBoundedSize_of_orthogonalFrame
 -- name    : GlobalTheory.T.shortLatticeVectorBoundedSize_of_orthogonalFrame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:57:40.80833+00:00
 -- url     : https://prove2.me/theorems/3f28575c-e288-4263-8c86-a9dd846c029d

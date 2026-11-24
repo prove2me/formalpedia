@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentCrit_formallySmooth_of_dual_lift
 -- name    : GlobalTheory.TangentCrit.formallySmooth_of_dual_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:01:54.451801+00:00
 -- url     : https://prove2.me/theorems/8cf290ad-8813-48c1-83a7-92727c359add

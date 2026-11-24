@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbertRecip_mem_nrm_of_not_over
 -- name    : GlobalTheory.HilbertRecip.mem_nrm_of_not_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:15:30.224573+00:00
 -- url     : https://prove2.me/theorems/bb8e3182-db93-4574-b14f-ee8dcf9ee76b

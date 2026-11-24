@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TriangularityLowCoeff_eval_aeval
 -- name    : GlobalTheory.TriangularityLowCoeff.eval_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:12:20.593695+00:00
 -- url     : https://prove2.me/theorems/c772e48b-04a6-41ad-af56-9ffd9b94e74d

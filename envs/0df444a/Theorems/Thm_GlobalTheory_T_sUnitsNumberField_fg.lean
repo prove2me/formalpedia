@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sUnitsNumberField_fg
 -- name    : GlobalTheory.T.sUnitsNumberField_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:55:57.697162+00:00
 -- url     : https://prove2.me/theorems/54a75bf2-006d-45a2-be50-8d5fe3c60d68

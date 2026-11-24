@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TransportSD_map_map_equiv_right
 -- name    : GlobalTheory.TransportSD.map_map_equiv_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:11:57.807263+00:00
 -- url     : https://prove2.me/theorems/f1bdbe45-766a-44e2-9556-8136bff312ec

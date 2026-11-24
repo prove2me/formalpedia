@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_negativeLevyNoPositiveJumpsAEV1
 -- name    : Kyprianou.Ch03.negativeLevyNoPositiveJumpsAEV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:00:29.006972+00:00
 -- url     : https://prove2.me/theorems/4d8dab1b-74a3-4009-b377-8a3987c46dbe

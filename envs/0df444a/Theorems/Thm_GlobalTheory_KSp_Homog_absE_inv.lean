@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_Homog_absE_inv
 -- name    : GlobalTheory.KSp.Homog.absE_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:22:29.232147+00:00
 -- url     : https://prove2.me/theorems/1378c300-f9bf-4dff-a4e1-32d388b6f265

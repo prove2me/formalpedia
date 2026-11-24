@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schur_function_compact_support_modulo_unipotent
 -- name    : GlobalTheory.T.schur_function_compact_support_modulo_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:56:36.035617+00:00
 -- url     : https://prove2.me/theorems/d2c33d8d-f127-4e2d-986d-590d3b7c9a3f

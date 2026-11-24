@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_transvRankOne_mulVec
 -- name    : GlobalTheory.KSp.transvRankOne_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:23:55.624374+00:00
 -- url     : https://prove2.me/theorems/7949d534-1367-4e68-b261-7d01143a96e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGen_const_of_isIntegral
 -- name    : GlobalTheory.ThetaGen.const_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:06:10.832445+00:00
 -- url     : https://prove2.me/theorems/2f936268-5a71-4e89-8d49-8b9bc5d88650

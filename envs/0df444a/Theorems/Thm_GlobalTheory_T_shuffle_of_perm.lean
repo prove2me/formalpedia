@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_shuffle_of_perm
 -- name    : GlobalTheory.T.shuffle_of_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:57:36.07479+00:00
 -- url     : https://prove2.me/theorems/cb214f4b-f70c-462f-8df8-e1e124a90c80

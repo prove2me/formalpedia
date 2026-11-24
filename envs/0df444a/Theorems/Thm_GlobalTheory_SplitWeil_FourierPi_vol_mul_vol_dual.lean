@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_FourierPi_vol_mul_vol_dual
 -- name    : GlobalTheory.SplitWeil.FourierPi.vol_mul_vol_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:21:47.583196+00:00
 -- url     : https://prove2.me/theorems/766ed580-ec05-4f88-aa55-5620f2d61149

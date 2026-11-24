@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_FourInv_four_eq_zero
 -- name    : GlobalTheory.KSp.FourInv.four_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:22:48.520878+00:00
 -- url     : https://prove2.me/theorems/33db18c1-6839-4c53-8872-f905b5ea3e39

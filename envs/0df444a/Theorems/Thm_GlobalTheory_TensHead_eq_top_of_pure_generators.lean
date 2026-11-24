@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensHead_eq_top_of_pure_generators
 -- name    : GlobalTheory.TensHead.eq_top_of_pure_generators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:02:01.087452+00:00
 -- url     : https://prove2.me/theorems/56aefc35-8a9f-4a6b-9bd4-8bffb79b2bf4

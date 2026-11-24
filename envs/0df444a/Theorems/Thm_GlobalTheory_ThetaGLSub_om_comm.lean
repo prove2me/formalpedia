@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGLSub_om_comm
 -- name    : GlobalTheory.ThetaGLSub.om_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:06:00.587048+00:00
 -- url     : https://prove2.me/theorems/32596e6d-f174-47f1-8fe4-4b3f6a3978e9

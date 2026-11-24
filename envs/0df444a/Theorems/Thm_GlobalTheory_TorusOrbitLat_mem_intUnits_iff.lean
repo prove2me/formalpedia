@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusOrbitLat_mem_intUnits_iff
 -- name    : GlobalTheory.TorusOrbitLat.mem_intUnits_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:11:01.632923+00:00
 -- url     : https://prove2.me/theorems/6835dc91-42ad-414f-921a-2ac21c78b50e

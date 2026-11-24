@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhat_distribution_eq_zero_baire
 -- name    : GlobalTheory.T.schwartzBruhat_distribution_eq_zero_baire
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:56:50.555146+00:00
 -- url     : https://prove2.me/theorems/a23a3f60-7ba7-4d35-8af9-0c40e4895706

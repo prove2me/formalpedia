@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TamePairing_tame_pairing
 -- name    : GlobalTheory.TamePairing.tame_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:02:12.533377+00:00
 -- url     : https://prove2.me/theorems/a962e2e7-4182-48ad-95c7-2fe457159c92

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_exists_isUnit_appLE_eq
 -- name    : GlobalTheory.PrimeSection.exists_isUnit_appLE_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:42:57.892921+00:00
 -- url     : https://prove2.me/theorems/e610a833-cb58-4239-aa3f-d23fcfca9737

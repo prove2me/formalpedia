@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_transv_iso_update
 -- name    : GlobalTheory.KSp.transv_iso_update
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:22:33.659798+00:00
 -- url     : https://prove2.me/theorems/7447feaa-9b7d-43d6-a1a7-e08c25983f3a

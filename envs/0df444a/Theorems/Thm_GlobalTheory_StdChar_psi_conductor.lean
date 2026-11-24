@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StdChar_psi_conductor
 -- name    : GlobalTheory.StdChar.psi_conductor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:50:02.963615+00:00
 -- url     : https://prove2.me/theorems/285690b5-8e74-4e39-8736-b0b45e2e38c9

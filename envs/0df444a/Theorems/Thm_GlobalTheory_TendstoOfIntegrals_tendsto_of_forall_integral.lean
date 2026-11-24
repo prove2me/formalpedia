@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TendstoOfIntegrals_tendsto_of_forall_integral
 -- name    : GlobalTheory.TendstoOfIntegrals.tendsto_of_forall_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:01:44.460431+00:00
 -- url     : https://prove2.me/theorems/0d928c7c-9607-4a11-8ca0-fc43f3091c8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_semicharacter_sq_eq_one_of_symmetric
 -- name    : GlobalTheory.semicharacter_sq_eq_one_of_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:16:51.285008+00:00
 -- url     : https://prove2.me/theorems/4393f5c6-3674-48b8-8098-5ce14de16b62

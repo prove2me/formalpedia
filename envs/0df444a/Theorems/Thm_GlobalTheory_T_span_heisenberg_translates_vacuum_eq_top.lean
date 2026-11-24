@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_span_heisenberg_translates_vacuum_eq_top
 -- name    : GlobalTheory.T.span_heisenberg_translates_vacuum_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:14.250695+00:00
 -- url     : https://prove2.me/theorems/44ca5516-bc2d-48f5-91dc-4a53f6aa88f8

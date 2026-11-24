@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaModelGroup_hom_ext_points
 -- name    : GlobalTheory.ThetaModelGroup.hom_ext_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:06:12.927625+00:00
 -- url     : https://prove2.me/theorems/bacf1954-86dc-4fa0-9269-f576c489d9a5

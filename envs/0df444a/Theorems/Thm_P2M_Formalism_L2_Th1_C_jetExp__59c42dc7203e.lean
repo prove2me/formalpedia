@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_C_jetExp__59c42dc7203e
 -- name    : P2M_Formalism_L2_Th1_C_jetExp__59c42dc7203e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:25:57.421798+00:00
 -- url     : https://prove2.me/theorems/2f9c0725-537d-414d-b711-95cb34a26588

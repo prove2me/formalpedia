@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tsum_exp_mul_aChi_bounds
 -- name    : GlobalTheory.T.tsum_exp_mul_aChi_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:00:01.623812+00:00
 -- url     : https://prove2.me/theorems/98fedcf1-9e68-4a7d-b103-d314614beafa

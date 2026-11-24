@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_scl_pow_eq_of_le
 -- name    : GlobalTheory.SqZero.scl_pow_eq_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:42:54.29437+00:00
 -- url     : https://prove2.me/theorems/79c4e81c-fb40-4970-8146-233c3e0a5161

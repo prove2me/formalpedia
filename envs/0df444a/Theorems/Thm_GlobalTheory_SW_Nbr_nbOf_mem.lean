@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_nbOf_mem
 -- name    : GlobalTheory.SW.Nbr.nbOf_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:47.542817+00:00
 -- url     : https://prove2.me/theorems/3a00af36-409f-489a-bdb6-3ff89d774f43

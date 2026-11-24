@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeFrame_exists_global_frame_of_local
 -- name    : GlobalTheory.CubeFrame.exists_global_frame_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:28:22.067841+00:00
 -- url     : https://prove2.me/theorems/865fa811-aafc-40de-beca-ed41055be968

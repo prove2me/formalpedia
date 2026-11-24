@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_eabH_congr
 -- name    : Formalism.FourierDecayAlt.P.PBG.eabH_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:19:44.857068+00:00
 -- url     : https://prove2.me/theorems/5f804a5c-35c6-4f04-9aef-3958f6236b0c

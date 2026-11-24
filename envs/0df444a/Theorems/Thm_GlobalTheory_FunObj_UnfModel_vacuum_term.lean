@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_UnfModel_vacuum_term
 -- name    : GlobalTheory.FunObj.UnfModel.vacuum_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:40:22.752972+00:00
 -- url     : https://prove2.me/theorems/88c76e9c-5bc6-4883-b97e-bebdaff22c86

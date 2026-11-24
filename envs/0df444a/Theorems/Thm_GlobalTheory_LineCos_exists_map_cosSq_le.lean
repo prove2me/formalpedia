@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineCos_exists_map_cosSq_le
 -- name    : GlobalTheory.LineCos.exists_map_cosSq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:08:00.381992+00:00
 -- url     : https://prove2.me/theorems/3f00b451-2eda-40b4-a801-94b4f63999ff

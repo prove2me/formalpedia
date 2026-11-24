@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzFstOp_remainder_bound
 -- name    : GlobalTheory.SchwartzFstOp.remainder_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:47:50.582277+00:00
 -- url     : https://prove2.me/theorems/44ba50b9-4db6-45dd-874c-ef50db0e2bfe

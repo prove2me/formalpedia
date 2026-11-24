@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemisimpleCount_finrank_killed_eq
 -- name    : GlobalTheory.SemisimpleCount.finrank_killed_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:53:13.811436+00:00
 -- url     : https://prove2.me/theorems/3822dd8c-fc77-45f3-9222-9fc27b360bb6

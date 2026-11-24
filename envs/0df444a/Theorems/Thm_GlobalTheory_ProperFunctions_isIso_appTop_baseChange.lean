@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_isIso_appTop_baseChange
 -- name    : GlobalTheory.ProperFunctions.isIso_appTop_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:56:30.494034+00:00
 -- url     : https://prove2.me/theorems/01eb57cb-a3a6-437f-a656-b25ee071a9c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaOnto_mem_span_of_card_le
 -- name    : GlobalTheory.ThetaOnto.mem_span_of_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:06:16.645665+00:00
 -- url     : https://prove2.me/theorems/38ca725d-76ff-45fe-8e2b-366f73b8386f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittSplit_exists_right_inv_unit
 -- name    : GlobalTheory.SgAlg.WittSplit.exists_right_inv_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:54:42.785718+00:00
 -- url     : https://prove2.me/theorems/3a1fab8c-c496-4e04-8cf6-77c6f7b33fa7

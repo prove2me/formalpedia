@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Small_not_dvd_condN
 -- name    : UpperTheory.Small.not_dvd_condN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:11:39.384211+00:00
 -- url     : https://prove2.me/theorems/c59fff17-9e98-4824-9e1a-c28e5e060357

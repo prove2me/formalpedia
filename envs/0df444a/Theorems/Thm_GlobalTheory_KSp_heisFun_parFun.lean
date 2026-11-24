@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_heisFun_parFun
 -- name    : GlobalTheory.KSp.heisFun_parFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:23:16.829129+00:00
 -- url     : https://prove2.me/theorems/abe64e23-4058-4499-9478-030860c37816

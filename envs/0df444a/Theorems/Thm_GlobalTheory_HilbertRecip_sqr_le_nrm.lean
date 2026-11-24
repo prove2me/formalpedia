@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbertRecip_sqr_le_nrm
 -- name    : GlobalTheory.HilbertRecip.sqr_le_nrm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:16:49.703965+00:00
 -- url     : https://prove2.me/theorems/7ee5be38-311b-45d0-b505-1718f20bea99

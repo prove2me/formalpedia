@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusElliptic_symbol_lower
 -- name    : GlobalTheory.TorusElliptic.symbol_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:10:01.449214+00:00
 -- url     : https://prove2.me/theorems/2bab0a3f-1d95-422c-bd04-9c34cae64e8c

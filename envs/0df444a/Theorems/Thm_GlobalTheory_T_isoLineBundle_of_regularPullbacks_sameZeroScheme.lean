@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isoLineBundle_of_regularPullbacks_sameZeroScheme
 -- name    : GlobalTheory.T.isoLineBundle_of_regularPullbacks_sameZeroScheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:51:37.001053+00:00
 -- url     : https://prove2.me/theorems/887a7800-6b07-42cc-a9e7-5b8f57611923

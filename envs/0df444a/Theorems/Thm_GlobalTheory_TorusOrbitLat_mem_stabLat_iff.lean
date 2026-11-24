@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusOrbitLat_mem_stabLat_iff
 -- name    : GlobalTheory.TorusOrbitLat.mem_stabLat_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:11:19.6168+00:00
 -- url     : https://prove2.me/theorems/60450359-1645-46fd-b856-0226ac5fbdd8

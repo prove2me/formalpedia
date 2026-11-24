@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitPlaceExt_eq_of_w_eq
 -- name    : GlobalTheory.SplitPlaceExt.eq_of_w_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:23:34.630912+00:00
 -- url     : https://prove2.me/theorems/2b154db5-af2d-4775-8bfd-8d70933d90f0

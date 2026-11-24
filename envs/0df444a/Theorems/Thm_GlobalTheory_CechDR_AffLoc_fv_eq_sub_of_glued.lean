@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_AffLoc_fv_eq_sub_of_glued
 -- name    : GlobalTheory.CechDR.AffLoc.fv_eq_sub_of_glued
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:14:59.344799+00:00
 -- url     : https://prove2.me/theorems/b17e0e82-39ea-4277-9de6-339dc0d43671

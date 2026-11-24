@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_transv_step
 -- name    : GlobalTheory.KSp.transv_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:21:48.74479+00:00
 -- url     : https://prove2.me/theorems/fe2b1ee9-2006-437d-9bdd-d4b95ce3b3ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TestLat_weyl_rowAct_mem_of_isUnit_det
 -- name    : GlobalTheory.TestLat.weyl_rowAct_mem_of_isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:03:37.904829+00:00
 -- url     : https://prove2.me/theorems/a4d96a24-08fd-4d8a-8f7a-8dc74b77cc36

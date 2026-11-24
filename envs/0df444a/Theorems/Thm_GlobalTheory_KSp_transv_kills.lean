@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_transv_kills
 -- name    : GlobalTheory.KSp.transv_kills
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:22:02.542181+00:00
 -- url     : https://prove2.me/theorems/cd5bef5e-2b34-4309-ae0e-d9f2ee7c2803

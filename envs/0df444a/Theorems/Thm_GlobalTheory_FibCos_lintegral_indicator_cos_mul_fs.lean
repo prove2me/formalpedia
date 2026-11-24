@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibCos_lintegral_indicator_cos_mul_fs
 -- name    : GlobalTheory.FibCos.lintegral_indicator_cos_mul_fs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:19:10.954964+00:00
 -- url     : https://prove2.me/theorems/8f5f6740-9811-436a-8772-fbeb2dddc720

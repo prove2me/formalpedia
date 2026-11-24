@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_normOp_comp_of_adj
 -- name    : GlobalTheory.FinWeil.normOp_comp_of_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:30:13.512292+00:00
 -- url     : https://prove2.me/theorems/3b1caccf-c637-4a11-a1d4-a8493a36df70

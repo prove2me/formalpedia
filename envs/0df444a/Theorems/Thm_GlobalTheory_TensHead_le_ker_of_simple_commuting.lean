@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensHead_le_ker_of_simple_commuting
 -- name    : GlobalTheory.TensHead.le_ker_of_simple_commuting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:01:49.157696+00:00
 -- url     : https://prove2.me/theorems/9e464587-4e59-4a36-ad39-a7340acd43b3

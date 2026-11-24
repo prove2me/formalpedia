@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_mem_innerVertices_flipPath
 -- name    : GlobalTheory.SplitFlip.mem_innerVertices_flipPath
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:20:35.060723+00:00
 -- url     : https://prove2.me/theorems/f52589a4-a1c1-44ea-bf7a-2dacbd113465

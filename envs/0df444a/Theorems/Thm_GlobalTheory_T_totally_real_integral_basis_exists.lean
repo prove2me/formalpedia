@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_totally_real_integral_basis_exists
 -- name    : GlobalTheory.T.totally_real_integral_basis_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:51.802713+00:00
 -- url     : https://prove2.me/theorems/ee54c1e5-863b-40e3-865f-0cdfe039faea

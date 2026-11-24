@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGen_one_mem_level
 -- name    : GlobalTheory.ThetaGen.one_mem_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:06:36.415441+00:00
 -- url     : https://prove2.me/theorems/6d6db602-8168-4ec7-a1f9-89b7e45ae42a

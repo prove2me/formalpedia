@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HermLat_form_nondeg
 -- name    : GlobalTheory.SW.HermLat.form_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:42:20.894728+00:00
 -- url     : https://prove2.me/theorems/59e626b4-5042-45c9-9cbd-7381f889687a

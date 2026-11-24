@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusUnit_exists_coeff_notMem
 -- name    : GlobalTheory.TorusUnit.exists_coeff_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:11:27.736538+00:00
 -- url     : https://prove2.me/theorems/07a9870c-3ff9-4d55-9264-7dd4fafb25ce

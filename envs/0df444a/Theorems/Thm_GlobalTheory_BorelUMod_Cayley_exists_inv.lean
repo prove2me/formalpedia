@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_Cayley_exists_inv
 -- name    : GlobalTheory.BorelUMod.Cayley.exists_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:47.348801+00:00
 -- url     : https://prove2.me/theorems/c5870b76-b433-4af4-9fb3-58d129741ce6

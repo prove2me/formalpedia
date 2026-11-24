@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFormCompare_pmaps_self_of_tautological
 -- name    : GlobalTheory.TorsionFormCompare.pmaps_self_of_tautological
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:09:38.432057+00:00
 -- url     : https://prove2.me/theorems/0fe20eb7-03fa-4a33-95a8-89874ca3fca3

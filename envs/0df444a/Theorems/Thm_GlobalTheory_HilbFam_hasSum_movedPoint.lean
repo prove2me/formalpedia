@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_hasSum_movedPoint
 -- name    : GlobalTheory.HilbFam.hasSum_movedPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:20:42.458858+00:00
 -- url     : https://prove2.me/theorems/d1119381-18a8-428a-9d5a-bb1539cf15b2

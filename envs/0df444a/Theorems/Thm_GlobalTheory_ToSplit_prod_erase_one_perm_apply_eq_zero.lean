@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToSplit_prod_erase_one_perm_apply_eq_zero
 -- name    : GlobalTheory.ToSplit.prod_erase_one_perm_apply_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:08:19.874804+00:00
 -- url     : https://prove2.me/theorems/c0f9cce0-a18f-4ba7-a8fa-d94fcd5f31bd

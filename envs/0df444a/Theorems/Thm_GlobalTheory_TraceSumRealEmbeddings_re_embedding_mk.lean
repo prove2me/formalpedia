@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceSumRealEmbeddings_re_embedding_mk
 -- name    : GlobalTheory.TraceSumRealEmbeddings.re_embedding_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:11:24.095129+00:00
 -- url     : https://prove2.me/theorems/5859b980-2fc7-448e-8dde-849962712ed1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Inhab_selfDual_splitLat
 -- name    : GlobalTheory.SgGlob.Inhab.selfDual_splitLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:54:50.77988+00:00
 -- url     : https://prove2.me/theorems/9f88b150-95f0-4b61-a70f-47aec2b04637

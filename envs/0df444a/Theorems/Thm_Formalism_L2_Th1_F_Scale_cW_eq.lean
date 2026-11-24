@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Scale_cW_eq
 -- name    : Formalism.L2.Th1.F.Scale.cW_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:20:25.251026+00:00
 -- url     : https://prove2.me/theorems/ee06af28-ba89-4130-a049-e6bca454b61c

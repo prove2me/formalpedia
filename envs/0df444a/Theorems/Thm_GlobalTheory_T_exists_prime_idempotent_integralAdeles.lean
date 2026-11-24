@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_prime_idempotent_integralAdeles
 -- name    : GlobalTheory.T.exists_prime_idempotent_integralAdeles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:38:51.217048+00:00
 -- url     : https://prove2.me/theorems/540f9ab5-15bc-4090-a87c-a63d58122f26

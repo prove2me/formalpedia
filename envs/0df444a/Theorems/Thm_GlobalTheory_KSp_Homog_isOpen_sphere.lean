@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_Homog_isOpen_sphere
 -- name    : GlobalTheory.KSp.Homog.isOpen_sphere
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:23:20.191333+00:00
 -- url     : https://prove2.me/theorems/21f9a7f6-7aac-4df1-9238-22f73dc275e8

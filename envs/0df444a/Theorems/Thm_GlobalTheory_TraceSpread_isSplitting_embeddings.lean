@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceSpread_isSplitting_embeddings
 -- name    : GlobalTheory.TraceSpread.isSplitting_embeddings
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:11:31.410933+00:00
 -- url     : https://prove2.me/theorems/42ba7e51-bd49-41f3-8aa3-daaca814a984

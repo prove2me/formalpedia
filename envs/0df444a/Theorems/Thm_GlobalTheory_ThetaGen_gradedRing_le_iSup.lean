@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGen_gradedRing_le_iSup
 -- name    : GlobalTheory.ThetaGen.gradedRing_le_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:06:15.401394+00:00
 -- url     : https://prove2.me/theorems/b4301178-d69b-49c7-ad7b-0d27f41b4330

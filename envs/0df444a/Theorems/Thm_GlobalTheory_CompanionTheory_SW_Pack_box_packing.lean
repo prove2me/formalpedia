@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Pack_box_packing
 -- name    : GlobalTheory.CompanionTheory.SW.Pack.box_packing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:07:59.048699+00:00
 -- url     : https://prove2.me/theorems/59d5c71c-4f41-419e-8c8b-c5c1dbceecf4

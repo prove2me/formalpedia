@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreJointCont_continuousOn_fibre_integral
 -- name    : GlobalTheory.CompanionTheory.SW.FibreJointCont.continuousOn_fibre_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:04:57.428031+00:00
 -- url     : https://prove2.me/theorems/20fbd33f-4de5-4d00-8a7f-1bdf6abfb808

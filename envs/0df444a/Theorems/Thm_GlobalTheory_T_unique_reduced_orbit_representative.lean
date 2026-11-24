@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unique_reduced_orbit_representative
 -- name    : GlobalTheory.T.unique_reduced_orbit_representative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:00:45.963118+00:00
 -- url     : https://prove2.me/theorems/cb5e873c-b537-47d4-bd23-2baccb77d8fa

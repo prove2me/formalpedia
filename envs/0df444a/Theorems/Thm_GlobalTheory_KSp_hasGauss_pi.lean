@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_hasGauss_pi
 -- name    : GlobalTheory.KSp.hasGauss_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:23:59.774069+00:00
 -- url     : https://prove2.me/theorems/fb73f676-0e26-4fee-92aa-adc5fb5dab6e

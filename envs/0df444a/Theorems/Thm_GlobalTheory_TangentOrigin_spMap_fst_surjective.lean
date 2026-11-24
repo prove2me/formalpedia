@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentOrigin_spMap_fst_surjective
 -- name    : GlobalTheory.TangentOrigin.spMap_fst_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:01:59.144676+00:00
 -- url     : https://prove2.me/theorems/40505c7a-4973-4a04-bb6d-7780b59c6f31

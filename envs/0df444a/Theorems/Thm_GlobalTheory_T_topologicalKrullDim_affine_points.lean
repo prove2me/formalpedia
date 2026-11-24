@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_topologicalKrullDim_affine_points
 -- name    : GlobalTheory.T.topologicalKrullDim_affine_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:59:57.894979+00:00
 -- url     : https://prove2.me/theorems/e50d2651-2082-45ab-888f-00523eedd4cd

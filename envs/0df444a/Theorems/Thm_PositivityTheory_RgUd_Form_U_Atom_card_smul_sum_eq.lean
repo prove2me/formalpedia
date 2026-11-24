@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Form_U_Atom_card_smul_sum_eq
 -- name    : PositivityTheory.RgUd.Form.U.Atom.card_smul_sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:34:05.980802+00:00
 -- url     : https://prove2.me/theorems/7036dda3-273d-41a5-88f7-9fcfb20a3646

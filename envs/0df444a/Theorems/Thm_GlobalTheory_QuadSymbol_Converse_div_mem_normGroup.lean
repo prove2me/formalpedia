@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_Converse_div_mem_normGroup
 -- name    : GlobalTheory.QuadSymbol.Converse.div_mem_normGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:28:52.00024+00:00
 -- url     : https://prove2.me/theorems/cb21dac8-e6ff-4650-ba71-53492925da86

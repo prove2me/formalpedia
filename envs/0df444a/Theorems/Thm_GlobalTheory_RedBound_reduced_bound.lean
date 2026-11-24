@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RedBound_reduced_bound
 -- name    : GlobalTheory.RedBound.reduced_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:19:07.665344+00:00
 -- url     : https://prove2.me/theorems/9c822ef5-bcc3-4777-b92d-2ef2c1d33641

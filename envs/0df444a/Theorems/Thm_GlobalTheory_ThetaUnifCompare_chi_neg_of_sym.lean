@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaUnifCompare_chi_neg_of_sym
 -- name    : GlobalTheory.ThetaUnifCompare.chi_neg_of_sym
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:08:01.74357+00:00
 -- url     : https://prove2.me/theorems/9a71c499-c973-417a-9d66-b5872abc96e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaModelGroup_RegAt_mul
 -- name    : GlobalTheory.ThetaModelGroup.RegAt.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:06:46.446688+00:00
 -- url     : https://prove2.me/theorems/e69d7154-00da-46a4-a60d-c009e1ad036b

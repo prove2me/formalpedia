@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictGrp_ext_section
 -- name    : GlobalTheory.SS.StrictGrp.ext_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:17:42.818181+00:00
 -- url     : https://prove2.me/theorems/1ca2c178-a858-4cda-8c2d-48a5034cba7e

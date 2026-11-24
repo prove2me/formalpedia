@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionForm_sgn_insert
 -- name    : GlobalTheory.TorsionForm.sgn_insert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:09:13.009868+00:00
 -- url     : https://prove2.me/theorems/bc37752a-ea95-4c4d-8b9a-1729b12e2291

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_subspaces_of_finrank_mul_card_bases
 -- name    : GlobalTheory.T.card_subspaces_of_finrank_mul_card_bases
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:47:49.934039+00:00
 -- url     : https://prove2.me/theorems/8ffd1e4a-6539-4c55-be0f-bf7aae862794

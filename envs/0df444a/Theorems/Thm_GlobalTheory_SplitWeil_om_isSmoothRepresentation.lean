@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_om_isSmoothRepresentation
 -- name    : GlobalTheory.SplitWeil.om_isSmoothRepresentation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:40:31.212438+00:00
 -- url     : https://prove2.me/theorems/faabc75d-4104-47f5-911d-13c72a81419e

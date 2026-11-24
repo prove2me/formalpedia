@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitLift_exists_unitary_lift
 -- name    : GlobalTheory.SplitLift.exists_unitary_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:22:15.908366+00:00
 -- url     : https://prove2.me/theorems/c87d1737-b405-49b0-9380-c4d14018f25b

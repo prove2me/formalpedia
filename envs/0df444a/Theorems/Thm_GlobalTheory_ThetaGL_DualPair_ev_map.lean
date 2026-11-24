@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGL_DualPair_ev_map
 -- name    : GlobalTheory.ThetaGL.DualPair.ev_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:05:54.983259+00:00
 -- url     : https://prove2.me/theorems/f6be2595-ee19-4db6-944b-de09b22ad889

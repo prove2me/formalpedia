@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickeningIso_ker_appTop
 -- name    : GlobalTheory.ThickeningIso.ker_appTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:08:00.423774+00:00
 -- url     : https://prove2.me/theorems/4f5d010c-89c3-43f1-947e-d8f2ff7f6f9a

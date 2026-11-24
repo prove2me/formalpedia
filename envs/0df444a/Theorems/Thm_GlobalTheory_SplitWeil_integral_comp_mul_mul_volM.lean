@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_integral_comp_mul_mul_volM
 -- name    : GlobalTheory.SplitWeil.integral_comp_mul_mul_volM
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:16:07.887312+00:00
 -- url     : https://prove2.me/theorems/a7b1ab92-60b9-4a77-9b44-2ea9d4ae4fb6

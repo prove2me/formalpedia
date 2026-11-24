@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_pr_eq_trace
 -- name    : GlobalTheory.KSp.pr_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:22:29.797217+00:00
 -- url     : https://prove2.me/theorems/5d781f85-2351-4f4b-8d36-3654eb4ffd85

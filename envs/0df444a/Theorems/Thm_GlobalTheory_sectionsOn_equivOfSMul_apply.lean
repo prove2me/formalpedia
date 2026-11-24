@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sectionsOn_equivOfSMul_apply
 -- name    : GlobalTheory.sectionsOn.equivOfSMul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:26:31.935368+00:00
 -- url     : https://prove2.me/theorems/dbdd29a2-6fce-47c0-a5ac-72a5f604b04b

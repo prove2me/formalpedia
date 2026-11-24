@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_section_inverse_into_slice
 -- name    : GlobalTheory.T.section_inverse_into_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:57:52.05225+00:00
 -- url     : https://prove2.me/theorems/e45e6ebf-f9ae-4cea-a744-0fa03caa61c9

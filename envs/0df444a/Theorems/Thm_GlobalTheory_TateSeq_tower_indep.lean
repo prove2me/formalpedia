@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateSeq_tower_indep
 -- name    : GlobalTheory.TateSeq.tower_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:02:40.168816+00:00
 -- url     : https://prove2.me/theorems/9fbc4506-ab64-4aad-a023-872fdad98285

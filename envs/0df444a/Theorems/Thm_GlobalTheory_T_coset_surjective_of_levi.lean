@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coset_surjective_of_levi
 -- name    : GlobalTheory.T.coset_surjective_of_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:32:54.85295+00:00
 -- url     : https://prove2.me/theorems/c20b2529-8cd1-405e-bbff-80cb15cb94a2

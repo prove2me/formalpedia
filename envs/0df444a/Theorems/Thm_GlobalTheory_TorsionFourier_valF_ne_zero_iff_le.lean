@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFourier_valF_ne_zero_iff_le
 -- name    : GlobalTheory.TorsionFourier.valF_ne_zero_iff_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:08:57.435912+00:00
 -- url     : https://prove2.me/theorems/2c119ecc-9a24-4a78-81e5-c3145336481f

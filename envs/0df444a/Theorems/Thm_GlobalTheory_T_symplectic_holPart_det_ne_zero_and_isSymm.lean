@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_symplectic_holPart_det_ne_zero_and_isSymm
 -- name    : GlobalTheory.T.symplectic_holPart_det_ne_zero_and_isSymm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:15:56.153045+00:00
 -- url     : https://prove2.me/theorems/b1321955-d694-4da5-9d75-df74bdd751ac

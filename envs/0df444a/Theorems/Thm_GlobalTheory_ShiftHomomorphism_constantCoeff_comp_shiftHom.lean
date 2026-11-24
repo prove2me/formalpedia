@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShiftHomomorphism_constantCoeff_comp_shiftHom
 -- name    : GlobalTheory.ShiftHomomorphism.constantCoeff_comp_shiftHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:29:01.142681+00:00
 -- url     : https://prove2.me/theorems/1d2963bc-cd0a-4a07-a403-e547d4ededa5

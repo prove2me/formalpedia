@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_negativeLevyLaplaceFromTripleV1
 -- name    : Kyprianou.Ch03.negativeLevyLaplaceFromTripleV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:00:38.036577+00:00
 -- url     : https://prove2.me/theorems/5a4507e9-71cf-422c-8e88-ed10e3fed013

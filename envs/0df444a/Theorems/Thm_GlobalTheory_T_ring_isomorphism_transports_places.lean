@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ring_isomorphism_transports_places
 -- name    : GlobalTheory.T.ring_isomorphism_transports_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:56:41.463031+00:00
 -- url     : https://prove2.me/theorems/a972178a-3c18-4ae0-8047-0dc5cef639cd

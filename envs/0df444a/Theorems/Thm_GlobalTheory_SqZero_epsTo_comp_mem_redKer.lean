@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_epsTo_comp_mem_redKer
 -- name    : GlobalTheory.SqZero.epsTo_comp_mem_redKer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:19.502892+00:00
 -- url     : https://prove2.me/theorems/e3340a92-f143-4e7b-876a-7cd6cd2658cb

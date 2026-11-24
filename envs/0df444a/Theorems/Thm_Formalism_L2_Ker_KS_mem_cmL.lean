@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Ker_KS_mem_cmL
 -- name    : Formalism.L2.Ker.KS.mem_cmL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:23:50.861122+00:00
 -- url     : https://prove2.me/theorems/f3bd03e6-ca47-4262-9891-c16cbf857b26

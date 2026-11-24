@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_eta_infinite_real
 -- name    : GlobalTheory.QuadSymbol.eta_infinite_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:16:08.376981+00:00
 -- url     : https://prove2.me/theorems/25dc0c39-3cad-4aec-8879-05ae4091925b

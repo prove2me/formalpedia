@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelExp_HolAt_analyticAt_pi
 -- name    : GlobalTheory.RelExp.HolAt.analyticAt_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:06:49.569196+00:00
 -- url     : https://prove2.me/theorems/c9684242-53df-4fe3-af07-7585bbfc3678

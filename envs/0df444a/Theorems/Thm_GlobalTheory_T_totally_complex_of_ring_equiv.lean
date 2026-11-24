@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_totally_complex_of_ring_equiv
 -- name    : GlobalTheory.T.totally_complex_of_ring_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:51.132848+00:00
 -- url     : https://prove2.me/theorems/a43a605b-1245-4021-8555-3a8b9391347c

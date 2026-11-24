@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sum_primitiveEndClassFunction_restrict_mixed_subspace
 -- name    : GlobalTheory.T.sum_primitiveEndClassFunction_restrict_mixed_subspace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:58:44.806403+00:00
 -- url     : https://prove2.me/theorems/5ebaf846-2a7a-47c1-8d6a-d765de3ecd3a

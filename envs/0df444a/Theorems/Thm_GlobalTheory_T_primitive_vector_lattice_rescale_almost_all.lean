@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_primitive_vector_lattice_rescale_almost_all
 -- name    : GlobalTheory.T.primitive_vector_lattice_rescale_almost_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:55:13.037091+00:00
 -- url     : https://prove2.me/theorems/4f3be114-d4c2-4a4e-a185-eeb2e0162065

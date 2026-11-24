@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_StdLattice_exists_std
 -- name    : GlobalTheory.CompanionTheory.StdLattice.exists_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:14:22.782676+00:00
 -- url     : https://prove2.me/theorems/0b2ed10d-1044-45da-997e-4d90f9ba5565

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_Vf2_lag_of
 -- name    : GlobalTheory.ThK.Dbl.Vf2.lag_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:04:14.194912+00:00
 -- url     : https://prove2.me/theorems/9a619fa4-a584-4c99-8ced-5fee0f7bd24f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_local_derivation_lift_smooth_over_field
 -- name    : GlobalTheory.T.exists_local_derivation_lift_smooth_over_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:37:08.2338+00:00
 -- url     : https://prove2.me/theorems/b1bae068-8db1-4016-842a-542719109cba

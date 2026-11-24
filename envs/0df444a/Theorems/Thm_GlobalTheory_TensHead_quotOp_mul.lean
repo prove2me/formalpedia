@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensHead_quotOp_mul
 -- name    : GlobalTheory.TensHead.quotOp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:02:22.035693+00:00
 -- url     : https://prove2.me/theorems/02276683-a3e9-4e24-a6db-dc04577a6985

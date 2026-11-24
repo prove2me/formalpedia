@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_Model_Phi_two
 -- name    : GlobalTheory.Tw.Model.Phi_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:12:37.104154+00:00
 -- url     : https://prove2.me/theorems/ff83c271-c509-477f-a1c0-a0f62f64769b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_WordBlockPolynomials_Block_isHomogeneous_poly
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.WordBlockPolynomials.Block.isHomogeneous_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:16:54.300124+00:00
 -- url     : https://prove2.me/theorems/fbd96acd-0d5e-4ce0-9424-8be5c4837ee5

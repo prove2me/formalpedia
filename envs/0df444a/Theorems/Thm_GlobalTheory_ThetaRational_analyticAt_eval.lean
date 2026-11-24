@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaRational_analyticAt_eval
 -- name    : GlobalTheory.ThetaRational.analyticAt_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:05:44.512379+00:00
 -- url     : https://prove2.me/theorems/5d117b98-2ee6-4f00-bd9d-fa5c31c551f2

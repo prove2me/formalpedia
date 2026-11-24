@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoPoisson_phi_line
 -- name    : GlobalTheory.HeckeTwoPoisson.phi_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:33:14.746671+00:00
 -- url     : https://prove2.me/theorems/7cc9b634-6afc-43e7-9c04-1b8ef0a75e1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGen_level_mul
 -- name    : GlobalTheory.ThetaGen.level_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:06:07.48315+00:00
 -- url     : https://prove2.me/theorems/96ae1095-13bf-448a-a347-c2226430952b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ker_CreOp_foldr_holD_eq_iteratedFDeriv
 -- name    : GlobalTheory.Ker.CreOp.foldr_holD_eq_iteratedFDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:48:11.629806+00:00
 -- url     : https://prove2.me/theorems/975e0910-f1fe-4057-8e77-cec31562e7ba

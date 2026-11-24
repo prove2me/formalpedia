@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_Dens_exists_ext
 -- name    : GlobalTheory.ThK.Dbl.Dens.exists_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:03:20.794946+00:00
 -- url     : https://prove2.me/theorems/73ac1dbf-83b7-48fc-b055-b041f8a045fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaInter_chi_mul_conj
 -- name    : GlobalTheory.ThetaInter.chi_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:06:29.302805+00:00
 -- url     : https://prove2.me/theorems/b75c4db1-4444-4255-b42a-d3352620cdb8

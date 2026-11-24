@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TruncGauss_exists_det_bound
 -- name    : GlobalTheory.TruncGauss.exists_det_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:12:53.825804+00:00
 -- url     : https://prove2.me/theorems/e27154e5-e270-44d6-9cdf-157309cb4a4e

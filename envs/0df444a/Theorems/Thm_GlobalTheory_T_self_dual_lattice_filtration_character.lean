@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_self_dual_lattice_filtration_character
 -- name    : GlobalTheory.T.self_dual_lattice_filtration_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:57:38.41007+00:00
 -- url     : https://prove2.me/theorems/b388b3fa-4106-4631-b75e-0296a4dedc8d

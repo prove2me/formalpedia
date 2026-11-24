@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceConj_exists_linearMap_of_trace_eq
 -- name    : GlobalTheory.TraceConj.exists_linearMap_of_trace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:11:03.616581+00:00
 -- url     : https://prove2.me/theorems/5755e4c6-999a-402a-a347-7524ca505977

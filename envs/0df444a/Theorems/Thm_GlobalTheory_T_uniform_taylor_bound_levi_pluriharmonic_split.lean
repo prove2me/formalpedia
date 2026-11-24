@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_uniform_taylor_bound_levi_pluriharmonic_split
 -- name    : GlobalTheory.T.uniform_taylor_bound_levi_pluriharmonic_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:01:02.539276+00:00
 -- url     : https://prove2.me/theorems/c1b83b58-180c-451d-9fd8-1b967b648004

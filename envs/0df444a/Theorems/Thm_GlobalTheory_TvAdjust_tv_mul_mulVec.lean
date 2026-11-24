@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TvAdjust_tv_mul_mulVec
 -- name    : GlobalTheory.TvAdjust.tv_mul_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:12:01.864084+00:00
 -- url     : https://prove2.me/theorems/7289c6b7-eebf-4730-b3cf-9485cdf87c2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NarrowGauss_fourierInv_gauss_mul_eq
 -- name    : GlobalTheory.NarrowGauss.fourierInv_gauss_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:57:45.843907+00:00
 -- url     : https://prove2.me/theorems/78f0bc0f-5379-482e-a17a-8441cd0d5773

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateTower_nsmul_cancel
 -- name    : GlobalTheory.TateTower.nsmul_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:02:28.334474+00:00
 -- url     : https://prove2.me/theorems/776f558a-4895-4039-9bcc-281f5e968d0e

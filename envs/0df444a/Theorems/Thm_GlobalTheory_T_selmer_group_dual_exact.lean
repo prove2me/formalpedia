@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_selmer_group_dual_exact
 -- name    : GlobalTheory.T.selmer_group_dual_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:57:30.621167+00:00
 -- url     : https://prove2.me/theorems/907a5517-1c78-487f-89c7-bd9903593e98

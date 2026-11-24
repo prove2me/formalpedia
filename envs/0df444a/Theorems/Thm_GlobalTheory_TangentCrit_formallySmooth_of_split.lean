@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentCrit_formallySmooth_of_split
 -- name    : GlobalTheory.TangentCrit.formallySmooth_of_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:02:02.362923+00:00
 -- url     : https://prove2.me/theorems/f4806c71-81b3-4926-8f28-27db2288c5f8

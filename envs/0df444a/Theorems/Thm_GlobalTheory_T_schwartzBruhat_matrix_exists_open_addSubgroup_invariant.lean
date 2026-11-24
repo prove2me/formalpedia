@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhat_matrix_exists_open_addSubgroup_invariant
 -- name    : GlobalTheory.T.schwartzBruhat_matrix_exists_open_addSubgroup_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:56:47.289574+00:00
 -- url     : https://prove2.me/theorems/4d34f1c5-bfe6-4c7f-8881-a3a03a0884b2

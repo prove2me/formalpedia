@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_exists_isSelfDual_of_hasConductor
 -- name    : GlobalTheory.SplitWeil.exists_isSelfDual_of_hasConductor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:21:52.544539+00:00
 -- url     : https://prove2.me/theorems/dde28d7d-f8ac-4740-9489-33b47e63b577

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensHead_quot_simple
 -- name    : GlobalTheory.TensHead.quot_simple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:03:14.51843+00:00
 -- url     : https://prove2.me/theorems/58f455be-0848-47c6-b532-c81268ab2d26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_hilbertEisenstein_movedPoint
 -- name    : GlobalTheory.T.hasSum_hilbertEisenstein_movedPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:44:06.113699+00:00
 -- url     : https://prove2.me/theorems/440fb667-a44f-4b45-9f46-33b4086c8dd6

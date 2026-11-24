@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceIso_split_of_hom
 -- name    : GlobalTheory.TraceIso.split_of_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:11:13.946291+00:00
 -- url     : https://prove2.me/theorems/d7236afe-8b5a-467c-928b-8d6a2bef328b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictGrp_transl_mul
 -- name    : GlobalTheory.SS.StrictGrp.transl_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:17:06.085314+00:00
 -- url     : https://prove2.me/theorems/08f6c936-4960-47bc-a694-21fea943fbbd

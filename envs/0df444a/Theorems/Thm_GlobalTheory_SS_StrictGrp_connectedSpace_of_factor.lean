@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictGrp_connectedSpace_of_factor
 -- name    : GlobalTheory.SS.StrictGrp.connectedSpace_of_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:17:25.644805+00:00
 -- url     : https://prove2.me/theorems/10feba84-5307-4ea7-9fe2-e43cf2852b23

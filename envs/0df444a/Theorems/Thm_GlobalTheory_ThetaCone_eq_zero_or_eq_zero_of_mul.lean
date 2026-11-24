@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCone_eq_zero_or_eq_zero_of_mul
 -- name    : GlobalTheory.ThetaCone.eq_zero_or_eq_zero_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:04:33.16043+00:00
 -- url     : https://prove2.me/theorems/0a87ccd3-edc0-4525-84dd-76ca6f70054b

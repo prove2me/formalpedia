@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for Formalism.L2.Th1.B.diagTwo
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-24T21:23:31.771107+00:00
+-- url     : https://prove2.me/submissions/4ebab7ad-3d09-4024-9c81-3dbc59afd69a
+
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_FinalA
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_ConstantCoeffSeriesAtVariable
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_SimeqPadicIntegers
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_LogSigmaOnePullbackSpec
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_WeierstrassSeriesIntegral
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_InVarAddInVarNeZero
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_ConstantCoeffEqZeroOfParallelogram
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_InvariantDerivationSubstLawThree
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_FinalB
+import Theorems.Thm_Formalism_L2_Th1_B_simeqInt
+import Theorems.Thm_Formalism_L2_Th1_B_DiagTwo_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.L2 Formalism.L2.Th1 Formalism.L2.Th1.B
+namespace Formalism.L2.Th1.B
+theorem _root_.solution : DiagTwo := by
+  exact DiagTwo_of simeqInt
+end Formalism.L2.Th1.B

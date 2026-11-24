@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Koecher_summable_exp_neg_mul_sum_abs
 -- name    : GlobalTheory.Koecher.summable_exp_neg_mul_sum_abs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:40.454041+00:00
 -- url     : https://prove2.me/theorems/7cadbce8-0ccd-4c64-bd22-0c2eb3e66659

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineThickening_isCoboundary_one
 -- name    : GlobalTheory.AffineThickening.isCoboundary_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:58:53.255923+00:00
 -- url     : https://prove2.me/theorems/068064db-7124-41fa-99f0-dd9bd9a94591

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaAH_thetaChar_add_period
 -- name    : GlobalTheory.ThetaAH.thetaChar_add_period
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:04:27.623015+00:00
 -- url     : https://prove2.me/theorems/e5ffc674-3528-40f6-b7b4-b4d61cc79ca6

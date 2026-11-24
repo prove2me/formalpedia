@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_map_comap_eq_comap_map_of_flat
 -- name    : GlobalTheory.T.map_comap_eq_comap_map_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:52:59.220969+00:00
 -- url     : https://prove2.me/theorems/0be885e5-a0a0-4deb-a530-45324aede928

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularNormal_stableDvd_of_spanFinrank_eq
 -- name    : GlobalTheory.RegularNormal.stableDvd_of_spanFinrank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:20:08.304102+00:00
 -- url     : https://prove2.me/theorems/704d2654-0ad2-4826-9073-aead6e53116d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_IndDual_isOpen_cell
 -- name    : GlobalTheory.SmGL.IndDual.isOpen_cell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:24:59.898804+00:00
 -- url     : https://prove2.me/theorems/f6ac9307-0772-4eef-ae48-0dd5dcdd79e5

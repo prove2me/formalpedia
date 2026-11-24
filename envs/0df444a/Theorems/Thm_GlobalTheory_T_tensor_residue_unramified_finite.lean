@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tensor_residue_unramified_finite
 -- name    : GlobalTheory.T.tensor_residue_unramified_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:00:00.567939+00:00
 -- url     : https://prove2.me/theorems/fc851406-0417-473e-a9be-3eccb64ab3f0

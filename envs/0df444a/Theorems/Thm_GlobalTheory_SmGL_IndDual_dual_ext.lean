@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_IndDual_dual_ext
 -- name    : GlobalTheory.SmGL.IndDual.dual_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:24:42.761494+00:00
 -- url     : https://prove2.me/theorems/28a928e1-088b-4f1a-b03a-0c82a935b295

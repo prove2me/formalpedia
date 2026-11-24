@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_transversal_zeros_of_jacobian_ne_zero_domain
 -- name    : GlobalTheory.T.transversal_zeros_of_jacobian_ne_zero_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:00:46.614839+00:00
 -- url     : https://prove2.me/theorems/6835efe4-6e81-433b-9b76-e619a76d7fb0

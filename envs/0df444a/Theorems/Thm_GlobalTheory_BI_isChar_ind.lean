@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_isChar_ind
 -- name    : GlobalTheory.BI.isChar_ind
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:06:56.942977+00:00
 -- url     : https://prove2.me/theorems/b4fd88a6-e2e9-4841-92c4-c2ed81479763

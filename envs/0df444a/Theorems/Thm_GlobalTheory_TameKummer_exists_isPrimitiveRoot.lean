@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameKummer_exists_isPrimitiveRoot
 -- name    : GlobalTheory.TameKummer.exists_isPrimitiveRoot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:32:55.262063+00:00
 -- url     : https://prove2.me/theorems/296194ab-a6de-4631-a9c1-da26f54d97ae

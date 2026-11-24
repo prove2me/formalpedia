@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSheafDescent_famIdeal_map_basicOpen
 -- name    : GlobalTheory.NormSheafDescent.famIdeal_map_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:14:51.35644+00:00
 -- url     : https://prove2.me/theorems/5f000e3d-105c-4fb0-9729-41f510a67913

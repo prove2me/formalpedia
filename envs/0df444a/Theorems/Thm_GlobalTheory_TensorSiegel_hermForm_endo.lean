@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorSiegel_hermForm_endo
 -- name    : GlobalTheory.TensorSiegel.hermForm_endo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:03:46.286958+00:00
 -- url     : https://prove2.me/theorems/68be6aa6-0ac4-4b3f-9a78-e817502bba43

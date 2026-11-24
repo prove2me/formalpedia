@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaOnto_constFn_zero
 -- name    : GlobalTheory.ThetaOnto.constFn_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:06:13.806062+00:00
 -- url     : https://prove2.me/theorems/326c1644-9aed-4a8f-a2e5-b3d881263b2e

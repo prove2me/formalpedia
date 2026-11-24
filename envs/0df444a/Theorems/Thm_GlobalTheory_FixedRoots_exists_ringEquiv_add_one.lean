@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FixedRoots_exists_ringEquiv_add_one
 -- name    : GlobalTheory.FixedRoots.exists_ringEquiv_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:24:23.127857+00:00
 -- url     : https://prove2.me/theorems/fe22d6e2-9fb4-469f-87dd-1c6c4e63aa09

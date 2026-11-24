@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickeningIso_bijective_of_mod_eps
 -- name    : GlobalTheory.ThickeningIso.bijective_of_mod_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:08:05.529817+00:00
 -- url     : https://prove2.me/theorems/98662732-8a62-4e4e-ad5c-84c8bc3d26c0

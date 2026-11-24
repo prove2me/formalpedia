@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_twoCocycle_comma_coboundary_of_standardCover
 -- name    : GlobalTheory.CatCoh.Desc.twoCocycle_comma_coboundary_of_standardCover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:48:34.385864+00:00
 -- url     : https://prove2.me/theorems/7ddeef91-bd34-4e1d-aab8-06d72b0a74bd

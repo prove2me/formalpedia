@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusExtBaseChange_exists_iso_of_square
 -- name    : GlobalTheory.TorusExtBaseChange.exists_iso_of_square
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:10:26.622543+00:00
 -- url     : https://prove2.me/theorems/6451c494-7ce0-4737-b627-1a9f64b1cdbb

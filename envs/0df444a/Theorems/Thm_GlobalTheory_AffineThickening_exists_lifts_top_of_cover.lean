@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineThickening_exists_lifts_top_of_cover
 -- name    : GlobalTheory.AffineThickening.exists_lifts_top_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:57:50.630593+00:00
 -- url     : https://prove2.me/theorems/b8d600d5-24c0-465c-8586-07eb0c09dba6

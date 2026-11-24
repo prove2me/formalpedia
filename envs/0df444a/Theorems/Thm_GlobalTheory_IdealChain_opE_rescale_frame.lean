@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealChain_opE_rescale_frame
 -- name    : GlobalTheory.IdealChain.opE_rescale_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:07:05.115544+00:00
 -- url     : https://prove2.me/theorems/b53c8bb1-cd45-4a8d-9be0-b9828c5d41ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ring_equiv_cyclotomic_character
 -- name    : GlobalTheory.T.ring_equiv_cyclotomic_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:56:28.761027+00:00
 -- url     : https://prove2.me/theorems/cf85255d-fc63-4a44-af6f-46e7c8708485

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibreKer_continuousOn_sec
 -- name    : GlobalTheory.RankFibreKer.continuousOn_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:15:11.55955+00:00
 -- url     : https://prove2.me/theorems/db433975-6b4e-4643-a50b-affd9a90d8c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TargetStatementAlt_target
 -- name    : GlobalTheory.TargetStatementAlt.target
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:02:07.178347+00:00
 -- url     : https://prove2.me/theorems/894e2f72-50a0-44d5-8129-f8485c932454

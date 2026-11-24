@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsorUnit_pt_injective
 -- name    : GlobalTheory.TorsorUnit.pt_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:09:23.693349+00:00
 -- url     : https://prove2.me/theorems/f2f04c8d-ae97-4bdc-90e9-4f080da4b43e

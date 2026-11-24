@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusToProper_spm_id
 -- name    : GlobalTheory.TorusToProper.spm_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:22:33.970372+00:00
 -- url     : https://prove2.me/theorems/7c85289b-9946-4e81-9b0f-9ffaaf5cbc66

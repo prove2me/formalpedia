@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorSiegel_re_hermForm_eq_of_span
 -- name    : GlobalTheory.TensorSiegel.re_hermForm_eq_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:03:42.298978+00:00
 -- url     : https://prove2.me/theorems/91ebb594-0570-4f62-ac28-6c3efc542657

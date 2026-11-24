@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaScalar_nontrivial_of_laws
 -- name    : GlobalTheory.ThetaScalar.nontrivial_of_laws
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:08:03.761865+00:00
 -- url     : https://prove2.me/theorems/5f14d47b-7870-40d5-afdf-9a40e307d8c6

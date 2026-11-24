@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_surjective_appLE_chart_iff
 -- name    : GlobalTheory.ProjSpace.surjective_appLE_chart_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:27:04.358161+00:00
 -- url     : https://prove2.me/theorems/fb28e2b9-88a4-4b72-a874-0a7dcec1ae85

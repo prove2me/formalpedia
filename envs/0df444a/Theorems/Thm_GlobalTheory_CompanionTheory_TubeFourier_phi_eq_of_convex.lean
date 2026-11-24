@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_phi_eq_of_convex
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.phi_eq_of_convex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:16:53.141116+00:00
 -- url     : https://prove2.me/theorems/8ab041ba-5a39-4c2d-8da1-b352870a871f

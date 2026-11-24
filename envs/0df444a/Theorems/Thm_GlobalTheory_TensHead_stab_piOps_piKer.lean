@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensHead_stab_piOps_piKer
 -- name    : GlobalTheory.TensHead.stab_piOps_piKer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:02:37.412782+00:00
 -- url     : https://prove2.me/theorems/a2a1c40a-41d0-4769-8df1-14dcf42dc7d8

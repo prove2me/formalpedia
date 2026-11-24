@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_exists_pair_lift_comb
 -- name    : GlobalTheory.SecGlue.exists_pair_lift_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:49:28.608089+00:00
 -- url     : https://prove2.me/theorems/ddb820dc-9b90-40dc-b534-e6da65a21ac4

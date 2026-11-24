@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_inertia_d
 -- name    : Formalism.HC.Der.inertia_d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:07:06.516331+00:00
 -- url     : https://prove2.me/theorems/7da34ae7-d47f-48d7-9327-6fe985843306

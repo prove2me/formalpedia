@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_count_bind_wordShuffle_by_positions
 -- name    : GlobalTheory.T.count_bind_wordShuffle_by_positions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:31:54.341036+00:00
 -- url     : https://prove2.me/theorems/2e1e8b4c-b052-4c8a-af4b-963feb2e26cb

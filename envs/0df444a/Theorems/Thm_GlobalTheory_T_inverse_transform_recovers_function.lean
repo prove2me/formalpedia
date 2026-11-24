@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_inverse_transform_recovers_function
 -- name    : GlobalTheory.T.inverse_transform_recovers_function
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:47:14.910422+00:00
 -- url     : https://prove2.me/theorems/e8833a67-0e9f-4d55-bfec-c7911baf9bcf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaRational_exists_eval_eq
 -- name    : GlobalTheory.ThetaRational.exists_eval_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:07:22.206269+00:00
 -- url     : https://prove2.me/theorems/86acd038-4a59-4d78-870a-f79c0198e4a7

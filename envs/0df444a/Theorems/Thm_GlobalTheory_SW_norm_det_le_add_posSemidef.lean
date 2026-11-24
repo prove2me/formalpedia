@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_norm_det_le_add_posSemidef
 -- name    : GlobalTheory.SW.norm_det_le_add_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:45:40.730215+00:00
 -- url     : https://prove2.me/theorems/6f85bc04-18ae-4834-9363-94562679b28d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TSetFin_mem_ALint_of_local
 -- name    : GlobalTheory.TSetFin.mem_ALint_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:01:51.9338+00:00
 -- url     : https://prove2.me/theorems/16db43ed-dcf5-44fc-8505-dfa304870cab

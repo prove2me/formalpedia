@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorSiegel_range_period
 -- name    : GlobalTheory.TensorSiegel.range_period
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:04:12.677172+00:00
 -- url     : https://prove2.me/theorems/83158607-9416-46d8-84a1-3bb42735e136

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_isDominant_generic_dvr
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.isDominant_generic_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:29:30.216355+00:00
 -- url     : https://prove2.me/theorems/cc4bf73f-b574-497c-8e07-660a4ee32501

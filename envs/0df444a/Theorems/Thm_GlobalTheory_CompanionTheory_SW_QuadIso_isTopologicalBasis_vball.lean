@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_QuadIso_isTopologicalBasis_vball
 -- name    : GlobalTheory.CompanionTheory.SW.QuadIso.isTopologicalBasis_vball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:50:18.364133+00:00
 -- url     : https://prove2.me/theorems/002453df-3ad4-4d28-80cd-2c363653851c

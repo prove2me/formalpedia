@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_triple_product_measure_map_mul_left_invariant
 -- name    : GlobalTheory.T.triple_product_measure_map_mul_left_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:00:33.658282+00:00
 -- url     : https://prove2.me/theorems/9288be92-257a-4dad-ba21-036651db97f0

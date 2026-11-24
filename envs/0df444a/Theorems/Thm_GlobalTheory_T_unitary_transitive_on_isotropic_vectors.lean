@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_transitive_on_isotropic_vectors
 -- name    : GlobalTheory.T.unitary_transitive_on_isotropic_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:00:31.389111+00:00
 -- url     : https://prove2.me/theorems/ee27ad7a-62b8-43be-b236-1c0268eaaa75

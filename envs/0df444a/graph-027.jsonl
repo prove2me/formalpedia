@@ -63536,7 +63536,7 @@
 {"parent": "QEC.Coding.BDL26RXActiveErrorTransport.lower_weight_le_sharp", "child": "QEC_Coding_FiniteAlternatingConstruction_RXFiniteBlockTransport", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXActiveErrorTransport.lower_weight_le_sharp", "child": "QEC_Coding_FiniteAlternatingConstruction_GraphQuantitativeBounds", "via": ["solution", "statement"]}
 {"parent": "RandomSizeStable.Stability.lemma_4", "child": "RandomSizeStable_Stability_RankBlocks", "via": ["solution", "statement"]}
-{"parent": "RSVProductQLTC.ProductExpansion.claim_3_4", "child": "RSVProductQLTC_ProductExpansion_projectiveRS", "via": ["statement"]}
+{"parent": "RSVProductQLTC.ProductExpansion.claim_3_4", "child": "RSVProductQLTC_ProductExpansion_projectiveRS", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26TransposedStoppedDecoder.Coordinates.rxDualFace_X", "child": "QEC_Coding_FiniteAlternatingConstruction_RXPresentationCochain", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26TransposedStoppedDecoder.Coordinates.rxDualFace_X", "child": "QEC_Coding_FiniteAlternatingConstruction_RZDecoderAdapter", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26TransposedStoppedDecoder.Coordinates.rxDualFace_X", "child": "QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter_Reindex", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableLevyMomentRightFatouV1
 -- name    : Kyprianou.Ch03.stableLevyMomentRightFatouV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:01:52.676215+00:00
 -- url     : https://prove2.me/theorems/10b2d121-0df7-4afd-a9fe-3862bc468624

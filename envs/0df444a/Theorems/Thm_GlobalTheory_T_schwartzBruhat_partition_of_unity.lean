@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhat_partition_of_unity
 -- name    : GlobalTheory.T.schwartzBruhat_partition_of_unity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:57:48.07006+00:00
 -- url     : https://prove2.me/theorems/4cbab9d8-c52c-49b5-a410-c3ff489e78f8

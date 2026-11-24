@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_compact_preimage_embX_mul_colE
 -- name    : GlobalTheory.T.exists_compact_preimage_embX_mul_colE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:34:02.039667+00:00
 -- url     : https://prove2.me/theorems/86bcd1d0-6839-4e82-b37c-89a7418f97b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_upper_triangular_inverse_is_upper
 -- name    : GlobalTheory.T.upper_triangular_inverse_is_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:01:01.561375+00:00
 -- url     : https://prove2.me/theorems/79b6c9a4-7b5b-4197-8593-7ea6289253cf

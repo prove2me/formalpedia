@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_period_data_comparison
 -- name    : GlobalTheory.T.period_data_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:55:13.825802+00:00
 -- url     : https://prove2.me/theorems/fd8f5f81-35a9-4fa1-b763-f51ead3658d6

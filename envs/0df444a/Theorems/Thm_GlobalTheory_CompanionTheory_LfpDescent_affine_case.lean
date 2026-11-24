@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LfpDescent_affine_case
 -- name    : GlobalTheory.CompanionTheory.LfpDescent.affine_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:52:26.923647+00:00
 -- url     : https://prove2.me/theorems/a9bdb9ec-82d5-4c58-b234-3bec5c69392e

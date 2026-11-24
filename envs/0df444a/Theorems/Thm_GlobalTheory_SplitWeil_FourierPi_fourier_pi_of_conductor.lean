@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_FourierPi_fourier_pi_of_conductor
 -- name    : GlobalTheory.SplitWeil.FourierPi.fourier_pi_of_conductor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:21:36.123287+00:00
 -- url     : https://prove2.me/theorems/65ec310d-6ea7-43ed-8b55-4f8645d24c5a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionForm_sgn_mul_self
 -- name    : GlobalTheory.TorsionForm.sgn_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:09:26.792801+00:00
 -- url     : https://prove2.me/theorems/37423e28-d530-4faf-b2d5-025cdb8cd840

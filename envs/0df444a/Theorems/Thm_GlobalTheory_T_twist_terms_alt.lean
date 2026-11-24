@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_twist_terms_alt
 -- name    : GlobalTheory.T.twist_terms_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:00:55.695+00:00
 -- url     : https://prove2.me/theorems/018b79e1-d152-41c8-a976-80b31e065da2

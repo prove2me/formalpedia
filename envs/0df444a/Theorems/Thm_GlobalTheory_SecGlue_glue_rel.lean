@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_glue_rel
 -- name    : GlobalTheory.SecGlue.glue_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:50:26.456899+00:00
 -- url     : https://prove2.me/theorems/7cd81c48-a350-4ad0-86ad-83a8a2b93bb9

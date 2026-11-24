@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_hpk_W_row
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.hpk_W_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:21:06.289057+00:00
 -- url     : https://prove2.me/theorems/f27ae2b2-11e3-4f50-b795-714032e30449

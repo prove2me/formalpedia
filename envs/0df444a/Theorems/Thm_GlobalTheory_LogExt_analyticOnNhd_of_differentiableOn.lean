@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogExt_analyticOnNhd_of_differentiableOn
 -- name    : GlobalTheory.LogExt.analyticOnNhd_of_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:24:24.474317+00:00
 -- url     : https://prove2.me/theorems/7765b943-5d59-4570-bdd7-52082af2db42

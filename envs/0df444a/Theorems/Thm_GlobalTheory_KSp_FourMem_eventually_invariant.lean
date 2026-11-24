@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_FourMem_eventually_invariant
 -- name    : GlobalTheory.KSp.FourMem.eventually_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:23:37.678511+00:00
 -- url     : https://prove2.me/theorems/176ebcb4-cddd-4083-a783-faf5fa3f0be8

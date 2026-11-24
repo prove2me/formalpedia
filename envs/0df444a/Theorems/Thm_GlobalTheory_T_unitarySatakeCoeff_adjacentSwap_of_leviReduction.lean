@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitarySatakeCoeff_adjacentSwap_of_leviReduction
 -- name    : GlobalTheory.T.unitarySatakeCoeff_adjacentSwap_of_leviReduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:31:54.959942+00:00
 -- url     : https://prove2.me/theorems/d4ab3e0b-ca43-42c5-a717-f335762718be

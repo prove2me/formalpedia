@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx4_Dec_cell_decomposition_mem
 -- name    : Formalism.FourierDecayAlt.P.Qx4.Dec.cell_decomposition_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:43:01.504029+00:00
 -- url     : https://prove2.me/theorems/454b33ed-50a8-4be9-a553-36e9871fc04f

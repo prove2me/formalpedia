@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_summable_lhsTerm
 -- name    : GlobalTheory.LipschitzTR.summable_lhsTerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:13:11.829809+00:00
 -- url     : https://prove2.me/theorems/764646dd-e268-4df6-810c-d47c83b8c16d

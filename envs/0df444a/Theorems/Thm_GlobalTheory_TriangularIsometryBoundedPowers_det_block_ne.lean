@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TriangularIsometryBoundedPowers_det_block_ne
 -- name    : GlobalTheory.TriangularIsometryBoundedPowers.det_block_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:12:15.468858+00:00
 -- url     : https://prove2.me/theorems/61b53f08-c709-47cc-89b8-360149c14c44

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_isPrimitive_extZero_of_sum_unipotent
 -- name    : GlobalTheory.CuspGL.isPrimitive_extZero_of_sum_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:11:49.695223+00:00
 -- url     : https://prove2.me/theorems/6274da16-8e2a-467b-925a-239e4cb32037

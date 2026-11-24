@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_truncated_set_empty_outside_norm_coset
 -- name    : GlobalTheory.T.truncated_set_empty_outside_norm_coset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:00:17.305312+00:00
 -- url     : https://prove2.me/theorems/0c41457f-dd3d-40bc-87b6-f3e4d426b616

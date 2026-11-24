@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_sigma_stable_prod_lattice_ext_sq
 -- name    : GlobalTheory.T.card_sigma_stable_prod_lattice_ext_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:28:01.159365+00:00
 -- url     : https://prove2.me/theorems/5f9a6999-558e-4b43-bf7c-7775fc6f8dc0

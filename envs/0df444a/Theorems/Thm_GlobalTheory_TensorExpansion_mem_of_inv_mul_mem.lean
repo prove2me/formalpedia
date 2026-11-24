@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorExpansion_mem_of_inv_mul_mem
 -- name    : GlobalTheory.TensorExpansion.mem_of_inv_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:03:21.615516+00:00
 -- url     : https://prove2.me/theorems/3a82ab55-0573-41ab-8116-aaf56325fa80

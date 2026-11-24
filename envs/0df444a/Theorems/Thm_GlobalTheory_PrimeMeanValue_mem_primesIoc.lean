@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeMeanValue_mem_primesIoc
 -- name    : GlobalTheory.PrimeMeanValue.mem_primesIoc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:43:53.126559+00:00
 -- url     : https://prove2.me/theorems/f96d6e18-8e77-49b7-804c-feed2c29f384

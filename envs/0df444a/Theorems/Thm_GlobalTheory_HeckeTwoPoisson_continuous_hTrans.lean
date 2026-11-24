@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoPoisson_continuous_hTrans
 -- name    : GlobalTheory.HeckeTwoPoisson.continuous_hTrans
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:11:46.189275+00:00
 -- url     : https://prove2.me/theorems/254befb4-ea5f-4c4c-9815-94afc55614a2

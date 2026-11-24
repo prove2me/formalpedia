@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_principalLevelGroup_finiteIndex_unitaryStabiliser
 -- name    : GlobalTheory.T.principalLevelGroup_finiteIndex_unitaryStabiliser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:56:24.023077+00:00
 -- url     : https://prove2.me/theorems/231fd2b8-9eec-473d-80e2-7294bc48ba73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_PiSelfDual_trForm_nondegenerate
 -- name    : GlobalTheory.JR.PiSelfDual.trForm_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:35:31.243902+00:00
 -- url     : https://prove2.me/theorems/80cf0aa6-008c-4654-8529-ab9dcade54c2

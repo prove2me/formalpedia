@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_roots_charpoly_pow_eq_map_pow
 -- name    : GlobalTheory.T.roots_charpoly_pow_eq_map_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:56:14.500571+00:00
 -- url     : https://prove2.me/theorems/b30beaf7-faf7-4d93-9d16-29f6c52e8717

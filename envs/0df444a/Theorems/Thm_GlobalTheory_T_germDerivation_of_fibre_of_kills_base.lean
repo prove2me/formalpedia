@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_germDerivation_of_fibre_of_kills_base
 -- name    : GlobalTheory.T.germDerivation_of_fibre_of_kills_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:40:41.331586+00:00
 -- url     : https://prove2.me/theorems/7f3456bb-7e2c-433b-bf31-8cd4ce66853c

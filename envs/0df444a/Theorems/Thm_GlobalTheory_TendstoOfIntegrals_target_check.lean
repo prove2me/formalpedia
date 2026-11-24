@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TendstoOfIntegrals_target_check
 -- name    : GlobalTheory.TendstoOfIntegrals.target_check
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:01:45.273121+00:00
 -- url     : https://prove2.me/theorems/7724cdb5-e802-4dd9-91ec-4b03d3c1eca6

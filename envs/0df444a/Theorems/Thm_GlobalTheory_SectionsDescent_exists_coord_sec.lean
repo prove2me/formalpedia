@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsDescent_exists_coord_sec
 -- name    : GlobalTheory.SectionsDescent.exists_coord_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:51:52.545203+00:00
 -- url     : https://prove2.me/theorems/cc4d564c-c583-4421-a505-976dfe7382b9

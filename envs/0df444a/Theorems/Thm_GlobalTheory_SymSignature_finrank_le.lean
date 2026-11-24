@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymSignature_finrank_le
 -- name    : GlobalTheory.SymSignature.finrank_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:25:28.754399+00:00
 -- url     : https://prove2.me/theorems/6f30c71e-be25-4836-9636-796828272981

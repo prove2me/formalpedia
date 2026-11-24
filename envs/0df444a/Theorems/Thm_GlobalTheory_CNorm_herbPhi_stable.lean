@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_herbPhi_stable
 -- name    : GlobalTheory.CNorm.herbPhi_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:06:58.316163+00:00
 -- url     : https://prove2.me/theorems/c372d40d-5928-4598-9831-e51a949ec5cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaModelGroup_exists_regOn_div
 -- name    : GlobalTheory.ThetaModelGroup.exists_regOn_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:06:15.77385+00:00
 -- url     : https://prove2.me/theorems/f2c2ddfb-4eed-4aa6-93da-f6f1fd8c1644

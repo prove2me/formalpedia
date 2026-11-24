@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TriangularDiagonal_mul_diag_of_triangular
 -- name    : GlobalTheory.TriangularDiagonal.mul_diag_of_triangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:11:46.229643+00:00
 -- url     : https://prove2.me/theorems/5c3f1bff-8aed-442d-ba18-076b4bde2d61

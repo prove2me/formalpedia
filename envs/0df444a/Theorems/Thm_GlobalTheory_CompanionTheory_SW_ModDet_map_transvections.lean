@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ModDet_map_transvections
 -- name    : GlobalTheory.CompanionTheory.SW.ModDet.map_transvections
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:10:18.562335+00:00
 -- url     : https://prove2.me/theorems/f67a1b93-5e18-462c-aab1-ce7373313019

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ExpSum_hasSum_deriv_deriv
 -- name    : GlobalTheory.SW.ExpSum.hasSum_deriv_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:40:46.620809+00:00
 -- url     : https://prove2.me/theorems/23cdf626-332d-48e5-8fad-42c35f7b61fc

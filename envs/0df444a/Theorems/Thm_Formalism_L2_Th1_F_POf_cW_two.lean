@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_POf_cW_two
 -- name    : Formalism.L2.Th1.F.POf.cW_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:19:11.336318+00:00
 -- url     : https://prove2.me/theorems/af8d1ad6-d7e0-488c-b641-1c798c4ca19d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_square_presentation_of_tower
 -- name    : GlobalTheory.T.exists_square_presentation_of_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:38:17.670308+00:00
 -- url     : https://prove2.me/theorems/d0d1b31f-1795-4e56-bf3b-17bdcfcf0983

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx4_smooth_map_weyl_cell
 -- name    : Formalism.FourierDecayAlt.P.Qx4.smooth_map_weyl_cell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:24:23.978801+00:00
 -- url     : https://prove2.me/theorems/95ee7736-6d2e-4d35-b893-19b64ce81058

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceIso_finrank_eq_zero_of_hom
 -- name    : GlobalTheory.TraceIso.finrank_eq_zero_of_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:10:45.547113+00:00
 -- url     : https://prove2.me/theorems/2ac200c6-2439-45ee-a230-205f1664da09

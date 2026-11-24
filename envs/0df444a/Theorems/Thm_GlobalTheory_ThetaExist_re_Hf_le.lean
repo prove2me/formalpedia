@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaExist_re_Hf_le
 -- name    : GlobalTheory.ThetaExist.re_Hf_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:06:17.221826+00:00
 -- url     : https://prove2.me/theorems/d31445ae-ccb3-4f94-b86d-47a1c1ce2564

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_commute_gelfandInvariantMatrixUnits_of_glRel
 -- name    : GlobalTheory.T.commute_gelfandInvariantMatrixUnits_of_glRel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:48.23173+00:00
 -- url     : https://prove2.me/theorems/fcf0c0b0-e508-4c67-ba0a-b0e8fad9a209

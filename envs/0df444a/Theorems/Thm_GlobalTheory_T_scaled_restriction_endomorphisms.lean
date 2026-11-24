@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_scaled_restriction_endomorphisms
 -- name    : GlobalTheory.T.scaled_restriction_endomorphisms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:56:29.734025+00:00
 -- url     : https://prove2.me/theorems/5cd7c402-6de7-4881-a1a8-ce31090f2d83

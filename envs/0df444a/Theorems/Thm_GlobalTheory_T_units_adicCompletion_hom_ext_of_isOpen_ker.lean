@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_units_adicCompletion_hom_ext_of_isOpen_ker
 -- name    : GlobalTheory.T.units_adicCompletion_hom_ext_of_isOpen_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:00:52.338993+00:00
 -- url     : https://prove2.me/theorems/8fba2424-6369-46f1-a32a-a457affe9b74

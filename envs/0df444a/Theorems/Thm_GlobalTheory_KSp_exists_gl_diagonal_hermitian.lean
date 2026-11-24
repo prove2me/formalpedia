@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_exists_gl_diagonal_hermitian
 -- name    : GlobalTheory.KSp.exists_gl_diagonal_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:22:34.985806+00:00
 -- url     : https://prove2.me/theorems/2799144a-008f-4eac-a846-7761e9a66b5d

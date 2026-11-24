@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonoTrace_trace_lift_monomial
 -- name    : GlobalTheory.MonoTrace.trace_lift_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:28:29.56226+00:00
 -- url     : https://prove2.me/theorems/d8ce0c29-bf7a-4760-90fb-4626a54855fe

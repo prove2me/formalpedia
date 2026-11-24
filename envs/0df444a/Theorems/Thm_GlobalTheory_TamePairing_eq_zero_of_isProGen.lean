@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TamePairing_eq_zero_of_isProGen
 -- name    : GlobalTheory.TamePairing.eq_zero_of_isProGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:02:13.810855+00:00
 -- url     : https://prove2.me/theorems/33372a59-9d73-45df-8d4a-bc0803625740

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSelfDual_exists_norm
 -- name    : GlobalTheory.UnramSelfDual.exists_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:40:15.61436+00:00
 -- url     : https://prove2.me/theorems/1d51eec9-2f34-4f84-aa57-42a110045fa3

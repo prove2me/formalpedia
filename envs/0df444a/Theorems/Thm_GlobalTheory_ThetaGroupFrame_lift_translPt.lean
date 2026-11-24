@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGroupFrame_lift_translPt
 -- name    : GlobalTheory.ThetaGroupFrame.lift_translPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:06:47.866392+00:00
 -- url     : https://prove2.me/theorems/20787922-c527-425d-8856-05e3d47fe81f

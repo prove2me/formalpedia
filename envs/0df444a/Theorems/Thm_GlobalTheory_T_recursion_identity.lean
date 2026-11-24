@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_recursion_identity
 -- name    : GlobalTheory.T.recursion_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:56:58.980708+00:00
 -- url     : https://prove2.me/theorems/bf20d388-9350-4f87-bc52-2c91da5b9495

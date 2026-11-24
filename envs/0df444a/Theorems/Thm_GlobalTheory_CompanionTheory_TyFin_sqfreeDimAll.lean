@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_sqfreeDimAll
 -- name    : GlobalTheory.CompanionTheory.TyFin.sqfreeDimAll
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:09:26.818332+00:00
 -- url     : https://prove2.me/theorems/9967efc9-3b4c-4480-9cb5-802c212883af

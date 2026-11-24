@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorUnitSpanTop_span_one_tmul_eq_top
 -- name    : GlobalTheory.TensorUnitSpanTop.span_one_tmul_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:03:17.150525+00:00
 -- url     : https://prove2.me/theorems/ea47c638-efdc-4e62-aaf6-a46347ba11f4

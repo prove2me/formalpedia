@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameKummer_minpoly_eq
 -- name    : GlobalTheory.TameKummer.minpoly_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:32:34.68257+00:00
 -- url     : https://prove2.me/theorems/77b672b5-2370-48ea-a2e3-8846189a1b24

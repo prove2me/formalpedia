@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_IdxFour_indexFour
 -- name    : GlobalTheory.SatakeWeyl.IdxFour.indexFour
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:47:10.123317+00:00
 -- url     : https://prove2.me/theorems/2b5c46ca-c6de-4bfd-ae66-dff197a7520a

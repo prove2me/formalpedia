@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenGrp_card_B
 -- name    : Formalism.HC.EvenGrp.card_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:13:55.815693+00:00
 -- url     : https://prove2.me/theorems/614f7fe5-2d83-44d7-a86e-2ed34122417c

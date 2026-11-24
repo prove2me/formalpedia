@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspBasis_expoMatch_of_basis_change
 -- name    : GlobalTheory.CuspBasis.expoMatch_of_basis_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:51:35.782994+00:00
 -- url     : https://prove2.me/theorems/46846280-dd83-45e0-8f00-e6ac4221a7b0

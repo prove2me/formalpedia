@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGL_DualPair_ev_injective
 -- name    : GlobalTheory.ThetaGL.DualPair.ev_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:06:28.260614+00:00
 -- url     : https://prove2.me/theorems/2da3d04f-d811-4000-ab5e-09bb81184f09

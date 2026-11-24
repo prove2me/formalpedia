@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGen_differentiable_of_mem_adjoin
 -- name    : GlobalTheory.ThetaGen.differentiable_of_mem_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:06:06.470938+00:00
 -- url     : https://prove2.me/theorems/92f4dc7b-9af5-4adf-9c60-5f9952898184

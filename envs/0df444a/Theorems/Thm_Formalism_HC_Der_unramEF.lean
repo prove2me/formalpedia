@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_unramEF
 -- name    : Formalism.HC.Der.unramEF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:46:40.237157+00:00
 -- url     : https://prove2.me/theorems/b93aa648-90af-4ea5-8bdc-b08f1f424c1b

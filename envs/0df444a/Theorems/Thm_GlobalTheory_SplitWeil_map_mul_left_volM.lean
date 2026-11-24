@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_map_mul_left_volM
 -- name    : GlobalTheory.SplitWeil.map_mul_left_volM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:21:16.638804+00:00
 -- url     : https://prove2.me/theorems/e1a260f0-e957-4481-9ec5-525b39e6501c

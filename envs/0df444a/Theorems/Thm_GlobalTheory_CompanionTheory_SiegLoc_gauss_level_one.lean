@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegLoc_gauss_level_one
 -- name    : GlobalTheory.CompanionTheory.SiegLoc.gauss_level_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:14:18.47346+00:00
 -- url     : https://prove2.me/theorems/c3025305-d259-41ae-bb4c-241302442d6c

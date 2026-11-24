@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusUnit_map_prodPoint
 -- name    : GlobalTheory.TorusUnit.map_prodPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:11:20.145649+00:00
 -- url     : https://prove2.me/theorems/a7922289-bf14-4f55-bab1-f98fcddfbd4a

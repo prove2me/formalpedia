@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbertRecip_hs_prod
 -- name    : GlobalTheory.HilbertRecip.hs_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:16:50.998544+00:00
 -- url     : https://prove2.me/theorems/c200e162-7284-48a4-b6ce-27edeedb1a2f

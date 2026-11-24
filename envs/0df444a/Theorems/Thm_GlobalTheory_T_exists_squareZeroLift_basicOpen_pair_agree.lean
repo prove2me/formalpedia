@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_squareZeroLift_basicOpen_pair_agree
 -- name    : GlobalTheory.T.exists_squareZeroLift_basicOpen_pair_agree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:38:28.496117+00:00
 -- url     : https://prove2.me/theorems/45f9c699-86ef-4dca-a641-559237fd9bfe

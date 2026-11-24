@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_exists_locDer_of_isDiff
 -- name    : GlobalTheory.KS.exists_locDer_of_isDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:46:04.076604+00:00
 -- url     : https://prove2.me/theorems/ca175bc1-fe69-4fbe-bce4-35861da0533c

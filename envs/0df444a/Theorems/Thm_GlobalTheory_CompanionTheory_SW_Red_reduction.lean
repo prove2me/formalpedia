@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Red_reduction
 -- name    : GlobalTheory.CompanionTheory.SW.Red.reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:08:52.469706+00:00
 -- url     : https://prove2.me/theorems/5f97fc23-dbb7-4bc7-a2b6-ad3bad4db9c7

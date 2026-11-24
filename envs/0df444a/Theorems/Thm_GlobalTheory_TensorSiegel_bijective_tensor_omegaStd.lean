@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorSiegel_bijective_tensor_omegaStd
 -- name    : GlobalTheory.TensorSiegel.bijective_tensor_omegaStd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:03:29.743589+00:00
 -- url     : https://prove2.me/theorems/6314d4e6-fb07-47b6-844f-b9ead07626be

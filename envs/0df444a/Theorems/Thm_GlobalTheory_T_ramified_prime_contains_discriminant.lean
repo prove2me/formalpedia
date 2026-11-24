@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ramified_prime_contains_discriminant
 -- name    : GlobalTheory.T.ramified_prime_contains_discriminant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:56:19.410934+00:00
 -- url     : https://prove2.me/theorems/3068ab7e-7cbd-47ad-9019-276c58745dc7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hdim_eq_zero_of_subsingleton
 -- name    : GlobalTheory.hdim_eq_zero_of_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:26:22.032886+00:00
 -- url     : https://prove2.me/theorems/3f4e8958-bd4a-4e0f-b9a6-a77fa4d4c0c3

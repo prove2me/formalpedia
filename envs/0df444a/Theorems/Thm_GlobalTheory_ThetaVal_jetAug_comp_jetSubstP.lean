@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaVal_jetAug_comp_jetSubstP
 -- name    : GlobalTheory.ThetaVal.jetAug_comp_jetSubstP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:08:01.365748+00:00
 -- url     : https://prove2.me/theorems/e76c2113-f215-4e94-8714-4120c73876da

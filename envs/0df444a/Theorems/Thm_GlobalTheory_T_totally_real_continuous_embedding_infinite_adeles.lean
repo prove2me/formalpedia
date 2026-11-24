@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_totally_real_continuous_embedding_infinite_adeles
 -- name    : GlobalTheory.T.totally_real_continuous_embedding_infinite_adeles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:44.348805+00:00
 -- url     : https://prove2.me/theorems/e90fd3fa-0563-4f29-814d-3c4468bac5df

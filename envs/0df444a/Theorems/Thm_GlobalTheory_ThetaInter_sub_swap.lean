@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaInter_sub_swap
 -- name    : GlobalTheory.ThetaInter.sub_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:06:20.551343+00:00
 -- url     : https://prove2.me/theorems/c471565c-37fe-49dd-8df6-1f1881c483b5

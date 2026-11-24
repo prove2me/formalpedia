@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentCriterion_formallyUnramified_of_tangent
 -- name    : GlobalTheory.TangentCriterion.formallyUnramified_of_tangent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:02:14.325625+00:00
 -- url     : https://prove2.me/theorems/86c2f82b-c976-40de-80ef-6821063f9b65

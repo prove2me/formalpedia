@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentOrigin_top_le_preimage_iff
 -- name    : GlobalTheory.TangentOrigin.top_le_preimage_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:03:49.982627+00:00
 -- url     : https://prove2.me/theorems/6c76cca3-1d19-421a-a9a4-379a45513556

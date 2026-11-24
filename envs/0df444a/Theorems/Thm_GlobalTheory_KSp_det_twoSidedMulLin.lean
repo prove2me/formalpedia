@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_det_twoSidedMulLin
 -- name    : GlobalTheory.KSp.det_twoSidedMulLin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:22:45.060886+00:00
 -- url     : https://prove2.me/theorems/40b645b0-3393-4d48-8441-3960c69d79a9

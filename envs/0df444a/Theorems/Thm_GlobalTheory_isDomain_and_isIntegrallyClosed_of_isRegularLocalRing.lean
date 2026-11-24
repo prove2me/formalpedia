@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isDomain_and_isIntegrallyClosed_of_isRegularLocalRing
 -- name    : GlobalTheory.isDomain_and_isIntegrallyClosed_of_isRegularLocalRing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:47:17.794797+00:00
 -- url     : https://prove2.me/theorems/3f91f131-f21e-4b19-ac3f-481f15b127fc

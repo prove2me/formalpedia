@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_WordBlockPolynomials_wordDeriv_perm
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.WordBlockPolynomials.wordDeriv_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:16:52.056573+00:00
 -- url     : https://prove2.me/theorems/13c5cf7e-994b-4a84-a695-7b8d4c6e6bae

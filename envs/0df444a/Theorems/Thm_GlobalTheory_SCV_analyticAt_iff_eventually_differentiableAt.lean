@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_analyticAt_iff_eventually_differentiableAt
 -- name    : GlobalTheory.SCV.analyticAt_iff_eventually_differentiableAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:09:00.783147+00:00
 -- url     : https://prove2.me/theorems/94c3cac8-3131-45e4-ac5d-815b6ed328be

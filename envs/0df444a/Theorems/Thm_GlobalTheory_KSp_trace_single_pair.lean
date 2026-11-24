@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_trace_single_pair
 -- name    : GlobalTheory.KSp.trace_single_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:22:47.923888+00:00
 -- url     : https://prove2.me/theorems/b8d78f6f-48ef-4164-841e-3d13ef734c67

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weil_orthogonal_group_invariance
 -- name    : GlobalTheory.T.weil_orthogonal_group_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:00:57.676272+00:00
 -- url     : https://prove2.me/theorems/12b7200c-6402-4cd4-a18f-b4a0304f0631

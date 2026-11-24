@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_comap_map_baseChange
 -- name    : GlobalTheory.ProjSpace.comap_map_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:14:11.320562+00:00
 -- url     : https://prove2.me/theorems/c22e535d-4bbe-4b9f-9cef-4619bfd1774d

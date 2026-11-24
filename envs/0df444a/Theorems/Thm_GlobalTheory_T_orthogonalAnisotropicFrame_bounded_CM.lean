@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_orthogonalAnisotropicFrame_bounded_CM
 -- name    : GlobalTheory.T.orthogonalAnisotropicFrame_bounded_CM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:54:29.830686+00:00
 -- url     : https://prove2.me/theorems/1cd30c4c-5408-4c0e-9c15-712d92f33822

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryRankThreeRootIndex_of_cards
 -- name    : GlobalTheory.T.unitaryRankThreeRootIndex_of_cards
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:32:08.301046+00:00
 -- url     : https://prove2.me/theorems/269cbc13-51f6-45f4-a8f5-b7e9952689a9

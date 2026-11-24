@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympBasis_injective_of_pairing
 -- name    : GlobalTheory.SympBasis.injective_of_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:25:16.346944+00:00
 -- url     : https://prove2.me/theorems/1607b895-ef2c-429c-98ab-44d433e0d9ab

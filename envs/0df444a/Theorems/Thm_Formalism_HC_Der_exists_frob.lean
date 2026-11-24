@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_exists_frob
 -- name    : Formalism.HC.Der.exists_frob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:28:35.227043+00:00
 -- url     : https://prove2.me/theorems/d4ecd435-b400-46c6-a490-29d02357032b

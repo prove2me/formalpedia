@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ImgSec_hasInv_mkX
 -- name    : GlobalTheory.JR.ImgSec.hasInv_mkX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:33:47.460103+00:00
 -- url     : https://prove2.me/theorems/1b0b543b-4468-41dc-9929-de1f8b810d4e

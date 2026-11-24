@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusElliptic_ch_periodic
 -- name    : GlobalTheory.TorusElliptic.ch_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:09:42.646258+00:00
 -- url     : https://prove2.me/theorems/444529b5-186a-41f8-b9d2-c56b3b83dbc4

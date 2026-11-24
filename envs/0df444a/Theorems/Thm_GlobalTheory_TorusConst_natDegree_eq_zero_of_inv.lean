@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusConst_natDegree_eq_zero_of_inv
 -- name    : GlobalTheory.TorusConst.natDegree_eq_zero_of_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:09:15.802831+00:00
 -- url     : https://prove2.me/theorems/4247e023-96ef-4efd-b8aa-f72076f03113

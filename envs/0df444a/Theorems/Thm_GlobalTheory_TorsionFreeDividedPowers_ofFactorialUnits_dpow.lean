@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFreeDividedPowers_ofFactorialUnits_dpow
 -- name    : GlobalTheory.TorsionFreeDividedPowers.ofFactorialUnits_dpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:08:46.793496+00:00
 -- url     : https://prove2.me/theorems/204b7287-2747-4408-b7a2-9a627297b9bb

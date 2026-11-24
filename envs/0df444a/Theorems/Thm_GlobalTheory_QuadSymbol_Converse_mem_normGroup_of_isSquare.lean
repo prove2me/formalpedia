@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_Converse_mem_normGroup_of_isSquare
 -- name    : GlobalTheory.QuadSymbol.Converse.mem_normGroup_of_isSquare
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:29:38.143843+00:00
 -- url     : https://prove2.me/theorems/cdfb9022-b2bc-4e57-bcb3-c7a14e93c36f

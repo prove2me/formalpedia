@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgLoc_Top_model_topology
 -- name    : GlobalTheory.SgLoc.Top.model_topology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:10:08.695921+00:00
 -- url     : https://prove2.me/theorems/33dafc5c-5870-46ff-b7a3-f8fd78af01fe

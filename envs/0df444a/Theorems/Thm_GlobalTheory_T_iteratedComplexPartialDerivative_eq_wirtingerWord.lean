@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_iteratedComplexPartialDerivative_eq_wirtingerWord
 -- name    : GlobalTheory.T.iteratedComplexPartialDerivative_eq_wirtingerWord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:51:12.363382+00:00
 -- url     : https://prove2.me/theorems/8ab31a98-6477-496d-8e24-d08c8bfc50f6

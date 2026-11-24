@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QHolo_summable_exp_trace
 -- name    : GlobalTheory.QHolo.summable_exp_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:23:04.438803+00:00
 -- url     : https://prove2.me/theorems/a35e9858-9819-439c-a335-03351be2a840

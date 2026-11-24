@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictGrp_twist_comm
 -- name    : GlobalTheory.SS.StrictGrp.twist_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:17:09.195798+00:00
 -- url     : https://prove2.me/theorems/c4c99df8-0fae-4703-8165-b49615a5a5e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_isCombIn_of_chart
 -- name    : GlobalTheory.SecGlue.isCombIn_of_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:49:26.343877+00:00
 -- url     : https://prove2.me/theorems/4e7b78ce-fb2a-4cd1-8aaa-29e1a4f2d19b

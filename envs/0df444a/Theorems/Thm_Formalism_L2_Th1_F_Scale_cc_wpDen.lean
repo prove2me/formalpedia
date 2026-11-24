@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Scale_cc_wpDen
 -- name    : Formalism.L2.Th1.F.Scale.cc_wpDen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:19:40.722154+00:00
 -- url     : https://prove2.me/theorems/d6bfc7b7-45bc-4e01-8e76-6c99cdf1dc1f

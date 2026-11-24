@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_GoodSpace_cball_mono
 -- name    : GlobalTheory.KSp.GoodSpace.cball_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:22:17.325334+00:00
 -- url     : https://prove2.me/theorems/6604630f-cab2-4b53-a107-d894fbd81391

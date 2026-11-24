@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_transvection_mem_principalCongruenceGroup
 -- name    : GlobalTheory.T.transvection_mem_principalCongruenceGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:01:01.382114+00:00
 -- url     : https://prove2.me/theorems/d7ff1c8f-7e6b-4905-86b8-1811e3fe3652

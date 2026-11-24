@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_two_pow_card_le_index_iInf_of_independent
 -- name    : GlobalTheory.T.two_pow_card_le_index_iInf_of_independent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:59:40.850123+00:00
 -- url     : https://prove2.me/theorems/6fe5282d-20a2-4913-a4f1-201eb434ed90

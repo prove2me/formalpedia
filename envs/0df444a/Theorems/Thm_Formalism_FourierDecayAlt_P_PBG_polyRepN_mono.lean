@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_polyRepN_mono
 -- name    : Formalism.FourierDecayAlt.P.PBG.polyRepN_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:19:55.0118+00:00
 -- url     : https://prove2.me/theorems/a2bbd21c-24a1-438e-9ac1-1cb769862ea4

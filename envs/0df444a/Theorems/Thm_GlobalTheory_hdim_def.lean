@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hdim_def
 -- name    : GlobalTheory.hdim_def
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:27:36.887809+00:00
 -- url     : https://prove2.me/theorems/bc77c1da-5aff-482e-804a-6de418b70fcc

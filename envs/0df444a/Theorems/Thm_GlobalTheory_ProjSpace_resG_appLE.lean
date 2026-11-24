@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_resG_appLE
 -- name    : GlobalTheory.ProjSpace.resG_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:27:41.749374+00:00
 -- url     : https://prove2.me/theorems/3e47bfb7-80a9-44d4-81e9-ae161f189597

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_factors_of_unitary_upper_mul_lowerUni
 -- name    : GlobalTheory.T.unitary_factors_of_unitary_upper_mul_lowerUni
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:01:48.577077+00:00
 -- url     : https://prove2.me/theorems/9520bfd4-5fad-4068-aa2a-4d540200d0b6

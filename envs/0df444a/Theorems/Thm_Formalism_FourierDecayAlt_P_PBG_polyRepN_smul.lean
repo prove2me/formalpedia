@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_polyRepN_smul
 -- name    : Formalism.FourierDecayAlt.P.PBG.polyRepN_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:19:48.761468+00:00
 -- url     : https://prove2.me/theorems/c3f5cbfb-4be3-4500-be5c-93c2d4b761f9

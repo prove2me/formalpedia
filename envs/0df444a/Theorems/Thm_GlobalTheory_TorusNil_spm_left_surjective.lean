@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusNil_spm_left_surjective
 -- name    : GlobalTheory.TorusNil.spm_left_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:10:13.92626+00:00
 -- url     : https://prove2.me/theorems/574d77ed-367c-40cf-bb37-c7ff41ad4466

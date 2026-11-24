@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RealChar_norm_F_one_ge
 -- name    : GlobalTheory.Hk.RealChar.norm_F_one_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:36:54.834041+00:00
 -- url     : https://prove2.me/theorems/3891de20-5a4b-4b58-94f4-8b4b50799ce0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_slice_seminorm_le
 -- name    : GlobalTheory.T.schwartz_slice_seminorm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:57:41.836679+00:00
 -- url     : https://prove2.me/theorems/aa32be33-7913-4132-9d85-6722d17aad40

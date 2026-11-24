@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaTangent_exists_entire_quotient
 -- name    : GlobalTheory.ThetaTangent.exists_entire_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:07:16.89253+00:00
 -- url     : https://prove2.me/theorems/b22a84d9-7662-48ab-98dd-8fd9c66a60d1

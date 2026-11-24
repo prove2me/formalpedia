@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaAH_hermForm_pullback
 -- name    : GlobalTheory.ThetaAH.hermForm_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:04:18.980584+00:00
 -- url     : https://prove2.me/theorems/69196a86-2040-46b5-bb43-035d84a6c86d

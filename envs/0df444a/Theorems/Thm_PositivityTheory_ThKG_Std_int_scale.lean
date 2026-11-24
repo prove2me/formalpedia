@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_int_scale
 -- name    : PositivityTheory.ThKG.Std.int_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:06.724679+00:00
 -- url     : https://prove2.me/theorems/8becdc42-d103-404a-8fda-992798a31898

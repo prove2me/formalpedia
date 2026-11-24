@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaScalar_exists_eigenvector
 -- name    : GlobalTheory.ThetaScalar.exists_eigenvector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:07:28.474688+00:00
 -- url     : https://prove2.me/theorems/ddc2b701-73fc-449b-b587-5319ffdf949f

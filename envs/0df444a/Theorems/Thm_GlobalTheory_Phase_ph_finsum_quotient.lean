@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_ph_finsum_quotient
 -- name    : GlobalTheory.Phase.ph_finsum_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:48:42.249219+00:00
 -- url     : https://prove2.me/theorems/728adeab-2d71-4d15-a10e-566cf74551ea

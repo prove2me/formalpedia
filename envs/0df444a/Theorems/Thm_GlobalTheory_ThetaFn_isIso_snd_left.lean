@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_isIso_snd_left
 -- name    : GlobalTheory.ThetaFn.isIso_snd_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:06:23.224699+00:00
 -- url     : https://prove2.me/theorems/058b765a-a66e-4a92-aec2-da6c284379e0

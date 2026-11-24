@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickeningIso_surjective_fst
 -- name    : GlobalTheory.ThickeningIso.surjective_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:08:24.824502+00:00
 -- url     : https://prove2.me/theorems/63ace768-0e05-4ce4-bead-b5ef0d76e9d7

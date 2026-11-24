@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryFourLeviGL2_cartan_doubleCosets
 -- name    : GlobalTheory.T.unitaryFourLeviGL2_cartan_doubleCosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:31:55.921434+00:00
 -- url     : https://prove2.me/theorems/8167a8f4-d608-4350-8afb-8b6e9e4e1247

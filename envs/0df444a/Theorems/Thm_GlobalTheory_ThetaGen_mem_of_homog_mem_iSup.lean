@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGen_mem_of_homog_mem_iSup
 -- name    : GlobalTheory.ThetaGen.mem_of_homog_mem_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:06:13.261129+00:00
 -- url     : https://prove2.me/theorems/ad5f90bc-aa20-4325-b035-d0d783b2922d

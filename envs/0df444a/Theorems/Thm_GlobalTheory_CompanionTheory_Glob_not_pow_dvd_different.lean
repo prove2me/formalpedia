@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Glob_not_pow_dvd_different
 -- name    : GlobalTheory.CompanionTheory.Glob.not_pow_dvd_different
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:43:49.63449+00:00
 -- url     : https://prove2.me/theorems/2391235b-adf6-4ec0-8717-483fb0216489

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_PhiInv_inv_phi_eq
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.PhiInv.inv_phi_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:16:19.271696+00:00
 -- url     : https://prove2.me/theorems/11ebe06b-9077-4107-a8ce-adf1ec41ba10

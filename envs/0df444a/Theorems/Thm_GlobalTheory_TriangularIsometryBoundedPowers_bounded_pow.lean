@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TriangularIsometryBoundedPowers_bounded_pow
 -- name    : GlobalTheory.TriangularIsometryBoundedPowers.bounded_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:12:05.178931+00:00
 -- url     : https://prove2.me/theorems/298c2029-97e7-43ea-acff-c5e9d402918e

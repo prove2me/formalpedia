@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_FormalDegreeBoundsAlt_explicit_variation_bound
 -- name    : Formalism.HermitianLattices.FormalDegreeBoundsAlt.explicit_variation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:20:55.580255+00:00
 -- url     : https://prove2.me/theorems/1f60e4c4-7489-4cca-9bfc-59dd5def7f5b

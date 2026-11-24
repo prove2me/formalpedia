@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cohOn_res_map
 -- name    : GlobalTheory.cohOn.res_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:29:10.614826+00:00
 -- url     : https://prove2.me/theorems/cc2909ee-01b9-456a-a347-efc098879e90

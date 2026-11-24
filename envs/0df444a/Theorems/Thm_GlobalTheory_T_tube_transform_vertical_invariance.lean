@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tube_transform_vertical_invariance
 -- name    : GlobalTheory.T.tube_transform_vertical_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:00:10.465649+00:00
 -- url     : https://prove2.me/theorems/846bd210-d490-4930-b93f-96438e760002

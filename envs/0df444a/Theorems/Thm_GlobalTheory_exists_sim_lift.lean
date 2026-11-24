@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sim_lift
 -- name    : GlobalTheory.exists_sim_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:06.946402+00:00
 -- url     : https://prove2.me/theorems/ed666643-b5a9-4e63-b934-f541918a36ba

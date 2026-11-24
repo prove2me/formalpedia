@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_one_mem_of_integral_combination
 -- name    : GlobalTheory.BI.one_mem_of_integral_combination
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:00:42.641113+00:00
 -- url     : https://prove2.me/theorems/50364568-5ba0-41fb-8218-2931ef5be714

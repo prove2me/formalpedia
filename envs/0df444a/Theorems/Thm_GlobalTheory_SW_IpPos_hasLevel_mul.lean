@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_IpPos_hasLevel_mul
 -- name    : GlobalTheory.SW.IpPos.hasLevel_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:18:07.976253+00:00
 -- url     : https://prove2.me/theorems/7bf22032-1527-46d7-9e91-3189b4c34640

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeMeanValue_window
 -- name    : GlobalTheory.PrimeMeanValue.window
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:56:52.58856+00:00
 -- url     : https://prove2.me/theorems/871ac1c1-eff7-415a-96ba-81bedb75479b

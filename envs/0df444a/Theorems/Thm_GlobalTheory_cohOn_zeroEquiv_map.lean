@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cohOn_zeroEquiv_map
 -- name    : GlobalTheory.cohOn.zeroEquiv_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:27:13.052981+00:00
 -- url     : https://prove2.me/theorems/d8b745d8-cdfa-4510-9f0a-54196c116327

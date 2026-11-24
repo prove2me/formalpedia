@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TargetEquivalence_main
 -- name    : GlobalTheory.TargetEquivalence.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:01:59.689603+00:00
 -- url     : https://prove2.me/theorems/db63667f-c15f-4942-abf8-790f9aa96b58

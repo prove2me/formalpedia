@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_imaginary_generator_cm_type
 -- name    : GlobalTheory.T.exists_imaginary_generator_cm_type
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:35:48.118724+00:00
 -- url     : https://prove2.me/theorems/fe8a036e-56a6-4791-bdc0-4843eece1c46

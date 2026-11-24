@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_operatorStable_piTensorPureKernelSpan
 -- name    : GlobalTheory.T.operatorStable_piTensorPureKernelSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:22:38.066525+00:00
 -- url     : https://prove2.me/theorems/ba0f9c94-e3af-4740-8b7b-d37e86932dbb

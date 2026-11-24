@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Ker_KS_theta_one
 -- name    : Formalism.L2.Ker.KS.theta_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:23:39.223802+00:00
 -- url     : https://prove2.me/theorems/be010980-86da-4ebc-8723-cb70cc65adb1

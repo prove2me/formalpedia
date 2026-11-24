@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_exists_unit_locConj_mul_eq
 -- name    : GlobalTheory.SelfDualGenus.exists_unit_locConj_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:53:08.009289+00:00
 -- url     : https://prove2.me/theorems/71affa09-fdae-4479-a24f-f37b655add0a

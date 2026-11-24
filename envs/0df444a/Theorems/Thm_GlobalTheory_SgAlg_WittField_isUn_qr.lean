@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittField_isUn_qr
 -- name    : GlobalTheory.SgAlg.WittField.isUn_qr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:16:29.594257+00:00
 -- url     : https://prove2.me/theorems/e51f08a1-7545-4294-84cb-43d86bc05176

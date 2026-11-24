@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCone_finrank_quotPiece_le
 -- name    : GlobalTheory.ThetaCone.finrank_quotPiece_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:04:56.879917+00:00
 -- url     : https://prove2.me/theorems/9b1564b6-828e-4c22-926c-bcc8052cb814

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_section_lin_comb_fiber_product_separated
 -- name    : GlobalTheory.T.section_lin_comb_fiber_product_separated
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:01:34.257799+00:00
 -- url     : https://prove2.me/theorems/48b5f251-e29c-4ae6-ac33-881aca3a6d78

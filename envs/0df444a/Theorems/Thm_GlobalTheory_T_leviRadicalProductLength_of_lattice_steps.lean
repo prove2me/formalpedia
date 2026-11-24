@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_leviRadicalProductLength_of_lattice_steps
 -- name    : GlobalTheory.T.leviRadicalProductLength_of_lattice_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:53:26.485275+00:00
 -- url     : https://prove2.me/theorems/72c8171a-2f78-473f-91c0-cf5febf887ba

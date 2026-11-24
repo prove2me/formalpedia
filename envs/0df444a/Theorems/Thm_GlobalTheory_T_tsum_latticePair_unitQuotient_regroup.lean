@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tsum_latticePair_unitQuotient_regroup
 -- name    : GlobalTheory.T.tsum_latticePair_unitQuotient_regroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:00:04.855214+00:00
 -- url     : https://prove2.me/theorems/fa7e88c6-b2b8-4cd9-8688-52c2a1cc6886

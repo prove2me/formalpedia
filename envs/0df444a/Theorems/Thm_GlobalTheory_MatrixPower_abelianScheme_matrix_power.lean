@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixPower_abelianScheme_matrix_power
 -- name    : GlobalTheory.MatrixPower.abelianScheme_matrix_power
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:21:56.817947+00:00
 -- url     : https://prove2.me/theorems/96faefab-de42-4b3f-b2c1-fe4334f0f276

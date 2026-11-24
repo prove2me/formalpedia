@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorSiegel_exists_posDef_smul_sub
 -- name    : GlobalTheory.TensorSiegel.exists_posDef_smul_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:03:53.257801+00:00
 -- url     : https://prove2.me/theorems/4de58ed2-1eca-4ea7-b157-dc61aa29cff9

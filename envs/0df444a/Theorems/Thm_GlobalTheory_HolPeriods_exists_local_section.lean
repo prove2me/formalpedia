@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolPeriods_exists_local_section
 -- name    : GlobalTheory.HolPeriods.exists_local_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:38:22.270106+00:00
 -- url     : https://prove2.me/theorems/93743c67-9e09-415f-b4ba-324f0e7856b5

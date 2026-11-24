@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorNormCompare_exists_norm_bound
 -- name    : GlobalTheory.TensorNormCompare.exists_norm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:03:58.587809+00:00
 -- url     : https://prove2.me/theorems/c60af4e3-fb92-49d9-9587-38637eb29fc1

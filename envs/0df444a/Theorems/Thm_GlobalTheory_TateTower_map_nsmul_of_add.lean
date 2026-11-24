@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateTower_map_nsmul_of_add
 -- name    : GlobalTheory.TateTower.map_nsmul_of_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:02:55.200548+00:00
 -- url     : https://prove2.me/theorems/e5028f5f-e146-4888-8ca6-201df23ea1f1

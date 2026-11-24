@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_lag_add
 -- name    : GlobalTheory.HilbFam.lag_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:22:33.928377+00:00
 -- url     : https://prove2.me/theorems/10d31cf1-1c08-49af-b333-f8d645a81648

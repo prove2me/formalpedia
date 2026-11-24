@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreRatio_fixed_tmul
 -- name    : GlobalTheory.CompanionTheory.SW.FibreRatio.fixed_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:49:29.254626+00:00
 -- url     : https://prove2.me/theorems/a4ecf5cf-9c30-4d4f-b26a-63137d3b9392

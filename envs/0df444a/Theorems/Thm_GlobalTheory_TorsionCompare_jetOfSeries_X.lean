@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCompare_jetOfSeries_X
 -- name    : GlobalTheory.TorsionCompare.jetOfSeries_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:09:14.822157+00:00
 -- url     : https://prove2.me/theorems/36a8520d-7802-41d5-886e-641447941ce2

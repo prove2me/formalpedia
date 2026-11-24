@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TransposeMulCommute_mul_transpose_eq_of_transpose_mul_eq
 -- name    : GlobalTheory.TransposeMulCommute.mul_transpose_eq_of_transpose_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:12:11.019766+00:00
 -- url     : https://prove2.me/theorems/a4b27bff-804c-4a04-999a-0665ec6e4964

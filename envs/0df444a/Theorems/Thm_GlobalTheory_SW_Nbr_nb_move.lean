@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_nb_move
 -- name    : GlobalTheory.SW.Nbr.nb_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:44:08.021838+00:00
 -- url     : https://prove2.me/theorems/c26e0e20-f4ff-467d-83ba-52cb0b5ecbea

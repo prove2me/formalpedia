@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_dense_nonvanishing
 -- name    : GlobalTheory.AffinePoints.dense_nonvanishing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:57:04.643643+00:00
 -- url     : https://prove2.me/theorems/ff341323-967e-4ffa-ac65-38ab2618ecc7

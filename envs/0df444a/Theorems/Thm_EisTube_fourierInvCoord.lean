@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EisTube_fourierInvCoord
 -- name    : EisTube.fourierInvCoord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:16:22.703827+00:00
 -- url     : https://prove2.me/theorems/0ead3706-df56-47a9-9a4f-f1ea60410f56

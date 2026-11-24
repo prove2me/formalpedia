@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFixedAut_sval_add
 -- name    : GlobalTheory.TorsionFixedAut.sval_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:08:50.673535+00:00
 -- url     : https://prove2.me/theorems/49efcfdc-c0fe-4c8c-8caf-1993d7935023

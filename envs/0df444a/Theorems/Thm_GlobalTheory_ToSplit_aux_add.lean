@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToSplit_aux_add
 -- name    : GlobalTheory.ToSplit.aux_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:08:00.067501+00:00
 -- url     : https://prove2.me/theorems/7c5921a2-3ea3-4eb1-8543-44656d8b9e1a

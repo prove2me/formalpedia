@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaRational_eventually_mem_image
 -- name    : GlobalTheory.ThetaRational.eventually_mem_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:05:59.506185+00:00
 -- url     : https://prove2.me/theorems/b3578e3c-012b-411c-b1c7-faba7afc5920

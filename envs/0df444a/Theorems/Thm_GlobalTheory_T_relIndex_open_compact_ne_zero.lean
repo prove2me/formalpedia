@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relIndex_open_compact_ne_zero
 -- name    : GlobalTheory.T.relIndex_open_compact_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:56:29.25774+00:00
 -- url     : https://prove2.me/theorems/00fc753e-6478-41dc-b8ea-27c62c2b4703

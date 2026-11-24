@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sUnits_places_over_and_quadratic_conj
 -- name    : GlobalTheory.T.sUnits_places_over_and_quadratic_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:56:04.199682+00:00
 -- url     : https://prove2.me/theorems/a6bc7697-93be-4804-8f06-a2e237bf5d7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_hasSum_ideal_of_image
 -- name    : GlobalTheory.QuadraticZeta.hasSum_ideal_of_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:12:06.429947+00:00
 -- url     : https://prove2.me/theorems/4a203fef-3f3d-4758-b4bb-3da9f58c9dc2

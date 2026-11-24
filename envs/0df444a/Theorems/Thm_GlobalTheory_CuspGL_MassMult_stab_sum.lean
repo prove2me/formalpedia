@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_MassMult_stab_sum
 -- name    : GlobalTheory.CuspGL.MassMult.stab_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:32:36.981593+00:00
 -- url     : https://prove2.me/theorems/c300cfd9-df1f-4556-bf3c-80e289831e41

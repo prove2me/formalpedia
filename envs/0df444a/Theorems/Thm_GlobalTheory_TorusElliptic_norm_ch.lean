@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusElliptic_norm_ch
 -- name    : GlobalTheory.TorusElliptic.norm_ch
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:09:54.049147+00:00
 -- url     : https://prove2.me/theorems/08d38802-b348-4e72-b8f4-1c5306249df3

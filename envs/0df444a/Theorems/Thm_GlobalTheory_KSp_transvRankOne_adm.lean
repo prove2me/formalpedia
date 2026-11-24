@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_transvRankOne_adm
 -- name    : GlobalTheory.KSp.transvRankOne_adm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:22:24.492022+00:00
 -- url     : https://prove2.me/theorems/bd269178-e648-4205-8905-33cd61195582

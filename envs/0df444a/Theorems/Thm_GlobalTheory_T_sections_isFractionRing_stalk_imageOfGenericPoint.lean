@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sections_isFractionRing_stalk_imageOfGenericPoint
 -- name    : GlobalTheory.T.sections_isFractionRing_stalk_imageOfGenericPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:57:32.297848+00:00
 -- url     : https://prove2.me/theorems/e003c72c-de1b-45f1-b756-4125715573a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryUnipotentRadicalSplitting_of_leviPart
 -- name    : GlobalTheory.T.unitaryUnipotentRadicalSplitting_of_leviPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:32:12.353476+00:00
 -- url     : https://prove2.me/theorems/1f4d81e3-dc63-4fcd-8d70-6a2855cb602b

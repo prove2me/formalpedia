@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_POf_cW_eq
 -- name    : Formalism.L2.Th1.F.POf.cW_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:19:04.267327+00:00
 -- url     : https://prove2.me/theorems/e9e34b79-3124-4526-851b-0d2e33e2c0d6

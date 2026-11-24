@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unipotent_upper_size_reduction
 -- name    : GlobalTheory.T.unipotent_upper_size_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:00:50.094112+00:00
 -- url     : https://prove2.me/theorems/644f67c9-c4c6-4180-9a46-ca76124cd9ee

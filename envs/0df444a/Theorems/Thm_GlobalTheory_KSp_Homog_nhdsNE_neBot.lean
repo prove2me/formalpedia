@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_Homog_nhdsNE_neBot
 -- name    : GlobalTheory.KSp.Homog.nhdsNE_neBot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:22:25.863407+00:00
 -- url     : https://prove2.me/theorems/533fcc6a-b2aa-482a-b279-fe0bb09f4eaf

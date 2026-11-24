@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_BorelCasselman_holds
 -- name    : GlobalTheory.Published.BorelCasselman_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:16:22.335416+00:00
 -- url     : https://prove2.me/theorems/7081917e-5c8e-455b-a24c-7133d4d4e93a

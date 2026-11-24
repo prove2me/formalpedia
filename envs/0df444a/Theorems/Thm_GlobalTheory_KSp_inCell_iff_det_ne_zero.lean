@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_inCell_iff_det_ne_zero
 -- name    : GlobalTheory.KSp.inCell_iff_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:23:06.319876+00:00
 -- url     : https://prove2.me/theorems/92252de3-8e29-4f1b-9dfd-772f74c24762

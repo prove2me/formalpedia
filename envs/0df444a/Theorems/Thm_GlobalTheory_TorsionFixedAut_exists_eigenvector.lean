@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFixedAut_exists_eigenvector
 -- name    : GlobalTheory.TorsionFixedAut.exists_eigenvector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:08:52.4888+00:00
 -- url     : https://prove2.me/theorems/e0d51138-4245-4880-bbc9-2c6f6ec63278

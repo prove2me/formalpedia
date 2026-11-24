@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quaternionNormOneTraceOpen_pi
 -- name    : GlobalTheory.T.quaternionNormOneTraceOpen_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:56:55.344944+00:00
 -- url     : https://prove2.me/theorems/b281f7e5-d0ef-46e2-89ef-6ac858bb4667

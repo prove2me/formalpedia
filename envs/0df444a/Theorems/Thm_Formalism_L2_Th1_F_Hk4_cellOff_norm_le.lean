@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Hk4_cellOff_norm_le
 -- name    : Formalism.L2.Th1.F.Hk4.cellOff_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:29:35.60663+00:00
 -- url     : https://prove2.me/theorems/9ea1260f-01a5-483a-aabb-551a19089477

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateSeq_zsmul_congr
 -- name    : GlobalTheory.TateSeq.zsmul_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:02:29.926809+00:00
 -- url     : https://prove2.me/theorems/ce28f063-947e-4cc1-b219-d81433cee309

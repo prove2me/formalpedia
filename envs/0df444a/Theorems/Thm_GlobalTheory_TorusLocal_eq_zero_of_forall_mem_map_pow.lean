@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusLocal_eq_zero_of_forall_mem_map_pow
 -- name    : GlobalTheory.TorusLocal.eq_zero_of_forall_mem_map_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:10:25.969171+00:00
 -- url     : https://prove2.me/theorems/95a7898a-ccb9-4ac4-850d-025170daba20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusConst_val_val
 -- name    : GlobalTheory.TorusConst.val_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:09:42.933796+00:00
 -- url     : https://prove2.me/theorems/0a18dbf8-26cc-4841-8ce7-d83deb2f09e7

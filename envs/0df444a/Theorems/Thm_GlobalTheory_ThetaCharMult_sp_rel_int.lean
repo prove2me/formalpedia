@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCharMult_sp_rel_int
 -- name    : GlobalTheory.ThetaCharMult.sp_rel_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:04:59.985867+00:00
 -- url     : https://prove2.me/theorems/6606bafe-5c13-4d98-ac59-fb47a0aa3f62

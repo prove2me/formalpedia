@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_LD_cont_invT
 -- name    : GlobalTheory.ThK.Dbl.LD.cont_invT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:03:29.135785+00:00
 -- url     : https://prove2.me/theorems/202219f8-97b3-4a1c-84d5-13edb14b7f75

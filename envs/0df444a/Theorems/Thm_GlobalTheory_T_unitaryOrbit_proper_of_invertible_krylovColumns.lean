@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryOrbit_proper_of_invertible_krylovColumns
 -- name    : GlobalTheory.T.unitaryOrbit_proper_of_invertible_krylovColumns
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:00:48.427577+00:00
 -- url     : https://prove2.me/theorems/d49332db-449d-4376-b637-ae31d4d3bcbd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_span_eval_eq_top_of_noCommonZero_reduced
 -- name    : GlobalTheory.T.span_eval_eq_top_of_noCommonZero_reduced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:53.587926+00:00
 -- url     : https://prove2.me/theorems/d7ac04d9-c039-4bda-a1e0-e16ffc4e6fd1

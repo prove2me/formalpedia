@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibreKer_sec_mem_slice
 -- name    : GlobalTheory.RankFibreKer.sec_mem_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:14:54.698108+00:00
 -- url     : https://prove2.me/theorems/d904797d-05d8-4cdf-9264-2054e905cca2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_snlCommonAllPathRegularizationV1
 -- name    : Kyprianou.Ch03.snlCommonAllPathRegularizationV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T17:58:25.184795+00:00
 -- url     : https://prove2.me/theorems/7ed63b98-806c-4d4a-813e-17060bb3a218

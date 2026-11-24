@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDifferential_snd_pullFn_mul
 -- name    : GlobalTheory.UnifDifferential.snd_pullFn_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:21.982486+00:00
 -- url     : https://prove2.me/theorems/f83ca8c1-010d-410b-bde1-0840851d0c59

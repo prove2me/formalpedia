@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_exists_cob_of_pair
 -- name    : GlobalTheory.CechDR.exists_cob_of_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:25:48.55711+00:00
 -- url     : https://prove2.me/theorems/2d86fa1b-f834-4d2a-8d98-fc04acb9b338

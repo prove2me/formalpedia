@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_glue_finitely_many_compatible_smoothModels
 -- name    : GlobalTheory.T.exists_glue_finitely_many_compatible_smoothModels
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:37:26.466423+00:00
 -- url     : https://prove2.me/theorems/ba57b5dc-de1f-47b8-9a28-42a7152cfb7f

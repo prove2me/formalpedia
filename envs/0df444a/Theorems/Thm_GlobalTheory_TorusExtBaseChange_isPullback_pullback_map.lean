@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusExtBaseChange_isPullback_pullback_map
 -- name    : GlobalTheory.TorusExtBaseChange.isPullback_pullback_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:10:36.42419+00:00
 -- url     : https://prove2.me/theorems/330b5d9c-aff9-4b62-becc-ae9bd1a93df9

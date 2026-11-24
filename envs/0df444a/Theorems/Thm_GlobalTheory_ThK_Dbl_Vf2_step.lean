@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_Vf2_step
 -- name    : GlobalTheory.ThK.Dbl.Vf2.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:04:01.162359+00:00
 -- url     : https://prove2.me/theorems/8583ead3-a8c2-48a4-a8a8-2aa03963dd09

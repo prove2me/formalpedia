@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_LD_sb_chE
 -- name    : GlobalTheory.ThK.Dbl.LD.sb_chE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:03:20.818483+00:00
 -- url     : https://prove2.me/theorems/bdf83e38-1185-41e4-ac23-4411696ae52b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_exists_fn_of_isGen
 -- name    : GlobalTheory.ThetaFn.exists_fn_of_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:05:31.463803+00:00
 -- url     : https://prove2.me/theorems/6a0f7d11-5e11-4651-a399-b1529bbcfc93

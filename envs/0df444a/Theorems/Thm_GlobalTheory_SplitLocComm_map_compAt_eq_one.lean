@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitLocComm_map_compAt_eq_one
 -- name    : GlobalTheory.SplitLocComm.map_compAt_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:23:10.255807+00:00
 -- url     : https://prove2.me/theorems/5b18beb3-8346-4679-af8d-9378471024da

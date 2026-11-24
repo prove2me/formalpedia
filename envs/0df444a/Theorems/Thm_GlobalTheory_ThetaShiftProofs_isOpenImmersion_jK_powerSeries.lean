@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaShiftProofs_isOpenImmersion_jK_powerSeries
 -- name    : GlobalTheory.ThetaShiftProofs.isOpenImmersion_jK_powerSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:07:48.02172+00:00
 -- url     : https://prove2.me/theorems/be791484-a1f2-495c-a76f-230217d3ac16

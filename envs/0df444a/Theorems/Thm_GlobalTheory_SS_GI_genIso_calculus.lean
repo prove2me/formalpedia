@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_genIso_calculus
 -- name    : GlobalTheory.SS.GI.genIso_calculus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:57:26.559468+00:00
 -- url     : https://prove2.me/theorems/ed1c0469-2787-442d-8252-27eacac8c5c5

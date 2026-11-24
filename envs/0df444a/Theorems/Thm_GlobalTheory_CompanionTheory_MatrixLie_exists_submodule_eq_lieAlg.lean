@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MatrixLie_exists_submodule_eq_lieAlg
 -- name    : GlobalTheory.CompanionTheory.MatrixLie.exists_submodule_eq_lieAlg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:53:35.923482+00:00
 -- url     : https://prove2.me/theorems/55169b15-6ec4-43f5-aa7b-96557f5605c5

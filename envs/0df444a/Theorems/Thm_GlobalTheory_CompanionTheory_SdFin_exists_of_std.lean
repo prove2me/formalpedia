@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SdFin_exists_of_std
 -- name    : GlobalTheory.CompanionTheory.SdFin.exists_of_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:59:51.620797+00:00
 -- url     : https://prove2.me/theorems/8dcf583f-09da-4db0-8e16-6787ef571a79

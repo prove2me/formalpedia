@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TruncGauss_exists_det_shift
 -- name    : GlobalTheory.TruncGauss.exists_det_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:13:10.610129+00:00
 -- url     : https://prove2.me/theorems/a8f0cf4f-5831-4f8c-a3a9-e72d695852a8

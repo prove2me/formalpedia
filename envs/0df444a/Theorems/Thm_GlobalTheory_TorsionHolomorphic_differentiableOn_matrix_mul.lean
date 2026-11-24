@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionHolomorphic_differentiableOn_matrix_mul
 -- name    : GlobalTheory.TorsionHolomorphic.differentiableOn_matrix_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:08:53.746348+00:00
 -- url     : https://prove2.me/theorems/dbd97920-fc73-4b20-9c75-5c945b13e3da

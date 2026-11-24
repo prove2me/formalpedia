@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceConj_colRep_apply
 -- name    : GlobalTheory.TraceConj.colRep_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:11:51.939638+00:00
 -- url     : https://prove2.me/theorems/4b3987bc-7bae-47e3-a3a6-8c959912e1a9

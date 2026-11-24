@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaExh_Check_iotaO_inj
 -- name    : GlobalTheory.ThetaExh.Check.iotaO_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:04:53.925729+00:00
 -- url     : https://prove2.me/theorems/19a4abce-5eac-4c92-9aab-d4c97bb00a2c

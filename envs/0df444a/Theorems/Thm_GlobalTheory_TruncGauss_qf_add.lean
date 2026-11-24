@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TruncGauss_qf_add
 -- name    : GlobalTheory.TruncGauss.qf_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:12:36.380301+00:00
 -- url     : https://prove2.me/theorems/4b010082-6426-4cf2-b33a-ff608158ede1

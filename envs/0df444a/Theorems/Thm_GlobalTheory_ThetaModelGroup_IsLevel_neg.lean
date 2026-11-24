@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaModelGroup_IsLevel_neg
 -- name    : GlobalTheory.ThetaModelGroup.IsLevel.neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:06:43.351299+00:00
 -- url     : https://prove2.me/theorems/dabf4b68-890c-43aa-93bc-b8b15f6660cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbertRecip_neg_mem_nrm
 -- name    : GlobalTheory.HilbertRecip.neg_mem_nrm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:16:13.224456+00:00
 -- url     : https://prove2.me/theorems/0af9e5f0-8d44-459d-bf79-7d1797a56acd

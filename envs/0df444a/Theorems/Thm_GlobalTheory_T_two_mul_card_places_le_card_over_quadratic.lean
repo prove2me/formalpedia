@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_two_mul_card_places_le_card_over_quadratic
 -- name    : GlobalTheory.T.two_mul_card_places_le_card_over_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:59:34.012801+00:00
 -- url     : https://prove2.me/theorems/c964258f-1267-492a-894e-add9cdecdffa

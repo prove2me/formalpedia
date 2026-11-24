@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TSetFin_glint_int
 -- name    : GlobalTheory.TSetFin.glint_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:01:27.859802+00:00
 -- url     : https://prove2.me/theorems/f9ec6ff9-37da-429e-a0f0-d0ad4124fd7b

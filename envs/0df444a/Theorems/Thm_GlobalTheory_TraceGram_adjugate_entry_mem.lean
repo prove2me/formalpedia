@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceGram_adjugate_entry_mem
 -- name    : GlobalTheory.TraceGram.adjugate_entry_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:10:49.59925+00:00
 -- url     : https://prove2.me/theorems/ba2db0a4-ee53-4e5e-8efb-bf38ee53f17b

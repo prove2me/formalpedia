@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_weakSol_of_smooth
 -- name    : GlobalTheory.HCA.weakSol_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:00:04.658871+00:00
 -- url     : https://prove2.me/theorems/3bfca77f-ddac-4e71-ac9b-283c2e74d541

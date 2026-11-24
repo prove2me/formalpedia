@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TripleIntertwiner_sum_refine
 -- name    : GlobalTheory.TripleIntertwiner.sum_refine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:12:17.32507+00:00
 -- url     : https://prove2.me/theorems/9e1a5ef3-c30a-4685-9174-6ea684c5bea4

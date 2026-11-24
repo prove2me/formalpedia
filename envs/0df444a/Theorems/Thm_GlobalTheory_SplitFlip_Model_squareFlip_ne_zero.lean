@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_Model_squareFlip_ne_zero
 -- name    : GlobalTheory.SplitFlip.Model.squareFlip_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:19:53.228568+00:00
 -- url     : https://prove2.me/theorems/d38c9885-0541-4cbc-a30a-d26548caf6b9

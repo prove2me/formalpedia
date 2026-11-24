@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_matrix_conj_transpose_by_symmetric_taussky_zassenhaus
 -- name    : GlobalTheory.T.matrix_conj_transpose_by_symmetric_taussky_zassenhaus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:52:34.831235+00:00
 -- url     : https://prove2.me/theorems/5687d8ed-c884-4799-b28a-b6f8f702a700

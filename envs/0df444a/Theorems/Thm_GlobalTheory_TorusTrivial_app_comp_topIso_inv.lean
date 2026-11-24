@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusTrivial_app_comp_topIso_inv
 -- name    : GlobalTheory.TorusTrivial.app_comp_topIso_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:11:24.002721+00:00
 -- url     : https://prove2.me/theorems/54944213-abe8-4086-8e01-ebcd7f04a973

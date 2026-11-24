@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemisimpleCount_rank_killed_eq
 -- name    : GlobalTheory.SemisimpleCount.rank_killed_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:53:11.130563+00:00
 -- url     : https://prove2.me/theorems/3481d7d8-c33e-4a6c-8374-e425810fb2a3

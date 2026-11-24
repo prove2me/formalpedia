@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusConst_exists_poly
 -- name    : GlobalTheory.TorusConst.exists_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:09:36.111444+00:00
 -- url     : https://prove2.me/theorems/1264519b-1523-4e97-a412-b9b1a83bf64c

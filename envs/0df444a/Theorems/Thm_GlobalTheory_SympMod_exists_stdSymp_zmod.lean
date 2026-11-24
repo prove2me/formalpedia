@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympMod_exists_stdSymp_zmod
 -- name    : GlobalTheory.SympMod.exists_stdSymp_zmod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:25:23.307302+00:00
 -- url     : https://prove2.me/theorems/632604e6-778c-45cc-a201-034adf5faec2

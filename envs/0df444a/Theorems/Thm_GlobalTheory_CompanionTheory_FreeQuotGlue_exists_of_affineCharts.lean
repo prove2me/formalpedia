@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotGlue_exists_of_affineCharts
 -- name    : GlobalTheory.CompanionTheory.FreeQuotGlue.exists_of_affineCharts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:42:18.714465+00:00
 -- url     : https://prove2.me/theorems/fd61cfbd-06a2-43be-a4ba-c67e5972f02e

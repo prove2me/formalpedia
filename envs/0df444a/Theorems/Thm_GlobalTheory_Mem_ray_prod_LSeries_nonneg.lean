@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_ray_prod_LSeries_nonneg
 -- name    : GlobalTheory.Mem.ray_prod_LSeries_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:24:57.821985+00:00
 -- url     : https://prove2.me/theorems/e73b25ce-5f15-4d68-b175-c16d909d05dd

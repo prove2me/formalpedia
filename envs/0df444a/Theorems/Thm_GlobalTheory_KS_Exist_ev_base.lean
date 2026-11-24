@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Exist_ev_base
 -- name    : GlobalTheory.KS.Exist.ev_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:46:30.692026+00:00
 -- url     : https://prove2.me/theorems/1b2be996-b504-4cc7-a50e-a135bb0b6566

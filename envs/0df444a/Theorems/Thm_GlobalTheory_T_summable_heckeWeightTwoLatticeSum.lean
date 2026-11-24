@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_summable_heckeWeightTwoLatticeSum
 -- name    : GlobalTheory.T.summable_heckeWeightTwoLatticeSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:00:06.900816+00:00
 -- url     : https://prove2.me/theorems/2df7f868-96e3-41e3-a8b0-c63e4a30b1ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_pairRes_injective
 -- name    : GlobalTheory.CechDR.pairRes_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:24:50.752902+00:00
 -- url     : https://prove2.me/theorems/aeebd1f4-f47d-419e-aba2-68194dfefec8

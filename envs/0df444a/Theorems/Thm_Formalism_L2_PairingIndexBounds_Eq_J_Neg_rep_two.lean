@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PairingIndexBounds_Eq_J_Neg_rep_two
 -- name    : Formalism.L2.PairingIndexBounds.Eq.J.Neg.rep_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:09:59.936708+00:00
 -- url     : https://prove2.me/theorems/f3364d35-4c95-4b33-836c-4a3076153458

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_POf_coeff_pOf_sq_odd
 -- name    : Formalism.L2.Th1.F.POf.coeff_pOf_sq_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:18:55.713808+00:00
 -- url     : https://prove2.me/theorems/7227b15b-280a-4b40-8cbd-04c1e192e04f

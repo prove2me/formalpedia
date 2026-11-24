@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_nonempty_equiv_of_smoothTrace_eq_admissible
 -- name    : GlobalTheory.T.nonempty_equiv_of_smoothTrace_eq_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:54:11.687858+00:00
 -- url     : https://prove2.me/theorems/cbe7893d-2a64-4a63-9bdf-2fcd6f278b91

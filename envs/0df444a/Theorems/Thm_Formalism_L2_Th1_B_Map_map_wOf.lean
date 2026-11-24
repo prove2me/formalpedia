@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Map_map_wOf
 -- name    : Formalism.L2.Th1.B.Map.map_wOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:00.183807+00:00
 -- url     : https://prove2.me/theorems/aa02ce07-a162-4500-8385-f1ad6490e042

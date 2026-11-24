@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_RgUd_Form_U_Atom_relIndex_ne_zero__402b1c7415f3
 -- name    : P2M_PositivityTheory_RgUd_Form_U_Atom_relIndex_ne_zero__402b1c7415f3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:01:50.601803+00:00
 -- url     : https://prove2.me/theorems/c5bbf885-c07e-4767-b81d-79718299406b

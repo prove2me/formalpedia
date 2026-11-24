@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_extension_of_block
 -- name    : GlobalTheory.T.unitary_extension_of_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:01:26.207551+00:00
 -- url     : https://prove2.me/theorems/3bcae2bb-f8d3-4b33-9975-18e621874f0c

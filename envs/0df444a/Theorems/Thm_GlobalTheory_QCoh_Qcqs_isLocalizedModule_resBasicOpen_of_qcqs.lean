@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_Qcqs_isLocalizedModule_resBasicOpen_of_qcqs
 -- name    : GlobalTheory.QCoh.Qcqs.isLocalizedModule_resBasicOpen_of_qcqs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:57:56.3818+00:00
 -- url     : https://prove2.me/theorems/c559290b-8b4f-4258-8f5a-ba626a23a780

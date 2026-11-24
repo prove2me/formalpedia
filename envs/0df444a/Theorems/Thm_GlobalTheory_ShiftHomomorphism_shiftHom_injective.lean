@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShiftHomomorphism_shiftHom_injective
 -- name    : GlobalTheory.ShiftHomomorphism.shiftHom_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:28:27.896032+00:00
 -- url     : https://prove2.me/theorems/56b9883b-9b91-46dd-8444-56fb68b71c90

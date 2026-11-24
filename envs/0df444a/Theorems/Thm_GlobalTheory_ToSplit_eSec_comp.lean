@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToSplit_eSec_comp
 -- name    : GlobalTheory.ToSplit.eSec_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:19:41.425355+00:00
 -- url     : https://prove2.me/theorems/8fd911ad-5cdc-42ab-ae43-237f831d9c7d

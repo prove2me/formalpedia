@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGen_entire_mul_eq_zero
 -- name    : GlobalTheory.ThetaGen.entire_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:06:03.19591+00:00
 -- url     : https://prove2.me/theorems/4c0373c4-8506-4b06-a837-b99688461293

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_torus_conjugation_preserves_congruence
 -- name    : GlobalTheory.T.torus_conjugation_preserves_congruence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:59:54.734545+00:00
 -- url     : https://prove2.me/theorems/4a8c8a59-47d2-46fc-9527-c26e5b142fbf

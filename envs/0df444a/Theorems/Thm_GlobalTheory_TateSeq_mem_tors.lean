@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateSeq_mem_tors
 -- name    : GlobalTheory.TateSeq.mem_tors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:02:30.491973+00:00
 -- url     : https://prove2.me/theorems/c59c1ecf-bd90-4b1d-9cc8-d5eee46037e3

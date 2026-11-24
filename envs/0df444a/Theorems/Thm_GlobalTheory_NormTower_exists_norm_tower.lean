@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormTower_exists_norm_tower
 -- name    : GlobalTheory.NormTower.exists_norm_tower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:22.915022+00:00
 -- url     : https://prove2.me/theorems/f9285677-5fea-4b18-9e25-9d844cd7ec90

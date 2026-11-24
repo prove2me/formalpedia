@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaSplit_transl_mul
 -- name    : GlobalTheory.ThetaSplit.transl_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:08:26.953029+00:00
 -- url     : https://prove2.me/theorems/8d97b47c-401d-453b-b7f1-3a4816ebff99

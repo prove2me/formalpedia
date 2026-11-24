@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ring_equiv_transports_residue
 -- name    : GlobalTheory.T.ring_equiv_transports_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:56:11.627365+00:00
 -- url     : https://prove2.me/theorems/3dc6aaea-475d-4b7f-958e-e0165335513e

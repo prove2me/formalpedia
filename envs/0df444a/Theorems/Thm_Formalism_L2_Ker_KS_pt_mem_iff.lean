@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Ker_KS_pt_mem_iff
 -- name    : Formalism.L2.Ker.KS.pt_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:27:03.307813+00:00
 -- url     : https://prove2.me/theorems/afe471df-3fad-49b2-8b54-aed92ebbb8c2

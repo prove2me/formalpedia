@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionZero_aeval_eq_zero_iff_components
 -- name    : GlobalTheory.TorsionZero.aeval_eq_zero_iff_components
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:08:53.381633+00:00
 -- url     : https://prove2.me/theorems/477051f9-6f52-496c-a51d-b929914dbc0d

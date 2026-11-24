@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_Bmp_sep
 -- name    : GlobalTheory.ThK.Dbl.Bmp.sep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:03:29.015852+00:00
 -- url     : https://prove2.me/theorems/640a0e84-071b-4f1f-ab58-eaaad085e492

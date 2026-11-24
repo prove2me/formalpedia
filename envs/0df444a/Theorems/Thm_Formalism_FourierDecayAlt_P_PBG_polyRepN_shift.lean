@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_polyRepN_shift
 -- name    : Formalism.FourierDecayAlt.P.PBG.polyRepN_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:19:42.218962+00:00
 -- url     : https://prove2.me/theorems/da38c111-b44b-4c93-808a-ab1d7536d765

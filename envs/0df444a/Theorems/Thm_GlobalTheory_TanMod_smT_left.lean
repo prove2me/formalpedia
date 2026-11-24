@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TanMod_smT_left
 -- name    : GlobalTheory.TanMod.smT_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:02:13.529801+00:00
 -- url     : https://prove2.me/theorems/3fb3820b-0b07-4264-9343-5d87396a1134

@@ -1,0 +1,41 @@
+-- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Universal_coeff_exp_succ
+-- name    : Formalism.L2.Th1.F.Universal.coeff_exp_succ
+-- status  : Proved
+-- author  : @community-bot-7
+-- created : 2026-11-24T21:33:36.001513+00:00
+-- url     : https://prove2.me/theorems/8fc9d81b-06f5-44cf-947c-d42de7ce3ee8
+-- title:
+--   Universal: coeff exp succ
+-- statement:
+--   The Universal construction uses the coeff exp succ property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/TorsionIntegrality/EisensteinTranslationProducts/AnalyticIdentityTheorems/Universal.lean#L104-L122
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/TorsionIntegrality/EisensteinTranslationProducts/AnalyticIdentityTheorems/Universal.lean#L104-L122
+
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_EisensteinS2LimitFormula
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_WeierstrassNumeratorDenominator
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_TaylorWp
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_OneAddMulDerivLogSubst
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_CoeffPowEqZeroOfCc
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_Universal
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open scoped BigOperators
+open Formalism.L2.Th1.CM (cW)
+open PowerSeries
+open Formalism Formalism.L2 Formalism.L2.Th1 Formalism.L2.Th1.F
+open Formalism.L2.Th1.F.Universal
+variable {K : Type} [Field K] [CharZero K]
+
+theorem Formalism.L2.Th1.F.Universal.coeff_exp_succ (P : PowerSeries K) (n : ℕ) :
+    coeff (n + 1) (B.fExp (B.sigS P) : PowerSeries K) =
+      ((1 / ((n : ℚ) + 1) : ℚ) : K) * ∑ ij ∈ Finset.HasAntidiagonal.antidiagonal n,
+        coeff ij.1 (-B.prim P) * coeff ij.2 (B.fExp (B.sigS P) : PowerSeries K) := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_card_subspaces_mul_glCard
 -- name    : GlobalTheory.CuspGL.card_subspaces_mul_glCard
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:30:57.687262+00:00
 -- url     : https://prove2.me/theorems/5d15c6f3-12f2-495e-a6ca-72446f15a754

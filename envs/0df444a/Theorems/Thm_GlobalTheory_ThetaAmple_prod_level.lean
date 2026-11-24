@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaAmple_prod_level
 -- name    : GlobalTheory.ThetaAmple.prod_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:05:58.388739+00:00
 -- url     : https://prove2.me/theorems/33095d0b-0bdb-44f1-9f2d-ba2edfa0ba69

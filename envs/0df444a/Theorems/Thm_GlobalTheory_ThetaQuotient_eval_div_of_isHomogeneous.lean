@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaQuotient_eval_div_of_isHomogeneous
 -- name    : GlobalTheory.ThetaQuotient.eval_div_of_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:06:12.736333+00:00
 -- url     : https://prove2.me/theorems/5d4bd12a-a5c7-41de-a74a-6ed9a4fb0781

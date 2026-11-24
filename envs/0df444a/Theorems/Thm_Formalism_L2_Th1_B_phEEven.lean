@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_phEEven
 -- name    : Formalism.L2.Th1.B.phEEven
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:21:36.737226+00:00
 -- url     : https://prove2.me/theorems/524f4eb7-39e6-4015-8b05-1b328fa30313

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceOpDecay_decay
 -- name    : GlobalTheory.SliceOpDecay.decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:14:19.826923+00:00
 -- url     : https://prove2.me/theorems/3553cf1f-a6fd-4590-80fe-4a341f6b7347

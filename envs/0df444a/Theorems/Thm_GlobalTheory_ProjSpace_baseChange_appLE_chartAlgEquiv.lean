@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_baseChange_appLE_chartAlgEquiv
 -- name    : GlobalTheory.ProjSpace.baseChange_appLE_chartAlgEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:00:18.473063+00:00
 -- url     : https://prove2.me/theorems/6970abf7-541d-4993-afd2-15f7ab2c43f4

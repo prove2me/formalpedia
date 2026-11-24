@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_LD_cont_toGL
 -- name    : GlobalTheory.ThK.Dbl.LD.cont_toGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:03:15.367322+00:00
 -- url     : https://prove2.me/theorems/4c8ceabd-1d8e-498a-a289-1bd850ce683d

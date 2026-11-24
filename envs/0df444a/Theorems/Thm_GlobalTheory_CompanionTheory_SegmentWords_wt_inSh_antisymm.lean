@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SegmentWords_wt_inSh_antisymm
 -- name    : GlobalTheory.CompanionTheory.SegmentWords.wt_inSh_antisymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:12:43.325701+00:00
 -- url     : https://prove2.me/theorems/b9abcbb8-6270-48ef-b5e8-94ed45ef6da8

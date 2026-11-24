@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_lat_sum
 -- name    : GlobalTheory.CompanionTheory.Equi.lat_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:38:40.409485+00:00
 -- url     : https://prove2.me/theorems/de644c98-181b-4d34-84fc-8e50a7cf0d67

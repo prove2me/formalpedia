@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Scale_prim_scale
 -- name    : Formalism.L2.Th1.F.Scale.prim_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:20:16.458016+00:00
 -- url     : https://prove2.me/theorems/a40700d1-48c8-4dbe-a017-fbc7775add99

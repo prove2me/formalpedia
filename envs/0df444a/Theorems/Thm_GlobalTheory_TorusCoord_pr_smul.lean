@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCoord_pr_smul
 -- name    : GlobalTheory.TorusCoord.pr_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:10:01.462827+00:00
 -- url     : https://prove2.me/theorems/22a9a6d9-3c48-400c-8937-71a3fd48692c

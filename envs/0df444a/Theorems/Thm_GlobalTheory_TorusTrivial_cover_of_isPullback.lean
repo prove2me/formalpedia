@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusTrivial_cover_of_isPullback
 -- name    : GlobalTheory.TorusTrivial.cover_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:11:44.905958+00:00
 -- url     : https://prove2.me/theorems/d088a843-cb1f-4597-a71c-66de4dee26ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_iwasawa_cells_disjoint
 -- name    : GlobalTheory.T.unitary_iwasawa_cells_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:02:31.468623+00:00
 -- url     : https://prove2.me/theorems/e2db8ada-9238-4e27-8536-596803910ff4

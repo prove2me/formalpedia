@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_subgroupPowImage_unitsCongruentOneMod_of_isAdicComplete
 -- name    : GlobalTheory.T.subgroupPowImage_unitsCongruentOneMod_of_isAdicComplete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:58:43.604198+00:00
 -- url     : https://prove2.me/theorems/4f904578-8f65-4ab0-8c5e-281b2dcfc57f

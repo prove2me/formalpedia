@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sections_invertibleLocus_of_basisFunctor
 -- name    : GlobalTheory.T.sections_invertibleLocus_of_basisFunctor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:57:52.271035+00:00
 -- url     : https://prove2.me/theorems/0562e278-0b6c-4dcd-ae92-0c4e234be717

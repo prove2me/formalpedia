@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCompare_UniversalJets_rename
 -- name    : GlobalTheory.TorsionCompare.UniversalJets.rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:09:16.765727+00:00
 -- url     : https://prove2.me/theorems/0c9ba30a-21fe-45cf-8888-f2af58ca92ca

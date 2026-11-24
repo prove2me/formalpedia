@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SplitExtLat_exists_haar_fundamentalDomain
 -- name    : GlobalTheory.CompanionTheory.SplitExtLat.exists_haar_fundamentalDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:16:11.219167+00:00
 -- url     : https://prove2.me/theorems/58c39a42-3b22-4c99-ab9f-a10b8854e5fa

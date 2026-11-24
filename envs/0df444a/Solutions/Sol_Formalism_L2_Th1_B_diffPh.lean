@@ -1,0 +1,33 @@
+-- Prove2me | solution 1 for Formalism.L2.Th1.B.diffPh
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-24T21:18:19.203852+00:00
+-- url     : https://prove2.me/submissions/98eee181-b9d3-4356-b6b1-0ef63d7b79e1
+
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_FinalA
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_ConstantCoeffSeriesAtVariable
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_SimeqPadicIntegers
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_LogSigmaOnePullbackSpec
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_WeierstrassSeriesIntegral
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_InVarAddInVarNeZero
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_ConstantCoeffEqZeroOfParallelogram
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_InvariantDerivationSubstLawThree
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_FinalB
+import Theorems.Thm_Formalism_L2_Th1_B_simeqLog
+import Theorems.Thm_Formalism_L2_Th1_B_ParO_DiffPh_of
+import Theorems.Thm_Formalism_L2_Th1_B_sigma1Sq
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.L2 Formalism.L2.Th1 Formalism.L2.Th1.B
+namespace Formalism.L2.Th1.B
+theorem _root_.solution : DiffPh := by
+  exact ParO.DiffPh_of sigma1Sq simeqLog
+end Formalism.L2.Th1.B

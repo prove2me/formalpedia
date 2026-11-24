@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_HermiteReduction_exists_reduced
 -- name    : GlobalTheory.ClassFin.HermiteReduction.exists_reduced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:11:34.99454+00:00
 -- url     : https://prove2.me/theorems/a5bba9f4-4e21-40ab-9255-33fab697b31a

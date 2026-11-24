@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_exists_chart_of_isTanOver
 -- name    : GlobalTheory.SqZero.exists_chart_of_isTanOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:42:51.966694+00:00
 -- url     : https://prove2.me/theorems/3bb1084f-a9ec-4f04-a4be-8ecb9c59b8af

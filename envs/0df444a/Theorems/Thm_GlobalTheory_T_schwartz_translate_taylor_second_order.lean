@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_translate_taylor_second_order
 -- name    : GlobalTheory.T.schwartz_translate_taylor_second_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:57:13.231313+00:00
 -- url     : https://prove2.me/theorems/c9f2661d-b6e5-4d40-b3f7-198d090a6a72

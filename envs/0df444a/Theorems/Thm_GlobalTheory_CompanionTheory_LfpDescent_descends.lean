@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LfpDescent_descends
 -- name    : GlobalTheory.CompanionTheory.LfpDescent.descends
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:52:14.241686+00:00
 -- url     : https://prove2.me/theorems/417138ee-622e-4a69-afdc-4368fd116f11

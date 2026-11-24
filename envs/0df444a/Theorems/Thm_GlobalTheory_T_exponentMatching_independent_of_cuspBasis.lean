@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exponentMatching_independent_of_cuspBasis
 -- name    : GlobalTheory.T.exponentMatching_independent_of_cuspBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:40:12.414799+00:00
 -- url     : https://prove2.me/theorems/00d64fd6-14e4-4017-b420-0124adf4bcec

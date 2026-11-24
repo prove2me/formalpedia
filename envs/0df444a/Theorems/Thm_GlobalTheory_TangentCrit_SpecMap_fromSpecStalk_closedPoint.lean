@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentCrit_SpecMap_fromSpecStalk_closedPoint
 -- name    : GlobalTheory.TangentCrit.SpecMap_fromSpecStalk_closedPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:01:56.959169+00:00
 -- url     : https://prove2.me/theorems/49820ee1-8e19-41c5-8fed-4998def79c94

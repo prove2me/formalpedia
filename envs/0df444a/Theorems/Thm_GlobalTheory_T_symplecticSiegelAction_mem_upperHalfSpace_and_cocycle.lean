@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_symplecticSiegelAction_mem_upperHalfSpace_and_cocycle
 -- name    : GlobalTheory.T.symplecticSiegelAction_mem_upperHalfSpace_and_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:48.339867+00:00
 -- url     : https://prove2.me/theorems/576bee38-8d38-4a62-a573-a04ae0d4683c

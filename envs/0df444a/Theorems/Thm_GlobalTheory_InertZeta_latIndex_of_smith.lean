@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_latIndex_of_smith
 -- name    : GlobalTheory.InertZeta.latIndex_of_smith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:19:24.851791+00:00
 -- url     : https://prove2.me/theorems/32459d72-58db-415e-9f2a-b5dfba281483

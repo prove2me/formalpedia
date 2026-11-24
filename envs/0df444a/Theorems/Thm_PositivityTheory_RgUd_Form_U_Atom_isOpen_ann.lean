@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Form_U_Atom_isOpen_ann
 -- name    : PositivityTheory.RgUd.Form.U.Atom.isOpen_ann
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:02:08.881553+00:00
 -- url     : https://prove2.me/theorems/d9f33279-e603-473f-b3b0-f53645f703f1

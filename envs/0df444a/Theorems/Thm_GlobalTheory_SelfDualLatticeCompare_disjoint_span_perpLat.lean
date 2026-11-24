@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLatticeCompare_disjoint_span_perpLat
 -- name    : GlobalTheory.SelfDualLatticeCompare.disjoint_span_perpLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:53:15.749188+00:00
 -- url     : https://prove2.me/theorems/d8e2ff41-9787-4401-ad41-9543dd6e4360

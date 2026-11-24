@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_An_far_right
 -- name    : GlobalTheory.ThK.Dbl.An.far_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:03:23.049461+00:00
 -- url     : https://prove2.me/theorems/8c4c7bb9-96ba-47fd-92c6-56125c563f0e

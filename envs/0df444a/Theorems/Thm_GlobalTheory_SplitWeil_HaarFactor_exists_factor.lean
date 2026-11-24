@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_HaarFactor_exists_factor
 -- name    : GlobalTheory.SplitWeil.HaarFactor.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:21:39.015574+00:00
 -- url     : https://prove2.me/theorems/cbfcc030-5cf9-4e58-86cd-fe3d6d3c4913

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusUnit_value_char
 -- name    : GlobalTheory.TorusUnit.value_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:11:14.409476+00:00
 -- url     : https://prove2.me/theorems/b268ed83-1ab2-4a68-9ac5-0203f129b6fb

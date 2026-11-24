@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_gaussianConvolutionSeriesCoefficient_le_integral
 -- name    : GlobalTheory.T.norm_gaussianConvolutionSeriesCoefficient_le_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:55:53.943947+00:00
 -- url     : https://prove2.me/theorems/b4aa782f-c5c8-454b-9e06-cbedd34278c7

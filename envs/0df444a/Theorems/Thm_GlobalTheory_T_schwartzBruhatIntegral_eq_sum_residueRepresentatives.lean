@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhatIntegral_eq_sum_residueRepresentatives
 -- name    : GlobalTheory.T.schwartzBruhatIntegral_eq_sum_residueRepresentatives
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:47.994429+00:00
 -- url     : https://prove2.me/theorems/f9a2ebb9-58f7-416c-b45d-5e9f349d1c07

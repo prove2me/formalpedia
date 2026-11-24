@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_finite_stopped_parameter_future_product
 -- name    : Kyprianou.Ch08.StageB.p2m810_finite_stopped_parameter_future_product
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:42:32.337584+00:00
 -- url     : https://prove2.me/theorems/77f60972-9b09-4719-9b1e-de82ac059cdc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFourier_valF_sum
 -- name    : GlobalTheory.TorsionFourier.valF_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:09:07.331019+00:00
 -- url     : https://prove2.me/theorems/88bc276c-fb90-4aa7-8905-7ac152e1d957

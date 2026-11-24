@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_spec_functions_eq_of_restrictions_on_pairs
 -- name    : GlobalTheory.T.spec_functions_eq_of_restrictions_on_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:58:23.561565+00:00
 -- url     : https://prove2.me/theorems/04322072-bd3a-4d9d-a477-7af12b303981

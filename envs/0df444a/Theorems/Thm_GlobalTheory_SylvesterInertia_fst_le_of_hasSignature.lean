@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SylvesterInertia_fst_le_of_hasSignature
 -- name    : GlobalTheory.SylvesterInertia.fst_le_of_hasSignature
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:23:10.795053+00:00
 -- url     : https://prove2.me/theorems/ed081bb3-55f3-4910-b6ca-d38d01dca2f9

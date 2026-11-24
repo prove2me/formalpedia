@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_Herm_fin_orbit
 -- name    : GlobalTheory.ThK.Dbl.Herm.fin_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:03:29.537428+00:00
 -- url     : https://prove2.me/theorems/4de82cc3-3b2a-4ff8-95da-59461bf2f7bb

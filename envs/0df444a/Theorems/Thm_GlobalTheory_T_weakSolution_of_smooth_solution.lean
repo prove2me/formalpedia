@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weakSolution_of_smooth_solution
 -- name    : GlobalTheory.T.weakSolution_of_smooth_solution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:01:41.896894+00:00
 -- url     : https://prove2.me/theorems/da25b695-885c-4fdc-b5a8-38d0e306c814

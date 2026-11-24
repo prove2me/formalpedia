@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnipHaar_haar_conj_eq_modulus_mul
 -- name    : GlobalTheory.SmGL.UnipHaar.haar_conj_eq_modulus_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:34:12.557281+00:00
 -- url     : https://prove2.me/theorems/3838df4d-700d-4682-b82e-103b02db970c

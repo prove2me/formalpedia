@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemicharIndep_par_of_torusAt
 -- name    : GlobalTheory.SemicharIndep.par_of_torusAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:53:38.492299+00:00
 -- url     : https://prove2.me/theorems/45ee6a16-c21e-4468-a9f4-9f6951be05c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableLevyLogMomentTimeScalingV1
 -- name    : Kyprianou.Ch03.stableLevyLogMomentTimeScalingV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:00:20.820867+00:00
 -- url     : https://prove2.me/theorems/b086eed7-c5e0-49ed-b867-0b2dd1facd95

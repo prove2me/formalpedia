@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TriangularityLowCoeff_coeff_iterPD
 -- name    : GlobalTheory.TriangularityLowCoeff.coeff_iterPD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:12:14.775224+00:00
 -- url     : https://prove2.me/theorems/c2188667-d967-4ad3-8b00-22a80b1dd1db

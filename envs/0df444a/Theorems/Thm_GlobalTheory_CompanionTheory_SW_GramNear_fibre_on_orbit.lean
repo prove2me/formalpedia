@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramNear_fibre_on_orbit
 -- name    : GlobalTheory.CompanionTheory.SW.GramNear.fibre_on_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:06:19.617659+00:00
 -- url     : https://prove2.me/theorems/c3d3eb57-c4be-41d6-9170-06de1c0a47e3

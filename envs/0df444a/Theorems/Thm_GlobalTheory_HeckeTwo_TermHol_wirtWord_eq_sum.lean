@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermHol_wirtWord_eq_sum
 -- name    : GlobalTheory.HeckeTwo.TermHol.wirtWord_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:07:47.176446+00:00
 -- url     : https://prove2.me/theorems/3f9fa0b6-cbdc-4977-8846-fffd6d2ab12d

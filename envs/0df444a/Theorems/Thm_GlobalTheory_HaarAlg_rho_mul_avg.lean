@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HaarAlg_rho_mul_avg
 -- name    : GlobalTheory.HaarAlg.rho_mul_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:58:28.583977+00:00
 -- url     : https://prove2.me/theorems/28d46ac1-d8a4-4bac-9104-e4dc59443ffd

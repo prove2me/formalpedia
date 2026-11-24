@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PFlag_preserves_of_mem_realScalars
 -- name    : GlobalTheory.Tw.PFlag.preserves_of_mem_realScalars
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:13:12.904797+00:00
 -- url     : https://prove2.me/theorems/bb6e4a15-a623-483e-a6f1-c50ca4b3ddca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_commutator_glGenerator_tensorWordMapMatrixUnits
 -- name    : GlobalTheory.T.commutator_glGenerator_tensorWordMapMatrixUnits
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:09.646802+00:00
 -- url     : https://prove2.me/theorems/a5f4a11f-0808-4bc8-94c3-829a88b374c2

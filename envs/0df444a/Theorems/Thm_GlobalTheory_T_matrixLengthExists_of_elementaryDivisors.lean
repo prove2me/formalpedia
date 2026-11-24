@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_matrixLengthExists_of_elementaryDivisors
 -- name    : GlobalTheory.T.matrixLengthExists_of_elementaryDivisors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:54:07.795857+00:00
 -- url     : https://prove2.me/theorems/4a613a2f-22cd-4b4d-bfd6-798e49f9568f

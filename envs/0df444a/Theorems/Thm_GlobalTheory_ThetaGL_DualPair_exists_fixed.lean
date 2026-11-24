@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGL_DualPair_exists_fixed
 -- name    : GlobalTheory.ThetaGL.DualPair.exists_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:06:22.739316+00:00
 -- url     : https://prove2.me/theorems/42bcca15-ab7c-46e0-9c5b-e0c3d58002f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemiAbelianDescent_isSemiAbelian_descends
 -- name    : GlobalTheory.SemiAbelianDescent.isSemiAbelian_descends
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:54:27.536208+00:00
 -- url     : https://prove2.me/theorems/ff68716a-e882-49e3-a6ae-3def8a8633e1

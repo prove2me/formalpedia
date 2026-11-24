@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pointwise_of_span_heisenberg
 -- name    : GlobalTheory.T.pointwise_of_span_heisenberg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:55:59.668926+00:00
 -- url     : https://prove2.me/theorems/faf86c8b-3b82-450a-97b6-14c9fc35ff84

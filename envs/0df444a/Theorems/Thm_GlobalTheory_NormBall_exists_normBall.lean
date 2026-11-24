@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormBall_exists_normBall
 -- name    : GlobalTheory.NormBall.exists_normBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:22:30.559678+00:00
 -- url     : https://prove2.me/theorems/ed766923-61af-4de7-81bc-d1394e69562d

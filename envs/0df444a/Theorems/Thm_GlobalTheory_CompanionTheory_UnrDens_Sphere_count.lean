@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_Sphere_count
 -- name    : GlobalTheory.CompanionTheory.UnrDens.Sphere.count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:21:21.29374+00:00
 -- url     : https://prove2.me/theorems/dd564258-6278-4b23-9777-67e2fdc04c92

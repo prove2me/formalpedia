@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_LD_toGL_coe
 -- name    : GlobalTheory.ThK.Dbl.LD.toGL_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:03:37.043623+00:00
 -- url     : https://prove2.me/theorems/d3c048e2-e253-43d6-976d-a4c3d523554c

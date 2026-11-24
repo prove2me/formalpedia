@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stablePositiveLogLaplaceHomogeneityV1
 -- name    : Kyprianou.Ch03.stablePositiveLogLaplaceHomogeneityV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:00:54.256586+00:00
 -- url     : https://prove2.me/theorems/014b1524-ff89-4f39-9d55-e2c759124489

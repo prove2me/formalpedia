@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_exists_eq_transpose_mul_map_locConj
 -- name    : GlobalTheory.SelfDualGenus.exists_eq_transpose_mul_map_locConj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:52:48.048001+00:00
 -- url     : https://prove2.me/theorems/401f9043-49c7-4f61-b901-2fa266413448

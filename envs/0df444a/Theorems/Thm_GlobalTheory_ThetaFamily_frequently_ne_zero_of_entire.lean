@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFamily_frequently_ne_zero_of_entire
 -- name    : GlobalTheory.ThetaFamily.frequently_ne_zero_of_entire
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:05:46.287929+00:00
 -- url     : https://prove2.me/theorems/8e8695cf-aeb9-4abb-80cb-b66e531f1341

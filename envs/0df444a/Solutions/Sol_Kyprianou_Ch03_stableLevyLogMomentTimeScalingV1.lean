@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.stableLevyLogMomentTimeScalingV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T19:04:29.291569+00:00
 -- url     : https://prove2.me/submissions/893e53d7-b38f-48c4-ba4d-6c35a081f1f4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

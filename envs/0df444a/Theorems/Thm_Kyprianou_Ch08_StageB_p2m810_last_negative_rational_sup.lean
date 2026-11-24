@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_last_negative_rational_sup
 -- name    : Kyprianou.Ch08.StageB.p2m810_last_negative_rational_sup
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:37:26.358483+00:00
 -- url     : https://prove2.me/theorems/ed4ab4ac-2083-458c-a424-6abcc43a3232

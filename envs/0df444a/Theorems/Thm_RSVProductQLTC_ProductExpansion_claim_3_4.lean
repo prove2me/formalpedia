@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RSVProductQLTC_ProductExpansion_claim_3_4
 -- name    : RSVProductQLTC.ProductExpansion.claim_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:37:41.161937+00:00
 -- url     : https://prove2.me/theorems/64e9af30-60d4-4164-9f52-1da052e678bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToSplit_cover_tensorHom
 -- name    : GlobalTheory.ToSplit.cover_tensorHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:07:45.725783+00:00
 -- url     : https://prove2.me/theorems/8c49052e-3e49-4580-b3ad-6bbaf2b0379f

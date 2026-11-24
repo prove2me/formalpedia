@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finrank_le_of_weights_unipotent_symplectic
 -- name    : GlobalTheory.T.finrank_le_of_weights_unipotent_symplectic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:39:50.808803+00:00
 -- url     : https://prove2.me/theorems/3ff47feb-ce27-4f2d-bc4d-ab5c8f531996

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_fold_agree
 -- name    : Formalism.FourierDecayAlt.P.PBG.fold_agree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:21:42.581018+00:00
 -- url     : https://prove2.me/theorems/8b25e5b6-15db-43d5-8ca9-0039e64e6588

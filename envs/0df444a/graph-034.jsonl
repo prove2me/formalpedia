@@ -532,9 +532,9 @@
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0511", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_096", "child": "RealPinwheel_FiveSixths_CertificateP9", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_096", "child": "RealPinwheel_FiveSixths_Witness", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.stableVariation_lowIndexLaplaceAndMonotone", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.stableVariation_lowIndexLaplaceAndMonotone", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.stableVariation_lowIndexLaplaceAndMonotone", "child": "Kyprianou_Ch03_TemperedStableMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.stableVariation_lowIndexLaplaceAndMonotone", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.stableVariation_lowIndexLaplaceAndMonotone", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.stableVariation_lowIndexLaplaceAndMonotone", "child": "Kyprianou_Ch03_TemperedStableMeasure", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0574", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0574", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.FinitePairUnion.ordered_pair_union_bound", "child": "DeletionCode_FinitePairUnion", "via": ["solution", "statement"]}

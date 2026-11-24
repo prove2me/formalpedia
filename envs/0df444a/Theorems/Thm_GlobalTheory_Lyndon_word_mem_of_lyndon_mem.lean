@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lyndon_word_mem_of_lyndon_mem
 -- name    : GlobalTheory.Lyndon.word_mem_of_lyndon_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:19:59.085793+00:00
 -- url     : https://prove2.me/theorems/f44deb0a-06f0-436f-a109-668bc34ebd46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusConst_exists_elim
 -- name    : GlobalTheory.TorusConst.exists_elim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:09:12.28769+00:00
 -- url     : https://prove2.me/theorems/cca25a71-0f99-4f3d-b9ed-0400343f209d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallExtLift_isUnit_of_gr
 -- name    : GlobalTheory.SmallExtLift.isUnit_of_gr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:14:58.862896+00:00
 -- url     : https://prove2.me/theorems/eae8fb07-cf81-4c68-ad73-bf9f9fdbc2b7

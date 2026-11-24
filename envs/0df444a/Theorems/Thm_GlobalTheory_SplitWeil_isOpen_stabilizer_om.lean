@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_isOpen_stabilizer_om
 -- name    : GlobalTheory.SplitWeil.isOpen_stabilizer_om
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:04:51.084956+00:00
 -- url     : https://prove2.me/theorems/da762394-0b53-4a87-9f66-0cf0011e5ead

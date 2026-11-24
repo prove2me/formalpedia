@@ -46624,7 +46624,7 @@
 {"parent": "MaxCompForest_Supplement_encCoresetIn", "child": "OnlineCRS_Combine_Sym", "via": ["statement"]}
 {"parent": "MaxCompForest_Supplement_encCoresetIn", "child": "MaxCompForest_encWords", "via": ["statement"]}
 {"parent": "LeeCutCertificates_Certificate_Supplement_MeasureSearch", "child": "LeeCutCertificates_Certificate_Supplement_RootedTrees", "via": ["statement"]}
-{"parent": "DistributionTheoryMission.schwartz_kernel_theorem", "child": "liuyao_ca_fd889115_k1_Distributions_KernelTargets", "via": ["statement"]}
+{"parent": "DistributionTheoryMission.schwartz_kernel_theorem", "child": "liuyao_ca_fd889115_k1_Distributions_KernelTargets", "via": ["solution", "statement"]}
 {"parent": "AutoQMem_Lindblad_Supplement_extLocality", "child": "AutoQMem_Lindblad_Supplement_RegSyndromeLindbladian", "via": ["statement"]}
 {"parent": "AutoQMem_Lindblad_Supplement_extLocality", "child": "AutoQMem_Lindblad_Supplement_IsRLocalChannel", "via": ["statement"]}
 {"parent": "CompDesign.Supplement.theorem_5_9", "child": "FairShares_IsAdditive", "via": ["statement"]}
@@ -48657,7 +48657,7 @@
 {"parent": "PrivPACLower.ICP.Supplement.theorem_11", "child": "PrivPACLower_ICP_Learning", "via": ["statement"]}
 {"parent": "PrivPACLower.ICP.Supplement.theorem_11", "child": "PrivPACLower_ICP_Packing", "via": ["statement"]}
 {"parent": "PrivPACLower.ICP.Supplement.theorem_11", "child": "PrivPACLower_ICP_Supplement_Classes", "via": ["statement"]}
-{"parent": "CatalyticTreeEval.Main.Supplement.theorem_3_4", "child": "CatalyticTreeEval_Main_Supplement_UniformConstructions", "via": ["statement"]}
+{"parent": "CatalyticTreeEval.Main.Supplement.theorem_3_4", "child": "CatalyticTreeEval_Main_Supplement_UniformConstructions", "via": ["solution", "statement"]}
 {"parent": "ParityBarrier563.Trilinear.Supplement.lemma_5_9", "child": "ParityBarrier563_Trilinear_Supplement_InverseTrace", "via": ["statement"]}
 {"parent": "SpectralSharpness.NormalWindow.Supplement.lemma_6_3", "child": "SpectralSharpness_NormalWindow_Supplement_Fourier", "via": ["statement"]}
 {"parent": "GlobalSinkhorn.Supplement.theorem_4_6", "child": "GlobalSinkhorn_Supplement_IsBufferedExpansion", "via": ["statement"]}

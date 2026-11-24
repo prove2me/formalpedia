@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_trace_idempotent_not_divisible
 -- name    : GlobalTheory.T.trace_idempotent_not_divisible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:52.069983+00:00
 -- url     : https://prove2.me/theorems/c4887b2e-b8f1-49c3-8522-a235042f7bdc

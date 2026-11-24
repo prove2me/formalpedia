@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThreeDistinctRoots_three_distinct_roots
 -- name    : GlobalTheory.ThreeDistinctRoots.three_distinct_roots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:07:41.186281+00:00
 -- url     : https://prove2.me/theorems/abcb488d-ab41-412b-9f1f-bfb5af617147

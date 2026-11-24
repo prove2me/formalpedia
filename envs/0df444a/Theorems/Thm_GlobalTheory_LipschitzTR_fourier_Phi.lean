@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_fourier_Phi
 -- name    : GlobalTheory.LipschitzTR.fourier_Phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:12:50.256192+00:00
 -- url     : https://prove2.me/theorems/8a52b614-5886-4a00-94c4-33cb89e1ce3c

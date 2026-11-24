@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GaussFou_gauss_fourier
 -- name    : GlobalTheory.CompanionTheory.SW.GaussFou.gauss_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:37.85998+00:00
 -- url     : https://prove2.me/theorems/f5916b21-5032-40f6-9bc7-a12347b50fd2

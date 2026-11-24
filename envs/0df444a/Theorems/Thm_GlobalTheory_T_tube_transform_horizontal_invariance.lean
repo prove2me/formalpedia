@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tube_transform_horizontal_invariance
 -- name    : GlobalTheory.T.tube_transform_horizontal_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:59:45.925311+00:00
 -- url     : https://prove2.me/theorems/92a33e17-7689-4fbd-b657-2cd1d78d6908

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_hasCMByScale_of
 -- name    : Formalism.L2.Th1.F.hasCMByScale_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:19:24.015181+00:00
 -- url     : https://prove2.me/theorems/b4cd46ae-f994-4531-ade7-0104c4af4b9a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_nb_count
 -- name    : GlobalTheory.SW.Nbr.nb_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:56:14.488987+00:00
 -- url     : https://prove2.me/theorems/9dd73f44-4dfb-4157-a022-c14c9de60c5f

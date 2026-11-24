@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFormCompare_exists_gen_of_eq
 -- name    : GlobalTheory.TorsionFormCompare.exists_gen_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:10:15.780035+00:00
 -- url     : https://prove2.me/theorems/fb4e39d2-7a0b-49c8-9d42-bf33b75ffcf8

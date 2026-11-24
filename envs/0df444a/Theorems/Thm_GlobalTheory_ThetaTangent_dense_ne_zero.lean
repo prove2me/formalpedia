@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaTangent_dense_ne_zero
 -- name    : GlobalTheory.ThetaTangent.dense_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:54.055954+00:00
 -- url     : https://prove2.me/theorems/1147db81-24f5-4517-9ac3-d859a4a42914

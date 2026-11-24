@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaAmple_top_le_preimage_wchart
 -- name    : GlobalTheory.ThetaAmple.top_le_preimage_wchart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:04:42.956815+00:00
 -- url     : https://prove2.me/theorems/b2488249-32c6-4e00-84a0-d9e31a644b4d

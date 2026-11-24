@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorSiegel_re_realForm
 -- name    : GlobalTheory.TensorSiegel.re_realForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:03:53.719553+00:00
 -- url     : https://prove2.me/theorems/b46337f6-459e-4dd0-8e30-b370775f7403

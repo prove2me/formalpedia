@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusConst_val_twist
 -- name    : GlobalTheory.TorusConst.val_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:10:29.958121+00:00
 -- url     : https://prove2.me/theorems/ee1b6683-1e25-4acf-afc1-ab5b42338749

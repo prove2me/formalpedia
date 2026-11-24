@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaModelGroup_IsLevel_sq
 -- name    : GlobalTheory.ThetaModelGroup.IsLevel.sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:06:36.000649+00:00
 -- url     : https://prove2.me/theorems/7296bff0-aaf5-467b-9ac9-1f79724f3327

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_flipPath_split
 -- name    : GlobalTheory.SplitFlip.flipPath_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:20:23.484206+00:00
 -- url     : https://prove2.me/theorems/73421762-a77d-4eb8-85f6-7ed0a103c0c0

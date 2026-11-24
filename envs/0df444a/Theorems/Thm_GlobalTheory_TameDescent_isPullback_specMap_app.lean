@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameDescent_isPullback_specMap_app
 -- name    : GlobalTheory.TameDescent.isPullback_specMap_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:03:43.702357+00:00
 -- url     : https://prove2.me/theorems/d0626d69-9272-4ae5-8c14-3e2003b3b08b

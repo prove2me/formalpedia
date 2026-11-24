@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusNil_isNilpotent_of_mem_map
 -- name    : GlobalTheory.TorusNil.isNilpotent_of_mem_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:10:12.093271+00:00
 -- url     : https://prove2.me/theorems/73c91ff2-fc5c-4805-bed6-0c3877f83c5d

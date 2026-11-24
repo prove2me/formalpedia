@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_Dens_exists_eq_algebraMap_of_aeval_eq_zero
 -- name    : GlobalTheory.ThK.Dbl.Dens.exists_eq_algebraMap_of_aeval_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:03:43.499744+00:00
 -- url     : https://prove2.me/theorems/0cd65a8c-e30a-450d-98d3-bafb3aa12cec

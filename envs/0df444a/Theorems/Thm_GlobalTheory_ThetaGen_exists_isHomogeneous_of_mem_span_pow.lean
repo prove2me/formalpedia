@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGen_exists_isHomogeneous_of_mem_span_pow
 -- name    : GlobalTheory.ThetaGen.exists_isHomogeneous_of_mem_span_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:06:14.272798+00:00
 -- url     : https://prove2.me/theorems/59b2f9a6-ee61-49ed-b75e-cec972db962b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Iota_mk_padic_le
 -- name    : Formalism.L2.Th1.F.Iota.mk_padic_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:15:14.681675+00:00
 -- url     : https://prove2.me/theorems/ba125995-e805-4a2d-8642-8d6de3b18340

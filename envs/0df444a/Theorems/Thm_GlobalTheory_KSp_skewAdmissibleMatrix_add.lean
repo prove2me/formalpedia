@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_skewAdmissibleMatrix_add
 -- name    : GlobalTheory.KSp.skewAdmissibleMatrix_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:22:23.439993+00:00
 -- url     : https://prove2.me/theorems/4e6bebfd-42c5-425a-b61a-15c08a12c243

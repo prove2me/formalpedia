@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_modelMapGenericallyOpenImmersion_calculus
 -- name    : GlobalTheory.T.modelMapGenericallyOpenImmersion_calculus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:55:13.596848+00:00
 -- url     : https://prove2.me/theorems/451c0949-27b3-4d27-99a4-0f9329000198

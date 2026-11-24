@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_exists_lower
 -- name    : GlobalTheory.SS.Ord.exists_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:18:33.911747+00:00
 -- url     : https://prove2.me/theorems/36b8e0c9-552b-49c9-a80f-d996e9901d6a

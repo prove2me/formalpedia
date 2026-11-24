@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthMapLogDet_signedLength_map_eq_log_ordFrac_det
 -- name    : GlobalTheory.SignedLengthMapLogDet.signedLength_map_eq_log_ordFrac_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:10.502354+00:00
 -- url     : https://prove2.me/theorems/5b863eff-6220-4704-a075-fb009d115d61

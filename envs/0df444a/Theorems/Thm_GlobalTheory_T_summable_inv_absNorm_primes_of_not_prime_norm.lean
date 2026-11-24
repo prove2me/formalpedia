@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_summable_inv_absNorm_primes_of_not_prime_norm
 -- name    : GlobalTheory.T.summable_inv_absNorm_primes_of_not_prime_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:00:07.525106+00:00
 -- url     : https://prove2.me/theorems/dc61eae1-b75e-4f2e-a429-ae23f751323f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpecField_exists_isField
 -- name    : GlobalTheory.SpecField.exists_isField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:21:07.375072+00:00
 -- url     : https://prove2.me/theorems/0da904ca-7d48-41c5-a442-13489acd638a

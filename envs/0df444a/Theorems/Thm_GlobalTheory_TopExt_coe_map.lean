@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopExt_coe_map
 -- name    : GlobalTheory.TopExt.coe_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:07:46.215984+00:00
 -- url     : https://prove2.me/theorems/282f8744-b305-41b5-bc93-bb241eeafe7b

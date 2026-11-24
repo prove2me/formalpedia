@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCoord_scalar_eq
 -- name    : GlobalTheory.ThetaCoord.scalar_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:05:28.205557+00:00
 -- url     : https://prove2.me/theorems/e9cba1b1-cb7c-48ee-a67f-8edda3679758

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusNil_spm_injective
 -- name    : GlobalTheory.TorusNil.spm_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:10:39.341299+00:00
 -- url     : https://prove2.me/theorems/41c16eae-640c-4c05-adb9-b34aa9d1886d

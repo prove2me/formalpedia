@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateSeq_exists_basis_adapted_lattice_subspace
 -- name    : GlobalTheory.TateSeq.exists_basis_adapted_lattice_subspace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:02:45.991896+00:00
 -- url     : https://prove2.me/theorems/01e8f464-6198-4c2e-ad47-76e52f5dddb9

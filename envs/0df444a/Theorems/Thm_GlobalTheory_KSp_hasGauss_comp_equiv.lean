@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_hasGauss_comp_equiv
 -- name    : GlobalTheory.KSp.hasGauss_comp_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:22:52.0172+00:00
 -- url     : https://prove2.me/theorems/cdf17e8f-c870-4964-8325-efb614bb2e64

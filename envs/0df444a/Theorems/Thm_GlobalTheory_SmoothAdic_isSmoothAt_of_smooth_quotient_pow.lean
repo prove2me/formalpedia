@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothAdic_isSmoothAt_of_smooth_quotient_pow
 -- name    : GlobalTheory.SmoothAdic.isSmoothAt_of_smooth_quotient_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:29:23.73418+00:00
 -- url     : https://prove2.me/theorems/cdc239bd-345f-4de0-b261-5085fc409fd5

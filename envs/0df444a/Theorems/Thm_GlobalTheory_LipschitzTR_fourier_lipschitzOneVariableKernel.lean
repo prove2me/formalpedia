@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_fourier_lipschitzOneVariableKernel
 -- name    : GlobalTheory.LipschitzTR.fourier_lipschitzOneVariableKernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:13:33.637039+00:00
 -- url     : https://prove2.me/theorems/26f230ae-7f6b-422f-abf1-a089f09dfddf

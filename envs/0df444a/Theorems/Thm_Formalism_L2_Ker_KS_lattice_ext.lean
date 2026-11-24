@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Ker_KS_lattice_ext
 -- name    : Formalism.L2.Ker.KS.lattice_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:24:16.023409+00:00
 -- url     : https://prove2.me/theorems/ba9fa9e7-9140-48bd-9172-57ad209160ca

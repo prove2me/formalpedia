@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaBundleSym_exists_int_two_mul
 -- name    : GlobalTheory.ThetaBundleSym.exists_int_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:04:43.748654+00:00
 -- url     : https://prove2.me/theorems/d2292e76-9a92-4179-8b83-635dd27e28e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TwistMove_exists_frame
 -- name    : GlobalTheory.SW.TwistMove.exists_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:44:14.897115+00:00
 -- url     : https://prove2.me/theorems/63608676-2fec-4cd8-ab2c-4f93a93865a8

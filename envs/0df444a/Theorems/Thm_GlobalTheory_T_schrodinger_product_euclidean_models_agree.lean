@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schrodinger_product_euclidean_models_agree
 -- name    : GlobalTheory.T.schrodinger_product_euclidean_models_agree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:56:49.279002+00:00
 -- url     : https://prove2.me/theorems/0f0e8b7f-f6f2-45fd-92d0-bad5da495c8d

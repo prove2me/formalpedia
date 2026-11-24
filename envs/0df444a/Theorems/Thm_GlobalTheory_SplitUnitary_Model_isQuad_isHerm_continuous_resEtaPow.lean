@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitUnitary_Model_isQuad_isHerm_continuous_resEtaPow
 -- name    : GlobalTheory.SplitUnitary.Model.isQuad_isHerm_continuous_resEtaPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:13:10.621797+00:00
 -- url     : https://prove2.me/theorems/6226089e-137b-49de-bd6c-ced79db1ba9c

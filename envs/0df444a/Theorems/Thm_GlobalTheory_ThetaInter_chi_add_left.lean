@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaInter_chi_add_left
 -- name    : GlobalTheory.ThetaInter.chi_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:06:34.55364+00:00
 -- url     : https://prove2.me/theorems/638e3b95-dbc4-48b9-a5a3-543c690c93c4

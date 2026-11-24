@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_IsFnT_differentiable
 -- name    : GlobalTheory.ThetaFn.IsFnT.differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:05:03.970233+00:00
 -- url     : https://prove2.me/theorems/b20ebf0d-4f8f-44c3-8cf5-6896028bc1ee

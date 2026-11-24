@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerFourSqW_sum_mul_cast
 -- name    : PI.KerFourSqW.sum_mul_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:21:58.295365+00:00
 -- url     : https://prove2.me/theorems/a6779e0b-6553-495b-b2b0-957d37ff1c90

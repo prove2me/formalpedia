@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_LogLine_fderiv_symm_of_fderiv_eq
 -- name    : GlobalTheory.Published.LogLine.fderiv_symm_of_fderiv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:56:48.301569+00:00
 -- url     : https://prove2.me/theorems/5dddfeff-21cf-4ae0-a5f5-abdfebeff1f8

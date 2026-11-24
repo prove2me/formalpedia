@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCoord_parseval
 -- name    : GlobalTheory.TorusCoord.parseval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:10:20.14783+00:00
 -- url     : https://prove2.me/theorems/8097142c-db47-486c-b16b-a7b81d3186a2

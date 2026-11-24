@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_summable_exp_neg_trace
 -- name    : GlobalTheory.SW.summable_exp_neg_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:47:30.715284+00:00
 -- url     : https://prove2.me/theorems/f0f942f0-d707-4911-a00f-bb11d4b7f96c

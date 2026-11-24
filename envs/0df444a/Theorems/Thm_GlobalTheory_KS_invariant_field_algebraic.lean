@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_invariant_field_algebraic
 -- name    : GlobalTheory.KS.invariant_field_algebraic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:40.30882+00:00
 -- url     : https://prove2.me/theorems/72ac1f9b-dff4-47b6-a166-97c97eaa8f0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_Model_not_isGen_O1
 -- name    : GlobalTheory.ProjSpace.Model.not_isGen_O1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:58:49.606824+00:00
 -- url     : https://prove2.me/theorems/d8a6ed2e-fe7d-4aea-be47-e79557c257e7

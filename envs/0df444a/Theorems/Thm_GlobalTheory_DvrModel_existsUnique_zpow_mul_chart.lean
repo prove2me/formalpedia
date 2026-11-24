@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DvrModel_existsUnique_zpow_mul_chart
 -- name    : GlobalTheory.DvrModel.existsUnique_zpow_mul_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:59:01.924096+00:00
 -- url     : https://prove2.me/theorems/1037191a-6af2-4382-8f8d-b59d34bbc0e3

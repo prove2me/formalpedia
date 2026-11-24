@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToSplit_prod_square_eq_one
 -- name    : GlobalTheory.ToSplit.prod_square_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:09:03.503377+00:00
 -- url     : https://prove2.me/theorems/1ae8c524-b678-477d-9ed2-2c835566c148

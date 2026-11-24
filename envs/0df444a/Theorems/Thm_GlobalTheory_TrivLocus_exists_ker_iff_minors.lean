@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TrivLocus_exists_ker_iff_minors
 -- name    : GlobalTheory.TrivLocus.exists_ker_iff_minors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:13:15.616178+00:00
 -- url     : https://prove2.me/theorems/ce2dec33-aedf-4dd4-8a41-2b5957dce4b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymmTensor_mem_adjoin_polar
 -- name    : GlobalTheory.SymmTensor.mem_adjoin_polar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:24:56.941292+00:00
 -- url     : https://prove2.me/theorems/2d13c43b-55bb-4569-b754-0c68ebfa8050

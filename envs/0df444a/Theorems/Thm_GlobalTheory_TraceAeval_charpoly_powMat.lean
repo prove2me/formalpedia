@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceAeval_charpoly_powMat
 -- name    : GlobalTheory.TraceAeval.charpoly_powMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:11:11.98481+00:00
 -- url     : https://prove2.me/theorems/ca16b76e-0b1f-4895-915d-941becfef0d5

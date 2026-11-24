@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullLevel_Uniq_ev_pow_eq
 -- name    : GlobalTheory.FullLevel.Uniq.ev_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:34:17.362792+00:00
 -- url     : https://prove2.me/theorems/6cf3fac7-85a1-4f53-8dc4-6bf6cc732a1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbertRecip_exists_over
 -- name    : GlobalTheory.HilbertRecip.exists_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:17:10.007208+00:00
 -- url     : https://prove2.me/theorems/ac032923-f86a-412b-afd2-1d0f8fe33d7f

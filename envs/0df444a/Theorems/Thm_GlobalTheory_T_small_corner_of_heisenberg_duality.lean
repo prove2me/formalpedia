@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_small_corner_of_heisenberg_duality
 -- name    : GlobalTheory.T.small_corner_of_heisenberg_duality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:58:25.405185+00:00
 -- url     : https://prove2.me/theorems/f72ab377-505e-4199-979f-147b67e35f4a

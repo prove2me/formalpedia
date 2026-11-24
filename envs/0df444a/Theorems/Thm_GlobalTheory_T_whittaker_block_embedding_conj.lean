@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_whittaker_block_embedding_conj
 -- name    : GlobalTheory.T.whittaker_block_embedding_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:01:04.34809+00:00
 -- url     : https://prove2.me/theorems/720cc574-3a78-4968-a608-ca4f2b6260d1

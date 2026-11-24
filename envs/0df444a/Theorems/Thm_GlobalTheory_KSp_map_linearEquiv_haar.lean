@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_map_linearEquiv_haar
 -- name    : GlobalTheory.KSp.map_linearEquiv_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:23:04.966606+00:00
 -- url     : https://prove2.me/theorems/29d55244-1fa2-446e-b4d6-0cb6d108bb19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TransferCommutator_exists_smul_eq_zero_of_crossed
 -- name    : GlobalTheory.TransferCommutator.exists_smul_eq_zero_of_crossed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:12:19.8274+00:00
 -- url     : https://prove2.me/theorems/bf5e6611-72ce-4e03-9885-e5303bbfa743

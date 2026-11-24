@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SerreTorsion_eq_zero_of_prime
 -- name    : GlobalTheory.SerreTorsion.eq_zero_of_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:54:40.287039+00:00
 -- url     : https://prove2.me/theorems/05210525-e55f-4e97-864e-3420a5b0851f

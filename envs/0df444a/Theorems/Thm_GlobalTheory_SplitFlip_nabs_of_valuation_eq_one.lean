@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_nabs_of_valuation_eq_one
 -- name    : GlobalTheory.SplitFlip.nabs_of_valuation_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:47.881586+00:00
 -- url     : https://prove2.me/theorems/aab538e1-d3d2-466c-99b1-5bfc0012354a

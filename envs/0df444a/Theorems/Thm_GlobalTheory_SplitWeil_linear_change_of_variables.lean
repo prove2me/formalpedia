@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_linear_change_of_variables
 -- name    : GlobalTheory.SplitWeil.linear_change_of_variables
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:48:46.919801+00:00
 -- url     : https://prove2.me/theorems/81478206-a99f-4f68-81d2-ecd8e7265327

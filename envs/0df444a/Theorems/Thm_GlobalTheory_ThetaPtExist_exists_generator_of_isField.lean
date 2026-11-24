@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtExist_exists_generator_of_isField
 -- name    : GlobalTheory.ThetaPtExist.exists_generator_of_isField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:06:57.186312+00:00
 -- url     : https://prove2.me/theorems/f851c633-7860-4a04-af32-237be2f38658

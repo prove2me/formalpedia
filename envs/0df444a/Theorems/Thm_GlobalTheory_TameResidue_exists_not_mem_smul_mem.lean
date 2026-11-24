@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameResidue_exists_not_mem_smul_mem
 -- name    : GlobalTheory.TameResidue.exists_not_mem_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:02:24.806666+00:00
 -- url     : https://prove2.me/theorems/d01e2dcc-1ad5-42a5-b417-f8958a82a03b

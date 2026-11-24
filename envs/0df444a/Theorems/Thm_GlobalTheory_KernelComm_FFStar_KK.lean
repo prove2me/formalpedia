@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KernelComm_FFStar_KK
 -- name    : GlobalTheory.KernelComm.FFStar_KK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:13:08.855106+00:00
 -- url     : https://prove2.me/theorems/c72d08eb-0a1d-4763-aade-77b0be66d599

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_InvField_main
 -- name    : GlobalTheory.KS.InvField.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:34:16.910251+00:00
 -- url     : https://prove2.me/theorems/acdcbc08-62de-4aaf-8f60-e260c078a106

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopForm_extProj_coe
 -- name    : GlobalTheory.TopForm.extProj_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:09:33.838575+00:00
 -- url     : https://prove2.me/theorems/0679974f-6b4a-4860-a251-305b97727ca2

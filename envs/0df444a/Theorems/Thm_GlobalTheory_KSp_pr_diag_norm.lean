@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_pr_diag_norm
 -- name    : GlobalTheory.KSp.pr_diag_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:23:00.446497+00:00
 -- url     : https://prove2.me/theorems/34c2c201-a377-4bf8-9533-03b0924eb709

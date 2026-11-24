@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rightDerivativeAlongLie_commutator_eq_bracket
 -- name    : GlobalTheory.T.rightDerivativeAlongLie_commutator_eq_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:56:34.888008+00:00
 -- url     : https://prove2.me/theorems/79723fc5-66f6-4095-ba9f-12efb0e2e0e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Scale_rescale_inv
 -- name    : Formalism.L2.Th1.F.Scale.rescale_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:20:45.334545+00:00
 -- url     : https://prove2.me/theorems/ba4505f9-e81c-45bb-9ca3-9e8dd6a9f8e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_setIntegral_pair_char
 -- name    : GlobalTheory.KSp.setIntegral_pair_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:20:54.127798+00:00
 -- url     : https://prove2.me/theorems/4fd032e7-98b8-446c-a115-b0024a6f769d

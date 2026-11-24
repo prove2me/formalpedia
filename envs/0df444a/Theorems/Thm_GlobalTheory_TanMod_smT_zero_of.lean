@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TanMod_smT_zero_of
 -- name    : GlobalTheory.TanMod.smT_zero_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:01:42.482788+00:00
 -- url     : https://prove2.me/theorems/85dca21d-0a97-477c-8110-e216826976bf

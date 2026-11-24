@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Cor_cc_Dinv
 -- name    : Formalism.L2.Th1.B.Cor.cc_Dinv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:27:16.295801+00:00
 -- url     : https://prove2.me/theorems/aaabbad9-1147-48a0-a122-05be4fd994af

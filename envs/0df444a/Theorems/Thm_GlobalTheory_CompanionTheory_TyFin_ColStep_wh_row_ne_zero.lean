@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_ColStep_wh_row_ne_zero
 -- name    : GlobalTheory.CompanionTheory.TyFin.ColStep.wh_row_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:18:02.687936+00:00
 -- url     : https://prove2.me/theorems/ff12176a-127b-40ff-8270-5545717c0c99

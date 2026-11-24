@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_Dens_exists_smul_of_rank_le_aleph0
 -- name    : GlobalTheory.ThK.Dbl.Dens.exists_smul_of_rank_le_aleph0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:03:36.888901+00:00
 -- url     : https://prove2.me/theorems/62490291-ed84-4eaf-a96b-06b1a6171f5b

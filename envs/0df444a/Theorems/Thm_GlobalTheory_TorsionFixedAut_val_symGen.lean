@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFixedAut_val_symGen
 -- name    : GlobalTheory.TorsionFixedAut.val_symGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:09:30.39329+00:00
 -- url     : https://prove2.me/theorems/bd10fb95-e1aa-4ba3-bb13-d05bcd38ac15

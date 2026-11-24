@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Scale_cW_map
 -- name    : Formalism.L2.Th1.F.Scale.cW_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:19:59.140977+00:00
 -- url     : https://prove2.me/theorems/0d9df40c-0b87-48b7-8af2-6017efba2b81

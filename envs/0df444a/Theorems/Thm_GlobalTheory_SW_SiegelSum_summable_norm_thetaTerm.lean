@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_SiegelSum_summable_norm_thetaTerm
 -- name    : GlobalTheory.SW.SiegelSum.summable_norm_thetaTerm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:35:57.197294+00:00
 -- url     : https://prove2.me/theorems/66e77c14-b562-41d3-904a-edda7d4a03f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_mem_box_of_forall_dot
 -- name    : GlobalTheory.KSp.mem_box_of_forall_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:20:36.600843+00:00
 -- url     : https://prove2.me/theorems/3c0dec45-12b4-43ef-ad3f-fb8d1008da14

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittField_stepA
 -- name    : GlobalTheory.SgAlg.WittField.stepA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:54:13.595004+00:00
 -- url     : https://prove2.me/theorems/acdcd371-8a62-4353-8a3a-38de999b017c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TriangularityLowCoeff_degree_expOf
 -- name    : GlobalTheory.TriangularityLowCoeff.degree_expOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:12:01.091712+00:00
 -- url     : https://prove2.me/theorems/21fca7a8-bb37-4501-b678-1f1b2937a35e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_count_int
 -- name    : GlobalTheory.SW.HeckeId.count_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:41:43.858751+00:00
 -- url     : https://prove2.me/theorems/6e73c10f-80c9-4222-befc-c63ce4f19579

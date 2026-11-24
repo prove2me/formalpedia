@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_scaling_measure_product_archimedean
 -- name    : GlobalTheory.T.scaling_measure_product_archimedean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:56:26.010859+00:00
 -- url     : https://prove2.me/theorems/b1073c1f-442e-4523-a6ca-d7c9feb01d38

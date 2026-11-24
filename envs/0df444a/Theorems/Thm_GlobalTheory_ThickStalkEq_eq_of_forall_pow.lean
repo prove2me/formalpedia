@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickStalkEq_eq_of_forall_pow
 -- name    : GlobalTheory.ThickStalkEq.eq_of_forall_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:07:32.002487+00:00
 -- url     : https://prove2.me/theorems/391aa302-daf4-4621-ad9a-53317cb3362e

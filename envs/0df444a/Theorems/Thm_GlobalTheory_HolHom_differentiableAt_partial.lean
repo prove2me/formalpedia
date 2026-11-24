@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_differentiableAt_partial
 -- name    : GlobalTheory.HolHom.differentiableAt_partial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:36:25.900316+00:00
 -- url     : https://prove2.me/theorems/42ba59c0-d77f-498f-a81f-34d65ae71c65

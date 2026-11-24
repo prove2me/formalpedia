@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rootExchange_heisenbergVariable_sign
 -- name    : GlobalTheory.T.rootExchange_heisenbergVariable_sign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:57:15.378878+00:00
 -- url     : https://prove2.me/theorems/2e4bc0ec-36dd-41cd-8592-6abc4068cbff

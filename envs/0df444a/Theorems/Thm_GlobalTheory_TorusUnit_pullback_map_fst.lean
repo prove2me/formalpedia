@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusUnit_pullback_map_fst
 -- name    : GlobalTheory.TorusUnit.pullback_map_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:11:42.678746+00:00
 -- url     : https://prove2.me/theorems/f7eb8fcb-d7c1-44b1-a6b7-4549a72c2143

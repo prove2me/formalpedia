@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_exists_entire_twist
 -- name    : GlobalTheory.ThetaFn.exists_entire_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:04:59.658301+00:00
 -- url     : https://prove2.me/theorems/cdd0cd15-37aa-4b8f-b1b6-c49651b7bb95

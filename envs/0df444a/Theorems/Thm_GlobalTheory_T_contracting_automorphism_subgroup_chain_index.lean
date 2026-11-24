@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_contracting_automorphism_subgroup_chain_index
 -- name    : GlobalTheory.T.contracting_automorphism_subgroup_chain_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:33:13.377738+00:00
 -- url     : https://prove2.me/theorems/da42a521-b3ca-4483-aad0-57e1fe544204

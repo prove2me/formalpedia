@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGen_le_pow_of_succ_le_mul
 -- name    : GlobalTheory.ThetaGen.le_pow_of_succ_le_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:05:55.576882+00:00
 -- url     : https://prove2.me/theorems/905979f7-0569-4c54-817a-2fee26548f8f

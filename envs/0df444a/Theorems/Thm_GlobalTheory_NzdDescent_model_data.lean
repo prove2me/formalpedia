@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NzdDescent_model_data
 -- name    : GlobalTheory.NzdDescent.model_data
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:38:18.693726+00:00
 -- url     : https://prove2.me/theorems/33b453c3-413f-487c-adfe-d93cb66e64e3

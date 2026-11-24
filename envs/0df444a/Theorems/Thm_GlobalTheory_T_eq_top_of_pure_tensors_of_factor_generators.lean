@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_top_of_pure_tensors_of_factor_generators
 -- name    : GlobalTheory.T.eq_top_of_pure_tensors_of_factor_generators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:32:37.546517+00:00
 -- url     : https://prove2.me/theorems/c1f8ba93-c089-4f8b-bab9-3d183180c7b7

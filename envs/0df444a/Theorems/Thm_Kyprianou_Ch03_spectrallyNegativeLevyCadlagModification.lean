@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_spectrallyNegativeLevyCadlagModification
 -- name    : Kyprianou.Ch03.spectrallyNegativeLevyCadlagModification
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:47:59.150269+00:00
 -- url     : https://prove2.me/theorems/063b9d7c-87f6-432a-91c5-8ca8556a76f0

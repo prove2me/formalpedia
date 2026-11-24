@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_LD_kill_tens
 -- name    : GlobalTheory.ThK.Dbl.LD.kill_tens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:03:13.830329+00:00
 -- url     : https://prove2.me/theorems/d27a0478-667e-4c92-b682-da583d389eac

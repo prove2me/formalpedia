@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_Herm_exists_rep
 -- name    : GlobalTheory.ThK.Dbl.Herm.exists_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:03:28.9768+00:00
 -- url     : https://prove2.me/theorems/1f2bd68c-dc9d-4743-813c-5c8a13b11223

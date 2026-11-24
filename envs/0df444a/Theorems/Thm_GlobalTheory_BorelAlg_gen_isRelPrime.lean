@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelAlg_gen_isRelPrime
 -- name    : GlobalTheory.BorelAlg.gen_isRelPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:01:57.779014+00:00
 -- url     : https://prove2.me/theorems/2f8b53a1-65a8-42ba-997e-68305e3136e3

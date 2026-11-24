@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_PiSelfDual_trForm_isSymm
 -- name    : GlobalTheory.JR.PiSelfDual.trForm_isSymm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:01:08.863801+00:00
 -- url     : https://prove2.me/theorems/ba6e963b-2d0c-475a-a838-7295465eff98

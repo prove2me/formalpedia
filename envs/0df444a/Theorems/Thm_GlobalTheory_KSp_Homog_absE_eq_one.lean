@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_Homog_absE_eq_one
 -- name    : GlobalTheory.KSp.Homog.absE_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:22:35.569619+00:00
 -- url     : https://prove2.me/theorems/0d4fba41-e463-46cd-a754-8ba7d9b9b00e

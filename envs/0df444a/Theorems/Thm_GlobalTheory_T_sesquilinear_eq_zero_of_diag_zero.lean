@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sesquilinear_eq_zero_of_diag_zero
 -- name    : GlobalTheory.T.sesquilinear_eq_zero_of_diag_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:57:19.522744+00:00
 -- url     : https://prove2.me/theorems/3a35e158-0639-4674-8b86-59f05925cd8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FinUnion_dense_res
 -- name    : GlobalTheory.SS.FinUnion.dense_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:50:28.851329+00:00
 -- url     : https://prove2.me/theorems/1328122f-b8d6-4263-9ba5-e9393aab013d

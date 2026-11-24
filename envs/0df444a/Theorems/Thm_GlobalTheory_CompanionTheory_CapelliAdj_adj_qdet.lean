@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CapelliAdj_adj_qdet
 -- name    : GlobalTheory.CompanionTheory.CapelliAdj.adj_qdet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:27:22.695833+00:00
 -- url     : https://prove2.me/theorems/a6e3ac23-9109-47bb-ab34-25935c2da51d

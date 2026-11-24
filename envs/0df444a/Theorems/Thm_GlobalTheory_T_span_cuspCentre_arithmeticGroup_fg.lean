@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_span_cuspCentre_arithmeticGroup_fg
 -- name    : GlobalTheory.T.span_cuspCentre_arithmeticGroup_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:53.305671+00:00
 -- url     : https://prove2.me/theorems/c56ed56f-20d9-43ae-87d4-c714ae28c9a8

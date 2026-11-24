@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaLarge_norm_term
 -- name    : GlobalTheory.ThetaLarge.norm_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:06:30.40471+00:00
 -- url     : https://prove2.me/theorems/e936e432-ac8d-493e-9048-46a1225f543b

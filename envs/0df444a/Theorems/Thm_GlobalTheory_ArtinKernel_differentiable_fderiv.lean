@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_differentiable_fderiv
 -- name    : GlobalTheory.ArtinKernel.differentiable_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:06:56.5898+00:00
 -- url     : https://prove2.me/theorems/0fc1854e-1d54-4725-9695-c856a337ac46

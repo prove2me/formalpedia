@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_IndDual_bump_mul
 -- name    : GlobalTheory.SmGL.IndDual.bump_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:24:43.493077+00:00
 -- url     : https://prove2.me/theorems/c8baff2b-1324-422b-9a79-0e3577231a1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_PsiPrimitive_step
 -- name    : GlobalTheory.CuspGL.PsiPrimitive.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:32:03.796927+00:00
 -- url     : https://prove2.me/theorems/659b9565-b139-4864-86c3-e142b6bd709e

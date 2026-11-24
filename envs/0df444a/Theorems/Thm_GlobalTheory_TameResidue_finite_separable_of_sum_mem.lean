@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameResidue_finite_separable_of_sum_mem
 -- name    : GlobalTheory.TameResidue.finite_separable_of_sum_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:02:22.235899+00:00
 -- url     : https://prove2.me/theorems/84abeb0d-262e-4ffd-b730-fd8a3e611d66

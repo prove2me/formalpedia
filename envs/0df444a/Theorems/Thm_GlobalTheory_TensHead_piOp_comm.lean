@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensHead_piOp_comm
 -- name    : GlobalTheory.TensHead.piOp_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:02:32.690803+00:00
 -- url     : https://prove2.me/theorems/fd98c49f-6c2f-48f1-9dc8-bb91b36c76f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sectionsOn_res_map
 -- name    : GlobalTheory.sectionsOn.res_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:27:45.022901+00:00
 -- url     : https://prove2.me/theorems/8ff2ef58-2ffb-477a-94b7-4e074e1df271

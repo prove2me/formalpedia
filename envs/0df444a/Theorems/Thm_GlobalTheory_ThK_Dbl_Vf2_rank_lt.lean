@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_Vf2_rank_lt
 -- name    : GlobalTheory.ThK.Dbl.Vf2.rank_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:03:49.884377+00:00
 -- url     : https://prove2.me/theorems/6b55570e-14f1-4f08-b23f-bc6a9fcd8dd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_span_equality
 -- name    : GlobalTheory.T.span_equality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:39.03229+00:00
 -- url     : https://prove2.me/theorems/95cbbae3-9dc0-4fef-955b-535f42931fb1

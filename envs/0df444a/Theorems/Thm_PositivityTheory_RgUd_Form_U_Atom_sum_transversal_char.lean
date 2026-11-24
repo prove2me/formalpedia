@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Form_U_Atom_sum_transversal_char
 -- name    : PositivityTheory.RgUd.Form.U.Atom.sum_transversal_char
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:01:23.066276+00:00
 -- url     : https://prove2.me/theorems/1fdf4e05-aa8a-45ce-945d-7fd331e7d3d5

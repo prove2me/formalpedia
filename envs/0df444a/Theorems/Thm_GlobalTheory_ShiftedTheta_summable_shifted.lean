@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShiftedTheta_summable_shifted
 -- name    : GlobalTheory.ShiftedTheta.summable_shifted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:11:38.060331+00:00
 -- url     : https://prove2.me/theorems/7165e0a7-0d76-4534-a9bc-e4cbc6ffe074

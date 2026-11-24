@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimMult_exists_norm_mod
 -- name    : GlobalTheory.SimMult.exists_norm_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:13:27.825456+00:00
 -- url     : https://prove2.me/theorems/0230ca68-d250-4741-9442-713ff71eb2c3

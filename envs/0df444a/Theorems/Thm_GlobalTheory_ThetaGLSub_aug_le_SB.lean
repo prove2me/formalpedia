@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGLSub_aug_le_SB
 -- name    : GlobalTheory.ThetaGLSub.aug_le_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:06:09.734333+00:00
 -- url     : https://prove2.me/theorems/8be0f937-1266-4fa0-aac1-0b3c78294e93

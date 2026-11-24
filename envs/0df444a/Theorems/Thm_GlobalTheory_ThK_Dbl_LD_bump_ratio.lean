@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_LD_bump_ratio
 -- name    : GlobalTheory.ThK.Dbl.LD.bump_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:03:19.873879+00:00
 -- url     : https://prove2.me/theorems/bdccfb93-b508-42f3-aa63-6e69f3d04b44

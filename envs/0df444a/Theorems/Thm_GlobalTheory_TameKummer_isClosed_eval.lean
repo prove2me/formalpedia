@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameKummer_isClosed_eval
 -- name    : GlobalTheory.TameKummer.isClosed_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:02:38.18459+00:00
 -- url     : https://prove2.me/theorems/ad524df6-eaa6-48ea-89c0-97f192926f5a

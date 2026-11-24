@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_JacquetFiniteLength_lower
 -- name    : GlobalTheory.SmGL.JacquetFiniteLength.lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:13:38.642603+00:00
 -- url     : https://prove2.me/theorems/b31bbac5-ba26-483c-b195-59db378a1b01

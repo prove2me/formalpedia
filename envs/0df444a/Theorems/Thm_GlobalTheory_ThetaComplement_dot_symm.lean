@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaComplement_dot_symm
 -- name    : GlobalTheory.ThetaComplement.dot_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:04:47.177851+00:00
 -- url     : https://prove2.me/theorems/50d48341-b65a-4a51-934a-db4f4cd851a7

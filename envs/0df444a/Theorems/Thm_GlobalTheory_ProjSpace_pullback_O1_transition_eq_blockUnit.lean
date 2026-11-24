@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_pullback_O1_transition_eq_blockUnit
 -- name    : GlobalTheory.ProjSpace.pullback_O1_transition_eq_blockUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:45:12.741857+00:00
 -- url     : https://prove2.me/theorems/a61a9ff5-adc8-4cdf-90fd-83d5e42a43cf

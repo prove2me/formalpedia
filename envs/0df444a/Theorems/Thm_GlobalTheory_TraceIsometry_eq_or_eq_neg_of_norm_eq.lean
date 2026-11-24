@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceIsometry_eq_or_eq_neg_of_norm_eq
 -- name    : GlobalTheory.TraceIsometry.eq_or_eq_neg_of_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:11:14.062911+00:00
 -- url     : https://prove2.me/theorems/88569d0d-1df8-435e-90e7-853e0919afee

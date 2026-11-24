@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFixedAut_val_thetaPow
 -- name    : GlobalTheory.TorsionFixedAut.val_thetaPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:09:12.474404+00:00
 -- url     : https://prove2.me/theorems/781f6b8d-bb38-4551-ad9f-3ddc0db4ee2b

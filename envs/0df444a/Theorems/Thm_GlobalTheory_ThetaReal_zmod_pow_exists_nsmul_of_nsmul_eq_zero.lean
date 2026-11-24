@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaReal_zmod_pow_exists_nsmul_of_nsmul_eq_zero
 -- name    : GlobalTheory.ThetaReal.zmod_pow_exists_nsmul_of_nsmul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:07:43.633717+00:00
 -- url     : https://prove2.me/theorems/bef98d57-d469-443e-9d97-eff455042659

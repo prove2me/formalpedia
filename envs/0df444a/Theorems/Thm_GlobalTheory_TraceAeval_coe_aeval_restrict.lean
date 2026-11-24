@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceAeval_coe_aeval_restrict
 -- name    : GlobalTheory.TraceAeval.coe_aeval_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:11:06.313261+00:00
 -- url     : https://prove2.me/theorems/bc935021-3b80-4af8-8835-f3f09ff1f3a4

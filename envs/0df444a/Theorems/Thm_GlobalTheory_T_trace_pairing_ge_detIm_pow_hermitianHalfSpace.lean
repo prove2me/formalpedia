@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_trace_pairing_ge_detIm_pow_hermitianHalfSpace
 -- name    : GlobalTheory.T.trace_pairing_ge_detIm_pow_hermitianHalfSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:00:07.23511+00:00
 -- url     : https://prove2.me/theorems/c496f392-390d-4467-8437-967c614e0382

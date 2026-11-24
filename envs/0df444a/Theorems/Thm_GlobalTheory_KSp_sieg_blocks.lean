@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_sieg_blocks
 -- name    : GlobalTheory.KSp.sieg_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:22:11.117952+00:00
 -- url     : https://prove2.me/theorems/897fd778-ed90-4a75-a144-e0697616e33c

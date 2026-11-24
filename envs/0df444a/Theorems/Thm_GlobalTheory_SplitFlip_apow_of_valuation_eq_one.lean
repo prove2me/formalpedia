@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_apow_of_valuation_eq_one
 -- name    : GlobalTheory.SplitFlip.apow_of_valuation_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:14:08.612396+00:00
 -- url     : https://prove2.me/theorems/63209d4c-a88d-4e50-8aa8-dca0e8addaab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecondPartialLaw_pt_law
 -- name    : GlobalTheory.SecondPartialLaw.pt_law
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:25:34.585815+00:00
 -- url     : https://prove2.me/theorems/65699902-fe69-462f-a7b4-1e146bd5eba5

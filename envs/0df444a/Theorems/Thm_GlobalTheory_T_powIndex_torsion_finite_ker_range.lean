@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_powIndex_torsion_finite_ker_range
 -- name    : GlobalTheory.T.powIndex_torsion_finite_ker_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:55:44.549532+00:00
 -- url     : https://prove2.me/theorems/bfd3e388-5594-4d02-b2bb-6ce57a2fc060

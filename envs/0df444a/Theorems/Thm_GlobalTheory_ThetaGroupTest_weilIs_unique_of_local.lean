@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGroupTest_weilIs_unique_of_local
 -- name    : GlobalTheory.ThetaGroupTest.weilIs_unique_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:06:43.325059+00:00
 -- url     : https://prove2.me/theorems/0cb962e1-750d-42b6-a7a4-e13fed9caac4

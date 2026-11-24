@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GelfandKazhdan_invariant_of_anti
 -- name    : GlobalTheory.GelfandKazhdan.invariant_of_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:54:42.961792+00:00
 -- url     : https://prove2.me/theorems/423649b7-841f-411b-96f3-40b28373bcfd

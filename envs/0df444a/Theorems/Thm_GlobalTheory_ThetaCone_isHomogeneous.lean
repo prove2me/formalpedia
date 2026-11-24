@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCone_isHomogeneous
 -- name    : GlobalTheory.ThetaCone.isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:05:34.70054+00:00
 -- url     : https://prove2.me/theorems/caad6194-8e07-4c6f-844e-1873435f60d1

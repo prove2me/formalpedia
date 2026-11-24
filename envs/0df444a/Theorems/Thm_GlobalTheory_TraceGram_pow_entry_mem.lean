@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceGram_pow_entry_mem
 -- name    : GlobalTheory.TraceGram.pow_entry_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:10:55.755141+00:00
 -- url     : https://prove2.me/theorems/c0ff236b-f82b-49f3-af38-e58efb19b223

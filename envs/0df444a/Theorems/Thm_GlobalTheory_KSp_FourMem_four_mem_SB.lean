@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_FourMem_four_mem_SB
 -- name    : GlobalTheory.KSp.FourMem.four_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:22:29.442962+00:00
 -- url     : https://prove2.me/theorems/5b92e528-3daf-4cff-9d7c-67218e4b274d

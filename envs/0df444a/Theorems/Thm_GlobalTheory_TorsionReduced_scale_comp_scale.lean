@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionReduced_scale_comp_scale
 -- name    : GlobalTheory.TorsionReduced.scale_comp_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:09:52.805125+00:00
 -- url     : https://prove2.me/theorems/6e87ac53-8b2b-4b12-bae1-ad9d6a7bc285

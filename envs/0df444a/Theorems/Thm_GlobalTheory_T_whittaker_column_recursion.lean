@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_whittaker_column_recursion
 -- name    : GlobalTheory.T.whittaker_column_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:01:16.171274+00:00
 -- url     : https://prove2.me/theorems/5c00f816-b75e-478b-bedb-afa6f8708344

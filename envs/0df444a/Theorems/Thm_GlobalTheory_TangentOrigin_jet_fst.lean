@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentOrigin_jet_fst
 -- name    : GlobalTheory.TangentOrigin.jet_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:02:11.716009+00:00
 -- url     : https://prove2.me/theorems/0e2ad345-95b3-4183-8ba8-5552e9519d09

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_long_weyl_element_commutation
 -- name    : Formalism.FourierDecayAlt.P.long_weyl_element_commutation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:41:10.324728+00:00
 -- url     : https://prove2.me/theorems/361c8755-0c13-4f72-a643-a33a20ffd730

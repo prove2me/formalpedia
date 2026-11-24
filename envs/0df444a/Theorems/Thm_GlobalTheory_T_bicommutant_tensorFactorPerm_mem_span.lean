@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_bicommutant_tensorFactorPerm_mem_span
 -- name    : GlobalTheory.T.bicommutant_tensorFactorPerm_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:30.240812+00:00
 -- url     : https://prove2.me/theorems/b7b8a092-41d1-4436-8a37-22a1a487a3b5

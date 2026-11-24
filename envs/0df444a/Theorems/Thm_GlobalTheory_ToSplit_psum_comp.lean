@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToSplit_psum_comp
 -- name    : GlobalTheory.ToSplit.psum_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:08:10.169825+00:00
 -- url     : https://prove2.me/theorems/055cf96d-bed3-4a59-80ec-a4f0db4d1ca7

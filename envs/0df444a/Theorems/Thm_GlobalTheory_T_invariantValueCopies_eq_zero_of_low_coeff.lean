@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invariantValueCopies_eq_zero_of_low_coeff
 -- name    : GlobalTheory.T.invariantValueCopies_eq_zero_of_low_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:52:51.824357+00:00
 -- url     : https://prove2.me/theorems/c4f45886-68c8-4fbd-b0a6-c4de3f7edf1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_cmType
 -- name    : Formalism.HC.Der.cmType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:01:11.434671+00:00
 -- url     : https://prove2.me/theorems/78083dca-8afa-4334-8db2-0f419348e3e9

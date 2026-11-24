@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_shear_iso_action_projection
 -- name    : GlobalTheory.T.shear_iso_action_projection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:57:23.743482+00:00
 -- url     : https://prove2.me/theorems/bb6e5d66-6790-4ded-b38e-6cb76afd2514

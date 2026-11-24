@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Form_U_Atom_isCompact_sup
 -- name    : PositivityTheory.RgUd.Form.U.Atom.isCompact_sup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:02:00.376199+00:00
 -- url     : https://prove2.me/theorems/3a1affc3-959e-40d6-be51-22bae1154206

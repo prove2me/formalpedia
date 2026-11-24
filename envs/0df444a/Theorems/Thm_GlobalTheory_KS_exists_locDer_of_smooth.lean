@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_exists_locDer_of_smooth
 -- name    : GlobalTheory.KS.exists_locDer_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:36.548547+00:00
 -- url     : https://prove2.me/theorems/35e8fdce-891a-4f35-81eb-c01c86dc7496

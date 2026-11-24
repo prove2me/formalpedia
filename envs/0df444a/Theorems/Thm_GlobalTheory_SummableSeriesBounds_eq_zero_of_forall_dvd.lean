@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SummableSeriesBounds_eq_zero_of_forall_dvd
 -- name    : GlobalTheory.SummableSeriesBounds.eq_zero_of_forall_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:23:40.530155+00:00
 -- url     : https://prove2.me/theorems/3a5503bf-5747-42ee-b84f-9617c4d80ec0

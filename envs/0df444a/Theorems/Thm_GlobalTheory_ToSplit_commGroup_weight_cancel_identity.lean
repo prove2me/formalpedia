@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToSplit_commGroup_weight_cancel_identity
 -- name    : GlobalTheory.ToSplit.commGroup_weight_cancel_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:20:04.898367+00:00
 -- url     : https://prove2.me/theorems/fe85eb98-a2b5-4678-8f94-358b109da2a4

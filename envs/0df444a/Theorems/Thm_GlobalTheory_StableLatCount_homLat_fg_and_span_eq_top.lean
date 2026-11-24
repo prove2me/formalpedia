@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StableLatCount_homLat_fg_and_span_eq_top
 -- name    : GlobalTheory.StableLatCount.homLat_fg_and_span_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:22:20.694858+00:00
 -- url     : https://prove2.me/theorems/a6281ae5-536d-4cf0-901d-1f2b52f1d610

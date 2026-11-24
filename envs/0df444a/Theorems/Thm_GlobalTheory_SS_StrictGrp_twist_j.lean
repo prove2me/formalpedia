@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictGrp_twist_j
 -- name    : GlobalTheory.SS.StrictGrp.twist_j
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:22:03.709037+00:00
 -- url     : https://prove2.me/theorems/b5ee123f-96eb-451a-9df5-97c2f01c0541

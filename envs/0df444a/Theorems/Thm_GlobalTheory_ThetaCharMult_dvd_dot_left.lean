@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCharMult_dvd_dot_left
 -- name    : GlobalTheory.ThetaCharMult.dvd_dot_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:04:48.034636+00:00
 -- url     : https://prove2.me/theorems/31d46e49-d265-4da3-889a-207fe45eb9b7

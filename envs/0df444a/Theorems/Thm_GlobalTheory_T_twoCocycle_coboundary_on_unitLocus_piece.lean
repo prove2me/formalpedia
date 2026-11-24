@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_twoCocycle_coboundary_on_unitLocus_piece
 -- name    : GlobalTheory.T.twoCocycle_coboundary_on_unitLocus_piece
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:00:31.170565+00:00
 -- url     : https://prove2.me/theorems/4ee4f092-6638-4269-b7aa-0cbaf1f891fd

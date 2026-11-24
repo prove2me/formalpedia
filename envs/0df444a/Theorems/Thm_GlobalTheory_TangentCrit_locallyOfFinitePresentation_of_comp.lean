@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentCrit_locallyOfFinitePresentation_of_comp
 -- name    : GlobalTheory.TangentCrit.locallyOfFinitePresentation_of_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:02:03.691494+00:00
 -- url     : https://prove2.me/theorems/38676098-7ea8-4a47-b042-6dc7c37264bf

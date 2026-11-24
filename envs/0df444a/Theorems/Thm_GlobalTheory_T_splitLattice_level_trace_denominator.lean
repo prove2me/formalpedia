@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_splitLattice_level_trace_denominator
 -- name    : GlobalTheory.T.splitLattice_level_trace_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:59:17.52818+00:00
 -- url     : https://prove2.me/theorems/0d1cf983-420a-4efd-ba93-ce089c4ff75a

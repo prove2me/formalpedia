@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoExp_fTerm_zero
 -- name    : GlobalTheory.HeckeTwoExp.fTerm_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:15:02.011544+00:00
 -- url     : https://prove2.me/theorems/8a1833fd-a4d0-477c-89f7-24812a4db14e

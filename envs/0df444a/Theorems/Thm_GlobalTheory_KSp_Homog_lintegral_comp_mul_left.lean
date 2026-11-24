@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_Homog_lintegral_comp_mul_left
 -- name    : GlobalTheory.KSp.Homog.lintegral_comp_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:22:13.437717+00:00
 -- url     : https://prove2.me/theorems/1ff20ff6-0f8e-49c8-9c62-cd194b334e2a

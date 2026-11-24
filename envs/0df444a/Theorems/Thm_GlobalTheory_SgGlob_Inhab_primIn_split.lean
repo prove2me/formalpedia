@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Inhab_primIn_split
 -- name    : GlobalTheory.SgGlob.Inhab.primIn_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:54:42.86981+00:00
 -- url     : https://prove2.me/theorems/cbfc710b-6133-48ab-81e5-df48a3e426a1

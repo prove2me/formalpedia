@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceSpread_exists_embedding
 -- name    : GlobalTheory.TraceSpread.exists_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:11:30.505852+00:00
 -- url     : https://prove2.me/theorems/33429736-383a-4355-90c2-6a3c9704792c

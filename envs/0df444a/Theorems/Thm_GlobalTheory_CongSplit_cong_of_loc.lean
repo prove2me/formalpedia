@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongSplit_cong_of_loc
 -- name    : GlobalTheory.CongSplit.cong_of_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:25:22.646063+00:00
 -- url     : https://prove2.me/theorems/d1bea333-6a8d-4838-ac4c-c45286ef5c0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgLoc_Top_isOpen_R
 -- name    : GlobalTheory.SgLoc.Top.isOpen_R
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:09:52.149135+00:00
 -- url     : https://prove2.me/theorems/fa170248-a852-4034-b7be-0b9b4bfb5580

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_hasCMByIsogeny_of
 -- name    : Formalism.L2.Th1.F.hasCMByIsogeny_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:19:50.757511+00:00
 -- url     : https://prove2.me/theorems/a5c604d3-39ce-4a3e-b424-03a1e721cfc5

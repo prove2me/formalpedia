@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_two_mul_index_sqs_eq_relIndex_fixed_mul_relIndex_ker
 -- name    : GlobalTheory.T.two_mul_index_sqs_eq_relIndex_fixed_mul_relIndex_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:59:31.873848+00:00
 -- url     : https://prove2.me/theorems/9c6c9df4-8d74-4d23-93fd-d8a2f1a00f45

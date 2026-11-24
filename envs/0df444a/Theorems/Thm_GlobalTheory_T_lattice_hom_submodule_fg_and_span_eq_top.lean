@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_hom_submodule_fg_and_span_eq_top
 -- name    : GlobalTheory.T.lattice_hom_submodule_fg_and_span_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:51:24.230866+00:00
 -- url     : https://prove2.me/theorems/66ecf9b8-55b0-4474-bf10-bf4a6813418e

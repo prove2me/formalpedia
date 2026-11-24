@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tensor_integer_ring_almost_all_places
 -- name    : GlobalTheory.T.tensor_integer_ring_almost_all_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:00:39.218186+00:00
 -- url     : https://prove2.me/theorems/ec6fb2dd-4aa5-40e5-9bc6-f838b490fade

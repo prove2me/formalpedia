@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unramified_ideal_locus_characterization
 -- name    : GlobalTheory.T.unramified_ideal_locus_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:01:10.088907+00:00
 -- url     : https://prove2.me/theorems/f2d79260-c71b-4758-b884-121eeb720706

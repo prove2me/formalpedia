@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_isSmooth_jacBU
 -- name    : GlobalTheory.SmGL.isSmooth_jacBU
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:06.881035+00:00
 -- url     : https://prove2.me/theorems/4cbdf484-350c-4ca5-bc89-95d9b96c2a7d

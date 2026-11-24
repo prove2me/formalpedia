@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_GoodSpace_mem_some_box
 -- name    : GlobalTheory.KSp.GoodSpace.mem_some_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:23:14.86322+00:00
 -- url     : https://prove2.me/theorems/1bd6d548-d8de-4621-ab38-4cc463e8095c

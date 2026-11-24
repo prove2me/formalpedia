@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TargetStatementBis_target
 -- name    : GlobalTheory.TargetStatementBis.target
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:02:12.979729+00:00
 -- url     : https://prove2.me/theorems/dd196311-ccaf-43b1-836a-e1121b467c85

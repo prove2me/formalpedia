@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_finrank_F
 -- name    : Formalism.HC.Der.finrank_F
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:54:17.080446+00:00
 -- url     : https://prove2.me/theorems/894ce072-0bab-45ad-8bf6-ae334019cc2f

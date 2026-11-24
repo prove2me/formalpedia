@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_separated_of_finite_surjective_quotient
 -- name    : GlobalTheory.T.separated_of_finite_surjective_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:57:25.563797+00:00
 -- url     : https://prove2.me/theorems/24255332-47da-40c6-a71e-2a1d6ef7f7e8

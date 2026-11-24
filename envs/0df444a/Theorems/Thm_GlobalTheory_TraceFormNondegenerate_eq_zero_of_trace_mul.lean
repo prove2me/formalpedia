@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceFormNondegenerate_eq_zero_of_trace_mul
 -- name    : GlobalTheory.TraceFormNondegenerate.eq_zero_of_trace_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:10:45.254444+00:00
 -- url     : https://prove2.me/theorems/71886098-89a1-4632-b518-263b86282285

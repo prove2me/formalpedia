@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensHead_ker_map_mkQ_le
 -- name    : GlobalTheory.TensHead.ker_map_mkQ_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:01:59.483277+00:00
 -- url     : https://prove2.me/theorems/f7e8e42d-0c96-44ec-a990-ed70d46f9e7f

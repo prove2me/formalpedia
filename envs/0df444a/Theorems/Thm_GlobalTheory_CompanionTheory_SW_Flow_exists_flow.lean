@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Flow_exists_flow
 -- name    : GlobalTheory.CompanionTheory.SW.Flow.exists_flow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:03:52.077034+00:00
 -- url     : https://prove2.me/theorems/26f40fb7-9755-4ba6-87bf-a666997e8218

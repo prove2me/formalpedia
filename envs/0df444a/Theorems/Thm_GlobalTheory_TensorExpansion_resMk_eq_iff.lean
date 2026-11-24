@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorExpansion_resMk_eq_iff
 -- name    : GlobalTheory.TensorExpansion.resMk_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:03:27.554913+00:00
 -- url     : https://prove2.me/theorems/c5128f14-0bcf-433f-b2b4-734824d22973

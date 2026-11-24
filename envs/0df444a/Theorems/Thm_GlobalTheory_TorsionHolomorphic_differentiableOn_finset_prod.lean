@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionHolomorphic_differentiableOn_finset_prod
 -- name    : GlobalTheory.TorsionHolomorphic.differentiableOn_finset_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:08:40.454892+00:00
 -- url     : https://prove2.me/theorems/9a16343d-4f42-46a6-b6ff-85fa7cf4df98

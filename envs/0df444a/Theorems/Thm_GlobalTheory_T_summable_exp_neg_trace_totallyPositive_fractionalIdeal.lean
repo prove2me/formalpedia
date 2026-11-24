@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_summable_exp_neg_trace_totallyPositive_fractionalIdeal
 -- name    : GlobalTheory.T.summable_exp_neg_trace_totallyPositive_fractionalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:58:31.992619+00:00
 -- url     : https://prove2.me/theorems/4d92bdbe-222d-4af5-8b60-2f830bc1ff42

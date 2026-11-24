@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_OrdProd_exists_lift
 -- name    : GlobalTheory.SS.OrdProd.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:30:35.693744+00:00
 -- url     : https://prove2.me/theorems/c4a8d6cf-3b7e-4e58-8594-a00851edd6d9

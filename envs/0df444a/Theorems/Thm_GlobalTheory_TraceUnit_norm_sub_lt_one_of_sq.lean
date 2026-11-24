@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceUnit_norm_sub_lt_one_of_sq
 -- name    : GlobalTheory.TraceUnit.norm_sub_lt_one_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:11:27.127107+00:00
 -- url     : https://prove2.me/theorems/0899757f-ce45-4372-b643-6eb24358ec93

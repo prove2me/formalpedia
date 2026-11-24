@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_ecoef_ringEquiv
 -- name    : GlobalTheory.HilbFam.ecoef_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:21:10.763853+00:00
 -- url     : https://prove2.me/theorems/d2ead787-fa25-4b6a-a9d4-1ec58778df5c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameKummer_irreducible_X_pow_sub_C
 -- name    : GlobalTheory.TameKummer.irreducible_X_pow_sub_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:02:20.999187+00:00
 -- url     : https://prove2.me/theorems/27e36124-0ef2-4f92-8ebd-872ceb45de18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_conductor_exists
 -- name    : GlobalTheory.SplitWeil.conductor_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:54:45.904805+00:00
 -- url     : https://prove2.me/theorems/53e659f9-da39-4e3a-8868-e39ae5a51f7f

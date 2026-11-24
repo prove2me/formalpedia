@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_sqIdx_relIndex_hiUnits_add
 -- name    : GlobalTheory.QNorm.sqIdx_relIndex_hiUnits_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:04:19.337138+00:00
 -- url     : https://prove2.me/theorems/30d5f292-1d87-4e3d-aff5-8fb81a7c4cf1

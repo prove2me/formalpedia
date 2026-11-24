@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_rank_le_one_integral_points
 -- name    : GlobalTheory.T.unitary_rank_le_one_integral_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:02:14.523588+00:00
 -- url     : https://prove2.me/theorems/7de85531-3d15-4762-9b8a-de47fc8adbfe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsLift_exists_pow_eq_torus
 -- name    : GlobalTheory.TorsLift.exists_pow_eq_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:09:27.095928+00:00
 -- url     : https://prove2.me/theorems/ab9de212-bb49-4fc6-96e9-f616e52d6147

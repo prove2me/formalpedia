@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TvAdjust_exists_split
 -- name    : GlobalTheory.TvAdjust.exists_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:12:53.7418+00:00
 -- url     : https://prove2.me/theorems/69c495df-b235-4977-8949-eb66cc0caedc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormBaseChange_normsEscape
 -- name    : GlobalTheory.QuadSymbol.NormBaseChange.normsEscape
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:12:14.920802+00:00
 -- url     : https://prove2.me/theorems/17e0db77-d9f1-45bc-8d5e-746bc88132fe

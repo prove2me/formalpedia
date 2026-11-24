@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_FourierJ_haar_eq_sum_rep
 -- name    : GlobalTheory.SW.FourierJ.haar_eq_sum_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:38:28.19545+00:00
 -- url     : https://prove2.me/theorems/583cb9ce-035f-40a4-a462-b6efb26e4ef4

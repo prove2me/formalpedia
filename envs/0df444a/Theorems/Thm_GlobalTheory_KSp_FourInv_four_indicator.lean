@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_FourInv_four_indicator
 -- name    : GlobalTheory.KSp.FourInv.four_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:22:18.837431+00:00
 -- url     : https://prove2.me/theorems/0d9e611b-6e0b-400c-ab13-d6c9b38c5476

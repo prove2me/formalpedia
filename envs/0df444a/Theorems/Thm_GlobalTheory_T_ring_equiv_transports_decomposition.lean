@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ring_equiv_transports_decomposition
 -- name    : GlobalTheory.T.ring_equiv_transports_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:56:35.384669+00:00
 -- url     : https://prove2.me/theorems/330bcce1-1fc8-4bab-a4bc-5007b433d5df

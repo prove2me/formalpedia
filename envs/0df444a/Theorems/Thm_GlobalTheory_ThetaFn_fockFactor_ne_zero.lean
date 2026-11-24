@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_fockFactor_ne_zero
 -- name    : GlobalTheory.ThetaFn.fockFactor_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:06:47.672801+00:00
 -- url     : https://prove2.me/theorems/9611842e-809c-4098-b9de-05d3f28c102a

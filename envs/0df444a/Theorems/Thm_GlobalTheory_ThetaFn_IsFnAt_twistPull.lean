@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_IsFnAt_twistPull
 -- name    : GlobalTheory.ThetaFn.IsFnAt.twistPull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:06:19.005867+00:00
 -- url     : https://prove2.me/theorems/d81de2ab-faa2-4a46-b6b1-b50aba47bed9

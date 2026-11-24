@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_det_restrictScalars_twoSidedMul
 -- name    : GlobalTheory.KSp.det_restrictScalars_twoSidedMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:22:46.253451+00:00
 -- url     : https://prove2.me/theorems/0f36c87d-6e4a-4090-b4f5-78fdd2f59a09

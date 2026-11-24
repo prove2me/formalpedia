@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceConj_span_top_of_trace_eq
 -- name    : GlobalTheory.TraceConj.span_top_of_trace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:11:00.499257+00:00
 -- url     : https://prove2.me/theorems/ea2022d6-fd99-4424-92c3-b4bae06b99d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusUnit_coeff_inl_mul_inr
 -- name    : GlobalTheory.TorusUnit.coeff_inl_mul_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:11:14.632737+00:00
 -- url     : https://prove2.me/theorems/251f6731-ac96-436d-8878-c8b71c29fa94

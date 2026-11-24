@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameKummer_exists_pow_eq_of_residue
 -- name    : GlobalTheory.TameKummer.exists_pow_eq_of_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:02:27.733789+00:00
 -- url     : https://prove2.me/theorems/05fa5fad-2a7c-4f2f-8d17-48b0f8ba5e95

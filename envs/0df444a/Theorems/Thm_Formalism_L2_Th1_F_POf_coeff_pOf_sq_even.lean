@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_POf_coeff_pOf_sq_even
 -- name    : Formalism.L2.Th1.F.POf.coeff_pOf_sq_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:18:35.949812+00:00
 -- url     : https://prove2.me/theorems/851cd7db-c457-4751-9127-df5ab8a645dc

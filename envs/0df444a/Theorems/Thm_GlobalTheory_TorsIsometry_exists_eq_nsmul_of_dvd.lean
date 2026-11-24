@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsIsometry_exists_eq_nsmul_of_dvd
 -- name    : GlobalTheory.TorsIsometry.exists_eq_nsmul_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:09:44.906728+00:00
 -- url     : https://prove2.me/theorems/424e7fa6-c533-481f-b3b2-40e684f8bb55

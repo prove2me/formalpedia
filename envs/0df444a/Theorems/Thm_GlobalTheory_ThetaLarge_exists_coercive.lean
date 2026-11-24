@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaLarge_exists_coercive
 -- name    : GlobalTheory.ThetaLarge.exists_coercive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:06:32.921623+00:00
 -- url     : https://prove2.me/theorems/fb626a11-2b77-43fe-85ba-0ae59eff3ac5

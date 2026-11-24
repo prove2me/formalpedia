@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaAmple_relAmple_of_top
 -- name    : GlobalTheory.ThetaAmple.relAmple_of_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:05:25.80894+00:00
 -- url     : https://prove2.me/theorems/7edfca05-1d4d-4cd8-b743-2e14c1069dbb

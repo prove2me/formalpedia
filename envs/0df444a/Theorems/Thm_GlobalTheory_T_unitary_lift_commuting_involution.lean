@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_lift_commuting_involution
 -- name    : GlobalTheory.T.unitary_lift_commuting_involution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:00:47.713194+00:00
 -- url     : https://prove2.me/theorems/bae87551-0cf3-42ab-8be2-30cc34ccc5f5

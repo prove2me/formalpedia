@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_CmBy_ne_zero
 -- name    : Formalism.L2.Th1.F.CmBy.ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:20:21.472165+00:00
 -- url     : https://prove2.me/theorems/b23ecb4b-8c5e-4d10-837d-50037a4b03a2

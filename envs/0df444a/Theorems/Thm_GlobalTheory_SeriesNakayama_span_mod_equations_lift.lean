@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SeriesNakayama_span_mod_equations_lift
 -- name    : GlobalTheory.SeriesNakayama.span_mod_equations_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:54:26.378947+00:00
 -- url     : https://prove2.me/theorems/e49b1d64-8dc4-4756-b7b1-c9c9f228a740

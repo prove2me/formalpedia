@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_windowSummedRow_pow_eq_additiveSystemPowerSum
 -- name    : GlobalTheory.T.windowSummedRow_pow_eq_additiveSystemPowerSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:01:18.673926+00:00
 -- url     : https://prove2.me/theorems/a05a75e8-00ee-4591-b5a9-bfe3a37fb597

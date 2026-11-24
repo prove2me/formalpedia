@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unipotent_haar_exists
 -- name    : Formalism.FourierDecayAlt.P.unipotent_haar_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:05:06.508836+00:00
 -- url     : https://prove2.me/theorems/d25c695b-3125-45d4-a0ab-c2cd8b4ab416

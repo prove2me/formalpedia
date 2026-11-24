@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FixedRoots_mem_of_forall_ringEquiv_fixed
 -- name    : GlobalTheory.FixedRoots.mem_of_forall_ringEquiv_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:31:40.634988+00:00
 -- url     : https://prove2.me/theorems/8c9db56b-3db1-41cd-98ea-ff694314d0fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_Converse_mem_normGroup_of_isComplex
 -- name    : GlobalTheory.QuadSymbol.Converse.mem_normGroup_of_isComplex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:28:46.708969+00:00
 -- url     : https://prove2.me/theorems/08a1f9c1-a0c8-4509-b9e1-16cfcd3fd682

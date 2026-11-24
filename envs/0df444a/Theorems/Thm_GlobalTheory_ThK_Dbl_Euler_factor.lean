@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_Euler_factor
 -- name    : GlobalTheory.ThK.Dbl.Euler.factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:03:06.933621+00:00
 -- url     : https://prove2.me/theorems/5d01737e-decb-47ae-be8f-fa1f98e54416

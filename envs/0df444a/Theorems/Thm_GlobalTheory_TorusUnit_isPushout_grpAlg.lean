@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusUnit_isPushout_grpAlg
 -- name    : GlobalTheory.TorusUnit.isPushout_grpAlg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:11:48.663631+00:00
 -- url     : https://prove2.me/theorems/bfdbd9d2-2033-49df-9430-d1d324871c58

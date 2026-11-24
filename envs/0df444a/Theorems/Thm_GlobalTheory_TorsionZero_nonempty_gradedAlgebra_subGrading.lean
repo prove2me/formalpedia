@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionZero_nonempty_gradedAlgebra_subGrading
 -- name    : GlobalTheory.TorsionZero.nonempty_gradedAlgebra_subGrading
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:08:45.162741+00:00
 -- url     : https://prove2.me/theorems/4db1700a-9960-41df-9684-9a6ba2877e70

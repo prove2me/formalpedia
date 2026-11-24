@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_exists_pow_mul_eq
 -- name    : GlobalTheory.SS.Ord.exists_pow_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:17:10.666822+00:00
 -- url     : https://prove2.me/theorems/7aad1e00-6a8d-42f6-a572-91673d8fe1da

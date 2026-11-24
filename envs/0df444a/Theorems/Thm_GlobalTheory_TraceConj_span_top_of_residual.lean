@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceConj_span_top_of_residual
 -- name    : GlobalTheory.TraceConj.span_top_of_residual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:10:55.195519+00:00
 -- url     : https://prove2.me/theorems/9d8a8189-dbea-4ecd-b1d8-a81c82f82c96

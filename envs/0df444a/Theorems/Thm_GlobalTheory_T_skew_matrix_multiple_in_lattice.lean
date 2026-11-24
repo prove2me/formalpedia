@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_skew_matrix_multiple_in_lattice
 -- name    : GlobalTheory.T.skew_matrix_multiple_in_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:57:44.306129+00:00
 -- url     : https://prove2.me/theorems/394d2e5d-80d9-4515-bac1-e9570dba957f

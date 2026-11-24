@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_weierstrass_numerator_denominator
 -- name    : Formalism.L2.Th1.F.weierstrass_numerator_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:19:09.341771+00:00
 -- url     : https://prove2.me/theorems/c591322d-4194-4e9b-98e0-6870504e581e

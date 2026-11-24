@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaModelGroup_grpObj_of_points
 -- name    : GlobalTheory.ThetaModelGroup.grpObj_of_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:06:10.240798+00:00
 -- url     : https://prove2.me/theorems/79b0658b-720a-4d89-a8e1-e13a6bc631f5

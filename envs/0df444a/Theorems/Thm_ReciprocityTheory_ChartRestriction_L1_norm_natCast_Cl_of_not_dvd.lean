@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_norm_natCast_Cl_of_not_dvd
 -- name    : ReciprocityTheory.ChartRestriction.L1.norm_natCast_Cl_of_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:27:20.21395+00:00
 -- url     : https://prove2.me/theorems/79aa7600-ce40-4d1a-a299-f9ebe6d062df

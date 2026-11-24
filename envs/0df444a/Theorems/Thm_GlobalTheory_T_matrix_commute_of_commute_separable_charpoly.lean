@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_matrix_commute_of_commute_separable_charpoly
 -- name    : GlobalTheory.T.matrix_commute_of_commute_separable_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:52:06.148065+00:00
 -- url     : https://prove2.me/theorems/81f79568-d712-4ac9-b756-732e0bbf0556

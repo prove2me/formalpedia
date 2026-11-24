@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_normalizedIntertwiner_comp_of_adjacent_lattices
 -- name    : GlobalTheory.T.normalizedIntertwiner_comp_of_adjacent_lattices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:53:55.946807+00:00
 -- url     : https://prove2.me/theorems/fc7c0610-c3b2-4e4b-8f6a-0332f58e006d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorSiegel_hermForm_smul_sub
 -- name    : GlobalTheory.TensorSiegel.hermForm_smul_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:05:15.886291+00:00
 -- url     : https://prove2.me/theorems/1cb688aa-7fe6-4936-9a7e-9d2c5ccdc522

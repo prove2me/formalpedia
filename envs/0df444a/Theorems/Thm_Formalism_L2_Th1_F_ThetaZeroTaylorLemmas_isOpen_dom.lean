@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThetaZeroTaylorLemmas_isOpen_dom
 -- name    : Formalism.L2.Th1.F.ThetaZeroTaylorLemmas.isOpen_dom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:29:32.671009+00:00
 -- url     : https://prove2.me/theorems/dddac32a-3cf3-41b8-a0f9-4993cba08d5e

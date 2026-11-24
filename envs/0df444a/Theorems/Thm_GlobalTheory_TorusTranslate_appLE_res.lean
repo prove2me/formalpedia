@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusTranslate_appLE_res
 -- name    : GlobalTheory.TorusTranslate.appLE_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:11:53.839814+00:00
 -- url     : https://prove2.me/theorems/400a6b08-8b43-4a42-9f30-c129a547e87a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusNil_ringHom_uliftInt_ext
 -- name    : GlobalTheory.TorusNil.ringHom_uliftInt_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:10:46.466405+00:00
 -- url     : https://prove2.me/theorems/d581d527-c4de-4d9e-af54-f7e4f8d5cbde

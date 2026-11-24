@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_size_function_rapid_decay_integrable
 -- name    : GlobalTheory.T.size_function_rapid_decay_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:57:16.906165+00:00
 -- url     : https://prove2.me/theorems/90705293-2566-4687-8b02-11435524e865

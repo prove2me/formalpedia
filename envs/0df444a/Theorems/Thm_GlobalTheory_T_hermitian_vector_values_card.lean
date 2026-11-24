@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_vector_values_card
 -- name    : GlobalTheory.T.hermitian_vector_values_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:45:32.60853+00:00
 -- url     : https://prove2.me/theorems/079469f7-2c33-4b9f-82c8-7c59e1621f14

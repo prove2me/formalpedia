@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_dense_compl_iUnion_range
 -- name    : GlobalTheory.AffinePoints.dense_compl_iUnion_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:55:35.36105+00:00
 -- url     : https://prove2.me/theorems/09cb6522-e412-4993-926b-2e152f185ee4

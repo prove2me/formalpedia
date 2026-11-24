@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_test_function_locally_invariant
 -- name    : GlobalTheory.T.test_function_locally_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:59:41.93199+00:00
 -- url     : https://prove2.me/theorems/8d1228a3-1117-4a06-bec3-1bbf156cfdb7

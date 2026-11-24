@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoPoisson_hTrans_decay
 -- name    : GlobalTheory.HeckeTwoPoisson.hTrans_decay
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:10:53.019865+00:00
 -- url     : https://prove2.me/theorems/e6c21f7e-4468-4174-8fca-84325376b526

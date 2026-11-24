@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentOrigin_evalPt_ex_const
 -- name    : GlobalTheory.TangentOrigin.evalPt_ex_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:02:06.656162+00:00
 -- url     : https://prove2.me/theorems/b5656e62-ef2d-4b40-9fa6-163e73fc86f7

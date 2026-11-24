@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TargetStatementSixOneNinetySeven_main
 -- name    : GlobalTheory.TargetStatementSixOneNinetySeven.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:02:14.712668+00:00
 -- url     : https://prove2.me/theorems/74463fc6-a088-4703-adc1-5240d390ebcf

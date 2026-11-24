@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_tame_det_blocks
 -- name    : GlobalTheory.StepData.tame_det_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:22:39.08482+00:00
 -- url     : https://prove2.me/theorems/76fdbcc2-e98f-4c24-9df7-e770e22256aa

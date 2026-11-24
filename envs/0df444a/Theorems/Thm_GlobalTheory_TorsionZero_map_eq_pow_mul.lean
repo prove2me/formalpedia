@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionZero_map_eq_pow_mul
 -- name    : GlobalTheory.TorsionZero.map_eq_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:08:47.909668+00:00
 -- url     : https://prove2.me/theorems/134d7b86-fb2c-4132-8b4a-a024800b0705

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorSiegel_kron_one_mulVec
 -- name    : GlobalTheory.TensorSiegel.kron_one_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:03:43.535692+00:00
 -- url     : https://prove2.me/theorems/d6bcfa92-299c-47c3-92aa-2a045bd715f0

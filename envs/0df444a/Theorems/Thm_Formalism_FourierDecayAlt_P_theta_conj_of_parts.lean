@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_theta_conj_of_parts
 -- name    : Formalism.FourierDecayAlt.P.theta_conj_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:00:18.753836+00:00
 -- url     : https://prove2.me/theorems/547c96ee-265a-43f3-871e-132e915cee40

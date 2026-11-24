@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusElliptic_summable_int_weight
 -- name    : GlobalTheory.TorusElliptic.summable_int_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:09:57.803794+00:00
 -- url     : https://prove2.me/theorems/e65ef96c-29a1-4a4b-bcca-93be49562f0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoPoisson_summable_lat
 -- name    : GlobalTheory.HeckeTwoPoisson.summable_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:15:42.064353+00:00
 -- url     : https://prove2.me/theorems/4dcf2c81-bab0-48d7-8062-4c52c06c2f13

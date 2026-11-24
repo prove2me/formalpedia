@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionKernel_exists_sec_of_vanishing
 -- name    : GlobalTheory.SectionKernel.exists_sec_of_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:52:15.544003+00:00
 -- url     : https://prove2.me/theorems/1956ece2-7476-49c7-9186-4de3b9cd9b8e

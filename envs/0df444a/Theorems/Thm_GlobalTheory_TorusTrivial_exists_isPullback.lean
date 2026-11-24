@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusTrivial_exists_isPullback
 -- name    : GlobalTheory.TorusTrivial.exists_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:11:21.103081+00:00
 -- url     : https://prove2.me/theorems/523a8caf-4e48-4ced-8ad2-01d694cf03cd

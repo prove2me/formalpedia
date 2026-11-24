@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationMajorants_Orb_gN_inv
 -- name    : Formalism.FourierDecayAlt.P.WeakDominationMajorants.Orb.gN_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:04:59.921915+00:00
 -- url     : https://prove2.me/theorems/87f8aa23-bb53-471d-bb3d-d09f389c9689

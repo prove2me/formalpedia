@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TermEst_norm_wt
 -- name    : GlobalTheory.TermEst.norm_wt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:03:24.872802+00:00
 -- url     : https://prove2.me/theorems/a1d41e6f-faf4-4db6-b8b2-c18639c89901

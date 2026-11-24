@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaQuotient_exists_glue_of_values
 -- name    : GlobalTheory.ThetaQuotient.exists_glue_of_values
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:06:13.564809+00:00
 -- url     : https://prove2.me/theorems/5882bea5-17db-4e9e-9be6-9f7e4bccaa74

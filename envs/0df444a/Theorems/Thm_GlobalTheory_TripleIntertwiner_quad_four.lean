@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TripleIntertwiner_quad_four
 -- name    : GlobalTheory.TripleIntertwiner.quad_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:12:25.650198+00:00
 -- url     : https://prove2.me/theorems/f4e8438b-ed2b-43f6-b00f-9dc4b3962f49

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_adjoin_eq_top_and_isReduced_of_charpoly_separable
 -- name    : GlobalTheory.T.adjoin_eq_top_and_isReduced_of_charpoly_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:26:42.342042+00:00
 -- url     : https://prove2.me/theorems/05648456-768c-45a6-8992-8831d6ab0daa

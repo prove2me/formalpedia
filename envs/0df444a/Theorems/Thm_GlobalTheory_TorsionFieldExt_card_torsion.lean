@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFieldExt_card_torsion
 -- name    : GlobalTheory.TorsionFieldExt.card_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:08:39.436481+00:00
 -- url     : https://prove2.me/theorems/8fe1592f-60fe-4876-b090-31bb81261e56

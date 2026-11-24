@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaRational_eq_zero_of_mul_eq_zero
 -- name    : GlobalTheory.ThetaRational.eq_zero_of_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:05:57.539046+00:00
 -- url     : https://prove2.me/theorems/6af5fec8-d883-4b69-aee2-984c6e15326f

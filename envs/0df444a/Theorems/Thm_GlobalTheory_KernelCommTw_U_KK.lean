@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KernelCommTw_U_KK
 -- name    : GlobalTheory.KernelCommTw.U_KK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:24:03.942859+00:00
 -- url     : https://prove2.me/theorems/b71e2236-112b-4b71-99ab-15378a54790c

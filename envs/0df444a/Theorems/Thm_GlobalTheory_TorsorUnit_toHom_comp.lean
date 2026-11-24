@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsorUnit_toHom_comp
 -- name    : GlobalTheory.TorsorUnit.toHom_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:09:51.782595+00:00
 -- url     : https://prove2.me/theorems/8be5d2f6-db50-43aa-abda-1fb165691580

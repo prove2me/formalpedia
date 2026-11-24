@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpObj_exists_form
 -- name    : GlobalTheory.SharpObj.exists_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:10:40.897764+00:00
 -- url     : https://prove2.me/theorems/bb881b2f-0dce-40c9-b689-2579ab888fb5

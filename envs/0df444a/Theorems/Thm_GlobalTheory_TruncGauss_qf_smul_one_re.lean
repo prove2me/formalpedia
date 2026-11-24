@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TruncGauss_qf_smul_one_re
 -- name    : GlobalTheory.TruncGauss.qf_smul_one_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:12:41.973607+00:00
 -- url     : https://prove2.me/theorems/cf4ec8e3-84f5-43f6-ab2c-6958ee8bb04f

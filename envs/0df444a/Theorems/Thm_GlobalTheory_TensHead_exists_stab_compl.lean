@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensHead_exists_stab_compl
 -- name    : GlobalTheory.TensHead.exists_stab_compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:02:17.64091+00:00
 -- url     : https://prove2.me/theorems/f012e851-8a1c-4fcf-8deb-19f052559fd3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EisPerB_lattice_sum_eq_cone_sum
 -- name    : GlobalTheory.EisPerB.lattice_sum_eq_cone_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:58:38.264579+00:00
 -- url     : https://prove2.me/theorems/3da8e843-a3eb-4780-bfc9-404a86e91893

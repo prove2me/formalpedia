@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorSiegel_kron_one_map_re
 -- name    : GlobalTheory.TensorSiegel.kron_one_map_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:03:45.222147+00:00
 -- url     : https://prove2.me/theorems/00e7f876-7eef-44cd-aba9-958bba5d0e5a

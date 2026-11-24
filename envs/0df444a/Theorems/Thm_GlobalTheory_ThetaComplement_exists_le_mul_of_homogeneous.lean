@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaComplement_exists_le_mul_of_homogeneous
 -- name    : GlobalTheory.ThetaComplement.exists_le_mul_of_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:04:51.861885+00:00
 -- url     : https://prove2.me/theorems/103e6b74-73f9-4ce5-b817-57a30b90dc6f

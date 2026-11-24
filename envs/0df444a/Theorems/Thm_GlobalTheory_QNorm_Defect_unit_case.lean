@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_Defect_unit_case
 -- name    : GlobalTheory.QNorm.Defect.unit_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:02:50.887658+00:00
 -- url     : https://prove2.me/theorems/2263c908-2fe3-43a8-b9f9-e280a793461f

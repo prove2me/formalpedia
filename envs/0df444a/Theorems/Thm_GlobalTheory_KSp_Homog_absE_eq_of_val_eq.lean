@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_Homog_absE_eq_of_val_eq
 -- name    : GlobalTheory.KSp.Homog.absE_eq_of_val_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:23:37.588834+00:00
 -- url     : https://prove2.me/theorems/9e903d99-650a-43d7-b3e2-1be97fe20359

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickDiv_dvd_of_app_eq_zero_of_isAffineOpen
 -- name    : GlobalTheory.ThickDiv.dvd_of_app_eq_zero_of_isAffineOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:07:48.137831+00:00
 -- url     : https://prove2.me/theorems/36fbfc19-a993-4193-86c4-e07017c04860

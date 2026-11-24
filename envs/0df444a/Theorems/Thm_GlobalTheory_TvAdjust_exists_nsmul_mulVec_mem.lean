@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TvAdjust_exists_nsmul_mulVec_mem
 -- name    : GlobalTheory.TvAdjust.exists_nsmul_mulVec_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:12:56.640969+00:00
 -- url     : https://prove2.me/theorems/6ea71356-180b-46e0-8828-8b3b9846b686

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionZero_trdeg_eq_of_isAlgebraic
 -- name    : GlobalTheory.TorsionZero.trdeg_eq_of_isAlgebraic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:08:49.116623+00:00
 -- url     : https://prove2.me/theorems/0079abdc-7ea2-4dc5-9753-07fbfc8a34d1

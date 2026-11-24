@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusKer_valsAt_torus_eq_one_iff
 -- name    : GlobalTheory.TorusKer.valsAt_torus_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:10:06.750641+00:00
 -- url     : https://prove2.me/theorems/49731789-2ecb-42f7-8df2-29fd66a4b493

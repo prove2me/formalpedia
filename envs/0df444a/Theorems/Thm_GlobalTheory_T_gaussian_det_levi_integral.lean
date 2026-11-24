@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gaussian_det_levi_integral
 -- name    : GlobalTheory.T.gaussian_det_levi_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:40:36.137108+00:00
 -- url     : https://prove2.me/theorems/8c34716e-07e7-450b-9564-c316d750d4fa

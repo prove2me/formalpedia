@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_comap_mem_hyp
 -- name    : GlobalTheory.SW.HeckeId.comap_mem_hyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:42:15.094533+00:00
 -- url     : https://prove2.me/theorems/66180108-848b-4ad6-83af-e5c09cb87ead

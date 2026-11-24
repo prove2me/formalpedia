@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_HermiteReduction_le_of_swap
 -- name    : GlobalTheory.ClassFin.HermiteReduction.le_of_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:12:09.40244+00:00
 -- url     : https://prove2.me/theorems/92ef1772-ccee-4084-a696-68ed47de0ae0

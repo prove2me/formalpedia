@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusEnd_top_le_preimage_finset_inf
 -- name    : GlobalTheory.TorusEnd.top_le_preimage_finset_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:10:15.439546+00:00
 -- url     : https://prove2.me/theorems/40264bd2-fb57-4bc3-8e21-b8040dd5d240

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceAeval_trace_aeval_of_isNilpotent
 -- name    : GlobalTheory.TraceAeval.trace_aeval_of_isNilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:11:07.585788+00:00
 -- url     : https://prove2.me/theorems/df1f544e-ec51-49b2-9902-30e388f4802d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_Converse_embedding_realPlace
 -- name    : GlobalTheory.QuadSymbol.Converse.embedding_realPlace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:29:46.295801+00:00
 -- url     : https://prove2.me/theorems/615012fa-a63e-493a-a643-51058df7a964

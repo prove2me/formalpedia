@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_Homog_measurableSet_U
 -- name    : GlobalTheory.KSp.Homog.measurableSet_U
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:22:17.634816+00:00
 -- url     : https://prove2.me/theorems/1c0b3a47-c96c-4c5f-87fc-ea703fc9b7d2

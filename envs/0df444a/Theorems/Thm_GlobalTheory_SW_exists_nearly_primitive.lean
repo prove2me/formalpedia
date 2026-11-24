@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_exists_nearly_primitive
 -- name    : GlobalTheory.SW.exists_nearly_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:53:15.021961+00:00
 -- url     : https://prove2.me/theorems/1df63160-8fb4-4233-ac32-e8152311a2d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_LinChange_haar_comp
 -- name    : GlobalTheory.SW.LinChange.haar_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:42:38.407641+00:00
 -- url     : https://prove2.me/theorems/5d1ffbb2-f55e-4324-9cf4-53ea0421ad07

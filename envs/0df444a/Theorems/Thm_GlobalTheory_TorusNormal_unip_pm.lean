@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusNormal_unip_pm
 -- name    : GlobalTheory.TorusNormal.unip_pm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:23:40.03181+00:00
 -- url     : https://prove2.me/theorems/d27eb587-4b2f-4ad8-a059-5494c0a8ee00

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_bigCellRec_statement
 -- name    : Formalism.FourierDecayAlt.P.bigCellRec_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:36:47.1378+00:00
 -- url     : https://prove2.me/theorems/838b3e3d-5bc0-483e-96a7-76a510bd6047

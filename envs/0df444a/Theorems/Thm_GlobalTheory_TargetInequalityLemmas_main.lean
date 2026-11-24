@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TargetInequalityLemmas_main
 -- name    : GlobalTheory.TargetInequalityLemmas.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:02:00.76031+00:00
 -- url     : https://prove2.me/theorems/732f00ec-22d8-4c82-b5c5-edf45f76c178

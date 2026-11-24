@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToSplit_IsFrame_exists_gen_zero
 -- name    : GlobalTheory.ToSplit.IsFrame.exists_gen_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:09:14.136322+00:00
 -- url     : https://prove2.me/theorems/3e33f2ec-3e8a-4ead-b77e-3063f01decd0

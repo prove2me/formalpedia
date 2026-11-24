@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_exists_chart_of_mem_redKer
 -- name    : GlobalTheory.SqZero.exists_chart_of_mem_redKer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:26.55245+00:00
 -- url     : https://prove2.me/theorems/1690342a-79b4-4946-baa0-ec36442a8288

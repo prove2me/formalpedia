@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Ker_KS_form_core
 -- name    : Formalism.L2.Ker.KS.form_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:22:55.060776+00:00
 -- url     : https://prove2.me/theorems/e76fc037-4cae-4bb5-bf9c-20dabb0179ad

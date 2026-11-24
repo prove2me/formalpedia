@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_Homog_inv_mem_U_iff
 -- name    : GlobalTheory.KSp.Homog.inv_mem_U_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:22:24.882801+00:00
 -- url     : https://prove2.me/theorems/f0d2189b-f0b4-4681-b6c7-68fe0ed3b626

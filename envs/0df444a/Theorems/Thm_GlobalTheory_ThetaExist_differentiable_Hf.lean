@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaExist_differentiable_Hf
 -- name    : GlobalTheory.ThetaExist.differentiable_Hf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:05:38.206266+00:00
 -- url     : https://prove2.me/theorems/39ad8237-4fdb-4250-a485-9233113a1c4c

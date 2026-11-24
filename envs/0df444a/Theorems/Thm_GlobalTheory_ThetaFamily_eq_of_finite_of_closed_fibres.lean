@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFamily_eq_of_finite_of_closed_fibres
 -- name    : GlobalTheory.ThetaFamily.eq_of_finite_of_closed_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:05:30.704946+00:00
 -- url     : https://prove2.me/theorems/5d649fd0-1770-450d-bae7-f73f561e7ae6

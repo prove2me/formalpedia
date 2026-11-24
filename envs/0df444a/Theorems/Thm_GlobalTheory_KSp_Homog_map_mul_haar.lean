@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_Homog_map_mul_haar
 -- name    : GlobalTheory.KSp.Homog.map_mul_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:22:19.567039+00:00
 -- url     : https://prove2.me/theorems/5850096f-8538-439f-9b9f-141604d7ca90

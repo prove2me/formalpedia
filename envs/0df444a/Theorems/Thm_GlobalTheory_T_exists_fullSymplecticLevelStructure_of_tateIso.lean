@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_fullSymplecticLevelStructure_of_tateIso
 -- name    : GlobalTheory.T.exists_fullSymplecticLevelStructure_of_tateIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:47:01.405977+00:00
 -- url     : https://prove2.me/theorems/59b570ab-2bce-4c49-a6ae-092940ce6ab0

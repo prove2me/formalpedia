@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_positive_definite_density
 -- name    : GlobalTheory.T.positive_definite_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:55:56.377266+00:00
 -- url     : https://prove2.me/theorems/03e0df7d-6f86-4ea7-9dab-440d365b56de

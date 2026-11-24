@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TriangularityLowCoeff_expOf_toList
 -- name    : GlobalTheory.TriangularityLowCoeff.expOf_toList
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:12:22.482255+00:00
 -- url     : https://prove2.me/theorems/dfb67f39-641c-4ed2-9ce3-541b721fa4c3

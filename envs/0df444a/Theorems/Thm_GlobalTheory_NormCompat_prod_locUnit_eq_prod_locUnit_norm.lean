@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCompat_prod_locUnit_eq_prod_locUnit_norm
 -- name    : GlobalTheory.NormCompat.prod_locUnit_eq_prod_locUnit_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:34:55.362612+00:00
 -- url     : https://prove2.me/theorems/27bf8673-79b7-4ce0-aba3-75fa7384b7dd

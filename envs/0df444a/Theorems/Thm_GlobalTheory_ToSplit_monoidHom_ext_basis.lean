@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToSplit_monoidHom_ext_basis
 -- name    : GlobalTheory.ToSplit.monoidHom_ext_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:08:15.958878+00:00
 -- url     : https://prove2.me/theorems/723fede4-a134-4356-a431-60961f5b4359

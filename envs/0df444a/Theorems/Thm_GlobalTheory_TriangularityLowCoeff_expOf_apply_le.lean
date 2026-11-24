@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TriangularityLowCoeff_expOf_apply_le
 -- name    : GlobalTheory.TriangularityLowCoeff.expOf_apply_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:12:05.903207+00:00
 -- url     : https://prove2.me/theorems/2d2b154f-c400-46a9-9430-f212fbb9d996

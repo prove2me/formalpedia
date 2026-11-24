@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusConst_exists_extension_line
 -- name    : GlobalTheory.TorusConst.exists_extension_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:09:52.176891+00:00
 -- url     : https://prove2.me/theorems/589cd8c4-0409-453e-a82f-55b653f23dc1

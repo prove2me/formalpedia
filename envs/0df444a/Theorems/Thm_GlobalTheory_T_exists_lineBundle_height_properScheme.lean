@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_lineBundle_height_properScheme
 -- name    : GlobalTheory.T.exists_lineBundle_height_properScheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:36:59.600438+00:00
 -- url     : https://prove2.me/theorems/43140469-5bb7-425b-a22a-8e399d2bfba0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermGlobal_CongrOver_det_norm
 -- name    : GlobalTheory.HermGlobal.CongrOver.det_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:14:58.498094+00:00
 -- url     : https://prove2.me/theorems/2740b6e7-7b98-4447-86f2-85eb83a8fe3d

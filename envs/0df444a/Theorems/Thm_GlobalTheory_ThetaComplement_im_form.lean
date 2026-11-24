@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaComplement_im_form
 -- name    : GlobalTheory.ThetaComplement.im_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:05:24.706655+00:00
 -- url     : https://prove2.me/theorems/2abf03f1-3720-4fb8-8c6a-3efcc752d39f

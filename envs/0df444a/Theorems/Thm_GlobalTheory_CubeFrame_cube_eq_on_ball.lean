@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeFrame_cube_eq_on_ball
 -- name    : GlobalTheory.CubeFrame.cube_eq_on_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:28:13.470804+00:00
 -- url     : https://prove2.me/theorems/7681d6ba-013c-4024-91d0-431b4a6f2bc9

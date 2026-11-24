@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecAff_local_span
 -- name    : GlobalTheory.SecAff.local_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:48:07.178805+00:00
 -- url     : https://prove2.me/theorems/23a5ce64-0a9d-4241-8c65-849a891e4921

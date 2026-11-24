@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_section_eq_mul_of_vanishing_mod_element
 -- name    : GlobalTheory.T.exists_section_eq_mul_of_vanishing_mod_element
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:38:24.698484+00:00
 -- url     : https://prove2.me/theorems/01ffaf35-7a1c-463e-8da5-d8c617778e10

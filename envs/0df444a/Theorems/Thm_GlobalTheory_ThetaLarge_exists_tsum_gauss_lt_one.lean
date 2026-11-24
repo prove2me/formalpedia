@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaLarge_exists_tsum_gauss_lt_one
 -- name    : GlobalTheory.ThetaLarge.exists_tsum_gauss_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:06:15.735802+00:00
 -- url     : https://prove2.me/theorems/f234fc73-195f-4e2d-a0cd-4e2a1d653701

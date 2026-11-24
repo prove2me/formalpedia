@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_StdLattice_mem_span_schr
 -- name    : GlobalTheory.CompanionTheory.StdLattice.mem_span_schr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:14:44.125517+00:00
 -- url     : https://prove2.me/theorems/ca52e2d5-5f21-4a7c-b277-d88b9c1cdd2c

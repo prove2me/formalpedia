@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_maximal_operatorStable_of_finset_generating
 -- name    : GlobalTheory.T.exists_maximal_operatorStable_of_finset_generating
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:36:48.146742+00:00
 -- url     : https://prove2.me/theorems/2e35103e-cdc0-4be8-af7b-73320026694f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaRational_algHom_apply_mv
 -- name    : GlobalTheory.ThetaRational.algHom_apply_mv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:05:55.714858+00:00
 -- url     : https://prove2.me/theorems/7ffb7486-b934-4286-a869-65f4a557d85d

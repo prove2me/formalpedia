@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ImgSec_isCompact_orbit
 -- name    : GlobalTheory.JR.ImgSec.isCompact_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:00:03.318249+00:00
 -- url     : https://prove2.me/theorems/5050f6f7-5498-4353-ba8c-60b71cf70082

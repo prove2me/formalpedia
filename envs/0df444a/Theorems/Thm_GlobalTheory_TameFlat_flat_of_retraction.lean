@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameFlat_flat_of_retraction
 -- name    : GlobalTheory.TameFlat.flat_of_retraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:02:40.369652+00:00
 -- url     : https://prove2.me/theorems/281f9fc1-cd28-4643-82c8-2b16ad12c7dd

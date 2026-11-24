@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TSetFin_triv_inv
 -- name    : GlobalTheory.TSetFin.triv_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:01:33.716418+00:00
 -- url     : https://prove2.me/theorems/525248b6-9d41-4af6-a659-982b65d95299

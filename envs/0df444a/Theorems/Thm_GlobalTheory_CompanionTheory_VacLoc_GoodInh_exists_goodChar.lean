@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_VacLoc_GoodInh_exists_goodChar
 -- name    : GlobalTheory.CompanionTheory.VacLoc.GoodInh.exists_goodChar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:13:10.996604+00:00
 -- url     : https://prove2.me/theorems/e32ee38e-99dd-4499-a240-b7ef508f27d6

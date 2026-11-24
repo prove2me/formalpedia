@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaTranslSpan_exists_log_addChar
 -- name    : GlobalTheory.ThetaTranslSpan.exists_log_addChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:07:54.206435+00:00
 -- url     : https://prove2.me/theorems/59ea5132-823e-426d-99e5-854edb2c1ca9

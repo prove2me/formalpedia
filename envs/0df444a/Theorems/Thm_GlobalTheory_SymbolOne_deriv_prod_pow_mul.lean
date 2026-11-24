@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymbolOne_deriv_prod_pow_mul
 -- name    : GlobalTheory.SymbolOne.deriv_prod_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:24:25.699085+00:00
 -- url     : https://prove2.me/theorems/fa4a3191-4396-4eeb-8c2c-8d263fcc6d34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_specHom_ext_of_localizationAway_span_eq_top
 -- name    : GlobalTheory.T.specHom_ext_of_localizationAway_span_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:21.684294+00:00
 -- url     : https://prove2.me/theorems/0010398e-d8bd-417c-b7ad-4513908fe8e2

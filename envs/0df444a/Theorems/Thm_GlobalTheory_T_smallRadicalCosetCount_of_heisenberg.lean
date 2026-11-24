@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smallRadicalCosetCount_of_heisenberg
 -- name    : GlobalTheory.T.smallRadicalCosetCount_of_heisenberg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:58:18.672816+00:00
 -- url     : https://prove2.me/theorems/c65230db-4af9-4a08-8499-4bdd178117d7

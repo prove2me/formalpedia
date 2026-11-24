@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stablePositiveNegativeExpIntegrableV1
 -- name    : Kyprianou.Ch03.stablePositiveNegativeExpIntegrableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:00:45.965831+00:00
 -- url     : https://prove2.me/theorems/3ce0d2e3-eed7-4590-930b-ea93291cb073

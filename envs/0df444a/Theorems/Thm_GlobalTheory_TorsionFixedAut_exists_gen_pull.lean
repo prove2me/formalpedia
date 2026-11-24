@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFixedAut_exists_gen_pull
 -- name    : GlobalTheory.TorsionFixedAut.exists_gen_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:09:25.42892+00:00
 -- url     : https://prove2.me/theorems/f41336c2-33fc-4877-addc-f5ceaf92e585

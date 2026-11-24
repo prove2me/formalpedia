@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopForm_IsFreeGen_repr_smul
 -- name    : GlobalTheory.TopForm.IsFreeGen.repr_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:07:55.367416+00:00
 -- url     : https://prove2.me/theorems/20c5aa79-dd3b-4fb6-ba4c-14e96d165cfb

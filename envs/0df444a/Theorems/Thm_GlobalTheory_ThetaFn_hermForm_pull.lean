@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_hermForm_pull
 -- name    : GlobalTheory.ThetaFn.hermForm_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:06:11.65472+00:00
 -- url     : https://prove2.me/theorems/004d236d-b0d7-4177-bf03-8983bee357b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TermEst_pointwise
 -- name    : GlobalTheory.TermEst.pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:03:31.651806+00:00
 -- url     : https://prove2.me/theorems/a8c44360-0a91-49a5-9fec-147d4799888c

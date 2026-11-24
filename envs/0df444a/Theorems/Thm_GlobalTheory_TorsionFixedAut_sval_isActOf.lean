@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFixedAut_sval_isActOf
 -- name    : GlobalTheory.TorsionFixedAut.sval_isActOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:09:31.746138+00:00
 -- url     : https://prove2.me/theorems/205223ea-11d7-43a0-9f6e-934906e9ac3f

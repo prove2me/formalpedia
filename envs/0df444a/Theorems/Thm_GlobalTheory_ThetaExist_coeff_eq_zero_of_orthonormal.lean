@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaExist_coeff_eq_zero_of_orthonormal
 -- name    : GlobalTheory.ThetaExist.coeff_eq_zero_of_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:05:21.127446+00:00
 -- url     : https://prove2.me/theorems/a53ba1ee-bde0-41b4-9b16-7d624a5f74ac

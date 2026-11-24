@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateSeq_exists_basis
 -- name    : GlobalTheory.TateSeq.exists_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:02:39.400741+00:00
 -- url     : https://prove2.me/theorems/4cfe941b-4291-4384-b3b9-909fd2c4f0df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_prod_localValues_global_over_places_above
 -- name    : GlobalTheory.T.prod_localValues_global_over_places_above
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:30:41.772699+00:00
 -- url     : https://prove2.me/theorems/b462d680-9523-4a1b-9b5e-202ce3c941d2

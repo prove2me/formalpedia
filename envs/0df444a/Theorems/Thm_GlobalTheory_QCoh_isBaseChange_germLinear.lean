@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isBaseChange_germLinear
 -- name    : GlobalTheory.QCoh.isBaseChange_germLinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:57:58.320237+00:00
 -- url     : https://prove2.me/theorems/1c8b3790-2cbf-4750-b43c-03d71bde1904

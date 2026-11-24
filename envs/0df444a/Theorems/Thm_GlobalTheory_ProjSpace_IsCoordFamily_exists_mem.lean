@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_IsCoordFamily_exists_mem
 -- name    : GlobalTheory.ProjSpace.IsCoordFamily.exists_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:28:03.724415+00:00
 -- url     : https://prove2.me/theorems/7f00acac-03ff-4a10-9ac1-9ad9434b1ac7

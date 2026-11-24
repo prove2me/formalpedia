@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weilRepresentationExistsEtale_of_subsingleton
 -- name    : GlobalTheory.T.weilRepresentationExistsEtale_of_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:01:12.826289+00:00
 -- url     : https://prove2.me/theorems/d88b06e8-d245-493e-b1f8-7242824d3751

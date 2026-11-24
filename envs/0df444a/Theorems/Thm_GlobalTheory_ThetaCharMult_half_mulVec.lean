@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCharMult_half_mulVec
 -- name    : GlobalTheory.ThetaCharMult.half_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:04:48.673379+00:00
 -- url     : https://prove2.me/theorems/bf96b258-b5d8-48ca-911b-25ee2a2468bb

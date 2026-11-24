@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaModelGroup_RegAt_sum
 -- name    : GlobalTheory.ThetaModelGroup.RegAt.sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:06:30.466798+00:00
 -- url     : https://prove2.me/theorems/c15cfdf6-45b6-4371-b601-06b4f9168a2d

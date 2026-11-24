@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilProd_fourB_split
 -- name    : GlobalTheory.JR.WeilProd.fourB_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:38:54.586795+00:00
 -- url     : https://prove2.me/theorems/5021e8ce-2cef-4649-a422-08a40d77162e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_Model_exists_form_of_eq_ratio_pow_mul
 -- name    : GlobalTheory.ProjSpace.Model.exists_form_of_eq_ratio_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:59:00.305664+00:00
 -- url     : https://prove2.me/theorems/d0cd4909-eb39-49df-ac92-50f865a98e0d

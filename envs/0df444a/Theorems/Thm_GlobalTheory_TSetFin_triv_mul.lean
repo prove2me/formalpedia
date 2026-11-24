@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TSetFin_triv_mul
 -- name    : GlobalTheory.TSetFin.triv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:02:33.999905+00:00
 -- url     : https://prove2.me/theorems/1cb3c962-10fb-42f1-b1b8-0aba5203e0cf

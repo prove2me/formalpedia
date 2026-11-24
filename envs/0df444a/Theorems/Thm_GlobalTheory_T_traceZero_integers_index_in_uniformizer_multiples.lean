@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_traceZero_integers_index_in_uniformizer_multiples
 -- name    : GlobalTheory.T.traceZero_integers_index_in_uniformizer_multiples
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:00:15.941821+00:00
 -- url     : https://prove2.me/theorems/c0db4d34-4431-4c0a-aa63-515e56c6d97b

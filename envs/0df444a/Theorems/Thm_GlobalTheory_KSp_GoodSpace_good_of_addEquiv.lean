@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_GoodSpace_good_of_addEquiv
 -- name    : GlobalTheory.KSp.GoodSpace.good_of_addEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:22:36.209198+00:00
 -- url     : https://prove2.me/theorems/df29fd74-cc48-440a-a68f-532ef97387cb

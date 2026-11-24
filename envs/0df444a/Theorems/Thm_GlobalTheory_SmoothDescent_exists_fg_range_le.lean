@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothDescent_exists_fg_range_le
 -- name    : GlobalTheory.SmoothDescent.exists_fg_range_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:14:37.290797+00:00
 -- url     : https://prove2.me/theorems/b22ef66b-c6e7-422b-a525-c3e8f2a42c1e

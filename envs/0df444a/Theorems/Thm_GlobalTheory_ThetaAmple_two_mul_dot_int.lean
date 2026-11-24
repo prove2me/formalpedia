@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaAmple_two_mul_dot_int
 -- name    : GlobalTheory.ThetaAmple.two_mul_dot_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:05:03.228991+00:00
 -- url     : https://prove2.me/theorems/31c51c7e-1157-47e6-94eb-67e387f56431

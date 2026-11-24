@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_isTanOver_tanExp
 -- name    : GlobalTheory.SqZero.isTanOver_tanExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:31:51.547607+00:00
 -- url     : https://prove2.me/theorems/38db8c69-57da-4766-aba0-1f9a079426aa

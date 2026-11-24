@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_one_mem_virtualCharacters_of_integral_combination
 -- name    : GlobalTheory.T.one_mem_virtualCharacters_of_integral_combination
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:55:07.904801+00:00
 -- url     : https://prove2.me/theorems/d0969047-8bab-4f50-8c44-4135f4104592

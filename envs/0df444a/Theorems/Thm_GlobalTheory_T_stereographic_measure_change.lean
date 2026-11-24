@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_stereographic_measure_change
 -- name    : GlobalTheory.T.stereographic_measure_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:59:09.582076+00:00
 -- url     : https://prove2.me/theorems/a684507c-f02b-4f21-9c7b-8a40c91b89ea

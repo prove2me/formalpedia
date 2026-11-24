@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_parabolic_levi_integral_formula
 -- name    : GlobalTheory.T.parabolic_levi_integral_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:55:39.467669+00:00
 -- url     : https://prove2.me/theorems/2ce26d95-c9e6-4d72-9d67-4f1ff5426e36

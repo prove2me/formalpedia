@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateSeq_exists_tower
 -- name    : GlobalTheory.TateSeq.exists_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:02:31.044812+00:00
 -- url     : https://prove2.me/theorems/92945105-b7f7-436a-8042-512903813011

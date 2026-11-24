@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalFunctions_isIso_appTop_of_section
 -- name    : GlobalTheory.GlobalFunctions.isIso_appTop_of_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:23:16.653402+00:00
 -- url     : https://prove2.me/theorems/9c6652e0-fe1d-489e-a208-6973dece1045

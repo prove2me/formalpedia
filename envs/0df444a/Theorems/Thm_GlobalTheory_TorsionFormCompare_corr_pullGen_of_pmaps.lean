@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFormCompare_corr_pullGen_of_pmaps
 -- name    : GlobalTheory.TorsionFormCompare.corr_pullGen_of_pmaps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:09:40.235088+00:00
 -- url     : https://prove2.me/theorems/d17d2a96-e165-4e02-a0ad-a85d7517fdb4

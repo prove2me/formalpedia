@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateSeq_tower_span
 -- name    : GlobalTheory.TateSeq.tower_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:02:40.215251+00:00
 -- url     : https://prove2.me/theorems/e2ceb5f1-4ec0-43a5-b784-a27a63582da3

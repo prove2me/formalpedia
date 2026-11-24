@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLatticeCompare_unitVectors_iff
 -- name    : GlobalTheory.SelfDualLatticeCompare.unitVectors_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:53:41.890305+00:00
 -- url     : https://prove2.me/theorems/32c80b69-8c96-4166-a40d-1bafa8c66fec

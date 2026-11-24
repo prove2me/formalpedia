@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_trace_index_formula
 -- name    : GlobalTheory.T.trace_index_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:13:40.673804+00:00
 -- url     : https://prove2.me/theorems/3f3b227b-3b0d-4a39-bc6f-079fb57ffb7e

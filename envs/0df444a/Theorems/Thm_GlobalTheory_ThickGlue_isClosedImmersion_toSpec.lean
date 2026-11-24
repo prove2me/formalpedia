@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickGlue_isClosedImmersion_toSpec
 -- name    : GlobalTheory.ThickGlue.isClosedImmersion_toSpec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:07:55.611174+00:00
 -- url     : https://prove2.me/theorems/a135bbbe-4fea-4b94-9e4c-f2d64ab0f24e

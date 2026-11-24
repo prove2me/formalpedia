@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_IpPos_ip_eq_sum
 -- name    : GlobalTheory.SW.IpPos.ip_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:18:01.052209+00:00
 -- url     : https://prove2.me/theorems/6f16043b-4fd2-4231-9bc2-9664373eb48a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_der_smooth_and_linear
 -- name    : GlobalTheory.SmoothForms.der_smooth_and_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:37:24.326478+00:00
 -- url     : https://prove2.me/theorems/976ab83e-c37a-4715-826a-545fcbf44dac

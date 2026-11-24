@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_small_rank_bound
 -- name    : GlobalTheory.T.small_rank_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:58:38.730399+00:00
 -- url     : https://prove2.me/theorems/fc235bb4-0d66-4a97-88a3-b5aeec655ed0

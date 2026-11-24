@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_similitude_definite_form_isAlgebraic_on_vector
 -- name    : GlobalTheory.T.similitude_definite_form_isAlgebraic_on_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:57:26.501415+00:00
 -- url     : https://prove2.me/theorems/d15af2b0-d4ea-44b3-b9fe-9c6f8b9af479

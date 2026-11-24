@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeMellinProd_fac_int
 -- name    : GlobalTheory.HeckeMellinProd.fac_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:18:01.700211+00:00
 -- url     : https://prove2.me/theorems/7879faa0-26cc-483a-b237-bd00eec60ade

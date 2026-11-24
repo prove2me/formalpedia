@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameKummer_exists_root
 -- name    : GlobalTheory.TameKummer.exists_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:02:16.04709+00:00
 -- url     : https://prove2.me/theorems/6d3057d0-9d65-49a3-974a-2e9778f303ed

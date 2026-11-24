@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_LD_chE_levi
 -- name    : GlobalTheory.ThK.Dbl.LD.chE_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:03:23.324779+00:00
 -- url     : https://prove2.me/theorems/399f634e-3721-474e-8583-5904c8917f1c

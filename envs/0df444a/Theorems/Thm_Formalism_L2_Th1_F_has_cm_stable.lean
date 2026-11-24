@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_has_cm_stable
 -- name    : Formalism.L2.Th1.F.has_cm_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:18:29.036349+00:00
 -- url     : https://prove2.me/theorems/939f9813-6867-4d70-8ac3-a2a375c8fea2

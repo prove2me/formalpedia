@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_det_lower_minor_eq_conj
 -- name    : Formalism.FourierDecayAlt.P.PBG.det_lower_minor_eq_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:21:53.521547+00:00
 -- url     : https://prove2.me/theorems/ef0a4ce6-cdb3-4a85-9b64-2d8e1eee6044

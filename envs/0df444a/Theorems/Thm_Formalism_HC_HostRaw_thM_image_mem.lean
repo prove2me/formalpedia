@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_thM_image_mem
 -- name    : Formalism.HC.HostRaw.thM_image_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:59:01.637643+00:00
 -- url     : https://prove2.me/theorems/1778f0ce-821f-4e66-b10c-bbf06edcdb50

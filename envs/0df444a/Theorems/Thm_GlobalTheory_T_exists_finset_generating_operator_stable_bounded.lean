@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_finset_generating_operator_stable_bounded
 -- name    : GlobalTheory.T.exists_finset_generating_operator_stable_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:35:23.775955+00:00
 -- url     : https://prove2.me/theorems/e9ddc52b-fab8-4676-933a-99d85ac93e3b

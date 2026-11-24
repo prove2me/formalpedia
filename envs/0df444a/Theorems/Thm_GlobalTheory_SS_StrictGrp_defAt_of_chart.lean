@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictGrp_defAt_of_chart
 -- name    : GlobalTheory.SS.StrictGrp.defAt_of_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:18:43.974291+00:00
 -- url     : https://prove2.me/theorems/6d50dd75-9f2c-436d-b942-afabb326a893

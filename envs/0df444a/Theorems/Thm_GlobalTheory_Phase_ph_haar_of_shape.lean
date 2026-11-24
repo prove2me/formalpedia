@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_ph_haar_of_shape
 -- name    : GlobalTheory.Phase.ph_haar_of_shape
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:48:42.588212+00:00
 -- url     : https://prove2.me/theorems/0fd1ef27-5768-40d9-ba2f-90ea5dc21b93

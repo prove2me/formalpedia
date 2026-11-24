@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsExists_exists_homogeneous
 -- name    : GlobalTheory.TorsExists.exists_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:08:29.075042+00:00
 -- url     : https://prove2.me/theorems/b1c2e667-099d-4db2-89dc-83680e99c1b2

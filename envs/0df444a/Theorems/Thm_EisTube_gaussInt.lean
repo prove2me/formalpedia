@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EisTube_gaussInt
 -- name    : EisTube.gaussInt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:21:15.656264+00:00
 -- url     : https://prove2.me/theorems/bb4423b2-9270-48b1-aba5-8cb3f0e27594

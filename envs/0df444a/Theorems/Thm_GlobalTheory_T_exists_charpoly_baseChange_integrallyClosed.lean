@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_charpoly_baseChange_integrallyClosed
 -- name    : GlobalTheory.T.exists_charpoly_baseChange_integrallyClosed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:36:37.098493+00:00
 -- url     : https://prove2.me/theorems/fd291b2b-cf8f-4640-bfc5-58355ce65d6a

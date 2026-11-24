@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Exist_fn_diffAt
 -- name    : GlobalTheory.KS.Exist.fn_diffAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:45:52.53488+00:00
 -- url     : https://prove2.me/theorems/4ba6c613-4552-4c6d-a001-0d9414ec7489

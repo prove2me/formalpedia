@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_FourInv_isOpen_ann
 -- name    : GlobalTheory.KSp.FourInv.isOpen_ann
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:22:47.718817+00:00
 -- url     : https://prove2.me/theorems/4f6c6227-7a1f-407d-977b-a2e36f367d0b

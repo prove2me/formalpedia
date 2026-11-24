@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemiAbelianDescent_main
 -- name    : GlobalTheory.SemiAbelianDescent.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:54:10.047029+00:00
 -- url     : https://prove2.me/theorems/34c2ed7b-b303-4b94-a945-aa20bb5743fe

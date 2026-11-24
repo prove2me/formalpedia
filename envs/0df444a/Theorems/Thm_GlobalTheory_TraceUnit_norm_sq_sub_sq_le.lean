@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceUnit_norm_sq_sub_sq_le
 -- name    : GlobalTheory.TraceUnit.norm_sq_sub_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:11:30.018906+00:00
 -- url     : https://prove2.me/theorems/66ae4156-bda9-406d-83fd-a5d40d791384

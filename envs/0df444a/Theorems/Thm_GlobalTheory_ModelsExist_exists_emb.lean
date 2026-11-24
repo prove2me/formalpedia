@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModelsExist_exists_emb
 -- name    : GlobalTheory.ModelsExist.exists_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:30:20.946671+00:00
 -- url     : https://prove2.me/theorems/aaacb33c-3f48-45fa-bdb2-151aedf8e4d9

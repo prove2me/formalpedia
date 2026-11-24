@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFixedAut_isUnit_gs_iff
 -- name    : GlobalTheory.TorsionFixedAut.isUnit_gs_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:08:59.419808+00:00
 -- url     : https://prove2.me/theorems/7f8200ff-621e-4ebb-a0e1-2cffaaefa185

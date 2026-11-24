@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaRational_exists_compact_reps
 -- name    : GlobalTheory.ThetaRational.exists_compact_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:07:32.284047+00:00
 -- url     : https://prove2.me/theorems/0a1270c7-7005-4114-87c1-cadf3e95cbe1

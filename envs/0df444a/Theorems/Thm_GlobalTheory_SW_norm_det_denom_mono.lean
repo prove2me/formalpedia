@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_norm_det_denom_mono
 -- name    : GlobalTheory.SW.norm_det_denom_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:48:23.731048+00:00
 -- url     : https://prove2.me/theorems/cb956bcd-83d2-47a3-8384-ed869b35d58c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortDatumEq_datum_eq_character_pairing
 -- name    : GlobalTheory.ShortDatumEq.datum_eq_character_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:12:15.324842+00:00
 -- url     : https://prove2.me/theorems/3a0d050f-fcf4-46d3-a137-eef8b9c65516

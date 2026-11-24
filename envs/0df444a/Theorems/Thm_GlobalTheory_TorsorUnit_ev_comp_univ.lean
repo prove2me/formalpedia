@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsorUnit_ev_comp_univ
 -- name    : GlobalTheory.TorsorUnit.ev_comp_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:09:05.090804+00:00
 -- url     : https://prove2.me/theorems/7875a76d-ca1c-4bda-bcde-5c6ead6dcaf9

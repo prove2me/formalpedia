@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ThetaProd_thS_mul_conj_thS
 -- name    : GlobalTheory.SW.ThetaProd.thS_mul_conj_thS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:44:27.286849+00:00
 -- url     : https://prove2.me/theorems/dc5937ce-201f-4b05-be5c-e001029e1013

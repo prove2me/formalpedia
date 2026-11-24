@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_completion_unique_up_to_iso
 -- name    : GlobalTheory.T.completion_unique_up_to_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:32:09.274893+00:00
 -- url     : https://prove2.me/theorems/bf5dd471-340f-4a00-909e-cfc9c1045dee

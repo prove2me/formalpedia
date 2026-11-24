@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_pr_alg
 -- name    : GlobalTheory.KSp.pr_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:22:52.813247+00:00
 -- url     : https://prove2.me/theorems/91697405-2573-4807-8f3e-ef5806717be7

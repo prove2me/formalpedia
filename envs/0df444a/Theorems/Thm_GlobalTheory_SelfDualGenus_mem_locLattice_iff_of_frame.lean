@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_mem_locLattice_iff_of_frame
 -- name    : GlobalTheory.SelfDualGenus.mem_locLattice_iff_of_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:09:16.255794+00:00
 -- url     : https://prove2.me/theorems/f5d91393-e5e7-48f9-a81e-162c52e80a9d

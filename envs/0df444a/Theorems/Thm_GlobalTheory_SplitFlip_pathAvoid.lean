@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_pathAvoid
 -- name    : GlobalTheory.SplitFlip.pathAvoid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:20:39.870639+00:00
 -- url     : https://prove2.me/theorems/2c3ca109-7549-4920-8ae1-af1a1ec6f2b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_jInvScale_of
 -- name    : Formalism.L2.Th1.F.jInvScale_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:18:22.299805+00:00
 -- url     : https://prove2.me/theorems/8e851419-cc23-43f8-940c-ed4be05b8b7c

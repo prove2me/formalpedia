@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittField_isUn_one
 -- name    : GlobalTheory.SgAlg.WittField.isUn_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:54:02.347104+00:00
 -- url     : https://prove2.me/theorems/8e77ef23-e73d-4ff5-8615-a3fdc0808035

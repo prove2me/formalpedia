@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCoord_dimOf_add
 -- name    : GlobalTheory.TorusCoord.dimOf_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:10:05.663601+00:00
 -- url     : https://prove2.me/theorems/f4384ffe-32ca-4719-b130-c30cac460e5e

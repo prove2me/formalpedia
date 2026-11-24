@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFixedAut_translT_translPt
 -- name    : GlobalTheory.TorsionFixedAut.translT_translPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:09:19.545201+00:00
 -- url     : https://prove2.me/theorems/55374b51-5cce-4fe0-a481-a13d836e5988
