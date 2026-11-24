@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_lattice_fourier_series
 -- name    : Formalism.H.lattice_fourier_series
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:53:36.173797+00:00
 -- url     : https://prove2.me/theorems/0b220943-e3d9-4dca-a6cb-727b6510ea6c

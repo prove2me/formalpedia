@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_semistandard_module_assembly
 -- name    : Formalism.GradedWeylDivisibility.semistandard_module_assembly
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:27.395293+00:00
 -- url     : https://prove2.me/theorems/46d19f1e-6a28-4584-85e0-12638352dab9

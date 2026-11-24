@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_index_piO
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.index_piO
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:41.608752+00:00
 -- url     : https://prove2.me/theorems/4756a7c1-3c10-457f-b06f-03283ea488a7

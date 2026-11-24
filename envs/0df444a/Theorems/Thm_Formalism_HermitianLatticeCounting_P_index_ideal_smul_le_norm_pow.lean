@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_index_ideal_smul_le_norm_pow
 -- name    : Formalism.HermitianLatticeCounting.P.index_ideal_smul_le_norm_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:51.393476+00:00
 -- url     : https://prove2.me/theorems/68e0ef80-c1c4-4235-ba4e-7137362e90f4

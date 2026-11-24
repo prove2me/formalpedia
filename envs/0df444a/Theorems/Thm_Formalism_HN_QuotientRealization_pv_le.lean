@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_QuotientRealization_pv_le
 -- name    : Formalism.HN.QuotientRealization.pv_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:21.620051+00:00
 -- url     : https://prove2.me/theorems/bc72e591-59be-475f-999a-ca9ba6fb6367

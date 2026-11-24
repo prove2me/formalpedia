@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PoissonSummationDecay_poissonSummable
 -- name    : Formalism.FourierDecayAlt.P.PoissonSummationDecay.poissonSummable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:01:42.802582+00:00
 -- url     : https://prove2.me/theorems/96972d67-c10b-4c14-8ce7-f06be5d1733b

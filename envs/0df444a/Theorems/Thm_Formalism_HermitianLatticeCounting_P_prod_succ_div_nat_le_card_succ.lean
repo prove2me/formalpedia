@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_prod_succ_div_nat_le_card_succ
 -- name    : Formalism.HermitianLatticeCounting.P.prod_succ_div_nat_le_card_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:46.079619+00:00
 -- url     : https://prove2.me/theorems/99497dae-1696-4f70-9cb0-88524ecc8e1a

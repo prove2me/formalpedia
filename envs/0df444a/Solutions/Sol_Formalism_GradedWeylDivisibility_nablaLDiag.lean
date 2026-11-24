@@ -1,0 +1,38 @@
+-- Prove2me | solution 1 for Formalism.GradedWeylDivisibility.nablaLDiag
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-24T06:49:00.544207+00:00
+-- url     : https://prove2.me/submissions/33b07338-00a8-475a-bb30-37768b02c5fe
+
+import Definitions.Def_Formalism_GradedWeylDivisibility_FinalC
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_SSIdxFinite
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_SSBasis
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_RowActDiagWeight
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_RowActMul
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaLLe
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaLBasis
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaLKBasis
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaLDiag
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaLTwist
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaLTwMem
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_TensorBasis
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_BlockActTensor
+import Definitions.Def_Formalism_GradedWeylDivisibility_FinalD
+import Theorems.Thm_Formalism_GradedWeylDivisibility_rowActDiagWeight
+import Theorems.Thm_Formalism_GradedWeylDivisibility_rowActMul
+import Theorems.Thm_Formalism_GradedWeylDivisibility_nablaLBasis
+import Theorems.Thm_Formalism_GradedWeylDivisibility_nablaLDiag_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.GradedWeylDivisibility
+namespace Formalism.GradedWeylDivisibility
+theorem _root_.solution : NablaLDiag := nablaLDiag_of rowActMul rowActDiagWeight nablaLBasis
+end Formalism.GradedWeylDivisibility

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_normSgBound
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.normSgBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:59:51.38647+00:00
 -- url     : https://prove2.me/theorems/207a3a5f-5e99-4655-b9f7-069b50cd2557

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_Rd_log_rd
 -- name    : Formalism.HC.Der.Rd.log_rd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:51.119544+00:00
 -- url     : https://prove2.me/theorems/de8e31b5-a143-4818-95a3-7a8d965b5669

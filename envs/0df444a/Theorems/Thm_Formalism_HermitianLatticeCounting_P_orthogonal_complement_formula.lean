@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_orthogonal_complement_formula
 -- name    : Formalism.HermitianLatticeCounting.P.orthogonal_complement_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:42.075077+00:00
 -- url     : https://prove2.me/theorems/09266789-6266-433e-b042-31e1a10dbb4c

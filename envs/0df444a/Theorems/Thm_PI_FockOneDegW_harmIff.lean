@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_harmIff
 -- name    : PI.FockOneDegW.harmIff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:12.417069+00:00
 -- url     : https://prove2.me/theorems/7fb2a559-73aa-45d5-be2a-3e1bf317cf9a

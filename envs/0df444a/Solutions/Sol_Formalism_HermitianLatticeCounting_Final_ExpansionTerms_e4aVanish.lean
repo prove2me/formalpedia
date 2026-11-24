@@ -1,0 +1,27 @@
+-- Prove2me | solution 1 for Formalism.HermitianLatticeCounting.Final.ExpansionTerms.e4aVanish
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-24T07:03:14.840796+00:00
+-- url     : https://prove2.me/submissions/3b58b14c-b850-43af-a7c0-41e12f603c98
+
+import Definitions.Def_Formalism_FlagUnipotentLattices_UnipotentStabiliserCharacterisation
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_BlockMinorSumCounterexample
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_IntegrableOnIoiTruncatedPowerMoment
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_CircleIntegralInvSubEqZeroOfOutside
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_NormalisationIdentity
+import Definitions.Def_Formalism_FlagUnipotentLattices_AlgebraicIdentityHigherDegree
+import Theorems.Thm_Formalism_HermitianLatticeCounting_P_leading_minor_vanishes_off_block_ends
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLatticeCounting Formalism.HermitianLatticeCounting.Final Formalism.HermitianLatticeCounting.Final.ExpansionTerms
+namespace Formalism.HermitianLatticeCounting.Final.ExpansionTerms
+theorem _root_.solution : Formalism.HermitianLatticeCounting.ExpansionTerms.LeadingMinorVanishesOffBlockEnds := Formalism.HermitianLatticeCounting.P.leading_minor_vanishes_off_block_ends
+end Formalism.HermitianLatticeCounting.Final.ExpansionTerms

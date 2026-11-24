@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_resolution_sq
 -- name    : Formalism.HermitianLatticeCounting.P.resolution_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:04.639283+00:00
 -- url     : https://prove2.me/theorems/6b7ccac1-62de-45b0-a3fb-da18ce1a73ff

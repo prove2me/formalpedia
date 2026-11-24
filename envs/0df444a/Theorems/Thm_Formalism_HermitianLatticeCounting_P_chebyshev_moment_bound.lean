@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_chebyshev_moment_bound
 -- name    : Formalism.HermitianLatticeCounting.P.chebyshev_moment_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:05.726803+00:00
 -- url     : https://prove2.me/theorems/594fe4bb-f43e-4d6c-a9e5-b2b328ab12e6

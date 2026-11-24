@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_TWM_vge_moveO
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.TWM.vge_moveO
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:32:47.698478+00:00
 -- url     : https://prove2.me/theorems/d34e5cfa-1040-4648-a1da-4d96d805a743

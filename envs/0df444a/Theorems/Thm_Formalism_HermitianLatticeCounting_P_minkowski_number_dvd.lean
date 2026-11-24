@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_minkowski_number_dvd
 -- name    : Formalism.HermitianLatticeCounting.P.minkowski_number_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:54.187701+00:00
 -- url     : https://prove2.me/theorems/903b3ad1-0519-4cbb-a496-15de13b213f4

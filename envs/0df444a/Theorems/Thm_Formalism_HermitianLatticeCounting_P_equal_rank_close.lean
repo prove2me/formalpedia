@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_equal_rank_close
 -- name    : Formalism.HermitianLatticeCounting.P.equal_rank_close
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:15.99324+00:00
 -- url     : https://prove2.me/theorems/673ddd24-0241-49bc-8bf0-00c602a126fb

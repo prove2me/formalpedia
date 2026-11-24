@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gram_matrix_nondegenerate
 -- name    : Formalism.HermitianLatticeCounting.P.gram_matrix_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:29.291466+00:00
 -- url     : https://prove2.me/theorems/264336f8-7263-4ed8-abce-bd6b48c19f90

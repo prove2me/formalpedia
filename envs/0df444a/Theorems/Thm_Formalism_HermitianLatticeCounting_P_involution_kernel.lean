@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_involution_kernel
 -- name    : Formalism.HermitianLatticeCounting.P.involution_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:59.410591+00:00
 -- url     : https://prove2.me/theorems/38a1813f-a1ca-4308-a01e-6a024fd7956b

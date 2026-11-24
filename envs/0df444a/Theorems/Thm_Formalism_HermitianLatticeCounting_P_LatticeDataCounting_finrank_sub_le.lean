@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_LatticeDataCounting_finrank_sub_le
 -- name    : Formalism.HermitianLatticeCounting.P.LatticeDataCounting.finrank_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:32:04.183844+00:00
 -- url     : https://prove2.me/theorems/97b1b941-2fd8-4f01-8b85-c508d0230ebb

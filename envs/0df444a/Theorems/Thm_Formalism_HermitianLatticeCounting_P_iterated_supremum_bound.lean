@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_iterated_supremum_bound
 -- name    : Formalism.HermitianLatticeCounting.P.iterated_supremum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:05.451932+00:00
 -- url     : https://prove2.me/theorems/e745aa94-c4fe-45f6-9f1e-3400a8dab39c

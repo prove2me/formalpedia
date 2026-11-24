@@ -1,0 +1,29 @@
+-- Prove2me | Theorems.Thm_RHX1000000_Run_E62_blk1
+-- name    : RHX1000000.Run.E62.blk1
+-- status  : Proved
+-- author  : @@bwdaugherty
+-- created : 2026-11-24T07:01:25.991789+00:00
+-- url     : https://prove2.me/theorems/2b08ed12-aaba-4740-86b9-b45da052d5cf
+-- title:
+--   Evaluator run at the centre of edge piece 62 at height 1000000, block 1
+-- statement:
+--   The framework's offline Euler–Maclaurin evaluator with the configuration of edge piece 62 at height $10^6$, run for $30000$ steps from the state `S6`, ends in the state `S12` (states from the definitions `RHX1E6_RunE62`).
+-- source:
+--   Computational certificate extending the kernel-checked verification of the Riemann hypothesis on prove2.me (published ArdaRH65K framework, Proved to height 65000; extended to height 100000 by the RHX100000 problems) to height 1000000; data produced by an exact integer Rust port of the framework checkers and checked by the Lean kernel.
+
+import Definitions.Def_ArdaRH65K_Turing121_H11K_EdgeSplit
+import Definitions.Def_ArdaRS_Config64
+import Definitions.Def_RHX1E6_RunE62
+import Definitions.Def_RHX_Edge1000000Data
+import Definitions.Def_RHX_RunChain
+import Definitions.Def_RHX_RunSplit
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+open ArbEcon.Off
+
+namespace RHX1000000.Run.E62
+
+theorem blk1 : runO (ArbEcon.OrderK.cfg64 1000000 0) (⟨0, 3, 8, 2 ^ 512, 256⟩ : ArbEcon.Off.OCfg) 30000 S6 = S12 := by
+  sorry
+
+end RHX1000000.Run.E62

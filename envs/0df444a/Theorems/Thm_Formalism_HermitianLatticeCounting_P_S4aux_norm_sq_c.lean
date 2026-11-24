@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_norm_sq_c
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.norm_sq_c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:19.334803+00:00
 -- url     : https://prove2.me/theorems/512f4c51-5a36-47e5-8c43-5f069cdad1b9

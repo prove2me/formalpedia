@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_projection_coefficient
 -- name    : Formalism.HermitianLatticeCounting.P.projection_coefficient
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:44.631863+00:00
 -- url     : https://prove2.me/theorems/cf6b6c83-26ec-463a-8b23-f0f5e70bbfbd

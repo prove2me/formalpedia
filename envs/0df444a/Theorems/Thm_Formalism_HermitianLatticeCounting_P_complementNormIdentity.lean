@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_complementNormIdentity
 -- name    : Formalism.HermitianLatticeCounting.P.complementNormIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:28.379715+00:00
 -- url     : https://prove2.me/theorems/9464798a-3cb9-43b9-af9f-576981af287e

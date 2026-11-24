@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_peelDegBound
 -- name    : Formalism.GradedWeylDivisibility.peelDegBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:36.723971+00:00
 -- url     : https://prove2.me/theorems/7ebebc99-3ecd-49c0-9cff-5bf770d69a95

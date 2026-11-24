@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_loss_bound_holds
 -- name    : Formalism.HermitianLatticeCounting.P.loss_bound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:38:06.232678+00:00
 -- url     : https://prove2.me/theorems/56496c99-5dcb-4881-82a1-a13bf23185f8

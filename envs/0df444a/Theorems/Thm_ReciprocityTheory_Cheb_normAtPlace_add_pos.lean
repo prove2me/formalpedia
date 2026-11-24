@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_normAtPlace_add_pos
 -- name    : ReciprocityTheory.Cheb.normAtPlace_add_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:17:12.709129+00:00
 -- url     : https://prove2.me/theorems/4abc4ede-c451-4014-9ecf-db6b1b11784d

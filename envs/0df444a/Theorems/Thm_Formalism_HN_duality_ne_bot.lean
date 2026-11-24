@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_duality_ne_bot
 -- name    : Formalism.HN.duality_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:54:29.452393+00:00
 -- url     : https://prove2.me/theorems/0a1dbd7b-323b-4ef2-9bef-cac957a6b04f

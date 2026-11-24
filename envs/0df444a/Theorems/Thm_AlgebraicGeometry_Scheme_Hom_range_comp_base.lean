@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_Hom_range_comp_base
 -- name    : AlgebraicGeometry.Scheme.Hom.range_comp_base
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:21.265222+00:00
 -- url     : https://prove2.me/theorems/a2ef1148-0757-4fd8-a54e-b648efd3419e

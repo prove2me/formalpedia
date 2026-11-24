@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_tau_integral_formula
 -- name    : Formalism.HermitianLatticeCounting.P.tau_integral_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:12.01466+00:00
 -- url     : https://prove2.me/theorems/ccb656c2-effd-42f9-83e1-de75e9c05916

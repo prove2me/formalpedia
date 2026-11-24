@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PlaceDecomposition_finrank_real_span
 -- name    : Formalism.HN.PlaceDecomposition.finrank_real_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:26:38.726935+00:00
 -- url     : https://prove2.me/theorems/6a3d5cbb-ba33-44f6-af4b-3d7619681bb1

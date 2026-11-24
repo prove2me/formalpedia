@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmLift_xi
 -- name    : Formalism.BranchingDeterminantCap.bmLift_xi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:22:57.774161+00:00
 -- url     : https://prove2.me/theorems/b59d2d9f-0243-43aa-bdfe-bc318ec409e5

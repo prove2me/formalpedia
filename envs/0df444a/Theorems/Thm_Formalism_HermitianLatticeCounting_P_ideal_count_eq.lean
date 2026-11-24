@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_ideal_count_eq
 -- name    : Formalism.HermitianLatticeCounting.P.ideal_count_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:07:33.429917+00:00
 -- url     : https://prove2.me/theorems/33499083-3a6e-4d0d-8fae-08f4eccc40fc

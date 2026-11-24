@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_integrableOn_Ioi_truncated_power_moment
 -- name    : Formalism.HermitianLatticeCounting.P.integrableOn_Ioi_truncated_power_moment
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:16.040233+00:00
 -- url     : https://prove2.me/theorems/7bef1303-3729-4805-ba01-b7aa907d2d7e

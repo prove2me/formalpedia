@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilLevel_cc_sub
 -- name    : GlobalTheory.SW.WeilLevel.cc_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:02.605683+00:00
 -- url     : https://prove2.me/theorems/9fdd11ea-8a5d-4b91-bad8-c32d704e4658

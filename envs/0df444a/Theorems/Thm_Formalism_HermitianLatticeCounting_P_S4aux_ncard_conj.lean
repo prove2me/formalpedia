@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_ncard_conj
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.ncard_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:39.574227+00:00
 -- url     : https://prove2.me/theorems/6ec7bb89-1694-4121-9c52-2d87935d6ecb

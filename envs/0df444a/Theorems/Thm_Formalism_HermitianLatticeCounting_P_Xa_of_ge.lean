@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_Xa_of_ge
 -- name    : Formalism.HermitianLatticeCounting.P.Xa_of_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:32.057352+00:00
 -- url     : https://prove2.me/theorems/ec7dd715-c961-466d-9d80-bd89ed3796a8

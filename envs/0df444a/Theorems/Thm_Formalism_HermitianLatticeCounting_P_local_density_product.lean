@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_local_density_product
 -- name    : Formalism.HermitianLatticeCounting.P.local_density_product
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:48.265141+00:00
 -- url     : https://prove2.me/theorems/68bbd4f9-1167-4473-bf39-05d7f8728770

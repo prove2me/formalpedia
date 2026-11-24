@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_normalFormMinorNeZero
 -- name    : Formalism.HermitianLatticeCounting.P.normalFormMinorNeZero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:40.852993+00:00
 -- url     : https://prove2.me/theorems/9e644f87-539c-4e55-93ae-437be4d750b3

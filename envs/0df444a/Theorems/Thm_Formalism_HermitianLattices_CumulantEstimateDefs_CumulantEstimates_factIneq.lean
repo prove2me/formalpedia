@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_CumulantEstimates_factIneq
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.CumulantEstimates.factIneq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:22.781318+00:00
 -- url     : https://prove2.me/theorems/d5a7afd5-a7ed-4fd1-8b82-af3c3f54f4a7

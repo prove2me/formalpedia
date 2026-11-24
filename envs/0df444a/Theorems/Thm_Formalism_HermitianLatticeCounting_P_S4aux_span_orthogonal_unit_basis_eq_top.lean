@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_span_orthogonal_unit_basis_eq_top
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.span_orthogonal_unit_basis_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:29.314821+00:00
 -- url     : https://prove2.me/theorems/8092dfce-349f-4f05-9041-8ff504517bdc

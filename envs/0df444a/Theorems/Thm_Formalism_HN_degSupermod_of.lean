@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_degSupermod_of
 -- name    : Formalism.HN.degSupermod_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:04.857798+00:00
 -- url     : https://prove2.me/theorems/89e0520d-882a-4f20-8cb4-e5495b0d51da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_poissonSchwartz
 -- name    : Formalism.H.poissonSchwartz
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:20:43.857631+00:00
 -- url     : https://prove2.me/theorems/d31309d3-629a-4e2e-b250-a963ea6c4049

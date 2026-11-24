@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lhwin_exists_killed
 -- name    : Formalism.GradedWeylDivisibility.lhwin_exists_killed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:13.047146+00:00
 -- url     : https://prove2.me/theorems/103f37d7-2d8d-44f7-8fe8-b8703b8d5b06

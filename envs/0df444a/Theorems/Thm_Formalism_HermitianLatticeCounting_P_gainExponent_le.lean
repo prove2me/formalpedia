@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gainExponent_le
 -- name    : Formalism.HermitianLatticeCounting.P.gainExponent_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:01.144118+00:00
 -- url     : https://prove2.me/theorems/b21515d5-7e90-40c9-a296-bf8f4caabf26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilLevel_relIndex_nsmul
 -- name    : GlobalTheory.SW.WeilLevel.relIndex_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:11.983561+00:00
 -- url     : https://prove2.me/theorems/14e9ca64-41aa-4542-bee1-ede584eb3566

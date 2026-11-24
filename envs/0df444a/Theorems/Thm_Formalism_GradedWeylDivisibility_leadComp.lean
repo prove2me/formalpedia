@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_leadComp
 -- name    : Formalism.GradedWeylDivisibility.leadComp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:50.801851+00:00
 -- url     : https://prove2.me/theorems/b5bbc050-27e7-4e9c-b36b-eee6d86e82e9

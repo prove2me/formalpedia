@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_one_le_mul_factorialPiWeight
 -- name    : Formalism.HermitianLatticeCounting.P.one_le_mul_factorialPiWeight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:30.561049+00:00
 -- url     : https://prove2.me/theorems/ad5c600c-5e15-40c7-a5da-e7b19c04f5b1

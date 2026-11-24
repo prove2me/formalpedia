@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_SwapLoc_IsLocData_ringKrullDim_eq_two
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.SwapLoc.IsLocData.ringKrullDim_eq_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:07:03.066089+00:00
 -- url     : https://prove2.me/theorems/7554d569-1d44-4ffd-a850-3b80b00e2238

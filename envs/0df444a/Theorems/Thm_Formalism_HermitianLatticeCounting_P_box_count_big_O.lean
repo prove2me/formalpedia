@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_box_count_big_O
 -- name    : Formalism.HermitianLatticeCounting.P.box_count_big_O
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:35.36449+00:00
 -- url     : https://prove2.me/theorems/d12f3eee-bf85-4f69-956c-065385db2518

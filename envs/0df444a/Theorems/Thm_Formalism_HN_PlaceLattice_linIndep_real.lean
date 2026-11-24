@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PlaceLattice_linIndep_real
 -- name    : Formalism.HN.PlaceLattice.linIndep_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:54:22.267804+00:00
 -- url     : https://prove2.me/theorems/97d20fd3-6ec1-4140-a6a2-f7adef9725ab

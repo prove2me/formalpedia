@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_shiftInvariance_of
 -- name    : Formalism.HN.shiftInvariance_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:27:14.748489+00:00
 -- url     : https://prove2.me/theorems/aa1bef02-b5bb-4d80-8692-db05d0d8ff1d

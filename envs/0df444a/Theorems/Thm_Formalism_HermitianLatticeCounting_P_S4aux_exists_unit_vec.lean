@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_exists_unit_vec
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.exists_unit_vec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:23.791936+00:00
 -- url     : https://prove2.me/theorems/54e3a9e6-bba2-4b08-b227-8ccaa0007843

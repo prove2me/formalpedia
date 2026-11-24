@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_layer_count
 -- name    : Formalism.HermitianLatticeCounting.P.layer_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:37.096765+00:00
 -- url     : https://prove2.me/theorems/1f1d6182-fd3b-401c-83b2-50da5bf524c7

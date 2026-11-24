@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_pcStep_of
 -- name    : FockRL.pcStep_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:15:30.410788+00:00
 -- url     : https://prove2.me/theorems/58723fcd-0f8e-441b-8a07-e7a4c8855724

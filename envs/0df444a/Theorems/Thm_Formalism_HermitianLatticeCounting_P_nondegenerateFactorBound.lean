@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_nondegenerateFactorBound
 -- name    : Formalism.HermitianLatticeCounting.P.nondegenerateFactorBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:26.08527+00:00
 -- url     : https://prove2.me/theorems/16a6a7cb-8739-43cd-8862-889399b8f51b

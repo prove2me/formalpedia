@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_norm_sq_orthogonal_sum_le
 -- name    : Formalism.HermitianLatticeCounting.P.norm_sq_orthogonal_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:32.3606+00:00
 -- url     : https://prove2.me/theorems/07cd766e-8905-4318-a098-2c748148334e

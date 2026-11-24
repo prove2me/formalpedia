@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_degRow
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.degRow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:11:35.324511+00:00
 -- url     : https://prove2.me/theorems/be208511-5c96-4073-b096-7de2c908b818

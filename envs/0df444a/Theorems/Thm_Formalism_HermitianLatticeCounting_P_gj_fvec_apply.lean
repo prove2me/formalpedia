@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gj_fvec_apply
 -- name    : Formalism.HermitianLatticeCounting.P.gj_fvec_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:18.512567+00:00
 -- url     : https://prove2.me/theorems/82af45a6-41f5-4473-8222-1240dd5c43e3

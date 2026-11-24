@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bm_xi_row
 -- name    : Formalism.BranchingDeterminantCap.bm_xi_row
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:44:00.655584+00:00
 -- url     : https://prove2.me/theorems/42601f30-bf71-4e34-be82-56a02fdd83f8

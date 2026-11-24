@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_nFStep_of
 -- name    : Formalism.HermitianLatticeCounting.P.nFStep_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:19.921337+00:00
 -- url     : https://prove2.me/theorems/eefe388e-a4d0-4bec-957d-3dde34e652c2

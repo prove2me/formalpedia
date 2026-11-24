@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.p2m810_inf_cycle_factor
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T00:28:03.202957+00:00
 -- url     : https://prove2.me/submissions/1153ac1e-898e-4aa7-8ac6-6e495b5b313a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_upper_exit_ratio
 import Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_scale_slope_nonnegative

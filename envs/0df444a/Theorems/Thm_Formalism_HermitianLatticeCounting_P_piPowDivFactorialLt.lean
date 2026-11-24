@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_piPowDivFactorialLt
 -- name    : Formalism.HermitianLatticeCounting.P.piPowDivFactorialLt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:31.512791+00:00
 -- url     : https://prove2.me/theorems/faefc313-87f2-4479-9e10-993120959bf5

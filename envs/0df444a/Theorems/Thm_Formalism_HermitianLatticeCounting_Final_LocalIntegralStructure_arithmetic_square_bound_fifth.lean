@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LocalIntegralStructure_arithmetic_square_bound_fifth
 -- name    : Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure.arithmetic_square_bound_fifth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:11.650104+00:00
 -- url     : https://prove2.me/theorems/8ff21e3f-24ce-4e65-8db4-6d5eede371f0

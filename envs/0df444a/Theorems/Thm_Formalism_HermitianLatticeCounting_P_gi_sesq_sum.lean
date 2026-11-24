@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gi_sesq_sum
 -- name    : Formalism.HermitianLatticeCounting.P.gi_sesq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:44.173487+00:00
 -- url     : https://prove2.me/theorems/034acd42-65ab-411b-aadd-f68681d31411

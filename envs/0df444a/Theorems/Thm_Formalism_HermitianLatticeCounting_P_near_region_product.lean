@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_near_region_product
 -- name    : Formalism.HermitianLatticeCounting.P.near_region_product
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:40.110877+00:00
 -- url     : https://prove2.me/theorems/1d4de0d3-0ac4-4efb-9325-7d6fe0804d97

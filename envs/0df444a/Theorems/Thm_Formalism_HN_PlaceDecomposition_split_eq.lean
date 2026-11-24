@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PlaceDecomposition_split_eq
 -- name    : Formalism.HN.PlaceDecomposition.split_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:00:29.007848+00:00
 -- url     : https://prove2.me/theorems/99d9c57a-66c2-4675-9765-84752b25b7bb

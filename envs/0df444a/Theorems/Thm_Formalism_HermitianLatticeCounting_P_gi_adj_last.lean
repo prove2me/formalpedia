@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gi_adj_last
 -- name    : Formalism.HermitianLatticeCounting.P.gi_adj_last
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:29.950218+00:00
 -- url     : https://prove2.me/theorems/04e5f179-5e12-4d42-80db-ce64fe786679

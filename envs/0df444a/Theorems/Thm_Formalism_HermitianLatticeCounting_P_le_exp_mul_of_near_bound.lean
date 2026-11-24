@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_le_exp_mul_of_near_bound
 -- name    : Formalism.HermitianLatticeCounting.P.le_exp_mul_of_near_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:39.271873+00:00
 -- url     : https://prove2.me/theorems/be6db549-a8e5-4cae-b505-f384cca881e9

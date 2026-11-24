@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_sum_range_tsub_from
 -- name    : Formalism.GradedWeylDivisibility.sum_range_tsub_from
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:28.270542+00:00
 -- url     : https://prove2.me/theorems/882d19cd-33e1-40df-ad4a-d91120a2f027

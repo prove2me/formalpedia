@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_paired_sum_exp_bound
 -- name    : Formalism.HermitianLatticeCounting.P.paired_sum_exp_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:39.834435+00:00
 -- url     : https://prove2.me/theorems/c280fe59-67bc-4c6a-8617-feed60e75804

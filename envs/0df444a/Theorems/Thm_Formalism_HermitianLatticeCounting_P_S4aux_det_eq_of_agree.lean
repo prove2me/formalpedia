@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_det_eq_of_agree
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.det_eq_of_agree
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:28.023797+00:00
 -- url     : https://prove2.me/theorems/c3c38a46-15e4-4288-bbf4-c50fe828742f

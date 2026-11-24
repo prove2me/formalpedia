@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_LatticeDataCounting_star_mem
 -- name    : Formalism.HermitianLatticeCounting.P.LatticeDataCounting.star_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:49.090383+00:00
 -- url     : https://prove2.me/theorems/a41a5a83-8589-4431-bf0b-bacaa7967662

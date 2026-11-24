@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_inf_cycle_factor
 -- name    : Kyprianou.Ch08.StageB.p2m810_inf_cycle_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T00:26:10.092344+00:00
 -- url     : https://prove2.me/theorems/cb2645cf-1891-4796-847f-6db6e86be951

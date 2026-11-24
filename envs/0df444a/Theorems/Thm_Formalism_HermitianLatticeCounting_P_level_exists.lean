@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_level_exists
 -- name    : Formalism.HermitianLatticeCounting.P.level_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:49.482579+00:00
 -- url     : https://prove2.me/theorems/cc3ebeca-112d-4229-adfe-bf4dc404dcc8

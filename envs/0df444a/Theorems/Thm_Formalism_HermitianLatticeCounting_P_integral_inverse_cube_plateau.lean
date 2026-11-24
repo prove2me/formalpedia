@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_integral_inverse_cube_plateau
 -- name    : Formalism.HermitianLatticeCounting.P.integral_inverse_cube_plateau
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:12.352802+00:00
 -- url     : https://prove2.me/theorems/5813057c-cf6c-4f48-90c7-dc28f8c204d2

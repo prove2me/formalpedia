@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_Jm_eq_diagonal
 -- name    : FockRL.Jm_eq_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:25.451802+00:00
 -- url     : https://prove2.me/theorems/45cd238c-cb13-4c93-9e84-318a23c2d1d3

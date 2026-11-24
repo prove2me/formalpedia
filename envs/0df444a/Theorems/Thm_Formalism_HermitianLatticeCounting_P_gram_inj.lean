@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gram_inj
 -- name    : Formalism.HermitianLatticeCounting.P.gram_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:24.07538+00:00
 -- url     : https://prove2.me/theorems/e06c6bbd-b5b1-4d49-bfd5-d0ef92eff6ee

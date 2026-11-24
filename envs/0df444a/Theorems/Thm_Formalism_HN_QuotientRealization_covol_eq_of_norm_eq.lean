@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_QuotientRealization_covol_eq_of_norm_eq
 -- name    : Formalism.HN.QuotientRealization.covol_eq_of_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:58:12.869796+00:00
 -- url     : https://prove2.me/theorems/df5fa545-fb7e-43d5-aacd-0eb67dc97211

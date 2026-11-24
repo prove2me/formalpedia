@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_isotropic_complement
 -- name    : Formalism.HermitianLatticeCounting.P.isotropic_complement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:58.975944+00:00
 -- url     : https://prove2.me/theorems/ab97777e-3e1a-4566-b234-9f5ddc542800

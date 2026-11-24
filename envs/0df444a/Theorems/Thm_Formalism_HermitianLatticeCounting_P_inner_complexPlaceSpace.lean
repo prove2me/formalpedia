@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_inner_complexPlaceSpace
 -- name    : Formalism.HermitianLatticeCounting.P.inner_complexPlaceSpace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:23.24794+00:00
 -- url     : https://prove2.me/theorems/4c98ed00-58e3-4620-aa51-d993f46c1a56

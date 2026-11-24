@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_herm_split
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.herm_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:24.768865+00:00
 -- url     : https://prove2.me/theorems/eae77161-9e0f-42e7-b4cc-08e6f39043b4

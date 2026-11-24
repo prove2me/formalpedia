@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LocalIntegralStructure_gramNondeg
 -- name    : Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure.gramNondeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:57:35.865857+00:00
 -- url     : https://prove2.me/theorems/76ccfc67-0331-4381-bd09-6a49d416ea45

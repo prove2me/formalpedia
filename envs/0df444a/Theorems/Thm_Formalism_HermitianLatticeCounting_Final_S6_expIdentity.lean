@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_expIdentity
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.expIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:37.665989+00:00
 -- url     : https://prove2.me/theorems/a7b979aa-0776-489c-9eb6-48cf328fd0e2

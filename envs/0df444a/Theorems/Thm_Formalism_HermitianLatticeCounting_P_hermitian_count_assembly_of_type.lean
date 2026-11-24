@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_hermitian_count_assembly_of_type
 -- name    : Formalism.HermitianLatticeCounting.P.hermitian_count_assembly_of_type
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:31.59443+00:00
 -- url     : https://prove2.me/theorems/1e0c95e2-76ed-4e11-a2a8-e8f230f156e0

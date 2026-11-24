@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_coefficient_isometry
 -- name    : Formalism.HermitianLatticeCounting.P.coefficient_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:42.510545+00:00
 -- url     : https://prove2.me/theorems/fd529c36-dd4c-4049-a79d-21aebdb42c46

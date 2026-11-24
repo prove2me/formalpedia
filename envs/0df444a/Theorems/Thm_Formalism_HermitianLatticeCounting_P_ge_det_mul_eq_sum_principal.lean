@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_ge_det_mul_eq_sum_principal
 -- name    : Formalism.HermitianLatticeCounting.P.ge_det_mul_eq_sum_principal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:14.430312+00:00
 -- url     : https://prove2.me/theorems/b5d8c263-5a31-4b10-836b-94a053471540

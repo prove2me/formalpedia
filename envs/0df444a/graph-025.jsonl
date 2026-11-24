@@ -28377,8 +28377,8 @@
 {"parent": "BookProof.YangMillsNonAbelianEsa.polyW_weylPotPoly", "child": "ChapterQgHermiteCore", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.unitary_trace_two_eq_one", "child": "OAI_NumberTheory_DirichletL_Eisenstein_FundamentalDomain", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.unitary_trace_two_eq_one", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_GlobalBinLoss", "via": ["solution", "statement"]}
-{"parent": "DepthOneQExp.eq_2_43", "child": "DepthOneQExp_cnotAvg", "via": ["statement"]}
-{"parent": "DepthOneQExp.eq_2_43", "child": "DepthOneQExp_spanProj", "via": ["statement"]}
+{"parent": "DepthOneQExp.eq_2_43", "child": "DepthOneQExp_cnotAvg", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.eq_2_43", "child": "DepthOneQExp_spanProj", "via": ["solution", "statement"]}
 {"parent": "Grunbaum2003.rayMachine_perturbed_midpoint_cramer_and_incidence_composition", "child": "Grunbaum2003_RayInstruction", "via": ["solution", "statement"]}
 {"parent": "Grunbaum2003.rayMachine_perturbed_midpoint_cramer_and_incidence_composition", "child": "Grunbaum2003_rayMachineStep", "via": ["solution", "statement"]}
 {"parent": "Grunbaum2003.rayMachine_perturbed_midpoint_cramer_and_incidence_composition", "child": "Grunbaum2003_IsPolytopeRayOracle", "via": ["solution", "statement"]}
@@ -35473,9 +35473,9 @@
 {"parent": "CutRankSched_IsSchedule", "child": "CutRankSched_Instance", "via": ["statement"]}
 {"parent": "ZamirInversion581.Mult.ideal_identity", "child": "ZamirInversion581_Mult_Inverter", "via": ["statement"]}
 {"parent": "ZamirInversion581.Mult.ideal_identity", "child": "ZamirInversion581_Mult_SchurExecution", "via": ["statement"]}
-{"parent": "DepthOneQExp.eq_2_51_2_52", "child": "DepthOneQExp_aVec", "via": ["statement"]}
-{"parent": "DepthOneQExp.eq_2_51_2_52", "child": "DepthOneQExp_hOp", "via": ["statement"]}
-{"parent": "DepthOneQExp.eq_2_51_2_52", "child": "MITMSynthesis_Gate", "via": ["statement"]}
+{"parent": "DepthOneQExp.eq_2_51_2_52", "child": "DepthOneQExp_aVec", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.eq_2_51_2_52", "child": "DepthOneQExp_hOp", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.eq_2_51_2_52", "child": "MITMSynthesis_Gate", "via": ["solution", "statement"]}
 {"parent": "ResultantVNP_symTensorDet", "child": "ResultantVNP_tensorDet", "via": ["statement"]}
 {"parent": "IncoherentPurity.Adaptive.uniform_povm_moments", "child": "IncoherentPurity_Adaptive_Analytic", "via": ["statement"]}
 {"parent": "IncoherentPurity.Adaptive.uniform_povm_moments", "child": "IncoherentPurity_Adaptive_Estimators", "via": ["statement"]}
@@ -38192,8 +38192,8 @@
 {"parent": "OAI.SharpPlanar.CachedData.ha19_0_4_contains_g", "child": "OAIQ098G083", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.ha19_0_4_contains_g", "child": "OAIQ098G1680", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.ha19_0_4_contains_g", "child": "OAIQ098G388", "via": ["solution", "statement"]}
-{"parent": "DepthOneQExp.eq_2_45", "child": "DepthOneQExp_piProj", "via": ["statement"]}
-{"parent": "DepthOneQExp.eq_2_45", "child": "DepthOneQExp_hOp", "via": ["statement"]}
+{"parent": "DepthOneQExp.eq_2_45", "child": "DepthOneQExp_piProj", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.eq_2_45", "child": "DepthOneQExp_hOp", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm31_1_0_6.sums_eq_g", "child": "OAIQ098G1141", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm31_1_0_6.sums_eq_g", "child": "OAIQ098G1133", "via": ["solution", "statement"]}
 {"parent": "InflMaxAdapt_edgeCascade", "child": "InflMaxAdapt_ConnSet", "via": ["statement"]}
@@ -41543,8 +41543,8 @@
 {"parent": "InflMaxAdapt.eq_3", "child": "InflMaxAdapt_excess", "via": ["statement"]}
 {"parent": "InflMaxAdapt.eq_3", "child": "InflMaxAdapt_seedProb", "via": ["statement"]}
 {"parent": "InflMaxAdapt.eq_3", "child": "InflMaxAdapt_kappa", "via": ["statement"]}
-{"parent": "DepthOneQExp.theorem_2_11", "child": "DepthOneQExp_kazhdan", "via": ["statement"]}
-{"parent": "DepthOneQExp.theorem_2_11", "child": "DepthOneQExp_sigma", "via": ["statement"]}
+{"parent": "DepthOneQExp.theorem_2_11", "child": "DepthOneQExp_kazhdan", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.theorem_2_11", "child": "DepthOneQExp_sigma", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.euclideanWeylAction_apply", "child": "OAI_NumberTheory_DirichletL_Eisenstein_HyperbolicVolume", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.euclideanWeylAction_apply", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ArithmeticBins", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval224_e", "child": "MUBSix", "via": ["solution", "statement"]}
@@ -41975,9 +41975,9 @@
 {"parent": "OAI.SharpPlanar.IntegerIntervals.horner_step_g", "child": "OAIQ098G083", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.IntegerIntervals.horner_step_g", "child": "OAIQ098G076", "via": ["solution", "statement"]}
 {"parent": "OnlinePerceptronIsolation.Binary.theorem_3_6", "child": "OnlinePerceptronIsolation_Binary_Isolation", "via": ["statement"]}
-{"parent": "DepthOneQExp.lemma_2_4", "child": "DepthOneQExp_kazhdan", "via": ["statement"]}
-{"parent": "DepthOneQExp.lemma_2_4", "child": "ConstGapCircuits_compactGroups", "via": ["statement"]}
-{"parent": "DepthOneQExp.lemma_2_4", "child": "ConstGapCircuits_spectralGap", "via": ["statement"]}
+{"parent": "DepthOneQExp.lemma_2_4", "child": "DepthOneQExp_kazhdan", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.lemma_2_4", "child": "ConstGapCircuits_compactGroups", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.lemma_2_4", "child": "ConstGapCircuits_spectralGap", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm3_1_0_3.s2_eq_g", "child": "OAIQ098G1239", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm3_1_0_3.s2_eq_g", "child": "OAIQ098G1225", "via": ["solution", "statement"]}
 {"parent": "AutobidSPPE_endpointBox", "child": "AutobidSPPE_endpointFloor", "via": ["statement"]}

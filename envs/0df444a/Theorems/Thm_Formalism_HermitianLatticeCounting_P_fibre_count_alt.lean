@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_fibre_count_alt
 -- name    : Formalism.HermitianLatticeCounting.P.fibre_count_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:03.610418+00:00
 -- url     : https://prove2.me/theorems/ee2f455d-03fa-4f3b-8c39-13e2dbc1ae9c

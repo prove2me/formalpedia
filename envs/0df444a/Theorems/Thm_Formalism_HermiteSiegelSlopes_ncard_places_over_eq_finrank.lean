@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermiteSiegelSlopes_ncard_places_over_eq_finrank
 -- name    : Formalism.HermiteSiegelSlopes.ncard_places_over_eq_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:58:07.54906+00:00
 -- url     : https://prove2.me/theorems/2e8ada02-ae6b-4a99-b303-be9e6014c0c1

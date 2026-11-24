@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_trace_diagonal_bis
 -- name    : Formalism.HermitianLatticeCounting.P.trace_diagonal_bis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:31.880094+00:00
 -- url     : https://prove2.me/theorems/c16bce2e-e3a2-4491-ae3f-ceefd735fd79

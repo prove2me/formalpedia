@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_ExpansionTerms_e4aVanish
 -- name    : Formalism.HermitianLatticeCounting.Final.ExpansionTerms.e4aVanish
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:10:44.233803+00:00
 -- url     : https://prove2.me/theorems/ca263711-fdb2-4700-864b-6253eccbfbbd

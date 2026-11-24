@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_full_span
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.full_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:20.060868+00:00
 -- url     : https://prove2.me/theorems/8714660a-1d59-487b-87b0-95c242a27900

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmD_nil
 -- name    : Formalism.BranchingDeterminantCap.bmD_nil
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:20:45.84184+00:00
 -- url     : https://prove2.me/theorems/9f06649a-625d-4957-8b33-f989d47b292b

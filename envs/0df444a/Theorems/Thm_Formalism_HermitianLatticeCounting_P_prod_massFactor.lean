@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_prod_massFactor
 -- name    : Formalism.HermitianLatticeCounting.P.prod_massFactor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:37.362163+00:00
 -- url     : https://prove2.me/theorems/5b00188a-23b6-4431-a2f8-447fe67b32ce

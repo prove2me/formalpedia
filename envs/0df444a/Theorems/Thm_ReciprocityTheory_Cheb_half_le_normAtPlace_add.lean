@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_half_le_normAtPlace_add
 -- name    : ReciprocityTheory.Cheb.half_le_normAtPlace_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:08.450358+00:00
 -- url     : https://prove2.me/theorems/09d2b73c-b068-4a93-86bd-6fd5cb6a3e63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_lifting_isometry_weight
 -- name    : Formalism.HermitianLatticeCounting.P.lifting_isometry_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:38:08.804964+00:00
 -- url     : https://prove2.me/theorems/8e0b4cbb-5baf-4d06-8aa9-a0d860c74229

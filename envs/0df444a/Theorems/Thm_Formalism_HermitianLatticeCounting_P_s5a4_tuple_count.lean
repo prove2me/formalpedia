@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5a4_tuple_count
 -- name    : Formalism.HermitianLatticeCounting.P.s5a4_tuple_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:02.25163+00:00
 -- url     : https://prove2.me/theorems/caf8e60c-2551-46a6-a4d8-f06a06196676

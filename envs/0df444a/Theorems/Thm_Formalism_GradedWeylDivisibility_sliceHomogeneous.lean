@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_sliceHomogeneous
 -- name    : Formalism.GradedWeylDivisibility.sliceHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:00.853712+00:00
 -- url     : https://prove2.me/theorems/8c969c9e-f96a-47e1-a835-76d40bf33ac7

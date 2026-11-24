@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_move_preserves_weight
 -- name    : Formalism.HermitianLatticeCounting.P.move_preserves_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:03.849653+00:00
 -- url     : https://prove2.me/theorems/5aeff3d1-16ff-4b8c-b000-519f8dbc298f

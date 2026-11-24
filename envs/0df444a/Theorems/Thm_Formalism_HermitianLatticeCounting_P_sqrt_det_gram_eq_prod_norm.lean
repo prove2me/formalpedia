@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_sqrt_det_gram_eq_prod_norm
 -- name    : Formalism.HermitianLatticeCounting.P.sqrt_det_gram_eq_prod_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:29:55.270793+00:00
 -- url     : https://prove2.me/theorems/89f3ca27-c4f2-4f8e-9c9b-cbf0ac02c110

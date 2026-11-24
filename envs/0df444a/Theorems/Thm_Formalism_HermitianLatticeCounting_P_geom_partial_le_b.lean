@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_geom_partial_le_b
 -- name    : Formalism.HermitianLatticeCounting.P.geom_partial_le_b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:31.991118+00:00
 -- url     : https://prove2.me/theorems/38d353b8-8a1c-420b-b8d2-92ffe4f8c33a

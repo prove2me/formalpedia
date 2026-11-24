@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_assembly_of_second_bound
 -- name    : Formalism.HermitianLatticeCounting.P.assembly_of_second_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:15.538799+00:00
 -- url     : https://prove2.me/theorems/b5441b31-7585-4db3-b490-60b8b163321e

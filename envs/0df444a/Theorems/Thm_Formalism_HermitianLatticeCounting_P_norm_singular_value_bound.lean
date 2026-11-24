@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_norm_singular_value_bound
 -- name    : Formalism.HermitianLatticeCounting.P.norm_singular_value_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:38.375159+00:00
 -- url     : https://prove2.me/theorems/62afce29-a763-4790-b652-b991b9c06b72

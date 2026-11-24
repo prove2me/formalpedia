@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_Part2_eich_smul
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.Part2.eich_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:05.823846+00:00
 -- url     : https://prove2.me/theorems/86840c8d-ec2c-4382-ad93-4aaf3d01bfe7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_exponent_inequality_single
 -- name    : Formalism.HermitianLatticeCounting.P.exponent_inequality_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:10.295488+00:00
 -- url     : https://prove2.me/theorems/673e25c9-98f8-4c65-88d7-f21b8d8fe231

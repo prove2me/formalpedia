@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_fock_space_row_divided_adjoint
 -- name    : Formalism.GradedWeylDivisibility.fock_space_row_divided_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:58:38.592121+00:00
 -- url     : https://prove2.me/theorems/4967567d-6620-456a-9bfa-7b1a9d1edb48

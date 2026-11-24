@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_blockMinorSumPowSixtyFour_of_blockMinorSumExplicit
 -- name    : Formalism.HermitianLatticeCounting.P.blockMinorSumPowSixtyFour_of_blockMinorSumExplicit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:37.4158+00:00
 -- url     : https://prove2.me/theorems/b39a2bff-eef9-42d6-a1d3-44a11928c9c6

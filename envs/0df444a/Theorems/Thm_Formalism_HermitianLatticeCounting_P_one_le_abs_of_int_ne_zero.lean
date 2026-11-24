@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_one_le_abs_of_int_ne_zero
 -- name    : Formalism.HermitianLatticeCounting.P.one_le_abs_of_int_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:34.434169+00:00
 -- url     : https://prove2.me/theorems/686ae4b5-fbd3-4f3e-83a8-0fefd05ee0cf

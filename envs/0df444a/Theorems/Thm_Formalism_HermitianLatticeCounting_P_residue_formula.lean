@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_residue_formula
 -- name    : Formalism.HermitianLatticeCounting.P.residue_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:16.784009+00:00
 -- url     : https://prove2.me/theorems/63b4c982-1d46-4b0a-b31f-95d988c70ae2

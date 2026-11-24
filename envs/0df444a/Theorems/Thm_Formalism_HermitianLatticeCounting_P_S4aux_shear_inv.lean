@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_shear_inv
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.shear_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:35.942628+00:00
 -- url     : https://prove2.me/theorems/85351b19-54b8-4c21-b760-c131dad77383

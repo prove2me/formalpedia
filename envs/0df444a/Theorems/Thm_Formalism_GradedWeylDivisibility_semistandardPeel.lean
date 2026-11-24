@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_semistandardPeel
 -- name    : Formalism.GradedWeylDivisibility.semistandardPeel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:18.640557+00:00
 -- url     : https://prove2.me/theorems/cde30490-1baf-463b-b3f7-210d3e33e8be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gl_radial_integral
 -- name    : Formalism.HermitianLatticeCounting.P.gl_radial_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:43.440671+00:00
 -- url     : https://prove2.me/theorems/477ade28-cc71-40ad-8d59-f82d9b0391af

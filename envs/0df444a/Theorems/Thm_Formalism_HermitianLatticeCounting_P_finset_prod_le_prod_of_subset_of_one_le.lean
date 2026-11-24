@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_finset_prod_le_prod_of_subset_of_one_le
 -- name    : Formalism.HermitianLatticeCounting.P.finset_prod_le_prod_of_subset_of_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:54.672904+00:00
 -- url     : https://prove2.me/theorems/f2485c1b-e65b-4e15-a379-ebe6f7d6f4fa

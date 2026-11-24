@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_matrix_line_sums
 -- name    : Formalism.HermitianLatticeCounting.P.matrix_line_sums
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:45.99775+00:00
 -- url     : https://prove2.me/theorems/8f77faea-3b16-40c5-ab13-cafb33a07608

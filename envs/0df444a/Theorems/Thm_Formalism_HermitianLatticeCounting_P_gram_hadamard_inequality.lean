@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gram_hadamard_inequality
 -- name    : Formalism.HermitianLatticeCounting.P.gram_hadamard_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:33.493018+00:00
 -- url     : https://prove2.me/theorems/3df1aa65-7f26-4b2c-9fa1-8f5c32af24c1

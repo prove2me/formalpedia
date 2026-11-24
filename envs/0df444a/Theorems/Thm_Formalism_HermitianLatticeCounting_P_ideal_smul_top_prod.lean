@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_ideal_smul_top_prod
 -- name    : Formalism.HermitianLatticeCounting.P.ideal_smul_top_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:54.116968+00:00
 -- url     : https://prove2.me/theorems/f6a359d6-28bf-4289-b6e7-200a89e1d20e

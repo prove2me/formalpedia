@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_foldr_mem_filtration
 -- name    : Formalism.HermitianLatticeCounting.P.foldr_mem_filtration
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:20.125343+00:00
 -- url     : https://prove2.me/theorems/d96318d1-9f00-4ad8-81fa-d3a05782e11e

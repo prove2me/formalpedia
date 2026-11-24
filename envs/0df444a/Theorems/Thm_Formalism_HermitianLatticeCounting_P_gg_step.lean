@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gg_step
 -- name    : Formalism.HermitianLatticeCounting.P.gg_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:39.096915+00:00
 -- url     : https://prove2.me/theorems/cd2b9690-4954-4d61-89bb-507587d2bbe1

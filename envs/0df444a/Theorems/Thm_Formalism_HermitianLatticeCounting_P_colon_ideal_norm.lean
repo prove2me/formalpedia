@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_colon_ideal_norm
 -- name    : Formalism.HermitianLatticeCounting.P.colon_ideal_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:45.641517+00:00
 -- url     : https://prove2.me/theorems/f84b2788-6de4-4fdb-97c6-c3770889e09d

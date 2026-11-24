@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_relIndex_eq_ncard
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.relIndex_eq_ncard
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:36.528974+00:00
 -- url     : https://prove2.me/theorems/bc4c8e29-f3f9-445c-8a70-afe195342b9a

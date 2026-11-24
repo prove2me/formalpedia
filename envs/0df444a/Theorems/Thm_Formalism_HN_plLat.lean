@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_plLat
 -- name    : Formalism.HN.plLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:25:28.783356+00:00
 -- url     : https://prove2.me/theorems/c398bb38-8c18-4a10-943d-56b1837afbae

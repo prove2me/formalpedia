@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PlaceDecomposition_piece_eq_map
 -- name    : Formalism.HN.PlaceDecomposition.piece_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:54:02.920891+00:00
 -- url     : https://prove2.me/theorems/ab02a578-8efa-4d54-affe-ce201b9e7f59

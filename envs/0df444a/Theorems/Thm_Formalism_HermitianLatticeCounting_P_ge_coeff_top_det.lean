@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_ge_coeff_top_det
 -- name    : Formalism.HermitianLatticeCounting.P.ge_coeff_top_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:24.696447+00:00
 -- url     : https://prove2.me/theorems/45624020-244d-4f11-93e6-2163cc85e3f9

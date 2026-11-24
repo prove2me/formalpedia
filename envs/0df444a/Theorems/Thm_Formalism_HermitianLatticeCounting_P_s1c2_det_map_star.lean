@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s1c2_det_map_star
 -- name    : Formalism.HermitianLatticeCounting.P.s1c2_det_map_star
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:03.93372+00:00
 -- url     : https://prove2.me/theorems/53ea84be-70cb-4be2-bf02-606b7e23a9d5

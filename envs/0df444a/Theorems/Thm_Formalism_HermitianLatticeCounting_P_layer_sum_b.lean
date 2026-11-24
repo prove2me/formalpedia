@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_layer_sum_b
 -- name    : Formalism.HermitianLatticeCounting.P.layer_sum_b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:28.279809+00:00
 -- url     : https://prove2.me/theorems/4c6c0fca-baa5-46b6-8213-1254d31e9c48

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_isAnisotropicOfPosDef
 -- name    : Formalism.HermitianLatticeCounting.P.isAnisotropicOfPosDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:58.145625+00:00
 -- url     : https://prove2.me/theorems/1422d755-78c2-45b2-85d4-bf96e39a32f9

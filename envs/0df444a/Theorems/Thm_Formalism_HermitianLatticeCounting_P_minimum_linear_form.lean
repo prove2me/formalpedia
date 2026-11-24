@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_minimum_linear_form
 -- name    : Formalism.HermitianLatticeCounting.P.minimum_linear_form
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:38:04.374883+00:00
 -- url     : https://prove2.me/theorems/08531403-cb64-4fb0-ae1c-cec05d2398c0

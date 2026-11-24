@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_measurePreserving_pi_comp_prod
 -- name    : Formalism.HermitianLatticeCounting.P.measurePreserving_pi_comp_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:53.476258+00:00
 -- url     : https://prove2.me/theorems/6569c54f-e55b-4549-8d11-d6d2447ad6ce

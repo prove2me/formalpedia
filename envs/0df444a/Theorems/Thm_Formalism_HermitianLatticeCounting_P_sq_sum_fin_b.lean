@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_sq_sum_fin_b
 -- name    : Formalism.HermitianLatticeCounting.P.sq_sum_fin_b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:16.663714+00:00
 -- url     : https://prove2.me/theorems/ee2a3f3f-d215-4f0e-bbd0-e9387139a788

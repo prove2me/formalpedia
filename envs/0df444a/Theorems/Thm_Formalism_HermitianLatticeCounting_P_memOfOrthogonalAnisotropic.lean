@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_memOfOrthogonalAnisotropic
 -- name    : Formalism.HermitianLatticeCounting.P.memOfOrthogonalAnisotropic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:53.762606+00:00
 -- url     : https://prove2.me/theorems/277d154d-182a-4959-bd4b-db1a00be36cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_list_prod_ofFn_update_adjacent
 -- name    : Formalism.HermitianLatticeCounting.P.list_prod_ofFn_update_adjacent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:53.904632+00:00
 -- url     : https://prove2.me/theorems/ae9d9b75-1341-4954-843f-59ed63fb67fd

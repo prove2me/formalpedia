@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_height_gram_determinant
 -- name    : Formalism.HN.height_gram_determinant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:13:00.341163+00:00
 -- url     : https://prove2.me/theorems/fc10372d-dbaa-4b1b-8e98-f4852e8c7994

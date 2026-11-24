@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_duality_basic
 -- name    : Formalism.HN.duality_basic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:36:27.790793+00:00
 -- url     : https://prove2.me/theorems/a9ef321c-7207-4c78-ab38-e299f72c458f

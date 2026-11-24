@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_explicit_constant_bound
 -- name    : Formalism.HermitianLatticeCounting.P.explicit_constant_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:05.684937+00:00
 -- url     : https://prove2.me/theorems/6610742a-63fa-4208-a903-2e734f83ecd8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gc_inner
 -- name    : Formalism.HermitianLatticeCounting.P.gc_inner
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:21.261513+00:00
 -- url     : https://prove2.me/theorems/c5c2b361-cf4e-4231-b797-141a0c81b17f

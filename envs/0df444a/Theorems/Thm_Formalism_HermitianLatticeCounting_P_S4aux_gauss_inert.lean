@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_gauss_inert
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.gauss_inert
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:22.352854+00:00
 -- url     : https://prove2.me/theorems/3fd3c07d-ceff-4ae6-9584-0fcb4b1247aa

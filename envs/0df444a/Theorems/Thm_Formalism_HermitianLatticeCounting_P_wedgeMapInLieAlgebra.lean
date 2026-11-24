@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_wedgeMapInLieAlgebra
 -- name    : Formalism.HermitianLatticeCounting.P.wedgeMapInLieAlgebra
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:10:16.313255+00:00
 -- url     : https://prove2.me/theorems/85cedf6c-42ad-4c48-95be-1a827cc0959b

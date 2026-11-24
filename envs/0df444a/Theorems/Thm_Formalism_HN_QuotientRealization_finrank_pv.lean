@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_QuotientRealization_finrank_pv
 -- name    : Formalism.HN.QuotientRealization.finrank_pv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:50.815008+00:00
 -- url     : https://prove2.me/theorems/8dca7f38-f454-4b5a-be81-20322033866b

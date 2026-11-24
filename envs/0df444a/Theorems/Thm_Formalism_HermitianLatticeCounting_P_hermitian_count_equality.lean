@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_hermitian_count_equality
 -- name    : Formalism.HermitianLatticeCounting.P.hermitian_count_equality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:39.607818+00:00
 -- url     : https://prove2.me/theorems/b125b3df-06cf-4821-8fa3-f7cbf98afb3c

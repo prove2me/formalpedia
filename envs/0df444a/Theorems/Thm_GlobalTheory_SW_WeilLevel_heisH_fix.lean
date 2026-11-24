@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilLevel_heisH_fix
 -- name    : GlobalTheory.SW.WeilLevel.heisH_fix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:05.257511+00:00
 -- url     : https://prove2.me/theorems/5cddccc5-e60d-4378-909f-e1ad0bf0f514

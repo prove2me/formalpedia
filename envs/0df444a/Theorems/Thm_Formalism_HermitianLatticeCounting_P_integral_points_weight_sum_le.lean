@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_integral_points_weight_sum_le
 -- name    : Formalism.HermitianLatticeCounting.P.integral_points_weight_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:12.88481+00:00
 -- url     : https://prove2.me/theorems/bfad4adb-ac5e-4396-87ce-befcc0846c96

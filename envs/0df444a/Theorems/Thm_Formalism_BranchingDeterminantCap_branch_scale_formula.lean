@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_branch_scale_formula
 -- name    : Formalism.BranchingDeterminantCap.branch_scale_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:24:03.786927+00:00
 -- url     : https://prove2.me/theorems/74d2e3f6-0f68-419b-800b-751496cddeef

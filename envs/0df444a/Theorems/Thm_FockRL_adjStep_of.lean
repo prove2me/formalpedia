@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_adjStep_of
 -- name    : FockRL.adjStep_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:19.652077+00:00
 -- url     : https://prove2.me/theorems/60ebfd7b-f616-471e-b927-7903b9d6e7c3

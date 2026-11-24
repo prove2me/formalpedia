@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_kernel_average
 -- name    : Formalism.HermitianLatticeCounting.P.kernel_average
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:16.362793+00:00
 -- url     : https://prove2.me/theorems/d560c8bc-3651-40e8-b95a-96307298d875

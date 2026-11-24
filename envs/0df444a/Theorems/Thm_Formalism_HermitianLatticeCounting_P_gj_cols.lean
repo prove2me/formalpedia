@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gj_cols
 -- name    : Formalism.HermitianLatticeCounting.P.gj_cols
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:26.022752+00:00
 -- url     : https://prove2.me/theorems/ce50884f-a256-4caf-8238-035e02524606

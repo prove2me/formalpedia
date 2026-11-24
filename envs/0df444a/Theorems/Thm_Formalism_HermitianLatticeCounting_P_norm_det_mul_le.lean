@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_norm_det_mul_le
 -- name    : Formalism.HermitianLatticeCounting.P.norm_det_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:23.395685+00:00
 -- url     : https://prove2.me/theorems/16a98557-a887-4116-9bbc-90cd9b178be0

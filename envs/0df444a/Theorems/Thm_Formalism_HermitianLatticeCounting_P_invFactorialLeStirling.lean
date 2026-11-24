@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_invFactorialLeStirling
 -- name    : Formalism.HermitianLatticeCounting.P.invFactorialLeStirling
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:53.061104+00:00
 -- url     : https://prove2.me/theorems/726e81af-8e05-40b5-9b12-33fbfc72ba77

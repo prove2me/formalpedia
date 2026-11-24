@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_nondegenerateRowBound
 -- name    : Formalism.HermitianLatticeCounting.P.nondegenerateRowBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:30.171848+00:00
 -- url     : https://prove2.me/theorems/4e651dec-3878-4516-a289-ece13e0c40a4

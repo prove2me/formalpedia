@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_minus2_eq
 -- name    : PI.FockOneDegW.minus2_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:28.244683+00:00
 -- url     : https://prove2.me/theorems/81a4158c-2fde-4cad-aec1-a856c5e318c7

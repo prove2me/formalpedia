@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_pairing_lastVector_right_eq_zero
 -- name    : Formalism.HermitianLatticeCounting.P.pairing_lastVector_right_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:33.94721+00:00
 -- url     : https://prove2.me/theorems/f7d1f5f5-4774-4396-be6d-6ad441fdcf91

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_adjugateLastColumnEqCofactor
 -- name    : Formalism.HermitianLatticeCounting.P.adjugateLastColumnEqCofactor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:28.877799+00:00
 -- url     : https://prove2.me/theorems/3f7deadc-3cda-48b5-a92b-8f7966e951af

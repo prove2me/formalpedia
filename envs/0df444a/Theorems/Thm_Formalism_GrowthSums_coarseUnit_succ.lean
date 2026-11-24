@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GrowthSums_coarseUnit_succ
 -- name    : Formalism.GrowthSums.coarseUnit_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:06.973564+00:00
 -- url     : https://prove2.me/theorems/7ffc369e-9545-4d63-80b6-b661027b6c91

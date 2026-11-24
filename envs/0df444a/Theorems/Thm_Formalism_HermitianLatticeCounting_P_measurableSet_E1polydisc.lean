@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_measurableSet_E1polydisc
 -- name    : Formalism.HermitianLatticeCounting.P.measurableSet_E1polydisc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:52.383+00:00
 -- url     : https://prove2.me/theorems/dd4cf3da-9d3b-44a1-95df-69ac8e028a69

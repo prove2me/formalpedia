@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_sumDegenerateRowsLe
 -- name    : Formalism.HermitianLatticeCounting.P.sumDegenerateRowsLe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:56.70364+00:00
 -- url     : https://prove2.me/theorems/d78b9f94-566d-4211-b755-a0ecd12ed24a

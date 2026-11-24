@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GrowthSums_blockFactorialQuotientProd
 -- name    : Formalism.GrowthSums.blockFactorialQuotientProd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:14.093079+00:00
 -- url     : https://prove2.me/theorems/2cf25cba-35e4-4a29-8b0d-8fd90888e3ad

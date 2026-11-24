@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_singleRowBound
 -- name    : Formalism.HermitianLatticeCounting.P.singleRowBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:53.022368+00:00
 -- url     : https://prove2.me/theorems/530e91c7-a020-4ab3-adf9-ded11f2ec566

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_mul_signed_four_sum_mul_eq
 -- name    : Formalism.HermitianLatticeCounting.P.mul_signed_four_sum_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:02.586698+00:00
 -- url     : https://prove2.me/theorems/082b102c-961c-44b8-a62b-80727c5b9c4b

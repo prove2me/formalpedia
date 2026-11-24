@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_card_injective_fin_le_factorial
 -- name    : Formalism.HermitianLatticeCounting.P.card_injective_fin_le_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:37.470221+00:00
 -- url     : https://prove2.me/theorems/b7d328f4-906b-4728-93c6-309ea5ea931b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_colon_count_of_hyp
 -- name    : Formalism.HermitianLatticeCounting.P.colon_count_of_hyp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:02:38.956702+00:00
 -- url     : https://prove2.me/theorems/09c44ff4-e9c2-473c-aed9-77f9171b08c6

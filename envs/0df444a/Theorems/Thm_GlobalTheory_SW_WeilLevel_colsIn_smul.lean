@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilLevel_colsIn_smul
 -- name    : GlobalTheory.SW.WeilLevel.colsIn_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:08.093175+00:00
 -- url     : https://prove2.me/theorems/7461f449-69d4-4b6f-9106-dada3d6fdf3e

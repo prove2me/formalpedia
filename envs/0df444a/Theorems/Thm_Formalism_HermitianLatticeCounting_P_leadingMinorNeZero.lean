@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_leadingMinorNeZero
 -- name    : Formalism.HermitianLatticeCounting.P.leadingMinorNeZero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:40.19802+00:00
 -- url     : https://prove2.me/theorems/dc0219f0-eac5-4cc6-be38-48f2783415a7

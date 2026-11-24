@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5b7_unit_ball
 -- name    : Formalism.HermitianLatticeCounting.P.s5b7_unit_ball
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:26.930478+00:00
 -- url     : https://prove2.me/theorems/5f1dccc8-38b8-43f6-bdda-b9919444e00d

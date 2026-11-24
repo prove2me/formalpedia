@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_corollary_lower_estimate_holds
 -- name    : Formalism.HermitianLatticeCounting.P.corollary_lower_estimate_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:22.344805+00:00
 -- url     : https://prove2.me/theorems/2c9d84b3-f7ab-4bac-ba18-2c3cf685adcf

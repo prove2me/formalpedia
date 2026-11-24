@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_geomPowers
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.geomPowers
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:30:48.419794+00:00
 -- url     : https://prove2.me/theorems/7cce6546-06a1-4657-b651-612bdac64998

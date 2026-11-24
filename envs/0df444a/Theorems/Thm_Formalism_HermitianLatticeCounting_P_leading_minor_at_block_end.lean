@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_leading_minor_at_block_end
 -- name    : Formalism.HermitianLatticeCounting.P.leading_minor_at_block_end
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:10:12.748935+00:00
 -- url     : https://prove2.me/theorems/e17ddee4-3d7c-4326-b725-0b6f06c7c3cd

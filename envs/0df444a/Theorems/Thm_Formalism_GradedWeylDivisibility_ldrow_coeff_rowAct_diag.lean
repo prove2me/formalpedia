@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_ldrow_coeff_rowAct_diag
 -- name    : Formalism.GradedWeylDivisibility.ldrow_coeff_rowAct_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:14:24.779785+00:00
 -- url     : https://prove2.me/theorems/e6ec701c-f938-4d33-850d-d5769412170d

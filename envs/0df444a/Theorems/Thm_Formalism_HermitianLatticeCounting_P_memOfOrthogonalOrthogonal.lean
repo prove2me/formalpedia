@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_memOfOrthogonalOrthogonal
 -- name    : Formalism.HermitianLatticeCounting.P.memOfOrthogonalOrthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:38:13.841558+00:00
 -- url     : https://prove2.me/theorems/34f97558-2a2f-4404-acf9-be76e3167647

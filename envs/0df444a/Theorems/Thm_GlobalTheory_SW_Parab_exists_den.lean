@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Parab_exists_den
 -- name    : GlobalTheory.SW.Parab.exists_den
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:15.527798+00:00
 -- url     : https://prove2.me/theorems/400149a3-793b-46d3-8e75-040092b7db19

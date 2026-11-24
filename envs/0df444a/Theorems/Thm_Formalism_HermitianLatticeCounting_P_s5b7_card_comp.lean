@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5b7_card_comp
 -- name    : Formalism.HermitianLatticeCounting.P.s5b7_card_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:04.747515+00:00
 -- url     : https://prove2.me/theorems/a92a02f8-5b46-4035-90ac-45c4b1a5a269

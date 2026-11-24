@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_homomorphism_count
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.homomorphism_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:19.474437+00:00
 -- url     : https://prove2.me/theorems/4358a381-3d7d-4452-b07e-1e2b9e2b2f93

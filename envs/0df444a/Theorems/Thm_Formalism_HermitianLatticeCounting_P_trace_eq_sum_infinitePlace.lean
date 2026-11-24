@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_trace_eq_sum_infinitePlace
 -- name    : Formalism.HermitianLatticeCounting.P.trace_eq_sum_infinitePlace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:32.996926+00:00
 -- url     : https://prove2.me/theorems/7348768a-6bc3-49df-a095-0959177ab09a

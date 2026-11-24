@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_lie_algebra_nilpotent_part_holds
 -- name    : Formalism.HermitianLatticeCounting.P.lie_algebra_nilpotent_part_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:51.483544+00:00
 -- url     : https://prove2.me/theorems/b320234f-aa90-4418-858a-887a47fd0ed9

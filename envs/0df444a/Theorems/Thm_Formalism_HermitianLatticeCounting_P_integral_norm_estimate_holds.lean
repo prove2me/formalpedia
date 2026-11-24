@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_integral_norm_estimate_holds
 -- name    : Formalism.HermitianLatticeCounting.P.integral_norm_estimate_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:55.110037+00:00
 -- url     : https://prove2.me/theorems/a2e2b988-4e1e-4992-b2ea-c9aaa5ccc194

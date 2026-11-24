@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_minkowski_number_dvd_factorial
 -- name    : Formalism.HermitianLatticeCounting.P.minkowski_number_dvd_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:50:16.540355+00:00
 -- url     : https://prove2.me/theorems/d41de92e-0bf9-4d03-a103-24ebf40c2656

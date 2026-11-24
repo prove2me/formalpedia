@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_norm_placeEmbedding_sub
 -- name    : Formalism.HermitianLatticeCounting.P.norm_placeEmbedding_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:26.016584+00:00
 -- url     : https://prove2.me/theorems/f2e15cd3-c438-46cc-92e2-62b1a36f69a4

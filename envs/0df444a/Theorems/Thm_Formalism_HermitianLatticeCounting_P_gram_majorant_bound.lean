@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gram_majorant_bound
 -- name    : Formalism.HermitianLatticeCounting.P.gram_majorant_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:34.615359+00:00
 -- url     : https://prove2.me/theorems/d9671e07-9497-464c-907f-3e855bdfffde

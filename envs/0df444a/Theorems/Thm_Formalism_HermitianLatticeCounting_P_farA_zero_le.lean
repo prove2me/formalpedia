@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_farA_zero_le
 -- name    : Formalism.HermitianLatticeCounting.P.farA_zero_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:29.590969+00:00
 -- url     : https://prove2.me/theorems/cb0bcc55-ce07-4cdb-9a08-bd284dc74014

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_normMinorMonomialLe
 -- name    : Formalism.HermitianLatticeCounting.P.normMinorMonomialLe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:29.983631+00:00
 -- url     : https://prove2.me/theorems/6eb7134d-e62a-43df-85d6-460b08bbc14f

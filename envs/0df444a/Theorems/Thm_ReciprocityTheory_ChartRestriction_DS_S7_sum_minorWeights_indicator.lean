@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_sum_minorWeights_indicator
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.sum_minorWeights_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:09:16.554869+00:00
 -- url     : https://prove2.me/theorems/ae8ba2c6-2bda-4092-bea1-9bf97f249472

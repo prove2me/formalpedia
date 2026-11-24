@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_sumA_bound
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.sumA_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:41.14337+00:00
 -- url     : https://prove2.me/theorems/ee23f1d3-0c59-4a21-8a60-b0c22aec41b3

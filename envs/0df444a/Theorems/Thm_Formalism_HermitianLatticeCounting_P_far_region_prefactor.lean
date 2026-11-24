@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_far_region_prefactor
 -- name    : Formalism.HermitianLatticeCounting.P.far_region_prefactor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:04.671332+00:00
 -- url     : https://prove2.me/theorems/1e5a3c83-0b19-4f93-8294-a60c54bd5a8d

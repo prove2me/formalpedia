@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_rowNuSum
 -- name    : Formalism.GradedWeylDivisibility.rowNuSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:30.41461+00:00
 -- url     : https://prove2.me/theorems/c389f6fe-39ea-4263-8737-d13fe42711c0

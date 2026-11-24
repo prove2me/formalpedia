@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_hB_mulVec
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.hB_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:22.284791+00:00
 -- url     : https://prove2.me/theorems/443dcb93-ffe9-41f5-989e-91c4819d51c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_local_congruence_condition
 -- name    : Formalism.HermitianLatticeCounting.P.local_congruence_condition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:38:04.924811+00:00
 -- url     : https://prove2.me/theorems/aa544d66-2e77-4221-97d6-fd2bb5b594c6

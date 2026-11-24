@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_leakage_back_map
 -- name    : Formalism.HermitianLatticeCounting.P.leakage_back_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:42.837489+00:00
 -- url     : https://prove2.me/theorems/212a5421-3c9d-4aff-9d84-9cf8100defb4

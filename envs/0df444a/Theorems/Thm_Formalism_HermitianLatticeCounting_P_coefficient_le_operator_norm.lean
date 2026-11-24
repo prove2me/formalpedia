@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_coefficient_le_operator_norm
 -- name    : Formalism.HermitianLatticeCounting.P.coefficient_le_operator_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:09.341845+00:00
 -- url     : https://prove2.me/theorems/8068eb01-4484-4768-baef-c275219a1a35

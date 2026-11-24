@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_orthogonality_relation
 -- name    : Formalism.HermitianLatticeCounting.P.orthogonality_relation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:49.689592+00:00
 -- url     : https://prove2.me/theorems/cf9f57cd-68de-4212-b4de-497e8f3a4767

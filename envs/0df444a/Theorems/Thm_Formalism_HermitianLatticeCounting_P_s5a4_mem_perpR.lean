@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5a4_mem_perpR
 -- name    : Formalism.HermitianLatticeCounting.P.s5a4_mem_perpR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:36.228687+00:00
 -- url     : https://prove2.me/theorems/aea715da-d1ca-47d2-b8bd-1fe777b90c75

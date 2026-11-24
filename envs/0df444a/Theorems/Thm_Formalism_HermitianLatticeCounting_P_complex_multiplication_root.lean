@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_complex_multiplication_root
 -- name    : Formalism.HermitianLatticeCounting.P.complex_multiplication_root
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:46.190604+00:00
 -- url     : https://prove2.me/theorems/32016369-b1a1-4f86-a047-b385d56073a5

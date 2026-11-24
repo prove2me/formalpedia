@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lhwline_rowDiv_zero
 -- name    : Formalism.GradedWeylDivisibility.lhwline_rowDiv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:25.697804+00:00
 -- url     : https://prove2.me/theorems/005eafd8-612b-4841-b381-b4171b4d6c1b

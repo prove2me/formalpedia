@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_kernel_bound_bis
 -- name    : Formalism.HermitianLatticeCounting.P.kernel_bound_bis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:09.646437+00:00
 -- url     : https://prove2.me/theorems/e7d0cf93-d67a-4d5e-932a-43183571176d

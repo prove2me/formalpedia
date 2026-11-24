@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_fs_exp
 -- name    : Formalism.HermitianLatticeCounting.P.fs_exp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:27.331808+00:00
 -- url     : https://prove2.me/theorems/41a4adcf-dd7f-44c8-b72c-6c8c43389c2d

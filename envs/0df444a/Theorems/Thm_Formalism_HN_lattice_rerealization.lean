@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_lattice_rerealization
 -- name    : Formalism.HN.lattice_rerealization
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:27:18.779222+00:00
 -- url     : https://prove2.me/theorems/009941ab-1ce6-46e5-988f-2efd663f7e0e

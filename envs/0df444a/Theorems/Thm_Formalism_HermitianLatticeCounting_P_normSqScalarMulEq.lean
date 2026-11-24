@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_normSqScalarMulEq
 -- name    : Formalism.HermitianLatticeCounting.P.normSqScalarMulEq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:22.587408+00:00
 -- url     : https://prove2.me/theorems/bf549d78-9add-468f-ac5a-d0d76aea01d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_hermitian_gauss_sum_ring
 -- name    : Formalism.HermitianLatticeCounting.P.hermitian_gauss_sum_ring
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:34.777807+00:00
 -- url     : https://prove2.me/theorems/44e0a22f-3866-4aff-92cb-b314a85d909c

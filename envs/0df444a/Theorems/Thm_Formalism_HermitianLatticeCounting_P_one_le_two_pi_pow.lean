@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_one_le_two_pi_pow
 -- name    : Formalism.HermitianLatticeCounting.P.one_le_two_pi_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:32.963852+00:00
 -- url     : https://prove2.me/theorems/e728932f-c7c5-406f-8fc4-4b4feb15f25e

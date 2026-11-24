@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5b7_smul_top_pi
 -- name    : Formalism.HermitianLatticeCounting.P.s5b7_smul_top_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:27.357644+00:00
 -- url     : https://prove2.me/theorems/55fca397-abf2-49bc-aad3-c9ca16344a7b

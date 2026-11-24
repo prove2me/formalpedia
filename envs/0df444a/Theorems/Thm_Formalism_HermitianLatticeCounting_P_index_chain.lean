@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_index_chain
 -- name    : Formalism.HermitianLatticeCounting.P.index_chain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:30.725807+00:00
 -- url     : https://prove2.me/theorems/7d8c71cf-1c50-461a-b663-11fe244d0430

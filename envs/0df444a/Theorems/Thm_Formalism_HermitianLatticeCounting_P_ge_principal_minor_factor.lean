@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_ge_principal_minor_factor
 -- name    : Formalism.HermitianLatticeCounting.P.ge_principal_minor_factor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:27.775321+00:00
 -- url     : https://prove2.me/theorems/99c2d7fa-e519-403f-b835-18b4b464aabc

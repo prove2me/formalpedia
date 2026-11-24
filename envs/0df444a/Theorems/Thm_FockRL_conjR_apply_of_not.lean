@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_conjR_apply_of_not
 -- name    : FockRL.conjR_apply_of_not
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:15.14563+00:00
 -- url     : https://prove2.me/theorems/977c2841-050b-46ba-99de-0663d59de422

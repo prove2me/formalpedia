@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_lifting_anisotropic
 -- name    : Formalism.HermitianLatticeCounting.P.lifting_anisotropic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:57.564954+00:00
 -- url     : https://prove2.me/theorems/9e660419-cee4-4124-bb85-2be81f81bf1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_torsion_bound_alt
 -- name    : Formalism.HermitianLatticeCounting.P.torsion_bound_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:30:38.818047+00:00
 -- url     : https://prove2.me/theorems/29c1cd4a-d159-495c-a5cd-5358f54f7cf9

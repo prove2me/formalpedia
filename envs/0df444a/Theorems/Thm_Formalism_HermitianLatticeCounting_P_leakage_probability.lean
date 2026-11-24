@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_leakage_probability
 -- name    : Formalism.HermitianLatticeCounting.P.leakage_probability
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:53.25309+00:00
 -- url     : https://prove2.me/theorems/816b8636-9ba0-467d-8fc5-b977758f171f

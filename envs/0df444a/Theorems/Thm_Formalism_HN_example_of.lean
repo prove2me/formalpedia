@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_example_of
 -- name    : Formalism.HN.example_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:07.120916+00:00
 -- url     : https://prove2.me/theorems/2e66539f-5a92-4aa9-97b0-eb57c3ef5002

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_conjR_isPC
 -- name    : FockRL.conjR_isPC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:28.41922+00:00
 -- url     : https://prove2.me/theorems/10b35373-7a81-4b77-a49e-861f40fc23b7

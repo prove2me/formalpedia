@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_minkowski_constant_bound
 -- name    : Formalism.HermitianLatticeCounting.P.minkowski_constant_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:38:20.183728+00:00
 -- url     : https://prove2.me/theorems/525c3d0e-bbea-44b5-b1a3-b75b3502fa11

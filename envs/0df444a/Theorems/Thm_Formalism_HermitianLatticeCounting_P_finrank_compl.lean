@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_finrank_compl
 -- name    : Formalism.HermitianLatticeCounting.P.finrank_compl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:06.51936+00:00
 -- url     : https://prove2.me/theorems/81bbef23-1b7f-455d-abd0-f8bae0f1494e

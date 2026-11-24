@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_poisson_summation_level_statement
 -- name    : Formalism.FourierDecayAlt.P.poisson_summation_level_statement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:01:36.895868+00:00
 -- url     : https://prove2.me/theorems/5a056f68-9999-4629-b27d-d8639396b7a7

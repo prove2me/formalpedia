@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_prodVolumeFactor
 -- name    : Formalism.HermitianLatticeCounting.P.prodVolumeFactor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:37.274932+00:00
 -- url     : https://prove2.me/theorems/f27578de-bd2e-464f-ae53-2b7243c9c39b

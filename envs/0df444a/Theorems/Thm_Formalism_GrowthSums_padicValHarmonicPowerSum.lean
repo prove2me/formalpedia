@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GrowthSums_padicValHarmonicPowerSum
 -- name    : Formalism.GrowthSums.padicValHarmonicPowerSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:11.604072+00:00
 -- url     : https://prove2.me/theorems/c920de2c-5548-47c3-9cf7-e2fa49b0e22c

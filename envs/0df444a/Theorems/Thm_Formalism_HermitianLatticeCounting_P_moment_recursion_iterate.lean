@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_moment_recursion_iterate
 -- name    : Formalism.HermitianLatticeCounting.P.moment_recursion_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:38:06.568432+00:00
 -- url     : https://prove2.me/theorems/0da14697-25f0-4099-aa6d-ccc1377df997

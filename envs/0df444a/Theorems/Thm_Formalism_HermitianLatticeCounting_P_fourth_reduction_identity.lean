@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_fourth_reduction_identity
 -- name    : Formalism.HermitianLatticeCounting.P.fourth_reduction_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:14.496234+00:00
 -- url     : https://prove2.me/theorems/6e852f3c-2b95-4ca0-8c2e-fa513a9d032f

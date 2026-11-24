@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_HeightGram_det_gmat
 -- name    : Formalism.HN.HeightGram.det_gmat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:57:44.284782+00:00
 -- url     : https://prove2.me/theorems/cf44fdea-e3be-4ba1-bc50-a5c05bda1776

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_exit_payoff_mass
 -- name    : Kyprianou.Ch08.StageB.p2m810_exit_payoff_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T00:26:02.19422+00:00
 -- url     : https://prove2.me/theorems/98e1832a-2d7b-41dd-a846-2f0c0ddf6f0e

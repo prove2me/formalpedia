@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_ldrow_aeval_monomial
 -- name    : Formalism.GradedWeylDivisibility.ldrow_aeval_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:17:09.686525+00:00
 -- url     : https://prove2.me/theorems/d90ccc4a-4a6b-4911-9a16-f576fba20e18

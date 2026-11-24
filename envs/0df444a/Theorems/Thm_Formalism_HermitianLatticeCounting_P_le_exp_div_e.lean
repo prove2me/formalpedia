@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_le_exp_div_e
 -- name    : Formalism.HermitianLatticeCounting.P.le_exp_div_e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:26.070464+00:00
 -- url     : https://prove2.me/theorems/10ae571f-ce1d-4a4e-8feb-e108b5b68c6e

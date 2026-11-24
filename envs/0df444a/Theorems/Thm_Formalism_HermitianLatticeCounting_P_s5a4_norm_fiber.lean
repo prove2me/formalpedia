@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5a4_norm_fiber
 -- name    : Formalism.HermitianLatticeCounting.P.s5a4_norm_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:58.756073+00:00
 -- url     : https://prove2.me/theorems/f22b9df1-7f6c-4c4c-9027-9a45be5c7b14

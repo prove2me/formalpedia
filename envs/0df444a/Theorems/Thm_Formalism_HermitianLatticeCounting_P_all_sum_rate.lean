@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_all_sum_rate
 -- name    : Formalism.HermitianLatticeCounting.P.all_sum_rate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:19.896798+00:00
 -- url     : https://prove2.me/theorems/35917390-024d-4139-8e55-f5149df12ccc

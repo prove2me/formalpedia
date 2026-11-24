@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_IdealSheafData_comap_finset_prod
 -- name    : AlgebraicGeometry.Scheme.IdealSheafData.comap_finset_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:32.494805+00:00
 -- url     : https://prove2.me/theorems/ae2d3a8c-3ed4-4af9-8467-28f27bbb7ac5

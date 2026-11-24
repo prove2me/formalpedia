@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_integral_minors_weight_sum_le
 -- name    : Formalism.HermitianLatticeCounting.P.integral_minors_weight_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:50.671149+00:00
 -- url     : https://prove2.me/theorems/8368d17d-bbd5-4806-a57b-0bd851a77d74

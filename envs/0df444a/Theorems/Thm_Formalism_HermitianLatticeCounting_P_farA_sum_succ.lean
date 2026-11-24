@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_farA_sum_succ
 -- name    : Formalism.HermitianLatticeCounting.P.farA_sum_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:01.334865+00:00
 -- url     : https://prove2.me/theorems/6e93751e-969f-4e12-8c96-3617d9ca145f

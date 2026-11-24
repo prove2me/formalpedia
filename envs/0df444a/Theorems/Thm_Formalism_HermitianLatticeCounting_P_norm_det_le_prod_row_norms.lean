@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_norm_det_le_prod_row_norms
 -- name    : Formalism.HermitianLatticeCounting.P.norm_det_le_prod_row_norms
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:40.938563+00:00
 -- url     : https://prove2.me/theorems/14a96366-d319-4f3a-8215-4af2d9e9228c

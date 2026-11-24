@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_fiber_sum
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.fiber_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:18.234102+00:00
 -- url     : https://prove2.me/theorems/48c1cf61-f984-4095-8d2f-7c1d7a5fba45

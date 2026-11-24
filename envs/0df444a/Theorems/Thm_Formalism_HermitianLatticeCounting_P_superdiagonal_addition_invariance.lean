@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_superdiagonal_addition_invariance
 -- name    : Formalism.HermitianLatticeCounting.P.superdiagonal_addition_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:31.193796+00:00
 -- url     : https://prove2.me/theorems/41bc65e2-98ee-45f6-b5ad-1e42c4cb7232

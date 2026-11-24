@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_highestWeightVectorMem
 -- name    : Formalism.GradedWeylDivisibility.highestWeightVectorMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:58:40.829282+00:00
 -- url     : https://prove2.me/theorems/cb50fa4e-98f9-4b88-8e1d-93614808ee03

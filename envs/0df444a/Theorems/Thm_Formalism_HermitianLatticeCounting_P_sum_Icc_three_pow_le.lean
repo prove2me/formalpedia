@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_sum_Icc_three_pow_le
 -- name    : Formalism.HermitianLatticeCounting.P.sum_Icc_three_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:33.613636+00:00
 -- url     : https://prove2.me/theorems/16e17aca-f7a7-4fab-ba6f-2ee360536c2e

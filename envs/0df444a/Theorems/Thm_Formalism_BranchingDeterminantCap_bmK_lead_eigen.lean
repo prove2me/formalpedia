@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmK_lead_eigen
 -- name    : Formalism.BranchingDeterminantCap.bmK_lead_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:24:46.431722+00:00
 -- url     : https://prove2.me/theorems/f933b7e1-0066-477e-8051-42e6572a02bc

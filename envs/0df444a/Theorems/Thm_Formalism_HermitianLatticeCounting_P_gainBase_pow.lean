@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gainBase_pow
 -- name    : Formalism.HermitianLatticeCounting.P.gainBase_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:05.032575+00:00
 -- url     : https://prove2.me/theorems/acd2fa58-db50-42a6-8821-ccd2864a13be

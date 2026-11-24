@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_matrix_eq_of_forall_mulVec_eq
 -- name    : Formalism.HermitianLatticeCounting.P.matrix_eq_of_forall_mulVec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:38:00.34322+00:00
 -- url     : https://prove2.me/theorems/7426f184-7bce-4e6f-826f-d3509511dd1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lfockq_map_rowDiv
 -- name    : Formalism.GradedWeylDivisibility.lfockq_map_rowDiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:02.629274+00:00
 -- url     : https://prove2.me/theorems/b2d74d72-60a7-40a5-bb3f-6ed3a2fa3389

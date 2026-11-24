@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_ldlat_linInd_base
 -- name    : Formalism.GradedWeylDivisibility.ldlat_linInd_base
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:51.209356+00:00
 -- url     : https://prove2.me/theorems/556b54d0-d884-441d-9a84-d0f7beb11444

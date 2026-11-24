@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_dual_capacity_variant
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.dual_capacity_variant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:27:54.961258+00:00
 -- url     : https://prove2.me/theorems/c576ed6c-92ed-4fac-a32d-6dc264766f0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_log_volume_formula
 -- name    : Formalism.HermitianLatticeCounting.P.log_volume_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:49.859585+00:00
 -- url     : https://prove2.me/theorems/6af69d6f-581f-4237-a00b-f0d0bb1748ff

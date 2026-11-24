@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_move_second_coordinate
 -- name    : Formalism.HermitianLatticeCounting.P.move_second_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:04.964921+00:00
 -- url     : https://prove2.me/theorems/b3a7e903-6599-4c7c-8d32-a71fca32294b

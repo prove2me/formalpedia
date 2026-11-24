@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_orbit_count_formula
 -- name    : Formalism.HermitianLatticeCounting.P.orbit_count_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:31.153989+00:00
 -- url     : https://prove2.me/theorems/0d0c08ec-8cd1-48b5-b99b-ac5e98b09b96

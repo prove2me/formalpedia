@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_not_unit_of_mem_mO
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.not_unit_of_mem_mO
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:28:41.251871+00:00
 -- url     : https://prove2.me/theorems/1a97d09d-48f3-440f-b7b2-9665ca5657c5

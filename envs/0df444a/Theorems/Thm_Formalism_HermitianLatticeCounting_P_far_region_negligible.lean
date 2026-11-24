@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_far_region_negligible
 -- name    : Formalism.HermitianLatticeCounting.P.far_region_negligible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:41.009368+00:00
 -- url     : https://prove2.me/theorems/1afb252b-fb73-4277-8239-7b43224a8494

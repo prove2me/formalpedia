@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_massRatioIdentity
 -- name    : Formalism.HermitianLatticeCounting.P.massRatioIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:53.319055+00:00
 -- url     : https://prove2.me/theorems/c390fc2e-8bfc-4bbf-be69-b508f4aebd65

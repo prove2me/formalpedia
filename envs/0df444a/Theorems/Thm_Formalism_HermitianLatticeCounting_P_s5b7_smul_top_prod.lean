@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5b7_smul_top_prod
 -- name    : Formalism.HermitianLatticeCounting.P.s5b7_smul_top_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:13.401908+00:00
 -- url     : https://prove2.me/theorems/445a2479-bbf0-4ca1-8a79-5448a7ab8564

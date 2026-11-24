@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_lifting_unitary
 -- name    : Formalism.HermitianLatticeCounting.P.lifting_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:47.558585+00:00
 -- url     : https://prove2.me/theorems/900456be-0422-48bc-bffa-000bee4865fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_maxInvSinhSqLe
 -- name    : Formalism.HermitianLatticeCounting.P.maxInvSinhSqLe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:53.795377+00:00
 -- url     : https://prove2.me/theorems/6ddb650b-a545-4b94-b34c-3d1d6d80f4df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_exponent_inequality_nondegenerate_top
 -- name    : Formalism.HermitianLatticeCounting.P.exponent_inequality_nondegenerate_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:51.875795+00:00
 -- url     : https://prove2.me/theorems/6e29ce54-7682-4942-8c6a-ae0f02198030

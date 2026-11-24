@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LocalIntegralStructure_arithmetic_square_bound_fourth
 -- name    : Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure.arithmetic_square_bound_fourth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:17.942484+00:00
 -- url     : https://prove2.me/theorems/8fd927dc-401e-4910-be21-379083508bff

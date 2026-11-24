@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gg_antidiag_det
 -- name    : Formalism.HermitianLatticeCounting.P.gg_antidiag_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:25.275681+00:00
 -- url     : https://prove2.me/theorems/183cb05a-5366-4a25-80de-463576055c00

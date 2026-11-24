@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_inv_sfac_le_vsph
 -- name    : Formalism.HermitianLatticeCounting.P.inv_sfac_le_vsph
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:59.740902+00:00
 -- url     : https://prove2.me/theorems/91121164-5513-4c82-8509-d916ce26f3ca

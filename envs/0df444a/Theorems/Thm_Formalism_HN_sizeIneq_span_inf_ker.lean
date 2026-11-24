@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_sizeIneq_span_inf_ker
 -- name    : Formalism.HN.sizeIneq_span_inf_ker
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:35.065199+00:00
 -- url     : https://prove2.me/theorems/024e94f2-044a-46b5-90bc-2bd313e83e96

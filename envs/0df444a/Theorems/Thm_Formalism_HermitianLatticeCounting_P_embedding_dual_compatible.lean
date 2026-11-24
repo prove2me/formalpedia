@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_embedding_dual_compatible
 -- name    : Formalism.HermitianLatticeCounting.P.embedding_dual_compatible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:02.202802+00:00
 -- url     : https://prove2.me/theorems/3c3161b5-3314-4153-92b0-538ba56d5b0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_fischerInnerRatPos
 -- name    : Formalism.GradedWeylDivisibility.fischerInnerRatPos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:58:39.36097+00:00
 -- url     : https://prove2.me/theorems/aa88a064-9b7f-4f3b-9fac-0519e3823b55

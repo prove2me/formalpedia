@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_unimodular_rank
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.unimodular_rank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:01:53.880861+00:00
 -- url     : https://prove2.me/theorems/772c312c-3cc4-4ee9-8d02-af7fb35dd845

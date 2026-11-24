@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_corollary_mass_estimate_holds
 -- name    : Formalism.HermitianLatticeCounting.P.corollary_mass_estimate_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:06.696664+00:00
 -- url     : https://prove2.me/theorems/966d46b2-2bea-4043-933a-8a7ebffb84e2

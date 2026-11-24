@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_non_generic_bound_large_height
 -- name    : Formalism.HermitianLatticeCounting.P.non_generic_bound_large_height
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:34.617203+00:00
 -- url     : https://prove2.me/theorems/9795ee75-57ca-4a22-81f9-ee069a4d30ac

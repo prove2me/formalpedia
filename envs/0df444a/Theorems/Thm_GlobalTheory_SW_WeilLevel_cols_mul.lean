@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilLevel_cols_mul
 -- name    : GlobalTheory.SW.WeilLevel.cols_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:04.752551+00:00
 -- url     : https://prove2.me/theorems/68068164-f322-4eb7-a353-dfdcfd19a979

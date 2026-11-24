@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_besselK
 -- name    : Formalism.HermitianLatticeCounting.P.besselK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:52.253156+00:00
 -- url     : https://prove2.me/theorems/1d2d70f1-d4ad-464f-9d06-bfe89def9c71

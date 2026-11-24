@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_weylModuleRowDividedPowerStable
 -- name    : Formalism.GradedWeylDivisibility.weylModuleRowDividedPowerStable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:10.469866+00:00
 -- url     : https://prove2.me/theorems/f5184f96-dd33-4a88-8f26-e2a7b1ee28d7

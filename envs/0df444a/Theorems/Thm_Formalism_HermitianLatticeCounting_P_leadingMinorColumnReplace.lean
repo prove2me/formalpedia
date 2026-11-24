@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_leadingMinorColumnReplace
 -- name    : Formalism.HermitianLatticeCounting.P.leadingMinorColumnReplace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:51.653139+00:00
 -- url     : https://prove2.me/theorems/2b581e1d-d42b-4ea6-baf3-eeb613ba95e0

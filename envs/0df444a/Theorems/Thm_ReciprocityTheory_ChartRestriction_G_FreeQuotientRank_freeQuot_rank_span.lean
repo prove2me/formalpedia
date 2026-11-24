@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_freeQuot_rank_span
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.freeQuot_rank_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:14:16.904424+00:00
 -- url     : https://prove2.me/theorems/44b1bb10-2eeb-4c96-a475-fc41a8c5e62d

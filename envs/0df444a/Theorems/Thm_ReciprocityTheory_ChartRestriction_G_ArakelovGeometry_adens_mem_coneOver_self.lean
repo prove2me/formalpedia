@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_adens_mem_coneOver_self
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.adens_mem_coneOver_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:27.057643+00:00
 -- url     : https://prove2.me/theorems/20842d15-da9e-4e66-8452-cb46223e9adf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_fischer_self_ne_zero
 -- name    : ReciprocityTheory.PGsh.fischer_self_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:30.187744+00:00
 -- url     : https://prove2.me/theorems/cf6e71ff-0a08-4921-b6e0-9178607a6a0d

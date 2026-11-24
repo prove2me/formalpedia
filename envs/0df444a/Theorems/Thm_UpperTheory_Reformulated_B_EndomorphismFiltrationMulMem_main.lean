@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_EndomorphismFiltrationMulMem_main
 -- name    : UpperTheory.Reformulated.B.EndomorphismFiltrationMulMem.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:23.317407+00:00
 -- url     : https://prove2.me/theorems/73527f17-221f-4b8f-9032-b505270774c3

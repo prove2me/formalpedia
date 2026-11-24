@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_lemSSupBound_of
 -- name    : Formalism.HermitianLatticeCounting.P.lemSSupBound_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:48.675928+00:00
 -- url     : https://prove2.me/theorems/b3922e63-2240-4214-9001-735a6171213b

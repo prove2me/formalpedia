@@ -1,0 +1,33 @@
+-- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_RankOne_isLattice_mul
+-- name    : Formalism.HermitianLattices.Ext.L3.RankOne.isLattice_mul
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-24T06:50:07.258417+00:00
+-- url     : https://prove2.me/theorems/72950c2a-130c-4b04-af5c-072892a2259c
+-- title:
+--   Rank One: is Lattice mul
+-- statement:
+--   The Rank One construction uses the is Lattice mul property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/GL3MeanSquares/GenusMeanAsymptotics/UnimodularClassRepresentatives/ExistsNeZeroOfIsLattice.lean#L31-L35
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/GL3MeanSquares/GenusMeanAsymptotics/UnimodularClassRepresentatives/ExistsNeZeroOfIsLattice.lean#L31-L35
+
+import Definitions.Def_Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_IsClassRepsMap
+import Definitions.Def_Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsNeZeroOfIsLattice
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open NumberField Module nonZeroDivisors
+noncomputable section
+open Formalism Formalism.HermitianLattices Formalism.HermitianLattices.Ext Formalism.HermitianLattices.Ext.L3 Formalism.HermitianLattices.Ext.L3.RankOne
+open Formalism.HermitianLatticesTheory Formalism.ThetaLiftIndependence
+variable {K : Type} [Field K] [NumberField K] [StarRing K]
+
+theorem Formalism.HermitianLattices.Ext.L3.RankOne.isLattice_mul {A B : Submodule (𝓞 K) K} (hA : Submodule.IsLattice K A)
+    (hB : Submodule.IsLattice K B) : Submodule.IsLattice K (A * B) := by sorry

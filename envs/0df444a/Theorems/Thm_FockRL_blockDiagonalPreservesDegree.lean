@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_blockDiagonalPreservesDegree
 -- name    : FockRL.blockDiagonalPreservesDegree
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:25.282197+00:00
 -- url     : https://prove2.me/theorems/63d5e3ae-513e-465a-a411-bd7e515d9b47

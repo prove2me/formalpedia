@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_lifting_fixes_base_vector
 -- name    : Formalism.HermitianLatticeCounting.P.lifting_fixes_base_vector
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:38:31.046626+00:00
 -- url     : https://prove2.me/theorems/8b2ec6c9-4d7c-4af8-91e1-f3cf414de31e

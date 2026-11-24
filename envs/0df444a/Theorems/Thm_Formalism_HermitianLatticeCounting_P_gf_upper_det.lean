@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gf_upper_det
 -- name    : Formalism.HermitianLatticeCounting.P.gf_upper_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:38.566497+00:00
 -- url     : https://prove2.me/theorems/35187013-8f4d-49ef-8a38-979890611300

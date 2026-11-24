@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_normalFormDegenerateImpossible
 -- name    : Formalism.HermitianLatticeCounting.P.normalFormDegenerateImpossible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:20.425018+00:00
 -- url     : https://prove2.me/theorems/cbb784c7-1afe-4ccd-8b83-72ccf8bc4175

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_sEqKClose
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.sEqKClose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:30:51.166093+00:00
 -- url     : https://prove2.me/theorems/0e1565a8-ecdd-4a43-96a0-c1718723ab0e

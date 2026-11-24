@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_one_le_finset_prod_real_of_forall_one_le
 -- name    : Formalism.HermitianLatticeCounting.P.one_le_finset_prod_real_of_forall_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:51.991989+00:00
 -- url     : https://prove2.me/theorems/665da3e2-dcb9-4fdd-83ff-fb21fce25170

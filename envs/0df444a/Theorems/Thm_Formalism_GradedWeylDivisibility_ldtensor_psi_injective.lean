@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_ldtensor_psi_injective
 -- name    : Formalism.GradedWeylDivisibility.ldtensor_psi_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:57.837431+00:00
 -- url     : https://prove2.me/theorems/883fc2b0-d4e8-4283-a74f-82449dbed3d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_hostDensityArith_of
 -- name    : Formalism.HF.hostDensityArith_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:24:08.500798+00:00
 -- url     : https://prove2.me/theorems/47ef8619-ccc2-4527-bb38-f26ec641c367

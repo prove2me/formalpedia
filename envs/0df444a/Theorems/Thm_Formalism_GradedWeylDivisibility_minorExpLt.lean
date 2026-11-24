@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_minorExpLt
 -- name    : Formalism.GradedWeylDivisibility.minorExpLt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:56.234467+00:00
 -- url     : https://prove2.me/theorems/fa5dee22-7144-4e17-94f1-0fa8e153b2b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lgraded_rowGen_monomial
 -- name    : Formalism.GradedWeylDivisibility.lgraded_rowGen_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:23.604732+00:00
 -- url     : https://prove2.me/theorems/7e587997-db99-46b5-9418-ada0396df0c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_span_zl_top
 -- name    : Formalism.HN.DualPolygon.span_zl_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:11.414406+00:00
 -- url     : https://prove2.me/theorems/feb98d8f-6267-463f-b81d-ee9b261ea17f

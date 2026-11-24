@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_Dl_solveL
 -- name    : Formalism.HermitianLatticeCounting.P.Dl_solveL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:58:01.00837+00:00
 -- url     : https://prove2.me/theorems/28df4c13-e6be-4838-9ed5-3ca9a8360e8d

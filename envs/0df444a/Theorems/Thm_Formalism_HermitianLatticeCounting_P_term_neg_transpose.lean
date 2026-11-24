@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_term_neg_transpose
 -- name    : Formalism.HermitianLatticeCounting.P.term_neg_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:40.260061+00:00
 -- url     : https://prove2.me/theorems/aaf2215f-fd07-491c-839d-e9392785ead9

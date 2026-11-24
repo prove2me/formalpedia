@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_conjR_apply
 -- name    : FockRL.conjR_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:30:23.830541+00:00
 -- url     : https://prove2.me/theorems/b6ffcba0-5e67-414e-945a-340c35a390bf

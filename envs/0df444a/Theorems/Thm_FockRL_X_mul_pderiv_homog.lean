@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_X_mul_pderiv_homog
 -- name    : FockRL.X_mul_pderiv_homog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:34.736727+00:00
 -- url     : https://prove2.me/theorems/221d78da-e475-483f-ad88-4d9839d8d87a

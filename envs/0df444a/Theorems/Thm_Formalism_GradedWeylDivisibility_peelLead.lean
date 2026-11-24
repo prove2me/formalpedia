@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_peelLead
 -- name    : Formalism.GradedWeylDivisibility.peelLead
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:30.555502+00:00
 -- url     : https://prove2.me/theorems/f8ad4e24-af17-4550-9983-74633c5f7742

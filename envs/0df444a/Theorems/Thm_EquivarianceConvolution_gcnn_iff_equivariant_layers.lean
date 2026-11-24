@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EquivarianceConvolution_gcnn_iff_equivariant_layers
 -- name    : EquivarianceConvolution.gcnn_iff_equivariant_layers
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T20:03:08.076007+00:00
 -- url     : https://prove2.me/theorems/a1c7904e-f852-444e-a40f-ac2867fdd70a

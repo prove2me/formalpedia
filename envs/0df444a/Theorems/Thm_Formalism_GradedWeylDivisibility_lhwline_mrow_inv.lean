@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lhwline_mrow_inv
 -- name    : Formalism.GradedWeylDivisibility.lhwline_mrow_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:37.402443+00:00
 -- url     : https://prove2.me/theorems/83d31cb8-0feb-419d-bc91-5388c37a61dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_unimodular_split
 -- name    : Formalism.HermitianLatticeCounting.P.unimodular_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:36.775837+00:00
 -- url     : https://prove2.me/theorems/ff8d921f-2ee1-4fdc-a9e8-593c7b1d0e31

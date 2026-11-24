@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_mem_mO_of_trace
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.mem_mO_of_trace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:15.047009+00:00
 -- url     : https://prove2.me/theorems/b983fdc3-e9f2-449e-89e3-0d9de4147354

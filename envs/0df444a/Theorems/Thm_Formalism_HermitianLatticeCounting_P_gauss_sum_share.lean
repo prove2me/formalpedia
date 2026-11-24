@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gauss_sum_share
 -- name    : Formalism.HermitianLatticeCounting.P.gauss_sum_share
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:12.970719+00:00
 -- url     : https://prove2.me/theorems/ac25c242-9344-480a-a57c-c30238150cb7

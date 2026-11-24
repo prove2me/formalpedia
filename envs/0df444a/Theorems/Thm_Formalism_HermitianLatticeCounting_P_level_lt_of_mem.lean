@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_level_lt_of_mem
 -- name    : Formalism.HermitianLatticeCounting.P.level_lt_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:40.88514+00:00
 -- url     : https://prove2.me/theorems/28fb024e-959b-491c-899c-a03f5a3f26dd

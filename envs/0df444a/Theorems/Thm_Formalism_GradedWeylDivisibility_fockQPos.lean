@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_fockQPos
 -- name    : Formalism.GradedWeylDivisibility.fockQPos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:58:52.456031+00:00
 -- url     : https://prove2.me/theorems/87bffacd-f378-4f38-8acd-912816db986f

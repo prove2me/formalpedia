@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_list_prod_le_exp_sum_div_e
 -- name    : Formalism.HermitianLatticeCounting.P.list_prod_le_exp_sum_div_e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:43.121348+00:00
 -- url     : https://prove2.me/theorems/96d45f41-51d6-4594-88b1-18b73f2f33cc

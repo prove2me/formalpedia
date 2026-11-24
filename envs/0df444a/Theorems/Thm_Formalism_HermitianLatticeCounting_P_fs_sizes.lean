@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_fs_sizes
 -- name    : Formalism.HermitianLatticeCounting.P.fs_sizes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:16.867217+00:00
 -- url     : https://prove2.me/theorems/16f5f6ba-db2d-40f9-8268-afbb5078b93b

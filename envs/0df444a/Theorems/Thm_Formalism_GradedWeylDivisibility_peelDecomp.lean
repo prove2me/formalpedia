@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_peelDecomp
 -- name    : Formalism.GradedWeylDivisibility.peelDecomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:32.102799+00:00
 -- url     : https://prove2.me/theorems/77df783e-c7cc-4f5e-a9a1-62244e3e6358

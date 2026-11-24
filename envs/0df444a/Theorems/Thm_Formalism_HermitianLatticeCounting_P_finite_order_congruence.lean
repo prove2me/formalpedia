@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_finite_order_congruence
 -- name    : Formalism.HermitianLatticeCounting.P.finite_order_congruence
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:07.534634+00:00
 -- url     : https://prove2.me/theorems/5d85d798-d849-45b5-be74-3047d39e9e95

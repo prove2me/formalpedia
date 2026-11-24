@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_final_sum_near_far
 -- name    : Formalism.HermitianLatticeCounting.P.final_sum_near_far
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:11.945736+00:00
 -- url     : https://prove2.me/theorems/82c49db5-6380-44ca-a486-4ef6ee446344

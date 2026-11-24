@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_placeEmbedding_injective
 -- name    : Formalism.HermitianLatticeCounting.P.placeEmbedding_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:37.332803+00:00
 -- url     : https://prove2.me/theorems/9309dfb4-c1f1-49f6-8da8-465ad853667b

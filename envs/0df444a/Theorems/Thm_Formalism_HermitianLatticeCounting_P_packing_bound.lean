@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_packing_bound
 -- name    : Formalism.HermitianLatticeCounting.P.packing_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:41.291451+00:00
 -- url     : https://prove2.me/theorems/95dbd6cd-1230-47c8-bfa8-861b5ad30b95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_mixed_minor_vanishing
 -- name    : Formalism.HermitianLatticeCounting.P.mixed_minor_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:38:01.616357+00:00
 -- url     : https://prove2.me/theorems/a22125f8-b3da-4086-b581-5a0765ba038b

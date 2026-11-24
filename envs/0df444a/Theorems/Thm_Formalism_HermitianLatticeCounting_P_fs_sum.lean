@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_fs_sum
 -- name    : Formalism.HermitianLatticeCounting.P.fs_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:26.626143+00:00
 -- url     : https://prove2.me/theorems/d90337bf-9c91-46ae-b502-997a7237931f

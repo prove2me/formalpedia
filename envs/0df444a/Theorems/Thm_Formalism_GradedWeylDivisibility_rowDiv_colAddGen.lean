@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_rowDiv_colAddGen
 -- name    : Formalism.GradedWeylDivisibility.rowDiv_colAddGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:22.620911+00:00
 -- url     : https://prove2.me/theorems/a2d1107a-57de-44d6-be27-0b3e09bb99ab

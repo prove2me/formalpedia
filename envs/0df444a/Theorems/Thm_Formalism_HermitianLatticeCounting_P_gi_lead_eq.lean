@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gi_lead_eq
 -- name    : Formalism.HermitianLatticeCounting.P.gi_lead_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:31.659998+00:00
 -- url     : https://prove2.me/theorems/350a1ac8-bff8-4286-be26-bc0b9f91895c

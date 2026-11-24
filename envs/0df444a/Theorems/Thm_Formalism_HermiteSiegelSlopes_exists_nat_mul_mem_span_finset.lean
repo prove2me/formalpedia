@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermiteSiegelSlopes_exists_nat_mul_mem_span_finset
 -- name    : Formalism.HermiteSiegelSlopes.exists_nat_mul_mem_span_finset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:30:37.025588+00:00
 -- url     : https://prove2.me/theorems/e5b0e9ab-ffa0-4b58-b773-351c9a1ceb84

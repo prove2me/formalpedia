@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_CumulantEstimates_alphaT
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.CumulantEstimates.alphaT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:43.233664+00:00
 -- url     : https://prove2.me/theorems/eb624001-f32a-4cc7-8b14-0854b8266b37

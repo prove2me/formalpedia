@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EisTube_imV_cz
 -- name    : EisTube.imV_cz
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:23.705457+00:00
 -- url     : https://prove2.me/theorems/6a84bc92-81f1-4c07-a81f-e7272d4ab93a

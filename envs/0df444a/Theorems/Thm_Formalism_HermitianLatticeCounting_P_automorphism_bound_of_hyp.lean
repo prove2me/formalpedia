@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_automorphism_bound_of_hyp
 -- name    : Formalism.HermitianLatticeCounting.P.automorphism_bound_of_hyp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:44.855902+00:00
 -- url     : https://prove2.me/theorems/291581a1-e867-4ec7-9347-a8cb5f70f1a5

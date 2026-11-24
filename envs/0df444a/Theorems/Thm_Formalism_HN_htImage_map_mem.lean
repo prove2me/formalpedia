@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_htImage_map_mem
 -- name    : Formalism.HN.htImage_map_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:56:24.48043+00:00
 -- url     : https://prove2.me/theorems/08195ecb-671c-4088-b82c-9e88d8244011

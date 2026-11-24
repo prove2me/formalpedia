@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_support_prod_le_of_additive
 -- name    : Formalism.GradedWeylDivisibility.support_prod_le_of_additive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:03.924829+00:00
 -- url     : https://prove2.me/theorems/a7a22027-57dd-4f8c-9b5e-74ad8c60f884

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_sum_min_eq_shapeDeg
 -- name    : Formalism.GradedWeylDivisibility.sum_min_eq_shapeDeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:10.970694+00:00
 -- url     : https://prove2.me/theorems/e76fbf7b-a528-4fb1-b0a5-1772d7cc58c3

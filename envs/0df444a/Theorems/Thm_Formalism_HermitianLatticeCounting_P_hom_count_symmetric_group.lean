@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_hom_count_symmetric_group
 -- name    : Formalism.HermitianLatticeCounting.P.hom_count_symmetric_group
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:47.243581+00:00
 -- url     : https://prove2.me/theorems/1ee53f81-576e-4907-8efe-c22b35cd06ca

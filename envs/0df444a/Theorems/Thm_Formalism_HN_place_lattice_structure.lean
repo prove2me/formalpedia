@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_place_lattice_structure
 -- name    : Formalism.HN.place_lattice_structure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:26:18.050322+00:00
 -- url     : https://prove2.me/theorems/e066c1ce-3295-48d9-a8a9-34e7b33e99bd

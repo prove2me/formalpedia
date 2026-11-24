@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_frame_linear_algebra_first
 -- name    : Formalism.HN.frame_linear_algebra_first
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:13.552813+00:00
 -- url     : https://prove2.me/theorems/653e28cf-f6d5-4157-bd8d-58df6c6bfc10

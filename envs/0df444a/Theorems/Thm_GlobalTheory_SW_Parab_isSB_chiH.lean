@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Parab_isSB_chiH
 -- name    : GlobalTheory.SW.Parab.isSB_chiH
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:46.84648+00:00
 -- url     : https://prove2.me/theorems/7c58874c-d008-4b4b-9fbf-37d55e70fd2b

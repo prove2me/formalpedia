@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_last_distance_lower_bound
 -- name    : Formalism.HermitianLatticeCounting.P.last_distance_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:41.83403+00:00
 -- url     : https://prove2.me/theorems/32ff4029-c772-49e8-bf19-1ea7382c3f7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_majorant_orthogonal_component
 -- name    : Formalism.HermitianLatticeCounting.P.majorant_orthogonal_component
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:38:00.57794+00:00
 -- url     : https://prove2.me/theorems/f6577a26-08df-4770-b134-f8d98eb94259

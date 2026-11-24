@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lgraded_euler_monomial
 -- name    : Formalism.GradedWeylDivisibility.lgraded_euler_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:42.317902+00:00
 -- url     : https://prove2.me/theorems/8b735cfc-ee56-4cfb-a847-aba792de8793

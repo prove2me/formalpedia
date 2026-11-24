@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_mem_ideal_smul_top_pi_iff
 -- name    : Formalism.HermitianLatticeCounting.P.mem_ideal_smul_top_pi_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:38:10.127794+00:00
 -- url     : https://prove2.me/theorems/77934400-daeb-42a5-8dbe-6021d70b9202

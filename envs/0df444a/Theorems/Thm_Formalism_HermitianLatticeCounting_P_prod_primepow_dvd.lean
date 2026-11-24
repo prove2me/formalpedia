@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_prod_primepow_dvd
 -- name    : Formalism.HermitianLatticeCounting.P.prod_primepow_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:54.629806+00:00
 -- url     : https://prove2.me/theorems/9de3080a-c056-42a4-a4d0-ebe7ac1a225f

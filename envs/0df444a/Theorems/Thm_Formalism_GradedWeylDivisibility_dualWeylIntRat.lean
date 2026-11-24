@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_dualWeylIntRat
 -- name    : Formalism.GradedWeylDivisibility.dualWeylIntRat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:25:51.46683+00:00
 -- url     : https://prove2.me/theorems/e2f52469-8421-46f9-853a-7134fd4d117b

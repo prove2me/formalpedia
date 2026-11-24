@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_pair_second_constant
 -- name    : Formalism.HermitianLatticeCounting.P.pair_second_constant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:37.954019+00:00
 -- url     : https://prove2.me/theorems/3666c6e3-adbc-4b82-a2c9-1f57bacb9ca0

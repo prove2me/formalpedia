@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_integrable_cutoff_beyond
 -- name    : Formalism.HermitianLatticeCounting.P.integrable_cutoff_beyond
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:57.420647+00:00
 -- url     : https://prove2.me/theorems/96f04365-390b-4c49-a091-754dc8c9fb09

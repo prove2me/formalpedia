@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_ratio_sum_bound
 -- name    : Formalism.HermitianLatticeCounting.P.ratio_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:49.549521+00:00
 -- url     : https://prove2.me/theorems/4c96c479-4956-4b39-8f4b-907a26fbb747

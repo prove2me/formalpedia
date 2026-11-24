@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gl_cut_scale
 -- name    : Formalism.HermitianLatticeCounting.P.gl_cut_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:44.615399+00:00
 -- url     : https://prove2.me/theorems/fdb1ef10-4bbb-444d-ae73-6f0c26d18742

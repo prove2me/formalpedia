@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DepthOneQExp_theorem_2_13
 -- name    : DepthOneQExp.theorem_2_13
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:53:14.444208+00:00
 -- url     : https://prove2.me/theorems/000d5aa0-349c-4e42-814a-47f2748ff482

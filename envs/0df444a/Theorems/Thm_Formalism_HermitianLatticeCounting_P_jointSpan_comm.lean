@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_jointSpan_comm
 -- name    : Formalism.HermitianLatticeCounting.P.jointSpan_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:00.887498+00:00
 -- url     : https://prove2.me/theorems/960b4d09-fd52-4619-8816-761a10ac7885

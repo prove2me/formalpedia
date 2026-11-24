@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_involution_well_defined
 -- name    : Formalism.HermitianLatticeCounting.P.involution_well_defined
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:03.397805+00:00
 -- url     : https://prove2.me/theorems/b252109d-81f7-47b8-91b1-5cceebf52be2

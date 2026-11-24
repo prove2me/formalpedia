@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_overlattice_count_formula
 -- name    : Formalism.HermitianLatticeCounting.P.overlattice_count_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:35.602942+00:00
 -- url     : https://prove2.me/theorems/27bb2c35-80cb-4644-8d7c-489086e8a03e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_traceLowerBound
 -- name    : Formalism.HermitianLatticeCounting.P.traceLowerBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:38.891371+00:00
 -- url     : https://prove2.me/theorems/b053af44-e6fe-41ce-bc01-35e287ca527c

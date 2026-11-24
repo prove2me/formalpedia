@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermiteSiegelSlopes_baseChangeMap_mem_span_field
 -- name    : Formalism.HermiteSiegelSlopes.baseChangeMap_mem_span_field
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:05.092189+00:00
 -- url     : https://prove2.me/theorems/f989f22c-83f7-4c79-b81b-335cfb6efae8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_X_eq_of_levels
 -- name    : Formalism.HermitianLatticeCounting.P.X_eq_of_levels
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:28.868799+00:00
 -- url     : https://prove2.me/theorems/7df1d2a7-12e2-4ac6-bf7f-bef78377f8ab

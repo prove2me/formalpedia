@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lhwline_RInv_of
 -- name    : Formalism.GradedWeylDivisibility.lhwline_RInv_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:37.964799+00:00
 -- url     : https://prove2.me/theorems/d079af93-8274-47dd-8d7e-753e859c972c

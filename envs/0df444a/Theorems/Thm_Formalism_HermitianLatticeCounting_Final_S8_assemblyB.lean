@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S8_assemblyB
 -- name    : Formalism.HermitianLatticeCounting.Final.S8.assemblyB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:40.892592+00:00
 -- url     : https://prove2.me/theorems/cc92fece-5ec1-4d45-bfdb-8877cab84545

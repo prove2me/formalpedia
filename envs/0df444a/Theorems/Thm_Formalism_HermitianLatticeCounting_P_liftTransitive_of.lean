@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_liftTransitive_of
 -- name    : Formalism.HermitianLatticeCounting.P.liftTransitive_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:45.030797+00:00
 -- url     : https://prove2.me/theorems/4296a310-2286-431e-b067-2104327f761f

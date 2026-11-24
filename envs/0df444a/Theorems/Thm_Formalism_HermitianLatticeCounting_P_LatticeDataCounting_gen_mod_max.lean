@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_LatticeDataCounting_gen_mod_max
 -- name    : Formalism.HermitianLatticeCounting.P.LatticeDataCounting.gen_mod_max
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:55.296889+00:00
 -- url     : https://prove2.me/theorems/0ccd9557-1a8e-4d82-ae92-ded7eca8b6b3

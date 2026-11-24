@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_sum_ite_val_lt_sub_mul_mono
 -- name    : Formalism.HN.sum_ite_val_lt_sub_mul_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:45.382851+00:00
 -- url     : https://prove2.me/theorems/cbeb96aa-58ab-4ffc-aab7-575e9dbe3ca3

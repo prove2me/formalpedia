@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_LatticeDataCounting_fg_of_smul_le
 -- name    : Formalism.HermitianLatticeCounting.P.LatticeDataCounting.fg_of_smul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:39.933802+00:00
 -- url     : https://prove2.me/theorems/6a43df06-e33b-4b8b-98e8-54abbe2f279f

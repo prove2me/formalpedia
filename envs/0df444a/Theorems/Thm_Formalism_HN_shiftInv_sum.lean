@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_shiftInv_sum
 -- name    : Formalism.HN.shiftInv_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:35.299393+00:00
 -- url     : https://prove2.me/theorems/83eaf5e8-6bab-4233-83f0-f24877a9c55b

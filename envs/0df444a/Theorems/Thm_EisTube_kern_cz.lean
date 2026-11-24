@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EisTube_kern_cz
 -- name    : EisTube.kern_cz
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:16:06.53722+00:00
 -- url     : https://prove2.me/theorems/43292395-33b7-4558-8746-4a7bf92227e7

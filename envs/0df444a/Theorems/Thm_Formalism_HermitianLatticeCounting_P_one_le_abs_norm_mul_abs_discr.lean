@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_one_le_abs_norm_mul_abs_discr
 -- name    : Formalism.HermitianLatticeCounting.P.one_le_abs_norm_mul_abs_discr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:25.17951+00:00
 -- url     : https://prove2.me/theorems/07d9f879-77ae-4e27-bf48-07d292305c1c

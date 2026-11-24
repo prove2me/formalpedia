@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_integral_radial_inverse_cube
 -- name    : Formalism.HermitianLatticeCounting.P.integral_radial_inverse_cube
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:11.962818+00:00
 -- url     : https://prove2.me/theorems/54368ade-8926-4018-9c4c-b125f040e034

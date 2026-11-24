@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Emb_cor_conjTranspose
 -- name    : GlobalTheory.SW.Emb.cor_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:38.080333+00:00
 -- url     : https://prove2.me/theorems/5d4f4b2c-d767-4e17-85ad-1dd479187443

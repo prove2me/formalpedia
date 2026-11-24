@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_geometric_powers_bound
 -- name    : Formalism.HermitianLatticeCounting.P.geometric_powers_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:54.839334+00:00
 -- url     : https://prove2.me/theorems/175c6409-8945-4b71-8a17-e22a5ee7735e

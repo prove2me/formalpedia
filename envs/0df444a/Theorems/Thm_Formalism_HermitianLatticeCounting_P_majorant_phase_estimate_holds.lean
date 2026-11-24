@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_majorant_phase_estimate_holds
 -- name    : Formalism.HermitianLatticeCounting.P.majorant_phase_estimate_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:38:00.00262+00:00
 -- url     : https://prove2.me/theorems/3777487a-2c70-4991-adfe-852b0fccfc55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_invariant_value_holds
 -- name    : Formalism.HermitianLatticeCounting.P.invariant_value_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:29:45.026526+00:00
 -- url     : https://prove2.me/theorems/8c76d095-5a67-448f-9b99-03729f1ec90a
