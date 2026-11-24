@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_lOneNorm_add_le
 -- name    : Formalism.HermitianLatticeCounting.P.lOneNorm_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:03.918808+00:00
 -- url     : https://prove2.me/theorems/64435a63-676e-4b10-898c-08b78f2c4333

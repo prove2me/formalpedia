@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_SplitPrimeIdeals_exists_sq_card_quot
 -- name    : Formalism.HermitianLattices.Ext.L3.SplitPrimeIdeals.exists_sq_card_quot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:04.300578+00:00
 -- url     : https://prove2.me/theorems/a421f26b-8916-4443-ba25-dc352cd4f387

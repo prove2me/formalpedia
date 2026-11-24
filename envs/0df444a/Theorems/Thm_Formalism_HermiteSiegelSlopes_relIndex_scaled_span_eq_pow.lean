@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermiteSiegelSlopes_relIndex_scaled_span_eq_pow
 -- name    : Formalism.HermiteSiegelSlopes.relIndex_scaled_span_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:30:35.665049+00:00
 -- url     : https://prove2.me/theorems/36650e5c-4974-4a45-b776-8096d536c8a8

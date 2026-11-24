@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lhwline_vanish
 -- name    : Formalism.GradedWeylDivisibility.lhwline_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:23:30.920483+00:00
 -- url     : https://prove2.me/theorems/2d594e4f-406a-4cea-b671-af00c6e62eed

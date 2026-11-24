@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BB6Kit_prop37_max
 -- name    : BB6Kit.prop37_max
--- status  : Open
+-- status  : Proved
 -- author  : @alon yuval
 -- created : 2026-11-24T06:59:12.063832+00:00
 -- url     : https://prove2.me/theorems/1f54c181-5f28-4108-913a-d6b4fcd64310

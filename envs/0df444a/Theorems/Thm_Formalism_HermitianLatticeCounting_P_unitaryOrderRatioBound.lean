@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_unitaryOrderRatioBound
 -- name    : Formalism.HermitianLatticeCounting.P.unitaryOrderRatioBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:33.936801+00:00
 -- url     : https://prove2.me/theorems/14304342-7e19-4e27-823a-d4bd8a95b7ee

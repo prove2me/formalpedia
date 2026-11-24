@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_BoxTail_tail_diff_split
 -- name    : Formalism.HermitianLattices.Ext.BoxTail.tail_diff_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:49.808487+00:00
 -- url     : https://prove2.me/theorems/ff1bda73-9672-4fde-9541-23e4996c00da

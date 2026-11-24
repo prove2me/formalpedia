@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_wedge_hadamard_inequality
 -- name    : Formalism.HermitianLatticeCounting.P.wedge_hadamard_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:35.235069+00:00
 -- url     : https://prove2.me/theorems/d0965aaa-0776-4418-9bca-9149159f45d4

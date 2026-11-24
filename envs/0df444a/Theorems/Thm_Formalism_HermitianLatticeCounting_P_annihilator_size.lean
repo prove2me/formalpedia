@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_annihilator_size
 -- name    : Formalism.HermitianLatticeCounting.P.annihilator_size
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:40.488397+00:00
 -- url     : https://prove2.me/theorems/8d76bd8d-9292-4c35-a660-febb6f478907

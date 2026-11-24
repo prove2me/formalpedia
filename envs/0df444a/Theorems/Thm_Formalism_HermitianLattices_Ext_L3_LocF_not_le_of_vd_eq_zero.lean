@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocF_not_le_of_vd_eq_zero
 -- name    : Formalism.HermitianLattices.Ext.L3.LocF.not_le_of_vd_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:54:08.401007+00:00
 -- url     : https://prove2.me/theorems/867b589b-5ba5-4ff7-b061-a9f7dc95ab37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_nFJZero
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.nFJZero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:08:45.664567+00:00
 -- url     : https://prove2.me/theorems/ddc998e0-c843-4bf9-8840-a7ec8b172f9d

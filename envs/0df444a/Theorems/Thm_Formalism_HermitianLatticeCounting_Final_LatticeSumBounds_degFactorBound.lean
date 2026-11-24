@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_degFactorBound
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.degFactorBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:21.166807+00:00
 -- url     : https://prove2.me/theorems/c9dc9084-8c01-4107-9a4f-555a8280bd7f

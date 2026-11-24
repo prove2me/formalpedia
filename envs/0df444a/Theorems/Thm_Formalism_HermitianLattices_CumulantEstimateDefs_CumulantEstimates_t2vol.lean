@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_CumulantEstimates_t2vol
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.CumulantEstimates.t2vol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:57.943318+00:00
 -- url     : https://prove2.me/theorems/810be5dc-7452-4256-b45a-dc6a2962a135

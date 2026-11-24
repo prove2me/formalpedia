@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_nonDegRow
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.nonDegRow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:31.964527+00:00
 -- url     : https://prove2.me/theorems/fe3908bd-9eb7-436f-9fd1-4457cfda282c

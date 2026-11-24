@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_transform_upper_unitriangular_change
 -- name    : Formalism.HermitianLatticeCounting.P.transform_upper_unitriangular_change
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:01.256317+00:00
 -- url     : https://prove2.me/theorems/dd321af2-3ff6-437d-be45-13569795cb69

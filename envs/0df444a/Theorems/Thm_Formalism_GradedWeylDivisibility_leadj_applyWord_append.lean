@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_leadj_applyWord_append
 -- name    : Formalism.GradedWeylDivisibility.leadj_applyWord_append
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:07:13.6752+00:00
 -- url     : https://prove2.me/theorems/002c6dac-f8d9-4fc9-bbc2-db74eacb4f52

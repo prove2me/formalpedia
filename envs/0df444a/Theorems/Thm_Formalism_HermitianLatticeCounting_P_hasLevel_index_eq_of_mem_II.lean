@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_hasLevel_index_eq_of_mem_II
 -- name    : Formalism.HermitianLatticeCounting.P.hasLevel_index_eq_of_mem_II
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:38.667968+00:00
 -- url     : https://prove2.me/theorems/7b38318e-c122-4798-b425-abf98b8c58cf

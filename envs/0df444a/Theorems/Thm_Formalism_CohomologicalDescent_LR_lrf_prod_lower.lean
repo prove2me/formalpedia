@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lrf_prod_lower
 -- name    : Formalism.CohomologicalDescent.LR.lrf_prod_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:53.037988+00:00
 -- url     : https://prove2.me/theorems/a1470e0b-e0a3-48e2-b932-e608007e8e23

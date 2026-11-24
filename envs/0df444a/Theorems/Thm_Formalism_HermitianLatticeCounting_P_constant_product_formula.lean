@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_constant_product_formula
 -- name    : Formalism.HermitianLatticeCounting.P.constant_product_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:45.442861+00:00
 -- url     : https://prove2.me/theorems/79e90269-6b37-445a-b481-f6a58205a0ce

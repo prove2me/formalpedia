@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_CumulantEstimates_hsHalf
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.CumulantEstimates.hsHalf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:59.688982+00:00
 -- url     : https://prove2.me/theorems/14dca9f2-b762-4c07-9728-4cb50f673005

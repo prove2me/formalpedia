@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocF_fixed_nonunit
 -- name    : Formalism.HermitianLattices.Ext.L3.LocF.fixed_nonunit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:28.899903+00:00
 -- url     : https://prove2.me/theorems/43778301-8ba3-4148-9848-3f2ee2de4711

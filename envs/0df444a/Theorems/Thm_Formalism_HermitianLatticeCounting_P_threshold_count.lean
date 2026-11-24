@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_threshold_count
 -- name    : Formalism.HermitianLatticeCounting.P.threshold_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:24.67718+00:00
 -- url     : https://prove2.me/theorems/1a8aa0c3-06d6-436c-98e2-34280882f830

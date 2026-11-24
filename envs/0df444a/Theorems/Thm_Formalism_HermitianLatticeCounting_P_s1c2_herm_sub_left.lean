@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s1c2_herm_sub_left
 -- name    : Formalism.HermitianLatticeCounting.P.s1c2_herm_sub_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:06.292127+00:00
 -- url     : https://prove2.me/theorems/0e7267c6-5776-4b19-9da7-800a779d3931

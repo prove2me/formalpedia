@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_BoxTail_norm_exp_sub_one_le_of_re_nonneg
 -- name    : Formalism.HermitianLattices.Ext.BoxTail.norm_exp_sub_one_le_of_re_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:50.04242+00:00
 -- url     : https://prove2.me/theorems/c75de383-53d8-472d-a067-1ec5dcc5273e

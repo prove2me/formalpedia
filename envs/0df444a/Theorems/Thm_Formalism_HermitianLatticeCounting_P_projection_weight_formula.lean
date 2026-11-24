@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_projection_weight_formula
 -- name    : Formalism.HermitianLatticeCounting.P.projection_weight_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:41.394584+00:00
 -- url     : https://prove2.me/theorems/8417fc85-1025-427d-a13e-8de164dba9fd

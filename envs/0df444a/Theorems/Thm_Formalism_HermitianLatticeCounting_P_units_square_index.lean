@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_units_square_index
 -- name    : Formalism.HermitianLatticeCounting.P.units_square_index
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:55.95249+00:00
 -- url     : https://prove2.me/theorems/f4b12c71-4bcb-4915-8e80-3bc51e92ff65

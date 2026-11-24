@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lehw_weight_P
 -- name    : Formalism.GradedWeylDivisibility.lehw_weight_P
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:34.546797+00:00
 -- url     : https://prove2.me/theorems/3f332ef3-3604-471d-8cf5-0d322164b159

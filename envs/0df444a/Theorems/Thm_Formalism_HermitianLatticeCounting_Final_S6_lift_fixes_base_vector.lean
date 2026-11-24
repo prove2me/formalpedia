@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_lift_fixes_base_vector
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.lift_fixes_base_vector
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:42.21103+00:00
 -- url     : https://prove2.me/theorems/dfc66398-066a-4895-acde-6a25b84601fd

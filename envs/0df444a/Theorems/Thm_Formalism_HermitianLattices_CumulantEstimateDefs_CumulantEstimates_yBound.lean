@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_CumulantEstimates_yBound
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.CumulantEstimates.yBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:16.209714+00:00
 -- url     : https://prove2.me/theorems/5f773000-593a-4151-b5bb-9810321fc69c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5a4_index
 -- name    : Formalism.HermitianLatticeCounting.P.s5a4_index
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:37.104021+00:00
 -- url     : https://prove2.me/theorems/6d79227a-f5ff-4236-a4c9-59abff9c3052

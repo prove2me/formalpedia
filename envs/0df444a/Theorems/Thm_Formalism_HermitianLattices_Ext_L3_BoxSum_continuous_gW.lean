@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_continuous_gW
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.continuous_gW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:46:12.036406+00:00
 -- url     : https://prove2.me/theorems/c93baab7-465e-481b-90d7-0ddb03562af6

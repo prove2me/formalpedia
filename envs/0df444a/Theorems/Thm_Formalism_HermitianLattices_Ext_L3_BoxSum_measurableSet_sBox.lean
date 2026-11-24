@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_measurableSet_sBox
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.measurableSet_sBox
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:47:35.878928+00:00
 -- url     : https://prove2.me/theorems/83262510-4222-4c51-83ce-2f12a4325adc

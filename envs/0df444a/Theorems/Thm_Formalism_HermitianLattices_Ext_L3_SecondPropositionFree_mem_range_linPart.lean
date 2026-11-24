@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_SecondPropositionFree_mem_range_linPart
 -- name    : Formalism.HermitianLattices.Ext.L3.SecondPropositionFree.mem_range_linPart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:05.479557+00:00
 -- url     : https://prove2.me/theorems/8d35113b-741c-424d-b8d1-0f931e557348

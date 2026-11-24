@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_final_size
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.final_size
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:55:53.085609+00:00
 -- url     : https://prove2.me/theorems/fcbe8b9e-ddc3-4cc3-8ca8-3f5f4df0a1c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_hermitian_jacobian
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.hermitian_jacobian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:59:13.891862+00:00
 -- url     : https://prove2.me/theorems/0d98efbb-9aae-4b4b-83b7-bbec6ffede63

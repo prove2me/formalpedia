@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_sat_of_ann
 -- name    : Formalism.HN.DualPolygon.sat_of_ann
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:30:25.195976+00:00
 -- url     : https://prove2.me/theorems/162d18d8-5c54-4e4d-bd9e-1f47208af9b5

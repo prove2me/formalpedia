@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallA_covolume_div_covolume
 -- name    : Formalism.HermitianLattices.Ext.L3.BallA.covolume_div_covolume
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:03.999953+00:00
 -- url     : https://prove2.me/theorems/1216b326-a988-4185-8e29-b41ea29f24d5

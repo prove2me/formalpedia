@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_resolution_norm_bound
 -- name    : Formalism.HermitianLatticeCounting.P.resolution_norm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:00.677438+00:00
 -- url     : https://prove2.me/theorems/491e1aaf-1384-4a42-bd0a-b0b4871048db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueEquivalence_ve_value_iteration_same_solution
 -- name    : ValueEquivalence.ve_value_iteration_same_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:53:57.060805+00:00
 -- url     : https://prove2.me/theorems/225fc96b-cb99-462c-b830-16bfc35c10df

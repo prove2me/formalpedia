@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_twist_finrank_int
 -- name    : Formalism.HN.DualPolygon.twist_finrank_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:41:06.967622+00:00
 -- url     : https://prove2.me/theorems/b02027fb-8277-433a-9403-010d9e72f588

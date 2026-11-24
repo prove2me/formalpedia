@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_liftIsoW
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.liftIsoW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:24.279829+00:00
 -- url     : https://prove2.me/theorems/83ca699a-3e87-4bf7-9d04-7be2b98c80bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_unimodular_rank
 -- name    : Formalism.HermitianLatticeCounting.P.unimodular_rank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:36.902284+00:00
 -- url     : https://prove2.me/theorems/85898162-722d-4739-a8d4-74b7486180e5

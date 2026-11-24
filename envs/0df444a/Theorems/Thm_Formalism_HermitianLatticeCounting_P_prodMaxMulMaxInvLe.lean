@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_prodMaxMulMaxInvLe
 -- name    : Formalism.HermitianLatticeCounting.P.prodMaxMulMaxInvLe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:38.197645+00:00
 -- url     : https://prove2.me/theorems/771bac1c-cf2a-4078-8242-6966ab2926c9

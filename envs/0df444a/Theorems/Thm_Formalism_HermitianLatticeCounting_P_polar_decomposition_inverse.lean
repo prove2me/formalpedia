@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_polar_decomposition_inverse
 -- name    : Formalism.HermitianLatticeCounting.P.polar_decomposition_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:32.381609+00:00
 -- url     : https://prove2.me/theorems/24648cf8-edb5-4710-be7c-5a03e0a102cd

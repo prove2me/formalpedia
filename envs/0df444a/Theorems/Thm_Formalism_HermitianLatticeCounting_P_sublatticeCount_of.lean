@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_sublatticeCount_of
 -- name    : Formalism.HermitianLatticeCounting.P.sublatticeCount_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:33.149593+00:00
 -- url     : https://prove2.me/theorems/d682b452-e166-4dab-b9a9-4eb73f8c24b0

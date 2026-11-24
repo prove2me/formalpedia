@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lrfc_tau_iota
 -- name    : Formalism.CohomologicalDescent.LR.lrfc_tau_iota
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:59.276307+00:00
 -- url     : https://prove2.me/theorems/a2807d7b-ffbe-423a-bade-8b8718358028

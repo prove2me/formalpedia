@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_prod_factorialPiWeight_le
 -- name    : Formalism.HermitianLatticeCounting.P.prod_factorialPiWeight_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:51.928829+00:00
 -- url     : https://prove2.me/theorems/46016834-6e77-441e-8af6-d783f75bcbf0

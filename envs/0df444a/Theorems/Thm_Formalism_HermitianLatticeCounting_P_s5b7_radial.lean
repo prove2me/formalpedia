@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5b7_radial
 -- name    : Formalism.HermitianLatticeCounting.P.s5b7_radial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:11.876051+00:00
 -- url     : https://prove2.me/theorems/d3d8ee8d-fe04-40a4-91ea-50ac225ca721

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_rowDivStable
 -- name    : Formalism.GradedWeylDivisibility.rowDivStable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:22:57.697707+00:00
 -- url     : https://prove2.me/theorems/48a4524f-abec-41a0-9380-eeefe2377c13

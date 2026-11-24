@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_QuotientRealization_inner_sum_psi
 -- name    : Formalism.HN.QuotientRealization.inner_sum_psi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:30:19.939285+00:00
 -- url     : https://prove2.me/theorems/c141103f-87ff-47c8-873f-a9aa995082a2

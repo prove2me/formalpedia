@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_B4_log_eight_mul_le
 -- name    : Formalism.HermitianLattices.Ext.B4.log_eight_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:44.441993+00:00
 -- url     : https://prove2.me/theorems/be0716cf-ab7c-45c4-bc14-5cd239e4db92

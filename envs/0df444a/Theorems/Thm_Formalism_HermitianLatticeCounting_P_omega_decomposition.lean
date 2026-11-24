@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_omega_decomposition
 -- name    : Formalism.HermitianLatticeCounting.P.omega_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:42:26.666772+00:00
 -- url     : https://prove2.me/theorems/3759a28e-88e3-4b8f-83c3-8b96899d5206

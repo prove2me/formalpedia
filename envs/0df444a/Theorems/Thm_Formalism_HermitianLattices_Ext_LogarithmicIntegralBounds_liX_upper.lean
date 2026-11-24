@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_liX_upper
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.liX_upper
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:28.434947+00:00
 -- url     : https://prove2.me/theorems/4615d927-c253-4bd2-8f76-224e8c5a07b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_sfac_mul_le
 -- name    : Formalism.HermitianLatticeCounting.P.sfac_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:31.429604+00:00
 -- url     : https://prove2.me/theorems/bc34489b-33bd-4dc7-a807-43fa9cb9d7da

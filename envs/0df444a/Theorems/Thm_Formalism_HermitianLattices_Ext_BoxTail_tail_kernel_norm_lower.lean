@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_BoxTail_tail_kernel_norm_lower
 -- name    : Formalism.HermitianLattices.Ext.BoxTail.tail_kernel_norm_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:43.895231+00:00
 -- url     : https://prove2.me/theorems/faf8bcc1-180c-4a54-b9cc-f5976a97e966

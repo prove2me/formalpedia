@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_dual_vector_norm_sq
 -- name    : Formalism.HermitianLatticeCounting.P.dual_vector_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:58.629668+00:00
 -- url     : https://prove2.me/theorems/6259a732-2eb4-4b2d-bcb0-33d32b796185

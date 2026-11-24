@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_ExpansionTerms_majorant_lower_bound
 -- name    : Formalism.HermitianLatticeCounting.Final.ExpansionTerms.majorant_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:47.203227+00:00
 -- url     : https://prove2.me/theorems/78eda34a-bed0-489e-b028-e96cd0161ab1

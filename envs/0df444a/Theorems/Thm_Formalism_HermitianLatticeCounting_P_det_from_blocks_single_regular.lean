@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_det_from_blocks_single_regular
 -- name    : Formalism.HermitianLatticeCounting.P.det_from_blocks_single_regular
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:32.953829+00:00
 -- url     : https://prove2.me/theorems/4dde50ac-db2e-4091-8292-dcf894bfcca5

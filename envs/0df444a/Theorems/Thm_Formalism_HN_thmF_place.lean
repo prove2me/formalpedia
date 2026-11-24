@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_thmF_place
 -- name    : Formalism.HN.thmF_place
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:30:00.425+00:00
 -- url     : https://prove2.me/theorems/c6c9ad21-ff9b-4f6c-84ee-d9c957654a3c

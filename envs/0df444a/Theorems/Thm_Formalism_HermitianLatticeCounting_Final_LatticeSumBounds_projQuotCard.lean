@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_projQuotCard
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.projQuotCard
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:30:26.865274+00:00
 -- url     : https://prove2.me/theorems/d4e84e45-e995-4e36-af3b-e37c613fbbee

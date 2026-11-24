@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HermitianSublattices_quad_eq_zero
 -- name    : Formalism.HermitianLattices.Ext.L3.HermitianSublattices.quad_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:53.287325+00:00
 -- url     : https://prove2.me/theorems/ef135dee-ab45-4097-a2d1-2fba0095a1fe

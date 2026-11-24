@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_proper_index_formula
 -- name    : Formalism.HermitianLatticeCounting.P.proper_index_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:49.134577+00:00
 -- url     : https://prove2.me/theorems/7b38e4d9-42a7-4d6b-9b0d-eca48fbd7426

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_sum_le_sum_shift
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.sum_le_sum_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:47:55.530806+00:00
 -- url     : https://prove2.me/theorems/bfdb445c-f8a7-4f80-a385-35a9b89a8fe5

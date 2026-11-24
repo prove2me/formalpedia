@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LandL_det_mem_subring
 -- name    : Formalism.HermitianLattices.Ext.L3.LandL.det_mem_subring
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:20.693826+00:00
 -- url     : https://prove2.me/theorems/03c9802e-6b0b-4bc2-b964-ba76a366716c

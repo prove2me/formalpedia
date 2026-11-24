@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_FirstPropositionFrame_isUnit_of_map
 -- name    : Formalism.HermitianLattices.Ext.L3.FirstPropositionFrame.isUnit_of_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:48.782329+00:00
 -- url     : https://prove2.me/theorems/0d2b46b1-bcaf-471c-bfa8-79edd9c409b8

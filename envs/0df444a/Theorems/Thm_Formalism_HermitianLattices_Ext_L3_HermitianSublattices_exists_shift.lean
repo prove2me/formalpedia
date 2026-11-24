@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HermitianSublattices_exists_shift
 -- name    : Formalism.HermitianLattices.Ext.L3.HermitianSublattices.exists_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:53.781491+00:00
 -- url     : https://prove2.me/theorems/d72db203-031d-4dff-8144-179a669ebc96

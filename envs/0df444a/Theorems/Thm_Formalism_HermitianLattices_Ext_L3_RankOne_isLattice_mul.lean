@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_RankOne_isLattice_mul
 -- name    : Formalism.HermitianLattices.Ext.L3.RankOne.isLattice_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:07.258417+00:00
 -- url     : https://prove2.me/theorems/72950c2a-130c-4b04-af5c-072892a2259c

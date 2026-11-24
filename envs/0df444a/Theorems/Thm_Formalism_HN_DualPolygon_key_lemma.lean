@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_key_lemma
 -- name    : Formalism.HN.DualPolygon.key_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:26:33.315545+00:00
 -- url     : https://prove2.me/theorems/1cd71a32-cbfb-45eb-a347-1f6ecb675aef

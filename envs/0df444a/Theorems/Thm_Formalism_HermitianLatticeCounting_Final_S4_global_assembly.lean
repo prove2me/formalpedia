@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_global_assembly
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.global_assembly
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:03.354944+00:00
 -- url     : https://prove2.me/theorems/2103ae4f-a7ee-4dd7-bcb8-10381ea00254

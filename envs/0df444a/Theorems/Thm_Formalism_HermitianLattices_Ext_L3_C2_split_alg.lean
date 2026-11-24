@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_C2_split_alg
 -- name    : Formalism.HermitianLattices.Ext.L3.C2.split_alg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:46:21.645593+00:00
 -- url     : https://prove2.me/theorems/6b0d3c40-eecf-4305-a439-bd2341e3386e

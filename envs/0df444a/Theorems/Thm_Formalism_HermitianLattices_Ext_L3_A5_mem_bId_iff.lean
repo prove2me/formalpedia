@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_mem_bId_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.mem_bId_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:22.94945+00:00
 -- url     : https://prove2.me/theorems/788e4457-87b4-4167-89eb-07e196021a4e

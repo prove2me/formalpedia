@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_cutoff_integral_formula
 -- name    : Formalism.HermitianLatticeCounting.P.cutoff_integral_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:14.143799+00:00
 -- url     : https://prove2.me/theorems/00f6a461-7196-4dc5-95dc-b798f5056707

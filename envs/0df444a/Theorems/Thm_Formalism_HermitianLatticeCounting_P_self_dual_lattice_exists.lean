@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_self_dual_lattice_exists
 -- name    : Formalism.HermitianLatticeCounting.P.self_dual_lattice_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:20.216019+00:00
 -- url     : https://prove2.me/theorems/b3b216d9-a896-494a-8724-f6befa8062e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_CumulantEstimates_qUpper
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.CumulantEstimates.qUpper
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:07.188413+00:00
 -- url     : https://prove2.me/theorems/28c386e6-154a-4582-b22c-775a81ecbf50

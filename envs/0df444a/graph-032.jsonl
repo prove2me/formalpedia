@@ -31293,8 +31293,8 @@
 {"parent": "QMAPerfectCompleteness_Proof_RecountGatesCorrectness", "child": "QMAPerfectCompleteness_Proof_UnaryNextPowerTM", "via": ["statement"]}
 {"parent": "QMAPerfectCompleteness_Proof_RecountGatesCorrectness", "child": "QMAPerfectCompleteness_Proof_DyadicEncoding", "via": ["statement"]}
 {"parent": "QMAPerfectCompleteness_Proof_RecountGatesCorrectness", "child": "QMAPerfectCompleteness_Proof_RawCircuitEncoding", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.strongMarkovAtExtendedStoppingTime", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.strongMarkovAtExtendedStoppingTime", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.strongMarkovAtExtendedStoppingTime", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.strongMarkovAtExtendedStoppingTime", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["solution", "statement"]}
 {"parent": "RPLib_S3_DWSTateA", "child": "RPLib_S3_DWSIsog", "via": ["statement"]}
 {"parent": "RPLib_S3_DWSTateA", "child": "RPLib_S3_TateStmt", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHLowSlabTenthFinal", "child": "row23_rh_supp_RHLowSlabTenthCell03", "via": ["statement"]}
@@ -38864,8 +38864,8 @@
 {"parent": "AvramDividend.Classical.avram_b24_original_jumpfree_stopped_mesh_compensated_mark_exact_drift_ae", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_small_band_compensated", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_a31_original_positive_sigma_gaussian_source_charfun_real_20261114", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_a31_original_positive_sigma_gaussian_source_charfun_real_20261114", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_truncated_residual", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch03.supremumInfimumDuality", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.supremumInfimumDuality", "child": "LevyExtrema_SBA_runSup", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.supremumInfimumDuality", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.supremumInfimumDuality", "child": "LevyExtrema_SBA_runSup", "via": ["solution", "statement"]}
 {"parent": "StableMSR.Recovery.Supplement.permutation_family", "child": "StableMSR_Recovery_Supplement_RandomExecution", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RHLow100TranslationAll", "child": "row23_translation_serial_10_20261114", "via": ["statement"]}
 {"parent": "StableVotingDistortion.Lemma9Reduction.coveredCells182To186", "child": "StableVotingDistortion_Lemma9IntervalArithmetic", "via": ["solution", "statement"]}

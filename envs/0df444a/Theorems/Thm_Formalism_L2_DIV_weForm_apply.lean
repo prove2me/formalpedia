@@ -1,0 +1,40 @@
+-- Prove2me | Theorems.Thm_Formalism_L2_DIV_weForm_apply
+-- name    : Formalism.L2.DIV.weForm_apply
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-24T07:19:09.613457+00:00
+-- url     : https://prove2.me/theorems/114855f0-e975-41b3-9e30-8ba72f9d4edd
+-- title:
+--   DIV: we Form apply
+-- statement:
+--   The DIV construction uses the we Form apply property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/Columns/CoefficientsModP/WeTransposeWordTransposeWord.lean#L134-L135
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/Columns/CoefficientsModP/WeTransposeWordTransposeWord.lean#L134-L135
+
+import Definitions.Def_Formalism_GradedWeylDivisibility_FinalD
+import Definitions.Def_Formalism_GradedWeylDivisibility_StatementE
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockQHW
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockQWordAdj
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_LClosedeqLemmas
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_LowerTriangularIntegral
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_LrfcApplyWordAppendSingle
+import Definitions.Def_Formalism_HermitianLattices_HermitianLatticesProofs_DualLattice
+import Definitions.Def_Formalism_LocalToGlobal_Columns_CoefficientsModP_WeTransposeWordTransposeWord
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open MvPolynomial
+noncomputable section
+open Formalism Formalism.L2 Formalism.L2.DIV
+open Formalism.GradedWeylDivisibility
+variable {r n : ℕ} (hn : n ≤ r) (ν : Fin n → ℕ)
+
+theorem Formalism.L2.DIV.weForm_apply (x y : dualWeyl ℚ r n ν) :
+    weForm hn ν x y = fockQ x.1 y.1 / fockQ (hw ℚ hn ν) (hw ℚ hn ν) := by sorry

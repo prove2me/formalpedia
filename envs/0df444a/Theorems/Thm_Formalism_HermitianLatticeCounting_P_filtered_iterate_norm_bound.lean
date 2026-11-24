@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_filtered_iterate_norm_bound
 -- name    : Formalism.HermitianLatticeCounting.P.filtered_iterate_norm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:07.280775+00:00
 -- url     : https://prove2.me/theorems/3bb4fbf6-4e7d-46b7-96e3-dbcf6a4e1c52

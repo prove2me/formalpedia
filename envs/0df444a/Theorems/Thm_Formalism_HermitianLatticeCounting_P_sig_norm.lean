@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_sig_norm
 -- name    : Formalism.HermitianLatticeCounting.P.sig_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:18.084078+00:00
 -- url     : https://prove2.me/theorems/f19ef654-df06-4366-afd0-5e42aa3f1518

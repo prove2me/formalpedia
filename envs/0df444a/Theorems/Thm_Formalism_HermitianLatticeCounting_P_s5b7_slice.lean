@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5b7_slice
 -- name    : Formalism.HermitianLatticeCounting.P.s5b7_slice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:19.904899+00:00
 -- url     : https://prove2.me/theorems/1b1e22b0-c630-4def-971b-7758a414c7b7

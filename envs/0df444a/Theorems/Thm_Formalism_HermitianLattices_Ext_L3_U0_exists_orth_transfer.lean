@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_exists_orth_transfer
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.exists_orth_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:39.22886+00:00
 -- url     : https://prove2.me/theorems/7681865d-fafc-4cfc-8d5a-d19c49503926

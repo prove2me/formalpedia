@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_transposeVariables_involutive
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.transposeVariables_involutive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:37.058522+00:00
 -- url     : https://prove2.me/theorems/81496fe7-1537-434f-84f5-c3f1a57f2a51

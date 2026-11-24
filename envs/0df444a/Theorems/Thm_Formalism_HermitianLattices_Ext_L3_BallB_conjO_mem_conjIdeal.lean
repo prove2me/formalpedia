@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallB_conjO_mem_conjIdeal
 -- name    : Formalism.HermitianLattices.Ext.L3.BallB.conjO_mem_conjIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:48.182261+00:00
 -- url     : https://prove2.me/theorems/c96cc78e-8ec0-4c6b-8db9-96ee9a60d4c5

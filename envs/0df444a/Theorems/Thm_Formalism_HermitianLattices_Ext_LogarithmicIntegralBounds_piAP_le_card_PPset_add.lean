@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_piAP_le_card_PPset_add
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.piAP_le_card_PPset_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:10.639534+00:00
 -- url     : https://prove2.me/theorems/e2c79a84-eded-4779-a4fe-981b9acd8d76

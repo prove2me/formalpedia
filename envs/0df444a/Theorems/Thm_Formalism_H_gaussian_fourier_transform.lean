@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_gaussian_fourier_transform
 -- name    : Formalism.H.gaussian_fourier_transform
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:08:45.607317+00:00
 -- url     : https://prove2.me/theorems/c2c14c8e-d594-4dbf-9ee3-fe06e83afedb

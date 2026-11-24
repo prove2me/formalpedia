@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_submatrix_mul_castLE_of_upper
 -- name    : Formalism.HermitianLatticeCounting.P.submatrix_mul_castLE_of_upper
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:20.285852+00:00
 -- url     : https://prove2.me/theorems/e9727f65-2c1a-432b-a266-cacb43e45db1

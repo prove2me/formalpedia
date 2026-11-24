@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_threshold_far_region
 -- name    : Formalism.HermitianLatticeCounting.P.threshold_far_region
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:37.703049+00:00
 -- url     : https://prove2.me/theorems/011ebbac-f224-423e-85fa-b091ef93d68c

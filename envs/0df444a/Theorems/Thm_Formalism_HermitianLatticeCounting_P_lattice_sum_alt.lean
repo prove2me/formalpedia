@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_lattice_sum_alt
 -- name    : Formalism.HermitianLatticeCounting.P.lattice_sum_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:45.279824+00:00
 -- url     : https://prove2.me/theorems/139ea3ba-0b9b-434b-a7df-c3df88a0bbae

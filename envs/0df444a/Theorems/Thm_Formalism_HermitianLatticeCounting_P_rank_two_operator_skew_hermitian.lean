@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_rank_two_operator_skew_hermitian
 -- name    : Formalism.HermitianLatticeCounting.P.rank_two_operator_skew_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:57.25092+00:00
 -- url     : https://prove2.me/theorems/9de6d727-9c74-4533-a34b-93a47784558b

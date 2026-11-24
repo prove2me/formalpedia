@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_rd_sq_ge
 -- name    : Formalism.HC.Der.rd_sq_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:08.116136+00:00
 -- url     : https://prove2.me/theorems/ca57574a-8d3b-486f-93dc-b013d13b395e

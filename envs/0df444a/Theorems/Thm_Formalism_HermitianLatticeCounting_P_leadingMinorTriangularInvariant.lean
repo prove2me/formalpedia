@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_leadingMinorTriangularInvariant
 -- name    : Formalism.HermitianLatticeCounting.P.leadingMinorTriangularInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:37.59975+00:00
 -- url     : https://prove2.me/theorems/9916b3ce-7baa-4878-90f8-248da4c1c7b5

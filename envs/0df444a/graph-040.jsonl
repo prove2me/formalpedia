@@ -12411,9 +12411,9 @@
 {"parent": "FunctorialResolution.EmbeddedResolution.graphJacobianMinorMatrix_apply", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_GraphAlgebra", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StChartMassCompare", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StatementsArea", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StChartMassCompare", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StatementsCurrent", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.highestWeightVectorRowWeight", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWRowWeight", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.highestWeightVectorRowWeight", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LHwrowLemmas", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.highestWeightVectorRowWeight", "child": "Formalism_GradedWeylDivisibility_StatementA", "via": ["statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.highestWeightVectorRowWeight", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWRowWeight", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.highestWeightVectorRowWeight", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LHwrowLemmas", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.highestWeightVectorRowWeight", "child": "Formalism_GradedWeylDivisibility_StatementA", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.SP.phi_X", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MinorFormulas_CayDivOf", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.SP.phi_X", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MinorFormulas_MinorFormula", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.SP.phi_X", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MinorFormulas_MinorIter", "via": ["solution", "statement"]}
@@ -27291,9 +27291,9 @@
 {"parent": "Formalism.CountingSumsFrames.TO.slc_wh", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_WeightSpaceDimensionMonotone", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_SpecialCycleEval_proof_017382fa96cd", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PSpecialCycleEval", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_SpecialCycleEval_proof_017382fa96cd", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_StatementsCN", "via": ["solution", "statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylModuleNonDominant", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylNonDom", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylModuleNonDominant", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LNondomLemmas", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylModuleNonDominant", "child": "Formalism_GradedWeylDivisibility_StatementA", "via": ["statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylModuleNonDominant", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylNonDom", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylModuleNonDominant", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LNondomLemmas", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylModuleNonDominant", "child": "Formalism_GradedWeylDivisibility_StatementA", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_CardChoiceLe", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_OneAddPowSubOneLe", "via": ["statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_CardChoiceLe", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_IteratedDerivListBound", "via": ["statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_CardChoiceLe", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_L2NormSqNonnegGaussianTorus", "via": ["statement"]}
@@ -28410,33 +28410,33 @@
 {"parent": "Formalism.InvariantFactorPaths.INST.rgl_swp_C", "child": "Formalism_ThetaLogCoordinates_SandwichModelDomains_SandwichModelProofs_GlFirstLineDividedPowers", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Kleiman_CohomRetract_proof_5cc87108e672", "child": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_PCohomRetract", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Kleiman_CohomRetract_proof_5cc87108e672", "child": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_StatementsPres", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_WeylLeDual", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylMap", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockPos", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylRowGraded", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_HighestWeightVectorNeZero", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockWeightOrth", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_BideterminantMem", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockHerm", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_WeylRowDivStable", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DomPow", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockDiagBound", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_BideterminantDominance", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylIntRat", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWRowWeight", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylNonDom", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylSat", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylMul", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_RowNuSum", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylPoint", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylRowStable", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_RowDivStable", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_SumIcoTsubTelescope", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_DualWeylDominanceOf", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockSubAdj", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWRaise", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockRowAdj", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylDominanceOf", "via": ["statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_WeylLeDual", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylMap", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockPos", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylRowGraded", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_HighestWeightVectorNeZero", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockWeightOrth", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_BideterminantMem", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockHerm", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_WeylRowDivStable", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DomPow", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockDiagBound", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_BideterminantDominance", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylIntRat", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWRowWeight", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylNonDom", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylSat", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylMul", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_RowNuSum", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylPoint", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylRowStable", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_RowDivStable", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_SumIcoTsubTelescope", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_DualWeylDominanceOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockSubAdj", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWRaise", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockRowAdj", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.dualWeylNonDom", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylDominanceOf", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LatticePair.ord_det_mul", "child": "Development_AbelianVarietyTheory_Proofs_DecoratedLatticeProofs_HasSumHeckeSeriesSphericalIntegralInverseStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LatticePair.ord_det_mul", "child": "Development_AbelianVarietyTheory_PublishedTheorems_TwistedTraceFormula_PairwiseDisjointCell", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LatticePair.ord_det_mul", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_HasBoundedSumsOne", "via": ["solution", "statement"]}
@@ -40094,10 +40094,10 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_HeightComparison_HeightOrbitCenterPrime", "child": "P2M_GroundTheory_Heights__Heights_samplePoint_blockNonzero_cdc1bb3eff09", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_HeightComparison_HeightOrbitCenterPrime", "child": "GroundTheory_HeightsAndTheta_Heights_HeightComparison_HeightOrbitCenter", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_NormalModelGraph", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StNormalModel", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.closedEqNabla_of", "child": "Formalism_GradedWeylDivisibility_DualWeylDominanceOf", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.closedEqNabla_of", "child": "Formalism_GradedWeylDivisibility_StatementB", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.closedEqNabla_of", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LClosedeqLemmas", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.closedEqNabla_of", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_ClosedEqNabla", "via": ["statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.closedEqNabla_of", "child": "Formalism_GradedWeylDivisibility_DualWeylDominanceOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.closedEqNabla_of", "child": "Formalism_GradedWeylDivisibility_StatementB", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.closedEqNabla_of", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LClosedeqLemmas", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.closedEqNabla_of", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_ClosedEqNabla", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Arith.SchemeCoh.bd_single", "child": "GroundTheory_ArithmeticGeometry_SchemeCohomology_ConsCompSuccAboveZero", "via": ["statement"]}
 {"parent": "GroundTheory.Arith.SchemeCoh.bd_single", "child": "GroundTheory_ArithmeticGeometry_SchemeCohomology_CechNaturality_Chains", "via": ["statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_ColAbelA", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_SplitSt", "via": ["statement"]}
@@ -78303,13 +78303,13 @@
 {"parent": "P2M_GlobalTheory_RankChart_toRows__dil_a78c4f6a5c7f", "child": "Development_AbelianVarietyTheory_Proofs_DecoratedLatticeProofs_IsBicharPairing", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.Cheb.embZ_apply", "child": "ReciprocityTheory_Chebotarev_DiscreteTopologyLatOf", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.Cheb.embZ_apply", "child": "ReciprocityTheory_Chebotarev_Ucoord", "via": ["solution", "statement"]}
-{"parent": "gradedOscillatorProperty", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockRaisingLowering_BlockDiagonalPreservesDegree", "via": ["statement"]}
-{"parent": "gradedOscillatorProperty", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_FockRaiseLow", "via": ["statement"]}
-{"parent": "gradedOscillatorProperty", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockRaisingLowering_KroneckerMapOneRightNeZero", "via": ["statement"]}
-{"parent": "gradedOscillatorProperty", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockRaisingLowering_GradedOscillatorPropertyOf", "via": ["statement"]}
-{"parent": "gradedOscillatorProperty", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockRaisingLowering_RaisingLoweringSplit", "via": ["statement"]}
-{"parent": "gradedOscillatorProperty", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockRaisingLowering_FockInnerEqSumRight", "via": ["statement"]}
-{"parent": "gradedOscillatorProperty", "child": "Formalism_PeriodIntegrals_JointBlockShapes_MinusPart", "via": ["statement"]}
+{"parent": "gradedOscillatorProperty", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockRaisingLowering_BlockDiagonalPreservesDegree", "via": ["solution", "statement"]}
+{"parent": "gradedOscillatorProperty", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_FockRaiseLow", "via": ["solution", "statement"]}
+{"parent": "gradedOscillatorProperty", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockRaisingLowering_KroneckerMapOneRightNeZero", "via": ["solution", "statement"]}
+{"parent": "gradedOscillatorProperty", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockRaisingLowering_GradedOscillatorPropertyOf", "via": ["solution", "statement"]}
+{"parent": "gradedOscillatorProperty", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockRaisingLowering_RaisingLoweringSplit", "via": ["solution", "statement"]}
+{"parent": "gradedOscillatorProperty", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockRaisingLowering_FockInnerEqSumRight", "via": ["solution", "statement"]}
+{"parent": "gradedOscillatorProperty", "child": "Formalism_PeriodIntegrals_JointBlockShapes_MinusPart", "via": ["solution", "statement"]}
 {"parent": "P2M_OrdinalStepUp_ErdosRado_exists_three_chain__90cf40c5a14f", "child": "OrdinalStepUp_Solution", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory_Chebotarev_RpowNegFinrankSubOne", "child": "ReciprocityTheory_Chebotarev_AbsLogSubLogLeOfHalf", "via": ["statement"]}
 {"parent": "GlobalTheory.RankChart.out_mk_sub_mem", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_HilbertNinetyQuotientHomEqIff", "via": ["solution", "statement"]}
@@ -87500,12 +87500,12 @@
 {"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp2.bil_mem", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_GaugeBilinearTermEqNegDoubleSum", "via": ["solution", "statement"]}
 {"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp2.bil_mem", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_CIndFrFix", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_GoodPointBranchExists", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_GoodPointBranchSlice", "via": ["statement"]}
-{"parent": "Formalism.HN.QuotientRealization.psi_mem", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SlopeIneqMean", "via": ["statement"]}
-{"parent": "Formalism.HN.QuotientRealization.psi_mem", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_QuotRealize", "via": ["statement"]}
-{"parent": "Formalism.HN.QuotientRealization.psi_mem", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep", "via": ["statement"]}
-{"parent": "Formalism.HN.QuotientRealization.psi_mem", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_PlaceSplit", "via": ["statement"]}
-{"parent": "Formalism.HN.QuotientRealization.psi_mem", "child": "Formalism_HarderNarasimhan_QuotRealize", "via": ["statement"]}
-{"parent": "Formalism.HN.QuotientRealization.psi_mem", "child": "Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax", "via": ["statement"]}
+{"parent": "Formalism.HN.QuotientRealization.psi_mem", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SlopeIneqMean", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.QuotientRealization.psi_mem", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_QuotRealize", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.QuotientRealization.psi_mem", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.QuotientRealization.psi_mem", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_PlaceSplit", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.QuotientRealization.psi_mem", "child": "Formalism_HarderNarasimhan_QuotRealize", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.QuotientRealization.psi_mem", "child": "Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_TheoremB_PolarisationBound_hypotheses_inhabited_32eb48fb7600", "child": "P2M_GroundTheory_Heights__Heights_RestTerms_CharacterBound_hypotheses_inhabited_d27e13b1c390", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_TheoremB_PolarisationBound_hypotheses_inhabited_32eb48fb7600", "child": "GroundTheory_HeightsAndTheta_Heights_RemainderTerms_Statements", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_TheoremB_PolarisationBound_hypotheses_inhabited_32eb48fb7600", "child": "P2M_GroundTheory_Heights__Heights_RestTerms_LemmaA_hypotheses_inhabited_db910e8699fe", "via": ["statement"]}
@@ -95592,7 +95592,7 @@
 {"parent": "PI.FJMB.bRow_apply", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_PurInv", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SW.FourierJ.ech_sum", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_IMemSiegel", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SW.FourierJ.ech_sum", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_EchEqOneIff", "via": ["solution", "statement"]}
-{"parent": "WeightedEdgeColor.lemma_large_edge_rounding", "child": "WeightedEdgeColor_WGraph", "via": ["statement"]}
+{"parent": "WeightedEdgeColor.lemma_large_edge_rounding", "child": "WeightedEdgeColor_WGraph", "via": ["solution", "statement"]}
 {"parent": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_PoissonSummationGaussianStatement", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_CountData", "via": ["statement"]}
 {"parent": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_PoissonSummationGaussianStatement", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_PoissonSummationGaussian", "via": ["statement"]}
 {"parent": "QuantumLTF.Membership.Supplement.coupled_transducer_410", "child": "QuantumLTF_Membership_Supplement_coupledOp410", "via": ["solution", "statement"]}
@@ -96976,13 +96976,13 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_StrongApprox_PlaceMaps_compAt_tmul_635eb167447d", "child": "GroundTheory_HeightsAndTheta_Heights_StrongApproximation_Statements", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.SiegelWeilFormula.KLI.intg_mono2", "child": "Development_WeilBound_CoreStatements_AutomorphicKernels_SiegelWeilFormula_LocalOperatorBlocks_EvalMonomial2", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.SiegelWeilFormula.KLI.intg_mono2", "child": "Development_WeilBound_CoreStatements_AutomorphicKernels_SiegelWeilFormula_LocalOperatorBlocks_IntgPowQuad", "via": ["solution", "statement"]}
-{"parent": "PI.BlockRatReal.UnitaryGroupMassFormula.s1", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylRowStable", "via": ["statement"]}
-{"parent": "PI.BlockRatReal.UnitaryGroupMassFormula.s1", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylMap", "via": ["statement"]}
-{"parent": "PI.BlockRatReal.UnitaryGroupMassFormula.s1", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_SumIcoTsubTelescope", "via": ["statement"]}
-{"parent": "PI.BlockRatReal.UnitaryGroupMassFormula.s1", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_RationalRealBlocks_Bridge", "via": ["statement"]}
-{"parent": "PI.BlockRatReal.UnitaryGroupMassFormula.s1", "child": "Formalism_PeriodIntegrals_BlockRatReal", "via": ["statement"]}
-{"parent": "PI.BlockRatReal.UnitaryGroupMassFormula.s1", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_RowDivStable", "via": ["statement"]}
-{"parent": "PI.BlockRatReal.UnitaryGroupMassFormula.s1", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_WeylLeDual", "via": ["statement"]}
+{"parent": "PI.BlockRatReal.UnitaryGroupMassFormula.s1", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylRowStable", "via": ["solution", "statement"]}
+{"parent": "PI.BlockRatReal.UnitaryGroupMassFormula.s1", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylMap", "via": ["solution", "statement"]}
+{"parent": "PI.BlockRatReal.UnitaryGroupMassFormula.s1", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_SumIcoTsubTelescope", "via": ["solution", "statement"]}
+{"parent": "PI.BlockRatReal.UnitaryGroupMassFormula.s1", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_RationalRealBlocks_Bridge", "via": ["solution", "statement"]}
+{"parent": "PI.BlockRatReal.UnitaryGroupMassFormula.s1", "child": "Formalism_PeriodIntegrals_BlockRatReal", "via": ["solution", "statement"]}
+{"parent": "PI.BlockRatReal.UnitaryGroupMassFormula.s1", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_RowDivStable", "via": ["solution", "statement"]}
+{"parent": "PI.BlockRatReal.UnitaryGroupMassFormula.s1", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_WeylLeDual", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_YPlusSec_newEmb_injective_b04c3e7a8d69", "child": "GroundTheory_HeightsAndTheta_Heights_WeightedHomogeneous_Statements", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_YPlusSec_newEmb_injective_b04c3e7a8d69", "child": "GroundTheory_HeightsAndTheta_Heights_WeightedHomogeneous_PYPlusSec", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.R.mem_support_iff_stalkId", "child": "ReciprocityTheory_AnalyticForms_RegularLocalRings_DivSheaf", "via": ["statement"]}
@@ -98287,7 +98287,7 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_FSLevi_reP_apply_7da478929125", "child": "GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_FderivFderivLogRho", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_FSLevi_reP_apply_7da478929125", "child": "GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_IsConeAnalyticSubset", "via": ["solution", "statement"]}
 {"parent": "AlgebraicGeometry.Scheme.exists_equivariant_lift_constant_etale_torsor_closed_fiber_of_isProper", "child": "AlgebraicGeometry_EtaleFiniteSectionLifts", "via": ["statement"]}
-{"parent": "AlgebraicGeometry.Scheme.exists_equivariant_lift_constant_etale_torsor_closed_fiber_of_isProper", "child": "AlgebraicGeometry_AbelianSheafTorsors", "via": ["statement"]}
+{"parent": "AlgebraicGeometry.Scheme.exists_equivariant_lift_constant_etale_torsor_closed_fiber_of_isProper", "child": "AlgebraicGeometry_AbelianSheafTorsors", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.R.AlgRes.isSNC_pullback", "child": "ReciprocityTheory_AnalyticForms_RegularLocalRings_SNCstep", "via": ["statement"]}
 {"parent": "ReciprocityTheory.AnForm.R.AlgRes.isSNC_pullback", "child": "ReciprocityTheory_AnalyticForms_RegularLocalRings_ExistsAtlas", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.finrank_sec_free", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_ProjDefs", "via": ["solution", "statement"]}
@@ -99731,25 +99731,25 @@
 {"parent": "RHX1000000.Run.E57.blk4", "child": "RHX_RunChain", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.prod_sub_eq_sum", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_AbsProdSubProdSubLinLe", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.prod_sub_eq_sum", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_SupportSubsetMonoBox", "via": ["solution", "statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_ColumnLexBideterminant", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_MinorExpLt", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_SSYTPeel", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_ColSums", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FinalC", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_PeelLead", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LeadComp", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_SSYTExists", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_SMSAssembly", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_ColLexInitMinor", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_EvalDeg", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_PeelDecomp", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_CompDeg", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FinalB", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_PeelDegBound", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_PeelHomog", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_StandardMonomialSpanOf", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_TwoColumn", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LeadInterlaced", "via": ["statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_ColumnLexBideterminant", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_MinorExpLt", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_SSYTPeel", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_ColSums", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FinalC", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_PeelLead", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LeadComp", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_SSYTExists", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_SMSAssembly", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_ColLexInitMinor", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_EvalDeg", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_PeelDecomp", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_CompDeg", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FinalB", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_PeelDegBound", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_PeelHomog", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_StandardMonomialSpanOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_TwoColumn", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.sSYTPeel", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LeadInterlaced", "via": ["solution", "statement"]}
 {"parent": "Formalism.HC.Landau.one_inv", "child": "Formalism_SharpRestriction_RamificationFrobenius_TotientGaloisClasses_ExplicitFormulaErrorOfHostConditions", "via": ["solution", "statement"]}
 {"parent": "Formalism.HC.Landau.one_inv", "child": "Formalism_SharpRestriction_RamificationFrobenius_TotientGaloisClasses_Landau", "via": ["solution", "statement"]}
 {"parent": "Formalism.HC.Landau.one_inv", "child": "Formalism_ZetaNonvanishing_ZetaLandau", "via": ["solution", "statement"]}
@@ -99870,9 +99870,9 @@
 {"parent": "RHX1000000.Run.E56.blk0", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E56.blk0", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E56.blk0", "child": "RHX_RunChain", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.lgraded_sep", "child": "Formalism_GradedWeylDivisibility_StatementB", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.lgraded_sep", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LRowdivLemmas", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.lgraded_sep", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LGradedLemmas", "via": ["statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.lgraded_sep", "child": "Formalism_GradedWeylDivisibility_StatementB", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.lgraded_sep", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LRowdivLemmas", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.lgraded_sep", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LGradedLemmas", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.DVR.GC.toUnit_TK_left", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_QuadTie", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.DVR.GC.toUnit_TK_left", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_ValuationMultiplicationInvariance", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.DVR.GC.toUnit_TK_left", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_GenCalc", "via": ["solution", "statement"]}
@@ -99987,12 +99987,12 @@
 {"parent": "RHX1000000.Run.E55.blk7", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E55.blk7", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E55.blk7", "child": "RHX_RunChain", "via": ["statement"]}
-{"parent": "Formalism.HF.P.dirichlet_density_of_log_density", "child": "Formalism_DirichletDensity_DirichletDensityProofs_LogToDir", "via": ["statement"]}
-{"parent": "Formalism.HF.P.dirichlet_density_of_log_density", "child": "Formalism_DirichletDensity_Statement", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.lhwline_elim_offdiag", "child": "Formalism_GradedWeylDivisibility_StatementB", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.lhwline_elim_offdiag", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LHwrowLemmas", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.lhwline_elim_offdiag", "child": "Formalism_GradedWeylDivisibility_DualWeylDominanceOf", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.lhwline_elim_offdiag", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LHwlineLemmas", "via": ["statement"]}
+{"parent": "Formalism.HF.P.dirichlet_density_of_log_density", "child": "Formalism_DirichletDensity_DirichletDensityProofs_LogToDir", "via": ["solution", "statement"]}
+{"parent": "Formalism.HF.P.dirichlet_density_of_log_density", "child": "Formalism_DirichletDensity_Statement", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.lhwline_elim_offdiag", "child": "Formalism_GradedWeylDivisibility_StatementB", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.lhwline_elim_offdiag", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LHwrowLemmas", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.lhwline_elim_offdiag", "child": "Formalism_GradedWeylDivisibility_DualWeylDominanceOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.lhwline_elim_offdiag", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LHwlineLemmas", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E56.blk2", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E56.blk2", "child": "RHX_RunSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E56.blk2", "child": "RHX1E6_RunE56", "via": ["solution", "statement"]}

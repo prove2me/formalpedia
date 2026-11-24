@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeylDuality_intQ_word
 -- name    : GlobalTheory.WeylDuality.intQ_word
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:58.081744+00:00
 -- url     : https://prove2.me/theorems/c9f2d730-bcea-4c72-923d-cbbb2cf2dff9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_mem_ebox_support
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.mem_ebox_support
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:43.170605+00:00
 -- url     : https://prove2.me/theorems/dfe8946e-3463-44aa-bcd2-dda11cf7c18e

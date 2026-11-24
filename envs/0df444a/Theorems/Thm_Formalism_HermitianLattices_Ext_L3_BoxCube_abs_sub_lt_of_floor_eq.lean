@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxCube_abs_sub_lt_of_floor_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxCube.abs_sub_lt_of_floor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:46:10.3288+00:00
 -- url     : https://prove2.me/theorems/e9efd74d-f86c-4e98-b85d-4e4abbd45c6a

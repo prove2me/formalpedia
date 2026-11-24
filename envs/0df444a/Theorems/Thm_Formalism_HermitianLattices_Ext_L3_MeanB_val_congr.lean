@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_MeanB_val_congr
 -- name    : Formalism.HermitianLattices.Ext.L3.MeanB.val_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:53:23.1624+00:00
 -- url     : https://prove2.me/theorems/7fd1f5a6-225e-479b-a9f6-5c0947edca66

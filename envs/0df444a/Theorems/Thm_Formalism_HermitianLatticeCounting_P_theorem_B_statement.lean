@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_theorem_B_statement
 -- name    : Formalism.HermitianLatticeCounting.P.theorem_B_statement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:33.273137+00:00
 -- url     : https://prove2.me/theorems/b9379548-5f5b-4f2a-a81a-f78e7133238b

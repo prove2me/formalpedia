@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueEquivalence_mle_may_not_be_value_equivalent
 -- name    : ValueEquivalence.mle_may_not_be_value_equivalent
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:53:07.804603+00:00
 -- url     : https://prove2.me/theorems/6cea7ab8-b7f7-419a-9825-508c0743d689

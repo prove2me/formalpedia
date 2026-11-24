@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_Node_pol_natDegree_le
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.Node.pol_natDegree_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:13.70605+00:00
 -- url     : https://prove2.me/theorems/b3616c0a-8d8f-4997-8b09-b3b99980ba60

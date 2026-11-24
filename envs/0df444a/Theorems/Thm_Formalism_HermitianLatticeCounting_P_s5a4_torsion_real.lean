@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5a4_torsion_real
 -- name    : Formalism.HermitianLatticeCounting.P.s5a4_torsion_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:56.532651+00:00
 -- url     : https://prove2.me/theorems/e62a8915-c0a1-4cd0-b85d-35c31af510aa

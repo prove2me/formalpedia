@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_QuotientRealization_psi_mem
 -- name    : Formalism.HN.QuotientRealization.psi_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:09.133499+00:00
 -- url     : https://prove2.me/theorems/5be16db8-d0e9-4689-bae1-4a3ec0bd6510

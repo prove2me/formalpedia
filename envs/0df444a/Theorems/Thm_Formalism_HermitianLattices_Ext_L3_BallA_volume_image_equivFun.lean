@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallA_volume_image_equivFun
 -- name    : Formalism.HermitianLattices.Ext.L3.BallA.volume_image_equivFun
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:37.575809+00:00
 -- url     : https://prove2.me/theorems/61988e6c-b6e3-4525-bcad-1973f7a0408b

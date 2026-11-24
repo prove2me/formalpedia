@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_ncard_biUnion_finset
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.ncard_biUnion_finset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:10.932205+00:00
 -- url     : https://prove2.me/theorems/e0830685-4dc3-4111-a079-2409bc633252

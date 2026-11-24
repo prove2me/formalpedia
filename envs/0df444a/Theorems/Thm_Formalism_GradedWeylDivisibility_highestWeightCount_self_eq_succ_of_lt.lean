@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_highestWeightCount_self_eq_succ_of_lt
 -- name    : Formalism.GradedWeylDivisibility.highestWeightCount_self_eq_succ_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:27.924689+00:00
 -- url     : https://prove2.me/theorems/460d94b6-bec1-428f-99a1-57584947aab5

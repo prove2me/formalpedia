@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocF_mem_closure_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.LocF.mem_closure_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:47.483174+00:00
 -- url     : https://prove2.me/theorems/c9c2ca9b-d98d-4c52-a3e0-303fcb817796

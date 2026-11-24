@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_covol_ideal_smul
 -- name    : Formalism.ExtensionFiltration.covol_ideal_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:42.592507+00:00
 -- url     : https://prove2.me/theorems/dc38acf1-4568-49b6-bd0e-2f5414d6a21f

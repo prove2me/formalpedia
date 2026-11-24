@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallB_exists_prim
 -- name    : Formalism.HermitianLattices.Ext.L3.BallB.exists_prim
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:35.071095+00:00
 -- url     : https://prove2.me/theorems/ee73a05e-9b34-4bc8-bd45-580c8145b0ad

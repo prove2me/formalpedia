@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilAdm_colsIn_transfer
 -- name    : GlobalTheory.SW.WeilAdm.colsIn_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:10.568535+00:00
 -- url     : https://prove2.me/theorems/b37fa87f-ed89-4545-88de-f7bd4554f3f7

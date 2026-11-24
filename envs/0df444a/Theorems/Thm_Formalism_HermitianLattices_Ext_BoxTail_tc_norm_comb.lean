@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_BoxTail_tc_norm_comb
 -- name    : Formalism.HermitianLattices.Ext.BoxTail.tc_norm_comb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:38.042724+00:00
 -- url     : https://prove2.me/theorems/dbf93d85-e77b-41bd-aa2b-5f50d19536b6

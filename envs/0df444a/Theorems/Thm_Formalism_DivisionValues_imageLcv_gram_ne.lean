@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_imageLcv_gram_ne
 -- name    : Formalism.DivisionValues.imageLcv_gram_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:32:06.503212+00:00
 -- url     : https://prove2.me/theorems/7dcfdd60-995d-4e90-a3ca-15fafa192fe8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocF_exists_next_unit
 -- name    : Formalism.HermitianLattices.Ext.L3.LocF.exists_next_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:53:03.411031+00:00
 -- url     : https://prove2.me/theorems/ba95fbce-0f46-4df8-a46f-5d73a07c08eb

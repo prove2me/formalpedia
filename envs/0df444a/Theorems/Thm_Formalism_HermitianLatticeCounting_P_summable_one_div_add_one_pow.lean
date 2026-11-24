@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_summable_one_div_add_one_pow
 -- name    : Formalism.HermitianLatticeCounting.P.summable_one_div_add_one_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:34.121155+00:00
 -- url     : https://prove2.me/theorems/179cef6a-4d53-42a0-acac-80284fda7820

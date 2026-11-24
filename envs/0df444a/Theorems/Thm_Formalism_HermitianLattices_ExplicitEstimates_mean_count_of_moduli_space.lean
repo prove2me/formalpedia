@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ExplicitEstimates_mean_count_of_moduli_space
 -- name    : Formalism.HermitianLattices.ExplicitEstimates.mean_count_of_moduli_space
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:52.493403+00:00
 -- url     : https://prove2.me/theorems/e9afe19a-4130-4171-9a85-256aa524c190

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LocalIntegralStructure_denomNormFrac
 -- name    : Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure.denomNormFrac
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:25.155866+00:00
 -- url     : https://prove2.me/theorems/b1c7f61b-08e9-4758-baee-a8c6dc82b65e

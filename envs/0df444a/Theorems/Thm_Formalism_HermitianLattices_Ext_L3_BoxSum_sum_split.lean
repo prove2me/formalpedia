@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_sum_split
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.sum_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:02.123814+00:00
 -- url     : https://prove2.me/theorems/e1c18ce1-7eb3-4d53-9e6e-c10a7562fc17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_iterate_sum_lower_bound
 -- name    : Formalism.HermitianLatticeCounting.P.iterate_sum_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:57.555829+00:00
 -- url     : https://prove2.me/theorems/43b27f83-106b-4c8f-bd66-6b8b9092b399

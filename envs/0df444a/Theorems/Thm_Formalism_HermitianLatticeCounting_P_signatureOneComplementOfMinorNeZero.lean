@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_signatureOneComplementOfMinorNeZero
 -- name    : Formalism.HermitianLatticeCounting.P.signatureOneComplementOfMinorNeZero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:21.796002+00:00
 -- url     : https://prove2.me/theorems/2f9e9b79-6c52-491f-980e-0779d3dbcb7e

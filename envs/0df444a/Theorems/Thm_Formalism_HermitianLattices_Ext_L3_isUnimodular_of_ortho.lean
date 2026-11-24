@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_isUnimodular_of_ortho
 -- name    : Formalism.HermitianLattices.Ext.L3.isUnimodular_of_ortho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:13.322798+00:00
 -- url     : https://prove2.me/theorems/d92919bc-3ae0-41b5-9ae4-c12cdfc8c6f0

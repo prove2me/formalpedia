@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_abs_div_nrm
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.abs_div_nrm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:40.336256+00:00
 -- url     : https://prove2.me/theorems/e839b6ba-29c7-4383-80f7-3677ddf4a8d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_twist_index
 -- name    : Formalism.HN.DualPolygon.twist_index
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:12:57.144486+00:00
 -- url     : https://prove2.me/theorems/6164240a-4b53-4fdc-a0a7-0052076d7757

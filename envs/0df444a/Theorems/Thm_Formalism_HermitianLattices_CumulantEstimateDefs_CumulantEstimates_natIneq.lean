@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_CumulantEstimates_natIneq
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.CumulantEstimates.natIneq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:18.825054+00:00
 -- url     : https://prove2.me/theorems/ca8c93cc-b3bf-4fb5-8d6b-106aae211f19

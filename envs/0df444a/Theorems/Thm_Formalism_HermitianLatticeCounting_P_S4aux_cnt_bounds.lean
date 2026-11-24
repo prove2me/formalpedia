@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_cnt_bounds
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.cnt_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:04.460641+00:00
 -- url     : https://prove2.me/theorems/1de48ac4-c750-43c0-8b9f-0db0ff722d5d

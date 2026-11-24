@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_QuotientRealization_proj_norm_sq
 -- name    : Formalism.HN.QuotientRealization.proj_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:10.18173+00:00
 -- url     : https://prove2.me/theorems/0aa757a9-08e5-4c7f-93a8-4e83ad052c6a

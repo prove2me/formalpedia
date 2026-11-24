@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_exists_coeff
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.exists_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:07.510558+00:00
 -- url     : https://prove2.me/theorems/a2ee8637-8959-44cf-8a36-1bb66e98988e

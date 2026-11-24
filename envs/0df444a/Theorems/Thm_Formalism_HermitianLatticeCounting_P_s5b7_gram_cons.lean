@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5b7_gram_cons
 -- name    : Formalism.HermitianLatticeCounting.P.s5b7_gram_cons
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:15.177128+00:00
 -- url     : https://prove2.me/theorems/850e18aa-2398-424a-9c0f-d2cfb6e7ce36

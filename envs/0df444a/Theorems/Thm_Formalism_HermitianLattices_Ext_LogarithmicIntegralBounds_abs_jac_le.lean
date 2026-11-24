@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_abs_jac_le
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.abs_jac_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:16.300691+00:00
 -- url     : https://prove2.me/theorems/15221197-09c1-4e75-8768-ba4b09883d35

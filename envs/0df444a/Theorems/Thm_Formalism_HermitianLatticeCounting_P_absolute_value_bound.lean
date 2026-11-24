@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_absolute_value_bound
 -- name    : Formalism.HermitianLatticeCounting.P.absolute_value_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:34.7994+00:00
 -- url     : https://prove2.me/theorems/4d5d6261-b107-4711-a86d-0d2b4733e96e

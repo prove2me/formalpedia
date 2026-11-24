@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_self_dual_lattice_extension
 -- name    : Formalism.HermitianLatticeCounting.P.self_dual_lattice_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:26.264848+00:00
 -- url     : https://prove2.me/theorems/f2e8fc71-6bc1-4521-bc4d-85a7b9c392ec

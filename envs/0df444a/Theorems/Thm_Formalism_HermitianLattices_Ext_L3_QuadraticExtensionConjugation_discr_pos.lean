@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_QuadraticExtensionConjugation_discr_pos
 -- name    : Formalism.HermitianLattices.Ext.L3.QuadraticExtensionConjugation.discr_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:44.029477+00:00
 -- url     : https://prove2.me/theorems/5d7c223d-c889-4955-a44d-112f03ca1b71

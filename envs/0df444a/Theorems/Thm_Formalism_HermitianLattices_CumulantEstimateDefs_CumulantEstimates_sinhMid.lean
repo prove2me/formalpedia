@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_CumulantEstimates_sinhMid
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.CumulantEstimates.sinhMid
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:43.295795+00:00
 -- url     : https://prove2.me/theorems/1b149cca-5936-4081-a154-94f4fab57ebd

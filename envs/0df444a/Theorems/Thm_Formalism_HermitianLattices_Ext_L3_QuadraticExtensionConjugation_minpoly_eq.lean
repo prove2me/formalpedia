@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_QuadraticExtensionConjugation_minpoly_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.QuadraticExtensionConjugation.minpoly_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:53:09.641941+00:00
 -- url     : https://prove2.me/theorems/f235e6bb-687e-491c-9e17-562bd38fd3b0

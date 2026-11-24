@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_vsph_pos_b
 -- name    : Formalism.HermitianLatticeCounting.P.vsph_pos_b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:38.575356+00:00
 -- url     : https://prove2.me/theorems/542bc100-6478-4d86-a04c-31549bb155d9

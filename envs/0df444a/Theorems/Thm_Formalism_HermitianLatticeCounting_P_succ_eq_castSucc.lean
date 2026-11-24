@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_succ_eq_castSucc
 -- name    : Formalism.HermitianLatticeCounting.P.succ_eq_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:26.524462+00:00
 -- url     : https://prove2.me/theorems/96afa5f7-f1ed-46b8-b680-cb206a550b3e

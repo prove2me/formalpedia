@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_ncard_orb
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.ncard_orb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:07.389909+00:00
 -- url     : https://prove2.me/theorems/d574e370-216a-4e83-a49d-071210896473

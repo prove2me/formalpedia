@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_sSYTPeel
 -- name    : Formalism.GradedWeylDivisibility.sSYTPeel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:10.709812+00:00
 -- url     : https://prove2.me/theorems/30cc7b1c-7de1-4567-9f78-17ffa829380b

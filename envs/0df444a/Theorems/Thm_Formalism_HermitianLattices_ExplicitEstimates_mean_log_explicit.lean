@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ExplicitEstimates_mean_log_explicit
 -- name    : Formalism.HermitianLattices.ExplicitEstimates.mean_log_explicit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:47.977406+00:00
 -- url     : https://prove2.me/theorems/5d7ac6b5-b99e-4576-9d53-a1d115a785f3

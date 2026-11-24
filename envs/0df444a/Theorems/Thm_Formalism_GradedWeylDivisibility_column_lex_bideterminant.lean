@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_column_lex_bideterminant
 -- name    : Formalism.GradedWeylDivisibility.column_lex_bideterminant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:32:19.318+00:00
 -- url     : https://prove2.me/theorems/70f44eda-7344-44c3-bca9-57d3a17b4c8c

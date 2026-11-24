@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhpr_blocks
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhpr_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:55:24.47637+00:00
 -- url     : https://prove2.me/theorems/d35e63d5-99ae-4e68-a840-fc396d226b3e

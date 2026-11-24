@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EquivarianceConvolution_fourier_component_linear
 -- name    : EquivarianceConvolution.fourier_component_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T20:02:09.384469+00:00
 -- url     : https://prove2.me/theorems/ff68c5c0-c782-4162-999c-db5e9ac7c42b

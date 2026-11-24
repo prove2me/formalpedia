@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_Newton_step
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.Newton.step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:58.018202+00:00
 -- url     : https://prove2.me/theorems/65e289d6-3f3b-4bf1-a3d9-43829fb94789

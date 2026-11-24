@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeylInt_intQ_apply
 -- name    : GlobalTheory.WeylInt.intQ_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:07:02.184485+00:00
 -- url     : https://prove2.me/theorems/c500688f-83bb-4ff8-92f2-af26ae69ea23

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_exp_sq_psd_b
 -- name    : Formalism.HermitianLatticeCounting.P.exp_sq_psd_b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:32.904324+00:00
 -- url     : https://prove2.me/theorems/ee2d6726-5839-44e8-b3d3-036a24a49454

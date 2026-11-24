@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5b7_real_ineq
 -- name    : Formalism.HermitianLatticeCounting.P.s5b7_real_ineq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:05.092555+00:00
 -- url     : https://prove2.me/theorems/029e0ad2-87f2-4862-9656-e054d8637de6

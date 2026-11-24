@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_posC_sb
 -- name    : PI.FJMF.posC_sb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:00.379896+00:00
 -- url     : https://prove2.me/theorems/26a1364a-8a57-4e38-93b8-de53c8b7d3c6

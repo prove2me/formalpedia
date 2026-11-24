@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_StepBAux_detRatio_ne
 -- name    : Formalism.DivisionValues.StepBAux.detRatio_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:40:07.884608+00:00
 -- url     : https://prove2.me/theorems/60700e4c-cdaa-4bca-94cb-4009106a7e36

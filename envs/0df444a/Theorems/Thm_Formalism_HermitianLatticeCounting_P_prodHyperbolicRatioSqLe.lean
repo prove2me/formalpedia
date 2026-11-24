@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_prodHyperbolicRatioSqLe
 -- name    : Formalism.HermitianLatticeCounting.P.prodHyperbolicRatioSqLe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:39.839004+00:00
 -- url     : https://prove2.me/theorems/8be86c6b-dcff-46f1-bf09-cff48cb26517

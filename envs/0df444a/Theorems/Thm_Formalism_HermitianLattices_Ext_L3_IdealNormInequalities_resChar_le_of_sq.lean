@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_IdealNormInequalities_resChar_le_of_sq
 -- name    : Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.resChar_le_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:09.894115+00:00
 -- url     : https://prove2.me/theorems/9a2793be-8c0d-4773-9ff3-b93be66f14fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_RankOne_form_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.RankOne.form_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:53.283607+00:00
 -- url     : https://prove2.me/theorems/4c4aff0a-446c-49fa-a176-70e60ce35aa4

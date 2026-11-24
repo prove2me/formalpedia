@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_degL_eq
 -- name    : PI.Dv.Tr.degL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:19:53.40519+00:00
 -- url     : https://prove2.me/theorems/0c883c7d-1f0b-418c-9c16-bb52cd1fdcad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_IsASD_decomp
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.IsASD.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:19.735776+00:00
 -- url     : https://prove2.me/theorems/b2c38127-c62e-4aa4-9fe5-977c3954ffe2

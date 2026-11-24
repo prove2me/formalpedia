@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lrfc_coeff_coeffT
 -- name    : Formalism.CohomologicalDescent.LR.lrfc_coeff_coeffT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:27.828127+00:00
 -- url     : https://prove2.me/theorems/a3ce95e8-c60a-4631-98fa-d9ba73f2d4de

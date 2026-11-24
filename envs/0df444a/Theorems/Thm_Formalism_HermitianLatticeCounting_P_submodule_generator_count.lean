@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_submodule_generator_count
 -- name    : Formalism.HermitianLatticeCounting.P.submodule_generator_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:28.053858+00:00
 -- url     : https://prove2.me/theorems/120040c1-1feb-4ae1-9deb-de167a7fb294

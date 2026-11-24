@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_orthogonal_complement_place_split
 -- name    : Formalism.HN.orthogonal_complement_place_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:29.367803+00:00
 -- url     : https://prove2.me/theorems/dcb0396a-8ccb-49c8-9e03-c511e9a087c5

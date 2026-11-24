@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_muDef_eq_covol
 -- name    : Formalism.ExtensionFiltration.muDef_eq_covol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:39:57.053074+00:00
 -- url     : https://prove2.me/theorems/0db4c07f-3e26-41ea-8ed6-264e00ea081c

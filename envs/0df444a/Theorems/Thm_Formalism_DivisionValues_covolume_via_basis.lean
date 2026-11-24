@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_covolume_via_basis
 -- name    : Formalism.DivisionValues.covolume_via_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:40:19.665483+00:00
 -- url     : https://prove2.me/theorems/33c29676-db22-476c-a89f-2b26c831bf46

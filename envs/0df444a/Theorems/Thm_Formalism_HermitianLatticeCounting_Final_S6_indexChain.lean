@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_indexChain
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.indexChain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:51.788241+00:00
 -- url     : https://prove2.me/theorems/00915825-bbb4-4067-8ffd-15276de70423

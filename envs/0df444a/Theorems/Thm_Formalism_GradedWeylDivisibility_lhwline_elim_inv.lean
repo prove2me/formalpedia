@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lhwline_elim_inv
 -- name    : Formalism.GradedWeylDivisibility.lhwline_elim_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:23:05.152231+00:00
 -- url     : https://prove2.me/theorems/4cd0e512-5181-43c6-86c9-e76530049a11

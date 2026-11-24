@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_Node_pol_eval
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.Node.pol_eval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:15.865792+00:00
 -- url     : https://prove2.me/theorems/8c369796-48ac-4a55-9d76-a373e22faaa0

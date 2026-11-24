@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_dA_tail_sq
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.dA_tail_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:07.049639+00:00
 -- url     : https://prove2.me/theorems/2bc7e2f6-af64-462c-a00e-76b72f02a616

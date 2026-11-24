@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lre_intQ_apply
 -- name    : Formalism.CohomologicalDescent.LR.lre_intQ_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:57.800802+00:00
 -- url     : https://prove2.me/theorems/d29b49ff-0733-4217-af76-45ee7ad826b9

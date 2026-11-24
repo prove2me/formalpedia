@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_orbit_integral_entries_of_leading_minor_at_block_end
 -- name    : Formalism.HermitianLatticeCounting.P.orbit_integral_entries_of_leading_minor_at_block_end
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:36.374799+00:00
 -- url     : https://prove2.me/theorems/347b5e85-1cfb-43e0-a866-d769145cf0c3

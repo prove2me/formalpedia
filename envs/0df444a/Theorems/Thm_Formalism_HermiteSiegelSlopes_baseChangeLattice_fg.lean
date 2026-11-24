@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermiteSiegelSlopes_baseChangeLattice_fg
 -- name    : Formalism.HermiteSiegelSlopes.baseChangeLattice_fg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:30:08.126128+00:00
 -- url     : https://prove2.me/theorems/174dbc3f-f9ba-4091-b5ee-0902671ac4c8

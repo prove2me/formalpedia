@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallB_exists_adjust
 -- name    : Formalism.HermitianLattices.Ext.L3.BallB.exists_adjust
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:13.447456+00:00
 -- url     : https://prove2.me/theorems/0b23c6dc-13fa-4951-a8a3-e5c069021864

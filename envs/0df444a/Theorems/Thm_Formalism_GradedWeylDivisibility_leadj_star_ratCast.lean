@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_leadj_star_ratCast
 -- name    : Formalism.GradedWeylDivisibility.leadj_star_ratCast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:57.644117+00:00
 -- url     : https://prove2.me/theorems/1e1ec864-57f2-4502-becf-0f3e819e0443

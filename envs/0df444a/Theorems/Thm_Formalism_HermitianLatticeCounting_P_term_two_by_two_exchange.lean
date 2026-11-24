@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_term_two_by_two_exchange
 -- name    : Formalism.HermitianLatticeCounting.P.term_two_by_two_exchange
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:47.247847+00:00
 -- url     : https://prove2.me/theorems/d00a5d1a-c983-4342-a1ef-a7fa98316600

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lrf_mem_col
 -- name    : Formalism.CohomologicalDescent.LR.lrf_mem_col
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:54.082492+00:00
 -- url     : https://prove2.me/theorems/0f325f7b-0ac9-4bb5-ac46-f0a271346ac9

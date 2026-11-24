@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_FiniteNormFibres_sigma_eq_pow
 -- name    : Formalism.HermitianLattices.Ext.L3.FiniteNormFibres.sigma_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:15.786068+00:00
 -- url     : https://prove2.me/theorems/e0cbcce2-e6e0-4301-878c-cd30b7b86519

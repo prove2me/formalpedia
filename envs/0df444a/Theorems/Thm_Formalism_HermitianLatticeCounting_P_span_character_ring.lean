@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_span_character_ring
 -- name    : Formalism.HermitianLatticeCounting.P.span_character_ring
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:25.863803+00:00
 -- url     : https://prove2.me/theorems/8999580d-f578-476b-9eed-6b3fa1abdaf5

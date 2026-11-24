@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lrfc_applyWord_zero
 -- name    : Formalism.CohomologicalDescent.LR.lrfc_applyWord_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:07:08.237138+00:00
 -- url     : https://prove2.me/theorems/3b66fcb4-1647-4408-93b9-622e7b8b3809

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_SplitPrimeIdeals_exists_sub_mem_of_split
 -- name    : Formalism.HermitianLattices.Ext.L3.SplitPrimeIdeals.exists_sub_mem_of_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:07.333145+00:00
 -- url     : https://prove2.me/theorems/f12e75d7-d338-4024-b4d8-43eaa0a6f9fa

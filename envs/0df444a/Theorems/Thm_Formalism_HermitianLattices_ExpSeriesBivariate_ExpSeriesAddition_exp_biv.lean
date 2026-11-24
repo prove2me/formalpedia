@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ExpSeriesBivariate_ExpSeriesAddition_exp_biv
 -- name    : Formalism.HermitianLattices.ExpSeriesBivariate.ExpSeriesAddition.exp_biv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:43.040682+00:00
 -- url     : https://prove2.me/theorems/ca0e6e66-27b3-42f0-bb3a-2725b89cda76

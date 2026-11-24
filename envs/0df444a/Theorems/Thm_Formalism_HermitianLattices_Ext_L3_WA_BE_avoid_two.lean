@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WA_BE_avoid_two
 -- name    : Formalism.HermitianLattices.Ext.L3.WA.BE.avoid_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:35.641629+00:00
 -- url     : https://prove2.me/theorems/baa17bac-bc76-4e8f-a0ed-bf5a8ed39973

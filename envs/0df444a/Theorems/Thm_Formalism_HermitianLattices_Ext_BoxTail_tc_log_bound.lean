@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_BoxTail_tc_log_bound
 -- name    : Formalism.HermitianLattices.Ext.BoxTail.tc_log_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:03.216268+00:00
 -- url     : https://prove2.me/theorems/34a80613-3835-4634-8667-7600033184fe

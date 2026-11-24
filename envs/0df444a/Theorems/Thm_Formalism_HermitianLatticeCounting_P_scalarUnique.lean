@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_scalarUnique
 -- name    : Formalism.HermitianLatticeCounting.P.scalarUnique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:19.49174+00:00
 -- url     : https://prove2.me/theorems/88db3dcc-f405-4a11-9810-be0b580aaa7d

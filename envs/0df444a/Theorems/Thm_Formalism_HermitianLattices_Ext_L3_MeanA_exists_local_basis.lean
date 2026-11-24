@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_MeanA_exists_local_basis
 -- name    : Formalism.HermitianLattices.Ext.L3.MeanA.exists_local_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:31.608572+00:00
 -- url     : https://prove2.me/theorems/8823b97b-0924-4966-b8ab-cfd6cb8da631

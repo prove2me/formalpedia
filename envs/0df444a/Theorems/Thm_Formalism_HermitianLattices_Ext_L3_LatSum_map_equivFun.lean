@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LatSum_map_equivFun
 -- name    : Formalism.HermitianLattices.Ext.L3.LatSum.map_equivFun
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:48.170492+00:00
 -- url     : https://prove2.me/theorems/97ddbeda-656a-48f9-b4ce-7fbe96851e20

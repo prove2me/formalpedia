@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxCube_fDeg_pos
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxCube.fDeg_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:46:11.376979+00:00
 -- url     : https://prove2.me/theorems/23538fd6-c64f-4588-a57a-c25967821c52

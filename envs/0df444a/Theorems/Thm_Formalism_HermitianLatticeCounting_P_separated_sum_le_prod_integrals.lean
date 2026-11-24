@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_separated_sum_le_prod_integrals
 -- name    : Formalism.HermitianLatticeCounting.P.separated_sum_le_prod_integrals
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:10:15.196376+00:00
 -- url     : https://prove2.me/theorems/7f6cd151-d2c8-402a-b564-64a757484889

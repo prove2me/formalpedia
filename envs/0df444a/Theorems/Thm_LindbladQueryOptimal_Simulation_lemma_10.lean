@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindbladQueryOptimal_Simulation_lemma_10
 -- name    : LindbladQueryOptimal.Simulation.lemma_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:02:31.806367+00:00
 -- url     : https://prove2.me/theorems/a7cecd4c-98a4-47a5-be18-9646c3ea0469

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_shared_constant_formula
 -- name    : Formalism.HermitianLatticeCounting.P.shared_constant_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:29.057356+00:00
 -- url     : https://prove2.me/theorems/e79327b2-cc3a-4f0d-b90b-452894dc9453

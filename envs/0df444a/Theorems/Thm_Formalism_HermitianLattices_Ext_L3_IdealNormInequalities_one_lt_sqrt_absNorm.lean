@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_IdealNormInequalities_one_lt_sqrt_absNorm
 -- name    : Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.one_lt_sqrt_absNorm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:10.953634+00:00
 -- url     : https://prove2.me/theorems/b89a94d7-075d-4276-ac76-b7cd3f534233

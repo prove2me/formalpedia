@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_sum_small_le
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.sum_small_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:16.100334+00:00
 -- url     : https://prove2.me/theorems/35cdd24c-c971-47ee-bb16-e6c9afdecb52

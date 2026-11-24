@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_antisymmetrizedProduct_neg_transpose
 -- name    : Formalism.HermitianLatticeCounting.P.antisymmetrizedProduct_neg_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:30.544099+00:00
 -- url     : https://prove2.me/theorems/aafe98a5-dc84-4aab-a9fc-1c8747f6a440

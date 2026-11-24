@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_exists_prep
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.exists_prep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:15:09.696194+00:00
 -- url     : https://prove2.me/theorems/94eb6fc3-903a-4296-bfd5-7b546b6c8767

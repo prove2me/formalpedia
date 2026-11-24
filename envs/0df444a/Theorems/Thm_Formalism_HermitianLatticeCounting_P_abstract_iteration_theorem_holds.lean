@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_abstract_iteration_theorem_holds
 -- name    : Formalism.HermitianLatticeCounting.P.abstract_iteration_theorem_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:07.586987+00:00
 -- url     : https://prove2.me/theorems/8381fd96-2abc-4d61-a470-30e21e87c325

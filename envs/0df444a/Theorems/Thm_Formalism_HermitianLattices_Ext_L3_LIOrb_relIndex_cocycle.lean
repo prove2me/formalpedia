@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_relIndex_cocycle
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.relIndex_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:15.538183+00:00
 -- url     : https://prove2.me/theorems/774c1f4f-2a43-4229-89bb-40104690f080

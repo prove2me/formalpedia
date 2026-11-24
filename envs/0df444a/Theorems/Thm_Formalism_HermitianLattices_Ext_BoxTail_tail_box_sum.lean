@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_BoxTail_tail_box_sum
 -- name    : Formalism.HermitianLattices.Ext.BoxTail.tail_box_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:02.618924+00:00
 -- url     : https://prove2.me/theorems/3e2bfb0f-6380-4437-a9b4-84da74580d35

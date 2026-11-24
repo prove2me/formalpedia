@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_weylLeDual
 -- name    : Formalism.GradedWeylDivisibility.weylLeDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:01:43.958647+00:00
 -- url     : https://prove2.me/theorems/4478f86a-202a-4632-864b-af33939b5865

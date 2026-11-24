@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_Cayley_exists_det_one_add
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.Cayley.exists_det_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:35.715921+00:00
 -- url     : https://prove2.me/theorems/abb3eb96-a123-41e9-9429-3c1a8ccb399d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_QuadraticExtensionConjugation_exists_star_ne
 -- name    : Formalism.HermitianLattices.Ext.L3.QuadraticExtensionConjugation.exists_star_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:53:13.327923+00:00
 -- url     : https://prove2.me/theorems/8e5a3c90-a005-46ed-b54a-a6a622e1a482

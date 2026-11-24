@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_deNonDegBound
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.deNonDegBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:06.624943+00:00
 -- url     : https://prove2.me/theorems/ced837b8-b779-41bf-a200-9898f3ae85cc

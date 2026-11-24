@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_colLexInitMinor
 -- name    : Formalism.GradedWeylDivisibility.colLexInitMinor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:52:30.481682+00:00
 -- url     : https://prove2.me/theorems/8e4023f9-058e-40c6-95ca-47bbb8760268

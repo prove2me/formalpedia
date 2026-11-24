@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_dimension_identity
 -- name    : Formalism.HermitianLatticeCounting.P.dimension_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:30.613771+00:00
 -- url     : https://prove2.me/theorems/bb39734b-40e2-45d7-8e18-fd917b2b1415

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FockHighestWeight_weight_rowW
 -- name    : GlobalTheory.FockHighestWeight.weight_rowW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:07:11.341493+00:00
 -- url     : https://prove2.me/theorems/4246d84f-7039-4b5a-97a0-1fe82ca7f50a

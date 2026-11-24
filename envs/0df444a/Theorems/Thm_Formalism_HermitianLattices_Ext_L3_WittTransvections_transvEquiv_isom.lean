@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WittTransvections_transvEquiv_isom
 -- name    : Formalism.HermitianLattices.Ext.L3.WittTransvections.transvEquiv_isom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:45.290205+00:00
 -- url     : https://prove2.me/theorems/a5c02885-d50e-47ba-b04d-d28c97ca2903

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_HermitianIdempotentFrameLemmas_log_ht
 -- name    : Formalism.ExtensionFiltration.HermitianIdempotentFrameLemmas.log_ht
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:21:39.342667+00:00
 -- url     : https://prove2.me/theorems/55d1fa39-f2ec-4898-bf23-25812e16b7ad

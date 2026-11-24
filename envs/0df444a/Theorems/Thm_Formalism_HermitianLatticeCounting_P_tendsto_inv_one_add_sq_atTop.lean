@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_tendsto_inv_one_add_sq_atTop
 -- name    : Formalism.HermitianLatticeCounting.P.tendsto_inv_one_add_sq_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:44.560752+00:00
 -- url     : https://prove2.me/theorems/e86cab72-5768-4970-9895-075b7f63867b

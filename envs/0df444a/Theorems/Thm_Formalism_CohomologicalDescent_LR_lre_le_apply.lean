@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lre_le_apply
 -- name    : Formalism.CohomologicalDescent.LR.lre_le_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:07:04.521074+00:00
 -- url     : https://prove2.me/theorems/aff609c9-36f7-4755-aeea-be319da1ee26

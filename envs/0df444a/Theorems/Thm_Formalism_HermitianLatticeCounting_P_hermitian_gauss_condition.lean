@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_hermitian_gauss_condition
 -- name    : Formalism.HermitianLatticeCounting.P.hermitian_gauss_condition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:48.252578+00:00
 -- url     : https://prove2.me/theorems/fdeab283-0de8-450d-915c-cbc28b0efb0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_dualWeylNonDom
 -- name    : Formalism.GradedWeylDivisibility.dualWeylNonDom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:54:02.062639+00:00
 -- url     : https://prove2.me/theorems/964fcf28-f8ee-4dba-a98b-a4bc2951509e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_BoxTail_tail_shift_alg
 -- name    : Formalism.HermitianLattices.Ext.BoxTail.tail_shift_alg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:43.521193+00:00
 -- url     : https://prove2.me/theorems/8cf5c9c0-4cff-42b2-9563-79dc99127504

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_autBound_of_minkowskiBound
 -- name    : Formalism.HermitianLatticeCounting.P.autBound_of_minkowskiBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:01:52.08948+00:00
 -- url     : https://prove2.me/theorems/27a1490c-7586-42ac-a747-199c85a39a39

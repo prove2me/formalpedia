@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_same_trace_hypothesis
 -- name    : Formalism.HermitianLatticeCounting.P.same_trace_hypothesis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:17.9246+00:00
 -- url     : https://prove2.me/theorems/9e0cbd16-664a-444e-a673-b3f0421ddd97

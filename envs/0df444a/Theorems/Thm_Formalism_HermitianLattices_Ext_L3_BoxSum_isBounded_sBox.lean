@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_isBounded_sBox
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.isBounded_sBox
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:49.166805+00:00
 -- url     : https://prove2.me/theorems/dd0daeab-a37c-44b3-8656-2eb793ceb905

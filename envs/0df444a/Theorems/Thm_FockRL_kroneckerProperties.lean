@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_kroneckerProperties
 -- name    : FockRL.kroneckerProperties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:34.52482+00:00
 -- url     : https://prove2.me/theorems/b892a225-ff41-4d7d-a88b-49668a64d1c4

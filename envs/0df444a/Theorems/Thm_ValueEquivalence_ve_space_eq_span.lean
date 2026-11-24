@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueEquivalence_ve_space_eq_span
 -- name    : ValueEquivalence.ve_space_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:50:37.383884+00:00
 -- url     : https://prove2.me/theorems/a9ac8e1f-2577-4c37-9fa0-611b51eb80b2

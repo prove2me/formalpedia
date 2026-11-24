@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5a4_fiber_card
 -- name    : Formalism.HermitianLatticeCounting.P.s5a4_fiber_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:55.377103+00:00
 -- url     : https://prove2.me/theorems/0724e736-7f2f-40d5-a4fc-b5c72f2bb91e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_RankOne_mem_genus_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.RankOne.mem_genus_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:19.508125+00:00
 -- url     : https://prove2.me/theorems/5ea20bfe-83fd-4235-a6de-31be318ad0e2

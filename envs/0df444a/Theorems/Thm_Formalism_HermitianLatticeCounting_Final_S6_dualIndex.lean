@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_dualIndex
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.dualIndex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:51.918818+00:00
 -- url     : https://prove2.me/theorems/d3ea3671-275e-465c-84d4-a11fe77262ef

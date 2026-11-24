@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_soPsi_apply
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.soPsi_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:10.781771+00:00
 -- url     : https://prove2.me/theorems/256ff351-b8cd-418d-9609-4adfa0483c28

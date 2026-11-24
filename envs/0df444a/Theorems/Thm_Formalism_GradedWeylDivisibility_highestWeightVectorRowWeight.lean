@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_highestWeightVectorRowWeight
 -- name    : Formalism.GradedWeylDivisibility.highestWeightVectorRowWeight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:58:34.2665+00:00
 -- url     : https://prove2.me/theorems/41de21b2-89d7-4d12-97da-24b775813ec3

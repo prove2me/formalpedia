@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_piSum_transfer
 -- name    : Formalism.HN.piSum_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:27.396224+00:00
 -- url     : https://prove2.me/theorems/3eceefe1-2418-4f94-9074-ae3d96ecc89c

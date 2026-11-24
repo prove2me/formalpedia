@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_RankOne_card_autL_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.RankOne.card_autL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:53:37.527895+00:00
 -- url     : https://prove2.me/theorems/f2b5e7ad-30c3-4732-b272-348b03c27d31

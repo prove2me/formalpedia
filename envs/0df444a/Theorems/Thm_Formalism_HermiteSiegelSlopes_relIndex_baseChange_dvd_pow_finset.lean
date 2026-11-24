@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermiteSiegelSlopes_relIndex_baseChange_dvd_pow_finset
 -- name    : Formalism.HermiteSiegelSlopes.relIndex_baseChange_dvd_pow_finset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:30:26.420308+00:00
 -- url     : https://prove2.me/theorems/49b798c5-2e91-430b-8325-49dff37e6443

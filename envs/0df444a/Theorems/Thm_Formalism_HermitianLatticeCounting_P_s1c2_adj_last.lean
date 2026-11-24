@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s1c2_adj_last
 -- name    : Formalism.HermitianLatticeCounting.P.s1c2_adj_last
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:45.789816+00:00
 -- url     : https://prove2.me/theorems/7438cd74-e439-4631-8e71-2fd4bcf087f5

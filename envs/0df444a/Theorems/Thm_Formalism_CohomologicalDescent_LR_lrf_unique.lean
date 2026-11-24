@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lrf_unique
 -- name    : Formalism.CohomologicalDescent.LR.lrf_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:54.999891+00:00
 -- url     : https://prove2.me/theorems/09426114-ccdb-4577-8c84-31724a2a1f09

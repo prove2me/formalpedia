@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_dualWeylModuleNonDominant
 -- name    : Formalism.GradedWeylDivisibility.dualWeylModuleNonDominant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:53:53.34316+00:00
 -- url     : https://prove2.me/theorems/94da7256-03d5-4b39-be8e-2e3edad81c8f

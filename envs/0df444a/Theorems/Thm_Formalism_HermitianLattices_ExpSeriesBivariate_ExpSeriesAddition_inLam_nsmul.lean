@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ExpSeriesBivariate_ExpSeriesAddition_inLam_nsmul
 -- name    : Formalism.HermitianLattices.ExpSeriesBivariate.ExpSeriesAddition.inLam_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:10:34.345661+00:00
 -- url     : https://prove2.me/theorems/a5fbdb1e-685f-4515-bd38-4f61f53f16aa

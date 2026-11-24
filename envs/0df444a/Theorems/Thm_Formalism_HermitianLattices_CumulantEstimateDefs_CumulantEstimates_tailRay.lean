@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_CumulantEstimates_tailRay
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.CumulantEstimates.tailRay
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:38.442528+00:00
 -- url     : https://prove2.me/theorems/5a06bf87-3a90-43ab-bae9-7a85f07bcc61

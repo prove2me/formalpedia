@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_type_class_count
 -- name    : Formalism.HermitianLatticeCounting.P.type_class_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:33.427321+00:00
 -- url     : https://prove2.me/theorems/5c9d54c4-80a3-4a16-b356-d03b428fd037

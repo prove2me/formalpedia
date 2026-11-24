@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FockHighestWeight_eq_diagExp_of_offDiag
 -- name    : GlobalTheory.FockHighestWeight.eq_diagExp_of_offDiag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:07:13.796507+00:00
 -- url     : https://prove2.me/theorems/8c660cf9-43a4-4789-9573-542be30b62fa

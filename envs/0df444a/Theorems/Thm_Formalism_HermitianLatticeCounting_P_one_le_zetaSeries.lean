@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_one_le_zetaSeries
 -- name    : Formalism.HermitianLatticeCounting.P.one_le_zetaSeries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:23:19.907368+00:00
 -- url     : https://prove2.me/theorems/d4459104-c971-4fe6-bca9-cb21c86063c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_separated_set_sum_bound_of_disjoint_integral
 -- name    : Formalism.HermitianLatticeCounting.P.separated_set_sum_bound_of_disjoint_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:15.667132+00:00
 -- url     : https://prove2.me/theorems/169ef50c-d887-40ff-929d-6d5e5282f235

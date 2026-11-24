@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_OrbSum_card_stab_sub
 -- name    : Formalism.HermitianLattices.Ext.L3.OrbSum.card_stab_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:53:33.09552+00:00
 -- url     : https://prove2.me/theorems/08d7a802-c0db-41eb-9ee6-08b3bbab23e9

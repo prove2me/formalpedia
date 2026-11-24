@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_zeroFreeOn_of_cyc
 -- name    : Formalism.HC.zeroFreeOn_of_cyc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:24:20.962972+00:00
 -- url     : https://prove2.me/theorems/2714e078-f445-4bea-9c85-c7287a9bbbc0

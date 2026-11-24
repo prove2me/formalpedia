@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_IsASD_mem_iff_of_line
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.IsASD.mem_iff_of_line
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:21.564813+00:00
 -- url     : https://prove2.me/theorems/cace9192-eba8-424d-848a-b2930cb2bce4

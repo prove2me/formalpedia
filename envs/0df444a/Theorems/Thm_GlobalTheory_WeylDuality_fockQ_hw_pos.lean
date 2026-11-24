@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeylDuality_fockQ_hw_pos
 -- name    : GlobalTheory.WeylDuality.fockQ_hw_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:56.599784+00:00
 -- url     : https://prove2.me/theorems/b312437c-999e-48c4-8b17-6f71ad31cdb3

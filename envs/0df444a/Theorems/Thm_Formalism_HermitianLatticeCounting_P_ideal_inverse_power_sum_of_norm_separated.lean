@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_ideal_inverse_power_sum_of_norm_separated
 -- name    : Formalism.HermitianLatticeCounting.P.ideal_inverse_power_sum_of_norm_separated
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:23.630846+00:00
 -- url     : https://prove2.me/theorems/3428f389-4a4b-443e-8f2e-34e187a9d73b

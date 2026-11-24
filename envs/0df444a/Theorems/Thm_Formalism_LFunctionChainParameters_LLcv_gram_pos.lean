@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LLcv_gram_pos
 -- name    : Formalism.LFunctionChainParameters.LLcv.gram_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:31:09.678805+00:00
 -- url     : https://prove2.me/theorems/bd2d4af9-3268-4e27-b82c-786a3042298a

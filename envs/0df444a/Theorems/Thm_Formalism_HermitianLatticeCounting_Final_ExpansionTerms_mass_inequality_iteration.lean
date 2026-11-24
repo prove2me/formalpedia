@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_ExpansionTerms_mass_inequality_iteration
 -- name    : Formalism.HermitianLatticeCounting.Final.ExpansionTerms.mass_inequality_iteration
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:53.103445+00:00
 -- url     : https://prove2.me/theorems/91bc7f04-d22e-4ed4-b794-4cfa2fd462cc

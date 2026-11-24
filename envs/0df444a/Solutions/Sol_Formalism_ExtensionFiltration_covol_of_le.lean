@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Formalism.ExtensionFiltration.covol_of_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:19.7438+00:00
 -- url     : https://prove2.me/submissions/0557dd17-2b15-47a6-b81f-88c1413e732d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Formalism_MeanHeightDescent_MuMaxMinkowski

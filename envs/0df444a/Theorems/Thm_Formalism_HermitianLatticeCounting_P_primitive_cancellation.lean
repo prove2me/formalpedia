@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_primitive_cancellation
 -- name    : Formalism.HermitianLatticeCounting.P.primitive_cancellation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:36.408127+00:00
 -- url     : https://prove2.me/theorems/5472fc4f-f03e-427f-986a-d43b5636c643

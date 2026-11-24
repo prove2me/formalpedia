@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_unipotent_upper_inverse
 -- name    : Formalism.HermitianLatticeCounting.P.unipotent_upper_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:41.572804+00:00
 -- url     : https://prove2.me/theorems/fc99bc67-16cd-41bb-bc82-08d096369024

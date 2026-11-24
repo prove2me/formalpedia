@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BlockRatReal_UnitaryGroupMassFormula_s1
 -- name    : PI.BlockRatReal.UnitaryGroupMassFormula.s1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:02.821781+00:00
 -- url     : https://prove2.me/theorems/69cad6f7-43cf-4c18-b075-c929b16d7f15

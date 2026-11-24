@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_bId_sup_eq_top
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.bId_sup_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:46:00.181104+00:00
 -- url     : https://prove2.me/theorems/dfb9642d-facc-45d1-9c57-f4b9fd8a7779

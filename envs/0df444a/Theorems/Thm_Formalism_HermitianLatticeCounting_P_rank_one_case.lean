@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_rank_one_case
 -- name    : Formalism.HermitianLatticeCounting.P.rank_one_case
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:51.122744+00:00
 -- url     : https://prove2.me/theorems/a2ce0a0e-73c0-4c2f-8803-7147b570c488

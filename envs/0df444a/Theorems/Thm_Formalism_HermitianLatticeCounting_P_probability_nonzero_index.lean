@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_probability_nonzero_index
 -- name    : Formalism.HermitianLatticeCounting.P.probability_nonzero_index
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:51.975058+00:00
 -- url     : https://prove2.me/theorems/7a49ab81-6e20-447c-8161-b1d52f3cf354

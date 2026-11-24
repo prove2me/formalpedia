@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_zetaSeries_eq_one_add_tsum
 -- name    : Formalism.HermitianLatticeCounting.P.zetaSeries_eq_one_add_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:30:10.796274+00:00
 -- url     : https://prove2.me/theorems/f4d27331-6fc2-4873-af8c-04f1acca71d0

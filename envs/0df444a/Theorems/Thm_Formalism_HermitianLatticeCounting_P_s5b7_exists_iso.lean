@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5b7_exists_iso
 -- name    : Formalism.HermitianLatticeCounting.P.s5b7_exists_iso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:01.183986+00:00
 -- url     : https://prove2.me/theorems/e4c5655f-acbe-48b7-a588-6a57bee37087

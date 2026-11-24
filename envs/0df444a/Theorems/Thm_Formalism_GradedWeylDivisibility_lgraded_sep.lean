@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lgraded_sep
 -- name    : Formalism.GradedWeylDivisibility.lgraded_sep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:14.253798+00:00
 -- url     : https://prove2.me/theorems/0335ad78-34ac-45e0-8192-54d705b7494a

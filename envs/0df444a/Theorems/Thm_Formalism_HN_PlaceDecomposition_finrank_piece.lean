@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PlaceDecomposition_finrank_piece
 -- name    : Formalism.HN.PlaceDecomposition.finrank_piece
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:26:39.391333+00:00
 -- url     : https://prove2.me/theorems/e44dd485-2a53-4007-948d-c8a3ade070b2

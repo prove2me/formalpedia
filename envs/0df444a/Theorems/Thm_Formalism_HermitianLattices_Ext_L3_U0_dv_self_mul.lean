@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_dv_self_mul
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.dv_self_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:49.892515+00:00
 -- url     : https://prove2.me/theorems/2b407323-f07a-4ea0-8b33-b5ea9a31fb33

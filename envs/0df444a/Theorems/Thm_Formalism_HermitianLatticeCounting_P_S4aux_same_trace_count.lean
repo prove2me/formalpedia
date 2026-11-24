@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_same_trace_count
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.same_trace_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:01:06.165409+00:00
 -- url     : https://prove2.me/theorems/880368b1-6be8-41f5-9fd5-2bf3a817724c

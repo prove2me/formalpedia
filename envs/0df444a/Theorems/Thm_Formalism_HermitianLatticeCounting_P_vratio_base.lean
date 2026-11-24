@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_vratio_base
 -- name    : Formalism.HermitianLatticeCounting.P.vratio_base
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:15.084191+00:00
 -- url     : https://prove2.me/theorems/ad973071-935e-47c3-b4df-f7779de5fc2c

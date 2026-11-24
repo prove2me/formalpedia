@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_NormLifting_range_trI
 -- name    : Formalism.HermitianLattices.Ext.L3.NormLifting.range_trI
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:18.008808+00:00
 -- url     : https://prove2.me/theorems/b9d78139-94c6-4d91-b9e9-dc4ab8bddd67

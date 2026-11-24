@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_nrm_pos
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.nrm_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:43.876289+00:00
 -- url     : https://prove2.me/theorems/4f92cb5f-f00d-4204-a9c4-5920e9b694d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_MeanB_exists_star_ne
 -- name    : Formalism.HermitianLattices.Ext.L3.MeanB.exists_star_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:54:03.010634+00:00
 -- url     : https://prove2.me/theorems/d0fe2e54-1866-49b3-a9b0-28bd95407aaa

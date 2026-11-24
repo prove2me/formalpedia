@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S8_explicitC
 -- name    : Formalism.HermitianLatticeCounting.Final.S8.explicitC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:39.400794+00:00
 -- url     : https://prove2.me/theorems/5b379389-3b10-4360-8962-829479ef16f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueEquivalence_ve_space_pinned_by_spanning_sets
 -- name    : ValueEquivalence.ve_space_pinned_by_spanning_sets
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:51:15.037674+00:00
 -- url     : https://prove2.me/theorems/f82e0564-9ee9-45c3-ac4d-dbc5adb4e34c

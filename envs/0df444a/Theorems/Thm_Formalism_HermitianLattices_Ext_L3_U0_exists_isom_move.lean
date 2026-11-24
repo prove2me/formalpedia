@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_exists_isom_move
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.exists_isom_move
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:31.931012+00:00
 -- url     : https://prove2.me/theorems/8164a3be-c54e-4fe3-b8cb-0bd999a542ee

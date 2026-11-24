@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_normalFormStep
 -- name    : Formalism.HermitianLatticeCounting.P.normalFormStep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:28.948794+00:00
 -- url     : https://prove2.me/theorems/de5c4535-aa11-4b71-87b0-76ffe8049969

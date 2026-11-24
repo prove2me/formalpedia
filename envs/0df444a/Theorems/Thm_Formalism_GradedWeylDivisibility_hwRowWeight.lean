@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_hwRowWeight
 -- name    : Formalism.GradedWeylDivisibility.hwRowWeight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:39:33.852608+00:00
 -- url     : https://prove2.me/theorems/3b1bc717-8352-42a2-afb3-0f1c1ac3f9af

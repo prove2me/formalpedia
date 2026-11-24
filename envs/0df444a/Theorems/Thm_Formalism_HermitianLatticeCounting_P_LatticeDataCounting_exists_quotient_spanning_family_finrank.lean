@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_LatticeDataCounting_exists_quotient_spanning_family_finrank
 -- name    : Formalism.HermitianLatticeCounting.P.LatticeDataCounting.exists_quotient_spanning_family_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:48.85739+00:00
 -- url     : https://prove2.me/theorems/cc5a01ec-da6a-4b37-bd48-40914415c644

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_tensor_power_basis
 -- name    : Formalism.GradedWeylDivisibility.tensor_power_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:12.075067+00:00
 -- url     : https://prove2.me/theorems/d19e7853-3a41-44b6-a2d4-4d9d23c14dc2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_QuadraticExtensionConjugation_adjoin_eq_top
 -- name    : Formalism.HermitianLattices.Ext.L3.QuadraticExtensionConjugation.adjoin_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:55.503136+00:00
 -- url     : https://prove2.me/theorems/d8477ab7-1d67-4e5b-9b09-6a33ad61582b

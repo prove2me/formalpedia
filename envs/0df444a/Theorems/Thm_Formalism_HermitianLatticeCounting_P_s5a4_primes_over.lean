@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5a4_primes_over
 -- name    : Formalism.HermitianLatticeCounting.P.s5a4_primes_over
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:23.612867+00:00
 -- url     : https://prove2.me/theorems/07247bcc-3e1f-4c79-a5e1-439b9e6ed811

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_DualLatticeIndexBis_relIndex_hermitian_dual_eq
 -- name    : Formalism.HermitianLatticeCounting.P.DualLatticeIndexBis.relIndex_hermitian_dual_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:21.444813+00:00
 -- url     : https://prove2.me/theorems/98995b74-f7be-4109-9d4d-449f53a11d8d

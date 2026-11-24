@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocalSpans_closure_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.LocalSpans.closure_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:58.566182+00:00
 -- url     : https://prove2.me/theorems/6cd6cc15-2d08-4b3d-bbaf-7a437803b2b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_Good_sum
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.Good.sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:15:52.520411+00:00
 -- url     : https://prove2.me/theorems/937ea145-bf3a-4a92-8f7a-2ca29c88438a

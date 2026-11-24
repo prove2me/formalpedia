@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lehwShift_prod
 -- name    : Formalism.GradedWeylDivisibility.lehwShift_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:07:24.99643+00:00
 -- url     : https://prove2.me/theorems/9e11e9a3-b522-44fe-9f19-773a20110bc1

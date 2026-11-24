@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_IdealNormInequalities_zpow_neg_le
 -- name    : Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.zpow_neg_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:32.137834+00:00
 -- url     : https://prove2.me/theorems/a07ca5a9-d4b7-4140-82f0-251c7ab0b1a1

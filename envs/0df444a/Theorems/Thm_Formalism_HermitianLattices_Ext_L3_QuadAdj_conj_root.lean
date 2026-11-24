@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_QuadAdj_conj_root
 -- name    : Formalism.HermitianLattices.Ext.L3.QuadAdj.conj_root
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:50.318478+00:00
 -- url     : https://prove2.me/theorems/5b86167c-dc89-4989-838b-db94b75a3aff

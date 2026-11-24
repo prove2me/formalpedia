@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lhwline_rowGen_eq
 -- name    : Formalism.GradedWeylDivisibility.lhwline_rowGen_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:22:49.633435+00:00
 -- url     : https://prove2.me/theorems/53550770-53db-4b86-b299-cdb568982e57

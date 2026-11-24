@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_prod_prod_max_le_pow_mul_thresholdSize
 -- name    : Formalism.HermitianLatticeCounting.P.prod_prod_max_le_pow_mul_thresholdSize
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:43.381863+00:00
 -- url     : https://prove2.me/theorems/353969ae-adcd-45df-b056-3f28e5ad9998

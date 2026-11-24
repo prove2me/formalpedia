@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_CumulantEstimates_qLower
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.CumulantEstimates.qLower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:56.300525+00:00
 -- url     : https://prove2.me/theorems/e54aff57-a0ed-4ead-aa7f-c927617f0302

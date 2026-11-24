@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_embedded_ideal_points_separated
 -- name    : Formalism.HermitianLatticeCounting.P.embedded_ideal_points_separated
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:51.761709+00:00
 -- url     : https://prove2.me/theorems/a6343a6b-8c90-4026-827d-6602b38024d5

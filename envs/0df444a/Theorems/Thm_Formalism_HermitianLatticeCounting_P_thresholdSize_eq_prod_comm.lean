@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_thresholdSize_eq_prod_comm
 -- name    : Formalism.HermitianLatticeCounting.P.thresholdSize_eq_prod_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:40.60638+00:00
 -- url     : https://prove2.me/theorems/afdcbc8c-3e7d-46a6-add2-c43e9df25fbd

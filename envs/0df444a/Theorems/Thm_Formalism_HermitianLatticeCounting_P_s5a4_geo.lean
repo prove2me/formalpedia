@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5a4_geo
 -- name    : Formalism.HermitianLatticeCounting.P.s5a4_geo
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:58.725128+00:00
 -- url     : https://prove2.me/theorems/e7185920-cbf1-4960-8f04-2e28544f474d

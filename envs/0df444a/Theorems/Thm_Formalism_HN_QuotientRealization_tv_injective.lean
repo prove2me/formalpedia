@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_QuotientRealization_tv_injective
 -- name    : Formalism.HN.QuotientRealization.tv_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:59.73805+00:00
 -- url     : https://prove2.me/theorems/47e068d2-0ab9-4dab-a5f0-41daf251f810

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_MeanB_finrank_eq_two
 -- name    : Formalism.HermitianLattices.Ext.L3.MeanB.finrank_eq_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:47:11.119825+00:00
 -- url     : https://prove2.me/theorems/e3f07f24-e77f-4fef-83a9-6d3656e6a033

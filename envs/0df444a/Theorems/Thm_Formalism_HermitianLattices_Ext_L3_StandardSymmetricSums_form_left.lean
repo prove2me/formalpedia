@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_StandardSymmetricSums_form_left
 -- name    : Formalism.HermitianLattices.Ext.L3.StandardSymmetricSums.form_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:06.193801+00:00
 -- url     : https://prove2.me/theorems/6c84390c-5496-4d19-ae3a-f85e6d429cda

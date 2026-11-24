@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LocalIntegralStructure_tcritForm
 -- name    : Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure.tcritForm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:30:15.278408+00:00
 -- url     : https://prove2.me/theorems/bfac137b-5374-418b-8892-b6c569c87700

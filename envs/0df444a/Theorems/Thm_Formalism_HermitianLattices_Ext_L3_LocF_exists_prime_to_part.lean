@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocF_exists_prime_to_part
 -- name    : Formalism.HermitianLattices.Ext.L3.LocF.exists_prime_to_part
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:58.151594+00:00
 -- url     : https://prove2.me/theorems/f17f6c09-8990-409e-b769-c02807a5f9d2

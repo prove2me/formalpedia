@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ValueEquivalence_dim_ve_kernels_le
 -- name    : ValueEquivalence.dim_ve_kernels_le
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:52:24.890561+00:00
 -- url     : https://prove2.me/theorems/0e782089-776f-40b2-8a8b-eb6c2a90f9af

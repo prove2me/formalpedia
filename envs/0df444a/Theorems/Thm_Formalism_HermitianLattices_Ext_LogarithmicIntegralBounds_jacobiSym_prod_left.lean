@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_jacobiSym_prod_left
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.jacobiSym_prod_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:12.980799+00:00
 -- url     : https://prove2.me/theorems/37cda5d8-eafd-4b2b-98c9-a693ef93b8ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_BoxTail_tc_left_pt
 -- name    : Formalism.HermitianLattices.Ext.BoxTail.tc_left_pt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:55.718689+00:00
 -- url     : https://prove2.me/theorems/2d82edb8-fde4-437b-b1ca-ca673f561052

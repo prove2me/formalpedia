@@ -1,0 +1,28 @@
+-- Prove2me | solution 1 for Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure.tcritForm
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-24T07:10:40.534863+00:00
+-- url     : https://prove2.me/submissions/bc03108b-0984-4d4a-8162-9495a8b8798d
+
+import Definitions.Def_Formalism_FlagUnipotentLattices_DetIndexProductHyperbolicInequality
+import Definitions.Def_Formalism_FlagUnipotentLattices_DetIndexProductPlacesInequalitySq
+import Definitions.Def_Formalism_FlagUnipotentLattices_UnitSumBound
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_LocalIntegralStructure
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_ComplexMultiplicationRoot
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_ConstantProductFormula
+import Definitions.Def_Formalism_FlagUnipotentLattices_SignaturePreservingEntryNorms
+import Theorems.Thm_Formalism_HermitianLatticeCounting_P_critical_threshold_form
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLatticeCounting Formalism.HermitianLatticeCounting.Final Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure
+namespace Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure
+theorem _root_.solution : Formalism.HermitianLatticeCounting.LocalIntegralStructure.TcritForm := Formalism.HermitianLatticeCounting.P.critical_threshold_form
+end Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure

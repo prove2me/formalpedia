@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_OrbitRepresentatives_card_stabilizer_autSub
 -- name    : Formalism.HermitianLattices.Ext.L3.OrbitRepresentatives.card_stabilizer_autSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:54:33.368305+00:00
 -- url     : https://prove2.me/theorems/9c272b07-6896-417c-b7db-2cca6f2a1199

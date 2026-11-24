@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_cumulant_upper_bound
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.cumulant_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:14.992223+00:00
 -- url     : https://prove2.me/theorems/5bf7dbca-b9a7-403b-af00-866785149b32

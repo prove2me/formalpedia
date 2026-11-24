@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermiteSiegelSlopes_relIndex_baseChange_sup_singleton_dvd
 -- name    : Formalism.HermiteSiegelSlopes.relIndex_baseChange_sup_singleton_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:30:32.270464+00:00
 -- url     : https://prove2.me/theorems/c9b69c20-fb79-4787-89e4-24367c894e09

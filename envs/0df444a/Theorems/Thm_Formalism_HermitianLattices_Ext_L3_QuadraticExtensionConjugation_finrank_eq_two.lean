@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_QuadraticExtensionConjugation_finrank_eq_two
 -- name    : Formalism.HermitianLattices.Ext.L3.QuadraticExtensionConjugation.finrank_eq_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:14:20.796469+00:00
 -- url     : https://prove2.me/theorems/45d9e2b6-6e67-4cdd-bb38-a1d9326114ae

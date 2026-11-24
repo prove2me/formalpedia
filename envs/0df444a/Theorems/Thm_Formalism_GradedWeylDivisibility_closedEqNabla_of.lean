@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_closedEqNabla_of
 -- name    : Formalism.GradedWeylDivisibility.closedEqNabla_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:54:03.278983+00:00
 -- url     : https://prove2.me/theorems/d73f049c-d71b-4baa-860d-b2740fd65186

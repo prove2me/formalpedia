@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_covol_of_le
 -- name    : Formalism.ExtensionFiltration.covol_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:39:44.178805+00:00
 -- url     : https://prove2.me/theorems/14c1576e-eb57-4c2f-b0f0-1f31fbd7048a

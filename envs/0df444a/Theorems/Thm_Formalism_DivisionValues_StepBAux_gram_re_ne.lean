@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_StepBAux_gram_re_ne
 -- name    : Formalism.DivisionValues.StepBAux.gram_re_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:48:38.149549+00:00
 -- url     : https://prove2.me/theorems/6f5a4e55-2743-4d71-b2c9-12452aee8f02

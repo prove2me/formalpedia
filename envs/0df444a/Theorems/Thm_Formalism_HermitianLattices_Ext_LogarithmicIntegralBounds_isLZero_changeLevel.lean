@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_isLZero_changeLevel
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.isLZero_changeLevel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:02.224876+00:00
 -- url     : https://prove2.me/theorems/2f332bd5-2f5e-4302-8324-253d6e5d45fc

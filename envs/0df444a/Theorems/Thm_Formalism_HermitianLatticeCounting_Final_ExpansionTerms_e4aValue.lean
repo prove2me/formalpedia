@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_ExpansionTerms_e4aValue
 -- name    : Formalism.HermitianLatticeCounting.Final.ExpansionTerms.e4aValue
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:56:59.358312+00:00
 -- url     : https://prove2.me/theorems/6f8a5a71-b03d-438f-8788-a0027219b2b8

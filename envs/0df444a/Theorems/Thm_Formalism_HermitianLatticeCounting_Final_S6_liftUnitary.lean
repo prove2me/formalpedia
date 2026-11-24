@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_liftUnitary
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.liftUnitary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:43.714544+00:00
 -- url     : https://prove2.me/theorems/dafe4913-d891-4a9c-93a4-a12cc32f6b50

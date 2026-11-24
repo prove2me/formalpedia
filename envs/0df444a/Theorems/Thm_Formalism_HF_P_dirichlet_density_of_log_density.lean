@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_P_dirichlet_density_of_log_density
 -- name    : Formalism.HF.P.dirichlet_density_of_log_density
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:51.474281+00:00
 -- url     : https://prove2.me/theorems/34148148-3ced-4343-9c3e-26c35d9f1bd6

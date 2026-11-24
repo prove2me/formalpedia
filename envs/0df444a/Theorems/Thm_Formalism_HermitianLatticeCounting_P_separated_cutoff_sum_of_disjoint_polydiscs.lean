@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_separated_cutoff_sum_of_disjoint_polydiscs
 -- name    : Formalism.HermitianLatticeCounting.P.separated_cutoff_sum_of_disjoint_polydiscs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:15.59833+00:00
 -- url     : https://prove2.me/theorems/6d87c5e6-3327-4717-bb77-d4dd5ec9f2ab

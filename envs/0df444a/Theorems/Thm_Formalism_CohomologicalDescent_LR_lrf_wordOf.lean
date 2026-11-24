@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lrf_wordOf
 -- name    : Formalism.CohomologicalDescent.LR.lrf_wordOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:49.666771+00:00
 -- url     : https://prove2.me/theorems/b435b9f1-8e5e-4d17-bf80-401541db7d38

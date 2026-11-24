@@ -68283,7 +68283,7 @@
 {"parent": "OAI.CubicEisenstein.arithmeticResidueSum_eq_explicitRamifiedCoefficient", "child": "OAI_NumberTheory_DirichletL_Eisenstein_ResidualFourierSeries", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.arithmeticResidueSum_eq_explicitRamifiedCoefficient", "child": "OAI_NumberTheory_DirichletL_Eisenstein_ScatteringResidues", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.arithmeticResidueSum_eq_explicitRamifiedCoefficient", "child": "OAI_NumberTheory_DirichletL_Eisenstein_SourceProjection", "via": ["solution", "statement"]}
-{"parent": "LindbladQueryOptimal.Simulation.lemma_10", "child": "LindbladQueryOptimal_Simulation_Local", "via": ["statement"]}
+{"parent": "LindbladQueryOptimal.Simulation.lemma_10", "child": "LindbladQueryOptimal_Simulation_Local", "via": ["solution", "statement"]}
 {"parent": "QFairEx.theorem_4_7", "child": "QFairEx_SupportedOn", "via": ["statement"]}
 {"parent": "QFairEx.theorem_4_7", "child": "QFairEx_bb84", "via": ["statement"]}
 {"parent": "QFairEx.theorem_4_7", "child": "QFairEx_clonedPOVM", "via": ["statement"]}

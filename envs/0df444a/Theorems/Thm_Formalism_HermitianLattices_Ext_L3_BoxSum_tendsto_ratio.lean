@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_tendsto_ratio
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.tendsto_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:47:48.851016+00:00
 -- url     : https://prove2.me/theorems/92f33e53-4fdb-4173-a3ce-106327a36d16

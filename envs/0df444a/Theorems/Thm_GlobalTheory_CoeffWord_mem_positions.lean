@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffWord_mem_positions
 -- name    : GlobalTheory.CoeffWord.mem_positions
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:44.728527+00:00
 -- url     : https://prove2.me/theorems/85b49396-797f-4ef0-800e-25a02e72c95c

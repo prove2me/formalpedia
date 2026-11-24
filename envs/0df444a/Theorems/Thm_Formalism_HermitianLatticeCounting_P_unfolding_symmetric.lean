@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_unfolding_symmetric
 -- name    : Formalism.HermitianLatticeCounting.P.unfolding_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:47.399692+00:00
 -- url     : https://prove2.me/theorems/dcb04b91-9e2b-45f0-a7d7-e476ec2af264

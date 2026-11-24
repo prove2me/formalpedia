@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_powSubOneIdentities
 -- name    : Formalism.HermitianLatticeCounting.P.powSubOneIdentities
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:36.239291+00:00
 -- url     : https://prove2.me/theorems/8565ac2d-29d2-4765-80e0-d0b3b9ecf2bd

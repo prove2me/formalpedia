@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_NormResidues_vecEquiv_fst
 -- name    : Formalism.HermitianLattices.Ext.L3.NormResidues.vecEquiv_fst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:42.754528+00:00
 -- url     : https://prove2.me/theorems/eec192a7-dcd8-414f-b543-e285290975e9

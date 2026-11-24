@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lgraded_coeff_euler
 -- name    : Formalism.GradedWeylDivisibility.lgraded_coeff_euler
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:53:13.256072+00:00
 -- url     : https://prove2.me/theorems/5e474a60-cfa0-4d58-8d80-fdc380e7568a

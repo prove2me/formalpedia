@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_relIndex_ne_zero
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.relIndex_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:59:55.723805+00:00
 -- url     : https://prove2.me/theorems/b99ae347-4f3c-442c-b3cc-bc73fbd2be77

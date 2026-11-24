@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_orbit_integral_entries
 -- name    : Formalism.HermitianLatticeCounting.P.orbit_integral_entries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:31.137561+00:00
 -- url     : https://prove2.me/theorems/ab942d37-79cb-4fa5-a847-fa491237a2c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_first_operator_norm_bound
 -- name    : Formalism.HermitianLatticeCounting.P.first_operator_norm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:05.204495+00:00
 -- url     : https://prove2.me/theorems/0b7281ce-d37c-469e-bfbb-020431efe32e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocF_linearIndependent_of_gram_det_ne_zero
 -- name    : Formalism.HermitianLattices.Ext.L3.LocF.linearIndependent_of_gram_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:34.709019+00:00
 -- url     : https://prove2.me/theorems/267c9273-d0c4-4c41-8886-94237781d173

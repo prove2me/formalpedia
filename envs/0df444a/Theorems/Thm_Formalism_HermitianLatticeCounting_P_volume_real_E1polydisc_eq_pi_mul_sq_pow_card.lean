@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_volume_real_E1polydisc_eq_pi_mul_sq_pow_card
 -- name    : Formalism.HermitianLatticeCounting.P.volume_real_E1polydisc_eq_pi_mul_sq_pow_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:31.6448+00:00
 -- url     : https://prove2.me/theorems/5b6e587d-76b2-49f2-bfbe-b5a35e8498e8

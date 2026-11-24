@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_far_region_sum
 -- name    : Formalism.HermitianLatticeCounting.P.far_region_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:15.504965+00:00
 -- url     : https://prove2.me/theorems/2034e945-91e7-457d-941e-20668859dff8

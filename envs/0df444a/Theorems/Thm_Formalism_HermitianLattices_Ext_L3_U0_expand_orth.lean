@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_expand_orth
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.expand_orth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:34.340706+00:00
 -- url     : https://prove2.me/theorems/0e5e74b2-62ad-44fa-9ee3-2adf744eeecc

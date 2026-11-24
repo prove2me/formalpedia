@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_main_le_two_pi
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.main_le_two_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:30.64141+00:00
 -- url     : https://prove2.me/theorems/4179c7e1-2586-43d8-8eef-dda5da5667de

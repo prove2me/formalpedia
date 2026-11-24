@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LocalIntegralStructure_perpCompl
 -- name    : Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure.perpCompl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:12.820792+00:00
 -- url     : https://prove2.me/theorems/7de55dcd-4396-411d-a7c3-c6ed1c139cc9

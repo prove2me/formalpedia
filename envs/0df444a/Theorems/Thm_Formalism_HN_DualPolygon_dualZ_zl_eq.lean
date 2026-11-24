@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_dualZ_zl_eq
 -- name    : Formalism.HN.DualPolygon.dualZ_zl_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:50.166809+00:00
 -- url     : https://prove2.me/theorems/0ddfd0d4-450e-4242-8ad2-83a173364ded

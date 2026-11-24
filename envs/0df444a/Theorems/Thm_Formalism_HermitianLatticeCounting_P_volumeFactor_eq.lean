@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_volumeFactor_eq
 -- name    : Formalism.HermitianLatticeCounting.P.volumeFactor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:32.354676+00:00
 -- url     : https://prove2.me/theorems/f9a2fe52-d32c-476b-ac3b-60e1ca2b1c47

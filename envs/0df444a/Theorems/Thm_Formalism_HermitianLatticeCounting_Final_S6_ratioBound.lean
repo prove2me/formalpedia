@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_ratioBound
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.ratioBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:58:49.242612+00:00
 -- url     : https://prove2.me/theorems/90bdb012-7efa-4985-8e00-a15674f5e41e

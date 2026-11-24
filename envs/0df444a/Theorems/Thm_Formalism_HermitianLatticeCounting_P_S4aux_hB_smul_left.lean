@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_hB_smul_left
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.hB_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:26.323795+00:00
 -- url     : https://prove2.me/theorems/191bb9ef-6d19-4f16-b0b6-520fb6c763b7

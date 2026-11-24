@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_SplitPrimeIdeals_card_quot_inert
 -- name    : Formalism.HermitianLattices.Ext.L3.SplitPrimeIdeals.card_quot_inert
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:55.932785+00:00
 -- url     : https://prove2.me/theorems/5b3ca3b3-d888-4cf0-8ef1-31c41fbce82e

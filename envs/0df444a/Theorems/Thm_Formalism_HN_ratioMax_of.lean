@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_ratioMax_of
 -- name    : Formalism.HN.ratioMax_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:38.706898+00:00
 -- url     : https://prove2.me/theorems/35b13c6c-b177-474f-a247-aaefc9e1f541

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_gram_det_dv
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.gram_det_dv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:51.556928+00:00
 -- url     : https://prove2.me/theorems/56ddc637-9855-4ca6-8d93-61e2b0ee152d

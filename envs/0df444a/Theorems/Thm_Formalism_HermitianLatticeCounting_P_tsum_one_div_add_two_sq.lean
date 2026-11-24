@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_tsum_one_div_add_two_sq
 -- name    : Formalism.HermitianLatticeCounting.P.tsum_one_div_add_two_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:53.905078+00:00
 -- url     : https://prove2.me/theorems/25f9428d-d282-4db6-ac95-8f6aa00785f7

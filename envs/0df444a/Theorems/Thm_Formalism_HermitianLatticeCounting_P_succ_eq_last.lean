@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_succ_eq_last
 -- name    : Formalism.HermitianLatticeCounting.P.succ_eq_last
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:32.357329+00:00
 -- url     : https://prove2.me/theorems/6dfe2edf-3948-4c03-a1c6-3debbd6e3034

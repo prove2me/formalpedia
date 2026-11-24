@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FockHighestWeight_diagExp_apply
 -- name    : GlobalTheory.FockHighestWeight.diagExp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:49.215927+00:00
 -- url     : https://prove2.me/theorems/a83adfd7-01b5-4561-862f-b8108c684d9f

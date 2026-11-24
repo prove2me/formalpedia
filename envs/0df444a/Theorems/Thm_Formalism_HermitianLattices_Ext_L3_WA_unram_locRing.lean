@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WA_unram_locRing
 -- name    : Formalism.HermitianLattices.Ext.L3.WA.unram_locRing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:01.856805+00:00
 -- url     : https://prove2.me/theorems/5a22c090-3438-4a60-a793-f4b453123279

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gl_e3Integral
 -- name    : Formalism.HermitianLatticeCounting.P.gl_e3Integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:42.80834+00:00
 -- url     : https://prove2.me/theorems/1da78111-9d32-43c1-9eb0-d39bc57f6984

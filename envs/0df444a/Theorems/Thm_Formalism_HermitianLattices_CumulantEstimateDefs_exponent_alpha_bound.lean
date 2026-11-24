@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_exponent_alpha_bound
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.exponent_alpha_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:11.543785+00:00
 -- url     : https://prove2.me/theorems/3d7d8d2c-8f8c-4bc2-a584-e87caf286504

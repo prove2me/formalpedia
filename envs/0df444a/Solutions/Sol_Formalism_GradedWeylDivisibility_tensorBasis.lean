@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for Formalism.GradedWeylDivisibility.tensorBasis
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-24T07:17:21.523168+00:00
+-- url     : https://prove2.me/submissions/285278da-4271-4077-9357-a9173a0c9445
+
+import Definitions.Def_Formalism_GradedWeylDivisibility_FinalC
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_SSIdxFinite
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_SSBasis
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_RowActDiagWeight
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_RowActMul
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaLLe
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaLBasis
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaLKBasis
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaLDiag
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaLTwist
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaLTwMem
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_TensorBasis
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_BlockActTensor
+import Definitions.Def_Formalism_GradedWeylDivisibility_FinalD
+import Theorems.Thm_Formalism_GradedWeylDivisibility_tensor_power_basis
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.GradedWeylDivisibility
+namespace Formalism.GradedWeylDivisibility
+theorem _root_.solution : TensorBasis := tensor_power_basis
+end Formalism.GradedWeylDivisibility

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_corollary_consequence_holds
 -- name    : Formalism.HermitianLatticeCounting.P.corollary_consequence_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:16.689932+00:00
 -- url     : https://prove2.me/theorems/87ea40ef-0607-4913-a329-47a0accdfb0c

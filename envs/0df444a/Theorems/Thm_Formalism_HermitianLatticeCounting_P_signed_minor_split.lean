@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_signed_minor_split
 -- name    : Formalism.HermitianLatticeCounting.P.signed_minor_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:30.657795+00:00
 -- url     : https://prove2.me/theorems/754172c0-a9cb-4985-9c8e-e5a7b11661db

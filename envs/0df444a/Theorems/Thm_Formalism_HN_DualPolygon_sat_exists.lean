@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_sat_exists
 -- name    : Formalism.HN.DualPolygon.sat_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:55:43.86808+00:00
 -- url     : https://prove2.me/theorems/96b6434c-78a7-420f-853a-cd7c5e51a553

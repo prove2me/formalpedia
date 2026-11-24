@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_volumeFactor_mul_sq_div_le
 -- name    : Formalism.HermitianLatticeCounting.P.volumeFactor_mul_sq_div_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:11:22.481611+00:00
 -- url     : https://prove2.me/theorems/b9ae4340-81ca-4d0d-ad0a-a370f520dc48

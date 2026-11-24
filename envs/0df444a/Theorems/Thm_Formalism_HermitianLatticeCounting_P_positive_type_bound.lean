@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_positive_type_bound
 -- name    : Formalism.HermitianLatticeCounting.P.positive_type_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:08.299384+00:00
 -- url     : https://prove2.me/theorems/9ec830b1-070d-4c57-a03b-96240b4db687

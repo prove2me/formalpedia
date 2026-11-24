@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_rerealize
 -- name    : Formalism.HN.rerealize
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:25:24.289441+00:00
 -- url     : https://prove2.me/theorems/5db73154-b769-4a56-833f-a65c1195ab1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_inQ_iff_range
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.inQ_iff_range
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:54:34.996244+00:00
 -- url     : https://prove2.me/theorems/ef6a2284-7da0-43be-9686-d51cec6ed919

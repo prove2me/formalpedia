@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_relIndex_eq_of_cover
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.relIndex_eq_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:26.317151+00:00
 -- url     : https://prove2.me/theorems/4800a7a0-4d8b-4c93-a6d2-920b3c9f35fb

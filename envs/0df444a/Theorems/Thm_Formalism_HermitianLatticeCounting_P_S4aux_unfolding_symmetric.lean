@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_unfolding_symmetric
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.unfolding_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:01:49.558465+00:00
 -- url     : https://prove2.me/theorems/512141b3-afb4-4c9c-bc94-486e3b861d6f

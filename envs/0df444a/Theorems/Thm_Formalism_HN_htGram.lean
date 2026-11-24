@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_htGram
 -- name    : Formalism.HN.htGram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:56:20.77962+00:00
 -- url     : https://prove2.me/theorems/1e17c6e8-6295-4e1c-be74-158c93fc24f9

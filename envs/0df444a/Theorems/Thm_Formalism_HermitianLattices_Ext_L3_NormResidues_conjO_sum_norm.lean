@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_NormResidues_conjO_sum_norm
 -- name    : Formalism.HermitianLattices.Ext.L3.NormResidues.conjO_sum_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:12.059881+00:00
 -- url     : https://prove2.me/theorems/f814df5c-1b21-484c-8875-03d2fc75d428

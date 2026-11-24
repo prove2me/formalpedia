@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_step_alt
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.step_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:34.047015+00:00
 -- url     : https://prove2.me/theorems/5927fc75-39ec-42e4-a495-6c6df620c06a

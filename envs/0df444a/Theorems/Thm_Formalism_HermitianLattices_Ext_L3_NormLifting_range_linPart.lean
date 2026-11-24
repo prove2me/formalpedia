@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_NormLifting_range_linPart
 -- name    : Formalism.HermitianLattices.Ext.L3.NormLifting.range_linPart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:11.862599+00:00
 -- url     : https://prove2.me/theorems/7b45b349-33df-43af-840f-070b253ece56

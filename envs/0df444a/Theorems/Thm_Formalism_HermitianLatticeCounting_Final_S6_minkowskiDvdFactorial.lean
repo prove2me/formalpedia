@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_minkowskiDvdFactorial
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.minkowskiDvdFactorial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:42.017776+00:00
 -- url     : https://prove2.me/theorems/90000e26-e830-4456-8ac8-eb64cefa4d23

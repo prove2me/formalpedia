@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_dual_lattice_index
 -- name    : Formalism.HermitianLatticeCounting.P.dual_lattice_index
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:22.586796+00:00
 -- url     : https://prove2.me/theorems/37003a2c-c4a8-49b8-b687-39eb7a0374bf

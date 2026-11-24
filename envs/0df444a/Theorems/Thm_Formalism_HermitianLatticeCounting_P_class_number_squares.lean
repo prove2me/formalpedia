@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_class_number_squares
 -- name    : Formalism.HermitianLatticeCounting.P.class_number_squares
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:46.075845+00:00
 -- url     : https://prove2.me/theorems/a91fbac8-0957-438d-8956-2033497ef3cf

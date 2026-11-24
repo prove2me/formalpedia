@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_strongMarkovExtendedIndicatorAssemblyV1
 -- name    : Kyprianou.Ch03.strongMarkovExtendedIndicatorAssemblyV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:09:19.92624+00:00
 -- url     : https://prove2.me/theorems/0086c6a9-2a1f-474f-95e8-2bee321d1bf2

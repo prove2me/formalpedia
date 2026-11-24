@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_projective_quotient_card
 -- name    : Formalism.HermitianLatticeCounting.P.projective_quotient_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:54.048369+00:00
 -- url     : https://prove2.me/theorems/7dc64427-6401-4e58-9e67-620d5ae43972

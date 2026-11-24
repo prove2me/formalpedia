@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_logToDir
 -- name    : Formalism.HF.logToDir
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:26:07.170513+00:00
 -- url     : https://prove2.me/theorems/96e0a41c-42fb-43ee-9fe6-a8be76e070a3

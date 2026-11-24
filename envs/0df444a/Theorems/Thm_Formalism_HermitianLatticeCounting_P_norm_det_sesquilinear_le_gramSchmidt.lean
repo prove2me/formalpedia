@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_norm_det_sesquilinear_le_gramSchmidt
 -- name    : Formalism.HermitianLatticeCounting.P.norm_det_sesquilinear_le_gramSchmidt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:38.327447+00:00
 -- url     : https://prove2.me/theorems/ab31b478-e503-4d00-92ac-b471215c0f43

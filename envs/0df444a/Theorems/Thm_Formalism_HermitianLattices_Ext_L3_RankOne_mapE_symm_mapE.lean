@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_RankOne_mapE_symm_mapE
 -- name    : Formalism.HermitianLattices.Ext.L3.RankOne.mapE_symm_mapE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:49.033992+00:00
 -- url     : https://prove2.me/theorems/459c9d3a-b801-4ac4-990c-c527bf7de347

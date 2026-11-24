@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lrfc_coeffT_C_monomial_mul
 -- name    : Formalism.CohomologicalDescent.LR.lrfc_coeffT_C_monomial_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:59.24912+00:00
 -- url     : https://prove2.me/theorems/8e7799f6-2d0a-4966-8e7d-f895af4a53f0

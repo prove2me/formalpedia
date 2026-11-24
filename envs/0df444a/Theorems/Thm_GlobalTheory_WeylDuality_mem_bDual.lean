@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeylDuality_mem_bDual
 -- name    : GlobalTheory.WeylDuality.mem_bDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:07:05.911514+00:00
 -- url     : https://prove2.me/theorems/57c7b597-96bb-40eb-8e76-04be87ad2317

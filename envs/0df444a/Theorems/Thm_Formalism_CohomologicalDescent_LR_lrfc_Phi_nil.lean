@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lrfc_Phi_nil
 -- name    : Formalism.CohomologicalDescent.LR.lrfc_Phi_nil
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:39.916706+00:00
 -- url     : https://prove2.me/theorems/81f38bc7-68fe-4ca4-9d22-938bfa9a804d

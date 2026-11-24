@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_ExpansionTerms_leadingMinorUnipotentInvariant
 -- name    : Formalism.HermitianLatticeCounting.Final.ExpansionTerms.leadingMinorUnipotentInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:30:22.490818+00:00
 -- url     : https://prove2.me/theorems/570135d0-509b-4c95-961c-0fa6291ddbe1

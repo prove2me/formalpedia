@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_ExpansionTerms_abstract_iteration_theorem
 -- name    : Formalism.HermitianLatticeCounting.Final.ExpansionTerms.abstract_iteration_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:30:14.969333+00:00
 -- url     : https://prove2.me/theorems/ee798c6e-42c7-46e5-84b6-308c7d1e3dc4

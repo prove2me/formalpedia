@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_gradedOscillatorProperty
 -- name    : gradedOscillatorProperty
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:38:07.095218+00:00
 -- url     : https://prove2.me/theorems/1b8c219d-49b1-4e1f-92c8-32cdc07bf74d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_composition_block_prod_bound
 -- name    : Formalism.HermitianLatticeCounting.P.composition_block_prod_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:43.554654+00:00
 -- url     : https://prove2.me/theorems/300d5fb2-81f5-4b7b-b1b2-19cea3a63340

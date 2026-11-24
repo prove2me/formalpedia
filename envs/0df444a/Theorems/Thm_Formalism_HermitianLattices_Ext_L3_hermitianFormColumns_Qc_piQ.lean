@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_hermitianFormColumns_Qc_piQ
 -- name    : Formalism.HermitianLattices.Ext.L3.hermitianFormColumns.Qc_piQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:53:56.78228+00:00
 -- url     : https://prove2.me/theorems/2770f694-389c-4efb-b3d5-271305e1191b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_OrbitRepresentatives_exists_orbit_reps
 -- name    : Formalism.HermitianLattices.Ext.L3.OrbitRepresentatives.exists_orbit_reps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:54:01.327378+00:00
 -- url     : https://prove2.me/theorems/974e631b-48c7-4cef-9b78-d58a5cb72ca8

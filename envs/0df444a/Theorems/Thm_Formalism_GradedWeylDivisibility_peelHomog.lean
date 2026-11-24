@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_peelHomog
 -- name    : Formalism.GradedWeylDivisibility.peelHomog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:45.687089+00:00
 -- url     : https://prove2.me/theorems/70e78bca-fd55-4d01-8deb-84276aedd59e

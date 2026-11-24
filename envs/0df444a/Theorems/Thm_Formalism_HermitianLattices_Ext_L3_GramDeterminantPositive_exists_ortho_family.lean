@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_GramDeterminantPositive_exists_ortho_family
 -- name    : Formalism.HermitianLattices.Ext.L3.GramDeterminantPositive.exists_ortho_family
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:37.054729+00:00
 -- url     : https://prove2.me/theorems/9b7dbf02-5f1b-41f6-bb03-7f58d826ac7d

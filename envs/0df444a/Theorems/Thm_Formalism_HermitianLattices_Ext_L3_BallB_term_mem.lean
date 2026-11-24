@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallB_term_mem
 -- name    : Formalism.HermitianLattices.Ext.L3.BallB.term_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:12.072688+00:00
 -- url     : https://prove2.me/theorems/1988b376-0fa3-4b1d-8b51-886d2b895b2f

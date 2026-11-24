@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GrowthSums_padicValHarmonicPowerSumDivLowerBound
 -- name    : Formalism.GrowthSums.padicValHarmonicPowerSumDivLowerBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:57.829384+00:00
 -- url     : https://prove2.me/theorems/0c8e1676-80ca-47fe-ab8e-fbfa686bffeb
