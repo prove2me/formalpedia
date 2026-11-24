@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_IsUnitaryRep_inner_apply_left
 -- name    : GlobalTheory.OpTrace.IsUnitaryRep.inner_apply_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:21.245272+00:00
 -- url     : https://prove2.me/theorems/f20a4e3c-6f87-410f-a18a-3fe25aff6336

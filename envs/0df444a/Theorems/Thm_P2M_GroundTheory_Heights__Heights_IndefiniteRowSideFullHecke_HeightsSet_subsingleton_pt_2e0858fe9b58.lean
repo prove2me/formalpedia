@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_subsingleton_pt_2e0858fe9b58
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_subsingleton_pt_2e0858fe9b58
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:25:44.763897+00:00
 -- url     : https://prove2.me/theorems/a3ddd2f0-efba-4c9b-b275-a725d6ea3ff6

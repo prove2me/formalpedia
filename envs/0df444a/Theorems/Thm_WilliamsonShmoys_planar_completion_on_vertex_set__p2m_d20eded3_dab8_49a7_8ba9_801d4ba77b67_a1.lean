@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_completion_on_vertex_set__p2m_d20eded3_dab8_49a7_8ba9_801d4ba77b67_a1
 -- name    : WilliamsonShmoys.planar_completion_on_vertex_set__p2m_d20eded3_dab8_49a7_8ba9_801d4ba77b67_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:31:49.680657+00:00
 -- url     : https://prove2.me/theorems/a5f3545b-9213-4099-bf3a-a8a2e64023e0

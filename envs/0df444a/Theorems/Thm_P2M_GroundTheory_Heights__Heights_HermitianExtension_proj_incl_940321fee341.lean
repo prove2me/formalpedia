@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermitianExtension_proj_incl_940321fee341
 -- name    : P2M_GroundTheory_Heights__Heights_HermitianExtension_proj_incl_940321fee341
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:23:52.580564+00:00
 -- url     : https://prove2.me/theorems/99615709-e6bd-4272-81c2-7ee9f406ef7c

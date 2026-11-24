@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_LD_mul_blk_succ
 -- name    : GlobalTheory.ThK.Dbl.LD.mul_blk_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:21:51.228996+00:00
 -- url     : https://prove2.me/theorems/856b36ee-aece-4914-bd33-56d0924ecea8

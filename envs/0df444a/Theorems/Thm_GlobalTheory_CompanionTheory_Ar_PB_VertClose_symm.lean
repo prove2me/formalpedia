@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_VertClose_symm
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.VertClose.symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:02.89556+00:00
 -- url     : https://prove2.me/theorems/dec4ddf2-df38-4c11-a937-88138cdb3014

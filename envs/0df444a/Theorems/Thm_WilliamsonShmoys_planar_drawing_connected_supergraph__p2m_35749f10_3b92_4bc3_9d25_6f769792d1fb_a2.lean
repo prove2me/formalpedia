@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_connected_supergraph__p2m_35749f10_3b92_4bc3_9d25_6f769792d1fb_a2
 -- name    : WilliamsonShmoys.planar_drawing_connected_supergraph__p2m_35749f10_3b92_4bc3_9d25_6f769792d1fb_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-29T07:15:34.947983+00:00
 -- url     : https://prove2.me/theorems/4f0ec649-9547-4008-8805-0306b746033f

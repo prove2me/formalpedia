@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartEnergyCocycleAlt_blocks_posDef_595fc2157c71
 -- name    : P2M_GroundTheory_Heights__Heights_ChartEnergyCocycleAlt_blocks_posDef_595fc2157c71
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:23:51.983231+00:00
 -- url     : https://prove2.me/theorems/2fc469f5-3bcc-4fd5-b34a-3ff35502144a

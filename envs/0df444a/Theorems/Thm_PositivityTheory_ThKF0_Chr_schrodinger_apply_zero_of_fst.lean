@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_schrodinger_apply_zero_of_fst
 -- name    : PositivityTheory.ThKF0.Chr.schrodinger_apply_zero_of_fst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:16.553116+00:00
 -- url     : https://prove2.me/theorems/2c9e9488-62c4-4af2-9b91-2a47b005f8e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_darkened
 -- name    : ULHC.darkened
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:43:14.696809+00:00
 -- url     : https://prove2.me/theorems/74c59e63-8f41-4d15-bc02-26fa7ff4b8c9

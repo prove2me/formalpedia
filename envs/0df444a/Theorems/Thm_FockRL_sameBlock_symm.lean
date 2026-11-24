@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_sameBlock_symm
 -- name    : FockRL.sameBlock_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:29:34.307537+00:00
 -- url     : https://prove2.me/theorems/f9956b70-22e5-4278-b81b-d5c200b40e12

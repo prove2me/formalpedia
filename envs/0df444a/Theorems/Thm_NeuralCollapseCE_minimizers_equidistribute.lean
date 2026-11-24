@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeuralCollapseCE_minimizers_equidistribute
 -- name    : NeuralCollapseCE.minimizers_equidistribute
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:12:40.897091+00:00
 -- url     : https://prove2.me/theorems/c345cd66-3bf7-4086-ae56-8e12cb611502

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.exists_planar_supergraph_with_edge_bound__p2m_a3d46af7_d8d1_44e5_ae3d_980c06c923f9_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-29T09:55:02.041181+00:00
 -- url     : https://prove2.me/submissions/ca720545-b38b-4790-b574-f2691f258b1d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

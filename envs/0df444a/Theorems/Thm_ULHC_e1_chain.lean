@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_e1_chain
 -- name    : ULHC.e1_chain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:29:27.399152+00:00
 -- url     : https://prove2.me/theorems/2727bdae-87e9-4899-bee9-8500908711a2

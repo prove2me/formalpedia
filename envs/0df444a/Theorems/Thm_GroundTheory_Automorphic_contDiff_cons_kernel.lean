@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_contDiff_cons_kernel
 -- name    : GroundTheory.Automorphic.contDiff_cons_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:23:56.803151+00:00
 -- url     : https://prove2.me/theorems/c7604d0a-5579-4378-a869-a501091ed24b

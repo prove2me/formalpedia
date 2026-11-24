@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_fockAct1_eq
 -- name    : FockRL.fockAct1_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:29:18.206688+00:00
 -- url     : https://prove2.me/theorems/8bf58c6b-06ab-49cb-87bb-b3a7dfed0cfe

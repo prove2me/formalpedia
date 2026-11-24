@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFrameSpan_pairing_apply
 -- name    : GlobalTheory.DualFrameSpan.pairing_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:12:46.168915+00:00
 -- url     : https://prove2.me/theorems/9528547b-d62b-4194-840c-b7bf295813f1

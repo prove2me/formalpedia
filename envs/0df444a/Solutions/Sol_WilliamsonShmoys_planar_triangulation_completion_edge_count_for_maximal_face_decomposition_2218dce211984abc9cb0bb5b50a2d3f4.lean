@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_triangulation_completion_edge_count_for_maximal_face_decomposition_2218dce211984abc9cb0bb5b50a2d3f4
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T16:12:53.327934+00:00
 -- url     : https://prove2.me/submissions/3c0136ff-92f1-48d1-a5cc-e0de12852e2e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

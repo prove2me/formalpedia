@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_InjectiveHolomorphicDerivNeZero_proof_0e516cf86a2c
 -- name    : P2M_GroundTheory_Heights__Heights_InjectiveHolomorphicDerivNeZero_proof_0e516cf86a2c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:25:38.009501+00:00
 -- url     : https://prove2.me/theorems/ff39a086-f0da-4046-826a-8e24a256089c

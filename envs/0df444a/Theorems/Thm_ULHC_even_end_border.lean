@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_even_end_border
 -- name    : ULHC.even_end_border
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:38:22.807292+00:00
 -- url     : https://prove2.me/theorems/c98b9303-9057-4161-aace-ad5549e9ea01

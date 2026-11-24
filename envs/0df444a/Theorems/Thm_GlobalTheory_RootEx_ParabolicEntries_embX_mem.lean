@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_ParabolicEntries_embX_mem
 -- name    : GlobalTheory.RootEx.ParabolicEntries.embX_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:42.792342+00:00
 -- url     : https://prove2.me/theorems/6ee08245-abde-4418-b25f-2c7f7b9c12e5

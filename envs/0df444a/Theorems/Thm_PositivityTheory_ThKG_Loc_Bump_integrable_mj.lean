@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_integrable_mj
 -- name    : PositivityTheory.ThKG.Loc.Bump.integrable_mj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:31.580721+00:00
 -- url     : https://prove2.me/theorems/341a7b7c-1521-420e-9bb5-60159cadc396

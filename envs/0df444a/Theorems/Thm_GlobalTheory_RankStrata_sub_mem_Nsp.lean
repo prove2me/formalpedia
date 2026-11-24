@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankStrata_sub_mem_Nsp
 -- name    : GlobalTheory.RankStrata.sub_mem_Nsp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:23:47.950747+00:00
 -- url     : https://prove2.me/theorems/8afee2ce-1199-4a8f-9834-00ee94f9f942

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRaiseLowGrade_eq_zero_of_hc
 -- name    : FockRaiseLowGrade.eq_zero_of_hc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:30:00.488299+00:00
 -- url     : https://prove2.me/theorems/3e7cca47-d9b6-43e3-95c0-d710971cb3a8

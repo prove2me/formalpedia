@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_notTypeIII_of_no
 -- name    : ULHC.notTypeIII_of_no
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:45:59.986461+00:00
 -- url     : https://prove2.me/theorems/28da60ed-b01a-4aa8-927c-8b11e7adb135

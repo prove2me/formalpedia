@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeuralCollapseCE_uniform_measure_unique_minimizer
 -- name    : NeuralCollapseCE.uniform_measure_unique_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:12:08.919012+00:00
 -- url     : https://prove2.me/theorems/66197562-c40a-420c-b12b-91eb8d84caee

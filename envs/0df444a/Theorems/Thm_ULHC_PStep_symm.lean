@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_PStep_symm
 -- name    : ULHC.PStep.symm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:17.398303+00:00
 -- url     : https://prove2.me/theorems/bb4f1494-a344-4666-8262-0ba9db899291

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_jetMap_mk
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeR.jetMap_mk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:48.121033+00:00
 -- url     : https://prove2.me/theorems/b0ca21d6-2d7d-452f-b653-1477274c1a85

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_mem_ideal_of_sum_10ad4e89fd6e
 -- name    : P2M_GroundTheory_Heights__Heights_Model_mem_ideal_of_sum_10ad4e89fd6e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:28:47.823016+00:00
 -- url     : https://prove2.me/theorems/4172aa96-6a27-43de-9df8-59e56bc89cad

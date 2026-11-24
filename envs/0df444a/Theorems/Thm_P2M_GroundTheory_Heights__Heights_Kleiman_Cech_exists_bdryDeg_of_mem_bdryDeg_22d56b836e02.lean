@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Cech_exists_bdryDeg_of_mem_bdryDeg_22d56b836e02
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Cech_exists_bdryDeg_of_mem_bdryDeg_22d56b836e02
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:32.165042+00:00
 -- url     : https://prove2.me/theorems/88dfe9fb-d526-4a8f-b224-322c525c8763

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Inhab_exists_different_pair
 -- name    : GlobalTheory.SgGlob.Inhab.exists_different_pair
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:17:37.708592+00:00
 -- url     : https://prove2.me/theorems/8d478134-5f8e-4504-9a16-9b4b8466089d

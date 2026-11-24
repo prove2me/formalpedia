@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_linePos_left
 -- name    : FockRL.linePos_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:29:12.380806+00:00
 -- url     : https://prove2.me/theorems/3486f1ae-31f8-45e3-bf59-bdf72e59492c

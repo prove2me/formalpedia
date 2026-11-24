@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_frame_latB
 -- name    : ULHC.frame_latB
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:59:05.696131+00:00
 -- url     : https://prove2.me/theorems/1d42ac53-2297-477f-8435-03868598bb62

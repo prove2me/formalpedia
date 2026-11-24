@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaEx_mem_std
 -- name    : GlobalTheory.BetaEx.mem_std
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:21:41.656678+00:00
 -- url     : https://prove2.me/theorems/cf18d9e5-d5c8-4ba6-a049-5413fff946a4

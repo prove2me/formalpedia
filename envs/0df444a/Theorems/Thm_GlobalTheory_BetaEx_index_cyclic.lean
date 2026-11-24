@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaEx_index_cyclic
 -- name    : GlobalTheory.BetaEx.index_cyclic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:12:13.453572+00:00
 -- url     : https://prove2.me/theorems/c07bf007-a94b-43a4-bff0-ce4331e8ca71

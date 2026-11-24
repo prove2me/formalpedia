@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_IsInv_cmul
 -- name    : Formalism.IndefR.Fin.Four.IsInv.cmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:04.725112+00:00
 -- url     : https://prove2.me/theorems/83b74b63-3c59-4474-b26a-f0faea450292

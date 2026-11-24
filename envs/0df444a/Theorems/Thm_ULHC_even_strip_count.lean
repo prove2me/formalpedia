@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_even_strip_count
 -- name    : ULHC.even_strip_count
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:34:40.89875+00:00
 -- url     : https://prove2.me/theorems/86aa9c9c-5e01-48fe-b416-840a3b465446

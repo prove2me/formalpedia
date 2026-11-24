@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_deg_insert_end
 -- name    : ULHC.TF.deg_insert_end
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:47:35.329552+00:00
 -- url     : https://prove2.me/theorems/bf7f9f61-5850-4f99-9072-0e2f814b7977

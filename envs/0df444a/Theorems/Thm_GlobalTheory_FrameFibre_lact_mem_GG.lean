@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameFibre_lact_mem_GG
 -- name    : GlobalTheory.FrameFibre.lact_mem_GG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:50:20.243773+00:00
 -- url     : https://prove2.me/theorems/db1556d5-eeec-4f54-9356-9431d48335c8

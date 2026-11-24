@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_triangulated_supergraph_edge_lower_bound__p2m_0ac110bd_aaad_4255_8185_0d10e2119357_a1
 -- name    : WilliamsonShmoys.planar_drawing_triangulated_supergraph_edge_lower_bound__p2m_0ac110bd_aaad_4255_8185_0d10e2119357_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:39:28.96582+00:00
 -- url     : https://prove2.me/theorems/150f7ba2-65b7-4a49-8255-d3333730e062

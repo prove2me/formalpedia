@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_nOn_lat1
 -- name    : ULHC.nOn_lat1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:41:00.337581+00:00
 -- url     : https://prove2.me/theorems/3fc34cc7-6ebd-4ce5-ba0e-08efe5ef29c4

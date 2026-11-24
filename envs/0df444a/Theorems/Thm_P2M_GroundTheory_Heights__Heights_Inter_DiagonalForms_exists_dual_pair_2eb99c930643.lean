@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalForms_exists_dual_pair_2eb99c930643
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalForms_exists_dual_pair_2eb99c930643
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:28:11.199641+00:00
 -- url     : https://prove2.me/theorems/a12f5409-03f1-4c09-81f7-3ab2c5ec0740

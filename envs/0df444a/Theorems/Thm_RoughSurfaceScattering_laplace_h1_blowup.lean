@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_laplace_h1_blowup
 -- name    : RoughSurfaceScattering.laplace_h1_blowup
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T03:52:48.603055+00:00
 -- url     : https://prove2.me/theorems/143f94fd-aec6-48dc-8aca-3805cb7a1328

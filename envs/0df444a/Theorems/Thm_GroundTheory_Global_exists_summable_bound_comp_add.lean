@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_summable_bound_comp_add
 -- name    : GroundTheory.Global.exists_summable_bound_comp_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:57:05.166624+00:00
 -- url     : https://prove2.me/theorems/6f59bc8e-6f66-4a9a-88c7-739aa2551dcb

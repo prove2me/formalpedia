@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_euler_upper__p2m_2930c541_cd90_4895_988f_c75e47ffb674_a1
 -- name    : WilliamsonShmoys.planar_euler_upper__p2m_2930c541_cd90_4895_988f_c75e47ffb674_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:09:29.500436+00:00
 -- url     : https://prove2.me/theorems/ca040947-49e1-4160-bfba-b5144965fa24

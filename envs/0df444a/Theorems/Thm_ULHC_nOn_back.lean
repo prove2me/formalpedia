@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_nOn_back
 -- name    : ULHC.nOn_back
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:41:20.29731+00:00
 -- url     : https://prove2.me/theorems/faba9175-84cc-456a-92b8-0dd51b0bda2c

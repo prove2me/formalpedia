@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_isRegularSection_form_6765ee38e78f
 -- name    : P2M_GroundTheory_Heights__Heights_Model_isRegularSection_form_6765ee38e78f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:28:31.501959+00:00
 -- url     : https://prove2.me/theorems/bb2cdc3d-ac76-404c-8442-505166d26524

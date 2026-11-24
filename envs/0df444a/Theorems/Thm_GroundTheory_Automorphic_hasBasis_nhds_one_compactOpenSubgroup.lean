@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hasBasis_nhds_one_compactOpenSubgroup
 -- name    : GroundTheory.Automorphic.hasBasis_nhds_one_compactOpenSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:54.992726+00:00
 -- url     : https://prove2.me/theorems/0c2f08ee-ea46-41bc-a767-01787c624e01

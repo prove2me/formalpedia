@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_latMap_one
 -- name    : GlobalTheory.SgGlob.latMap_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:19:53.312797+00:00
 -- url     : https://prove2.me/theorems/3adec61e-f540-4586-8b9e-c5d4e3e01b6a

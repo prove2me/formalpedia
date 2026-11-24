@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_seq_count
 -- name    : ULHC.seq_count
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:37:52.102627+00:00
 -- url     : https://prove2.me/theorems/e8518d31-73ce-42f9-b274-a857599e60a9

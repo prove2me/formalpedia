@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_Dec_bound
 -- name    : PositivityTheory.ThKG.Loc.Bump.Dec.bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:32.592821+00:00
 -- url     : https://prove2.me/theorems/d4587659-bac3-43f9-8179-001c7918fff7

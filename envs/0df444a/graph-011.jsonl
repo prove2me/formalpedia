@@ -51394,7 +51394,7 @@
 {"parent": "OAI.Laughlin.Certificate.computeRow_12_1_3_3", "child": "OAIQ047L000", "via": ["solution", "statement"]}
 {"parent": "OAI.DilutedSpinGlass.UniversalDictionary.poissonInsertionOn_comparison_tendsto_ae", "child": "DilutedSpin", "via": ["solution", "statement"]}
 {"parent": "OAI.DilutedSpinGlass.UniversalDictionary.poissonInsertionOn_comparison_tendsto_ae", "child": "OAIQ041D000", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_connected_extension_repair", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_connected_extension_repair", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeGram_9_3_7", "child": "OAIQ047L000", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff6.positive_w019_s1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "MarkovProcessModule_MarkovProcess_Kernel_PositiveC0SemigroupFeller", "child": "MarkovProcessModule_MarkovProcess_Kernel_PositiveC0SemigroupKernel", "via": ["statement"]}
@@ -57570,7 +57570,7 @@
 {"parent": "CountingMatroid.Analysis.SingleRunAccuracy.fairTape_event_card", "child": "CountingMatroid_Analysis_FinishPhaseEmpiricalUpdate", "via": ["solution", "statement"]}
 {"parent": "D1Bound5_PellLightMatchingData14_Definitions_003", "child": "D1Bound5_PellLightMatchingData14_Definitions_002", "via": ["statement"]}
 {"parent": "D1Bound5_PellLightMatchingData14_Definitions_003", "child": "D1Bound5_PellLightMatching_Definitions", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.connected_planar_supergraph_geometry", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.connected_planar_supergraph_geometry", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "BregmanDistance.monotone_step_bound", "child": "BregmanPPA_Convergence_Model", "via": ["solution", "statement"]}
 {"parent": "CountingMatroid.Analysis.FiniteStoppedFiberMass.stopped_fiber_bound", "child": "CountingMatroidSupport_Computation_Heap", "via": ["solution", "statement"]}
 {"parent": "CountingMatroid.Analysis.FiniteStoppedFiberMass.stopped_fiber_bound", "child": "CountingMatroidSupport_Computation_Cost", "via": ["solution", "statement"]}
@@ -89105,7 +89105,7 @@
 {"parent": "BookProof.NavierStokesFlow.IkebeKato.commForm_self", "child": "ChapterNavierStokesIkebeKato", "via": ["solution", "statement"]}
 {"parent": "BookProof.NavierStokesFlow.IkebeKato.commForm_self", "child": "ChapterNavierStokesAffineFiberEsa", "via": ["solution", "statement"]}
 {"parent": "BookProof.NavierStokesFlow.IkebeKato.commForm_self", "child": "ChapterFarisLavineCore", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_connected_completion_same_vertices_v4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_connected_completion_same_vertices_v4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_cover_m0_s29", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.connected_planar_edge_bound_v3_triangulation_extension_maximal_edge_count", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.Cand.NQ14.bind_gi_3_0", "child": "Atlas_Core_Basic", "via": ["solution", "statement"]}

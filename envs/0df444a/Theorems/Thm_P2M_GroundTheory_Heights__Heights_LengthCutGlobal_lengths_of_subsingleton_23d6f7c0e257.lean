@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LengthCutGlobal_lengths_of_subsingleton_23d6f7c0e257
 -- name    : P2M_GroundTheory_Heights__Heights_LengthCutGlobal_lengths_of_subsingleton_23d6f7c0e257
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:26:08.843749+00:00
 -- url     : https://prove2.me/theorems/b3395980-08d7-4fae-bbdd-47ec2013a5dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_LD_sb_right
 -- name    : GlobalTheory.ThK.Dbl.LD.sb_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:21:14.720238+00:00
 -- url     : https://prove2.me/theorems/29b8fc0e-2ed2-4454-8a68-0edea9570cf5

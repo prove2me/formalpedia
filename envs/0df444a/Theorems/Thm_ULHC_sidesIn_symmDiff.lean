@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_sidesIn_symmDiff
 -- name    : ULHC.sidesIn_symmDiff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:31:39.271442+00:00
 -- url     : https://prove2.me/theorems/a3e8ed3f-3598-41c4-a775-e0b300b3a23f

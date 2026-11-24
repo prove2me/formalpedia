@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_alt_frame
 -- name    : ULHC.alt_frame
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:01:18.212162+00:00
 -- url     : https://prove2.me/theorems/58d698b2-fe93-4018-ab8e-f81373905abc

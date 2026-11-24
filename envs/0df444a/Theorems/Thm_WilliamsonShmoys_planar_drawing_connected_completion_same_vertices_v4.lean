@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_connected_completion_same_vertices_v4
 -- name    : WilliamsonShmoys.planar_drawing_connected_completion_same_vertices_v4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T09:12:16.381216+00:00
 -- url     : https://prove2.me/theorems/7679e9be-3487-4650-a4d7-b88de73b2bea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RightRegFund_ae_good_mul
 -- name    : GlobalTheory.RightRegFund.ae_good_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:10:36.883842+00:00
 -- url     : https://prove2.me/theorems/5a22e875-d4b7-4d0f-bcaa-c2269576f54e

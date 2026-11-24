@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_HeightOneSections_germ_comb_8d6e321d74e3
 -- name    : P2M_GroundTheory_Heights__Heights_Model_HeightOneSections_germ_comb_8d6e321d74e3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:26:37.935629+00:00
 -- url     : https://prove2.me/theorems/47f87eff-e7a6-48cd-ac5a-98c970c5b7bd

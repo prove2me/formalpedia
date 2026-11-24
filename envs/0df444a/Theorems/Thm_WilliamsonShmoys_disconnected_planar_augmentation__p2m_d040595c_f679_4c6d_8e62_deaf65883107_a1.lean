@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_disconnected_planar_augmentation__p2m_d040595c_f679_4c6d_8e62_deaf65883107_a1
 -- name    : WilliamsonShmoys.disconnected_planar_augmentation__p2m_d040595c_f679_4c6d_8e62_deaf65883107_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:49:51.913362+00:00
 -- url     : https://prove2.me/theorems/b9f24409-3d4f-491d-a7d1-53a879b4d6a5

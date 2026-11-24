@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_IsoRig_mul
 -- name    : GlobalTheory.SgGlob.IsoRig.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:19:23.866457+00:00
 -- url     : https://prove2.me/theorems/f94fc769-c9f4-4d09-9e56-8d999305bfd3

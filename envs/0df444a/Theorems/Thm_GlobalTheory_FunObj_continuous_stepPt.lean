@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_continuous_stepPt
 -- name    : GlobalTheory.FunObj.continuous_stepPt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:12:59.189316+00:00
 -- url     : https://prove2.me/theorems/7376b4be-5e65-4a49-9675-0b4bd42e3010

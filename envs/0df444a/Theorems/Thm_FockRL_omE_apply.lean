@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_omE_apply
 -- name    : FockRL.omE_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:29:13.597108+00:00
 -- url     : https://prove2.me/theorems/0d295b27-f8b9-4265-adeb-04ef9fa938f0

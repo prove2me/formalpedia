@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FHS_fockInner_zero_left
 -- name    : PI.FHS.fockInner_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:21:42.899965+00:00
 -- url     : https://prove2.me/theorems/6e1aa5e9-76b5-4c06-bdd2-c47f010c38ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_fischer_smul_left
 -- name    : ReciprocityTheory.PGsh.fischer_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:12:11.394297+00:00
 -- url     : https://prove2.me/theorems/b9b55ad6-0c58-41b0-b3c0-4709d1710312

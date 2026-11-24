@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MonomialMap_chart_value_eq_f30369e8f416
 -- name    : P2M_GroundTheory_Heights__Heights_MonomialMap_chart_value_eq_f30369e8f416
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:28:51.16011+00:00
 -- url     : https://prove2.me/theorems/ce2272c1-089c-4c4b-b075-5fba27e8c286

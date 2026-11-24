@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_IsImp_cyc
 -- name    : PositivityTheory.ThKF0.Chr.IsImp.cyc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:20:42.942797+00:00
 -- url     : https://prove2.me/theorems/3ea1db61-e905-4605-bc63-cfd86c6bcb03

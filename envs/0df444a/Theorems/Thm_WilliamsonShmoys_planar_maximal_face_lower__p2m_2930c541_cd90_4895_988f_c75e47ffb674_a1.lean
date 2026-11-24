@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_maximal_face_lower__p2m_2930c541_cd90_4895_988f_c75e47ffb674_a1
 -- name    : WilliamsonShmoys.planar_maximal_face_lower__p2m_2930c541_cd90_4895_988f_c75e47ffb674_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:09:29.617806+00:00
 -- url     : https://prove2.me/theorems/93495c6b-060a-4795-942d-53f57b28e4d9

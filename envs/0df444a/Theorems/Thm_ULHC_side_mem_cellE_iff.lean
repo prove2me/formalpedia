@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_side_mem_cellE_iff
 -- name    : ULHC.side_mem_cellE_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:44:48.01037+00:00
 -- url     : https://prove2.me/theorems/7238f039-e260-4949-b7de-93afda0c9448

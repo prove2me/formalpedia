@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m87_qpos_two_sided_occupation_sections_measurable_for_bridge
 -- name    : Kyprianou.Ch08.StageB.p2m87_qpos_two_sided_occupation_sections_measurable_for_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T03:06:54.407554+00:00
 -- url     : https://prove2.me/theorems/0fc23354-1a9e-4869-87e3-e7a4bcb2383e

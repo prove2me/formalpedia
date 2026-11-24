@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_secondCountableTopology
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.secondCountableTopology
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:23:27.374503+00:00
 -- url     : https://prove2.me/theorems/0682ea8a-5ab7-456d-b9f5-ebf36bd4db33

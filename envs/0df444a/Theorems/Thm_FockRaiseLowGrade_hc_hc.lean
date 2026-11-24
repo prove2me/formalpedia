@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRaiseLowGrade_hc_hc
 -- name    : FockRaiseLowGrade.hc_hc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:29:19.657967+00:00
 -- url     : https://prove2.me/theorems/2e9cfea2-33c4-4d8f-8022-df0baad48fba

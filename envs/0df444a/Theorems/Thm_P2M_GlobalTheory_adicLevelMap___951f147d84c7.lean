@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_adicLevelMap___951f147d84c7
 -- name    : P2M_GlobalTheory_adicLevelMap___951f147d84c7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:59.993851+00:00
 -- url     : https://prove2.me/theorems/36925384-c51f-4fcd-a6d5-cef9fd69145b

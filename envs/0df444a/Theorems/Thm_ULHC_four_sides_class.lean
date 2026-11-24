@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_four_sides_class
 -- name    : ULHC.four_sides_class
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:35:31.79207+00:00
 -- url     : https://prove2.me/theorems/800d1b9a-2276-4e78-83e1-8041789a1e89

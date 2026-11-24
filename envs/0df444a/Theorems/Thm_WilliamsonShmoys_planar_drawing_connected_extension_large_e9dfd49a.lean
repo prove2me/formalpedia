@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_connected_extension_large_e9dfd49a
 -- name    : WilliamsonShmoys.planar_drawing_connected_extension_large_e9dfd49a
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T04:07:43.224168+00:00
 -- url     : https://prove2.me/theorems/9dbc1b44-5e81-4cbc-9338-84418c6013a1

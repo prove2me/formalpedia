@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_separation
 -- name    : ULHC.separation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:32:41.577386+00:00
 -- url     : https://prove2.me/theorems/3b0f8ca4-7475-4696-9eb6-316601f4825f

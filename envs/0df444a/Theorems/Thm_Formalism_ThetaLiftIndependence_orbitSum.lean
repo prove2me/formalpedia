@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ThetaLiftIndependence_orbitSum
 -- name    : Formalism.ThetaLiftIndependence.orbitSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:23:15.950983+00:00
 -- url     : https://prove2.me/theorems/209f3cc7-f62f-4097-a743-2ca1e4f25a49

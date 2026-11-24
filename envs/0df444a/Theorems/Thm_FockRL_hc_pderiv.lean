@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_hc_pderiv
 -- name    : FockRL.hc_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:30:06.495283+00:00
 -- url     : https://prove2.me/theorems/c05dc323-e332-4d76-be10-424c1b84171a

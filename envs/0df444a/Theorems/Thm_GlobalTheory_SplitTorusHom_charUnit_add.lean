@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitTorusHom_charUnit_add
 -- name    : GlobalTheory.SplitTorusHom.charUnit_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:01.227482+00:00
 -- url     : https://prove2.me/theorems/ad339cf3-fa69-49f7-bf96-fe10626f587e

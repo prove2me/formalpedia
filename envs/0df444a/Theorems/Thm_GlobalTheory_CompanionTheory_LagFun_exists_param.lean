@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LagFun_exists_param
 -- name    : GlobalTheory.CompanionTheory.LagFun.exists_param
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:12:08.967922+00:00
 -- url     : https://prove2.me/theorems/aad26e0d-38a0-4d34-aa6a-625cfafbcba7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_locallySummableTimeRepresentationActualJumpsV1
 -- name    : Kyprianou.Ch02.locallySummableTimeRepresentationActualJumpsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T23:51:15.846951+00:00
 -- url     : https://prove2.me/theorems/d8f240fa-0285-42ed-9125-0f9164d51912

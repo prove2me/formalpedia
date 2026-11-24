@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_DStep_parity
 -- name    : ULHC.DStep.parity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:45:18.812826+00:00
 -- url     : https://prove2.me/theorems/42568c3d-5a3a-4bba-a776-db8f216f025c

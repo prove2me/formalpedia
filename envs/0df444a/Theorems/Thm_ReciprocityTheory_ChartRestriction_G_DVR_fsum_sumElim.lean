@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_fsum_sumElim
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.fsum_sumElim
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:12:28.747842+00:00
 -- url     : https://prove2.me/theorems/703ab4ba-b41e-4334-b34e-39121c0ae086

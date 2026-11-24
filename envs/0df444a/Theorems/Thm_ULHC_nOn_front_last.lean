@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_nOn_front_last
 -- name    : ULHC.nOn_front_last
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:41:23.010529+00:00
 -- url     : https://prove2.me/theorems/60a1e568-d744-4ab6-a83e-faa11978db44

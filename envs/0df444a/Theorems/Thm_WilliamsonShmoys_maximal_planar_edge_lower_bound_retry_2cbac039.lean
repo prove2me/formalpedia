@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_edge_lower_bound_retry_2cbac039
 -- name    : WilliamsonShmoys.maximal_planar_edge_lower_bound_retry_2cbac039
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T02:30:11.674614+00:00
 -- url     : https://prove2.me/theorems/86145c38-06d5-46ca-8923-866c339715df

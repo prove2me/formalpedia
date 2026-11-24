@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_supergraph_of_disconnected
 -- name    : WilliamsonShmoys.planar_supergraph_of_disconnected
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T01:22:42.222661+00:00
 -- url     : https://prove2.me/theorems/e285668e-edc8-44a9-b3e1-579f75c4524d

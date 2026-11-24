@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WrongSignGauss_integrable_ip
 -- name    : GlobalTheory.WrongSignGauss.integrable_ip
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:10:31.225809+00:00
 -- url     : https://prove2.me/theorems/7ac1c172-3899-45d2-be8d-5227ba3817bf

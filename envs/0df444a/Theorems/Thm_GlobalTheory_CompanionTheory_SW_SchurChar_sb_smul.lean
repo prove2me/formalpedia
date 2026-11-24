@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SchurChar_sb_smul
 -- name    : GlobalTheory.CompanionTheory.SW.SchurChar.sb_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:12:03.620947+00:00
 -- url     : https://prove2.me/theorems/17a20746-2f37-479d-b80e-f56af975664b

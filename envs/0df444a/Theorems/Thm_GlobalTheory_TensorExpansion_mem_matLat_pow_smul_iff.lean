@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorExpansion_mem_matLat_pow_smul_iff
 -- name    : GlobalTheory.TensorExpansion.mem_matLat_pow_smul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:46.946801+00:00
 -- url     : https://prove2.me/theorems/9de29ed2-a965-4089-a397-086ffb73401b

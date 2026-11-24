@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ULHC_body_not_alt__d3691623e2ed
 -- name    : P2M_ULHC_body_not_alt__d3691623e2ed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:23:01.934818+00:00
 -- url     : https://prove2.me/theorems/dc46b6f7-c3ba-4baf-a927-517d1a0d8ff9

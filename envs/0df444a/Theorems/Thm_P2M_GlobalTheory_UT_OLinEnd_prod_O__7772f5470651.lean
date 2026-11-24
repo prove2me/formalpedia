@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UT_OLinEnd_prod_O__7772f5470651
 -- name    : P2M_GlobalTheory_UT_OLinEnd_prod_O__7772f5470651
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:25:45.032987+00:00
 -- url     : https://prove2.me/theorems/c826c29a-23cb-4886-a554-b18f6213af38

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_completion_on_vertex_set__p2m_d20eded3_dab8_49a7_8ba9_801d4ba77b67_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:58:03.089391+00:00
 -- url     : https://prove2.me/submissions/be2b8533-9b32-4e19-9b4d-d00c031c8fad
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

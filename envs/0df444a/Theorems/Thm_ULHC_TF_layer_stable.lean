@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_layer_stable
 -- name    : ULHC.TF.layer_stable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:46:40.048799+00:00
 -- url     : https://prove2.me/theorems/db9b3dc8-c94e-48fe-a088-4df55333bb93

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhaseLipschitz_contDiff_psi
 -- name    : GlobalTheory.PhaseLipschitz.contDiff_psi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:42.123217+00:00
 -- url     : https://prove2.me/theorems/0b937554-4a6d-4a15-b9df-22765021c78b

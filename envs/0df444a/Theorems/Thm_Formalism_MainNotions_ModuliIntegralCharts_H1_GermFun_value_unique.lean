@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermFun_value_unique
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermFun.value_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:23:58.953548+00:00
 -- url     : https://prove2.me/theorems/ec1c9ad7-20cf-42f7-a44c-b8d3b66b9d0f

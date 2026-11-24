@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_DWalk_parity
 -- name    : ULHC.DWalk.parity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:44:47.265286+00:00
 -- url     : https://prove2.me/theorems/80bd405d-53fb-4f2a-a217-25e16e3557fc

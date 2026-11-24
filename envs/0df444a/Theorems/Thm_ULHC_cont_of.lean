@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_cont_of
 -- name    : ULHC.cont_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:20:56.394814+00:00
 -- url     : https://prove2.me/theorems/12d7569b-8214-4431-8ffa-5c3c4989e4f0

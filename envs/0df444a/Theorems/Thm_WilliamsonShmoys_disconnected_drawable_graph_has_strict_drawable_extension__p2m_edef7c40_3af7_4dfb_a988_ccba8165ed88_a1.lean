@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_disconnected_drawable_graph_has_strict_drawable_extension__p2m_edef7c40_3af7_4dfb_a988_ccba8165ed88_a1
 -- name    : WilliamsonShmoys.disconnected_drawable_graph_has_strict_drawable_extension__p2m_edef7c40_3af7_4dfb_a988_ccba8165ed88_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T18:39:35.943593+00:00
 -- url     : https://prove2.me/theorems/41ac2ad2-1442-40d5-933f-adb24d67ad24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GrassmannianGeometricDegreeChart_segre_blockLift_a51900c6d6c2
 -- name    : P2M_GroundTheory_Heights__Heights_GrassmannianGeometricDegreeChart_segre_blockLift_a51900c6d6c2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:11.75008+00:00
 -- url     : https://prove2.me/theorems/e1757690-5d87-47c7-913b-763aad82368d

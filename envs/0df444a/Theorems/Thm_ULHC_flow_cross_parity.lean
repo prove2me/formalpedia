@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_flow_cross_parity
 -- name    : ULHC.flow_cross_parity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:52:49.454887+00:00
 -- url     : https://prove2.me/theorems/7aa253f3-6e97-447d-8d4d-af858ffd3f27

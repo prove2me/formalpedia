@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamFree_mk_eq_mk_iff
 -- name    : GlobalTheory.FamFree.mk_eq_mk_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:26:11.300282+00:00
 -- url     : https://prove2.me/theorems/2049eabe-7134-4646-be3a-45378513dd47

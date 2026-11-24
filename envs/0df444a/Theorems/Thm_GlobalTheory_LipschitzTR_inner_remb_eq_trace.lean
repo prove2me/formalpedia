@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_inner_remb_eq_trace
 -- name    : GlobalTheory.LipschitzTR.inner_remb_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:45.332391+00:00
 -- url     : https://prove2.me/theorems/ca77c7e4-6fe7-4b95-b88a-4a036834605d

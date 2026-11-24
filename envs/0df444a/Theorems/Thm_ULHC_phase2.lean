@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_phase2
 -- name    : ULHC.phase2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:41:53.817916+00:00
 -- url     : https://prove2.me/theorems/a3706647-d6ba-4b93-8942-d1929f3ae2b2

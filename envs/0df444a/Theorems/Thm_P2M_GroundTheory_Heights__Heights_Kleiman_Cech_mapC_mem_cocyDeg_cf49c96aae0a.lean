@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Cech_mapC_mem_cocyDeg_cf49c96aae0a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Cech_mapC_mem_cocyDeg_cf49c96aae0a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:35:06.096873+00:00
 -- url     : https://prove2.me/theorems/2df02649-8d38-442c-870f-f51d879a3488

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_isSaturated_firstCoordinateLine_9fe2fc0c34b2
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_isSaturated_firstCoordinateLine_9fe2fc0c34b2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:25:29.091238+00:00
 -- url     : https://prove2.me/theorems/79e30f4e-0a2f-4980-a64c-42bb31d6d504

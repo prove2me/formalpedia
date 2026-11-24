@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_euler_face_count
 -- name    : WilliamsonShmoys.maximal_drawable_graph_euler_face_count
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T18:03:35.193336+00:00
 -- url     : https://prove2.me/theorems/2aa9d4d8-ca19-4a3e-94b2-47d01f3eb35e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_lift_conn
 -- name    : ULHC.lift_conn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:40:33.066088+00:00
 -- url     : https://prove2.me/theorems/02b20d68-1c25-48a9-965d-66934a2035fc

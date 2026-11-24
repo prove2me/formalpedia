@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WrongSignGauss_mulForm_apply
 -- name    : GlobalTheory.WrongSignGauss.mulForm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:10:38.12544+00:00
 -- url     : https://prove2.me/theorems/6742446c-5b71-47fd-a4c3-cf762ed5c4ba

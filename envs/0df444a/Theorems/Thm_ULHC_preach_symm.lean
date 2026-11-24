@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_preach_symm
 -- name    : ULHC.preach_symm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:54:51.947865+00:00
 -- url     : https://prove2.me/theorems/45bff74b-b17b-4e6b-beeb-64edee7e2e62

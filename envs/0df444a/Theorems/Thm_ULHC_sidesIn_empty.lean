@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_sidesIn_empty
 -- name    : ULHC.sidesIn_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:44:19.259122+00:00
 -- url     : https://prove2.me/theorems/6036f466-9674-468d-9337-fc86500d8f0e

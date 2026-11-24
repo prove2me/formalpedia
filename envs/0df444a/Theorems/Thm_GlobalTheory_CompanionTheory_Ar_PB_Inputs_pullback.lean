@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Inputs_pullback
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Inputs.pullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:30.082486+00:00
 -- url     : https://prove2.me/theorems/5f9eb6bb-770c-4103-aadd-734d2e28f5ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_GlueModulesStar_isIso_homEquiv_symm_a5562e9ab15b
 -- name    : P2M_GroundTheory_Heights__Heights_Model_GlueModulesStar_isIso_homEquiv_symm_a5562e9ab15b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:25:54.825704+00:00
 -- url     : https://prove2.me/theorems/5c68e4fa-f83d-45e4-8c4e-9df8356e805f

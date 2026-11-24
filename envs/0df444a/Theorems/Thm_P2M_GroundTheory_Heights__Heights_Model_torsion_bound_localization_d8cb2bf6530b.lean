@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_torsion_bound_localization_d8cb2bf6530b
 -- name    : P2M_GroundTheory_Heights__Heights_Model_torsion_bound_localization_d8cb2bf6530b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:28:58.12554+00:00
 -- url     : https://prove2.me/theorems/6269cec8-d022-432c-9b52-9043e7366a63

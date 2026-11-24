@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_HeightOneSections_genericPoint_mem_02612281dbe5
 -- name    : P2M_GroundTheory_Heights__Heights_Model_HeightOneSections_genericPoint_mem_02612281dbe5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:26:25.892071+00:00
 -- url     : https://prove2.me/theorems/59d8cceb-794f-4398-bd70-9704758f680c

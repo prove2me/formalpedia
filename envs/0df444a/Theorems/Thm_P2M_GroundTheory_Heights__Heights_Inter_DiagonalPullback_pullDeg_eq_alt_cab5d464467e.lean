@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalPullback_pullDeg_eq_alt_cab5d464467e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalPullback_pullDeg_eq_alt_cab5d464467e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:28:58.048061+00:00
 -- url     : https://prove2.me/theorems/15d647f2-8ce1-410d-ba3f-21b68dd77035

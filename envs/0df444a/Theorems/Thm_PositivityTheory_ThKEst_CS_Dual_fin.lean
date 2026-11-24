@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_CS_Dual_fin
 -- name    : PositivityTheory.ThKEst.CS.Dual.fin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:11:42.69701+00:00
 -- url     : https://prove2.me/theorems/a05dc10f-8ee3-4646-9604-ccfc2efbd94c

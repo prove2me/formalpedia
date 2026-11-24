@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_edge_count_le_three_mul_card_sub_six__p2m_c8bd0d06_bddd_4d97_9a5a_50d50f58bad7_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:42:32.435262+00:00
 -- url     : https://prove2.me/submissions/ffc3dbe8-aad8-47e1-828b-a749ef79af39
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

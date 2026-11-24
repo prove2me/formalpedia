@@ -87370,10 +87370,10 @@
 {"parent": "ModLatSVP.Supplement.theorem_5_4", "child": "ModLatSVP_RepresentsModule", "via": ["statement"]}
 {"parent": "ModLatSVP.Supplement.theorem_5_4", "child": "SpikyCVP_RunsWithin", "via": ["statement"]}
 {"parent": "AsymSpecConn.Supplement.theorem_6_6", "child": "AsymSpecConn_Supplement_nonCrossing", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_4_9", "child": "QuantumLTF_Membership_gates12", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_4_9", "child": "QuantumLTF_Membership_Supplement_majOracle", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_4_9", "child": "QAlgorithms_Defs_Circuit", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_4_9", "child": "QuantumLTF_Membership_Supplement_nonOracleDepth", "via": ["statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_4_9", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_4_9", "child": "QuantumLTF_Membership_Supplement_majOracle", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_4_9", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_4_9", "child": "QuantumLTF_Membership_Supplement_nonOracleDepth", "via": ["solution", "statement"]}
 {"parent": "APFPaper5_K2_recorded_classes_Vocabulary", "child": "APFPaper5.K1.sourcePartyScore_triangle", "via": ["statement"]}
 {"parent": "APFPaper5_K2_recorded_classes_Vocabulary", "child": "APFPaper5.K2.activeClass_after_hold_of_no_turn", "via": ["statement"]}
 {"parent": "APFPaper5_K2_recorded_classes_Vocabulary", "child": "APFPaper5_K1_record_tables_and_turns_Vocabulary", "via": ["statement"]}

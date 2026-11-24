@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_closed_chain_even
 -- name    : ULHC.closed_chain_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:52:52.990094+00:00
 -- url     : https://prove2.me/theorems/b1fe5238-3e7a-4cab-a987-060761e2665c

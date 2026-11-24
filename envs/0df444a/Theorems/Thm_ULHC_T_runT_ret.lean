@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_runT_ret
 -- name    : ULHC.T.runT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:17:20.192821+00:00
 -- url     : https://prove2.me/theorems/a3cedb6e-2a91-468b-868c-8580dff5d191

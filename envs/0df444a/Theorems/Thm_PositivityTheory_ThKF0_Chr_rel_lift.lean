@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_rel_lift
 -- name    : PositivityTheory.ThKF0.Chr.rel_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:21.141816+00:00
 -- url     : https://prove2.me/theorems/f17ee3ed-c3d4-4916-a9dc-e9253868ff94

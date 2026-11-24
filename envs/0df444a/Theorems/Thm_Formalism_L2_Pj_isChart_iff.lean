@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_isChart_iff
 -- name    : Formalism.L2.Pj.isChart_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:23:25.951732+00:00
 -- url     : https://prove2.me/theorems/0e7eccbf-5ef6-4dd1-921a-bf35cdbbb87a

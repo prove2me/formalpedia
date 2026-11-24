@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_LD_cont_chE
 -- name    : GlobalTheory.ThK.Dbl.LD.cont_chE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:59.853557+00:00
 -- url     : https://prove2.me/theorems/bb41c90c-8f1f-4aa6-af35-4fce252c4c14

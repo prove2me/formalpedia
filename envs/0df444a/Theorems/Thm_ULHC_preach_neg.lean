@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_preach_neg
 -- name    : ULHC.preach_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:55:12.906003+00:00
 -- url     : https://prove2.me/theorems/ca18d149-83f0-499a-bcc4-0e3d4c9bb931

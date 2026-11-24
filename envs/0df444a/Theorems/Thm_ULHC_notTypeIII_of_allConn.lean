@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_notTypeIII_of_allConn
 -- name    : ULHC.notTypeIII_of_allConn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:44:18.186452+00:00
 -- url     : https://prove2.me/theorems/d6427170-1875-4714-bdca-ff16e90e7a4e

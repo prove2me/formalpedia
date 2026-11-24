@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocallyPrincipalCoprimeAlt_coe_toB_c42008a3fb55
 -- name    : P2M_GroundTheory_Heights__Heights_LocallyPrincipalCoprimeAlt_coe_toB_c42008a3fb55
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:26:09.934331+00:00
 -- url     : https://prove2.me/theorems/532f41af-dcdd-49d8-a42e-64b47739673f

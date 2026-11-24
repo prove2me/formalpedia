@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_touch_cases
 -- name    : ULHC.touch_cases
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:17:54.475815+00:00
 -- url     : https://prove2.me/theorems/15f423b6-2943-40c6-b97b-892e15ae7a2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_dirDeriv_eq_zero_of_notMem
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.dirDeriv_eq_zero_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:23:56.379301+00:00
 -- url     : https://prove2.me/theorems/393882d5-dc6d-48d6-b085-f397413aaffb

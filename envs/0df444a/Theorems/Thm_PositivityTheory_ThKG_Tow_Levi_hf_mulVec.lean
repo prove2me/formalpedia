@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Tow_Levi_hf_mulVec
 -- name    : PositivityTheory.ThKG.Tow.Levi.hf_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:17:21.616372+00:00
 -- url     : https://prove2.me/theorems/d59e9363-8c2b-4d6d-b708-0a72beef3550

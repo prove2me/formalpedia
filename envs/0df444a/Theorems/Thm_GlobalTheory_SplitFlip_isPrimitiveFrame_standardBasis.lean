@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_isPrimitiveFrame_standardBasis
 -- name    : GlobalTheory.SplitFlip.isPrimitiveFrame_standardBasis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:59.062291+00:00
 -- url     : https://prove2.me/theorems/73f8eaf6-6dc1-4cd9-bffd-ee687a90dab1

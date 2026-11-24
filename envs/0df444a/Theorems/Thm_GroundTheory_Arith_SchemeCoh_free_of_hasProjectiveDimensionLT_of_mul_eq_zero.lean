@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_free_of_hasProjectiveDimensionLT_of_mul_eq_zero
 -- name    : GroundTheory.Arith.SchemeCoh.free_of_hasProjectiveDimensionLT_of_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:19:07.809807+00:00
 -- url     : https://prove2.me/theorems/63d898f3-c93c-4029-8b42-123dd3f297f6

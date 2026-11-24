@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorExpansion_unitsPowInv_val
 -- name    : GlobalTheory.TensorExpansion.unitsPowInv_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:29.384959+00:00
 -- url     : https://prove2.me/theorems/1abd6394-ac5a-401c-b639-54d882661474

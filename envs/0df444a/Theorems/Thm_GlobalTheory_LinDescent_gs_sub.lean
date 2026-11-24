@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_gs_sub
 -- name    : GlobalTheory.LinDescent.gs_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:28.140972+00:00
 -- url     : https://prove2.me/theorems/d11da1bd-7550-4fd1-95f4-bb8e7616f2cc

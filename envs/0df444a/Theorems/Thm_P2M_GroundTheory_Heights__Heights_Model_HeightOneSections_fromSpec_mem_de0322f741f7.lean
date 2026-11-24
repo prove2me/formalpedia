@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_HeightOneSections_fromSpec_mem_de0322f741f7
 -- name    : P2M_GroundTheory_Heights__Heights_Model_HeightOneSections_fromSpec_mem_de0322f741f7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:26:26.107416+00:00
 -- url     : https://prove2.me/theorems/74ec261d-5ccd-429c-a9cb-a21dad2b4430

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordinateBasisBounds_nat_mul_integral
 -- name    : GlobalTheory.CoordinateBasisBounds.nat_mul_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:12:41.850463+00:00
 -- url     : https://prove2.me/theorems/9f5256fb-73ac-4bdc-b5a6-085e0b8618a9

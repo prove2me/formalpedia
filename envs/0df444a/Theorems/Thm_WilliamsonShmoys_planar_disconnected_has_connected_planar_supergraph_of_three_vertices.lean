@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_disconnected_has_connected_planar_supergraph_of_three_vertices
 -- name    : WilliamsonShmoys.planar_disconnected_has_connected_planar_supergraph_of_three_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T08:12:11.820951+00:00
 -- url     : https://prove2.me/theorems/eba8450c-19f8-4068-bc2b-751fb67490d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LiftTest_stalkMap_injective_of_flat
 -- name    : GlobalTheory.LiftTest.stalkMap_injective_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:50.083807+00:00
 -- url     : https://prove2.me/theorems/6b53e405-980a-483f-b3e9-949c1ffdb7dc

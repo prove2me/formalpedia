@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_CoefQDecay_integrable_derivBound
 -- name    : GlobalTheory.RealWeil.CoefQDecay.integrable_derivBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:30.806847+00:00
 -- url     : https://prove2.me/theorems/af8bff23-79ac-4865-8c06-17a808492af5

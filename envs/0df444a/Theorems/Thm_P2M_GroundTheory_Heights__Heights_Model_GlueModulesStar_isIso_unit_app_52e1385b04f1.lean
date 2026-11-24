@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_GlueModulesStar_isIso_unit_app_52e1385b04f1
 -- name    : P2M_GroundTheory_Heights__Heights_Model_GlueModulesStar_isIso_unit_app_52e1385b04f1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:26:06.604453+00:00
 -- url     : https://prove2.me/theorems/c572f80c-4a81-493a-bebd-c8710e319334

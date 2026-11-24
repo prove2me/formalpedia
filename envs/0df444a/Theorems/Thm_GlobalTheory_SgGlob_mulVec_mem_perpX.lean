@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_mulVec_mem_perpX
 -- name    : GlobalTheory.SgGlob.mulVec_mem_perpX
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:20:09.205923+00:00
 -- url     : https://prove2.me/theorems/1b24246d-f30c-47e5-a003-1d84b1be87af

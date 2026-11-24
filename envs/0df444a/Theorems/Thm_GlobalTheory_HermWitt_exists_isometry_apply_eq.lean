@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermWitt_exists_isometry_apply_eq
 -- name    : GlobalTheory.HermWitt.exists_isometry_apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:36:34.301887+00:00
 -- url     : https://prove2.me/theorems/a829c882-8b5a-4180-8fa9-2fe8764997d2

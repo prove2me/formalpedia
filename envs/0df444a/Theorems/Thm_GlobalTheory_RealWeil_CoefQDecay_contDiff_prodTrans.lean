@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_CoefQDecay_contDiff_prodTrans
 -- name    : GlobalTheory.RealWeil.CoefQDecay.contDiff_prodTrans
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:47.663803+00:00
 -- url     : https://prove2.me/theorems/dc158bc4-bbe0-4864-b666-ebb0cebb1797

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RightRegFund_rep_mul
 -- name    : GlobalTheory.RightRegFund.rep_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:16:04.290705+00:00
 -- url     : https://prove2.me/theorems/c9cb2c45-b36d-4050-a8f1-5aae7669acf9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermitianExtension_finrank_eq_7a942c89c61a
 -- name    : P2M_GroundTheory_Heights__Heights_HermitianExtension_finrank_eq_7a942c89c61a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:09.986187+00:00
 -- url     : https://prove2.me/theorems/8ebca677-be70-4004-8b59-fef71638bcfb

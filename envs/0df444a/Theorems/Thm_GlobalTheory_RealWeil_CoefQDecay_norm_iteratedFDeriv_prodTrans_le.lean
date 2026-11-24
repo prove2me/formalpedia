@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_CoefQDecay_norm_iteratedFDeriv_prodTrans_le
 -- name    : GlobalTheory.RealWeil.CoefQDecay.norm_iteratedFDeriv_prodTrans_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:32.13841+00:00
 -- url     : https://prove2.me/theorems/902f083d-62ca-41d7-a2c6-cfa7169ac8d7

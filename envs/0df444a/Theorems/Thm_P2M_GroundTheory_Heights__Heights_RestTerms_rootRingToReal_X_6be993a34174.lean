@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_rootRingToReal_X_6be993a34174
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_rootRingToReal_X_6be993a34174
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:21:44.796421+00:00
 -- url     : https://prove2.me/theorems/37baef19-3a60-4211-8e0e-fab1ff2bad6c

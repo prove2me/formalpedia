@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_thetaThreeSec_mem_8f4fbee0788e
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_thetaThreeSec_mem_8f4fbee0788e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:30.678825+00:00
 -- url     : https://prove2.me/theorems/675d595e-3f7c-41c6-9c69-83bdc477a323

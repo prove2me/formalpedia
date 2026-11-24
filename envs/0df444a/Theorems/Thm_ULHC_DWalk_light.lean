@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_DWalk_light
 -- name    : ULHC.DWalk.light
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:44:57.765046+00:00
 -- url     : https://prove2.me/theorems/bcdf9d2f-f0b9-4d07-be43-3ef519090489

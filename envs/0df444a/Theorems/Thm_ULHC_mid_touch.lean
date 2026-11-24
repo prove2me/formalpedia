@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_mid_touch
 -- name    : ULHC.mid_touch
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:00:12.943979+00:00
 -- url     : https://prove2.me/theorems/1734f356-f079-4bca-8f08-1e8c333b9c93

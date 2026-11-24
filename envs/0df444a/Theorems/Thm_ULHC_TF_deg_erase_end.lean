@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_deg_erase_end
 -- name    : ULHC.TF.deg_erase_end
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:47:13.239668+00:00
 -- url     : https://prove2.me/theorems/f970bed8-7d41-4f18-b3e6-4c1202e350b6

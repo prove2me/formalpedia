@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WrongSignGauss_ip_smul_right
 -- name    : GlobalTheory.WrongSignGauss.ip_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:18:53.041963+00:00
 -- url     : https://prove2.me/theorems/a3eddd71-26c9-4140-bcb6-710043632ea5

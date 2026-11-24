@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_start_notTypeIII
 -- name    : ULHC.start_notTypeIII
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:44:24.730767+00:00
 -- url     : https://prove2.me/theorems/725c82ce-c896-465f-a86d-8dcbf1d66b2e

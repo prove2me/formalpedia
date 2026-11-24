@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_connected
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-28T01:32:07.364995+00:00
 -- url     : https://prove2.me/submissions/43049297-f996-4a96-8bd2-2e3e3fd635ac
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Mathlib.Combinatorics.SimpleGraph.Connectivity.Connected

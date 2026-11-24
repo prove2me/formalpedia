@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_polyOriginIdeal_isMaximal_f9e3f262b184
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_polyOriginIdeal_isMaximal_f9e3f262b184
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:25:28.256899+00:00
 -- url     : https://prove2.me/theorems/c76334df-c39e-49ed-8ac2-66c0780fe4e9

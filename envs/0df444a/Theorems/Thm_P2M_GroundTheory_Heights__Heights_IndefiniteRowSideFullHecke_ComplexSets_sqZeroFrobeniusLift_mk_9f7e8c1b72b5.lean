@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_sqZeroFrobeniusLift_mk_9f7e8c1b72b5
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_sqZeroFrobeniusLift_mk_9f7e8c1b72b5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:25:29.422916+00:00
 -- url     : https://prove2.me/theorems/05270d87-932d-4267-9b76-ccdffe3bcf9f

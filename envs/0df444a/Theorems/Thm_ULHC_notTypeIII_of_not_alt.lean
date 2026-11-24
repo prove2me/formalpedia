@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_notTypeIII_of_not_alt
 -- name    : ULHC.notTypeIII_of_not_alt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:43:42.125323+00:00
 -- url     : https://prove2.me/theorems/a0be6adf-be06-4c09-beae-2c773e075b51

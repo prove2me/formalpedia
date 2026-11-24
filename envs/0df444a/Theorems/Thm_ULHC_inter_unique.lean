@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_inter_unique
 -- name    : ULHC.inter_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:28:47.031811+00:00
 -- url     : https://prove2.me/theorems/dc480aed-fa4b-4a2f-889b-4baaa3522a10

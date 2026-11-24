@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_projectiveLine_dim_b502498be087
 -- name    : P2M_GroundTheory_Heights__Heights_Model_projectiveLine_dim_b502498be087
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:28:40.257093+00:00
 -- url     : https://prove2.me/theorems/3b6f11ab-ec3a-4c38-894f-ccb14314ebd4

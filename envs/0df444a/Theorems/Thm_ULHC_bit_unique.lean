@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_bit_unique
 -- name    : ULHC.bit_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:40:54.637505+00:00
 -- url     : https://prove2.me/theorems/d2217e4f-8457-462e-ad1e-f3a063523d37

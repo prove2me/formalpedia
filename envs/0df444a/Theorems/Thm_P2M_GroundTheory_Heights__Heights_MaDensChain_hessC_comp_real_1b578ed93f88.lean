@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MaDensChain_hessC_comp_real_1b578ed93f88
 -- name    : P2M_GroundTheory_Heights__Heights_MaDensChain_hessC_comp_real_1b578ed93f88
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:34.982289+00:00
 -- url     : https://prove2.me/theorems/79d50ad7-5e3d-49da-8a5a-41aa1f38c163

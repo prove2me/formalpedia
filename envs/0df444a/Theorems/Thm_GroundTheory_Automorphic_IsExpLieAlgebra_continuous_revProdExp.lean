@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_continuous_revProdExp
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.continuous_revProdExp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:37:48.504125+00:00
 -- url     : https://prove2.me/theorems/3f18ef89-ac0a-4753-b234-b3e688d530a2

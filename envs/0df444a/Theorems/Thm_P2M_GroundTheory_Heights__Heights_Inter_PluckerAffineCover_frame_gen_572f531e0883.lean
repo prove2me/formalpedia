@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PluckerAffineCover_frame_gen_572f531e0883
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PluckerAffineCover_frame_gen_572f531e0883
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:26:50.399502+00:00
 -- url     : https://prove2.me/theorems/3fab6de1-b935-4c77-9a1b-fb29689bdb56

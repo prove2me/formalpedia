@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_HasGen_of_gen
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.HasGen.of_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:23:15.120388+00:00
 -- url     : https://prove2.me/theorems/ef44075e-4ff0-41ca-88b4-272caecfa5a3

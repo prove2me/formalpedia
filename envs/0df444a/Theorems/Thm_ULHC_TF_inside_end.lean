@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_inside_end
 -- name    : ULHC.TF.inside_end
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:46:29.086477+00:00
 -- url     : https://prove2.me/theorems/73c498b5-a6f7-4691-9124-61e4784af74d

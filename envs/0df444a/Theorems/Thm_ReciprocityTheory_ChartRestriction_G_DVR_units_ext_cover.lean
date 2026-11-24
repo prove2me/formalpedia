@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_units_ext_cover
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.units_ext_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:12:29.181142+00:00
 -- url     : https://prove2.me/theorems/4b4976ec-5388-4439-957a-adacfa214578

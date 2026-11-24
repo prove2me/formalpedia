@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_omAct_eq_Rop_add_Lop
 -- name    : FockRL.omAct_eq_Rop_add_Lop
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:30:04.570605+00:00
 -- url     : https://prove2.me/theorems/99420c6f-a679-4f89-98a6-786c6b4df24c

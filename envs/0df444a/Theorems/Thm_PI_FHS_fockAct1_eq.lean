@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FHS_fockAct1_eq
 -- name    : PI.FHS.fockAct1_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:29:49.365366+00:00
 -- url     : https://prove2.me/theorems/88a53fb4-ab1c-4fd8-bf3d-fc54a13acbed

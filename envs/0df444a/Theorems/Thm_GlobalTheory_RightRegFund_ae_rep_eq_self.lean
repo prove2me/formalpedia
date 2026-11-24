@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RightRegFund_ae_rep_eq_self
 -- name    : GlobalTheory.RightRegFund.ae_rep_eq_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:16:00.76232+00:00
 -- url     : https://prove2.me/theorems/e0a332cc-297c-430d-b602-2d13a4f5d40f

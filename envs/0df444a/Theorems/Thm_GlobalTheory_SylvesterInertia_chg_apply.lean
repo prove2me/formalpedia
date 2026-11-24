@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SylvesterInertia_chg_apply
 -- name    : GlobalTheory.SylvesterInertia.chg_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:30.981618+00:00
 -- url     : https://prove2.me/theorems/e2423b53-730d-41b8-83e1-8d54d753ad2e

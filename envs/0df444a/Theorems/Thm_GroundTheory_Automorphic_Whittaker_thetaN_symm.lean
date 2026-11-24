@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_thetaN_symm
 -- name    : GroundTheory.Automorphic.Whittaker.thetaN_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:26:10.577797+00:00
 -- url     : https://prove2.me/theorems/649559aa-d965-4569-bff4-e1328534e830

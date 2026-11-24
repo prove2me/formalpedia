@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_connected__p2m_2aa9d4d8_ca19_4a3e_94b2_47d01f3eb35e_a1
 -- name    : WilliamsonShmoys.maximal_drawable_graph_connected__p2m_2aa9d4d8_ca19_4a3e_94b2_47d01f3eb35e_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T18:26:28.707389+00:00
 -- url     : https://prove2.me/theorems/edef7c40-3af7-4dfb-a988-ccba8165ed88

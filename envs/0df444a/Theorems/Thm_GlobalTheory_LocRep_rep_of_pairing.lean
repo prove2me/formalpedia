@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocRep_rep_of_pairing
 -- name    : GlobalTheory.LocRep.rep_of_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:10:03.881944+00:00
 -- url     : https://prove2.me/theorems/33211949-77cc-480f-a3df-07ce1a8ffa14

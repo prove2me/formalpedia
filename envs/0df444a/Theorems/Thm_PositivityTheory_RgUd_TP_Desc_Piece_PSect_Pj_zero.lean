@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PSect_Pj_zero
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PSect.Pj_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:11:02.013987+00:00
 -- url     : https://prove2.me/theorems/94a05f08-c27f-40df-9955-ffe4c5faae91

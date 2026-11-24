@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_end_corners
 -- name    : ULHC.end_corners
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:37:16.591043+00:00
 -- url     : https://prove2.me/theorems/874e315c-3db1-4019-90c9-3cb997b2ee5b

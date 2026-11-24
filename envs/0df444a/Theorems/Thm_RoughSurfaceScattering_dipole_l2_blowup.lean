@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_dipole_l2_blowup
 -- name    : RoughSurfaceScattering.dipole_l2_blowup
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T03:43:57.997929+00:00
 -- url     : https://prove2.me/theorems/deea2383-3612-4153-81b6-830e122db20e

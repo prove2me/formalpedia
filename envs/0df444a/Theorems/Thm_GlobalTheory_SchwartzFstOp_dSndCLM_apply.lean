@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzFstOp_dSndCLM_apply
 -- name    : GlobalTheory.SchwartzFstOp.dSndCLM_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:27.236687+00:00
 -- url     : https://prove2.me/theorems/e6150710-4292-48ab-b614-e15737d8738a

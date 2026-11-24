@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_frame_of_allConn
 -- name    : ULHC.frame_of_allConn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:28:07.614456+00:00
 -- url     : https://prove2.me/theorems/cf85f623-31d6-4364-8de9-8c107b65afee

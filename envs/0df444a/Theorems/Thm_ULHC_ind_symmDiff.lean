@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_ind_symmDiff
 -- name    : ULHC.ind_symmDiff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:44:11.338846+00:00
 -- url     : https://prove2.me/theorems/16951508-4c3d-40c1-ad49-9f1871d90ecf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_other_other
 -- name    : ULHC.TF.other_other
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:46:15.998985+00:00
 -- url     : https://prove2.me/theorems/d00b5b70-6ccd-45b4-9d0c-8234647f0a78

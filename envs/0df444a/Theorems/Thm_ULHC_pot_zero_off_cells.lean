@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_pot_zero_off_cells
 -- name    : ULHC.pot_zero_off_cells
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:51:20.238207+00:00
 -- url     : https://prove2.me/theorems/5644b952-c337-43f3-9fbc-11af3d8016cb

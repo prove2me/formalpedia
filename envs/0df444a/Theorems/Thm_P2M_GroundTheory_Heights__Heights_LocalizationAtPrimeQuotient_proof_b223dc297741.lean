@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocalizationAtPrimeQuotient_proof_b223dc297741
 -- name    : P2M_GroundTheory_Heights__Heights_LocalizationAtPrimeQuotient_proof_b223dc297741
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:26:14.197255+00:00
 -- url     : https://prove2.me/theorems/e5dfdb53-44de-4671-ac97-91622fc62130

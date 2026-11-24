@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MonomialMap_evalCone_chartMonomial_ne_zero_f3bbdf95a0d6
 -- name    : P2M_GroundTheory_Heights__Heights_MonomialMap_evalCone_chartMonomial_ne_zero_f3bbdf95a0d6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:29:01.142214+00:00
 -- url     : https://prove2.me/theorems/540e5f4a-5636-49ff-95fc-6b28cd0937f5

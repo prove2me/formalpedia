@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_facial_count__p2m_6cba1714_c930_4f88_92aa_317652cac9b2_a1
 -- name    : WilliamsonShmoys.planar_facial_count__p2m_6cba1714_c930_4f88_92aa_317652cac9b2_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:54:37.502258+00:00
 -- url     : https://prove2.me/theorems/2930c541-cd90-4895-988f-c75e47ffb674

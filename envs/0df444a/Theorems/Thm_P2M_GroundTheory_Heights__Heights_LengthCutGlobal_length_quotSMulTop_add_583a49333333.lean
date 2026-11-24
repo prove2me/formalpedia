@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LengthCutGlobal_length_quotSMulTop_add_583a49333333
 -- name    : P2M_GroundTheory_Heights__Heights_LengthCutGlobal_length_quotSMulTop_add_583a49333333
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:26:01.772246+00:00
 -- url     : https://prove2.me/theorems/ef7a19e2-0555-4af1-b8ed-4280a79e679e

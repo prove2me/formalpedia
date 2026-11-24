@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_FourierJacobiGroup_colE_zero
 -- name    : GlobalTheory.RootEx.FourierJacobiGroup.colE_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:11:37.006854+00:00
 -- url     : https://prove2.me/theorems/f0dedba2-34ce-4436-9037-e56c49d9cb2f

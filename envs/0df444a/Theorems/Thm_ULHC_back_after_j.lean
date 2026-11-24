@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_back_after_j
 -- name    : ULHC.back_after_j
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:39:13.059012+00:00
 -- url     : https://prove2.me/theorems/ad971a45-3b81-45e9-8129-8a1446db24b6

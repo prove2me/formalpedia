@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_IsInv_add
 -- name    : Formalism.IndefR.Fin.Four.IsInv.add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:20:44.949614+00:00
 -- url     : https://prove2.me/theorems/253b21de-035f-41ac-ad8a-d321813896da

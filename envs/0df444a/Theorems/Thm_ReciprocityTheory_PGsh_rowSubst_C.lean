@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_rowSubst_C
 -- name    : ReciprocityTheory.PGsh.rowSubst_C
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:21:58.010347+00:00
 -- url     : https://prove2.me/theorems/26a25590-7c58-4c24-bed5-a6529ec99ead

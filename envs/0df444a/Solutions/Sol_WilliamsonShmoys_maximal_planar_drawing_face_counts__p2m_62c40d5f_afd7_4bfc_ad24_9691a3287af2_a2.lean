@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_drawing_face_counts__p2m_62c40d5f_afd7_4bfc_ad24_9691a3287af2_a2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:20:05.150678+00:00
 -- url     : https://prove2.me/submissions/7b04de4d-01dc-43e8-8e81-2b30165d294e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

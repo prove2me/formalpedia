@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_corner_step
 -- name    : ULHC.corner_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:42:34.183278+00:00
 -- url     : https://prove2.me/theorems/2db09386-2058-42dc-bd88-5575c46d50e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_GermExist_unit_comp_prim__a51190ddb949
 -- name    : P2M_GlobalTheory_GermExist_unit_comp_prim__a51190ddb949
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:25:19.248827+00:00
 -- url     : https://prove2.me/theorems/3cee8bf3-de35-49fe-8db1-9aef5e338e8e

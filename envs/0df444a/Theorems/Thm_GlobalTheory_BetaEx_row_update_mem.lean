@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaEx_row_update_mem
 -- name    : GlobalTheory.BetaEx.row_update_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:12:06.661741+00:00
 -- url     : https://prove2.me/theorems/d528e19c-d0cf-4979-a39c-b11ee23f8890

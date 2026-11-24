@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_end_flip_sep
 -- name    : ULHC.end_flip_sep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:37:41.755998+00:00
 -- url     : https://prove2.me/theorems/456e26f3-fa72-4da7-9ee1-a6cec4f34565

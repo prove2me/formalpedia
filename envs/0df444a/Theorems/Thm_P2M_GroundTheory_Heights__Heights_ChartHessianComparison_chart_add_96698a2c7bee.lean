@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartHessianComparison_chart_add_96698a2c7bee
 -- name    : P2M_GroundTheory_Heights__Heights_ChartHessianComparison_chart_add_96698a2c7bee
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:12.433113+00:00
 -- url     : https://prove2.me/theorems/dbfc6148-ad82-4e2b-9179-1525029cb513

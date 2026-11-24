@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_pullbackIsoAlong_hom_ed4907f849de
 -- name    : P2M_GroundTheory_Heights__Heights_Model_pullbackIsoAlong_hom_ed4907f849de
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:28:53.102846+00:00
 -- url     : https://prove2.me/theorems/285ca040-11d8-40f3-b87a-58beb8881c7a

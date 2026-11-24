@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_u_across
 -- name    : ULHC.u_across
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:17:15.458055+00:00
 -- url     : https://prove2.me/theorems/940a7094-7744-464b-b05c-4f541cfa92b4

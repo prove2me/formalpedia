@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_isJacobsonRing_int_5cab28bc29cb
 -- name    : P2M_GroundTheory_Heights__Heights_Model_isJacobsonRing_int_5cab28bc29cb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:28:49.301811+00:00
 -- url     : https://prove2.me/theorems/a0f9d4b3-5a9b-4c13-8222-a4d4e74eec0c

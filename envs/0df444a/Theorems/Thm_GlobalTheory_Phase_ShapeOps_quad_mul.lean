@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_ShapeOps_quad_mul
 -- name    : GlobalTheory.Phase.ShapeOps.quad_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:10:05.098481+00:00
 -- url     : https://prove2.me/theorems/d0a78829-b1e9-47da-9fef-bb7199484fc1

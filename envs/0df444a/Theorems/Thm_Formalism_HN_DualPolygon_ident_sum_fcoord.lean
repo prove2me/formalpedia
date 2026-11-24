@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_ident_sum_fcoord
 -- name    : Formalism.HN.DualPolygon.ident_sum_fcoord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:55:51.890333+00:00
 -- url     : https://prove2.me/theorems/2c1183dc-3055-4c65-9401-5b4b064c7fc0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_alt_of_pattern
 -- name    : ULHC.alt_of_pattern
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:42:16.476831+00:00
 -- url     : https://prove2.me/theorems/2210cc2d-7c9b-4023-95e7-a87824891076

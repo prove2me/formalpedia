@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for WilliamsonShmoys.connected_planar_augmentation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-26T07:36:25.563319+00:00
 -- url     : https://prove2.me/submissions/1728b5b4-9d28-4799-9221-44e11741ebd8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_mul_not_mem_prime_iff_cb34b94c57f7
 -- name    : P2M_GroundTheory_Heights__Heights_Model_mul_not_mem_prime_iff_cb34b94c57f7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:28:47.697804+00:00
 -- url     : https://prove2.me/theorems/859ba2e6-b95b-482e-811d-e16552ce9957

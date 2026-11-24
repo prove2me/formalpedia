@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Inhab_mem_splitLat
 -- name    : GlobalTheory.SgGlob.Inhab.mem_splitLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:18:06.999561+00:00
 -- url     : https://prove2.me/theorems/489f3a81-5ee2-465d-91a3-1b6a36e02660

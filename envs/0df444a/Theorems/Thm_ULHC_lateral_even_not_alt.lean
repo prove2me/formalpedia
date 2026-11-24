@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_lateral_even_not_alt
 -- name    : ULHC.lateral_even_not_alt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:44:40.602174+00:00
 -- url     : https://prove2.me/theorems/9a16656c-39a0-4f26-83dc-bfbd06507234

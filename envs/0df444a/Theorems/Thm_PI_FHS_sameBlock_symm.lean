@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FHS_sameBlock_symm
 -- name    : PI.FHS.sameBlock_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:29:26.872818+00:00
 -- url     : https://prove2.me/theorems/8cc7d2fd-14ae-42df-8261-1b8dc00a67e5

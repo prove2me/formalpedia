@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TwistFin_psi_of_isHomogeneous_43e37c81185f
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TwistFin_psi_of_isHomogeneous_43e37c81185f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:43.700986+00:00
 -- url     : https://prove2.me/theorems/01b06606-5328-479f-b957-84a38fc6837c

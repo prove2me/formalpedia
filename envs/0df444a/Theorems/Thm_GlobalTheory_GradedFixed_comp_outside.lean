@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GradedFixed_comp_outside
 -- name    : GlobalTheory.GradedFixed.comp_outside
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:13:06.82493+00:00
 -- url     : https://prove2.me/theorems/df2b7638-9879-4cd8-bd45-4be7a197429d

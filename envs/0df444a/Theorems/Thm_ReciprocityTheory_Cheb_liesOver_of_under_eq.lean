@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_liesOver_of_under_eq
 -- name    : ReciprocityTheory.Cheb.liesOver_of_under_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:21:17.617381+00:00
 -- url     : https://prove2.me/theorems/85c8f50a-f2c3-4ee0-ac39-0c42babdbbcb

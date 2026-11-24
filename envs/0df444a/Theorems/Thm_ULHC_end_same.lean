@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_end_same
 -- name    : ULHC.end_same
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:58.604184+00:00
 -- url     : https://prove2.me/theorems/242ba991-690e-46b5-a452-42e729900785

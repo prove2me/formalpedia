@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_lTensor_complex_smul_450d1267bf4b
 -- name    : P2M_GroundTheory_Heights__Heights_lTensor_complex_smul_450d1267bf4b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:21:47.595094+00:00
 -- url     : https://prove2.me/theorems/fa5c4f32-1214-4148-aca0-4e5c9ca952c3

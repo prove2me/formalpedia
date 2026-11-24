@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_formPoly_const_mul
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.formPoly_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:24.869583+00:00
 -- url     : https://prove2.me/theorems/2867879e-dc49-4749-bef6-19c5d876ea50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GradedFixed_WA_mono
 -- name    : GlobalTheory.GradedFixed.WA_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:12:57.424207+00:00
 -- url     : https://prove2.me/theorems/0dae492b-840a-43e6-8989-d7b552e5f3bd

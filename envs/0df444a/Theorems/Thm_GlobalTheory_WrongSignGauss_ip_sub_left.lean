@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WrongSignGauss_ip_sub_left
 -- name    : GlobalTheory.WrongSignGauss.ip_sub_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:18:40.297814+00:00
 -- url     : https://prove2.me/theorems/352567d0-57c6-4c35-8ffd-6819e84aa1c3

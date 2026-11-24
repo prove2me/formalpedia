@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_HaarFactor_fiber_integral
 -- name    : GlobalTheory.SplitWeil.HaarFactor.fiber_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:18:32.25058+00:00
 -- url     : https://prove2.me/theorems/870e60cc-92f6-4a74-b8e1-a19d21638660

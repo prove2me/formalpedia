@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_fsum_neg
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.fsum_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:12:30.020132+00:00
 -- url     : https://prove2.me/theorems/c8598f5f-b6ea-4fe4-a8c3-9c8449dfec2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_front_to_back
 -- name    : ULHC.front_to_back
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:27:21.599228+00:00
 -- url     : https://prove2.me/theorems/17b7f6ea-8019-4c99-973b-751db3bfc4a9

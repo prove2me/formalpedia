@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MaDensChain_dz_cplx_comp_aa626fd8a6ad
 -- name    : P2M_GroundTheory_Heights__Heights_MaDensChain_dz_cplx_comp_aa626fd8a6ad
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:10:02.420999+00:00
 -- url     : https://prove2.me/theorems/e2df97c1-7957-464b-861b-4316c846fd67

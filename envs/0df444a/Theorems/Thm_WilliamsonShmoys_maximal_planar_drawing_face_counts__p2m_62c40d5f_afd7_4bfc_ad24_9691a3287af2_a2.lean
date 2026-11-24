@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_face_counts__p2m_62c40d5f_afd7_4bfc_ad24_9691a3287af2_a2
 -- name    : WilliamsonShmoys.maximal_planar_drawing_face_counts__p2m_62c40d5f_afd7_4bfc_ad24_9691a3287af2_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:57:33.624691+00:00
 -- url     : https://prove2.me/theorems/5f4b31de-07d6-4550-bc2e-2bb318dd0027

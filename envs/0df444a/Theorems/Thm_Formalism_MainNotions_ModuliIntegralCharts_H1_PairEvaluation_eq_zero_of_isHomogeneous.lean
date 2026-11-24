@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_PairEvaluation_eq_zero_of_isHomogeneous
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.PairEvaluation.eq_zero_of_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:23:58.281342+00:00
 -- url     : https://prove2.me/theorems/d2e01d19-248b-4427-9b90-8f47e101bf19

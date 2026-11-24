@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_isUnit_of_aug
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.isUnit_of_aug
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:23:05.36493+00:00
 -- url     : https://prove2.me/theorems/48c822fe-d333-43ce-a445-d48e0caed775

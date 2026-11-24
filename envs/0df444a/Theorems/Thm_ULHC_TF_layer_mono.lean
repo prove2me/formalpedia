@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_layer_mono
 -- name    : ULHC.TF.layer_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:46:29.896765+00:00
 -- url     : https://prove2.me/theorems/bbb39194-a6bc-4c76-bc66-849439b99138

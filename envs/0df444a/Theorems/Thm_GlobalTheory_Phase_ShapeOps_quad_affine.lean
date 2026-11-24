@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_ShapeOps_quad_affine
 -- name    : GlobalTheory.Phase.ShapeOps.quad_affine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:16:13.367442+00:00
 -- url     : https://prove2.me/theorems/5c1ab9e2-aa3c-4575-8135-7be2dbddeb3b

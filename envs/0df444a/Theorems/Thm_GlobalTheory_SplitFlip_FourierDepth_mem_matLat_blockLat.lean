@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_FourierDepth_mem_matLat_blockLat
 -- name    : GlobalTheory.SplitFlip.FourierDepth.mem_matLat_blockLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:18:00.215803+00:00
 -- url     : https://prove2.me/theorems/018da834-0185-4498-be88-2e53e4a0abbc

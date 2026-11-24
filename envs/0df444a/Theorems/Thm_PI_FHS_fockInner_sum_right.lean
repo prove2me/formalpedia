@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FHS_fockInner_sum_right
 -- name    : PI.FHS.fockInner_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:29:35.406368+00:00
 -- url     : https://prove2.me/theorems/57803218-af6f-41c2-a5e1-82bc20ce7096

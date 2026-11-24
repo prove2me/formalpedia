@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightGen_HasGen_div
 -- name    : GlobalTheory.WeightGen.HasGen.div
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:25:16.68173+00:00
 -- url     : https://prove2.me/theorems/78426b59-f54f-4d96-adec-c2615bae3670

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_ValidSeqA_toValidSeq
 -- name    : ULHC.ValidSeqA.toValidSeq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:45:46.514733+00:00
 -- url     : https://prove2.me/theorems/2da2b55b-364d-450b-8868-c0dc9bc0a001

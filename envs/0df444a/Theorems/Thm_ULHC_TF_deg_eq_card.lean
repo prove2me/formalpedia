@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_deg_eq_card
 -- name    : ULHC.TF.deg_eq_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:47:05.968121+00:00
 -- url     : https://prove2.me/theorems/c03d8979-9ddc-4e99-9df9-77ace12d3ba9
