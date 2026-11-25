@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_MultiHomogZ_isMultiHomog_of_blkWtZ
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.MultiHomogZ.isMultiHomog_of_blkWtZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:22:45.054504+00:00
 -- url     : https://prove2.me/theorems/e1486e77-0f94-51ee-921a-a207ee5ca69b

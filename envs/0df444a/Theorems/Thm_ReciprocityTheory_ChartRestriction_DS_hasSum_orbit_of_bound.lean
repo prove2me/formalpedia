@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_hasSum_orbit_of_bound
 -- name    : ReciprocityTheory.ChartRestriction.DS.hasSum_orbit_of_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:57:24.578171+00:00
 -- url     : https://prove2.me/theorems/4afe4971-08ee-4b8e-abad-0d8023a8d938

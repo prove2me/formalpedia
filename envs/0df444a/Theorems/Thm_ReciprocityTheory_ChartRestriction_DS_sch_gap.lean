@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_sch_gap
 -- name    : ReciprocityTheory.ChartRestriction.DS.sch_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:12:48.0332+00:00
 -- url     : https://prove2.me/theorems/994bd1fb-81e3-4451-9320-5c87e9704dd7

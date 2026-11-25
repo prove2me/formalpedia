@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_RealPlaceEmbeddings_finrank_Psi
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.RealPlaceEmbeddings.finrank_Psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:23:17.327437+00:00
 -- url     : https://prove2.me/theorems/a456e426-31d9-5925-8e8c-e931dfae47d4

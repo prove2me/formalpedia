@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_prod_pow_natDegree_coeff
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.prod_pow_natDegree_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:25:17.419098+00:00
 -- url     : https://prove2.me/theorems/f96ff1f3-c8b6-476a-95cb-b05061184856

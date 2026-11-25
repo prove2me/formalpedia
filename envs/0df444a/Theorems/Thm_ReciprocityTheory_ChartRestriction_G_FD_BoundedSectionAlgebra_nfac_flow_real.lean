@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_BoundedSectionAlgebra_nfac_flow_real
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.BoundedSectionAlgebra.nfac_flow_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:11:38.717542+00:00
 -- url     : https://prove2.me/theorems/486f918b-a414-5edf-acb8-38b292a33f6a

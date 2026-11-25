@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_box_product_transition_identity
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.box_product_transition_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:13:49.109454+00:00
 -- url     : https://prove2.me/theorems/444618a1-9e0c-57ac-9a71-eb45bc3f1ee5

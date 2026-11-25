@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FlowCoefficientBounds_herm_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FlowCoefficientBounds.herm_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:13:59.141705+00:00
 -- url     : https://prove2.me/theorems/3f4bf034-2454-566c-a7bd-eaa89e2bdda8

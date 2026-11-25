@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_exists_ltSeries_lift
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.exists_ltSeries_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:23:04.847997+00:00
 -- url     : https://prove2.me/theorems/c77452d1-839d-590f-adb3-8b844b21a564

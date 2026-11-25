@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_Ps1_hasFDerivAt_psM
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.Ps1.hasFDerivAt_psM
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:06:06.071349+00:00
 -- url     : https://prove2.me/theorems/16798dc6-8957-4ea5-9179-204ce073d0dd

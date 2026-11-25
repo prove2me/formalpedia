@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementJacquet_comap_parabolicMeasure
 -- name    : GroundTheory.Automorphic.GodementJacquet.comap_parabolicMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:31:25.386984+00:00
 -- url     : https://prove2.me/theorems/4ae0f1ed-a15e-53fa-9242-1d8b8e3af9a6

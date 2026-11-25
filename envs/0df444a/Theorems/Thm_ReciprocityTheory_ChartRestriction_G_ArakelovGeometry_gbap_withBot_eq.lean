@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_gbap_withBot_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gbap_withBot_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:09:21.69559+00:00
 -- url     : https://prove2.me/theorems/d29c8c41-57ec-5932-911b-aa8bfc58856b

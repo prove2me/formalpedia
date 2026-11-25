@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PeriodLatticeCountable_compact_reps
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PeriodLatticeCountable.compact_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:22:16.200386+00:00
 -- url     : https://prove2.me/theorems/f6c79374-ae26-5a19-ae4f-0b6f8af5a594

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_AdmissibleHermitianColumns_leadingMinor_add_rankOne
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.AdmissibleHermitianColumns.leadingMinor_add_rankOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:11:27.205115+00:00
 -- url     : https://prove2.me/theorems/ac12be74-e71f-5ffc-a1be-91c19eb48063

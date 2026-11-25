@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxDetUnique_gen_ratio
 -- name    : GlobalTheory.BoxDetUnique.gen_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:02:58.558802+00:00
 -- url     : https://prove2.me/theorems/7990b8f5-1f6e-44b1-8753-499f9ef09851

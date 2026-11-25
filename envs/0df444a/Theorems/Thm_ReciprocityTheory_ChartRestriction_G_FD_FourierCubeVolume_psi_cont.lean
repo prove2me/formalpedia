@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FourierCubeVolume_psi_cont
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FourierCubeVolume.psi_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:18:20.086605+00:00
 -- url     : https://prove2.me/theorems/06033057-5d18-4670-8fc9-4f73f01ee60b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_abs_le_qf_of_min
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.abs_le_qf_of_min
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:11:29.906231+00:00
 -- url     : https://prove2.me/theorems/c8612f89-1203-418e-9478-528c7e46b779

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_AffPres_secHom_surjective
 -- name    : ReciprocityTheory.AnForm.R.AffPres.secHom_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:39:02.81425+00:00
 -- url     : https://prove2.me/theorems/08b99bf5-a480-56ef-8925-f39c5c6501ff

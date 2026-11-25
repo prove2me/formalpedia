@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FrequencyIndexing_pairing
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FrequencyIndexing.pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:18:28.221392+00:00
 -- url     : https://prove2.me/theorems/89664dfe-f314-591e-9af0-cd13329590fd

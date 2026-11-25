@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_openAtlas_isPsh_bba4d872c2eb
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_openAtlas_isPsh_bba4d872c2eb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:35:56.118464+00:00
 -- url     : https://prove2.me/theorems/96f846c6-bddd-4481-84ec-7a1a90738b12

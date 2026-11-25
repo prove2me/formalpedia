@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_complexStructure_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.complexStructure_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:19:44.164712+00:00
 -- url     : https://prove2.me/theorems/8c6e442a-f747-5d3d-b8cf-7bd3518dd3dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantNormShapes_normOnto_of_shape
 -- name    : Formalism.L2.SG.Pf.discriminantNormShapes.normOnto_of_shape
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:56:24.972304+00:00
 -- url     : https://prove2.me/theorems/2f6185d8-7ca2-5e31-8437-185918aebdf4

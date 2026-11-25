@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_norm_mdisc_le_of_abs_le
 -- name    : ReciprocityTheory.AnForm.A.norm_mdisc_le_of_abs_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:54:00.32689+00:00
 -- url     : https://prove2.me/theorems/2bf4218c-169b-4cb1-bd39-b78e292e674c

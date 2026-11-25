@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_exOmT_of_open
 -- name    : PI.VolStabW.exOmT_of_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:43:56.067272+00:00
 -- url     : https://prove2.me/theorems/f048ab9f-d71c-4bf6-a94c-bfb2a54e7580

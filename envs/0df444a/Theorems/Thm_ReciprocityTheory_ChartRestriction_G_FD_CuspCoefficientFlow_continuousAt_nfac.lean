@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_CuspCoefficientFlow_continuousAt_nfac
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.CuspCoefficientFlow.continuousAt_nfac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:13:03.229053+00:00
 -- url     : https://prove2.me/theorems/9419c98a-626e-4dd2-a693-39553e0ab8d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntersectionBounds_degreeSpace_le_exact_of_uniform
 -- name    : IntersectionBounds.degreeSpace_le_exact_of_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:49:27.778238+00:00
 -- url     : https://prove2.me/theorems/b50a6171-eeef-5fcd-bac4-ea2910be6238

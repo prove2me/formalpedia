@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_io_torus_diag
 -- name    : PI.WGL.io_torus_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:52:03.412346+00:00
 -- url     : https://prove2.me/theorems/69b50471-5661-573b-9a12-09a0f3e7f3ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_block_eq
 -- name    : ReciprocityTheory.AnForm.M.block_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:42:03.553062+00:00
 -- url     : https://prove2.me/theorems/517da1e0-9c1f-4a03-97fa-b2d50d3f7e59

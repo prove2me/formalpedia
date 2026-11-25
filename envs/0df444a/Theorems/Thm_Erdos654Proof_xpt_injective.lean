@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos654Proof_xpt_injective
 -- name    : Erdos654Proof.xpt_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:47:41.262745+00:00
 -- url     : https://prove2.me/theorems/f3c67a0f-a784-4217-a328-55915f5acb08

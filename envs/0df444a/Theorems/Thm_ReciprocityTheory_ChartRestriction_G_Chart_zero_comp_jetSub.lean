@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_zero_comp_jetSub
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.zero_comp_jetSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:10:26.185644+00:00
 -- url     : https://prove2.me/theorems/1d0a3069-4328-4f2a-97a5-6debb2b50faa

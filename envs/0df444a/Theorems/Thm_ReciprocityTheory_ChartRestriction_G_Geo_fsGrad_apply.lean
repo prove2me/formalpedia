@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_fsGrad_apply
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.fsGrad_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:23:24.236268+00:00
 -- url     : https://prove2.me/theorems/4cdc388d-fbf4-4dc2-aeeb-4935542eb1b2

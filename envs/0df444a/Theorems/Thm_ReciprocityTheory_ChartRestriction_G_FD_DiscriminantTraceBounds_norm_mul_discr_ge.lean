@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_DiscriminantTraceBounds_norm_mul_discr_ge
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.DiscriminantTraceBounds.norm_mul_discr_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:16:45.303921+00:00
 -- url     : https://prove2.me/theorems/13555090-30a4-5efe-b2c0-78c6ee943aed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommPairing_val_div_eq
 -- name    : GlobalTheory.CommPairing.val_div_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:17:27.543066+00:00
 -- url     : https://prove2.me/theorems/dfaf28ff-a55c-459d-9459-c59554a625f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_fsLp_smul_I
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.fsLp_smul_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:23:40.752018+00:00
 -- url     : https://prove2.me/theorems/e5bd9524-8c07-4dc8-9df1-d0981557e1d7

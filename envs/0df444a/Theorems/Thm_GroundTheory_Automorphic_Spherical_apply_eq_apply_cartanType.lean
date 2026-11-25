@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_apply_eq_apply_cartanType
 -- name    : GroundTheory.Automorphic.Spherical.apply_eq_apply_cartanType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:30:04.72987+00:00
 -- url     : https://prove2.me/theorems/c27fd714-48c1-4c81-9052-76ffb87f5b5d

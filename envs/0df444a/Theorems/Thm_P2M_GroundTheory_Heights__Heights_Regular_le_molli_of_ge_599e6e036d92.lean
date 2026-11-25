@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_le_molli_of_ge_599e6e036d92
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_le_molli_of_ge_599e6e036d92
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:17:56.151716+00:00
 -- url     : https://prove2.me/theorems/1015e647-fa34-4767-b169-97efa5f644db

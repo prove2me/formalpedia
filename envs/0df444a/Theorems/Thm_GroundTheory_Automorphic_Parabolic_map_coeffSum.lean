@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_map_coeffSum
 -- name    : GroundTheory.Automorphic.Parabolic.map_coeffSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:48:59.109076+00:00
 -- url     : https://prove2.me/theorems/9c3b84f1-6d6c-4dec-9f09-6d6bdf7db3ac

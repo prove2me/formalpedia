@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_J2_tail_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.J2.tail_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:09:23.415436+00:00
 -- url     : https://prove2.me/theorems/6ccc3cfd-2072-481b-81d5-105919b00160

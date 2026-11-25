@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_HW_KType_conj_d__50b083afe397
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_HW_KType_conj_d__50b083afe397
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:15:40.091157+00:00
 -- url     : https://prove2.me/theorems/e3290726-04d5-5061-9c4b-b0fcecb64411

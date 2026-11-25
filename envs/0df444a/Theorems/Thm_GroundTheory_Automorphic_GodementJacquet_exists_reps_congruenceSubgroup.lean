@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementJacquet_exists_reps_congruenceSubgroup
 -- name    : GroundTheory.Automorphic.GodementJacquet.exists_reps_congruenceSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:30.088039+00:00
 -- url     : https://prove2.me/theorems/f5d7a42b-84a8-5dd2-8796-e5bbd5e181c3

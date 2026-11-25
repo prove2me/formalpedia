@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_linear_mul_piece_mem_polys
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.linear_mul_piece_mem_polys
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:06:02.917891+00:00
 -- url     : https://prove2.me/theorems/d6df6d72-e383-4cc1-befb-711f895fdffb

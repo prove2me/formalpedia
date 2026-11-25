@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_FamilyMeetLattice_alg_eq
 -- name    : Formalism.L2.SG.Pf.FamilyMeetLattice.alg_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:48:52.22695+00:00
 -- url     : https://prove2.me/theorems/3e73e0d7-de16-5194-83af-a2f3fdc63230

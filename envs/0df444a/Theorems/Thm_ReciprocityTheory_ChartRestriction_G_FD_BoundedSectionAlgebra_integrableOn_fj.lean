@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_BoundedSectionAlgebra_integrableOn_fj
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.BoundedSectionAlgebra.integrableOn_fj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:27:07.117192+00:00
 -- url     : https://prove2.me/theorems/3557f956-2b02-45c5-8a6a-4e18d0d59302

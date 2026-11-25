@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_BL_hermitianForm_liftVec_firstVector
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.BL.hermitianForm_liftVec_firstVector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:48:06.180803+00:00
 -- url     : https://prove2.me/theorems/04d6e573-dd6a-4cc7-b02c-40d329c4adaa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_GluingBases_glueAssemble_of
 -- name    : Formalism.L2.SG.Pf.GluingBases.glueAssemble_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:20:30.802512+00:00
 -- url     : https://prove2.me/theorems/ae752667-0e5e-5b53-93b5-dd0da92a4698

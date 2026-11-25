@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_coeff2_Gm
 -- name    : ReciprocityTheory.AnForm.P.coeff2_Gm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:32:30.222439+00:00
 -- url     : https://prove2.me/theorems/8841570e-72e7-58eb-addf-3b9bc9ce68c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_GS_fix_of_perp
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.GS.fix_of_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:49:44.797982+00:00
 -- url     : https://prove2.me/theorems/37258296-2a57-52bc-a6b9-088d885eaaf8

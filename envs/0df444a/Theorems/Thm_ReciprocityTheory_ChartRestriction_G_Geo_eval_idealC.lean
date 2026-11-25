@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_eval_idealC
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.eval_idealC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:23:26.558386+00:00
 -- url     : https://prove2.me/theorems/66ca2296-aab0-53c3-a296-53a0ad55ad85

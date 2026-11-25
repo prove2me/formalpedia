@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_sign_pair_swap
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.sign_pair_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:47:23.855807+00:00
 -- url     : https://prove2.me/theorems/078f4948-6625-4b61-8253-7585f187b590

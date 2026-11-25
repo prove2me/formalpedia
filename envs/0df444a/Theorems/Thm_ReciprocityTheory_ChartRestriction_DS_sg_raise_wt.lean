@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_sg_raise_wt
 -- name    : ReciprocityTheory.ChartRestriction.DS.sg_raise_wt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:01:44.739221+00:00
 -- url     : https://prove2.me/theorems/e8bdbdce-df41-4f8a-ba4e-450e24ce9b30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_lowerStep
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.lowerStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:43:31.274349+00:00
 -- url     : https://prove2.me/theorems/e265716e-c4a9-4d17-be99-b90d31b55263

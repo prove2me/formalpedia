@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_mY
 -- name    : PositivityTheory.Rg.Sw.SP.mY
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:27:03.288136+00:00
 -- url     : https://prove2.me/theorems/7fc9402f-c221-46a8-b017-90e82e4aeb71

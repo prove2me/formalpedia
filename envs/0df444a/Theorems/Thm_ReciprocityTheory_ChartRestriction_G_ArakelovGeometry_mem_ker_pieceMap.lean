@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_mem_ker_pieceMap
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.mem_ker_pieceMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:10:23.155657+00:00
 -- url     : https://prove2.me/theorems/9ea9478a-2fcf-5d18-bc47-c2cc3ed25c5e

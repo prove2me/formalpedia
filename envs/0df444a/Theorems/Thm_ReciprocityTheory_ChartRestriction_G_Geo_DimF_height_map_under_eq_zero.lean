@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_DimF_height_map_under_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.DimF.height_map_under_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:22:53.149431+00:00
 -- url     : https://prove2.me/theorems/fc124691-f578-44f8-8b27-38c12ffb8609

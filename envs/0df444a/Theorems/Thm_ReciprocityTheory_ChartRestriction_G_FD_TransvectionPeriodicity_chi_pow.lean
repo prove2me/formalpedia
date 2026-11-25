@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_TransvectionPeriodicity_chi_pow
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.TransvectionPeriodicity.chi_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:23:22.512396+00:00
 -- url     : https://prove2.me/theorems/f4c9a85a-4ef0-5391-88f0-1fb9f511a2e4

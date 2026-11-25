@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FourierCoefficientMatrices_th_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FourierCoefficientMatrices.th_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:17:28.85635+00:00
 -- url     : https://prove2.me/theorems/519a4b61-aa80-4156-8913-feccd51a11d2

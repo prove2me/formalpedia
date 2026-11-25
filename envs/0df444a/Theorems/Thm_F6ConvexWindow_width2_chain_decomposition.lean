@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_width2_chain_decomposition
 -- name    : F6ConvexWindow.width2_chain_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:13:07.765817+00:00
 -- url     : https://prove2.me/theorems/b92eb706-b02d-4fea-93e4-ccb03406f9b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_trunc_comp_jetSub
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.trunc_comp_jetSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:09:35.622305+00:00
 -- url     : https://prove2.me/theorems/0d7083a7-7480-5796-bc2e-f3273cef9b18

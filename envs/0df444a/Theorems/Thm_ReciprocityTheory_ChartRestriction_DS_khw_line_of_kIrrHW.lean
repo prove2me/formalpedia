@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_khw_line_of_kIrrHW
 -- name    : ReciprocityTheory.ChartRestriction.DS.khw_line_of_kIrrHW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:09:36.503013+00:00
 -- url     : https://prove2.me/theorems/2ed531d7-d3e1-423d-9777-a275499d1425

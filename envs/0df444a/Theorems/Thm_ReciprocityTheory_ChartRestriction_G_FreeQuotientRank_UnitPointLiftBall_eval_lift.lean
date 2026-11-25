@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_UnitPointLiftBall_eval_lift
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.UnitPointLiftBall.eval_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:22:10.876233+00:00
 -- url     : https://prove2.me/theorems/4af8787a-c846-42a5-8ca5-4ab5c521ff3c

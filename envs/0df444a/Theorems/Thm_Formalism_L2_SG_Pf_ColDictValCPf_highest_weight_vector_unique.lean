@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_highest_weight_vector_unique
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.highest_weight_vector_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:33:22.788424+00:00
 -- url     : https://prove2.me/theorems/d38eface-7d2b-4b37-b030-5da4ed6f531a

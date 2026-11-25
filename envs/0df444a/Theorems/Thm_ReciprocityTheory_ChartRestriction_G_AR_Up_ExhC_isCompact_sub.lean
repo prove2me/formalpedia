@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExhC_isCompact_sub
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExhC.isCompact_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:40:10.167948+00:00
 -- url     : https://prove2.me/theorems/e88016b0-f4c2-4aff-8721-92ad23a78e60

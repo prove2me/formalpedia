@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_sameSum_iff_fsum
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.sameSum_iff_fsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:43:59.297936+00:00
 -- url     : https://prove2.me/theorems/e1a983ef-62e4-47ec-9b68-6bd9dad04abb

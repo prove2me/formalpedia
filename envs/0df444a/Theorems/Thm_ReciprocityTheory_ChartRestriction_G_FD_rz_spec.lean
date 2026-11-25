@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_rz_spec
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.rz_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:23:09.842916+00:00
 -- url     : https://prove2.me/theorems/6247f071-be6b-5771-a707-5deb753b423d

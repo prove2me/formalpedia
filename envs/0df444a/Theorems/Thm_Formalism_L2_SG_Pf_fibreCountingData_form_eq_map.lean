@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_fibreCountingData_form_eq_map
 -- name    : Formalism.L2.SG.Pf.fibreCountingData.form_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:23:34.359702+00:00
 -- url     : https://prove2.me/theorems/5ccbdfc0-3712-5276-a106-4df7c897a000

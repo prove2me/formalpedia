@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_FlatBC_piLeft_apply_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.FlatBC.piLeft_apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:17:03.462736+00:00
 -- url     : https://prove2.me/theorems/0956baf3-0cd1-4715-81a2-02d77d2dad9e

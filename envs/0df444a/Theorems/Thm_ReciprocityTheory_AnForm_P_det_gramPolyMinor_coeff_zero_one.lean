@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_det_gramPolyMinor_coeff_zero_one
 -- name    : ReciprocityTheory.AnForm.P.det_gramPolyMinor_coeff_zero_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:12.722514+00:00
 -- url     : https://prove2.me/theorems/6402babe-f455-44e2-b741-3765fd6252ec

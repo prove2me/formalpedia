@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_JacobianCriterionAlt_finrank_cot_complex
 -- name    : ReciprocityTheory.AnForm.R.JacobianCriterionAlt.finrank_cot_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:32:52.576135+00:00
 -- url     : https://prove2.me/theorems/1403014f-cead-59ba-8dae-0b195c1dfd48

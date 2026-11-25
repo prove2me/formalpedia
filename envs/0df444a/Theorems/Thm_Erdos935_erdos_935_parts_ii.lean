@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos935_erdos_935_parts_ii
 -- name    : Erdos935.erdos_935.parts.ii
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:38:58.778596+00:00
 -- url     : https://prove2.me/theorems/e3fd9b3d-2505-5ddf-a806-975e6dc86fca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_resSeries_coeff_succ__6d30f8d603e9
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_resSeries_coeff_succ__6d30f8d603e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:13:29.836934+00:00
 -- url     : https://prove2.me/theorems/dfd1145a-a8e6-465b-b31f-21a91e4facdc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_TWO_lift_unique
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.TWO.lift_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:12:44.620241+00:00
 -- url     : https://prove2.me/theorems/61c61b47-79b0-5299-a50f-04a68029c7bc

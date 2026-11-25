@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_dec_weighted
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.dec_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:49:33.564173+00:00
 -- url     : https://prove2.me/theorems/5d104a7f-bfea-5bfa-8b60-ba8a59eb96b9

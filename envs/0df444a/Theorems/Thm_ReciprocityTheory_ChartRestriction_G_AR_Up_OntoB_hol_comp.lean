@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_OntoB_hol_comp
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.OntoB.hol_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:30:25.234241+00:00
 -- url     : https://prove2.me/theorems/161c6aa8-f16c-4b1e-95ee-66fd78ef8607

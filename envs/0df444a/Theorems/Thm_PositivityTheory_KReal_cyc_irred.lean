@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_cyc_irred
 -- name    : PositivityTheory.KReal.cyc_irred
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:26:52.503778+00:00
 -- url     : https://prove2.me/theorems/72bc0ddb-a113-471a-9200-6efb151dc963

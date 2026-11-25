@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_contDiffOn_of_analyticOnNhd
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.contDiffOn_of_analyticOnNhd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:06:09.790403+00:00
 -- url     : https://prove2.me/theorems/d01148c9-ec0d-5561-a207-d1b720f85480

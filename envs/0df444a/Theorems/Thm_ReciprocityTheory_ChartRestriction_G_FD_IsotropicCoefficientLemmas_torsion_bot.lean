@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_IsotropicCoefficientLemmas_torsion_bot
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.IsotropicCoefficientLemmas.torsion_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:18:40.211182+00:00
 -- url     : https://prove2.me/theorems/992a4853-7df3-503c-8b89-12f5c10bb5d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PolyCoef_polyCoef
 -- name    : PI.UnitaryGroupMassFormula.PolyCoef.polyCoef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:12:57.851227+00:00
 -- url     : https://prove2.me/theorems/2455b1da-ec5a-45b4-bb74-82c536d84f33

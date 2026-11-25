@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_pairR_sum_right
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.pairR_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:22:32.264863+00:00
 -- url     : https://prove2.me/theorems/aeeba742-34da-59ec-b2ab-e7596724703d

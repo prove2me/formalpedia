@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Decay_coef_psd
 -- name    : GlobalTheory.SW.Decay.coef_psd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:43.266516+00:00
 -- url     : https://prove2.me/theorems/1ff55687-75e1-4887-a710-0f5fe9f3f2a0

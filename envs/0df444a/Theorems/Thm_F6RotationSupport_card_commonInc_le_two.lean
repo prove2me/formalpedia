@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6RotationSupport_card_commonInc_le_two
 -- name    : F6RotationSupport.card_commonInc_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:27:02.067426+00:00
 -- url     : https://prove2.me/theorems/ed5d4d01-9e68-441e-a7cf-27d68fd92a59

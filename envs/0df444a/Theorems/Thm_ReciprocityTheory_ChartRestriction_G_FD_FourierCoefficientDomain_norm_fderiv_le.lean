@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FourierCoefficientDomain_norm_fderiv_le
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FourierCoefficientDomain.norm_fderiv_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:15:39.626794+00:00
 -- url     : https://prove2.me/theorems/2277b5bd-623d-4277-90af-f857aa944209

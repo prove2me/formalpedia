@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_Sd_ann_obox
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.Sd.ann_obox
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:08:07.044528+00:00
 -- url     : https://prove2.me/theorems/a69dbc26-878a-4f5f-be1b-767d342e4507

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_DiscriminantTraceBounds_exists_herm_ne
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.DiscriminantTraceBounds.exists_herm_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:13:06.326357+00:00
 -- url     : https://prove2.me/theorems/da0c6dcb-46d9-5cec-aa04-249654042a07

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_coeffMatrix_one_reducedGramPolyMinor
 -- name    : ReciprocityTheory.AnForm.P.coeffMatrix_one_reducedGramPolyMinor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:57:54.910508+00:00
 -- url     : https://prove2.me/theorems/e67bf36a-f689-4aa7-b66e-82872e84fb03

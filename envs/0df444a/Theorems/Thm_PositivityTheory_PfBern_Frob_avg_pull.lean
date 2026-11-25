@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Frob_avg_pull
 -- name    : PositivityTheory.PfBern.Frob.avg_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:39:33.60383+00:00
 -- url     : https://prove2.me/theorems/a849bcc8-890e-5511-8136-aa6b6825989b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_sum_steps_eq_rootPairing_ba53cdb7f981
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_sum_steps_eq_rootPairing_ba53cdb7f981
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:46:58.184708+00:00
 -- url     : https://prove2.me/theorems/1190607e-70f7-4446-bdcf-e9a17fd30f62

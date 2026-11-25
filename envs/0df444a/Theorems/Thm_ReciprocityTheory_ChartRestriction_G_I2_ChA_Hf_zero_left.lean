@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_ChA_Hf_zero_left
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.ChA.Hf_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:25:50.331798+00:00
 -- url     : https://prove2.me/theorems/9d0dffee-14fd-59af-b8eb-6e34950b8a28

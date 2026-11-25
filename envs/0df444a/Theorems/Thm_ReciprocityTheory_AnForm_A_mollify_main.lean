@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_mollify_main
 -- name    : ReciprocityTheory.AnForm.A.mollify_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:20:19.747223+00:00
 -- url     : https://prove2.me/theorems/d822508a-c6da-44fa-9be2-b05e9d3c04d5

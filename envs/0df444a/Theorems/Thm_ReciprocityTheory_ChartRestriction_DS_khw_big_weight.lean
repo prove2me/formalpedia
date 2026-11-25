@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_khw_big_weight
 -- name    : ReciprocityTheory.ChartRestriction.DS.khw_big_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:53:04.810734+00:00
 -- url     : https://prove2.me/theorems/a38527e7-a21e-4a29-b1f9-01c0ef114ae7

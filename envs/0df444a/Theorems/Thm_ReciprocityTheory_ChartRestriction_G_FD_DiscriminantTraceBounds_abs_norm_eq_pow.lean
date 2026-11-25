@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_DiscriminantTraceBounds_abs_norm_eq_pow
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.DiscriminantTraceBounds.abs_norm_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:12:43.793556+00:00
 -- url     : https://prove2.me/theorems/bb3bd021-0b1c-5d65-8df2-7dbd688fadab

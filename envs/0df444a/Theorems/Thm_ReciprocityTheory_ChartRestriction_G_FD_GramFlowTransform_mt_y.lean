@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_GramFlowTransform_mt_y
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.GramFlowTransform.mt_y
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:17:48.391539+00:00
 -- url     : https://prove2.me/theorems/6bcc7369-bb17-4fb2-94c5-9117432bc295

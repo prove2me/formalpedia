@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Capelli_cminor_eq_rminor
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.cminor_eq_rminor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:46:24.031418+00:00
 -- url     : https://prove2.me/theorems/92b8d228-7afc-40e2-bded-a3bc28fbbb77

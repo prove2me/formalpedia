@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_isUnit_cst
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.isUnit_cst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:14:15.937738+00:00
 -- url     : https://prove2.me/theorems/3cfe5a13-0a95-48c6-b668-0caa1b05a8ff

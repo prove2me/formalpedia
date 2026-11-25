@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_FM_measurable_Jp
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.FM.measurable_Jp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:58:07.360997+00:00
 -- url     : https://prove2.me/theorems/705b5d82-26a3-5a82-8247-a2acd2bb13cf

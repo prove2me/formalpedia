@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_lminor_submatrix_castSucc
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.lminor_submatrix_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:21:15.456165+00:00
 -- url     : https://prove2.me/theorems/53c0578f-5a26-458e-8acf-8db1591f4ea9

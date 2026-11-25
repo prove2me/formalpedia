@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_sphereInv_thm
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.sphereInv_thm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:55:29.175848+00:00
 -- url     : https://prove2.me/theorems/e0fe1801-3730-4116-bb34-38a5d0789745

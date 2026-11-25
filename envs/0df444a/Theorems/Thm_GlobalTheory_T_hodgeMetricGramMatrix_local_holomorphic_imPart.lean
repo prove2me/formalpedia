@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hodgeMetricGramMatrix_local_holomorphic_imPart
 -- name    : GlobalTheory.T.hodgeMetricGramMatrix_local_holomorphic_imPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:56:44.810251+00:00
 -- url     : https://prove2.me/theorems/669db13a-d027-42dc-bd70-310cb0fbea4b

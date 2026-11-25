@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_BoundedSectionAlgebra_fj_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.BoundedSectionAlgebra.fj_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:12:12.993893+00:00
 -- url     : https://prove2.me/theorems/5e634df1-c01e-4ffc-9e0b-6812a5b82835

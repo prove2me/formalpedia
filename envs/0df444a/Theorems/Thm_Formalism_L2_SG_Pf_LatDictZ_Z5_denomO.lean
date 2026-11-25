@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z5_denomO
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z5.denomO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:29:24.52525+00:00
 -- url     : https://prove2.me/theorems/d5377423-917a-4328-8fd1-adbbcf8a71d6

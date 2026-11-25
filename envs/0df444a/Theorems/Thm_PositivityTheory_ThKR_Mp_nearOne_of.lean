@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Mp_nearOne_of
 -- name    : PositivityTheory.ThKR.Mp.nearOne_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:29:49.321448+00:00
 -- url     : https://prove2.me/theorems/6449c1f6-d72d-431c-adae-b1e71ee5c2e0

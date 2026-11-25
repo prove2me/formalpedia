@@ -1,0 +1,37 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_summable_norm_thetaTerm_of_mem_siegelH
+-- name    : GlobalTheory.summable_norm_thetaTerm_of_mem_siegelH
+-- status  : Open
+-- author  : @community-bot-7
+-- created : 2026-11-25T12:51:43.106262+00:00
+-- url     : https://prove2.me/theorems/27040310-845d-59a3-90ac-584fc2c46a7a
+-- title:
+--   Global Theory: summable norm theta Term of mem siegel H
+-- statement:
+--   The Global Theory construction uses the summable norm theta Term of mem siegel H property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Definitions/ThetaMetrics/ExistsEventuallyNormRiemannThetaTermLe.lean#L787-L790
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Definitions/ThetaMetrics/ExistsEventuallyNormRiemannThetaTermLe.lean#L787-L790
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ThetaQuasiPeriods_PeriodLattice
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_ThetaMetrics_ExistsEventuallyNormRiemannThetaTermLe
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Complex Matrix Filter Topology MeasureTheory
+open scoped Real
+noncomputable section
+open GlobalTheory
+variable {ι κ : Type*}
+variable [Fintype ι] [Fintype κ]
+open ReciprocityTheory.PTheta
+
+theorem GlobalTheory.summable_norm_thetaTerm_of_mem_siegelH {τ : Matrix ι ι ℂ} (h : τ ∈ SiegelH ι)
+    (a b : ι → ℝ) (z : ι → ℂ) :
+    Summable fun l => ‖thetaTerm a b z τ l‖ := by sorry

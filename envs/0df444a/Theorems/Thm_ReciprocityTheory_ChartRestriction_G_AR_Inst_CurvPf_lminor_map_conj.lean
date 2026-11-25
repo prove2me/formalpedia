@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_CurvPf_lminor_map_conj
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.CurvPf.lminor_map_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:56:56.82179+00:00
 -- url     : https://prove2.me/theorems/1b0d6e7b-8efc-51fa-a5a8-62ec3ad45c7f

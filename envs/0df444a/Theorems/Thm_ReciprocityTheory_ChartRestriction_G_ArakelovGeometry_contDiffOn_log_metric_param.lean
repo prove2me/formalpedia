@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_contDiffOn_log_metric_param
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.contDiffOn_log_metric_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:05:51.204333+00:00
 -- url     : https://prove2.me/theorems/3f8dd986-d4df-5337-ad49-de5008bde459

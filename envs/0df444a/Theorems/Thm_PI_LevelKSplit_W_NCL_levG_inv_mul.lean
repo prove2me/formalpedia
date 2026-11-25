@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_NCL_levG_inv_mul
 -- name    : PI.LevelKSplit.W.NCL.levG_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:25:13.235261+00:00
 -- url     : https://prove2.me/theorems/072e7938-aede-5203-b33e-f6f3be29e568

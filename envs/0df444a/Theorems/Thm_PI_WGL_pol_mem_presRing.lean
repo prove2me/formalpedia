@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_pol_mem_presRing
 -- name    : PI.WGL.pol_mem_presRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:47:13.504267+00:00
 -- url     : https://prove2.me/theorems/7141836d-4da3-4631-81cc-2ef246840180

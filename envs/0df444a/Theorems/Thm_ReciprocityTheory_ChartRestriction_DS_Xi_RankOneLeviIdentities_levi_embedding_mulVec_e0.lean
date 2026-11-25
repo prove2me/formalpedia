@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_RankOneLeviIdentities_levi_embedding_mulVec_e0
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.RankOneLeviIdentities.levi_embedding_mulVec_e0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:53:23.976832+00:00
 -- url     : https://prove2.me/theorems/d5ffe8ee-9ecc-4e41-a6c0-eff5c24e53f9

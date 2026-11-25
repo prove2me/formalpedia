@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_CoverChartLIntegral_measurableSet_piece_35bf42420ffc
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_CoverChartLIntegral_measurableSet_piece_35bf42420ffc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:47:48.186229+00:00
 -- url     : https://prove2.me/theorems/bc1ed7f6-92b3-49de-8d46-6b594cda0bfe

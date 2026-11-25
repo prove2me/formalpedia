@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_GramSchmidtSelfImaginary_sum_mem_of
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.GramSchmidtSelfImaginary.sum_mem_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:18:18.086984+00:00
 -- url     : https://prove2.me/theorems/419cb77d-0b97-4655-8b04-c5a4d0c80c32

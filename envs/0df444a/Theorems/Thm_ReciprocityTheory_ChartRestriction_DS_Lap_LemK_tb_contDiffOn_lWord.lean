@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_tb_contDiffOn_lWord
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.LemK.tb_contDiffOn_lWord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:46:42.953798+00:00
 -- url     : https://prove2.me/theorems/cd29c0fd-6800-5031-b617-dd38b0552a02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_Vsp_le_polyK
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.Vsp_le_polyK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:52:12.451967+00:00
 -- url     : https://prove2.me/theorems/e5bc2356-4f57-457e-891a-f8397b24e446

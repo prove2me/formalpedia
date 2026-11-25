@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_gbamix_ne_zero_of_blocks
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gbamix_ne_zero_of_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:09:29.564734+00:00
 -- url     : https://prove2.me/theorems/a45c7934-1758-573c-bb90-073e92192cf8

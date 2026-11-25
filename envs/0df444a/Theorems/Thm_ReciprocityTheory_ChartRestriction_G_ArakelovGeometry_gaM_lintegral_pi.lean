@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_gaM_lintegral_pi
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gaM_lintegral_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:12:42.01863+00:00
 -- url     : https://prove2.me/theorems/cd63d636-b7c8-485f-b312-a7d75e5c632f

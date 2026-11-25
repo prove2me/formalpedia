@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FourierCoefficientMatrices_fac_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FourierCoefficientMatrices.fac_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:17:01.997901+00:00
 -- url     : https://prove2.me/theorems/4431e971-3d57-59f7-b4d8-d01f9fd4b671

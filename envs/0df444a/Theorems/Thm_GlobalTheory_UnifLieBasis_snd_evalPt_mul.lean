@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifLieBasis_snd_evalPt_mul
 -- name    : GlobalTheory.UnifLieBasis.snd_evalPt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:18:31.778812+00:00
 -- url     : https://prove2.me/theorems/13d98375-e394-490d-8d51-c265c5b2cfb9

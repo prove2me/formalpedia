@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_pullback_generator_isGenerator
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.pullback_generator_isGenerator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:11:34.312994+00:00
 -- url     : https://prove2.me/theorems/1eac7513-abc5-48ef-a8a9-5c625d1118b4

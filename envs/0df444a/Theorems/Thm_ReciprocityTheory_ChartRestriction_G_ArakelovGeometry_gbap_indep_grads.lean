@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_gbap_indep_grads
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gbap_indep_grads
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:10:11.682774+00:00
 -- url     : https://prove2.me/theorems/1124e3b5-5a1e-41b5-b592-2b30ecbdc20f

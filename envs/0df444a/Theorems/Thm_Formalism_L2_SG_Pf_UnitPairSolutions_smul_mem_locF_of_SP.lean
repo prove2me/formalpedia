@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_UnitPairSolutions_smul_mem_locF_of_SP
 -- name    : Formalism.L2.SG.Pf.UnitPairSolutions.smul_mem_locF_of_SP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:48:43.075803+00:00
 -- url     : https://prove2.me/theorems/17a541e0-a0e3-5496-b889-caece26dd92a

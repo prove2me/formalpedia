@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SheetOnlyNull_proof_03186e126e60
 -- name    : P2M_GroundTheory_Heights__Heights_SheetOnlyNull_proof_03186e126e60
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:11:15.204154+00:00
 -- url     : https://prove2.me/theorems/eaf726bd-491a-402c-8404-28ca34552aa6

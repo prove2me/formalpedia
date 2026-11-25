@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_second_capelli_minor_level
 -- name    : PIQnLT.second_capelli_minor_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:04:23.884904+00:00
 -- url     : https://prove2.me/theorems/c895a843-d342-4810-92ef-5d4b57ff70d2

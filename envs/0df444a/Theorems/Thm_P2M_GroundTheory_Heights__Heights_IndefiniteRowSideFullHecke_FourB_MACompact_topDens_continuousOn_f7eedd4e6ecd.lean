@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_MACompact_topDens_continuousOn_f7eedd4e6ecd
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_MACompact_topDens_continuousOn_f7eedd4e6ecd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:35:33.253024+00:00
 -- url     : https://prove2.me/theorems/7c408e1b-08a2-4276-b218-7d046763188a

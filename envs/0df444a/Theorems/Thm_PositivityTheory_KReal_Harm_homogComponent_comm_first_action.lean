@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_Harm_homogComponent_comm_first_action
 -- name    : PositivityTheory.KReal.Harm.homogComponent_comm_first_action
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:01.397912+00:00
 -- url     : https://prove2.me/theorems/52a79815-a726-57ad-ac3c-e9d761c5fe59

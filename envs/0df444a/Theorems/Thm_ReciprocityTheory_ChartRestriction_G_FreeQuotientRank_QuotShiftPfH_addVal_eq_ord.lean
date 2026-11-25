@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_QuotShiftPfH_addVal_eq_ord
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.QuotShiftPfH.addVal_eq_ord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:22:22.897716+00:00
 -- url     : https://prove2.me/theorems/2827f0a7-b39a-5872-8413-d3a71f96ab03

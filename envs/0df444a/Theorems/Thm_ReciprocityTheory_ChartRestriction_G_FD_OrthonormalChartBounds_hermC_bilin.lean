@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthonormalChartBounds_hermC_bilin
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthonormalChartBounds.hermC_bilin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:27:42.577121+00:00
 -- url     : https://prove2.me/theorems/bdca9455-7b51-46e0-9e51-3cffee0c418d

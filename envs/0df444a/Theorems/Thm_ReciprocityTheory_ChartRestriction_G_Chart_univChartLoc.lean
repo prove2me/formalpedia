@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_univChartLoc
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.univChartLoc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:14:17.587921+00:00
 -- url     : https://prove2.me/theorems/e35ce638-dbda-4998-b755-610df684b1b3

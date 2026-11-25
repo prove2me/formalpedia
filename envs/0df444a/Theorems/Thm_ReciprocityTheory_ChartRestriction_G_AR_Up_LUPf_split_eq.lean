@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_LUPf_split_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.LUPf.split_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:20:56.290394+00:00
 -- url     : https://prove2.me/theorems/0526be88-e044-43a8-b5aa-b4d4d96a5caa

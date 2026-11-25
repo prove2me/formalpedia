@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_GluedFormOrthogonality_glue_inl_w
 -- name    : Formalism.L2.SG.Pf.GluedFormOrthogonality.glue_inl_w
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:50.371013+00:00
 -- url     : https://prove2.me/theorems/dd1c9a3f-a896-5730-a1a5-0f084bf3b479

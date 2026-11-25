@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_logNorm_oneLine
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.logNorm_oneLine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:24:38.073486+00:00
 -- url     : https://prove2.me/theorems/e27f38f1-8596-5d16-8a59-9cacb5c42f5f

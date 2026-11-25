@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_BabaiCovering_babai
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.BabaiCovering.babai
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:11:35.392642+00:00
 -- url     : https://prove2.me/theorems/4a7a7089-3e38-44c8-946c-d49f275048fd

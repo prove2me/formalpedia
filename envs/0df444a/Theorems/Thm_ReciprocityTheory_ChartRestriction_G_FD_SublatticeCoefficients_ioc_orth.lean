@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_SublatticeCoefficients_ioc_orth
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.SublatticeCoefficients.ioc_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:33:54.485883+00:00
 -- url     : https://prove2.me/theorems/405522bf-6d51-4df4-a354-d1bfde43762e

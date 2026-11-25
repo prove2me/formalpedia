@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CasPsB_FY_facts
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CasPsB.FY_facts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:16:22.63637+00:00
 -- url     : https://prove2.me/theorems/1b909f23-6710-493f-8d09-fb1f6d2586da

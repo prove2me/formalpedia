@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_iteratedFDeriv_convexComb_le
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.iteratedFDeriv_convexComb_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:15:37.344997+00:00
 -- url     : https://prove2.me/theorems/718fb641-bb51-54be-8d7e-d758d6513420

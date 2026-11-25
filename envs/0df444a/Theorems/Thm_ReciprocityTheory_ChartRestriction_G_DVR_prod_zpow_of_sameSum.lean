@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_prod_zpow_of_sameSum
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.prod_zpow_of_sameSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:30:47.777952+00:00
 -- url     : https://prove2.me/theorems/802e540d-91ec-45ae-9f19-3b16ef633fc1

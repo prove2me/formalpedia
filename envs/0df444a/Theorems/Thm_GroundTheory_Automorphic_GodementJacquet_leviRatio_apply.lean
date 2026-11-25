@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementJacquet_leviRatio_apply
 -- name    : GroundTheory.Automorphic.GodementJacquet.leviRatio_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:31:31.76948+00:00
 -- url     : https://prove2.me/theorems/cf191bed-fcd4-53b3-9e3d-a4e5b3755cdf

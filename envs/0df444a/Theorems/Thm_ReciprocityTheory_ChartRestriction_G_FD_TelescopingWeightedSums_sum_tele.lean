@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_TelescopingWeightedSums_sum_tele
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.TelescopingWeightedSums.sum_tele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:20:18.454919+00:00
 -- url     : https://prove2.me/theorems/a7600a24-c995-5dcf-8175-597af6403c2e

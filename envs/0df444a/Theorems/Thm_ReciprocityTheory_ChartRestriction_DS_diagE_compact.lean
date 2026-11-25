@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_diagE_compact
 -- name    : ReciprocityTheory.ChartRestriction.DS.diagE_compact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:11:11.472062+00:00
 -- url     : https://prove2.me/theorems/3410ba8d-1136-4aa4-953f-9629fddea9ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_matrix_data_of_trace_formula_of_isPerfPair
 -- name    : WeilConjectures.exists_matrix_data_of_trace_formula_of_isPerfPair
--- status  : Open
+-- status  : Proved
 -- author  : @Idealson
 -- created : 2026-11-25T12:29:06.834879+00:00
 -- url     : https://prove2.me/theorems/8c821793-f218-4af3-96d2-1162709ae750

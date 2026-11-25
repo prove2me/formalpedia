@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Mp_cover_of
 -- name    : PositivityTheory.ThKR.Mp.cover_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:30:40.208744+00:00
 -- url     : https://prove2.me/theorems/1a8dade2-d150-49dc-8319-dbada1f7fae6

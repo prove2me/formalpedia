@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FourierCoefficientMatrices_chiOf_inj
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FourierCoefficientMatrices.chiOf_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:17:02.094176+00:00
 -- url     : https://prove2.me/theorems/ba8d66e3-fa60-586c-b3b5-3a38525f6690

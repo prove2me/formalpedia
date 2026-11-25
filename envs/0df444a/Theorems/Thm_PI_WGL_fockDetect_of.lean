@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_fockDetect_of
 -- name    : PI.WGL.fockDetect_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:57:21.445023+00:00
 -- url     : https://prove2.me/theorems/56d3f871-622a-580a-9d94-f1ac9761f67c

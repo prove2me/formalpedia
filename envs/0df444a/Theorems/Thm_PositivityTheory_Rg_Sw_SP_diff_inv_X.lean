@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_diff_inv_X
 -- name    : PositivityTheory.Rg.Sw.SP.diff_inv_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:51:05.302066+00:00
 -- url     : https://prove2.me/theorems/fcd95d88-a8d9-4b1c-ad24-933d247eb335

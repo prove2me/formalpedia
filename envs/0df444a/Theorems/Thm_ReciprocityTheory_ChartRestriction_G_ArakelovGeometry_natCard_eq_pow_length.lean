@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_natCard_eq_pow_length
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.natCard_eq_pow_length
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:15:36.400688+00:00
 -- url     : https://prove2.me/theorems/a518cfc0-d004-511d-8901-a48d1196cc77

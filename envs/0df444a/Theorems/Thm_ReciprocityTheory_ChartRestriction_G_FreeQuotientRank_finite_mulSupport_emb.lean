@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_finite_mulSupport_emb
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.finite_mulSupport_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:21:57.65133+00:00
 -- url     : https://prove2.me/theorems/57e41d28-4a89-4028-b151-b67d09942dc4

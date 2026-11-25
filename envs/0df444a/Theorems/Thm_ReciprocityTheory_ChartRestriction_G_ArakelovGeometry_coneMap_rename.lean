@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_coneMap_rename
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.coneMap_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:04:59.874863+00:00
 -- url     : https://prove2.me/theorems/e23977f5-e001-5c9a-a974-45516827d228

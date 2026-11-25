@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_ModDepthGE_quotSMulTop
 -- name    : ReciprocityTheory.CA.ModDepthGE.quotSMulTop
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:02:36.680892+00:00
 -- url     : https://prove2.me/theorems/5bb1eca7-0cd1-451b-be2c-84efe572f777

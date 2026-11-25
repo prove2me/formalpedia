@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_CoverChartLIntegral_exists_sheets_2f007cc0b186
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_CoverChartLIntegral_exists_sheets_2f007cc0b186
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:47:03.539951+00:00
 -- url     : https://prove2.me/theorems/2ac08c04-7993-56eb-8fe6-761ccd75f58c

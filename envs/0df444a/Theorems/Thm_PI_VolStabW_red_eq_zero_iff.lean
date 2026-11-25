@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_red_eq_zero_iff
 -- name    : PI.VolStabW.red_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:38:16.038071+00:00
 -- url     : https://prove2.me/theorems/e8ffb00e-bae5-4bf0-863b-d7577321ba8b

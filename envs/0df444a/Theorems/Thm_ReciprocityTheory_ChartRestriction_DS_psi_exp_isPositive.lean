@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_psi_exp_isPositive
 -- name    : ReciprocityTheory.ChartRestriction.DS.psi_exp_isPositive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:33:09.848353+00:00
 -- url     : https://prove2.me/theorems/39d64a83-ee87-4aaa-ab55-d491937cf23a

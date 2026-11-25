@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_CoverChartLIntegral_isOpen_image_of_cover_3f74170e1f04
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_CoverChartLIntegral_isOpen_image_of_cover_3f74170e1f04
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:41:32.766596+00:00
 -- url     : https://prove2.me/theorems/68cc4237-8d59-558a-b8a5-ae6443ed8810

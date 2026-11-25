@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_Delta_sumR
 -- name    : PositivityTheory.KReal.Delta.sumR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:33:04.400651+00:00
 -- url     : https://prove2.me/theorems/130f8dfd-539d-4c91-829c-ebe819c6cd8d

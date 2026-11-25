@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_CuspCoefficientFlow_diffOn_param_bdd
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.CuspCoefficientFlow.diffOn_param_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:16:48.815697+00:00
 -- url     : https://prove2.me/theorems/61a15e64-d2ab-5318-bf64-40087e9e63fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_Harm_rename_first_lowering
 -- name    : PositivityTheory.KReal.Harm.rename_first_lowering
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:41:44.936151+00:00
 -- url     : https://prove2.me/theorems/f674cf70-d137-431b-a511-45da497cb124

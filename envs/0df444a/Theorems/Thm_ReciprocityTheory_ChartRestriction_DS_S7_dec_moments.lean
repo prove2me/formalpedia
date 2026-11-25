@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_dec_moments
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.dec_moments
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:48:31.920568+00:00
 -- url     : https://prove2.me/theorems/ccebde0c-9f37-5d5f-a9b8-49d0e4b8ff1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_ea_yx_iso
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.ea_yx_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:52:17.35899+00:00
 -- url     : https://prove2.me/theorems/8aa8e8cf-9fb8-51dc-87c7-82b941ca84f1

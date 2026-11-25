@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PerpLatticeTransfer_Tmap_inj
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PerpLatticeTransfer.Tmap_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:26:00.557739+00:00
 -- url     : https://prove2.me/theorems/d1892f7d-1d0e-419a-a1b0-da4352304c07

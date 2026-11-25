@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_exists_gen_of_local
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.exists_gen_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:14:18.850709+00:00
 -- url     : https://prove2.me/theorems/9be4adec-1d74-4ffe-a450-c15cf36959f3

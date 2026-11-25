@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_fsMetric_isSmooth
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.fsMetric_isSmooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:23:36.753447+00:00
 -- url     : https://prove2.me/theorems/173d2f2a-831a-5412-85da-ec3548bbd41e

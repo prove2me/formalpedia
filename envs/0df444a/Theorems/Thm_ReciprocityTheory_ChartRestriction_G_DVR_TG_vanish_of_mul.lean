@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_TG_vanish_of_mul
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.TG.vanish_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:11:44.835323+00:00
 -- url     : https://prove2.me/theorems/d9951e1a-6206-4c3f-a61b-186cdd86558d

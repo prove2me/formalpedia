@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BranchChartInt_maDens_branch_eq_61eac34e112e
 -- name    : P2M_GroundTheory_Heights__Heights_BranchChartInt_maDens_branch_eq_61eac34e112e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:16:31.254682+00:00
 -- url     : https://prove2.me/theorems/a487382c-e22a-47b6-8347-04037437e467

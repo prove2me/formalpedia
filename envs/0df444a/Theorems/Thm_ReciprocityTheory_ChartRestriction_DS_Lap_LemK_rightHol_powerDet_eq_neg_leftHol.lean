@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_rightHol_powerDet_eq_neg_leftHol
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.LemK.rightHol_powerDet_eq_neg_leftHol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:03:22.854663+00:00
 -- url     : https://prove2.me/theorems/085516ae-2db3-4d6d-97fe-ec164801dd69

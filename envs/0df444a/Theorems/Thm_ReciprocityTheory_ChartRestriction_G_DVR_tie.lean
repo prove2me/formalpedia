@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_tie
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.tie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:00:50.494074+00:00
 -- url     : https://prove2.me/theorems/7f4ed606-627c-4deb-bc55-9715c1142f3b

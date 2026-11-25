@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PeriodLatticeMembership_hline_diff
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PeriodLatticeMembership.hline_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:21:39.828915+00:00
 -- url     : https://prove2.me/theorems/db89f8ea-b301-5ddb-b1fd-e32500a002d8

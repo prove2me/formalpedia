@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_heisenberg_map_continuous
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.heisenberg_map_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:47:08.009371+00:00
 -- url     : https://prove2.me/theorems/fca1dbd7-7854-54ba-a4f2-59cee272b506

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FourierCubeVolume_ubox_ae
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FourierCubeVolume.ubox_ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:17:48.82535+00:00
 -- url     : https://prove2.me/theorems/7883c460-97c5-4a22-90c8-5be563218610

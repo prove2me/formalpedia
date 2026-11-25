@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefOp_kexp
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefOp_kexp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:49:26.687554+00:00
 -- url     : https://prove2.me/theorems/62c2a35a-4477-405d-ab93-118802ee601f

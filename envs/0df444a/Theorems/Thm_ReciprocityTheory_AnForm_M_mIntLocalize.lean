@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_mIntLocalize
 -- name    : ReciprocityTheory.AnForm.M.mIntLocalize
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:38:13.81484+00:00
 -- url     : https://prove2.me/theorems/cf0932d7-8fbb-4261-9eca-8ddd9b479dce

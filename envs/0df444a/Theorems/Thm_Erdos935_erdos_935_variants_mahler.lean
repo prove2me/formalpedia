@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos935_erdos_935_variants_mahler
 -- name    : Erdos935.erdos_935.variants.mahler
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:39:03.745739+00:00
 -- url     : https://prove2.me/theorems/155136ca-574c-509f-9df9-8a7288b423e7

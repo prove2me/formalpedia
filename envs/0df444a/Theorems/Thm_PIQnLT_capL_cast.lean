@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_capL_cast
 -- name    : PIQnLT.capL_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:48:25.465509+00:00
 -- url     : https://prove2.me/theorems/87ed7dc1-82d4-4b02-8a7c-0bea0298aa14

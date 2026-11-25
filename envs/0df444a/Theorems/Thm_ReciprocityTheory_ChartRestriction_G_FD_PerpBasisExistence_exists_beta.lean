@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PerpBasisExistence_exists_beta
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PerpBasisExistence.exists_beta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:21:57.436231+00:00
 -- url     : https://prove2.me/theorems/e794e31d-e875-495b-8a5d-54f79af98437

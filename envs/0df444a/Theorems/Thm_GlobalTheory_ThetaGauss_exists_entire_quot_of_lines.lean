@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGauss_exists_entire_quot_of_lines
 -- name    : GlobalTheory.ThetaGauss.exists_entire_quot_of_lines
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:47:51.185871+00:00
 -- url     : https://prove2.me/theorems/a9845bfe-1244-4e1d-b659-00b05d97d005

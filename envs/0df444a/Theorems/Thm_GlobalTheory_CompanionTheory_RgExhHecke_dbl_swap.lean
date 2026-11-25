@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_dbl_swap
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.dbl_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:48:33.744293+00:00
 -- url     : https://prove2.me/theorems/cdc2bbbc-a22a-5f07-9817-fdb7620213db

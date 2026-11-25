@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_resSeries_coeff_succ
 -- name    : ReciprocityTheory.ChartRestriction.DS.resSeries_coeff_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:53:33.91898+00:00
 -- url     : https://prove2.me/theorems/ca96a85e-2629-4fc1-bc3e-0840c46ab10b

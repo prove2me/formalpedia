@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceFormLelongCompact_tendsto_varInt_fsLogReg_ea2fc2c53ba1
 -- name    : P2M_GroundTheory_Heights__Heights_SliceFormLelongCompact_tendsto_varInt_fsLogReg_ea2fc2c53ba1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:40:32.809777+00:00
 -- url     : https://prove2.me/theorems/57360f43-300e-4261-95ed-e87c8fe25042

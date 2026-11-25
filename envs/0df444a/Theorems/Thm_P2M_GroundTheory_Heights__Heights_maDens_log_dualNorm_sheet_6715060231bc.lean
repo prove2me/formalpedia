@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_maDens_log_dualNorm_sheet_6715060231bc
 -- name    : P2M_GroundTheory_Heights__Heights_maDens_log_dualNorm_sheet_6715060231bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:54:53.071796+00:00
 -- url     : https://prove2.me/theorems/c897bb9a-4710-5e6a-92cc-925d34543c4a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_pol_mem_dualWeyl
 -- name    : PI.WGL.pol_mem_dualWeyl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:58:33.606381+00:00
 -- url     : https://prove2.me/theorems/58a0d18b-8e74-482d-ae50-370242ca3579

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_TubeSummability_lincomb_apply
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.TubeSummability.lincomb_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:21:33.960727+00:00
 -- url     : https://prove2.me/theorems/95ad6158-c533-4828-9ad5-1e60219f0d49

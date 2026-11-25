@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_tailSum_le_sum
 -- name    : GroundTheory.Automorphic.Spherical.tailSum_le_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:35:28.165617+00:00
 -- url     : https://prove2.me/theorems/2a00affb-baf9-4e19-900e-84c3887f05b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Mp_hasFDerivAt_orb
 -- name    : PositivityTheory.ThKR.Mp.hasFDerivAt_orb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:37:33.034198+00:00
 -- url     : https://prove2.me/theorems/5ce3dab4-2318-5290-954a-b93c913833a4

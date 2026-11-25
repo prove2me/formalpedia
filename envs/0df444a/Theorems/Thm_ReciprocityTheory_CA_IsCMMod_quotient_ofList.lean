@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_IsCMMod_quotient_ofList
 -- name    : ReciprocityTheory.CA.IsCMMod.quotient_ofList
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:07:50.523643+00:00
 -- url     : https://prove2.me/theorems/11327131-1cd0-4b42-9751-205a9ed32944

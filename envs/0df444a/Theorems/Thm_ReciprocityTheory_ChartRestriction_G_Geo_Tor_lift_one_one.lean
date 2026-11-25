@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_lift_one_one
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.lift_one_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:23:28.122932+00:00
 -- url     : https://prove2.me/theorems/dcb35ed0-a413-5624-bbdc-a603e58c8d59

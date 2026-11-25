@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Mp_ddNe
 -- name    : PositivityTheory.ThKR.Mp.ddNe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:35:39.580827+00:00
 -- url     : https://prove2.me/theorems/d1326e91-d488-5511-96c0-611c336e24a4

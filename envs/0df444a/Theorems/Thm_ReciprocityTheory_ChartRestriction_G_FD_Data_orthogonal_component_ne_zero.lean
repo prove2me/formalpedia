@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_orthogonal_component_ne_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.orthogonal_component_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:12:31.824358+00:00
 -- url     : https://prove2.me/theorems/e550d32e-9606-4042-b2a2-657060fb4311

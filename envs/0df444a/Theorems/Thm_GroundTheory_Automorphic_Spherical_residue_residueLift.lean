@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_residue_residueLift
 -- name    : GroundTheory.Automorphic.Spherical.residue_residueLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:33:59.787053+00:00
 -- url     : https://prove2.me/theorems/1e4843b2-bb9f-5683-986b-97f9c2046c91

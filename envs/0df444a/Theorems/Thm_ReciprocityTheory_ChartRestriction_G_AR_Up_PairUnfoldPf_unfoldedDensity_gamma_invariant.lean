@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PairUnfoldPf_unfoldedDensity_gamma_invariant
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PairUnfoldPf.unfoldedDensity_gamma_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:07:06.081244+00:00
 -- url     : https://prove2.me/theorems/33db74a4-d2c4-5288-8356-1331e18799b9

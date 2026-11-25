@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_Delta_dl_mulR
 -- name    : PositivityTheory.KReal.Delta.dl_mulR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:21:53.024574+00:00
 -- url     : https://prove2.me/theorems/57265095-312b-54af-bd46-5ffbe2527695

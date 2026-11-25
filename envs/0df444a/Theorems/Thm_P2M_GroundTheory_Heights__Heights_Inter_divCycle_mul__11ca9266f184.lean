@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_divCycle_mul__11ca9266f184
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_divCycle_mul__11ca9266f184
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:33:40.962779+00:00
 -- url     : https://prove2.me/theorems/e130a380-80ff-5028-b9fc-fbf9def45189

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_mixedDiscriminant_nonneg_of_gram
 -- name    : ReciprocityTheory.AnForm.A.mixedDiscriminant_nonneg_of_gram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:27.789358+00:00
 -- url     : https://prove2.me/theorems/accc07f2-9114-4b86-81b8-cdf693420324

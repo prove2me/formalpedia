@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_logNorm_ofWeight_one
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.logNorm_ofWeight_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:24:46.859696+00:00
 -- url     : https://prove2.me/theorems/0bc168a1-6486-4684-89c4-3036a44e5feb

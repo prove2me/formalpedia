@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FlagSpanBounds_span_le_of_upper
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FlagSpanBounds.span_le_of_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:14:42.009227+00:00
 -- url     : https://prove2.me/theorems/74556e98-0038-4494-b34f-75433635ce12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_MajorantNormalForms_Hf_eq_of_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.MajorantNormalForms.Hf_eq_of_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:19:04.526675+00:00
 -- url     : https://prove2.me/theorems/09cc0e97-a017-4464-a3da-8249ef6678e9

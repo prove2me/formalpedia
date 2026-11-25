@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_integrable_tsum_of_summable
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.integrable_tsum_of_summable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:23:37.979871+00:00
 -- url     : https://prove2.me/theorems/7b38adeb-186e-4f44-8f6d-bafd94f20f57

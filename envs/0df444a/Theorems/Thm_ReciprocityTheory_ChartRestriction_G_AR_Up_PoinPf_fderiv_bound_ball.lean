@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PoinPf_fderiv_bound_ball
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.fderiv_bound_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:02:33.862046+00:00
 -- url     : https://prove2.me/theorems/2fc58d25-ede3-5ec6-bc0b-1a191c55ecc8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FiniteTranslateSets_TS_finite
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FiniteTranslateSets.TS_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:13:38.902391+00:00
 -- url     : https://prove2.me/theorems/443a0621-9425-562b-92f2-d27a4690c28d

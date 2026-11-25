@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_extreme
 -- name    : PositivityTheory.KReal.extreme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:32:18.830407+00:00
 -- url     : https://prove2.me/theorems/7e99b333-6a3c-5b20-b608-851878e7f460

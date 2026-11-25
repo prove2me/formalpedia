@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_FlatBC_eTens_mul
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.FlatBC.eTens_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:10:59.385839+00:00
 -- url     : https://prove2.me/theorems/3d58b806-7815-5f25-8e67-5154b297d20f

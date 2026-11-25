@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_RankOneLeviIdentities_conj_gg
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.RankOneLeviIdentities.conj_gg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:49:26.338204+00:00
 -- url     : https://prove2.me/theorems/161aacb2-8419-4705-b590-57ce272acd2f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos685Research_tendsto_omega_centralBinom
 -- name    : Erdos685Research.tendsto_omega_centralBinom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:46:25.327562+00:00
 -- url     : https://prove2.me/theorems/247e79c0-60c0-44b6-8d79-fa2ddfe73d35

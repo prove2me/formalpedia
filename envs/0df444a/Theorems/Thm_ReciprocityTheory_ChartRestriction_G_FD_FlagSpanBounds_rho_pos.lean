@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FlagSpanBounds_rho_pos
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FlagSpanBounds.rho_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:18:04.098503+00:00
 -- url     : https://prove2.me/theorems/1a8ec2a0-2f70-5ad6-9330-d4308a9033f8

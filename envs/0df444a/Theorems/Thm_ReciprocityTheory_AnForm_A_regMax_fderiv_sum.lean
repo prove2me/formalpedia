@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_regMax_fderiv_sum
 -- name    : ReciprocityTheory.AnForm.A.regMax_fderiv_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:45:14.915801+00:00
 -- url     : https://prove2.me/theorems/e7c1e3e0-b8e4-4357-8a88-acf3c185f0d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_fixed_line_exists
 -- name    : PI.WGB.fixed_line_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:57:55.589877+00:00
 -- url     : https://prove2.me/theorems/5b36e02d-7c12-4585-aa0b-8bcfb1878662

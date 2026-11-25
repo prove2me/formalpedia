@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PeriodLatticeMembership_basicPeriod_linearIndependent
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PeriodLatticeMembership.basicPeriod_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:20:42.095743+00:00
 -- url     : https://prove2.me/theorems/ce09ec77-9c33-45d6-b593-641b86b2001a

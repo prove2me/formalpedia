@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameGeo_exists_ratio
 -- name    : GlobalTheory.FrameGeo.exists_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:38:44.377017+00:00
 -- url     : https://prove2.me/theorems/7e3914d2-851d-439c-851d-103bcc825397

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_liesOver_iff_under
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.liesOver_iff_under
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:22:42.481867+00:00
 -- url     : https://prove2.me/theorems/74e4fb75-0b99-502b-87d6-140035529a27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGauss_bound_on_line
 -- name    : GlobalTheory.ThetaGauss.bound_on_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:48:36.619198+00:00
 -- url     : https://prove2.me/theorems/063529d0-15ec-4f65-9b13-671da97c5189

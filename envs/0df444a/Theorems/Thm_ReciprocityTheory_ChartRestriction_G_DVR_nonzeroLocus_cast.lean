@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_nonzeroLocus_cast
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.nonzeroLocus_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:14:16.569432+00:00
 -- url     : https://prove2.me/theorems/988f5492-f89b-4be1-8a8d-dd6d31650500

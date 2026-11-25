@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_geoNum_shift_est
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.geoNum_shift_est
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:14:26.799968+00:00
 -- url     : https://prove2.me/theorems/5e6d1a97-fdb4-4b9a-afa8-5f28534be9c5

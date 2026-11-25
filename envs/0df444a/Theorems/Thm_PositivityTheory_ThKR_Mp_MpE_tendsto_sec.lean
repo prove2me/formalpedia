@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Mp_MpE_tendsto_sec
 -- name    : PositivityTheory.ThKR.Mp.MpE.tendsto_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:29:39.076565+00:00
 -- url     : https://prove2.me/theorems/d0e9b060-e300-5acf-983f-735edb516288

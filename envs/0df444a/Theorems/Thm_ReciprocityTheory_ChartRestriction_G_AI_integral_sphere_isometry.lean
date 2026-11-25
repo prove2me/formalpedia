@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_integral_sphere_isometry
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.integral_sphere_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:10.881359+00:00
 -- url     : https://prove2.me/theorems/e572a0d5-0df0-49c0-a7cd-fac75cfd8af3

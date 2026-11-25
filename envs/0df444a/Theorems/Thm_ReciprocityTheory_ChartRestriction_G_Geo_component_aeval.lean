@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_component_aeval
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.component_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:22:57.345818+00:00
 -- url     : https://prove2.me/theorems/2cde65da-f4d3-4e0f-895d-8679028917a6

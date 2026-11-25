@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_OntoS_gram_lact
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.OntoS.gram_lact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:52:27.939323+00:00
 -- url     : https://prove2.me/theorems/488d4ce7-4db2-4699-b99a-7f098a1cef9b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_GramSchmidtSelfImaginary_perp_span_right
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.GramSchmidtSelfImaginary.perp_span_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:17:57.670933+00:00
 -- url     : https://prove2.me/theorems/2d80479c-75ba-4f7c-b9ab-6ab3ecbfe48a

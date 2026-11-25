@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_fockBasis_wt
 -- name    : ReciprocityTheory.ChartRestriction.DS.fockBasis_wt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:11:00.100669+00:00
 -- url     : https://prove2.me/theorems/ea485ef8-55d4-4005-a0ae-47c4c46b3101

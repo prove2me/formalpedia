@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_LUPf_Delta_diff
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.LUPf.Delta_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:01:43.936799+00:00
 -- url     : https://prove2.me/theorems/0b9efb83-a557-46d1-a071-3590327e154e

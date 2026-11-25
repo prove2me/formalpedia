@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_IntegralTraceNormBounds_cc_mul
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.IntegralTraceNormBounds.cc_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:18:29.350419+00:00
 -- url     : https://prove2.me/theorems/99fb85bc-2376-5dc6-9653-1624f2f78d6f

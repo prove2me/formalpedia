@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_mIntegrableCont
 -- name    : ReciprocityTheory.AnForm.M.mIntegrableCont
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:33:47.010463+00:00
 -- url     : https://prove2.me/theorems/3d0c17aa-f3b6-42f1-afe9-9b9a3bbe1d31

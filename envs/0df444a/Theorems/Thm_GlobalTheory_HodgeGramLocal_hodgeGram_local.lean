@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeGramLocal_hodgeGram_local
 -- name    : GlobalTheory.HodgeGramLocal.hodgeGram_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:52:14.414465+00:00
 -- url     : https://prove2.me/theorems/7ea8670f-7313-4900-a5d4-d10667d17005

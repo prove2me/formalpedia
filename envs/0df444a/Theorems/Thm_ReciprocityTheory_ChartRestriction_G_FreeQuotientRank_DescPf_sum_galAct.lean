@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_DescPf_sum_galAct
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.DescPf.sum_galAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:22:33.138475+00:00
 -- url     : https://prove2.me/theorems/64503133-2892-4435-8842-16a7988a4a07

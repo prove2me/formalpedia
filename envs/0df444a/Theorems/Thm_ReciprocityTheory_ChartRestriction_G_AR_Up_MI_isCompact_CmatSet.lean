@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_isCompact_CmatSet
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.isCompact_CmatSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:00:36.966996+00:00
 -- url     : https://prove2.me/theorems/9080e474-5775-4fed-87ee-ba48399dc57b

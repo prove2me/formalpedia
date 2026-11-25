@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_torus_fix_B
 -- name    : PI.WGB.torus_fix_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:57:58.244491+00:00
 -- url     : https://prove2.me/theorems/42feb8d9-87d9-58ac-aa11-b7b3f7fedbaa

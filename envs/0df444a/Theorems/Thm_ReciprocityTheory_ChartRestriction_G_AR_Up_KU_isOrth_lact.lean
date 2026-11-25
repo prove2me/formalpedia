@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_KU_isOrth_lact
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.KU.isOrth_lact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:53.740806+00:00
 -- url     : https://prove2.me/theorems/201932fa-fab8-4ffa-a51e-9bd443ef8513

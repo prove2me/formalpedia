@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_chartRho_form
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.chartRho_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:55:07.013267+00:00
 -- url     : https://prove2.me/theorems/0fd43df4-bf21-4310-9218-ddd3ef8aa9e3

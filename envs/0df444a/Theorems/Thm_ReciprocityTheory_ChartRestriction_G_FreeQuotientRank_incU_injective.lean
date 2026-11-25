@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_incU_injective
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.incU_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:22:39.114588+00:00
 -- url     : https://prove2.me/theorems/b76ca243-95d3-5089-b9ce-ef9390f02fc1

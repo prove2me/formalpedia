@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairingLevels_Rep_mul
 -- name    : GlobalTheory.PairingLevels.Rep.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:39:55.308284+00:00
 -- url     : https://prove2.me/theorems/90c2f306-e5dc-4f7b-8f5a-b3d38f21ca96

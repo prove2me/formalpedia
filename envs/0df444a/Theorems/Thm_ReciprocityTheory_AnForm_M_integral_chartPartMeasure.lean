@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_integral_chartPartMeasure
 -- name    : ReciprocityTheory.AnForm.M.integral_chartPartMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:19:40.17903+00:00
 -- url     : https://prove2.me/theorems/5f1f2835-7ebc-4c74-a735-1c9614a75852

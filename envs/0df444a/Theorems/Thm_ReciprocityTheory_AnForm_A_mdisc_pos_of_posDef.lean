@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_mdisc_pos_of_posDef
 -- name    : ReciprocityTheory.AnForm.A.mdisc_pos_of_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:01:18.531161+00:00
 -- url     : https://prove2.me/theorems/696a04ae-7f90-40d6-b504-90ec534f381b

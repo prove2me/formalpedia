@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_GlobalFunctionsDvrOpen_restrict_basicOpen_injective
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.GlobalFunctionsDvrOpen.restrict_basicOpen_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:28:20.058797+00:00
 -- url     : https://prove2.me/theorems/269afd70-b96b-51d7-9dc5-83e720449654

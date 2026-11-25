@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_HW_KRep_stable_of_d__stable_939501e86c53
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_HW_KRep_stable_of_d__stable_939501e86c53
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:14:45.650083+00:00
 -- url     : https://prove2.me/theorems/4243b5f8-6359-4324-a5c7-b422ef7a1004

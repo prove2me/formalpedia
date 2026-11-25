@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_LatticeMinorExistence_posSemidef_of
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.LatticeMinorExistence.posSemidef_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:19:10.33853+00:00
 -- url     : https://prove2.me/theorems/7f130d6d-fdd4-4fa3-baec-37f5611aa84c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_modularCharacter_leviPar_diagPow
 -- name    : GroundTheory.Automorphic.Parabolic.modularCharacter_leviPar_diagPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:47:14.443218+00:00
 -- url     : https://prove2.me/theorems/89a4fab0-0bd2-513c-8f28-7ac29b09c131

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_mX
 -- name    : PositivityTheory.Rg.Sw.SP.mX
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:27:14.006435+00:00
 -- url     : https://prove2.me/theorems/e8b9f999-c5da-40ff-a42e-be7b880f0339

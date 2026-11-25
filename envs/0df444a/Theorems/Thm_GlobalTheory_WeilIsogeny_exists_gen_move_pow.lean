@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilIsogeny_exists_gen_move_pow
 -- name    : GlobalTheory.WeilIsogeny.exists_gen_move_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:54:42.093209+00:00
 -- url     : https://prove2.me/theorems/cc91543e-bc1f-4063-ba81-fa1ea72db97a

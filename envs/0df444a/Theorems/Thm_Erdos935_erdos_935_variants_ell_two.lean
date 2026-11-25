@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos935_erdos_935_variants_ell_two
 -- name    : Erdos935.erdos_935.variants.ell_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:39:23.864899+00:00
 -- url     : https://prove2.me/theorems/47398958-2e54-406d-b588-6c11fbb174aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_DivisorCycleSwap_sum_eq_finsum
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.DivisorCycleSwap.sum_eq_finsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:07:59.144378+00:00
 -- url     : https://prove2.me/theorems/70555677-d192-47e8-a5e7-6990f59a5ea1

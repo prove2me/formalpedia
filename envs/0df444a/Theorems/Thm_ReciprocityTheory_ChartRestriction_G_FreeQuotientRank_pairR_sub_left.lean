@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_pairR_sub_left
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.pairR_sub_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:22:55.712801+00:00
 -- url     : https://prove2.me/theorems/75e4bc01-fd1d-47dd-9b4b-a5d4e4775a27

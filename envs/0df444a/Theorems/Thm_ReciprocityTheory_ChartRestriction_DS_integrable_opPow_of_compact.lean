@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_integrable_opPow_of_compact
 -- name    : ReciprocityTheory.ChartRestriction.DS.integrable_opPow_of_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:51:41.762639+00:00
 -- url     : https://prove2.me/theorems/409030ba-3bb2-5d98-aba9-7b698df5cc05

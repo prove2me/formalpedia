@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_pad_nil_getD_zero
 -- name    : PositivityTheory.KReal.pad_nil_getD_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:45:26.647811+00:00
 -- url     : https://prove2.me/theorems/5d428b6b-f600-5962-9937-e0a697c6d803

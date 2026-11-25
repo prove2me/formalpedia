@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_GramSchmidtSelfImaginary_hC_self_im
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.GramSchmidtSelfImaginary.hC_self_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:18:21.408093+00:00
 -- url     : https://prove2.me/theorems/d8a27727-6453-4d71-85b2-04118af89e67

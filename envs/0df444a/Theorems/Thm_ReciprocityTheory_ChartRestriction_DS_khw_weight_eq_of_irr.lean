@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_khw_weight_eq_of_irr
 -- name    : ReciprocityTheory.ChartRestriction.DS.khw_weight_eq_of_irr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:35:08.631567+00:00
 -- url     : https://prove2.me/theorems/110fc2d5-d88c-476e-b1e3-d028dba49ec3

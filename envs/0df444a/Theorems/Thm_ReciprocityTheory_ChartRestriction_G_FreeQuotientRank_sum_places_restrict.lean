@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_sum_places_restrict
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.sum_places_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:23:39.580307+00:00
 -- url     : https://prove2.me/theorems/e636cc1b-a832-43a9-a394-ab1b7a2a0800

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_integration_by_parts_complex
 -- name    : ReciprocityTheory.AnForm.A.integration_by_parts_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:06:24.900612+00:00
 -- url     : https://prove2.me/theorems/fc5cc727-6e25-5902-992e-e18999641060

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_units_glue
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.units_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:12:01.978466+00:00
 -- url     : https://prove2.me/theorems/ef03ef5e-8429-423b-b639-a04c3badf9b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_locDensPullback
 -- name    : ReciprocityTheory.AnForm.M.locDensPullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:38:33.024106+00:00
 -- url     : https://prove2.me/theorems/d2a7efb4-0893-481f-a5b1-8c905e48406a

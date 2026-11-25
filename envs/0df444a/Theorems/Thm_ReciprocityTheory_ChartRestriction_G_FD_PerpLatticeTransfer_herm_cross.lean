@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PerpLatticeTransfer_herm_cross
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PerpLatticeTransfer.herm_cross
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:22:41.244094+00:00
 -- url     : https://prove2.me/theorems/e81bcad4-309d-5805-b48d-939868304922

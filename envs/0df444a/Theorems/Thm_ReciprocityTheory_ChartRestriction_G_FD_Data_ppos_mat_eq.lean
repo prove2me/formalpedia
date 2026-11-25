@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_ppos_mat_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.ppos_mat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:13:28.658545+00:00
 -- url     : https://prove2.me/theorems/54154d14-9dad-4c47-8ff2-8e74794d9ab8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_greenParam_thm
 -- name    : ReciprocityTheory.AnForm.A.greenParam_thm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:05:40.146206+00:00
 -- url     : https://prove2.me/theorems/1f8b95a0-6d02-4db4-aaab-007109e69d23

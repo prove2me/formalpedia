@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_IntegralPointOfAlgebraicDomain_isIntegralElem_iff_valued_le_one_b8a06fc3e582
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_IntegralPointOfAlgebraicDomain_isIntegralElem_iff_valued_le_one_b8a06fc3e582
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:45:37.416203+00:00
 -- url     : https://prove2.me/theorems/6a42435a-d7ba-53b4-a60e-ebb387a19b5c

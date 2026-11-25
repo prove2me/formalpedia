@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_volGrowthVG
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.volGrowthVG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:45:55.650569+00:00
 -- url     : https://prove2.me/theorems/ccddbda8-7a94-4583-9c80-f3fbe65d980b

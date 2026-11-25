@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_fockAct1_unit
 -- name    : PositivityTheory.KReal.fockAct1_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:33:53.215114+00:00
 -- url     : https://prove2.me/theorems/2743239a-2c7a-4a8d-8103-df3456c022d2

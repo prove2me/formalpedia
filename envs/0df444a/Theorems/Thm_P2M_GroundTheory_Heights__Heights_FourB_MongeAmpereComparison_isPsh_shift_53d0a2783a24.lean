@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_MongeAmpereComparison_isPsh_shift_53d0a2783a24
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_MongeAmpereComparison_isPsh_shift_53d0a2783a24
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:36:01.729846+00:00
 -- url     : https://prove2.me/theorems/9e9a4eea-2365-4063-92ee-bfd7ae8129cb

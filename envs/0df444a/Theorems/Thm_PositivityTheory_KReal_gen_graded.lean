@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_gen_graded
 -- name    : PositivityTheory.KReal.gen_graded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:36:52.229332+00:00
 -- url     : https://prove2.me/theorems/30f662ab-d0bb-5d20-a76e-21d261cd2858

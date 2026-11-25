@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementJacquet_withDensity_map_equiv
 -- name    : GroundTheory.Automorphic.GodementJacquet.withDensity_map_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:38:03.997455+00:00
 -- url     : https://prove2.me/theorems/9fd5e9e2-52b9-55cb-aaa3-89343abe3c34

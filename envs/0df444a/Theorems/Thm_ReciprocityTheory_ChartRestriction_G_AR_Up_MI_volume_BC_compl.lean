@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_volume_BC_compl
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.volume_BC_compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:58:59.64172+00:00
 -- url     : https://prove2.me/theorems/d6e3d0aa-a3d4-4261-b5e8-844c5733cd12

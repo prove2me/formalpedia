@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutBP_LimitNormalForms_pInv_comp
 -- name    : Formalism.FourierDecayAlt.P.CutBP.LimitNormalForms.pInv_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:40:44.130139+00:00
 -- url     : https://prove2.me/theorems/ff2a7367-8606-4bd3-b2fb-3bf66167f50d

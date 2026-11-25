@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_norm_actM_pow_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.norm_actM_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:53:46.078811+00:00
 -- url     : https://prove2.me/theorems/52032212-c7ed-42eb-908a-cf489b8b20f7

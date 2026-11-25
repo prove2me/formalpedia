@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnDim_hasHoloImm_iff
 -- name    : GlobalTheory.AnDim.hasHoloImm_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:36:17.794675+00:00
 -- url     : https://prove2.me/theorems/7a3cde6d-0a08-4447-9228-5b48868692ce

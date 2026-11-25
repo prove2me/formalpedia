@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos654Proof_yh_injective
 -- name    : Erdos654Proof.yh_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:47:22.325386+00:00
 -- url     : https://prove2.me/theorems/74ad6a29-ca44-4163-a393-d130ce7be25a

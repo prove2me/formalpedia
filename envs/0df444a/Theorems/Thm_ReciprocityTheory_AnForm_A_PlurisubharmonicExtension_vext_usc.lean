@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PlurisubharmonicExtension_vext_usc
 -- name    : ReciprocityTheory.AnForm.A.PlurisubharmonicExtension.vext_usc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:35:24.052831+00:00
 -- url     : https://prove2.me/theorems/78635436-82ca-4c87-939c-91babef92545

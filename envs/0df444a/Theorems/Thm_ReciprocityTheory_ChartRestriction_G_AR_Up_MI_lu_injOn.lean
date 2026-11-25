@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_lu_injOn
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.lu_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:00:00.849488+00:00
 -- url     : https://prove2.me/theorems/8e82fe5f-c269-58c1-a59d-6bca25a167c3

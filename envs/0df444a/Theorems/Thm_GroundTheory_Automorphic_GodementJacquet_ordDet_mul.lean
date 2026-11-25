@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementJacquet_ordDet_mul
 -- name    : GroundTheory.Automorphic.GodementJacquet.ordDet_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:24:15.102936+00:00
 -- url     : https://prove2.me/theorems/4163cdf5-0190-5f2d-a148-fc1ca975adf4

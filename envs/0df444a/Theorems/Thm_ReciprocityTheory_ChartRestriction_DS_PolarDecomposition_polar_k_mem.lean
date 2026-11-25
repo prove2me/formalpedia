@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_PolarDecomposition_polar_k_mem
 -- name    : ReciprocityTheory.ChartRestriction.DS.PolarDecomposition.polar_k_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:46:22.595193+00:00
 -- url     : https://prove2.me/theorems/3527fd34-45ec-4254-ab87-f5e1c19b9c75

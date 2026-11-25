@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_LocalLengthAverage_average
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.LocalLengthAverage.average
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:22:20.347643+00:00
 -- url     : https://prove2.me/theorems/7584bb96-237e-53b8-8053-c8d93b7a57d4

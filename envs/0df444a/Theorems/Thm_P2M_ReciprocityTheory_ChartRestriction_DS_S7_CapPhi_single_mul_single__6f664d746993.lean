@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_S7_CapPhi_single_mul_single__6f664d746993
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_S7_CapPhi_single_mul_single__6f664d746993
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:45:45.381408+00:00
 -- url     : https://prove2.me/theorems/35981d9a-799f-5739-8944-0737cc7fc5c4

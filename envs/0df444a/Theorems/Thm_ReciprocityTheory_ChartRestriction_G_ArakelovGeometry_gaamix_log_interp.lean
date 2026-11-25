@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_gaamix_log_interp
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gaamix_log_interp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:19:26.945445+00:00
 -- url     : https://prove2.me/theorems/f4e6d834-df93-4594-a985-bbb3a954801f

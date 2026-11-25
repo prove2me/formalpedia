@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_le_of_mem_support_mHom
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.le_of_mem_support_mHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:10:24.444547+00:00
 -- url     : https://prove2.me/theorems/0fb799e0-63d7-46fc-ac22-e187e20ff1c6

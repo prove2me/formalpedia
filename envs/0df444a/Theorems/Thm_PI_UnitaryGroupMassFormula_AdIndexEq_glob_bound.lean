@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_glob_bound
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.glob_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:47:40.167827+00:00
 -- url     : https://prove2.me/theorems/f399d736-d047-5cfc-80a9-4adbe243a74c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6RotationSupport_ci2_of_rotation_support
 -- name    : F6RotationSupport.ci2_of_rotation_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:27:15.825747+00:00
 -- url     : https://prove2.me/theorems/cdf82bc8-0d1b-4f84-80f6-e2f87736bec6

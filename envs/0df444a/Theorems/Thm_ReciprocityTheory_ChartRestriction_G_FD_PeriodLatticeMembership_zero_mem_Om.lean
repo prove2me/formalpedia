@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PeriodLatticeMembership_zero_mem_Om
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PeriodLatticeMembership.zero_mem_Om
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:22:01.060965+00:00
 -- url     : https://prove2.me/theorems/8c00c4fc-d61c-5be2-91ff-280f9e050fe3

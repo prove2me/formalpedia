@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_RealPlaceEmbeddings_Tm_injective
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.RealPlaceEmbeddings.Tm_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:21:33.587679+00:00
 -- url     : https://prove2.me/theorems/748d3f6c-f7b8-56b9-8de8-51d304ed5967

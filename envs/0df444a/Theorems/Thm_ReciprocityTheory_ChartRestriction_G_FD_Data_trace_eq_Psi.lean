@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_trace_eq_Psi
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.trace_eq_Psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:12:44.48449+00:00
 -- url     : https://prove2.me/theorems/8186a300-aeae-4808-af2d-08dab22bc334

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_OrthogonalComplementGenusMass_isIntegralLat_push
 -- name    : Formalism.L2.SG.Pf.OrthogonalComplementGenusMass.isIntegralLat_push
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:47:47.566174+00:00
 -- url     : https://prove2.me/theorems/eaa62d95-3c0b-43db-a298-c36b9e94f4ea

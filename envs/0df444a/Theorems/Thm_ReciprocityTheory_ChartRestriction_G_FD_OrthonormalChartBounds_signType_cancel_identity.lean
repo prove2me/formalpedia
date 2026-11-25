@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthonormalChartBounds_signType_cancel_identity
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthonormalChartBounds.signType_cancel_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:20:26.906258+00:00
 -- url     : https://prove2.me/theorems/db2aa3ec-e55b-4c9c-955f-be6e702db822

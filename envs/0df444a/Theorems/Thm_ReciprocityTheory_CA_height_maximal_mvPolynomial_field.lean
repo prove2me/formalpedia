@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_height_maximal_mvPolynomial_field
 -- name    : ReciprocityTheory.CA.height_maximal_mvPolynomial_field
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:06:56.741119+00:00
 -- url     : https://prove2.me/theorems/273e418d-72b5-4655-aa66-7248c35912a7

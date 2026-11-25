@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthonormalChartBounds_quad_AtA
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthonormalChartBounds.quad_AtA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:20:19.579622+00:00
 -- url     : https://prove2.me/theorems/05e3046c-74b2-4a1b-94a1-dc32a658af56

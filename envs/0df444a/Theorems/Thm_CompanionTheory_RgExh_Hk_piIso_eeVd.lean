@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_RgExh_Hk_piIso_eeVd
 -- name    : CompanionTheory.RgExh.Hk.piIso_eeVd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:45:57.44598+00:00
 -- url     : https://prove2.me/theorems/17a8f80f-e47a-59ff-b813-68665fce1581

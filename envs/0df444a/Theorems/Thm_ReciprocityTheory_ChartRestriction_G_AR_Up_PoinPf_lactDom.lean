@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PoinPf_lactDom
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.lactDom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:44:30.626185+00:00
 -- url     : https://prove2.me/theorems/8a6e234f-640e-4798-82f5-31d22fe9ae37

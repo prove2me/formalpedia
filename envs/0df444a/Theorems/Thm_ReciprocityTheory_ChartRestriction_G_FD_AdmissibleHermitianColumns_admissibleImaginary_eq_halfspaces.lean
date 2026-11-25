@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_AdmissibleHermitianColumns_admissibleImaginary_eq_halfspaces
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.AdmissibleHermitianColumns.admissibleImaginary_eq_halfspaces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:12:14.262891+00:00
 -- url     : https://prove2.me/theorems/32eecf18-fdaa-4424-b136-5c6dc4bab844

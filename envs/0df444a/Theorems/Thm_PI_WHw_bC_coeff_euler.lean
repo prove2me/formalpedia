@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WHw_bC_coeff_euler
 -- name    : PI.WHw.bC_coeff_euler
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:46:52.668881+00:00
 -- url     : https://prove2.me/theorems/4664ed62-585d-4a6f-bd90-02eee38432bc

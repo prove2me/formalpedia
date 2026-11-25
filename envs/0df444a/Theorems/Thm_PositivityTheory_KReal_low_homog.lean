@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_low_homog
 -- name    : PositivityTheory.KReal.low_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:40:05.963026+00:00
 -- url     : https://prove2.me/theorems/a507c57a-dfd6-5616-821a-463ceb620708

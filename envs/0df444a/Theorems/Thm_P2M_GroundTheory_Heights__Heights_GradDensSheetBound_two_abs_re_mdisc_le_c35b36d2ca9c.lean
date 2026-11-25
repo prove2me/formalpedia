@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GradDensSheetBound_two_abs_re_mdisc_le_c35b36d2ca9c
 -- name    : P2M_GroundTheory_Heights__Heights_GradDensSheetBound_two_abs_re_mdisc_le_c35b36d2ca9c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:18:13.314797+00:00
 -- url     : https://prove2.me/theorems/12e2e2d2-2169-4c08-bec4-6230cbd85806

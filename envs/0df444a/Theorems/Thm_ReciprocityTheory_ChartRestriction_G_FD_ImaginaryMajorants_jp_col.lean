@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_ImaginaryMajorants_jp_col
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.ImaginaryMajorants.jp_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:18:46.94292+00:00
 -- url     : https://prove2.me/theorems/25129728-81f5-5093-8f85-b08e80412428

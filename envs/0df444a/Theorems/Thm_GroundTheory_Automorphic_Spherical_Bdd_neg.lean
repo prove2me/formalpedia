@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_Bdd_neg
 -- name    : GroundTheory.Automorphic.Spherical.Bdd.neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:33:00.064902+00:00
 -- url     : https://prove2.me/theorems/d4468006-0efe-5a5e-8510-1ad05a3d9aca

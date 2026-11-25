@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_setIntegral_parametrisation_le
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.setIntegral_parametrisation_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:15:49.989881+00:00
 -- url     : https://prove2.me/theorems/59deb107-d02b-533a-be41-02775c0d4109

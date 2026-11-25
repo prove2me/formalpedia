@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_eventually_surjective_clm
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.eventually_surjective_clm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:23:18.162195+00:00
 -- url     : https://prove2.me/theorems/7780f692-50a0-45c7-941f-0da968e8d5fd

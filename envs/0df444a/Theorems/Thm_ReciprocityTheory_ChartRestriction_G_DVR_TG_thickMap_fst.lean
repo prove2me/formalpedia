@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_TG_thickMap_fst
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.TG.thickMap_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:12:08.347231+00:00
 -- url     : https://prove2.me/theorems/d8e13512-2480-5179-91b0-ab25475743d7

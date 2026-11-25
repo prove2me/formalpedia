@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_chartIdeal_ne_top
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.chartIdeal_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:32.415796+00:00
 -- url     : https://prove2.me/theorems/8872b9bd-92e9-4da0-a5e4-e8082883d014

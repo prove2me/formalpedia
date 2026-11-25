@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_CompactSupportStokes_integralWith_cons_sum_70630cb3bd6d
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_CompactSupportStokes_integralWith_cons_sum_70630cb3bd6d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:02:40.091787+00:00
 -- url     : https://prove2.me/theorems/989e869b-fa75-4466-882a-ce0ec33525a0

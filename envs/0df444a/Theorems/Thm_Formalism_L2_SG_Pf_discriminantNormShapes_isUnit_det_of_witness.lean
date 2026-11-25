@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantNormShapes_isUnit_det_of_witness
 -- name    : Formalism.L2.SG.Pf.discriminantNormShapes.isUnit_det_of_witness
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:57:41.714231+00:00
 -- url     : https://prove2.me/theorems/16facbc0-7f55-45d3-b7a5-834746a0b97d

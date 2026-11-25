@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifConsts_uniform_consts
 -- name    : GlobalTheory.UnifConsts.uniform_consts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:51:53.531841+00:00
 -- url     : https://prove2.me/theorems/cdf39230-5fc3-46c0-85f8-7dd973cd381a

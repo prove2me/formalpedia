@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_MultiHomogZ_isWeightedHomogeneous_blkWtZ
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.MultiHomogZ.isWeightedHomogeneous_blkWtZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:22:57.986863+00:00
 -- url     : https://prove2.me/theorems/999a3a90-9feb-4c4a-83d3-0ad0e8159d82

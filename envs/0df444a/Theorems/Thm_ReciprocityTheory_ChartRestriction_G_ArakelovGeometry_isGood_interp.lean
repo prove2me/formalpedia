@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_isGood_interp
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.isGood_interp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:14:35.194938+00:00
 -- url     : https://prove2.me/theorems/567831e0-f847-4a26-9644-32920791271e

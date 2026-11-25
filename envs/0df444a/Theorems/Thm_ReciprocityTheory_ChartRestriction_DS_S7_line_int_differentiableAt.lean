@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_line_int_differentiableAt
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.line_int_differentiableAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:45:33.132497+00:00
 -- url     : https://prove2.me/theorems/1bdadb06-8ab7-4dc4-8403-b60bf1a9f7f2

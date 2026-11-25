@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_differentiable_mvPolynomial_eval
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.differentiable_mvPolynomial_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:13:19.150494+00:00
 -- url     : https://prove2.me/theorems/68baabc5-b992-4665-a22c-ac3ad3654194

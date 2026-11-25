@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntersectionBounds_separator_mem_degree
 -- name    : IntersectionBounds.separator_mem_degree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:45:42.968705+00:00
 -- url     : https://prove2.me/theorems/0b9a708a-f66b-44f0-9dad-067667cd6bd2

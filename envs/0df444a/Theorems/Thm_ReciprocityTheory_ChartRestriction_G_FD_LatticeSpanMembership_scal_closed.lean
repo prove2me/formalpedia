@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_LatticeSpanMembership_scal_closed
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.LatticeSpanMembership.scal_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:19:32.144826+00:00
 -- url     : https://prove2.me/theorems/cd4b4315-02a6-401f-9f1c-776e3bf52cc9

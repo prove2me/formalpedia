@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_AdmissibleHermitianColumns_open_convex_aff
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.AdmissibleHermitianColumns.open_convex_aff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:11:28.708742+00:00
 -- url     : https://prove2.me/theorems/5e9a82f6-e9b1-58ac-a26a-864eb8b6b262

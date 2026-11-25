@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_top_idx
 -- name    : PositivityTheory.KReal.top_idx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:39:50.215914+00:00
 -- url     : https://prove2.me/theorems/53098eb7-baa2-50d8-b518-d3e2d02de6ff

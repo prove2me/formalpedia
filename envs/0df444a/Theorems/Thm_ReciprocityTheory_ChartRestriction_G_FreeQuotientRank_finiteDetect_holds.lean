@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_finiteDetect_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.finiteDetect_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:22:04.716347+00:00
 -- url     : https://prove2.me/theorems/1ce42588-4dc6-4e6b-a7de-76b0879d4dfc

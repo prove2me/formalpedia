@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_fam_lamLine_expand_e4a84c081deb
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_fam_lamLine_expand_e4a84c081deb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:25:39.119925+00:00
 -- url     : https://prove2.me/theorems/0ed07def-60dc-43ba-a96f-6824880688f8

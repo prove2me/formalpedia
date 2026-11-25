@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthonormalChartBounds_mj_xZ_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthonormalChartBounds.mj_xZ_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:20:43.333812+00:00
 -- url     : https://prove2.me/theorems/dc7139ac-d285-59f0-9dfb-8a3878e2cca3

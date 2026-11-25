@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_det_gram_d092f848ed8c
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_det_gram_d092f848ed8c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:33:52.341646+00:00
 -- url     : https://prove2.me/theorems/fc9dfe91-1c35-5af3-8683-d4ca28e94939

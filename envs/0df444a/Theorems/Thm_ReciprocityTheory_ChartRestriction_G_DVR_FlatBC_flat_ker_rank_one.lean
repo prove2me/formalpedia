@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_FlatBC_flat_ker_rank_one
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.FlatBC.flat_ker_rank_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:10:27.301816+00:00
 -- url     : https://prove2.me/theorems/5b761bb3-546e-5860-b92f-8c4d06802844

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCut_ringKrullDim_eq_natDegree_idealHilbertPoly
 -- name    : GlobalTheory.ProjCut.ringKrullDim_eq_natDegree_idealHilbertPoly
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:24:29.948174+00:00
 -- url     : https://prove2.me/theorems/88779c89-5588-4bb3-a6c6-de11c2a967e1

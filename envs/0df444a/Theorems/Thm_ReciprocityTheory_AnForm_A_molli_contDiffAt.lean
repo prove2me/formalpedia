@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_molli_contDiffAt
 -- name    : ReciprocityTheory.AnForm.A.molli_contDiffAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:48:23.909268+00:00
 -- url     : https://prove2.me/theorems/5d4fbb37-44a8-42a3-94fe-9592c21dff4a

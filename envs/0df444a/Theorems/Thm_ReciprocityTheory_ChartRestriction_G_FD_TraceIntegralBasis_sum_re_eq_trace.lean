@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_TraceIntegralBasis_sum_re_eq_trace
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.TraceIntegralBasis.sum_re_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:20:48.807287+00:00
 -- url     : https://prove2.me/theorems/cb74e649-5faa-4e4a-8f2b-8227e6353b66

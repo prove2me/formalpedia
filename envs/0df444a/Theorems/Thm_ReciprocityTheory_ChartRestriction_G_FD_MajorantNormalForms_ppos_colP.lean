@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_MajorantNormalForms_ppos_colP
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.MajorantNormalForms.ppos_colP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:19:49.566482+00:00
 -- url     : https://prove2.me/theorems/62d584e6-2295-5e8a-a1f1-d38d596a976d

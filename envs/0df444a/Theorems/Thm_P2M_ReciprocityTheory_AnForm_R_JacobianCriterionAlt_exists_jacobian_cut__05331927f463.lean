@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_R_JacobianCriterionAlt_exists_jacobian_cut__05331927f463
 -- name    : P2M_ReciprocityTheory_AnForm_R_JacobianCriterionAlt_exists_jacobian_cut__05331927f463
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:55:56.994716+00:00
 -- url     : https://prove2.me/theorems/bab5c705-1591-52dd-b8a0-010f827626e6

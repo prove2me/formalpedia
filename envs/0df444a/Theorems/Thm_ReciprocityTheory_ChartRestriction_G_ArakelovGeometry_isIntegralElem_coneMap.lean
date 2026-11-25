@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_isIntegralElem_coneMap
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.isIntegralElem_coneMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:15:12.86525+00:00
 -- url     : https://prove2.me/theorems/57cf6b9d-aeb8-4e80-b16e-730a8eaae161

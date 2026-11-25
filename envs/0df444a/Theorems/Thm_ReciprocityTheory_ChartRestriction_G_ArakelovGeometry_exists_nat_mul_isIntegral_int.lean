@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_exists_nat_mul_isIntegral_int
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.exists_nat_mul_isIntegral_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:05:21.332476+00:00
 -- url     : https://prove2.me/theorems/fd38797b-e7cb-5be5-8cb2-28082c727255

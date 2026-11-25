@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_mem_orthogonal_lattice_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.mem_orthogonal_lattice_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:26:17.286503+00:00
 -- url     : https://prove2.me/theorems/931f93c8-4b8c-5247-b992-d11c5b62e96d

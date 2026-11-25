@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_QuadraticLatticeForms_ip_Ly_self
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.QuadraticLatticeForms.ip_Ly_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:21:39.123295+00:00
 -- url     : https://prove2.me/theorems/61907ae1-250a-4ee8-8381-350e017688b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FourierCoefficientMatrices_gram_unitary
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FourierCoefficientMatrices.gram_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:17:33.666691+00:00
 -- url     : https://prove2.me/theorems/45e732a5-dcda-4a40-a8d5-ebbd557443cd

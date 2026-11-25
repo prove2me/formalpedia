@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_flatIso_isGen
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.flatIso_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:17:06.991904+00:00
 -- url     : https://prove2.me/theorems/c0426dde-53eb-5fee-8c4f-4715f586c6f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_shape_mul_inv_one
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.shape_mul_inv_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:11:37.227128+00:00
 -- url     : https://prove2.me/theorems/3174bac5-c9fc-531f-8b24-2c68920e0cab

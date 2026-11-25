@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_CuspCoefficientFlow_fj_hbd
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.CuspCoefficientFlow.fj_hbd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:13:57.246475+00:00
 -- url     : https://prove2.me/theorems/f925e4e7-f332-48e3-a03f-4bb95d17b837

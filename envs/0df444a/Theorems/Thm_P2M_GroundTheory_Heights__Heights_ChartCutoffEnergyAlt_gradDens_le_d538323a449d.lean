@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_gradDens_le_d538323a449d
 -- name    : P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_gradDens_le_d538323a449d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:18:50.659341+00:00
 -- url     : https://prove2.me/theorems/a224dd9d-be32-4562-abef-8ea0b5bb94c9

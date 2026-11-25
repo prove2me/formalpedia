@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_HasCentralChar_one
 -- name    : GroundTheory.Automorphic.Parabolic.HasCentralChar.one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:49:31.826449+00:00
 -- url     : https://prove2.me/theorems/61684f7e-4e81-47ec-9a9b-ef7cb3ce1f94

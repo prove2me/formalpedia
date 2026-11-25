@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PackingSeparation_pack
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PackingSeparation.pack
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:20:16.362288+00:00
 -- url     : https://prove2.me/theorems/d82b4184-24b4-4683-997e-cbe50a2445ad

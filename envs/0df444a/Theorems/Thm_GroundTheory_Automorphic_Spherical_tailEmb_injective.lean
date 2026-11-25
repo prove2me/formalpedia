@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_tailEmb_injective
 -- name    : GroundTheory.Automorphic.Spherical.tailEmb_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:32:53.820799+00:00
 -- url     : https://prove2.me/theorems/6eac80d2-a7ab-47fc-af67-b730d3196daa

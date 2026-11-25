@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_ThFin_lev_sq
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.ThFin.lev_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:26:11.705081+00:00
 -- url     : https://prove2.me/theorems/7ed562bd-a26b-40aa-9169-44d3701aae2b

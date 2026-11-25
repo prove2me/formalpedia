@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_weight_lexW
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.weight_lexW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:09:46.653242+00:00
 -- url     : https://prove2.me/theorems/28e7c311-67f4-5b21-a5be-218f712f99f5

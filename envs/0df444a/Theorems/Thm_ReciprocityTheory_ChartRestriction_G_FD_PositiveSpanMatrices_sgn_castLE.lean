@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PositiveSpanMatrices_sgn_castLE
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PositiveSpanMatrices.sgn_castLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:24:55.414152+00:00
 -- url     : https://prove2.me/theorems/a7c2483a-382b-5712-9abf-cf8ebb0004cb

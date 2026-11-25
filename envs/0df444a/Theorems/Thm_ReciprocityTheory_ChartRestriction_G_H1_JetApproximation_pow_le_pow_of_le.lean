@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_JetApproximation_pow_le_pow_of_le
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.JetApproximation.pow_le_pow_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:25:23.001082+00:00
 -- url     : https://prove2.me/theorems/f3903561-ea01-5702-83e7-dd8f534fb5a2

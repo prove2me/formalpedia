@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_QuantumDeterminantEquality
 -- name    : GlobalTheory.T.QuantumDeterminantEquality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:47:58.384394+00:00
 -- url     : https://prove2.me/theorems/ad1cc2b6-7896-4d77-8125-349776ff4637

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_NonScalProof_IsP_sum
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.NonScalProof.IsP.sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:48:17.30647+00:00
 -- url     : https://prove2.me/theorems/2aa346bf-59ce-5448-a166-e86044072f3b

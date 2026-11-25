@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_eval_smul_of_isHomogeneousP
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.eval_smul_of_isHomogeneousP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:23:15.963846+00:00
 -- url     : https://prove2.me/theorems/4aeea32a-1381-5599-8014-bb67672944d2

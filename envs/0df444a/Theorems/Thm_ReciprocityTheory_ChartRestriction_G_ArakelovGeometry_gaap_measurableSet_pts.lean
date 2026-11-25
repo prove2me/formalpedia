@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_gaap_measurableSet_pts
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gaap_measurableSet_pts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:18:35.952904+00:00
 -- url     : https://prove2.me/theorems/d6e4c7a0-f7be-548f-a11a-e28c24507058

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_one_lt_absNorm_real
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.one_lt_absNorm_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:23:10.112034+00:00
 -- url     : https://prove2.me/theorems/63f3ced2-6a4b-4979-9aeb-9b52a63ad8ec

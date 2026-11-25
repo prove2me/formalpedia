@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_kRepStable
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.kRepStable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:11:42.561145+00:00
 -- url     : https://prove2.me/theorems/73af2377-bca9-48e0-9048-3a63f68255d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_LowerBlockMatrices_yvec_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.LowerBlockMatrices.yvec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:19:36.675057+00:00
 -- url     : https://prove2.me/theorems/886477e6-3450-5072-9b58-fbeede9fb0d7

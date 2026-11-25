@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinTypeIntCatenary_isCM_and_height_of_isMaximal
 -- name    : GlobalTheory.FinTypeIntCatenary.isCM_and_height_of_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:25:56.006112+00:00
 -- url     : https://prove2.me/theorems/9446cdfa-06a4-43b2-ac42-a7c3fdd07938

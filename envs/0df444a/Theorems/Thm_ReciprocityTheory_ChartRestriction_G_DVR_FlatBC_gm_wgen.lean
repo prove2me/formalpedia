@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_FlatBC_gm_wgen
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.FlatBC.gm_wgen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:10:33.354254+00:00
 -- url     : https://prove2.me/theorems/df393456-eb06-52d7-9d04-bb3862475e0e

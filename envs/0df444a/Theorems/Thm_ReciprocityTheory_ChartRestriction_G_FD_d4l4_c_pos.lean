@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_d4l4_c_pos
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.d4l4_c_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:21:51.914247+00:00
 -- url     : https://prove2.me/theorems/3a8397fe-aa53-4687-a575-4d59d4ad7a9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_KReal_fockInner_sub_left__b47db5d98c95
 -- name    : P2M_PositivityTheory_KReal_fockInner_sub_left__b47db5d98c95
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:45:51.062716+00:00
 -- url     : https://prove2.me/theorems/82655eac-e889-5522-a76a-86a468cb8ddb

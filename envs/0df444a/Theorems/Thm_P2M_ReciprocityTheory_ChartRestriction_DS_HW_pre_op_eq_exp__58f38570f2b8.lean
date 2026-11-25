@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_HW_pre_op_eq_exp__58f38570f2b8
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_HW_pre_op_eq_exp__58f38570f2b8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:14:50.23439+00:00
 -- url     : https://prove2.me/theorems/1360dcc1-7782-4f12-a5aa-72429631b9e6

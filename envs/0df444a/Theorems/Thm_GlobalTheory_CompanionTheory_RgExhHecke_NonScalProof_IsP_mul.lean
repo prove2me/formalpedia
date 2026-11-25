@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_NonScalProof_IsP_mul
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.NonScalProof.IsP.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:48:06.08781+00:00
 -- url     : https://prove2.me/theorems/3f4fd09a-75d2-5f28-8a9d-1e6180b194e6

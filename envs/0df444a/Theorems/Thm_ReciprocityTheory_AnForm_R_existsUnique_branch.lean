@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_existsUnique_branch
 -- name    : ReciprocityTheory.AnForm.R.existsUnique_branch
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:47:16.037166+00:00
 -- url     : https://prove2.me/theorems/539fb83a-9ed8-585a-ac8d-64a912343bc0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_SD_shear_second_coordinate
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.SD.shear_second_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:42:34.91654+00:00
 -- url     : https://prove2.me/theorems/9ee37bab-8d16-5520-9bb5-88c70f7700ac

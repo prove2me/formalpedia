@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_le_comap_kill_of_homogeneous
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.le_comap_kill_of_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:13:55.953963+00:00
 -- url     : https://prove2.me/theorems/88b15846-c647-4b8b-bcc4-f01449735a19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_hC_flow_e
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.hC_flow_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:12:25.305995+00:00
 -- url     : https://prove2.me/theorems/0f5f726b-3329-4362-acb7-21d0de0170bf

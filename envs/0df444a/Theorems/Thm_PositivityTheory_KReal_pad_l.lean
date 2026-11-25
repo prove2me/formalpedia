@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_pad_l
 -- name    : PositivityTheory.KReal.pad_l
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:41:24.128322+00:00
 -- url     : https://prove2.me/theorems/e4ec3b3d-4859-43e0-b5f3-e0e0e53f5e5c

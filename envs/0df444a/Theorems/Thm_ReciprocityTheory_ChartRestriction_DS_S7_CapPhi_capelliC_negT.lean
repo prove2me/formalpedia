@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CapPhi_capelliC_negT
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CapPhi.capelliC_negT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:43:42.935822+00:00
 -- url     : https://prove2.me/theorems/d2345f5d-3cb8-5ad4-99ca-e2788e1b4de3

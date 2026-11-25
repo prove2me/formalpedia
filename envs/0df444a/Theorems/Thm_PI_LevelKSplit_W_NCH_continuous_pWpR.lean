@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_NCH_continuous_pWpR
 -- name    : PI.LevelKSplit.W.NCH.continuous_pWpR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:30:37.534267+00:00
 -- url     : https://prove2.me/theorems/a5c99f0e-0ac0-5b85-b6c8-623155ede1e6

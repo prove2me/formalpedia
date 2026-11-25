@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_form_degree_le_of_isHilbertPoly
 -- name    : GlobalTheory.exists_form_degree_le_of_isHilbertPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:32:17.728937+00:00
 -- url     : https://prove2.me/theorems/8b051a7f-c54f-4b15-b4a5-8454483b87da

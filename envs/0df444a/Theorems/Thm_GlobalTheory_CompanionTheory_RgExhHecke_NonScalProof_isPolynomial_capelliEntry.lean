@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_NonScalProof_isPolynomial_capelliEntry
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.NonScalProof.isPolynomial_capelliEntry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:48:07.33329+00:00
 -- url     : https://prove2.me/theorems/8d975c88-b9b8-5bf2-a77b-988447bd088b

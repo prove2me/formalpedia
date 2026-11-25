@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FrequencyIndexing_repr_sum_single
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FrequencyIndexing.repr_sum_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:18:20.998257+00:00
 -- url     : https://prove2.me/theorems/ad26f7a3-7304-5ab9-9821-341e719b6998

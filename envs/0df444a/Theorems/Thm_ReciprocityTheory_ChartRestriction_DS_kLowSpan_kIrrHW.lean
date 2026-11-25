@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_kLowSpan_kIrrHW
 -- name    : ReciprocityTheory.ChartRestriction.DS.kLowSpan_kIrrHW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:10:42.84475+00:00
 -- url     : https://prove2.me/theorems/fdbf9c35-0a93-4dec-a169-06abf91b46e6

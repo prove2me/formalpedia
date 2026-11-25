@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_norm_orbit_sub_partial_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.norm_orbit_sub_partial_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:58:12.221966+00:00
 -- url     : https://prove2.me/theorems/6a0dfe82-3d77-45b8-ba0d-476bf02f9805

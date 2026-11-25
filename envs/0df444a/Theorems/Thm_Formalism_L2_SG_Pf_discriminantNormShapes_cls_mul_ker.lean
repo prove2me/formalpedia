@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantNormShapes_cls_mul_ker
 -- name    : Formalism.L2.SG.Pf.discriminantNormShapes.cls_mul_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:15:39.5979+00:00
 -- url     : https://prove2.me/theorems/bb3312f3-0c17-5196-b450-0f6d67cdd2b9

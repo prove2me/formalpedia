@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartUniv_univ_all
 -- name    : GlobalTheory.ChartUniv.univ_all
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:18:44.838847+00:00
 -- url     : https://prove2.me/theorems/6800df44-2a6d-4967-801d-f5353ffc76bf

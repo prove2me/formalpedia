@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_xiExists_of_induction_steps
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.xiExists_of_induction_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:51:26.313245+00:00
 -- url     : https://prove2.me/theorems/690f3bf4-ae0e-4db1-a70b-05784f87c87c

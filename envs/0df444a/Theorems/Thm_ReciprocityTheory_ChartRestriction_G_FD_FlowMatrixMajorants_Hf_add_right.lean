@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FlowMatrixMajorants_Hf_add_right
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FlowMatrixMajorants.Hf_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:14:11.047075+00:00
 -- url     : https://prove2.me/theorems/539ec271-a462-4621-b603-f9468c57f6cd

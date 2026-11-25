@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_RB_greedy
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.RB.greedy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:26:22.120335+00:00
 -- url     : https://prove2.me/theorems/eb672c23-6281-5055-b4d6-405e500fe509

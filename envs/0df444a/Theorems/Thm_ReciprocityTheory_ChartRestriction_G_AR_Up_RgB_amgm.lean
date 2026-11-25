@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_RgB_amgm
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.RgB.amgm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:31:02.196843+00:00
 -- url     : https://prove2.me/theorems/0ad6e756-dbf3-48b7-a4b4-0a5fbf772f9e

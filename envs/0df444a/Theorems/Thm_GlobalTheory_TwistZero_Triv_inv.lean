@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistZero_Triv_inv
 -- name    : GlobalTheory.TwistZero.Triv.inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:56:08.527031+00:00
 -- url     : https://prove2.me/theorems/8b4891e8-ecee-4181-b36f-31a5287e449d

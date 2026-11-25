@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_abs_det_restrictScalars
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.abs_det_restrictScalars
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:23:12.533194+00:00
 -- url     : https://prove2.me/theorems/3dfc11b7-1b67-42b9-bb38-5c652ca300d2

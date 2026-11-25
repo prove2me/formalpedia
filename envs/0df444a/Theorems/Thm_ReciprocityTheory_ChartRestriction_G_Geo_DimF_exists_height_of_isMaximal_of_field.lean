@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_DimF_exists_height_of_isMaximal_of_field
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.DimF.exists_height_of_isMaximal_of_field
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:11:03.033188+00:00
 -- url     : https://prove2.me/theorems/d4f9c626-320c-4df0-b431-0e22e9f0d521

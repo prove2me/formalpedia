@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_isWeightedHomogeneous_qmap
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.isWeightedHomogeneous_qmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:24:31.369894+00:00
 -- url     : https://prove2.me/theorems/07aac554-efb6-49b6-b008-848e6e0d4182

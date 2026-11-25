@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_rat_facts
 -- name    : PositivityTheory.KReal.rat_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:32:04.707608+00:00
 -- url     : https://prove2.me/theorems/5abda767-b81a-5636-bd66-57b3afcef1bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_Sd_piu_inv_not_mem
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.Sd.piu_inv_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:30:50.349264+00:00
 -- url     : https://prove2.me/theorems/e046dac6-c4fd-5c39-8f60-8a8cae875560

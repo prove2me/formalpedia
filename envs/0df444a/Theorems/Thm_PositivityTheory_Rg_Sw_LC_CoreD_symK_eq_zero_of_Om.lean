@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreD_symK_eq_zero_of_Om
 -- name    : PositivityTheory.Rg.Sw.LC.CoreD.symK_eq_zero_of_Om
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:20:58.61154+00:00
 -- url     : https://prove2.me/theorems/88883f60-0557-5b66-9673-ecca5ffa0193

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_IntPf_exists_cons_one_ne
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.IntPf.exists_cons_one_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:57:05.210359+00:00
 -- url     : https://prove2.me/theorems/f491ea81-c748-4895-b5e9-9b69b1ed7abe

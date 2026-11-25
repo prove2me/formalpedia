@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_exists_exp_eq_of_mem_Kset
 -- name    : ReciprocityTheory.ChartRestriction.DS.exists_exp_eq_of_mem_Kset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:57:04.465373+00:00
 -- url     : https://prove2.me/theorems/7e4575cd-1e91-4166-9a14-1f13b1629bac

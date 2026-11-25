@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PolyCoef_Ugood_eq_top
 -- name    : PI.UnitaryGroupMassFormula.PolyCoef.Ugood_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:12:16.078815+00:00
 -- url     : https://prove2.me/theorems/8245bc74-79db-4a88-8776-8da73813ebdb

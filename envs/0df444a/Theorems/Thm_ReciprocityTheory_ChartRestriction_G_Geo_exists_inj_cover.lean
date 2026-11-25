@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_exists_inj_cover
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.exists_inj_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:23:03.149436+00:00
 -- url     : https://prove2.me/theorems/cb4c369e-b26b-53bd-af01-9cb0511f3cb9

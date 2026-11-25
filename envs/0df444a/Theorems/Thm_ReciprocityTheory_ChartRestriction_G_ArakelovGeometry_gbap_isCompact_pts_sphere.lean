@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_gbap_isCompact_pts_sphere
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gbap_isCompact_pts_sphere
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:13:24.946838+00:00
 -- url     : https://prove2.me/theorems/575900dc-d2ba-45ee-9fde-155bfca2e586

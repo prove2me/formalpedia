@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_norm_low
 -- name    : PositivityTheory.KReal.norm_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:25:45.963257+00:00
 -- url     : https://prove2.me/theorems/61f6574e-239e-50e2-8779-c5cb71b6ae3b

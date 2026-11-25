@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_projLine_isSmoothPotential
 -- name    : ReciprocityTheory.AnForm.M.projLine_isSmoothPotential
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:22:50.500942+00:00
 -- url     : https://prove2.me/theorems/67ae9db5-36a5-48f7-b04b-c98a9822e1c7

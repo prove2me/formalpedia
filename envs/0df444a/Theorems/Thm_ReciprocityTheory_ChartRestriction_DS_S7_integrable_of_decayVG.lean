@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_integrable_of_decayVG
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.integrable_of_decayVG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:20:21.705942+00:00
 -- url     : https://prove2.me/theorems/eee4c41b-c45a-4bef-b3ce-0bcf3a9995d3

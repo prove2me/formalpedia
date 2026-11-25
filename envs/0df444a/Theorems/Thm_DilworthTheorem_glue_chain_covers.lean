@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_glue_chain_covers
 -- name    : DilworthTheorem.glue_chain_covers
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:58:26.054808+00:00
 -- url     : https://prove2.me/theorems/4d74f8d2-26e3-5459-8442-0653cfbd2714

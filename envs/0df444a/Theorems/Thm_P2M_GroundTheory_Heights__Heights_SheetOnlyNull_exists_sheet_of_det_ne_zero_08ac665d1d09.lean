@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SheetOnlyNull_exists_sheet_of_det_ne_zero_08ac665d1d09
 -- name    : P2M_GroundTheory_Heights__Heights_SheetOnlyNull_exists_sheet_of_det_ne_zero_08ac665d1d09
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:11:23.480099+00:00
 -- url     : https://prove2.me/theorems/327d361e-c286-4c30-9894-3cfed49795c3

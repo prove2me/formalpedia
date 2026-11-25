@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_stKFin
 -- name    : PIW.AdelClassFin.stKFin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:56:44.751866+00:00
 -- url     : https://prove2.me/theorems/0d9d8230-6e90-4c44-8b27-f537935f9c8b

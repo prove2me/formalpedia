@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Asm_build
 -- name    : PI.ScPiBuildW.Asm.build
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:38:32.595913+00:00
 -- url     : https://prove2.me/theorems/24de8c48-04c5-4137-9223-f5c44251c963

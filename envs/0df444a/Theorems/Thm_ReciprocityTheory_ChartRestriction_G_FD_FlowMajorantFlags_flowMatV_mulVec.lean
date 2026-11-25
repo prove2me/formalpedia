@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FlowMajorantFlags_flowMatV_mulVec
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FlowMajorantFlags.flowMatV_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:19:56.814742+00:00
 -- url     : https://prove2.me/theorems/2e8cabf0-57c8-5a6d-9506-3c1b6858fe4a

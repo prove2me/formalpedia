@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_emb_mulVec
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.emb_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:12:13.509388+00:00
 -- url     : https://prove2.me/theorems/ee61c766-fa7a-58c5-b820-58218539a92b

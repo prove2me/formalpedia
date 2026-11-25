@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_mdisc_nonneg_of_posSemidef
 -- name    : ReciprocityTheory.AnForm.A.mdisc_nonneg_of_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:57:26.786381+00:00
 -- url     : https://prove2.me/theorems/b3ce8177-3167-464c-8a57-edffd3275711

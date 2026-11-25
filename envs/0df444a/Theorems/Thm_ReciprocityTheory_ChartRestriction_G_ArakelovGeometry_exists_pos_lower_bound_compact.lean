@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_exists_pos_lower_bound_compact
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.exists_pos_lower_bound_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:07:20.804847+00:00
 -- url     : https://prove2.me/theorems/19e74f01-115e-4214-aebf-162ada972330

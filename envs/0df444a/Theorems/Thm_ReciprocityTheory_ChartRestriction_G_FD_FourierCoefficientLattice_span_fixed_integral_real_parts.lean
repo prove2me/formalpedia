@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FourierCoefficientLattice_span_fixed_integral_real_parts
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FourierCoefficientLattice.span_fixed_integral_real_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:15:50.740806+00:00
 -- url     : https://prove2.me/theorems/52cbdbe1-0347-42a8-ba36-93fd0a565389

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MaDensLeibniz_proof_683f795c1327
 -- name    : P2M_GroundTheory_Heights__Heights_MaDensLeibniz_proof_683f795c1327
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:53:35.627238+00:00
 -- url     : https://prove2.me/theorems/73faaa53-b06f-4869-a3fb-d19b037eb72c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_isDegZero_normSq
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.isDegZero_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:10:50.428802+00:00
 -- url     : https://prove2.me/theorems/c6aae955-601d-588b-9a92-5e09a67128d2

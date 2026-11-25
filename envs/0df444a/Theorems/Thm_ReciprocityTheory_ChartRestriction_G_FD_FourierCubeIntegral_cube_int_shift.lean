@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FourierCubeIntegral_cube_int_shift
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FourierCubeIntegral.cube_int_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:18:04.053892+00:00
 -- url     : https://prove2.me/theorems/781c78fb-bc1b-4e13-a353-2f2dd85aefc1

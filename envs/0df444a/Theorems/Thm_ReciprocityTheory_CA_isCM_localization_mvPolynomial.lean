@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_isCM_localization_mvPolynomial
 -- name    : ReciprocityTheory.CA.isCM_localization_mvPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:39:50.084046+00:00
 -- url     : https://prove2.me/theorems/7d296ab6-4cab-4ded-89e8-b07fac9ec0e8

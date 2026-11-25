@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_box_product_weight_identity
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.box_product_weight_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:13:28.359539+00:00
 -- url     : https://prove2.me/theorems/4d767abb-d1b4-50e7-940f-76ea4ca1810f

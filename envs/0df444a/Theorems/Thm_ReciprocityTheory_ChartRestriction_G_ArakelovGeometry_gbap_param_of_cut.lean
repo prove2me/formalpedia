@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_gbap_param_of_cut
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gbap_param_of_cut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:08:51.350995+00:00
 -- url     : https://prove2.me/theorems/e2214e16-0ed2-472e-8e0d-0779198a4a63

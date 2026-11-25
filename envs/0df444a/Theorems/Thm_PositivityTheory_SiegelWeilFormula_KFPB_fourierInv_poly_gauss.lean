@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KFPB_fourierInv_poly_gauss
 -- name    : PositivityTheory.SiegelWeilFormula.KFPB.fourierInv_poly_gauss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:17:32.803894+00:00
 -- url     : https://prove2.me/theorems/d09825a8-5949-41f9-a628-e70c24f6fb63

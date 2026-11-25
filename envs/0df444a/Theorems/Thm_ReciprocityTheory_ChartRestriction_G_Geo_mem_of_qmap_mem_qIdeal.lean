@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_mem_of_qmap_mem_qIdeal
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.mem_of_qmap_mem_qIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:24:23.81963+00:00
 -- url     : https://prove2.me/theorems/97456dfb-d2e8-424a-8959-1d9254919222

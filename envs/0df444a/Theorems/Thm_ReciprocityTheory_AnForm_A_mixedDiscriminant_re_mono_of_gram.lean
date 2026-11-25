@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_mixedDiscriminant_re_mono_of_gram
 -- name    : ReciprocityTheory.AnForm.A.mixedDiscriminant_re_mono_of_gram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:33:10.765798+00:00
 -- url     : https://prove2.me/theorems/75c34b95-261a-4551-acaf-53d434954891

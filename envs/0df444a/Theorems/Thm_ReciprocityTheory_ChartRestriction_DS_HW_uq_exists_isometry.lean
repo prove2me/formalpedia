@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_uq_exists_isometry
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.uq_exists_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:33:34.212374+00:00
 -- url     : https://prove2.me/theorems/6934c106-c26f-43ad-9c70-7fe1dadba0f5

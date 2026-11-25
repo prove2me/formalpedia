@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGauss_exists_fderiv_sq_quot
 -- name    : GlobalTheory.ThetaGauss.exists_fderiv_sq_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:48:09.924259+00:00
 -- url     : https://prove2.me/theorems/e44563f1-3f7a-43fc-93e8-779bfb0311bb

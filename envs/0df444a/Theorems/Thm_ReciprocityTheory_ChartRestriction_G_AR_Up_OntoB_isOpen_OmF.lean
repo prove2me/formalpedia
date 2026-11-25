@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_OntoB_isOpen_OmF
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.OntoB.isOpen_OmF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:31:58.339291+00:00
 -- url     : https://prove2.me/theorems/86fd4896-7f59-4a15-940d-4359e343838b

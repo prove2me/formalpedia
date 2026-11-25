@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_two_D_sq
 -- name    : ReciprocityTheory.ChartRestriction.DS.two_D_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:13:18.821919+00:00
 -- url     : https://prove2.me/theorems/26e55a1c-39c7-4085-85e5-8c4ea1aab0a6

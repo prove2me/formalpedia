@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementJacquet_isClopen_shell
 -- name    : GroundTheory.Automorphic.GodementJacquet.isClopen_shell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:27:08.40246+00:00
 -- url     : https://prove2.me/theorems/223a0164-06e7-4ba5-8f4a-d7319fa6826f

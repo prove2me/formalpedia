@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_DataX_tau_c0E
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.DataX.tau_c0E
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:13:33.93928+00:00
 -- url     : https://prove2.me/theorems/c391256a-ceac-460d-b8d7-2eca46cd3c93

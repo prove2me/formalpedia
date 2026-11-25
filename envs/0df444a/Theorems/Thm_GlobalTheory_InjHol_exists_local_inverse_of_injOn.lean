@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InjHol_exists_local_inverse_of_injOn
 -- name    : GlobalTheory.InjHol.exists_local_inverse_of_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:19:26.315392+00:00
 -- url     : https://prove2.me/theorems/0985fdb3-74de-4153-91ef-3de3b1a6f698

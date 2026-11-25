@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_ExponentialGrowthExclusion_exists_fd
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.ExponentialGrowthExclusion.exists_fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:13:31.226435+00:00
 -- url     : https://prove2.me/theorems/655d2f6d-ec53-40e9-8eff-4c26a1fd3681

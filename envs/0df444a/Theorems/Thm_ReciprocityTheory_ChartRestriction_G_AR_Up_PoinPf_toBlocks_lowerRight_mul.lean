@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PoinPf_toBlocks_lowerRight_mul
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.toBlocks_lowerRight_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:04:50.076289+00:00
 -- url     : https://prove2.me/theorems/ce8d9a66-61a1-535f-ae9f-d59cbab0125c

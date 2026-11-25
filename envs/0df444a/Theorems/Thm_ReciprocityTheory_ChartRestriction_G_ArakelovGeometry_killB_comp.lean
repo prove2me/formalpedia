@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_killB_comp
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.killB_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:10:42.878686+00:00
 -- url     : https://prove2.me/theorems/31f778da-988e-5d04-8b26-5fc12a2710c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_GluingBases_glueLocal_of_fam
 -- name    : Formalism.L2.SG.Pf.GluingBases.glueLocal_of_fam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:20:37.238102+00:00
 -- url     : https://prove2.me/theorems/1dcf238b-2b5c-52d3-9d3d-2353eff01213

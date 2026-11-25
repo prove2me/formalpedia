@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_regMaxLevi_thm
 -- name    : ReciprocityTheory.AnForm.A.regMaxLevi_thm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:17.463842+00:00
 -- url     : https://prove2.me/theorems/5516b4fe-c29b-4191-89b3-12e46ac12dbc

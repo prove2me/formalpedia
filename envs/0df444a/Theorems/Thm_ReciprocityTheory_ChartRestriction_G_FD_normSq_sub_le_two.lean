@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_normSq_sub_le_two
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.normSq_sub_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:22:00.622483+00:00
 -- url     : https://prove2.me/theorems/b3d83aa5-cd6e-4641-b98c-5d7c2f5d862a

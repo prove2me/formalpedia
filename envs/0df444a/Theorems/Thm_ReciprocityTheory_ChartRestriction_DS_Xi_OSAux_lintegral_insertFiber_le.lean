@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_OSAux_lintegral_insertFiber_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.OSAux.lintegral_insertFiber_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:50:19.541258+00:00
 -- url     : https://prove2.me/theorems/27b0e796-6d01-5d37-857b-47a860c5861f

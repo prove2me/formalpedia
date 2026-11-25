@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KFPB_poly_gauss_of_lines
 -- name    : PositivityTheory.SiegelWeilFormula.KFPB.poly_gauss_of_lines
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:22:03.762246+00:00
 -- url     : https://prove2.me/theorems/56f65654-be46-5662-a24d-a1cc7d0c10f7

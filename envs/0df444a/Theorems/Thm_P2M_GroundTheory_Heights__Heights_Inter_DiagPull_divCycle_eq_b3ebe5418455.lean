@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagPull_divCycle_eq_b3ebe5418455
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagPull_divCycle_eq_b3ebe5418455
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:30:22.765563+00:00
 -- url     : https://prove2.me/theorems/2c93785a-4804-43e6-86ff-dc2d09f23780

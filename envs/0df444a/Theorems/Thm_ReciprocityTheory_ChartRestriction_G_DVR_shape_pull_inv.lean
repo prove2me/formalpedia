@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_shape_pull_inv
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.shape_pull_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:12:14.711501+00:00
 -- url     : https://prove2.me/theorems/60b8535d-d4d3-4ebe-8dfd-165a01085e6d

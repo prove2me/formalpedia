@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_re_mdisc_cons_vecMulVec_nonneg
 -- name    : ReciprocityTheory.AnForm.A.re_mdisc_cons_vecMulVec_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:33:35.890124+00:00
 -- url     : https://prove2.me/theorems/afe8e938-8ecc-45ca-9ad9-6592cd2f0c61

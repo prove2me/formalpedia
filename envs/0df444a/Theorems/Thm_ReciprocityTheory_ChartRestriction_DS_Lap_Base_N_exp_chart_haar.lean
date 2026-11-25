@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_exp_chart_haar
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.exp_chart_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:41:24.427932+00:00
 -- url     : https://prove2.me/theorems/fa095d4e-380c-52ee-9265-94a44ec1f664

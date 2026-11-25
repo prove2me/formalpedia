@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_isPsh_normSq_ball_f0c3bcbba220
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_isPsh_normSq_ball_f0c3bcbba220
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:40:27.107302+00:00
 -- url     : https://prove2.me/theorems/f26666c2-130b-4b4a-94d6-a6477d6b82dd

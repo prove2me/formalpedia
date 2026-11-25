@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_io_fixed_up
 -- name    : PI.WGL.io_fixed_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:47:11.510049+00:00
 -- url     : https://prove2.me/theorems/f314187c-0a2d-4ecb-8c80-65dd45faf248

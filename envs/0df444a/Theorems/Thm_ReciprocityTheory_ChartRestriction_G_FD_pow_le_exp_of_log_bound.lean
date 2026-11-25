@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_pow_le_exp_of_log_bound
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.pow_le_exp_of_log_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:21:41.726365+00:00
 -- url     : https://prove2.me/theorems/e1930d22-920b-4e8c-949a-07ccc04e4c96

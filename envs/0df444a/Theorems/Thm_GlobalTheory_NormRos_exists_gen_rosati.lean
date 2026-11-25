@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormRos_exists_gen_rosati
 -- name    : GlobalTheory.NormRos.exists_gen_rosati
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:12:25.659984+00:00
 -- url     : https://prove2.me/theorems/bab64696-3f64-40e3-bcb8-82e097083d28

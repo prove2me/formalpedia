@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_locDensChart
 -- name    : ReciprocityTheory.AnForm.M.locDensChart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:26:19.890112+00:00
 -- url     : https://prove2.me/theorems/d9963882-4443-465f-807a-b1ba14f19c73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_act_natCast
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.act_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:15:57.427798+00:00
 -- url     : https://prove2.me/theorems/257f02eb-2d3c-4b20-afa0-316be36a09bb

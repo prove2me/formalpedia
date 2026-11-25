@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PoinPf_pow_half_sq
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.pow_half_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:02:45.680831+00:00
 -- url     : https://prove2.me/theorems/8a40e342-2bbc-5324-9b84-f071d2f5bc8e

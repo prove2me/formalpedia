@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_gelfand_hw
 -- name    : ReciprocityTheory.ChartRestriction.DS.gelfand_hw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:11:57.276504+00:00
 -- url     : https://prove2.me/theorems/fa27bff5-9002-4053-bf49-50ab26a2d781

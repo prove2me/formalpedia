@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_IsotropicCombinations_herm_sum_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.IsotropicCombinations.herm_sum_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:20:49.176046+00:00
 -- url     : https://prove2.me/theorems/f93c7fe5-eb3f-5b33-a2d0-5eb563b7b500

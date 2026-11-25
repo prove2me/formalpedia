@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjRankDropDens_proof_6cb0fdf04271
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjRankDropDens_proof_6cb0fdf04271
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:41:42.774502+00:00
 -- url     : https://prove2.me/theorems/b65e7e1a-3d7a-47f2-94d1-45ec0f0bd17f

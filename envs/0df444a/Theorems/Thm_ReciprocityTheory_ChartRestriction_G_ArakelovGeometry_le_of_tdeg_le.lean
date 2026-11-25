@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_le_of_tdeg_le
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.le_of_tdeg_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:15:36.56626+00:00
 -- url     : https://prove2.me/theorems/0c136fd9-0dd3-4b98-8583-23bb1b057745

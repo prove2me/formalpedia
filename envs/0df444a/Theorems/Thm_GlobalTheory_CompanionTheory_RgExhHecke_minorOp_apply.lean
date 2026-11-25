@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_minorOp_apply
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.minorOp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:48:46.272359+00:00
 -- url     : https://prove2.me/theorems/04524639-2b02-5aa8-ad2d-0994cb203195

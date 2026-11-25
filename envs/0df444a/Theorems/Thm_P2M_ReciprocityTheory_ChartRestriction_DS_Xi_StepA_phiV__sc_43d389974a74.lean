@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_phiV__sc_43d389974a74
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_phiV__sc_43d389974a74
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:13:52.079789+00:00
 -- url     : https://prove2.me/theorems/790b880a-fea6-4404-912b-8ee5834d2187

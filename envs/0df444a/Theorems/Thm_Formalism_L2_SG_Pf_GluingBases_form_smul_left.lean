@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_GluingBases_form_smul_left
 -- name    : Formalism.L2.SG.Pf.GluingBases.form_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:34:34.674034+00:00
 -- url     : https://prove2.me/theorems/58bd8bb5-baad-5b55-ba25-69120964398f

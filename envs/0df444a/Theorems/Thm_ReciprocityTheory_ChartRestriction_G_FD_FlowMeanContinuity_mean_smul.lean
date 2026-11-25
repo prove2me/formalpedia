@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FlowMeanContinuity_mean_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FlowMeanContinuity.mean_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:19:57.13192+00:00
 -- url     : https://prove2.me/theorems/62329d2e-d4be-500f-855a-1f36d2d0e00c

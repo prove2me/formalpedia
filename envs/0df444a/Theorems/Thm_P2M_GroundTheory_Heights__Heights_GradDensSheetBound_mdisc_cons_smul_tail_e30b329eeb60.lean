@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GradDensSheetBound_mdisc_cons_smul_tail_e30b329eeb60
 -- name    : P2M_GroundTheory_Heights__Heights_GradDensSheetBound_mdisc_cons_smul_tail_e30b329eeb60
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:18:23.506418+00:00
 -- url     : https://prove2.me/theorems/28ced8e3-852c-4261-9e47-3c987c442306

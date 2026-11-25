@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_densV_of_gram
 -- name    : PI.VolStabW.densV_of_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:47:22.503039+00:00
 -- url     : https://prove2.me/theorems/1e05e337-500a-4bb3-89fa-1080ee63b07f

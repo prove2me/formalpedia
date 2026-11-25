@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_uniq_iter
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.uniq_iter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:33:06.622091+00:00
 -- url     : https://prove2.me/theorems/16606940-792e-4769-97bf-cedbd5830376

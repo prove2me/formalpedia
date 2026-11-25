@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_finsum_regroup
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.finsum_regroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:22:10.710811+00:00
 -- url     : https://prove2.me/theorems/96e4bb95-967c-433a-ac61-91923c63cc48

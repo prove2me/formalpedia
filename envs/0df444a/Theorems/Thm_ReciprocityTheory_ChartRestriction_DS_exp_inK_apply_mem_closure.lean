@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_exp_inK_apply_mem_closure
 -- name    : ReciprocityTheory.ChartRestriction.DS.exp_inK_apply_mem_closure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:11:20.443459+00:00
 -- url     : https://prove2.me/theorems/0307d8b2-5793-4290-98e7-5db735f1c807

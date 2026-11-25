@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_lift_layer
 -- name    : ReciprocityTheory.ChartRestriction.DS.lift_layer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:59:12.460526+00:00
 -- url     : https://prove2.me/theorems/d3c95efc-5a3f-48f7-b177-8e250210cee2

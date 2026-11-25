@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_RealPlaceEmbeddings_Tm_iota
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.RealPlaceEmbeddings.Tm_iota
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:20:20.254281+00:00
 -- url     : https://prove2.me/theorems/c95aed81-b58e-44b4-a145-a7595987eaad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_fsum_theta
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.fsum_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:11:38.750136+00:00
 -- url     : https://prove2.me/theorems/f0753f86-99f0-4cb0-a715-2f74e94cea56

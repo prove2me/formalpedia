@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_NonScalProof_IsP_const
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.NonScalProof.IsP.const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:47:59.75904+00:00
 -- url     : https://prove2.me/theorems/81dd13e5-df42-5789-836c-21b75368701b

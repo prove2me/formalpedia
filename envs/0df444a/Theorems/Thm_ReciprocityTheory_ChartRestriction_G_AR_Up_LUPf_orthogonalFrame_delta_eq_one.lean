@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_LUPf_orthogonalFrame_delta_eq_one
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.LUPf.orthogonalFrame_delta_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:07:51.235188+00:00
 -- url     : https://prove2.me/theorems/ac44914d-d904-571c-8779-8c53ec900f5e

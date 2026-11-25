@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_sum_gx_eq_gval
 -- name    : ReciprocityTheory.ChartRestriction.DS.sum_gx_eq_gval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:54:17.961845+00:00
 -- url     : https://prove2.me/theorems/ba4789d7-e0c0-5fec-97f2-c4f4b2205298

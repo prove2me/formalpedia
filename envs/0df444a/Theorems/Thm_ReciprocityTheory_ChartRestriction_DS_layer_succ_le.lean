@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_layer_succ_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.layer_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:52:37.71426+00:00
 -- url     : https://prove2.me/theorems/63323f2b-f13e-4458-b1e4-40f47313b03b

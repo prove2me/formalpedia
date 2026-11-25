@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_eq_of_tailSum_eq
 -- name    : GroundTheory.Automorphic.Spherical.eq_of_tailSum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:27:42.278495+00:00
 -- url     : https://prove2.me/theorems/eb2f9726-6be3-5733-a91d-7cd21c95706a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_TransvectionPeriodicity_transvMat_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.TransvectionPeriodicity.transvMat_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:20:59.46589+00:00
 -- url     : https://prove2.me/theorems/6ec9e399-6eee-4440-a225-45ce17ba484e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_gMat_inv_apply
 -- name    : GroundTheory.Automorphic.Spherical.gMat_inv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:33:57.212398+00:00
 -- url     : https://prove2.me/theorems/7eba2faa-3bf5-567b-9041-da1a5011704a

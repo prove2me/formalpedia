@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_bdd_sum
 -- name    : GroundTheory.Automorphic.Spherical.bdd_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:28:54.880011+00:00
 -- url     : https://prove2.me/theorems/a3599ec0-7e24-4d92-9199-fadf8482de10

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FourierCoefficientDomain_cont_Zb
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FourierCoefficientDomain.cont_Zb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:13:51.607487+00:00
 -- url     : https://prove2.me/theorems/6beff055-6f37-57b2-8aa5-cc6f43b7292c

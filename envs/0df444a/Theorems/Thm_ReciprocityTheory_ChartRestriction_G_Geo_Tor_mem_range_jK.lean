@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_mem_range_jK
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.mem_range_jK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:23:31.377172+00:00
 -- url     : https://prove2.me/theorems/723adb2a-1386-5b12-a71c-37aeae66dc6c

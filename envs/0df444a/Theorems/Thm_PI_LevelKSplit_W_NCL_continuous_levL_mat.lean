@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_NCL_continuous_levL_mat
 -- name    : PI.LevelKSplit.W.NCL.continuous_levL_mat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:40:17.776027+00:00
 -- url     : https://prove2.me/theorems/08209b6e-afcb-5554-bafd-d7ff36803f67

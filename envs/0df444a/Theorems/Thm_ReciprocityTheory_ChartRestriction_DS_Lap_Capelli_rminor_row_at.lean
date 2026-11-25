@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Capelli_rminor_row_at
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.rminor_row_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:43:20.374619+00:00
 -- url     : https://prove2.me/theorems/2b1d4f9b-fc90-5464-a6e0-f390ecb18130

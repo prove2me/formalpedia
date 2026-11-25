@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_TW_foldr_smooth
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.TW.foldr_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:51:08.943799+00:00
 -- url     : https://prove2.me/theorems/801707a5-0157-44ea-a79d-d00e81cc554a

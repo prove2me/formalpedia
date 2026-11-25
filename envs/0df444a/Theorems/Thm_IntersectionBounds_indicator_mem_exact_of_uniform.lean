@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntersectionBounds_indicator_mem_exact_of_uniform
 -- name    : IntersectionBounds.indicator_mem_exact_of_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:46:38.14608+00:00
 -- url     : https://prove2.me/theorems/4979019f-90f2-44de-aaa1-47981a41fd8d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_FlatBC_isoRel_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.FlatBC.isoRel_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:10:34.700041+00:00
 -- url     : https://prove2.me/theorems/68cb6b41-f326-57b2-9e65-8b3d62c6d041

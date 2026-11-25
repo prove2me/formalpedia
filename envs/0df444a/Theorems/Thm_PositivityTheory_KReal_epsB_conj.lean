@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_epsB_conj
 -- name    : PositivityTheory.KReal.epsB_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:45:06.553238+00:00
 -- url     : https://prove2.me/theorems/4ecfd778-270b-549b-b535-96d8afce4ff3

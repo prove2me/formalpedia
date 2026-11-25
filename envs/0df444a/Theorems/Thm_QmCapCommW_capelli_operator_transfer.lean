@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QmCapCommW_capelli_operator_transfer
 -- name    : QmCapCommW.capelli_operator_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:55:06.174073+00:00
 -- url     : https://prove2.me/theorems/d5a5aec4-f6fb-5cd6-ae8a-715b3aef3461

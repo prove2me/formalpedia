@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_TraceIntegralBasis_mem_span_bas
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.TraceIntegralBasis.mem_span_bas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:20:48.593318+00:00
 -- url     : https://prove2.me/theorems/46ccbab6-e664-46fe-95b8-ece80c0c4da6

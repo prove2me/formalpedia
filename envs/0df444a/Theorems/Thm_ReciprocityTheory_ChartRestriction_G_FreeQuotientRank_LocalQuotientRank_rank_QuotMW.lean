@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_LocalQuotientRank_rank_QuotMW
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.LocalQuotientRank.rank_QuotMW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:22:13.233888+00:00
 -- url     : https://prove2.me/theorems/78242657-a75a-54f9-a9ef-36bafcb0c513

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_ratHom_mk
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.ratHom_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:25:19.367806+00:00
 -- url     : https://prove2.me/theorems/224151b0-c7f1-58aa-81fa-44104c2841f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_QuadraticLatticeForms_embV_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.QuadraticLatticeForms.embV_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:25:24.253904+00:00
 -- url     : https://prove2.me/theorems/73383a85-d0c3-429a-960d-81a2313f714a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_isHomogeneous_lex_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.isHomogeneous_lex_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:58:41.113833+00:00
 -- url     : https://prove2.me/theorems/5ce72ee3-3716-4d8c-b015-1a94f23ec496

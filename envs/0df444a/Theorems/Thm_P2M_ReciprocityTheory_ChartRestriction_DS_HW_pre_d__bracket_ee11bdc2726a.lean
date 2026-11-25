@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_HW_pre_d__bracket_ee11bdc2726a
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_HW_pre_d__bracket_ee11bdc2726a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:14:16.438701+00:00
 -- url     : https://prove2.me/theorems/d601268a-7fa0-45bd-a37c-87357cffb3c9

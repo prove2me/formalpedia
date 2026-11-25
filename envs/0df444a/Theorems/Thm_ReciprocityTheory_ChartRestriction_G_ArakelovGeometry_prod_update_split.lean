@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_prod_update_split
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.prod_update_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:10:12.123093+00:00
 -- url     : https://prove2.me/theorems/c2b281bf-d6d5-4b42-91d1-9bb1592d44da

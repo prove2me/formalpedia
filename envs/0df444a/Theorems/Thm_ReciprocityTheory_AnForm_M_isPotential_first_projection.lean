@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_isPotential_first_projection
 -- name    : ReciprocityTheory.AnForm.M.isPotential_first_projection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:47:49.13546+00:00
 -- url     : https://prove2.me/theorems/50db23fc-2998-45e7-8361-c82761d36fd3

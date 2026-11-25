@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_FourPlusTwoResidual_exists_ratio_chart_t4_witness
 -- name    : HodgeComputer.FourPlusTwoResidual.exists_ratio_chart_t4_witness
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-25T05:49:13.802466+00:00
 -- url     : https://prove2.me/theorems/df7f7e21-1949-4a10-b778-9813179e6c9d

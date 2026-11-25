@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Frob_pull_symm_pull
 -- name    : PositivityTheory.PfBern.Frob.pull_symm_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:40:57.307741+00:00
 -- url     : https://prove2.me/theorems/f47184d7-479b-47a9-a3e5-432f58cb30b4

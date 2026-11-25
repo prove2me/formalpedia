@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_isOpen_dShell
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.isOpen_dShell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:06:08.888782+00:00
 -- url     : https://prove2.me/theorems/4ca3fe69-8b7c-4e95-9fc1-99c7d9cc3a5b

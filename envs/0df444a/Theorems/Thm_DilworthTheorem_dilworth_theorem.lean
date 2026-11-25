@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_dilworth_theorem
 -- name    : DilworthTheorem.dilworth_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:30:38.090048+00:00
 -- url     : https://prove2.me/theorems/f1167421-2595-49a8-8a13-8c45ab937655

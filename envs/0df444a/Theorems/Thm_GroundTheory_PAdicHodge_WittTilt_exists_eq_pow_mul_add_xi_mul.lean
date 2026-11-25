@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittTilt_exists_eq_pow_mul_add_xi_mul
 -- name    : GroundTheory.PAdicHodge.WittTilt.exists_eq_pow_mul_add_xi_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:47:15.745722+00:00
 -- url     : https://prove2.me/theorems/c13f35b1-ebe5-46cd-85c4-2d20a35f2241

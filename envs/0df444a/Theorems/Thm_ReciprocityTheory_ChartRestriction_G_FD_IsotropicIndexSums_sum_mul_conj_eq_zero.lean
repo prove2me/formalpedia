@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_IsotropicIndexSums_sum_mul_conj_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.IsotropicIndexSums.sum_mul_conj_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:26:57.729744+00:00
 -- url     : https://prove2.me/theorems/23adbb73-17a7-5c0d-900e-760478369751

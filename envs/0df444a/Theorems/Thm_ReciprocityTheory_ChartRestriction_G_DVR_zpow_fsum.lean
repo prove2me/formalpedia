@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_zpow_fsum
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.zpow_fsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:11:48.894709+00:00
 -- url     : https://prove2.me/theorems/ad1bdf9e-1f2a-55dd-954d-708b555a900d

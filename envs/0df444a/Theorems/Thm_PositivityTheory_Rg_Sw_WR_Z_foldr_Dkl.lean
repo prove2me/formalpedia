@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_Z_foldr_Dkl
 -- name    : PositivityTheory.Rg.Sw.WR.Z.foldr_Dkl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:21.595071+00:00
 -- url     : https://prove2.me/theorems/8cfd2ffe-2316-4ea0-a2fa-278367f19d41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_qminorOp_lev
 -- name    : PIQnLT.qminorOp_lev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:00:59.839165+00:00
 -- url     : https://prove2.me/theorems/5fbe768d-69c0-464b-bfea-fb84402fe531

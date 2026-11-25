@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntersectionBounds_separator_linearIndependent
 -- name    : IntersectionBounds.separator_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:46:10.999177+00:00
 -- url     : https://prove2.me/theorems/a080b34b-898a-471d-9237-16f7b4651f3a

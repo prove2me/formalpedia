@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_DimF_finiteRingKrullDim_quot
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.DimF.finiteRingKrullDim_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:27:53.256697+00:00
 -- url     : https://prove2.me/theorems/ea7482cf-9cc4-4882-b89f-e91869e18d39

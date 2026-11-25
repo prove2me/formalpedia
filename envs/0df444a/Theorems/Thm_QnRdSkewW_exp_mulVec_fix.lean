@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnRdSkewW_exp_mulVec_fix
 -- name    : QnRdSkewW.exp_mulVec_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:05:49.430378+00:00
 -- url     : https://prove2.me/theorems/d604f858-6a44-496e-9ca3-0af1f68ce52c

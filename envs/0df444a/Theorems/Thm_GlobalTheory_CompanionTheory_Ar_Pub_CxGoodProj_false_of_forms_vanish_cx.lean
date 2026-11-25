@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxGoodProj_false_of_forms_vanish_cx
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxGoodProj.false_of_forms_vanish_cx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:20:56.868745+00:00
 -- url     : https://prove2.me/theorems/c4fa32cb-d1c7-4f7b-94b2-faad8032d768

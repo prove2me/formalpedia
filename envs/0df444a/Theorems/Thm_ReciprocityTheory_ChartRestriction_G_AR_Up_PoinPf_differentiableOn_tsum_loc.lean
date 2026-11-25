@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PoinPf_differentiableOn_tsum_loc
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.differentiableOn_tsum_loc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:44:33.890944+00:00
 -- url     : https://prove2.me/theorems/4d454c97-a2a2-48e2-b5dd-d1c305b8b0bd

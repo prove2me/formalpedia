@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthonormalChartBounds_mjnsq_sub_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthonormalChartBounds.mjnsq_sub_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:19:29.298359+00:00
 -- url     : https://prove2.me/theorems/915c5f95-bcc4-4288-9930-1b400c879c32

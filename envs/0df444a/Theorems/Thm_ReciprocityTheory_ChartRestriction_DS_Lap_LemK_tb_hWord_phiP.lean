@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_tb_hWord_phiP
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.LemK.tb_hWord_phiP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:03:25.490304+00:00
 -- url     : https://prove2.me/theorems/d71f5412-5542-41f9-a44e-48df84afd77b

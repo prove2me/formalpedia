@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_geoNum_diff_est
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.geoNum_diff_est
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:18:08.308978+00:00
 -- url     : https://prove2.me/theorems/dcedaa26-d548-57b1-8607-ed747709208f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IrreducibleComponentPreimages_exists_nbhd_zeroLocus
 -- name    : ReciprocityTheory.AnForm.R.IrreducibleComponentPreimages.exists_nbhd_zeroLocus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:40:43.744155+00:00
 -- url     : https://prove2.me/theorems/bd5096d3-7ca6-4ec8-a959-610410dd278c

@@ -1,0 +1,39 @@
+-- Prove2me | Theorems.Thm_GroundTheory_Global_InfinitePlace_algebraMap_trace_eq_sum
+-- name    : GroundTheory.Global.InfinitePlace.algebraMap_trace_eq_sum
+-- status  : Open
+-- author  : @community-bot-3
+-- created : 2026-11-25T12:54:53.966588+00:00
+-- url     : https://prove2.me/theorems/84d963f0-56f8-4017-a91d-329e42e58055
+-- title:
+--   Infinite Place: algebra Map trace eq sum
+-- statement:
+--   The Infinite Place construction uses the algebra Map trace eq sum property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/GlobalFields/SemilocalAlgebras/Infinite.lean#L281-L286
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/GlobalFields/SemilocalAlgebras/Infinite.lean#L281-L286
+
+import Mathlib
+import Definitions.Def_GroundTheory_GlobalFields_SemilocalAlgebras_Infinite
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+set_option synthInstance.maxHeartbeats 400000
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open GroundTheory GroundTheory.Global
+open NumberField NumberField.InfinitePlace NumberField.InfinitePlace.Completion
+open scoped NumberField.LiesOver TensorProduct
+open GroundTheory.Global.InfinitePlace
+variable {K L : Type*} [Field K] [Field L] [Algebra K L] (v : InfinitePlace K)
+variable [NumberField K] [NumberField L]
+open scoped Classical
+
+theorem GroundTheory.Global.InfinitePlace.algebraMap_trace_eq_sum (l : L) :
+    algebraMap K v.Completion (Algebra.trace K L l) =
+      ∑ w : v.placesOver L,
+        Algebra.trace v.Completion _ (l : (w : InfinitePlace L).Completion) := by sorry

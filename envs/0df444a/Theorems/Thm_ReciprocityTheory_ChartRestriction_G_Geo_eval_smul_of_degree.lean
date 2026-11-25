@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_eval_smul_of_degree
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.eval_smul_of_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:23:47.32602+00:00
 -- url     : https://prove2.me/theorems/34a50a26-961b-4175-adbc-1183c568c554

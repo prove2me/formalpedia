@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_i2kill_homog_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.i2kill_homog_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:10:58.830684+00:00
 -- url     : https://prove2.me/theorems/b87d6754-289a-41be-afae-23c9da37e818

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_dtau_adj
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.dtau_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:46:22.844401+00:00
 -- url     : https://prove2.me/theorems/531239ee-0938-488a-bee3-71134320f606

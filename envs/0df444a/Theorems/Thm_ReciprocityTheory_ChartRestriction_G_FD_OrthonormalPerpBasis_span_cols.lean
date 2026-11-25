@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthonormalPerpBasis_span_cols
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthonormalPerpBasis.span_cols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:21:15.375693+00:00
 -- url     : https://prove2.me/theorems/f1ad683e-7632-5915-aa99-2c425e6229df

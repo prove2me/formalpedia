@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_IsCMMod_isRegular_of_supportDim_quotient_le_zero
 -- name    : ReciprocityTheory.CA.IsCMMod.isRegular_of_supportDim_quotient_le_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:38:59.276906+00:00
 -- url     : https://prove2.me/theorems/f388a27b-f7a9-585d-bdad-289ee4b88552

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PairUnfoldPf_cMeasInv
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PairUnfoldPf.cMeasInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:02:18.674238+00:00
 -- url     : https://prove2.me/theorems/a72366e4-565d-5f28-8982-9d382e355db5

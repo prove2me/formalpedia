@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_weylK_std_vanish
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.weylK_std_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:42:35.405806+00:00
 -- url     : https://prove2.me/theorems/3b7c5eeb-0129-57c1-b922-5992d8133ca8

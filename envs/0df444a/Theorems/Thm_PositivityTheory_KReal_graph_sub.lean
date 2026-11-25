@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_graph_sub
 -- name    : PositivityTheory.KReal.graph_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:31:41.716443+00:00
 -- url     : https://prove2.me/theorems/ae8add17-b60f-4c57-bfd8-55c60d55b9e2

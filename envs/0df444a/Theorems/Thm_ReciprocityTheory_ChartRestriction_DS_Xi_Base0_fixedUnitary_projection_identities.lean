@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_fixedUnitary_projection_identities
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.Base0.fixedUnitary_projection_identities
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:09:21.410219+00:00
 -- url     : https://prove2.me/theorems/23fa7d4a-8c3e-4439-b909-740aed867cd7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_two_le_krullDim_of_chain
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.two_le_krullDim_of_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:10:16.655018+00:00
 -- url     : https://prove2.me/theorems/b0313fc9-295d-51f7-ae3e-d815c9588d88

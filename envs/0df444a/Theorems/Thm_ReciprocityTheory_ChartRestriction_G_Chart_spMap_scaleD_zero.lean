@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_spMap_scaleD_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.spMap_scaleD_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:21:35.035243+00:00
 -- url     : https://prove2.me/theorems/f59a8f35-ded2-4c2e-9966-24639f684b2d

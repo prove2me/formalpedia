@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos654Proof_card_XS
 -- name    : Erdos654Proof.card_XS
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:38:09.727617+00:00
 -- url     : https://prove2.me/theorems/fa25cd9d-828f-41b1-afdd-e6f99677fa95

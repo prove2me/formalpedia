@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_high_existence_holds
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.high_existence_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:33:09.75843+00:00
 -- url     : https://prove2.me/theorems/9345b1ed-21a9-4647-b200-9365eefe8204

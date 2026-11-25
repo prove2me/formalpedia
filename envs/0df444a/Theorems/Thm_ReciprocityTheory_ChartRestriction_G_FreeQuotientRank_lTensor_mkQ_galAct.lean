@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_lTensor_mkQ_galAct
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.lTensor_mkQ_galAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:23:18.324109+00:00
 -- url     : https://prove2.me/theorems/3ff0d6ef-c8eb-44eb-9693-16dfe33e6323

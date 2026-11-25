@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FourierCubeVolume_Ich_rmul
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FourierCubeVolume.Ich_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:18:03.14769+00:00
 -- url     : https://prove2.me/theorems/55630bb9-46df-4391-ba61-007377652eeb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_UUA_cubic_norm_mul_identity
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.UUA.cubic_norm_mul_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:12:17.326084+00:00
 -- url     : https://prove2.me/theorems/1ae413f4-34dc-5891-bbd0-8413fc0575e2

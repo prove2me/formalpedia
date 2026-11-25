@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos654Proof_yh_sq
 -- name    : Erdos654Proof.yh_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:47:40.435874+00:00
 -- url     : https://prove2.me/theorems/b0774065-9163-431a-8b94-d0b6222ff7e7

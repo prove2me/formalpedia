@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_noncompactLayer_succ_le_sup__a6d19741145a
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_noncompactLayer_succ_le_sup__a6d19741145a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:12:39.064355+00:00
 -- url     : https://prove2.me/theorems/56e4f243-e5fc-5c55-9b3e-6e2641c65895

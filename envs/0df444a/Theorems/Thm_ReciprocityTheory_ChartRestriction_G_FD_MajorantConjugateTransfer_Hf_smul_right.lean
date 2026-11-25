@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_MajorantConjugateTransfer_Hf_smul_right
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.MajorantConjugateTransfer.Hf_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:18:42.191155+00:00
 -- url     : https://prove2.me/theorems/9f6f34d5-e54a-4996-82af-3efc55235388

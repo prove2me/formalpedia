@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_LatticeSpanMembership_exists_nat_mul_int
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.LatticeSpanMembership.exists_nat_mul_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:19:13.594725+00:00
 -- url     : https://prove2.me/theorems/1bf55e57-e2fd-405d-9858-8b02d8fc7233

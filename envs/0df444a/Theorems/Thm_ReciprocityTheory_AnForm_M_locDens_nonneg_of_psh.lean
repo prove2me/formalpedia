@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_locDens_nonneg_of_psh
 -- name    : ReciprocityTheory.AnForm.M.locDens_nonneg_of_psh
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:34:12.791508+00:00
 -- url     : https://prove2.me/theorems/7d8cc8f9-8cc4-48ba-8dcd-d6a6a488a3ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PackingSeparation_one_le_abs_norm
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PackingSeparation.one_le_abs_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:20:20.2729+00:00
 -- url     : https://prove2.me/theorems/1348f8b0-926f-480f-bf78-6f7fecd10d13

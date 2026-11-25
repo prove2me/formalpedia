@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_nilp_coeff_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.nilp_coeff_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:09:43.417524+00:00
 -- url     : https://prove2.me/theorems/a65adde4-4622-4aa1-b11d-6a75c0aa4904

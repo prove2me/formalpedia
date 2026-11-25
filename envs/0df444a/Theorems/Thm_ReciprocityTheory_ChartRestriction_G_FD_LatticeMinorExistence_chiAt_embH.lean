@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_LatticeMinorExistence_chiAt_embH
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.LatticeMinorExistence.chiAt_embH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:18:49.662889+00:00
 -- url     : https://prove2.me/theorems/68db929f-cc97-4c4e-920f-fe6a3b5f0bc6

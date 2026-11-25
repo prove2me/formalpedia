@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeFormComparison_abs_maDens_cons_le_50c543526b9e
 -- name    : P2M_GroundTheory_Heights__Heights_TubeFormComparison_abs_maDens_cons_le_50c543526b9e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:42:23.284408+00:00
 -- url     : https://prove2.me/theorems/0fa3b5bc-8628-5c77-a0f2-c2f3c566a131

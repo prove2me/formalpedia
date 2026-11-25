@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_KU_posDef_of_psd_det
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.KU.posDef_of_psd_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:00:54.467857+00:00
 -- url     : https://prove2.me/theorems/a91f7b82-5fba-4eb3-a7d8-a365287d8c8f

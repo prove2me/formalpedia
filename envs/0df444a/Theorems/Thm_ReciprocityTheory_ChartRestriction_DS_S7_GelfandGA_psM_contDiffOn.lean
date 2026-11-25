@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_GelfandGA_psM_contDiffOn
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.GelfandGA.psM_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:05:48.61694+00:00
 -- url     : https://prove2.me/theorems/51f0749b-26a6-4289-aafe-f01299c378b5

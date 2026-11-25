@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_Harm_minusPart_second_action_Eab
 -- name    : PositivityTheory.KReal.Harm.minusPart_second_action_Eab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:45:23.804205+00:00
 -- url     : https://prove2.me/theorems/896d43fd-42b7-5bc2-bae2-ae14c60a3eca

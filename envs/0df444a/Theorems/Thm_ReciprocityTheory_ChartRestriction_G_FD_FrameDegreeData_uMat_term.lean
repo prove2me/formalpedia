@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FrameDegreeData_uMat_term
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FrameDegreeData.uMat_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:18:02.758796+00:00
 -- url     : https://prove2.me/theorems/ddabd2b4-e221-4311-8e20-160ca7fde8df

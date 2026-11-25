@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PeriodLatticeCountable_Zb_cont
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PeriodLatticeCountable.Zb_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:21:28.011667+00:00
 -- url     : https://prove2.me/theorems/179b69f7-10ee-510a-a662-9a03b958ab62

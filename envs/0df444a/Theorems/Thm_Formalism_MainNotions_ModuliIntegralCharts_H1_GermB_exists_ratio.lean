@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermB_exists_ratio
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermB.exists_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:48:21.197324+00:00
 -- url     : https://prove2.me/theorems/190fe6ad-41c0-460d-8ded-e667daa45d0b

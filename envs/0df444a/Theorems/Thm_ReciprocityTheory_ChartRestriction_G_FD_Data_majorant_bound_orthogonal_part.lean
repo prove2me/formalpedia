@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_majorant_bound_orthogonal_part
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.majorant_bound_orthogonal_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:12:29.265416+00:00
 -- url     : https://prove2.me/theorems/a2582e3b-816e-54ff-8836-e6a0c34777d5

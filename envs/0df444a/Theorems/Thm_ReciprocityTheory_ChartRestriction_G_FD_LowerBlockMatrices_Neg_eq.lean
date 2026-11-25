@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_LowerBlockMatrices_Neg_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.LowerBlockMatrices.Neg_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:22:50.086655+00:00
 -- url     : https://prove2.me/theorems/76e9de63-e93e-4aba-a0b1-adb6ec13a7da

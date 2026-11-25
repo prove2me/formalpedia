@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_mInt_update_eq
 -- name    : ReciprocityTheory.AnForm.P.mInt_update_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:29:57.463285+00:00
 -- url     : https://prove2.me/theorems/2444e05d-c2fc-469c-8ed6-cc7b3113bbd4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PlurisubharmonicExtension_vext_bdd
 -- name    : ReciprocityTheory.AnForm.A.PlurisubharmonicExtension.vext_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:36:11.565586+00:00
 -- url     : https://prove2.me/theorems/12161696-2298-4aec-9c60-0898999ad91b

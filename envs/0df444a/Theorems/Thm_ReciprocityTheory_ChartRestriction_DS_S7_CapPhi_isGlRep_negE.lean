@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CapPhi_isGlRep_negE
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CapPhi.isGlRep_negE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:42:57.960801+00:00
 -- url     : https://prove2.me/theorems/9b00e448-396f-5c6b-8ecf-471477cc7312

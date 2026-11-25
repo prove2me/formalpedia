@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_step
 -- name    : PI.WAU.B.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:09:39.081223+00:00
 -- url     : https://prove2.me/theorems/efb3e57e-27af-4cd7-a1fa-38aad42cc1ed

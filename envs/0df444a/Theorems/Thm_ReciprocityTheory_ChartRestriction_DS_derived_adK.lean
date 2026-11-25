@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_derived_adK
 -- name    : ReciprocityTheory.ChartRestriction.DS.derived_adK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:29:13.172878+00:00
 -- url     : https://prove2.me/theorems/38852513-da28-4f8c-b753-e746e93222c5

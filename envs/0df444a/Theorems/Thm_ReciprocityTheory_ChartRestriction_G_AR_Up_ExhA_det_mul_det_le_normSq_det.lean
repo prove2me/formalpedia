@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExhA_det_mul_det_le_normSq_det
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExhA.det_mul_det_le_normSq_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:57:32.759006+00:00
 -- url     : https://prove2.me/theorems/ab18f13b-c33b-548c-9603-a139d0200166

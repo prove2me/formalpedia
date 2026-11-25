@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_Bdd_mono
 -- name    : GroundTheory.Automorphic.Spherical.Bdd.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:27:24.865025+00:00
 -- url     : https://prove2.me/theorems/b26ea6e8-43bc-5607-bec2-1c3334a4f680

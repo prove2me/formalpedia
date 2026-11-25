@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_inv_line
 -- name    : PositivityTheory.Rg.Sw.SP.inv_line
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:51.099951+00:00
 -- url     : https://prove2.me/theorems/293f111f-6154-4330-bb9e-67fe1b8c18b5

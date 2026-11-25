@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_InfKA_continuous_DkL
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.InfKA.continuous_DkL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:44:54.235803+00:00
 -- url     : https://prove2.me/theorems/c36dc841-d594-4852-967a-e41dc7d0d2cd

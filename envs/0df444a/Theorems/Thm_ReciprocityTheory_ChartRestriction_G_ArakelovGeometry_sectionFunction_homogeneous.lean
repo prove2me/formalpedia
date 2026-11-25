@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_sectionFunction_homogeneous
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.sectionFunction_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:16:58.046218+00:00
 -- url     : https://prove2.me/theorems/f8718cf5-348b-4e04-a62b-c5b82a7097ae

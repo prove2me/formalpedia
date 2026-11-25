@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_rootDiscriminant_eq_rpow
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.rootDiscriminant_eq_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:26:23.735326+00:00
 -- url     : https://prove2.me/theorems/57042958-902f-5e92-9cef-11a12f8cb2c6

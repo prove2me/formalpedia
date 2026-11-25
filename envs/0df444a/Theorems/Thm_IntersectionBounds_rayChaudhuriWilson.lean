@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntersectionBounds_rayChaudhuriWilson
 -- name    : IntersectionBounds.rayChaudhuriWilson
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:49:34.846325+00:00
 -- url     : https://prove2.me/theorems/20c38304-5e32-58fe-b81e-d59690a429b7

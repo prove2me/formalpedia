@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsSumMeasurable_exists_lift_family_379c11db70cc
 -- name    : P2M_GroundTheory_Heights__Heights_PtsSumMeasurable_exists_lift_family_379c11db70cc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:47:02.800881+00:00
 -- url     : https://prove2.me/theorems/d8ddbadf-d54f-438e-8edd-28e869c963c5

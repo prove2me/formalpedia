@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FourierCoefficientLattice_LZ_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FourierCoefficientLattice.LZ_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:14:53.860776+00:00
 -- url     : https://prove2.me/theorems/e7988b23-7a3e-563b-bff3-0284857d010c

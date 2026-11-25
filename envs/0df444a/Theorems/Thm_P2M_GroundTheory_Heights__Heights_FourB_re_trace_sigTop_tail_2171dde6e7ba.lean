@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_re_trace_sigTop_tail_2171dde6e7ba
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_re_trace_sigTop_tail_2171dde6e7ba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:40:44.749946+00:00
 -- url     : https://prove2.me/theorems/56ac2d5c-a5be-485a-a9cd-8d586c573609

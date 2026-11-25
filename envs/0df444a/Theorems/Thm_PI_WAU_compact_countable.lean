@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_compact_countable
 -- name    : PI.WAU.compact_countable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:09:25.789421+00:00
 -- url     : https://prove2.me/theorems/e4acb8d7-9518-4926-bd1d-e20128aeee79

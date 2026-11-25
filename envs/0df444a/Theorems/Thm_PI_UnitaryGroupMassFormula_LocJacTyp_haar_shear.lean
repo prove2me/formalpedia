@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_haar_shear
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.haar_shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:40:40.713642+00:00
 -- url     : https://prove2.me/theorems/0db70ef7-c033-55a4-844a-8e84ff8eaf9a

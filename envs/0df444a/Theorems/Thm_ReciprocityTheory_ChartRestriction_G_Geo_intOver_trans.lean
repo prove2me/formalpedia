@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_intOver_trans
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.intOver_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:23:38.499638+00:00
 -- url     : https://prove2.me/theorems/a62a719e-ba57-40f3-a419-c24137096d33

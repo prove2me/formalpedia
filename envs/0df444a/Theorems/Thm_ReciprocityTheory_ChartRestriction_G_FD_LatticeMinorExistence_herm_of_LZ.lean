@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_LatticeMinorExistence_herm_of_LZ
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.LatticeMinorExistence.herm_of_LZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:19:17.8298+00:00
 -- url     : https://prove2.me/theorems/c141f578-d64b-460f-88b0-95acad5e78d6

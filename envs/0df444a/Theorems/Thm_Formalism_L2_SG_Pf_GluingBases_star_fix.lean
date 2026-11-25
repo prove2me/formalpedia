@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_GluingBases_star_fix
 -- name    : Formalism.L2.SG.Pf.GluingBases.star_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:45:00.683469+00:00
 -- url     : https://prove2.me/theorems/67b630e1-f13e-519d-bb1a-2f3395d776dc

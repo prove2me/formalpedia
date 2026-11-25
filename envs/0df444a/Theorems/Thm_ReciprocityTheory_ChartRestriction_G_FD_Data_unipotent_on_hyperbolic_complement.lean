@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_unipotent_on_hyperbolic_complement
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.unipotent_on_hyperbolic_complement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:13:09.071589+00:00
 -- url     : https://prove2.me/theorems/702e2548-e0c6-4906-ad7f-690ab2761492

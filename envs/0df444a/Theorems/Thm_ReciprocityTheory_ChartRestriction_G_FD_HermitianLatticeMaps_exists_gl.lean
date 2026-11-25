@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_HermitianLatticeMaps_exists_gl
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.HermitianLatticeMaps.exists_gl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:08:13.303705+00:00
 -- url     : https://prove2.me/theorems/4e034e02-a409-4457-b4a2-805b26863e9a

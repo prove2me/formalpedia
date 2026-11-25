@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_divisor_closed_holds
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.divisor_closed_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:43:25.507393+00:00
 -- url     : https://prove2.me/theorems/0276a0c0-20df-5730-ab97-c1e7c4d244a6

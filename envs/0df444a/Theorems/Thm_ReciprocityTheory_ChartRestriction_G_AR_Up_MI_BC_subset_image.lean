@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_BC_subset_image
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.BC_subset_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:02:51.059049+00:00
 -- url     : https://prove2.me/theorems/7c377608-33e7-5f7a-bea3-94517e65250e

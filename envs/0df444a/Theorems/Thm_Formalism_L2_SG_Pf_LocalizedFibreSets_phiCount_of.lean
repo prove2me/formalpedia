@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LocalizedFibreSets_phiCount_of
 -- name    : Formalism.L2.SG.Pf.LocalizedFibreSets.phiCount_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:39:25.221904+00:00
 -- url     : https://prove2.me/theorems/f8c96ee5-9fc2-595a-b84c-aea488f40a60

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_QuadraticOffDiagonalBounds_offdiag_le
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.QuadraticOffDiagonalBounds.offdiag_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:20:29.716076+00:00
 -- url     : https://prove2.me/theorems/0be8d3a9-e469-4460-87d2-46c1e94d444c

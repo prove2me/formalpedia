@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_support_subset_monoBox
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.support_subset_monoBox
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:10:35.164057+00:00
 -- url     : https://prove2.me/theorems/114a7c82-ad3b-5fc4-b9f6-574bbcceb02b

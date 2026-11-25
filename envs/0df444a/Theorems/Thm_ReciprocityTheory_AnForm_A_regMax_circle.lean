@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_regMax_circle
 -- name    : ReciprocityTheory.AnForm.A.regMax_circle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:20:43.183823+00:00
 -- url     : https://prove2.me/theorems/d393ae41-8d5e-510f-8ec0-6d7a309c7525

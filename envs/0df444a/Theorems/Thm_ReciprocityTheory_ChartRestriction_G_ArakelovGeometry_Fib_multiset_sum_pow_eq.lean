@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_Fib_multiset_sum_pow_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.Fib.multiset_sum_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:01:44.442855+00:00
 -- url     : https://prove2.me/theorems/50c3deae-3f3a-4e93-a9be-8e0d28129771

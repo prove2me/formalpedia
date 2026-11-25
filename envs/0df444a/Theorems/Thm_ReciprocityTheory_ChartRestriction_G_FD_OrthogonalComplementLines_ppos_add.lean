@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthogonalComplementLines_ppos_add
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthogonalComplementLines.ppos_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:20:07.77497+00:00
 -- url     : https://prove2.me/theorems/92a7fa60-7782-58dd-b1b7-77d8d069bea3

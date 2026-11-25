@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_AdmissibleHermitianColumns_gram_flowMat
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.AdmissibleHermitianColumns.gram_flowMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:11:20.898659+00:00
 -- url     : https://prove2.me/theorems/f785b94a-984f-5c60-92ac-1edd86b8a2ee

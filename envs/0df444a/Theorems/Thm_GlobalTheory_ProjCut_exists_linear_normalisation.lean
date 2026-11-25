@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCut_exists_linear_normalisation
 -- name    : GlobalTheory.ProjCut.exists_linear_normalisation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:57:19.555297+00:00
 -- url     : https://prove2.me/theorems/371b701a-96d5-4179-b067-dcad15d48a4e

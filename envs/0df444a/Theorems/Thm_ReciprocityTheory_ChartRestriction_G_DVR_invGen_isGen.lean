@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_invGen_isGen
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.invGen_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:19:08.221005+00:00
 -- url     : https://prove2.me/theorems/ac9c7b8c-e982-48fc-8446-c95537405d73

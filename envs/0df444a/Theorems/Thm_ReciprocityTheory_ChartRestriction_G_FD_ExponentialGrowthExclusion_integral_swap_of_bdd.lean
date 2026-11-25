@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_ExponentialGrowthExclusion_integral_swap_of_bdd
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.ExponentialGrowthExclusion.integral_swap_of_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:13:24.788991+00:00
 -- url     : https://prove2.me/theorems/1ff79f8c-47a1-49ff-a792-034035eee08a

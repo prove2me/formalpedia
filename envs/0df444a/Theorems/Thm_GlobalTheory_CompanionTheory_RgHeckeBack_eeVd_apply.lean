@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgHeckeBack_eeVd_apply
 -- name    : GlobalTheory.CompanionTheory.RgHeckeBack.eeVd_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:48:34.206809+00:00
 -- url     : https://prove2.me/theorems/d2ab4c61-d4c7-5b67-8bbc-8f9ac2763030

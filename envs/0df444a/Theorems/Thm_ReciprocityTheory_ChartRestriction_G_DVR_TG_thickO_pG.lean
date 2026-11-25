@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_TG_thickO_pG
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.TG.thickO_pG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:13:09.091918+00:00
 -- url     : https://prove2.me/theorems/d20e657d-676a-5576-91d1-bbcb725ea5e8

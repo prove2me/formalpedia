@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_adb_measurable_maDensity
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.adb_measurable_maDensity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:34.974806+00:00
 -- url     : https://prove2.me/theorems/116d49d4-339b-4015-a82b-5e4648424d77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IrreducibleComponentPreimages_isBranch_of_germ
 -- name    : ReciprocityTheory.AnForm.R.IrreducibleComponentPreimages.isBranch_of_germ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:39:18.796749+00:00
 -- url     : https://prove2.me/theorems/db49fdbc-e76a-5e32-b77c-975415466903

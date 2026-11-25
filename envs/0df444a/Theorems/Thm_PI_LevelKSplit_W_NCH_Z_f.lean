@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_NCH_Z_f
 -- name    : PI.LevelKSplit.W.NCH.Z_f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:45.350066+00:00
 -- url     : https://prove2.me/theorems/51011463-f716-5a9d-88b5-05f0fe147e26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_mulVec_one_sub_idempotent_of_split_sum_identity
 -- name    : ReciprocityTheory.AnForm.A.mulVec_one_sub_idempotent_of_split_sum_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:21:16.171055+00:00
 -- url     : https://prove2.me/theorems/cccfb8be-a5e9-58fc-b0bc-fc69106c12d9

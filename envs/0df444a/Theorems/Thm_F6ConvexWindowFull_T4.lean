@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindowFull_T4
 -- name    : F6ConvexWindowFull.T4
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:13:31.360521+00:00
 -- url     : https://prove2.me/theorems/3a1f6d41-be10-53e1-8276-b1f8d80e0ccf

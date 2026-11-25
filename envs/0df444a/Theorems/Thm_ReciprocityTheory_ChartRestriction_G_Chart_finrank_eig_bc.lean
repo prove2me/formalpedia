@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_finrank_eig_bc
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.finrank_eig_bc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:24:57.950215+00:00
 -- url     : https://prove2.me/theorems/6dfb8e66-19d6-4805-b997-cda8c31e910a

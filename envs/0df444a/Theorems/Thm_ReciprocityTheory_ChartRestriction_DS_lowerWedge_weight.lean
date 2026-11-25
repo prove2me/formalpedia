@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_lowerWedge_weight
 -- name    : ReciprocityTheory.ChartRestriction.DS.lowerWedge_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:53:28.099912+00:00
 -- url     : https://prove2.me/theorems/9aef19cf-3cdf-48cb-91cd-9cd1bef2d567

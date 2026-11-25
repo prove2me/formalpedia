@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_FPw_Hf_neg_left
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.FPw.Hf_neg_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:31:43.438853+00:00
 -- url     : https://prove2.me/theorems/cdc91309-1aad-57df-8e64-01b3474e798e

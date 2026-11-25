@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_linComb_g_self
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.linComb_g_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:11:05.563225+00:00
 -- url     : https://prove2.me/theorems/17f274f6-7a7f-523a-9c3e-e4891a310707

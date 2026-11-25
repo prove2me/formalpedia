@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntersectionBounds_uniform_separation_bound
 -- name    : IntersectionBounds.uniform_separation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:49:48.889158+00:00
 -- url     : https://prove2.me/theorems/a3af3472-d3fb-5467-a534-308d0e53bb2b

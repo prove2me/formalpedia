@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_quad_re_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.quad_re_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:21:35.39807+00:00
 -- url     : https://prove2.me/theorems/af2d6891-ce9e-4ce8-8b98-7bf1d3d0272d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_gbap_insertNth_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gbap_insertNth_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:09:02.668911+00:00
 -- url     : https://prove2.me/theorems/bf99c5a1-00f8-4dda-8c44-9d3262a382da

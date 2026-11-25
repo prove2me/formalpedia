@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_finrank_maxUnramifiedSubfield_padicFinExt_pos
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.finrank_maxUnramifiedSubfield_padicFinExt_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:58:32.628478+00:00
 -- url     : https://prove2.me/theorems/5cad3183-4434-4ef7-a202-4e0523b3ee54

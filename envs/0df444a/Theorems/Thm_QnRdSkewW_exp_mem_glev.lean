@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnRdSkewW_exp_mem_glev
 -- name    : QnRdSkewW.exp_mem_glev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:06:22.458388+00:00
 -- url     : https://prove2.me/theorems/80cb0649-de90-47c0-bd6a-1082f3df810e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedBasicsPf_dense
 -- name    : Formalism.L2.SG.Pf.RedBasicsPf.dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:27:32.423629+00:00
 -- url     : https://prove2.me/theorems/74056ec2-5ef1-4eaa-ab76-2f9551b3402b

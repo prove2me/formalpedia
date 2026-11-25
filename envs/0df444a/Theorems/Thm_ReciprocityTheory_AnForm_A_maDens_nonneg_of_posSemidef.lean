@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_maDens_nonneg_of_posSemidef
 -- name    : ReciprocityTheory.AnForm.A.maDens_nonneg_of_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:32:47.210575+00:00
 -- url     : https://prove2.me/theorems/e7120e7a-5798-43f7-b45f-bc243c48eae7

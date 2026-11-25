@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_TraceNormBounds_exists_indep_sections__5ad999176174
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_TraceNormBounds_exists_indep_sections__5ad999176174
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:14:44.912205+00:00
 -- url     : https://prove2.me/theorems/7cd3f56b-b028-53a2-94d5-5baae8dfd38f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_xi_coefficient_facts
 -- name    : PI.WGL.xi_coefficient_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:58:51.457027+00:00
 -- url     : https://prove2.me/theorems/48c37ca0-2574-5dd5-8223-6055d94e7410

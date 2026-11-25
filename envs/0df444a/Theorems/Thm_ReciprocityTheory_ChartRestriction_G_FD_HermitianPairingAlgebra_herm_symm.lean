@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_HermitianPairingAlgebra_herm_symm
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.HermitianPairingAlgebra.herm_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:36:09.024687+00:00
 -- url     : https://prove2.me/theorems/3a2ac318-e95f-4936-8f43-3a2619a205e5

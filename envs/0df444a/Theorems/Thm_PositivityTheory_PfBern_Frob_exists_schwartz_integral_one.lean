@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Frob_exists_schwartz_integral_one
 -- name    : PositivityTheory.PfBern.Frob.exists_schwartz_integral_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:39:21.33445+00:00
 -- url     : https://prove2.me/theorems/ec6a4dc1-e5d8-5dff-bd4d-161643232894

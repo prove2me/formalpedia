@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_mat_lmulC_at
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.mat_lmulC_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:12:35.557157+00:00
 -- url     : https://prove2.me/theorems/e763a450-8eea-55cb-b5c3-f01f63af8cb3

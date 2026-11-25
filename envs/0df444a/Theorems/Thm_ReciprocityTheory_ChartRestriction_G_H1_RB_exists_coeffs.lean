@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_RB_exists_coeffs
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.RB.exists_coeffs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:26:26.431638+00:00
 -- url     : https://prove2.me/theorems/fe5aa89f-e9ba-40b6-b611-06cf21ca1486

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Mp_surj_of
 -- name    : PositivityTheory.ThKR.Mp.surj_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:30:32.665449+00:00
 -- url     : https://prove2.me/theorems/d627df14-49ee-4bfa-a66c-d8e24a43bc89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_FourPlusTwoResidual_exists_hermite_pade_flat_moment_section_e3
 -- name    : HodgeComputer.FourPlusTwoResidual.exists_hermite_pade_flat_moment_section_e3
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-25T11:57:38.227034+00:00
 -- url     : https://prove2.me/theorems/992245e4-1c6b-4539-87e0-45efedfbe42c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_bijOn_closedPoints_of_isIso
 -- name    : ReciprocityTheory.AnForm.R.bijOn_closedPoints_of_isIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:44:03.877752+00:00
 -- url     : https://prove2.me/theorems/65681202-546d-5a36-82e9-26a2add67fc8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_AffPres_val_secHom
 -- name    : ReciprocityTheory.AnForm.R.AffPres.val_secHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:37:55.938393+00:00
 -- url     : https://prove2.me/theorems/4e071ea1-4437-5b88-b7bc-9e66593ba62e

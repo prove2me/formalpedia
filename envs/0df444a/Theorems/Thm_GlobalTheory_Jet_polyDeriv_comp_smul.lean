@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Jet_polyDeriv_comp_smul
 -- name    : GlobalTheory.Jet.polyDeriv_comp_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:39:40.381048+00:00
 -- url     : https://prove2.me/theorems/22a90b1b-69fb-42bc-a2b2-727677c4b1cf

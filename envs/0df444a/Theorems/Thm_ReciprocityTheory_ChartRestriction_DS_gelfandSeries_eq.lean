@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_gelfandSeries_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.gelfandSeries_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:50:45.311679+00:00
 -- url     : https://prove2.me/theorems/c996c489-ab04-5a20-82c8-560a3256be66

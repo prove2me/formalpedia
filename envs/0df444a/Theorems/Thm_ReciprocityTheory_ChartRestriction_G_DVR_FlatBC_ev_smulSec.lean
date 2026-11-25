@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_FlatBC_ev_smulSec
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.FlatBC.ev_smulSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:10:48.991015+00:00
 -- url     : https://prove2.me/theorems/4bda6596-150d-535d-a649-6be2d8a535c6

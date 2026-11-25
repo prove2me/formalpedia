@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_casVal_shiftF
 -- name    : ReciprocityTheory.ChartRestriction.DS.casVal_shiftF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:04:11.780477+00:00
 -- url     : https://prove2.me/theorems/1df7b7e7-12b5-4290-9933-8a65ee1c2713

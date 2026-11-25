@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_exp_nine_quarters_lt
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.exp_nine_quarters_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:22:39.366356+00:00
 -- url     : https://prove2.me/theorems/bdeaa732-3187-592b-8424-606d53daf10e

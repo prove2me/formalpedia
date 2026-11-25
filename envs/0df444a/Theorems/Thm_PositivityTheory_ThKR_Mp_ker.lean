@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Mp_ker
 -- name    : PositivityTheory.ThKR.Mp.ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:29:56.098837+00:00
 -- url     : https://prove2.me/theorems/ad30edd9-05ac-529e-b8aa-7514c82647a6

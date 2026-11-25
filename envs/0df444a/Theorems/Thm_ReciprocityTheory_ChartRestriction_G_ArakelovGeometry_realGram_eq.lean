@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_realGram_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.realGram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:14:06.292131+00:00
 -- url     : https://prove2.me/theorems/39d40ec1-a684-5c80-949a-c27127124750

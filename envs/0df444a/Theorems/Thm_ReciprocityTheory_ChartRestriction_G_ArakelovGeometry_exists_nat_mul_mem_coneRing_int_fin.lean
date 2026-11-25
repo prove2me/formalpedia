@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_exists_nat_mul_mem_coneRing_int_fin
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.exists_nat_mul_mem_coneRing_int_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:05:18.662972+00:00
 -- url     : https://prove2.me/theorems/2d0889ef-9d95-505c-b422-ab1ef20500bd

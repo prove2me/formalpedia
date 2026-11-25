@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_fibreCountingData_crd_sum
 -- name    : Formalism.L2.SG.Pf.fibreCountingData.crd_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:34:45.4538+00:00
 -- url     : https://prove2.me/theorems/7ef95ee8-fb3d-4361-b996-406181eaaa85

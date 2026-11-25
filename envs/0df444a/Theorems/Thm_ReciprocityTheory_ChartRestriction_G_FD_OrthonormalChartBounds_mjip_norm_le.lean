@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthonormalChartBounds_mjip_norm_le
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthonormalChartBounds.mjip_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:20:45.210823+00:00
 -- url     : https://prove2.me/theorems/63e581d2-1188-52d7-9bf6-f6f3978f300f

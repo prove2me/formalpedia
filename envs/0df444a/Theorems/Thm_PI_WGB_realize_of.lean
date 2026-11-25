@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_realize_of
 -- name    : PI.WGB.realize_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:58:13.321931+00:00
 -- url     : https://prove2.me/theorems/c0f3fd13-0cd7-4d3f-a7d0-8add02a02d70

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_exists_fst_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.exists_fst_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:12:56.654511+00:00
 -- url     : https://prove2.me/theorems/9f016005-b8d4-5ed2-9d19-bb8b3fdce91a

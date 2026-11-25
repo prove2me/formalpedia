@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_dvrData_of_splitting
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.dvrData_of_splitting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:24:22.347892+00:00
 -- url     : https://prove2.me/theorems/c9ebf932-1f0a-4db0-b1b9-d607f056bb29

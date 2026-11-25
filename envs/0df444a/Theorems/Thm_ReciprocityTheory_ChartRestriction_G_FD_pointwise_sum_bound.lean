@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_pointwise_sum_bound
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.pointwise_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:21:52.315852+00:00
 -- url     : https://prove2.me/theorems/2b164955-84fa-4b1e-b543-9f021a7f16df

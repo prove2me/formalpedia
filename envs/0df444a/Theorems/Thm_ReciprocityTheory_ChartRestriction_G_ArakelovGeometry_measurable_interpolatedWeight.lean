@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_measurable_interpolatedWeight
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.measurable_interpolatedWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:12:42.258851+00:00
 -- url     : https://prove2.me/theorems/452d0b3e-bd54-42a5-8e83-068deb3fe775

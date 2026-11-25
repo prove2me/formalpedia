@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_diag_prod
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.diag_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:23:21.662155+00:00
 -- url     : https://prove2.me/theorems/de0ec15a-3d43-4a98-a6fe-101b3c7ebaec

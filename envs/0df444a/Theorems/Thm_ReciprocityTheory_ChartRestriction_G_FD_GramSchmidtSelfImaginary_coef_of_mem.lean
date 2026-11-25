@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_GramSchmidtSelfImaginary_coef_of_mem
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.GramSchmidtSelfImaginary.coef_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:18:37.083519+00:00
 -- url     : https://prove2.me/theorems/7fc48135-ec34-525e-a039-4405047eebe7

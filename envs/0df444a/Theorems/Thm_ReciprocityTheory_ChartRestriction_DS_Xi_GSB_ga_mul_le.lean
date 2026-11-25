@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_GSB_ga_mul_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.GSB.ga_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:48:27.057477+00:00
 -- url     : https://prove2.me/theorems/464a0030-4993-4c9b-ac09-2ef45e219e86

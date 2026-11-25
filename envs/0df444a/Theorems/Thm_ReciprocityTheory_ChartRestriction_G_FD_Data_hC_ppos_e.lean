@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_hC_ppos_e
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.hC_ppos_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:12:40.659621+00:00
 -- url     : https://prove2.me/theorems/2ef90d2b-578a-4316-9567-99255254dbed

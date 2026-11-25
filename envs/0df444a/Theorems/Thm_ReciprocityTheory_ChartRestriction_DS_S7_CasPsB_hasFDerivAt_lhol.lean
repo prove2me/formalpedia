@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CasPsB_hasFDerivAt_lhol
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CasPsB.hasFDerivAt_lhol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:04:46.358489+00:00
 -- url     : https://prove2.me/theorems/afbeea06-0fc2-4f50-a73d-6203ccb8f3ea

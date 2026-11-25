@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_HermitianPairingAlgebra_cc_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.HermitianPairingAlgebra.cc_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:18:58.942668+00:00
 -- url     : https://prove2.me/theorems/d4beb863-4095-59bf-b01b-8749abb96fae

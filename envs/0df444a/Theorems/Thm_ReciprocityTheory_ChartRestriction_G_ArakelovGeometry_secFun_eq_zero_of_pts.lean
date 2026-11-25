@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_secFun_eq_zero_of_pts
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.secFun_eq_zero_of_pts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:11:00.296905+00:00
 -- url     : https://prove2.me/theorems/b07841a2-d081-5976-8004-69f9d01bc29d

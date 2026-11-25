@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_logN_of_liesOver
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.logN_of_liesOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:23:17.079658+00:00
 -- url     : https://prove2.me/theorems/b61bf21f-f4ab-4b68-95fe-f7eb8fd3d989

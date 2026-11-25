@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_exists_finset_inf_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.exists_finset_inf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:23:03.820373+00:00
 -- url     : https://prove2.me/theorems/7fc7d57a-3092-475a-b731-247a63378f3a

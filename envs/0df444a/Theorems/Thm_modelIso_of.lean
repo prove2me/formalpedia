@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_modelIso_of
 -- name    : modelIso_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:25:24.741093+00:00
 -- url     : https://prove2.me/theorems/96fab42b-8331-4fcf-9ab2-e91e4b417b7e

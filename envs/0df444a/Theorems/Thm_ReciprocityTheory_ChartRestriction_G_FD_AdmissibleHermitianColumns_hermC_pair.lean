@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_AdmissibleHermitianColumns_hermC_pair
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.AdmissibleHermitianColumns.hermC_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:11:23.498539+00:00
 -- url     : https://prove2.me/theorems/8cded04a-7adf-5596-8057-be52a6b7b13f

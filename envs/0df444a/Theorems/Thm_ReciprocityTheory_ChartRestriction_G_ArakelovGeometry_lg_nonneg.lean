@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_lg_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.lg_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:10:31.653926+00:00
 -- url     : https://prove2.me/theorems/5da933fb-b0d7-529a-8f80-a6ef13f52004

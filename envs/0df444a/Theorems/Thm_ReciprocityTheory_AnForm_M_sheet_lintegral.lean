@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_sheet_lintegral
 -- name    : ReciprocityTheory.AnForm.M.sheet_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:04:37.395405+00:00
 -- url     : https://prove2.me/theorems/92ec2fc7-e4e6-5942-80c8-8f16ab6a1f86

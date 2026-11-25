@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_basisChange_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.basisChange_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:22:08.05341+00:00
 -- url     : https://prove2.me/theorems/c7f35860-c6e4-4f0b-be74-6fd4c105e5ec

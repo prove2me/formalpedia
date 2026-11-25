@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementJacquet_exists_eval_decomposition
 -- name    : GroundTheory.Automorphic.GodementJacquet.exists_eval_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:40:27.306525+00:00
 -- url     : https://prove2.me/theorems/dd4fab1f-4a30-4596-8597-cd0db9043d82

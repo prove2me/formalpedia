@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_Sd_chi_zero_right
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.Sd.chi_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:08:09.939749+00:00
 -- url     : https://prove2.me/theorems/cc953ec5-6d2c-45d9-8507-551068686f32

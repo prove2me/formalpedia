@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_DimB_iper_of_unit
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.DimB.iper_of_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:27:44.043818+00:00
 -- url     : https://prove2.me/theorems/ffbb9c10-8eac-48a4-a4d7-60cc09c49dac

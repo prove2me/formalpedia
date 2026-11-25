@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_graph_map
 -- name    : PositivityTheory.KReal.graph_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:31:10.657819+00:00
 -- url     : https://prove2.me/theorems/101989f6-64fd-58b2-8b74-10e0770caab8

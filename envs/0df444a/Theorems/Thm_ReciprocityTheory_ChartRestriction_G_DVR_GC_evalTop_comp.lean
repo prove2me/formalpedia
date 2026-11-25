@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_GC_evalTop_comp
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.GC.evalTop_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:14:39.214844+00:00
 -- url     : https://prove2.me/theorems/dd87d78d-1102-54c1-870b-8ccf5936b322

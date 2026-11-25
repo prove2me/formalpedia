@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntersectionBounds_card_le_finrank_degree
 -- name    : IntersectionBounds.card_le_finrank_degree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:46:03.70602+00:00
 -- url     : https://prove2.me/theorems/ce4a0ebc-8a63-5470-9f1f-02a3d65e0612

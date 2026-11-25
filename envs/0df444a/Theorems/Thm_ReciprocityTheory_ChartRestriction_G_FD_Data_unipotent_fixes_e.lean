@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_unipotent_fixes_e
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.unipotent_fixes_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:16:51.304801+00:00
 -- url     : https://prove2.me/theorems/f5bd52ff-d432-5013-93b5-cd0bc46fc49c

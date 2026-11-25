@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_FD_PerpBasisExistence_herm_add_right__436ee063c834
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_FD_PerpBasisExistence_herm_add_right__436ee063c834
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:26:35.232821+00:00
 -- url     : https://prove2.me/theorems/513cca4f-8928-49e7-b136-712338b396c7

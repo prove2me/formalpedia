@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PosPartLocal_proof_e81aa8f9681d
 -- name    : P2M_GroundTheory_Heights__Heights_PosPartLocal_proof_e81aa8f9681d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:59:03.02781+00:00
 -- url     : https://prove2.me/theorems/5de7efef-c388-43ad-9486-0743b40735f6

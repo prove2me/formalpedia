@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_substFun_natDegree
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.substFun_natDegree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:25:15.568179+00:00
 -- url     : https://prove2.me/theorems/cce32701-2c5c-5e1c-ac5b-896da1e90fa9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_re_sum_Psi
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.re_sum_Psi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:37:26.837325+00:00
 -- url     : https://prove2.me/theorems/d4853cc2-f1b8-4c75-b57d-bb49e31bcc03

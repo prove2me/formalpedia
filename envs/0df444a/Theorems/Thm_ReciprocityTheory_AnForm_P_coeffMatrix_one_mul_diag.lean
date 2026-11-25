@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_coeffMatrix_one_mul_diag
 -- name    : ReciprocityTheory.AnForm.P.coeffMatrix_one_mul_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:33:00.796658+00:00
 -- url     : https://prove2.me/theorems/1c9251af-9506-48b3-b0f1-c8b4f4e7d033

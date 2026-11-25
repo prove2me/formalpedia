@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_glK_of_lie
 -- name    : PositivityTheory.KReal.glK_of_lie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:26:48.954007+00:00
 -- url     : https://prove2.me/theorems/42b840dc-226b-4f89-b6e5-31e648172dbd

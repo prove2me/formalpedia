@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_nuInv_of_loc
 -- name    : PI.VolStabW.nuInv_of_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:44:35.234157+00:00
 -- url     : https://prove2.me/theorems/3e945f29-302a-4df7-aa51-c7812208c970

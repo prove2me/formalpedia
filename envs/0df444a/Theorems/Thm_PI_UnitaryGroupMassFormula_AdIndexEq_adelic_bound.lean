@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_adelic_bound
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.adelic_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:39:17.82081+00:00
 -- url     : https://prove2.me/theorems/174ee4b6-6416-43a4-bfbb-61005e2cc65d

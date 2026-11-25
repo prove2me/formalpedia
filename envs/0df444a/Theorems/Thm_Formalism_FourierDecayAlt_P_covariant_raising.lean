@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_covariant_raising
 -- name    : Formalism.FourierDecayAlt.P.covariant_raising
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:55:26.906646+00:00
 -- url     : https://prove2.me/theorems/5518b2d3-88c1-43bc-88ae-f983afeaa3a4

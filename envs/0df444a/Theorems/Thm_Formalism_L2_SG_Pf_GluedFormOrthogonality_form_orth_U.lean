@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_GluedFormOrthogonality_form_orth_U
 -- name    : Formalism.L2.SG.Pf.GluedFormOrthogonality.form_orth_U
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:34:27.883749+00:00
 -- url     : https://prove2.me/theorems/ba460f3c-8bbb-58e0-b5ac-d5057c11df8b

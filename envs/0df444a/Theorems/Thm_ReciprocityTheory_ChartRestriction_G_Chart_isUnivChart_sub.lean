@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_isUnivChart_sub
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.isUnivChart_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:43:51.966029+00:00
 -- url     : https://prove2.me/theorems/1517ef4a-0e29-4ff4-861f-b3daabe1118d

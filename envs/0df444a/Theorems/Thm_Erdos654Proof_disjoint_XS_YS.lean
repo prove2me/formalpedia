@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos654Proof_disjoint_XS_YS
 -- name    : Erdos654Proof.disjoint_XS_YS
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:47:38.236359+00:00
 -- url     : https://prove2.me/theorems/e9412435-77fc-4876-9c95-4e048e57c943

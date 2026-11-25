@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Mp_impl_UU
 -- name    : PositivityTheory.ThKR.Mp.impl_UU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:30:02.734445+00:00
 -- url     : https://prove2.me/theorems/8c89311e-23d4-508d-afec-56669edb3adc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnDim_hasHoloImm_of_regularLocus
 -- name    : GlobalTheory.AnDim.hasHoloImm_of_regularLocus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:13.809053+00:00
 -- url     : https://prove2.me/theorems/62c97bda-7348-4082-91d9-7cb2bf5fbaf0

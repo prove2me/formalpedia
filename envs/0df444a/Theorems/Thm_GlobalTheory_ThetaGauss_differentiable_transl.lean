@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGauss_differentiable_transl
 -- name    : GlobalTheory.ThetaGauss.differentiable_transl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:45:04.222836+00:00
 -- url     : https://prove2.me/theorems/116c959e-e7b4-417f-9ce9-66d522726d6e

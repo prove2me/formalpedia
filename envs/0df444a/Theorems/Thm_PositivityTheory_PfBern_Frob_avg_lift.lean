@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Frob_avg_lift
 -- name    : PositivityTheory.PfBern.Frob.avg_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:41:07.067664+00:00
 -- url     : https://prove2.me/theorems/b4bde9f2-7c2c-437d-809e-0734a07ff5df

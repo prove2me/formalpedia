@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_projectiveLine_integralWith_eq_one
 -- name    : ReciprocityTheory.AnForm.M.projectiveLine_integralWith_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:28:45.950087+00:00
 -- url     : https://prove2.me/theorems/3c69dcc3-ba03-5c1a-9138-3f77c8abde15

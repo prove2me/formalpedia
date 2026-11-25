@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_exp_chart_invariant
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.exp_chart_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:41:44.909643+00:00
 -- url     : https://prove2.me/theorems/09c60b92-1d8d-56d7-8c04-fc14cc1fbf70

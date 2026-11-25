@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_constFn_eq_strMap
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.constFn_eq_strMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:17:08.593854+00:00
 -- url     : https://prove2.me/theorems/ef2bc3ef-2c9c-5ff8-a5fc-56a93e8e7ec6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_sc_mu_exists
 -- name    : PI.sc_mu_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:47:55.194939+00:00
 -- url     : https://prove2.me/theorems/6b2a9a11-4e1e-4bd1-bd91-bfee8808558a

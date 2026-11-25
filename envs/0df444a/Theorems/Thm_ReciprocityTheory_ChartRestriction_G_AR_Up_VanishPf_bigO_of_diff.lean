@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_VanishPf_bigO_of_diff
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.VanishPf.bigO_of_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:07:38.726792+00:00
 -- url     : https://prove2.me/theorems/9ce94d8d-0e3a-5917-95a8-98f0a2509a05

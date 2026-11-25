@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_OntoB_cd_cpt
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.OntoB.cd_cpt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:03:52.680495+00:00
 -- url     : https://prove2.me/theorems/be8b5e63-c3e4-4b01-9cc4-89bec8294665

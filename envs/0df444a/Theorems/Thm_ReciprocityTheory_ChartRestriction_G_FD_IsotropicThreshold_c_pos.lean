@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_IsotropicThreshold_c_pos
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.IsotropicThreshold.c_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:18:54.300257+00:00
 -- url     : https://prove2.me/theorems/0da65b19-f9be-4db4-9c88-fa85bf486d57

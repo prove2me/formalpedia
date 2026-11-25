@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_analyticAt_of_eventually_differentiableAt_1dd9a6cb1b42
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_analyticAt_of_eventually_differentiableAt_1dd9a6cb1b42
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:24:21.021092+00:00
 -- url     : https://prove2.me/theorems/f94277ff-1a61-46d5-a194-cd1d7258d9cd

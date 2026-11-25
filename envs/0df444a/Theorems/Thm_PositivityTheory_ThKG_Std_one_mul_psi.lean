@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_one_mul_psi
 -- name    : PositivityTheory.ThKG.Std.one_mul_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:05:23.214872+00:00
 -- url     : https://prove2.me/theorems/8f97f41b-e754-426f-ac0c-353017caab01

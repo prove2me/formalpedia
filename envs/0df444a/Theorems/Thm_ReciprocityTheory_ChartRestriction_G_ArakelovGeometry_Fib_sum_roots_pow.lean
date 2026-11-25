@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_Fib_sum_roots_pow
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.Fib.sum_roots_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:12:19.547943+00:00
 -- url     : https://prove2.me/theorems/94fc138f-e040-47ae-8ee7-c7b1f8b786e5

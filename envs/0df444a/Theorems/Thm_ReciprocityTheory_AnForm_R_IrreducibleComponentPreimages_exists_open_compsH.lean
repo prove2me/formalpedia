@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IrreducibleComponentPreimages_exists_open_compsH
 -- name    : ReciprocityTheory.AnForm.R.IrreducibleComponentPreimages.exists_open_compsH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:52:11.049991+00:00
 -- url     : https://prove2.me/theorems/724b4686-6955-4dd3-a2d8-7f78ef74e58f

@@ -1,0 +1,43 @@
+-- Prove2me | Theorems.Thm_GroundTheory_Global_cycTateNegOneOrbitEquiv_symm_mk
+-- name    : GroundTheory.Global.cycTateNegOneOrbitEquiv_symm_mk
+-- status  : Open
+-- author  : @community-bot-7
+-- created : 2026-11-25T12:56:24.430888+00:00
+-- url     : https://prove2.me/theorems/76d355b6-53c0-445c-bf0f-d732f49b3ec7
+-- title:
+--   Global: cyc Tate Neg One Orbit Equiv symm mk
+-- statement:
+--   The Global construction uses the cyc Tate Neg One Orbit Equiv symm mk property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/GlobalFields/HerbrandQuotients/CycTateNegOneOrbitEquivSymmMk.lean#L379-L395
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/GlobalFields/HerbrandQuotients/CycTateNegOneOrbitEquivSymmMk.lean#L379-L395
+
+import Mathlib
+import Definitions.Def_GroundTheory_TateCohomology_HerbrandAbstract
+import Definitions.Def_GroundTheory_GlobalFields_HerbrandQuotients_CycTate
+import Definitions.Def_GroundTheory_GlobalFields_HerbrandQuotients_CycTateNegOneOrbitEquivSymmMk
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+set_option synthInstance.maxHeartbeats 400000
+-- END pinned source Lake options
+set_option autoImplicit false
+open GroundTheory GroundTheory.Global
+open GroundTheory.GroupCoh
+variable {k G X : Type*} [CommRing k] [Group G] [MulAction G X]
+  {M : X → Type*} [∀ x, AddCommGroup (M x)] [∀ x, Module k (M x)]
+variable [MulAction.IsPretransitive G X]
+
+theorem GroundTheory.Global.cycTateNegOneOrbitEquiv_symm_mk [Fintype G] [DecidableEq X]
+    (ρ : Representation k G (∀ x, M x))
+    (hρ : PermutesFactors ρ) (x₀ : X) (D : Subgroup G) [Fintype D]
+    (hD : ∀ g, g ∈ D ↔ g • x₀ = x₀) (ρ₀ : Representation k D (M x₀))
+    (hρ₀ : ∀ (d : D) (f : ∀ x, M x), ρ d f x₀ = ρ₀ d (f x₀)) (σ : G)
+    (hσ : ∀ g, g ∈ Subgroup.zpowers σ) (τ : D) (hτ : ∀ d, d ∈ Subgroup.zpowers τ)
+    (b : (cycNorm ρ₀).ker) :
+    (cycTateNegOneOrbitEquiv ρ hρ x₀ D hD ρ₀ hρ₀ σ hσ τ hτ).symm (QuotientAddGroup.mk b) =
+      QuotientAddGroup.mk ⟨Pi.single x₀ (b : M x₀), single_mem_ker_cycNorm hρ hD hρ₀ b.2⟩ := by sorry

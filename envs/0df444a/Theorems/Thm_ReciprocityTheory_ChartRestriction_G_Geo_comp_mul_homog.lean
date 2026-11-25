@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_comp_mul_homog
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.comp_mul_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:23:09.164946+00:00
 -- url     : https://prove2.me/theorems/35992227-4c51-4c68-9ff2-a42eadee3296

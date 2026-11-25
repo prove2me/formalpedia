@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_rorth_inner_E
 -- name    : ReciprocityTheory.ChartRestriction.DS.rorth_inner_E
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:12:36.989052+00:00
 -- url     : https://prove2.me/theorems/343000fc-759f-40c9-87e7-1757f8a09a58

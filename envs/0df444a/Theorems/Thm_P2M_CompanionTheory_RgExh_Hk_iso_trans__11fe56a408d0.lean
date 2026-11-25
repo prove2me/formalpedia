@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_CompanionTheory_RgExh_Hk_iso_trans__11fe56a408d0
 -- name    : P2M_CompanionTheory_RgExh_Hk_iso_trans__11fe56a408d0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:46:11.334473+00:00
 -- url     : https://prove2.me/theorems/9da56d02-31a5-41d0-bc7d-2d3da863298c

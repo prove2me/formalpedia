@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_IntegralTraceNormBounds_inner_iota_eq_trace
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.IntegralTraceNormBounds.inner_iota_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:19:44.925484+00:00
 -- url     : https://prove2.me/theorems/8948e503-5fd6-5a83-a908-dac66690fbb7

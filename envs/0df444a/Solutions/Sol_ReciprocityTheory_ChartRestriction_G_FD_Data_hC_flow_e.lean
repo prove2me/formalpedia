@@ -1,0 +1,60 @@
+-- Prove2me | solution 1 for ReciprocityTheory.ChartRestriction.G.FD.Data.hC_flow_e
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-25T12:58:15.862018+00:00
+-- url     : https://prove2.me/submissions/25c6b89b-12cd-4aa2-bf0d-6aade312e237
+
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_FlowMatMulVec
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_FlowFixesComplementOfIsotropic
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+section
+namespace ReciprocityTheory.ChartRestriction.G.FD
+open NumberField Complex
+open scoped ComplexConjugate
+variable {E : Type} [Field E] [NumberField E] [IsCMField E]
+namespace Data
+variable {r : ℕ} (X : Data E r)
+section onetau
+variable (ξ : Fin r → E) (τ : X.Ψ)
+private theorem flowMat_mulVec' (s : ℂ) (v : Fin r → ℂ) :
+    Matrix.mulVec (X.flowMat ξ τ s) v =
+      v - (I * X.c τ * s * hermC τ.1 X.Gm v (emb τ.1 ξ)) • emb τ.1 ξ := by
+  ext a
+  simp only [Matrix.mulVec, dotProduct, flowMat, Matrix.of_apply, sub_mul, Finset.sum_sub_distrib,
+    ite_mul, one_mul, zero_mul, Finset.sum_ite_eq, Finset.sum_ite_eq', Finset.mem_univ, if_true,
+    Pi.sub_apply, Pi.smul_apply, smul_eq_mul, hermC, emb]
+  congr 1
+  simp only [Finset.mul_sum, Finset.sum_mul]
+  refine Finset.sum_congr rfl fun b _ => Finset.sum_congr rfl fun k _ => ?_
+  ring
+private theorem hermC_sub_const_smul_left (σ : E →+* ℂ) (G : Matrix (Fin r) (Fin r) E)
+    (v e w : Fin r → ℂ) (k : ℂ) :
+    hermC σ G (v - k • e) w = hermC σ G v w - k * hermC σ G e w := by
+  simp only [hermC, Finset.mul_sum, ← Finset.sum_sub_distrib]
+  refine Finset.sum_congr rfl fun a _ => Finset.sum_congr rfl fun b _ => ?_
+  simp only [Pi.sub_apply, Pi.smul_apply, smul_eq_mul]
+  ring
+end onetau
+end Data
+end ReciprocityTheory.ChartRestriction.G.FD
+end
+
+set_option autoImplicit false
+open ReciprocityTheory ReciprocityTheory.ChartRestriction ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.FD
+open NumberField Complex
+open scoped ComplexConjugate
+variable {E : Type} [Field E] [NumberField E] [IsCMField E]
+open ReciprocityTheory.ChartRestriction.G.FD.Data
+variable {r : ℕ} (X : Data E r)
+variable (ξ : Fin r → E) (τ : X.Ψ)
+namespace ReciprocityTheory.ChartRestriction.G.FD.Data
+theorem _root_.solution (hiso : hermC τ.1 X.Gm (emb τ.1 ξ) (emb τ.1 ξ) = 0) (s : ℂ) (v : Fin r → ℂ) :
+    hermC τ.1 X.Gm (Matrix.mulVec (X.flowMat ξ τ s) v) (emb τ.1 ξ) = hermC τ.1 X.Gm v (emb τ.1 ξ) := by
+  rw [flowMat_mulVec', hermC_sub_const_smul_left, hiso, mul_zero, sub_zero]
+end ReciprocityTheory.ChartRestriction.G.FD.Data

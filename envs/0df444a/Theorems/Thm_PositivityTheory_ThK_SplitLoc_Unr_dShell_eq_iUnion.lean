@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_dShell_eq_iUnion
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.dShell_eq_iUnion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:13:16.443056+00:00
 -- url     : https://prove2.me/theorems/552538d8-c335-4004-81d5-0c234c1230a7

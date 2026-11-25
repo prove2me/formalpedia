@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_decA_log_lower
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.decA_log_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:49:15.950204+00:00
 -- url     : https://prove2.me/theorems/a0b6785f-3d06-5d34-8df5-73bfe54e8411
