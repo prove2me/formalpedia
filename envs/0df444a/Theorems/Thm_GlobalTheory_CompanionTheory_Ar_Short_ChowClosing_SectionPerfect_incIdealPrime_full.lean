@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Short_ChowClosing_SectionPerfect_incIdealPrime_full
 -- name    : GlobalTheory.CompanionTheory.Ar.Short.ChowClosing.SectionPerfect.incIdealPrime_full
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:09:51.100178+00:00
 -- url     : https://prove2.me/theorems/5418d324-7d25-43b1-b33c-48c89c0fb4f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_ZetaSevenHalvesBounds_factorization_tuple_da2abc16b590
 -- name    : P2M_GroundTheory_Heights__Theta_ZetaSevenHalvesBounds_factorization_tuple_da2abc16b590
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:53:21.1446+00:00
 -- url     : https://prove2.me/theorems/d1ed12c3-43d8-4010-a8e3-a37a46346872

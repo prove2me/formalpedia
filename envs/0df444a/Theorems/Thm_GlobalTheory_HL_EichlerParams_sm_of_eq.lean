@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_EichlerParams_sm_of_eq
 -- name    : GlobalTheory.HL.EichlerParams.sm_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:54:43.57422+00:00
 -- url     : https://prove2.me/theorems/19ea9b6b-9e66-4497-86cc-a84fb49604e6

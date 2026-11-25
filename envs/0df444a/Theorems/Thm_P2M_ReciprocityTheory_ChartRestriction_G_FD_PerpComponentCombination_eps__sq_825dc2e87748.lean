@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_FD_PerpComponentCombination_eps__sq_825dc2e87748
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_FD_PerpComponentCombination_eps__sq_825dc2e87748
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:14:51.810048+00:00
 -- url     : https://prove2.me/theorems/f527d8f5-4208-450a-89cb-534a75b60f34

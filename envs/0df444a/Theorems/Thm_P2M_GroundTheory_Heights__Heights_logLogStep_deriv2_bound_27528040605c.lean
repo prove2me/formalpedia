@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_logLogStep_deriv2_bound_27528040605c
 -- name    : P2M_GroundTheory_Heights__Heights_logLogStep_deriv2_bound_27528040605c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:48:32.879925+00:00
 -- url     : https://prove2.me/theorems/b9d8bbf5-ea62-40bc-b6b9-9c14911cbd43

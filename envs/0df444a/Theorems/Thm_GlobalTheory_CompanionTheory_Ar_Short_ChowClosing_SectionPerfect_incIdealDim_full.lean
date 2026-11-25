@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Short_ChowClosing_SectionPerfect_incIdealDim_full
 -- name    : GlobalTheory.CompanionTheory.Ar.Short.ChowClosing.SectionPerfect.incIdealDim_full
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:08:25.968299+00:00
 -- url     : https://prove2.me/theorems/7f0f2cbe-eee0-5823-a19e-8ecdcd04c534

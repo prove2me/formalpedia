@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_IsIU_prod
 -- name    : Formalism.L2.FormalSeriesBounds.IsIU.prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:54:04.105573+00:00
 -- url     : https://prove2.me/theorems/5ffe7a49-127b-5e4f-ba40-72f040fe5d41

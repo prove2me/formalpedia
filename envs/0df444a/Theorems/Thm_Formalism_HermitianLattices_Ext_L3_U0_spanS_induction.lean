@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_spanS_induction
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.spanS_induction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:25:54.674089+00:00
 -- url     : https://prove2.me/theorems/5692a593-b9f5-4181-93d6-8bb1b0418236

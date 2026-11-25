@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HatAffineConstantRows_linearForm_eq_zero_iff
 -- name    : HatAffineConstantRows.linearForm_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:09:29.692817+00:00
 -- url     : https://prove2.me/theorems/5a5741eb-96ce-5ac0-b8b6-2d21d2f485b5

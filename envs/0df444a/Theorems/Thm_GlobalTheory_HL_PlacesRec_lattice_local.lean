@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PlacesRec_lattice_local
 -- name    : GlobalTheory.HL.PlacesRec.lattice_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:38:04.272501+00:00
 -- url     : https://prove2.me/theorems/4b4495e5-d85f-5d98-ad8b-93d327a84f35

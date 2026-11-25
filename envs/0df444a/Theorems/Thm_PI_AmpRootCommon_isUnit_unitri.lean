@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AmpRootCommon_isUnit_unitri
 -- name    : PI.AmpRootCommon.isUnit_unitri
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:54:45.581409+00:00
 -- url     : https://prove2.me/theorems/2366a8d6-be3b-421e-906c-988b626df6c4

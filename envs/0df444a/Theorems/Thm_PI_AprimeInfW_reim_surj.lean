@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_reim_surj
 -- name    : PI.AprimeInfW.reim_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:31:38.210066+00:00
 -- url     : https://prove2.me/theorems/f5d05f53-014c-5e61-8e96-1d1f7fa61b36

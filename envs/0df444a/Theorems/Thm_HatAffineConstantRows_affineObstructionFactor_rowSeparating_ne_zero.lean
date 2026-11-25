@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HatAffineConstantRows_affineObstructionFactor_rowSeparating_ne_zero
 -- name    : HatAffineConstantRows.affineObstructionFactor_rowSeparating_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:09:03.801191+00:00
 -- url     : https://prove2.me/theorems/14965350-e5f0-5923-90a8-f63820f74de7

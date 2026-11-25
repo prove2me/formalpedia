@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HilbFnVanishBlock_full_2dc75e0b6f64
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HilbFnVanishBlock_full_2dc75e0b6f64
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:43:39.138928+00:00
 -- url     : https://prove2.me/theorems/bb0e84ba-0c81-429f-a770-a42ba7093e0a

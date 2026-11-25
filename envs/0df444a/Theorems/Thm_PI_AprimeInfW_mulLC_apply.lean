@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_mulLC_apply
 -- name    : PI.AprimeInfW.mulLC_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:21:07.991281+00:00
 -- url     : https://prove2.me/theorems/b94442cd-6179-5efc-ae50-7438f9c2dc47

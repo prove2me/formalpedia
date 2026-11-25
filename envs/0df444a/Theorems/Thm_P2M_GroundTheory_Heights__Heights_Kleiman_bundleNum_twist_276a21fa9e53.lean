@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_bundleNum_twist_276a21fa9e53
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_bundleNum_twist_276a21fa9e53
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:34:02.632288+00:00
 -- url     : https://prove2.me/theorems/9e95df4a-23c3-4fe8-a6c4-4ee195c5aa8c

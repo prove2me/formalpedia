@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesProjIndexLower_full_1df55b623de3
 -- name    : P2M_GroundTheory_Heights__Heights_LinesProjIndexLower_full_1df55b623de3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:24:56.081217+00:00
 -- url     : https://prove2.me/theorems/ad0b5ca3-280d-4d23-8697-aef4327c1e86

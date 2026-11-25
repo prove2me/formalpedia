@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesianPersuasion_Proof_concavification_majorizes
 -- name    : BayesianPersuasion.Proof.concavification_majorizes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:06:35.136507+00:00
 -- url     : https://prove2.me/theorems/bf85a875-0c96-491d-9325-a788fd77abf5

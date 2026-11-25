@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesianPersuasion_Proof_optimal_signal
 -- name    : BayesianPersuasion.Proof.optimal_signal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:03:52.112646+00:00
 -- url     : https://prove2.me/theorems/6bb87523-30fa-4a69-80d8-d431fcef473f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_selfDualMeasure_real_valBall_zero
 -- name    : GroundTheory.LocalField.selfDualMeasure_real_valBall_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:59:31.417548+00:00
 -- url     : https://prove2.me/theorems/d17c01c8-d64f-5d6e-ae51-ff134b727f11

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_toNNReal_exp
 -- name    : PI.AlgValsFin.W.toNNReal_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:23:20.849394+00:00
 -- url     : https://prove2.me/theorems/2809e3bc-93a6-493d-ae6c-53348aff5210

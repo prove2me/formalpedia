@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_genUp_upper
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.genUp_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:02:52.061858+00:00
 -- url     : https://prove2.me/theorems/0d971aac-78d4-57e6-aaf4-2bde06bb775b

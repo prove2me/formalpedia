@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_T3_levelPrimeN
 -- name    : UpperTheory.T3.levelPrimeN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:04:49.96858+00:00
 -- url     : https://prove2.me/theorems/44d5604f-90ce-4fd9-a334-78d0edb15785

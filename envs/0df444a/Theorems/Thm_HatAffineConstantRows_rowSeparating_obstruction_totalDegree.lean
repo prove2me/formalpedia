@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HatAffineConstantRows_rowSeparating_obstruction_totalDegree
 -- name    : HatAffineConstantRows.rowSeparating_obstruction_totalDegree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:10:03.3928+00:00
 -- url     : https://prove2.me/theorems/b081b1b4-956f-5ea1-91aa-216be501f687

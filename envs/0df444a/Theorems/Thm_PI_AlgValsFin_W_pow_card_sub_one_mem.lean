@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_pow_card_sub_one_mem
 -- name    : PI.AlgValsFin.W.pow_card_sub_one_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:23:02.3316+00:00
 -- url     : https://prove2.me/theorems/f4cfe70e-43c3-595c-8572-e34bc46b6524

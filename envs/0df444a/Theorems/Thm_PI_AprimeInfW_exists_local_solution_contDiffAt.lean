@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_exists_local_solution_contDiffAt
 -- name    : PI.AprimeInfW.exists_local_solution_contDiffAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:22:56.322518+00:00
 -- url     : https://prove2.me/theorems/97a87d48-3b15-491d-93fe-4a429a5cedef

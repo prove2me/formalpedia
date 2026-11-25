@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_chowHeightMul_of_mahlerMul_2921a84f1e1b
 -- name    : P2M_GroundTheory_Heights__Heights_chowHeightMul_of_mahlerMul_2921a84f1e1b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:11:57.153252+00:00
 -- url     : https://prove2.me/theorems/296e7167-8078-4689-98ce-3bd36ded4e94

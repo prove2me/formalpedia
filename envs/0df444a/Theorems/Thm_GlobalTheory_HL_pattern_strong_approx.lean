@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_pattern_strong_approx
 -- name    : GlobalTheory.HL.pattern_strong_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:35:07.196002+00:00
 -- url     : https://prove2.me/theorems/f30b6389-54db-4444-a603-6c9bd6e12827

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfA_meas_avg
 -- name    : PI.AprimeInfA.meas_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:23:49.037099+00:00
 -- url     : https://prove2.me/theorems/af56b8f7-975b-4202-a103-cf844dc014f4

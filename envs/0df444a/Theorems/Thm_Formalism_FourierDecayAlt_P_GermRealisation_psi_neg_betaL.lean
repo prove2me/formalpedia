@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GermRealisation_psi_neg_betaL
 -- name    : Formalism.FourierDecayAlt.P.GermRealisation.psi_neg_betaL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:48:00.104608+00:00
 -- url     : https://prove2.me/theorems/c650a261-5588-4803-a5c2-e48de738c3a2

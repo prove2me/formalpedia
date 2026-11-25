@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_L3_LIOrb_eigenvalue_eq__1dbf8a963195
 -- name    : P2M_Formalism_HermitianLattices_Ext_L3_LIOrb_eigenvalue_eq__1dbf8a963195
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:01:51.659368+00:00
 -- url     : https://prove2.me/theorems/cebbf7ee-d983-5176-a93d-be13231cd1f3

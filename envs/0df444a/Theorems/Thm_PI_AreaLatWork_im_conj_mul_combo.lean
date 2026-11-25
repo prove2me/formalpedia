@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AreaLatWork_im_conj_mul_combo
 -- name    : PI.AreaLatWork.im_conj_mul_combo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:23:26.309483+00:00
 -- url     : https://prove2.me/theorems/8993d40d-a6f9-4b2d-9fc8-065a4995d856

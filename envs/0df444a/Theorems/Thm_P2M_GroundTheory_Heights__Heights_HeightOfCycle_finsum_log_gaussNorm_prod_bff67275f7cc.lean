@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HeightOfCycle_finsum_log_gaussNorm_prod_bff67275f7cc
 -- name    : P2M_GroundTheory_Heights__Heights_HeightOfCycle_finsum_log_gaussNorm_prod_bff67275f7cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:19:24.10397+00:00
 -- url     : https://prove2.me/theorems/ef7b8881-e82a-43b9-8da3-ecde24db7647

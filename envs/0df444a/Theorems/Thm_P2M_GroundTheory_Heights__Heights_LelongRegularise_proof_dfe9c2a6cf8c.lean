@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LelongRegularise_proof_dfe9c2a6cf8c
 -- name    : P2M_GroundTheory_Heights__Heights_LelongRegularise_proof_dfe9c2a6cf8c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:44.313951+00:00
 -- url     : https://prove2.me/theorems/1fc7e43b-4a2e-4f18-8c13-95af3250d1cd

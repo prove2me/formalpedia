@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_herm_cross
 -- name    : PI.AprimeInfW.herm_cross
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:31:06.866774+00:00
 -- url     : https://prove2.me/theorems/bd948412-f915-47fc-b76d-b747a8a0ffd1

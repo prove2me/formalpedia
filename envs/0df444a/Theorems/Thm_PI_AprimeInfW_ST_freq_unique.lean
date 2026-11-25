@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_ST_freq_unique
 -- name    : PI.AprimeInfW.ST.freq_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:13:02.219125+00:00
 -- url     : https://prove2.me/theorems/9d81eb35-0395-4dde-804b-aa5a636c9c1e

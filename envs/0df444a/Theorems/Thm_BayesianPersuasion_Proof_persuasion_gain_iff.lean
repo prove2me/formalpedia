@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesianPersuasion_Proof_persuasion_gain_iff
 -- name    : BayesianPersuasion.Proof.persuasion_gain_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:05:57.611815+00:00
 -- url     : https://prove2.me/theorems/5b976122-2df0-4b02-b268-9e36f4d31c76

@@ -63055,10 +63055,10 @@
 {"parent": "Newton.convolution_diff_bound_L2", "child": "Newton_Analysis_Convolution_Bounds", "via": ["solution", "statement"]}
 {"parent": "Newton.convolution_diff_bound_L2", "child": "Newton_Analysis_Convolution_Basic", "via": ["solution", "statement"]}
 {"parent": "Newton.convolution_diff_bound_L2", "child": "Newton_Analysis_Convolution_Minkowski", "via": ["solution", "statement"]}
-{"parent": "GroundTheory.ProfCoh.subsingleton_cohomology_of_finite_of_simple", "child": "GroundTheory_ProfiniteCohomology_CoinducedModules_CohomologyCoindCokernelIsoHom", "via": ["statement"]}
-{"parent": "GroundTheory.ProfCoh.subsingleton_cohomology_of_finite_of_simple", "child": "GroundTheory_ProfiniteCohomology_ColimitUnion", "via": ["statement"]}
-{"parent": "GroundTheory.ProfCoh.subsingleton_cohomology_of_finite_of_simple", "child": "GroundTheory_ProfiniteCohomology_CohomologicalDimension_SubsingletonCohomologyOfPrimaryOfFinite", "via": ["statement"]}
-{"parent": "GroundTheory.ProfCoh.subsingleton_cohomology_of_finite_of_simple", "child": "GroundTheory_ProfiniteCohomology_CohomologicalDimension_PrimaryComponentCohomologyEqBotOfScdpLt", "via": ["statement"]}
+{"parent": "GroundTheory.ProfCoh.subsingleton_cohomology_of_finite_of_simple", "child": "GroundTheory_ProfiniteCohomology_CoinducedModules_CohomologyCoindCokernelIsoHom", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.ProfCoh.subsingleton_cohomology_of_finite_of_simple", "child": "GroundTheory_ProfiniteCohomology_ColimitUnion", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.ProfCoh.subsingleton_cohomology_of_finite_of_simple", "child": "GroundTheory_ProfiniteCohomology_CohomologicalDimension_SubsingletonCohomologyOfPrimaryOfFinite", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.ProfCoh.subsingleton_cohomology_of_finite_of_simple", "child": "GroundTheory_ProfiniteCohomology_CohomologicalDimension_PrimaryComponentCohomologyEqBotOfScdpLt", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Sobolev.sob_fourierMultiplier_le", "child": "GroundTheory_AutomorphicForms_PartialDifferential_SobolevRellich", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Sobolev.sob_fourierMultiplier_le", "child": "GroundTheory_AutomorphicForms_PartialDifferential_SobolevMultiplication", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Sobolev.sob_fourierMultiplier_le", "child": "GroundTheory_AutomorphicForms_PartialDifferential_SobolevEmbedding", "via": ["solution", "statement"]}
@@ -96317,10 +96317,10 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_Model_SectionNefGenerated_of_sectionNef_d5327fdbf2e3", "child": "GroundTheory_HeightsAndTheta_Heights_IntegralModels_Statements", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Model_SectionNefGenerated_of_sectionNef_d5327fdbf2e3", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_BundleObjects", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Model_SectionNefGenerated_of_sectionNef_d5327fdbf2e3", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_Objects", "via": ["solution", "statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_exists_smul_mem_of_span_eq_top_707bad7a4bf7", "child": "GroundTheory_PowerSubgroups_CountableNeighbourhoods_SpanEqTopSmul", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_exists_smul_mem_of_span_eq_top_707bad7a4bf7", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_StdCoordMapInjective", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_exists_smul_mem_of_span_eq_top_707bad7a4bf7", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_ExistsSmulMemOfSpanEqTop", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_exists_smul_mem_of_span_eq_top_707bad7a4bf7", "child": "GroundTheory_HeightsAndTheta_Heights_ArithDegreeIdeal", "via": ["statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_exists_smul_mem_of_span_eq_top_707bad7a4bf7", "child": "GroundTheory_PowerSubgroups_CountableNeighbourhoods_SpanEqTopSmul", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_exists_smul_mem_of_span_eq_top_707bad7a4bf7", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_StdCoordMapInjective", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_exists_smul_mem_of_span_eq_top_707bad7a4bf7", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_ExistsSmulMemOfSpanEqTop", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_exists_smul_mem_of_span_eq_top_707bad7a4bf7", "child": "GroundTheory_HeightsAndTheta_Heights_ArithDegreeIdeal", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometricForms_extend_inl_inl_c418d38dfeb6", "child": "GroundTheory_HeightsAndTheta_Heights_Intersections_StatementsSemilocRing", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometricForms_extend_inl_inl_c418d38dfeb6", "child": "GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_PGraphChangeOfModel", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometricForms_extend_inl_inl_c418d38dfeb6", "child": "GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_PGraphIsometricForms", "via": ["solution", "statement"]}
@@ -97438,12 +97438,12 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_aeval_mem_pow_9aee5e0ba8ce", "child": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_NotTwistFiniteAtZero", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_aeval_mem_pow_9aee5e0ba8ce", "child": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_TwistPowZeroSub", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_aeval_mem_pow_9aee5e0ba8ce", "child": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_ImportsBisAltAlt", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.SW.SwdHeat.isHeat_sub", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_IsHeatThHStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.SW.SwdHeat.isHeat_sub", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_IsHeatZero", "via": ["statement"]}
-{"parent": "GlobalTheory.SW.SwdHeat.isHeat_sub", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_FiniteClsAndStab", "via": ["statement"]}
-{"parent": "GlobalTheory.SW.SwdHeat.isHeat_sub", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_EisensteinSeriesOfSchwartzIsHolomorphicStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.SW.SwdHeat.isHeat_sub", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_EisensteinSeriesOfSchwartzIsHolomorphic", "via": ["statement"]}
-{"parent": "GlobalTheory.SW.SwdHeat.isHeat_sub", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_IsHeatSwd", "via": ["statement"]}
+{"parent": "GlobalTheory.SW.SwdHeat.isHeat_sub", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_IsHeatThHStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SW.SwdHeat.isHeat_sub", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_IsHeatZero", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SW.SwdHeat.isHeat_sub", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_FiniteClsAndStab", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SW.SwdHeat.isHeat_sub", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_EisensteinSeriesOfSchwartzIsHolomorphicStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SW.SwdHeat.isHeat_sub", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_EisensteinSeriesOfSchwartzIsHolomorphic", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SW.SwdHeat.isHeat_sub", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_IsHeatSwd", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_FieldNumbers_foldr_pull_f207d38574a0", "child": "GroundTheory_HeightsAndTheta_Heights_FieldsOfNumbers_StatementsAddBlock", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_FieldNumbers_foldr_pull_f207d38574a0", "child": "GroundTheory_HeightsAndTheta_Heights_FieldsOfNumbers_Statements", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_FieldNumbers_foldr_pull_f207d38574a0", "child": "GroundTheory_HeightsAndTheta_Heights_FieldsOfNumbers_PPNProduct", "via": ["solution", "statement"]}

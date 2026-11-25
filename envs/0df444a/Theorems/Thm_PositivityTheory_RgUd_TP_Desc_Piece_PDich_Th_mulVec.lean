@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PDich_Th_mulVec
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PDich.Th_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:34:50.764031+00:00
 -- url     : https://prove2.me/theorems/5a6e32bf-1b07-4e64-b427-1cbaea370fdf

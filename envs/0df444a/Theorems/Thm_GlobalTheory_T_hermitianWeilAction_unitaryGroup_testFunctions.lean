@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianWeilAction_unitaryGroup_testFunctions
 -- name    : GlobalTheory.T.hermitianWeilAction_unitaryGroup_testFunctions
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:38:59.364496+00:00
 -- url     : https://prove2.me/theorems/40a5f9a6-093a-4e21-81cb-efcff6b90693

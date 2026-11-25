@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_WeilGroup_range_toGal
 -- name    : GroundTheory.LocalField.WeilGroup.range_toGal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:04:07.827906+00:00
 -- url     : https://prove2.me/theorems/528780dc-c3d9-445e-ac83-42e9ab11d94f

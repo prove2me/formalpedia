@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_besselPeriod_iff
 -- name    : GlobalTheory.BesselPeriodCompare.besselPeriod_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:19:47.910717+00:00
 -- url     : https://prove2.me/theorems/4844eee5-acaa-41e8-b275-cfbc0b321432

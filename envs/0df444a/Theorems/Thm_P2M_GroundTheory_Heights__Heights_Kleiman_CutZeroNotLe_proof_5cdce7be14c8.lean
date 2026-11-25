@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CutZeroNotLe_proof_5cdce7be14c8
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_CutZeroNotLe_proof_5cdce7be14c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:08:28.071874+00:00
 -- url     : https://prove2.me/theorems/c3a73c2c-abe7-5483-a420-866d970d67b6

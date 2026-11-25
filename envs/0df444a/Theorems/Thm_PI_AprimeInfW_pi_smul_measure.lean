@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_pi_smul_measure
 -- name    : PI.AprimeInfW.pi_smul_measure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:28:03.865433+00:00
 -- url     : https://prove2.me/theorems/70daeaa9-484f-4074-af65-f03c9c3b1ae4

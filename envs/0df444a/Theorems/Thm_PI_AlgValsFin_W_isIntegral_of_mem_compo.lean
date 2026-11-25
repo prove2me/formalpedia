@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_isIntegral_of_mem_compo
 -- name    : PI.AlgValsFin.W.isIntegral_of_mem_compo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:23:24.142843+00:00
 -- url     : https://prove2.me/theorems/28b563b8-292d-4c16-8eb6-2270379b2a4b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_GraphClosed_proof_1a14374dcafa
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_GraphClosed_proof_1a14374dcafa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:40:19.417322+00:00
 -- url     : https://prove2.me/theorems/ecf7d85e-a218-48ed-aace-4cef120bc58d

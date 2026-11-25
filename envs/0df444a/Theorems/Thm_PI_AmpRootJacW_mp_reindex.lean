@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AmpRootJacW_mp_reindex
 -- name    : PI.AmpRootJacW.mp_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:23:23.115204+00:00
 -- url     : https://prove2.me/theorems/78f742b6-993c-549b-b404-5b5cdcc6abfb

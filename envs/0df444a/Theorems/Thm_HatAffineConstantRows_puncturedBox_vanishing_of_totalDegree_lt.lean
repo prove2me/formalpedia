@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HatAffineConstantRows_puncturedBox_vanishing_of_totalDegree_lt
 -- name    : HatAffineConstantRows.puncturedBox_vanishing_of_totalDegree_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:09:39.788798+00:00
 -- url     : https://prove2.me/theorems/d5943fc3-095e-4d9f-b623-6c18df4f8f0c

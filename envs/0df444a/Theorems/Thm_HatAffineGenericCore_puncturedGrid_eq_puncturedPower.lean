@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HatAffineGenericCore_puncturedGrid_eq_puncturedPower
 -- name    : HatAffineGenericCore.puncturedGrid_eq_puncturedPower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:08:29.073195+00:00
 -- url     : https://prove2.me/theorems/8533f988-e904-48eb-b6f4-0a986bec1924

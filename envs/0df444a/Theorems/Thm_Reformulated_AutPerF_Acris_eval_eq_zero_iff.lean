@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Acris_eval_eq_zero_iff
 -- name    : Reformulated.AutPerF.Acris.eval_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:21:50.46594+00:00
 -- url     : https://prove2.me/theorems/59ebf011-ff77-4bba-909c-33a4130a4a82

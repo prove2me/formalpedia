@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_ST_IsBichar_zero_left
 -- name    : PI.AprimeInfW.ST.IsBichar.zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:13:12.748124+00:00
 -- url     : https://prove2.me/theorems/96a79a36-71e9-4432-ac94-1cf85854ad84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_AnaSys_T_dwp
 -- name    : Formalism.L2.Th1.E.AnaSys.T_dwp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:38:55.207361+00:00
 -- url     : https://prove2.me/theorems/b8a2153d-ab86-54d7-96c3-13f95d969b54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntConeFPT_bounded_row_system_dyadic_radius
 -- name    : IntConeFPT.bounded_row_system_dyadic_radius
--- status  : Open
+-- status  : Proved
 -- author  : @ohnesorgefelix
 -- created : 2026-11-24T14:27:33.986515+00:00
 -- url     : https://prove2.me/theorems/9ac3aaa4-2ad7-4966-9982-3ad9f78c2582

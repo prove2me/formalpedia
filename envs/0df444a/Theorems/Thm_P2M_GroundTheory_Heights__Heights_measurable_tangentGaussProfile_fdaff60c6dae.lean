@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_measurable_tangentGaussProfile_fdaff60c6dae
 -- name    : P2M_GroundTheory_Heights__Heights_measurable_tangentGaussProfile_fdaff60c6dae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:49:47.947956+00:00
 -- url     : https://prove2.me/theorems/68a4ba0c-e829-5329-a895-2c32c8f58237

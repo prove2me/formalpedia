@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_normSq_real_smul
 -- name    : PI.RhsWLim.W.normSq_real_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:05:36.258802+00:00
 -- url     : https://prove2.me/theorems/de1d5af8-0ab5-4f9e-80ae-ad62a17c9146

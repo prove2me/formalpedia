@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Glob_exists_prime_mem_of_natCast_mem
 -- name    : GlobalTheory.CompanionTheory.Glob.exists_prime_mem_of_natCast_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:43:37.683803+00:00
 -- url     : https://prove2.me/theorems/b86d6868-7c3e-42ea-8447-d6d67560f5b3

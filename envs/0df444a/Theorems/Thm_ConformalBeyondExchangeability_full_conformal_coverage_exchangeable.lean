@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConformalBeyondExchangeability_full_conformal_coverage_exchangeable
 -- name    : ConformalBeyondExchangeability.full_conformal_coverage_exchangeable
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T07:46:57.697089+00:00
 -- url     : https://prove2.me/theorems/db0559b0-9e4d-423b-aebc-9471a12e90c3

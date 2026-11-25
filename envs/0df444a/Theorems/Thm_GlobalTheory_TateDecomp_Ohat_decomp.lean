@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_Ohat_decomp
 -- name    : GlobalTheory.TateDecomp.Ohat_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:01:28.620728+00:00
 -- url     : https://prove2.me/theorems/b9e593cb-5074-5e00-92b5-aaaa0f2fd177

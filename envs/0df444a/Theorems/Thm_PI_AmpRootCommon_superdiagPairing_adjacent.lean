@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AmpRootCommon_superdiagPairing_adjacent
 -- name    : PI.AmpRootCommon.superdiagPairing_adjacent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:23:14.823445+00:00
 -- url     : https://prove2.me/theorems/09efc0fe-bb3f-4487-81be-b47691301959

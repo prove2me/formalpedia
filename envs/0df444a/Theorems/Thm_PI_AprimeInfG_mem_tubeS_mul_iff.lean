@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfG_mem_tubeS_mul_iff
 -- name    : PI.AprimeInfG.mem_tubeS_mul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:13:47.861188+00:00
 -- url     : https://prove2.me/theorems/b51fd240-b44f-4753-8b0d-5abceafd909e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_L1_divBy_C_mul__2cea45c9b452
 -- name    : P2M_ReciprocityTheory_ChartRestriction_L1_divBy_C_mul__2cea45c9b452
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:17:56.153971+00:00
 -- url     : https://prove2.me/theorems/501c8709-20cf-4f2a-9bc0-32c23fd0db41

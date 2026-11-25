@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfG_continuous_embed
 -- name    : PI.AprimeInfG.continuous_embed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:05:40.759582+00:00
 -- url     : https://prove2.me/theorems/010ed555-1fef-53f7-8f3a-2ea79984d2da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_subsingleton_cohomology_of_finite_of_simple
 -- name    : GroundTheory.ProfCoh.subsingleton_cohomology_of_finite_of_simple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:46:38.183924+00:00
 -- url     : https://prove2.me/theorems/583fb40e-825a-4c37-86b9-8a79500cabee

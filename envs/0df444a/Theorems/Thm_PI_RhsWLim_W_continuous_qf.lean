@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_continuous_qf
 -- name    : PI.RhsWLim.W.continuous_qf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:04:53.559716+00:00
 -- url     : https://prove2.me/theorems/8f6eece0-d041-557f-a787-956eb5d364fa

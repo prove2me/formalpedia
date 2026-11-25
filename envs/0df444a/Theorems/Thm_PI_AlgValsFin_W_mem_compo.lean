@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_mem_compo
 -- name    : PI.AlgValsFin.W.mem_compo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:23:15.176424+00:00
 -- url     : https://prove2.me/theorems/898cf7c6-9ff1-4eae-a712-df62593846b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfG_measurePreserving_piCurry_symm
 -- name    : PI.AprimeInfG.measurePreserving_piCurry_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:07:06.931879+00:00
 -- url     : https://prove2.me/theorems/7dc131e6-36a9-4d03-b09a-5535bfbe3597

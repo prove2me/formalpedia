@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntConeFPT_short_recession_step
 -- name    : IntConeFPT.short_recession_step
--- status  : Open
+-- status  : Proved
 -- author  : @ohnesorgefelix
 -- created : 2026-11-25T08:43:22.451333+00:00
 -- url     : https://prove2.me/theorems/bd3315e1-47ab-474f-a27a-6f991e6b4687

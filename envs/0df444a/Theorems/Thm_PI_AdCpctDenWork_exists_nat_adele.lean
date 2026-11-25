@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AdCpctDenWork_exists_nat_adele
 -- name    : PI.AdCpctDenWork.exists_nat_adele
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:58:27.162616+00:00
 -- url     : https://prove2.me/theorems/036fe331-a1a7-43de-8ab2-4836102003c1

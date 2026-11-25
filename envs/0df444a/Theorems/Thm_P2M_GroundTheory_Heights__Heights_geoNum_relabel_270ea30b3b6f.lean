@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_geoNum_relabel_270ea30b3b6f
 -- name    : P2M_GroundTheory_Heights__Heights_geoNum_relabel_270ea30b3b6f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:46:32.965006+00:00
 -- url     : https://prove2.me/theorems/82315f1e-74e6-44dd-984e-301ecad3e2c5

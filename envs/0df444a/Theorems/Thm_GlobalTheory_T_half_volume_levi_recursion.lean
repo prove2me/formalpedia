@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_half_volume_levi_recursion
 -- name    : GlobalTheory.T.half_volume_levi_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:45:40.434314+00:00
 -- url     : https://prove2.me/theorems/d0b1da7d-f6a8-5455-aeb5-5960c5cbeb2c

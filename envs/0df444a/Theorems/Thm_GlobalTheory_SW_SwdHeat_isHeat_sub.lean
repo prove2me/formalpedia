@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_SwdHeat_isHeat_sub
 -- name    : GlobalTheory.SW.SwdHeat.isHeat_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:15:04.059956+00:00
 -- url     : https://prove2.me/theorems/72b1e17e-3b52-46b0-9725-bfca6a9c2afd

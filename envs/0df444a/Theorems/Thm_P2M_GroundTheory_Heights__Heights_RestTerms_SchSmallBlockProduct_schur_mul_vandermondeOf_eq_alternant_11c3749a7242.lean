@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchSmallBlockProduct_schur_mul_vandermondeOf_eq_alternant_11c3749a7242
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchSmallBlockProduct_schur_mul_vandermondeOf_eq_alternant_11c3749a7242
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:20:51.498301+00:00
 -- url     : https://prove2.me/theorems/6556fd12-3a5b-5e45-9e23-eb859d18ad67

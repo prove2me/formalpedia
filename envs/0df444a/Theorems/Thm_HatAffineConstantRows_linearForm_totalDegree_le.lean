@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HatAffineConstantRows_linearForm_totalDegree_le
 -- name    : HatAffineConstantRows.linearForm_totalDegree_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:09:51.679988+00:00
 -- url     : https://prove2.me/theorems/4836bf47-88de-4fe8-b75e-ef93b4b15ee0

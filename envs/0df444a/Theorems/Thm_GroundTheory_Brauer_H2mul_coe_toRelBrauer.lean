@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_H2mul_coe_toRelBrauer
 -- name    : GroundTheory.Brauer.H2mul.coe_toRelBrauer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:05:49.30425+00:00
 -- url     : https://prove2.me/theorems/f8e4cd82-03e2-5d2f-8e68-4c95b03b94ae

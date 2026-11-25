@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_conjU_mem_center
 -- name    : GroundTheory.Automorphic.HarishChandra.conjU_mem_center
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:47:13.815115+00:00
 -- url     : https://prove2.me/theorems/fc56337a-c56b-51e0-8cf8-7663cc322df3

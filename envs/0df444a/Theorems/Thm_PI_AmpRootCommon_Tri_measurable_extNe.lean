@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AmpRootCommon_Tri_measurable_extNe
 -- name    : PI.AmpRootCommon.Tri.measurable_extNe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:23:01.889469+00:00
 -- url     : https://prove2.me/theorems/64b45930-330c-4e33-8d32-5244dc364b26

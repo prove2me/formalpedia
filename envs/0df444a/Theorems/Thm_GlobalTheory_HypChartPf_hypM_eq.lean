@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HypChartPf_hypM_eq
 -- name    : GlobalTheory.HypChartPf.hypM_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:50:46.856332+00:00
 -- url     : https://prove2.me/theorems/722eb5cf-41ea-4a38-9f9d-7869ace7f106

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntClsCount_main
 -- name    : GlobalTheory.IntClsCount.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:15:04.812813+00:00
 -- url     : https://prove2.me/theorems/b67c3c05-c787-43d2-b339-8537df8e4cd6

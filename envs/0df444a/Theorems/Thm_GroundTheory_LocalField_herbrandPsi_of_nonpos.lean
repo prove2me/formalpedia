@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_herbrandPsi_of_nonpos
 -- name    : GroundTheory.LocalField.herbrandPsi_of_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:38:36.977478+00:00
 -- url     : https://prove2.me/theorems/f6610ce7-9399-57e8-8781-4a312658c9a9

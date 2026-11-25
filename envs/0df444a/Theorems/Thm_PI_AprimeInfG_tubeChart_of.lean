@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfG_tubeChart_of
 -- name    : PI.AprimeInfG.tubeChart_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:27:38.821888+00:00
 -- url     : https://prove2.me/theorems/14d7efe8-2019-45b9-bfd2-fd270aee5ad3

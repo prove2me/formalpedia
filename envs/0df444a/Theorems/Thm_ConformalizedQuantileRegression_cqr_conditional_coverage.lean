@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConformalizedQuantileRegression_cqr_conditional_coverage
 -- name    : ConformalizedQuantileRegression.cqr_conditional_coverage
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T07:43:59.388205+00:00
 -- url     : https://prove2.me/theorems/9c89e267-9418-4457-9ab7-55353e0c9fa4

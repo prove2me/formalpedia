@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_valuation_eq_exp
 -- name    : PI.AlgValsFin.W.valuation_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:23:13.26221+00:00
 -- url     : https://prove2.me/theorems/ea34aa73-0d2d-4fc3-bf7e-0749503e8b85

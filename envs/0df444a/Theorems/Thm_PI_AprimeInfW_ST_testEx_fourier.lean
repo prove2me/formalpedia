@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_ST_testEx_fourier
 -- name    : PI.AprimeInfW.ST.testEx_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:12:50.413514+00:00
 -- url     : https://prove2.me/theorems/b5ca3014-84fb-50f6-bdff-a4c00b421bb4

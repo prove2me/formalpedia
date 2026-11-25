@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for IntConeFPT.box_bound_2_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @ohnesorgefelix
 -- created : 2026-11-24T15:04:43.609798+00:00
 -- url     : https://prove2.me/submissions/5e5c3053-540b-4e5f-ae5d-fac79f64ad5b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_IntConeFPT_polytope_height_product
 import Definitions.Def_IntConeFPT_Machine

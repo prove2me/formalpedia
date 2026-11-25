@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_prod_norm_emb
 -- name    : PI.AlgValsFin.W.prod_norm_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:23:04.906813+00:00
 -- url     : https://prove2.me/theorems/731657fc-27b3-4903-bf3e-4b25d25b2ac2

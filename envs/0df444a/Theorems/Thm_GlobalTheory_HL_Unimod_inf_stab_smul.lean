@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Unimod_inf_stab_smul
 -- name    : GlobalTheory.HL.Unimod.inf_stab_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:24:52.160787+00:00
 -- url     : https://prove2.me/theorems/3f09e3a4-3937-4f49-b811-110f26d45668

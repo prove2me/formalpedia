@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_exists_smul_mem_of_span_eq_top_707bad7a4bf7
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_exists_smul_mem_of_span_eq_top_707bad7a4bf7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:27:00.237869+00:00
 -- url     : https://prove2.me/theorems/3c042d86-b73d-47cb-b2dc-befe124d09e2

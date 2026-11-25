@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_isometry_tupleMatrixRightMul_near_identity
 -- name    : GlobalTheory.T.exists_isometry_tupleMatrixRightMul_near_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:49:32.907001+00:00
 -- url     : https://prove2.me/theorems/635f7e69-9105-5c2a-abab-4ea217e52cb8

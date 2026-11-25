@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_coeff_eq_of_mem
 -- name    : GroundTheory.PAdicHodge.TeichLift.coeff_eq_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:34:10.562598+00:00
 -- url     : https://prove2.me/theorems/24be454f-f2d7-4e07-81f7-81a2df007a09

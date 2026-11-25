@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_archUnitary_preserves_form_29e3039d0c28
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_archUnitary_preserves_form_29e3039d0c28
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:56:34.690734+00:00
 -- url     : https://prove2.me/theorems/69339751-4611-4c46-9e9e-e0adead27236

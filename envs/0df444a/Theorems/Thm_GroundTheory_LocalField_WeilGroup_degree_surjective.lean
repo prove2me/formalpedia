@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_WeilGroup_degree_surjective
 -- name    : GroundTheory.LocalField.WeilGroup.degree_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:59:35.735802+00:00
 -- url     : https://prove2.me/theorems/94a1cb9d-9a04-5e02-883f-8ad40f949322

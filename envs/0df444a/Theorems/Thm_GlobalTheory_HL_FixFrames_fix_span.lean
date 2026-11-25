@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FixFrames_fix_span
 -- name    : GlobalTheory.HL.FixFrames.fix_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:46:49.33598+00:00
 -- url     : https://prove2.me/theorems/5da50de0-3723-4090-86b3-e9dfc03c9d3d

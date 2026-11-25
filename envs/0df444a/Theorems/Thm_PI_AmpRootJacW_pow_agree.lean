@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AmpRootJacW_pow_agree
 -- name    : PI.AmpRootJacW.pow_agree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:23:33.40881+00:00
 -- url     : https://prove2.me/theorems/70c165a8-899c-405c-9d23-020396019502

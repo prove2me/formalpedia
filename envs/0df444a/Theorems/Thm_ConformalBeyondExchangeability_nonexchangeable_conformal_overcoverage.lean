@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConformalBeyondExchangeability_nonexchangeable_conformal_overcoverage
 -- name    : ConformalBeyondExchangeability.nonexchangeable_conformal_overcoverage
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T07:51:00.731253+00:00
 -- url     : https://prove2.me/theorems/7d2247ab-2632-4ea7-a220-86e636aec428

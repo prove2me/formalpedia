@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_le_span_singleton_of_forall_mem_eq
 -- name    : GroundTheory.PAdicHodge.le_span_singleton_of_forall_mem_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:38:25.131804+00:00
 -- url     : https://prove2.me/theorems/f1234974-0786-428b-be6b-dfab4c085e81

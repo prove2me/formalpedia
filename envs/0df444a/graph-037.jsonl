@@ -89492,7 +89492,7 @@
 {"parent": "Formalism.DworkPowerSeriesWeights.frame_pure_weight", "child": "P2M_UpperTheory_Reformulated_B_Qk29_wtGe_prod__77285e911b46", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.HW.exists_curve", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_PsiExistsStatement", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.HW.exists_curve", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_HighestWeights_OneParam", "via": ["solution", "statement"]}
-{"parent": "PI.AmpRootCommon.isUnit_unitri", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_RootSubgroupBasics_SuperdiagPairingAdjacent", "via": ["statement"]}
+{"parent": "PI.AmpRootCommon.isUnit_unitri", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_RootSubgroupBasics_SuperdiagPairingAdjacent", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensGen", "child": "Formalism_PeriodIntegrals_VolFromSW", "via": ["statement"]}
 {"parent": "SumProduct.boxAdd_card_ge", "child": "SumProduct_AdditiveCount", "via": ["solution", "statement"]}
 {"parent": "SumProduct.boxAdd_card_ge", "child": "SumProduct_Boxes", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_img_ratio
 -- name    : PI.AprimeInfW.img_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:22:59.615058+00:00
 -- url     : https://prove2.me/theorems/b3bb963b-6100-44b0-ac1c-be25210620e4

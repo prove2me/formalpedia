@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfA_measurable_modChar
 -- name    : PI.AprimeInfA.measurable_modChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:23:26.017297+00:00
 -- url     : https://prove2.me/theorems/73a5c7de-8e9c-5585-a6d1-d88194875470

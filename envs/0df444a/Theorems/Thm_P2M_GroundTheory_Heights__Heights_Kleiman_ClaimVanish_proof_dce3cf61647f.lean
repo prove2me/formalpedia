@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_ClaimVanish_proof_dce3cf61647f
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_ClaimVanish_proof_dce3cf61647f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:39:17.202216+00:00
 -- url     : https://prove2.me/theorems/f7cd13fd-c027-476c-a0fb-f93350768716

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_val_inv_sub
 -- name    : PI.AlgValsFin.W.val_inv_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:23:09.261495+00:00
 -- url     : https://prove2.me/theorems/daa6f821-99bd-4794-8c1c-c6c58a7402a2

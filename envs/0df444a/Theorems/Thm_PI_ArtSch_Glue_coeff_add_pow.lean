@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ArtSch_Glue_coeff_add_pow
 -- name    : PI.ArtSch.Glue.coeff_add_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:23:58.459472+00:00
 -- url     : https://prove2.me/theorems/44be0011-a7d8-4502-9d6b-c3e331c8b201

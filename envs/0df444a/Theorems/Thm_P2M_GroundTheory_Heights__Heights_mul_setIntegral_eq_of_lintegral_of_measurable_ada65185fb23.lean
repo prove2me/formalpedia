@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mul_setIntegral_eq_of_lintegral_of_measurable_ada65185fb23
 -- name    : P2M_GroundTheory_Heights__Heights_mul_setIntegral_eq_of_lintegral_of_measurable_ada65185fb23
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:50:01.90947+00:00
 -- url     : https://prove2.me/theorems/01b8c8ba-38d7-41ec-8979-1a5d178f7c68

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirrorSection__split_exists_d066fd052d45
 -- name    : P2M_PI_MirrorSection__split_exists_d066fd052d45
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:58:12.639786+00:00
 -- url     : https://prove2.me/theorems/0f2c9206-9e16-4cce-a76e-0a0a7b34cd6a

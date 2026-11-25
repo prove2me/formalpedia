@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_eval_smul_of_isHomogeneous_b53e6725adc1
 -- name    : P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_eval_smul_of_isHomogeneous_b53e6725adc1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:05:05.834279+00:00
 -- url     : https://prove2.me/theorems/2340e669-5454-478f-b2cd-b45bb2f26d34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_gandhiPretorsion
 -- name    : PretorsionImageClosed.gandhiPretorsion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:48:01.300944+00:00
 -- url     : https://prove2.me/theorems/2c3d4640-cfbd-4e11-84a7-bfae74e60992

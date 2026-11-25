@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Comparison__charsA_aeb36eedc800
 -- name    : P2M_UpperTheory_Comparison__charsA_aeb36eedc800
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:45:21.114291+00:00
 -- url     : https://prove2.me/theorems/31a49d4f-73aa-546c-b9f9-c78618070536

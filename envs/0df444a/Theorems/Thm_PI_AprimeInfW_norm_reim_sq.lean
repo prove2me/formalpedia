@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_norm_reim_sq
 -- name    : PI.AprimeInfW.norm_reim_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:31:02.281655+00:00
 -- url     : https://prove2.me/theorems/05d4dea3-9a59-42b5-a28c-f937bafa512c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_Relabel_isProjVarF_map_iff_c536fdc6a750
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_Relabel_isProjVarF_map_iff_c536fdc6a750
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:02.700028+00:00
 -- url     : https://prove2.me/theorems/e9b5b6f1-019d-4313-8d97-4706c576f187

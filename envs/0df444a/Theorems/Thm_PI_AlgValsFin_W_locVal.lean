@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_locVal
 -- name    : PI.AlgValsFin.W.locVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:22:59.883791+00:00
 -- url     : https://prove2.me/theorems/7c970389-728e-4b3e-88f5-e1ccb179ab8f

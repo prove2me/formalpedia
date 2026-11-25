@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AmpRootJacW_invC_eq
 -- name    : PI.AmpRootJacW.invC_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:23:28.324337+00:00
 -- url     : https://prove2.me/theorems/4fd9691e-3a61-58c2-8398-050a8aef990f

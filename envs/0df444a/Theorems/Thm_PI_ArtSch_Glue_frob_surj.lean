@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ArtSch_Glue_frob_surj
 -- name    : PI.ArtSch.Glue.frob_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:23:26.829481+00:00
 -- url     : https://prove2.me/theorems/0479f866-7f04-5b9c-9dbe-a51187b1e39f

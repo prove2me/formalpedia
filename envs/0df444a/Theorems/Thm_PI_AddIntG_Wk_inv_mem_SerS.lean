@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_inv_mem_SerS
 -- name    : PI.AddIntG.Wk.inv_mem_SerS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:52:21.235534+00:00
 -- url     : https://prove2.me/theorems/d337e2fa-29a4-4e3e-aac0-c396da07439c

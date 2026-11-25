@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PairUnfoldPf_gram_lact
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PairUnfoldPf.gram_lact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:46:38.196385+00:00
 -- url     : https://prove2.me/theorems/4c704938-9d8a-4e6d-b424-921eb2b4aa94

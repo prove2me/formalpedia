@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_Relabel_divCycle_map_apply_89989eae05a8
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_Relabel_divCycle_map_apply_89989eae05a8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:41:41.835414+00:00
 -- url     : https://prove2.me/theorems/8aada914-dcc8-5f44-b3a6-e2d0a2663f5b

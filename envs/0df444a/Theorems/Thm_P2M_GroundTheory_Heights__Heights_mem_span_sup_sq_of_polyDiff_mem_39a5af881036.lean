@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_span_sup_sq_of_polyDiff_mem_39a5af881036
 -- name    : P2M_GroundTheory_Heights__Heights_mem_span_sup_sq_of_polyDiff_mem_39a5af881036
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:49:04.787805+00:00
 -- url     : https://prove2.me/theorems/d128162b-86b8-479f-a916-6a14fb155f1a

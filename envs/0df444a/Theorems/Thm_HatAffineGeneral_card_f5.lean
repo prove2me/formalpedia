@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HatAffineGeneral_card_f5
 -- name    : HatAffineGeneral.card_f5
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:07:34.031622+00:00
 -- url     : https://prove2.me/theorems/936bd7e6-14c1-5e29-968d-43d042bf9608

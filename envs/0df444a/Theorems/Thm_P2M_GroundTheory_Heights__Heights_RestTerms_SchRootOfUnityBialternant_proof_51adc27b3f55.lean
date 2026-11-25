@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchRootOfUnityBialternant_proof_51adc27b3f55
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchRootOfUnityBialternant_proof_51adc27b3f55
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:01:53.299646+00:00
 -- url     : https://prove2.me/theorems/fe5fbdcf-8796-44a9-af07-4930681217d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntConeFPT_polytope_height_product
 -- name    : IntConeFPT.polytope_height_product
--- status  : Open
+-- status  : Proved
 -- author  : @ohnesorgefelix
 -- created : 2026-11-24T15:04:35.441028+00:00
 -- url     : https://prove2.me/theorems/25047b31-d059-4427-96fd-eff46213ca1d

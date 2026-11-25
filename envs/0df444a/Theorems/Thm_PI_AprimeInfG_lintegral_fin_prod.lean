@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfG_lintegral_fin_prod
 -- name    : PI.AprimeInfG.lintegral_fin_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:23:20.674809+00:00
 -- url     : https://prove2.me/theorems/07f9c7e3-1e05-5af6-a8ae-cded2b422b8a

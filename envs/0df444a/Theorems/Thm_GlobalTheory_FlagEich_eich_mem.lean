@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagEich_eich_mem
 -- name    : GlobalTheory.FlagEich.eich_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:38:29.365676+00:00
 -- url     : https://prove2.me/theorems/ba34452c-f607-5da4-a8b8-b51dcdef62e0

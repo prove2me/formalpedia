@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_conj_eq_complexConj_3315d27272de
 -- name    : P2M_GroundTheory_Heights__Theta_conj_eq_complexConj_3315d27272de
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:53:28.27844+00:00
 -- url     : https://prove2.me/theorems/f1e91834-a103-477f-b9fd-3c5daad8edaf

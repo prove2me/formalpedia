@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HL_MoveWit_mem_N__of_fix_b5ac78c34d59
 -- name    : P2M_GlobalTheory_HL_MoveWit_mem_N__of_fix_b5ac78c34d59
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:56:07.216845+00:00
 -- url     : https://prove2.me/theorems/42fdc356-8f10-4a27-baec-3115fcec7ebe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HatAffineGenericCore_puncturedGrid_totalDegree
 -- name    : HatAffineGenericCore.puncturedGrid_totalDegree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:08:04.628268+00:00
 -- url     : https://prove2.me/theorems/1dc8a4e3-cba7-5568-80eb-c36951242226

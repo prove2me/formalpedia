@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_isNilpotent_of_trace_pow
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.isNilpotent_of_trace_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:16:54.957905+00:00
 -- url     : https://prove2.me/theorems/00c04ecd-417b-4213-b5e9-9fc67cfa25be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HatAffineConstantRows_eval_affineObstructionFactor
 -- name    : HatAffineConstantRows.eval_affineObstructionFactor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:09:37.411108+00:00
 -- url     : https://prove2.me/theorems/0a59b639-5bb3-5de3-b007-4b52b76edfa1

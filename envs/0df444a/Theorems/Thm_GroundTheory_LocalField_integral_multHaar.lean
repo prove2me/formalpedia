@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_integral_multHaar
 -- name    : GroundTheory.LocalField.integral_multHaar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:00:13.645976+00:00
 -- url     : https://prove2.me/theorems/077dbec5-e7bd-45a5-b1d1-c80950a6a894

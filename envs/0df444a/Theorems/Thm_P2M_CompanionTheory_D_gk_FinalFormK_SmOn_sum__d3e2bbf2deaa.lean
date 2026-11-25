@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_CompanionTheory_D_gk_FinalFormK_SmOn_sum__d3e2bbf2deaa
 -- name    : P2M_CompanionTheory_D_gk_FinalFormK_SmOn_sum__d3e2bbf2deaa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:57:10.081103+00:00
 -- url     : https://prove2.me/theorems/b9166485-13d2-4e37-9d6b-e4e69afc3c75

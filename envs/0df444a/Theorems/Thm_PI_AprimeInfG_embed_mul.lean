@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfG_embed_mul
 -- name    : PI.AprimeInfG.embed_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:05:43.303828+00:00
 -- url     : https://prove2.me/theorems/0882d4c9-2893-59f1-bb21-afece0ca4f8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_ST_testEx_kernel
 -- name    : PI.AprimeInfW.ST.testEx_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:12:38.034455+00:00
 -- url     : https://prove2.me/theorems/9ba3a664-25ae-53ba-a9c5-8a5ff76197e5

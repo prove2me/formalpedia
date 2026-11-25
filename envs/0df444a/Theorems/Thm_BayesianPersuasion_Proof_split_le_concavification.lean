@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesianPersuasion_Proof_split_le_concavification
 -- name    : BayesianPersuasion.Proof.split_le_concavification
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:03:45.621949+00:00
 -- url     : https://prove2.me/theorems/0c198013-c952-40bf-bb93-fcf69c861bda

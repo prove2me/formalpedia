@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_comap_coordIdeal_singleton_of_mem
 -- name    : FunctorialResolution.EmbeddedResolution.comap_coordIdeal_singleton_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:46:52.589893+00:00
 -- url     : https://prove2.me/theorems/de292a3f-3c6f-4241-b8e4-b32c35268734

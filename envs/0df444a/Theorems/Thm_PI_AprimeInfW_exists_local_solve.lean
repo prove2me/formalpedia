@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_exists_local_solve
 -- name    : PI.AprimeInfW.exists_local_solve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:17:52.980403+00:00
 -- url     : https://prove2.me/theorems/3c456dd4-22d2-4a7c-b997-97277d7ddccf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestCutCaseSharp_proof_8241afad3fa7
 -- name    : P2M_GroundTheory_Heights__Heights_RestCutCaseSharp_proof_8241afad3fa7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:57:27.566289+00:00
 -- url     : https://prove2.me/theorems/268bbf5a-865f-42b6-bbd8-f2b3c377082e

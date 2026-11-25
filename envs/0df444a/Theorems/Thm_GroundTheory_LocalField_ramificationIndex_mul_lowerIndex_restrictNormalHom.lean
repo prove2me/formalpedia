@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ramificationIndex_mul_lowerIndex_restrictNormalHom
 -- name    : GroundTheory.LocalField.ramificationIndex_mul_lowerIndex_restrictNormalHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:34:03.775574+00:00
 -- url     : https://prove2.me/theorems/491b642e-3ee8-5d66-8ba2-88841cf86af6

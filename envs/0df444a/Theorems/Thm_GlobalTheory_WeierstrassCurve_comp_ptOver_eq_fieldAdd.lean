@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_comp_ptOver_eq_fieldAdd
 -- name    : GlobalTheory.WeierstrassCurve.comp_ptOver_eq_fieldAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:47:58.711027+00:00
 -- url     : https://prove2.me/theorems/0e459eac-4945-471d-a797-392f25ceaca4

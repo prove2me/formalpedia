@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_commensurableCosetUnionContent_biUnion
 -- name    : GlobalTheory.T.commensurableCosetUnionContent_biUnion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:25:17.246719+00:00
 -- url     : https://prove2.me/theorems/163d71c9-3678-4129-a20f-a0661c0c43df

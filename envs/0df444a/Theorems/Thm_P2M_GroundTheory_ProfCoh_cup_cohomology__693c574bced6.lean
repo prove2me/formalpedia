@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_ProfCoh_cup_cohomology__693c574bced6
 -- name    : P2M_GroundTheory_ProfCoh_cup_cohomology__693c574bced6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:06:00.642387+00:00
 -- url     : https://prove2.me/theorems/2f46206a-2c38-4dbb-944c-e35758aaf310

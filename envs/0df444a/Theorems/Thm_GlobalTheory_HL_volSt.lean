@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_volSt
 -- name    : GlobalTheory.HL.volSt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:39:35.846728+00:00
 -- url     : https://prove2.me/theorems/9fbcd881-620e-4110-b544-6443cac1bdd5

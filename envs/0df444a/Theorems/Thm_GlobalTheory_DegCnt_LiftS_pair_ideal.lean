@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_pair_ideal
 -- name    : GlobalTheory.DegCnt.LiftS.pair_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:28:03.414173+00:00
 -- url     : https://prove2.me/theorems/44109cb9-2256-5fc1-b754-5ee4c5e1a9bc

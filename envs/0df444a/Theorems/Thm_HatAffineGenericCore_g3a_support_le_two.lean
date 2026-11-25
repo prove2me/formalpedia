@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HatAffineGenericCore_g3a_support_le_two
 -- name    : HatAffineGenericCore.g3a_support_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:07:08.319805+00:00
 -- url     : https://prove2.me/theorems/d21cd3c7-9fff-46e8-8fa1-5799d2dcb311

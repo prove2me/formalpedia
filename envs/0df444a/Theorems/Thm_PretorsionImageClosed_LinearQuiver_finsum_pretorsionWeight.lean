@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_finsum_pretorsionWeight
 -- name    : PretorsionImageClosed.LinearQuiver.finsum_pretorsionWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:21:23.516357+00:00
 -- url     : https://prove2.me/theorems/fca89ba6-7ba1-4e2d-bf60-c193558c85f4

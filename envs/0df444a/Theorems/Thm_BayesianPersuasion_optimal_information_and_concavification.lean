@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesianPersuasion_optimal_information_and_concavification
 -- name    : BayesianPersuasion.optimal_information_and_concavification
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:08:05.712214+00:00
 -- url     : https://prove2.me/theorems/c14e7324-a6cf-4a7c-8c6b-6832c860b40b

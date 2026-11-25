@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntConeFPT_box_bound_2_1
 -- name    : IntConeFPT.box_bound_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T00:43:45.21893+00:00
 -- url     : https://prove2.me/theorems/d5b76773-9933-47f6-af90-a963ca10078d

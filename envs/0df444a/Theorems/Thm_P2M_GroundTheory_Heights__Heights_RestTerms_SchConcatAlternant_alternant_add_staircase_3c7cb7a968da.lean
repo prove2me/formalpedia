@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchConcatAlternant_alternant_add_staircase_3c7cb7a968da
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchConcatAlternant_alternant_add_staircase_3c7cb7a968da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:20:37.069334+00:00
 -- url     : https://prove2.me/theorems/785595e6-69cb-4b94-89c6-016bbec30a8f

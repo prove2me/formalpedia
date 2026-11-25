@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_card_place_2ef5794d3fc9
 -- name    : P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_card_place_2ef5794d3fc9
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:03:23.034437+00:00
 -- url     : https://prove2.me/theorems/907666b0-786d-4256-be26-ef2727215852

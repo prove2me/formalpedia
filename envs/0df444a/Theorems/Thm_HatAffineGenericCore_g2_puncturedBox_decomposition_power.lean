@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HatAffineGenericCore_g2_puncturedBox_decomposition_power
 -- name    : HatAffineGenericCore.g2_puncturedBox_decomposition_power
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:07:36.228381+00:00
 -- url     : https://prove2.me/theorems/e97d219c-acee-50b6-8884-ee97c5741538

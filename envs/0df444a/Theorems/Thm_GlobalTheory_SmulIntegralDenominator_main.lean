@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmulIntegralDenominator_main
 -- name    : GlobalTheory.SmulIntegralDenominator.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:47:49.185836+00:00
 -- url     : https://prove2.me/theorems/13a763de-3b24-4894-ac61-b9014aa3c812

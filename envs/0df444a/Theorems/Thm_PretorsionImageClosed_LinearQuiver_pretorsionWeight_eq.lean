@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_pretorsionWeight_eq
 -- name    : PretorsionImageClosed.LinearQuiver.pretorsionWeight_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:32:25.492886+00:00
 -- url     : https://prove2.me/theorems/9d04b641-cbe1-4935-b27d-c7b4b0e43f6f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_divisorSum_top
 -- name    : GroundTheory.Global.divisorSum_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:53:22.832522+00:00
 -- url     : https://prove2.me/theorems/94e061c6-103d-5763-8b37-5f05ae9c4677

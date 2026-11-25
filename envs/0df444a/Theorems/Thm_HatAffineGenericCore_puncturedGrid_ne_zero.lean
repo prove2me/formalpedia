@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HatAffineGenericCore_puncturedGrid_ne_zero
 -- name    : HatAffineGenericCore.puncturedGrid_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:07:59.8288+00:00
 -- url     : https://prove2.me/theorems/7359098f-ee7a-57e0-972e-08f2ef0bd19d

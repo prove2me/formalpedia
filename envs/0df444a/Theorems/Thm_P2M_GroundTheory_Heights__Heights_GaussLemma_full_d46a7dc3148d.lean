@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussLemma_full_d46a7dc3148d
 -- name    : P2M_GroundTheory_Heights__Heights_GaussLemma_full_d46a7dc3148d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:04:39.021362+00:00
 -- url     : https://prove2.me/theorems/1ec7e830-dc9d-407e-a7e0-16ab96279703

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_gluing_homomorphism_defect_group
 -- name    : GlobalTheory.T.exists_gluing_homomorphism_defect_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:57:48.15232+00:00
 -- url     : https://prove2.me/theorems/3b5540ed-b16b-4c8d-896a-dd5db2f3ae21

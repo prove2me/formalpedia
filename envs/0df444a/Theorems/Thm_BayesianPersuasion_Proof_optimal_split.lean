@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesianPersuasion_Proof_optimal_split
 -- name    : BayesianPersuasion.Proof.optimal_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:06:14.222449+00:00
 -- url     : https://prove2.me/theorems/1560828d-ebd4-4971-8eec-7dec1ee175c2

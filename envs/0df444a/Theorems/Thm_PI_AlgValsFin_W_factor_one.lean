@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_factor_one
 -- name    : PI.AlgValsFin.W.factor_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:23:01.985688+00:00
 -- url     : https://prove2.me/theorems/51371125-6a4c-5427-8999-87d92845fa45

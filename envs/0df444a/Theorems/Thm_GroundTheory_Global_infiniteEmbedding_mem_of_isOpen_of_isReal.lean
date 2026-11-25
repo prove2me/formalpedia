@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_infiniteEmbedding_mem_of_isOpen_of_isReal
 -- name    : GroundTheory.Global.infiniteEmbedding_mem_of_isOpen_of_isReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:22:01.611056+00:00
 -- url     : https://prove2.me/theorems/c1b08f08-0607-4219-80d0-74c5ff31f575

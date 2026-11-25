@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_ShortGen_half_le_norm_proj_ab6caeac0109
 -- name    : P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_ShortGen_half_le_norm_proj_ab6caeac0109
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:08:22.011797+00:00
 -- url     : https://prove2.me/theorems/42839acc-d380-4507-8654-00d599c1a49b

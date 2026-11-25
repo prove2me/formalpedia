@@ -1,0 +1,38 @@
+-- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_GaussLemma_full_d46a7dc3148d
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-25T09:19:07.812156+00:00
+-- url     : https://prove2.me/submissions/1874bb03-4862-44f5-b013-8f53c83d257c
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_RenameProdMapMul
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_SphereMean
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_LogGaussNormSupportFinite
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_ContinuousHermNormGroup
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_MahlerMul
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_HeightMul
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_LineInhabitant
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_LowerBoundConditional
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PConeLogBound
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PBaseChangeLogBound
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PRecursion
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PCharacterised
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_OfLeaves
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_gaussLemma_c45298130ae9
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights
+namespace GroundTheory.Heights₂.Heights
+namespace GaussLemma
+theorem _root_.solution : GaussLemma.Statement := gaussLemma
+end GaussLemma
+end GroundTheory.Heights₂.Heights

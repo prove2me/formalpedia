@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfG_contAt_dens
 -- name    : PI.AprimeInfG.contAt_dens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:27:22.588882+00:00
 -- url     : https://prove2.me/theorems/15fd6a7f-5300-5480-b116-ab5a12bd6f16

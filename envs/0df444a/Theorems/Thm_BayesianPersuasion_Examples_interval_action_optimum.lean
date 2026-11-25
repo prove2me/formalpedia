@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesianPersuasion_Examples_interval_action_optimum
 -- name    : BayesianPersuasion.Examples.interval_action_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:09:07.271768+00:00
 -- url     : https://prove2.me/theorems/288dfd92-9648-45d0-b37c-11acfdf8f2fd
