@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_zSerLog_of
 -- name    : Formalism.L2.Th1.A.zSerLog_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:39.568024+00:00
 -- url     : https://prove2.me/theorems/dfbc6f69-526e-44c2-ab5d-675e4415885b

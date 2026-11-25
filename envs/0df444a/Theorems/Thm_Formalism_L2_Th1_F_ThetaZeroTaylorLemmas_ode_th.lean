@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThetaZeroTaylorLemmas_ode_th
 -- name    : Formalism.L2.Th1.F.ThetaZeroTaylorLemmas.ode_th
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:29:06.203081+00:00
 -- url     : https://prove2.me/theorems/6b1cf0c6-ec49-4d38-8a79-d93e5b410f01

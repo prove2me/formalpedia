@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_eq_sum_towerCoeff
 -- name    : GroundTheory.PAdicHodge.eq_sum_towerCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:46:25.619347+00:00
 -- url     : https://prove2.me/theorems/a3a35c81-fae5-4ba3-b23f-4821063bbb66

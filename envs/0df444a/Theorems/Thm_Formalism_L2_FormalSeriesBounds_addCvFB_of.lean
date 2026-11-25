@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_addCvFB_of
 -- name    : Formalism.L2.FormalSeriesBounds.addCvFB_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:46:19.777559+00:00
 -- url     : https://prove2.me/theorems/a84dd0c9-8fd1-4013-a6c2-f9fefa0076e3

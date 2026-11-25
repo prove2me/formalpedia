@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_NormalLatticeData_smul_theta_mem
 -- name    : GroundTheory.LocalField.NormalLatticeData.smul_theta_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:14:07.230461+00:00
 -- url     : https://prove2.me/theorems/3407ea22-6ff8-46a1-ac53-abb039242ca6

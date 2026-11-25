@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__planeMap_isometry_53c6e442be67
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__planeMap_isometry_53c6e442be67
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:00:21.203623+00:00
 -- url     : https://prove2.me/theorems/dc20a84d-ae7a-40f0-9c96-3f85eb92c193

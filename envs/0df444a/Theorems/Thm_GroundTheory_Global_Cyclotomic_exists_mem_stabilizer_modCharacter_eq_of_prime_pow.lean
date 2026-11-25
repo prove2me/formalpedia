@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_exists_mem_stabilizer_modCharacter_eq_of_prime_pow
 -- name    : GroundTheory.Global.Cyclotomic.exists_mem_stabilizer_modCharacter_eq_of_prime_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:20:44.314319+00:00
 -- url     : https://prove2.me/theorems/086a3bf6-76e9-4737-9075-948ca31d1b14

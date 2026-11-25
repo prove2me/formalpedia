@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_functionFieldPlace_exists_const_sub_lt_one
 -- name    : GlobalTheory.Nef.functionFieldPlace_exists_const_sub_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:14:44.464992+00:00
 -- url     : https://prove2.me/theorems/eaeef12b-da0d-47a9-8b09-132b8a3894af

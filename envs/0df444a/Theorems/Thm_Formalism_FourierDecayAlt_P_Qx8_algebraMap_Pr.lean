@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_algebraMap_Pr
 -- name    : Formalism.FourierDecayAlt.P.Qx8.algebraMap_Pr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:23:11.675676+00:00
 -- url     : https://prove2.me/theorems/fe1b8db3-0b73-4d29-b033-dd5f993825cd

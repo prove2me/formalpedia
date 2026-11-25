@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Qf29_der_aeval
 -- name    : UpperTheory.Reformulated.B.Qf29.der_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:27:53.335067+00:00
 -- url     : https://prove2.me/theorems/8c48d1e7-b8cd-4590-8b7e-3e8bcc97564f

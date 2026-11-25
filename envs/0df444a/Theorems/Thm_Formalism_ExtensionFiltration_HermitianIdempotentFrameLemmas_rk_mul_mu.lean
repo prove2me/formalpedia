@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_HermitianIdempotentFrameLemmas_rk_mul_mu
 -- name    : Formalism.ExtensionFiltration.HermitianIdempotentFrameLemmas.rk_mul_mu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:22.819515+00:00
 -- url     : https://prove2.me/theorems/b6fc5d82-7a09-4f22-8f45-dc64b43ccad0

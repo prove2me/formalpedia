@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Gadget_columnEdge_mem
 -- name    : GalvinMultigraph.Gadget.columnEdge_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:17:11.517265+00:00
 -- url     : https://prove2.me/theorems/c528c89c-f342-49f0-86ca-17c26e3edf1d

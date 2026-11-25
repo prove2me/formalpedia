@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_digitSum_le_one
 -- name    : SZ.digitSum_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:14:57.050607+00:00
 -- url     : https://prove2.me/theorems/097af87f-4d8d-4b0d-b91e-b92b37c08322

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_nrm_binomialSum_le
 -- name    : GroundTheory.PAdicHodge.nrm_binomialSum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:06:12.3398+00:00
 -- url     : https://prove2.me/theorems/6caa55b7-e81b-4c4e-8477-1ad1ce5d7089

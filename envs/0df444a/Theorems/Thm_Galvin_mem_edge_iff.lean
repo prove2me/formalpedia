@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Galvin_mem_edge_iff
 -- name    : Galvin.mem_edge_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:07:12.79371+00:00
 -- url     : https://prove2.me/theorems/45b55fd8-396b-4384-a060-5b4c8d97aad9

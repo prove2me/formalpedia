@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsogenySum_integral_pairing_density_eq_zero
 -- name    : GlobalTheory.IsogenySum.integral_pairing_density_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:09:20.352814+00:00
 -- url     : https://prove2.me/theorems/9d075fa4-8316-4fa0-a016-98f508bdffb0

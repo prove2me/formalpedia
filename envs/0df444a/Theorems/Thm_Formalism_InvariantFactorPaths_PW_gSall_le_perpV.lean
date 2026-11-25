@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_gSall_le_perpV
 -- name    : Formalism.InvariantFactorPaths.PW.gSall_le_perpV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:08:19.056974+00:00
 -- url     : https://prove2.me/theorems/52a93baf-fdb3-48a0-aba3-37453f423a8a

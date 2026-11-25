@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_continuous_algebraNorm
 -- name    : GroundTheory.LocalField.continuous_algebraNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:14:52.648799+00:00
 -- url     : https://prove2.me/theorems/71ae59d9-56a7-4843-8522-564273f5172f

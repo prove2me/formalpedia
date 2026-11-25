@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_trace_conjTranspose_mul_self_re_nonneg
 -- name    : Newton.trace_conjTranspose_mul_self_re_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:17:37.714742+00:00
 -- url     : https://prove2.me/theorems/bfba116f-0924-4c67-ad75-e014b0660875

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_fixedProj_single_eq
 -- name    : GroundTheory.Automorphic.RestrictedTensor.fixedProj_single_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:56:47.887479+00:00
 -- url     : https://prove2.me/theorems/800dec0b-f5eb-4946-b4b3-5f46d7d11742

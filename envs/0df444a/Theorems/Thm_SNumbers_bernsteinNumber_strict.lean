@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_bernsteinNumber_strict
 -- name    : SNumbers.bernsteinNumber_strict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:17:10.188209+00:00
 -- url     : https://prove2.me/theorems/e744d49a-08e8-4d10-8f0c-27599e997d6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerivEndo_formalGroupLaw_ev_second_zero
 -- name    : GlobalTheory.DerivEndo.formalGroupLaw_ev_second_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:10:50.146049+00:00
 -- url     : https://prove2.me/theorems/874a4ce7-be14-4e80-a59a-823695ff9f3a

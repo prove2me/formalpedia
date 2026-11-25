@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FourierCoefficientMatrices_pnorm_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FourierCoefficientMatrices.pnorm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:29:46.118331+00:00
 -- url     : https://prove2.me/theorems/a802f9e1-1f00-4e9c-87cf-3bc2aa52a37e

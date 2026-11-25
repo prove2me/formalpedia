@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integralClosure_fg_dvr_of_separable_charpoly
 -- name    : GlobalTheory.T.integralClosure_fg_dvr_of_separable_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:36:04.457991+00:00
 -- url     : https://prove2.me/theorems/53c43bf7-e211-4a4c-975a-4c801466a43b

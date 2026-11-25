@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_ae_eval_ne_zero_linear
 -- name    : ReciprocityTheory.MultiplicativeHeights.ae_eval_ne_zero_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:27:42.786284+00:00
 -- url     : https://prove2.me/theorems/af047cbd-d55f-4070-b6bb-d37855be42d0

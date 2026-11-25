@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceExt_maximalIdeal_eq_span
 -- name    : GlobalTheory.PlaceExt.maximalIdeal_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:29:51.102855+00:00
 -- url     : https://prove2.me/theorems/2bbbd355-bc7d-4d33-9ce1-ea7a89bb9d91

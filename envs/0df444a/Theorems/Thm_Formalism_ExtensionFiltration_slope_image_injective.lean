@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_slope_image_injective
 -- name    : Formalism.ExtensionFiltration.slope_image_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:38:19.558797+00:00
 -- url     : https://prove2.me/theorems/eefac7c1-394c-4b59-a57e-499c5cc11df1

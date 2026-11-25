@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_isUnit_xi_coeff_one
 -- name    : GroundTheory.PAdicHodge.AInf.isUnit_xi_coeff_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:46:42.692034+00:00
 -- url     : https://prove2.me/theorems/e6ce6cf2-efb7-4f1a-9d1e-6139a2d149b1

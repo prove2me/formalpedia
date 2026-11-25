@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_muMaxDef_mono
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.muMaxDef_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:40:47.704926+00:00
 -- url     : https://prove2.me/theorems/4e4440ba-3517-4395-b205-8cf37d616e1f

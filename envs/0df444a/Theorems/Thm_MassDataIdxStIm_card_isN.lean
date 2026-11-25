@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxStIm_card_isN
 -- name    : MassDataIdxStIm.card_isN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:52:02.717392+00:00
 -- url     : https://prove2.me/theorems/c0a73d61-2bff-4532-a0a8-70810f2f7493

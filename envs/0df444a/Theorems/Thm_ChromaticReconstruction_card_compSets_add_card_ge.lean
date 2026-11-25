@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_card_compSets_add_card_ge
 -- name    : ChromaticReconstruction.card_compSets_add_card_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:03:11.146039+00:00
 -- url     : https://prove2.me/theorems/70313462-87ba-453a-9c60-4fe5d7df0ed5

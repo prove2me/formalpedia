@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_SelfConjugateGermZero_hasSubst_col
 -- name    : Formalism.L2.FormalSeriesBounds.SelfConjugateGermZero.hasSubst_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:18:04.21779+00:00
 -- url     : https://prove2.me/theorems/0e1c392d-a412-4a21-accc-3d5a6b687480

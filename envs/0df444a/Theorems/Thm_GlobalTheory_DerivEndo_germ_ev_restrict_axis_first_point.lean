@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerivEndo_germ_ev_restrict_axis_first_point
 -- name    : GlobalTheory.DerivEndo.germ_ev_restrict_axis_first_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:10:40.698066+00:00
 -- url     : https://prove2.me/theorems/71c998d9-8ad1-46d0-9070-449386ca8a9d

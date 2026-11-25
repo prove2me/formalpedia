@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_young_exponent_to_three_holder
 -- name    : Newton.young_exponent_to_three_holder
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:59:56.552156+00:00
 -- url     : https://prove2.me/theorems/b99a7075-3c89-4a07-b065-463cfc3c65ec

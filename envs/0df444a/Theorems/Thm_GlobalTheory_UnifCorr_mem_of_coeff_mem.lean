@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifCorr_mem_of_coeff_mem
 -- name    : GlobalTheory.UnifCorr.mem_of_coeff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:09:10.097673+00:00
 -- url     : https://prove2.me/theorems/2a9cbdea-4a83-481e-9fd4-771322f0eff6

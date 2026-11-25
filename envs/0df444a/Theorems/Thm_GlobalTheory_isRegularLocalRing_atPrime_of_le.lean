@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isRegularLocalRing_atPrime_of_le
 -- name    : GlobalTheory.isRegularLocalRing_atPrime_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:16:35.278557+00:00
 -- url     : https://prove2.me/theorems/541c7807-8d5c-4b3f-b35f-cfe3e71a606b

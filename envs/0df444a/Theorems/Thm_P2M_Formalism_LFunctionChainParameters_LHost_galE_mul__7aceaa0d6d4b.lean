@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LFunctionChainParameters_LHost_galE_mul__7aceaa0d6d4b
 -- name    : P2M_Formalism_LFunctionChainParameters_LHost_galE_mul__7aceaa0d6d4b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:26:23.022778+00:00
 -- url     : https://prove2.me/theorems/aaf91695-88ea-4018-9faf-41a65aec684b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralRepresentation_stepDown_eq_one
 -- name    : SpectralRepresentation.stepDown_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:17:34.065295+00:00
 -- url     : https://prove2.me/theorems/a806ff91-1b1d-49f2-b376-2e2439392b89

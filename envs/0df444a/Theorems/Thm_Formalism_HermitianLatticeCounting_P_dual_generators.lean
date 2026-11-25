@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_dual_generators
 -- name    : Formalism.HermitianLatticeCounting.P.dual_generators
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:28.147823+00:00
 -- url     : https://prove2.me/theorems/18886eb7-550e-4855-99e8-0ac0020b47b9

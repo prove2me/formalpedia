@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_expSeries_sub_one_sub_self_mem
 -- name    : GroundTheory.LocalField.expSeries_sub_one_sub_self_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:45:18.70558+00:00
 -- url     : https://prove2.me/theorems/b9ab2325-e4ec-473f-891b-502304dab233

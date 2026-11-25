@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Konig_konig_step
 -- name    : Konig.konig_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:15:46.455923+00:00
 -- url     : https://prove2.me/theorems/bc350569-2341-44ed-9a04-70c19550b4ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_generalLemma_allOrders
 -- name    : GlobalTheory.PMonE.generalLemma_allOrders
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:39:32.60387+00:00
 -- url     : https://prove2.me/theorems/4a20f4b5-1fad-4811-aff5-d756857c6235

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_coeff_lowerAt_pos
 -- name    : ChromaticReconstruction.coeff_lowerAt_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:35:42.710649+00:00
 -- url     : https://prove2.me/theorems/e1df26b3-2aad-4bb9-9345-389bf7ba0cb1

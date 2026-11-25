@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_holder_inequality
 -- name    : Newton.holder_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:30:46.84547+00:00
 -- url     : https://prove2.me/theorems/24ae548d-0255-4b2a-ba9b-7fbaf8cf898b

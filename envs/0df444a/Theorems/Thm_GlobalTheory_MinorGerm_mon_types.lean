@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorGerm_mon_types
 -- name    : GlobalTheory.MinorGerm.mon_types
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:47:53.268472+00:00
 -- url     : https://prove2.me/theorems/e2484b52-70e5-448c-879f-da56ae8ca731

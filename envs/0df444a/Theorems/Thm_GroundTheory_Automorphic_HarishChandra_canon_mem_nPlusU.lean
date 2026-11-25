@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_canon_mem_nPlusU
 -- name    : GroundTheory.Automorphic.HarishChandra.canon_mem_nPlusU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:07:21.285417+00:00
 -- url     : https://prove2.me/theorems/5813abe1-6c02-4ccc-a139-682c3d00d461

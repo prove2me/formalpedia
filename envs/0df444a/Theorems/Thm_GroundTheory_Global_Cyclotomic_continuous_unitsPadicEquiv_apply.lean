@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_continuous_unitsPadicEquiv_apply
 -- name    : GroundTheory.Global.Cyclotomic.continuous_unitsPadicEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:18:34.550281+00:00
 -- url     : https://prove2.me/theorems/22a221f3-4a2e-4ca5-8ca4-5579ee0f22ef

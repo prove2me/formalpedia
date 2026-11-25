@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_PrismTransfer_degD_le_muMax
 -- name    : Formalism.BranchingDeterminantCap.PrismTransfer.degD_le_muMax
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:19:26.902012+00:00
 -- url     : https://prove2.me/theorems/92cfd472-41ae-46e6-b4dc-610987fe58d8

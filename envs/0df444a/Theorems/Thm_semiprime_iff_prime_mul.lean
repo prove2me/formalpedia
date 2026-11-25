@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_semiprime_iff_prime_mul
 -- name    : semiprime_iff_prime_mul
--- status  : Open
+-- status  : Proved
 -- author  : @mwm
 -- created : 2026-11-25T01:29:11.292501+00:00
 -- url     : https://prove2.me/theorems/267a9b9c-f6cc-44fe-8956-b9d436f36ac7

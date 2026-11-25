@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_AdelicGLn_discreteTopology_rationalGL
 -- name    : GroundTheory.Automorphic.AdelicGLn.discreteTopology_rationalGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:00:29.719115+00:00
 -- url     : https://prove2.me/theorems/2f6bb59d-0328-4b20-93cd-36a5502b1205

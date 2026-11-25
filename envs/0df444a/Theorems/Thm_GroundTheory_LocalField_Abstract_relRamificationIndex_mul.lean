@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_relRamificationIndex_mul
 -- name    : GroundTheory.LocalField.Abstract.relRamificationIndex_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:13:09.831948+00:00
 -- url     : https://prove2.me/theorems/e990a45b-5a30-447d-82b6-ccf2782a1b9a

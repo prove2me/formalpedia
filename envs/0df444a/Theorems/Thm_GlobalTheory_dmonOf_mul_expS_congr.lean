@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dmonOf_mul_expS_congr
 -- name    : GlobalTheory.dmonOf_mul_expS_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:44:54.032296+00:00
 -- url     : https://prove2.me/theorems/7eb3cfce-c30c-4819-b818-0948f80254ec

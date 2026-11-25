@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceSum_mem_primesOverFinset
 -- name    : GlobalTheory.PlaceSum.mem_primesOverFinset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:21:09.586318+00:00
 -- url     : https://prove2.me/theorems/ffd5fb01-4281-4808-b708-0dc79a13b730

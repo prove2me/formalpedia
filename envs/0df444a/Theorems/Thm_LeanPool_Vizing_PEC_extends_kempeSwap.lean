@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_Vizing_PEC_extends_kempeSwap
 -- name    : LeanPool.Vizing.PEC.extends_kempeSwap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:55:19.802577+00:00
 -- url     : https://prove2.me/theorems/41dac0f6-0ef4-43b4-a83c-0f044f9c8e25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_Vizing_PEC_fan_rotate
 -- name    : LeanPool.Vizing.PEC.fan_rotate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:03:16.932851+00:00
 -- url     : https://prove2.me/theorems/23c17c0b-cfdd-4b4d-8b58-878183746a22

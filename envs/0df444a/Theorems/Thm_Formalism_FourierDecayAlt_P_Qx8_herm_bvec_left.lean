@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_herm_bvec_left
 -- name    : Formalism.FourierDecayAlt.P.Qx8.herm_bvec_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:22:33.661228+00:00
 -- url     : https://prove2.me/theorems/f32cf512-4900-4a69-884d-5064a90acc54

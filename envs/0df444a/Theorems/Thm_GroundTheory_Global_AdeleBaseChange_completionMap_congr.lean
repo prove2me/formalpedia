@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_AdeleBaseChange_completionMap_congr
 -- name    : GroundTheory.Global.AdeleBaseChange.completionMap_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:25:35.426267+00:00
 -- url     : https://prove2.me/theorems/c75d7041-de4c-4e56-9799-a276fb23c9f1

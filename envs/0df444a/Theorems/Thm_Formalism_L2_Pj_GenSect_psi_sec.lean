@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_GenSect_psi_sec
 -- name    : Formalism.L2.Pj.GenSect.psi_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:22:14.899036+00:00
 -- url     : https://prove2.me/theorems/166170af-a08a-44ca-a596-28c5d87d5e75

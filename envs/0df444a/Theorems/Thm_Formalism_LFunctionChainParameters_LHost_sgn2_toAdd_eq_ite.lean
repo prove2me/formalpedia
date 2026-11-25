@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_sgn2_toAdd_eq_ite
 -- name    : Formalism.LFunctionChainParameters.LHost.sgn2_toAdd_eq_ite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:24:20.532925+00:00
 -- url     : https://prove2.me/theorems/1f083d24-599b-4967-94b0-9906b05ee1f6

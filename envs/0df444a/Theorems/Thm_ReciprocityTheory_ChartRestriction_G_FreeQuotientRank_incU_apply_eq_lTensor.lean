@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_incU_apply_eq_lTensor
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.incU_apply_eq_lTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:28:45.454796+00:00
 -- url     : https://prove2.me/theorems/f5355137-107a-4a2a-a6c9-590753e68524

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_res_inf_of_coheight_le_one
 -- name    : GlobalTheory.bijective_res_inf_of_coheight_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:44:42.47338+00:00
 -- url     : https://prove2.me/theorems/892c843a-33f9-450b-b70e-6ea76b8ca758

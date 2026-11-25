@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenCongruence_dmonOf_sub_mem
 -- name    : GlobalTheory.EigenCongruence.dmonOf_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:38:56.278566+00:00
 -- url     : https://prove2.me/theorems/d08dace7-a4ed-4a07-8489-9292bf4f5a61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_forall_mem_apply_eq_zero
 -- name    : GroundTheory.Automorphic.Whittaker.forall_mem_apply_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:08:08.254388+00:00
 -- url     : https://prove2.me/theorems/5cb57aca-f3e4-4dfe-a75e-2844b00b75aa

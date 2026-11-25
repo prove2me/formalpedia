@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_VecSplit_card_stab
 -- name    : Formalism.HermitianLattices.Ext.L3.VecSplit.card_stab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:42.003767+00:00
 -- url     : https://prove2.me/theorems/c37a0c1a-0966-4788-90b5-fb454e59d1a7

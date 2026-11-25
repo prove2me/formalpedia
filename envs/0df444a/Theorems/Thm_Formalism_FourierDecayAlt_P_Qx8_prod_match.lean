@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_prod_match
 -- name    : Formalism.FourierDecayAlt.P.Qx8.prod_match
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:23:06.807377+00:00
 -- url     : https://prove2.me/theorems/60d45347-0b7b-459a-96fd-924dc570fc85

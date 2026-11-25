@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_subsingleton_groupCohomology_galois
 -- name    : GroundTheory.ProfCoh.subsingleton_groupCohomology_galois
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:50:59.342801+00:00
 -- url     : https://prove2.me/theorems/ebf7c438-3471-4d25-98c3-fd094bf8c164

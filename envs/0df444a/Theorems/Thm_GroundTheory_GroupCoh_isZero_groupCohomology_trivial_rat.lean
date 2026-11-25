@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_isZero_groupCohomology_trivial_rat
 -- name    : GroundTheory.GroupCoh.isZero_groupCohomology_trivial_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:43:10.308903+00:00
 -- url     : https://prove2.me/theorems/8978f987-32b8-489a-b95b-42960b07bbca

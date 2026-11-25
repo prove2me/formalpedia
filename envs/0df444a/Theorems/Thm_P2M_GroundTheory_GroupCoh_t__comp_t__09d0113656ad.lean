@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_t__comp_t__09d0113656ad
 -- name    : P2M_GroundTheory_GroupCoh_t__comp_t__09d0113656ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:55:05.307605+00:00
 -- url     : https://prove2.me/theorems/ae97c81f-c61d-4ad2-aa53-cd9f97dabe67

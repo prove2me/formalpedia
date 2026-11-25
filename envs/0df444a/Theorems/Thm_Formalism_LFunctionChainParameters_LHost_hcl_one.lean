@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_hcl_one
 -- name    : Formalism.LFunctionChainParameters.LHost.hcl_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:23:26.893807+00:00
 -- url     : https://prove2.me/theorems/3cc9fc23-c215-451e-9d00-c66a456f91fb

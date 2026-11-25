@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_inner_sub_finProj_eq_zero
 -- name    : GroundTheory.Automorphic.inner_sub_finProj_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:07:55.066247+00:00
 -- url     : https://prove2.me/theorems/4cacf414-e86c-4ca2-8629-669d2b5e50a8

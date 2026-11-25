@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpChartJet_xExp_trunc
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpChartJet.xExp_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:58:32.473813+00:00
 -- url     : https://prove2.me/theorems/dd09ef08-e8a7-43ce-ad6a-a205871ac248

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CompactRep_kProj_kProj
 -- name    : GroundTheory.Automorphic.CompactRep.kProj_kProj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:06:44.319104+00:00
 -- url     : https://prove2.me/theorems/fb19cf9a-3ebd-4963-9bde-36463db4b479

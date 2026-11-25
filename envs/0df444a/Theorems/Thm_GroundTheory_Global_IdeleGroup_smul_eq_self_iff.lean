@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_smul_eq_self_iff
 -- name    : GroundTheory.Global.IdeleGroup.smul_eq_self_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:18:16.683735+00:00
 -- url     : https://prove2.me/theorems/767d1bc9-3eed-4f40-95d5-ec234ca723e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateMap_congr
 -- name    : GroundTheory.GroupCoh.tateMap_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:14:14.835165+00:00
 -- url     : https://prove2.me/theorems/c8625cb2-3c8f-4b5d-a6f7-594095c71b8b

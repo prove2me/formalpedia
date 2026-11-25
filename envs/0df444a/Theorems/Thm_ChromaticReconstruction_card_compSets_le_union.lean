@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_card_compSets_le_union
 -- name    : ChromaticReconstruction.card_compSets_le_union
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:08:09.628614+00:00
 -- url     : https://prove2.me/theorems/31cacd9d-189b-440e-8759-850bb5affccd

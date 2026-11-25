@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FrameEntries_uC_last
 -- name    : Formalism.FourierDecayAlt.P.FrameEntries.uC_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:28:07.833822+00:00
 -- url     : https://prove2.me/theorems/555ada0d-a286-4900-b7f2-e15f43fde172

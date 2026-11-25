@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_norm_le_euclidNorm_pi
 -- name    : GroundTheory.Automorphic.Reduction.norm_le_euclidNorm_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:08:10.825801+00:00
 -- url     : https://prove2.me/theorems/f5793de0-a6fd-485c-aa20-2432354710b3

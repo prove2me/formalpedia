@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_unitOfCoprime_one
 -- name    : Formalism.LFunctionChainParameters.LHost.unitOfCoprime_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:25:02.822898+00:00
 -- url     : https://prove2.me/theorems/8d21a199-72c1-465a-bc52-c7e889e675c2

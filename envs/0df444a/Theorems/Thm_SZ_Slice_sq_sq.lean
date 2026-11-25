@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_sq_sq
 -- name    : SZ.Slice.sq_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:16:55.788015+00:00
 -- url     : https://prove2.me/theorems/22020ce7-280c-4785-a04d-e78b1b86fecc

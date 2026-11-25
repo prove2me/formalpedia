@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_muDef_eq_log
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.muDef_eq_log
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:55:10.228384+00:00
 -- url     : https://prove2.me/theorems/540132ef-43e7-422c-84f9-edf4f5820e77

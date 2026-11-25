@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_eLpNorm_triangle_three
 -- name    : Newton.eLpNorm_triangle_three
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:07:12.784926+00:00
 -- url     : https://prove2.me/theorems/0cad3cf9-01f0-4b0d-abaf-59ba74b614d0

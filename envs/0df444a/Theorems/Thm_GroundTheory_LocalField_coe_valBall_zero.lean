@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_coe_valBall_zero
 -- name    : GroundTheory.LocalField.coe_valBall_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:27:28.095949+00:00
 -- url     : https://prove2.me/theorems/47dfc435-849b-4a68-bd45-2731c1e00fb7

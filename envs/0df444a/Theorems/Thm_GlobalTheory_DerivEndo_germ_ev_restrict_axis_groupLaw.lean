@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerivEndo_germ_ev_restrict_axis_groupLaw
 -- name    : GlobalTheory.DerivEndo.germ_ev_restrict_axis_groupLaw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:10:48.731858+00:00
 -- url     : https://prove2.me/theorems/d592a32e-f9e5-4657-abc6-085ef50de974

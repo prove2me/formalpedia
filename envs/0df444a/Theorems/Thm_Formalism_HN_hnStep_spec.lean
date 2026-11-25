@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_hnStep_spec
 -- name    : Formalism.HN.hnStep_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:42:27.220795+00:00
 -- url     : https://prove2.me/theorems/e345450d-02e8-445c-8453-62642a381fe0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_normDiscrete_map_inv
 -- name    : GlobalTheory.normDiscrete_map_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:24:49.487808+00:00
 -- url     : https://prove2.me/theorems/8e27a9bf-bdcf-4cfb-9107-9f7077d23232

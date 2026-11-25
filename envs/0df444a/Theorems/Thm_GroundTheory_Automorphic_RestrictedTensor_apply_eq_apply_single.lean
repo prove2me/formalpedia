@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_apply_eq_apply_single
 -- name    : GroundTheory.Automorphic.RestrictedTensor.apply_eq_apply_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:56:15.192439+00:00
 -- url     : https://prove2.me/theorems/2c2e4c41-0c38-4d64-8689-b61aa1a9f38b

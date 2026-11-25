@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_ZSer_ring_coeff
 -- name    : Formalism.L2.Th1.A.ZSer.ring_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:19:10.028436+00:00
 -- url     : https://prove2.me/theorems/460a97f9-0a18-4d76-9963-56d620b16018

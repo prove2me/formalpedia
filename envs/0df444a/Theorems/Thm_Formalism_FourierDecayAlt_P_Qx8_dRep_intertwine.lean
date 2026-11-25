@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_dRep_intertwine
 -- name    : Formalism.FourierDecayAlt.P.Qx8.dRep_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:23:41.199572+00:00
 -- url     : https://prove2.me/theorems/88b76bfb-ba38-4ab5-bfd7-6a472e368aed

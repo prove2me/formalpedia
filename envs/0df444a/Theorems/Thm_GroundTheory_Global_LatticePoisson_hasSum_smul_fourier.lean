@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_LatticePoisson_hasSum_smul_fourier
 -- name    : GroundTheory.Global.LatticePoisson.hasSum_smul_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:28:20.933888+00:00
 -- url     : https://prove2.me/theorems/14a5edde-9fd3-44a6-b6da-58a8fd74c94c

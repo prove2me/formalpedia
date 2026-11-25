@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_sigmaL_mem_relSpan
 -- name    : GroundTheory.Automorphic.Whittaker.sigmaL_mem_relSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:37:07.560877+00:00
 -- url     : https://prove2.me/theorems/fc122233-3d41-4f95-a826-2e6be977d964

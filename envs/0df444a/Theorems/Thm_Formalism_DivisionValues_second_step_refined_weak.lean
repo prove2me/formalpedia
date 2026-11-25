@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_second_step_refined_weak
 -- name    : Formalism.DivisionValues.second_step_refined_weak
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:48:59.108797+00:00
 -- url     : https://prove2.me/theorems/4d4c7b13-08ca-40c9-b8a3-008514691bdb

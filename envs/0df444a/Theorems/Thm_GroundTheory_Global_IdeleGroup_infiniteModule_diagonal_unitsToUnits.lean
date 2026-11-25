@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_infiniteModule_diagonal_unitsToUnits
 -- name    : GroundTheory.Global.IdeleGroup.infiniteModule_diagonal_unitsToUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:18:11.426176+00:00
 -- url     : https://prove2.me/theorems/62441690-4f6a-4a58-8efa-9625f3d9db5b

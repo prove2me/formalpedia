@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_BoundedSectionAlgebra_bdd_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.BoundedSectionAlgebra.bdd_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:27:25.618852+00:00
 -- url     : https://prove2.me/theorems/25cc8ea6-2fb4-4e27-8ad3-00ff5b40c877

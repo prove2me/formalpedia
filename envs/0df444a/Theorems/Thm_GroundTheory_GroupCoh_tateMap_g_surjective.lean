@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateMap_g_surjective
 -- name    : GroundTheory.GroupCoh.tateMap_g_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:13:29.721179+00:00
 -- url     : https://prove2.me/theorems/e6d713f5-822f-4cea-a2d2-89a3971600ce

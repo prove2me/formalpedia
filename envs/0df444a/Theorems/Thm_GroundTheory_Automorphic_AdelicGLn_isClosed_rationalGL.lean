@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_AdelicGLn_isClosed_rationalGL
 -- name    : GroundTheory.Automorphic.AdelicGLn.isClosed_rationalGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:04:42.881912+00:00
 -- url     : https://prove2.me/theorems/fda05602-997f-4441-b541-0053c956909d

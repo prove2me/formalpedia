@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericExtend_exists_unit_dvr
 -- name    : GlobalTheory.GenericExtend.exists_unit_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:01:12.871163+00:00
 -- url     : https://prove2.me/theorems/e332c196-9d6f-4716-a67a-0e7ea97158f9

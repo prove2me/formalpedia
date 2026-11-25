@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_coeff_mul_le_norm_sum
 -- name    : GroundTheory.PAdicHodge.norm_coeff_mul_le_norm_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:48:09.590015+00:00
 -- url     : https://prove2.me/theorems/62823c36-6b23-4572-a237-8dd2baae0311

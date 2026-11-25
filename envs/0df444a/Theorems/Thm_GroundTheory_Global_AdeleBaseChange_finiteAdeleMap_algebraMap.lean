@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_AdeleBaseChange_finiteAdeleMap_algebraMap
 -- name    : GroundTheory.Global.AdeleBaseChange.finiteAdeleMap_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:26:04.355803+00:00
 -- url     : https://prove2.me/theorems/fb8b5e14-75f2-480b-96bf-c34a0e904f14

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_MatrixLatticeEstimates_slope_le_max_slope
 -- name    : Formalism.LFunctionChainParameters.MatrixLatticeEstimates.slope_le_max_slope
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:50:26.215963+00:00
 -- url     : https://prove2.me/theorems/5bfca87f-3d22-43f8-9260-872f92c19549

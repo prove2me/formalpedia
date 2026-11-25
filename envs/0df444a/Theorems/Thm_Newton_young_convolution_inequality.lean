@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_young_convolution_inequality
 -- name    : Newton.young_convolution_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:43:25.246797+00:00
 -- url     : https://prove2.me/theorems/6b009f15-ab65-428f-9ef8-07265fdb1837

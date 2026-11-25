@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_formal_law_exists
 -- name    : Formalism.InvariantFactorPaths.G7.formal_law_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:30:31.271872+00:00
 -- url     : https://prove2.me/theorems/4a1e5759-82e0-4321-aa10-04ad2e05eae8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_exists_mem_dualMonoid_eq_exposedFace
 -- name    : GroundTheory.Arith.Toric.exists_mem_dualMonoid_eq_exposedFace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:55:51.26136+00:00
 -- url     : https://prove2.me/theorems/0dbaa7e1-ad93-42d5-a195-0e95158b1bfa

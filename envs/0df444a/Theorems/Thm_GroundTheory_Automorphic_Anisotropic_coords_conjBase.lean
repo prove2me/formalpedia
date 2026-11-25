@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_coords_conjBase
 -- name    : GroundTheory.Automorphic.Anisotropic.coords_conjBase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:26:18.905117+00:00
 -- url     : https://prove2.me/theorems/0a7e0434-54d0-454a-895f-5e25f7577309

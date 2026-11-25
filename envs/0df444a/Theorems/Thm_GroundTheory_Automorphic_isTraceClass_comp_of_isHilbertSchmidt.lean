@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isTraceClass_comp_of_isHilbertSchmidt
 -- name    : GroundTheory.Automorphic.isTraceClass_comp_of_isHilbertSchmidt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:52:16.846915+00:00
 -- url     : https://prove2.me/theorems/e4d2a3a4-e5cd-4ea3-8431-9791db41df90

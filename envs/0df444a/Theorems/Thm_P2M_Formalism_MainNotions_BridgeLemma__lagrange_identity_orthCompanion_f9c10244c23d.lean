@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__lagrange_identity_orthCompanion_f9c10244c23d
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__lagrange_identity_orthCompanion_f9c10244c23d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:59:41.205867+00:00
 -- url     : https://prove2.me/theorems/f1c5c1a1-a401-4523-b3ce-29b9143b029e

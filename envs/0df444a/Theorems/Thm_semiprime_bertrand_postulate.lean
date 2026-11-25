@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_semiprime_bertrand_postulate
 -- name    : semiprime_bertrand_postulate
--- status  : Open
+-- status  : Proved
 -- author  : @mwm
 -- created : 2026-11-25T01:29:10.432413+00:00
 -- url     : https://prove2.me/theorems/9acd9d28-e02a-450c-af9f-4e167201538d

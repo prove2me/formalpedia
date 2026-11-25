@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_mem_cellLe_of_eq
 -- name    : GroundTheory.Automorphic.Whittaker.mem_cellLe_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:37:01.712689+00:00
 -- url     : https://prove2.me/theorems/f472962a-adee-4cc4-be81-0e9cd4898556

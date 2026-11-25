@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_Top_choice_of_tops_refined
 -- name    : Formalism.G0.Top.choice_of_tops_refined
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:11:41.017314+00:00
 -- url     : https://prove2.me/theorems/75ada5e1-e499-4a7e-b8c1-b3ea70ee250c

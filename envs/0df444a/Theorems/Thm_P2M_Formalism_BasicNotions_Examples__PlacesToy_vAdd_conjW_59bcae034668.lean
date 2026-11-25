@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__PlacesToy_vAdd_conjW_59bcae034668
 -- name    : P2M_Formalism_BasicNotions_Examples__PlacesToy_vAdd_conjW_59bcae034668
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:53:22.395742+00:00
 -- url     : https://prove2.me/theorems/fdf263f3-24c0-436b-b40b-a24c2836b184

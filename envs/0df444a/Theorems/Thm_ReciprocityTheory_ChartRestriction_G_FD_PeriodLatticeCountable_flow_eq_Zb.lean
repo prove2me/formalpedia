@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PeriodLatticeCountable_flow_eq_Zb
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PeriodLatticeCountable.flow_eq_Zb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:29:09.918145+00:00
 -- url     : https://prove2.me/theorems/a164fbb5-61b2-4881-a726-4cd47798badd

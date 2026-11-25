@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_coordinate_sizes_of_hypotheses
 -- name    : Formalism.FourierDecayAlt.P.Ux6.coordinate_sizes_of_hypotheses
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:28:57.896475+00:00
 -- url     : https://prove2.me/theorems/7513aada-9034-45c8-97b3-3da4b5db94be

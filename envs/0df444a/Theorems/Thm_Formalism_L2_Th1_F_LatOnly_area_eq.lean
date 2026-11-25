@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_LatOnly_area_eq
 -- name    : Formalism.L2.Th1.F.LatOnly.area_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:10:06.654634+00:00
 -- url     : https://prove2.me/theorems/20a23d5e-71fc-4b7c-8c30-60ca1c5ea726

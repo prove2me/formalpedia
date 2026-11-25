@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateD_tateD_apply
 -- name    : GroundTheory.GroupCoh.tateD_tateD_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:14:00.409044+00:00
 -- url     : https://prove2.me/theorems/48c1dec7-1f29-40c5-a50b-3ad97e36480c

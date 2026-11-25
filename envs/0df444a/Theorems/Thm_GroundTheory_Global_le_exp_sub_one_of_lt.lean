@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_le_exp_sub_one_of_lt
 -- name    : GroundTheory.Global.le_exp_sub_one_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:13:33.436219+00:00
 -- url     : https://prove2.me/theorems/10acf8c7-0047-4b4a-9962-103215a45ea1

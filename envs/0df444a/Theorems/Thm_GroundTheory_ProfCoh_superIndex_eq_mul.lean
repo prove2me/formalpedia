@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_superIndex_eq_mul
 -- name    : GroundTheory.ProfCoh.superIndex_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:50:44.872804+00:00
 -- url     : https://prove2.me/theorems/784f54c5-8e07-4916-ad92-d7973ee3ae74

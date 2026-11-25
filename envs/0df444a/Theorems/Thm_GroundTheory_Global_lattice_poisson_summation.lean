@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_lattice_poisson_summation
 -- name    : GroundTheory.Global.lattice_poisson_summation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:27:52.567405+00:00
 -- url     : https://prove2.me/theorems/e9508208-85d0-431d-9515-416606ddb883

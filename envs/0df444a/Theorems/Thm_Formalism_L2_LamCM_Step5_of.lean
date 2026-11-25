@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_Step5_of
 -- name    : Formalism.L2.LamCM.Step5_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:51.768697+00:00
 -- url     : https://prove2.me/theorems/9f6170a7-f3b4-4e91-83ab-088886ae2d16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__rpow_le_rpow_mul_rpow_133b1c2bea84
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__rpow_le_rpow_mul_rpow_133b1c2bea84
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:59:11.022782+00:00
 -- url     : https://prove2.me/theorems/fd2dfd1f-4953-4c74-b15a-85fe57d583b4

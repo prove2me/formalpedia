@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericExtend_extAt_of_generic
 -- name    : GlobalTheory.GenericExtend.extAt_of_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:01:39.296606+00:00
 -- url     : https://prove2.me/theorems/986f3162-74ee-4ba7-8fa4-5f5fe723ac49

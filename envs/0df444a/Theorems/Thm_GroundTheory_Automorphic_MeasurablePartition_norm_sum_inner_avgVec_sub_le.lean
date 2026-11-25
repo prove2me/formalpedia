@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_MeasurablePartition_norm_sum_inner_avgVec_sub_le
 -- name    : GroundTheory.Automorphic.MeasurablePartition.norm_sum_inner_avgVec_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:04:44.9045+00:00
 -- url     : https://prove2.me/theorems/c4bbe2cc-58ea-4566-a707-5ff3bdfb3170

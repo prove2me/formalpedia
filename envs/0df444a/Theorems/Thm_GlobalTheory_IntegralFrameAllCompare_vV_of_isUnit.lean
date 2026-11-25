@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralFrameAllCompare_vV_of_isUnit
 -- name    : GlobalTheory.IntegralFrameAllCompare.vV_of_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:05:42.983552+00:00
 -- url     : https://prove2.me/theorems/6859d459-57dd-492a-8916-8d912221541e

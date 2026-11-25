@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_trHom_val
 -- name    : GroundTheory.Automorphic.Anisotropic.trHom_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:25:34.714967+00:00
 -- url     : https://prove2.me/theorems/c484074b-8918-45cf-b158-c85cc0ffec3a

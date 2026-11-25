@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_convolution_fiber_integrable_L2_L1
 -- name    : Newton.convolution_fiber_integrable_L2_L1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:56:27.01479+00:00
 -- url     : https://prove2.me/theorems/dea09266-9d68-4048-b490-0833cafb84a9

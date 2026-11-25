@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_frameB_sum_sl
 -- name    : Formalism.HN.frameB_sum_sl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:38.133707+00:00
 -- url     : https://prove2.me/theorems/b531298a-b782-453d-b997-4c5b6a6f4abd

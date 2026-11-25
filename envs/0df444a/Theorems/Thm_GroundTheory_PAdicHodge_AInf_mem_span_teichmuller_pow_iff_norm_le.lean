@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_mem_span_teichmuller_pow_iff_norm_le
 -- name    : GroundTheory.PAdicHodge.AInf.mem_span_teichmuller_pow_iff_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:46:27.612486+00:00
 -- url     : https://prove2.me/theorems/64011a39-bca2-43c3-be87-357569233028

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FrameEntries_herm_self
 -- name    : Formalism.FourierDecayAlt.P.FrameEntries.herm_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:27:31.042962+00:00
 -- url     : https://prove2.me/theorems/fe37f1f9-8372-452d-8f5e-44205feb854e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_slopeIneq
 -- name    : Formalism.HN.slopeIneq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:56:45.309804+00:00
 -- url     : https://prove2.me/theorems/2ec652f3-80de-46b3-b156-76726d687ee1

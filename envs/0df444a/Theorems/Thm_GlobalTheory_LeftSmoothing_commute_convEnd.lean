@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeftSmoothing_commute_convEnd
 -- name    : GlobalTheory.LeftSmoothing.commute_convEnd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:16:02.18153+00:00
 -- url     : https://prove2.me/theorems/b832240f-1355-44e9-b80b-8be26f77e727

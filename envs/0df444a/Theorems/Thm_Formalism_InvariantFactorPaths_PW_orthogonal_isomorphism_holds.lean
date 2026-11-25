@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_orthogonal_isomorphism_holds
 -- name    : Formalism.InvariantFactorPaths.PW.orthogonal_isomorphism_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:07:16.867719+00:00
 -- url     : https://prove2.me/theorems/ebc0ac4f-51f2-423d-8138-ef83294cd4e2

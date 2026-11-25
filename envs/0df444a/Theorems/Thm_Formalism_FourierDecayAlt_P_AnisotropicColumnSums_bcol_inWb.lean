@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AnisotropicColumnSums_bcol_inWb
 -- name    : Formalism.FourierDecayAlt.P.AnisotropicColumnSums.bcol_inWb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:29:00.788192+00:00
 -- url     : https://prove2.me/theorems/b233fbab-10b5-45b8-b988-6f7018488e15

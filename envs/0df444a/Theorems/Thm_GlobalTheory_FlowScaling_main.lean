@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlowScaling_main
 -- name    : GlobalTheory.FlowScaling.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:30:06.191747+00:00
 -- url     : https://prove2.me/theorems/c2e414ea-992f-4111-8535-ed4d811a9eb8

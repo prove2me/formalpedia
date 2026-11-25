@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_coeff_fP_eq_zero
 -- name    : ChromaticReconstruction.coeff_fP_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:35:32.814873+00:00
 -- url     : https://prove2.me/theorems/be244807-eab1-4e11-8055-d1b67939dd98

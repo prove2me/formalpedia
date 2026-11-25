@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLatticeCounting_P_LatticeDataCounting_dualGen_proof__615129828708
 -- name    : P2M_Formalism_HermitianLatticeCounting_P_LatticeDataCounting_dualGen_proof__615129828708
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:57:42.891964+00:00
 -- url     : https://prove2.me/theorems/6d00349d-9bb3-4d3e-9fe5-6bd7596c4e0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_card_eq_of_chromSymm_eq
 -- name    : ChromaticReconstruction.card_eq_of_chromSymm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:24:14.09411+00:00
 -- url     : https://prove2.me/theorems/61c75970-88c5-41c8-a9eb-c2f5d32016f2

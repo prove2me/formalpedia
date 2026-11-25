@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIso_of_isAffine_of_coheight_le_one
 -- name    : GlobalTheory.isIso_of_isAffine_of_coheight_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:54:38.086258+00:00
 -- url     : https://prove2.me/theorems/5380d064-614d-43d1-b1f6-f38d9b1adbaf

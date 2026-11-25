@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_jf_equivDet_of_cellDecomp
 -- name    : Formalism.FourierDecayAlt.P.jf_equivDet_of_cellDecomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:39:42.748931+00:00
 -- url     : https://prove2.me/theorems/e6a4d3a9-0782-41e4-b6ba-521b7d2c4c98

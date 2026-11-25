@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_digitReal_le_one
 -- name    : SZ.digitReal_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:15:16.357287+00:00
 -- url     : https://prove2.me/theorems/0c201181-f822-408a-bece-31e52404a143

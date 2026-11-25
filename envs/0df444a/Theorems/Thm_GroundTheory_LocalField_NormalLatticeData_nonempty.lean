@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_NormalLatticeData_nonempty
 -- name    : GroundTheory.LocalField.NormalLatticeData.nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:14:21.370964+00:00
 -- url     : https://prove2.me/theorems/4a707b51-2014-4fe2-b11e-d53a5da8c45f

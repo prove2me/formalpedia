@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_runState_gDigit
 -- name    : SZ.runState_gDigit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:12:48.283814+00:00
 -- url     : https://prove2.me/theorems/814edc5a-35e5-40bc-892e-95e8479cabd7

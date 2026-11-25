@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__rootDiscr_pow_eq_sqrt_discr_9399e9c24fe2
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__rootDiscr_pow_eq_sqrt_discr_9399e9c24fe2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:59:40.266037+00:00
 -- url     : https://prove2.me/theorems/8c726356-873f-466a-acd2-bd5763973bb8

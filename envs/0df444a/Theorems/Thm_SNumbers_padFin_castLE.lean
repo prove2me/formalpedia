@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_padFin_castLE
 -- name    : SNumbers.padFin_castLE
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:18:51.792421+00:00
 -- url     : https://prove2.me/theorems/53f8d12c-4275-4793-b4bc-a916cfab83ce

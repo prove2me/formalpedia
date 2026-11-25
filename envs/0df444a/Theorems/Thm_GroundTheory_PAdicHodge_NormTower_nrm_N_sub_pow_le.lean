@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_NormTower_nrm_N_sub_pow_le
 -- name    : GroundTheory.PAdicHodge.NormTower.nrm_N_sub_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:06:00.155506+00:00
 -- url     : https://prove2.me/theorems/b10917e1-a0b3-4a89-a9f4-a95a4c4c54a1

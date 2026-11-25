@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_CayleyCase_identity_of_residually_unipotent
 -- name    : GlobalTheory.UnitLemma.CayleyCase.identity_of_residually_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:56:08.962275+00:00
 -- url     : https://prove2.me/theorems/df0d6923-8b61-4fdc-bbe8-17097002bef0

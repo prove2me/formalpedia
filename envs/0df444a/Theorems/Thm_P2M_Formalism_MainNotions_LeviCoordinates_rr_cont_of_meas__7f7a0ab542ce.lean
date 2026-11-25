@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_LeviCoordinates_rr_cont_of_meas__7f7a0ab542ce
 -- name    : P2M_Formalism_MainNotions_LeviCoordinates_rr_cont_of_meas__7f7a0ab542ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:58:58.443952+00:00
 -- url     : https://prove2.me/theorems/5ffbe471-6556-4280-a396-0cef82b5fd0a

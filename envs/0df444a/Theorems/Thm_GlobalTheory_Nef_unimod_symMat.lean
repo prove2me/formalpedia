@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_unimod_symMat
 -- name    : GlobalTheory.Nef.unimod_symMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:04:14.831924+00:00
 -- url     : https://prove2.me/theorems/8763ca6f-9318-4c35-bfb6-c79d427cd97e

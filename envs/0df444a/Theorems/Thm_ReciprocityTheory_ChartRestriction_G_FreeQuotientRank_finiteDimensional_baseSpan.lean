@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_finiteDimensional_baseSpan
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.finiteDimensional_baseSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:28:53.787482+00:00
 -- url     : https://prove2.me/theorems/9203638e-f50f-4003-a382-05dd9fa1514d

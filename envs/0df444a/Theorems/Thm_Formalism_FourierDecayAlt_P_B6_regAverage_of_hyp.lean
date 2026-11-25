@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_regAverage_of_hyp
 -- name    : Formalism.FourierDecayAlt.P.B6.regAverage_of_hyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:08:05.705553+00:00
 -- url     : https://prove2.me/theorems/a6666c6a-15e3-4404-a6e6-d218ebface1a

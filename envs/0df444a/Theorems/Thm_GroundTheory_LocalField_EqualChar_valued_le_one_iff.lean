@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_EqualChar_valued_le_one_iff
 -- name    : GroundTheory.LocalField.EqualChar.valued_le_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:13:16.860541+00:00
 -- url     : https://prove2.me/theorems/b594e28b-75ae-413c-baf9-a24b990eda34

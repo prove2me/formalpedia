@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_trace_comp_finProj
 -- name    : GroundTheory.Automorphic.trace_comp_finProj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:11:28.99711+00:00
 -- url     : https://prove2.me/theorems/5f269c10-1d03-4c49-bf9f-fddfac662736

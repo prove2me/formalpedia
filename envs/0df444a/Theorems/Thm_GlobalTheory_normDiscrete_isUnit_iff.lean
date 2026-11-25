@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_normDiscrete_isUnit_iff
 -- name    : GlobalTheory.normDiscrete_isUnit_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:21:45.46985+00:00
 -- url     : https://prove2.me/theorems/3780d0b2-42aa-4365-b81b-a1c6fa79a805

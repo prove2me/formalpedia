@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_phNormClosed
 -- name    : Formalism.L2.Th1.C.phNormClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:26:47.619803+00:00
 -- url     : https://prove2.me/theorems/1425eba0-c050-411e-abcd-215c9019ed76

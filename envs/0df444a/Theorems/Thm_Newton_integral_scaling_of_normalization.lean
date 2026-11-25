@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_integral_scaling_of_normalization
 -- name    : Newton.integral_scaling_of_normalization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:11:55.229784+00:00
 -- url     : https://prove2.me/theorems/0f26e749-03a1-4f1d-a13b-5deaf9b500d6

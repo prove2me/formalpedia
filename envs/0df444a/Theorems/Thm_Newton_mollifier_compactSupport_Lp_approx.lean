@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_mollifier_compactSupport_Lp_approx
 -- name    : Newton.mollifier_compactSupport_Lp_approx
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:03:18.355919+00:00
 -- url     : https://prove2.me/theorems/3ec31525-47ca-4fb3-bdc9-87d20f09c979

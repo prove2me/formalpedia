@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_ord_calculus
 -- name    : GlobalTheory.Nef.ord_calculus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:02:05.998448+00:00
 -- url     : https://prove2.me/theorems/33db617b-088b-4be7-aa8e-7a8506dbf32e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_one_lt_residueCard
 -- name    : GroundTheory.LocalField.one_lt_residueCard
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:26:51.315074+00:00
 -- url     : https://prove2.me/theorems/95792f28-38bd-401b-8c48-8c8b29710291

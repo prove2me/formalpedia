@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_detUnit_basis_change
 -- name    : GroundTheory.Automorphic.HermitianForm.detUnit_basis_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:20:59.138941+00:00
 -- url     : https://prove2.me/theorems/798b5f51-cad3-4fe6-a226-e5289dca4f12

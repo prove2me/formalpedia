@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_Vizing_PEC_exists_free
 -- name    : LeanPool.Vizing.PEC.exists_free
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:56:13.034851+00:00
 -- url     : https://prove2.me/theorems/4654a564-ae21-4be8-a911-d633ff7bb223

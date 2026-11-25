@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__orthCompanion_inner_apply_9c68e5cead4d
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__orthCompanion_inner_apply_9c68e5cead4d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:59:39.614655+00:00
 -- url     : https://prove2.me/theorems/b141eec5-e335-48c7-a847-22e55f1003e6

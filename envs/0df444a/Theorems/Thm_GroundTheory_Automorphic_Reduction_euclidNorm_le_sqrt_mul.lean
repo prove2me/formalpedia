@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_euclidNorm_le_sqrt_mul
 -- name    : GroundTheory.Automorphic.Reduction.euclidNorm_le_sqrt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:08:07.927482+00:00
 -- url     : https://prove2.me/theorems/4c4263a4-0b88-4998-8b6e-d5840c52aa4b

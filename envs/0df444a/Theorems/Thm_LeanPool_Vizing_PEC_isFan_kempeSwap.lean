@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_Vizing_PEC_isFan_kempeSwap
 -- name    : LeanPool.Vizing.PEC.isFan_kempeSwap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:03:32.176185+00:00
 -- url     : https://prove2.me/theorems/12b3427f-b7a1-4180-993a-5a2ad74c53cd

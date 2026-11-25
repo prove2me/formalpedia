@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_lTensor_mkQ_inclT
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.lTensor_mkQ_inclT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:28:38.932164+00:00
 -- url     : https://prove2.me/theorems/fab8ed52-d1ff-4033-9e6e-f8832e2ce0e9

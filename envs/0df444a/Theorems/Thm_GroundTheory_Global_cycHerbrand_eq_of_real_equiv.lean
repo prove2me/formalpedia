@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_cycHerbrand_eq_of_real_equiv
 -- name    : GroundTheory.Global.cycHerbrand_eq_of_real_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:41:32.42573+00:00
 -- url     : https://prove2.me/theorems/50c7ac5f-55df-49b7-a959-9ffc57ceec50

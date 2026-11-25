@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isClosedEmbedding_restrictAbPi
 -- name    : GroundTheory.LocalField.isClosedEmbedding_restrictAbPi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:44:45.038429+00:00
 -- url     : https://prove2.me/theorems/99e6517f-af14-4539-811c-933d817271c1

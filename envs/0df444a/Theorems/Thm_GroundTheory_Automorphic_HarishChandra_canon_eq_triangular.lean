@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_canon_eq_triangular
 -- name    : GroundTheory.Automorphic.HarishChandra.canon_eq_triangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:08:14.30153+00:00
 -- url     : https://prove2.me/theorems/b8d734e0-ec0e-49d5-9695-0d9f08705f15

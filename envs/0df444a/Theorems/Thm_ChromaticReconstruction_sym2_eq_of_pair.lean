@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_sym2_eq_of_pair
 -- name    : ChromaticReconstruction.sym2_eq_of_pair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:54:52.385743+00:00
 -- url     : https://prove2.me/theorems/82276a96-3ac1-42e8-a930-d6686ade935d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateIsoH_homology_class_eq
 -- name    : GroundTheory.GroupCoh.tateIsoH_homology_class_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:14:30.42465+00:00
 -- url     : https://prove2.me/theorems/03e92d02-80d5-4a16-aca6-3558900a8b0d

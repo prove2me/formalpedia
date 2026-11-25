@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_inner_integral_bound
 -- name    : Newton.inner_integral_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:00:33.120709+00:00
 -- url     : https://prove2.me/theorems/1d5cd712-23be-499a-9251-2c2e543988c4

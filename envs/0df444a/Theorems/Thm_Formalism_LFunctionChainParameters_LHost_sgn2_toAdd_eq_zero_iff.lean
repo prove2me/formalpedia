@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_sgn2_toAdd_eq_zero_iff
 -- name    : Formalism.LFunctionChainParameters.LHost.sgn2_toAdd_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:24:22.108798+00:00
 -- url     : https://prove2.me/theorems/c9513ba9-d5e5-4b71-8397-d72be678b108

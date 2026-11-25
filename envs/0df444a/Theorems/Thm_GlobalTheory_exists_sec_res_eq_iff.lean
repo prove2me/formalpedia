@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sec_res_eq_iff
 -- name    : GlobalTheory.exists_sec_res_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:45:29.861293+00:00
 -- url     : https://prove2.me/theorems/377d8a27-078b-4815-92ce-ed12c0fda016

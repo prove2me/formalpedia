@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeficitAtMax
 -- name    : DeficitAtMax
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:26:48.98159+00:00
 -- url     : https://prove2.me/theorems/98344114-067a-4597-bf2f-4d58e4ad1d7b

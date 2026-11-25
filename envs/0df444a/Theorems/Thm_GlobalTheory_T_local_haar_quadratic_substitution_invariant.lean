@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_local_haar_quadratic_substitution_invariant
 -- name    : GlobalTheory.T.local_haar_quadratic_substitution_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:04:34.365195+00:00
 -- url     : https://prove2.me/theorems/4377cce6-1b73-4315-a6b8-734ab3e51f54

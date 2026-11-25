@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_harmonicQuotient_holds
 -- name    : Formalism.CountingSumsFrames.harmonicQuotient_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:27.746851+00:00
 -- url     : https://prove2.me/theorems/a75ff41e-91a9-4d2f-a2e7-b28ac2e2fa79

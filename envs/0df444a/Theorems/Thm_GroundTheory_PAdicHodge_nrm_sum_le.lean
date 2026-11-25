@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_nrm_sum_le
 -- name    : GroundTheory.PAdicHodge.nrm_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:04:44.693667+00:00
 -- url     : https://prove2.me/theorems/3415044b-5c3d-4f66-a0a9-ef45c10dd39d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__planeMapAlt_alt_8063afed5bfe
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__planeMapAlt_alt_8063afed5bfe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:01:03.860287+00:00
 -- url     : https://prove2.me/theorems/a51517b9-e8e0-4531-87f0-15c906dd13cc

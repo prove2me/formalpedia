@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_card_compSets_add_card_of_isTree
 -- name    : ChromaticReconstruction.card_compSets_add_card_of_isTree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:26:25.532415+00:00
 -- url     : https://prove2.me/theorems/2bc24e87-64a5-47e0-b30b-58b7f3f98ed8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_isDigits_digitA
 -- name    : SZ.isDigits_digitA
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:00:29.860513+00:00
 -- url     : https://prove2.me/theorems/295b2763-1d0e-4522-b576-235fd3ca66b0

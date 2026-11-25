@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mem_idealFiniteAdeles
 -- name    : GroundTheory.Global.mem_idealFiniteAdeles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:26:32.655882+00:00
 -- url     : https://prove2.me/theorems/1efc54ed-5485-4c82-95a4-6f8b3b181c84

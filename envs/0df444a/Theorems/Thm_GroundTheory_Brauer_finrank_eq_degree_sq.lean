@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_finrank_eq_degree_sq
 -- name    : GroundTheory.Brauer.finrank_eq_degree_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:30:20.940975+00:00
 -- url     : https://prove2.me/theorems/c1c97a01-a35d-4075-828d-244341b1a815

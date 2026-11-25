@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_padicLog_apply
 -- name    : GroundTheory.LocalField.padicLog_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:26:38.532208+00:00
 -- url     : https://prove2.me/theorems/8828b9a1-3e99-4ec8-829a-ca6aedff5c3b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_inertiaDegree_eq_mul
 -- name    : GroundTheory.LocalField.Abstract.inertiaDegree_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:03:35.535982+00:00
 -- url     : https://prove2.me/theorems/993af320-3c6b-499d-bde6-64c0fdbfbcce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isUnramifiedIn_iff_le_fixedField
 -- name    : GroundTheory.ProfCoh.isUnramifiedIn_iff_le_fixedField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:50:45.464129+00:00
 -- url     : https://prove2.me/theorems/a29ddee0-92db-4fe8-98ab-15b1bc09e25f

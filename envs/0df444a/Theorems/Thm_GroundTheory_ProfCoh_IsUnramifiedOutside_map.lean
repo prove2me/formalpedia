@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_IsUnramifiedOutside_map
 -- name    : GroundTheory.ProfCoh.IsUnramifiedOutside.map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:47:01.373901+00:00
 -- url     : https://prove2.me/theorems/ac43a292-844e-4764-b08c-da76dc4a1112

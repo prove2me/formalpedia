@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_canon_eq_blocks
 -- name    : GroundTheory.Automorphic.HarishChandra.canon_eq_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:06:11.773501+00:00
 -- url     : https://prove2.me/theorems/82e7c6f6-9bfd-4a93-92cc-1a9b4d5315c5

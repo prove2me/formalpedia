@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_set_gaussian_sum_of_one_separated
 -- name    : GlobalTheory.set_gaussian_sum_of_one_separated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:57:04.331667+00:00
 -- url     : https://prove2.me/theorems/f0bbd68e-073d-479e-8098-14ab16e408a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_finrank_intertwiners_eq_card
 -- name    : GroundTheory.Automorphic.UnitaryRep.finrank_intertwiners_eq_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:05:28.525337+00:00
 -- url     : https://prove2.me/theorems/acc6ae7c-8b49-43f0-9977-2575450fe712

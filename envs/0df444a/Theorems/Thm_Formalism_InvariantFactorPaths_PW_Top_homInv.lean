@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_Top_homInv
 -- name    : Formalism.InvariantFactorPaths.PW.Top.homInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:20:49.934788+00:00
 -- url     : https://prove2.me/theorems/bf0aaad9-e03d-42d7-9ade-54a5fc69e814

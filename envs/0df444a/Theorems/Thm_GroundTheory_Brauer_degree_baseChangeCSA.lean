@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_degree_baseChangeCSA
 -- name    : GroundTheory.Brauer.degree_baseChangeCSA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:31:02.74148+00:00
 -- url     : https://prove2.me/theorems/80f282f2-55eb-49ab-87f2-ca0f666eb8b8

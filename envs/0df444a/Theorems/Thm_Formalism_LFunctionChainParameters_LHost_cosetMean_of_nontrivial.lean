@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_cosetMean_of_nontrivial
 -- name    : Formalism.LFunctionChainParameters.LHost.cosetMean_of_nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:24:34.127566+00:00
 -- url     : https://prove2.me/theorems/2d0e90ad-9de4-4328-89c5-1d569f6d6f70

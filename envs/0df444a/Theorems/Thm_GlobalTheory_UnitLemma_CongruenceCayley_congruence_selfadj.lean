@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_CongruenceCayley_congruence_selfadj
 -- name    : GlobalTheory.UnitLemma.CongruenceCayley.congruence_selfadj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:04:17.50293+00:00
 -- url     : https://prove2.me/theorems/f30b9940-0ae0-4746-9857-46f506b57d43

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_nrm_pow_sub_pow_le
 -- name    : GroundTheory.PAdicHodge.nrm_pow_sub_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:05:28.083733+00:00
 -- url     : https://prove2.me/theorems/ee02d5e0-c182-4d88-aa23-43f24137c778

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_locally_bounded_betaInfTau
 -- name    : Formalism.FourierDecayAlt.P.B6.locally_bounded_betaInfTau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:04:09.606499+00:00
 -- url     : https://prove2.me/theorems/42296ed6-ea25-404f-a1b2-411ec6147558

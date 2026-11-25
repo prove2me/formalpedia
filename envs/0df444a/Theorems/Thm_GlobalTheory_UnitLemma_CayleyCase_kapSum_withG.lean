@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_CayleyCase_kapSum_withG
 -- name    : GlobalTheory.UnitLemma.CayleyCase.kapSum_withG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:50:31.953565+00:00
 -- url     : https://prove2.me/theorems/0e84cbaa-ab3d-46ef-9617-acf957cbc95e

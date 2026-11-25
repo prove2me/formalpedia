@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_eq_replicate_two
 -- name    : ChromaticReconstruction.eq_replicate_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:38:33.860694+00:00
 -- url     : https://prove2.me/theorems/be119e37-600e-4b1a-982c-9fecfe58b03e

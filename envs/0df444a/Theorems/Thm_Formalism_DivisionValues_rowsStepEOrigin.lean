@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_rowsStepEOrigin
 -- name    : Formalism.DivisionValues.rowsStepEOrigin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:24:16.134739+00:00
 -- url     : https://prove2.me/theorems/9c2b65cc-55ba-4cb2-acce-c32fe1e1bbcd

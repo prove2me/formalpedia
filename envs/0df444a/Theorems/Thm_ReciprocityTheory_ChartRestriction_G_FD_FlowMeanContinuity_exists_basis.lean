@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FlowMeanContinuity_exists_basis
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FlowMeanContinuity.exists_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:27:15.758286+00:00
 -- url     : https://prove2.me/theorems/f2d1c762-34ae-4ef2-ac43-0702140f46f7

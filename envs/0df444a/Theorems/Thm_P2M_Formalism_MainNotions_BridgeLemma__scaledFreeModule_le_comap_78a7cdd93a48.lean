@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__scaledFreeModule_le_comap_78a7cdd93a48
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__scaledFreeModule_le_comap_78a7cdd93a48
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:59:49.566339+00:00
 -- url     : https://prove2.me/theorems/96d3668f-63f7-43e7-b77d-7743153a3456

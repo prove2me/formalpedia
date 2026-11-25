@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_PHP_apply
 -- name    : NFOne.PHP_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:53:16.86824+00:00
 -- url     : https://prove2.me/theorems/dfb1b9a1-389f-4634-8e55-dc5ce194b3f1

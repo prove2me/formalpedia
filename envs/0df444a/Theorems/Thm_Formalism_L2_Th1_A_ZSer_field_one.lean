@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_ZSer_field_one
 -- name    : Formalism.L2.Th1.A.ZSer.field_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:56.609803+00:00
 -- url     : https://prove2.me/theorems/fa603dcd-56a5-496c-adfc-bb446bdd6f1f

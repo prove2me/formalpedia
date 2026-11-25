@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_inertiaDeg_primeOfPlace_eq
 -- name    : GroundTheory.FunctionField.Place.inertiaDeg_primeOfPlace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:16:58.491594+00:00
 -- url     : https://prove2.me/theorems/21c2c42f-22f2-4e0b-abd6-767d1d884bd3

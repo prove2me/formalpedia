@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_stabilizer_integration_of_parts
 -- name    : Formalism.FourierDecayAlt.P.stabilizer_integration_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:40:07.7188+00:00
 -- url     : https://prove2.me/theorems/c4b456e9-6420-4d34-bb45-ed13dd62475d

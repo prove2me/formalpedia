@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_mem_valBall_one_iff
 -- name    : GroundTheory.LocalField.mem_valBall_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:27:33.234046+00:00
 -- url     : https://prove2.me/theorems/f022007c-0310-4a19-b60c-fe9f8b5fb30b

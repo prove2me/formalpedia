@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_SelfConjugateGermZero_sat_self
 -- name    : Formalism.L2.FormalSeriesBounds.SelfConjugateGermZero.sat_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:20:10.308344+00:00
 -- url     : https://prove2.me/theorems/8e865d77-7d2c-498d-bc4d-c6917270ff08

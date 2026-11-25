@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjTwist_twistMap_bijective
 -- name    : GroundTheory.Arith.SchemeCoh.ProjTwist.twistMap_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:11:54.47515+00:00
 -- url     : https://prove2.me/theorems/70342d21-f273-4755-a44b-fad57358d38b

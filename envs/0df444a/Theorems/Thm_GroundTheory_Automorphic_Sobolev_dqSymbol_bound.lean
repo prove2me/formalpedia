@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_dqSymbol_bound
 -- name    : GroundTheory.Automorphic.Sobolev.dqSymbol_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:55:49.666545+00:00
 -- url     : https://prove2.me/theorems/553a465c-3faa-4cdf-8882-76b3014cff77

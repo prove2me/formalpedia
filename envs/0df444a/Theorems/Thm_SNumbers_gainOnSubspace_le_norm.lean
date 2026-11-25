@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_gainOnSubspace_le_norm
 -- name    : SNumbers.gainOnSubspace_le_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:17:04.353573+00:00
 -- url     : https://prove2.me/theorems/07506835-7caf-4670-8a33-f705794c67b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_ReflChar0_hf_sub_smul_right
 -- name    : GlobalTheory.UTrans.ReflChar0.hf_sub_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:29:46.937116+00:00
 -- url     : https://prove2.me/theorems/ed27785a-5a4c-49ab-86a9-e708f15de5e6

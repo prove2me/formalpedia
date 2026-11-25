@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_HDiscVal_addv_eq_of_mem
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.HDiscVal.addv_eq_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:59:26.292981+00:00
 -- url     : https://prove2.me/theorems/31397263-24cb-4e42-bf61-e79aa3acab51

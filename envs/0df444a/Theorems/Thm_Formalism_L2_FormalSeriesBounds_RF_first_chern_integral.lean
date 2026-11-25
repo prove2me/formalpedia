@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_first_chern_integral
 -- name    : Formalism.L2.FormalSeriesBounds.RF.first_chern_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:53:15.150456+00:00
 -- url     : https://prove2.me/theorems/56196e66-4328-40bd-a765-c12acfe2bb16

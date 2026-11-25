@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_Vizing_PEC_kempe_degree_le_two
 -- name    : LeanPool.Vizing.PEC.kempe_degree_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:01:16.906653+00:00
 -- url     : https://prove2.me/theorems/d59961a5-7005-4f17-9857-08002f38d26e

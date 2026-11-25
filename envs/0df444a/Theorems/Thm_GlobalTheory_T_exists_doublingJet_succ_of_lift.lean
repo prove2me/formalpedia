@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_doublingJet_succ_of_lift
 -- name    : GlobalTheory.T.exists_doublingJet_succ_of_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:13:17.60149+00:00
 -- url     : https://prove2.me/theorems/32dab883-c050-407e-b77e-329cb7befad1

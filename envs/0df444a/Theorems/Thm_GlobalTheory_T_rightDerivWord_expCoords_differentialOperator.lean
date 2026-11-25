@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rightDerivWord_expCoords_differentialOperator
 -- name    : GlobalTheory.T.rightDerivWord_expCoords_differentialOperator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:58:22.109744+00:00
 -- url     : https://prove2.me/theorems/9ad3d107-21b2-4875-9f72-46491898263f

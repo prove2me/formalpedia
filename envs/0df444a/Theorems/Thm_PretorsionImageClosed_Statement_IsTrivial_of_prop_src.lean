@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_IsTrivial_of_prop_src
 -- name    : PretorsionImageClosed.Statement.IsTrivial.of_prop_src
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:16:46.19745+00:00
 -- url     : https://prove2.me/theorems/7dc584a8-d5ac-4dbe-b90e-86c9e4daf0d5

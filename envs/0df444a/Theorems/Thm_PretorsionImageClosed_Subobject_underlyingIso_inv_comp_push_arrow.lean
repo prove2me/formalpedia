@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Subobject_underlyingIso_inv_comp_push_arrow
 -- name    : PretorsionImageClosed.Subobject.underlyingIso_inv_comp_push_arrow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:16:39.824211+00:00
 -- url     : https://prove2.me/theorems/9504310d-f468-43b9-aa7a-9371b3c56214

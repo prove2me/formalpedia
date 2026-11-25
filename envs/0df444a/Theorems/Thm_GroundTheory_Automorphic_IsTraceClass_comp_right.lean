@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsTraceClass_comp_right
 -- name    : GroundTheory.Automorphic.IsTraceClass.comp_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:36:53.106576+00:00
 -- url     : https://prove2.me/theorems/fa9dfadf-a50c-4753-9449-9cfd29981154

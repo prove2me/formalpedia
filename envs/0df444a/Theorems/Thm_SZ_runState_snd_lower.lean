@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_runState_snd_lower
 -- name    : SZ.runState_snd_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:12:46.909206+00:00
 -- url     : https://prove2.me/theorems/5863c8d7-6a08-4cf3-b993-a1aab24708d8

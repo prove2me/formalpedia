@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_psum_add
 -- name    : ChromaticReconstruction.psum_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:37:07.478616+00:00
 -- url     : https://prove2.me/theorems/82a02e21-80f5-42af-8224-30a177dd32ac

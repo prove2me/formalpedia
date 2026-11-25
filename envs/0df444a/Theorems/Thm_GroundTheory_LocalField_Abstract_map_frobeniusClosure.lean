@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_map_frobeniusClosure
 -- name    : GroundTheory.LocalField.Abstract.map_frobeniusClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:10:08.49259+00:00
 -- url     : https://prove2.me/theorems/ab5c5274-3a3f-4b4b-8e9e-e31b3a64cc03

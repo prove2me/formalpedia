@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_isRingHomModXPow_succ_lift
 -- name    : GlobalTheory.T.exists_isRingHomModXPow_succ_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:15:20.457058+00:00
 -- url     : https://prove2.me/theorems/f2a3671b-1da3-413b-a14c-45704484a685

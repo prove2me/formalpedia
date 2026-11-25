@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_holder_kernel_pairing_bound
 -- name    : Newton.holder_kernel_pairing_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:38:11.170547+00:00
 -- url     : https://prove2.me/theorems/65b33e2b-4a12-490b-8dd4-106dec54769b

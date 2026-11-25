@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_wt_m_pow_sub_frob
 -- name    : Formalism.BaseCaseIdentities.Data.wt_m_pow_sub_frob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:38:41.446194+00:00
 -- url     : https://prove2.me/theorems/57fe0c07-c037-41b2-967c-9b8034a64332

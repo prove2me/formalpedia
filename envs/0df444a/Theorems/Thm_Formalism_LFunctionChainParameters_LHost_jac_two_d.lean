@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_jac_two_d
 -- name    : Formalism.LFunctionChainParameters.LHost.jac_two_d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:23:48.329841+00:00
 -- url     : https://prove2.me/theorems/c45d584e-3a51-4253-a1f0-8e17f1bf443a

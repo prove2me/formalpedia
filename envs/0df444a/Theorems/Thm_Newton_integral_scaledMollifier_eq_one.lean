@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_integral_scaledMollifier_eq_one
 -- name    : Newton.integral_scaledMollifier_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:07:27.112604+00:00
 -- url     : https://prove2.me/theorems/7018c49f-fcc6-4ee5-a454-c1cbe8b3e00b

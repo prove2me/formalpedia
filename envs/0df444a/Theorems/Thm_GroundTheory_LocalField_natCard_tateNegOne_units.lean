@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_natCard_tateNegOne_units
 -- name    : GroundTheory.LocalField.natCard_tateNegOne_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:28:25.960389+00:00
 -- url     : https://prove2.me/theorems/4de66193-ec46-418e-b055-62080a99f8c7

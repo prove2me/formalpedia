@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContrastiveDuality_contrastive_duality
 -- name    : ContrastiveDuality.contrastive_duality
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T06:31:58.785311+00:00
 -- url     : https://prove2.me/theorems/c11294ff-71d6-4340-9fc3-c2ffb1225b65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_orthogonalProjection_comp_sumEquivL
 -- name    : GroundTheory.Automorphic.UnitaryRep.orthogonalProjection_comp_sumEquivL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:04:13.538405+00:00
 -- url     : https://prove2.me/theorems/f96e67bc-956b-4816-9b88-bc26bce3a4ea

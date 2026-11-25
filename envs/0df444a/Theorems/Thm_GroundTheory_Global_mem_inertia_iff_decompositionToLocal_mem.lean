@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mem_inertia_iff_decompositionToLocal_mem
 -- name    : GroundTheory.Global.mem_inertia_iff_decompositionToLocal_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:13:58.904488+00:00
 -- url     : https://prove2.me/theorems/81b718e3-3032-4f1d-a5ad-9d430d3818ba

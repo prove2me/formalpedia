@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_inv_seq
 -- name    : Formalism.LT.LTL.inv_seq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:47.916677+00:00
 -- url     : https://prove2.me/theorems/00f1d28b-00c2-410e-8214-e96b23a6bd58

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_S3dx4_sigma_mul__554a11700393
 -- name    : P2M_Formalism_FourierDecayAlt_P_S3dx4_sigma_mul__554a11700393
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:08:30.899057+00:00
 -- url     : https://prove2.me/theorems/ee134d47-ac77-4b04-ac2d-659616908cb1

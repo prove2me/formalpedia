@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_mem_norm_sub_le_of_mem_span
 -- name    : GlobalTheory.exists_mem_norm_sub_le_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:57:13.083776+00:00
 -- url     : https://prove2.me/theorems/e3a6250b-a90e-458c-ac6d-4b56ad78653f

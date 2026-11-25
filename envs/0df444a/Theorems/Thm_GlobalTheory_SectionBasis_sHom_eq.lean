@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionBasis_sHom_eq
 -- name    : GlobalTheory.SectionBasis.sHom_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:29:57.547131+00:00
 -- url     : https://prove2.me/theorems/699d4cdb-6498-4fcf-b609-7935818cd2c1

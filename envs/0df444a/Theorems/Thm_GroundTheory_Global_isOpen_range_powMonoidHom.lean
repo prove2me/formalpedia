@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_isOpen_range_powMonoidHom
 -- name    : GroundTheory.Global.isOpen_range_powMonoidHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:42:31.775574+00:00
 -- url     : https://prove2.me/theorems/b171de4f-c08a-4ad1-8065-e3e67766f3f1

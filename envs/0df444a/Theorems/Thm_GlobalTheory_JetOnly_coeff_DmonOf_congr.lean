@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetOnly_coeff_DmonOf_congr
 -- name    : GlobalTheory.JetOnly.coeff_DmonOf_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:52:36.179263+00:00
 -- url     : https://prove2.me/theorems/6a9dad25-e9ed-4fa6-a92e-830919e9c37d

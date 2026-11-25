@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_normTrace_cyclotomicLayer_gal
 -- name    : GroundTheory.PAdicHodge.normTrace_cyclotomicLayer_gal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:47:32.832935+00:00
 -- url     : https://prove2.me/theorems/8b782d43-f8cf-4aab-8cbd-7b0fa75c122d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_sum_norm_apply_le_norm_l1
 -- name    : SNumbers.sum_norm_apply_le_norm_l1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:19:02.900371+00:00
 -- url     : https://prove2.me/theorems/8542e280-2b4a-4d01-aac7-ba95b59a94e5

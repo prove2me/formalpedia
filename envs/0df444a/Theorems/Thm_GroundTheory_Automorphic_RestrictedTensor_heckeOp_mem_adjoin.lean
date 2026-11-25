@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_heckeOp_mem_adjoin
 -- name    : GroundTheory.Automorphic.RestrictedTensor.heckeOp_mem_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:56:44.33179+00:00
 -- url     : https://prove2.me/theorems/81c3e551-716b-4c77-8106-35e80cb2e589

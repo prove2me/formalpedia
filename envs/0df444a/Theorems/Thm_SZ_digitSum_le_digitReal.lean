@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_digitSum_le_digitReal
 -- name    : SZ.digitSum_le_digitReal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:39:08.258928+00:00
 -- url     : https://prove2.me/theorems/ec3ce998-5369-457a-a5c6-833895e73c94

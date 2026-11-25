@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Galvin_rankB_ends
 -- name    : Galvin.rankB_ends
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:14:36.681938+00:00
 -- url     : https://prove2.me/theorems/4aaaa7dc-3bef-4519-8ff9-41ba4f894f9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_C_jetNorm__eafef558ccec
 -- name    : P2M_Formalism_L2_Th1_C_jetNorm__eafef558ccec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:58:30.680639+00:00
 -- url     : https://prove2.me/theorems/c0d11ae7-c10c-4b58-8b37-32bef2195e37

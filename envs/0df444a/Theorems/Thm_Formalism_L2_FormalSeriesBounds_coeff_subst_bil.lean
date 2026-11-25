@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_coeff_subst_bil
 -- name    : Formalism.L2.FormalSeriesBounds.coeff_subst_bil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:45:41.705578+00:00
 -- url     : https://prove2.me/theorems/c29eb618-202a-4ac4-93fb-1774232beb98

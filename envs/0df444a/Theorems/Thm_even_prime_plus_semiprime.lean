@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_even_prime_plus_semiprime
 -- name    : even_prime_plus_semiprime
--- status  : Open
+-- status  : Proved
 -- author  : @mwm
 -- created : 2026-11-25T01:29:10.71023+00:00
 -- url     : https://prove2.me/theorems/da86e598-bb99-48a7-9fc2-15580888d4e5

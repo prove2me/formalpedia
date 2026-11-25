@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitalIntegralIdentities_jf_equiv
 -- name    : Formalism.FourierDecayAlt.P.OrbitalIntegralIdentities.jf_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:36:31.156272+00:00
 -- url     : https://prove2.me/theorems/127377a0-e8be-489f-b9ee-86c6d73e54f4

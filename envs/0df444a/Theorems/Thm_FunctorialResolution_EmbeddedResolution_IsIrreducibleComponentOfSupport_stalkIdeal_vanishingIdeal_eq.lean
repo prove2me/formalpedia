@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsIrreducibleComponentOfSupport_stalkIdeal_vanishingIdeal_eq
 -- name    : FunctorialResolution.EmbeddedResolution.IsIrreducibleComponentOfSupport.stalkIdeal_vanishingIdeal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:58:42.563156+00:00
 -- url     : https://prove2.me/theorems/57cabb9c-0891-4fbf-8c58-34237892d9b8

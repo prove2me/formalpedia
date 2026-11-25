@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_mem_inertia_iff
 -- name    : Formalism.LFunctionChainParameters.LHost.mem_inertia_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:23:55.825082+00:00
 -- url     : https://prove2.me/theorems/d51011ab-c55d-41e5-8a14-9fb5896ea8e6

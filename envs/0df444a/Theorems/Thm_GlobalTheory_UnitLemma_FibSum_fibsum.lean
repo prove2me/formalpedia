@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_FibSum_fibsum
 -- name    : GlobalTheory.UnitLemma.FibSum.fibsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:56:24.079598+00:00
 -- url     : https://prove2.me/theorems/8bc86756-060c-49f5-86d7-8068c6905798

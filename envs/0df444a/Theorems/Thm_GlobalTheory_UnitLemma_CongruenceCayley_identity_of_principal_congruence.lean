@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_CongruenceCayley_identity_of_principal_congruence
 -- name    : GlobalTheory.UnitLemma.CongruenceCayley.identity_of_principal_congruence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:04:56.029335+00:00
 -- url     : https://prove2.me/theorems/f017f699-3e91-4582-8bad-3d50c5d8d912

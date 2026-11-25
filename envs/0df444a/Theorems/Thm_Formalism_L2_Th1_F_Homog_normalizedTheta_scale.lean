@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Homog_normalizedTheta_scale
 -- name    : Formalism.L2.Th1.F.Homog.normalizedTheta_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:19.55239+00:00
 -- url     : https://prove2.me/theorems/56974280-3cf6-449a-acd3-e9ef3436fe00

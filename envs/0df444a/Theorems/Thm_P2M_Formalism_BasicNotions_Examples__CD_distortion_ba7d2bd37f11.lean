@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_distortion_ba7d2bd37f11
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_distortion_ba7d2bd37f11
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:52:39.583883+00:00
 -- url     : https://prove2.me/theorems/b1f19b7f-f78e-4d39-b3b4-6205474c9891

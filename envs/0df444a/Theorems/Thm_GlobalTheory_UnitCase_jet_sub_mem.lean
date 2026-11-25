@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCase_jet_sub_mem
 -- name    : GlobalTheory.UnitCase.jet_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:40:55.47284+00:00
 -- url     : https://prove2.me/theorems/c86379f8-bf01-4266-a87f-c9bc7bee453e

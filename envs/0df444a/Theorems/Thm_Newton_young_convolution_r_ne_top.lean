@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_young_convolution_r_ne_top
 -- name    : Newton.young_convolution_r_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:01:19.316614+00:00
 -- url     : https://prove2.me/theorems/5304d084-1102-4d48-9119-f7c97d19421a

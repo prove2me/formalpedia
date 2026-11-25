@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_back_subG
 -- name    : Formalism.L2.FormalSeriesBounds.RF.back_subG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:01:10.262477+00:00
 -- url     : https://prove2.me/theorems/cf6c9c25-f389-454a-b464-9f7465973249

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ray_L_nonvanishing_at_one
 -- name    : GlobalTheory.T.ray_L_nonvanishing_at_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:56:10.52786+00:00
 -- url     : https://prove2.me/theorems/f33b3d4a-c3a2-4b01-b123-4b551929117e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__rows_num_pair_e1a5b5481773
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__rows_num_pair_e1a5b5481773
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:06:05.672751+00:00
 -- url     : https://prove2.me/theorems/2384373f-d34c-4810-9a69-abbb37ed977a

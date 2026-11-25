@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_zetaL_contDiff
 -- name    : Formalism.FourierDecayAlt.P.Qx8.zetaL_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:23:30.355818+00:00
 -- url     : https://prove2.me/theorems/8ba74a2f-39d8-4cb5-beef-a7a5cf104f66

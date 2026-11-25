@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_prod_unitary
 -- name    : GlobalTheory.UnitLemma.Unr.prod_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:23:35.05208+00:00
 -- url     : https://prove2.me/theorems/fb6181d1-8117-4b27-a46d-0c8723cf6307

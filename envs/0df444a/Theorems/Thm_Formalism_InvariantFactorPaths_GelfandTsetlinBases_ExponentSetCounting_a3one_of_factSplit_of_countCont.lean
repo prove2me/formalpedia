@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_ExponentSetCounting_a3one_of_factSplit_of_countCont
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.ExponentSetCounting.a3one_of_factSplit_of_countCont
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:41.606417+00:00
 -- url     : https://prove2.me/theorems/27019a4f-e92c-4294-bf58-07d20add687d

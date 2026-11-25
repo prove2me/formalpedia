@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpChartJet_jetSubstPS_trunc__54e8a4672924
 -- name    : P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpChartJet_jetSubstPS_trunc__54e8a4672924
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:59:43.314422+00:00
 -- url     : https://prove2.me/theorems/ab211feb-31b6-4670-8dff-c20550712c45

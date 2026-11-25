@@ -1,0 +1,27 @@
+-- Prove2me | solution 1 for Formalism.HermitianLatticeCounting.Final.ExpansionTerms.component_total_sixty_four
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T01:35:28.7452+00:00
+-- url     : https://prove2.me/submissions/123bd48d-5527-4526-8156-a9980658434f
+
+import Definitions.Def_Formalism_FlagUnipotentLattices_UnipotentStabiliserCharacterisation
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_BlockMinorSumCounterexample
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_IntegrableOnIoiTruncatedPowerMoment
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_CircleIntegralInvSubEqZeroOfOutside
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_NormalisationIdentity
+import Definitions.Def_Formalism_FlagUnipotentLattices_AlgebraicIdentityHigherDegree
+import Theorems.Thm_Formalism_HermitianLatticeCounting_P_block_minor_sum_pow_sixty_four
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLatticeCounting Formalism.HermitianLatticeCounting.Final Formalism.HermitianLatticeCounting.Final.ExpansionTerms
+namespace Formalism.HermitianLatticeCounting.Final.ExpansionTerms
+theorem _root_.solution : Formalism.HermitianLatticeCounting.ExpansionTerms.BlockMinorSumPowSixtyFour := Formalism.HermitianLatticeCounting.P.block_minor_sum_pow_sixty_four
+end Formalism.HermitianLatticeCounting.Final.ExpansionTerms

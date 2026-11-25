@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_size_total_bound
 -- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.size_total_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:37.415725+00:00
 -- url     : https://prove2.me/theorems/a4d023bc-ab2f-4aa3-ba2e-9524fbbfd25e

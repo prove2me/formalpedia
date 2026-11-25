@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_exists_sum_eq_of_basis
 -- name    : GroundTheory.GroupCoh.exists_sum_eq_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:25:56.760501+00:00
 -- url     : https://prove2.me/theorems/f886f6d0-7487-45fa-8c46-62cf63e6a549

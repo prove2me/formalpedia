@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_perpS_stable
 -- name    : Formalism.InvariantFactorPaths.PW.perpS_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:09:02.269315+00:00
 -- url     : https://prove2.me/theorems/cb8a1c21-8d3f-4fdb-b7b2-4e78338b3aaf

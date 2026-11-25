@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_IsLin_zero
 -- name    : Formalism.FourierDecayAlt.P.Qx8.IsLin.zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:27:01.176386+00:00
 -- url     : https://prove2.me/theorems/abf5d0b8-abae-4c9e-8a8e-989db401b875

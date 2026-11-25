@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinkSec_gs_of_isSer1
 -- name    : GlobalTheory.LinkSec.gs_of_isSer1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:01:05.086741+00:00
 -- url     : https://prove2.me/theorems/49bced3e-cd08-4ad7-9f01-a7604236b4da

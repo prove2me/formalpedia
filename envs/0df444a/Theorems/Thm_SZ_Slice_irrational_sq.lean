@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_irrational_sq
 -- name    : SZ.Slice.irrational_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:17:11.637313+00:00
 -- url     : https://prove2.me/theorems/9586eb5b-92dc-414f-ae4e-bcc2b983d78e

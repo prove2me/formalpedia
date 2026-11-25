@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_tieGam_expand
 -- name    : Formalism.GM.gammaIntegralityLemmas.tieGam_expand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:51:00.430865+00:00
 -- url     : https://prove2.me/theorems/3fa7cd15-fd48-4a35-b92a-6b14a49b9144

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DirScale_dmonOf_smul_dir
 -- name    : GlobalTheory.DirScale.dmonOf_smul_dir
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:55:50.513805+00:00
 -- url     : https://prove2.me/theorems/a70342dc-fd33-4726-bdaa-0fa0e56450e7

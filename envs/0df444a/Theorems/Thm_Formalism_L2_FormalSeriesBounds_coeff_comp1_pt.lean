@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_coeff_comp1_pt
 -- name    : Formalism.L2.FormalSeriesBounds.coeff_comp1_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:45:18.82574+00:00
 -- url     : https://prove2.me/theorems/7229cb7b-3bb2-4960-a1ea-9e276c6c22da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_slice_smooth
 -- name    : Formalism.FourierDecayAlt.P.Qx8.slice_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:23:52.466888+00:00
 -- url     : https://prove2.me/theorems/79b959df-0973-4086-b387-c1d8bf1e31c2

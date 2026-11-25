@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mem_iff_forall_valuation_le
 -- name    : GroundTheory.Global.mem_iff_forall_valuation_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:40:00.161034+00:00
 -- url     : https://prove2.me/theorems/2f9b25bc-057f-49d7-9a9e-483ef2d1553f

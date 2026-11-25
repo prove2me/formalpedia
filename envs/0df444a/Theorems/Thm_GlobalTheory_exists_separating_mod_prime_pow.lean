@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_separating_mod_prime_pow
 -- name    : GlobalTheory.exists_separating_mod_prime_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:56:49.778239+00:00
 -- url     : https://prove2.me/theorems/6c4c00f3-fde1-4dfc-b32e-886186d1eb23

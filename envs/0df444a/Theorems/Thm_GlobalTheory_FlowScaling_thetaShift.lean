@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlowScaling_thetaShift
 -- name    : GlobalTheory.FlowScaling.thetaShift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:25:56.430852+00:00
 -- url     : https://prove2.me/theorems/b7602446-7bc1-45c5-b60c-75aa8401d418

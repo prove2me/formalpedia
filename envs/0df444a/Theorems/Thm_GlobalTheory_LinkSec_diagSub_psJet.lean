@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinkSec_diagSub_psJet
 -- name    : GlobalTheory.LinkSec.diagSub_psJet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:59:00.513841+00:00
 -- url     : https://prove2.me/theorems/11b2905e-aecd-46c1-9bf5-53b2ed7bf695

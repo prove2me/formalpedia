@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntClosureSep_integralClosure_fg_of_separable_charpoly
 -- name    : GlobalTheory.IntClosureSep.integralClosure_fg_of_separable_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:25:24.553508+00:00
 -- url     : https://prove2.me/theorems/363f3060-7697-493a-b11e-5fec11d2a8b2

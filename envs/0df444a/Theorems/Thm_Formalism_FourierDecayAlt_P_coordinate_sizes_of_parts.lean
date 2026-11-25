@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_coordinate_sizes_of_parts
 -- name    : Formalism.FourierDecayAlt.P.coordinate_sizes_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:58:17.079136+00:00
 -- url     : https://prove2.me/theorems/b3e1cd03-c9ea-4940-9da2-4aa0ea53b5cf

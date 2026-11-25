@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_inWb_add
 -- name    : Formalism.FourierDecayAlt.P.Qx8.inWb_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:22:26.848827+00:00
 -- url     : https://prove2.me/theorems/adfb228f-63f3-4eae-a193-a7d728e0c564

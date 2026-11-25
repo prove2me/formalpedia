@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_localSubgroup_le_sIdeles
 -- name    : GroundTheory.Global.IdeleGroup.localSubgroup_le_sIdeles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:18:41.478854+00:00
 -- url     : https://prove2.me/theorems/77ba7c45-0616-42fd-b1d5-de1683e86085

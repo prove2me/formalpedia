@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_Vizing_PEC_vizing_step
 -- name    : LeanPool.Vizing.PEC.vizing_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:03:34.364113+00:00
 -- url     : https://prove2.me/theorems/d86dff31-9a2d-4cef-bd6b-72cfaac2c0b4

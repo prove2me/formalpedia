@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_UnivConv_aug_symm
 -- name    : GlobalTheory.PowGerm.UnivConv.aug_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:54:34.486129+00:00
 -- url     : https://prove2.me/theorems/9e1ffc95-40c6-47f2-86ab-1c00f9142c61

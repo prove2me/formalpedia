@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_parts_of_eq
 -- name    : Formalism.LFunctionChainParameters.LHost.parts_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:24:05.28213+00:00
 -- url     : https://prove2.me/theorems/4f202e09-6681-42ad-a885-1b80992adec4

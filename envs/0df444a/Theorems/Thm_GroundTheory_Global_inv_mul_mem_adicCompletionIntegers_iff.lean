@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_inv_mul_mem_adicCompletionIntegers_iff
 -- name    : GroundTheory.Global.inv_mul_mem_adicCompletionIntegers_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:13:51.832315+00:00
 -- url     : https://prove2.me/theorems/7c582a4c-ea88-4cec-a6ff-bc2bc62d6aa0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_stalkIdeal_le_pow_of_le_orderAt_genericPoint
 -- name    : FunctorialResolution.EmbeddedResolution.stalkIdeal_le_pow_of_le_orderAt_genericPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:19:53.482796+00:00
 -- url     : https://prove2.me/theorems/d311387e-134c-461c-a8f6-5c786a94231e

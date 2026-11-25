@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_eq_zero_of_isClassFun_of_charInner
 -- name    : GroundTheory.LocalField.eq_zero_of_isClassFun_of_charInner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:43:54.629019+00:00
 -- url     : https://prove2.me/theorems/0720376b-660c-4afe-aa42-2f9d74f35387

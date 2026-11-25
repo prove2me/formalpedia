@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_core_indicator_eLpNorm_bound
 -- name    : Newton.core_indicator_eLpNorm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:07:24.713002+00:00
 -- url     : https://prove2.me/theorems/268ef3ff-f9b7-46b6-96db-0007345ff5f1

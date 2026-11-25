@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_SZ_Slice_U_def__de67dd39ecba
 -- name    : P2M_SZ_Slice_U_def__de67dd39ecba
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:15:13.736737+00:00
 -- url     : https://prove2.me/theorems/29eeb3dd-f5b2-47f9-9f78-84a276be8100

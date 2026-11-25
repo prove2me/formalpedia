@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_eSum_ne_zero_b19627b390a7
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_eSum_ne_zero_b19627b390a7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:52:13.940802+00:00
 -- url     : https://prove2.me/theorems/c9e0ac34-3eec-493e-a2cd-f8b596f4c2de

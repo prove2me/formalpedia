@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_CayleyCase_stSum_withG
 -- name    : GlobalTheory.UnitLemma.CayleyCase.stSum_withG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:50:48.314439+00:00
 -- url     : https://prove2.me/theorems/48345d3f-54c9-493c-9377-497c96c21e79

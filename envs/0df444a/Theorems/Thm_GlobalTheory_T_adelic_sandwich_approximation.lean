@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_adelic_sandwich_approximation
 -- name    : GlobalTheory.T.adelic_sandwich_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:35:51.454261+00:00
 -- url     : https://prove2.me/theorems/f6fd7309-281d-41a6-b02b-f6016cb35221

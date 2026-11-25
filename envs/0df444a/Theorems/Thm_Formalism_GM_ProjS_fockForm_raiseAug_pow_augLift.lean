@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_ProjS_fockForm_raiseAug_pow_augLift
 -- name    : Formalism.GM.ProjS.fockForm_raiseAug_pow_augLift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:21:22.059812+00:00
 -- url     : https://prove2.me/theorems/fbf55c98-e8a4-436c-b28c-df3c2924fdd4

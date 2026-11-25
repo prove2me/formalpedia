@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_SuNAlgebra_jacobi_identity_alt
 -- name    : Newton.SuNAlgebra.jacobi_identity_alt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:17:08.7178+00:00
 -- url     : https://prove2.me/theorems/df45c523-aeb2-449e-98df-4be056e22fa2

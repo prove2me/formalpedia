@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_adelicNorm_smul_rat
 -- name    : GroundTheory.Automorphic.Reduction.adelicNorm_smul_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:09:18.055231+00:00
 -- url     : https://prove2.me/theorems/abfb56f5-8dea-426f-8498-41a34822e356

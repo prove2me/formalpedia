@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateMap_d_apply
 -- name    : GroundTheory.GroupCoh.tateMap_d_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:13:29.734048+00:00
 -- url     : https://prove2.me/theorems/1f48fc06-88d6-46f6-b43d-e8cffc63de1b

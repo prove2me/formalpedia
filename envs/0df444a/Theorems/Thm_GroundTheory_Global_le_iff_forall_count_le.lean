@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_le_iff_forall_count_le
 -- name    : GroundTheory.Global.le_iff_forall_count_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:38:44.70979+00:00
 -- url     : https://prove2.me/theorems/d113d796-9400-4165-a93c-ea0981afa8ad

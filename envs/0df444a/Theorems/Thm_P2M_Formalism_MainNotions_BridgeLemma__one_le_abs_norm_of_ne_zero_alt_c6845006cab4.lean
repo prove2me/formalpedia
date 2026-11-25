@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__one_le_abs_norm_of_ne_zero_alt_c6845006cab4
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__one_le_abs_norm_of_ne_zero_alt_c6845006cab4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:00:09.094941+00:00
 -- url     : https://prove2.me/theorems/04fd0703-5246-4803-a59d-416a6b0151a5

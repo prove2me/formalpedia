@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_card_rankPartitions_le
 -- name    : ChromaticReconstruction.card_rankPartitions_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:11:29.747232+00:00
 -- url     : https://prove2.me/theorems/bcece785-7bd6-4e56-974d-82919c377b1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FormalGroupCopies_fold_mem
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FormalGroupCopies.fold_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:11:02.341654+00:00
 -- url     : https://prove2.me/theorems/ccc542d5-6080-4470-aa47-0aabd2d1d12f

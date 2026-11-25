@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenExtendDense_gm_eq_of_corr
 -- name    : GlobalTheory.GenExtendDense.gm_eq_of_corr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:10:19.562327+00:00
 -- url     : https://prove2.me/theorems/e5499cb5-b696-45ce-bb7d-7efe3b0b4b9e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_zLinClosed
 -- name    : Formalism.L2.Th1.C.zLinClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:27:46.220431+00:00
 -- url     : https://prove2.me/theorems/ca44d055-7717-457c-a8c0-d9d5a532c621

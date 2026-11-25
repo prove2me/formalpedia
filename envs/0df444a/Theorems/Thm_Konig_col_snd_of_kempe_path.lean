@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Konig_col_snd_of_kempe_path
 -- name    : Konig.col_snd_of_kempe_path
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:11:20.51425+00:00
 -- url     : https://prove2.me/theorems/be4f12d3-56fa-4e32-83e9-38330f690adc

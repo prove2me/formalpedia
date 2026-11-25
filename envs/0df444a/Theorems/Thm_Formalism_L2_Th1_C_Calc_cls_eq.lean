@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Calc_cls_eq
 -- name    : Formalism.L2.Th1.C.Calc.cls_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:18:19.496333+00:00
 -- url     : https://prove2.me/theorems/c903e0c3-f170-4b97-97e8-c91d1624c6e5

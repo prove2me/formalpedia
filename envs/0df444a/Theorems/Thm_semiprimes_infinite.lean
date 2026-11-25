@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_semiprimes_infinite
 -- name    : semiprimes_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @mwm
 -- created : 2026-11-25T01:29:10.812469+00:00
 -- url     : https://prove2.me/theorems/64ff2aa1-fe25-405f-8e31-f3d79fdc65de

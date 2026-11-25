@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_mulEquivHaarChar_conjCME_inv
 -- name    : GroundTheory.Automorphic.mulEquivHaarChar_conjCME_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:32:20.192481+00:00
 -- url     : https://prove2.me/theorems/257de414-be98-4d82-8985-556869d9a06c

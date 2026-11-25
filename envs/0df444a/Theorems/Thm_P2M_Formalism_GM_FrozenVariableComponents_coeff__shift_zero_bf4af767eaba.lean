@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_FrozenVariableComponents_coeff__shift_zero_bf4af767eaba
 -- name    : P2M_Formalism_GM_FrozenVariableComponents_coeff__shift_zero_bf4af767eaba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:56:26.266247+00:00
 -- url     : https://prove2.me/theorems/a0ab5721-10b1-4b09-877a-43c1377e8691

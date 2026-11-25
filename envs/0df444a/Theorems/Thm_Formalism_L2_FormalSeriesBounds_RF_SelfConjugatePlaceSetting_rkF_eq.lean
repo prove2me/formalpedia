@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_SelfConjugatePlaceSetting_rkF_eq
 -- name    : Formalism.L2.FormalSeriesBounds.RF.SelfConjugatePlaceSetting.rkF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:18:15.846487+00:00
 -- url     : https://prove2.me/theorems/fcd1af49-446d-48ed-852f-2927280ffc3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_integral_norm_eq_toReal_lintegral
 -- name    : Newton.integral_norm_eq_toReal_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:12:25.890822+00:00
 -- url     : https://prove2.me/theorems/6da160c0-6414-4a72-b326-cd34709f3e8a

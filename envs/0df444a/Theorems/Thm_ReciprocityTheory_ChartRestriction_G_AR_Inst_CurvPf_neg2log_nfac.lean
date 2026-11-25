@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_CurvPf_neg2log_nfac
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.CurvPf.neg2log_nfac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:27:48.77901+00:00
 -- url     : https://prove2.me/theorems/77c22794-8460-42dd-91bd-bc59ae979ff2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Gadget_rowEdge_mem
 -- name    : GalvinMultigraph.Gadget.rowEdge_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:17:10.185523+00:00
 -- url     : https://prove2.me/theorems/cc7b2629-9637-426e-a10a-de57860e37d1

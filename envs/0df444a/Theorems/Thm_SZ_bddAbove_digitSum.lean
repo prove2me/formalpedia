@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_bddAbove_digitSum
 -- name    : SZ.bddAbove_digitSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:15:02.385372+00:00
 -- url     : https://prove2.me/theorems/7bf30930-573f-4b89-8149-d31c7045c5f9

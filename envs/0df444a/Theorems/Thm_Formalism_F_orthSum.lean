@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_orthSum
 -- name    : Formalism.F.orthSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:52:23.140977+00:00
 -- url     : https://prove2.me/theorems/c307cdea-a0ab-433c-af8f-6668c6f2d103

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Indef_Examples__line_indep_7b4cd6eaa39e
 -- name    : P2M_Formalism_L2_Indef_Examples__line_indep_7b4cd6eaa39e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:06:54.686208+00:00
 -- url     : https://prove2.me/theorems/782c8278-1f03-48f2-937f-f8004772c06f

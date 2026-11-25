@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isUnramifiedOutside_bot
 -- name    : GroundTheory.ProfCoh.isUnramifiedOutside_bot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:15:40.935949+00:00
 -- url     : https://prove2.me/theorems/ccac1c1d-f9cc-457a-af77-52dadbf5e64a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_isOpen_cellGe
 -- name    : GroundTheory.Automorphic.Whittaker.isOpen_cellGe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:41:33.961578+00:00
 -- url     : https://prove2.me/theorems/171fa524-d1bc-45a9-865f-1127eccba2af

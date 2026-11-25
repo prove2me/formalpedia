@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_prodEquiv_isIso
 -- name    : GlobalTheory.UnitLemma.Unr.prodEquiv_isIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:29:29.486188+00:00
 -- url     : https://prove2.me/theorems/d4613972-cbec-4801-b05d-d407efe4da98

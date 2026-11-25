@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_EmbeddingHermitianPairs_hermC_conj
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.EmbeddingHermitianPairs.hermC_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:27:38.475669+00:00
 -- url     : https://prove2.me/theorems/2ec0a9f8-147a-45d8-a996-b52f8be16948

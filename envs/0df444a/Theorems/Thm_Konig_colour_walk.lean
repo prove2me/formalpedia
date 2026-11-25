@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Konig_colour_walk
 -- name    : Konig.colour_walk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:09:38.023903+00:00
 -- url     : https://prove2.me/theorems/10c8a846-5a75-42e3-a732-a0934138f4ff

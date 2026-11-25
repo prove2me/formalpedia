@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HopfSys_isPullO_over_comp
 -- name    : GlobalTheory.CompanionTheory.HopfSys.isPullO_over_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:39:20.151823+00:00
 -- url     : https://prove2.me/theorems/2db3d1c1-8edd-4e8f-a6a1-4b8b08905f5e

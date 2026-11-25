@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ax_lemma_closedSubgroup
 -- name    : GroundTheory.PAdicHodge.ax_lemma_closedSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:46:36.080288+00:00
 -- url     : https://prove2.me/theorems/c3fbaead-768a-449a-9a83-90eeb2c3fc71

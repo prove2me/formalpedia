@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_word_blockW_diagL
 -- name    : GroundTheory.Automorphic.HarishChandra.word_blockW_diagL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:07:51.341319+00:00
 -- url     : https://prove2.me/theorems/4b611d8f-6af5-4427-9951-20e564c6d1b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_pair_eq_of_first
 -- name    : ChromaticReconstruction.pair_eq_of_first
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:52:00.598295+00:00
 -- url     : https://prove2.me/theorems/cfe0681a-f1f0-453c-bbff-e17be77d4626

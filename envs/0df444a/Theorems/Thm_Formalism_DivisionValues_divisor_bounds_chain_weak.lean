@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_divisor_bounds_chain_weak
 -- name    : Formalism.DivisionValues.divisor_bounds_chain_weak
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:34:43.301614+00:00
 -- url     : https://prove2.me/theorems/1fa30fc2-fc9f-4ca6-8691-dff47ab44fd5

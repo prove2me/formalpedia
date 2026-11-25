@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_relInertiaDegree_mul
 -- name    : GroundTheory.LocalField.Abstract.relInertiaDegree_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:12:52.594889+00:00
 -- url     : https://prove2.me/theorems/a1ea7644-724c-492c-b035-8ba8c8c0abd6

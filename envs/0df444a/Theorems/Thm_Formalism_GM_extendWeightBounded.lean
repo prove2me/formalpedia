@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_extendWeightBounded
 -- name    : Formalism.GM.extendWeightBounded
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:23:00.537046+00:00
 -- url     : https://prove2.me/theorems/c236bfa6-a319-468b-a79f-8f65124e12bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayPrimes_exists_prime_in_class
 -- name    : GlobalTheory.Mem.RayPrimes.exists_prime_in_class
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:40:54.840301+00:00
 -- url     : https://prove2.me/theorems/1896336c-b6b7-4af5-a4c1-6e77bc0ff284

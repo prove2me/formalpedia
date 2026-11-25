@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_exists_finrank_eq_sq
 -- name    : GroundTheory.Brauer.exists_finrank_eq_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:11:51.730844+00:00
 -- url     : https://prove2.me/theorems/0a4c3911-0845-4b19-8071-9ffbd5b30cc0

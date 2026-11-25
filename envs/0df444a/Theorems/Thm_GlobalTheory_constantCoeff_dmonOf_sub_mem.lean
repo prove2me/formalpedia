@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_constantCoeff_dmonOf_sub_mem
 -- name    : GlobalTheory.constantCoeff_dmonOf_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:36:45.353804+00:00
 -- url     : https://prove2.me/theorems/7ed0477f-ce78-472f-b962-bdf6e5419030

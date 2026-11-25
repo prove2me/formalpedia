@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_vectorFieldOrder_add_of_prod_strictHenselian
 -- name    : GlobalTheory.T.vectorFieldOrder_add_of_prod_strictHenselian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:01:43.521908+00:00
 -- url     : https://prove2.me/theorems/f8f478aa-3aba-4703-8fe8-31efd5c1bbaa

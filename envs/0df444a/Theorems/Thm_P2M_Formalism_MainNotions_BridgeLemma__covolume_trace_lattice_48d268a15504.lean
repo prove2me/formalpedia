@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__covolume_trace_lattice_48d268a15504
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__covolume_trace_lattice_48d268a15504
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:00:38.391877+00:00
 -- url     : https://prove2.me/theorems/a94ec406-0745-48da-a8ce-a5312e6c7685

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_res_res
 -- name    : GroundTheory.GroupCoh.res_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:25:56.40185+00:00
 -- url     : https://prove2.me/theorems/d17b9e62-8d2c-4cdd-a288-a6796aeca3f7

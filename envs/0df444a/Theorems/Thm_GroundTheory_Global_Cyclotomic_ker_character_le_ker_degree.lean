@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_ker_character_le_ker_degree
 -- name    : GroundTheory.Global.Cyclotomic.ker_character_le_ker_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:19:16.254237+00:00
 -- url     : https://prove2.me/theorems/7d7c17c3-7cf0-4d4a-aa03-f511c979efb5

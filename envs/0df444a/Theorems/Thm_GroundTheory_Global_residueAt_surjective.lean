@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_residueAt_surjective
 -- name    : GroundTheory.Global.residueAt_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:13:05.844414+00:00
 -- url     : https://prove2.me/theorems/77cb5dba-694b-49c2-9401-3f4752c669ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_functionFieldPlaceOrder_calculus
 -- name    : GlobalTheory.T.functionFieldPlaceOrder_calculus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:09:49.687028+00:00
 -- url     : https://prove2.me/theorems/b5a70d73-9a32-4982-9db9-30ba234bd061

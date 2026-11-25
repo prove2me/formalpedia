@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_imageSubobject_factors_self
 -- name    : PretorsionImageClosed.imageSubobject_factors_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:14:50.7802+00:00
 -- url     : https://prove2.me/theorems/9c5a6c5d-e9cb-4177-9968-cc44c71a6161

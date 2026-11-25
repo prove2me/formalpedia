@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Gadget_lists_card
 -- name    : GalvinMultigraph.Gadget.lists_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:18:56.560881+00:00
 -- url     : https://prove2.me/theorems/2a40eb8e-b10f-4745-8e35-fc74f5959d4f

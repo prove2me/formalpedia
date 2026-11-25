@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_exists_partner
 -- name    : ChromaticReconstruction.exists_partner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:35:31.15345+00:00
 -- url     : https://prove2.me/theorems/f17fbbdd-8e45-4771-9fc8-4e8b845ea744

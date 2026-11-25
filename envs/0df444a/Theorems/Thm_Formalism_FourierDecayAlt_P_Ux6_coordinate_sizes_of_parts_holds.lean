@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_coordinate_sizes_of_parts_holds
 -- name    : Formalism.FourierDecayAlt.P.Ux6.coordinate_sizes_of_parts_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:22:44.66488+00:00
 -- url     : https://prove2.me/theorems/ea388e7d-49da-4ff6-baad-9988d9dcbea9

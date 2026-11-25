@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeDiv_dmon_div
 -- name    : GlobalTheory.GaugeDiv.dmon_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:46:23.846828+00:00
 -- url     : https://prove2.me/theorems/6f80b7a0-9f8f-476f-a0b7-b0ec0afb8d1e

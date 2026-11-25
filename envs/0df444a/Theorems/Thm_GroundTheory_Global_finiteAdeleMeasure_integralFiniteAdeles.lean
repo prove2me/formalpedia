@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finiteAdeleMeasure_integralFiniteAdeles
 -- name    : GroundTheory.Global.finiteAdeleMeasure_integralFiniteAdeles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:00:02.524196+00:00
 -- url     : https://prove2.me/theorems/1a9d491b-9289-4aad-9a46-2c5b7cde0ecc

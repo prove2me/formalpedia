@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_exists_many_bounded_by_pow
 -- name    : GlobalTheory.Nef.exists_many_bounded_by_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:01:45.404842+00:00
 -- url     : https://prove2.me/theorems/0d2d20e7-969a-4b23-93f0-8b4f0878e87b

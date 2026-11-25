@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisHeat_isHeat_const_mul
 -- name    : GlobalTheory.SW.EisHeat.isHeat_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:29:07.836833+00:00
 -- url     : https://prove2.me/theorems/98ac3e46-07b4-457a-a01b-f2054fd96194

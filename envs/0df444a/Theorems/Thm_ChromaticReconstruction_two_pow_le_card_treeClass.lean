@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_two_pow_le_card_treeClass
 -- name    : ChromaticReconstruction.two_pow_le_card_treeClass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:53:30.238801+00:00
 -- url     : https://prove2.me/theorems/a80934ab-cb8e-4947-b223-62c1d5d9f42e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__trace_inner_pos_of_orthonormal_pair_2c4d27f0bf2f
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__trace_inner_pos_of_orthonormal_pair_2c4d27f0bf2f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:59:53.499732+00:00
 -- url     : https://prove2.me/theorems/ab6cc001-c8af-49fd-ae23-39addcd31297

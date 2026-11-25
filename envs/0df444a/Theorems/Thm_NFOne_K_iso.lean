@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_K_iso
 -- name    : NFOne.K_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:53:03.002912+00:00
 -- url     : https://prove2.me/theorems/7c4c9751-dd22-4dca-9345-a9e3449c8405

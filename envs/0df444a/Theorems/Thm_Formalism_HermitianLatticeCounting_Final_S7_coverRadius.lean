@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_coverRadius
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.coverRadius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:06:48.929939+00:00
 -- url     : https://prove2.me/theorems/f5cdd6f7-6e10-4753-a734-202e4c9b0aed

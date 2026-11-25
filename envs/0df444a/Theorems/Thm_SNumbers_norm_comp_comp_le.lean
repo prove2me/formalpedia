@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_norm_comp_comp_le
 -- name    : SNumbers.norm_comp_comp_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:18:29.354943+00:00
 -- url     : https://prove2.me/theorems/a2b1c8ad-df50-48fe-ab7a-148021391be1

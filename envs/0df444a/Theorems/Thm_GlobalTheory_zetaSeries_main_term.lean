@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_zetaSeries_main_term
 -- name    : GlobalTheory.zetaSeries_main_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:54:29.226748+00:00
 -- url     : https://prove2.me/theorems/3ad53dd1-37b7-4318-b6ef-21b81524dc3e

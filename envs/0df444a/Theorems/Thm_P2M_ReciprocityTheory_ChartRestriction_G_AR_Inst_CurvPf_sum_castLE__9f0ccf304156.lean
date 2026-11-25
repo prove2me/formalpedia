@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_AR_Inst_CurvPf_sum_castLE__9f0ccf304156
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_AR_Inst_CurvPf_sum_castLE__9f0ccf304156
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:27:36.150875+00:00
 -- url     : https://prove2.me/theorems/dd89dd98-4a02-42b1-8dd9-65ec689bf865

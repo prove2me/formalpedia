@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_mem_norm_sub_le_of_linearIndependent
 -- name    : GlobalTheory.exists_mem_norm_sub_le_of_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:57:23.671821+00:00
 -- url     : https://prove2.me/theorems/6867cd09-7912-4464-b87b-c0d18193646d

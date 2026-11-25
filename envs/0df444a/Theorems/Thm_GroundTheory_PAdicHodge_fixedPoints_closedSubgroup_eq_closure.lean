@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_fixedPoints_closedSubgroup_eq_closure
 -- name    : GroundTheory.PAdicHodge.fixedPoints_closedSubgroup_eq_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:29:42.637129+00:00
 -- url     : https://prove2.me/theorems/e8048cc2-5c4a-4d3b-ad99-2a779b354217

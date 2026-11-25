@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FockB_step_same
 -- name    : Formalism.GM.FockB.step_same
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:42:38.065417+00:00
 -- url     : https://prove2.me/theorems/87c9f059-ac28-4c0d-ac7f-cdb9b51120dc

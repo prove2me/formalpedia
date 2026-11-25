@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_poly_AAvop
 -- name    : Formalism.FourierDecayAlt.P.PBG.poly_AAvop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:22:08.171617+00:00
 -- url     : https://prove2.me/theorems/f8cc8a0a-0472-4e91-95d1-53be10b0e5b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_ZSer_ring_add
 -- name    : Formalism.L2.Th1.A.ZSer.ring_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:52.936056+00:00
 -- url     : https://prove2.me/theorems/62e5c768-8101-494c-8f4c-2797b4c8a125

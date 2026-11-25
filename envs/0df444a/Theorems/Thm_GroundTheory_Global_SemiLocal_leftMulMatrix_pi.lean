@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SemiLocal_leftMulMatrix_pi
 -- name    : GroundTheory.Global.SemiLocal.leftMulMatrix_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:26:32.258257+00:00
 -- url     : https://prove2.me/theorems/7ec6c861-ef20-4680-a05d-8c3cdd7ccf0a

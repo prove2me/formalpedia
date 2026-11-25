@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_exists_degreeComponent_ne_one
 -- name    : GroundTheory.Global.Cyclotomic.exists_degreeComponent_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:13:49.030865+00:00
 -- url     : https://prove2.me/theorems/28e43d36-c4d0-4768-810a-d54b96a1c971

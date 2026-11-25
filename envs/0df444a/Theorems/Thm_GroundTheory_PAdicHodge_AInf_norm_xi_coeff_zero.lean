@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_norm_xi_coeff_zero
 -- name    : GroundTheory.PAdicHodge.AInf.norm_xi_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:45:43.262341+00:00
 -- url     : https://prove2.me/theorems/809f8217-1a08-4467-afd7-03ecb2c77f8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_memSobolev_add_one_of_diffQuot
 -- name    : GroundTheory.Automorphic.Sobolev.memSobolev_add_one_of_diffQuot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:56:36.157474+00:00
 -- url     : https://prove2.me/theorems/56e2a956-ef34-41e6-8b9a-87bac7b7d0b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_exists_lift_of_cocycle
 -- name    : GroundTheory.GroupCoh.exists_lift_of_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:48:54.142434+00:00
 -- url     : https://prove2.me/theorems/f41ec4f4-28e1-4823-a9fd-e9e0d11fe6ea

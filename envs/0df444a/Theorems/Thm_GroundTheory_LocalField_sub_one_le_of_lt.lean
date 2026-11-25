@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_sub_one_le_of_lt
 -- name    : GroundTheory.LocalField.sub_one_le_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:26:43.89953+00:00
 -- url     : https://prove2.me/theorems/9f583157-fc9b-47ed-b5e7-3fd5e6de3564

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_functionFieldOneVariable_transcendental_finite_and_ext
 -- name    : GlobalTheory.T.functionFieldOneVariable_transcendental_finite_and_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:09:47.913641+00:00
 -- url     : https://prove2.me/theorems/5f5c3556-5706-4b33-9111-625388222e0c

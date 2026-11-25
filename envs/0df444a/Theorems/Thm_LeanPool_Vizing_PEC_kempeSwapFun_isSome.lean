@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_Vizing_PEC_kempeSwapFun_isSome
 -- name    : LeanPool.Vizing.PEC.kempeSwapFun_isSome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:00:14.913793+00:00
 -- url     : https://prove2.me/theorems/3afc89c9-f738-41a1-82bc-dbc7a9470935

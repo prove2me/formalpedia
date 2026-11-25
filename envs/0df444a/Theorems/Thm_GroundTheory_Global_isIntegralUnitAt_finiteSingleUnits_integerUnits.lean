@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_isIntegralUnitAt_finiteSingleUnits_integerUnits
 -- name    : GroundTheory.Global.isIntegralUnitAt_finiteSingleUnits_integerUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:20:04.625867+00:00
 -- url     : https://prove2.me/theorems/aaa60d4b-a60a-441a-96c9-5844e1c14ff7

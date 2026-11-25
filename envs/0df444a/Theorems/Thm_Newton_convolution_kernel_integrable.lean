@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_convolution_kernel_integrable
 -- name    : Newton.convolution_kernel_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:13:42.78895+00:00
 -- url     : https://prove2.me/theorems/f595e13a-0ac2-47d7-a3b4-f17c45083a6e

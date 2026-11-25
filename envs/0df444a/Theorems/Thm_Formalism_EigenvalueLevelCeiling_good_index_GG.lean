@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_good_index_GG
 -- name    : Formalism.EigenvalueLevelCeiling.good_index_GG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:32:00.554421+00:00
 -- url     : https://prove2.me/theorems/6d8a225e-fc50-4267-b678-5e08e5d99641

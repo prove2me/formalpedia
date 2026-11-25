@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_exists_normalForm
 -- name    : GroundTheory.Automorphic.Whittaker.exists_normalForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:28:50.634372+00:00
 -- url     : https://prove2.me/theorems/620f7f01-09ab-4aae-b4b9-5187b7d4bc92

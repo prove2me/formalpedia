@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_l_of_be
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.l_of_be
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:09:05.147794+00:00
 -- url     : https://prove2.me/theorems/21576ce0-dfca-4c28-9f54-feb06b834c9e

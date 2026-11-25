@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_exists_unique_place_ord_eq_one
 -- name    : GlobalTheory.Nef.exists_unique_place_ord_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:01:52.566796+00:00
 -- url     : https://prove2.me/theorems/7ff0950a-818f-49de-80c7-794d08ac07aa

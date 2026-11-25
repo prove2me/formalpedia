@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_gelfand_graev_multiplicity_one
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.gelfand_graev_multiplicity_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:12.688811+00:00
 -- url     : https://prove2.me/theorems/8ed18fee-7c76-4b85-a017-4dd2dbd66747

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Lift_VA_val_frac_of_lt_one
 -- name    : ReciprocityTheory.ChartRestriction.G.Lift.VA.val_frac_of_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:28:58.943965+00:00
 -- url     : https://prove2.me/theorems/ca56f45c-d2ce-475f-97f6-59b701c4dad1

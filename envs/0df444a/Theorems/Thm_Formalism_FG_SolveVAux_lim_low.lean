@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_SolveVAux_lim_low
 -- name    : Formalism.FG.SolveVAux.lim_low
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:23:59.605696+00:00
 -- url     : https://prove2.me/theorems/4fddc8f2-60e1-4231-914e-bcbcef4bdb5e

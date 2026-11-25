@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_TieQL_cK_coordK
 -- name    : Formalism.L2.Pj.QAt.TieQL.cK_coordK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:22:03.37802+00:00
 -- url     : https://prove2.me/theorems/6754204d-20ad-4abe-bedd-2fdb37c3448f

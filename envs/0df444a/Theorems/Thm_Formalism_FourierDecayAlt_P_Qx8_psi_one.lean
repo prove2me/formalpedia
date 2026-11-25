@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_psi_one
 -- name    : Formalism.FourierDecayAlt.P.Qx8.psi_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:29:15.550306+00:00
 -- url     : https://prove2.me/theorems/b1ad733b-344f-4139-b0d9-cc7bcfe2b049

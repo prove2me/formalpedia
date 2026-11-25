@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsogenySum_mem_lattice_of_int
 -- name    : GlobalTheory.IsogenySum.mem_lattice_of_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:09:46.767841+00:00
 -- url     : https://prove2.me/theorems/f5700beb-db23-48cf-93aa-48e52d3fae24

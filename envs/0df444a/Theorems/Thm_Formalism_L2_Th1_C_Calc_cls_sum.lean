@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Calc_cls_sum
 -- name    : Formalism.L2.Th1.C.Calc.cls_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:27:25.386293+00:00
 -- url     : https://prove2.me/theorems/5922436f-6beb-413e-8793-533c93b8d4ea

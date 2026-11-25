@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_whiskerLeft_cupCochain
 -- name    : GroundTheory.GroupCoh.whiskerLeft_cupCochain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:13:55.823933+00:00
 -- url     : https://prove2.me/theorems/1b55d26f-fbe4-4efa-add4-1ec3ec0d8dfa

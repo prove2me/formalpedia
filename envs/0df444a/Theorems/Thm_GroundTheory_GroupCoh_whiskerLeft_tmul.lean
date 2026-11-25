@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_whiskerLeft_tmul
 -- name    : GroundTheory.GroupCoh.whiskerLeft_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:13:48.29258+00:00
 -- url     : https://prove2.me/theorems/6eb42eec-c19e-46cd-ab83-472cf535a749

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralFrameAllCompare_mem_range_iff
 -- name    : GlobalTheory.IntegralFrameAllCompare.mem_range_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:06:02.841005+00:00
 -- url     : https://prove2.me/theorems/b3755027-1fe5-48d9-8458-af4b5c151545

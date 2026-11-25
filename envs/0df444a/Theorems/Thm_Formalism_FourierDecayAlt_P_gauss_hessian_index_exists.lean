@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gauss_hessian_index_exists
 -- name    : Formalism.FourierDecayAlt.P.gauss_hessian_index_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:26:32.839846+00:00
 -- url     : https://prove2.me/theorems/fac2082e-676b-41a6-a53a-9203eedaf3ad

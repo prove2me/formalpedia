@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BCT_DimFac_map_smulRight
 -- name    : GlobalTheory.BCT.DimFac.map_smulRight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:28:44.875568+00:00
 -- url     : https://prove2.me/theorems/f5102a97-77f4-4892-a30e-75f61f6667c2

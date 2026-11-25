@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_SemiHom_omega_omega
 -- name    : GlobalTheory.PDivGroup.SemiHom.omega_omega
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:29:37.842644+00:00
 -- url     : https://prove2.me/theorems/cc961109-7bba-45e6-a6f5-04de3e61b72b

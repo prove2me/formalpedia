@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_assemble_equality_identity
 -- name    : Formalism.FourierDecayAlt.P.assemble_equality_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:36:31.546808+00:00
 -- url     : https://prove2.me/theorems/b34daf1f-9e42-4607-bcef-3384f6a266df

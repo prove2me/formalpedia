@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_sizeMu
 -- name    : Formalism.HN.sizeMu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:41:34.586879+00:00
 -- url     : https://prove2.me/theorems/1622585e-bfb1-49bb-acaf-53fa51496774

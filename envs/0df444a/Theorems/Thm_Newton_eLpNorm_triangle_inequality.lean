@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_eLpNorm_triangle_inequality
 -- name    : Newton.eLpNorm_triangle_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:07:15.378804+00:00
 -- url     : https://prove2.me/theorems/c470fdaa-262a-46ac-9f5c-06b3f20b4366

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_polygon_extreme_slopes
 -- name    : Formalism.HN.polygon_extreme_slopes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:47.918622+00:00
 -- url     : https://prove2.me/theorems/9c2ff070-4b9f-4917-9f5d-b7297a04342b

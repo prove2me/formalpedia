@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_fixedPoints_gal_eq_closure
 -- name    : GroundTheory.PAdicHodge.fixedPoints_gal_eq_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:46:37.807153+00:00
 -- url     : https://prove2.me/theorems/3466a386-7e39-47c0-be14-76d2947e2c26

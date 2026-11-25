@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_smooth_cutoff_compactSupport_L1_L2_real
 -- name    : Newton.smooth_cutoff_compactSupport_L1_L2_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:16:49.371542+00:00
 -- url     : https://prove2.me/theorems/e2e0bd30-bfb9-4212-9eb9-3af9461837cd

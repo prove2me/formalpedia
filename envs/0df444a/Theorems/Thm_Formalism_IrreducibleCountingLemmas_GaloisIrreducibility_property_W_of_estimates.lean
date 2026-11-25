@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_property_W_of_estimates
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.property_W_of_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:28.141717+00:00
 -- url     : https://prove2.me/theorems/6777759d-1928-4961-82aa-7f30b163eaf8

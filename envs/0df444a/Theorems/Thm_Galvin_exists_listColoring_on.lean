@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Galvin_exists_listColoring_on
 -- name    : Galvin.exists_listColoring_on
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:05:49.504472+00:00
 -- url     : https://prove2.me/theorems/bc505f5f-0b3e-48cf-bae9-e2f3a925780c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_sum_ramificationIdx_mul_inertiaDeg
 -- name    : GroundTheory.FunctionField.Place.sum_ramificationIdx_mul_inertiaDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:30:39.541036+00:00
 -- url     : https://prove2.me/theorems/14f4986b-f53f-4a39-a09e-f4f122e1510e

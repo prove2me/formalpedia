@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RealWeightedForms_first_polynomial_size
 -- name    : Formalism.FourierDecayAlt.P.RealWeightedForms.first_polynomial_size
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:18:59.346385+00:00
 -- url     : https://prove2.me/theorems/d50d500d-986c-4582-99a1-3b82a2882fab

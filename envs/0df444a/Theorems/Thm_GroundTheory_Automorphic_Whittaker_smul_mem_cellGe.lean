@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_smul_mem_cellGe
 -- name    : GroundTheory.Automorphic.Whittaker.smul_mem_cellGe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:22:39.83192+00:00
 -- url     : https://prove2.me/theorems/9be44151-2153-4ab7-8fdd-be0ac3c62720

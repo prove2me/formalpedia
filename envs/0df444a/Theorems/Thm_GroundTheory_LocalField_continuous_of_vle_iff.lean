@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_continuous_of_vle_iff
 -- name    : GroundTheory.LocalField.continuous_of_vle_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:15:04.151608+00:00
 -- url     : https://prove2.me/theorems/04a12a70-b366-4659-8aa4-974faaa8d440

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_Cm_add
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.Cm_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:27:37.924807+00:00
 -- url     : https://prove2.me/theorems/29d6668d-0d8b-44ef-a98d-0d329c06d48c

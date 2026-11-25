@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateAcyclic_free
 -- name    : GroundTheory.GroupCoh.tateAcyclic_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:43:11.394072+00:00
 -- url     : https://prove2.me/theorems/e92b24d7-1733-49a0-b8e7-fecdc88b89ac

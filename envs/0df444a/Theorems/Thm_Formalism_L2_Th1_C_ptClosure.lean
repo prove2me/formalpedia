@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_ptClosure
 -- name    : Formalism.L2.Th1.C.ptClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:27:05.725642+00:00
 -- url     : https://prove2.me/theorems/301909a0-f8e6-44e0-b1f2-03ea67be1468

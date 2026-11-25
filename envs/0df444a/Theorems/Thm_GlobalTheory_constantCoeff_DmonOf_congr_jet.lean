@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_constantCoeff_DmonOf_congr_jet
 -- name    : GlobalTheory.constantCoeff_DmonOf_congr_jet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:50:22.553363+00:00
 -- url     : https://prove2.me/theorems/9d43c37f-7a50-4543-9880-24be69623137

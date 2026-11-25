@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isLocallyGeneratedByNonZeroDivisor_monomialFactorIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.isLocallyGeneratedByNonZeroDivisor_monomialFactorIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:03:37.430023+00:00
 -- url     : https://prove2.me/theorems/9d56d4c7-3f6e-4767-a14c-e20158f75de3

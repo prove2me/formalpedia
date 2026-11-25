@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_rank_one_integration_formula
 -- name    : Formalism.FourierDecayAlt.P.rank_one_integration_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:39:38.700139+00:00
 -- url     : https://prove2.me/theorems/0edd75bd-424e-4e0c-b921-b0a5552032ad

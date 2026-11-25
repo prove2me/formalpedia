@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algebraMap_discr_eq_det_sq_of_equiv_algHom
 -- name    : GlobalTheory.algebraMap_discr_eq_det_sq_of_equiv_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:18:23.101306+00:00
 -- url     : https://prove2.me/theorems/5d4a3a6c-056d-444e-b38d-990b59384e80

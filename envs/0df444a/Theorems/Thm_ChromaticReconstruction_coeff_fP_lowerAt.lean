@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_coeff_fP_lowerAt
 -- name    : ChromaticReconstruction.coeff_fP_lowerAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:33:22.476854+00:00
 -- url     : https://prove2.me/theorems/930beeba-621a-4aae-adb4-0700e0844751

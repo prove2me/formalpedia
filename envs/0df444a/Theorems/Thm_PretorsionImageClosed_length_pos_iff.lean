@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_length_pos_iff
 -- name    : PretorsionImageClosed.length_pos_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:09:19.014136+00:00
 -- url     : https://prove2.me/theorems/c59d10da-178e-48fe-a72b-4d98841115b5

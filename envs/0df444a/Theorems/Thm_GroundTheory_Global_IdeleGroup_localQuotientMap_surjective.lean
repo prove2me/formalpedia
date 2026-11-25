@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_localQuotientMap_surjective
 -- name    : GroundTheory.Global.IdeleGroup.localQuotientMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:13:37.921661+00:00
 -- url     : https://prove2.me/theorems/6ba3e70b-2ec0-4eb6-8f3d-f42525ac91eb

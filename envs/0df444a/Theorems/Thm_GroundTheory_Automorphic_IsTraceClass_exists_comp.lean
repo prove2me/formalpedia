@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsTraceClass_exists_comp
 -- name    : GroundTheory.Automorphic.IsTraceClass.exists_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:35:49.646263+00:00
 -- url     : https://prove2.me/theorems/82d832ab-d2fa-4cb3-baa2-3a42385c3790

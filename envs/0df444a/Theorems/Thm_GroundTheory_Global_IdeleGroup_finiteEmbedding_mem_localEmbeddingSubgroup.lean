@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_finiteEmbedding_mem_localEmbeddingSubgroup
 -- name    : GroundTheory.Global.IdeleGroup.finiteEmbedding_mem_localEmbeddingSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:17:48.080835+00:00
 -- url     : https://prove2.me/theorems/07e38e69-d8eb-4214-a6b0-d483d4772017

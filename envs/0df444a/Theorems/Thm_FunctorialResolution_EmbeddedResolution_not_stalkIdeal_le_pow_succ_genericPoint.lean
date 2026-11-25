@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_not_stalkIdeal_le_pow_succ_genericPoint
 -- name    : FunctorialResolution.EmbeddedResolution.not_stalkIdeal_le_pow_succ_genericPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:57:55.497202+00:00
 -- url     : https://prove2.me/theorems/9437a3a4-72d4-4567-9335-7357b000dfec

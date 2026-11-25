@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_fold_poly
 -- name    : Formalism.FourierDecayAlt.P.Qx2.fold_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:19:46.77098+00:00
 -- url     : https://prove2.me/theorems/535e77fe-b94a-41e4-bffd-a486f489b669

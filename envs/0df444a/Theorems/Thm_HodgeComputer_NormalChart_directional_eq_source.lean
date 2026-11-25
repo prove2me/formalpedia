@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_NormalChart_directional_eq_source
 -- name    : HodgeComputer.NormalChart.directional_eq_source
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T10:35:28.033216+00:00
 -- url     : https://prove2.me/theorems/e57783ee-0500-4c84-a5cd-f3088eda127a

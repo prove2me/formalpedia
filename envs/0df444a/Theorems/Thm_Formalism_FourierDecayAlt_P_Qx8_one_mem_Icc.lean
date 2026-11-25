@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_one_mem_Icc
 -- name    : Formalism.FourierDecayAlt.P.Qx8.one_mem_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:28:18.055002+00:00
 -- url     : https://prove2.me/theorems/f5cedc60-1269-418d-882b-b9c0c65fd87d

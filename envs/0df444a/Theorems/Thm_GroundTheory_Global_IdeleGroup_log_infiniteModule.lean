@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_log_infiniteModule
 -- name    : GroundTheory.Global.IdeleGroup.log_infiniteModule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:18:22.365312+00:00
 -- url     : https://prove2.me/theorems/60844a04-d9d3-42ad-8bf5-01dc39380826

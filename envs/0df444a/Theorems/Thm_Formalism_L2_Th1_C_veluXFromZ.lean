@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_veluXFromZ
 -- name    : Formalism.L2.Th1.C.veluXFromZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:04.097423+00:00
 -- url     : https://prove2.me/theorems/6faa8896-5e72-40e5-aeea-e9165862f4f1

@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.rank_one_integration_formula
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T01:37:50.452994+00:00
+-- url     : https://prove2.me/submissions/2c75196e-5504-4de8-b1ff-486ef52b23b5
+
+import Definitions.Def_Formalism_HermitianCurvature_WeylElementCommutesLevelOne
+import Definitions.Def_Formalism_FormalDegreeBessel_FinalG
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ConjugationContinuousOnInvertible
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OppositeWeylSubgroupClosed
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_RankOneEmbeddings
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_TwoByOneBlock
+import Theorems.Thm_Formalism_FourierDecayAlt_P_unipotent_weyl_properties
+import Theorems.Thm_Formalism_FourierDecayAlt_P_hyperbolic_element_inverse
+import Theorems.Thm_Formalism_FourierDecayAlt_P_b2_rank_one_mem
+import Theorems.Thm_Formalism_FourierDecayAlt_P_b2_rank_one_coord
+import Theorems.Thm_Formalism_FourierDecayAlt_P_haar_measure_unique_up_to_scalar
+import Theorems.Thm_Formalism_FourierDecayAlt_P_opposite_weyl_subgroup_closed
+import Theorems.Thm_Formalism_FourierDecayAlt_P_rank_one_formula_of_parts
+import Theorems.Thm_Formalism_FourierDecayAlt_P_weyl_subgroup_closed
+import Theorems.Thm_Formalism_FourierDecayAlt_P_weyl_subgroup_compact
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix MeasureTheory Filter Topology
+open scoped ComplexConjugate ENNReal NNReal
+noncomputable section
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+namespace Formalism.FourierDecayAlt.P
+theorem _root_.solution : Formalism.FourierDecayAlt.B2.RankOneInt :=
+  rank_one_formula_of_parts haar_measure_unique_up_to_scalar opposite_weyl_subgroup_closed weyl_subgroup_closed weyl_subgroup_compact
+    unipotent_weyl_properties b2_rank_one_mem b2_rank_one_coord hyperbolic_element_inverse
+end Formalism.FourierDecayAlt.P

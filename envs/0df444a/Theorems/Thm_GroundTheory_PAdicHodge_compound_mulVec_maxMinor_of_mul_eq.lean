@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_compound_mulVec_maxMinor_of_mul_eq
 -- name    : GroundTheory.PAdicHodge.compound_mulVec_maxMinor_of_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:46:38.054299+00:00
 -- url     : https://prove2.me/theorems/c39b5647-fea4-4b9d-a5c8-451752926406

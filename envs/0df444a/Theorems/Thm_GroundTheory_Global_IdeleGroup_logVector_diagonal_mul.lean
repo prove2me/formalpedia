@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_logVector_diagonal_mul
 -- name    : GroundTheory.Global.IdeleGroup.logVector_diagonal_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:18:23.390668+00:00
 -- url     : https://prove2.me/theorems/3d741762-ac73-49b0-8690-ba9fa28d2f1f

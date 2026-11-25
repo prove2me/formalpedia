@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_coe_finprod_nnnorm
 -- name    : GroundTheory.Global.coe_finprod_nnnorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:26:27.527801+00:00
 -- url     : https://prove2.me/theorems/b8922bc6-9323-4545-ac13-ccf6fd7ef67d

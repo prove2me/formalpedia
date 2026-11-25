@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CompactRep_isWinProj_kProj
 -- name    : GroundTheory.Automorphic.CompactRep.isWinProj_kProj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:08:06.334588+00:00
 -- url     : https://prove2.me/theorems/5bf67503-a6a2-4d6a-bb91-39d6050d4a38

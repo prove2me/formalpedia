@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_NormalLatticeData_val_mul_mem
 -- name    : GroundTheory.LocalField.NormalLatticeData.val_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:14:49.752576+00:00
 -- url     : https://prove2.me/theorems/a63f82e7-9299-4253-a0a5-2847ed6fa10d

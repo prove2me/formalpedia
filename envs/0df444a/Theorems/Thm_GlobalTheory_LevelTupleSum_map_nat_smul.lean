@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelTupleSum_map_nat_smul
 -- name    : GlobalTheory.LevelTupleSum.map_nat_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:25:20.766774+00:00
 -- url     : https://prove2.me/theorems/1789471f-f5a4-497e-9c45-61f4f953a099

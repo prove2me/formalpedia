@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_NormalLatticeData_filt_zero
 -- name    : GroundTheory.LocalField.NormalLatticeData.filt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:13:54.410823+00:00
 -- url     : https://prove2.me/theorems/8b4eca89-d4f8-43b7-bb08-c3c238f1ea39

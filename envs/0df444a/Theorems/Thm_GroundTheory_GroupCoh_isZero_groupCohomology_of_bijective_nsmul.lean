@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_isZero_groupCohomology_of_bijective_nsmul
 -- name    : GroundTheory.GroupCoh.isZero_groupCohomology_of_bijective_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:43:04.491745+00:00
 -- url     : https://prove2.me/theorems/a9fb82b5-2df9-45ff-9d11-626aeafea79c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_real_core
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.real_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:35:13.273249+00:00
 -- url     : https://prove2.me/theorems/53cc80d8-61dd-4da0-a303-7dae0bc0d8ed

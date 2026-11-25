@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_traceNorm_adjoint
 -- name    : GroundTheory.Automorphic.traceNorm_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:11:47.344821+00:00
 -- url     : https://prove2.me/theorems/519da8f1-43d7-4cf3-8022-d95736ca9013

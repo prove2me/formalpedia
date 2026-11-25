@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_isRat_of_hankel_eventually_zero
 -- name    : GlobalTheory.Nef.isRat_of_hankel_eventually_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:02:02.016291+00:00
 -- url     : https://prove2.me/theorems/6d55628b-ea71-4186-ac69-7f9a427f7d04

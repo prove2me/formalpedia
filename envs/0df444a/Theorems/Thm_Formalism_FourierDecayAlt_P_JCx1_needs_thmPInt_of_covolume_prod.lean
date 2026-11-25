@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_needs_thmPInt_of_covolume_prod
 -- name    : Formalism.FourierDecayAlt.P.JCx1.needs.thmPInt_of_covolume_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:45:59.91905+00:00
 -- url     : https://prove2.me/theorems/b3927aae-be0e-41b2-a13a-ff5314f2f3b8

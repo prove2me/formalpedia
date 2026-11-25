@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__star_mem_integers_6f5fb9ce5b0a
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__star_mem_integers_6f5fb9ce5b0a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:59:09.564774+00:00
 -- url     : https://prove2.me/theorems/8dede8ce-d8a8-486e-88d6-874ba5af291c

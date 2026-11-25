@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_frameB_count_lt
 -- name    : Formalism.HN.frameB_count_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:34.794727+00:00
 -- url     : https://prove2.me/theorems/842aa339-948d-4b4d-bf9b-265195c74d0d

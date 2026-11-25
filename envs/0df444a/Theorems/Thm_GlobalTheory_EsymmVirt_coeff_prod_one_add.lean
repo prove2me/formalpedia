@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EsymmVirt_coeff_prod_one_add
 -- name    : GlobalTheory.EsymmVirt.coeff_prod_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:14:12.501977+00:00
 -- url     : https://prove2.me/theorems/d50c6f58-b7c2-4502-86ba-aaddf6db2a20

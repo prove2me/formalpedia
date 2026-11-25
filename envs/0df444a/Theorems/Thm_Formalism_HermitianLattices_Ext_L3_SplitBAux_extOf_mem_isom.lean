@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_SplitBAux_extOf_mem_isom
 -- name    : Formalism.HermitianLattices.Ext.L3.SplitBAux.extOf_mem_isom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:49:16.205359+00:00
 -- url     : https://prove2.me/theorems/55fb60a0-bfbb-48d0-bf7e-16075022a323

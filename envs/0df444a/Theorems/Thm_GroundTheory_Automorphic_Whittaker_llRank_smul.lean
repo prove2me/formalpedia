@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_llRank_smul
 -- name    : GroundTheory.Automorphic.Whittaker.llRank_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:41:43.50516+00:00
 -- url     : https://prove2.me/theorems/611bc4c4-998f-412e-829b-07dd9971ed48

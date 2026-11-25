@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GJMatrix_mixedFourierPiSchwartz_apply
 -- name    : GroundTheory.Automorphic.GJMatrix.mixedFourierPiSchwartz_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:55:58.557296+00:00
 -- url     : https://prove2.me/theorems/1dc1cbc9-728e-483d-810f-4f941aabefe4

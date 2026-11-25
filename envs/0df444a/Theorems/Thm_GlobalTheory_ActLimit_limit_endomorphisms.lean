@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ActLimit_limit_endomorphisms
 -- name    : GlobalTheory.ActLimit.limit_endomorphisms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:16:20.949554+00:00
 -- url     : https://prove2.me/theorems/6763d05e-241d-45b4-af8a-9e36770e4094

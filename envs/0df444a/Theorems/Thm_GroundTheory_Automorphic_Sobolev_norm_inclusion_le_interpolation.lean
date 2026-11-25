@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_norm_inclusion_le_interpolation
 -- name    : GroundTheory.Automorphic.Sobolev.norm_inclusion_le_interpolation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:56:27.489631+00:00
 -- url     : https://prove2.me/theorems/e2e326ac-238b-4180-a9c7-d9377a10c5ce

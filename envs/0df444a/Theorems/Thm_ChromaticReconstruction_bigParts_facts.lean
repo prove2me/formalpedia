@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_bigParts_facts
 -- name    : ChromaticReconstruction.bigParts_facts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:11:24.275807+00:00
 -- url     : https://prove2.me/theorems/0ebf6389-5ec4-464b-810a-1b1859adf8f7

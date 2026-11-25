@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Gadget_neighbor_b_iff
 -- name    : GalvinMultigraph.Gadget.neighbor_b_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:17:29.150329+00:00
 -- url     : https://prove2.me/theorems/2fe53c6d-5b7f-4bf4-b872-12ad10d4658f

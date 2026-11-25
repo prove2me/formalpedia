@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_FGModuleCat_hom_hom_sum
 -- name    : PretorsionImageClosed.FGModuleCat.hom_hom_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:14:53.691557+00:00
 -- url     : https://prove2.me/theorems/43e7c1c2-80dd-466d-a69b-374aeece972d

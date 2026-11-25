@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Galvin_adj_ends
 -- name    : Galvin.adj_ends
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:07:03.905714+00:00
 -- url     : https://prove2.me/theorems/bfcedc23-017a-4af4-aa12-a8d8a44002cf

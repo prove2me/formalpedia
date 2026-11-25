@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_measurableSet_valBall
 -- name    : GroundTheory.LocalField.measurableSet_valBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:27:00.367598+00:00
 -- url     : https://prove2.me/theorems/bf404c5a-c5ff-4cc4-b1db-0452c1308505

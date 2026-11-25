@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_length_le_of_mono
 -- name    : PretorsionImageClosed.length_le_of_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:11:57.082932+00:00
 -- url     : https://prove2.me/theorems/72bad9dc-5c95-4ab1-ab3a-d6c98a06f92f

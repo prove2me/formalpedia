@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AnisotropicColumnSums_sum_last
 -- name    : Formalism.FourierDecayAlt.P.AnisotropicColumnSums.sum_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:30:03.154476+00:00
 -- url     : https://prove2.me/theorems/a12e1b8d-f568-4ff5-8ca6-170602350c4a

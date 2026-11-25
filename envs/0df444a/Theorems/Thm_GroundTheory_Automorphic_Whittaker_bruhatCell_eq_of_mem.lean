@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_bruhatCell_eq_of_mem
 -- name    : GroundTheory.Automorphic.Whittaker.bruhatCell_eq_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:35:35.376545+00:00
 -- url     : https://prove2.me/theorems/804dc31c-17d9-4f99-bef0-4d72c840ebeb

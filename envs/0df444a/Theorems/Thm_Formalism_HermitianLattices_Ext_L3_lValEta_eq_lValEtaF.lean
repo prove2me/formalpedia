@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_lValEta_eq_lValEtaF
 -- name    : Formalism.HermitianLattices.Ext.L3.lValEta_eq_lValEtaF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:17:15.685392+00:00
 -- url     : https://prove2.me/theorems/d29c09fa-ddcc-4412-b7e4-3bfff516ca33

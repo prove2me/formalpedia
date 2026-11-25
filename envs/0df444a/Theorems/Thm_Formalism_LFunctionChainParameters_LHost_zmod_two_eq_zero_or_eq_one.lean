@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_zmod_two_eq_zero_or_eq_one
 -- name    : Formalism.LFunctionChainParameters.LHost.zmod_two_eq_zero_or_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:24:14.963535+00:00
 -- url     : https://prove2.me/theorems/1e158c8c-51f2-45aa-9535-f480e0992e78

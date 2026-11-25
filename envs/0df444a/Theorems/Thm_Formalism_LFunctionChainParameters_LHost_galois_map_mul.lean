@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_galois_map_mul
 -- name    : Formalism.LFunctionChainParameters.LHost.galois_map_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:24:10.987957+00:00
 -- url     : https://prove2.me/theorems/e78b640e-eba2-432a-82a5-0cec41e9638b

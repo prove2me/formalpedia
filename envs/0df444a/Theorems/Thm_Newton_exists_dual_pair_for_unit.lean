@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_exists_dual_pair_for_unit
 -- name    : Newton.exists_dual_pair_for_unit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:11:40.749695+00:00
 -- url     : https://prove2.me/theorems/91e8ad4f-065a-4847-9ff1-27820d9ccfd6

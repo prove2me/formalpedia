@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_measurableSet_fundamentalSet
 -- name    : GroundTheory.Global.measurableSet_fundamentalSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:15:19.205378+00:00
 -- url     : https://prove2.me/theorems/ac07c8af-3f3b-4fef-8b3c-2e75a6f4c56d

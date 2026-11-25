@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_sizeIneq
 -- name    : Formalism.HN.sizeIneq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:47.22779+00:00
 -- url     : https://prove2.me/theorems/a5fe0efb-86ba-4e1c-983f-f36274a6fc0b

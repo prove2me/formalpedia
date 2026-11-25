@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussian_tail_sum_le_of_min_norm_sq
 -- name    : GlobalTheory.gaussian_tail_sum_le_of_min_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:57:11.338067+00:00
 -- url     : https://prove2.me/theorems/af5d3b66-d26c-489a-9cb1-540fc27084b0

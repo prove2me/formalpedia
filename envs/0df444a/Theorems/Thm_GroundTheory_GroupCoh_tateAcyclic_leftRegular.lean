@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateAcyclic_leftRegular
 -- name    : GroundTheory.GroupCoh.tateAcyclic_leftRegular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:43:02.646333+00:00
 -- url     : https://prove2.me/theorems/5b7ed886-b66e-4648-8fea-fe13f37cf296

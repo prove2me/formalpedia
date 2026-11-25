@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Gadget_index_injective_left
 -- name    : GalvinMultigraph.Gadget.index_injective_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:17:33.375366+00:00
 -- url     : https://prove2.me/theorems/105e8fb8-7e28-4fd6-8ded-c6f1244d3ca6

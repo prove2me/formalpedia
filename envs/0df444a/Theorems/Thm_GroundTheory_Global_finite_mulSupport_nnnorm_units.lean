@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finite_mulSupport_nnnorm_units
 -- name    : GroundTheory.Global.finite_mulSupport_nnnorm_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:13:48.20595+00:00
 -- url     : https://prove2.me/theorems/33f0eb45-a34b-4120-9c7f-d9d3761383a3

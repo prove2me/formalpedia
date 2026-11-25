@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_univConv
 -- name    : GlobalTheory.PowGerm.univConv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:55:28.668673+00:00
 -- url     : https://prove2.me/theorems/fe23840f-dc67-49b0-aebe-e90911a20168

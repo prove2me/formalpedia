@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_Vizing_PEC_IsFan_length_le
 -- name    : LeanPool.Vizing.PEC.IsFan.length_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:02:37.1277+00:00
 -- url     : https://prove2.me/theorems/d86a44ee-0937-480d-88e4-42f2a84f4a80

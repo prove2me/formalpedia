@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Galvin_gale_shapley
 -- name    : Galvin.gale_shapley
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:17:44.716389+00:00
 -- url     : https://prove2.me/theorems/48603126-315e-435c-aebf-205440f31b5e

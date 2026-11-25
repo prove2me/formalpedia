@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_apply_single_fixed
 -- name    : GroundTheory.Automorphic.RestrictedTensor.apply_single_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:57:22.141965+00:00
 -- url     : https://prove2.me/theorems/5159635c-7d1c-4932-9520-9f3763df0b1a

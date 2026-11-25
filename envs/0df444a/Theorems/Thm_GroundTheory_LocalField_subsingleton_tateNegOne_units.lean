@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_subsingleton_tateNegOne_units
 -- name    : GroundTheory.LocalField.subsingleton_tateNegOne_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:44:54.845863+00:00
 -- url     : https://prove2.me/theorems/a800cb86-1eed-46bb-99b4-1035cd366f72

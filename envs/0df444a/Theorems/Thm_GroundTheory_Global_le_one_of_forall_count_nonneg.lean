@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_le_one_of_forall_count_nonneg
 -- name    : GroundTheory.Global.le_one_of_forall_count_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:14:14.749089+00:00
 -- url     : https://prove2.me/theorems/a60eb04d-3fc9-4ef3-945b-e4017a53fa86

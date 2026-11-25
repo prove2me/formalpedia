@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_kodairaSpencer_matrix_linear_in_derivation
 -- name    : GlobalTheory.T.kodairaSpencer_matrix_linear_in_derivation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:27:40.074194+00:00
 -- url     : https://prove2.me/theorems/0005cfe8-0896-4326-96de-cd0f9097deaa

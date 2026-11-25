@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_psum_singleton
 -- name    : ChromaticReconstruction.psum_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:37:03.234256+00:00
 -- url     : https://prove2.me/theorems/67cdd9fd-d7e5-4daf-93d3-ab01901c4f8e

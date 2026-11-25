@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_NormalChart_residue_eq_divergenceNumerator
 -- name    : HodgeComputer.NormalChart.residue_eq_divergenceNumerator
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T10:35:30.304823+00:00
 -- url     : https://prove2.me/theorems/62947c37-4006-4f23-bc17-d2fc4dd9d92d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_component_ne_zero
 -- name    : GroundTheory.Global.IdeleGroup.component_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:17:54.620584+00:00
 -- url     : https://prove2.me/theorems/6ddcfc2c-9479-42b1-986d-ad4a6d1b468c

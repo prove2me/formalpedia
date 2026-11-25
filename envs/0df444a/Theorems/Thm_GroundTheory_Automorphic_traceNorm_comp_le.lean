@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_traceNorm_comp_le
 -- name    : GroundTheory.Automorphic.traceNorm_comp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:11:25.461199+00:00
 -- url     : https://prove2.me/theorems/8c50e6d3-e23e-49f6-a1a5-408451c11f6c

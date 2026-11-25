@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_abs_primeIdealZetaSum_add_log_le
 -- name    : GroundTheory.Global.exists_abs_primeIdealZetaSum_add_log_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:56:55.354876+00:00
 -- url     : https://prove2.me/theorems/b6f74e91-6182-4d21-a82c-cd00fe336407

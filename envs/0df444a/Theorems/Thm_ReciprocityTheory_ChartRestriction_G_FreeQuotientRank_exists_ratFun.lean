@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_exists_ratFun
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.exists_ratFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:29:10.204941+00:00
 -- url     : https://prove2.me/theorems/1042902d-5357-4b44-aea2-50d82bf6e2fb

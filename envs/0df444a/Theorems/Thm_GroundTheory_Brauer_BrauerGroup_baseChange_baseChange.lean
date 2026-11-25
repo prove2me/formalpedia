@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_BrauerGroup_baseChange_baseChange
 -- name    : GroundTheory.Brauer.BrauerGroup.baseChange_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:11:57.798176+00:00
 -- url     : https://prove2.me/theorems/d379e56c-88ba-4a08-a697-b028892b1efa

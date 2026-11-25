@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_NormalLatticeData_val_injective
 -- name    : GroundTheory.LocalField.NormalLatticeData.val_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:15:15.558944+00:00
 -- url     : https://prove2.me/theorems/d51466ca-e9b6-4114-b9ca-530759619f70

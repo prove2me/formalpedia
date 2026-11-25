@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_span_isomorphism_holds
 -- name    : Formalism.InvariantFactorPaths.PW.span_isomorphism_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:07:00.566597+00:00
 -- url     : https://prove2.me/theorems/aa41dd8b-6e87-4fd5-956e-31639ffde095

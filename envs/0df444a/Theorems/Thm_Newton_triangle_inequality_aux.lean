@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_triangle_inequality_aux
 -- name    : Newton.triangle_inequality_aux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:15:13.908387+00:00
 -- url     : https://prove2.me/theorems/5b2b0702-63a7-42c6-9202-a33c3c7214ec

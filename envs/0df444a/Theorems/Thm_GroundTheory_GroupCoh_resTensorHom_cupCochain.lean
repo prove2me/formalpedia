@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_resTensorHom_cupCochain
 -- name    : GroundTheory.GroupCoh.resTensorHom_cupCochain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:13:08.671643+00:00
 -- url     : https://prove2.me/theorems/1511e08d-c580-4d1d-b6a0-e663fae2c2b1

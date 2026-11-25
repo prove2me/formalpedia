@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_ExpansionTerms_component_total_sixty_four
 -- name    : Formalism.HermitianLatticeCounting.Final.ExpansionTerms.component_total_sixty_four
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:56.159807+00:00
 -- url     : https://prove2.me/theorems/85c0ab86-8f68-4ea4-b584-1a597c5c74a5

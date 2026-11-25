@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_orthogonalProjection_mem_intertwiners
 -- name    : GroundTheory.Automorphic.UnitaryRep.orthogonalProjection_mem_intertwiners
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:05:09.643531+00:00
 -- url     : https://prove2.me/theorems/fca15d69-e405-4aa0-b624-e00b37d3311a

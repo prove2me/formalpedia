@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_smul_integralFiniteAdeles_of_forall
 -- name    : GroundTheory.Global.smul_integralFiniteAdeles_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:14:46.552897+00:00
 -- url     : https://prove2.me/theorems/3ba0b35d-ed4c-49c3-8d14-6e4e3253751e

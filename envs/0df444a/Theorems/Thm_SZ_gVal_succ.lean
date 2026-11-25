@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_gVal_succ
 -- name    : SZ.gVal_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:12:42.817062+00:00
 -- url     : https://prove2.me/theorems/4b6c5e1f-0e1d-49d2-ae24-e7402047104c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_leftTranslate_smooth_commute_leftInvariantOps
 -- name    : GlobalTheory.T.leftTranslate_smooth_commute_leftInvariantOps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:04:47.298172+00:00
 -- url     : https://prove2.me/theorems/6b970704-f4d4-49b4-8afc-0c7f6d4e768e

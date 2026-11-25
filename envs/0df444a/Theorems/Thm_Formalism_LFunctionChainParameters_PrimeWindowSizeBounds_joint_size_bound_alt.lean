@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_joint_size_bound_alt
 -- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.joint_size_bound_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:02.535842+00:00
 -- url     : https://prove2.me/theorems/f8f2bf8a-b7b0-4f49-9eb8-399de62ff3bf

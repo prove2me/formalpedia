@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralRepresentation_reApplyInnerSelf_mono
 -- name    : SpectralRepresentation.reApplyInnerSelf_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:17:21.404016+00:00
 -- url     : https://prove2.me/theorems/95cd6916-52ab-4fbd-be0b-093ff7037ddc

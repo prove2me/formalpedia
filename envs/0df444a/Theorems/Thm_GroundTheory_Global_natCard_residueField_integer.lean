@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_natCard_residueField_integer
 -- name    : GroundTheory.Global.natCard_residueField_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:24:36.937969+00:00
 -- url     : https://prove2.me/theorems/b6b29b0f-b4f1-4156-a41d-61473b53f344

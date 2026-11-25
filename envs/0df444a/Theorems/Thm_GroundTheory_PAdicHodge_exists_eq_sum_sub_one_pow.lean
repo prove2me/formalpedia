@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_eq_sum_sub_one_pow
 -- name    : GroundTheory.PAdicHodge.exists_eq_sum_sub_one_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:46:58.890798+00:00
 -- url     : https://prove2.me/theorems/52919729-f735-4257-b3e8-0cfe2b1dd90e

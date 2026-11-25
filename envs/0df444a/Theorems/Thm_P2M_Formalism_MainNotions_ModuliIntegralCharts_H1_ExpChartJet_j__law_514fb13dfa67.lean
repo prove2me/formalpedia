@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpChartJet_j__law_514fb13dfa67
 -- name    : P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpChartJet_j__law_514fb13dfa67
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:59:36.981527+00:00
 -- url     : https://prove2.me/theorems/113d07b8-67ed-4ca1-bca1-714622605437

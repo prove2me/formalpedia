@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Konig_exists_total_of_bipartite
 -- name    : Konig.exists_total_of_bipartite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:12:12.307202+00:00
 -- url     : https://prove2.me/theorems/faa36680-2c29-4746-8e2f-9539df51b5bc

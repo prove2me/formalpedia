@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Konig_exists_free_of_none
 -- name    : Konig.exists_free_of_none
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:09:50.395601+00:00
 -- url     : https://prove2.me/theorems/eed36080-e948-4595-bcab-d8ebad0937e3

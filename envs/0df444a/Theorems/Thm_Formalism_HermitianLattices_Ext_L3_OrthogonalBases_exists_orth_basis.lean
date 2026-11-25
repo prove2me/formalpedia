@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_OrthogonalBases_exists_orth_basis
 -- name    : Formalism.HermitianLattices.Ext.L3.OrthogonalBases.exists_orth_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:27.528222+00:00
 -- url     : https://prove2.me/theorems/d5e233cb-1f7f-4820-8e81-f3bfcfd768ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_vol_crude
 -- name    : Formalism.FourierDecayAlt.P.HaarUniquenessConjugation.vol_crude
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:16:39.921579+00:00
 -- url     : https://prove2.me/theorems/c833a374-4ec7-4635-979e-05136b2c1e1b

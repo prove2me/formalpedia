@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_tendsto_sum_inner_avgVec
 -- name    : GroundTheory.Automorphic.tendsto_sum_inner_avgVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:17:23.610963+00:00
 -- url     : https://prove2.me/theorems/9cfaa87c-c436-4b96-90be-086d48144276

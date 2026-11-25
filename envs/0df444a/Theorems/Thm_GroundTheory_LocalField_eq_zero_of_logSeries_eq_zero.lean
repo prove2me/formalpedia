@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_eq_zero_of_logSeries_eq_zero
 -- name    : GroundTheory.LocalField.eq_zero_of_logSeries_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:26:31.226673+00:00
 -- url     : https://prove2.me/theorems/38d6ece6-8f7e-4e62-9a94-b369cba60d60

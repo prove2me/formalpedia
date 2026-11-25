@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_baseChangeMap_add
 -- name    : GlobalTheory.PDivGroup.baseChangeMap_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:29:16.584902+00:00
 -- url     : https://prove2.me/theorems/f016daa9-5ced-4026-9014-0170207dc5d6

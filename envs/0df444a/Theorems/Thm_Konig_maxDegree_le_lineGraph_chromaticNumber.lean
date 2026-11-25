@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Konig_maxDegree_le_lineGraph_chromaticNumber
 -- name    : Konig.maxDegree_le_lineGraph_chromaticNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:15:13.909083+00:00
 -- url     : https://prove2.me/theorems/ac876734-bfdd-40e2-98b9-d125bbf50bea

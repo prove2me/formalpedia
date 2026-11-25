@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_coeff_le_one
 -- name    : GroundTheory.PAdicHodge.norm_coeff_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:47:23.088794+00:00
 -- url     : https://prove2.me/theorems/158e9398-8e12-4d8f-978f-fbf6a8a75b7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_resTensorHom_tmul
 -- name    : GroundTheory.GroupCoh.resTensorHom_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:13:29.551638+00:00
 -- url     : https://prove2.me/theorems/a810d71f-a35b-4bf1-a954-7d7ac9f1b3d4

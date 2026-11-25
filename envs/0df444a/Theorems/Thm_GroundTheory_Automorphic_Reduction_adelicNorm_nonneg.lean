@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_adelicNorm_nonneg
 -- name    : GroundTheory.Automorphic.Reduction.adelicNorm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:09:22.78855+00:00
 -- url     : https://prove2.me/theorems/03b1e688-95c5-4020-8052-62c6dd402f4f

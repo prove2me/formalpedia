@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_conjugate_word_eigen
 -- name    : Formalism.FourierDecayAlt.P.conjugate_word_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:55:18.352844+00:00
 -- url     : https://prove2.me/theorems/5bbbb55f-41e8-470b-9d17-983e0a9032f3

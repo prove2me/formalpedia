@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_exists_degree_iff_of_iso
 -- name    : ChromaticReconstruction.exists_degree_iff_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:54:05.365526+00:00
 -- url     : https://prove2.me/theorems/8b80694e-50e6-40d6-bdca-6b90cdc7cae2

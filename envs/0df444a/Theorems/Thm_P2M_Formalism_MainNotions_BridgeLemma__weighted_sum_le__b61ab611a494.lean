@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__weighted_sum_le__b61ab611a494
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__weighted_sum_le__b61ab611a494
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:07:28.667433+00:00
 -- url     : https://prove2.me/theorems/5b50f220-75e5-41c1-8d3d-ee2358cbf036

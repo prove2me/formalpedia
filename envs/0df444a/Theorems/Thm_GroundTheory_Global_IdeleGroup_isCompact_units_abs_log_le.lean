@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_isCompact_units_abs_log_le
 -- name    : GroundTheory.Global.IdeleGroup.isCompact_units_abs_log_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:13:03.047955+00:00
 -- url     : https://prove2.me/theorems/020ee3f3-552b-4bca-8a48-e559beb259de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_muDef_line
 -- name    : Formalism.ExtensionFiltration.muDef_line
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:51.870197+00:00
 -- url     : https://prove2.me/theorems/d4de3ade-d738-454a-8696-ce8d020fc327

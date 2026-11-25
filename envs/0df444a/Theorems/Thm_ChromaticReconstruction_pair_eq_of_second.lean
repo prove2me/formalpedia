@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_pair_eq_of_second
 -- name    : ChromaticReconstruction.pair_eq_of_second
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:53:19.486882+00:00
 -- url     : https://prove2.me/theorems/a9475f82-474d-4cc5-98a6-68f61fb19090

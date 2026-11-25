@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_fglChord
 -- name    : Formalism.L2.Th1.A.fglChord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:19:21.024031+00:00
 -- url     : https://prove2.me/theorems/b44c80e9-d7b4-4db8-8703-87482563133d

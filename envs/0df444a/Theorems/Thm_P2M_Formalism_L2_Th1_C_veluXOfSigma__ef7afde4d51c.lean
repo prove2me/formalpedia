@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_C_veluXOfSigma__ef7afde4d51c
 -- name    : P2M_Formalism_L2_Th1_C_veluXOfSigma__ef7afde4d51c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:58:15.07123+00:00
 -- url     : https://prove2.me/theorems/1a973a5b-4fcd-476e-917d-f4129c19d534

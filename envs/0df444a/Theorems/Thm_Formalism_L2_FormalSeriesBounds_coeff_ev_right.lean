@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_coeff_ev_right
 -- name    : Formalism.L2.FormalSeriesBounds.coeff_ev_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:47:40.513642+00:00
 -- url     : https://prove2.me/theorems/9438e568-a334-4e5f-ac5f-c62b0479e0b9

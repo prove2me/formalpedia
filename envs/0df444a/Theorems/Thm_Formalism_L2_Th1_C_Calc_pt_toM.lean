@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Calc_pt_toM
 -- name    : Formalism.L2.Th1.C.Calc.pt_toM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:19:14.357827+00:00
 -- url     : https://prove2.me/theorems/9114054d-7efa-442f-bb7a-0a446122e31a

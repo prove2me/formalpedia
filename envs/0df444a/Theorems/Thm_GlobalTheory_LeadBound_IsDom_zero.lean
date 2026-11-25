@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeadBound_IsDom_zero
 -- name    : GlobalTheory.LeadBound.IsDom.zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:24:49.765958+00:00
 -- url     : https://prove2.me/theorems/fbf8fa19-0bba-41bb-a3ea-75712c0e1d2e

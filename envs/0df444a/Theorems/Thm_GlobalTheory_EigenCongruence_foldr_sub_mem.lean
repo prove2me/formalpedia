@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenCongruence_foldr_sub_mem
 -- name    : GlobalTheory.EigenCongruence.foldr_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:38:47.716945+00:00
 -- url     : https://prove2.me/theorems/a8b3f495-6773-4c22-9a4b-dbf59febe9ea

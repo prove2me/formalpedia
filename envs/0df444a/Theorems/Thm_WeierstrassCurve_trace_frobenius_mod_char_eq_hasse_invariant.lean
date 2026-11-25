@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeierstrassCurve_trace_frobenius_mod_char_eq_hasse_invariant
 -- name    : WeierstrassCurve.trace_frobenius_mod_char_eq_hasse_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-25T01:19:31.756357+00:00
 -- url     : https://prove2.me/theorems/a25e65c1-bc98-4637-b758-1bee8a67811b

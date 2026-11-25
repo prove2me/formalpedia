@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_modCharacter_eq_of_eqOn
 -- name    : GroundTheory.Global.Cyclotomic.modCharacter_eq_of_eqOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:18:43.9218+00:00
 -- url     : https://prove2.me/theorems/a4b1389f-41fd-45fb-b604-57945b45b99b

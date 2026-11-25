@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mem_finiteSingleUnits_smul_iff
 -- name    : GroundTheory.Global.mem_finiteSingleUnits_smul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:18:51.225286+00:00
 -- url     : https://prove2.me/theorems/b17de40d-7d3d-4cf7-b2cf-4f86f609dba4

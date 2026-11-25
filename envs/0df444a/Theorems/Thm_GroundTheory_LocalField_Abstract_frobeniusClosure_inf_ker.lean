@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_frobeniusClosure_inf_ker
 -- name    : GroundTheory.LocalField.Abstract.frobeniusClosure_inf_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:10:35.112915+00:00
 -- url     : https://prove2.me/theorems/775d6883-3443-4824-a907-0fa2bccc5f94

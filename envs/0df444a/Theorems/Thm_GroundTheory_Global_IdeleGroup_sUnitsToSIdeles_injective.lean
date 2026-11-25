@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_sUnitsToSIdeles_injective
 -- name    : GroundTheory.Global.IdeleGroup.sUnitsToSIdeles_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:18:42.707445+00:00
 -- url     : https://prove2.me/theorems/a84a0204-9eb8-41b3-8910-49c59bd2d8ce

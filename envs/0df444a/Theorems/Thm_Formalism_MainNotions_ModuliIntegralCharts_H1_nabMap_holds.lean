@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_nabMap_holds
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.nabMap_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:03:21.122105+00:00
 -- url     : https://prove2.me/theorems/31cfbf3f-c521-4558-b975-51dfc423192b

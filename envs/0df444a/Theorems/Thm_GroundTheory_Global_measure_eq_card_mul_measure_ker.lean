@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_measure_eq_card_mul_measure_ker
 -- name    : GroundTheory.Global.measure_eq_card_mul_measure_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:13:42.572247+00:00
 -- url     : https://prove2.me/theorems/4b401ca4-5276-49de-b364-80343b4eb5a3

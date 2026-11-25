@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_ExponentSetCounting_a3field_of_a2indep_of_a3one
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.ExponentSetCounting.a3field_of_a2indep_of_a3one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:41.233564+00:00
 -- url     : https://prove2.me/theorems/73480ef8-a7dd-4847-abec-41169cf14f30

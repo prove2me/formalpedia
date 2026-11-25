@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__exists_small_mem_fractional_ideal_90c2b6906406
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__exists_small_mem_fractional_ideal_90c2b6906406
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:59:20.408463+00:00
 -- url     : https://prove2.me/theorems/5df2db75-fd4b-435c-b88f-62237d89fe46

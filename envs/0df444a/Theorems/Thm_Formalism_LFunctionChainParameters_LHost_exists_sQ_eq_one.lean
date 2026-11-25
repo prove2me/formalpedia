@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_exists_sQ_eq_one
 -- name    : Formalism.LFunctionChainParameters.LHost.exists_sQ_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:24:26.821426+00:00
 -- url     : https://prove2.me/theorems/e7347fc9-f251-486a-b834-1a257ec08620

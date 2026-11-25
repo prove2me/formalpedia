@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_isTraceClass_integrated_restrict
 -- name    : GroundTheory.Automorphic.UnitaryRep.isTraceClass_integrated_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:51:54.124397+00:00
 -- url     : https://prove2.me/theorems/377ea897-9ad2-49d1-a0e7-05ae3b1a1c36

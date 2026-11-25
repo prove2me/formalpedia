@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_EqualChar_valuation_teichmullerHom
 -- name    : GroundTheory.LocalField.EqualChar.valuation_teichmullerHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:13:34.385165+00:00
 -- url     : https://prove2.me/theorems/7b9e83aa-c98d-44c8-b587-69dcc33ddcde

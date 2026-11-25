@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_norm_pow_totient_eq_zpow
 -- name    : GroundTheory.PAdicHodge.exists_norm_pow_totient_eq_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:46:31.334304+00:00
 -- url     : https://prove2.me/theorems/33f14f27-67ee-4c74-8e0b-59161608881c

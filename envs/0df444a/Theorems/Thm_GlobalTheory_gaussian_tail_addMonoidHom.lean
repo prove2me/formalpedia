@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussian_tail_addMonoidHom
 -- name    : GlobalTheory.gaussian_tail_addMonoidHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:57:22.531503+00:00
 -- url     : https://prove2.me/theorems/c65f18e1-0bad-417e-ae61-07beb14cdfe4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_lowerAt_inj
 -- name    : ChromaticReconstruction.lowerAt_inj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:33:26.271079+00:00
 -- url     : https://prove2.me/theorems/e7682bf3-84f6-4e20-87f8-3be9f0349010

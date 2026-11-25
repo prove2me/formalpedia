@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_Vizing_PEC_isFree_setEdge_of_ne
 -- name    : LeanPool.Vizing.PEC.isFree_setEdge_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:57:58.767933+00:00
 -- url     : https://prove2.me/theorems/fa25104d-0f8a-4b3a-8442-4efa364a5e8f

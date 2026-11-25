@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsUnramifiedSubextension_card_algEquiv
 -- name    : GroundTheory.LocalField.IsUnramifiedSubextension.card_algEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:18:41.197872+00:00
 -- url     : https://prove2.me/theorems/9a777474-c07b-4872-8456-0bb3dce566f1

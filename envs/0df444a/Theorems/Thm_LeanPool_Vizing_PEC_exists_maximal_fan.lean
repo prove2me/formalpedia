@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_Vizing_PEC_exists_maximal_fan
 -- name    : LeanPool.Vizing.PEC.exists_maximal_fan
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:03:27.105808+00:00
 -- url     : https://prove2.me/theorems/ec0c3149-ee90-4001-837f-c94418628817

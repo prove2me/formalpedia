@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_sum_parts_sub_one_add_card
 -- name    : ChromaticReconstruction.sum_parts_sub_one_add_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:10:15.972598+00:00
 -- url     : https://prove2.me/theorems/93c37de2-e20f-4457-bfe7-9b3bcc8d5783

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_jf_jConv_of_nnMaj
 -- name    : Formalism.FourierDecayAlt.P.jf_jConv_of_nnMaj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:35:01.706798+00:00
 -- url     : https://prove2.me/theorems/fe5a6bfc-9ab7-48c5-820d-c30255039d2f

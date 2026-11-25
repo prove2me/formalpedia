@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_size_maximal_slope
 -- name    : Formalism.HN.size_maximal_slope
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:03:35.013699+00:00
 -- url     : https://prove2.me/theorems/241fe227-0ddf-404b-97c6-60014e9a04ad

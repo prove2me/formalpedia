@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_wpODE
 -- name    : Formalism.L2.Th1.A.wpODE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:14:37.262244+00:00
 -- url     : https://prove2.me/theorems/c66b52cc-8988-4f82-b7ce-552f7fea2049

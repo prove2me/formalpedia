@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_epi_of_imageSubobject_eq_top
 -- name    : PretorsionImageClosed.epi_of_imageSubobject_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:14:59.52592+00:00
 -- url     : https://prove2.me/theorems/c835146e-b39e-4103-9271-f998dc8d734c

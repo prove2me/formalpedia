@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleMap_ideleMap_comp_infiniteEmbedding
 -- name    : GroundTheory.Global.IdeleMap.ideleMap_comp_infiniteEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:18:56.05564+00:00
 -- url     : https://prove2.me/theorems/53c4b8bf-c8e5-440a-bdd2-bdebe6a93373

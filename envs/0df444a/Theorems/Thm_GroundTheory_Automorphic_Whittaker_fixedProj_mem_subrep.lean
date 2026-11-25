@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_fixedProj_mem_subrep
 -- name    : GroundTheory.Automorphic.Whittaker.fixedProj_mem_subrep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:08:02.774995+00:00
 -- url     : https://prove2.me/theorems/fb7b550c-098d-44df-acb3-3c861762e697

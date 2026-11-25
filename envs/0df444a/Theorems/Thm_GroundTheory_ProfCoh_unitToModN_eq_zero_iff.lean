@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_unitToModN_eq_zero_iff
 -- name    : GroundTheory.ProfCoh.unitToModN_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:50:58.048061+00:00
 -- url     : https://prove2.me/theorems/3291e7c7-ab4e-451a-a473-788bda1d1207

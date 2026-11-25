@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisTrans_hFac_zero
 -- name    : GlobalTheory.SW.EisTrans.hFac_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:20:59.044188+00:00
 -- url     : https://prove2.me/theorems/f2e49dc0-80bd-4d51-a751-89555521a4e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_measure_smul_eq_distribHaarChar
 -- name    : GroundTheory.LocalField.measure_smul_eq_distribHaarChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:26:59.896683+00:00
 -- url     : https://prove2.me/theorems/69df13fb-01fd-4fac-93c8-cc3424afea10

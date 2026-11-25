@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_ringHom_OmS
 -- name    : GlobalTheory.existsUnique_ringHom_OmS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:28:03.349675+00:00
 -- url     : https://prove2.me/theorems/79ebdccd-199c-4680-bb6d-821f47282c37

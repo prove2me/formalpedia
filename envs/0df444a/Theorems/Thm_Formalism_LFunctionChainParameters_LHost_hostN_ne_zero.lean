@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_hostN_ne_zero
 -- name    : Formalism.LFunctionChainParameters.LHost.hostN_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:24:07.07936+00:00
 -- url     : https://prove2.me/theorems/1aed3360-dc3f-443b-adc0-efa128516157

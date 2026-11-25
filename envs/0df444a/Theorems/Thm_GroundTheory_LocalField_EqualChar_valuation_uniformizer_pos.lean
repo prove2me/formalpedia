@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_EqualChar_valuation_uniformizer_pos
 -- name    : GroundTheory.LocalField.EqualChar.valuation_uniformizer_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:13:47.271711+00:00
 -- url     : https://prove2.me/theorems/36f9f024-9842-4307-ad79-50dbea5ce3ca

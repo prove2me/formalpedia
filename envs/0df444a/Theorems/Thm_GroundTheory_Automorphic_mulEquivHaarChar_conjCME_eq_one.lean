@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_mulEquivHaarChar_conjCME_eq_one
 -- name    : GroundTheory.Automorphic.mulEquivHaarChar_conjCME_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:31:21.040275+00:00
 -- url     : https://prove2.me/theorems/1645c05e-8590-4d31-b0bc-f34ca41525f0

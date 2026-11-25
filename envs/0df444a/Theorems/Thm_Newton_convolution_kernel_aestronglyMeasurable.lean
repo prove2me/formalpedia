@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_convolution_kernel_aestronglyMeasurable
 -- name    : Newton.convolution_kernel_aestronglyMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:13:58.247863+00:00
 -- url     : https://prove2.me/theorems/343fa512-583a-4b32-8e43-1c76ad9fac32

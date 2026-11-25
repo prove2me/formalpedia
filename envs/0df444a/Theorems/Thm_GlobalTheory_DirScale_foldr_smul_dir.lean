@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DirScale_foldr_smul_dir
 -- name    : GlobalTheory.DirScale.foldr_smul_dir
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:52:05.553597+00:00
 -- url     : https://prove2.me/theorems/de8018cb-fc26-48f4-ad3f-60e77623397f

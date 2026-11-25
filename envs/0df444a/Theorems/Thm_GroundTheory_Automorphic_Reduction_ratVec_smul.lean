@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_ratVec_smul
 -- name    : GroundTheory.Automorphic.Reduction.ratVec_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:06:30.889275+00:00
 -- url     : https://prove2.me/theorems/728a3f41-cd43-4639-8506-cf77c6c40cb3

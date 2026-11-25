@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceInt_placeIdem
 -- name    : GlobalTheory.PlaceInt.placeIdem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:12:09.883378+00:00
 -- url     : https://prove2.me/theorems/3bcf8c6e-f344-4640-b3f8-2e04068e5e1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_nnnorm_integerUnitsToUnits
 -- name    : GroundTheory.Global.nnnorm_integerUnitsToUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:14:23.742422+00:00
 -- url     : https://prove2.me/theorems/1bd604a5-aa64-4997-ab09-538db84526d1

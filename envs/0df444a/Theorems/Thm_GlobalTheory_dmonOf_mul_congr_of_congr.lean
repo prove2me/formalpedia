@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dmonOf_mul_congr_of_congr
 -- name    : GlobalTheory.dmonOf_mul_congr_of_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:54:43.423643+00:00
 -- url     : https://prove2.me/theorems/693976b4-7e15-4e19-a29c-d62d6fd9e45a

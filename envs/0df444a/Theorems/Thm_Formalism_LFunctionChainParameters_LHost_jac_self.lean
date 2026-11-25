@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_jac_self
 -- name    : Formalism.LFunctionChainParameters.LHost.jac_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:24:22.15202+00:00
 -- url     : https://prove2.me/theorems/bdfbf96a-03fe-451a-888c-e66acb244963

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SmallOrderPrimeLosses_joint_core
 -- name    : Formalism.LFunctionChainParameters.SmallOrderPrimeLosses.joint_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:49:55.794849+00:00
 -- url     : https://prove2.me/theorems/3336c62a-da7a-4e81-ae13-2b5ddfdf3312

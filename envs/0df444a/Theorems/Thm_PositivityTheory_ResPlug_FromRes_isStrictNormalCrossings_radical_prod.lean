@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ResPlug_FromRes_isStrictNormalCrossings_radical_prod
 -- name    : PositivityTheory.ResPlug.FromRes.isStrictNormalCrossings_radical_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:04:50.504093+00:00
 -- url     : https://prove2.me/theorems/b5670ea9-edbc-4d14-b93d-d28db37b55b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_EqualChar_powerSeriesHom_C
 -- name    : GroundTheory.LocalField.EqualChar.powerSeriesHom_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:13:33.675865+00:00
 -- url     : https://prove2.me/theorems/8fdd45e7-2f37-4804-aad3-9845d03ddf2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_orth_antitone_7a7d283f0c36
 -- name    : P2M_GroundTheory_Heights__Theta_orth_antitone_7a7d283f0c36
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:29:38.651804+00:00
 -- url     : https://prove2.me/theorems/91fa7663-1710-4524-8e9b-32173f61de98

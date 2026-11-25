@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_index_range_powMonoidHom_eq_mul
 -- name    : GroundTheory.Global.index_range_powMonoidHom_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:41:18.652792+00:00
 -- url     : https://prove2.me/theorems/ed6814dd-e0bf-4655-a537-f05838669ab4

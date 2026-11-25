@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_norm_res_of_bijective
 -- name    : GroundTheory.GroupCoh.norm_res_of_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:26:32.963212+00:00
 -- url     : https://prove2.me/theorems/b251b08d-f33b-47a8-8a33-1ebdd518f802

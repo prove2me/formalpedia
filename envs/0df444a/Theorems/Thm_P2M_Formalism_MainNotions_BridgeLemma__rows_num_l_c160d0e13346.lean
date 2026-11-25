@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__rows_num_l_c160d0e13346
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__rows_num_l_c160d0e13346
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:59:07.651698+00:00
 -- url     : https://prove2.me/theorems/62c0d9e5-7f3d-4c33-bc0e-50a75c3451e3

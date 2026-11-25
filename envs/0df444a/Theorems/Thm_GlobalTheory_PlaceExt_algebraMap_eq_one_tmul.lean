@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceExt_algebraMap_eq_one_tmul
 -- name    : GlobalTheory.PlaceExt.algebraMap_eq_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:26:20.6248+00:00
 -- url     : https://prove2.me/theorems/46d8c7e5-fde1-4f80-b8ed-f29650821879

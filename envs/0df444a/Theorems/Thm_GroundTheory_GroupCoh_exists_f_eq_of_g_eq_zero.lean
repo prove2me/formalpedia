@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_exists_f_eq_of_g_eq_zero
 -- name    : GroundTheory.GroupCoh.exists_f_eq_of_g_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:12:53.926456+00:00
 -- url     : https://prove2.me/theorems/3232c914-d145-4d90-8409-44072a428fc8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_additiveSystem_generalLemma_all_orders
 -- name    : GlobalTheory.T.additiveSystem_generalLemma_all_orders
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:26:47.074834+00:00
 -- url     : https://prove2.me/theorems/2e925280-31e2-4dfd-b127-0f9f967ed3d4

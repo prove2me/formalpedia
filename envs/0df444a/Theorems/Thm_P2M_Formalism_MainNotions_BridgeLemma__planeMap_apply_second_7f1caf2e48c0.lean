@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__planeMap_apply_second_7f1caf2e48c0
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__planeMap_apply_second_7f1caf2e48c0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:59:58.445323+00:00
 -- url     : https://prove2.me/theorems/08f99345-c4f6-4cd1-8cc0-9ee2d94e1fcc

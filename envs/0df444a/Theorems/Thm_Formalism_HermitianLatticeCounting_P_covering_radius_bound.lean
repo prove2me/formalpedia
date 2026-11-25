@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_covering_radius_bound
 -- name    : Formalism.HermitianLatticeCounting.P.covering_radius_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:28:57.857797+00:00
 -- url     : https://prove2.me/theorems/9141bb0b-71c8-4233-9c97-5322e686e449

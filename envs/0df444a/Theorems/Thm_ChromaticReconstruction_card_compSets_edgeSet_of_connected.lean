@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_card_compSets_edgeSet_of_connected
 -- name    : ChromaticReconstruction.card_compSets_edgeSet_of_connected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:58:55.938973+00:00
 -- url     : https://prove2.me/theorems/b71ee025-1041-43fb-a544-50e74a75fc02

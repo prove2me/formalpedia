@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Two_tS_even
 -- name    : Formalism.L2.Th1.A.Two.tS_even
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:16.325177+00:00
 -- url     : https://prove2.me/theorems/05290a5c-7ba8-4b91-b231-46b262e6d728

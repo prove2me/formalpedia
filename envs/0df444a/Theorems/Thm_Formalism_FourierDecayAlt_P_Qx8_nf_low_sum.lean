@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_nf_low_sum
 -- name    : Formalism.FourierDecayAlt.P.Qx8.nf_low_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:29:46.087115+00:00
 -- url     : https://prove2.me/theorems/cbe46dff-3382-4174-a10f-d4ae7be0d652

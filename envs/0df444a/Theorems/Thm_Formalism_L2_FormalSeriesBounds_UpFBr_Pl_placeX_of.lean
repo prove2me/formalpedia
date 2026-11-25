@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_UpFBr_Pl_placeX_of
 -- name    : Formalism.L2.FormalSeriesBounds.UpFBr.Pl.placeX_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:47:10.436001+00:00
 -- url     : https://prove2.me/theorems/7f33a43c-091d-41dc-88d8-9f6577306605

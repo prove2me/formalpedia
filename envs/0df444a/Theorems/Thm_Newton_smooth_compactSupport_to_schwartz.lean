@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_smooth_compactSupport_to_schwartz
 -- name    : Newton.smooth_compactSupport_to_schwartz
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:03:24.591543+00:00
 -- url     : https://prove2.me/theorems/9ea138e2-9251-4ad8-9014-9c97b4371093

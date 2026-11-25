@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_dual_polygon_identity
 -- name    : Formalism.HN.dual_polygon_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:48:47.973613+00:00
 -- url     : https://prove2.me/theorems/d1f9f58f-6abc-4433-a1ac-122433ddfb9c

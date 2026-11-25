@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_not_upper_of_diag
 -- name    : GroundTheory.Automorphic.HarishChandra.not_upper_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:06:22.252695+00:00
 -- url     : https://prove2.me/theorems/b57f0acf-5866-4924-8894-102277cc40fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_ZSer_field_coeff
 -- name    : Formalism.L2.Th1.A.ZSer.field_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:11.803881+00:00
 -- url     : https://prove2.me/theorems/403dcd71-6e6a-460c-a6bd-65ca6c0edcb6

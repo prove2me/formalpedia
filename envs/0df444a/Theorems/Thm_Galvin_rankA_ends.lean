@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Galvin_rankA_ends
 -- name    : Galvin.rankA_ends
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:14:39.139212+00:00
 -- url     : https://prove2.me/theorems/6a392cad-ffff-4b77-9458-e255ebaf48d5

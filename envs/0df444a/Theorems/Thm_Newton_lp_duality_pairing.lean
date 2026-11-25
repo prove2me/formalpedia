@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_lp_duality_pairing
 -- name    : Newton.lp_duality_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:09:32.42513+00:00
 -- url     : https://prove2.me/theorems/0100f409-5c88-498b-a083-488a354b9af4

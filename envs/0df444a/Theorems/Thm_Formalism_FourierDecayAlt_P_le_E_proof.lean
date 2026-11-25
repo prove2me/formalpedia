@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_le_E_proof
 -- name    : Formalism.FourierDecayAlt.P.le_E_proof
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:59:52.431872+00:00
 -- url     : https://prove2.me/theorems/c9f6e703-bab6-4be7-a33e-a4a6c7f80932

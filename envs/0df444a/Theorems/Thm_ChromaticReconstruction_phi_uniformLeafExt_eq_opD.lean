@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_phi_uniformLeafExt_eq_opD
 -- name    : ChromaticReconstruction.phi_uniformLeafExt_eq_opD
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:33:53.398056+00:00
 -- url     : https://prove2.me/theorems/7d64e535-5109-4fc0-9fbb-5fffec986703

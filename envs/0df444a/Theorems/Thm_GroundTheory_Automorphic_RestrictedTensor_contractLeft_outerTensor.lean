@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_contractLeft_outerTensor
 -- name    : GroundTheory.Automorphic.RestrictedTensor.contractLeft_outerTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:16:09.866529+00:00
 -- url     : https://prove2.me/theorems/aa35de24-c60b-4664-8c23-093f11cf3ca1

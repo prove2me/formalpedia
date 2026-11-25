@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_llRank_eq_llRank_bruhatCell
 -- name    : GroundTheory.Automorphic.Whittaker.llRank_eq_llRank_bruhatCell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:40:58.864907+00:00
 -- url     : https://prove2.me/theorems/913c9981-d548-4213-b554-c155f375d70d

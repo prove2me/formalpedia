@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_isBasisOn_pullbackUnitApp
 -- name    : GroundTheory.Arith.SchemeCoh.isBasisOn_pullbackUnitApp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:38:23.449083+00:00
 -- url     : https://prove2.me/theorems/ff0843ae-d9fd-471f-98f0-f0712f527801

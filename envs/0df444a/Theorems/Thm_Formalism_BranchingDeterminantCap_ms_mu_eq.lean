@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_ms_mu_eq
 -- name    : Formalism.BranchingDeterminantCap.ms_mu_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:27:09.308806+00:00
 -- url     : https://prove2.me/theorems/c1f90b11-6feb-479e-93ef-47ae2541e9b2

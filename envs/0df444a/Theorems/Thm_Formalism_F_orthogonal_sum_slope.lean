@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_orthogonal_sum_slope
 -- name    : Formalism.F.orthogonal_sum_slope
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:26:23.167911+00:00
 -- url     : https://prove2.me/theorems/050c4b5f-ed42-47f8-ba20-46f349bcb957

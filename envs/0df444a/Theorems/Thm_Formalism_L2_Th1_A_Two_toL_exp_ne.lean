@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Two_toL_exp_ne
 -- name    : Formalism.L2.Th1.A.Two.toL_exp_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:16:57.848544+00:00
 -- url     : https://prove2.me/theorems/ec9c495d-0648-4332-abf4-979be1468d39

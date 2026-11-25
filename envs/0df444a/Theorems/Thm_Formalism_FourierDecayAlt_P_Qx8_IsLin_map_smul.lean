@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_IsLin_map_smul
 -- name    : Formalism.FourierDecayAlt.P.Qx8.IsLin.map_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:22:35.942028+00:00
 -- url     : https://prove2.me/theorems/c6873e22-b2b4-4b46-8042-16c5fc1eb93c

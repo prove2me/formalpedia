@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_IsotropicCounts_alphaL_eq_of_bridge
 -- name    : Formalism.HermitianLattices.Ext.L3.IsotropicCounts.alphaL_eq_of_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:44.986637+00:00
 -- url     : https://prove2.me/theorems/ef1bf185-fc51-41e4-a5cb-efeda4e0d3f0

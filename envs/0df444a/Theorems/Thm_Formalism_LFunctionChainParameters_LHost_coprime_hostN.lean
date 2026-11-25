@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_coprime_hostN
 -- name    : Formalism.LFunctionChainParameters.LHost.coprime_hostN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:24:09.38349+00:00
 -- url     : https://prove2.me/theorems/78e2adaf-8712-4716-a44a-f29b74d465ec

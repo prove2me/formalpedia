@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_scaled_mollifier_L1_norm_one
 -- name    : Newton.scaled_mollifier_L1_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:14:57.01912+00:00
 -- url     : https://prove2.me/theorems/1289a436-59ea-480d-b033-db62ff56da92

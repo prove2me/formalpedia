@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_eventually_norm_le_one
 -- name    : GroundTheory.Automorphic.Reduction.eventually_norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:17:12.570166+00:00
 -- url     : https://prove2.me/theorems/19b4995f-0906-466d-8a88-f9bcc13ca4b8

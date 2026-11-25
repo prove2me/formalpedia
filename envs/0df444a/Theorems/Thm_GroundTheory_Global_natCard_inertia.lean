@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_natCard_inertia
 -- name    : GroundTheory.Global.natCard_inertia
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:13:30.2143+00:00
 -- url     : https://prove2.me/theorems/e8e3a4dd-4d8e-44c2-9c12-ca44a7fbd0de

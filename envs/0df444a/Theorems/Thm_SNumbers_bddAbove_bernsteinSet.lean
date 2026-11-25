@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_bddAbove_bernsteinSet
 -- name    : SNumbers.bddAbove_bernsteinSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:56:21.60042+00:00
 -- url     : https://prove2.me/theorems/96941816-738e-4206-b474-739395209752

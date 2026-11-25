@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_pow_approx_cycl
 -- name    : GroundTheory.PAdicHodge.exists_pow_approx_cycl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:46:55.407688+00:00
 -- url     : https://prove2.me/theorems/1e7fc7ff-1823-4260-a8b9-f7ba4a5ab437

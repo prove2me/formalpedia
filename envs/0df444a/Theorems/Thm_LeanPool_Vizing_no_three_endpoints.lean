@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_Vizing_no_three_endpoints
 -- name    : LeanPool.Vizing.no_three_endpoints
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:59:50.265688+00:00
 -- url     : https://prove2.me/theorems/e62d6e85-9b69-44a3-90b1-22d6dd23790e

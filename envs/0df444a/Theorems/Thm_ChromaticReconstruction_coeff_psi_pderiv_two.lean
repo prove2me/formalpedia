@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_coeff_psi_pderiv_two
 -- name    : ChromaticReconstruction.coeff_psi_pderiv_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:23:51.623863+00:00
 -- url     : https://prove2.me/theorems/1852200a-4ab7-4a2a-8fd8-b4a06b228158

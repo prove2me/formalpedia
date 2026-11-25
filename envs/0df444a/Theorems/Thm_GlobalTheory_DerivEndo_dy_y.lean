@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerivEndo_dy_y
 -- name    : GlobalTheory.DerivEndo.dy_y
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:10:38.391222+00:00
 -- url     : https://prove2.me/theorems/eec9e956-bab0-493e-acc2-8e3e9a88f3c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_leftInvariantVectorFields_expCoords_smooth_frame
 -- name    : GlobalTheory.T.leftInvariantVectorFields_expCoords_smooth_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:55:15.370166+00:00
 -- url     : https://prove2.me/theorems/1d789c88-e209-427e-ae6c-48972caa2fd3

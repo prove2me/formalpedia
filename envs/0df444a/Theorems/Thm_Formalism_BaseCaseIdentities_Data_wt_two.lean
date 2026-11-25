@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_wt_two
 -- name    : Formalism.BaseCaseIdentities.Data.wt_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:45:45.120885+00:00
 -- url     : https://prove2.me/theorems/e633bae7-9b18-46e6-8050-1da9b72882ba

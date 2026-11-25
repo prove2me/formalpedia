@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_SG_Pf_G4_IsSD_exists_norm__3019c7167a34
 -- name    : P2M_Formalism_L2_SG_Pf_G4_IsSD_exists_norm__3019c7167a34
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:57:18.534223+00:00
 -- url     : https://prove2.me/theorems/1bd0873c-391b-4b6d-969a-efa3211049da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IsIndecomposableModule_eq_zero_or_eq_one_of_isIdempotentElem
 -- name    : PretorsionImageClosed.IsIndecomposableModule.eq_zero_or_eq_one_of_isIdempotentElem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:12:40.127313+00:00
 -- url     : https://prove2.me/theorems/4c793886-78f9-42d1-8f2d-2d23bf9be70c

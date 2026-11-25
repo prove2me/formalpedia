@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_gamma_integrality_of_contraction
 -- name    : Formalism.GM.gammaIntegralityLemmas.gamma_integrality_of_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:22:56.579368+00:00
 -- url     : https://prove2.me/theorems/efc30e46-3e79-4ebd-90ed-842e9e7094e9

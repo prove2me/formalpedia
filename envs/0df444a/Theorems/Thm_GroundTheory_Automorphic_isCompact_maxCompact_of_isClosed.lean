@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isCompact_maxCompact_of_isClosed
 -- name    : GroundTheory.Automorphic.isCompact_maxCompact_of_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:32:15.510661+00:00
 -- url     : https://prove2.me/theorems/394647fe-77c1-48d5-b00e-d353e6e3a1ce

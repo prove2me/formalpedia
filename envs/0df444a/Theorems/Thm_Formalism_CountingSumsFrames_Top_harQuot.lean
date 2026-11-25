@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_harQuot
 -- name    : Formalism.CountingSumsFrames.Top.harQuot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:35:45.206455+00:00
 -- url     : https://prove2.me/theorems/3a68f05f-65c1-4fa9-aea5-88f23b7a94bc

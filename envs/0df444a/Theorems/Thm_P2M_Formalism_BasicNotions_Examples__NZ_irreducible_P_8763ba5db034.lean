@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_irreducible_P_8763ba5db034
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_irreducible_P_8763ba5db034
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:53:02.072814+00:00
 -- url     : https://prove2.me/theorems/58f79bff-1c36-432c-b85d-e64c1822707d

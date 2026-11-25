@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_UnrAny_prod_integral
 -- name    : GlobalTheory.UnitLemma.UnrAny.prod_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:24:37.395809+00:00
 -- url     : https://prove2.me/theorems/d14c7a9b-0ac8-49ba-9bd8-d7304c25466b

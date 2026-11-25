@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelTupleSum_map_twentyfive
 -- name    : GlobalTheory.LevelTupleSum.map_twentyfive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:27:06.488057+00:00
 -- url     : https://prove2.me/theorems/fa59a32d-39ca-427f-96f6-ec2297967a9c

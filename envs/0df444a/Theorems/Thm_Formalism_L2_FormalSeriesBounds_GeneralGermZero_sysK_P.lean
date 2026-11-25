@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_GeneralGermZero_sysK_P
 -- name    : Formalism.L2.FormalSeriesBounds.GeneralGermZero.sysK_P
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:03:12.349045+00:00
 -- url     : https://prove2.me/theorems/aed3b5f2-4048-4e4f-a60d-6bb9a33014a4

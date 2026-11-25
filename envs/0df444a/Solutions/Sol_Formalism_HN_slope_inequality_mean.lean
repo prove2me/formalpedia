@@ -1,0 +1,42 @@
+-- Prove2me | solution 1 for Formalism.HN.slope_inequality_mean
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-25T01:34:00.853978+00:00
+-- url     : https://prove2.me/submissions/e4cacde6-d9f9-40c2-a0fc-b39c360aef77
+
+import Definitions.Def_Formalism_HarderNarasimhan_StatementPl
+import Definitions.Def_Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_SlopeIneq
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_TwistFinrankEq
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_RescaleCovol
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_ShiftInvariance
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_HNSlopes
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_MuChar
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_SlopeIneqMean
+import Theorems.Thm_Formalism_HN_slopeIneqMean_of
+import Theorems.Thm_Formalism_HN_place_lattice_structure
+import Theorems.Thm_Formalism_HN_polygon_slopes_characterization
+import Theorems.Thm_Formalism_HN_rescale_covolume_formula
+import Theorems.Thm_Formalism_HN_shiftInvariance_of
+import Theorems.Thm_Formalism_HN_slope_characterization
+import Theorems.Thm_Formalism_HN_slope_inequality_general
+import Theorems.Thm_Formalism_HN_twist_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Module NumberField
+noncomputable section
+open Formalism Formalism.HN
+namespace Formalism.HN
+theorem _root_.solution : SlopeIneqMean := by
+  exact slopeIneqMean_of (twist_of rescale_covolume_formula place_lattice_structure
+    (shiftInvariance_of slope_characterization slope_characterization polygon_slopes_characterization)) place_lattice_structure slope_inequality_general
+end Formalism.HN

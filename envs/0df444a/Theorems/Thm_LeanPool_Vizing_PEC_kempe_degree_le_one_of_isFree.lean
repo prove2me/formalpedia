@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_Vizing_PEC_kempe_degree_le_one_of_isFree
 -- name    : LeanPool.Vizing.PEC.kempe_degree_le_one_of_isFree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:02:20.965881+00:00
 -- url     : https://prove2.me/theorems/eb3911c1-7286-4565-850e-a743223c29c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_transport_first_level_holds
 -- name    : Formalism.L2.Th1.D.transport_first_level_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:59:35.327817+00:00
 -- url     : https://prove2.me/theorems/69356789-14b0-4ea9-90d3-3b2fcf51eb6c

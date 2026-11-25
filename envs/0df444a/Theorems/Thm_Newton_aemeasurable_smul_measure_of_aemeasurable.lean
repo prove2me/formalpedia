@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_aemeasurable_smul_measure_of_aemeasurable
 -- name    : Newton.aemeasurable_smul_measure_of_aemeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:14:33.259368+00:00
 -- url     : https://prove2.me/theorems/43501a44-8f88-42a1-bb69-41ac94df7842

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_psum_one_of_two_big
 -- name    : ChromaticReconstruction.psum_one_of_two_big
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:41:52.440515+00:00
 -- url     : https://prove2.me/theorems/73e85650-e134-441f-ba53-ba1bf7b9090a

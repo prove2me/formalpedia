@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_chC_val
 -- name    : Formalism.LFunctionChainParameters.LHost.chC_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:23:57.403893+00:00
 -- url     : https://prove2.me/theorems/bbcad007-8ee9-46cd-907c-bf1edce08bd8

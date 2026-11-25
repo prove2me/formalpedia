@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_modulus_one
 -- name    : GroundTheory.LocalField.modulus_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:27:06.488423+00:00
 -- url     : https://prove2.me/theorems/d68519d2-d059-48ea-aa18-bc6e72d159c6

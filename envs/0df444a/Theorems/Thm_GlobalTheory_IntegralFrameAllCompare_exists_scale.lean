@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralFrameAllCompare_exists_scale
 -- name    : GlobalTheory.IntegralFrameAllCompare.exists_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:06:23.829935+00:00
 -- url     : https://prove2.me/theorems/295ddb66-cb6c-4984-9852-c25794f4cd5b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_haarIntegers_integers
 -- name    : GroundTheory.LocalField.haarIntegers_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:27:15.919744+00:00
 -- url     : https://prove2.me/theorems/6bc1603a-a634-49e4-b7cb-09eaee52bd2f

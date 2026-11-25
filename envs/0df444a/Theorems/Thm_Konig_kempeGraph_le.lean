@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Konig_kempeGraph_le
 -- name    : Konig.kempeGraph_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:11:45.747264+00:00
 -- url     : https://prove2.me/theorems/17931599-3408-40ef-a887-002cac4c31ad

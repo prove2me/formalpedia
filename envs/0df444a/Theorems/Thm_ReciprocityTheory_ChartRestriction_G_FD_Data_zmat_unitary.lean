@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_zmat_unitary
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.zmat_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:22:13.078567+00:00
 -- url     : https://prove2.me/theorems/cf1bb2f3-7019-4070-bc6c-c72f589e3229

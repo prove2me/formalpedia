@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Gadget_columnEdge_injective
 -- name    : GalvinMultigraph.Gadget.columnEdge_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:17:00.079193+00:00
 -- url     : https://prove2.me/theorems/b64e1a47-b71c-4e68-a8bc-e6cd1caf34db

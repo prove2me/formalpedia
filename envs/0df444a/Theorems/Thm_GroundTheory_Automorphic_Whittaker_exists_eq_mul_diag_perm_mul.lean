@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_exists_eq_mul_diag_perm_mul
 -- name    : GroundTheory.Automorphic.Whittaker.exists_eq_mul_diag_perm_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:41:12.169783+00:00
 -- url     : https://prove2.me/theorems/2b49c8cf-73ff-4681-b8ef-e112015d2852

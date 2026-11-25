@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_lawExists
 -- name    : Formalism.InvariantFactorPaths.G7.Top.lawExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:18:08.550731+00:00
 -- url     : https://prove2.me/theorems/567435b6-6f05-4312-9df8-fce6806c1d2d

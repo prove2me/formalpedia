@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_natCard_conv_pts_eq
 -- name    : GlobalTheory.PDivGroup.natCard_conv_pts_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:54:58.436326+00:00
 -- url     : https://prove2.me/theorems/7e5b4648-008d-41e6-957c-61be62fad302

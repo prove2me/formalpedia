@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BCT_DimFac_contractLeft_map
 -- name    : GlobalTheory.BCT.DimFac.contractLeft_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:28:39.504772+00:00
 -- url     : https://prove2.me/theorems/63b81ead-516f-4e76-8adf-e3c5085c71ff

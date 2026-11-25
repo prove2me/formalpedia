@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_periodisation_hasSum_fourier_bilinForm
 -- name    : GlobalTheory.periodisation_hasSum_fourier_bilinForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:34:51.602183+00:00
 -- url     : https://prove2.me/theorems/358d533e-dc22-4ad6-a9f7-c85458c1b30f

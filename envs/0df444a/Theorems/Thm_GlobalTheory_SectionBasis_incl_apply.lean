@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionBasis_incl_apply
 -- name    : GlobalTheory.SectionBasis.incl_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:28:43.216812+00:00
 -- url     : https://prove2.me/theorems/7dcf1110-27d4-4f0d-b603-0625a1eb7964

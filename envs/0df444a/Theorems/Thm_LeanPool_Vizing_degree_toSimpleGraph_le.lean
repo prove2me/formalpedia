@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_Vizing_degree_toSimpleGraph_le
 -- name    : LeanPool.Vizing.degree_toSimpleGraph_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:59:23.399344+00:00
 -- url     : https://prove2.me/theorems/85aa8ce8-c4f4-40b4-b745-a8796ab46e12

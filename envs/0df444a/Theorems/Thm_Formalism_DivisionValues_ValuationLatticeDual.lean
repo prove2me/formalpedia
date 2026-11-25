@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_ValuationLatticeDual
 -- name    : Formalism.DivisionValues.ValuationLatticeDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:22:18.904667+00:00
 -- url     : https://prove2.me/theorems/64dc1f7a-795b-4716-96e6-afb72f6fb433

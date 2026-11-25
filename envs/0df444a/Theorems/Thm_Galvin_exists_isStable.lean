@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Galvin_exists_isStable
 -- name    : Galvin.exists_isStable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:37:47.634719+00:00
 -- url     : https://prove2.me/theorems/19677455-5dc9-4cd7-b3e1-9acd5bb2b381

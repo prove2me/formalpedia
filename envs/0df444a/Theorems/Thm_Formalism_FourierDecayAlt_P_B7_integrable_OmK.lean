@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_integrable_OmK
 -- name    : Formalism.FourierDecayAlt.P.B7.integrable_OmK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:18:27.15314+00:00
 -- url     : https://prove2.me/theorems/ed38e68b-7476-4f0a-b629-2583b5cf405f
