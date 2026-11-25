@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_ColGramPos_blkW_diag
 -- name    : GlobalTheory.IntBall.ColGramPos.blkW_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:45:34.214429+00:00
 -- url     : https://prove2.me/theorems/05c8c616-5bca-43e1-a2a4-e977625ff672

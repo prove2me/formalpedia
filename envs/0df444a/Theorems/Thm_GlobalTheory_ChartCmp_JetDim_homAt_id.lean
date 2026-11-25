@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_JetDim_homAt_id
 -- name    : GlobalTheory.ChartCmp.JetDim.homAt_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:35:54.432466+00:00
 -- url     : https://prove2.me/theorems/c2de4c9e-db00-5532-8e76-3bcbbc70fdff

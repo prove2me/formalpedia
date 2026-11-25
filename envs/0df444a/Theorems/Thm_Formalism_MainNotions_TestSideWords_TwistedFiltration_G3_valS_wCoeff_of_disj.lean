@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G3_valS_wCoeff_of_disj
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G3.valS_wCoeff_of_disj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:11:58.106349+00:00
 -- url     : https://prove2.me/theorems/c13f7fa6-8bbb-4b01-bc28-7a00b60b299a

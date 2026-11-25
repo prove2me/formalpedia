@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_phi_injective_multiplicityIsolated
 -- name    : ChromaticReconstruction.phi_injective_multiplicityIsolated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:23:07.784717+00:00
 -- url     : https://prove2.me/theorems/e691fa9b-a603-5a77-8a0f-5871b6762546

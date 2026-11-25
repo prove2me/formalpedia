@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_theta_quotient_regular
 -- name    : GlobalTheory.theta_quotient_regular
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:08.82345+00:00
 -- url     : https://prove2.me/theorems/06590dff-e991-4651-8856-63b93907a7f0

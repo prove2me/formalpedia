@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisTrans_hFac_inv_bound
 -- name    : GlobalTheory.SW.EisTrans.hFac_inv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:28:23.500358+00:00
 -- url     : https://prove2.me/theorems/353ed8c2-a4de-41b0-983d-35aa13aeee00

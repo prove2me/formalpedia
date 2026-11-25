@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_IsDelta_unique
 -- name    : PretorsionImageClosed.Statement.IsDelta.unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:07:33.42579+00:00
 -- url     : https://prove2.me/theorems/af962af3-6181-48a8-8660-65687b2efced

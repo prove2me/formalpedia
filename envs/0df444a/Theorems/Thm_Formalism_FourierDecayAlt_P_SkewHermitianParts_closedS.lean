@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SkewHermitianParts_closedS
 -- name    : Formalism.FourierDecayAlt.P.SkewHermitianParts.closedS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:15:47.817178+00:00
 -- url     : https://prove2.me/theorems/9d54006d-1324-52a2-9a30-a05c5d4c609f

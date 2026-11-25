@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_isPretorsionTheory_of_realization
 -- name    : PretorsionImageClosed.Statement.isPretorsionTheory_of_realization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:27:40.440957+00:00
 -- url     : https://prove2.me/theorems/6e43282f-00e7-5682-a563-a99456dcbdbc

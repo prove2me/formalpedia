@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_restrictedLattice_of_deg_zero
 -- name    : Formalism.InvariantFactorPaths.L4.restrictedLattice_of_deg_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:54:19.175644+00:00
 -- url     : https://prove2.me/theorems/a22b5ce2-1b9c-55bb-959a-51f2a503d473

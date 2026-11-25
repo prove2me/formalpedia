@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KronOff_eq_of_mem_satBall
 -- name    : GlobalTheory.KronOff.eq_of_mem_satBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:47:48.188894+00:00
 -- url     : https://prove2.me/theorems/236e1ba1-b46c-426d-8641-90b599c0246c

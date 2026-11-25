@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralRepresentation_stepDown_ramp_bound
 -- name    : SpectralRepresentation.stepDown_ramp_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:15:50.812117+00:00
 -- url     : https://prove2.me/theorems/69ec5bcc-ac5b-50a0-90fe-029bfb3d782a

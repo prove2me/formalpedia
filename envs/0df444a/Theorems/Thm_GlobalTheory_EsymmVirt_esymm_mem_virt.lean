@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EsymmVirt_esymm_mem_virt
 -- name    : GlobalTheory.EsymmVirt.esymm_mem_virt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:20:10.291012+00:00
 -- url     : https://prove2.me/theorems/90fc706a-8436-40ca-9b97-1995914bbd4c

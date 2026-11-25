@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonDomZero_exists_lt_lt_of_not_antitone
 -- name    : GlobalTheory.NonDomZero.exists_lt_lt_of_not_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:46:51.417552+00:00
 -- url     : https://prove2.me/theorems/75cf91d0-f07b-4f21-9ecd-0903d856a6de

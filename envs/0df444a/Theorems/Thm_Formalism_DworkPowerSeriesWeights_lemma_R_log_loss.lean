@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_lemma_R_log_loss
 -- name    : Formalism.DworkPowerSeriesWeights.lemma_R_log_loss
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:03:13.028709+00:00
 -- url     : https://prove2.me/theorems/34a1fe84-92fd-40fb-b34b-a70990665479

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_integrable_integral_fin_cons
 -- name    : GlobalTheory.HCA.integrable_integral_fin_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:44:14.017948+00:00
 -- url     : https://prove2.me/theorems/baf8ff83-a773-4c75-bfb1-480fb2952e0e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SigmaDefect_FK_unit_right
 -- name    : GlobalTheory.SigmaDefect.FK_unit_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:13:59.005879+00:00
 -- url     : https://prove2.me/theorems/66966abf-f504-467e-83b2-5c83fb993e9c

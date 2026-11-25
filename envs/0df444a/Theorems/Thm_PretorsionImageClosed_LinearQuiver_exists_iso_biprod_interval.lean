@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_exists_iso_biprod_interval
 -- name    : PretorsionImageClosed.LinearQuiver.exists_iso_biprod_interval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:26:28.081797+00:00
 -- url     : https://prove2.me/theorems/ae2b7538-843c-4e9c-81b9-5f8a1ff26591

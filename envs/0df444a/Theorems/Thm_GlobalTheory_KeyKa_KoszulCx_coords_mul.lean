@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_KoszulCx_coords_mul
 -- name    : GlobalTheory.KeyKa.KoszulCx.coords_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:44.466846+00:00
 -- url     : https://prove2.me/theorems/9e7ff7b4-bc3e-42ed-876e-49db7c1f5e3f

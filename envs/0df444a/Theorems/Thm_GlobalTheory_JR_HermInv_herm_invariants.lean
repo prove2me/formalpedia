@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HermInv_herm_invariants
 -- name    : GlobalTheory.JR.HermInv.herm_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:33:16.334524+00:00
 -- url     : https://prove2.me/theorems/c5c35f1f-19e2-49cf-b168-3e82edee51fa

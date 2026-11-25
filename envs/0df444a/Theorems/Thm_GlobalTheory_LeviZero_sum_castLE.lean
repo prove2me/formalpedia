@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeviZero_sum_castLE
 -- name    : GlobalTheory.LeviZero.sum_castLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:49:52.623104+00:00
 -- url     : https://prove2.me/theorems/50cfd1ae-7a85-463f-929a-45695ed633a2

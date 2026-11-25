@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_QuotSetU_expo_eq_zero_of_inW
 -- name    : CompanionTheory.D.Upq.QuotSetU.expo_eq_zero_of_inW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:42:55.266488+00:00
 -- url     : https://prove2.me/theorems/8b8cb71d-5013-44e1-85e3-1c38a4645b64

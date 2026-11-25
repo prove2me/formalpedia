@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_pIdx_units_of_isAdicComplete
 -- name    : GlobalTheory.CNorm.pIdx_units_of_isAdicComplete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:06:40.863844+00:00
 -- url     : https://prove2.me/theorems/fb90c38f-5330-4464-bb59-9fab8a26de66

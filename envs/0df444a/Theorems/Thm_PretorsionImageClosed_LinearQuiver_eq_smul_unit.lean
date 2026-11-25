@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_eq_smul_unit
 -- name    : PretorsionImageClosed.LinearQuiver.eq_smul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:02:15.850407+00:00
 -- url     : https://prove2.me/theorems/4c925a1b-cea9-54d4-b77a-a3b6f76390de

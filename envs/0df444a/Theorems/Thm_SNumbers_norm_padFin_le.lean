@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_norm_padFin_le
 -- name    : SNumbers.norm_padFin_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:24:46.411797+00:00
 -- url     : https://prove2.me/theorems/ac10ea52-bc3a-4d0b-8eb1-6ca80ae4a70c

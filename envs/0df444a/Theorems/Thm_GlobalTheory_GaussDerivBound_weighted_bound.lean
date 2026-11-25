@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussDerivBound_weighted_bound
 -- name    : GlobalTheory.GaussDerivBound.weighted_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:41:56.639041+00:00
 -- url     : https://prove2.me/theorems/ecd8b1f5-751f-4d7d-ba88-30439bd46b61

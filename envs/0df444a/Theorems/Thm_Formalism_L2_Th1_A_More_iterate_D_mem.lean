@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_More_iterate_D_mem
 -- name    : Formalism.L2.Th1.A.More.iterate_D_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:13:51.363495+00:00
 -- url     : https://prove2.me/theorems/6d6034f5-edc2-59dd-b1dd-2b939c418bba

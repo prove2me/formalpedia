@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weighted_lintegral_sobolev_pointwise
 -- name    : GlobalTheory.weighted_lintegral_sobolev_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:25:30.525418+00:00
 -- url     : https://prove2.me/theorems/88649140-9632-489a-88ba-48b033e72538

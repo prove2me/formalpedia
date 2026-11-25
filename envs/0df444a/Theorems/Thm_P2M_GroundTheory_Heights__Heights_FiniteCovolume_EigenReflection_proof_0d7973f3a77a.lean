@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_EigenReflection_proof_0d7973f3a77a
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_EigenReflection_proof_0d7973f3a77a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:45:01.082472+00:00
 -- url     : https://prove2.me/theorems/988dbda5-5d3c-41c1-aaa6-92c887048352

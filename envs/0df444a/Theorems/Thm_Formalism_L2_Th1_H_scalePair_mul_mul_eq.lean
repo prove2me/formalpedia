@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_scalePair_mul_mul_eq
 -- name    : Formalism.L2.Th1.H.scalePair_mul_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:56.03188+00:00
 -- url     : https://prove2.me/theorems/7774d105-f7e5-4638-8496-5ff4aadeec9c

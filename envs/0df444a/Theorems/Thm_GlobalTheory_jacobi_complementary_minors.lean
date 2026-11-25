@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_jacobi_complementary_minors
 -- name    : GlobalTheory.jacobi_complementary_minors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:02:39.448329+00:00
 -- url     : https://prove2.me/theorems/657089c1-afbc-407e-9bdb-95974eb56a95

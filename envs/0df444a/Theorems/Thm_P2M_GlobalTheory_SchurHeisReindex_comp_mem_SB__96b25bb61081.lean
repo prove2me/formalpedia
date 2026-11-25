@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SchurHeisReindex_comp_mem_SB__96b25bb61081
 -- name    : P2M_GlobalTheory_SchurHeisReindex_comp_mem_SB__96b25bb61081
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:08:55.429319+00:00
 -- url     : https://prove2.me/theorems/f88ab0f8-0560-47fb-a629-8ed8d2a4b8e1

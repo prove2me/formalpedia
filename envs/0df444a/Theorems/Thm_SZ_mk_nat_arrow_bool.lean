@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_mk_nat_arrow_bool
 -- name    : SZ.mk_nat_arrow_bool
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:25:10.969653+00:00
 -- url     : https://prove2.me/theorems/0f28eb86-0c7b-415b-8e6f-a1ed905f5c33

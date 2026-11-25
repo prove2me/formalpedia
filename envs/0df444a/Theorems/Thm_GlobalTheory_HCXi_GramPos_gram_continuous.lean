@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_GramPos_gram_continuous
 -- name    : GlobalTheory.HCXi.GramPos.gram_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:49:35.314961+00:00
 -- url     : https://prove2.me/theorems/237bc549-04c6-4c37-b144-45609dadd328

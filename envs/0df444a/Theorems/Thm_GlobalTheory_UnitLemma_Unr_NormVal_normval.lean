@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_NormVal_normval
 -- name    : GlobalTheory.UnitLemma.Unr.NormVal.normval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:36:51.978847+00:00
 -- url     : https://prove2.me/theorems/db576a5a-aa16-4139-9fbd-e3ae82cbb0f4

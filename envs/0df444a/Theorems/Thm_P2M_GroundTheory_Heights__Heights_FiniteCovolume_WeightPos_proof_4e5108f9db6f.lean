@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_WeightPos_proof_4e5108f9db6f
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_WeightPos_proof_4e5108f9db6f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:47:31.208428+00:00
 -- url     : https://prove2.me/theorems/aeb544c4-b365-48c8-bc95-09b852afa459

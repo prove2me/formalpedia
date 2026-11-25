@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_oneLetterR
 -- name    : Formalism.DworkPowerSeriesWeights.oneLetterR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:59:30.272956+00:00
 -- url     : https://prove2.me/theorems/bed9d74a-f01d-4b1f-95b6-855643b4291c

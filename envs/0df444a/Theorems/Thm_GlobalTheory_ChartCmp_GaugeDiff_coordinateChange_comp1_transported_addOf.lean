@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_GaugeDiff_coordinateChange_comp1_transported_addOf
 -- name    : GlobalTheory.ChartCmp.GaugeDiff.coordinateChange_comp1_transported_addOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:35:38.174036+00:00
 -- url     : https://prove2.me/theorems/33160c3c-dd41-5f14-a1da-e9638e678bed

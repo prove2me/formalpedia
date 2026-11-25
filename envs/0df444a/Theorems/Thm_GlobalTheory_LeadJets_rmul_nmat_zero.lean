@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeadJets_rmul_nmat_zero
 -- name    : GlobalTheory.LeadJets.rmul_nmat_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:48:05.348271+00:00
 -- url     : https://prove2.me/theorems/54acc3de-0fac-4b78-a712-fee27abe0f61

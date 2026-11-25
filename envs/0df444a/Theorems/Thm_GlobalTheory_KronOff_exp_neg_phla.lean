@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KronOff_exp_neg_phla
 -- name    : GlobalTheory.KronOff.exp_neg_phla
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:47:56.315798+00:00
 -- url     : https://prove2.me/theorems/274f5257-da5b-4367-9078-2533a6df0fde

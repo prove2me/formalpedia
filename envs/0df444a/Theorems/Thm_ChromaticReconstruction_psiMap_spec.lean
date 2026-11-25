@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_psiMap_spec
 -- name    : ChromaticReconstruction.psiMap_spec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:21:28.317241+00:00
 -- url     : https://prove2.me/theorems/443c50ba-0feb-4513-86b2-820d2d1c5ae1

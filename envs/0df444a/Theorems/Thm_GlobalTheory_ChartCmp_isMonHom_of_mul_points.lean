@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_isMonHom_of_mul_points
 -- name    : GlobalTheory.ChartCmp.isMonHom_of_mul_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:35:43.560338+00:00
 -- url     : https://prove2.me/theorems/6b89a01c-bfeb-504d-bfda-5066e5c171e4

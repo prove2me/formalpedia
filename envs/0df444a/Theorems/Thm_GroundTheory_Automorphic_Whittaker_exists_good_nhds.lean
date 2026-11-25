@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_exists_good_nhds
 -- name    : GroundTheory.Automorphic.Whittaker.exists_good_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:41:15.705571+00:00
 -- url     : https://prove2.me/theorems/cd7c3d13-b6c6-404a-93c1-1344a10f5787

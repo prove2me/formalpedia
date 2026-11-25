@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_binomClosed
 -- name    : Formalism.L2.Th1.C.binomClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:28:01.273879+00:00
 -- url     : https://prove2.me/theorems/0d9e70ee-d150-4d41-8332-fa83be7246f9

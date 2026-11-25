@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_continuous_hessC_1e95fbef5f3e
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_continuous_hessC_1e95fbef5f3e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:28:00.923721+00:00
 -- url     : https://prove2.me/theorems/9bc784cb-9455-4b98-be21-57b093e62376

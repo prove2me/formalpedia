@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_constsExist
 -- name    : Formalism.LFunctionChainParameters.LChain2.constsExist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:41:39.184116+00:00
 -- url     : https://prove2.me/theorems/b49968b7-b1a5-5202-8e66-a1b0669a26f5

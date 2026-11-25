@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_reject_le_kernelSubobject
 -- name    : PretorsionImageClosed.Statement.Subcategory.reject_le_kernelSubobject
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:27:14.58633+00:00
 -- url     : https://prove2.me/theorems/36c9ff6f-2a2f-47c3-a67f-f27de88ed0b3

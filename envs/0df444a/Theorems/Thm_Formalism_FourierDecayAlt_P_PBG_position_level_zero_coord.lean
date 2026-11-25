@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_position_level_zero_coord
 -- name    : Formalism.FourierDecayAlt.P.PBG.position_level_zero_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:00:51.430903+00:00
 -- url     : https://prove2.me/theorems/23ad90af-cdb9-481d-87c9-afd684461bb4

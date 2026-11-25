@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteQuotOmega_jacobian_smul_kaehler_eq_zero
 -- name    : GlobalTheory.FiniteQuotOmega.jacobian_smul_kaehler_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:43:39.374231+00:00
 -- url     : https://prove2.me/theorems/b164756b-e75e-4171-acc1-b2bbdafa1775

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_compCount_PL_step
 -- name    : ChromaticReconstruction.compCount_PL_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:23:47.061838+00:00
 -- url     : https://prove2.me/theorems/a5806934-7e6f-4aac-9aba-a37ce9bfd75e

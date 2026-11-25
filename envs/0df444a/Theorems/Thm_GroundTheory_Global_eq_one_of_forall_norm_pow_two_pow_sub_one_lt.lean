@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_eq_one_of_forall_norm_pow_two_pow_sub_one_lt
 -- name    : GroundTheory.Global.eq_one_of_forall_norm_pow_two_pow_sub_one_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:22.28403+00:00
 -- url     : https://prove2.me/theorems/23807887-4c3e-41bb-97b2-1803bdea17d8

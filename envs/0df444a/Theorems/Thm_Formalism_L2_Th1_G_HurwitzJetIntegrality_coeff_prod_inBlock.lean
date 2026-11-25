@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_HurwitzJetIntegrality_coeff_prod_inBlock
 -- name    : Formalism.L2.Th1.G.HurwitzJetIntegrality.coeff_prod_inBlock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:39:51.0408+00:00
 -- url     : https://prove2.me/theorems/989676c4-6db8-46ce-98d4-0fe5d0dde6eb

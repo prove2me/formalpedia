@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_unit_eq_zero_of_not_mem
 -- name    : PretorsionImageClosed.LinearQuiver.unit_eq_zero_of_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:03:23.478085+00:00
 -- url     : https://prove2.me/theorems/c4eefea9-0502-47b5-ad1f-13da1d394408

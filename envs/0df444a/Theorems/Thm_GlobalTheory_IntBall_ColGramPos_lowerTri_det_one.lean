@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_ColGramPos_lowerTri_det_one
 -- name    : GlobalTheory.IntBall.ColGramPos.lowerTri_det_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:45:49.591812+00:00
 -- url     : https://prove2.me/theorems/bea24f7c-3fb6-4555-a365-cf31820429b4

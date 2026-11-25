@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_ShortestVectorIndex_proof_79d11cd3cb08
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_ShortestVectorIndex_proof_79d11cd3cb08
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:49:25.290973+00:00
 -- url     : https://prove2.me/theorems/0d2c4de4-11bf-49df-b9c1-040d607a5768

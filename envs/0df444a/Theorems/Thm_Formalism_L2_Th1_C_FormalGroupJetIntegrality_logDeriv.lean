@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_FormalGroupJetIntegrality_logDeriv
 -- name    : Formalism.L2.Th1.C.FormalGroupJetIntegrality.logDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:29:55.360078+00:00
 -- url     : https://prove2.me/theorems/25eb9734-6c14-4127-9c35-a471f691bef2

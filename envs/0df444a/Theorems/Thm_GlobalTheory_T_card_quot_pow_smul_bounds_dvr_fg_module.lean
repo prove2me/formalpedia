@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_quot_pow_smul_bounds_dvr_fg_module
 -- name    : GlobalTheory.T.card_quot_pow_smul_bounds_dvr_fg_module
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:27:58.332658+00:00
 -- url     : https://prove2.me/theorems/71cae904-c256-4d26-b336-09a895bb0245

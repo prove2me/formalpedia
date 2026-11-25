@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BlockTrdeg_isHomogeneous_forgetWeight_72c1617be2ea
 -- name    : P2M_GroundTheory_Heights__Heights_BlockTrdeg_isHomogeneous_forgetWeight_72c1617be2ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:16:27.334209+00:00
 -- url     : https://prove2.me/theorems/a2aa4025-d22d-4a07-9b7f-6d0cbf16d3cc

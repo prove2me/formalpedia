@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_TensorLatticeUnitPart_extBil_tmul
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.TensorLatticeUnitPart.extBil_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:14:43.786301+00:00
 -- url     : https://prove2.me/theorems/da8ddeff-fb17-4c47-88dd-54320dd72327

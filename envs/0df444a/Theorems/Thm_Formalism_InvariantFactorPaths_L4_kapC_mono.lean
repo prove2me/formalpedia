@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_kapC_mono
 -- name    : Formalism.InvariantFactorPaths.L4.kapC_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:26:40.424801+00:00
 -- url     : https://prove2.me/theorems/3e8cea1f-e638-572a-8336-7ffbc77518e8

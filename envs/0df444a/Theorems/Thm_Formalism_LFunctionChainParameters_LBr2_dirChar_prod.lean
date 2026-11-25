@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_dirChar_prod
 -- name    : Formalism.LFunctionChainParameters.LBr2.dirChar_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:48:49.623858+00:00
 -- url     : https://prove2.me/theorems/8edc8c94-9b62-49a0-bb0c-17a1ef2a41ab

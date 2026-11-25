@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_add_le_sum_of_mem_of_ne
 -- name    : GlobalTheory.BadShare.add_le_sum_of_mem_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:47:41.733572+00:00
 -- url     : https://prove2.me/theorems/55f4cfb1-3527-44b8-9d60-9d26f57a75dd

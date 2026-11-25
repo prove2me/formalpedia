@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_host_inertia_d
 -- name    : Formalism.LFunctionChainParameters.LHost.host_inertia_d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:23:55.13533+00:00
 -- url     : https://prove2.me/theorems/d77d8689-71ad-4ee1-85dc-1f25bd82ab7c

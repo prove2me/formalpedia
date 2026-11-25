@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_linSubHom_apply
 -- name    : Formalism.L2.Th1.G.linSubHom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:27:20.24104+00:00
 -- url     : https://prove2.me/theorems/8d2b64a0-6df3-50e9-bac1-1a050ec9dd16

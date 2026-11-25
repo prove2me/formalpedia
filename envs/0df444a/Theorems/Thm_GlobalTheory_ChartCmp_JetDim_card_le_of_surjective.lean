@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_JetDim_card_le_of_surjective
 -- name    : GlobalTheory.ChartCmp.JetDim.card_le_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:10:31.539568+00:00
 -- url     : https://prove2.me/theorems/72957744-523a-43c1-8e90-9587dccff2c1

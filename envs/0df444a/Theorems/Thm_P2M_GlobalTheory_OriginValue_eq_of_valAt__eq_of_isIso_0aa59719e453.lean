@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_OriginValue_eq_of_valAt__eq_of_isIso_0aa59719e453
 -- name    : P2M_GlobalTheory_OriginValue_eq_of_valAt__eq_of_isIso_0aa59719e453
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:07:32.552509+00:00
 -- url     : https://prove2.me/theorems/30cb6b93-ba5c-4454-a71d-cb12550cd08a

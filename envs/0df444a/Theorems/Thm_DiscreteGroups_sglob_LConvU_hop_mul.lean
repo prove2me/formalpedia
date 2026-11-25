@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteGroups_sglob_LConvU_hop_mul
 -- name    : DiscreteGroups.sglob.LConvU.hop_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:53:08.063746+00:00
 -- url     : https://prove2.me/theorems/a2e5934b-1d82-48e9-8707-6dd463ac9213

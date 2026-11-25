@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_fourierInv_besselOp
 -- name    : GlobalTheory.RealWeil.fourierInv_besselOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:16:23.276959+00:00
 -- url     : https://prove2.me/theorems/3fe20b98-2863-46ca-92c2-f20b4cda1477

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_mass_dvd_le
 -- name    : GlobalTheory.BadShare.mass_dvd_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:48:21.783481+00:00
 -- url     : https://prove2.me/theorems/2d77217c-6489-4c0c-8789-0fb072ddc37b

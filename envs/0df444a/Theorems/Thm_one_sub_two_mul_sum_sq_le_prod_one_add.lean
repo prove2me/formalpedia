@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_one_sub_two_mul_sum_sq_le_prod_one_add
 -- name    : one_sub_two_mul_sum_sq_le_prod_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:20:53.242611+00:00
 -- url     : https://prove2.me/theorems/a9b2b207-ba98-4c63-9ad1-ca988569cf14

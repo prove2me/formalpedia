@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleMap_eq_ideleMap
 -- name    : GroundTheory.Global.IdeleMap.eq_ideleMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:18:32.40823+00:00
 -- url     : https://prove2.me/theorems/475e05c0-ee27-4593-9704-b083a4f7be51

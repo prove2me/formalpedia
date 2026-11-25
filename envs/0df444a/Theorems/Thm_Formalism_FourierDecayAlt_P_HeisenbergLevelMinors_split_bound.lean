@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HeisenbergLevelMinors_split_bound
 -- name    : Formalism.FourierDecayAlt.P.HeisenbergLevelMinors.split_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:43:17.407217+00:00
 -- url     : https://prove2.me/theorems/e54e3d71-221a-434f-9d7d-dc01e32f79bb

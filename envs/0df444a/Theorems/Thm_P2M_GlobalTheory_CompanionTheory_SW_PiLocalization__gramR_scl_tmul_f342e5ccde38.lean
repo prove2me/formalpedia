@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__gramR_scl_tmul_f342e5ccde38
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__gramR_scl_tmul_f342e5ccde38
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:04:48.571162+00:00
 -- url     : https://prove2.me/theorems/cbdd4a3b-a60f-4475-8adc-9163962b2996

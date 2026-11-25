@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_branchDigit_fst_ne
 -- name    : SZ.branchDigit_fst_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:18:23.123491+00:00
 -- url     : https://prove2.me/theorems/592349a1-eaa3-59dd-9913-fb688130c3d3

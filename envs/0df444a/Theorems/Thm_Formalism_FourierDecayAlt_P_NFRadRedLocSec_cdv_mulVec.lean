@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFRadRedLocSec_cdv_mulVec
 -- name    : Formalism.FourierDecayAlt.P.NFRadRedLocSec.cdv_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:47:36.689544+00:00
 -- url     : https://prove2.me/theorems/ae030a2b-47d4-562f-a6d5-f5a4bf9decd5

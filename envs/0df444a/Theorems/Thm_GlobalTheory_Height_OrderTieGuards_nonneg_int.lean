@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Height_OrderTieGuards_nonneg_int
 -- name    : GlobalTheory.Height.OrderTieGuards.nonneg_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:43:13.136333+00:00
 -- url     : https://prove2.me/theorems/ee21ed29-a6f5-41cc-881b-af3707289995

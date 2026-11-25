@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_first_level_from_universal_law
 -- name    : Formalism.L2.Th1.C.first_level_from_universal_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:48:50.899028+00:00
 -- url     : https://prove2.me/theorems/68e2719b-1816-45a1-bf25-4da70eb29673

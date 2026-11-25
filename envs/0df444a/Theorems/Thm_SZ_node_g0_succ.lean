@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_node_g0_succ
 -- name    : SZ.node_g0_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:18:28.750165+00:00
 -- url     : https://prove2.me/theorems/070afe41-bcd8-5877-9295-416ee5d38561

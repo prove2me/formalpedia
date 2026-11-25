@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeadJets_mem_multiLt
 -- name    : GlobalTheory.LeadJets.mem_multiLt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:48:39.547293+00:00
 -- url     : https://prove2.me/theorems/bbcf832a-17c0-4248-aa87-34ffa801a9ac

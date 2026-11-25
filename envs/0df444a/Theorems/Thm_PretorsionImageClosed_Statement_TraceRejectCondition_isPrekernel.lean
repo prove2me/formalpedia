@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_TraceRejectCondition_isPrekernel
 -- name    : PretorsionImageClosed.Statement.TraceRejectCondition.isPrekernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:27:45.609007+00:00
 -- url     : https://prove2.me/theorems/cacb3bb7-16ec-47f1-9f40-cdae87c4e1db

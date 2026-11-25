@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_ZeroFree_ell_zero_le
 -- name    : GlobalTheory.Hk.ZeroFree.ell_zero_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:37:15.153875+00:00
 -- url     : https://prove2.me/theorems/26a17d09-f511-4953-8c67-8cb55eecfe7d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_hecke_relation_pointwise
 -- name    : GlobalTheory.SW.hecke_relation_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:45:41.232623+00:00
 -- url     : https://prove2.me/theorems/7d1b72f7-b0a8-4720-ad9d-0575c2ecd9f7

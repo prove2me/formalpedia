@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_ShapeOps_shape_conj
 -- name    : GlobalTheory.Phase.ShapeOps.shape_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:48:34.623295+00:00
 -- url     : https://prove2.me/theorems/01cd8fb4-fff1-4ad6-8f54-b43ee9902365

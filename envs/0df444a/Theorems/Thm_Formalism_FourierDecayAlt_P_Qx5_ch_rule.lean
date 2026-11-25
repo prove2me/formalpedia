@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx5_ch_rule
 -- name    : Formalism.FourierDecayAlt.P.Qx5.ch_rule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:54:13.262776+00:00
 -- url     : https://prove2.me/theorems/1fd6308d-dbfc-4b8b-8888-30c603cf29e0

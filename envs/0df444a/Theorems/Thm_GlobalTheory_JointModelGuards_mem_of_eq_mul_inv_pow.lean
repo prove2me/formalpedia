@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JointModelGuards_mem_of_eq_mul_inv_pow
 -- name    : GlobalTheory.JointModelGuards.mem_of_eq_mul_inv_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:46:22.180803+00:00
 -- url     : https://prove2.me/theorems/71c3a881-8633-48b6-ae14-410d1f2f4de8

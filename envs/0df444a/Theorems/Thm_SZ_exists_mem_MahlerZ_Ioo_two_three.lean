@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_exists_mem_MahlerZ_Ioo_two_three
 -- name    : SZ.exists_mem_MahlerZ_Ioo_two_three
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:36:33.157605+00:00
 -- url     : https://prove2.me/theorems/4fd58d46-a13e-4042-be8d-da8c02ca879b

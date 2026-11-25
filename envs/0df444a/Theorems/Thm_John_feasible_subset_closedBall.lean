@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_John_feasible_subset_closedBall
 -- name    : John.feasible_subset_closedBall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:22:27.839152+00:00
 -- url     : https://prove2.me/theorems/1fbc4938-f12c-4caa-a5b4-7c890f04a02a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_John_smul_mem_feasible_of_le_on_sphere
 -- name    : John.smul_mem_feasible_of_le_on_sphere
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:23:14.215981+00:00
 -- url     : https://prove2.me/theorems/76b7bd0a-5f96-4cf8-802d-0cb94cee2dfb

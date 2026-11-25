@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HeisenbergLevelMinors_neg_rpow_bound
 -- name    : Formalism.FourierDecayAlt.P.HeisenbergLevelMinors.neg_rpow_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:47:44.947352+00:00
 -- url     : https://prove2.me/theorems/22f532cb-7bb4-42a3-8cec-215c54cdf725

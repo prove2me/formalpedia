@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteGroups_sglob_LConvU_span_hop_mul_mem
 -- name    : DiscreteGroups.sglob.LConvU.span_hop_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:52:32.453326+00:00
 -- url     : https://prove2.me/theorems/93044fe4-8e68-5783-a518-64398577e255

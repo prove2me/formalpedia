@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_exists_bound_dirDeriv
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.exists_bound_dirDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:23:59.651779+00:00
 -- url     : https://prove2.me/theorems/d4b679b9-c237-42a7-a085-840413949a3f

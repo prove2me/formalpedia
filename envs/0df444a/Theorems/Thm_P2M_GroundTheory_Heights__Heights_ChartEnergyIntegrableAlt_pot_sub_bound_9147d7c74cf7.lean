@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartEnergyIntegrableAlt_pot_sub_bound_9147d7c74cf7
 -- name    : P2M_GroundTheory_Heights__Heights_ChartEnergyIntegrableAlt_pot_sub_bound_9147d7c74cf7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:10:48.246404+00:00
 -- url     : https://prove2.me/theorems/4848b545-11dc-4190-a86e-6939246acad3

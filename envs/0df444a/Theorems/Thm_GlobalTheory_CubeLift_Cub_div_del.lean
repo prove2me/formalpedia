@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeLift_Cub_div_del
 -- name    : GlobalTheory.CubeLift.Cub.div_del
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:28:23.006416+00:00
 -- url     : https://prove2.me/theorems/adc02cde-9013-485f-abe4-253998394bac

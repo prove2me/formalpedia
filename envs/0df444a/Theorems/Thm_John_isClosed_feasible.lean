@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_John_isClosed_feasible
 -- name    : John.isClosed_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:22:07.628543+00:00
 -- url     : https://prove2.me/theorems/a41e9d21-8b4e-4678-aed1-335b86683395

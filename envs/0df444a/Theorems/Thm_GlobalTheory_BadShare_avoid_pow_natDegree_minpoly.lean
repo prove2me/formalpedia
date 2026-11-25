@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_avoid_pow_natDegree_minpoly
 -- name    : GlobalTheory.BadShare.avoid_pow_natDegree_minpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:47:49.935402+00:00
 -- url     : https://prove2.me/theorems/77a62c3a-a1c1-4c1b-b9d2-806b3f178864

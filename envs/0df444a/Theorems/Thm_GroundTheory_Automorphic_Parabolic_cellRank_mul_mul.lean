@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_cellRank_mul_mul
 -- name    : GroundTheory.Automorphic.Parabolic.cellRank_mul_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:33:54.839536+00:00
 -- url     : https://prove2.me/theorems/4169dc19-f1ff-4fb4-a6cb-1b70f9f91f44

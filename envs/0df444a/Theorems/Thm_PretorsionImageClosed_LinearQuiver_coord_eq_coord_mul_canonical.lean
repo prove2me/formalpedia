@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_coord_eq_coord_mul_canonical
 -- name    : PretorsionImageClosed.LinearQuiver.coord_eq_coord_mul_canonical
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:25:13.583469+00:00
 -- url     : https://prove2.me/theorems/6dc07f8e-6770-4f65-904b-a19e7decbf6f

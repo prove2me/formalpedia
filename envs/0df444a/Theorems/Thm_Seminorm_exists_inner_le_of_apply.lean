@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Seminorm_exists_inner_le_of_apply
 -- name    : Seminorm.exists_inner_le_of_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:20:22.016265+00:00
 -- url     : https://prove2.me/theorems/9ac657d9-6436-50ad-87ec-3b97c259692e

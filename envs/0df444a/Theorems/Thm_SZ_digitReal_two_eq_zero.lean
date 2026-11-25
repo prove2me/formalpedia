@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_digitReal_two_eq_zero
 -- name    : SZ.digitReal_two_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:23:54.732157+00:00
 -- url     : https://prove2.me/theorems/19f76638-abaf-40c5-9061-2a4c92776655

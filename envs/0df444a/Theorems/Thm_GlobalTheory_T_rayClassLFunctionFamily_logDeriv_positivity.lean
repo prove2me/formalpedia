@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rayClassLFunctionFamily_logDeriv_positivity
 -- name    : GlobalTheory.T.rayClassLFunctionFamily_logDeriv_positivity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:53.138426+00:00
 -- url     : https://prove2.me/theorems/3f609fa8-88e8-48f8-9964-a498072c585e

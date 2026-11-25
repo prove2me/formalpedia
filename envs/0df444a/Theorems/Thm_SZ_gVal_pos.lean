@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_gVal_pos
 -- name    : SZ.gVal_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:33:36.218361+00:00
 -- url     : https://prove2.me/theorems/a3b3040c-df95-4f17-b761-5ce2e4be301b

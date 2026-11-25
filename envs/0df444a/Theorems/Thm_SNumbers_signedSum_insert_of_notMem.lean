@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_signedSum_insert_of_notMem
 -- name    : SNumbers.signedSum_insert_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:24:59.160708+00:00
 -- url     : https://prove2.me/theorems/d87cbe73-088c-56fb-bf93-1b87855132a8

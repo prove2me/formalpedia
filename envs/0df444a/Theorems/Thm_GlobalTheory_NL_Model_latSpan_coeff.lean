@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_latSpan_coeff
 -- name    : GlobalTheory.NL.Model.latSpan_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:47:12.722911+00:00
 -- url     : https://prove2.me/theorems/8f578505-d8b3-46d1-bef7-1b3bb258c0d3

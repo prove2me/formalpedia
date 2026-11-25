@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_isDelta_X_mul_comp
 -- name    : PretorsionImageClosed.Statement.isDelta_X_mul_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:10:29.119203+00:00
 -- url     : https://prove2.me/theorems/ec4b99a6-64b4-4a68-9f56-c78872ca712e

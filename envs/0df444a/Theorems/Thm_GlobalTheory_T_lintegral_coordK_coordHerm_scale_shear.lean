@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lintegral_coordK_coordHerm_scale_shear
 -- name    : GlobalTheory.T.lintegral_coordK_coordHerm_scale_shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:53:03.87545+00:00
 -- url     : https://prove2.me/theorems/ac84180c-56e3-4913-8494-d49aee41a56e

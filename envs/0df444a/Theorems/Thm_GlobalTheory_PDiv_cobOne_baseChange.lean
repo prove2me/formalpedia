@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_cobOne_baseChange
 -- name    : GlobalTheory.PDiv.cobOne_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:47:23.839403+00:00
 -- url     : https://prove2.me/theorems/e3282fe9-e836-5642-947c-31c1f08628c5

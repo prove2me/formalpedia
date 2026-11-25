@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_mem_MahlerZ_of_e_le
 -- name    : SZ.Slice.mem_MahlerZ_of_e_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:21:06.407987+00:00
 -- url     : https://prove2.me/theorems/51940f97-0d19-4c16-8f8d-93b3c746c692

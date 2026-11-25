@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_cc_sqSum
 -- name    : Formalism.L2.Th1.G.cc_sqSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:41:00.103978+00:00
 -- url     : https://prove2.me/theorems/715a9a8b-8ca7-420a-9382-34c8f083fb29

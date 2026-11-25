@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_conj_of_primary_finrank_ker_pow_eq
 -- name    : GlobalTheory.T.conj_of_primary_finrank_ker_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:47:49.808611+00:00
 -- url     : https://prove2.me/theorems/189f0a17-91ac-400c-b85c-256051a15373

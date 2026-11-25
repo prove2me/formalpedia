@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_John_trace_rankOneSA_comp
 -- name    : John.trace_rankOneSA_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:22:42.647536+00:00
 -- url     : https://prove2.me/theorems/54df66ef-da32-5940-a740-c4992c436472

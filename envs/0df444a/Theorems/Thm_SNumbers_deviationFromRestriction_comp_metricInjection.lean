@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_deviationFromRestriction_comp_metricInjection
 -- name    : SNumbers.deviationFromRestriction_comp_metricInjection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:09:28.406798+00:00
 -- url     : https://prove2.me/theorems/a234a7d0-08f9-43c8-82d4-ae881d982023

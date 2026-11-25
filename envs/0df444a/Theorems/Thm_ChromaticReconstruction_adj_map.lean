@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_adj_map
 -- name    : ChromaticReconstruction.adj_map
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:42:42.3318+00:00
 -- url     : https://prove2.me/theorems/f3cd3cd5-f2ef-435a-8cbb-f23bbd62b0d2

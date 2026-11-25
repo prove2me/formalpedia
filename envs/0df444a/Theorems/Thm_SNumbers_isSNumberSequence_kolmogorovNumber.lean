@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_isSNumberSequence_kolmogorovNumber
 -- name    : SNumbers.isSNumberSequence_kolmogorovNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:31:25.785877+00:00
 -- url     : https://prove2.me/theorems/a905ccc2-00ed-4166-87ca-fb7f2ea0d2db

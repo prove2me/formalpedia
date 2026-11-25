@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularisedIntegral_SqIntegrable_integrable
 -- name    : GlobalTheory.RegularisedIntegral.SqIntegrable.integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:45:03.970818+00:00
 -- url     : https://prove2.me/theorems/8791b1b3-6911-5a32-ae1a-eea343fb7650

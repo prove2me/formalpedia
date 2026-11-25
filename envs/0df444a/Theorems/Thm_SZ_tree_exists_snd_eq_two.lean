@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_tree_exists_snd_eq_two
 -- name    : SZ.tree_exists_snd_eq_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:20:07.258804+00:00
 -- url     : https://prove2.me/theorems/9a21b3b8-edaa-49d1-98af-88d7e22d25ad

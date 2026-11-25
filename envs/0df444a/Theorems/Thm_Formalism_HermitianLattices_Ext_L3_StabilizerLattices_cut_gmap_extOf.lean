@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_StabilizerLattices_cut_gmap_extOf
 -- name    : Formalism.HermitianLattices.Ext.L3.StabilizerLattices.cut_gmap_extOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:00:55.98926+00:00
 -- url     : https://prove2.me/theorems/7568f9b6-61a0-4d38-8bf3-9879c3b374a2

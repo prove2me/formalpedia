@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerivEndo_dof_comp_endo
 -- name    : GlobalTheory.DerivEndo.dof_comp_endo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:40:43.206017+00:00
 -- url     : https://prove2.me/theorems/096d6a81-bf78-435c-9bec-6bd902e472c5

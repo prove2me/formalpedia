@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_dvd_floor_of_e_le
 -- name    : SZ.Slice.dvd_floor_of_e_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:19:43.738175+00:00
 -- url     : https://prove2.me/theorems/c6d777c8-c0b4-474f-9da9-a7418503f326

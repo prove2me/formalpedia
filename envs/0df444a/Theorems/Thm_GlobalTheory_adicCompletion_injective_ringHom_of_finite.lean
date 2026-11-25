@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_adicCompletion_injective_ringHom_of_finite
 -- name    : GlobalTheory.adicCompletion_injective_ringHom_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:06:07.477458+00:00
 -- url     : https://prove2.me/theorems/8086ab37-e338-42b5-9d0e-cb2cf321aa23

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_isArithFrobAt_iff_decompositionToLocal
 -- name    : GroundTheory.Global.isArithFrobAt_iff_decompositionToLocal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:01:45.181844+00:00
 -- url     : https://prove2.me/theorems/6cfc2b39-9280-4cf8-b8f4-34d600ab7532

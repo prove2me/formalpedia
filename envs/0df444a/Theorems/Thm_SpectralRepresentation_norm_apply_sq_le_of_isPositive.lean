@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralRepresentation_norm_apply_sq_le_of_isPositive
 -- name    : SpectralRepresentation.norm_apply_sq_le_of_isPositive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:33:27.114603+00:00
 -- url     : https://prove2.me/theorems/ad047227-a336-4a2d-bc8d-3f7c395b6f92

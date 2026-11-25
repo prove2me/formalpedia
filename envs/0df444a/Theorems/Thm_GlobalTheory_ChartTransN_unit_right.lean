@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartTransN_unit_right
 -- name    : GlobalTheory.ChartTransN.unit_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:49:54.680221+00:00
 -- url     : https://prove2.me/theorems/1488b2b7-e09d-5252-b519-37ee5ae01359

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_IsHermFrame_quot
 -- name    : GlobalTheory.HermFrame.IsHermFrame.quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:38:43.94609+00:00
 -- url     : https://prove2.me/theorems/ec246f86-fdb8-4064-bb34-8bff96d94e29

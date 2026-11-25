@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HeckeAlgebra_nonempty_equiv_of_fixedVectors_equiv
 -- name    : GroundTheory.Automorphic.HeckeAlgebra.nonempty_equiv_of_fixedVectors_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:46:38.651672+00:00
 -- url     : https://prove2.me/theorems/6666cd0a-a401-4f2b-9777-a015faac2a42

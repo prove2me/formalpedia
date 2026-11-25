@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_tsc_zero_left
 -- name    : Formalism.L2.G.Model.TS.tsc_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:48:44.103892+00:00
 -- url     : https://prove2.me/theorems/9ef6a2cf-8a03-46f4-aec2-d7b787913c5a

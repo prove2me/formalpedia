@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecLift_stalk_iff
 -- name    : GlobalTheory.SecLift.stalk_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:51:22.046389+00:00
 -- url     : https://prove2.me/theorems/03c5e1fb-f623-450f-ae02-a110b2d38266

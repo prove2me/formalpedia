@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLevelExists_symSum_eq
 -- name    : GlobalTheory.SymLevelExists.symSum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:11:34.32019+00:00
 -- url     : https://prove2.me/theorems/4ca93993-5801-4e03-b7a1-51591fcc7c94

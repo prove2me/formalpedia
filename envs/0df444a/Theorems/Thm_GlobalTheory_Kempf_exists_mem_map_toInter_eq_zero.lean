@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Kempf_exists_mem_map_toInter_eq_zero
 -- name    : GlobalTheory.Kempf.exists_mem_map_toInter_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:48:43.610992+00:00
 -- url     : https://prove2.me/theorems/1d2f42bc-e8d8-4820-83ca-0953a0d690d1

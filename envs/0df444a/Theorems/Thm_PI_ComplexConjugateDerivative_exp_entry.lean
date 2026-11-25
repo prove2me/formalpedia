@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ComplexConjugateDerivative_exp_entry
 -- name    : PI.ComplexConjugateDerivative.exp_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:37:43.678083+00:00
 -- url     : https://prove2.me/theorems/2b25ea57-0ae8-455f-bce1-6cab24f70452

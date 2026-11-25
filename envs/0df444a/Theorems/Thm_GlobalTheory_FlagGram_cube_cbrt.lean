@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagGram_cube_cbrt
 -- name    : GlobalTheory.FlagGram.cube_cbrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:42:47.985358+00:00
 -- url     : https://prove2.me/theorems/58080f08-3a02-484f-9371-53da8748c82e

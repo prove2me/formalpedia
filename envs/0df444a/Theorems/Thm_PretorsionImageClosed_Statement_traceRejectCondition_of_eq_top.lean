@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_traceRejectCondition_of_eq_top
 -- name    : PretorsionImageClosed.Statement.traceRejectCondition_of_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:36:30.757832+00:00
 -- url     : https://prove2.me/theorems/302111f5-276c-47ad-a808-83066570f8fe

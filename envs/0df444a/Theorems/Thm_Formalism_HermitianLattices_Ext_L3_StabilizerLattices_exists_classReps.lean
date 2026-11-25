@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_StabilizerLattices_exists_classReps
 -- name    : Formalism.HermitianLattices.Ext.L3.StabilizerLattices.exists_classReps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:44:03.486009+00:00
 -- url     : https://prove2.me/theorems/3f0206eb-3aed-45ea-92d9-271465fd996a

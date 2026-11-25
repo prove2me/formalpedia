@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_oneInputS
 -- name    : Formalism.LFunctionChainParameters.LChain2.oneInputS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:01:39.240366+00:00
 -- url     : https://prove2.me/theorems/155da349-74cb-5940-811b-4d65db2421ed

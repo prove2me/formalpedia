@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_lintegral_hB_one_two_lt_top
 -- name    : GlobalTheory.IntBall.lintegral_hB_one_two_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:45:36.633672+00:00
 -- url     : https://prove2.me/theorems/851f856c-1ae6-4fc7-bd0d-3da66c682311

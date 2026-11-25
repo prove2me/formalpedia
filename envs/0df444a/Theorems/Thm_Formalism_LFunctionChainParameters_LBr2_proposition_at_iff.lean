@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_proposition_at_iff
 -- name    : Formalism.LFunctionChainParameters.LBr2.proposition_at_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:41:49.107369+00:00
 -- url     : https://prove2.me/theorems/6d16a03c-648b-40b5-b2e0-cf5d36163d74

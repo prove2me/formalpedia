@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_mem_symCocycles_of_pullTwo_mulP
 -- name    : GlobalTheory.PDivGroup.mem_symCocycles_of_pullTwo_mulP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:49:38.658798+00:00
 -- url     : https://prove2.me/theorems/2d833ecf-74f6-5118-8d66-6c8dba1faffc

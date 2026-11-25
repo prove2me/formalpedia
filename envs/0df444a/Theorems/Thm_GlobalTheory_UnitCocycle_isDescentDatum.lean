@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCocycle_isDescentDatum
 -- name    : GlobalTheory.UnitCocycle.isDescentDatum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:25:51.370442+00:00
 -- url     : https://prove2.me/theorems/7474aa60-b0bc-470e-9cfe-da673a2e309a

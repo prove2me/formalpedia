@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_smul_mem_stdLat_scale
 -- name    : Formalism.L2.Th1.H.smul_mem_stdLat_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:36.733777+00:00
 -- url     : https://prove2.me/theorems/a48940d8-deb2-4683-a585-7388cfcbf2e8

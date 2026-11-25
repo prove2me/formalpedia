@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeadBound_IsDom_smul
 -- name    : GlobalTheory.LeadBound.IsDom.smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:46:25.969263+00:00
 -- url     : https://prove2.me/theorems/2288e380-56a4-45ca-8d52-7959d7affd26

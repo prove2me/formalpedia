@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_MultiIrr_multiProd_succ_equiv
 -- name    : GlobalTheory.SmGL.MultiIrr.multiProd_succ_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:51:56.530165+00:00
 -- url     : https://prove2.me/theorems/fed988df-6b18-4b01-8663-b00ef41ee669

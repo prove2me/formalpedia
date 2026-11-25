@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_gExists_snd_eq_two
 -- name    : SZ.gExists_snd_eq_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:17:03.961702+00:00
 -- url     : https://prove2.me/theorems/d3c25c06-34e7-4943-9937-3227fbfa7697

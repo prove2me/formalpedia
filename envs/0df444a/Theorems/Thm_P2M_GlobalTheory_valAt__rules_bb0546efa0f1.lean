@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_valAt__rules_bb0546efa0f1
 -- name    : P2M_GlobalTheory_valAt__rules_bb0546efa0f1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:55:39.599275+00:00
 -- url     : https://prove2.me/theorems/a7af009d-7778-4815-824a-5b6db51da015

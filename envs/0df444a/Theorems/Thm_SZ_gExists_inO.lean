@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_gExists_inO
 -- name    : SZ.gExists_inO
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:17:32.022895+00:00
 -- url     : https://prove2.me/theorems/1025c5fa-5bd1-4970-aedb-389b17a558f9

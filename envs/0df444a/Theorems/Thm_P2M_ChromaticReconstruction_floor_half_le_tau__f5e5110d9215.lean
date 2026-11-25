@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ChromaticReconstruction_floor_half_le_tau__f5e5110d9215
 -- name    : P2M_ChromaticReconstruction_floor_half_le_tau__f5e5110d9215
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:14:20.991499+00:00
 -- url     : https://prove2.me/theorems/8b53c676-c23e-440b-8b49-483e3f9f677b

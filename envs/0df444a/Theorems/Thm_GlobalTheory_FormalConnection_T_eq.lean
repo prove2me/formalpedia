@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalConnection_T_eq
 -- name    : GlobalTheory.FormalConnection.T_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:37:21.969876+00:00
 -- url     : https://prove2.me/theorems/45ac5e55-a9e8-484d-a5d6-80ceceae2f11

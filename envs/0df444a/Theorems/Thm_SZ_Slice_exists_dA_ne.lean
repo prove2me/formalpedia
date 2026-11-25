@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_exists_dA_ne
 -- name    : SZ.Slice.exists_dA_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:01:11.324329+00:00
 -- url     : https://prove2.me/theorems/636e9591-11b1-41c3-9691-bbdf617bdde4

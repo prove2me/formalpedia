@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GroupGeneratedByExp_group_eq_exp
 -- name    : Formalism.FourierDecayAlt.P.GroupGeneratedByExp.group_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:32:00.954043+00:00
 -- url     : https://prove2.me/theorems/35b40834-5f9b-49d8-a15e-b4d55737ef0b

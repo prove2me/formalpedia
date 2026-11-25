@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_contDiff_gbPot_of_le_822a57be635a
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_contDiff_gbPot_of_le_822a57be635a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:28:49.871464+00:00
 -- url     : https://prove2.me/theorems/013e1b4f-80b7-4d58-a9d0-42cf021d5270

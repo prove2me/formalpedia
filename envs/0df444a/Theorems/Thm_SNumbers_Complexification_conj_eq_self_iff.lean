@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_Complexification_conj_eq_self_iff
 -- name    : SNumbers.Complexification.conj_eq_self_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:12:17.423368+00:00
 -- url     : https://prove2.me/theorems/f56cde38-b499-4970-9a65-dadba35e34d4

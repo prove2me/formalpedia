@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Matrix_det_eq_corner_mul_det_submatrix
 -- name    : Matrix.det_eq_corner_mul_det_submatrix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:20:06.117886+00:00
 -- url     : https://prove2.me/theorems/3e2a6944-8eb2-4dca-acc4-d1205b42f773

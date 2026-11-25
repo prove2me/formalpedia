@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_halfLog_of
 -- name    : Formalism.L2.Th1.A.halfLog_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:50.238727+00:00
 -- url     : https://prove2.me/theorems/e1cc5013-c0ae-485d-a50c-339b21cb6139

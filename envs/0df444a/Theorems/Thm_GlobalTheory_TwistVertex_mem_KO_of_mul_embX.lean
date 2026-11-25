@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistVertex_mem_KO_of_mul_embX
 -- name    : GlobalTheory.TwistVertex.mem_KO_of_mul_embX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:10:29.015352+00:00
 -- url     : https://prove2.me/theorems/105a288c-6450-4056-ae6b-60ce99f10203

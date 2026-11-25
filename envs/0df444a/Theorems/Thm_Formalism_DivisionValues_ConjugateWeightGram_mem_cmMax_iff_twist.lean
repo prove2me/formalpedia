@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_ConjugateWeightGram_mem_cmMax_iff_twist
 -- name    : Formalism.DivisionValues.ConjugateWeightGram.mem_cmMax_iff_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:34:40.396276+00:00
 -- url     : https://prove2.me/theorems/958f676d-2f3f-4c43-9d14-dc3bed5162b3

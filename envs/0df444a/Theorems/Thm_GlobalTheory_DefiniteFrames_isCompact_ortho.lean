@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DefiniteFrames_isCompact_ortho
 -- name    : GlobalTheory.DefiniteFrames.isCompact_ortho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:41:26.26818+00:00
 -- url     : https://prove2.me/theorems/7a522928-e647-46e7-a062-f33c6ac3f032

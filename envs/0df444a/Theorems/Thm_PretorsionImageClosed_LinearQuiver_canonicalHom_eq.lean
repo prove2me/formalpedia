@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_canonicalHom_eq
 -- name    : PretorsionImageClosed.LinearQuiver.canonicalHom_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:25:31.027793+00:00
 -- url     : https://prove2.me/theorems/8dc486b4-421d-455e-b956-7649751728de

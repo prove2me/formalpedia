@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuousLinearMap_trace_adjoint
 -- name    : ContinuousLinearMap.trace_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:20:39.060478+00:00
 -- url     : https://prove2.me/theorems/8a333e80-c62e-4d29-b085-7c26d43c2a81

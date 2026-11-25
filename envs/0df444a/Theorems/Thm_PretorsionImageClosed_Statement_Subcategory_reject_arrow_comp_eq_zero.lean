@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_reject_arrow_comp_eq_zero
 -- name    : PretorsionImageClosed.Statement.Subcategory.reject_arrow_comp_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:26:50.269771+00:00
 -- url     : https://prove2.me/theorems/61e8bdbf-396d-441b-8afe-43d453dbde32

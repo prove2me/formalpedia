@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBallMinorOne_gram_eq_transpose
 -- name    : GlobalTheory.IntBallMinorOne.gram_eq_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:45:46.321163+00:00
 -- url     : https://prove2.me/theorems/61a8b72e-89f9-4d4f-81e3-98da4701b8f2

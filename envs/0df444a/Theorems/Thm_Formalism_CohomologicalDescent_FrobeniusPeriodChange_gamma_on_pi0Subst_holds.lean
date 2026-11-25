@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_gamma_on_pi0Subst_holds
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.gamma_on_pi0Subst_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:42:38.608895+00:00
 -- url     : https://prove2.me/theorems/320f7a92-a3f2-577f-b996-bb787337170e

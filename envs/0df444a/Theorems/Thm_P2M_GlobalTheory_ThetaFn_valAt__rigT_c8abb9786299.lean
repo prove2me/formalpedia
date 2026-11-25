@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ThetaFn_valAt__rigT_c8abb9786299
 -- name    : P2M_GlobalTheory_ThetaFn_valAt__rigT_c8abb9786299
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:38:14.628863+00:00
 -- url     : https://prove2.me/theorems/c43f0d13-02ed-4029-a477-32cba985e2a7

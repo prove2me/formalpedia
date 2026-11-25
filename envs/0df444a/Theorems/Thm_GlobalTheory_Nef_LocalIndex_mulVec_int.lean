@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_LocalIndex_mulVec_int
 -- name    : GlobalTheory.Nef.LocalIndex.mulVec_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:48:25.537553+00:00
 -- url     : https://prove2.me/theorems/6dd8d308-80b7-4f97-9d88-95d468a52f76

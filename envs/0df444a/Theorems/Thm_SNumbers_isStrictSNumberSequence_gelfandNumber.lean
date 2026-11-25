@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_isStrictSNumberSequence_gelfandNumber
 -- name    : SNumbers.isStrictSNumberSequence_gelfandNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:26:49.124837+00:00
 -- url     : https://prove2.me/theorems/b71836ea-0986-4e6e-9170-e0bebc07acc6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_coord_naturality
 -- name    : PretorsionImageClosed.LinearQuiver.coord_naturality
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:22:29.368787+00:00
 -- url     : https://prove2.me/theorems/a1ce7e0a-2e6b-48d6-b754-33c8f992eead

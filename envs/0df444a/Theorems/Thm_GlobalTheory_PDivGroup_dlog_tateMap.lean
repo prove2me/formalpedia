@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_dlog_tateMap
 -- name    : GlobalTheory.PDivGroup.dlog_tateMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:30:08.697637+00:00
 -- url     : https://prove2.me/theorems/b9dd3db6-c512-498b-bb9b-f0a53ebefcfd

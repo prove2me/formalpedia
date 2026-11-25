@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_CapEig_foldr_rel
 -- name    : CompanionTheory.CapEig.foldr_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:44:55.180321+00:00
 -- url     : https://prove2.me/theorems/a667ec43-8c59-483c-b454-9cb1a2252722

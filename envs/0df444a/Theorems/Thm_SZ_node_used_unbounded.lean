@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_node_used_unbounded
 -- name    : SZ.node_used_unbounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:23:43.872567+00:00
 -- url     : https://prove2.me/theorems/79553b6a-302d-5577-9144-7c0971bede20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_runVal_eq_residual
 -- name    : SZ.runVal_eq_residual
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:19:36.174045+00:00
 -- url     : https://prove2.me/theorems/30a2d826-cb78-5c08-887b-d225d2db64da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_valAt__unit_ne_zero_54a31b83d959
 -- name    : P2M_GlobalTheory_valAt__unit_ne_zero_54a31b83d959
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:24:59.151975+00:00
 -- url     : https://prove2.me/theorems/02715fcb-7f9f-44b5-bf6c-2664d93038fe

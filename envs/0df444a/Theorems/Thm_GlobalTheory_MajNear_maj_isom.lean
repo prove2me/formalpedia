@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajNear_maj_isom
 -- name    : GlobalTheory.MajNear.maj_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:47:49.224146+00:00
 -- url     : https://prove2.me/theorems/e4c6905b-81a8-5d11-b25d-2b94569ce01d

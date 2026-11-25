@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_IntegerSmallAtPlaces_proof_9e12b04b2c82
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_IntegerSmallAtPlaces_proof_9e12b04b2c82
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:45:12.109951+00:00
 -- url     : https://prove2.me/theorems/81770f5e-e928-4bd8-b569-e00f3d440389

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_U_sub_X_ne_zero
 -- name    : PretorsionImageClosed.Statement.U_sub_X_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:09:17.19513+00:00
 -- url     : https://prove2.me/theorems/45da0aeb-03d5-54b2-bc4c-4190e7398069

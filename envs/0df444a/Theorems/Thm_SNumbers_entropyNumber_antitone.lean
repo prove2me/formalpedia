@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_entropyNumber_antitone
 -- name    : SNumbers.entropyNumber_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:17:56.593573+00:00
 -- url     : https://prove2.me/theorems/854a1933-f943-4756-a351-5cc4fb17b7d9

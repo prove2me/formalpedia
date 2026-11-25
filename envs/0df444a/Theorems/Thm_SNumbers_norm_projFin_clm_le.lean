@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_norm_projFin_clm_le
 -- name    : SNumbers.norm_projFin_clm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:45:11.630854+00:00
 -- url     : https://prove2.me/theorems/66726321-2202-4f17-925e-d65e68fdb1a9

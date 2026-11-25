@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerivEndo_ev_add
 -- name    : GlobalTheory.DerivEndo.ev_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:43:35.122421+00:00
 -- url     : https://prove2.me/theorems/5623ee0f-393b-587e-a665-3fbcc0c61fcb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SkewHermitianParts_pos_cases
 -- name    : Formalism.FourierDecayAlt.P.SkewHermitianParts.pos_cases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:18:45.703487+00:00
 -- url     : https://prove2.me/theorems/bef0203f-4b72-50ba-b6f4-0742913ff0c7

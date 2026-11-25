@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CapelliEig_smooth_right_action
 -- name    : PI.UnitaryGroupMassFormula.CapelliEig.smooth_right_action
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:33:16.851572+00:00
 -- url     : https://prove2.me/theorems/8dc00053-c95e-4b42-964c-6149b4096bb7

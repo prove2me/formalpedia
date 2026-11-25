@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SmGL_UnitInd_isUnitarisable_prod__fef3f07bee29
 -- name    : P2M_GlobalTheory_SmGL_UnitInd_isUnitarisable_prod__fef3f07bee29
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:08:55.450527+00:00
 -- url     : https://prove2.me/theorems/7f20b43e-bb2a-469b-a4f2-6411c66e6df3

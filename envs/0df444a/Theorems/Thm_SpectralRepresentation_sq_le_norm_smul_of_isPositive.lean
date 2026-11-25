@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralRepresentation_sq_le_norm_smul_of_isPositive
 -- name    : SpectralRepresentation.sq_le_norm_smul_of_isPositive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:12:22.417867+00:00
 -- url     : https://prove2.me/theorems/66af2322-a2ac-405d-b115-d08512b7f201

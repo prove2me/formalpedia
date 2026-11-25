@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exponent_eq_orderAlongComponent
 -- name    : FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:25:27.665486+00:00
 -- url     : https://prove2.me/theorems/aeef1717-27a3-4e03-9c84-07160dfd114d

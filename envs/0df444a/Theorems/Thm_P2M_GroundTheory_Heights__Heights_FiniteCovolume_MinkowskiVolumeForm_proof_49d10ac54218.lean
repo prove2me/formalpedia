@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_MinkowskiVolumeForm_proof_49d10ac54218
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_MinkowskiVolumeForm_proof_49d10ac54218
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:44:29.215823+00:00
 -- url     : https://prove2.me/theorems/0918cd0d-891a-4b56-9558-afa307b02c03

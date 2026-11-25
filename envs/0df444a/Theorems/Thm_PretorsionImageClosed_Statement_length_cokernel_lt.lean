@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_length_cokernel_lt
 -- name    : PretorsionImageClosed.Statement.length_cokernel_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:36:21.957798+00:00
 -- url     : https://prove2.me/theorems/bcfbe320-2f37-5344-a70c-4813c61dd8db

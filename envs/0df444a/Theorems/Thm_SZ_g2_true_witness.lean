@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_g2_true_witness
 -- name    : SZ.g2_true_witness
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:21:55.182202+00:00
 -- url     : https://prove2.me/theorems/f53dc128-ae01-4521-a300-d8a7ebf995cd

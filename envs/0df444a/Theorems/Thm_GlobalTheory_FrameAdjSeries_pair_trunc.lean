@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameAdjSeries_pair_trunc
 -- name    : GlobalTheory.FrameAdjSeries.pair_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:36:04.973836+00:00
 -- url     : https://prove2.me/theorems/fe8dd095-1ffb-4a2f-b5f8-9eb8084c915a

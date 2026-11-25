@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaLiftGL_main
 -- name    : GlobalTheory.ThetaLiftGL.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:42:55.728809+00:00
 -- url     : https://prove2.me/theorems/b494bbb1-093d-4f2b-9370-a3a83820f26b

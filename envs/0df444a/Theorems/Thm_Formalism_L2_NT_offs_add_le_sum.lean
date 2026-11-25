@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NT_offs_add_le_sum
 -- name    : Formalism.L2.NT.offs_add_le_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:55:58.914946+00:00
 -- url     : https://prove2.me/theorems/3e032331-3466-4a27-9bca-e71c583470e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_IsotropicSplit_proof_00d53b2dc66f
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_IsotropicSplit_proof_00d53b2dc66f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:37:25.941824+00:00
 -- url     : https://prove2.me/theorems/36329829-ea95-5bd9-8adc-240165348d86

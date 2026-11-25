@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_deviationFromSubspace_comp_metricSurjection
 -- name    : SNumbers.deviationFromSubspace_comp_metricSurjection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:09:36.222267+00:00
 -- url     : https://prove2.me/theorems/8ce25ceb-2883-4d79-9893-f740cfd65d61

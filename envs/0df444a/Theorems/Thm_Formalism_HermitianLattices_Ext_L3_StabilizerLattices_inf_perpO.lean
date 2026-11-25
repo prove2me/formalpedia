@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_StabilizerLattices_inf_perpO
 -- name    : Formalism.HermitianLattices.Ext.L3.StabilizerLattices.inf_perpO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:56:05.606875+00:00
 -- url     : https://prove2.me/theorems/fce63ac8-0da7-5c22-96d1-9225ca4ffe6e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_DiscreteFundamentalDomain_proof_acd672081314
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_DiscreteFundamentalDomain_proof_acd672081314
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:42:53.894697+00:00
 -- url     : https://prove2.me/theorems/c91b8339-0801-4e3e-bccf-f1b795175acc

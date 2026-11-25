@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_exists_E__cube_div_discriminant_eq_bed7c5b84d7f
 -- name    : P2M_GlobalTheory_exists_E__cube_div_discriminant_eq_bed7c5b84d7f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:17:45.48545+00:00
 -- url     : https://prove2.me/theorems/8212c87b-9168-4d1f-94a2-558087c7ab54

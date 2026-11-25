@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Lime_BM_aIsL
 -- name    : CompanionTheory.Lime.BM.aIsL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:49:40.252797+00:00
 -- url     : https://prove2.me/theorems/a5794650-a719-54b7-a261-28e589ec5ced

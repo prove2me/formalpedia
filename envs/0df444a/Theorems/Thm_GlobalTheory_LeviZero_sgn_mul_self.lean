@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeviZero_sgn_mul_self
 -- name    : GlobalTheory.LeviZero.sgn_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:48:58.588286+00:00
 -- url     : https://prove2.me/theorems/f71db1cf-5818-4671-b88c-a4ee050ff186

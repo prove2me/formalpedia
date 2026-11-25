@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_sqrtThree_notMem_S
 -- name    : SZ.sqrtThree_notMem_S
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:31:45.018409+00:00
 -- url     : https://prove2.me/theorems/5adfea16-98c5-4630-a7c5-66aa730cd609

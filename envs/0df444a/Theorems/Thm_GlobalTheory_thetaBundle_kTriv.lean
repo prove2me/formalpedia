@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_thetaBundle_kTriv
 -- name    : GlobalTheory.thetaBundle_kTriv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:54.123246+00:00
 -- url     : https://prove2.me/theorems/e1d50a91-4273-4d06-a76a-5f9210ec1823

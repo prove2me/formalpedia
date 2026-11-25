@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RL_Up_exp_mul_inj
 -- name    : PositivityTheory.RL.Up.exp_mul_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:37:07.233903+00:00
 -- url     : https://prove2.me/theorems/2fbbf78d-336a-4c23-b0a8-3ac4f520b46c

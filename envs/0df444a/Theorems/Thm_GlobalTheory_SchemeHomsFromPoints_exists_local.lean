@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchemeHomsFromPoints_exists_local
 -- name    : GlobalTheory.SchemeHomsFromPoints.exists_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:47:52.587705+00:00
 -- url     : https://prove2.me/theorems/27385b42-e919-4c98-bcd9-d3f22df6dda3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_piLp_norm_restrict_le
 -- name    : SNumbers.piLp_norm_restrict_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:41:58.911808+00:00
 -- url     : https://prove2.me/theorems/a4385c0e-0ea8-41f7-b031-8cfd548a6f42

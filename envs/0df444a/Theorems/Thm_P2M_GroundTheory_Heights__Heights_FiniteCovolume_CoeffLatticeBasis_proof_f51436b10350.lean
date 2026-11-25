@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_CoeffLatticeBasis_proof_f51436b10350
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_CoeffLatticeBasis_proof_f51436b10350
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:42:42.523315+00:00
 -- url     : https://prove2.me/theorems/9d32b205-2ac4-4395-8faf-0469b85dd01d

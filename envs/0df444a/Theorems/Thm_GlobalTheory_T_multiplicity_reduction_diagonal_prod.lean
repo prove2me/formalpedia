@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_multiplicity_reduction_diagonal_prod
 -- name    : GlobalTheory.T.multiplicity_reduction_diagonal_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:53:22.882796+00:00
 -- url     : https://prove2.me/theorems/b360311c-ab13-4c33-8ade-8257568d9605

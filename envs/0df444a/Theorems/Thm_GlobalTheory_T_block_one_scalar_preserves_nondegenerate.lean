@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_block_one_scalar_preserves_nondegenerate
 -- name    : GlobalTheory.T.block_one_scalar_preserves_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:58:23.867796+00:00
 -- url     : https://prove2.me/theorems/80ad157a-d704-46a7-9f7b-0b4d314f7435

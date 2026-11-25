@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaModelGroup_exists_hom_of_coords
 -- name    : GlobalTheory.ThetaModelGroup.exists_hom_of_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:06:30.939535+00:00
 -- url     : https://prove2.me/theorems/f730cc8c-d889-4a4a-8dad-28a5fecb96d8

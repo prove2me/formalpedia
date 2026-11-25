@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCount_card_strictLower
 -- name    : GlobalTheory.ChartCount.card_strictLower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:36:27.781104+00:00
 -- url     : https://prove2.me/theorems/7a09bb37-9aae-49dc-ae35-a781efba8495

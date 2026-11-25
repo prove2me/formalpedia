@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntersectionSymm_side
 -- name    : GlobalTheory.IntersectionSymm.side
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:20:56.719538+00:00
 -- url     : https://prove2.me/theorems/d8e66056-4ac1-464a-ad32-142893678dd2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Nn_X_pow_succ_dvd_of_derivative
 -- name    : Formalism.L2.Th1.A.Nn.X_pow_succ_dvd_of_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:31:01.051708+00:00
 -- url     : https://prove2.me/theorems/3554a981-0cd3-5cf0-91aa-702033935ac5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FrameExtension_frame_weaken
 -- name    : Formalism.FourierDecayAlt.P.FrameExtension.frame_weaken
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:10:00.732749+00:00
 -- url     : https://prove2.me/theorems/f0dd660d-1032-4ed8-a360-0b34913e8c66

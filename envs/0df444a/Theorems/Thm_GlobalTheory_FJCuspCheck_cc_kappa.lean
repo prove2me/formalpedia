@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FJCuspCheck_cc_kappa
 -- name    : GlobalTheory.FJCuspCheck.cc_kappa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:43:45.847172+00:00
 -- url     : https://prove2.me/theorems/a0a97a1f-a80f-4c1f-ba9d-f97a42d8e632

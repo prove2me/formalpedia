@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutBP_JmuHC_prod_ratio_le
 -- name    : Formalism.FourierDecayAlt.P.CutBP.JmuHC.prod_ratio_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:31:59.789794+00:00
 -- url     : https://prove2.me/theorems/e465b661-8902-5b6b-b799-8e0e28be390d

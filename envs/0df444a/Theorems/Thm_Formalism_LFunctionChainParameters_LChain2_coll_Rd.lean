@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_coll_Rd
 -- name    : Formalism.LFunctionChainParameters.LChain2.coll_Rd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:41:59.624196+00:00
 -- url     : https://prove2.me/theorems/712514de-2db3-4587-b4ce-f56cc3c55621

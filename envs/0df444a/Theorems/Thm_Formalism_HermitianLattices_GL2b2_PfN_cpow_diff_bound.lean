@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2b2_PfN_cpow_diff_bound
 -- name    : Formalism.HermitianLattices.GL2b2.PfN.cpow_diff_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:48:17.042633+00:00
 -- url     : https://prove2.me/theorems/c2441335-ff5a-4fa9-ad18-a41cd7d0de55

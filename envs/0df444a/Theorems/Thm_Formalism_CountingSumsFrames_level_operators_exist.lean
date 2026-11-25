@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_level_operators_exist
 -- name    : Formalism.CountingSumsFrames.level_operators_exist
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:40:52.597071+00:00
 -- url     : https://prove2.me/theorems/3807565c-6c50-4da2-8a67-818f0f901eb1

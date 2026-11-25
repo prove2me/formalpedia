@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FockB_fock_blocks_of_weights
 -- name    : Formalism.GM.FockB.fock_blocks_of_weights
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:14:00.212806+00:00
 -- url     : https://prove2.me/theorems/b1c5a755-7c82-4e67-bed8-2c6d717b4be7

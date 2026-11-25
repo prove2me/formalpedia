@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_entropySet_subset
 -- name    : SNumbers.entropySet_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:17:35.206152+00:00
 -- url     : https://prove2.me/theorems/a1541bb6-dad8-5a12-b388-b0b15bc66bf6

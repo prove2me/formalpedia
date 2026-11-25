@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralRepresentation_stepDown_antitone
 -- name    : SpectralRepresentation.stepDown_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:16:04.006252+00:00
 -- url     : https://prove2.me/theorems/7e176658-e5c9-4f5e-9865-fa13094d6356

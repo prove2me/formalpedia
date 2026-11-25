@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_dvd_floor_of_hygiene
 -- name    : SZ.Slice.dvd_floor_of_hygiene
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:08:28.664079+00:00
 -- url     : https://prove2.me/theorems/32cd4149-20a3-429f-8666-acd0e1ad2152

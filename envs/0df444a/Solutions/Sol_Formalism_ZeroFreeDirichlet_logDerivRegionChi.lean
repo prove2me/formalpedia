@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for Formalism.ZeroFreeDirichlet.logDerivRegionChi
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-25T02:54:40.485546+00:00
+-- url     : https://prove2.me/submissions/da0bb18c-888b-450d-b0ea-17c4c1cea939
+
+import Definitions.Def_Formalism_LandauZeroFreeBounds_NoZeroComplex
+import Definitions.Def_Formalism_LandauZeroFreeBounds_FinalSiegel
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LandauLocal3
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PerronChi
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_RectShiftChi
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LogDerivRegionChiOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SmoothChiOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PsiChiBoundOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LDerivNearOne
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_ExcBoundOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelWalfiszOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelWalfiszAPOf
+import Definitions.Def_Formalism_ZeroFreeRegion_LogDerivRegion
+import Definitions.Def_Formalism_LandauZeroFreeBounds_SiegelWalfiszAPOfSiegelLower
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_inverseBound
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_l_log_deriv_right
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_landau_local3
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_lfunction_polynomial_growth
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_log_deriv_in_zero_free_region
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.ZeroFreeDirichlet
+namespace Formalism.ZeroFreeDirichlet
+theorem _root_.solution : LogDerivRegionChi :=
+  log_deriv_in_zero_free_region landau_local3 lfunction_polynomial_growth inverseBound l_log_deriv_right
+end Formalism.ZeroFreeDirichlet

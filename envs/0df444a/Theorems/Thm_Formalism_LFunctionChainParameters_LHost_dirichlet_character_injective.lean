@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_dirichlet_character_injective
 -- name    : Formalism.LFunctionChainParameters.LHost.dirichlet_character_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:23:32.231329+00:00
 -- url     : https://prove2.me/theorems/6633af1e-3636-4501-98db-9aea94f4ade3

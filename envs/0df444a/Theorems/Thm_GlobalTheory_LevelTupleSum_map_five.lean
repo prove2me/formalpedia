@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelTupleSum_map_five
 -- name    : GlobalTheory.LevelTupleSum.map_five
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:47:57.956336+00:00
 -- url     : https://prove2.me/theorems/622be886-61d0-492c-a4e9-f850b7480cdd

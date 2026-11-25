@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FundamentalSetFrames_continuous_dmin
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FundamentalSetFrames.continuous_dmin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:45:15.955734+00:00
 -- url     : https://prove2.me/theorems/c5d07fb7-bb2c-4b0c-a8b4-eef1d4f9f163

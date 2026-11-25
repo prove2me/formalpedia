@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralRepresentation_commute_of_tendsto
 -- name    : SpectralRepresentation.commute_of_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:14:28.272174+00:00
 -- url     : https://prove2.me/theorems/02984fc6-1a21-42f3-bbb5-3e20db03cc61

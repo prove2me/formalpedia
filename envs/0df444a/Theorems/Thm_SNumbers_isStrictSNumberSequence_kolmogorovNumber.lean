@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_isStrictSNumberSequence_kolmogorovNumber
 -- name    : SNumbers.isStrictSNumberSequence_kolmogorovNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:09:01.376476+00:00
 -- url     : https://prove2.me/theorems/27149560-3e66-47c3-9e67-4041781df5da

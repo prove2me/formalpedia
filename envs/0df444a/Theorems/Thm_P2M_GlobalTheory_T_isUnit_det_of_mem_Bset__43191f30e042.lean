@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_isUnit_det_of_mem_Bset__43191f30e042
 -- name    : P2M_GlobalTheory_T_isUnit_det_of_mem_Bset__43191f30e042
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:10:56.578315+00:00
 -- url     : https://prove2.me/theorems/38d806ac-e33f-465d-bf6b-8a63c22415f6

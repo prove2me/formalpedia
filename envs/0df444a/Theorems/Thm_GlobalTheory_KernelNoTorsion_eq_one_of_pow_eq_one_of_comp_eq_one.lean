@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KernelNoTorsion_eq_one_of_pow_eq_one_of_comp_eq_one
 -- name    : GlobalTheory.KernelNoTorsion.eq_one_of_pow_eq_one_of_comp_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:47:14.174327+00:00
 -- url     : https://prove2.me/theorems/2f3bd396-d77c-4090-8c53-45fb861e6557

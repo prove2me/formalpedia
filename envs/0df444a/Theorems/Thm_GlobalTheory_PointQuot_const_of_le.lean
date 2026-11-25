@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointQuot_const_of_le
 -- name    : GlobalTheory.PointQuot.const_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:52:14.19188+00:00
 -- url     : https://prove2.me/theorems/5a671b54-e667-403f-94cc-e8bbb810c012

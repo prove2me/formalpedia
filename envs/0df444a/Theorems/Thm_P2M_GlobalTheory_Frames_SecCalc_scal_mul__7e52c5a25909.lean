@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Frames_SecCalc_scal_mul__7e52c5a25909
 -- name    : P2M_GlobalTheory_Frames_SecCalc_scal_mul__7e52c5a25909
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:06:18.602257+00:00
 -- url     : https://prove2.me/theorems/3fdbec42-308c-44a7-b1cf-3f709ce73952

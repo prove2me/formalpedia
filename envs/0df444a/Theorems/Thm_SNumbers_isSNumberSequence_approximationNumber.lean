@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_isSNumberSequence_approximationNumber
 -- name    : SNumbers.isSNumberSequence_approximationNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:21:33.871959+00:00
 -- url     : https://prove2.me/theorems/efadfa72-229d-4f0b-957d-317b56bc95f0

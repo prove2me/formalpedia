@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspFlow_herm_comb_eq_zero
 -- name    : GlobalTheory.CuspFlow.herm_comb_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:40:11.287503+00:00
 -- url     : https://prove2.me/theorems/ca68e5c4-3fa4-5102-8e7b-439adc228a59

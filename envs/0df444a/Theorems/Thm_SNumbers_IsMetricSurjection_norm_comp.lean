@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_IsMetricSurjection_norm_comp
 -- name    : SNumbers.IsMetricSurjection.norm_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:09:00.580335+00:00
 -- url     : https://prove2.me/theorems/f314f107-992e-5d90-a990-1f0f40b276da

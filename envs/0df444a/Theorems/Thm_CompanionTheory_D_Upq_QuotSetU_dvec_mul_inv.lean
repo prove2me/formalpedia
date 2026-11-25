@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_QuotSetU_dvec_mul_inv
 -- name    : CompanionTheory.D.Upq.QuotSetU.dvec_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:42:29.661848+00:00
 -- url     : https://prove2.me/theorems/84255b8c-7acf-418c-948b-4e30874d8b2e

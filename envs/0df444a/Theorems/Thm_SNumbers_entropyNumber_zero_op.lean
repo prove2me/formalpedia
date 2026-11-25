@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_entropyNumber_zero_op
 -- name    : SNumbers.entropyNumber_zero_op
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:42:43.883807+00:00
 -- url     : https://prove2.me/theorems/2bdeea1e-bbe6-4da8-b0ff-f0b706518866

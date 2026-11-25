@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliCoordinates_rd_linear
 -- name    : Formalism.FourierDecayAlt.P.CapelliCoordinates.rd_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:32:56.736896+00:00
 -- url     : https://prove2.me/theorems/b14b5f28-7080-4f42-84d7-9ad42f80dfc2

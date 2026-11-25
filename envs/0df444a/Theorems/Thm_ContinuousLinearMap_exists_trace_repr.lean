@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuousLinearMap_exists_trace_repr
 -- name    : ContinuousLinearMap.exists_trace_repr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:21:39.368289+00:00
 -- url     : https://prove2.me/theorems/b48d56f4-b56c-47dc-9177-7b3154e1e040

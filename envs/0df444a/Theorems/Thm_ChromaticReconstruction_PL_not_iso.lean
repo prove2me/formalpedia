@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_PL_not_iso
 -- name    : ChromaticReconstruction.PL_not_iso
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:13:07.027684+00:00
 -- url     : https://prove2.me/theorems/54851d4c-6eb1-43b0-b4fd-8000d6915a66

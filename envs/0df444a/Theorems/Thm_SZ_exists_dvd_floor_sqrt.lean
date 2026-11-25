@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_exists_dvd_floor_sqrt
 -- name    : SZ.exists_dvd_floor_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:52:24.661797+00:00
 -- url     : https://prove2.me/theorems/071444ce-4a11-47ba-a592-81d300be0e8d

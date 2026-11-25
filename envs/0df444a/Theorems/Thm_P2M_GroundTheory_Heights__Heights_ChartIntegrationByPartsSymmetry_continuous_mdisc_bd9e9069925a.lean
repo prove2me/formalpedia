@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_continuous_mdisc_bd9e9069925a
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_continuous_mdisc_bd9e9069925a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:29:17.072436+00:00
 -- url     : https://prove2.me/theorems/96973cbb-49d2-4b76-a394-3aab35f71e54

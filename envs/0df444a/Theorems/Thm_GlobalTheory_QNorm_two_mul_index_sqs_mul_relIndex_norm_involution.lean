@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_two_mul_index_sqs_mul_relIndex_norm_involution
 -- name    : GlobalTheory.QNorm.two_mul_index_sqs_mul_relIndex_norm_involution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:03:24.118452+00:00
 -- url     : https://prove2.me/theorems/e27e4470-6ff7-4d70-a782-8dee587c2f51

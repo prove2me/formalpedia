@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_fromVector_comp_toInterval
 -- name    : PretorsionImageClosed.LinearQuiver.fromVector_comp_toInterval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:06:20.328805+00:00
 -- url     : https://prove2.me/theorems/ef97f4e0-f287-4b77-93ff-601057850d1b

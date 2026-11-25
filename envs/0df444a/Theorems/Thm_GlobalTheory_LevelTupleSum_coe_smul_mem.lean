@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelTupleSum_coe_smul_mem
 -- name    : GlobalTheory.LevelTupleSum.coe_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:48:04.708577+00:00
 -- url     : https://prove2.me/theorems/1e844e9a-bf48-4b97-b5b1-7b125403c6af

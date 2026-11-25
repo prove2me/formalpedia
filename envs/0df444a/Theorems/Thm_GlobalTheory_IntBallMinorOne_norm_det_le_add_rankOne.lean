@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBallMinorOne_norm_det_le_add_rankOne
 -- name    : GlobalTheory.IntBallMinorOne.norm_det_le_add_rankOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:46:18.365795+00:00
 -- url     : https://prove2.me/theorems/cb295551-8f08-4707-acc1-bb5912eb9314

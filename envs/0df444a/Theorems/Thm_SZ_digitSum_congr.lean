@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_digitSum_congr
 -- name    : SZ.digitSum_congr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:21:11.540898+00:00
 -- url     : https://prove2.me/theorems/db63a527-c23e-5f55-8c19-c6db5efb66a5

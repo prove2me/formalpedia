@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_mem_MahlerZ_of_uniform
 -- name    : SZ.Slice.mem_MahlerZ_of_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:23:57.633308+00:00
 -- url     : https://prove2.me/theorems/3e3e179d-2aa9-44f3-8fa2-e916a705b862

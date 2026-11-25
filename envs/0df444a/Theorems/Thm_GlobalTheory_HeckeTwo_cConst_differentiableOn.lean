@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_cConst_differentiableOn
 -- name    : GlobalTheory.HeckeTwo.cConst_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:07:19.622128+00:00
 -- url     : https://prove2.me/theorems/b2058686-cf6b-48ef-8c46-928a91404662

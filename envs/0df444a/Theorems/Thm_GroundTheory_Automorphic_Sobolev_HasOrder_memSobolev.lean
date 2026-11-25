@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_HasOrder_memSobolev
 -- name    : GroundTheory.Automorphic.Sobolev.HasOrder.memSobolev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:59:25.511803+00:00
 -- url     : https://prove2.me/theorems/7c809ab9-578b-4657-bcc3-e7dfb6aa56c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_hom_ext_coord
 -- name    : PretorsionImageClosed.LinearQuiver.hom_ext_coord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:20:31.463715+00:00
 -- url     : https://prove2.me/theorems/367abccd-6f7d-4a52-a0b5-7bf5fbbe3293

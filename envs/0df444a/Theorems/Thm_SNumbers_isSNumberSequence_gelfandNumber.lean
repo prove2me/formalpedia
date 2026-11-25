@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_isSNumberSequence_gelfandNumber
 -- name    : SNumbers.isSNumberSequence_gelfandNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:14:55.8896+00:00
 -- url     : https://prove2.me/theorems/9d9d1b87-f872-4c36-bb47-f7325456f2a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_coe_norm_field_eq
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.coe_norm_field_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:35:58.258047+00:00
 -- url     : https://prove2.me/theorems/7cbd74a0-6023-433d-bab9-8764ce03e83a

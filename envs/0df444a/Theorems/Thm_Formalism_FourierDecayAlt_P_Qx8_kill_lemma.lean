@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_kill_lemma
 -- name    : Formalism.FourierDecayAlt.P.Qx8.kill_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:31:22.95131+00:00
 -- url     : https://prove2.me/theorems/95126210-8dbd-4835-bca4-0cf69d895d9c

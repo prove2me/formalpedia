@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeviRank_wJac_mulVec
 -- name    : GlobalTheory.LeviRank.wJac_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:48:17.034734+00:00
 -- url     : https://prove2.me/theorems/613c94a3-15ab-4d69-9da2-e7363eabcdab

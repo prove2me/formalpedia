@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralRepresentation_exists_continuousLinearMap_tendsto
 -- name    : SpectralRepresentation.exists_continuousLinearMap_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:13:18.860801+00:00
 -- url     : https://prove2.me/theorems/13e8f5c8-9724-467e-95ff-4ea70c3c07c1

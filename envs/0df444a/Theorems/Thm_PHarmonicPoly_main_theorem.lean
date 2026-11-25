@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PHarmonicPoly_main_theorem
 -- name    : PHarmonicPoly.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:46:57.772+00:00
 -- url     : https://prove2.me/theorems/49a0ffb9-3a59-5a35-b539-672abff570ae

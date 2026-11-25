@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermExpo_kappa_ne
 -- name    : GlobalTheory.HermExpo.kappa_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:46:52.267448+00:00
 -- url     : https://prove2.me/theorems/43f4d4b2-f32b-46af-bd7a-74604cad70b1

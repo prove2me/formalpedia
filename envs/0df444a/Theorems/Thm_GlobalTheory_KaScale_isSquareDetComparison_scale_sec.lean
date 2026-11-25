@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaScale_isSquareDetComparison_scale_sec
 -- name    : GlobalTheory.KaScale.isSquareDetComparison_scale_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:46:09.437215+00:00
 -- url     : https://prove2.me/theorems/b7a7f02d-1a0d-4511-a00c-dd1aeb9adc72

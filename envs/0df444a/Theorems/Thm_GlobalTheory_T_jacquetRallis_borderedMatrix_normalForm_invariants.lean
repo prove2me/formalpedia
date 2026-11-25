@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_jacquetRallis_borderedMatrix_normalForm_invariants
 -- name    : GlobalTheory.T.jacquetRallis_borderedMatrix_normalForm_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:48:33.339065+00:00
 -- url     : https://prove2.me/theorems/afa6a939-b897-4bf5-b296-297e0b3f2eb2

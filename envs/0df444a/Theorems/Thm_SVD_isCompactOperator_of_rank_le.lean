@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SVD_isCompactOperator_of_rank_le
 -- name    : SVD.isCompactOperator_of_rank_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:56:18.872946+00:00
 -- url     : https://prove2.me/theorems/3421d8cf-ba0b-41d5-9407-09982a633352

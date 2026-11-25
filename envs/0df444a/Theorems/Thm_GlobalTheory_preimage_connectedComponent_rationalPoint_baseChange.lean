@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_preimage_connectedComponent_rationalPoint_baseChange
 -- name    : GlobalTheory.preimage_connectedComponent_rationalPoint_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:23:55.329809+00:00
 -- url     : https://prove2.me/theorems/9a73c95c-7108-46e9-98af-35b267b1a538

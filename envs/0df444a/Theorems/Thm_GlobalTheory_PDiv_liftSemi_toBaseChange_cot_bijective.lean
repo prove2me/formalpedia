@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_liftSemi_toBaseChange_cot_bijective
 -- name    : GlobalTheory.PDiv.liftSemi_toBaseChange_cot_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:47:37.755801+00:00
 -- url     : https://prove2.me/theorems/f83690ea-5c77-5979-9c74-79f27568a912

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_MinorLast_gram_eq_mul
 -- name    : GlobalTheory.IntBall.MinorLast.gram_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:46:04.11079+00:00
 -- url     : https://prove2.me/theorems/82fb8b39-3a94-4c77-9951-626f3d3f0a56

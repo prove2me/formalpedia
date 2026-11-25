@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCard_red_val
 -- name    : GlobalTheory.TorsionCard.red_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:10:02.510794+00:00
 -- url     : https://prove2.me/theorems/4897b837-573b-4c0f-aa1a-66c32e908e68

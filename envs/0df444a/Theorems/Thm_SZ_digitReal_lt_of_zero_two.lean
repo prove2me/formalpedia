@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_digitReal_lt_of_zero_two
 -- name    : SZ.digitReal_lt_of_zero_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:22:00.570311+00:00
 -- url     : https://prove2.me/theorems/ffe6952f-bee9-4931-87f2-a783640f2dd8

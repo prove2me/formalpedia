@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_tree_exists_branching
 -- name    : SZ.tree_exists_branching
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:14:57.071861+00:00
 -- url     : https://prove2.me/theorems/70babab5-1b40-4298-a496-2be2bd73e99a

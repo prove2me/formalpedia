@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_normalizedAbv_eq_zpow
 -- name    : GroundTheory.Global.normalizedAbv_eq_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:57:52.727803+00:00
 -- url     : https://prove2.me/theorems/d81c025a-4569-4557-8ef3-1f7ff36c38f7

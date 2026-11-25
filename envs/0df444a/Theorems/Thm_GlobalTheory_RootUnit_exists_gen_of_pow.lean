@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootUnit_exists_gen_of_pow
 -- name    : GlobalTheory.RootUnit.exists_gen_of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:55:52.216084+00:00
 -- url     : https://prove2.me/theorems/3453fc7b-5e06-4bff-923f-c3c07e26351f

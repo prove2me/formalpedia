@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_vmap_self
 -- name    : PretorsionImageClosed.LinearQuiver.vmap_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:04:45.817621+00:00
 -- url     : https://prove2.me/theorems/7ecf3d3b-5ebf-5f06-a934-b45a1cb2eaee

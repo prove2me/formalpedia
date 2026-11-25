@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubeComplex_exactAt_succ_iff_faces
 -- name    : GlobalTheory.cubeComplex_exactAt_succ_iff_faces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:14:38.292257+00:00
 -- url     : https://prove2.me/theorems/ebd2fb24-2d4e-47f8-9017-49ab6ff48426

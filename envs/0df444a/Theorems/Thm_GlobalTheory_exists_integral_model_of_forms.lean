@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_integral_model_of_forms
 -- name    : GlobalTheory.exists_integral_model_of_forms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:33:31.710109+00:00
 -- url     : https://prove2.me/theorems/085b48fd-390c-42f1-8c10-91541e90b096

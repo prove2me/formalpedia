@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFRadRedLocSec_zeta_lt
 -- name    : Formalism.FourierDecayAlt.P.NFRadRedLocSec.zeta_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:32:07.96193+00:00
 -- url     : https://prove2.me/theorems/220a81d0-9d3d-4ace-9b68-cde9d21a352b

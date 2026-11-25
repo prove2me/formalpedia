@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FlagSectionAction_zAct_rmul
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FlagSectionAction.zAct_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:45:19.500334+00:00
 -- url     : https://prove2.me/theorems/5e70e1da-8951-47d0-9f18-e92209c7736a

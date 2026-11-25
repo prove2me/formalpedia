@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_block_one_first_vector_formula
 -- name    : GlobalTheory.T.gram_block_one_first_vector_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:41:04.803849+00:00
 -- url     : https://prove2.me/theorems/a85874d5-0080-43c8-ac8c-509c85a6a407

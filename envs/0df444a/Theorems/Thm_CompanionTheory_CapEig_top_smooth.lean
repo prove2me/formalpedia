@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_CapEig_top_smooth
 -- name    : CompanionTheory.CapEig.top_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:43:51.829065+00:00
 -- url     : https://prove2.me/theorems/2f27f146-9042-5b2c-839b-3600b3a4fccb

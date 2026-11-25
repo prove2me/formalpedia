@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_EpsProj_mem_range_iff
 -- name    : GlobalTheory.BadShare.EpsProj.mem_range_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:56:39.304248+00:00
 -- url     : https://prove2.me/theorems/930e95fe-4d19-45c7-adff-27e409814821

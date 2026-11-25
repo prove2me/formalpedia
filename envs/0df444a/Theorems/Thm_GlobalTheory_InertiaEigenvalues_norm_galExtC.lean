@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertiaEigenvalues_norm_galExtC
 -- name    : GlobalTheory.InertiaEigenvalues.norm_galExtC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:19:36.58003+00:00
 -- url     : https://prove2.me/theorems/3280bb4d-9bed-4916-b9d5-719c39425110

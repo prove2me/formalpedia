@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_tree_exists_fst_eq_zero
 -- name    : SZ.tree_exists_fst_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:19:22.056278+00:00
 -- url     : https://prove2.me/theorems/cc848ce8-11fa-5181-8710-184e506a21dc

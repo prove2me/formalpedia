@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_norm_padFin_clm_le
 -- name    : SNumbers.norm_padFin_clm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:45:19.318307+00:00
 -- url     : https://prove2.me/theorems/768871a9-3f1a-488e-aa35-df09021400a6

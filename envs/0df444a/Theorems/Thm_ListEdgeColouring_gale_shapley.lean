@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ListEdgeColouring_gale_shapley
 -- name    : ListEdgeColouring.gale_shapley
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:10:45.232809+00:00
 -- url     : https://prove2.me/theorems/fe16ebef-ae26-4393-90df-fda0cfc36e63

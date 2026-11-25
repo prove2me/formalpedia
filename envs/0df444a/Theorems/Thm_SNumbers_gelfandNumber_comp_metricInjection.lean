@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_gelfandNumber_comp_metricInjection
 -- name    : SNumbers.gelfandNumber_comp_metricInjection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:31:34.894889+00:00
 -- url     : https://prove2.me/theorems/27310c53-abd2-4b24-a10d-0726969bcb7b

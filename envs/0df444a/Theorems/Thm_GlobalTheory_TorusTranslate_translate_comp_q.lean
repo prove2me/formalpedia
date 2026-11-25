@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusTranslate_translate_comp_q
 -- name    : GlobalTheory.TorusTranslate.translate_comp_q
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:05:29.17696+00:00
 -- url     : https://prove2.me/theorems/368c84ed-0ebe-48d9-8146-28ce5187ec48

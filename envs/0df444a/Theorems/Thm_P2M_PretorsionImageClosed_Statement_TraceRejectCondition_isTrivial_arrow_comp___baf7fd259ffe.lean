@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PretorsionImageClosed_Statement_TraceRejectCondition_isTrivial_arrow_comp___baf7fd259ffe
 -- name    : P2M_PretorsionImageClosed_Statement_TraceRejectCondition_isTrivial_arrow_comp___baf7fd259ffe
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:28:54.631053+00:00
 -- url     : https://prove2.me/theorems/07ac7e7a-00f2-4cc3-9c9c-b428ad967d87

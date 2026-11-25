@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBallMinorOne_lowMat_diag
 -- name    : GlobalTheory.IntBallMinorOne.lowMat_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:45:27.90135+00:00
 -- url     : https://prove2.me/theorems/19ee2793-fe8f-5af4-9198-6aee8073bad3

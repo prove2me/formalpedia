@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AntisymDivisible_vanish_of_open_4ef6119401a2
 -- name    : P2M_GroundTheory_Heights__Heights_AntisymDivisible_vanish_of_open_4ef6119401a2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:14:59.293472+00:00
 -- url     : https://prove2.me/theorems/7cb17f71-170c-4516-90bb-3a0a014dffc0

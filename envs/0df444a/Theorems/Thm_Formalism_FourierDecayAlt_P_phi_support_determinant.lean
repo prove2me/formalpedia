@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_phi_support_determinant
 -- name    : Formalism.FourierDecayAlt.P.phi_support_determinant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:40:42.978804+00:00
 -- url     : https://prove2.me/theorems/2f554f71-2df1-4859-a78d-87ad1c54de7c

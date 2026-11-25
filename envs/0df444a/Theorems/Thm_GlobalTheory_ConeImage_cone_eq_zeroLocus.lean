@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConeImage_cone_eq_zeroLocus
 -- name    : GlobalTheory.ConeImage.cone_eq_zeroLocus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:25:59.151309+00:00
 -- url     : https://prove2.me/theorems/1b64a030-ff74-44a5-a679-fe4b3c04ee14

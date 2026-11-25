@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_zetaLandau
 -- name    : Formalism.zetaLandau
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:14:10.812246+00:00
 -- url     : https://prove2.me/theorems/53864c59-77fb-4b26-8749-0b6d0d676ca1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_Regauge_isCanonGauge_sub
 -- name    : GlobalTheory.ChartCmp.Regauge.isCanonGauge_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:37:57.57845+00:00
 -- url     : https://prove2.me/theorems/1ee7f4be-1a4a-49af-8f5b-8fd018abda9c

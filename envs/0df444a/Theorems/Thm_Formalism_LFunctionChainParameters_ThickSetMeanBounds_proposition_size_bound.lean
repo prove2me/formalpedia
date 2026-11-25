@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_proposition_size_bound
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.proposition_size_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:57:50.178653+00:00
 -- url     : https://prove2.me/theorems/51932f29-8326-431d-a337-36b3399b93fb

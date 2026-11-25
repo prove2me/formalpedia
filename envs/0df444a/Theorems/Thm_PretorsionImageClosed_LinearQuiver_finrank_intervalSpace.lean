@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_finrank_intervalSpace
 -- name    : PretorsionImageClosed.LinearQuiver.finrank_intervalSpace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:01:47.495048+00:00
 -- url     : https://prove2.me/theorems/9f6e2366-a98a-59b3-ad3f-85b35e9ae127

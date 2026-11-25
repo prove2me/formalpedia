@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_treeXi_injective
 -- name    : SZ.treeXi_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:23:12.113582+00:00
 -- url     : https://prove2.me/theorems/0ec42add-7ca9-4cb2-aca1-75398bcd329c

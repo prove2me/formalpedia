@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold1_chi_eq_zero_814fee02fbe4
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold1_chi_eq_zero_814fee02fbe4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:05:28.176911+00:00
 -- url     : https://prove2.me/theorems/11eb5b4e-d820-4a60-b8b2-8d691aabb6a4

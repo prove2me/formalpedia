@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Height_OrderTieGuards_v_zpow
 -- name    : GlobalTheory.Height.OrderTieGuards.v_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:43:28.066495+00:00
 -- url     : https://prove2.me/theorems/c0e2499d-30c1-44da-9fe7-c106e107e6ca

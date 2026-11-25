@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_injective_gelfandNumber
 -- name    : SNumbers.injective_gelfandNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:09:27.936479+00:00
 -- url     : https://prove2.me/theorems/c0c06de7-be0f-49d9-8a93-bfe37c72e07c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AuslanderBuchsbaumDepthLower_subsingleton_ext_of_hasProjectiveDimensionLE_3df477c9653d
 -- name    : P2M_GroundTheory_Heights__Heights_AuslanderBuchsbaumDepthLower_subsingleton_ext_of_hasProjectiveDimensionLE_3df477c9653d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:15:20.636194+00:00
 -- url     : https://prove2.me/theorems/b2420455-6b6c-420b-ad93-cf1cd2da6426

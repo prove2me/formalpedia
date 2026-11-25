@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_hTransAB_differentiableOn
 -- name    : GlobalTheory.HeckeTwo.hTransAB_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:13:08.080786+00:00
 -- url     : https://prove2.me/theorems/6fac06ed-967a-45a4-bf21-55375a645436

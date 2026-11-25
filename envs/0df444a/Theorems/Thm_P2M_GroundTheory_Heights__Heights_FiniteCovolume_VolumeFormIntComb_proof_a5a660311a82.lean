@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_VolumeFormIntComb_proof_a5a660311a82
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_VolumeFormIntComb_proof_a5a660311a82
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:48:02.247892+00:00
 -- url     : https://prove2.me/theorems/5b0e72bf-fa34-4644-97b9-2e87436e507c

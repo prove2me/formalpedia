@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_WeightedNormSq_proof_e276cf8a1735
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_WeightedNormSq_proof_e276cf8a1735
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:43:00.255803+00:00
 -- url     : https://prove2.me/theorems/709720ef-0fe4-43c7-8b51-5a055b572937

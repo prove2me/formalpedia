@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGG_act__a_200fb8f04dea
 -- name    : P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGG_act__a_200fb8f04dea
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:36.180646+00:00
 -- url     : https://prove2.me/theorems/02b73f22-ce03-4e22-9e64-14d5162958f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_CocycleSum_four
 -- name    : GlobalTheory.PDiv.CocycleSum.four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:47:09.319992+00:00
 -- url     : https://prove2.me/theorems/e54f0ecd-fd58-51e9-9ba7-dcab250d28ea

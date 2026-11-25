@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_stabilizer_smul_eq
 -- name    : GroundTheory.Global.Artin.stabilizer_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:30:42.696658+00:00
 -- url     : https://prove2.me/theorems/d1628047-2f59-4984-8008-9477f9dbe83e

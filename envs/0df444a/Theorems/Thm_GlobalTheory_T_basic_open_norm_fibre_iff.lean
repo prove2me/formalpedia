@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_basic_open_norm_fibre_iff
 -- name    : GlobalTheory.T.basic_open_norm_fibre_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:27:35.847793+00:00
 -- url     : https://prove2.me/theorems/30361222-efdb-47d9-bf8a-ebcdca7bef58

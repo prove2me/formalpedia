@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_GaugeDiff_germEv_germEv_two_points
 -- name    : GlobalTheory.ChartCmp.GaugeDiff.germEv_germEv_two_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:43:05.565384+00:00
 -- url     : https://prove2.me/theorems/c23374b0-caab-59ba-b828-87046dc80e06

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_coe_norm_inf_ker_prod
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.coe_norm_inf_ker_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:47:29.827467+00:00
 -- url     : https://prove2.me/theorems/33f86a2b-ea57-4070-959f-c00f52e2614a

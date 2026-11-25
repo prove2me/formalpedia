@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_conj_mem_e10fd5f7b52f
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_conj_mem_e10fd5f7b52f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:53:59.285262+00:00
 -- url     : https://prove2.me/theorems/47b58443-3cc7-4191-a37b-5244a6fd5429

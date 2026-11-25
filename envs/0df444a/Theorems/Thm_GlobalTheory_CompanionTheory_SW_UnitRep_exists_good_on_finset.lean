@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_UnitRep_exists_good_on_finset
 -- name    : GlobalTheory.CompanionTheory.SW.UnitRep.exists_good_on_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:10:43.238786+00:00
 -- url     : https://prove2.me/theorems/86c94290-0791-4b1a-8e58-b9ed6651bf8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mem_finiteIntegralUnits
 -- name    : GroundTheory.Global.mem_finiteIntegralUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:39:57.078246+00:00
 -- url     : https://prove2.me/theorems/bb4f6415-e6b8-5bc0-91aa-6904bd38e8d5

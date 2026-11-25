@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_avoid_sum_le
 -- name    : GlobalTheory.BadShare.avoid_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:48:12.710741+00:00
 -- url     : https://prove2.me/theorems/843bfec9-fa87-4fd2-adfe-27318040d6ec

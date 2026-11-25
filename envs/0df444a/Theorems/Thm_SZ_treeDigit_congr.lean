@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_treeDigit_congr
 -- name    : SZ.treeDigit_congr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:22:49.293849+00:00
 -- url     : https://prove2.me/theorems/173c1d2c-c834-4dcb-87f6-43d2ca0059b8

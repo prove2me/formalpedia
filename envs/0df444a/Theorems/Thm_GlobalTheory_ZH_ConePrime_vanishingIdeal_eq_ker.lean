@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_ConePrime_vanishingIdeal_eq_ker
 -- name    : GlobalTheory.ZH.ConePrime.vanishingIdeal_eq_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:02:07.308312+00:00
 -- url     : https://prove2.me/theorems/1b2faa05-cf4a-438a-bca5-c8ae336a6cc0

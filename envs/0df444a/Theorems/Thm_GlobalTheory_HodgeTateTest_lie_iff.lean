@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateTest_lie_iff
 -- name    : GlobalTheory.HodgeTateTest.lie_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:56:49.745011+00:00
 -- url     : https://prove2.me/theorems/6564d71b-9b77-4f68-8d9c-e3af9afe4ce1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_VecAtNeZero_proof_8dea7b49204d
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_VecAtNeZero_proof_8dea7b49204d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:44:29.386342+00:00
 -- url     : https://prove2.me/theorems/a8c66cd9-6dd5-49d8-9e90-9594d57fac80

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_interval_iso_iff
 -- name    : PretorsionImageClosed.LinearQuiver.interval_iso_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:07:28.528166+00:00
 -- url     : https://prove2.me/theorems/1a5df23f-2493-4b4c-966b-052657071047

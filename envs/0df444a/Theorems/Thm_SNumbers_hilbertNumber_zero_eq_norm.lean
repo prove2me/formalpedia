@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_hilbertNumber_zero_eq_norm
 -- name    : SNumbers.hilbertNumber_zero_eq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:18:41.728809+00:00
 -- url     : https://prove2.me/theorems/55a09b49-9a50-4f3b-92af-8502ff015031

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_stage_identity
 -- name    : GroundTheory.Automorphic.LineKernel.stage_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:31:56.112715+00:00
 -- url     : https://prove2.me/theorems/eb9b16f4-0c06-4c75-a749-e4168d751ecf

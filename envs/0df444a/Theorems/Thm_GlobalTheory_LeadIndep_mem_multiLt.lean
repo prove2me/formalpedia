@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeadIndep_mem_multiLt
 -- name    : GlobalTheory.LeadIndep.mem_multiLt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:49:43.086899+00:00
 -- url     : https://prove2.me/theorems/1759a7d2-07ae-497c-afec-3f82d54f69e9

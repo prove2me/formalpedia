@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_reject_iso
 -- name    : PretorsionImageClosed.Statement.Subcategory.reject_iso
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:28:32.031157+00:00
 -- url     : https://prove2.me/theorems/a09a0742-1c9e-535a-aec8-1e69f50dcc15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycFr_one_add_X_mul_derivative_bin
 -- name    : GlobalTheory.CycFr.one_add_X_mul_derivative_bin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:40:26.77685+00:00
 -- url     : https://prove2.me/theorems/a9a88772-7915-455d-947e-29b78015dd40

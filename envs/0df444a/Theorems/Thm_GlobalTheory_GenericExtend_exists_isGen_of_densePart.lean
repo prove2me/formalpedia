@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericExtend_exists_isGen_of_densePart
 -- name    : GlobalTheory.GenericExtend.exists_isGen_of_densePart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:01:12.911447+00:00
 -- url     : https://prove2.me/theorems/d633bbcd-7f28-4014-98d1-83042793ce63

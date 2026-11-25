@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_dEarly_le_total
 -- name    : Formalism.InvariantFactorPaths.L4.dEarly_le_total
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:02:24.813701+00:00
 -- url     : https://prove2.me/theorems/382b9085-409c-5e64-ae66-2b10876c5823

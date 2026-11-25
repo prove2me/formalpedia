@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_form_secondForm
 -- name    : GlobalTheory.HermFrame.form_secondForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:38:38.251423+00:00
 -- url     : https://prove2.me/theorems/46aab9f3-9d2d-45a4-b73f-6f514b7acd27

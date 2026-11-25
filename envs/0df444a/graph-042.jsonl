@@ -5281,7 +5281,7 @@
 {"parent": "GlobalTheory.FinTypCount.cong_of_code", "child": "Development_AbelianVarietyTheory_Proofs_UnitaryExistence_FiniteAdeleStrongApproximationModNat", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FinTypCount.cong_of_code", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_RankLeAleph0SmoothIrreducibleUnitaryAdelic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FinTypCount.cong_of_code", "child": "Formalism_LocalToGlobal_GaloisLevelStructure_DefsFinTyp", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.FibreStalk.ringKrullDim_stalk_fiber", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_RingKrullDimFiberStalkEqQuotient", "via": ["statement"]}
+{"parent": "GlobalTheory.FibreStalk.ringKrullDim_stalk_fiber", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_RingKrullDimFiberStalkEqQuotient", "via": ["solution", "statement"]}
 {"parent": "Formalism.REAL.right_derivative_mul", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CartanInvolutionConjTransposeMul", "via": ["solution", "statement"]}
 {"parent": "Formalism.REAL.right_derivative_mul", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_ComplexifiedDerivativeCommutator", "via": ["solution", "statement"]}
 {"parent": "Formalism.REAL.right_derivative_mul", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_MemUnitaryGroupIffMulConjTranspose", "via": ["solution", "statement"]}
@@ -11873,10 +11873,10 @@
 {"parent": "GlobalTheory.FunObj.integral_prod_mul_of_split", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_MeasurePreservingPiProdSplit", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FlagTransport.coordIso_apply", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LintegralTransportHermitianFrameChartMeasure", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FlagTransport.coordIso_apply", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HaarChart", "via": ["solution", "statement"]}
-{"parent": "CompanionTheory.D.gk.Poul.IsInv.exists_op", "child": "CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_HaarBumpFunctions_ExistsOpOfForm", "via": ["statement"]}
-{"parent": "CompanionTheory.D.gk.Poul.IsInv.exists_op", "child": "CompanionTheory_HarishChandraModules_BesselParameterIntegrals_SmoothCyclicVectors_IntegralMemOfIsClosed", "via": ["statement"]}
-{"parent": "CompanionTheory.D.gk.Poul.IsInv.exists_op", "child": "CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_HaarBumpFunctions_ExistsIsBump", "via": ["statement"]}
-{"parent": "CompanionTheory.D.gk.Poul.IsInv.exists_op", "child": "CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_AdmissibleSmoothVectors_Garding", "via": ["statement"]}
+{"parent": "CompanionTheory.D.gk.Poul.IsInv.exists_op", "child": "CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_HaarBumpFunctions_ExistsOpOfForm", "via": ["solution", "statement"]}
+{"parent": "CompanionTheory.D.gk.Poul.IsInv.exists_op", "child": "CompanionTheory_HarishChandraModules_BesselParameterIntegrals_SmoothCyclicVectors_IntegralMemOfIsClosed", "via": ["solution", "statement"]}
+{"parent": "CompanionTheory.D.gk.Poul.IsInv.exists_op", "child": "CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_HaarBumpFunctions_ExistsIsBump", "via": ["solution", "statement"]}
+{"parent": "CompanionTheory.D.gk.Poul.IsInv.exists_op", "child": "CompanionTheory_HarishChandraModules_KFiniteAnalyticVectors_AdmissibleSmoothVectors_Garding", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FormalMulN.formalGroupLaw_comp_mulN_add", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_FourierCoeffIntSt", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FormalMulN.formalGroupLaw_comp_mulN_add", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_ChartChg", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FormalMulN.formalGroupLaw_comp_mulN_add", "child": "Development_AbelianVarietyTheory_Proofs_RingsOfIntegers_ConstantCoeffEv", "via": ["solution", "statement"]}
@@ -12037,15 +12037,15 @@
 {"parent": "GlobalTheory.FourKFub.stdChar_continuous", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_UnifConst", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FourKFub.stdChar_continuous", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_FourierEtaleKEqIntegralPartialFourier", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FiniteFieldOfPoints.factor_of_range", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsFiniteFieldOfPoints", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.FormalConnection.T_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_ConnectionKillsSeries", "via": ["statement"]}
-{"parent": "GlobalTheory.FormalConnection.T_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_GEWick", "via": ["statement"]}
-{"parent": "GlobalTheory.FormalConnection.T_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_GaugeBilinearTermEqNegDoubleSum", "via": ["statement"]}
-{"parent": "GlobalTheory.FormalConnection.T_eq", "child": "Development_AbelianVarietyTheory_Proofs_FormalGroupCharts_InvariantDerivationsCommuteFormalConnection", "via": ["statement"]}
-{"parent": "GlobalTheory.FormalConnection.T_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_ChartChg", "via": ["statement"]}
-{"parent": "GlobalTheory.FormalConnection.T_eq", "child": "Development_AbelianVarietyTheory_Proofs_FormalGroupCharts_FormalEvSecondPointOfXZero", "via": ["statement"]}
-{"parent": "GlobalTheory.FormalConnection.T_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_WickOperatorVanishing", "via": ["statement"]}
-{"parent": "GlobalTheory.FormalConnection.T_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_GaugeExp", "via": ["statement"]}
-{"parent": "GlobalTheory.FormalConnection.T_eq", "child": "GlobalTheory.FormalLog.CZ.pt", "via": ["statement"]}
+{"parent": "GlobalTheory.FormalConnection.T_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_ConnectionKillsSeries", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FormalConnection.T_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_GEWick", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FormalConnection.T_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_GaugeBilinearTermEqNegDoubleSum", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FormalConnection.T_eq", "child": "Development_AbelianVarietyTheory_Proofs_FormalGroupCharts_InvariantDerivationsCommuteFormalConnection", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FormalConnection.T_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_ChartChg", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FormalConnection.T_eq", "child": "Development_AbelianVarietyTheory_Proofs_FormalGroupCharts_FormalEvSecondPointOfXZero", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FormalConnection.T_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_WickOperatorVanishing", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FormalConnection.T_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_GaugeExp", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FormalConnection.T_eq", "child": "GlobalTheory.FormalLog.CZ.pt", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FramePotential.factor_mem", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_LUStatementPf", "via": ["statement"]}
 {"parent": "GlobalTheory.FramePotential.factor_mem", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_SumBoundStatementPfA", "via": ["statement"]}
 {"parent": "GlobalTheory.FramePotential.factor_mem", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_ExtFStatementPfB", "via": ["statement"]}
@@ -12148,8 +12148,8 @@
 {"parent": "GlobalTheory.FrameSymmetry.subst_X_eq_copy", "child": "Development_AbelianVarietyTheory_Proofs_CuspFormEvaluations_ExistsSymmetrySeriesOfFrames", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FrameSymmetry.subst_X_eq_copy", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_GermBGen", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FrameSymmetry.subst_X_eq_copy", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.FunObj.invVol_conj_diagGL_mul", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_FlatTensorVacuum", "via": ["statement"]}
-{"parent": "GlobalTheory.FunObj.invVol_conj_diagGL_mul", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_InverseUnipotentVolumeConjDiagonalUnitsGLMul", "via": ["statement"]}
+{"parent": "GlobalTheory.FunObj.invVol_conj_diagGL_mul", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_FlatTensorVacuum", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FunObj.invVol_conj_diagGL_mul", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_InverseUnipotentVolumeConjDiagonalUnitsGLMul", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FixedPoint.value_comp", "child": "Development_AbelianVarietyTheory_Proofs_ThetaShiftProofs_ExistsUniqueFactorOfIsAlgClosed", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FixedPoint.value_comp", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsRingEquivOfIsTranscendenceBasis", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensVolS", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_DictRing", "via": ["statement"]}
@@ -13581,9 +13581,9 @@
 {"parent": "GlobalTheory.FunObj.FiniteSupport.transpose_mem_matLat", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_FlatTensorVacuum", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FunObj.FiniteSupport.transpose_mem_matLat", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_FourierJacobiUnipotentEqProdRootExchange", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FunObj.FiniteSupport.transpose_mem_matLat", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_CharEqOneOfOpENeZero", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.FiniteOrbit.exists_finiteDimensional_stable", "child": "Development_AbelianVarietyTheory_Proofs_HeightProofs_MulApply", "via": ["statement"]}
-{"parent": "GlobalTheory.FiniteOrbit.exists_finiteDimensional_stable", "child": "Development_AbelianVarietyTheory_Proofs_HeightProofs_IsLieDataCircle", "via": ["statement"]}
-{"parent": "GlobalTheory.FiniteOrbit.exists_finiteDimensional_stable", "child": "Development_AbelianVarietyTheory_Proofs_HeightProofs_CommutingAlgebrasFiniteSpan", "via": ["statement"]}
+{"parent": "GlobalTheory.FiniteOrbit.exists_finiteDimensional_stable", "child": "Development_AbelianVarietyTheory_Proofs_HeightProofs_MulApply", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FiniteOrbit.exists_finiteDimensional_stable", "child": "Development_AbelianVarietyTheory_Proofs_HeightProofs_IsLieDataCircle", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FiniteOrbit.exists_finiteDimensional_stable", "child": "Development_AbelianVarietyTheory_Proofs_HeightProofs_CommutingAlgebrasFiniteSpan", "via": ["solution", "statement"]}
 {"parent": "PI.UnitaryGroupMassFormula.LCG.gram_nonneg", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeSizeContinuity_LatticeIsometry", "via": ["solution", "statement"]}
 {"parent": "PI.UnitaryGroupMassFormula.LCG.gram_nonneg", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeCountingBound_SepDefs", "via": ["solution", "statement"]}
 {"parent": "PI.UnitaryGroupMassFormula.LCG.gram_nonneg", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeCountingBound_LatticeIsDiscreteGroup", "via": ["solution", "statement"]}
@@ -15354,12 +15354,12 @@
 {"parent": "GlobalTheory.FrameUnits.val_eq_one_of_corr", "child": "Development_AbelianVarietyTheory_Proofs_CuspFormEvaluations_TripleProductTorusPeriodicBounded", "via": ["statement"]}
 {"parent": "GlobalTheory.FrameUnits.val_eq_one_of_corr", "child": "Development_AbelianVarietyTheory_Proofs_CubicalLineBundles_HermFormPullEqOfLbIsoPow", "via": ["statement"]}
 {"parent": "GlobalTheory.FormalSeries.exists_subst_eq", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_EqZeroOrSingleOfDegreeLtTwo", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.FrameAdjSeries.pair_trunc", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_GermBSer", "via": ["statement"]}
-{"parent": "GlobalTheory.FrameAdjSeries.pair_trunc", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_GermCut", "via": ["statement"]}
-{"parent": "GlobalTheory.FrameAdjSeries.pair_trunc", "child": "Development_AbelianVarietyTheory_Proofs_CuspFormEvaluations_ExistsAdjointnessSeriesOfFrames", "via": ["statement"]}
-{"parent": "GlobalTheory.FrameAdjSeries.pair_trunc", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_GermBGen", "via": ["statement"]}
-{"parent": "GlobalTheory.FrameAdjSeries.pair_trunc", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_GermBPrim", "via": ["statement"]}
-{"parent": "GlobalTheory.FrameAdjSeries.pair_trunc", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["statement"]}
+{"parent": "GlobalTheory.FrameAdjSeries.pair_trunc", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_GermBSer", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FrameAdjSeries.pair_trunc", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_GermCut", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FrameAdjSeries.pair_trunc", "child": "Development_AbelianVarietyTheory_Proofs_CuspFormEvaluations_ExistsAdjointnessSeriesOfFrames", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FrameAdjSeries.pair_trunc", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_GermBGen", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FrameAdjSeries.pair_trunc", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_GermBPrim", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FrameAdjSeries.pair_trunc", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FunObj.FiniteSupport.midLev_lt_of_symLev_lt", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_FiniteUnfSupportOfNeOne", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FunObj.FiniteSupport.midLev_lt_of_symLev_lt", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_FlatTensorVacuum", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FunObj.FiniteSupport.midLev_lt_of_symLev_lt", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_FourierJacobiUnipotentEqProdRootExchange", "via": ["solution", "statement"]}
@@ -18865,10 +18865,10 @@
 {"parent": "FunctorialResolution.EmbeddedResolution.graphCoordinates_inr", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_GraphAlgebraStandardSmooth", "via": ["solution", "statement"]}
 {"parent": "FunctorialResolution.EmbeddedResolution.graphCoordinates_inr", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_AffineSpaceGlobalSections", "via": ["solution", "statement"]}
 {"parent": "FunctorialResolution.EmbeddedResolution.graphCoordinates_inr", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_GraphChartSmooth", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.HeckeTwo.cConst_differentiableOn", "child": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_Divisors__PartialZetaFunctionalEquation_ee0156e8c041b1a2", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwo.cConst_differentiableOn", "child": "Development_AbelianVarietyTheory_BlockTheory_DivisorBase_OmegaFactorization", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwo.cConst_differentiableOn", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_KFacDifferentiable", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwo.cConst_differentiableOn", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HeckePhiFourierConstantAtZeroDifferentiableOn", "via": ["statement"]}
+{"parent": "GlobalTheory.HeckeTwo.cConst_differentiableOn", "child": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_Divisors__PartialZetaFunctionalEquation_ee0156e8c041b1a2", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwo.cConst_differentiableOn", "child": "Development_AbelianVarietyTheory_BlockTheory_DivisorBase_OmegaFactorization", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwo.cConst_differentiableOn", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_KFacDifferentiable", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwo.cConst_differentiableOn", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HeckePhiFourierConstantAtZeroDifferentiableOn", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.GlobalFunctions.bc_prR", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_IsIsoAppTopOfIsAffine", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.GlobalFunctions.bc_prR", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_IsIsoAppTopOfIsPullbackOfSurjective", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.GlobalFunctions.bc_prR", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsAppTopEqOfEffectiveEpi", "via": ["solution", "statement"]}
@@ -19863,12 +19863,12 @@
 {"parent": "GlobalTheory.HL.CoordDatum.smul_set_iff", "child": "Formalism_SharpRestriction_CuspSpanNormBounds_IsTermOver", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HL.CoordDatum.smul_set_iff", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_HermitianFramePairCoordinatesTransportInnerData", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HL.CoordDatum.smul_set_iff", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_ComplementReferenceCompactSubgroup", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.GeneratorFunctor.cover_glue", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_ExistsSplitTorusPointsMulEquiv", "via": ["statement"]}
-{"parent": "GlobalTheory.GeneratorFunctor.cover_glue", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SemiabelianSchemes_PrecompleteBases_PsbLb", "via": ["statement"]}
-{"parent": "GlobalTheory.GeneratorFunctor.cover_glue", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_InverseBundleGeneratorPointOfChartUnitsSections", "via": ["statement"]}
-{"parent": "GlobalTheory.GeneratorFunctor.cover_glue", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_FamMod", "via": ["statement"]}
-{"parent": "GlobalTheory.GeneratorFunctor.cover_glue", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["statement"]}
-{"parent": "GlobalTheory.GeneratorFunctor.cover_glue", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_UnifUniqSt", "via": ["statement"]}
+{"parent": "GlobalTheory.GeneratorFunctor.cover_glue", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_ExistsSplitTorusPointsMulEquiv", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.GeneratorFunctor.cover_glue", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SemiabelianSchemes_PrecompleteBases_PsbLb", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.GeneratorFunctor.cover_glue", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_InverseBundleGeneratorPointOfChartUnitsSections", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.GeneratorFunctor.cover_glue", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_FamMod", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.GeneratorFunctor.cover_glue", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.GeneratorFunctor.cover_glue", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_UnifUniqSt", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HasTriangularWeight.norm_le_prod_pow", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_ExistsIsUnitEvalOfMapResidueNeZero", "via": ["solution", "statement"]}
 {"parent": "CSL_Generated_FiniteCircuit_RegisterTrace_Steps1792To2047", "child": "CSL_Generated_FiniteCircuit_SSARows", "via": ["statement"]}
 {"parent": "CSL_Generated_FiniteCircuit_RegisterTrace_Steps1792To2047", "child": "CSL_Circuit_Local_SSASparseIndices", "via": ["statement"]}
@@ -21413,11 +21413,11 @@
 {"parent": "P2M_PI_UnitaryGroupMassFormula_AdIndexEq_map_conj_mul__880dfd7f91e9", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicIndexEquality_Commensurated", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.GenericFlat.apply_eq_genericPoint", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsCompletedStrictHens", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.GenericFlat.apply_eq_genericPoint", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_InjectiveOfApplyEqGenericPoint", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.HL.CoordDatum.moves_iff", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_IsHermND", "via": ["statement"]}
-{"parent": "GlobalTheory.HL.CoordDatum.moves_iff", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_GgNone", "via": ["statement"]}
-{"parent": "GlobalTheory.HL.CoordDatum.moves_iff", "child": "Formalism_SharpRestriction_CuspSpanNormBounds_IsTermOver", "via": ["statement"]}
-{"parent": "GlobalTheory.HL.CoordDatum.moves_iff", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_HermitianFramePairCoordinatesTransportInnerData", "via": ["statement"]}
-{"parent": "GlobalTheory.HL.CoordDatum.moves_iff", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_ComplementReferenceCompactSubgroup", "via": ["statement"]}
+{"parent": "GlobalTheory.HL.CoordDatum.moves_iff", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_IsHermND", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HL.CoordDatum.moves_iff", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_GgNone", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HL.CoordDatum.moves_iff", "child": "Formalism_SharpRestriction_CuspSpanNormBounds_IsTermOver", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HL.CoordDatum.moves_iff", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_HermitianFramePairCoordinatesTransportInnerData", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HL.CoordDatum.moves_iff", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_ComplementReferenceCompactSubgroup", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HeckeTwo.SumGood.wirtWord_congr", "child": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_Divisors__PartialZetaFunctionalEquation_ee0156e8c041b1a2", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HeckeTwo.SumGood.wirtWord_congr", "child": "Development_AbelianVarietyTheory_BlockTheory_DivisorBase_OmegaFactorization", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HeckeTwo.SumGood.wirtWord_congr", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_IsSmoothHolomorphicInSigmaFamilyAdd", "via": ["solution", "statement"]}
@@ -23741,20 +23741,20 @@
 {"parent": "GlobalTheory.HeckeTwoAB.wt_ne", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HTransABTwoZero", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HeckeTwoAB.wt_ne", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HeckeHankelTransformABDifferentiableOnSigma", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HeckeTwoAB.wt_ne", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HeckePhiFourierConstantAtZeroDifferentiableOn", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_Divisors__PartialZetaFunctionalEquation_ee0156e8c041b1a2", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_BlockTheory_DivisorBase_OmegaFactorization", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_IsZLatticeFractionalIdealRealLatticeImage", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HeckePhiFourierTransformRapidDecayStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HeckeWeightTwoKernelPhiLineContinuousIntegrableStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_RembApply", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ProdRpowDecayIsBigOCocompactStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_KFacDifferentiable", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Formalism_LatticeTheta_ThetaShiftInversion", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_DiscreteTopologyFractionalIdealRealLatticeImage", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CovolumeFractionalIdealRealLatticeImage", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SummableHeckeWeightTwoLatticeSumStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_DualLatticeImageEqLatticeImageTraceDual", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HeckeWeightTwoPoissonSummationFractionalIdeal", "via": ["statement"]}
+{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_Divisors__PartialZetaFunctionalEquation_ee0156e8c041b1a2", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_BlockTheory_DivisorBase_OmegaFactorization", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_IsZLatticeFractionalIdealRealLatticeImage", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HeckePhiFourierTransformRapidDecayStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HeckeWeightTwoKernelPhiLineContinuousIntegrableStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_RembApply", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ProdRpowDecayIsBigOCocompactStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_KFacDifferentiable", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Formalism_LatticeTheta_ThetaShiftInversion", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_DiscreteTopologyFractionalIdealRealLatticeImage", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CovolumeFractionalIdealRealLatticeImage", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SummableHeckeWeightTwoLatticeSumStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_DualLatticeImageEqLatticeImageTraceDual", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwoPoisson.poisson", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HeckeWeightTwoPoissonSummationFractionalIdeal", "via": ["solution", "statement"]}
 {"parent": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CmHalfIntegralGeneratorMemAlgebraicClosure", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["statement"]}
 {"parent": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CmHalfIntegralGeneratorMemAlgebraicClosure", "child": "Formalism_HermitianCurvature_WeylElementCommutesLevelOne", "via": ["statement"]}
 {"parent": "Formalism.UG.Final.StdFormDef", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Stabstd", "via": ["solution", "statement"]}
@@ -24465,9 +24465,9 @@
 {"parent": "Formalism.FourierDecayAlt.P.BetaSesquilinearity.isOpen_Quad", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_ComplexifiedDerivativeCommutator", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.BetaSesquilinearity.isOpen_Quad", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.BetaSesquilinearity.isOpen_Quad", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CartanInvolutionConjTransposeMul", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.HilbertSamuelPS.val_smul", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_FinrankMulPowLeFinrankOfPowerSeries", "via": ["statement"]}
-{"parent": "GlobalTheory.HilbertSamuelPS.val_smul", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LinearIndependentOfDistinctValuationLikeStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.HilbertSamuelPS.val_smul", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_FinrankLeCardValuesStatement", "via": ["statement"]}
+{"parent": "GlobalTheory.HilbertSamuelPS.val_smul", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_FinrankMulPowLeFinrankOfPowerSeries", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HilbertSamuelPS.val_smul", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LinearIndependentOfDistinctValuationLikeStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HilbertSamuelPS.val_smul", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_FinrankLeCardValuesStatement", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeReferenceFrame_WFrameOf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeReferenceFrame_WBasis", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeReferenceFrame_WFrameOf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeReferenceFrame_MemLAOfNsmul", "via": ["statement"]}
 {"parent": "GlobalTheory.UnRep.Compare.unitary_iff_matrix", "child": "Development_AbelianVarietyTheory_Definitions_AdelicHermitianForms_IsHermForm", "via": ["solution", "statement"]}
@@ -26161,10 +26161,10 @@
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryClassFiniteness_UJClassFinOfLatFin", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryClassFiniteness_ClassFiniteOf", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryClassFiniteness_UJClassFinOfLatFin", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryClassFiniteness_UJClassFinOf", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryClassFiniteness_UJClassFinOfLatFin", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryClassFiniteness_RationalPointsDense", "via": ["statement"]}
-{"parent": "GlobalTheory.HermSign.exists_complexStructure", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsHolPeriods", "via": ["statement"]}
-{"parent": "GlobalTheory.HermSign.exists_complexStructure", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["statement"]}
-{"parent": "GlobalTheory.HermSign.exists_complexStructure", "child": "Development_AbelianVarietyTheory_Proofs_UnitaryExistence_SignatureHermitianModelOfDatum", "via": ["statement"]}
-{"parent": "GlobalTheory.HermSign.exists_complexStructure", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_MemIffConjugateNotMem", "via": ["statement"]}
+{"parent": "GlobalTheory.HermSign.exists_complexStructure", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsHolPeriods", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HermSign.exists_complexStructure", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HermSign.exists_complexStructure", "child": "Development_AbelianVarietyTheory_Proofs_UnitaryExistence_SignatureHermitianModelOfDatum", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HermSign.exists_complexStructure", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_MemIffConjugateNotMem", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Hk.LFam.norm_theta_large", "child": "Development_AbelianVarietyTheory_Definitions_GlobalTwisting_LamIdealOfNotPrimePow", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Hk.LFam.norm_theta_large", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_ExpSumBounds", "via": ["solution", "statement"]}
 {"parent": "ChromaticReconstruction.leafExt_recovery", "child": "RequestProject_RecoveryThm", "via": ["solution", "statement"]}
@@ -26607,11 +26607,11 @@
 {"parent": "GlobalTheory.Hk.LamRay.finite_idealsIn", "child": "Development_AbelianVarietyTheory_Definitions_GlobalTwisting_LamIdealOfNotPrimePow", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensVolDone", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensChLift", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensVolDone", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_LocDensVolTop", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.SW.GoodTrans.transit_ring", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_IsEulerProd", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.SW.GoodTrans.transit_ring", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_GermConstantsEqAlongAffineSpaceSquare", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.SW.GoodTrans.transit_ring", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_TensorIntegerRingAlmostAllPlaces", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.SW.GoodTrans.transit_ring", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_LatticeGramScalarAlmostAll", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.SW.GoodTrans.transit_ring", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_IntegralAlmostAllPlaces", "via": ["statement"]}
+{"parent": "GlobalTheory.CompanionTheory.SW.GoodTrans.transit_ring", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_IsEulerProd", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.SW.GoodTrans.transit_ring", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_GermConstantsEqAlongAffineSpaceSquare", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.SW.GoodTrans.transit_ring", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_TensorIntegerRingAlmostAllPlaces", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.SW.GoodTrans.transit_ring", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_LatticeGramScalarAlmostAll", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.SW.GoodTrans.transit_ring", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_IntegralAlmostAllPlaces", "via": ["solution", "statement"]}
 {"parent": "Formalism.FrobeniusOrbits.Orbits.orderOf_conjugation_eq_two", "child": "Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_Galois", "via": ["solution", "statement"]}
 {"parent": "Formalism.FrobeniusOrbits.Orbits.orderOf_conjugation_eq_two", "child": "Formalism_FrobeniusOrbits_HostOrbitsPlaces", "via": ["solution", "statement"]}
 {"parent": "Formalism.FrobeniusOrbits.Orbits.orderOf_conjugation_eq_two", "child": "Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_CoprimeTwoPow", "via": ["solution", "statement"]}
@@ -27745,12 +27745,12 @@
 {"parent": "PIW.AdelClassFin.SpO.blk_mulVec", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_SpDen", "via": ["solution", "statement"]}
 {"parent": "PIW.AdelClassFin.SpO.blk_mulVec", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_SplHformZero", "via": ["solution", "statement"]}
 {"parent": "PIW.AdelClassFin.SpO.blk_mulVec", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_HformSelfStar", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.HeckeTwo.hTransAB_differentiableOn", "child": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_Divisors__PartialZetaFunctionalEquation_ee0156e8c041b1a2", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwo.hTransAB_differentiableOn", "child": "Development_AbelianVarietyTheory_BlockTheory_DivisorBase_OmegaFactorization", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwo.hTransAB_differentiableOn", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_KFacDifferentiable", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwo.hTransAB_differentiableOn", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HTransABTwoZero", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwo.hTransAB_differentiableOn", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HeckeHankelTransformABDifferentiableOnSigma", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeTwo.hTransAB_differentiableOn", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HeckePhiFourierConstantAtZeroDifferentiableOn", "via": ["statement"]}
+{"parent": "GlobalTheory.HeckeTwo.hTransAB_differentiableOn", "child": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_Divisors__PartialZetaFunctionalEquation_ee0156e8c041b1a2", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwo.hTransAB_differentiableOn", "child": "Development_AbelianVarietyTheory_BlockTheory_DivisorBase_OmegaFactorization", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwo.hTransAB_differentiableOn", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_KFacDifferentiable", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwo.hTransAB_differentiableOn", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HTransABTwoZero", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwo.hTransAB_differentiableOn", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HeckeHankelTransformABDifferentiableOnSigma", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeTwo.hTransAB_differentiableOn", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HeckePhiFourierConstantAtZeroDifferentiableOn", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HermUnimod.unimodular_hermitian_eq_conj", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_FourierMatch", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HermUnimod.unimodular_hermitian_eq_conj", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_UnramifiedQuadraticIntegralTraceFormPerfectStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HermUnimod.unimodular_hermitian_eq_conj", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormOneAddEqOne", "via": ["solution", "statement"]}
@@ -31046,8 +31046,8 @@
 {"parent": "GlobalTheory.HolHom.isHolTo_mul", "child": "Development_AbelianVarietyTheory_Proofs_ThetaShiftProofs_HolomorphicHomDetermined", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Hk.RayCont.LSeries_eq", "child": "Development_AbelianVarietyTheory_Definitions_GlobalTwisting_LamIdealOfNotPrimePow", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Hk.RayCont.LSeries_eq", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionFamilyContinuationGrowth", "via": ["solution", "statement"]}
-{"parent": "ChromaticReconstruction.adj_map_of_repeated", "child": "RequestProject_RecoveryThm", "via": ["statement"]}
-{"parent": "ChromaticReconstruction.adj_map_of_repeated", "child": "RequestProject_WeightedIso", "via": ["statement"]}
+{"parent": "ChromaticReconstruction.adj_map_of_repeated", "child": "RequestProject_RecoveryThm", "via": ["solution", "statement"]}
+{"parent": "ChromaticReconstruction.adj_map_of_repeated", "child": "RequestProject_WeightedIso", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B2x3.Em_mul_out", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OppositeWeylSubgroupClosed", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B2x3.Em_mul_out", "child": "Formalism_HermitianCurvature_WeylElementCommutesLevelOne", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B2x3.Em_mul_out", "child": "Formalism_RealPlaceAnalysis_FinalF", "via": ["solution", "statement"]}
@@ -31386,12 +31386,12 @@
 {"parent": "Formalism.FourierDecayAlt.P.B4.gN_diag", "child": "Formalism_HermitianCurvature_StatementB", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B4.gN_diag", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_UnitaryWeylNormalHolds", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B4.gN_diag", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationUnipotentWeylMeasure", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.Hk.ZeroFree.ell_zero_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionFamilyLogDerivPositivityStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.Hk.ZeroFree.ell_zero_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionLogDerivLocalFormulaStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.Hk.ZeroFree.ell_zero_le", "child": "Development_AbelianVarietyTheory_Definitions_GlobalTwisting_LamIdealOfNotPrimePow", "via": ["statement"]}
-{"parent": "GlobalTheory.Hk.ZeroFree.ell_zero_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionFamilyContinuationGrowthStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.Hk.ZeroFree.ell_zero_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionZeroFreeRegion", "via": ["statement"]}
-{"parent": "GlobalTheory.Hk.ZeroFree.ell_zero_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassFamilyLogDerivReGtOneStatement", "via": ["statement"]}
+{"parent": "GlobalTheory.Hk.ZeroFree.ell_zero_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionFamilyLogDerivPositivityStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Hk.ZeroFree.ell_zero_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionLogDerivLocalFormulaStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Hk.ZeroFree.ell_zero_le", "child": "Development_AbelianVarietyTheory_Definitions_GlobalTwisting_LamIdealOfNotPrimePow", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Hk.ZeroFree.ell_zero_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionFamilyContinuationGrowthStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Hk.ZeroFree.ell_zero_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionZeroFreeRegion", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Hk.ZeroFree.ell_zero_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassFamilyLogDerivReGtOneStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Hk.ZeroFree.re_LSeries_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionFamilyLogDerivPositivityStatement", "via": ["statement"]}
 {"parent": "GlobalTheory.Hk.ZeroFree.re_LSeries_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionLogDerivLocalFormulaStatement", "via": ["statement"]}
 {"parent": "GlobalTheory.Hk.ZeroFree.re_LSeries_le", "child": "Development_AbelianVarietyTheory_Definitions_GlobalTwisting_LamIdealOfNotPrimePow", "via": ["statement"]}
@@ -31661,8 +31661,8 @@
 {"parent": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnZeroLevel", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZeroLevelIndex_SecondMinorZeroLevelFormula", "via": ["statement"]}
 {"parent": "GlobalTheory.CechDR.prodFirstProjection_smul", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_CechDeRhamTotalDifferentialOneFunctionPart", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CechDR.prodFirstProjection_smul", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_CechDeRhamCoefMapOneFormsRestrictAlongFunctor", "via": ["solution", "statement"]}
-{"parent": "ChromaticReconstruction.exists_weighted_iso", "child": "RequestProject_RecoveryThm", "via": ["statement"]}
-{"parent": "ChromaticReconstruction.exists_weighted_iso", "child": "RequestProject_WeightedIso", "via": ["statement"]}
+{"parent": "ChromaticReconstruction.exists_weighted_iso", "child": "RequestProject_RecoveryThm", "via": ["solution", "statement"]}
+{"parent": "ChromaticReconstruction.exists_weighted_iso", "child": "RequestProject_WeightedIso", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SkewAnalyticGroup_HasDerivAtShift", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CartanInvolutionConjTransposeMul", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SkewAnalyticGroup_HasDerivAtShift", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SkewAnalyticGroup_Development", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.HaarUniquenessConjugation.phi_closedEmbedding", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_HaarUniquenessConjugation", "via": ["solution", "statement"]}
@@ -32386,12 +32386,12 @@
 {"parent": "GlobalTheory.HoloWirt.wirt_false_eq_lineDeriv", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_DifferentiableOnOfTendstoLocallyUniformlyOn", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HoloWirt.wirt_false_eq_lineDeriv", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_IteratedComplexPartialDerivativeEqWirtingerWord", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HoloWirt.wirt_false_eq_lineDeriv", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_DifferentiableRisingS", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.Hk.ZeroFree.ell_two_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionFamilyLogDerivPositivityStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.Hk.ZeroFree.ell_two_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionLogDerivLocalFormulaStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.Hk.ZeroFree.ell_two_le", "child": "Development_AbelianVarietyTheory_Definitions_GlobalTwisting_LamIdealOfNotPrimePow", "via": ["statement"]}
-{"parent": "GlobalTheory.Hk.ZeroFree.ell_two_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionFamilyContinuationGrowthStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.Hk.ZeroFree.ell_two_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionZeroFreeRegion", "via": ["statement"]}
-{"parent": "GlobalTheory.Hk.ZeroFree.ell_two_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassFamilyLogDerivReGtOneStatement", "via": ["statement"]}
+{"parent": "GlobalTheory.Hk.ZeroFree.ell_two_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionFamilyLogDerivPositivityStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Hk.ZeroFree.ell_two_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionLogDerivLocalFormulaStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Hk.ZeroFree.ell_two_le", "child": "Development_AbelianVarietyTheory_Definitions_GlobalTwisting_LamIdealOfNotPrimePow", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Hk.ZeroFree.ell_two_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionFamilyContinuationGrowthStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Hk.ZeroFree.ell_two_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionZeroFreeRegion", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Hk.ZeroFree.ell_two_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassFamilyLogDerivReGtOneStatement", "via": ["solution", "statement"]}
 {"parent": "Formalism.QuantumDeterminants.capelli_highest_weight_holds", "child": "Formalism_RealPlaceAnalysis_ThirdArithmeticHolds", "via": ["solution", "statement"]}
 {"parent": "Formalism.QuantumDeterminants.capelli_highest_weight_holds", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_IOCentral", "via": ["solution", "statement"]}
 {"parent": "Formalism.QuantumDeterminants.capelli_highest_weight_holds", "child": "Formalism_FormalDegreeBessel_StatementIO", "via": ["solution", "statement"]}
@@ -32431,8 +32431,8 @@
 {"parent": "GlobalTheory.DenominatorOfSpan.exists_denominator", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_ExistsSmulMemOfSpanEqTop", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DenominatorOfSpan.exists_denominator", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_LinearDescent", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DenominatorOfSpan.exists_denominator", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_UnitLemmaGroup", "via": ["solution", "statement"]}
-{"parent": "ChromaticReconstruction.card_key_fiber", "child": "RequestProject_RecoveryThm", "via": ["statement"]}
-{"parent": "ChromaticReconstruction.card_key_fiber", "child": "RequestProject_WeightedIso", "via": ["statement"]}
+{"parent": "ChromaticReconstruction.card_key_fiber", "child": "RequestProject_RecoveryThm", "via": ["solution", "statement"]}
+{"parent": "ChromaticReconstruction.card_key_fiber", "child": "RequestProject_WeightedIso", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B4.W_congr", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CartanInvolutionConjTransposeMul", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B4.W_congr", "child": "Formalism_HermitianCurvature_StatementB", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B4.W_congr", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_UnitaryWeylNormalHolds", "via": ["solution", "statement"]}
@@ -32499,8 +32499,8 @@
 {"parent": "GlobalTheory.UnitLemma.exists_aeval_eq_of_charpoly_separable", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_CharpolyDvdPowFinrankOfAevalEqZero", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.UnitLemma.exists_aeval_eq_of_charpoly_separable", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_ExistsAevalEqOfCharpolySeparableInvolution", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.UnitLemma.exists_aeval_eq_of_charpoly_separable", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_UnitLemmaGroup", "via": ["solution", "statement"]}
-{"parent": "ChromaticReconstruction.miso_transfer", "child": "RequestProject_RecoveryThm", "via": ["statement"]}
-{"parent": "ChromaticReconstruction.miso_transfer", "child": "RequestProject_WeightedIso", "via": ["statement"]}
+{"parent": "ChromaticReconstruction.miso_transfer", "child": "RequestProject_RecoveryThm", "via": ["solution", "statement"]}
+{"parent": "ChromaticReconstruction.miso_transfer", "child": "RequestProject_WeightedIso", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Hk.RayCont.differentiableAt_integral", "child": "Development_AbelianVarietyTheory_Definitions_GlobalTwisting_LamIdealOfNotPrimePow", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Hk.RayCont.differentiableAt_integral", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionFamilyContinuationGrowth", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HostModel.trForm_bar_bar", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_UniformisationConclusion", "via": ["solution", "statement"]}
@@ -32941,12 +32941,12 @@
 {"parent": "Formalism.FourierDecayAlt.P.B4.dil_bound2", "child": "Formalism_HermitianCurvature_StatementB", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B4.dil_bound2", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_UnitaryWeylNormalHolds", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B4.dil_bound2", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationUnipotentWeylMeasure", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.Hk.ZeroFree.pole_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionFamilyLogDerivPositivityStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.Hk.ZeroFree.pole_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionLogDerivLocalFormulaStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.Hk.ZeroFree.pole_le", "child": "Development_AbelianVarietyTheory_Definitions_GlobalTwisting_LamIdealOfNotPrimePow", "via": ["statement"]}
-{"parent": "GlobalTheory.Hk.ZeroFree.pole_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionFamilyContinuationGrowthStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.Hk.ZeroFree.pole_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionZeroFreeRegion", "via": ["statement"]}
-{"parent": "GlobalTheory.Hk.ZeroFree.pole_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassFamilyLogDerivReGtOneStatement", "via": ["statement"]}
+{"parent": "GlobalTheory.Hk.ZeroFree.pole_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionFamilyLogDerivPositivityStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Hk.ZeroFree.pole_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionLogDerivLocalFormulaStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Hk.ZeroFree.pole_le", "child": "Development_AbelianVarietyTheory_Definitions_GlobalTwisting_LamIdealOfNotPrimePow", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Hk.ZeroFree.pole_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionFamilyContinuationGrowthStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Hk.ZeroFree.pole_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionZeroFreeRegion", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Hk.ZeroFree.pole_le", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassFamilyLogDerivReGtOneStatement", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B2x5.iL_val", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B2x5.iL_val", "child": "Formalism_HermitianCurvature_WeylElementCommutesLevelOne", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B2x5.iL_val", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_HeisenbergLeviConjugationMeasure", "via": ["solution", "statement"]}
@@ -33155,13 +33155,13 @@
 {"parent": "Formalism.FourierDecayAlt.P.B4.W_sub", "child": "Formalism_HermitianCurvature_StatementB", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B4.W_sub", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_UnitaryWeylNormalHolds", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B4.W_sub", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationUnipotentWeylMeasure", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.HkFam.ListedSubgroup.eq_comp_section", "child": "Development_AbelianVarietyTheory_Definitions_ModuliSpaces_KerScheme", "via": ["statement"]}
-{"parent": "GlobalTheory.HkFam.ListedSubgroup.eq_comp_section", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_GlobalSectionsRankAlgClosed", "via": ["statement"]}
-{"parent": "GlobalTheory.HkFam.ListedSubgroup.eq_comp_section", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_ExistsSubgroupEqRangeOfLists", "via": ["statement"]}
-{"parent": "GlobalTheory.HkFam.ListedSubgroup.eq_comp_section", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ThetaUnifAV", "via": ["statement"]}
-{"parent": "GlobalTheory.HkFam.ListedSubgroup.eq_comp_section", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_HeckeKer", "via": ["statement"]}
-{"parent": "GlobalTheory.HkFam.ListedSubgroup.eq_comp_section", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_BijectiveRestrictPointsOfEtaleOfHenselian", "via": ["statement"]}
-{"parent": "GlobalTheory.HkFam.ListedSubgroup.eq_comp_section", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_ExistsFiniteEtaleLatticeTorsionHom", "via": ["statement"]}
+{"parent": "GlobalTheory.HkFam.ListedSubgroup.eq_comp_section", "child": "Development_AbelianVarietyTheory_Definitions_ModuliSpaces_KerScheme", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HkFam.ListedSubgroup.eq_comp_section", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_GlobalSectionsRankAlgClosed", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HkFam.ListedSubgroup.eq_comp_section", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_ExistsSubgroupEqRangeOfLists", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HkFam.ListedSubgroup.eq_comp_section", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ThetaUnifAV", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HkFam.ListedSubgroup.eq_comp_section", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_HeckeKer", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HkFam.ListedSubgroup.eq_comp_section", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_BijectiveRestrictPointsOfEtaleOfHenselian", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HkFam.ListedSubgroup.eq_comp_section", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_ExistsFiniteEtaleLatticeTorsionHom", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.Final.HeckeUnit", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_ClassSet", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.Final.HeckeUnit", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Bridge", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.Final.HeckeUnit", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Fcompose", "via": ["solution", "statement"]}
@@ -33455,8 +33455,8 @@
 {"parent": "ReciprocityTheory.ChartRestriction.DS.HW.hwmf_mul_tv", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_InhabA", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.HW.hwmf_mul_tv", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_HighestWeights_ModelDer", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.HW.hwmf_mul_tv", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_HighestWeights_ModelFun", "via": ["solution", "statement"]}
-{"parent": "ChromaticReconstruction.adj_map", "child": "RequestProject_RecoveryThm", "via": ["statement"]}
-{"parent": "ChromaticReconstruction.adj_map", "child": "RequestProject_WeightedIso", "via": ["statement"]}
+{"parent": "ChromaticReconstruction.adj_map", "child": "RequestProject_RecoveryThm", "via": ["solution", "statement"]}
+{"parent": "ChromaticReconstruction.adj_map", "child": "RequestProject_WeightedIso", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HolPeriods.isDerivAt0_comp_equiv", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_ExistsDifferentiableOnTransfer", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HolPeriods.isDerivAt0_comp_equiv", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_DifferentiableOnOfTendstoLocallyUniformlyOn", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HolPeriods.isDerivAt0_comp_equiv", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsHolPeriods", "via": ["solution", "statement"]}
@@ -35396,9 +35396,9 @@
 {"parent": "Formalism.FourierDecayAlt.Q.LeftMultiplicationRule.glev_out", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LeftPhaseRule_MulApplyS", "via": ["solution", "statement"]}
 {"parent": "PI.IsotropicReflections.sw_e", "child": "Formalism_HermitianCurvature_StatementQ", "via": ["solution", "statement"]}
 {"parent": "PI.IsotropicReflections.sw_e", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeylConjugationFixedColumn_ReflectionScalarDualIsotropic", "via": ["solution", "statement"]}
-{"parent": "ChromaticReconstruction.swap_subset", "child": "RequestProject_PathLeafSwap", "via": ["statement"]}
-{"parent": "ChromaticReconstruction.swap_subset", "child": "RequestProject_Truncation", "via": ["statement"]}
-{"parent": "ChromaticReconstruction.swap_subset", "child": "RequestProject_PathLeaf", "via": ["statement"]}
+{"parent": "ChromaticReconstruction.swap_subset", "child": "RequestProject_PathLeafSwap", "via": ["solution", "statement"]}
+{"parent": "ChromaticReconstruction.swap_subset", "child": "RequestProject_Truncation", "via": ["solution", "statement"]}
+{"parent": "ChromaticReconstruction.swap_subset", "child": "RequestProject_PathLeaf", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.centredVaughan_smoothedMangoldt_identity", "child": "TaoFivePrimes_TypeISlabSums", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B2x6.lift_F", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_UnipotentHeisenbergDecomposition", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B2x6.lift_F", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_HeisenbergLeviConjugationMeasure", "via": ["solution", "statement"]}
@@ -37449,12 +37449,12 @@
 {"parent": "Formalism.FourierDecayAlt.P.B5.word_adj", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CartanInvolutionConjTransposeMul", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B5.word_adj", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_IntegralZeroFrequencyInvariant", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B5.word_adj", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RegularisedPairingViaPhase", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.B7.JM_eq", "child": "Formalism_FormalDegreeBessel_FinalBF", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.B7.JM_eq", "child": "Formalism_HermitianCurvature_StatementB", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.B7.JM_eq", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.B7.JM_eq", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdjointnessPolynomiallyBounded", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.B7.JM_eq", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbitalIntegralAeConvergenceContinuity", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.B7.JM_eq", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_IntegralZeroFrequencyInvariant", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.B7.JM_eq", "child": "Formalism_FormalDegreeBessel_FinalBF", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.B7.JM_eq", "child": "Formalism_HermitianCurvature_StatementB", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.B7.JM_eq", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.B7.JM_eq", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdjointnessPolynomiallyBounded", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.B7.JM_eq", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbitalIntegralAeConvergenceContinuity", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.B7.JM_eq", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_IntegralZeroFrequencyInvariant", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_TailIntegrals_HermMatrixMulVecFirst", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_TailIntegrals_InductiveHeisenbergInputs", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B2x3.Hb_conjT", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B2x3.Hb_conjT", "child": "Formalism_RealPlaceAnalysis_FinalF", "via": ["solution", "statement"]}
@@ -40592,9 +40592,9 @@
 {"parent": "Formalism.FourierDecayAlt.P.b2_rank_one_coord", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.b2_rank_one_coord", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RankOneEmbeddings", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.b2_rank_one_coord", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_ConjugationContinuousOnInvertible", "via": ["solution", "statement"]}
-{"parent": "ChromaticReconstruction.psiMap_spec", "child": "RequestProject_PathLeafSwap", "via": ["statement"]}
-{"parent": "ChromaticReconstruction.psiMap_spec", "child": "RequestProject_Truncation", "via": ["statement"]}
-{"parent": "ChromaticReconstruction.psiMap_spec", "child": "RequestProject_PathLeaf", "via": ["statement"]}
+{"parent": "ChromaticReconstruction.psiMap_spec", "child": "RequestProject_PathLeafSwap", "via": ["solution", "statement"]}
+{"parent": "ChromaticReconstruction.psiMap_spec", "child": "RequestProject_Truncation", "via": ["solution", "statement"]}
+{"parent": "ChromaticReconstruction.psiMap_spec", "child": "RequestProject_PathLeaf", "via": ["solution", "statement"]}
 {"parent": "PaleyWeil.paleyUnaryBound_13_1", "child": "Sensitivity214439_Phase0_RiemannHypothesisCurves_Paley2659LowMoments", "via": ["statement"]}
 {"parent": "PaleyWeil.paleyUnaryBound_13_1", "child": "Sensitivity214439_Phase0_RiemannHypothesisCurves_Paley2659PopulationMajorant", "via": ["statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_TailIntegrals_InvSqrtTwoMulSelf", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_TailIntegrals_MatExtBvec", "via": ["statement"]}
@@ -41151,12 +41151,12 @@
 {"parent": "Formalism.FourierDecayAlt.P.Qb1.lie1", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SumDualVectorEqZeta", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Qb1.lie1", "child": "Formalism_HermitianCurvature_StatementQ", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Qb1.lie1", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CasimirEigenvalueCoefficients", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.ThetaFn.isFnAt_iff_isFnPow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FirstCohomology_SectionArithmetic", "via": ["statement"]}
-{"parent": "GlobalTheory.ThetaFn.isFnAt_iff_isFnPow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_LinCombTrivG", "via": ["statement"]}
-{"parent": "GlobalTheory.ThetaFn.isFnAt_iff_isFnPow", "child": "Development_AbelianVarietyTheory_Definitions_ThetaValues_ExistsUniqueSecIsFnAt", "via": ["statement"]}
-{"parent": "GlobalTheory.ThetaFn.isFnAt_iff_isFnPow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ThetaVV", "via": ["statement"]}
-{"parent": "GlobalTheory.ThetaFn.isFnAt_iff_isFnPow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ThetaUnifAV", "via": ["statement"]}
-{"parent": "GlobalTheory.ThetaFn.isFnAt_iff_isFnPow", "child": "Development_AbelianVarietyTheory_Proofs_CubicalLineBundles_SemicharacterSqEqOneOfSymmetric", "via": ["statement"]}
+{"parent": "GlobalTheory.ThetaFn.isFnAt_iff_isFnPow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FirstCohomology_SectionArithmetic", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ThetaFn.isFnAt_iff_isFnPow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_LinCombTrivG", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ThetaFn.isFnAt_iff_isFnPow", "child": "Development_AbelianVarietyTheory_Definitions_ThetaValues_ExistsUniqueSecIsFnAt", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ThetaFn.isFnAt_iff_isFnPow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ThetaVV", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ThetaFn.isFnAt_iff_isFnPow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ThetaUnifAV", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ThetaFn.isFnAt_iff_isFnPow", "child": "Development_AbelianVarietyTheory_Proofs_CubicalLineBundles_SemicharacterSqEqOneOfSymmetric", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Qx2.pb_cbi", "child": "Formalism_FormalDegreeBessel_FinalWR", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Qx2.pb_cbi", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RegularisedPairingViaPhase", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Qx2.pb_cbi", "child": "Formalism_HermitianCurvature_StatementQ", "via": ["statement"]}
@@ -42212,9 +42212,9 @@
 {"parent": "GlobalTheory.DRFil.TensInj.tensor", "child": "GlobalTheory.DRFil.Adapted.tensor", "via": ["statement"]}
 {"parent": "GlobalTheory.DRFil.TensInj.tensor", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_IdemNotMemFilVOne", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DRFil.TensInj.tensor", "child": "GlobalTheory.DRFil.Spans.tensor", "via": ["statement"]}
-{"parent": "ChromaticReconstruction.compCount_PL_step", "child": "RequestProject_PathLeafSwap", "via": ["statement"]}
-{"parent": "ChromaticReconstruction.compCount_PL_step", "child": "RequestProject_Truncation", "via": ["statement"]}
-{"parent": "ChromaticReconstruction.compCount_PL_step", "child": "RequestProject_PathLeaf", "via": ["statement"]}
+{"parent": "ChromaticReconstruction.compCount_PL_step", "child": "RequestProject_PathLeafSwap", "via": ["solution", "statement"]}
+{"parent": "ChromaticReconstruction.compCount_PL_step", "child": "RequestProject_Truncation", "via": ["solution", "statement"]}
+{"parent": "ChromaticReconstruction.compCount_PL_step", "child": "RequestProject_PathLeaf", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnEabPres", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_DerivativePreservation_EabPresMain", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.Q.TPresMain.qminor_clm", "child": "Formalism_HermitianCurvature_StatementQ", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.Q.TPresMain.qminor_clm", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MinorSmoothness_HasDerivAtExt", "via": ["solution", "statement"]}
@@ -48107,12 +48107,12 @@
 {"parent": "CSL_Sorting_Bounds_SortingResourceBudget", "child": "CSL_Shared_Words_WordConvention", "via": ["statement"]}
 {"parent": "CSL_Sorting_Bounds_SortingResourceBudget", "child": "CSL_Compat", "via": ["statement"]}
 {"parent": "Formalism_HermitianCurvature_StatementJCT", "child": "Formalism_HermitianCurvature_StatementJC", "via": ["statement"]}
-{"parent": "P2M_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_gFromDiag__623203fd9e2d", "child": "Formalism_RealPlaceAnalysis_FinalF", "via": ["statement"]}
-{"parent": "P2M_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_gFromDiag__623203fd9e2d", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["statement"]}
-{"parent": "P2M_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_gFromDiag__623203fd9e2d", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_HaarUniquenessConjugation", "via": ["statement"]}
-{"parent": "P2M_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_gFromDiag__623203fd9e2d", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BetaSesquilinearity", "via": ["statement"]}
-{"parent": "P2M_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_gFromDiag__623203fd9e2d", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_LiftErrorLocal", "via": ["statement"]}
-{"parent": "P2M_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_gFromDiag__623203fd9e2d", "child": "Formalism_HermitianCurvature_WeylElementCommutesLevelOne", "via": ["statement"]}
+{"parent": "P2M_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_gFromDiag__623203fd9e2d", "child": "Formalism_RealPlaceAnalysis_FinalF", "via": ["solution", "statement"]}
+{"parent": "P2M_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_gFromDiag__623203fd9e2d", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["solution", "statement"]}
+{"parent": "P2M_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_gFromDiag__623203fd9e2d", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_HaarUniquenessConjugation", "via": ["solution", "statement"]}
+{"parent": "P2M_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_gFromDiag__623203fd9e2d", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BetaSesquilinearity", "via": ["solution", "statement"]}
+{"parent": "P2M_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_gFromDiag__623203fd9e2d", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_LiftErrorLocal", "via": ["solution", "statement"]}
+{"parent": "P2M_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_gFromDiag__623203fd9e2d", "child": "Formalism_HermitianCurvature_WeylElementCommutesLevelOne", "via": ["solution", "statement"]}
 {"parent": "SensitivityBaselineLossNumeric.phase0_mcert_7_9", "child": "Sensitivity214439_Phase0_Solutions_BaselineLossData", "via": ["statement"]}
 {"parent": "SensitivityBaselineLossNumeric.phase0_mcert_7_9", "child": "Sensitivity214439_Phase0_Solutions_BaselineLossChecks_Phase0M07_09", "via": ["statement"]}
 {"parent": "SensitivityBaselineLossNumeric.phase0_mcert_7_9", "child": "Sensitivity214439_Phase0_Solutions_BaselineLossNumeric", "via": ["statement"]}
@@ -48319,10 +48319,10 @@
 {"parent": "Formalism.FourierDecayAlt.P.CapelliWordSumExpansion.Xb_unit", "child": "Formalism_HermitianCurvature_StatementJF", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BK.PhiMod.phi_apply", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_SndDualLiftAlgebraMap", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BK.PhiMod.phi_apply", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_PowerSeriesVecReduceModUMulVec", "via": ["solution", "statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.CapelliEig.smooth_right_action", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_CapelliHighestWeightConjugated", "via": ["statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.CapelliEig.smooth_right_action", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CapelliEigenvalues_HeckeMultiplication", "via": ["statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.CapelliEig.smooth_right_action", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CapelliEigenvalues_CoreDefs", "via": ["statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.CapelliEig.smooth_right_action", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CapelliEigenvalues_Smooth", "via": ["statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.CapelliEig.smooth_right_action", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_CapelliHighestWeightConjugated", "via": ["solution", "statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.CapelliEig.smooth_right_action", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CapelliEigenvalues_HeckeMultiplication", "via": ["solution", "statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.CapelliEig.smooth_right_action", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CapelliEigenvalues_CoreDefs", "via": ["solution", "statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.CapelliEig.smooth_right_action", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CapelliEigenvalues_Smooth", "via": ["solution", "statement"]}
 {"parent": "PI.UnitaryCorollaryDerivatives.CCA.sm_Dw", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCorrectionU1_CompCA", "via": ["statement"]}
 {"parent": "PI.UnitaryCorollaryDerivatives.CCA.sm_Dw", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCorrectionU1_CoreStar", "via": ["statement"]}
 {"parent": "PI.UnitaryCorollaryDerivatives.CCA.sm_Dw", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BetaSesquilinearity", "via": ["statement"]}
@@ -48686,12 +48686,12 @@
 {"parent": "P2M_Formalism_FourierDecayAlt_P_B2x5_map__Heis_fdf4803780e5", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_FourierDecayAlt_P_B2x5_map__Heis_fdf4803780e5", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_HeisenbergLeviConjugationMeasure", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_FourierDecayAlt_P_B2x5_map__Heis_fdf4803780e5", "child": "Formalism_HermitianCurvature_WeylElementCommutesLevelOne", "via": ["solution", "statement"]}
-{"parent": "P2M_GlobalTheory_ThetaFn_valAt__rigT_c8abb9786299", "child": "Development_AbelianVarietyTheory_Proofs_CubicalLineBundles_SemicharacterSqEqOneOfSymmetric", "via": ["statement"]}
-{"parent": "P2M_GlobalTheory_ThetaFn_valAt__rigT_c8abb9786299", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FirstCohomology_SectionArithmetic", "via": ["statement"]}
-{"parent": "P2M_GlobalTheory_ThetaFn_valAt__rigT_c8abb9786299", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ThetaUnifAV", "via": ["statement"]}
-{"parent": "P2M_GlobalTheory_ThetaFn_valAt__rigT_c8abb9786299", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_LinCombTrivG", "via": ["statement"]}
-{"parent": "P2M_GlobalTheory_ThetaFn_valAt__rigT_c8abb9786299", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ThetaVV", "via": ["statement"]}
-{"parent": "P2M_GlobalTheory_ThetaFn_valAt__rigT_c8abb9786299", "child": "Development_AbelianVarietyTheory_Definitions_ThetaValues_ExistsUniqueSecIsFnAt", "via": ["statement"]}
+{"parent": "P2M_GlobalTheory_ThetaFn_valAt__rigT_c8abb9786299", "child": "Development_AbelianVarietyTheory_Proofs_CubicalLineBundles_SemicharacterSqEqOneOfSymmetric", "via": ["solution", "statement"]}
+{"parent": "P2M_GlobalTheory_ThetaFn_valAt__rigT_c8abb9786299", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FirstCohomology_SectionArithmetic", "via": ["solution", "statement"]}
+{"parent": "P2M_GlobalTheory_ThetaFn_valAt__rigT_c8abb9786299", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ThetaUnifAV", "via": ["solution", "statement"]}
+{"parent": "P2M_GlobalTheory_ThetaFn_valAt__rigT_c8abb9786299", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_LinCombTrivG", "via": ["solution", "statement"]}
+{"parent": "P2M_GlobalTheory_ThetaFn_valAt__rigT_c8abb9786299", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ThetaVV", "via": ["solution", "statement"]}
+{"parent": "P2M_GlobalTheory_ThetaFn_valAt__rigT_c8abb9786299", "child": "Development_AbelianVarietyTheory_Definitions_ThetaValues_ExistsUniqueSecIsFnAt", "via": ["solution", "statement"]}
 {"parent": "PaleyWeil.paleyUnaryBound_30_1", "child": "Sensitivity214439_Phase0_RiemannHypothesisCurves_Paley2659PopulationMajorant", "via": ["statement"]}
 {"parent": "PaleyWeil.paleyUnaryBound_30_1", "child": "Sensitivity214439_Phase0_RiemannHypothesisCurves_Paley2659LowMoments", "via": ["statement"]}
 {"parent": "PI.QnHermHaar.posL_inj", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HermitianHaarMeasure_SmoothLevZero", "via": ["solution", "statement"]}
@@ -51094,12 +51094,12 @@
 {"parent": "Formalism.FourierDecayAlt.P.B6.exists_bound_isTest_support", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_IntegralZeroFrequencyInvariant", "via": ["solution", "statement"]}
 {"parent": "P2M_AAInvW_smooth_right__23e71241d98e", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdjointInverseTranslate_AnaHpartUnique", "via": ["solution", "statement"]}
 {"parent": "P2M_AAInvW_smooth_right__23e71241d98e", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdjointInverseTranslate_SmoothLinear", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.B7.jc_integrable_of", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbitalIntegralAeConvergenceContinuity", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.B7.jc_integrable_of", "child": "Formalism_FormalDegreeBessel_FinalBF", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.B7.jc_integrable_of", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdjointnessPolynomiallyBounded", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.B7.jc_integrable_of", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.B7.jc_integrable_of", "child": "Formalism_HermitianCurvature_StatementB", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.B7.jc_integrable_of", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_IntegralZeroFrequencyInvariant", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.B7.jc_integrable_of", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbitalIntegralAeConvergenceContinuity", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.B7.jc_integrable_of", "child": "Formalism_FormalDegreeBessel_FinalBF", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.B7.jc_integrable_of", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdjointnessPolynomiallyBounded", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.B7.jc_integrable_of", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.B7.jc_integrable_of", "child": "Formalism_HermitianCurvature_StatementB", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.B7.jc_integrable_of", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_IntegralZeroFrequencyInvariant", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B2x2.semiHaar", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CompactGroupHaarExists", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B2x2.semiHaar", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B2x2.semiHaar", "child": "Formalism_HermitianCurvature_WeylElementCommutesLevelOne", "via": ["solution", "statement"]}
@@ -59511,11 +59511,11 @@
 {"parent": "Formalism.FourierDecayAlt.P.Ux3.minor_blocks", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SymmetricScalarBlockMatrixMul", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Ux3.minor_blocks", "child": "Formalism_HermitianCurvature_StatementU", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Ux3.minor_blocks", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Qx2.capelli_two_polynomial", "child": "Formalism_HermitianCurvature_StatementQ", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Qx2.capelli_two_polynomial", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Qx2.capelli_two_polynomial", "child": "Formalism_FormalDegreeBessel_FinalWR", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Qx2.capelli_two_polynomial", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RegularisedPairingViaPhase", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.Qx2.capelli_two_polynomial", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SumDualVectorEqZeta", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Qx2.capelli_two_polynomial", "child": "Formalism_HermitianCurvature_StatementQ", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Qx2.capelli_two_polynomial", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Qx2.capelli_two_polynomial", "child": "Formalism_FormalDegreeBessel_FinalWR", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Qx2.capelli_two_polynomial", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RegularisedPairingViaPhase", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.Qx2.capelli_two_polynomial", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SumDualVectorEqZeta", "via": ["solution", "statement"]}
 {"parent": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LeDivOfMulEqLe", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DetSubmatrixUnitriangularEqOne", "via": ["statement"]}
 {"parent": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LeDivOfMulEqLe", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_UpperMinorIdentity", "via": ["statement"]}
 {"parent": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LeDivOfMulEqLe", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_EntryMinorBounds", "via": ["statement"]}
@@ -63550,16 +63550,16 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_UnitaryLeviSummationGeometricSeriesStatement", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_UnitaryLeviSummationGeometricSeries", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.sv_herm_out", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_QuadraticFormTwoTwo_InLieW", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.sv_herm_out", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_QuadraticFormTwoTwo_SmoothVec", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_Block3MulBlocks", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BetaSesquilinearity", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Formalism_HermitianCurvature_StatementU", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationUnipotentWeylMeasure", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_CayleyTransformPreservesForm", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SymmetricScalarBlockMatrixTranspose", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CoordinateSizesOfHypotheses", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PhiBoundPartsOfRadicalParametrisation", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SymmetricScalarBlockMatrixMul", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DirectionsInParabolic", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_Block3MulBlocks", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BetaSesquilinearity", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Formalism_HermitianCurvature_StatementU", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationUnipotentWeylMeasure", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_CayleyTransformPreservesForm", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SymmetricScalarBlockMatrixTranspose", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CoordinateSizesOfHypotheses", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PhiBoundPartsOfRadicalParametrisation", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SymmetricScalarBlockMatrixMul", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.phi_support_determinant", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DirectionsInParabolic", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.ff_smul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_QuadraticFormTwoTwo_GANormSqStar", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.ff_smul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_QuadraticFormTwoTwo_TopLevelPointwiseIdentity", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.dilation_scales_heisenberg_measure", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CompactGroupHaarExists", "via": ["solution", "statement"]}
@@ -64372,10 +64372,10 @@
 {"parent": "Formalism.FourierDecayAlt.P.BigCellDecomposition.n_S", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BigCellDecomposition", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.BigCellDecomposition.n_S", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_TwoByOneBlock", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.BigCellDecomposition.n_S", "child": "Formalism_FormalDegreeBessel_FinalBF", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.big_cell_domain", "child": "Formalism_HermitianCurvature_StatementJF", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.big_cell_domain", "child": "Formalism_FormalDegreeBessel_FinalBF", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.big_cell_domain", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BigCellHermitian", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.big_cell_domain", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_TwoByOneBlock", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.big_cell_domain", "child": "Formalism_HermitianCurvature_StatementJF", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.big_cell_domain", "child": "Formalism_FormalDegreeBessel_FinalBF", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.big_cell_domain", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BigCellHermitian", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.big_cell_domain", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_TwoByOneBlock", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_ExistsUnitaryAdelicDecompositionSplitSupportStatement", "child": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_ExistsUnitaryAdelicDecompositionSplitSupport", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_ExistsUnitaryAdelicDecompositionSplitSupportStatement", "child": "Development_AbelianVarietyTheory_Definitions_AdelicHermitianForms_IsHermForm", "via": ["statement"]}
 {"parent": "GlobalTheory.BK.PhiMod.zeta_eq", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_PowerSeriesVecReduceModUMulVec", "via": ["solution", "statement"]}
@@ -64434,10 +64434,10 @@
 {"parent": "Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.gb_sub_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_QuadraticFormTwoTwo_ExistsFrameOfPositiveVector", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.gb_sub_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_QuadraticFormTwoTwo_GANormSqStar", "via": ["solution", "statement"]}
 {"parent": "VariationalBOED.vnmc_bound_gap_eq_expected_kl", "child": "VariationalBOED_Basic", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.JFxG.betaBig_congr", "child": "Formalism_HermitianCurvature_StatementJF", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.JFxG.betaBig_congr", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RadialAdjointOfParts", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.JFxG.betaBig_congr", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BigCellOrbitSet", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.JFxG.betaBig_congr", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PositiveOrbitOpen", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.JFxG.betaBig_congr", "child": "Formalism_HermitianCurvature_StatementJF", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.JFxG.betaBig_congr", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RadialAdjointOfParts", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.JFxG.betaBig_congr", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BigCellOrbitSet", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.JFxG.betaBig_congr", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PositiveOrbitOpen", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BK.eq_sum_bas", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_PowerSeriesVecReduceModUMulVec", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BK.eq_sum_bas", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_ConnPhiExtensionGeneratorEqZeta", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BK.PhiMod.raises_lphi", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_PowerSeriesVecReduceModUMulVec", "via": ["solution", "statement"]}
@@ -68205,11 +68205,11 @@
 {"parent": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BlockOfCauchySchwarz", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_JointInstanceTheoremA", "via": ["statement"]}
 {"parent": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BlockOfCauchySchwarz", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OutsideSystemsBound", "via": ["statement"]}
 {"parent": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BlockOfCauchySchwarz", "child": "Formalism_HermitianCurvature_StatementKB", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.inStrictNormalCrossingPosition_of_forall_etaleChart", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_CoordinateSubscheme", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.inStrictNormalCrossingPosition_of_forall_etaleChart", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_EtaleChartExistence", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.inStrictNormalCrossingPosition_of_forall_etaleChart", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_StrictTransformCharts_StrictNormalCrossingsEraseMember", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.inStrictNormalCrossingPosition_of_forall_etaleChart", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_CoordinateDivisorSmoothness", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.inStrictNormalCrossingPosition_of_forall_etaleChart", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_StrictNormalCrossings", "via": ["statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.inStrictNormalCrossingPosition_of_forall_etaleChart", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_CoordinateSubscheme", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.inStrictNormalCrossingPosition_of_forall_etaleChart", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_EtaleChartExistence", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.inStrictNormalCrossingPosition_of_forall_etaleChart", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_StrictTransformCharts_StrictNormalCrossingsEraseMember", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.inStrictNormalCrossingPosition_of_forall_etaleChart", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_CoordinateDivisorSmoothness", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.inStrictNormalCrossingPosition_of_forall_etaleChart", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_StrictNormalCrossings", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.SG.Pf.LatDictZ.Z2.plane_ring_half", "child": "Formalism_LocalToGlobal_SiegelLatticeTheory_FlagStabilizerTensors_RootLatticeThresholds_LatDictZPlane", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.SG.Pf.LatDictZ.Z2.plane_ring_half", "child": "Formalism_LocalToGlobal_SiegelLatticeTheory_FlagStabilizerTensors_RootLatticeThresholds_LatDictZAbs", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.InertCorner.H_smul", "child": "Development_AutomorphicSpectrum_Proofs_TwistedProofs_SmallCornerOfHeisenbergDual", "via": ["solution", "statement"]}
@@ -71923,9 +71923,9 @@
 {"parent": "GlobalTheory.InertZeta.latIndex_of_smith", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_IntegralLatticeInverseIndexOfElementaryDivisors", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.InertZeta.hAct_dosetInd_eq", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_HasLenOfLatLen", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.InertZeta.hAct_dosetInd_eq", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_BiInvariantReplaceSameDoubleCosetSums", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.InertiaEigenvalues.norm_galExtC", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_HTBasis", "via": ["statement"]}
-{"parent": "GlobalTheory.InertiaEigenvalues.norm_galExtC", "child": "Formalism_SharpRestriction_LevelLetterCocycles_DataNLoc", "via": ["statement"]}
-{"parent": "GlobalTheory.InertiaEigenvalues.norm_galExtC", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_GalExtCContinuous", "via": ["statement"]}
+{"parent": "GlobalTheory.InertiaEigenvalues.norm_galExtC", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_HTBasis", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.InertiaEigenvalues.norm_galExtC", "child": "Formalism_SharpRestriction_LevelLetterCocycles_DataNLoc", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.InertiaEigenvalues.norm_galExtC", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_GalExtCContinuous", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.DegreeMapArithmetic.weight_mono", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_IntegerProductCast_OfFnProdIntCast", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.DegreeMapArithmetic.weight_mono", "child": "Formalism_HermitianCurvature_CapelliDeterminantAndBranching", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.DegreeMapArithmetic.weight_mono", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_WeightMonotonicity", "via": ["solution", "statement"]}
@@ -74576,9 +74576,9 @@
 {"parent": "GlobalTheory.InertZeta.blk_eq_zero_iff", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_HasLenOfLatLen", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.InertZeta.blk_eq_zero_iff", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_UnitaryIwasawaCellsDisjoint", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.InertZeta.blk_eq_zero_iff", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_UnitaryLeviNormalizesUnipotentRadical", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.IntersectionSymm.side", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LengthCokerLsmulEqLengthKerAddSumStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.IntersectionSymm.side", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LengthSumHeightOneDisjointDivisors", "via": ["statement"]}
-{"parent": "GlobalTheory.IntersectionSymm.side", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LengthKerCokerLsmulQuotientSpanSwapStatement", "via": ["statement"]}
+{"parent": "GlobalTheory.IntersectionSymm.side", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LengthCokerLsmulEqLengthKerAddSumStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.IntersectionSymm.side", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LengthSumHeightOneDisjointDivisors", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.IntersectionSymm.side", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LengthKerCokerLsmulQuotientSpanSwapStatement", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.BorderedDeterminants.borderFirst", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_QuantumDetHighestWeightHolds", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.BorderedDeterminants.borderFirst", "child": "Formalism_HermitianCurvature_CapelliDeterminantAndBranching", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.BorderedDeterminants.borderFirst", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorCommutatorQuantumDet", "via": ["statement"]}
@@ -74921,8 +74921,8 @@
 {"parent": "Formalism.FourierDecayAlt.P.JFxB.integral_list_smul", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CvRhoOfParts", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.JFxB.integral_list_smul", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_JfCVUnderIntOfParts", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.JFxB.integral_list_smul", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RegularisedPairingViaPhase", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.LeftToRightConversion.twoSided", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LeftToRightConversion", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.LeftToRightConversion.twoSided", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_ListSumSplittings", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.LeftToRightConversion.twoSided", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LeftToRightConversion", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.LeftToRightConversion.twoSided", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_ListSumSplittings", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.IntSeries.intAA_prod", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_ConnectionKillsSeries", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.IntSeries.intAA_prod", "child": "Development_AbelianVarietyTheory_Proofs_RingsOfIntegers_IntAASubstOfHasSubst", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.OperatorRepresentations.rep_Tm", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LemmaDDeterminantIdentity", "via": ["solution", "statement"]}
@@ -78349,9 +78349,9 @@
 {"parent": "GlobalTheory.KeyKa.KoszulTors.koszul_tors", "child": "Development_AbelianVarietyTheory_Proofs_ThetaLawProofs_IsCxOfFactor", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.JR.TransferFactor.vrow_succ_cast", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_JacquetRallisTransferFactorKrylovDet", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.JR.TransferFactor.vrow_succ_cast", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_FourierMatch", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.Kempf.exists_mem_map_toInter_eq_zero", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_CohomologyPresheafFunctorMapAppApply", "via": ["statement"]}
-{"parent": "GlobalTheory.Kempf.exists_mem_map_toInter_eq_zero", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_MapFOneInjectiveOfSectionsSurjective", "via": ["statement"]}
-{"parent": "GlobalTheory.Kempf.exists_mem_map_toInter_eq_zero", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_IsIsoToInterAppPushforwardInclusion", "via": ["statement"]}
+{"parent": "GlobalTheory.Kempf.exists_mem_map_toInter_eq_zero", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_CohomologyPresheafFunctorMapAppApply", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Kempf.exists_mem_map_toInter_eq_zero", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_MapFOneInjectiveOfSectionsSurjective", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Kempf.exists_mem_map_toInter_eq_zero", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_IsIsoToInterAppPushforwardInclusion", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.PBC.Lat.volume_fundamentalDomain_standard_basis", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LevelSizesJointMean", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.PBC.Lat.volume_fundamentalDomain_standard_basis", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PBCLat", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.PBC.Lat.volume_fundamentalDomain_standard_basis", "child": "Lemmata_GeneralBFactRightSide_Imports", "via": ["solution", "statement"]}
@@ -78715,12 +78715,12 @@
 {"parent": "Formalism.FourierDecayAlt.P.JCx1.needs.hsVec_zero", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BlockEstimatesSumForm", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.JacStages.flatTensorEquiv_tprod", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_PiExteriorTensorFlattenedIndexEquivNested", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.JacStages.flatTensorEquiv_tprod", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_IsSubquotientOfEquiv", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.CechDR.cmpO_injective", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SecPullA", "via": ["statement"]}
-{"parent": "GlobalTheory.CechDR.cmpO_injective", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CochainValueOnThickeningHomEqSubOfGluedStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.CechDR.cmpO_injective", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_ComparisonMemCechHodgeFiltration", "via": ["statement"]}
-{"parent": "GlobalTheory.CechDR.cmpO_injective", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsGlueFunctionsSpecFromPairsStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.CechDR.cmpO_injective", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CocycleLocalSectionsRestrictCompatiblyStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.CechDR.cmpO_injective", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_StructureSheafComparisonInjective", "via": ["statement"]}
+{"parent": "GlobalTheory.CechDR.cmpO_injective", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SecPullA", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CechDR.cmpO_injective", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CochainValueOnThickeningHomEqSubOfGluedStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CechDR.cmpO_injective", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_ComparisonMemCechHodgeFiltration", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CechDR.cmpO_injective", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsGlueFunctionsSpecFromPairsStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CechDR.cmpO_injective", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CocycleLocalSectionsRestrictCompatiblyStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CechDR.cmpO_injective", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_StructureSheafComparisonInjective", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Kempf.toInter_app_comp_map_comp_inv", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_CohomologyPresheafFunctorMapAppApply", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Kempf.toInter_app_comp_map_comp_inv", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_MapFOneInjectiveOfSectionsSurjective", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Kempf.toInter_app_comp_map_comp_inv", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_IsIsoToInterAppPushforwardInclusion", "via": ["solution", "statement"]}
@@ -80830,8 +80830,8 @@
 {"parent": "GlobalTheory.JR.GLift.norm_vecMul_apply_le_one", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_UnitIndicatorGLBlockGlBorderedConjugationActionI", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.JR.GLift.coe_emb", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormMulApplyLeOne", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.JR.GLift.coe_emb", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_PreimageDiagOneGeneralLinearEmbeddingIntegralGLS", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.JR.HermInv.herm_invariants", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_UnitaryActionHermitianInvariantsTransitive", "via": ["statement"]}
-{"parent": "GlobalTheory.JR.HermInv.herm_invariants", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_FourierMatch", "via": ["statement"]}
+{"parent": "GlobalTheory.JR.HermInv.herm_invariants", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_UnitaryActionHermitianInvariantsTransitive", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.JR.HermInv.herm_invariants", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_FourierMatch", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.JR.integral_eq_zero_of_shift_mul", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_IsTestRep", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.JR.integral_eq_zero_of_shift_mul", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_HasCompactSupportPartialFourierGLBlock", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.KS.DimPEL.conj_eq_neg", "child": "Development_AbelianVarietyTheory_Definitions_ModuliSpaces_IsSymm", "via": ["solution", "statement"]}
@@ -83708,9 +83708,9 @@
 {"parent": "GlobalTheory.FlagPts.SphericalEisensteinCover.spanFrom_update_of_lt", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_DiagMatLower", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FlagPts.SphericalEisensteinCover.spanFrom_update_of_lt", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_ExistsAdaptedFrameBigCell", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LOneLower.wt_antitoneOn", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_ExistsLeNormLFunctionOne", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.CellSmoothness.jqSmooth_of_words", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BigCellHermitian", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.CellSmoothness.jqSmooth_of_words", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SmoothWordsAll", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.CellSmoothness.jqSmooth_of_words", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CellSmoothness", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.CellSmoothness.jqSmooth_of_words", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BigCellHermitian", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.CellSmoothness.jqSmooth_of_words", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SmoothWordsAll", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.CellSmoothness.jqSmooth_of_words", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CellSmoothness", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.KernelEigen.translT_whisker", "child": "Development_AbelianVarietyTheory_Definitions_TwoChartAtlas_TwoChartSt", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.KernelEigen.translT_whisker", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ThetaPt", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.KernelEigen.translT_whisker", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_GlobalSectionsRankAlgClosed", "via": ["solution", "statement"]}
@@ -84339,8 +84339,8 @@
 {"parent": "GlobalTheory.LinDescent.sum_coeff_eq_zero_of_linearIndependent", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_UniformisationConclusion", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LinDescent.sum_coeff_eq_zero_of_linearIndependent", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_ExistsDescentOfInvGenOfInvariants", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LinDescent.sum_coeff_eq_zero_of_linearIndependent", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_HeckeKer", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.LatL.glO_transitive_pairs", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormSubLeMaxUltra", "via": ["statement"]}
-{"parent": "GlobalTheory.LatL.glO_transitive_pairs", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_FourierMatch", "via": ["statement"]}
+{"parent": "GlobalTheory.LatL.glO_transitive_pairs", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormSubLeMaxUltra", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.LatL.glO_transitive_pairs", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_FourierMatch", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.PBA.sizeAt_nonneg", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdmissibleOfPlaces", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.PBA.sizeAt_nonneg", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SizeAtNonneg", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LevQuot.exists_subgroup_of_finite", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsAppTopEqOfEffectiveEpi", "via": ["solution", "statement"]}
@@ -84639,9 +84639,9 @@
 {"parent": "Formalism.FourierDecayAlt.P.HaarScaling.AB_le", "child": "Formalism_HermitianCurvature_WeylElementCommutesLevelOne", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.HaarScaling.AB_le", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LemmaBOfComponents", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.HaarScaling.AB_le", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_HaarScaling", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.LinSchurLatt.latt_open_compact_basis", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_AddCharNegEqOne", "via": ["statement"]}
-{"parent": "GlobalTheory.LinSchurLatt.latt_open_compact_basis", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_HilbertNinetyQuotientHomEqIff", "via": ["statement"]}
-{"parent": "GlobalTheory.LinSchurLatt.latt_open_compact_basis", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CharacterTrivialMatrixLatticeOpenCompactBasis", "via": ["statement"]}
+{"parent": "GlobalTheory.LinSchurLatt.latt_open_compact_basis", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_AddCharNegEqOne", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.LinSchurLatt.latt_open_compact_basis", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_HilbertNinetyQuotientHomEqIff", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.LinSchurLatt.latt_open_compact_basis", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CharacterTrivialMatrixLatticeOpenCompactBasis", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.PBJ.Frz.decay0", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SymmetricScalarBlockMatrixMul", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.PBJ.Frz.decay0", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BlockTwoDiagonalZeroSize", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.PBJ.Frz.decay0", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DirectionsInParabolic", "via": ["solution", "statement"]}
@@ -84731,9 +84731,9 @@
 {"parent": "Formalism.FourierDecayAlt.P.HermitianFormFactor.inner1", "child": "Formalism_HermitianCurvature_WeylElementCommutesLevelOne", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.HermitianFormFactor.inner1", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_HermitianFormFactor", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.HermitianFormFactor.inner1", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BetaSesquilinearity", "via": ["solution", "statement"]}
-{"parent": "Formalism.L2.NT.offs_add_le_sum", "child": "Formalism_LocalToGlobal_NormalizedHeckeFactors_TypesDefs", "via": ["statement"]}
-{"parent": "Formalism.L2.NT.offs_add_le_sum", "child": "Formalism_LocalToGlobal_UnitaryNorms_RealCyclotomicTwoPower", "via": ["statement"]}
-{"parent": "Formalism.L2.NT.offs_add_le_sum", "child": "Formalism_CyclotomicNorms_StatementT", "via": ["statement"]}
+{"parent": "Formalism.L2.NT.offs_add_le_sum", "child": "Formalism_LocalToGlobal_NormalizedHeckeFactors_TypesDefs", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.NT.offs_add_le_sum", "child": "Formalism_LocalToGlobal_UnitaryNorms_RealCyclotomicTwoPower", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.NT.offs_add_le_sum", "child": "Formalism_CyclotomicNorms_StatementT", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LatOrb.mem_GLint_iff_matLat_std", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_MemGLintIffMatrixImageStandardLatticeEq", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LatOrb.mem_GLint_iff_matLat_std", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_MemMatLat", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LatOrb.mem_GLint_iff_matLat_std", "child": "Formalism_SatakeDualWeyl_Statement", "via": ["solution", "statement"]}
@@ -89534,7 +89534,7 @@
 {"parent": "GlobalTheory.LocalQuad.exists_norm_of_quaternary", "child": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_ExistsQuaternaryOfCoordinates", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LocalQuad.exists_norm_of_quaternary", "child": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_Landherr__ExistsNormTensor_9eff20d6b37353d0", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LocalQuad.exists_norm_of_quaternary", "child": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_AdelicLattices__AlgebraMapNormOfBasisOneSqrt_07cf76d090f2548e", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.Lyndon.exists_suffix_le", "child": "Development_AbelianVarietyTheory_PublishedTheorems_TwistedTraceFormula_RadfordShufflePolynomialHolds", "via": ["statement"]}
+{"parent": "GlobalTheory.Lyndon.exists_suffix_le", "child": "Development_AbelianVarietyTheory_PublishedTheorems_TwistedTraceFormula_RadfordShufflePolynomialHolds", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LowestWeight.quad_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_ExhaustFStatementPfB", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LowestWeight.quad_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_OrthogonalFrameDomain", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LowestWeight.quad_eq", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_LowestWeightFunctionMulEq", "via": ["solution", "statement"]}
@@ -90764,20 +90764,20 @@
 {"parent": "GlobalTheory.LowestWeight.diagonal_mem_bor", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_FundamentalDomainPointBound", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LowestWeight.diagonal_mem_bor", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_FourierCoefficientDomain", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Mem.NrmCompl.nrmAbs_eq_zpow", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_NrmAbsOfValuationEqExp", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_NormBallVolumes", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RankOneEmbeddings", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BesselScaling", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_HaarUniquenessConjugation", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LongWeylElement", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationScalesHeisenbergMeasure", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SettingConstruction", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SettingExistence", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_ConjugationInvarianceEverySetting", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_TwoByOneBlock", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_UnipotentHeisenbergDecomposition", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OppositeWeylSubgroupClosed", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_WeylElementCommutesLevelOne", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_HermitianFormFactor", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_NormBallVolumes", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RankOneEmbeddings", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BesselScaling", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_HaarUniquenessConjugation", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LongWeylElement", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationScalesHeisenbergMeasure", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SettingConstruction", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SettingExistence", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_ConjugationInvarianceEverySetting", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_TwoByOneBlock", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_UnipotentHeisenbergDecomposition", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OppositeWeylSubgroupClosed", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_WeylElementCommutesLevelOne", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_all", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_HermitianFormFactor", "via": ["solution", "statement"]}
 {"parent": "Formalism.FrobeniusOrbits.Eta.card_gal", "child": "Formalism_FrobeniusOrbits_HostThickExists", "via": ["solution", "statement"]}
 {"parent": "Formalism.FrobeniusOrbits.Eta.card_gal", "child": "Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_Inertia", "via": ["solution", "statement"]}
 {"parent": "Formalism.FrobeniusOrbits.Eta.card_gal", "child": "Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_NcardEqTwoIff", "via": ["solution", "statement"]}
@@ -91380,22 +91380,22 @@
 {"parent": "GlobalTheory.LowestWeight.signed_isHermitian", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_FundamentalDomainPointBound", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LowestWeight.signed_isHermitian", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_FourierCoefficientDomain", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Lyndon.aeval_injective", "child": "Development_AbelianVarietyTheory_PublishedTheorems_TwistedTraceFormula_RadfordShufflePolynomialHolds", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_OrderAtGenericPoint", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionOfSingularities", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_AlgebraicPreliminaries_SpanSingletonProduct", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_IdealSheafOrder", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_IdealPrincipalization_MonomialCase_MonomialSplitting", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_IdealPrincipalization_MonomialCase_MonomialPartAlongDivisor", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_IteratedBlowups_ClopenRestriction", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_Foundations_BlowupUniversalProperty", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_Foundations_Schemes_AffineOpens", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_IrreducibleComponentsOfSupport", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_Foundations_Blowup_BlowupProperties", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_StrictTransformCharts_ControlledTransform", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_OrderAtMultiplicativity", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_StrictNormalCrossings", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_OrderPullback", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_IdealPrincipalization_MonomialCase_MonomialSplittingUniqueness", "via": ["statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_OrderAtGenericPoint", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionOfSingularities", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_AlgebraicPreliminaries_SpanSingletonProduct", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_IdealSheafOrder", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_IdealPrincipalization_MonomialCase_MonomialSplitting", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_IdealPrincipalization_MonomialCase_MonomialPartAlongDivisor", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_IteratedBlowups_ClopenRestriction", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_Foundations_BlowupUniversalProperty", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_Foundations_Schemes_AffineOpens", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_IrreducibleComponentsOfSupport", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_Foundations_Blowup_BlowupProperties", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_StrictTransformCharts_ControlledTransform", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_OrderAtMultiplicativity", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_StrictNormalCrossings", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_OrderPullback", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.exponent_eq_orderAlongComponent", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_IdealPrincipalization_MonomialCase_MonomialSplittingUniqueness", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.MultipleMembershipForAll.exists_mul_mem_of_forall", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsMulMemOfForall", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Ux11.loc", "child": "Formalism_HermitianCurvature_StatementU", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Ux11.loc", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_WeakToStrongSmoothnessReal", "via": ["solution", "statement"]}
@@ -94633,9 +94633,9 @@
 {"parent": "GlobalTheory.NormEq.span_piO_isMaximal", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_NormApproximationFirstLevel", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.NormEq.span_piO_isMaximal", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_IsReducedAdjoinRootOfSeparable", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.NormEq.span_piO_isMaximal", "child": "GroundTheory_LocalFields_FilteredSurj", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.Phase.ShapeOps.shape_conj", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_IntMIffInt", "via": ["statement"]}
-{"parent": "GlobalTheory.Phase.ShapeOps.shape_conj", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_RationalSchwartzBruhatAlgebraIntegralLinear", "via": ["statement"]}
-{"parent": "GlobalTheory.Phase.ShapeOps.shape_conj", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_IsCosetQuadraticPhaseTestFunctionConjCharacterMu", "via": ["statement"]}
+{"parent": "GlobalTheory.Phase.ShapeOps.shape_conj", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_IntMIffInt", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Phase.ShapeOps.shape_conj", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_RationalSchwartzBruhatAlgebraIntegralLinear", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Phase.ShapeOps.shape_conj", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_IsCosetQuadraticPhaseTestFunctionConjCharacterMu", "via": ["solution", "statement"]}
 {"parent": "Formalism.BasicNotions.Host.MuCond.even_im_hermitian_sub", "child": "Formalism_SharpRestriction_RamificationFrobenius_TotientGaloisClasses_HostFacts", "via": ["solution", "statement"]}
 {"parent": "Formalism.BasicNotions.Host.MuCond.even_im_hermitian_sub", "child": "Formalism_LocalRingCardinality_DataHost", "via": ["solution", "statement"]}
 {"parent": "Formalism.BasicNotions.Host.MuCond.even_im_hermitian_sub", "child": "Formalism_LocalRingCardinality_HostCls", "via": ["solution", "statement"]}
@@ -95597,7 +95597,7 @@
 {"parent": "GlobalTheory.IsoLift.cls_eq_iff_modN", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_ModNOfDvdModulus", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.IsoLift.cls_eq_iff_modN", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_ExistsIsometryLift", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.IsoLift.cls_eq_iff_modN", "child": "Development_AbelianVarietyTheory_BlockTheory_CMModuli_LevelActionTransitions", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.NoetherInt.exists_quasiFiniteAt_of_not_injective", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_ExistsQuasiFinitePolynomialMap", "via": ["statement"]}
+{"parent": "GlobalTheory.NoetherInt.exists_quasiFiniteAt_of_not_injective", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_ExistsQuasiFinitePolynomialMap", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.GalOfCusp.IsAttached.tempered", "child": "Formalism_SharpRestriction_LevelLetterCocycles_DataN", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.GalOfCusp.IsAttached.tempered", "child": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_GaloisCohomology__TrivialOnInertiaOfUnr_d5f82434e8467b70", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.MinorPolynomials.hasDerivAt_polyDb", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BudgetClassEstimate", "via": ["statement"]}
@@ -96552,8 +96552,8 @@
 {"parent": "GlobalTheory.NormalDescent.exists_normCoeff_not_mem", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_ExistsCharpolyBaseChangeIntegrallyClosedStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.NormalDescent.exists_normCoeff_not_mem", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_AlgebraMapNormCoeff", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.NormalDescent.exists_normCoeff_not_mem", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_ExistsReversedCharpolyCoeffNotMemPrime", "via": ["solution", "statement"]}
-{"parent": "Formalism.L2.Host.ActsAs.snd", "child": "Formalism_LocalToGlobal_UnitaryNorms_Lemmas", "via": ["statement"]}
-{"parent": "Formalism.L2.Host.ActsAs.snd", "child": "Formalism_LocalToGlobal_UnitaryNorms_RealCyclotomicTwoPower", "via": ["statement"]}
+{"parent": "Formalism.L2.Host.ActsAs.snd", "child": "Formalism_LocalToGlobal_UnitaryNorms_Lemmas", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Host.ActsAs.snd", "child": "Formalism_LocalToGlobal_UnitaryNorms_RealCyclotomicTwoPower", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.NatMulIntegerMultiple.main", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_ExistsNatMulEqInteger", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.OrbCpt.hm_self", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_ExistsCompactPreimageNormCentralizerHermitianStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.OrbCpt.hm_self", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_ConjugatesSeparableMatrixCompactModCentralizer", "via": ["solution", "statement"]}
@@ -96772,8 +96772,8 @@
 {"parent": "Sensitivity214439_Phase0_Solutions_UnaryWarmContext", "child": "Sensitivity214439_Phase0_Solutions_UnaryWarmGlobalNumeric", "via": ["statement"]}
 {"parent": "UpperTheory.Ram.Rd.rdE_le_QS", "child": "Development_AutomorphicArithmetic_CyclotomicBounds_RamifiedDiscriminants_FourMulQLeCondN", "via": ["solution", "statement"]}
 {"parent": "UpperTheory.Ram.Rd.rdE_le_QS", "child": "Formalism_LocalRingCardinality_HostCls", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.PairingBound.pairing_val_bounds", "child": "Development_AbelianVarietyTheory_BlockTheory_DivisorBase_ConjugateOrderData", "via": ["statement"]}
-{"parent": "GlobalTheory.PairingBound.pairing_val_bounds", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CmTypePeriodDenominatorBound", "via": ["statement"]}
+{"parent": "GlobalTheory.PairingBound.pairing_val_bounds", "child": "Development_AbelianVarietyTheory_BlockTheory_DivisorBase_ConjugateOrderData", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.PairingBound.pairing_val_bounds", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CmTypePeriodDenominatorBound", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.PeriodDvd.exists_eq_mul_geom", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CardDvdSumOfInvariantOfCardStabilizerDvd", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.PeriodDvd.exists_eq_mul_geom", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_DvdOfPeriodOfDvdSumPowersetCard", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.PadicLte.norm_pow_prime_pow_sub_one", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormPowPrimePowSubOne", "via": ["solution", "statement"]}
@@ -96992,11 +96992,11 @@
 {"parent": "Formalism.HermitianLattices.FiltrationBoundaryCriterion.PfN.idealConjugateFactorizationUnique", "child": "Formalism_FrobeniusOrbits_HostCorollaries", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.FiltrationBoundaryCriterion.PfN.idealConjugateFactorizationUnique", "child": "Formalism_GL3MeanSquares_HookFormulaTorsion_DifferentIdealConditions", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.OrbitCounting.counting_principle", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_FinsumOrbitsCountingPrincipleFiniteFibres", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.Phase.ParabValues.trans_explicit", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_SymplecticSiegelActionMemUpperHalfSpaceAndCocycl", "via": ["statement"]}
-{"parent": "GlobalTheory.Phase.ParabValues.trans_explicit", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_IntMIffInt", "via": ["statement"]}
-{"parent": "GlobalTheory.Phase.ParabValues.trans_explicit", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_SiegelThetaTransformationSiegelParabolic", "via": ["statement"]}
-{"parent": "GlobalTheory.Phase.ParabValues.trans_explicit", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_EqOfSiegelThetaSeriesRationalEq", "via": ["statement"]}
-{"parent": "GlobalTheory.Phase.ParabValues.trans_explicit", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_SiegelParabolicTransformPhase", "via": ["statement"]}
+{"parent": "GlobalTheory.Phase.ParabValues.trans_explicit", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_SymplecticSiegelActionMemUpperHalfSpaceAndCocycl", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Phase.ParabValues.trans_explicit", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_IntMIffInt", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Phase.ParabValues.trans_explicit", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_SiegelThetaTransformationSiegelParabolic", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Phase.ParabValues.trans_explicit", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_EqOfSiegelThetaSeriesRationalEq", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Phase.ParabValues.trans_explicit", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_SiegelParabolicTransformPhase", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.PerfectCompletion.sModEq_iff", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_AdicCompletionPrincipalPerfect", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.PerronCoeff.truncated_perron_of_le_two_vonMangoldt", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_TruncatedPerronPsi", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.PerronCoeff.truncated_perron_of_le_two_vonMangoldt", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_TruncatedPerronOfLeTwoVonMangoldt", "via": ["solution", "statement"]}
@@ -97641,10 +97641,10 @@
 {"parent": "Formalism.FourierDecayAlt.P.JFxE.EHc_change", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_EHcChange", "via": ["statement"]}
 {"parent": "Formalism.BasicNotions.Host.not_inert_of_le_splitBound", "child": "Development_AutomorphicArithmetic_CyclotomicBounds_NotInert", "via": ["solution", "statement"]}
 {"parent": "Formalism.BasicNotions.Host.not_inert_of_le_splitBound", "child": "Formalism_LocalRingCardinality_HostCls", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.GL2b2.PfN.cpow_diff_bound", "child": "Formalism_GL3MeanSquares_HookFormulaTorsion_NoExceptionalOfNoRealZero", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.GL2b2.PfN.cpow_diff_bound", "child": "Formalism_ZetaNonvanishing_ZetaRealNonvanish", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.GL2b2.PfN.cpow_diff_bound", "child": "Formalism_FrobeniusOrbits_HostCorollaries", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.GL2b2.PfN.cpow_diff_bound", "child": "Formalism_GL3MeanSquares_WeightedSumIntegralFormula", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.GL2b2.PfN.cpow_diff_bound", "child": "Formalism_GL3MeanSquares_HookFormulaTorsion_NoExceptionalOfNoRealZero", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.GL2b2.PfN.cpow_diff_bound", "child": "Formalism_ZetaNonvanishing_ZetaRealNonvanish", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.GL2b2.PfN.cpow_diff_bound", "child": "Formalism_FrobeniusOrbits_HostCorollaries", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.GL2b2.PfN.cpow_diff_bound", "child": "Formalism_GL3MeanSquares_WeightedSumIntegralFormula", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.PeriodCompare.trace_of_presents", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_ExistsIsDerivAt0NotIsDerivAlong", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.PeriodCompare.trace_of_presents", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_ExistsEquivOfSumEq", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.PeriodCompare.trace_of_presents", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsHolPeriods", "via": ["solution", "statement"]}

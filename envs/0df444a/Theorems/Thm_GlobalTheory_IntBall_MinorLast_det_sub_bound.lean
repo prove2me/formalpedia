@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_MinorLast_det_sub_bound
 -- name    : GlobalTheory.IntBall.MinorLast.det_sub_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:45:49.25795+00:00
 -- url     : https://prove2.me/theorems/6ad22e03-d961-466a-bc9d-b3d5c9250aa3

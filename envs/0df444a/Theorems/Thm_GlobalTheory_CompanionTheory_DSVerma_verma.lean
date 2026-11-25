@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSVerma_verma
 -- name    : GlobalTheory.CompanionTheory.DSVerma.verma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:24:49.85952+00:00
 -- url     : https://prove2.me/theorems/e7ccfb53-fc6d-4738-8292-3ff52f5fab5b

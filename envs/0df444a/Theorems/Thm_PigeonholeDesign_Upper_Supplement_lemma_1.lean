@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PigeonholeDesign_Upper_Supplement_lemma_1
 -- name    : PigeonholeDesign.Upper.Supplement.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T08:00:18.218185+00:00
 -- url     : https://prove2.me/theorems/9b67f4a5-826f-40fc-b555-76c580b6ca94

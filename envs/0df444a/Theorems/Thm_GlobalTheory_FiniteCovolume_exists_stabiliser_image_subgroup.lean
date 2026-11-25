@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCovolume_exists_stabiliser_image_subgroup
 -- name    : GlobalTheory.FiniteCovolume.exists_stabiliser_image_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:12:13.621018+00:00
 -- url     : https://prove2.me/theorems/b6028fc3-c077-48eb-903c-363f909f16b2

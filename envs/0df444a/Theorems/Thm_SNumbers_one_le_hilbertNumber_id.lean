@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_one_le_hilbertNumber_id
 -- name    : SNumbers.one_le_hilbertNumber_id
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:40:42.80788+00:00
 -- url     : https://prove2.me/theorems/200df87d-bd37-4529-94ad-4f1eef75f171

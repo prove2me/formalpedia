@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_zeroFreeBox_same
 -- name    : Formalism.LFunctionChainParameters.LBr2.zeroFreeBox_same
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:41:00.691357+00:00
 -- url     : https://prove2.me/theorems/db46b61b-88c4-5df6-b66a-eff543208c00

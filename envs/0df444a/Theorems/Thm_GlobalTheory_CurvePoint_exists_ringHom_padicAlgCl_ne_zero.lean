@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CurvePoint_exists_ringHom_padicAlgCl_ne_zero
 -- name    : GlobalTheory.CurvePoint.exists_ringHom_padicAlgCl_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:29:58.140309+00:00
 -- url     : https://prove2.me/theorems/45eb7f0d-6efe-4236-b7b1-edc051ba08b1

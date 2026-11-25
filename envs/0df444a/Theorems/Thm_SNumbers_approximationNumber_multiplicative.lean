@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_multiplicative
 -- name    : SNumbers.approximationNumber_multiplicative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:20:54.655721+00:00
 -- url     : https://prove2.me/theorems/f23666fa-f5ef-4efd-98f7-677e8c2ceec8

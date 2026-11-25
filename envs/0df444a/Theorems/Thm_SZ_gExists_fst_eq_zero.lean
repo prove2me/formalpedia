@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_gExists_fst_eq_zero
 -- name    : SZ.gExists_fst_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:18:03.399982+00:00
 -- url     : https://prove2.me/theorems/56df6a15-11e0-56dc-99f8-5f0bc9c20830

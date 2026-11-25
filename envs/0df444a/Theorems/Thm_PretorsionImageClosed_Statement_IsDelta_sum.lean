@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_IsDelta_sum
 -- name    : PretorsionImageClosed.Statement.IsDelta.sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:18:33.102837+00:00
 -- url     : https://prove2.me/theorems/dce2dbba-2ad9-493e-bfd7-5372d1c5a437

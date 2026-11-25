@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_CuspLabel_root_pow_eq_one
 -- name    : GlobalTheory.CompanionTheory.TyFin.CuspLabel.root_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:15:47.884915+00:00
 -- url     : https://prove2.me/theorems/84aab5c4-ef17-5760-9686-96da2e7d78cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_node_used_zero
 -- name    : SZ.node_used_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:22:13.011271+00:00
 -- url     : https://prove2.me/theorems/7b9d4b26-c525-425e-b784-c458055c05b3

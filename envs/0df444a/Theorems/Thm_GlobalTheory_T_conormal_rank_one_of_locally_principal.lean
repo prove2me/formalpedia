@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_conormal_rank_one_of_locally_principal
 -- name    : GlobalTheory.T.conormal_rank_one_of_locally_principal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:32:10.600204+00:00
 -- url     : https://prove2.me/theorems/ee59e9d7-e41b-4ba6-809f-6497d10e0e1e

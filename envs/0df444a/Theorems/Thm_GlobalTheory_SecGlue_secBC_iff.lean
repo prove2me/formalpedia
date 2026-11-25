@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_secBC_iff
 -- name    : GlobalTheory.SecGlue.secBC_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:11:12.877666+00:00
 -- url     : https://prove2.me/theorems/19fe77f5-c7b6-4ec5-a9d7-4c26064db9df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_PhaseOnMinus_proof_48d95d45b63d
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_PhaseOnMinus_proof_48d95d45b63d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:45:16.350366+00:00
 -- url     : https://prove2.me/theorems/c6c99c22-4b30-4106-ac84-53d7657d5cc6

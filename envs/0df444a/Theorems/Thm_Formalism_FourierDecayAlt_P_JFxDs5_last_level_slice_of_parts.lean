@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxDs5_last_level_slice_of_parts
 -- name    : Formalism.FourierDecayAlt.P.JFxDs5.last_level_slice_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:49:02.560056+00:00
 -- url     : https://prove2.me/theorems/d76f1a11-8340-4271-adc3-d42f8ea7d364

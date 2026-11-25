@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_app_val
 -- name    : PretorsionImageClosed.LinearQuiver.app_val
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:20:30.041078+00:00
 -- url     : https://prove2.me/theorems/2e03f61d-930a-4be5-80a2-2aac391bb76d

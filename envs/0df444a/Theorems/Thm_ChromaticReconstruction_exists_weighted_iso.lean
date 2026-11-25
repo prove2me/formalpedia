@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_exists_weighted_iso
 -- name    : ChromaticReconstruction.exists_weighted_iso
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:45:13.334453+00:00
 -- url     : https://prove2.me/theorems/3ac5dba9-049a-4ad9-972c-20509db0240b

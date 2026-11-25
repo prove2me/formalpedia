@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_sqrtFive_mem_MahlerZ
 -- name    : SZ.sqrtFive_mem_MahlerZ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:30:50.022292+00:00
 -- url     : https://prove2.me/theorems/cca606c8-21a7-4486-8d70-2c3f9e4a916d

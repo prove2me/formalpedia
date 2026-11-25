@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_sqrtSeven_mem_MahlerZ
 -- name    : SZ.sqrtSeven_mem_MahlerZ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:15:01.483585+00:00
 -- url     : https://prove2.me/theorems/1270f067-7225-5232-b014-6286e6a56847

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_omOK_one
 -- name    : Formalism.InvariantFactorPaths.G7.omOK_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:35:51.523012+00:00
 -- url     : https://prove2.me/theorems/2702436c-26e1-4b1d-9410-9e6ffde0be57

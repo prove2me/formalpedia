@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_John_continuous_rankOneSA
 -- name    : John.continuous_rankOneSA
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:22:59.746536+00:00
 -- url     : https://prove2.me/theorems/4fa9c90f-c077-472d-b726-a0720b231a84

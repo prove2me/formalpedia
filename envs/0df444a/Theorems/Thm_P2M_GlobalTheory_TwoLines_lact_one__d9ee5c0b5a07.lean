@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_TwoLines_lact_one__d9ee5c0b5a07
 -- name    : P2M_GlobalTheory_TwoLines_lact_one__d9ee5c0b5a07
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:52:13.277321+00:00
 -- url     : https://prove2.me/theorems/c17b90ed-cded-580d-8d14-d72961ddcb15

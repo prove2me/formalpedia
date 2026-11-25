@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_Lifting_norm_le_norm_comp_Q
 -- name    : SNumbers.Lifting.norm_le_norm_comp_Q
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:41:47.6886+00:00
 -- url     : https://prove2.me/theorems/d4da6ff3-c6ae-5c95-83ee-d5ab8c9270aa

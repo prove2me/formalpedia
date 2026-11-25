@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sigmaQuasi_of
 -- name    : Formalism.L2.Th1.F.sigmaQuasi_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:31.895929+00:00
 -- url     : https://prove2.me/theorems/b62d8f00-100a-4657-b15a-cb464dcea877

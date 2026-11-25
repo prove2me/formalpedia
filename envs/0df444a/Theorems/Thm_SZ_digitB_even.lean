@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_digitB_even
 -- name    : SZ.digitB_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:28:36.032473+00:00
 -- url     : https://prove2.me/theorems/60ff152f-be46-4ad9-a137-a07dc618c7ff

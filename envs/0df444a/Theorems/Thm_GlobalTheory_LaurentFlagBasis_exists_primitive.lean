@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentFlagBasis_exists_primitive
 -- name    : GlobalTheory.LaurentFlagBasis.exists_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:45:45.010513+00:00
 -- url     : https://prove2.me/theorems/fe188a35-8936-4156-9261-24002beddaf7

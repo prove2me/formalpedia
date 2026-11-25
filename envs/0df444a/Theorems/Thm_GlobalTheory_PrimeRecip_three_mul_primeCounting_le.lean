@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeRecip_three_mul_primeCounting_le
 -- name    : GlobalTheory.PrimeRecip.three_mul_primeCounting_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:49:21.776564+00:00
 -- url     : https://prove2.me/theorems/6716468b-838f-43b0-aa3b-177569aa85d8

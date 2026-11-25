@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_IsShortPreexact_of_iso
 -- name    : PretorsionImageClosed.Statement.IsShortPreexact.of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:07:47.952812+00:00
 -- url     : https://prove2.me/theorems/eafcb930-c893-59af-92b5-fbd37f0bdda5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_card_key_fiber
 -- name    : ChromaticReconstruction.card_key_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:35:35.849849+00:00
 -- url     : https://prove2.me/theorems/b3a1fd01-f7a1-4a87-b119-b8e91397cd11

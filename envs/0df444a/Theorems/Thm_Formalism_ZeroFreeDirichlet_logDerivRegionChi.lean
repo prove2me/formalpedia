@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_logDerivRegionChi
 -- name    : Formalism.ZeroFreeDirichlet.logDerivRegionChi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:38:25.990529+00:00
 -- url     : https://prove2.me/theorems/9c47bd87-2926-4bea-90f6-8da5596732f5

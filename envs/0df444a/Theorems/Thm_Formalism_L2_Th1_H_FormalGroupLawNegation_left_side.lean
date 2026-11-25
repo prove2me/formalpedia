@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_FormalGroupLawNegation_left_side
 -- name    : Formalism.L2.Th1.H.FormalGroupLawNegation.left_side
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:43:17.820566+00:00
 -- url     : https://prove2.me/theorems/43177193-535d-5472-96e2-c5a6857fa08c

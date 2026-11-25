@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_MinorLast_n_top
 -- name    : GlobalTheory.IntBall.MinorLast.n_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:45:25.203222+00:00
 -- url     : https://prove2.me/theorems/0881b40d-9b0c-47d8-be54-5278a54feefc

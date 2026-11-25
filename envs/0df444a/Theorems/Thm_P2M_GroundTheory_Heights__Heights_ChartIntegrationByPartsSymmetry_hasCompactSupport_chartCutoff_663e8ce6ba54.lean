@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_hasCompactSupport_chartCutoff_663e8ce6ba54
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_hasCompactSupport_chartCutoff_663e8ce6ba54
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:00.015268+00:00
 -- url     : https://prove2.me/theorems/8262b850-78f3-4109-86c0-6b147efa477b

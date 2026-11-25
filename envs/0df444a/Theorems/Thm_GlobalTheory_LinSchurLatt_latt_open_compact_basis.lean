@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinSchurLatt_latt_open_compact_basis
 -- name    : GlobalTheory.LinSchurLatt.latt_open_compact_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:08:13.317717+00:00
 -- url     : https://prove2.me/theorems/5dfb0534-0d51-4e2a-a783-cca094d9b043

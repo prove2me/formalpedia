@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_finrank_obj_eq_of_iso
 -- name    : PretorsionImageClosed.LinearQuiver.finrank_obj_eq_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:07:09.862542+00:00
 -- url     : https://prove2.me/theorems/529c94fb-86ea-4219-89a5-be2ccc79c0c6

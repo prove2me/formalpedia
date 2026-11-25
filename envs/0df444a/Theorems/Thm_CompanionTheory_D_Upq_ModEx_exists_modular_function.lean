@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_ModEx_exists_modular_function
 -- name    : CompanionTheory.D.Upq.ModEx.exists_modular_function
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:42:23.579496+00:00
 -- url     : https://prove2.me/theorems/d0402059-e105-4caf-98db-85d8a0799968

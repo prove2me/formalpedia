@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_restrictedLattice_divided_power
 -- name    : Formalism.InvariantFactorPaths.L4.restrictedLattice_divided_power
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:54:24.632427+00:00
 -- url     : https://prove2.me/theorems/b9f1a284-b39f-44e0-ba0d-006451b2d58c

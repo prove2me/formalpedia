@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SepRing_isDomain_tensor_of_reg
 -- name    : GlobalTheory.SepRing.isDomain_tensor_of_reg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:06:45.650473+00:00
 -- url     : https://prove2.me/theorems/adbbe205-fbad-4fe9-9e3f-67f36abeac89

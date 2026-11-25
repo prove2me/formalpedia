@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_John_exists_gap_of_lt_one_on_compact
 -- name    : John.exists_gap_of_lt_one_on_compact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:23:05.255165+00:00
 -- url     : https://prove2.me/theorems/9436d657-0f5d-439b-ac93-48a55cf9cdef

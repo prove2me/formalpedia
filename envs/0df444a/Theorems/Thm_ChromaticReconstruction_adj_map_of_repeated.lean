@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_adj_map_of_repeated
 -- name    : ChromaticReconstruction.adj_map_of_repeated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:41:13.656384+00:00
 -- url     : https://prove2.me/theorems/41932da8-e88c-4ee0-9133-8309d62a4308

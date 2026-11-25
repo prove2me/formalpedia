@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_hilbertNumber_eq_zero_of_rank_le
 -- name    : SNumbers.hilbertNumber_eq_zero_of_rank_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:19:15.207689+00:00
 -- url     : https://prove2.me/theorems/acae3803-0b98-4cd6-ab6b-b2d9f8e1fff3

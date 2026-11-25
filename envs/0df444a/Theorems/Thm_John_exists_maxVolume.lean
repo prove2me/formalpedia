@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_John_exists_maxVolume
 -- name    : John.exists_maxVolume
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:21:57.52525+00:00
 -- url     : https://prove2.me/theorems/5a3032e1-56be-5969-a344-1903ff6b6621

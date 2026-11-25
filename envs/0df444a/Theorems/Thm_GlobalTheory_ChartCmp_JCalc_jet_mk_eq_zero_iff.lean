@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_JCalc_jet_mk_eq_zero_iff
 -- name    : GlobalTheory.ChartCmp.JCalc.jet_mk_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:13:41.710891+00:00
 -- url     : https://prove2.me/theorems/ba9ccce2-74cc-5572-9f91-2e350e8edfb4

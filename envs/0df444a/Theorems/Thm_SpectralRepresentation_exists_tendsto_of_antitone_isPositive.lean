@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralRepresentation_exists_tendsto_of_antitone_isPositive
 -- name    : SpectralRepresentation.exists_tendsto_of_antitone_isPositive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:12:45.822903+00:00
 -- url     : https://prove2.me/theorems/9fd9bd91-c742-56a9-8854-6f95fb06a075

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbertRecip_mem_sqr_of_isSquare
 -- name    : GlobalTheory.HilbertRecip.mem_sqr_of_isSquare
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:16:41.429421+00:00
 -- url     : https://prove2.me/theorems/257174ff-6657-4c61-bf6f-cd8ffae53966

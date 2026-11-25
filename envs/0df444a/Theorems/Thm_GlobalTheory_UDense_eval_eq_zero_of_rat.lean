@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UDense_eval_eq_zero_of_rat
 -- name    : GlobalTheory.UDense.eval_eq_zero_of_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:18:00.532372+00:00
 -- url     : https://prove2.me/theorems/1ff04941-c1ce-4304-9191-9d4112ef041f

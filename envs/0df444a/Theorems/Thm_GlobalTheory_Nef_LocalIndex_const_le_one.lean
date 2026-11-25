@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_LocalIndex_const_le_one
 -- name    : GlobalTheory.Nef.LocalIndex.const_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:47:43.379908+00:00
 -- url     : https://prove2.me/theorems/836408ef-a732-4c82-ab11-9d689b9655e8

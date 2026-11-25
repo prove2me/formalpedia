@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxIdealJointEigen_iSupIndep_of_joint_eigen
 -- name    : GlobalTheory.MaxIdealJointEigen.iSupIndep_of_joint_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:47:34.892693+00:00
 -- url     : https://prove2.me/theorems/bf49cbd7-9528-5901-8ce9-5609121feafc

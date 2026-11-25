@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_forall_toSesq_eq_iff
 -- name    : GroundTheory.Automorphic.HermitianForm.forall_toSesq_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:04:12.265954+00:00
 -- url     : https://prove2.me/theorems/cbdea987-1a17-4931-b31f-1d8c4819b950

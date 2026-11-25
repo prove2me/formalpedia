@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_coeffL_ltransL
 -- name    : GroundTheory.Automorphic.Whittaker.coeffL_ltransL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:00:52.777406+00:00
 -- url     : https://prove2.me/theorems/c5a1aa92-da0e-4a6a-aeff-5003d6c0e464

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_sum_onLetter_apply_inl
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.sum_onLetter_apply_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:37:03.501272+00:00
 -- url     : https://prove2.me/theorems/8dfe665b-3088-41c6-bd7e-37670ee40eea

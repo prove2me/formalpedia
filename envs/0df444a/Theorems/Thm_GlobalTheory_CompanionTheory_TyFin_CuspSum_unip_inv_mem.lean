@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_CuspSum_unip_inv_mem
 -- name    : GlobalTheory.CompanionTheory.TyFin.CuspSum.unip_inv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:17:32.792972+00:00
 -- url     : https://prove2.me/theorems/be7cd426-9613-42dc-a552-8c0118ead3d8

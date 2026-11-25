@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConePolar_angle_shift
 -- name    : GlobalTheory.HCXi.ConePolar.angle_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:49:44.17981+00:00
 -- url     : https://prove2.me/theorems/225257ef-54b6-41c1-99f8-0fc3343b540a

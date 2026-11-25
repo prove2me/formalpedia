@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_vecAtHom_apply_5d779c7499d4
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_vecAtHom_apply_5d779c7499d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:49:41.776334+00:00
 -- url     : https://prove2.me/theorems/ba994a85-4b3e-44f4-ac3e-77db84b82f49

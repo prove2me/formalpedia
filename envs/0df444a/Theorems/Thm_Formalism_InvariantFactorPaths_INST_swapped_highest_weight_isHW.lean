@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_swapped_highest_weight_isHW
 -- name    : Formalism.InvariantFactorPaths.INST.swapped_highest_weight_isHW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:00:41.549094+00:00
 -- url     : https://prove2.me/theorems/bf7001c7-5bca-4942-b6b1-d78caa2bfb66

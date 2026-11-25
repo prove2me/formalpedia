@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_rtt_real
 -- name    : Formalism.YangianSpanCharacter.P.rtt_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:16:19.914816+00:00
 -- url     : https://prove2.me/theorems/ccf80308-c91d-41ac-93d4-0d12303820b4

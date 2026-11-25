@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_slope_via_lengths
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.slope_via_lengths
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:40:49.982805+00:00
 -- url     : https://prove2.me/theorems/5873b8ea-730c-4e28-a689-093bd56b81d5

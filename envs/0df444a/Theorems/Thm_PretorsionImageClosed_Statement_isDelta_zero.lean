@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_isDelta_zero
 -- name    : PretorsionImageClosed.Statement.isDelta_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:09:02.180933+00:00
 -- url     : https://prove2.me/theorems/e40816b6-c564-4087-8a61-5f0b6cff929e

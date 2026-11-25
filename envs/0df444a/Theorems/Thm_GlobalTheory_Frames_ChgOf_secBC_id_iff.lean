@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_ChgOf_secBC_id_iff
 -- name    : GlobalTheory.Frames.ChgOf.secBC_id_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:00:52.198796+00:00
 -- url     : https://prove2.me/theorems/00a4b23f-39f1-4d27-8f42-cc3e5bb197b6

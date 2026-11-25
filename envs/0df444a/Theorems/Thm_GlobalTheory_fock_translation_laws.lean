@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_fock_translation_laws
 -- name    : GlobalTheory.fock_translation_laws
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:02:21.344879+00:00
 -- url     : https://prove2.me/theorems/5dac02d2-f7d8-4912-aa05-505845c12a60

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceSum_sum_ram_log_le
 -- name    : GlobalTheory.PlaceSum.sum_ram_log_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:50:05.292+00:00
 -- url     : https://prove2.me/theorems/1cea0aaa-4bd8-48bb-91cc-e58ad0f072e9

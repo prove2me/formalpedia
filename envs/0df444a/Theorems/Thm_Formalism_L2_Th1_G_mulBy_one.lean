@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_mulBy_one
 -- name    : Formalism.L2.Th1.G.mulBy_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:41:16.058801+00:00
 -- url     : https://prove2.me/theorems/4cbd2534-0502-4b53-9a47-92522d9e796c

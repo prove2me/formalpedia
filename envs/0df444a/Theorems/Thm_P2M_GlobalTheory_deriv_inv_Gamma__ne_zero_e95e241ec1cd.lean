@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_deriv_inv_Gamma__ne_zero_e95e241ec1cd
 -- name    : P2M_GlobalTheory_deriv_inv_Gamma__ne_zero_e95e241ec1cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:12:00.891215+00:00
 -- url     : https://prove2.me/theorems/d050cbaa-7076-43a0-8074-ac71370cc58f

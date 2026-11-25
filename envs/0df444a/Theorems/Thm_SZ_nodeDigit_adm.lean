@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_nodeDigit_adm
 -- name    : SZ.nodeDigit_adm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:39:22.609658+00:00
 -- url     : https://prove2.me/theorems/6dd5f547-4986-4bd1-849a-1b8f4a22ed91

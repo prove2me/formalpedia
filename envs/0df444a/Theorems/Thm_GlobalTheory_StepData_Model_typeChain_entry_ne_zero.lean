@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_Model_typeChain_entry_ne_zero
 -- name    : GlobalTheory.StepData.Model.typeChain_entry_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:01:29.271518+00:00
 -- url     : https://prove2.me/theorems/9af3acd0-f0b5-4c03-bb78-5c3bdf81aac3

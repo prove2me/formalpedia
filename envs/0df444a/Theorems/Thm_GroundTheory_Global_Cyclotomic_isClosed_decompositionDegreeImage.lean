@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_isClosed_decompositionDegreeImage
 -- name    : GroundTheory.Global.Cyclotomic.isClosed_decompositionDegreeImage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:43:07.155887+00:00
 -- url     : https://prove2.me/theorems/3fef6638-62c4-42a1-b1c9-e11eaf2747b6

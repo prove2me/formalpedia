@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_fock_prod_mul
 -- name    : GlobalTheory.MinorNorm.fock_prod_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:28:50.540365+00:00
 -- url     : https://prove2.me/theorems/dcf310bf-59d9-4176-a708-d3edfccebd38

@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for Formalism.InvariantFactorPaths.PW.Top.dischargeP
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T03:01:05.738599+00:00
+-- url     : https://prove2.me/submissions/b0c7bc07-6d08-4b9c-adec-f04d52acd0a1
+
+import Definitions.Def_Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_InvInv
+import Definitions.Def_Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_InvInt
+import Definitions.Def_Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_HomRelationHolds
+import Definitions.Def_Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_SchurTraceOfHomInv
+import Definitions.Def_Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_TypeInt
+import Definitions.Def_Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_LatticeBasisPolynomial
+import Definitions.Def_Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_OrthogonalIsomorphismHolds
+import Definitions.Def_Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_CommProjectionHolds
+import Definitions.Def_Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_PolLeISupIsoW
+import Definitions.Def_Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_Discharge
+import Definitions.Def_Formalism_ThetaLogCoordinates_TraceIsometryWeights_FinalP
+import Theorems.Thm_Formalism_InvariantFactorPaths_PW_Top_projP
+import Theorems.Thm_Formalism_InvariantFactorPaths_PW_Top_commP
+import Theorems.Thm_Formalism_InvariantFactorPaths_PW_Top_intP
+import Theorems.Thm_Formalism_InvariantFactorPaths_PW_dischargeP_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.InvariantFactorPaths Formalism.InvariantFactorPaths.PW Formalism.InvariantFactorPaths.PW.Top
+namespace Formalism.InvariantFactorPaths.PW.Top
+theorem _root_.solution : DischargeP := dischargeP_of projP commP intP
+end Formalism.InvariantFactorPaths.PW.Top

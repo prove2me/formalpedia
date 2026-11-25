@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_schur_block_lower_bound
 -- name    : GlobalTheory.schur_block_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:20:34.56179+00:00
 -- url     : https://prove2.me/theorems/4e6fd22d-6755-4e8f-8bf8-78eb4831ded1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MainStatements_BetaInf_sN_nonneg
 -- name    : MainStatements.BetaInf.sN_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:33:11.774263+00:00
 -- url     : https://prove2.me/theorems/87d27052-6465-4614-bd99-e8fee56b1930

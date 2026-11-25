@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UnitLemma_UnitBase___mem_adjoin_4ad2303c8cd0
 -- name    : P2M_GlobalTheory_UnitLemma_UnitBase___mem_adjoin_4ad2303c8cd0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:10:53.658471+00:00
 -- url     : https://prove2.me/theorems/bd4e3a59-47b6-4e5c-81e2-d9594af236f3

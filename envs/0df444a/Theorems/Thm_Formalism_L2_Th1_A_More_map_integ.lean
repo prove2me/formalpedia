@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_More_map_integ
 -- name    : Formalism.L2.Th1.A.More.map_integ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:27:58.273099+00:00
 -- url     : https://prove2.me/theorems/66d65c9c-c57d-5b82-98f2-4100e146a3e7

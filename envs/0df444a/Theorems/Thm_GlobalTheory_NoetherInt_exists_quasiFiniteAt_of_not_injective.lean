@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoetherInt_exists_quasiFiniteAt_of_not_injective
 -- name    : GlobalTheory.NoetherInt.exists_quasiFiniteAt_of_not_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:35:01.144805+00:00
 -- url     : https://prove2.me/theorems/1a01f556-7882-451d-94fe-fd983b00695a

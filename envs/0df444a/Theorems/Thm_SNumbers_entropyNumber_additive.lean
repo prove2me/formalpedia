@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_entropyNumber_additive
 -- name    : SNumbers.entropyNumber_additive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:18:17.073318+00:00
 -- url     : https://prove2.me/theorems/e36c32c1-ccb6-4207-9ad6-ec41d89221ff

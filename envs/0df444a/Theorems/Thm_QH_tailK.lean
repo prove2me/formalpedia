@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QH_tailK
 -- name    : QH.tailK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:59:33.630467+00:00
 -- url     : https://prove2.me/theorems/77f0d109-058c-4a36-b763-bd22cf80edd6

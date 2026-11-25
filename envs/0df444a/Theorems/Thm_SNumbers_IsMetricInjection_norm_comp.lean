@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_IsMetricInjection_norm_comp
 -- name    : SNumbers.IsMetricInjection.norm_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:09:11.128133+00:00
 -- url     : https://prove2.me/theorems/a276e0f9-5eca-4071-afae-8c2f3729402a

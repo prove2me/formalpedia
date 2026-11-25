@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_comp_comp_le
 -- name    : SNumbers.approximationNumber_comp_comp_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:57:23.553477+00:00
 -- url     : https://prove2.me/theorems/8b5c0c2f-a0e5-4a8f-ac4c-a9b7cd15f928

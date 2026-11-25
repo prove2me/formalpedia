@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_MC_theoremMXB_of_point
 -- name    : Formalism.InvariantFactorPaths.MC.theoremMXB_of_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:48:31.692339+00:00
 -- url     : https://prove2.me/theorems/7dd3e1ee-d798-5d2b-aa41-748638b0c1f7

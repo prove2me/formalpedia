@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_UnitaryLeft_expo_mul
 -- name    : GlobalTheory.SW.UnitaryLeft.expo_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:45:40.853628+00:00
 -- url     : https://prove2.me/theorems/87513c29-fb6f-498a-85b8-7ee60090a65a

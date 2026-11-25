@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFRadRedLocSec_inv_fix
 -- name    : Formalism.FourierDecayAlt.P.NFRadRedLocSec.inv_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:30:45.652221+00:00
 -- url     : https://prove2.me/theorems/bf9670a8-00b0-56e8-98cc-85db70ff240c

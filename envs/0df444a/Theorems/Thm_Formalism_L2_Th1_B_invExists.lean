@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_invExists
 -- name    : Formalism.L2.Th1.B.invExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:14:48.172804+00:00
 -- url     : https://prove2.me/theorems/1f60a6d9-87eb-42e7-b275-a22c106f26b7

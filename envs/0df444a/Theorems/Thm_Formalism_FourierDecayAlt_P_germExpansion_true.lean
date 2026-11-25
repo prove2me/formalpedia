@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_germExpansion_true
 -- name    : Formalism.FourierDecayAlt.P.germExpansion_true
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:17:12.788368+00:00
 -- url     : https://prove2.me/theorems/c8b80e17-6ccd-428d-b7b3-355835167906

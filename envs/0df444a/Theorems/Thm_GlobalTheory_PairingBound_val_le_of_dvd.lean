@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairingBound_val_le_of_dvd
 -- name    : GlobalTheory.PairingBound.val_le_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:41:30.704497+00:00
 -- url     : https://prove2.me/theorems/5728c35f-c677-4326-b778-256cdf2a6c7b

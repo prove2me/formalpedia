@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AntisymDivisible_rename_swap_delta_dfcab9823831
 -- name    : P2M_GroundTheory_Heights__Heights_AntisymDivisible_rename_swap_delta_dfcab9823831
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:15:30.945884+00:00
 -- url     : https://prove2.me/theorems/c37e1f4d-6595-4f34-893c-8eaddb877459

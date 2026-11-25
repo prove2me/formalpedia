@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_segStep_of
 -- name    : Formalism.MainNotions.PlaneGram.segStep_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:08:20.505674+00:00
 -- url     : https://prove2.me/theorems/6a34a195-6bc2-4cc3-aa50-7901b9b9af4c

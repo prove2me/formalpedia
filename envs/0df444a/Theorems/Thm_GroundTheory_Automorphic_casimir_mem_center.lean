@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_casimir_mem_center
 -- name    : GroundTheory.Automorphic.casimir_mem_center
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:15:01.308725+00:00
 -- url     : https://prove2.me/theorems/7ecb02af-123b-47df-9935-817f74997a66

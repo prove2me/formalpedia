@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_John_one_sub_le_norm_det_one_add_smul
 -- name    : John.one_sub_le_norm_det_one_add_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:23:51.417743+00:00
 -- url     : https://prove2.me/theorems/535c96fc-00c2-4b87-80ac-88bcf5283032

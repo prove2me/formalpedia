@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_mul_J_mul_conjTranspose
 -- name    : CompanionTheory.D.Upq.mul_J_mul_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:44:48.703973+00:00
 -- url     : https://prove2.me/theorems/3b714068-dd9d-4664-8ecc-769874143f83

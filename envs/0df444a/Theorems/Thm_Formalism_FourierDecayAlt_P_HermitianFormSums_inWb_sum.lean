@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormSums_inWb_sum
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormSums.inWb_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:06:30.586247+00:00
 -- url     : https://prove2.me/theorems/a722528f-4e05-5983-9c98-850841f166bc

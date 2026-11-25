@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_kappa_normalise
 -- name    : Formalism.DivisionValues.kappa_normalise
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:23:17.985993+00:00
 -- url     : https://prove2.me/theorems/d696e39b-e3a2-4682-bba6-2f998dd77aea

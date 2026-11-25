@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralRepresentation_stepDown_le_one
 -- name    : SpectralRepresentation.stepDown_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:15:40.389243+00:00
 -- url     : https://prove2.me/theorems/026179bf-6f0b-44f5-8685-5a8c3f6057d1

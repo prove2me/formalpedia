@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isCompact_convexWeights
 -- name    : isCompact_convexWeights
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:20:00.772441+00:00
 -- url     : https://prove2.me/theorems/72d0657a-c503-530f-992c-51a10ad3681e

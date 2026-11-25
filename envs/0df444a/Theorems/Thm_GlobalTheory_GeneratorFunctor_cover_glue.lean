@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeneratorFunctor_cover_glue
 -- name    : GlobalTheory.GeneratorFunctor.cover_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:55:52.233281+00:00
 -- url     : https://prove2.me/theorems/abc23e25-06db-421e-abb6-f900e4faf6b9

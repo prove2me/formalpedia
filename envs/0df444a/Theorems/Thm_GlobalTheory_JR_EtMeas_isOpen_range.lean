@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtMeas_isOpen_range
 -- name    : GlobalTheory.JR.EtMeas.isOpen_range
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:40:59.259828+00:00
 -- url     : https://prove2.me/theorems/e7389bc9-0531-48a7-b641-217a6ed0a578

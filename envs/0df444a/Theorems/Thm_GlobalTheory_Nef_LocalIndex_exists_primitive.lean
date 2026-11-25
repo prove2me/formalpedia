@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_LocalIndex_exists_primitive
 -- name    : GlobalTheory.Nef.LocalIndex.exists_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:48:18.116524+00:00
 -- url     : https://prove2.me/theorems/b626bc70-be17-51f5-91d1-eea7638792fc

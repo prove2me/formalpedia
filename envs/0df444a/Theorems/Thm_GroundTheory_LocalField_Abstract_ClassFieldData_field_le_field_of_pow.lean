@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_field_le_field_of_pow
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.field_le_field_of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:45:24.246277+00:00
 -- url     : https://prove2.me/theorems/82f6ca0d-075b-40ca-9a97-eca69898c9cc

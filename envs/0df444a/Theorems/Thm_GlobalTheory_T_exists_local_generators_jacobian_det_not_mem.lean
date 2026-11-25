@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_local_generators_jacobian_det_not_mem
 -- name    : GlobalTheory.T.exists_local_generators_jacobian_det_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:37:01.976279+00:00
 -- url     : https://prove2.me/theorems/b6e4c34b-967d-4b76-82fc-9be8c8f5746a

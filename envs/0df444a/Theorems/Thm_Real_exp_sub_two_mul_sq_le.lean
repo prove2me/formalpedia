@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Real_exp_sub_two_mul_sq_le
 -- name    : Real.exp_sub_two_mul_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:20:19.696725+00:00
 -- url     : https://prove2.me/theorems/b0c07191-4f98-4b82-8a1d-876e37723e16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_GeneratorMatrix_tensor4_mul
 -- name    : Formalism.L2.Th1.E.GeneratorMatrix.tensor4_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:51:53.450132+00:00
 -- url     : https://prove2.me/theorems/92e738de-cb70-458d-8798-e29d99be22d4

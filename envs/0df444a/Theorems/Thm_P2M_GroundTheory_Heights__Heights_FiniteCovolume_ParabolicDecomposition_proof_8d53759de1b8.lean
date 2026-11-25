@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_ParabolicDecomposition_proof_8d53759de1b8
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_ParabolicDecomposition_proof_8d53759de1b8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:41:29.220886+00:00
 -- url     : https://prove2.me/theorems/3ce93ba7-8ece-4609-95d3-e9e9eac2645f

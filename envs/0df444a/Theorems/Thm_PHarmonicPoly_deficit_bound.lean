@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PHarmonicPoly_deficit_bound
 -- name    : PHarmonicPoly.deficit_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:46:54.011144+00:00
 -- url     : https://prove2.me/theorems/6f2c3868-259a-5de3-89e2-e91fb8842228

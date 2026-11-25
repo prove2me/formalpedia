@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolyNorm_ev_mul
 -- name    : GlobalTheory.PolyNorm.ev_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:52:37.785868+00:00
 -- url     : https://prove2.me/theorems/4fe8bf69-7f75-4a0b-935e-45560f7dac55

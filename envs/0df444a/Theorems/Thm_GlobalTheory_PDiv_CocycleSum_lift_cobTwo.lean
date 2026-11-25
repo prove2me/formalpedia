@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_CocycleSum_lift_cobTwo
 -- name    : GlobalTheory.PDiv.CocycleSum.lift_cobTwo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:47:53.394683+00:00
 -- url     : https://prove2.me/theorems/41a3f85d-f5d8-4a62-94ab-50e7bb76cfe9

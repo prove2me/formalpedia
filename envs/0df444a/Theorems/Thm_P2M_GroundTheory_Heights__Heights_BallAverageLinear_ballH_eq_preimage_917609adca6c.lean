@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BallAverageLinear_ballH_eq_preimage_917609adca6c
 -- name    : P2M_GroundTheory_Heights__Heights_BallAverageLinear_ballH_eq_preimage_917609adca6c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:15:20.453926+00:00
 -- url     : https://prove2.me/theorems/1b4e2877-0d8c-48b5-aee5-b930160fc3a5

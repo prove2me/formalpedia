@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_invVol_conj_diagGL_mul
 -- name    : GlobalTheory.FunObj.invVol_conj_diagGL_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:41:56.69768+00:00
 -- url     : https://prove2.me/theorems/4658d47b-61ee-4114-ba6f-18ddd41da40f

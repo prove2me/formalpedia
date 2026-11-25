@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairingBound_pairing_val_bounds
 -- name    : GlobalTheory.PairingBound.pairing_val_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:41:34.868164+00:00
 -- url     : https://prove2.me/theorems/682521a8-d645-41d0-b130-1347a0c8482e

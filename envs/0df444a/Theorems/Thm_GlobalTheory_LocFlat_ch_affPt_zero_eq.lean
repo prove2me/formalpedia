@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_ch_affPt_zero_eq
 -- name    : GlobalTheory.LocFlat.ch_affPt_zero_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:28:12.999579+00:00
 -- url     : https://prove2.me/theorems/ec30dd69-259e-45fe-a936-f5018912af9f

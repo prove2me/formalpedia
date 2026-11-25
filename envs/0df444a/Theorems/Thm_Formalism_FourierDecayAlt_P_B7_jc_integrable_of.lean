@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_jc_integrable_of
 -- name    : Formalism.FourierDecayAlt.P.B7.jc_integrable_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:06:50.108807+00:00
 -- url     : https://prove2.me/theorems/43b776db-7b7d-411f-8797-d9136a812d65

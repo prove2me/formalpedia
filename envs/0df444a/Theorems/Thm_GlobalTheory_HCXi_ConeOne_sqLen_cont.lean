@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeOne_sqLen_cont
 -- name    : GlobalTheory.HCXi.ConeOne.sqLen_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:49:00.523704+00:00
 -- url     : https://prove2.me/theorems/c9e849b7-9be5-430d-b266-3363538c02c6

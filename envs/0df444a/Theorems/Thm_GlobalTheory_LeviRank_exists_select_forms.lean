@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeviRank_exists_select_forms
 -- name    : GlobalTheory.LeviRank.exists_select_forms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:47:57.968615+00:00
 -- url     : https://prove2.me/theorems/bcbd1cbb-3ba9-4fd4-b623-02e954522b91

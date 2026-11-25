@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold1_continuous_tmul_one_a3804b5de181
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold1_continuous_tmul_one_a3804b5de181
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:05:16.529384+00:00
 -- url     : https://prove2.me/theorems/4a48931d-7e2a-4ddf-973d-59f0e26bd0fb

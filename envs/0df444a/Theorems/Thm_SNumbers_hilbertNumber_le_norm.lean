@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_hilbertNumber_le_norm
 -- name    : SNumbers.hilbertNumber_le_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:24:38.041302+00:00
 -- url     : https://prove2.me/theorems/860a3952-07c5-4f14-8309-58c7484759de

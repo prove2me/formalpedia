@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_isStrictSNumberSequence_approximationNumber
 -- name    : SNumbers.isStrictSNumberSequence_approximationNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:56:12.472444+00:00
 -- url     : https://prove2.me/theorems/2ff950ca-9f51-4177-8fd2-f889bc66a591

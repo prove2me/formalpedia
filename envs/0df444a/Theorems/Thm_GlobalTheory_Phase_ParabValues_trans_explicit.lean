@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_ParabValues_trans_explicit
 -- name    : GlobalTheory.Phase.ParabValues.trans_explicit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:43:36.885804+00:00
 -- url     : https://prove2.me/theorems/7aab4c99-d46d-4160-88e8-77c5aedea3e6

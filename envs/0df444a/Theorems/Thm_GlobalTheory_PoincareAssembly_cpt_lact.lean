@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PoincareAssembly_cpt_lact
 -- name    : GlobalTheory.PoincareAssembly.cpt_lact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:49:27.702888+00:00
 -- url     : https://prove2.me/theorems/ec1d6cdf-7154-5830-8f65-34966ba77b74

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_hilbertSet_bddAbove
 -- name    : SNumbers.hilbertSet_bddAbove
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:19:32.327915+00:00
 -- url     : https://prove2.me/theorems/4d62b4b3-fd8f-4377-8af8-7c756dd95f46

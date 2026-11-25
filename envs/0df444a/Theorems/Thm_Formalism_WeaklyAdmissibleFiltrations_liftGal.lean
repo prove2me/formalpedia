@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_liftGal
 -- name    : Formalism.WeaklyAdmissibleFiltrations.liftGal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:36:26.593299+00:00
 -- url     : https://prove2.me/theorems/f8e8d8be-33a4-4f05-a677-53c56af76e8e

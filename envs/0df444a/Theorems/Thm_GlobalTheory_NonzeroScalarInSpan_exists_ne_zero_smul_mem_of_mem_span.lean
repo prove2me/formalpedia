@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonzeroScalarInSpan_exists_ne_zero_smul_mem_of_mem_span
 -- name    : GlobalTheory.NonzeroScalarInSpan.exists_ne_zero_smul_mem_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:46:35.603924+00:00
 -- url     : https://prove2.me/theorems/ad7d5884-6542-4b17-81eb-7fd316da963b

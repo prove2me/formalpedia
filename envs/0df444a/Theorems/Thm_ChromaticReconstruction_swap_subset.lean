@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_swap_subset
 -- name    : ChromaticReconstruction.swap_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:07:30.08125+00:00
 -- url     : https://prove2.me/theorems/0160c227-314d-4fec-85e9-8e2fee9ab71b

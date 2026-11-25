@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormRankFour_exp_semiconj
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormRankFour.exp_semiconj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:23:38.457949+00:00
 -- url     : https://prove2.me/theorems/60633f03-9513-5841-aa92-54fb23e1a13a

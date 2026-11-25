@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_ext_aux
 -- name    : GlobalTheory.NL.Model.ext_aux
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:46:54.505296+00:00
 -- url     : https://prove2.me/theorems/3de30922-462f-4426-b3d5-f34b23884690

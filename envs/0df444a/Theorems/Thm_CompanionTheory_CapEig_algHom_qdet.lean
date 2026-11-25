@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_CapEig_algHom_qdet
 -- name    : CompanionTheory.CapEig.algHom_qdet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:50:00.214147+00:00
 -- url     : https://prove2.me/theorems/37e96baa-4649-5d39-9719-fb2223c4bbb5

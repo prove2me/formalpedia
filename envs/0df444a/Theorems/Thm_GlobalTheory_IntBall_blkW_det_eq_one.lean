@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_blkW_det_eq_one
 -- name    : GlobalTheory.IntBall.blkW_det_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:45:02.464785+00:00
 -- url     : https://prove2.me/theorems/9e8d8e53-e8f9-42e6-9153-e159ffa8f436

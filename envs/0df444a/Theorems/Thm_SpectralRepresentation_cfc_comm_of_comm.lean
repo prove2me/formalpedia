@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralRepresentation_cfc_comm_of_comm
 -- name    : SpectralRepresentation.cfc_comm_of_comm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:16:39.868623+00:00
 -- url     : https://prove2.me/theorems/14a7bbae-7554-4e28-bb4a-0f33bfd4c1e6

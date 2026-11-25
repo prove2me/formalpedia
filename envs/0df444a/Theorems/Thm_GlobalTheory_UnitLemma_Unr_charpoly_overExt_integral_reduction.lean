@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_charpoly_overExt_integral_reduction
 -- name    : GlobalTheory.UnitLemma.Unr.charpoly_overExt_integral_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:35:46.026185+00:00
 -- url     : https://prove2.me/theorems/d9636db8-f57f-42d8-a230-039fa26b7ece

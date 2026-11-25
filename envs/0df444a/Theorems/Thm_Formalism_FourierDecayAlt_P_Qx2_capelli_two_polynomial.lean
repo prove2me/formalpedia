@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_capelli_two_polynomial
 -- name    : Formalism.FourierDecayAlt.P.Qx2.capelli_two_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:19:39.381196+00:00
 -- url     : https://prove2.me/theorems/aa09cc6c-d91a-4b8c-8fee-b5ab149e9485

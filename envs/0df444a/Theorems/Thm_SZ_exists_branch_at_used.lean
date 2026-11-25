@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_exists_branch_at_used
 -- name    : SZ.exists_branch_at_used
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:22:46.070302+00:00
 -- url     : https://prove2.me/theorems/14a5e608-64e3-488d-ade0-fd624acfa1eb

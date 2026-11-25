@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_dvd_floor_of_uniform
 -- name    : SZ.Slice.dvd_floor_of_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:22:33.963596+00:00
 -- url     : https://prove2.me/theorems/edc5c2b1-65cf-4a12-8545-657ec9f5d4a0

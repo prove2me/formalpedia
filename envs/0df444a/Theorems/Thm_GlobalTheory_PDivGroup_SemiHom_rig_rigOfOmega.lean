@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_SemiHom_rig_rigOfOmega
 -- name    : GlobalTheory.PDivGroup.SemiHom.rig_rigOfOmega
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:49:56.931807+00:00
 -- url     : https://prove2.me/theorems/14fb11d6-040b-520e-af77-bb6b201a185c

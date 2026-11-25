@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_qc_prim
 -- name    : Formalism.LFunctionChainParameters.LBr2.qc_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:50:15.135885+00:00
 -- url     : https://prove2.me/theorems/66cd54ce-bb90-58ea-9065-45c479197f4d

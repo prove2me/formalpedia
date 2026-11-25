@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscConductor_discr_mul_mem_of_isIntegral
 -- name    : GlobalTheory.DiscConductor.discr_mul_mem_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:49:09.093677+00:00
 -- url     : https://prove2.me/theorems/ecf6c373-0a4b-4015-a5f5-7cd01050f689

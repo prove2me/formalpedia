@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Split_cong_smul
 -- name    : Formalism.L2.Th1.B.Split.cong_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:50:05.21452+00:00
 -- url     : https://prove2.me/theorems/9755833f-4f4e-4988-89c8-6138f8607d45

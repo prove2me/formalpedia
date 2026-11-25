@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_transH_comp
 -- name    : GlobalTheory.SW.transH_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:15:24.856159+00:00
 -- url     : https://prove2.me/theorems/3cd07040-14bb-4999-84c1-33176436ab3f

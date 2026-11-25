@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetBound_detClaims
 -- name    : GlobalTheory.DetBound.detClaims
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:44:02.357628+00:00
 -- url     : https://prove2.me/theorems/f85ad105-e91a-4a49-8959-7f5113e3cc45

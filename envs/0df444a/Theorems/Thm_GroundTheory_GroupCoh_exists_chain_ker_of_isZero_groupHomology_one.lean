@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_exists_chain_ker_of_isZero_groupHomology_one
 -- name    : GroundTheory.GroupCoh.exists_chain_ker_of_isZero_groupHomology_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:44:01.751752+00:00
 -- url     : https://prove2.me/theorems/055ed77d-07bf-4c4d-9d25-03c60f3a637a

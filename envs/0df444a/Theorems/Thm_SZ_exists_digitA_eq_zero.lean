@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_exists_digitA_eq_zero
 -- name    : SZ.exists_digitA_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:28:12.909541+00:00
 -- url     : https://prove2.me/theorems/28a9aa3f-3342-47b0-afca-15b8c76372ab

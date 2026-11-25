@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lintegral_linear_change_variables_complex
 -- name    : GlobalTheory.T.lintegral_linear_change_variables_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:52:13.209221+00:00
 -- url     : https://prove2.me/theorems/9295d293-f30e-4120-8b2b-ba3bea17a86e

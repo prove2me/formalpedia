@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_conv_one
 -- name    : GlobalTheory.NL.Model.conv_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:46:35.323271+00:00
 -- url     : https://prove2.me/theorems/49ed369a-8d9f-5635-a83d-86f39b79b1be

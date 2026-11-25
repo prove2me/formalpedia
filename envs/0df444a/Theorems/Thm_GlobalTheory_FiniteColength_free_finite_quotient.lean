@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteColength_free_finite_quotient
 -- name    : GlobalTheory.FiniteColength.free_finite_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:44:26.634623+00:00
 -- url     : https://prove2.me/theorems/395cee44-e7e6-5a30-bf9c-068e1feb70ef

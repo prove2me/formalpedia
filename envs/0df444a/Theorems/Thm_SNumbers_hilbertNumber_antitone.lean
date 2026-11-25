@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_hilbertNumber_antitone
 -- name    : SNumbers.hilbertNumber_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:40:46.757244+00:00
 -- url     : https://prove2.me/theorems/28724fe2-b426-4321-9e5d-668c3f4c4041

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_homogeneous_components_of_integral_equation
 -- name    : GlobalTheory.homogeneous_components_of_integral_equation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:54:58.666655+00:00
 -- url     : https://prove2.me/theorems/a38ca4da-5fe1-4ffc-a540-8ccf995c50de

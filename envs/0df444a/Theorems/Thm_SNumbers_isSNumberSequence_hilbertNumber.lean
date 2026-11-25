@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_isSNumberSequence_hilbertNumber
 -- name    : SNumbers.isSNumberSequence_hilbertNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:12:09.290902+00:00
 -- url     : https://prove2.me/theorems/8a70ad58-7b51-457c-901a-7328cb291a88

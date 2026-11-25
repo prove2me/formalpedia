@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KronAssembly_chi_ne_zero
 -- name    : GlobalTheory.KronAssembly.chi_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:48:02.123941+00:00
 -- url     : https://prove2.me/theorems/8a3a515d-d681-4b63-8a37-5d77a31f300f

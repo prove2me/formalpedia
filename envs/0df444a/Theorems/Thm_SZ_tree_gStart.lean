@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_tree_gStart
 -- name    : SZ.tree_gStart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:18:23.09618+00:00
 -- url     : https://prove2.me/theorems/08f957ed-0a8a-48c1-ab57-c9a5156284bc

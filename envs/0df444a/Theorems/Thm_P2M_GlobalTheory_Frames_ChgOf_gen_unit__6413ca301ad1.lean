@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Frames_ChgOf_gen_unit__6413ca301ad1
 -- name    : P2M_GlobalTheory_Frames_ChgOf_gen_unit__6413ca301ad1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:05:18.801811+00:00
 -- url     : https://prove2.me/theorems/ae2284a4-da32-46c6-80fa-b2cadbe7e647

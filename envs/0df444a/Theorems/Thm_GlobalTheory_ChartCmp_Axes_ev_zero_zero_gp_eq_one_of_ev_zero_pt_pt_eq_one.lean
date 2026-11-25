@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_Axes_ev_zero_zero_gp_eq_one_of_ev_zero_pt_pt_eq_one
 -- name    : GlobalTheory.ChartCmp.Axes.ev_zero_zero_gp_eq_one_of_ev_zero_pt_pt_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:23:59.434802+00:00
 -- url     : https://prove2.me/theorems/850e4776-3ef6-4ca0-b29a-a9be9e91dbb6

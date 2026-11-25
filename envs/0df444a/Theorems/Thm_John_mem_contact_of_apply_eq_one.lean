@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_John_mem_contact_of_apply_eq_one
 -- name    : John.mem_contact_of_apply_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:23:57.713867+00:00
 -- url     : https://prove2.me/theorems/4d4efbde-728c-48c9-98d9-0c7418b1ff65

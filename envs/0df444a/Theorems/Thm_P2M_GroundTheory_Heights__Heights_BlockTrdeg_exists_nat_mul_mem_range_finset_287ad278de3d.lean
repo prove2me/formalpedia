@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BlockTrdeg_exists_nat_mul_mem_range_finset_287ad278de3d
 -- name    : P2M_GroundTheory_Heights__Heights_BlockTrdeg_exists_nat_mul_mem_range_finset_287ad278de3d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:15:58.689678+00:00
 -- url     : https://prove2.me/theorems/fc31bf0e-7dcc-468b-bb1d-eff5b76dd271

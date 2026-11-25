@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AddBlockBridge_exists_chartRing_308442e990d9
 -- name    : P2M_GroundTheory_Heights__Heights_AddBlockBridge_exists_chartRing_308442e990d9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:15:56.822123+00:00
 -- url     : https://prove2.me/theorems/212f2dda-9b5e-40af-ae4a-4c755361f2e0

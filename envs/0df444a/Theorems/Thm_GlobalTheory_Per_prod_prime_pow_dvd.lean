@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Per_prod_prime_pow_dvd
 -- name    : GlobalTheory.Per.prod_prime_pow_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:49:54.294361+00:00
 -- url     : https://prove2.me/theorems/96cea941-a4c1-5834-a047-b1c97e20b47a

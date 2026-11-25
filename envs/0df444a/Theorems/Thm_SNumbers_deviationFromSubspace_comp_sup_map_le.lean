@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_deviationFromSubspace_comp_sup_map_le
 -- name    : SNumbers.deviationFromSubspace_comp_sup_map_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:09:08.955973+00:00
 -- url     : https://prove2.me/theorems/24f38ffd-d5c5-4faf-ae3d-dc99bfd022f5

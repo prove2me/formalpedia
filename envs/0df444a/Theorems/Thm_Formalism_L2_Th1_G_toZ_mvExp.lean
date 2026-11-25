@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_toZ_mvExp
 -- name    : Formalism.L2.Th1.G.toZ_mvExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:19:24.199205+00:00
 -- url     : https://prove2.me/theorems/4060c34c-8b3a-5b5a-958b-815feae0698c

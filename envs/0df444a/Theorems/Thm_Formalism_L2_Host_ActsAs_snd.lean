@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_ActsAs_snd
 -- name    : Formalism.L2.Host.ActsAs.snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:33:53.995466+00:00
 -- url     : https://prove2.me/theorems/662352d9-3342-4afa-8e59-c98559522b80

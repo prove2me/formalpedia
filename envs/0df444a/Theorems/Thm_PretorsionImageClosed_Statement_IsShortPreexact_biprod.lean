@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_IsShortPreexact_biprod
 -- name    : PretorsionImageClosed.Statement.IsShortPreexact.biprod
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:07:11.535806+00:00
 -- url     : https://prove2.me/theorems/658dcb8e-ae0d-4565-b0c1-6c4106abb824

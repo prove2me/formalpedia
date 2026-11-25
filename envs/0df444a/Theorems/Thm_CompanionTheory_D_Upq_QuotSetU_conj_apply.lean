@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_QuotSetU_conj_apply
 -- name    : CompanionTheory.D.Upq.QuotSetU.conj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:42:30.173975+00:00
 -- url     : https://prove2.me/theorems/4faddd10-2f5f-4dee-9f54-4e9ddda91fef

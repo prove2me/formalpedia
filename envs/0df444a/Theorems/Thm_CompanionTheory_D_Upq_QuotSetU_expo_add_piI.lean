@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_QuotSetU_expo_add_piI
 -- name    : CompanionTheory.D.Upq.QuotSetU.expo_add_piI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:42:14.856239+00:00
 -- url     : https://prove2.me/theorems/d063524f-6338-5561-8323-d98aece8075a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_jetsIn_phSum
 -- name    : Formalism.L2.Th1.G.jetsIn_phSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:37:52.973811+00:00
 -- url     : https://prove2.me/theorems/f650469f-d848-4ee3-b9a2-ae2b63818241

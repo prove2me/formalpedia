@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_node_g2_mono
 -- name    : SZ.node_g2_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:19:06.791646+00:00
 -- url     : https://prove2.me/theorems/ef9bfaa3-30cf-5e2c-8ad9-a4922ed99918

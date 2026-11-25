@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HopfQuot_ev_mulRight_comul_of_primitive
 -- name    : GlobalTheory.HopfQuot.ev_mulRight_comul_of_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:48:29.07995+00:00
 -- url     : https://prove2.me/theorems/fc71d7eb-0b46-5286-88b8-b454d7ea6a40

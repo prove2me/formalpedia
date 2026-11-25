@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_WirtChain_contDiffOn_wirtWord__3aa88b37ccd1
 -- name    : P2M_GlobalTheory_WirtChain_contDiffOn_wirtWord__3aa88b37ccd1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:23:50.781021+00:00
 -- url     : https://prove2.me/theorems/b408e411-73e8-4a9e-8e8b-0d1fd9c2a1dc

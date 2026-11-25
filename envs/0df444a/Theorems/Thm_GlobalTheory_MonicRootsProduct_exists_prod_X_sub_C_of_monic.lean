@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonicRootsProduct_exists_prod_X_sub_C_of_monic
 -- name    : GlobalTheory.MonicRootsProduct.exists_prod_X_sub_C_of_monic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:46:13.475279+00:00
 -- url     : https://prove2.me/theorems/e46e9f47-d7fe-5444-b91e-72fbd532ed7d

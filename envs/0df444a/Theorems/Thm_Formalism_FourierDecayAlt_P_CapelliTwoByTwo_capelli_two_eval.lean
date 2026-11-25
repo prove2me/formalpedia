@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliTwoByTwo_capelli_two_eval
 -- name    : Formalism.FourierDecayAlt.P.CapelliTwoByTwo.capelli_two_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:48:29.237612+00:00
 -- url     : https://prove2.me/theorems/d1043530-8b92-4806-99ee-72af49af3b6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSICKExp_kExp
 -- name    : GlobalTheory.CompanionTheory.DSICKExp.kExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:45:30.614881+00:00
 -- url     : https://prove2.me/theorems/44f0fc36-9839-4fe3-a1da-0cfeeb906036

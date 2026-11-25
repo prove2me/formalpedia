@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KronOff_measurable_indicator_of_contOn
 -- name    : GlobalTheory.KronOff.measurable_indicator_of_contOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:47:17.791539+00:00
 -- url     : https://prove2.me/theorems/7e832e04-8ff3-48ce-8a9f-735706e2bf03

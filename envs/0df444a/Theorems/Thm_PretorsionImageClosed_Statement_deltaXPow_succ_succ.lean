@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_deltaXPow_succ_succ
 -- name    : PretorsionImageClosed.Statement.deltaXPow_succ_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:09:35.429826+00:00
 -- url     : https://prove2.me/theorems/953940bb-e9c9-498e-9368-41bb7dd87dfb

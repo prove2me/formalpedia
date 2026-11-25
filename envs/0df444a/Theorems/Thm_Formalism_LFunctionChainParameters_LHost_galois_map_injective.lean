@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_galois_map_injective
 -- name    : Formalism.LFunctionChainParameters.LHost.galois_map_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:24:18.029796+00:00
 -- url     : https://prove2.me/theorems/b18115e5-8101-458c-958b-eeb4b33fd4a5

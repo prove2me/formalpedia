@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_sqrtThree_mem_MahlerZ
 -- name    : SZ.sqrtThree_mem_MahlerZ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:30:34.266202+00:00
 -- url     : https://prove2.me/theorems/56904200-c366-4f80-8456-bbd123e3260e

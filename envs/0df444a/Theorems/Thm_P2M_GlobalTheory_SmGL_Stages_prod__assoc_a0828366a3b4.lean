@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SmGL_Stages_prod__assoc_a0828366a3b4
 -- name    : P2M_GlobalTheory_SmGL_Stages_prod__assoc_a0828366a3b4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:09:27.535625+00:00
 -- url     : https://prove2.me/theorems/194d579f-7f6a-48e1-97b0-fcc5415ad27f

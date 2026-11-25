@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isAH_of_polarisation
 -- name    : GlobalTheory.isAH_of_polarisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:56:38.884562+00:00
 -- url     : https://prove2.me/theorems/113f67ce-f993-43c5-a264-9cb2a03febb2

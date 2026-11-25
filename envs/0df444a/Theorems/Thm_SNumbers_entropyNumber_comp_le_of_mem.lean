@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_entropyNumber_comp_le_of_mem
 -- name    : SNumbers.entropyNumber_comp_le_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:19:03.891852+00:00
 -- url     : https://prove2.me/theorems/52fd3261-500d-4b1f-9a1e-20f88327469e

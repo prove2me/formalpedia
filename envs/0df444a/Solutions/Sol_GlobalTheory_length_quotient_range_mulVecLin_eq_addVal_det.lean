@@ -1,0 +1,41 @@
+-- Prove2me | solution 1 for GlobalTheory.length_quotient_range_mulVecLin_eq_addVal_det
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T02:46:18.579482+00:00
+-- url     : https://prove2.me/submissions/2bb85845-31eb-4bf3-8998-17f96cd57001
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_QuasicoherentCohomology_LengthCommensurableMapIffOfInjective
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_ExistsDualNeZeroCompEqZero
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_LengthQuotientSpanSingleton
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_LengthSelfEqTop
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_Imports
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_ExistsLinearEquivMapLatticeEq
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_SignedLengthOfCommonLower
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_RelLengthSpanEqAddValDet
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_LengthCokerOfNotInjective
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_SignedLengthSpanEqOrdFracDet
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_RelLengthSpanMatrix
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_SignedLengthEqLogOrdFracDet
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_SignedLengthMapEqLogOrdFracDet
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_LengthCommensurableSpanSpanOfDetNeZero
+import Theorems.Thm_P2M_GlobalTheory_length_quotient_range_toLin__eq_addVal_det_47182fff4b59
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Module IsDiscreteValuationRing
+open GlobalTheory
+variable {R : Type*} [CommRing R] [IsDomain R] [IsDiscreteValuationRing R]
+variable {M : Type*} [AddCommGroup M] [Module R M]
+variable {ι : Type*} [Fintype ι] [DecidableEq ι]
+namespace GlobalTheory
+theorem _root_.solution (P : Matrix ι ι R) :
+    Module.length R ((ι → R) ⧸ LinearMap.range P.mulVecLin) = addVal R P.det :=
+  length_quotient_range_toLin'_eq_addVal_det P
+end GlobalTheory

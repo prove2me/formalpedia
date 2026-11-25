@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeRecip_centralBinom_le_pow_primeCounting
 -- name    : GlobalTheory.PrimeRecip.centralBinom_le_pow_primeCounting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:50:02.94008+00:00
 -- url     : https://prove2.me/theorems/1d00ed3f-39ea-5633-99b4-87b02d0c4285

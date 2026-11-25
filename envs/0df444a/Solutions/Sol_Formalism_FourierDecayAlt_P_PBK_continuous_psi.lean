@@ -1,0 +1,28 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.PBK.continuous_psi
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T02:59:34.044936+00:00
+-- url     : https://prove2.me/submissions/d2576642-9a40-4436-b039-d41aff4d2c42
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementG
+import Mathlib.Analysis.Fourier.RiemannLebesgueLemma
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_TendstoIntegralPsiMoving
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.PBK
+open Formalism.FourierDecayAlt Filter Topology MeasureTheory
+open scoped ComplexConjugate InnerProductSpace
+noncomputable section
+variable {E : Type} [NormedAddCommGroup E] [NormedSpace ℂ E] [CompleteSpace E]
+namespace Formalism.FourierDecayAlt.P.PBK
+theorem _root_.solution (β : ℂ) : Continuous (G.psi β) := by
+  unfold G.psi
+  fun_prop
+end Formalism.FourierDecayAlt.P.PBK

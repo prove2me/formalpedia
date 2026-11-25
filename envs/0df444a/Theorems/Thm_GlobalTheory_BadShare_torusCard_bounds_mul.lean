@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_torusCard_bounds_mul
 -- name    : GlobalTheory.BadShare.torusCard_bounds_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:44:09.902244+00:00
 -- url     : https://prove2.me/theorems/1946bb46-9663-4524-b680-505199f5f283

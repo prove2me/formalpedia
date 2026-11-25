@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_MinorLast_entry_tdm
 -- name    : GlobalTheory.IntBall.MinorLast.entry_tdm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:48:02.280318+00:00
 -- url     : https://prove2.me/theorems/c0c656f4-404c-4a7e-87c0-81eec181c53e

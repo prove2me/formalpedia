@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_idxPsiGood
 -- name    : Formalism.EigenvalueLevelCeiling.idxPsiGood
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:32:15.003575+00:00
 -- url     : https://prove2.me/theorems/85d068d7-870b-43c4-bbaa-9679b2b282d7

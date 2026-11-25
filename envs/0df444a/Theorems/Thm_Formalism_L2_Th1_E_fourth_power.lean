@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_fourth_power
 -- name    : Formalism.L2.Th1.E.fourth_power
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:40:10.822367+00:00
 -- url     : https://prove2.me/theorems/c6baa771-9e6c-45d7-b68e-06b1aa7fea57

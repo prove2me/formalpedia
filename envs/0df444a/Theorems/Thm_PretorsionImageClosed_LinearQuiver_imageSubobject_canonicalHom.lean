@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_imageSubobject_canonicalHom
 -- name    : PretorsionImageClosed.LinearQuiver.imageSubobject_canonicalHom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:25:26.698809+00:00
 -- url     : https://prove2.me/theorems/a3115f41-3ce6-4707-a2a4-0de424d4af2f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_restrictedLattice_exists_lift
 -- name    : Formalism.InvariantFactorPaths.L4.restrictedLattice_exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:55:51.483039+00:00
 -- url     : https://prove2.me/theorems/59cad7cd-3717-4c26-8cab-379d8d315882

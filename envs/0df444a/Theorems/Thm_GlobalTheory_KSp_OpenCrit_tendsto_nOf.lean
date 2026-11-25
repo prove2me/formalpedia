@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_OpenCrit_tendsto_nOf
 -- name    : GlobalTheory.KSp.OpenCrit.tendsto_nOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:07:41.623136+00:00
 -- url     : https://prove2.me/theorems/1b6fbd14-7d5f-4271-ac59-0193cf9f7185

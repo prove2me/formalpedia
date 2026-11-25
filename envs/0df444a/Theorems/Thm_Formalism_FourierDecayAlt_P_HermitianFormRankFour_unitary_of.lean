@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormRankFour_unitary_of
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormRankFour.unitary_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:11:24.961807+00:00
 -- url     : https://prove2.me/theorems/9134c64b-4f8c-5e0a-bf9a-0f55b58b2b7e

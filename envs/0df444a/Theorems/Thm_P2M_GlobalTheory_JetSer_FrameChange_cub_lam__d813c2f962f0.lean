@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_JetSer_FrameChange_cub_lam__d813c2f962f0
 -- name    : P2M_GlobalTheory_JetSer_FrameChange_cub_lam__d813c2f962f0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:07:11.170378+00:00
 -- url     : https://prove2.me/theorems/10d29134-a168-4c81-a5f3-904e361b7ff7

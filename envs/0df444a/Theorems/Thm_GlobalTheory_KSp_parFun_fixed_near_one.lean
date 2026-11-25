@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_parFun_fixed_near_one
 -- name    : GlobalTheory.KSp.parFun_fixed_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:26:18.619149+00:00
 -- url     : https://prove2.me/theorems/82058b6a-4acb-41e5-901f-9ccd9e95c9ad

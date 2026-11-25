@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rationalSchwartzBruhat_algebra_integral_linear
 -- name    : GlobalTheory.T.rationalSchwartzBruhat_algebra_integral_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:31.218729+00:00
 -- url     : https://prove2.me/theorems/662890d1-d8c4-4794-8d8d-9a1fe53e93cd

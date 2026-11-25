@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_John_sum_weight_mul_le_sqrt
 -- name    : John.sum_weight_mul_le_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:22:46.369396+00:00
 -- url     : https://prove2.me/theorems/9c19cd2b-9ab3-4a3e-bbb5-f608c027d071

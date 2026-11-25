@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_inStrictNormalCrossingPosition_of_forall_etaleChart
 -- name    : FunctorialResolution.EmbeddedResolution.inStrictNormalCrossingPosition_of_forall_etaleChart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:58:40.913963+00:00
 -- url     : https://prove2.me/theorems/a31b5148-7b08-4dba-b02d-00a5b3176116

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_eigen_split_holds
 -- name    : Formalism.L2.Th1.G.eigen_split_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:36:30.961921+00:00
 -- url     : https://prove2.me/theorems/b107f76d-6383-5516-991f-a5c177c36d4f

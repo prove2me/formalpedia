@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_zeroFreeRegionExceptionalZeroOfBounds
 -- name    : Formalism.ZeroFreeDirichlet.zeroFreeRegionExceptionalZeroOfBounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:44:17.132341+00:00
 -- url     : https://prove2.me/theorems/f566d679-593b-4242-9d16-e01e5b286567

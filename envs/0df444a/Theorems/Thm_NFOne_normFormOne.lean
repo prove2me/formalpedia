@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_normFormOne
 -- name    : NFOne.normFormOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:53:18.763595+00:00
 -- url     : https://prove2.me/theorems/79eb7a91-d6b6-4b2c-99fe-c91827e09e84

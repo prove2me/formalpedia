@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_floor_witXi_sqrtThree
 -- name    : SZ.floor_witXi_sqrtThree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:31:58.952025+00:00
 -- url     : https://prove2.me/theorems/73f19f18-7852-5dca-b28b-1b5e964b50e1

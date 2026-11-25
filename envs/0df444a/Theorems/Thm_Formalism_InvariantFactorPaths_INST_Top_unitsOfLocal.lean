@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_Top_unitsOfLocal
 -- name    : Formalism.InvariantFactorPaths.INST.Top.unitsOfLocal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:34:57.610226+00:00
 -- url     : https://prove2.me/theorems/19f458ea-d62c-423a-863d-ab10364d8867

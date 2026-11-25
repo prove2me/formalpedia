@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_branchDigit_adm
 -- name    : SZ.branchDigit_adm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:17:35.204747+00:00
 -- url     : https://prove2.me/theorems/82b135c0-2065-528c-afc9-af6eafdd4b6c

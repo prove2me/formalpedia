@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_cover2_of
 -- name    : CompanionTheory.D.LK.cover2_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:14.056992+00:00
 -- url     : https://prove2.me/theorems/6158c65e-a876-4b5e-8def-6dba402bc071

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_lattice_eq_of_g__eq_of_g__eq_399c7fadf18d
 -- name    : P2M_GlobalTheory_lattice_eq_of_g__eq_of_g__eq_399c7fadf18d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:27:19.687895+00:00
 -- url     : https://prove2.me/theorems/81a2f385-e539-4757-98bf-a8e6b0c16213

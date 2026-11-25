@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for Formalism.DworkPowerSeriesWeights.lemma_R_log_loss
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T03:05:26.01623+00:00
+-- url     : https://prove2.me/submissions/fab71fe5-5214-4ae1-b481-8ba512a3529a
+
+import Definitions.Def_Formalism_GaussJetBounds_OneLetterRadius
+import Definitions.Def_Formalism_GaussJetBounds_StatementG
+import Definitions.Def_Formalism_GaussJetBounds_GaussJetProofs_LemmaRA
+import Theorems.Thm_Formalism_DworkPowerSeriesWeights_lemmaRA_of
+import Theorems.Thm_Formalism_DworkPowerSeriesWeights_exponential_weight_le
+import Theorems.Thm_Formalism_DworkPowerSeriesWeights_generalized_log_weight
+import Theorems.Thm_Formalism_DworkPowerSeriesWeights_lemmaS
+import Theorems.Thm_Formalism_DworkPowerSeriesWeights_logarithm_weight_comparison
+import Theorems.Thm_Formalism_DworkPowerSeriesWeights_multiplicative_weight_le
+import Theorems.Thm_Formalism_DworkPowerSeriesWeights_pure_cross_term_weight
+import Theorems.Thm_Formalism_DworkPowerSeriesWeights_radical_weight_monotone
+import Theorems.Thm_Formalism_DworkPowerSeriesWeights_substitution_weight_bound
+import Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qi22_homW_prod__0e07eaea3260
+import Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qk29_wtGe_prod__77285e911b46
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open scoped BigOperators
+universe u v
+open Formalism Formalism.DworkPowerSeriesWeights
+open Formalism.IncomingBounds
+namespace Formalism.DworkPowerSeriesWeights
+theorem _root_.solution : LemmaRA.{u, v} :=
+  lemmaRA_of lemmaS generalized_log_weight logarithm_weight_comparison substitution_weight_bound substitution_weight_bound radical_weight_monotone
+    multiplicative_weight_le exponential_weight_le pure_cross_term_weight
+end Formalism.DworkPowerSeriesWeights

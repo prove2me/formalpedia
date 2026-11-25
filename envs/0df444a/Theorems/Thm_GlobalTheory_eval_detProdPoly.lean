@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eval_detProdPoly
 -- name    : GlobalTheory.eval_detProdPoly
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:43:35.649113+00:00
 -- url     : https://prove2.me/theorems/40d273d5-4b6d-45a2-a346-18c094461ed4

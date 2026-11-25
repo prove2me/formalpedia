@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeRecip_table_ok
 -- name    : GlobalTheory.PrimeRecip.table_ok
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:49:08.533735+00:00
 -- url     : https://prove2.me/theorems/a42f1e50-b48f-423a-bd67-78547dc10a18

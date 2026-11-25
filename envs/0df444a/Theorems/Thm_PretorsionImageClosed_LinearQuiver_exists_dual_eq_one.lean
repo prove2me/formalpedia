@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_exists_dual_eq_one
 -- name    : PretorsionImageClosed.LinearQuiver.exists_dual_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:06:00.106797+00:00
 -- url     : https://prove2.me/theorems/ae383064-d49c-5dd6-b691-2f0aa330be5d

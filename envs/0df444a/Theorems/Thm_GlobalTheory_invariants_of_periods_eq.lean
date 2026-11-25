@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_invariants_of_periods_eq
 -- name    : GlobalTheory.invariants_of_periods_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:55:56.553501+00:00
 -- url     : https://prove2.me/theorems/055c872f-9dd5-4846-bd36-d0ba0e069334

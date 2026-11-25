@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_sqrtEight_mem_MahlerZ
 -- name    : SZ.sqrtEight_mem_MahlerZ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:13:12.652243+00:00
 -- url     : https://prove2.me/theorems/c414819f-cb81-58c8-9350-512f8bf034ce

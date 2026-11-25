@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_InertDoubling_isInt_neg__419bce61802a
 -- name    : P2M_GlobalTheory_CompanionTheory_InertDoubling_isInt_neg__419bce61802a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:03:46.388832+00:00
 -- url     : https://prove2.me/theorems/4c48f47e-156a-4dd9-ad95-49485cc0f516

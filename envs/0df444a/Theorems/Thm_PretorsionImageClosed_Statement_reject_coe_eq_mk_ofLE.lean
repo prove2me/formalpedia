@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_reject_coe_eq_mk_ofLE
 -- name    : PretorsionImageClosed.Statement.reject_coe_eq_mk_ofLE
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:35:16.359274+00:00
 -- url     : https://prove2.me/theorems/a3345f76-e883-4828-955b-582818c975c0

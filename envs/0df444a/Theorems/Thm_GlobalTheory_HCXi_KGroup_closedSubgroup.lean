@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_KGroup_closedSubgroup
 -- name    : GlobalTheory.HCXi.KGroup.closedSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:45:47.100791+00:00
 -- url     : https://prove2.me/theorems/58da69e7-69de-4a67-8131-9a12d0cf9d60

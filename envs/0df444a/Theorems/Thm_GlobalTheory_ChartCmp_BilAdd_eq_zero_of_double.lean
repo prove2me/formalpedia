@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_BilAdd_eq_zero_of_double
 -- name    : GlobalTheory.ChartCmp.BilAdd.eq_zero_of_double
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:37:26.500847+00:00
 -- url     : https://prove2.me/theorems/6a9045d4-35df-5422-ac33-8507e74067da

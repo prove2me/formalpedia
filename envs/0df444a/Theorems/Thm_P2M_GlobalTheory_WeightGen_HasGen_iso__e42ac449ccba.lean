@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_WeightGen_HasGen_iso__e42ac449ccba
 -- name    : P2M_GlobalTheory_WeightGen_HasGen_iso__e42ac449ccba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:12:41.48515+00:00
 -- url     : https://prove2.me/theorems/9a743541-b4df-426b-bb9b-058849dac4aa

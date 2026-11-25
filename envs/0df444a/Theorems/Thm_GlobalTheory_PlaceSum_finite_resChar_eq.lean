@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceSum_finite_resChar_eq
 -- name    : GlobalTheory.PlaceSum.finite_resChar_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:49:45.144225+00:00
 -- url     : https://prove2.me/theorems/69e05f0b-ac6e-4cee-88a2-7e67cad936aa

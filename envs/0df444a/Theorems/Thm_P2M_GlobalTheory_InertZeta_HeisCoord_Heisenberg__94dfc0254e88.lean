@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_InertZeta_HeisCoord_Heisenberg__94dfc0254e88
 -- name    : P2M_GlobalTheory_InertZeta_HeisCoord_Heisenberg__94dfc0254e88
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:06:19.987715+00:00
 -- url     : https://prove2.me/theorems/0e6a32d7-83c3-4fea-9bb7-32d270c9e303

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_trace_eq_top_iff
 -- name    : PretorsionImageClosed.Statement.Subcategory.trace_eq_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:27:08.83689+00:00
 -- url     : https://prove2.me/theorems/742e5b6b-1c8b-4b95-b630-72bbbe82171c

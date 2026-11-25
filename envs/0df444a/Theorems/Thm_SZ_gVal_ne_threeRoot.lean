@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_gVal_ne_threeRoot
 -- name    : SZ.gVal_ne_threeRoot
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:16:24.279012+00:00
 -- url     : https://prove2.me/theorems/46dbea2d-698d-4286-b128-20bb4a31b1e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_formal_halving_exists
 -- name    : Formalism.L2.Th1.B.formal_halving_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:16.935108+00:00
 -- url     : https://prove2.me/theorems/175f0987-74e7-4829-96b8-5d3f6983c766

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_IsSm_exists_clm
 -- name    : CompanionTheory.D.Upq.Sm.IsSm.exists_clm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:43:17.52532+00:00
 -- url     : https://prove2.me/theorems/a4c1e627-1b7f-4cc3-a7a3-b6bae372f288

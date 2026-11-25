@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx5_expFirstCol
 -- name    : Formalism.FourierDecayAlt.P.Qx5.expFirstCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:46:09.570592+00:00
 -- url     : https://prove2.me/theorems/a831e317-5fe3-4798-b382-c95013a0ec29

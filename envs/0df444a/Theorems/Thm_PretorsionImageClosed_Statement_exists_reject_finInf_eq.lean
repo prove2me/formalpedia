@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_exists_reject_finInf_eq
 -- name    : PretorsionImageClosed.Statement.exists_reject_finInf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:43:39.720944+00:00
 -- url     : https://prove2.me/theorems/7707b737-6b2b-5132-9371-99d3b42b3cc0

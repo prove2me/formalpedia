@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilAct_unique
 -- name    : GlobalTheory.SW.WeilAct.unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:22.227797+00:00
 -- url     : https://prove2.me/theorems/3defd5bb-327f-4cca-8a5c-8e42eabfb0d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerDifferenceNormInertiaEigenvalues_norm_pow_sub_pow_le
 -- name    : GlobalTheory.PowerDifferenceNormInertiaEigenvalues.norm_pow_sub_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:53:58.050842+00:00
 -- url     : https://prove2.me/theorems/41cd151d-1974-42f2-9eb0-3aa1113bad44

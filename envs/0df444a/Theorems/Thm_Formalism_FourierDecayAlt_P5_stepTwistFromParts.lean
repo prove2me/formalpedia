@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_stepTwistFromParts
 -- name    : Formalism.FourierDecayAlt.P5.stepTwistFromParts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:44:44.7729+00:00
 -- url     : https://prove2.me/theorems/7aa97092-17d3-475f-a393-17b4cc7de61e

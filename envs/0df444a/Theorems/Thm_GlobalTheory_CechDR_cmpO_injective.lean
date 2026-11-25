@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_cmpO_injective
 -- name    : GlobalTheory.CechDR.cmpO_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:48:59.572749+00:00
 -- url     : https://prove2.me/theorems/8085f47c-9352-4df7-9e59-c991c5895619

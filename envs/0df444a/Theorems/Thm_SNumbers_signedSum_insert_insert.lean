@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_signedSum_insert_insert
 -- name    : SNumbers.signedSum_insert_insert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:25:27.086733+00:00
 -- url     : https://prove2.me/theorems/95ac92d1-7399-4a16-8f4d-638b6e0f04fc

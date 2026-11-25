@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exteriorFormsSpanOfSets_mul_smul_mono
 -- name    : GlobalTheory.T.exteriorFormsSpanOfSets_mul_smul_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:40:25.524267+00:00
 -- url     : https://prove2.me/theorems/542fa421-7101-4b44-a084-cb77c7c485cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_lTensor_transl_comul
 -- name    : GlobalTheory.PDivGroup.lTensor_transl_comul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:50:05.618615+00:00
 -- url     : https://prove2.me/theorems/320ec7b8-45ac-494f-ab32-aa3ce8f19832

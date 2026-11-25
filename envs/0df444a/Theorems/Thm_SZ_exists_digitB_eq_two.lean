@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_exists_digitB_eq_two
 -- name    : SZ.exists_digitB_eq_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:28:04.934946+00:00
 -- url     : https://prove2.me/theorems/bb7b58d6-2a54-4bbc-86de-078047ecf396

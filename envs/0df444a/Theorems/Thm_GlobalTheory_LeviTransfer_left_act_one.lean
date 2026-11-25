@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeviTransfer_left_act_one
 -- name    : GlobalTheory.LeviTransfer.left_act_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:48:05.775037+00:00
 -- url     : https://prove2.me/theorems/a4e863bf-04c2-5030-b6c2-f3f158ccea52

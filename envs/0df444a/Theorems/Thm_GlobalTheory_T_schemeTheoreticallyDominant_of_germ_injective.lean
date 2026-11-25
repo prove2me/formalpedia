@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schemeTheoreticallyDominant_of_germ_injective
 -- name    : GlobalTheory.T.schemeTheoreticallyDominant_of_germ_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:56:52.31824+00:00
 -- url     : https://prove2.me/theorems/30dc076e-a0ad-42bc-8baf-aaadd651b574

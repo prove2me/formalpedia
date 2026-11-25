@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_coe_rhoSch
 -- name    : GlobalTheory.RealWeil.coe_rhoSch
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:21.292851+00:00
 -- url     : https://prove2.me/theorems/9f99d9a1-4c84-4f80-a04b-6a447f677083

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Per_Sen_adapted_basis_jumps
 -- name    : GlobalTheory.Per.Sen.adapted_basis_jumps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:49:31.448456+00:00
 -- url     : https://prove2.me/theorems/f68742a6-7ace-541f-9ebe-53c3368f1818

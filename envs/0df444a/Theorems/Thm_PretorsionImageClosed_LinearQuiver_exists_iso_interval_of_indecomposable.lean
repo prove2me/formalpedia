@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_exists_iso_interval_of_indecomposable
 -- name    : PretorsionImageClosed.LinearQuiver.exists_iso_interval_of_indecomposable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:07:21.202716+00:00
 -- url     : https://prove2.me/theorems/199bc6ca-aa60-4838-90a3-8f0adac3b9cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_inclusion_w_of_shape_w
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.inclusion_w_of_shape_w
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:29:11.234047+00:00
 -- url     : https://prove2.me/theorems/0314bdb2-1a39-4118-8907-c0828fc7ff02

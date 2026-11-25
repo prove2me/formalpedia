@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_KGroup_sum_normSq_eq_trace
 -- name    : GlobalTheory.HCXi.KGroup.sum_normSq_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:49:38.356082+00:00
 -- url     : https://prove2.me/theorems/6c72768f-2522-5a71-a55b-2a891b902588

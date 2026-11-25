@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Bes_torusTail_ge
 -- name    : GlobalTheory.CompanionTheory.Bes.torusTail_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:42:11.047961+00:00
 -- url     : https://prove2.me/theorems/31baf9ef-6cad-56d7-9b39-c3687192a69e

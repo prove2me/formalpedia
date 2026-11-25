@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatL_glO_transitive_pairs
 -- name    : GlobalTheory.LatL.glO_transitive_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:57:26.28825+00:00
 -- url     : https://prove2.me/theorems/399e5e90-1fb7-4377-b0e1-e941101e444d

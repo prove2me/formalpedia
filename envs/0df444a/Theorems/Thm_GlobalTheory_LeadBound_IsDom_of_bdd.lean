@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeadBound_IsDom_of_bdd
 -- name    : GlobalTheory.LeadBound.IsDom.of_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:46:18.399983+00:00
 -- url     : https://prove2.me/theorems/99a0378d-3d4e-4124-adb5-c2e1b5323061

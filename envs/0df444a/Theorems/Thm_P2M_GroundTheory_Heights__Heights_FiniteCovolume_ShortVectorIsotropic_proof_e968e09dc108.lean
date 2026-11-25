@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_ShortVectorIsotropic_proof_e968e09dc108
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_ShortVectorIsotropic_proof_e968e09dc108
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:42:06.609452+00:00
 -- url     : https://prove2.me/theorems/3d843a95-c158-503d-bb73-de7bc9334be8

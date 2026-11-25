@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_zmod_tensor_eq_card_quot_prime_multiples
 -- name    : GlobalTheory.T.card_zmod_tensor_eq_card_quot_prime_multiples
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:27:31.105805+00:00
 -- url     : https://prove2.me/theorems/7bdd04e1-867f-40b2-bbd8-e10b0d78f328

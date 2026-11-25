@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_fiber_measure_locally_finite_measurable_supported
 -- name    : GlobalTheory.T.gram_fiber_measure_locally_finite_measurable_supported
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:58:45.685808+00:00
 -- url     : https://prove2.me/theorems/b618996a-20d6-4b8d-ac4e-8f46f5914dbf

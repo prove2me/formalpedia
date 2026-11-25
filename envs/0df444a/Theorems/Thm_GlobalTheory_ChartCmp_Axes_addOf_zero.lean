@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_Axes_addOf_zero
 -- name    : GlobalTheory.ChartCmp.Axes.addOf_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:42:16.874867+00:00
 -- url     : https://prove2.me/theorems/a6639350-53a0-5ab0-9f73-de4dc5413e18

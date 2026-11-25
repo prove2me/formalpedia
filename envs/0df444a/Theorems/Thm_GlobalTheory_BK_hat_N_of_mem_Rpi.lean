@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_hat_N_of_mem_Rpi
 -- name    : GlobalTheory.BK.hat_N_of_mem_Rpi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:51:16.015976+00:00
 -- url     : https://prove2.me/theorems/19c86726-74b6-4104-8fad-b58a6f162a20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SW_Emb_hDen__emb_8e89cf070fb7
 -- name    : P2M_GlobalTheory_SW_Emb_hDen__emb_8e89cf070fb7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:11:17.37297+00:00
 -- url     : https://prove2.me/theorems/32693870-5130-4cc4-96f4-831b01a1dfc2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_GradedSeries_levN_mem_Nlev
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.GradedSeries.levN_mem_Nlev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:44:46.834229+00:00
 -- url     : https://prove2.me/theorems/34ee0dcc-ca1b-5e4e-a6d8-ffa6b84dcb7b

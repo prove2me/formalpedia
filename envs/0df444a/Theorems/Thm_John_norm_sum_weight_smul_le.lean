@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_John_norm_sum_weight_smul_le
 -- name    : John.norm_sum_weight_smul_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:24:04.44849+00:00
 -- url     : https://prove2.me/theorems/dc294b1a-c777-4b88-a56f-c47812149941

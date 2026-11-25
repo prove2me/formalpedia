@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finiteIdeleMeasure_finiteIntegralUnits
 -- name    : GroundTheory.Global.finiteIdeleMeasure_finiteIntegralUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:40:51.21022+00:00
 -- url     : https://prove2.me/theorems/d03ddf1d-90ef-4708-ad24-82f4b2e39717

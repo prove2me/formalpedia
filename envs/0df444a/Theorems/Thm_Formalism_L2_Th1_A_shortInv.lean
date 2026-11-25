@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_shortInv
 -- name    : Formalism.L2.Th1.A.shortInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:19:07.472315+00:00
 -- url     : https://prove2.me/theorems/0e7c37a9-34aa-58f5-aa69-eb6b79b44b79

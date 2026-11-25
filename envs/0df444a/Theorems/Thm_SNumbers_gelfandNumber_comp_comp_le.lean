@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_gelfandNumber_comp_comp_le
 -- name    : SNumbers.gelfandNumber_comp_comp_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:06:11.45724+00:00
 -- url     : https://prove2.me/theorems/9a7e1935-4100-4c4f-9ae0-fa6afcc7c6ea

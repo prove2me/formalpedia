@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_weierstrass_p_prime_shape
 -- name    : Formalism.L2.Th1.A.weierstrass_p_prime_shape
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:38:39.341522+00:00
 -- url     : https://prove2.me/theorems/ac6fd145-795b-5cf7-9d74-e9dd3e2da667

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_plusW_eq
 -- name    : Formalism.FourierDecayAlt.P.PBD.plusW_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:41:30.863794+00:00
 -- url     : https://prove2.me/theorems/ab490f39-536b-4fbc-836b-32376693f03f

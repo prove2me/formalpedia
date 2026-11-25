@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_addition_integral
 -- name    : Formalism.L2.Th1.A.addition_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:45.550407+00:00
 -- url     : https://prove2.me/theorems/939abf9f-5cb5-4cc0-af6f-932222279f4b

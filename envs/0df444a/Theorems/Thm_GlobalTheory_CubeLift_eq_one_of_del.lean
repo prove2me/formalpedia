@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeLift_eq_one_of_del
 -- name    : GlobalTheory.CubeLift.eq_one_of_del
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:28:27.308941+00:00
 -- url     : https://prove2.me/theorems/1ed23717-fa1f-4a24-a7a0-2cdbcc31e2a8

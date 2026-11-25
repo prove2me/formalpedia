@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_colGram_three_unitLower
 -- name    : GlobalTheory.IntBall.colGram_three_unitLower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:45:35.200087+00:00
 -- url     : https://prove2.me/theorems/3c06c3db-e911-474a-963b-9d7f61b83ee1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_ProdCount_orbSum_prod
 -- name    : GlobalTheory.UnitLemma.ProdCount.orbSum_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:29:04.737795+00:00
 -- url     : https://prove2.me/theorems/3b8fc58d-b14a-45d5-98e0-0bc789895920

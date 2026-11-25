@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_locallyConstantCompactSupport_slices_operator_apply
 -- name    : GlobalTheory.T.locallyConstantCompactSupport_slices_operator_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:52:56.754354+00:00
 -- url     : https://prove2.me/theorems/9205ff70-7c2f-4229-a7b1-d04e825cb38f

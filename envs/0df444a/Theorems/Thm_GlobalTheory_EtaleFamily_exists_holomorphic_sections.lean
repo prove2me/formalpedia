@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaleFamily_exists_holomorphic_sections
 -- name    : GlobalTheory.EtaleFamily.exists_holomorphic_sections
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:34:23.926049+00:00
 -- url     : https://prove2.me/theorems/5992c512-209a-45fc-9d41-78b968d4a289

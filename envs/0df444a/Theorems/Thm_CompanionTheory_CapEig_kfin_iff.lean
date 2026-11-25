@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_CapEig_kfin_iff
 -- name    : CompanionTheory.CapEig.kfin_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:39:23.867642+00:00
 -- url     : https://prove2.me/theorems/88860a22-d56b-4009-9f07-1c6636ba0b76

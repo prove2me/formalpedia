@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_John_norm_add_smul_le_of_inner_le
 -- name    : John.norm_add_smul_le_of_inner_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:23:41.171572+00:00
 -- url     : https://prove2.me/theorems/b963106d-166c-4ef6-888f-a46c4d1baef4

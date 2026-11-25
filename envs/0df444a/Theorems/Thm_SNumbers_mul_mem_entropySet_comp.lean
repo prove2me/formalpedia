@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_mul_mem_entropySet_comp
 -- name    : SNumbers.mul_mem_entropySet_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:18:25.457038+00:00
 -- url     : https://prove2.me/theorems/56f5d7c3-c00c-5d73-819a-855942697ebc

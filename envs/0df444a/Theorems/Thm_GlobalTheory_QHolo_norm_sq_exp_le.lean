@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QHolo_norm_sq_exp_le
 -- name    : GlobalTheory.QHolo.norm_sq_exp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:03:32.436105+00:00
 -- url     : https://prove2.me/theorems/d79e74e8-0629-47d9-b788-4b605edf4628

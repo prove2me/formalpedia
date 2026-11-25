@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaAmple_relAmple_of_values
 -- name    : GlobalTheory.ThetaAmple.relAmple_of_values
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:06:13.389825+00:00
 -- url     : https://prove2.me/theorems/ad4a6bf8-62ff-48eb-b920-153efe9c8bc8

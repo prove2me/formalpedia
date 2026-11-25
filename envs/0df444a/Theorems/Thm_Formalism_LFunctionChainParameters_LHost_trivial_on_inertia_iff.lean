@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_trivial_on_inertia_iff
 -- name    : Formalism.LFunctionChainParameters.LHost.trivial_on_inertia_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:24:23.899029+00:00
 -- url     : https://prove2.me/theorems/196882f8-6b09-44a8-b953-6056c74290c4

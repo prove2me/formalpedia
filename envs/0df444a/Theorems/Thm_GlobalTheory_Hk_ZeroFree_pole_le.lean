@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_ZeroFree_pole_le
 -- name    : GlobalTheory.Hk.ZeroFree.pole_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:36:33.213059+00:00
 -- url     : https://prove2.me/theorems/7b8bd66f-58b5-426f-ae3a-0065af127362

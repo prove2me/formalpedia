@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_tree_val_mem
 -- name    : SZ.tree_val_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:37:15.451889+00:00
 -- url     : https://prove2.me/theorems/fa113bd4-445d-4c07-aff4-3711d2a32e76

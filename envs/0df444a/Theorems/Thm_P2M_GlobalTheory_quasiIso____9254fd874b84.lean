@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_quasiIso____9254fd874b84
 -- name    : P2M_GlobalTheory_quasiIso____9254fd874b84
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:12:43.888922+00:00
 -- url     : https://prove2.me/theorems/41915b13-f9fd-46ea-a922-5c8ece0c22d8

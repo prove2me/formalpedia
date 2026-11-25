@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibre_fibre_mem_indSpace
 -- name    : GlobalTheory.RankFibre.fibre_mem_indSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:14:24.212007+00:00
 -- url     : https://prove2.me/theorems/8795c17d-6f3b-40f6-b0d1-690d658aff7f

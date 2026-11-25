@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_jetsIn1_rest
 -- name    : Formalism.L2.Th1.G.jetsIn1_rest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:28:57.768804+00:00
 -- url     : https://prove2.me/theorems/84566861-34bc-5ad1-b78a-f739994b40f4

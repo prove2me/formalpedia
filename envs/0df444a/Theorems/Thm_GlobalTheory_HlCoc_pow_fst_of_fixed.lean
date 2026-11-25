@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HlCoc_pow_fst_of_fixed
 -- name    : GlobalTheory.HlCoc.pow_fst_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:46:29.127593+00:00
 -- url     : https://prove2.me/theorems/d0b10795-d6ae-4a3f-8f1c-59a59a68ea84

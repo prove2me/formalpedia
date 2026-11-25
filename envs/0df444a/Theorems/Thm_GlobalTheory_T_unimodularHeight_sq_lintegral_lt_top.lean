@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unimodularHeight_sq_lintegral_lt_top
 -- name    : GlobalTheory.T.unimodularHeight_sq_lintegral_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:05:57.965802+00:00
 -- url     : https://prove2.me/theorems/fd097a5b-ad44-480d-b911-5bfd18ae4703

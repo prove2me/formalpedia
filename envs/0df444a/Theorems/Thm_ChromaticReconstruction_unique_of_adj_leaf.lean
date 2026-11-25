@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_unique_of_adj_leaf
 -- name    : ChromaticReconstruction.unique_of_adj_leaf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:47:37.1866+00:00
 -- url     : https://prove2.me/theorems/4ee7c650-efd6-4d12-86ea-0d167a9ed140

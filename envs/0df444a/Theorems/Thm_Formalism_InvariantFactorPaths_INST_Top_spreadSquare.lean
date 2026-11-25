@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_Top_spreadSquare
 -- name    : Formalism.InvariantFactorPaths.INST.Top.spreadSquare
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:35:09.625067+00:00
 -- url     : https://prove2.me/theorems/7e994629-de80-420e-9173-f172e80e2ed5

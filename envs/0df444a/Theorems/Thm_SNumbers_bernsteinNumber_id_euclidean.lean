@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_bernsteinNumber_id_euclidean
 -- name    : SNumbers.bernsteinNumber_id_euclidean
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:14:42.328256+00:00
 -- url     : https://prove2.me/theorems/9cc4b98e-a989-5f2a-9783-97f4d528034c

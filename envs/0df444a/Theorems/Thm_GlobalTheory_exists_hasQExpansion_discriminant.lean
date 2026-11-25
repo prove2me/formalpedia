@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_hasQExpansion_discriminant
 -- name    : GlobalTheory.exists_hasQExpansion_discriminant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:32:26.7748+00:00
 -- url     : https://prove2.me/theorems/68200871-a060-4dc3-bb17-b719b74b8d18

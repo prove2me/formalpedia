@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BlockSurjectivity_det_mem_projIdeal_b567b3689f49
 -- name    : P2M_GroundTheory_Heights__Heights_BlockSurjectivity_det_mem_projIdeal_b567b3689f49
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:15:45.041268+00:00
 -- url     : https://prove2.me/theorems/df92ed7c-d53d-472a-abeb-5972eaf4954b

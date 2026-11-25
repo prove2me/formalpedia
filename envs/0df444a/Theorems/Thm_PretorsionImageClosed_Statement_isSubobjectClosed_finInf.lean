@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_isSubobjectClosed_finInf
 -- name    : PretorsionImageClosed.Statement.isSubobjectClosed_finInf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:41:32.465458+00:00
 -- url     : https://prove2.me/theorems/bf323ad3-2906-455d-bb9b-3d959114dda6

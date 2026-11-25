@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_ratio_le_hilbertNumber
 -- name    : SNumbers.ratio_le_hilbertNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:01:18.991448+00:00
 -- url     : https://prove2.me/theorems/aa577dce-1bac-43a8-978e-826f83891f7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpGradient_exists_unitary_rows
 -- name    : GlobalTheory.SharpGradient.exists_unitary_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:40:05.727771+00:00
 -- url     : https://prove2.me/theorems/bb421a06-2db9-5b47-9fbd-13fad2ac245c

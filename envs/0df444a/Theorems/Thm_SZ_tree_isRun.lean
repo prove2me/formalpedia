@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_tree_isRun
 -- name    : SZ.tree_isRun
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:01:10.975902+00:00
 -- url     : https://prove2.me/theorems/acc040a5-27ec-45a3-a450-c70ca4f5f1e9

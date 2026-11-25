@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_SecondCohomologyLattice_exists_smul_mem_of_mem_span
 -- name    : ReciprocityTheory.PGsh.L2.SecondCohomologyLattice.exists_smul_mem_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:11:12.646594+00:00
 -- url     : https://prove2.me/theorems/857de041-e688-4140-a5aa-8c29008de3f9

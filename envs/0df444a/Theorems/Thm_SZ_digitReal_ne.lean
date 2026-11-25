@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_digitReal_ne
 -- name    : SZ.digitReal_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:22:08.057371+00:00
 -- url     : https://prove2.me/theorems/31659598-0513-453e-9da6-a139960ff01e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBallMinorOne_eC_inr
 -- name    : GlobalTheory.IntBallMinorOne.eC_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:45:39.51881+00:00
 -- url     : https://prove2.me/theorems/9e05bb6f-6317-456c-b19c-0df908076451

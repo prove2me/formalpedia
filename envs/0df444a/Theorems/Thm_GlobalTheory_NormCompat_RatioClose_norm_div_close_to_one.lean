@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCompat_RatioClose_norm_div_close_to_one
 -- name    : GlobalTheory.NormCompat.RatioClose.norm_div_close_to_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:53:18.125993+00:00
 -- url     : https://prove2.me/theorems/69d053aa-6d84-4140-9333-95be710a30ac

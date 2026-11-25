@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_reject_eq_bot_iff
 -- name    : PretorsionImageClosed.Statement.Subcategory.reject_eq_bot_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:27:05.951411+00:00
 -- url     : https://prove2.me/theorems/0cc6f20c-8c7c-4193-89f7-ed2eff6ac26f

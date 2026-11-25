@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianLattice_isOpen_isCompact_test
 -- name    : GlobalTheory.T.hermitianLattice_isOpen_isCompact_test
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:45:28.266234+00:00
 -- url     : https://prove2.me/theorems/b2c04173-9404-490d-8902-dbd870e1261f

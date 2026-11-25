@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_Coord_subst_eq_X
 -- name    : GlobalTheory.ChartCmp.Coord.subst_eq_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:06:24.993055+00:00
 -- url     : https://prove2.me/theorems/a7fd439f-86a2-5770-9c59-13ceef92a7ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreStalk_ringKrullDim_stalk_fiber
 -- name    : GlobalTheory.FibreStalk.ringKrullDim_stalk_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:24:24.865803+00:00
 -- url     : https://prove2.me/theorems/087ceaa2-9664-4c19-964b-7e896544ba3f

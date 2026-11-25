@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_frobUnit_modEq
 -- name    : Formalism.LFunctionChainParameters.LHost.frobUnit_modEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:24:46.262319+00:00
 -- url     : https://prove2.me/theorems/163302b7-e760-4f12-a576-96a91ff80d8f

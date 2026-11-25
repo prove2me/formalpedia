@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_GramPos_bvec_pair
 -- name    : GlobalTheory.HCXi.GramPos.bvec_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:49:40.886108+00:00
 -- url     : https://prove2.me/theorems/6aa0e221-9ce1-4fb7-b6b6-a80d8b3fa31f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_kolmogorovNumber_comp_metricSurjection
 -- name    : SNumbers.kolmogorovNumber_comp_metricSurjection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:10:48.164555+00:00
 -- url     : https://prove2.me/theorems/b7b88d20-f13f-4fed-86c1-45ad929c92db

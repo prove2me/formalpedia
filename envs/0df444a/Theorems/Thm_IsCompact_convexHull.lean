@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsCompact_convexHull
 -- name    : IsCompact.convexHull
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:18:27.628166+00:00
 -- url     : https://prove2.me/theorems/dd1ef356-b3fd-431f-b8a1-eb7951984cf4

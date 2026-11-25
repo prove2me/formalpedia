@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__isSFiniteKernel_of_locallyFinite_2524b8cf5f8d
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__isSFiniteKernel_of_locallyFinite_2524b8cf5f8d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:04:38.755571+00:00
 -- url     : https://prove2.me/theorems/6e27db11-c9c4-47b2-b3cb-eb62f7cc8bf9

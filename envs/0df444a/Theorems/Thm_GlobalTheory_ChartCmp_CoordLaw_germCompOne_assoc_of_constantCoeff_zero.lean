@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_CoordLaw_germCompOne_assoc_of_constantCoeff_zero
 -- name    : GlobalTheory.ChartCmp.CoordLaw.germCompOne_assoc_of_constantCoeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:24:45.316194+00:00
 -- url     : https://prove2.me/theorems/0da08602-de25-4032-8a6c-a09a72d961fa

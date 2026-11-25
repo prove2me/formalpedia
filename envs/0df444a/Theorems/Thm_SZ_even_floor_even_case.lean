@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_even_floor_even_case
 -- name    : SZ.even_floor_even_case
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:12:41.29924+00:00
 -- url     : https://prove2.me/theorems/e6f29792-4e51-4343-b043-2d378d853a0c

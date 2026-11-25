@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteOrbit_exists_finiteDimensional_stable
 -- name    : GlobalTheory.FiniteOrbit.exists_finiteDimensional_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:30:25.677355+00:00
 -- url     : https://prove2.me/theorems/b40a77fc-9a64-4759-a094-99d6469f9992

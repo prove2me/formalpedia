@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_IsGandhiSecond_eq
 -- name    : PretorsionImageClosed.Statement.IsGandhiSecond.eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:09:58.668824+00:00
 -- url     : https://prove2.me/theorems/f8818036-c24f-5d66-a52d-4f31e89979b4

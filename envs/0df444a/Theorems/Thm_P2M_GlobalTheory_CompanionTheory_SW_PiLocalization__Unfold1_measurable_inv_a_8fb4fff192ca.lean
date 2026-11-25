@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold1_measurable_inv_a_8fb4fff192ca
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold1_measurable_inv_a_8fb4fff192ca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:05:28.436+00:00
 -- url     : https://prove2.me/theorems/1ce72ff6-3043-405d-aaf4-6dd64c858a8e

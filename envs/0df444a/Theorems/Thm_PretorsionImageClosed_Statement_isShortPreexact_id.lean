@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_isShortPreexact_id
 -- name    : PretorsionImageClosed.Statement.isShortPreexact_id
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:09:01.378279+00:00
 -- url     : https://prove2.me/theorems/190bc08d-1f65-45d2-bba0-d8412bd0e89e

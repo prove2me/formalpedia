@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermiteMinkowski_bound_ne_zero
 -- name    : GlobalTheory.CompanionTheory.HermiteMinkowski.bound_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:31:27.081681+00:00
 -- url     : https://prove2.me/theorems/748a3b01-6135-4b96-9e8f-dce022e1cb43

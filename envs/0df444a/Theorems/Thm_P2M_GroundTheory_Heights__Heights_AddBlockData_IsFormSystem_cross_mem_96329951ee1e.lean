@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AddBlockData_IsFormSystem_cross_mem_96329951ee1e
 -- name    : P2M_GroundTheory_Heights__Heights_AddBlockData_IsFormSystem_cross_mem_96329951ee1e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:15:49.990745+00:00
 -- url     : https://prove2.me/theorems/5d34df63-295c-468d-be3e-dd10685f923e

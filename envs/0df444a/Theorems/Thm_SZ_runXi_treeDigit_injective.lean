@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_runXi_treeDigit_injective
 -- name    : SZ.runXi_treeDigit_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:23:14.277842+00:00
 -- url     : https://prove2.me/theorems/f5e6f937-4fa1-4efc-bf14-967cfa89c465

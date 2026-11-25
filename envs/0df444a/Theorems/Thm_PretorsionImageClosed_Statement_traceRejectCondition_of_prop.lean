@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_traceRejectCondition_of_prop
 -- name    : PretorsionImageClosed.Statement.traceRejectCondition_of_prop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:28:55.973769+00:00
 -- url     : https://prove2.me/theorems/057eebf2-dc7b-5d3d-8fcd-909f3ddf9ea1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_chi_eight_lift_class
 -- name    : Formalism.LFunctionChainParameters.LBr2.chi_eight_lift_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:49:16.778051+00:00
 -- url     : https://prove2.me/theorems/4c0fe76b-e94f-55d0-b428-f2c6bbba83bd

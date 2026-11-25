@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Ex_NumB___mul_symm_9d7986a68c1b
 -- name    : P2M_GlobalTheory_Ex_NumB___mul_symm_9d7986a68c1b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:04:53.839188+00:00
 -- url     : https://prove2.me/theorems/77f65aab-a714-46d5-af85-83a64b138e22

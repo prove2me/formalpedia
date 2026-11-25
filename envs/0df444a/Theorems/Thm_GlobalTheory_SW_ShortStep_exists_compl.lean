@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ShortStep_exists_compl
 -- name    : GlobalTheory.SW.ShortStep.exists_compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:44:12.42366+00:00
 -- url     : https://prove2.me/theorems/ada112be-d6d2-4ac2-b032-db1a4b19a8cf

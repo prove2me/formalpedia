@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxG_betaBig_congr
 -- name    : Formalism.FourierDecayAlt.P.JFxG.betaBig_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:41:15.55348+00:00
 -- url     : https://prove2.me/theorems/9c0f855b-95e3-405f-a609-fb6a7dcf2169

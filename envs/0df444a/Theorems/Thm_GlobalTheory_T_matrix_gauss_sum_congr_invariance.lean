@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_matrix_gauss_sum_congr_invariance
 -- name    : GlobalTheory.T.matrix_gauss_sum_congr_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:52:34.939499+00:00
 -- url     : https://prove2.me/theorems/5a152dae-9638-41b4-9fdb-87202edd66e7

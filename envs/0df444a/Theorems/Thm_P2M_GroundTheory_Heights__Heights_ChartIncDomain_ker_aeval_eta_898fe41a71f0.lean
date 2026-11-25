@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIncDomain_ker_aeval_eta_898fe41a71f0
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIncDomain_ker_aeval_eta_898fe41a71f0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:50:29.041199+00:00
 -- url     : https://prove2.me/theorems/988ea61d-d3f1-4a02-80ed-af33e1af26e9

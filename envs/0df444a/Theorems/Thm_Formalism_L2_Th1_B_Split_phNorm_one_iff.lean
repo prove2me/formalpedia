@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Split_phNorm_one_iff
 -- name    : Formalism.L2.Th1.B.Split.phNorm_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:31:38.280477+00:00
 -- url     : https://prove2.me/theorems/9b6efad0-c633-5f0a-a795-9d72efa9818f
