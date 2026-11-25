@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_splitT_weakS
 -- name    : ReciprocityTheory.L2DbarEstimates.F.splitT_weakS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:57:40.477572+00:00
 -- url     : https://prove2.me/theorems/7db45ea2-b73a-46df-9654-1bec56299a9a

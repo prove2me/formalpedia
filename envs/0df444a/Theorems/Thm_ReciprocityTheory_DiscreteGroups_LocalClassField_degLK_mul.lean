@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_degLK_mul
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.degLK_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:54:28.031111+00:00
 -- url     : https://prove2.me/theorems/34d52c00-b77d-47f1-823b-fe9792b37f54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_UUA_exists_fam_rep
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.UUA.exists_fam_rep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:43:58.484802+00:00
 -- url     : https://prove2.me/theorems/e1df5c83-da15-4dae-810f-a8b455cb5907

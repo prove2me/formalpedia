@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_GlobalClassField_isFrobAt_of_comm
 -- name    : ReciprocityTheory.DiscreteGroups.GlobalClassField.isFrobAt_of_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:51:24.524793+00:00
 -- url     : https://prove2.me/theorems/cb182233-de96-5ae6-8219-f694ac26767b

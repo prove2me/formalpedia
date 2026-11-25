@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_holo_finsum
 -- name    : ReciprocityTheory.L2DbarEstimates.H.holo_finsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:59:19.76694+00:00
 -- url     : https://prove2.me/theorems/5d4df9c2-2968-44bb-a22b-81eaac2c406f

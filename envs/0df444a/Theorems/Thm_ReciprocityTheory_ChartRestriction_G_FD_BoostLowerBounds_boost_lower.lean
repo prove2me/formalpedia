@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_BoostLowerBounds_boost_lower
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.BoostLowerBounds.boost_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:22:18.272807+00:00
 -- url     : https://prove2.me/theorems/7f2d9a95-2f4d-4e5c-b792-054bb70bd7f0

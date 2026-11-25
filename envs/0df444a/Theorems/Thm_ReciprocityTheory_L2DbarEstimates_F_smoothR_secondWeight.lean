@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_smoothR_secondWeight
 -- name    : ReciprocityTheory.L2DbarEstimates.F.smoothR_secondWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:10:55.545079+00:00
 -- url     : https://prove2.me/theorems/ce25c988-0381-4b5c-b40e-025396d8f78b

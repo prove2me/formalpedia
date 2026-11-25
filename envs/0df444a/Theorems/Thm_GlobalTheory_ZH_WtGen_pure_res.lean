@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_WtGen_pure_res
 -- name    : GlobalTheory.ZH.WtGen.pure_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:08:06.066777+00:00
 -- url     : https://prove2.me/theorems/6832756e-c1f0-4698-b40c-457080ceced7

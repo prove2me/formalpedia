@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GtBaseChange_HasWeight_baseChange
 -- name    : GlobalTheory.GtBaseChange.HasWeight.baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:09:46.861899+00:00
 -- url     : https://prove2.me/theorems/c6bbef3c-6225-4b70-a393-2da0dc3bd18e

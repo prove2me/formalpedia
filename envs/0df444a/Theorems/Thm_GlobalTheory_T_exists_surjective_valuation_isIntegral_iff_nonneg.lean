@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_surjective_valuation_isIntegral_iff_nonneg
 -- name    : GlobalTheory.T.exists_surjective_valuation_isIntegral_iff_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:11:50.365193+00:00
 -- url     : https://prove2.me/theorems/d3fe26b8-47c9-41ef-83fa-61c6207e1efe

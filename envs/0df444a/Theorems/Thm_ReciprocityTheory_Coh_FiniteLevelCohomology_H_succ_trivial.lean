@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_FiniteLevelCohomology_H_succ_trivial
 -- name    : ReciprocityTheory.Coh.FiniteLevelCohomology.H_succ_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:37:07.193647+00:00
 -- url     : https://prove2.me/theorems/afbdae57-0c06-48cb-84ec-4b7a61dcd464

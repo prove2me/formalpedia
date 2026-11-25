@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitAdj_isIntegral_or_isIntegral_inv
 -- name    : GlobalTheory.UnitAdj.isIntegral_or_isIntegral_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:11:30.970193+00:00
 -- url     : https://prove2.me/theorems/6eeb4fd9-d5d4-42bc-8294-24f7cbdd699c

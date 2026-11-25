@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_comap_maximalIdeal_mapIntegralClosure
 -- name    : GlobalTheory.comap_maximalIdeal_mapIntegralClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:50:10.493466+00:00
 -- url     : https://prove2.me/theorems/4cdcb32a-9a92-515c-8dd8-832e8b25be09

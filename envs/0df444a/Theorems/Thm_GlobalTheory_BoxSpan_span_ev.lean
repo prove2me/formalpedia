@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxSpan_span_ev
 -- name    : GlobalTheory.BoxSpan.span_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:05:17.084197+00:00
 -- url     : https://prove2.me/theorems/e3afb2ff-f1e2-4ef2-ad79-e8c03c239284

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_chiP_succ_sub_eq
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.chiP_succ_sub_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:15:08.591802+00:00
 -- url     : https://prove2.me/theorems/8a978e4e-4e1c-428c-91c7-a487ec9d5c41

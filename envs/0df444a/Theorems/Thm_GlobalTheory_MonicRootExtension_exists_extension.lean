@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonicRootExtension_exists_extension
 -- name    : GlobalTheory.MonicRootExtension.exists_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:26:36.520291+00:00
 -- url     : https://prove2.me/theorems/cb4d26bd-5e54-4952-be89-42d0a2b7d7b6

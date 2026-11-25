@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Unif_RigidifyIso_exists_ratio
 -- name    : GlobalTheory.Unif.RigidifyIso.exists_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:25:57.53963+00:00
 -- url     : https://prove2.me/theorems/b0e7ad60-0a03-48cb-95ea-c9378fe91183

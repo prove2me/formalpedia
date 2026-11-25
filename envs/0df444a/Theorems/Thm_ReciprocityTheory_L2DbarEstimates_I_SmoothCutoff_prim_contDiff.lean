@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_SmoothCutoff_prim_contDiff
 -- name    : ReciprocityTheory.L2DbarEstimates.I.SmoothCutoff.prim_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:56:57.298926+00:00
 -- url     : https://prove2.me/theorems/7e0e7d25-925d-5c7a-bcff-9ee3f27be4ab

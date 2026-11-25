@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_fiber_count_le_ncard_inter_lattice
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.fiber_count_le_ncard_inter_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:53:49.533939+00:00
 -- url     : https://prove2.me/theorems/81fb9c7d-5243-4206-b923-3b7824adf6ef

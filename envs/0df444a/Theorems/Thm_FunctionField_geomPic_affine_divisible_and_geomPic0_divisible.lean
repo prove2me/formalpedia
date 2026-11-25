@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctionField_geomPic_affine_divisible_and_geomPic0_divisible
 -- name    : FunctionField.geomPic_affine_divisible_and_geomPic0_divisible
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-25T13:48:33.53746+00:00
 -- url     : https://prove2.me/theorems/7fe70d9b-23b0-548b-9067-4e3b92ffc13b

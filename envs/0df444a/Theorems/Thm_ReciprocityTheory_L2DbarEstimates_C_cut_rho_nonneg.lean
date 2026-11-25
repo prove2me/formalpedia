@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_cut_rho_nonneg
 -- name    : ReciprocityTheory.L2DbarEstimates.C.cut_rho_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:54:14.390774+00:00
 -- url     : https://prove2.me/theorems/5fbb32d2-5a31-43ce-a6ae-458dc8d1a513

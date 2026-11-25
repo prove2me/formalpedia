@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_sum_Tent_add_int_piFinset
 -- name    : ReciprocityTheory.Cheb.sum_Tent_add_int_piFinset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:48:41.287821+00:00
 -- url     : https://prove2.me/theorems/3cfb7f8d-4b97-5499-8e11-7e8aca506d33

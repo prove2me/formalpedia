@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_shape_ratio
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.shape_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:02:26.036948+00:00
 -- url     : https://prove2.me/theorems/c2766404-9492-48fd-ba9d-4717b44aa41e

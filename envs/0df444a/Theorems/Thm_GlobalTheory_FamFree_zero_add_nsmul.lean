@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamFree_zero_add_nsmul
 -- name    : GlobalTheory.FamFree.zero_add_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:48:07.688072+00:00
 -- url     : https://prove2.me/theorems/dbc3fdb2-2838-4bee-a83f-46332397b054

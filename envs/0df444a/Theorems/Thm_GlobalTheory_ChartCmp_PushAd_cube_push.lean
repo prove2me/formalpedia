@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_PushAd_cube_push
 -- name    : GlobalTheory.ChartCmp.PushAd.cube_push
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:48:55.729085+00:00
 -- url     : https://prove2.me/theorems/179e21db-8407-5d8d-a2fa-990f14459713

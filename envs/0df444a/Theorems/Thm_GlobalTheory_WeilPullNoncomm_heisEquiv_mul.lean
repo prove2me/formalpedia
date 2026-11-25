@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilPullNoncomm_heisEquiv_mul
 -- name    : GlobalTheory.WeilPullNoncomm.heisEquiv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:08:47.125803+00:00
 -- url     : https://prove2.me/theorems/3d453bea-d7ee-4889-ba1e-5811d02ec154

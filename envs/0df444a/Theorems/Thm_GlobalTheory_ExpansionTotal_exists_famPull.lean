@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpansionTotal_exists_famPull
 -- name    : GlobalTheory.ExpansionTotal.exists_famPull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:03:35.591523+00:00
 -- url     : https://prove2.me/theorems/c7a04678-4e59-44df-a72d-199ce67d91a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_grad_renC
 -- name    : ReciprocityTheory.AnForm.R.grad_renC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:08:19.671432+00:00
 -- url     : https://prove2.me/theorems/2f8809cb-328c-4e52-a6b7-bd7b9fc61b87

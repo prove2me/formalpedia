@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gram_latticeEF
 -- name    : GlobalTheory.gram_latticeEF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:37:27.823044+00:00
 -- url     : https://prove2.me/theorems/2805c954-3219-459b-a8b9-b39a51572c6b

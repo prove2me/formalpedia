@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_cut_ptF
 -- name    : ReciprocityTheory.L2DbarEstimates.F.cut_ptF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:57:07.693919+00:00
 -- url     : https://prove2.me/theorems/1fb2c6a4-5d27-4ce5-aabb-4e83e118d889

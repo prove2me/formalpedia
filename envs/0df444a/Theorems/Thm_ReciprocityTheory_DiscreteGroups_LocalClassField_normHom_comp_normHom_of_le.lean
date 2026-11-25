@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_normHom_comp_normHom_of_le
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.normHom_comp_normHom_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:59:46.99227+00:00
 -- url     : https://prove2.me/theorems/0676c6d2-8eac-4ba1-a7d0-2569ab2f8e24

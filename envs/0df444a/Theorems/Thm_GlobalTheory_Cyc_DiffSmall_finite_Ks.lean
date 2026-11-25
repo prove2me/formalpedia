@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_DiffSmall_finite_Ks
 -- name    : GlobalTheory.Cyc.DiffSmall.finite_Ks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:05:27.904835+00:00
 -- url     : https://prove2.me/theorems/f43ad4f7-71bf-4909-95c9-a624aea1df68

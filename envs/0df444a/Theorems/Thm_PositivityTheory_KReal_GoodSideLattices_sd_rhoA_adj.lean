@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_GoodSideLattices_sd_rhoA_adj
 -- name    : PositivityTheory.KReal.GoodSideLattices.sd_rhoA_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:29:49.453742+00:00
 -- url     : https://prove2.me/theorems/8960f94c-1c17-5b14-9fcb-772ef97bd327

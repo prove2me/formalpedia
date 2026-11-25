@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_SkodaOperators_norm_sum_mul_sq_le
 -- name    : ReciprocityTheory.L2DbarEstimates.H.SkodaOperators.norm_sum_mul_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:57:58.970179+00:00
 -- url     : https://prove2.me/theorems/ad189117-594a-4a1e-9641-6ea9a10c7802

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Twist_isQuasicoherent_of_locally_iso
 -- name    : GlobalTheory.Twist.isQuasicoherent_of_locally_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:07:22.405114+00:00
 -- url     : https://prove2.me/theorems/0f719d60-ef08-433e-b895-fec6beb97c64

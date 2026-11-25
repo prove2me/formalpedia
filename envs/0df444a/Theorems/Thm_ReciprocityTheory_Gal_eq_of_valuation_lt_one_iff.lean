@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_eq_of_valuation_lt_one_iff
 -- name    : ReciprocityTheory.Gal.eq_of_valuation_lt_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:25:43.163811+00:00
 -- url     : https://prove2.me/theorems/27ac0eba-db09-4888-a97a-a9851aa5f1bd

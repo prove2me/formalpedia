@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_flA_diff_comp_apply
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.flA_diff_comp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:00:54.332824+00:00
 -- url     : https://prove2.me/theorems/c30dc40f-d349-46bd-b3c1-9e1ce058a724

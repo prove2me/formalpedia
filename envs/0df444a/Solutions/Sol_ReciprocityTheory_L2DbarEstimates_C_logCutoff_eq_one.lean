@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ReciprocityTheory.L2DbarEstimates.C.logCutoff_eq_one
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:05:25.941643+00:00
 -- url     : https://prove2.me/submissions/df1e938c-517f-410f-8f42-cc6bd94133a9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_ReciprocityTheory_L2DbarEstimates_WeakHolomorphy_HoloWeakStatement
 import Definitions.Def_ReciprocityTheory_L2DbarEstimates_WeakHolomorphy_ExtWeakA

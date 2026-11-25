@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeGermIntegral_cocycle_integral
 -- name    : GlobalTheory.GaugeGermIntegral.cocycle_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:28:27.968445+00:00
 -- url     : https://prove2.me/theorems/42e5212d-0f96-44c3-bb05-9626f6b77d7d

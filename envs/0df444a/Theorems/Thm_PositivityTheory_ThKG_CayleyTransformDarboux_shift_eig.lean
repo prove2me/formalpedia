@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_CayleyTransformDarboux_shift_eig
 -- name    : PositivityTheory.ThKG.CayleyTransformDarboux.shift_eig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:24:52.452955+00:00
 -- url     : https://prove2.me/theorems/6b0bf4af-1f5d-5d38-9122-f33d70586bbf

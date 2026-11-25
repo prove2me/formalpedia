@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqGlue_bcO_left
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqGlue.bcO_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:47:38.319366+00:00
 -- url     : https://prove2.me/theorems/fe8a50f9-023a-52b6-a4a7-ec8312be5407

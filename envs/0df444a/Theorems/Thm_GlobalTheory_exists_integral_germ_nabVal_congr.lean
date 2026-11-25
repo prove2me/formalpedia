@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_integral_germ_nabVal_congr
 -- name    : GlobalTheory.exists_integral_germ_nabVal_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:55:46.112266+00:00
 -- url     : https://prove2.me/theorems/4e863ccc-9a5e-4af1-a1b8-626b05689122

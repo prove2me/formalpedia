@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nonempty_gtCoord_of_isGt
 -- name    : GlobalTheory.nonempty_gtCoord_of_isGt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:53.67773+00:00
 -- url     : https://prove2.me/theorems/6ed4c913-b5e3-4302-9895-53576df1d2e5

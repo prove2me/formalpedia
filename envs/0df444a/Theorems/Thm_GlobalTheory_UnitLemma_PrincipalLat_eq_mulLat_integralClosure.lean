@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_PrincipalLat_eq_mulLat_integralClosure
 -- name    : GlobalTheory.UnitLemma.PrincipalLat.eq_mulLat_integralClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:05:34.226496+00:00
 -- url     : https://prove2.me/theorems/e338ca12-f8f1-49ce-97e9-f319b0629633

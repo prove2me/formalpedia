@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Join_cas_mem
 -- name    : PositivityTheory.ThKR.Join.cas_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:04:59.075061+00:00
 -- url     : https://prove2.me/theorems/7df4a4d6-2a8b-4a09-b59e-eb285fdefb43

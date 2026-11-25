@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_basic_exp_seven
 -- name    : ReciprocityTheory.L2DbarEstimates.I.basic_exp_seven
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:59:04.20502+00:00
 -- url     : https://prove2.me/theorems/f8a67cc0-ce5e-5693-bc9b-2ea434cb878a

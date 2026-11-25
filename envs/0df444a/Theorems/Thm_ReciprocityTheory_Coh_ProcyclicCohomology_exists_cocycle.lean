@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_ProcyclicCohomology_exists_cocycle
 -- name    : ReciprocityTheory.Coh.ProcyclicCohomology.exists_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:51:32.325808+00:00
 -- url     : https://prove2.me/theorems/fba5f582-300c-4fc6-88d2-2259891c6d21

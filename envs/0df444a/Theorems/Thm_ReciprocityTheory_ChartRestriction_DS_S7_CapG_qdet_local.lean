@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CapG_qdet_local
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CapG.qdet_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:26:12.749138+00:00
 -- url     : https://prove2.me/theorems/ceb8da6a-6cf3-5da7-ab5d-d32d086b42b1

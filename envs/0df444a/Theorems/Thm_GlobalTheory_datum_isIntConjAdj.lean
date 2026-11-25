@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_datum_isIntConjAdj
 -- name    : GlobalTheory.datum_isIntConjAdj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:37:08.220334+00:00
 -- url     : https://prove2.me/theorems/ad45d385-b890-4cd6-8709-790c07ffe243

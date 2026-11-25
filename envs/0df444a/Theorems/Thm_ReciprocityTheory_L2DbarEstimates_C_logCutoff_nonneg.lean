@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_logCutoff_nonneg
 -- name    : ReciprocityTheory.L2DbarEstimates.C.logCutoff_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:54:40.213751+00:00
 -- url     : https://prove2.me/theorems/fedc5122-b454-50ba-80a3-24621adb3d3f

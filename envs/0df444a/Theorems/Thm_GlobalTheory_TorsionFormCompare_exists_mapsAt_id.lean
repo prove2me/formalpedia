@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFormCompare_exists_mapsAt_id
 -- name    : GlobalTheory.TorsionFormCompare.exists_mapsAt_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:10:01.24625+00:00
 -- url     : https://prove2.me/theorems/bc0f117e-7fe1-49ab-8afb-eada50955750

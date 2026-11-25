@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_shG_apply
 -- name    : ReciprocityTheory.L2DbarEstimates.I.shG_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:00:38.982807+00:00
 -- url     : https://prove2.me/theorems/d4fc24d1-6473-5fa6-ba42-1e8156efb5e9

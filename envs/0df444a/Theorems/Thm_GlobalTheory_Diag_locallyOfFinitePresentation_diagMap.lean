@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_locallyOfFinitePresentation_diagMap
 -- name    : GlobalTheory.Diag.locallyOfFinitePresentation_diagMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:07:21.145346+00:00
 -- url     : https://prove2.me/theorems/b6af0ee4-3203-4d85-8675-9f2676f0343f

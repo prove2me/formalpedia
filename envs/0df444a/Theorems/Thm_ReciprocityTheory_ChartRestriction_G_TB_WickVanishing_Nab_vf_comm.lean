@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_Nab_vf_comm
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.Nab.vf_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:09:30.419809+00:00
 -- url     : https://prove2.me/theorems/51c03032-74e5-4eb2-ac64-d99c9b1627de

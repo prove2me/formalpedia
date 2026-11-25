@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_JetTr_jetCoef_mk
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.JetTr.jetCoef_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:35:06.461827+00:00
 -- url     : https://prove2.me/theorems/645abde0-0c65-5ea0-84db-84ac5206a56c

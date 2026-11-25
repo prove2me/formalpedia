@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictGrp_prod_j_fst
 -- name    : GlobalTheory.SS.StrictGrp.prod_j_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:21:48.572801+00:00
 -- url     : https://prove2.me/theorems/01c83e57-8df1-42ed-a62f-b0b662e5a291

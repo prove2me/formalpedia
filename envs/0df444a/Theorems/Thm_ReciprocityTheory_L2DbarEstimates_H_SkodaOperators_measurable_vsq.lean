@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_SkodaOperators_measurable_vsq
 -- name    : ReciprocityTheory.L2DbarEstimates.H.SkodaOperators.measurable_vsq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:57:15.166934+00:00
 -- url     : https://prove2.me/theorems/b72a9ebe-b616-4579-a330-25bb42062073

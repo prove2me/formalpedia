@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegPull_nonempty_cubical
 -- name    : GlobalTheory.DegPull.nonempty_cubical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:37:56.060683+00:00
 -- url     : https://prove2.me/theorems/6fc36376-aa1f-408b-99a3-f9aaa11c56d3

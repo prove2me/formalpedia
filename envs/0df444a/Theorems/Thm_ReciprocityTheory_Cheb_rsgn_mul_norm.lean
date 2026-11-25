@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_rsgn_mul_norm
 -- name    : ReciprocityTheory.Cheb.rsgn_mul_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:49:40.381079+00:00
 -- url     : https://prove2.me/theorems/92811701-0ddf-557a-9ebc-79aa3bc07490

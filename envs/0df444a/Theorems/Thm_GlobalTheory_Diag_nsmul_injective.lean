@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_nsmul_injective
 -- name    : GlobalTheory.Diag.nsmul_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:06:58.370782+00:00
 -- url     : https://prove2.me/theorems/06062af6-0e6c-4ff2-bdf3-0e306afa17a3

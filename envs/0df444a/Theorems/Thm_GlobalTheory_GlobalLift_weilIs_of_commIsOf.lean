@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalLift_weilIs_of_commIsOf
 -- name    : GlobalTheory.GlobalLift.weilIs_of_commIsOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:27:32.702649+00:00
 -- url     : https://prove2.me/theorems/dbafed62-eec6-4053-93c1-bb1af1ca8b88

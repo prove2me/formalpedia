@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_fiG_periodic
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.fiG_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:00:58.193677+00:00
 -- url     : https://prove2.me/theorems/d9f5de89-bc37-4b79-a00f-2f0bf898648e

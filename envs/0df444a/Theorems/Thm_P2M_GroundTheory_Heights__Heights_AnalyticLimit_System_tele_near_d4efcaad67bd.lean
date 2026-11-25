@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_System_tele_near_d4efcaad67bd
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_System_tele_near_d4efcaad67bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:30:11.382636+00:00
 -- url     : https://prove2.me/theorems/a7279a32-d395-44ee-a717-d123e2cb54c4

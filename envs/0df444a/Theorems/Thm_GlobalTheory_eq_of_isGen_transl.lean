@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_of_isGen_transl
 -- name    : GlobalTheory.eq_of_isGen_transl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:17:55.176327+00:00
 -- url     : https://prove2.me/theorems/a1ce3521-38f7-4851-96b8-e1d79b8879e5

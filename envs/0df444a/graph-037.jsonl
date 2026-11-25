@@ -30226,8 +30226,8 @@
 {"parent": "LongGapsBetweenPrimes.sum_pair_marked_product", "child": "LongGapsBetweenPrimes", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_RowFormPermutationSplit_PermutedRowProductSplit", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_RowFormPermutationSplit_Development", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_RowFormPermutationSplit_PermutedRowProductSplit", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_ShiftedGeneratorEqIteSmulAdd", "via": ["statement"]}
-{"parent": "ReciprocityTheory.Gal.eq_of_valuation_lt_one_iff", "child": "ReciprocityTheory_GaloisValuations_GlobalB", "via": ["statement"]}
-{"parent": "ReciprocityTheory.Gal.eq_of_valuation_lt_one_iff", "child": "ReciprocityTheory_GaloisValuations_GlobalA", "via": ["statement"]}
+{"parent": "ReciprocityTheory.Gal.eq_of_valuation_lt_one_iff", "child": "ReciprocityTheory_GaloisValuations_GlobalB", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.Gal.eq_of_valuation_lt_one_iff", "child": "ReciprocityTheory_GaloisValuations_GlobalA", "via": ["solution", "statement"]}
 {"parent": "SKHessianAscent.theorem_3_12", "child": "EthierKurtz_SDEDiffusion", "via": ["statement"]}
 {"parent": "SKHessianAscent.theorem_3_12", "child": "SKHessianAscent_Transport", "via": ["statement"]}
 {"parent": "SKHessianAscent.theorem_3_12", "child": "EthierKurtz_SolvesBrownianSDE", "via": ["statement"]}

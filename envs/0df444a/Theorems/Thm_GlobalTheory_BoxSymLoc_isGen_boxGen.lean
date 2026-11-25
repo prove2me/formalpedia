@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxSymLoc_isGen_boxGen
 -- name    : GlobalTheory.BoxSymLoc.isGen_boxGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:36:48.837055+00:00
 -- url     : https://prove2.me/theorems/ddfcb720-cbda-47be-9b71-1b5c7c179a6e

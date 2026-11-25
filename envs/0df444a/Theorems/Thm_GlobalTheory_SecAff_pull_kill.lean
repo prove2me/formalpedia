@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecAff_pull_kill
 -- name    : GlobalTheory.SecAff.pull_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:48:19.347815+00:00
 -- url     : https://prove2.me/theorems/d7bcb0ea-897c-4cd9-a697-01bac4e681f1

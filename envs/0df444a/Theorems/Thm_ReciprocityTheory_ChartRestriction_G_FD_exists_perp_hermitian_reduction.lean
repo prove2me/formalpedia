@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_exists_perp_hermitian_reduction
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.exists_perp_hermitian_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:27:14.264459+00:00
 -- url     : https://prove2.me/theorems/bd8f769d-a737-5101-97c2-a948924f65f8

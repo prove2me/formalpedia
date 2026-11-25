@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_st_stokes_of
 -- name    : ReciprocityTheory.AnForm.M.st_stokes_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:45:54.407351+00:00
 -- url     : https://prove2.me/theorems/d2b0148f-97c9-483d-b925-d1c50972598b

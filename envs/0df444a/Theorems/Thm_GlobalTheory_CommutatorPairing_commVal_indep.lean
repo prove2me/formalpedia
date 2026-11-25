@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommutatorPairing_commVal_indep
 -- name    : GlobalTheory.CommutatorPairing.commVal_indep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:50.337667+00:00
 -- url     : https://prove2.me/theorems/1add13ac-36c7-476a-989d-5c797fd79750

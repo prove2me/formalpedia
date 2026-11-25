@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_sSup_image_le_max
 -- name    : ReciprocityTheory.L2DbarEstimates.F.sSup_image_le_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:57:29.445792+00:00
 -- url     : https://prove2.me/theorems/76fc5cf7-4597-454b-abbc-4a5f4c6f4d83

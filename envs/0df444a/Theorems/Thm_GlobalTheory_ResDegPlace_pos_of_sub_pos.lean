@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResDegPlace_pos_of_sub_pos
 -- name    : GlobalTheory.ResDegPlace.pos_of_sub_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:09:55.277628+00:00
 -- url     : https://prove2.me/theorems/f8fe3c5d-40e0-5b1d-879c-bec1f1c33e03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_coset_mem_nhds
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.coset_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:07:42.159807+00:00
 -- url     : https://prove2.me/theorems/fc53c035-8494-446e-98b0-455e2da930c6

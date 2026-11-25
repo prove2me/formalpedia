@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_CubePf_gU_pullAlong_idx
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.CubePf.gU_pullAlong_idx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:32:18.317338+00:00
 -- url     : https://prove2.me/theorems/ddf7eef2-5aff-5aa2-b7f5-8805d997ad8e

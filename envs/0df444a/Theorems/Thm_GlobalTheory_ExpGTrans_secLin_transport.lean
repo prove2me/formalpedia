@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpGTrans_secLin_transport
 -- name    : GlobalTheory.ExpGTrans.secLin_transport
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:36:49.362035+00:00
 -- url     : https://prove2.me/theorems/5882dcbe-7d01-46b9-b310-e693cd03f4f1

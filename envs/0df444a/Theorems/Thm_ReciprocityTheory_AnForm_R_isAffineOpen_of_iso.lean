@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_isAffineOpen_of_iso
 -- name    : ReciprocityTheory.AnForm.R.isAffineOpen_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:07:14.645076+00:00
 -- url     : https://prove2.me/theorems/a7549a5f-2d9a-416f-a6a1-3e71b8d681b8

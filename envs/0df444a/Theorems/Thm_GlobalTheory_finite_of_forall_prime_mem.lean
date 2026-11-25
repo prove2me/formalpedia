@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_of_forall_prime_mem
 -- name    : GlobalTheory.finite_of_forall_prime_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:50:50.319178+00:00
 -- url     : https://prove2.me/theorems/f6c9f746-59bc-5f09-b8f3-c2b02d28d85b

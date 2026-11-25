@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_evalSeries_rescaleExpand
 -- name    : ReciprocityTheory.ChartRestriction.L1.evalSeries_rescaleExpand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:43:35.674081+00:00
 -- url     : https://prove2.me/theorems/903ea01b-8d8b-4f7b-a844-5533f9ede51e

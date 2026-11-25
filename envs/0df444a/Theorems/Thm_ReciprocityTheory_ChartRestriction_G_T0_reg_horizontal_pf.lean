@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_reg_horizontal_pf
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.reg_horizontal_pf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:38:57.439894+00:00
 -- url     : https://prove2.me/theorems/42cbdc43-f3af-503d-9c28-49552dd099ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_charGrp_eval_injective
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.charGrp_eval_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:59:05.896947+00:00
 -- url     : https://prove2.me/theorems/8e9d043d-fd6b-5ac4-ae67-f9357df78f15

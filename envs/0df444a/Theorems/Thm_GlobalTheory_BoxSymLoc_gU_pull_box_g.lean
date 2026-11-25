@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxSymLoc_gU_pull_box_g
 -- name    : GlobalTheory.BoxSymLoc.gU_pull_box_g
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:05:09.956167+00:00
 -- url     : https://prove2.me/theorems/5077ccc6-4489-40e7-8fd4-7ed3b7b09a75

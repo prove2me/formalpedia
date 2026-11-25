@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_integrable_normSq_mul
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.integrable_normSq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:54:08.179861+00:00
 -- url     : https://prove2.me/theorems/cb269ad3-43fe-432f-a33d-46f43c42f096

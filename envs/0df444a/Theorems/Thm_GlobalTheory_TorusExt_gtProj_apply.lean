@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusExt_gtProj_apply
 -- name    : GlobalTheory.TorusExt.gtProj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:43:01.072563+00:00
 -- url     : https://prove2.me/theorems/59f0f962-c3c6-50f3-88b3-9a4ebe11efdf

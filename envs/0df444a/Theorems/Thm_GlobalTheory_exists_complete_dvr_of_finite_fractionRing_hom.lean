@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_complete_dvr_of_finite_fractionRing_hom
 -- name    : GlobalTheory.exists_complete_dvr_of_finite_fractionRing_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:30:55.946749+00:00
 -- url     : https://prove2.me/theorems/83f30947-da57-44f8-9751-641f1474ed5d

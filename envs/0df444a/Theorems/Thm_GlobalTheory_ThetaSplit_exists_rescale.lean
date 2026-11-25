@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaSplit_exists_rescale
 -- name    : GlobalTheory.ThetaSplit.exists_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:07:55.051026+00:00
 -- url     : https://prove2.me/theorems/6e14c542-79e6-46c8-a8f1-efce4a174772

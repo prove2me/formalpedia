@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_unwBack_small
 -- name    : ReciprocityTheory.L2DbarEstimates.F.unwBack_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:59:24.043163+00:00
 -- url     : https://prove2.me/theorems/5d5796a0-96e6-5ea1-a80a-2b5660b37449

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_fm_coeff_shift
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.fm_coeff_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:00:53.008919+00:00
 -- url     : https://prove2.me/theorems/2405a265-d34d-5569-b231-e01932c49454

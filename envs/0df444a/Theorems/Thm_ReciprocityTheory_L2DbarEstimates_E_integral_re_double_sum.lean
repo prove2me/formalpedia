@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_E_integral_re_double_sum
 -- name    : ReciprocityTheory.L2DbarEstimates.E.integral_re_double_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:01:48.875006+00:00
 -- url     : https://prove2.me/theorems/30924469-e112-43d6-9a15-d64648a2ac36

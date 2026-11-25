@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_card_characters_of_finite_quotient
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.card_characters_of_finite_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:52:21.637486+00:00
 -- url     : https://prove2.me/theorems/d8738b1a-d7d0-4d9b-a0c7-f1fc71141939

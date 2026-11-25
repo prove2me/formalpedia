@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_conj_mem_along
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.conj_mem_along
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:33:05.55194+00:00
 -- url     : https://prove2.me/theorems/c2469d4e-f442-57e3-a374-3167e63cf506

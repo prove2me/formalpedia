@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_exists_appLE___eq_fe080a4f4ee7
 -- name    : P2M_GlobalTheory_exists_appLE___eq_fe080a4f4ee7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:07:45.790124+00:00
 -- url     : https://prove2.me/theorems/7961b772-fb60-4324-90f1-661f3edde2d5

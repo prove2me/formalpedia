@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_isUnimodular_of_ortho
 -- name    : ReciprocityTheory.ChartRestriction.L3.isUnimodular_of_ortho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:28:24.03531+00:00
 -- url     : https://prove2.me/theorems/9d3f8e76-45eb-4f6f-ba9e-86abcede15e3

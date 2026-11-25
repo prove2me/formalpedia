@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_pullbackPushforward_holds_hasStrictFDerivAt_equiv_cba9f8ca6ee6
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_pullbackPushforward_holds_hasStrictFDerivAt_equiv_cba9f8ca6ee6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:48:44.388934+00:00
 -- url     : https://prove2.me/theorems/869dc999-e390-5ca9-a90b-5554e52fb17a

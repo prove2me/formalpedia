@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_idIso_isGen
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.idIso_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:02:26.825581+00:00
 -- url     : https://prove2.me/theorems/87ea5718-9c92-4574-8cec-2e6ab72b37d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_ds_sum_log_normSq_embeddings
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.ds_sum_log_normSq_embeddings
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:53.400148+00:00
 -- url     : https://prove2.me/theorems/c5e976b6-ab4f-4fc7-9697-19d045fdc871

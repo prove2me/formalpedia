@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqGlue_nat_ring
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqGlue.nat_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:38:55.166586+00:00
 -- url     : https://prove2.me/theorems/d1774a44-6b1a-4755-b39c-f5cfabb26cd2

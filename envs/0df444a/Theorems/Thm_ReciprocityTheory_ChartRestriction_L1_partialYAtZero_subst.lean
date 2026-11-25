@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_partialYAtZero_subst
 -- name    : ReciprocityTheory.ChartRestriction.L1.partialYAtZero_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:47:19.386229+00:00
 -- url     : https://prove2.me/theorems/f8066257-b202-5bd9-904f-a63d166cd16c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpFlatDesc_isAbelianScheme_of_flat_cover
 -- name    : GlobalTheory.GrpFlatDesc.isAbelianScheme_of_flat_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:57:42.352907+00:00
 -- url     : https://prove2.me/theorems/d1548100-07fa-4d95-946e-e85909208085

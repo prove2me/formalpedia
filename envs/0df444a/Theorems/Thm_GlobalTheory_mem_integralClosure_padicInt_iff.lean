@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_integralClosure_padicInt_iff
 -- name    : GlobalTheory.mem_integralClosure_padicInt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:50:50.274378+00:00
 -- url     : https://prove2.me/theorems/8891b73c-383f-43dc-a512-d42cb10f7c24

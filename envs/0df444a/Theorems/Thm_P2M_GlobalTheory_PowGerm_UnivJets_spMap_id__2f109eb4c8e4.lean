@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_PowGerm_UnivJets_spMap_id__2f109eb4c8e4
 -- name    : P2M_GlobalTheory_PowGerm_UnivJets_spMap_id__2f109eb4c8e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:02:53.408383+00:00
 -- url     : https://prove2.me/theorems/3ce53919-04dd-499f-95cd-3cd7e1a7d4c9

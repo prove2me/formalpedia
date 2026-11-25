@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_continuous_of_smoothReal
 -- name    : ReciprocityTheory.L2DbarEstimates.F.continuous_of_smoothReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:56:43.264666+00:00
 -- url     : https://prove2.me/theorems/a78889d4-101f-4ecc-9cfb-38f45f93d676

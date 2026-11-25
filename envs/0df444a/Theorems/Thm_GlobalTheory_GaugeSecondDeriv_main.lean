@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeSecondDeriv_main
 -- name    : GlobalTheory.GaugeSecondDeriv.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:14:49.47231+00:00
 -- url     : https://prove2.me/theorems/344c1ea6-52c5-473b-a16e-c096f47da7e5

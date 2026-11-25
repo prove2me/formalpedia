@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PureType_eq_zero_of_line
 -- name    : GlobalTheory.PureType.eq_zero_of_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:44:58.198862+00:00
 -- url     : https://prove2.me/theorems/3d9be450-7bd8-451d-8122-4da005a34e50

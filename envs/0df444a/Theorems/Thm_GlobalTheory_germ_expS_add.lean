@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_germ_expS_add
 -- name    : GlobalTheory.germ_expS_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:53:57.038346+00:00
 -- url     : https://prove2.me/theorems/7ccaaf8e-bb2f-49e3-995e-97b313e07af5

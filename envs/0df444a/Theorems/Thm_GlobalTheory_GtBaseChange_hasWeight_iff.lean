@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GtBaseChange_hasWeight_iff
 -- name    : GlobalTheory.GtBaseChange.hasWeight_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:08:55.710089+00:00
 -- url     : https://prove2.me/theorems/42f0bf52-93b8-4440-ae83-a50d2ba18c8e

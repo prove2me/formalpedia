@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_GGC_isPreconnected_ok
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.GGC.isPreconnected_ok
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:11:41.097738+00:00
 -- url     : https://prove2.me/theorems/1ff5e58a-ab35-4fdc-bad7-b6d653f6480a

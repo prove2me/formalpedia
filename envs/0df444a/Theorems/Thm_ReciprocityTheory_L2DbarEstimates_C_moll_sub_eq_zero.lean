@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_moll_sub_eq_zero
 -- name    : ReciprocityTheory.L2DbarEstimates.C.moll_sub_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:54:51.700929+00:00
 -- url     : https://prove2.me/theorems/56f55642-c700-5517-ac76-9e0102caf9fc

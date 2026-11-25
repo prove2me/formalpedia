@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_det_cxHessian_gbPot
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.det_cxHessian_gbPot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:04:50.507847+00:00
 -- url     : https://prove2.me/theorems/9b3f99f4-4acd-47a5-a98c-0edeff69a763

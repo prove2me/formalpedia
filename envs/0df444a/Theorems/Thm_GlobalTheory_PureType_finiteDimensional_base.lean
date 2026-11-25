@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PureType_finiteDimensional_base
 -- name    : GlobalTheory.PureType.finiteDimensional_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:52:12.534062+00:00
 -- url     : https://prove2.me/theorems/5c37bb9d-47d0-49ef-862d-49d52b126145

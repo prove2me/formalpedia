@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_eq_one_of_res_top
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.eq_one_of_res_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:02:45.508708+00:00
 -- url     : https://prove2.me/theorems/a62f5234-511d-4093-b100-bb7c618b64ea

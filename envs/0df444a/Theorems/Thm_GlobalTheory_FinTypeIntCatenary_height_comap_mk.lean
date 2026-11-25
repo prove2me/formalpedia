@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinTypeIntCatenary_height_comap_mk
 -- name    : GlobalTheory.FinTypeIntCatenary.height_comap_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:25:30.888046+00:00
 -- url     : https://prove2.me/theorems/7c720572-eec1-4d05-8c21-04d92a689c9b

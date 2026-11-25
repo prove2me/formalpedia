@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_pullbackDensity_holds_pullQ_eq_local_b647b2495787
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_pullbackDensity_holds_pullQ_eq_local_b647b2495787
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:02:35.149292+00:00
 -- url     : https://prove2.me/theorems/5360af22-84c5-40f2-8eed-9e767a4b93b0

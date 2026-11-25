@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_measurePreserving_smul_unit
 -- name    : ReciprocityTheory.L2DbarEstimates.C.measurePreserving_smul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:54:46.727068+00:00
 -- url     : https://prove2.me/theorems/5b3a179e-45cb-5808-a7d6-b456513e28c5

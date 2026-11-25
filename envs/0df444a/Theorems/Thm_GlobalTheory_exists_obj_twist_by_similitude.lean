@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_obj_twist_by_similitude
 -- name    : GlobalTheory.exists_obj_twist_by_similitude
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:07:30.445809+00:00
 -- url     : https://prove2.me/theorems/a99e3dbd-a6db-493e-b20a-b1c8c470d517

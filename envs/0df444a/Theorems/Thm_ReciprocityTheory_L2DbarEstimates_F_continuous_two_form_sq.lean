@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_continuous_two_form_sq
 -- name    : ReciprocityTheory.L2DbarEstimates.F.continuous_two_form_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:56:22.187934+00:00
 -- url     : https://prove2.me/theorems/4ce693a4-12c9-5507-bf7c-e0d3255a50d8

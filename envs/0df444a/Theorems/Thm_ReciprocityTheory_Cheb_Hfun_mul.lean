@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_Hfun_mul
 -- name    : ReciprocityTheory.Cheb.Hfun_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:48:04.132474+00:00
 -- url     : https://prove2.me/theorems/0a56f53d-78a2-419e-b1dc-4c594e0184a2

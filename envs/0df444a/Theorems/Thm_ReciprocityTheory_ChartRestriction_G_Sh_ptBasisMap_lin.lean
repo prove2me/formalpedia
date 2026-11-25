@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_ptBasisMap_lin
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.ptBasisMap_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:36:04.135828+00:00
 -- url     : https://prove2.me/theorems/69698b8d-2e58-5675-923b-de3b61e29f1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_kronSq_isMF
 -- name    : ReciprocityTheory.ChartRestriction.L1.kronSq_isMF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:07:43.580975+00:00
 -- url     : https://prove2.me/theorems/bf05bc1b-e870-54b6-a662-bca7ef21fcd0

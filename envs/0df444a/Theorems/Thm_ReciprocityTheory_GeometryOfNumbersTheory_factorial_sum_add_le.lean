@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_factorial_sum_add_le
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.factorial_sum_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:53:30.910454+00:00
 -- url     : https://prove2.me/theorems/d8d039b0-133b-53b6-8f04-11f03d499413

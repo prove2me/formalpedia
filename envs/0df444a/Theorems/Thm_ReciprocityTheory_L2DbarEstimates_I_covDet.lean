@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_covDet
 -- name    : ReciprocityTheory.L2DbarEstimates.I.covDet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:57:58.643887+00:00
 -- url     : https://prove2.me/theorems/c2652075-da18-5fc1-8e58-de3b34728bcd

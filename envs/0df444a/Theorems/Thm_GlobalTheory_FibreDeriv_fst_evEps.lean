@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreDeriv_fst_evEps
 -- name    : GlobalTheory.FibreDeriv.fst_evEps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:59:37.027012+00:00
 -- url     : https://prove2.me/theorems/7fc46b29-9b63-5593-8362-377034108ba8

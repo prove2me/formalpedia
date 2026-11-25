@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_corr_of_generic_of_isSeparated
 -- name    : GlobalTheory.corr_of_generic_of_isSeparated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:15:28.729799+00:00
 -- url     : https://prove2.me/theorems/175eb4cc-eba0-466e-8bc8-c2f575705895

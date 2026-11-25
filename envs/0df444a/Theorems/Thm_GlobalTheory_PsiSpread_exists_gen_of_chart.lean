@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiSpread_exists_gen_of_chart
 -- name    : GlobalTheory.PsiSpread.exists_gen_of_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:58:06.655093+00:00
 -- url     : https://prove2.me/theorems/95c2831d-b62d-474d-830d-179d7383425f

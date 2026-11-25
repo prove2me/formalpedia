@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_isFinite_ringMap
 -- name    : GlobalTheory.Diag.isFinite_ringMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:07:39.500911+00:00
 -- url     : https://prove2.me/theorems/18752b23-c64f-4f84-8a5c-13ebc526f24f

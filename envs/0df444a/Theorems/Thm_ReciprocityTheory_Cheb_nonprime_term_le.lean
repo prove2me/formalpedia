@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_nonprime_term_le
 -- name    : ReciprocityTheory.Cheb.nonprime_term_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:49:01.160721+00:00
 -- url     : https://prove2.me/theorems/fec2c848-39c7-4cf2-989f-c17df99420cd

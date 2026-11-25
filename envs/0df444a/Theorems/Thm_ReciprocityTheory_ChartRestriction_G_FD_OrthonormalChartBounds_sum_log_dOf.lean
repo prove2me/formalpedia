@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthonormalChartBounds_sum_log_dOf
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthonormalChartBounds.sum_log_dOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:19:59.283286+00:00
 -- url     : https://prove2.me/theorems/a40364df-6c02-4ba2-843c-d85a1451555f

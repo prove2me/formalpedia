@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_height_add_ringKrullDim_quotient_mvPolynomial_field
 -- name    : ReciprocityTheory.CA.height_add_ringKrullDim_quotient_mvPolynomial_field
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:01:02.605223+00:00
 -- url     : https://prove2.me/theorems/fd2bdb11-f96d-41c3-a719-127b91d03e23

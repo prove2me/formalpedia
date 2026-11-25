@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FlowMatrixMajorants_maj_flow_le
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FlowMatrixMajorants.maj_flow_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:22:39.126044+00:00
 -- url     : https://prove2.me/theorems/f2370284-6b90-4ee5-b775-26227f0e36ed

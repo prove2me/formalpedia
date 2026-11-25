@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_shape_secRel
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.shape_secRel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:09:58.537896+00:00
 -- url     : https://prove2.me/theorems/9b98ba52-211c-44f3-add2-b730dae07653

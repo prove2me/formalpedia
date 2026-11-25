@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_hasDerivAt_det
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.hasDerivAt_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:19:55.157923+00:00
 -- url     : https://prove2.me/theorems/39762c04-dce6-4bb6-86b3-8edaa360039f

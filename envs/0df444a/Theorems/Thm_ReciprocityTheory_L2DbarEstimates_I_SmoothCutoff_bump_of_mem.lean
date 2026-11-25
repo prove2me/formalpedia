@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_SmoothCutoff_bump_of_mem
 -- name    : ReciprocityTheory.L2DbarEstimates.I.SmoothCutoff.bump_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:57:43.51858+00:00
 -- url     : https://prove2.me/theorems/ec7b5aad-1453-5a93-bbb4-b1e1a888d311

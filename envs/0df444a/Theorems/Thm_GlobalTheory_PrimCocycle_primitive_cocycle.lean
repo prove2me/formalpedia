@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimCocycle_primitive_cocycle
 -- name    : GlobalTheory.PrimCocycle.primitive_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:54:40.788833+00:00
 -- url     : https://prove2.me/theorems/4a04c8b3-113d-4b4b-b47f-6803222808c7

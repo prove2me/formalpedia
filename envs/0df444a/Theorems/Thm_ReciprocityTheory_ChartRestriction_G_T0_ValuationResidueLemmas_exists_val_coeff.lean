@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_ValuationResidueLemmas_exists_val_coeff
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.ValuationResidueLemmas.exists_val_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:20.954801+00:00
 -- url     : https://prove2.me/theorems/78f2e820-90d2-4ce2-add5-7ec03bc11a3c

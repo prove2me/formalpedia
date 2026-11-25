@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawChartGermBC_val_reL_bc
 -- name    : GlobalTheory.RawChartGermBC.val_reL_bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:16:14.33404+00:00
 -- url     : https://prove2.me/theorems/73a86e62-89c8-46a7-b587-3acba640c1cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_constantCoeff_dmonOf_tay
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.constantCoeff_dmonOf_tay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:32:40.092902+00:00
 -- url     : https://prove2.me/theorems/af56bb72-2569-46dd-ad3f-a84444e22313

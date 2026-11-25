@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_Nab_connection_kills_series
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.Nab.connection_kills_series
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:07:08.041225+00:00
 -- url     : https://prove2.me/theorems/48560efa-42ca-4aff-affa-67d09322f97d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_dehom_surjective_7ef87700430c
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_dehom_surjective_7ef87700430c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:02:59.560219+00:00
 -- url     : https://prove2.me/theorems/2dcfc364-128b-5f4a-b7b7-e2fd930b8840

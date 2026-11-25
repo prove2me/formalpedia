@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GroupGlue_exists_endo
 -- name    : GlobalTheory.GroupGlue.exists_endo
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:12:59.115349+00:00
 -- url     : https://prove2.me/theorems/118c087c-0283-40a9-9f63-1de03d0aef50

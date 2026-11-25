@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_homogIso_holds
 -- name    : ReciprocityTheory.Coh.homogIso_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:29:09.594377+00:00
 -- url     : https://prove2.me/theorems/f483a3d6-61fe-4b14-8edc-3a424a9c8f18

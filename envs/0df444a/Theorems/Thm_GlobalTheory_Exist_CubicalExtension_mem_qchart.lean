@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Exist_CubicalExtension_mem_qchart
 -- name    : GlobalTheory.Exist.CubicalExtension.mem_qchart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:53:35.414285+00:00
 -- url     : https://prove2.me/theorems/fa7a42eb-ceb3-5bf4-8d0d-7b72ff2ff0c1

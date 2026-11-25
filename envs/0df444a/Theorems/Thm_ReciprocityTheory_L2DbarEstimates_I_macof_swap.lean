@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_macof_swap
 -- name    : ReciprocityTheory.L2DbarEstimates.I.macof_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:58:56.201974+00:00
 -- url     : https://prove2.me/theorems/c99dbe22-1353-4a0c-819f-710872c29cbe

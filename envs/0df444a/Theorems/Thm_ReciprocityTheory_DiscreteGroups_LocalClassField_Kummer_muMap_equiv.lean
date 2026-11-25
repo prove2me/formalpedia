@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Kummer_muMap_equiv
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Kummer.muMap_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:53:00.966986+00:00
 -- url     : https://prove2.me/theorems/fbaa0b87-28fa-55b8-bdde-b3ca5d85ef8f

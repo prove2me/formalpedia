@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoExtend_exists_gen_chartPull
 -- name    : GlobalTheory.IsoExtend.exists_gen_chartPull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:05:25.78804+00:00
 -- url     : https://prove2.me/theorems/36507f70-896d-41e7-a5b3-39d209afa4bb

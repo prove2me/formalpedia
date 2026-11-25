@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_BM_measure_Ov
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.BM.measure_Ov
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:40:12.24451+00:00
 -- url     : https://prove2.me/theorems/262f9a8e-bfbb-4827-8a61-6d74e771aeef

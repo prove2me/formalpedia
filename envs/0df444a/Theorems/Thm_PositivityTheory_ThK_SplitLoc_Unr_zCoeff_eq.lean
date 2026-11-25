@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_zCoeff_eq
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.zCoeff_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:13:48.291326+00:00
 -- url     : https://prove2.me/theorems/6747a504-6e27-4cec-ba4b-942ed8e0049b

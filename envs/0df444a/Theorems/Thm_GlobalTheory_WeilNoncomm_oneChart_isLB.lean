@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilNoncomm_oneChart_isLB
 -- name    : GlobalTheory.WeilNoncomm.oneChart_isLB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:09:53.253997+00:00
 -- url     : https://prove2.me/theorems/a385f298-02c3-417a-b3ad-39cd257b3de1

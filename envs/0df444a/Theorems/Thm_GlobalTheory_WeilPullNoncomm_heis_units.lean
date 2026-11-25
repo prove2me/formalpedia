@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilPullNoncomm_heis_units
 -- name    : GlobalTheory.WeilPullNoncomm.heis_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:07:49.411854+00:00
 -- url     : https://prove2.me/theorems/d5e266e5-d030-416e-b2cf-309a8e365ed4

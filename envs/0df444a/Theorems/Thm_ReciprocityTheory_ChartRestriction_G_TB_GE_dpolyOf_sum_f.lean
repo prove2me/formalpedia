@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_GE_dpolyOf_sum_f
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.GE.dpolyOf_sum_f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:40:15.343852+00:00
 -- url     : https://prove2.me/theorems/33651aaf-005f-4ff2-8d4c-9426d967b5ab

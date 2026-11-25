@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_SegreChartIntegralPoints_aeval_eq_eval__42e4d377e6a0
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_SegreChartIntegralPoints_aeval_eq_eval__42e4d377e6a0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:54:30.093001+00:00
 -- url     : https://prove2.me/theorems/255fd027-747d-4e7b-a464-6359e1632aa2

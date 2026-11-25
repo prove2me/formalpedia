@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreDeriv_evEps_appLE
 -- name    : GlobalTheory.FibreDeriv.evEps_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:57:17.510909+00:00
 -- url     : https://prove2.me/theorems/95e8d40c-420f-4f5f-a5a6-73dfc7266d9a

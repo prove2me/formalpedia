@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_germToFunctionField_eq_of_mem_range_stalk
 -- name    : GlobalTheory.exists_germToFunctionField_eq_of_mem_range_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:09:26.530817+00:00
 -- url     : https://prove2.me/theorems/3f5982af-350f-4957-a81b-989b567caad8

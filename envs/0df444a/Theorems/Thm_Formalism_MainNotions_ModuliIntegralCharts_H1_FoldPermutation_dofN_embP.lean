@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FoldPermutation_dofN_embP
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FoldPermutation.dofN_embP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:52:20.119126+00:00
 -- url     : https://prove2.me/theorems/cb8ad459-0b29-4a6b-b898-402b976d9dbd

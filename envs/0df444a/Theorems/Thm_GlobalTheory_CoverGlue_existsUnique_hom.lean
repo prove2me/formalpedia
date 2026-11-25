@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverGlue_existsUnique_hom
 -- name    : GlobalTheory.CoverGlue.existsUnique_hom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:19:00.334596+00:00
 -- url     : https://prove2.me/theorems/219cc4a5-131a-4148-bbe5-d62c29b349f1

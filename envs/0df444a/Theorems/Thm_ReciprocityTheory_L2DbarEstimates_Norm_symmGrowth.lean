@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Norm_symmGrowth
 -- name    : ReciprocityTheory.L2DbarEstimates.Norm.symmGrowth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:58:33.238138+00:00
 -- url     : https://prove2.me/theorems/2740c1a7-b0b8-48f8-9c4b-6fefeb816342

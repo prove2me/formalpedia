@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiPull_base_eq
 -- name    : GlobalTheory.PhiPull.base_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:57:42.310803+00:00
 -- url     : https://prove2.me/theorems/bf1625cc-15a7-402d-96bc-319a9a611d1a

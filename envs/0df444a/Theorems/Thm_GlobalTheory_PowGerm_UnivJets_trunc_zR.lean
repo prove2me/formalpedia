@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_UnivJets_trunc_zR
 -- name    : GlobalTheory.PowGerm.UnivJets.trunc_zR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:04:10.707232+00:00
 -- url     : https://prove2.me/theorems/891e7944-5aaf-563e-bed1-05b39a33cd62

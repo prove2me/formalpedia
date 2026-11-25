@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_norm_x_sub_le_of_formalGroup
 -- name    : ReciprocityTheory.ChartRestriction.L1.norm_x_sub_le_of_formalGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:54:07.843805+00:00
 -- url     : https://prove2.me/theorems/232322a6-7aa1-5d17-82d2-e26ddd601d38

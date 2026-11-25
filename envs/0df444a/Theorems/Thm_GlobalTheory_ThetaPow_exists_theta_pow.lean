@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPow_exists_theta_pow
 -- name    : GlobalTheory.ThetaPow.exists_theta_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:07:06.441673+00:00
 -- url     : https://prove2.me/theorems/2018e17c-e9ad-4717-a21f-b93abc405122

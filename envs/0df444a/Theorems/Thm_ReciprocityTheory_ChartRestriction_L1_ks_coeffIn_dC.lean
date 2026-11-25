@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_ks_coeffIn_dC
 -- name    : ReciprocityTheory.ChartRestriction.L1.ks_coeffIn_dC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:04:11.138194+00:00
 -- url     : https://prove2.me/theorems/a9504c89-1287-4502-8d0d-634f9bc6500e

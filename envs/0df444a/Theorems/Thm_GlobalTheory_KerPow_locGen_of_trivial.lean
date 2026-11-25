@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KerPow_locGen_of_trivial
 -- name    : GlobalTheory.KerPow.locGen_of_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:28:18.80138+00:00
 -- url     : https://prove2.me/theorems/49fbdee2-b026-5281-9a85-1223e566376e

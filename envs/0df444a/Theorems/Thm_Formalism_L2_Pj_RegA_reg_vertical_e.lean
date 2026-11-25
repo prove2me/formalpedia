@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_RegA_reg_vertical_e
 -- name    : Formalism.L2.Pj.RegA.reg_vertical_e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:08.278805+00:00
 -- url     : https://prove2.me/theorems/c1db8fcd-95fb-4ed8-941e-e15d40b647ca

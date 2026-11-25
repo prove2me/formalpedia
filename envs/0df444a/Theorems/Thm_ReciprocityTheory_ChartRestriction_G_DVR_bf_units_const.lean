@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_bf_units_const
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.bf_units_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:06:17.745241+00:00
 -- url     : https://prove2.me/theorems/6d8264d0-b1b4-50d9-9b84-956975f9aee0

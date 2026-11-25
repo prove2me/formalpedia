@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenExtend_existsUnique_gen_extend
 -- name    : GlobalTheory.GenExtend.existsUnique_gen_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:19:05.418882+00:00
 -- url     : https://prove2.me/theorems/7987f8f7-1984-49f2-bf01-8d4624b6b5ef

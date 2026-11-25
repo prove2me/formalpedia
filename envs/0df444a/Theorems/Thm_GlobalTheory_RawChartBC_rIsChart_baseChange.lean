@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawChartBC_rIsChart_baseChange
 -- name    : GlobalTheory.RawChartBC.rIsChart_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:16:01.315241+00:00
 -- url     : https://prove2.me/theorems/dbfb91b6-d179-40a7-ab7c-4afe45b2930c

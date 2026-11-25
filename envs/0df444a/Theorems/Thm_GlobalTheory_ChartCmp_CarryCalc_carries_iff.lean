@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_CarryCalc_carries_iff
 -- name    : GlobalTheory.ChartCmp.CarryCalc.carries_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:08:59.346617+00:00
 -- url     : https://prove2.me/theorems/5b7b885b-dcc2-4d57-9d5f-2f40c837af44

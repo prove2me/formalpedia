@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_dbarDir_continuous_hasCompactSupport
 -- name    : ReciprocityTheory.L2DbarEstimates.C.dbarDir_continuous_hasCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:54:05.013352+00:00
 -- url     : https://prove2.me/theorems/e039093f-5a53-5fe3-80f0-f435da8c8daf

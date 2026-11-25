@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_SymFrame_tau_self
 -- name    : GlobalTheory.UT.SymFrame.tau_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:19:55.908343+00:00
 -- url     : https://prove2.me/theorems/681c73af-da47-4cf1-992d-b57cfb9754a0

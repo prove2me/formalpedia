@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelFibre_mem_of_modN
 -- name    : GlobalTheory.LevelFibre.mem_of_modN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:06:29.14297+00:00
 -- url     : https://prove2.me/theorems/0e5eb90b-8527-4a0b-a64c-21d265c5a157

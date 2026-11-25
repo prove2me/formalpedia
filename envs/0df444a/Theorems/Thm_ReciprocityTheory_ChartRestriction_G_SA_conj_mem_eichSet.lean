@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_conj_mem_eichSet
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.conj_mem_eichSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:33:11.605916+00:00
 -- url     : https://prove2.me/theorems/94bc09ea-139b-5115-8747-d55279c930bb

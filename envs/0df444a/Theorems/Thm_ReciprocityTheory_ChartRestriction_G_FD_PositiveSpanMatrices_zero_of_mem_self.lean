@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PositiveSpanMatrices_zero_of_mem_self
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PositiveSpanMatrices.zero_of_mem_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:21:54.856023+00:00
 -- url     : https://prove2.me/theorems/2d642885-b1a6-48f4-9615-5ed86e1b36f6

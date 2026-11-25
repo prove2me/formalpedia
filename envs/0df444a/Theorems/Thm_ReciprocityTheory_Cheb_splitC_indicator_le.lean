@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_splitC_indicator_le
 -- name    : ReciprocityTheory.Cheb.splitC_indicator_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:49:24.129728+00:00
 -- url     : https://prove2.me/theorems/2e8e01a8-3aab-4d64-89f6-e622f9de9dfd

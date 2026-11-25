@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_connection_translation_of_poly
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.connection_translation_of_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:43:17.991015+00:00
 -- url     : https://prove2.me/theorems/56dc3e2f-ab15-5fb9-9a08-121340be8ab9

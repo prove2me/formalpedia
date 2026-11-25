@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_wpNum_map
 -- name    : ReciprocityTheory.ChartRestriction.L1.wpNum_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:49:11.37333+00:00
 -- url     : https://prove2.me/theorems/ac43518f-5e9f-5fae-974c-90518b5b21b9

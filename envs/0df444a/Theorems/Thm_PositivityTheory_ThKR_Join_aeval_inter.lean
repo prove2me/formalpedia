@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Join_aeval_inter
 -- name    : PositivityTheory.ThKR.Join.aeval_inter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:08:45.028018+00:00
 -- url     : https://prove2.me/theorems/cfcdffdd-c342-4bd4-bebe-cf26b709d52b

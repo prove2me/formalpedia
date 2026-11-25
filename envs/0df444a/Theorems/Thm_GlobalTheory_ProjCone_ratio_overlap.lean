@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCone_ratio_overlap
 -- name    : GlobalTheory.ProjCone.ratio_overlap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:26:29.601796+00:00
 -- url     : https://prove2.me/theorems/ebc25725-a25f-56fb-be90-9527a0a77ed7

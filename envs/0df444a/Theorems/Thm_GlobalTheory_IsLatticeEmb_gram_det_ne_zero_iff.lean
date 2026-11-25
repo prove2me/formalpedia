@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLatticeEmb_gram_det_ne_zero_iff
 -- name    : GlobalTheory.IsLatticeEmb.gram_det_ne_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:39:28.232075+00:00
 -- url     : https://prove2.me/theorems/a513bc63-c0f7-4627-bea4-f12f91a664bc

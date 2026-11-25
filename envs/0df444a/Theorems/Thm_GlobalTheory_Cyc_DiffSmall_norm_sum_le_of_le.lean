@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_DiffSmall_norm_sum_le_of_le
 -- name    : GlobalTheory.Cyc.DiffSmall.norm_sum_le_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:05:19.910593+00:00
 -- url     : https://prove2.me/theorems/48a1effb-c1d6-4c6a-8c2f-9780a8f2cd4e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_B_moll_young_sq
 -- name    : ReciprocityTheory.L2DbarEstimates.B.moll_young_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:54:10.96505+00:00
 -- url     : https://prove2.me/theorems/2b33201a-5616-4d9b-a0d1-b4f2d67d32c4

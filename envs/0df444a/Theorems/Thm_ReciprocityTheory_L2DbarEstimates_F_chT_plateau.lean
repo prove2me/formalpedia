@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_chT_plateau
 -- name    : ReciprocityTheory.L2DbarEstimates.F.chT_plateau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:56:16.389801+00:00
 -- url     : https://prove2.me/theorems/2ddf4612-2603-4374-af4c-254cb0fdc509

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_setLIntegral_biUnion_le
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.setLIntegral_biUnion_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:01:51.246423+00:00
 -- url     : https://prove2.me/theorems/f675eec7-208e-50b6-9183-217a1ed945b6

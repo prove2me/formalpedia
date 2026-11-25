@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_exists_h1_equiv_characters
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.exists_h1_equiv_characters
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:00:52.123046+00:00
 -- url     : https://prove2.me/theorems/34b78c1e-1e63-4d95-a22e-df9b36e584dd

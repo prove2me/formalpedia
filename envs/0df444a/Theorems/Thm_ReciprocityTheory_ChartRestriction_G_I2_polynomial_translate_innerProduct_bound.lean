@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_polynomial_translate_innerProduct_bound
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.polynomial_translate_innerProduct_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:30:50.985224+00:00
 -- url     : https://prove2.me/theorems/ff4d2369-b6f2-45c0-9655-b4468430df45

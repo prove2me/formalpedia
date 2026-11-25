@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_dualMapS_snd
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.dualMapS_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:53:26.583729+00:00
 -- url     : https://prove2.me/theorems/a367f79f-53aa-522c-b3fd-63191776ab82

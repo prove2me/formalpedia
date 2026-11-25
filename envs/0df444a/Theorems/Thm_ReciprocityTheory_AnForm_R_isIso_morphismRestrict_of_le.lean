@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_isIso_morphismRestrict_of_le
 -- name    : ReciprocityTheory.AnForm.R.isIso_morphismRestrict_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:08:39.390799+00:00
 -- url     : https://prove2.me/theorems/bca4a2b3-8d8c-4b4f-91f3-04a0b49b5079

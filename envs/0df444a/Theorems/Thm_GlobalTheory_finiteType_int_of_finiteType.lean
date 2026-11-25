@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finiteType_int_of_finiteType
 -- name    : GlobalTheory.finiteType_int_of_finiteType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:08:22.430939+00:00
 -- url     : https://prove2.me/theorems/b17d37ac-c6ec-44d5-8d42-b9bce0c31a77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_PadicPolynomialApproximation_exists_nat_poly_near
 -- name    : ReciprocityTheory.ChartRestriction.PadicPolynomialApproximation.exists_nat_poly_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:11:04.813944+00:00
 -- url     : https://prove2.me/theorems/d51e20c7-24e8-55e3-a38c-224eb3aff3d0

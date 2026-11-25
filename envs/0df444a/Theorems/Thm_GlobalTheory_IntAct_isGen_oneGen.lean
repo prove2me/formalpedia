@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntAct_isGen_oneGen
 -- name    : GlobalTheory.IntAct.isGen_oneGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:07:51.525885+00:00
 -- url     : https://prove2.me/theorems/4c366873-a90a-40cc-b296-c68667f6a8fa

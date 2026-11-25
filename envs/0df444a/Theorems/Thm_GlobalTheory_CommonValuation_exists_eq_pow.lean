@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommonValuation_exists_eq_pow
 -- name    : GlobalTheory.CommonValuation.exists_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:17:09.344928+00:00
 -- url     : https://prove2.me/theorems/46f12e0f-605b-468b-80dd-867c967fba47

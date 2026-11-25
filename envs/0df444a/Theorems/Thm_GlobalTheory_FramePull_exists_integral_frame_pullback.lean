@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePull_exists_integral_frame_pullback
 -- name    : GlobalTheory.FramePull.exists_integral_frame_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:03:16.199966+00:00
 -- url     : https://prove2.me/theorems/faf59722-77b0-45fc-8a22-80e3734d1a69

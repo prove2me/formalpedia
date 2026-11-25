@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HalfIdentity_halfSt
 -- name    : GlobalTheory.HalfIdentity.halfSt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:23.703492+00:00
 -- url     : https://prove2.me/theorems/f0717405-91b8-4a2c-ba4a-5e4dd7423df7

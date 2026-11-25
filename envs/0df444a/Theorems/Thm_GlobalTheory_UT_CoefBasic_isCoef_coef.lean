@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_CoefBasic_isCoef_coef
 -- name    : GlobalTheory.UT.CoefBasic.isCoef_coef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:55:20.956583+00:00
 -- url     : https://prove2.me/theorems/dbc3f23d-2219-4976-a284-63a9bd388cf2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DescentPairing_exists_gen_transl_eq_pairing
 -- name    : GlobalTheory.DescentPairing.exists_gen_transl_eq_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:35:55.368808+00:00
 -- url     : https://prove2.me/theorems/bc7e664e-c74a-47ae-930b-d2a309169374

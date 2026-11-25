@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CanonGaugeAssembly_Cob_chain
 -- name    : GlobalTheory.CanonGaugeAssembly.Cob.chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:06:34.065205+00:00
 -- url     : https://prove2.me/theorems/be837b26-6f71-4578-b74e-11c3b5577f7d

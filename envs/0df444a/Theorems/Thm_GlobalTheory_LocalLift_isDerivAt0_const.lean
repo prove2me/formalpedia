@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalLift_isDerivAt0_const
 -- name    : GlobalTheory.LocalLift.isDerivAt0_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:52:50.042839+00:00
 -- url     : https://prove2.me/theorems/3eebe934-82c7-450c-bf7b-82b86c80c4fe

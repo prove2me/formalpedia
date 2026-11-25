@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_G2_Gen_half_gen
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.G2.Gen.half_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:40:18.397726+00:00
 -- url     : https://prove2.me/theorems/266ffaa0-6631-463c-8f85-41f975f64b7c

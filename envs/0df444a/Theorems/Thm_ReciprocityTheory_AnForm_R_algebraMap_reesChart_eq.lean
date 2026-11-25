@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_algebraMap_reesChart_eq
 -- name    : ReciprocityTheory.AnForm.R.algebraMap_reesChart_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:06:49.959596+00:00
 -- url     : https://prove2.me/theorems/afd0f100-2b6b-597c-87f7-22136c801aac

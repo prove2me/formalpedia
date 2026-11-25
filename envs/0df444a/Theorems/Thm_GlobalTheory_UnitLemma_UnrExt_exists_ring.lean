@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_UnrExt_exists_ring
 -- name    : GlobalTheory.UnitLemma.UnrExt.exists_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:38:47.355453+00:00
 -- url     : https://prove2.me/theorems/eafec64e-ccfd-4947-bcfe-03b5a5df85d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_NormUnitsOrthogonality_NU_of_unit
 -- name    : Formalism.L2.SG.Pf.NormUnitsOrthogonality.NU.of_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:55:57.630675+00:00
 -- url     : https://prove2.me/theorems/aae32753-3dd3-5c46-b039-3fbe057329d6

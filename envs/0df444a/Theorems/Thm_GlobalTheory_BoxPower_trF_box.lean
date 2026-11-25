@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxPower_trF_box
 -- name    : GlobalTheory.BoxPower.trF_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:03:24.372721+00:00
 -- url     : https://prove2.me/theorems/660b268a-3cf6-4be1-b95f-a2d470f7648e

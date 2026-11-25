@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePeriod_isPeriod_frame
 -- name    : GlobalTheory.FramePeriod.isPeriod_frame
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:36:02.547739+00:00
 -- url     : https://prove2.me/theorems/bdf77975-723e-4400-b7cd-ec0ceb8dde95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_moll_le_closedBall
 -- name    : ReciprocityTheory.L2DbarEstimates.C.moll_le_closedBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:54:41.143644+00:00
 -- url     : https://prove2.me/theorems/64f40595-05f3-5520-b7dd-8903bf50597c

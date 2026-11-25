@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_mvPow
 -- name    : ReciprocityTheory.L2DbarEstimates.C.mvPow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:22:55.671682+00:00
 -- url     : https://prove2.me/theorems/e8c7707c-ea3f-4c6b-9d51-d29f1c23a422

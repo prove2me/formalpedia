@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_dbar_sq_comp_eq
 -- name    : ReciprocityTheory.L2DbarEstimates.F.dbar_sq_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:56:27.144944+00:00
 -- url     : https://prove2.me/theorems/8269fe40-1624-5497-b05c-42d0318a9510

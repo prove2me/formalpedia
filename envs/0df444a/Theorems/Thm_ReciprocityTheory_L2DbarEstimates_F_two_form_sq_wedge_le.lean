@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_two_form_sq_wedge_le
 -- name    : ReciprocityTheory.L2DbarEstimates.F.two_form_sq_wedge_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:57:03.775716+00:00
 -- url     : https://prove2.me/theorems/84ef4042-7f27-5251-9ace-7b127b43209c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldRestrictionTest_isZero_restrict
 -- name    : GlobalTheory.FieldRestrictionTest.isZero_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:49:52.19309+00:00
 -- url     : https://prove2.me/theorems/2c23eddf-d021-5b88-8614-0f6f00da200b

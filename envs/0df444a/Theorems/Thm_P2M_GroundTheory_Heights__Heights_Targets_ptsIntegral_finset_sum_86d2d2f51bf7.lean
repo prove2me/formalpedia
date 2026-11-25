@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ptsIntegral_finset_sum_86d2d2f51bf7
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ptsIntegral_finset_sum_86d2d2f51bf7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:07:48.557154+00:00
 -- url     : https://prove2.me/theorems/c6a550ba-af6c-5870-9457-8bcbdf590587

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_flat_ringMap
 -- name    : GlobalTheory.Diag.flat_ringMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:07:25.831963+00:00
 -- url     : https://prove2.me/theorems/2a5b96ed-4c49-47b4-a4f7-0b2aadaa5b9c

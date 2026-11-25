@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ActionGauge_logAd_add
 -- name    : GlobalTheory.ActionGauge.logAd_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:53:58.888557+00:00
 -- url     : https://prove2.me/theorems/462354f6-180d-4e51-ade9-91742c29d8c8

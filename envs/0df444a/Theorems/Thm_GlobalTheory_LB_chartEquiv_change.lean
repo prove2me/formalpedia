@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LB_chartEquiv_change
 -- name    : GlobalTheory.LB.chartEquiv_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:57:34.487799+00:00
 -- url     : https://prove2.me/theorems/9f680fd1-b6cf-5c45-a652-097253943e71

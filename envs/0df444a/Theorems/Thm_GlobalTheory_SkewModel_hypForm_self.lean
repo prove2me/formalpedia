@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SkewModel_hypForm_self
 -- name    : GlobalTheory.SkewModel.hypForm_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:37:55.108798+00:00
 -- url     : https://prove2.me/theorems/f9fb2fb7-b793-570d-b06f-3f3383f6e83f

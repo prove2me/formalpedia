@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_zCoeff_of_shift
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.zCoeff_of_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:13:45.220796+00:00
 -- url     : https://prove2.me/theorems/e7d34028-55e3-4ec5-9084-9ed117ec6f5e

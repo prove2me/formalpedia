@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_geometricallyConnected_splitTorusAff
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.geometricallyConnected_splitTorusAff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:28:47.660805+00:00
 -- url     : https://prove2.me/theorems/12e05421-a359-422c-a403-252531630152

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PullbackDegreeCount_normSegre_sameOrbit_b77e8e882eac
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PullbackDegreeCount_normSegre_sameOrbit_b77e8e882eac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:00:53.898311+00:00
 -- url     : https://prove2.me/theorems/b7cd236f-0130-449c-baa9-db92df513409

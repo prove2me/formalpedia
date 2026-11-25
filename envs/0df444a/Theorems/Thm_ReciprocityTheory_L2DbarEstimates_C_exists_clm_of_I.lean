@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_exists_clm_of_I
 -- name    : ReciprocityTheory.L2DbarEstimates.C.exists_clm_of_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:54:19.882685+00:00
 -- url     : https://prove2.me/theorems/cf69b634-5e79-4c89-9dd4-cfb3f0e67c8e

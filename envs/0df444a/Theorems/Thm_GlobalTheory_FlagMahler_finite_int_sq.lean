@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagMahler_finite_int_sq
 -- name    : GlobalTheory.FlagMahler.finite_int_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:58:52.436207+00:00
 -- url     : https://prove2.me/theorems/5551ca21-47aa-5505-ad88-6ee4dd116d31

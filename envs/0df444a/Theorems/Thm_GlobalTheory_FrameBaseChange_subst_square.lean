@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBaseChange_subst_square
 -- name    : GlobalTheory.FrameBaseChange.subst_square
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:36:05.61425+00:00
 -- url     : https://prove2.me/theorems/bc2b0041-6b6f-4993-97fd-75ec694b306f

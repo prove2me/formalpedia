@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_mem_zeroSet_of_weight_nonpos
 -- name    : ReciprocityTheory.L2DbarEstimates.I.mem_zeroSet_of_weight_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:58:21.975563+00:00
 -- url     : https://prove2.me/theorems/d7301504-0b54-4344-b381-93a4a6be59c1

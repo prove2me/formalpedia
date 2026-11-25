@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_DiffSmall_mem_Ks
 -- name    : GlobalTheory.Cyc.DiffSmall.mem_Ks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:04:06.743038+00:00
 -- url     : https://prove2.me/theorems/9967ea50-015d-4901-9af7-604e3ad6b97e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gtCoord_baseChange_maps
 -- name    : GlobalTheory.gtCoord_baseChange_maps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:36:45.660028+00:00
 -- url     : https://prove2.me/theorems/9e282e9d-23fd-4374-a3fb-ba336f7d64c7

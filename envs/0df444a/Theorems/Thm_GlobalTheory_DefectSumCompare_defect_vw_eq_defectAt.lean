@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DefectSumCompare_defect_vw_eq_defectAt
 -- name    : GlobalTheory.DefectSumCompare.defect_vw_eq_defectAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:36:13.718695+00:00
 -- url     : https://prove2.me/theorems/40c10c8c-bd60-41e2-b1f7-14b6d781855c

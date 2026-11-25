@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_nonempty_anLogRes_of_algRes
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.nonempty_anLogRes_of_algRes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:37:47.530256+00:00
 -- url     : https://prove2.me/theorems/bf3c1d21-21de-50f1-bf22-41b2a4215c8f

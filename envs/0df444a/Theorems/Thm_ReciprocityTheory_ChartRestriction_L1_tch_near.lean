@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_tch_near
 -- name    : ReciprocityTheory.ChartRestriction.L1.tch_near
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:41:41.701363+00:00
 -- url     : https://prove2.me/theorems/bb4a50f9-ebf4-46c9-91a4-9c74ed286ca5

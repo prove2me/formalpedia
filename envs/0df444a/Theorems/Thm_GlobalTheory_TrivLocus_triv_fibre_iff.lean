@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TrivLocus_triv_fibre_iff
 -- name    : GlobalTheory.TrivLocus.triv_fibre_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:24:27.731561+00:00
 -- url     : https://prove2.me/theorems/009f116d-ebf3-42af-8da8-6d1fe64bfae7

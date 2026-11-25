@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_bdd_of_exp_tendsto
 -- name    : ReciprocityTheory.Cheb.bdd_of_exp_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:48:53.712177+00:00
 -- url     : https://prove2.me/theorems/895207cf-4ee8-45e3-af73-427582bc6a3b

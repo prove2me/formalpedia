@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_perpTrace
 -- name    : ReciprocityTheory.L2DbarEstimates.H.perpTrace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:57:20.107153+00:00
 -- url     : https://prove2.me/theorems/7809c176-e18a-582c-98e0-e4be1211abce

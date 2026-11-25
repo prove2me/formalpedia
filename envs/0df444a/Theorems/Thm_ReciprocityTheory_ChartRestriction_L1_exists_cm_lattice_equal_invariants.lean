@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_exists_cm_lattice_equal_invariants
 -- name    : ReciprocityTheory.ChartRestriction.L1.exists_cm_lattice_equal_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:10:09.414562+00:00
 -- url     : https://prove2.me/theorems/1065e3ee-8504-4539-8715-79a011c615ac

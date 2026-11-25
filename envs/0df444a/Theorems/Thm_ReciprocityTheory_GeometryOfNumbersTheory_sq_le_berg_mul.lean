@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_sq_le_berg_mul
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.sq_le_berg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:54:25.610217+00:00
 -- url     : https://prove2.me/theorems/062c6859-4bc2-463f-b8c1-2ed5ea2e5ee7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_PhiOrder_tau_diag
 -- name    : GlobalTheory.UT.PhiOrder.tau_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:21:21.109506+00:00
 -- url     : https://prove2.me/theorems/e850ed12-a164-4c2c-81c6-c6631c91fd10

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_OLinEnd_exists_u
 -- name    : GlobalTheory.UT.OLinEnd.exists_u
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:04.816848+00:00
 -- url     : https://prove2.me/theorems/99948b58-afd7-4b77-9b04-fcc9819340d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_dbarDir_extensionCutoff_mul
 -- name    : ReciprocityTheory.L2DbarEstimates.C.dbarDir_extensionCutoff_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:54:20.804025+00:00
 -- url     : https://prove2.me/theorems/25b8168b-ca8e-4ee1-9de9-a1734f972bad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_isMultiHomogIdeal_sup
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.isMultiHomogIdeal_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:02:17.601736+00:00
 -- url     : https://prove2.me/theorems/9a8497cb-4e41-5538-9218-48a3a91da638

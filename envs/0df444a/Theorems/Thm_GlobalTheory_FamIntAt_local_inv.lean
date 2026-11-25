@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamIntAt_local_inv
 -- name    : GlobalTheory.FamIntAt.local_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:20:36.205202+00:00
 -- url     : https://prove2.me/theorems/637a7caf-57db-4565-8a0d-09105f18491a

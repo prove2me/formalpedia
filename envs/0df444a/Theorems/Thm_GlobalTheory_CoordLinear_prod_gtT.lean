@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordLinear_prod_gtT
 -- name    : GlobalTheory.CoordLinear.prod_gtT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:51:17.10383+00:00
 -- url     : https://prove2.me/theorems/515c9946-eaa9-5ab2-9267-fd8959065bbe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_exists_deriv_extCh_le
 -- name    : ReciprocityTheory.L2DbarEstimates.C.exists_deriv_extCh_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:54:22.013726+00:00
 -- url     : https://prove2.me/theorems/aae224b9-9921-4a66-ab4b-284dcbc43f8f

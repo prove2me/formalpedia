@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nabVal_pullback_monomial
 -- name    : GlobalTheory.nabVal_pullback_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:26:52.642548+00:00
 -- url     : https://prove2.me/theorems/b76d18c7-91c7-4b12-9634-1d325a2fbe72

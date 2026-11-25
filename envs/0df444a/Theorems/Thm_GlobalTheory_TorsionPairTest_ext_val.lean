@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionPairTest_ext_val
 -- name    : GlobalTheory.TorsionPairTest.ext_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:44:23.087715+00:00
 -- url     : https://prove2.me/theorems/9b998e58-7241-4a44-adcb-e63e5c172aae

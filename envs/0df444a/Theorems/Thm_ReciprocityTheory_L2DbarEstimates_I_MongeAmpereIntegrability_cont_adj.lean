@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_MongeAmpereIntegrability_cont_adj
 -- name    : ReciprocityTheory.L2DbarEstimates.I.MongeAmpereIntegrability.cont_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:57:06.845784+00:00
 -- url     : https://prove2.me/theorems/078bcd39-3719-4083-8c25-4112e4282962

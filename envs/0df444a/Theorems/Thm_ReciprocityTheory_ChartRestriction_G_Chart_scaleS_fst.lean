@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_scaleS_fst
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.scaleS_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:05:15.378713+00:00
 -- url     : https://prove2.me/theorems/6d0eaceb-17d0-5424-a933-dc439309bd29

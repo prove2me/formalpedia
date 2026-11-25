@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_uwr_boundS
 -- name    : ReciprocityTheory.L2DbarEstimates.F.uwr_boundS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:57:40.039838+00:00
 -- url     : https://prove2.me/theorems/7123a188-c468-5cc4-99e7-61b80d028a8c

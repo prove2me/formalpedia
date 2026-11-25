@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_theta_multiplier_of_odd_det
 -- name    : GlobalTheory.exists_theta_multiplier_of_odd_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:42:50.586309+00:00
 -- url     : https://prove2.me/theorems/51552d6f-f310-4bd1-8355-b49d543fae95

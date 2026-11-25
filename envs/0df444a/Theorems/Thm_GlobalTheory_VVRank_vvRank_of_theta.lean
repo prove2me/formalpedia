@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVRank_vvRank_of_theta
 -- name    : GlobalTheory.VVRank.vvRank_of_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:51:17.205268+00:00
 -- url     : https://prove2.me/theorems/32658a07-42b7-4a3f-911e-54c64de03986

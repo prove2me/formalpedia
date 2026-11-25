@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_derOf_apply
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.derOf_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:52:59.526437+00:00
 -- url     : https://prove2.me/theorems/07fe55f2-4f72-4dae-81bb-ab1a025a6d95

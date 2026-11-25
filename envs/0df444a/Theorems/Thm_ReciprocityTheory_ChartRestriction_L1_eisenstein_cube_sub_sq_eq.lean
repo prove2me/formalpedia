@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_eisenstein_cube_sub_sq_eq
 -- name    : ReciprocityTheory.ChartRestriction.L1.eisenstein_cube_sub_sq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:09:51.307584+00:00
 -- url     : https://prove2.me/theorems/fae079ba-998c-4c56-9ad3-eac1217cc1d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_EigD_aeval_tan
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.EigD.aeval_tan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:42:16.510472+00:00
 -- url     : https://prove2.me/theorems/797b3e63-fcb1-5b35-86f4-08070acb7e94

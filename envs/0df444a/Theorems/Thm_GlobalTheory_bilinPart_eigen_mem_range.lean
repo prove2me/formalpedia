@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bilinPart_eigen_mem_range
 -- name    : GlobalTheory.bilinPart_eigen_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:39:59.100934+00:00
 -- url     : https://prove2.me/theorems/c59941f7-ec28-4fe3-b5b9-c64643b9936d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Deg2_theta_mul
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Deg2.theta_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:59:17.273637+00:00
 -- url     : https://prove2.me/theorems/d4bba0d5-63e5-523f-a1ef-bb19c2e8d5d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusExt_isIota_iota
 -- name    : GlobalTheory.TorusExt.isIota_iota
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:49:19.11759+00:00
 -- url     : https://prove2.me/theorems/c65f019e-f044-5da9-ab0a-8d1127f09df0

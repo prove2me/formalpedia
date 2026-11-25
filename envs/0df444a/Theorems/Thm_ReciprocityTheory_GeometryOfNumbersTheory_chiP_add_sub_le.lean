@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_chiP_add_sub_le
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.chiP_add_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:54:11.69655+00:00
 -- url     : https://prove2.me/theorems/10a551c5-1ad0-5b48-a58f-68cbbf988458

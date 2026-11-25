@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tateIso_ev_eq_iff_add
 -- name    : GlobalTheory.tateIso_ev_eq_iff_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:05:52.288805+00:00
 -- url     : https://prove2.me/theorems/2e6b39a1-9a04-4db9-b9fd-228c162cb742

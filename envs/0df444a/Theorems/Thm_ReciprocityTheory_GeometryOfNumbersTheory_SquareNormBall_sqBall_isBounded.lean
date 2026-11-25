@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_SquareNormBall_sqBall_isBounded
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.SquareNormBall.sqBall_isBounded
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:52:14.568438+00:00
 -- url     : https://prove2.me/theorems/c4a12859-f42c-4de4-b301-bf9e46c80a16

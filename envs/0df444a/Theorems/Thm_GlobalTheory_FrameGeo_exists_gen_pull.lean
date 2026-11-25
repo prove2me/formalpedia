@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameGeo_exists_gen_pull
 -- name    : GlobalTheory.FrameGeo.exists_gen_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:37:56.259016+00:00
 -- url     : https://prove2.me/theorems/9828cee9-578e-45d5-955c-730e0538a44c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_CubeGen_locTriv_subset
 -- name    : GlobalTheory.AbLaw.CubeGen.locTriv_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:51:19.599961+00:00
 -- url     : https://prove2.me/theorems/2b57e9fe-f89b-453e-bb24-c2a0f522ba25

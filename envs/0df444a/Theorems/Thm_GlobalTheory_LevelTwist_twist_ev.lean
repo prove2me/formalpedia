@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelTwist_twist_ev
 -- name    : GlobalTheory.LevelTwist.twist_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:08:11.051306+00:00
 -- url     : https://prove2.me/theorems/1ce9485b-30ef-4a52-a5d0-5ce3d4f22d5f

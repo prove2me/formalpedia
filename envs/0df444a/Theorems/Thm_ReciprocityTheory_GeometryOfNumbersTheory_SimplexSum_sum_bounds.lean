@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_SimplexSum_sum_bounds
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.SimplexSum.sum_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:52:58.240988+00:00
 -- url     : https://prove2.me/theorems/22ec3f49-51f9-4a74-aa2a-83ee83381e24

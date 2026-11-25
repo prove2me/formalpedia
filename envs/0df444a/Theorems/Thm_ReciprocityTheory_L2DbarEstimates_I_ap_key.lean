@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_ap_key
 -- name    : ReciprocityTheory.L2DbarEstimates.I.ap_key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:58:24.265322+00:00
 -- url     : https://prove2.me/theorems/921295b7-4a25-46ee-b3de-e53c404ab4e2

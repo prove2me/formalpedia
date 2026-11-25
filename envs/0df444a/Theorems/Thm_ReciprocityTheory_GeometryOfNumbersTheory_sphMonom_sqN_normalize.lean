@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_sphMonom_sqN_normalize
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.sphMonom_sqN_normalize
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:54:22.895355+00:00
 -- url     : https://prove2.me/theorems/5749ac83-bc3a-4a33-901e-8aa6cac29e4b

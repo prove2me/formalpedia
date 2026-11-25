@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_isGalois_Kn
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.isGalois_Kn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:00:54.69639+00:00
 -- url     : https://prove2.me/theorems/f3243b23-6437-4f8b-b839-061112c888f9

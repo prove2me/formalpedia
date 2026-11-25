@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_polar_radial
 -- name    : ReciprocityTheory.L2DbarEstimates.I.polar_radial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:58:13.455271+00:00
 -- url     : https://prove2.me/theorems/a7727de2-f7b9-4dc8-80c2-935dfee76248

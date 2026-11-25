@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagMahler_finite_bounded
 -- name    : GlobalTheory.FlagMahler.finite_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:08:04.267769+00:00
 -- url     : https://prove2.me/theorems/9bc94aa1-62cb-4daa-a15d-79a41bde00e9

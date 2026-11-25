@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_splitFibres_of_isGrpPullback
 -- name    : GlobalTheory.splitFibres_of_isGrpPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:21:39.242822+00:00
 -- url     : https://prove2.me/theorems/5b24a7f3-65f3-4301-9e55-f8f34bcf639e

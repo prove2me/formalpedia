@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_SymFrame_grep_kap
 -- name    : GlobalTheory.UT.SymFrame.grep_kap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:58:56.727335+00:00
 -- url     : https://prove2.me/theorems/68fb1aea-0d54-43ef-8d3a-fba14be1e921

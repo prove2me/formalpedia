@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_GE_dmonOf_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.GE.dmonOf_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:39:52.289802+00:00
 -- url     : https://prove2.me/theorems/70977091-6778-477e-9652-22358804632a

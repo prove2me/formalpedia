@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_norm_sqrtNeg_pow_prime_sq_sub
 -- name    : ReciprocityTheory.ChartRestriction.L1.norm_sqrtNeg_pow_prime_sq_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:47:39.743383+00:00
 -- url     : https://prove2.me/theorems/017da39e-f2a1-540b-a3ed-fd051a32ba34

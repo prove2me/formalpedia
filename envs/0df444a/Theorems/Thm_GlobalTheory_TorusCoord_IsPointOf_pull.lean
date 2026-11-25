@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCoord_IsPointOf_pull
 -- name    : GlobalTheory.TorusCoord.IsPointOf.pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:30:37.807422+00:00
 -- url     : https://prove2.me/theorems/baef9b5e-1f7f-5423-b067-9aed235b615c

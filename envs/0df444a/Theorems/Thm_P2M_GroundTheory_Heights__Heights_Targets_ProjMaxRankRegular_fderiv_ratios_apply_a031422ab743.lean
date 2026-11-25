@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjMaxRankRegular_fderiv_ratios_apply_a031422ab743
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjMaxRankRegular_fderiv_ratios_apply_a031422ab743
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:54:03.546063+00:00
 -- url     : https://prove2.me/theorems/21d56b92-9199-5331-85ba-4122180d85df

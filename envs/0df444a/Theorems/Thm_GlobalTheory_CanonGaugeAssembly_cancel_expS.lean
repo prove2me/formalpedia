@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CanonGaugeAssembly_cancel_expS
 -- name    : GlobalTheory.CanonGaugeAssembly.cancel_expS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:06:44.250959+00:00
 -- url     : https://prove2.me/theorems/a6c38fef-2663-420e-b0ad-6c7deebaa55e

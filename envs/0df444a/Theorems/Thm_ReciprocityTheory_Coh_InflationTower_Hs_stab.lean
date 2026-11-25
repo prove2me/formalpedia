@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationTower_Hs_stab
 -- name    : ReciprocityTheory.Coh.InflationTower.Hs_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:50:40.152012+00:00
 -- url     : https://prove2.me/theorems/c79e15fb-23f8-5a47-8854-fb3c818b6281

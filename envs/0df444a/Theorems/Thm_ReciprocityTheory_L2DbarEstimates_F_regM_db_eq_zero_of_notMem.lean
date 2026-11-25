@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_regM_db_eq_zero_of_notMem
 -- name    : ReciprocityTheory.L2DbarEstimates.F.regM_db_eq_zero_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:56:37.236176+00:00
 -- url     : https://prove2.me/theorems/1fb2f1b6-bbcf-5a53-b1b6-cbc03d8fb050

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntConeFPT_threshold_bisection_machine
 -- name    : IntConeFPT.threshold_bisection_machine
--- status  : Open
+-- status  : Proved
 -- author  : @ohnesorgefelix
 -- created : 2026-11-25T11:53:26.782845+00:00
 -- url     : https://prove2.me/theorems/5c848c1d-3fbe-46ee-b5cf-72199d0c8c3d

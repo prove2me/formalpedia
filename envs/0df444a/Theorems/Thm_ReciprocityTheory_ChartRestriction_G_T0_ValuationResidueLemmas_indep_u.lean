@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_ValuationResidueLemmas_indep_u
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.ValuationResidueLemmas.indep_u
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:28:09.135749+00:00
 -- url     : https://prove2.me/theorems/99864d42-71de-409b-a51e-3a47da246375

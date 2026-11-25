@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_proj_eq_of_sameOrbit
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.proj_eq_of_sameOrbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:02:31.197925+00:00
 -- url     : https://prove2.me/theorems/f8e8279b-8251-541f-bd07-9066b372e834

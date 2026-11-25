@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCoord_isThetaPtOver_of_subsingleton
 -- name    : GlobalTheory.ThetaCoord.isThetaPtOver_of_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:17:37.569459+00:00
 -- url     : https://prove2.me/theorems/d40dfa99-8a44-469e-b50f-7b6b17285209

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_pgds_integral_ball_polar
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.pgds_integral_ball_polar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:15:08.417801+00:00
 -- url     : https://prove2.me/theorems/0b347acd-2000-41a5-b4b1-a259a89e41f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_cut_smoothR_w
 -- name    : ReciprocityTheory.L2DbarEstimates.F.cut_smoothR_w
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:56:59.201602+00:00
 -- url     : https://prove2.me/theorems/d0625c61-e64f-4c94-bb26-580a51ab3788

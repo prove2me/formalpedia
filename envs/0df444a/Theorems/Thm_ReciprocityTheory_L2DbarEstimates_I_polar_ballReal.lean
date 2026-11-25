@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_polar_ballReal
 -- name    : ReciprocityTheory.L2DbarEstimates.I.polar_ballReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:58:05.701221+00:00
 -- url     : https://prove2.me/theorems/7e3fe093-4845-4cc5-a848-e87a41b89fe2

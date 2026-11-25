@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagMahler_det_ne_of_gram
 -- name    : GlobalTheory.FlagMahler.det_ne_of_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:07:22.496549+00:00
 -- url     : https://prove2.me/theorems/45f4fbbc-78a8-49f4-961f-714af7b71461

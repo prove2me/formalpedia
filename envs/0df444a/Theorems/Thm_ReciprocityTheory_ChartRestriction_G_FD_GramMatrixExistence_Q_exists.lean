@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_GramMatrixExistence_Q_exists
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.GramMatrixExistence.Q_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:19:38.994022+00:00
 -- url     : https://prove2.me/theorems/9ea78fba-ed5d-5f0e-82f2-b4fba97c2a7b

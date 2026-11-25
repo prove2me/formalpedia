@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_toStk_valF
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.toStk_valF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:09:31.694394+00:00
 -- url     : https://prove2.me/theorems/7976d84d-5c35-41da-b51e-8a45d9f37e2a

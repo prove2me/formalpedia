@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_chiPAux_sum_filter_zero_le
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.chiPAux_sum_filter_zero_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:53:37.257941+00:00
 -- url     : https://prove2.me/theorems/08c93436-cff3-53a1-b376-ca512bab2f16

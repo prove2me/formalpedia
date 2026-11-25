@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistedTheta_theta_eq_thetaShift
 -- name    : GlobalTheory.TwistedTheta.theta_eq_thetaShift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:09:32.327185+00:00
 -- url     : https://prove2.me/theorems/37aab002-9c6d-47c6-978f-2049d900ae7b

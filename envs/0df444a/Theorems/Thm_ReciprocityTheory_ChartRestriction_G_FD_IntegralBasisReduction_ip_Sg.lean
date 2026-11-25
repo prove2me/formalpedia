@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_IntegralBasisReduction_ip_Sg
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.IntegralBasisReduction.ip_Sg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:53:56.214039+00:00
 -- url     : https://prove2.me/theorems/083b4401-1790-5ea4-ba53-059e725692a5

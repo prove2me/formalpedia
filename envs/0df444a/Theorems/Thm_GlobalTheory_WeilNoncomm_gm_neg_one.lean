@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilNoncomm_gm_neg_one
 -- name    : GlobalTheory.WeilNoncomm.gm_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:08:54.927829+00:00
 -- url     : https://prove2.me/theorems/28a04e78-ce01-4028-8b96-3ac7d4edc802

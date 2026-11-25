@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_BlockIdentityExpansion_key
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.BlockIdentityExpansion.key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:14:10.006421+00:00
 -- url     : https://prove2.me/theorems/45befd19-1f93-4cef-b8e4-4bef722d9b52

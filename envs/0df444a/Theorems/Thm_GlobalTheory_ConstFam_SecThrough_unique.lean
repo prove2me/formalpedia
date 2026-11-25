@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConstFam_SecThrough_unique
 -- name    : GlobalTheory.ConstFam.SecThrough.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:07:30.673871+00:00
 -- url     : https://prove2.me/theorems/07e2d483-7e0c-4c13-9505-ab65f68d97a4

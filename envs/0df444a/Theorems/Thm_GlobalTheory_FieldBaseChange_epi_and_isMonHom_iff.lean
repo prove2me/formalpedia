@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_epi_and_isMonHom_iff
 -- name    : GlobalTheory.FieldBaseChange.epi_and_isMonHom_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:22:43.720618+00:00
 -- url     : https://prove2.me/theorems/14c708a4-9c0a-4106-9e4e-81cb6222b966

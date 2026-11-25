@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecPull_existsUnique_secPull
 -- name    : GlobalTheory.SecPull.existsUnique_secPull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:15:35.194814+00:00
 -- url     : https://prove2.me/theorems/c2f08546-aaaa-427a-9fd0-e1d9d6091e6d

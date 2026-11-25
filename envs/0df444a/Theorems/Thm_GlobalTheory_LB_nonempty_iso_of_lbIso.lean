@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LB_nonempty_iso_of_lbIso
 -- name    : GlobalTheory.LB.nonempty_iso_of_lbIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:55:57.410081+00:00
 -- url     : https://prove2.me/theorems/d693124e-69a5-5818-b6bd-3aadab0ecda9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_gauge_stable
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.gauge_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:55:50.57005+00:00
 -- url     : https://prove2.me/theorems/37f0cc32-9ee8-48d8-863f-ec52475121bb

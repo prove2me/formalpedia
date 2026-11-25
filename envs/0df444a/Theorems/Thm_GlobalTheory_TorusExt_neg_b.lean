@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusExt_neg_b
 -- name    : GlobalTheory.TorusExt.neg_b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:43:07.596174+00:00
 -- url     : https://prove2.me/theorems/f132464b-a3b1-516e-85a9-12025f0a5705

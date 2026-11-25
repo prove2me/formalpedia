@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameGeo_IsExpOf_mul
 -- name    : GlobalTheory.FrameGeo.IsExpOf.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:57:48.376822+00:00
 -- url     : https://prove2.me/theorems/c9ed6fe6-ec0d-498a-9e09-18a5bcd2458c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommPairing_weilIs_pull
 -- name    : GlobalTheory.CommPairing.weilIs_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:56:25.773801+00:00
 -- url     : https://prove2.me/theorems/b1ca495b-6a0e-480d-8e38-edcbdb342245

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsPosPartLocal_sheetDensity_eq_f776bfe0d7d4
 -- name    : P2M_GroundTheory_Heights__Heights_PtsPosPartLocal_sheetDensity_eq_f776bfe0d7d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:16:50.265652+00:00
 -- url     : https://prove2.me/theorems/73e8b78e-a2e6-4ca8-a2a8-91566d0d3475

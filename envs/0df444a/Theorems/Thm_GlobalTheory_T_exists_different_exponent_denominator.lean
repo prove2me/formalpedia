@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_different_exponent_denominator
 -- name    : GlobalTheory.T.exists_different_exponent_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:34:08.525951+00:00
 -- url     : https://prove2.me/theorems/67ac853d-f0db-44b4-ac43-556113906f77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_cut_lint_tri
 -- name    : ReciprocityTheory.L2DbarEstimates.F.cut_lint_tri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:56:48.06702+00:00
 -- url     : https://prove2.me/theorems/636a658e-6459-5483-a6cf-2905c225bd64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_sabMap_cubical
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.sabMap_cubical
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:19:20.252214+00:00
 -- url     : https://prove2.me/theorems/1952fdb0-10ca-4844-a298-9fafd28d9449

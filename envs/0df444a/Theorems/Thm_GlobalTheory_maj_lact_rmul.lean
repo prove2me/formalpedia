@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_maj_lact_rmul
 -- name    : GlobalTheory.maj_lact_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:10:08.754837+00:00
 -- url     : https://prove2.me/theorems/8560b224-3ec0-471b-8c50-c1ced72a1dc2

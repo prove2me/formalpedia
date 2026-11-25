@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PureType_disjoint_lat
 -- name    : GlobalTheory.PureType.disjoint_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:49:13.63561+00:00
 -- url     : https://prove2.me/theorems/00903355-6d29-56f7-8b90-2b68a7bbb5de

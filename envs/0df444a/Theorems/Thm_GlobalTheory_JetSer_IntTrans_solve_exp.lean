@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_IntTrans_solve_exp
 -- name    : GlobalTheory.JetSer.IntTrans.solve_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:41:28.717947+00:00
 -- url     : https://prove2.me/theorems/be317678-107e-41a8-a7fe-7d88b6fb0a4e

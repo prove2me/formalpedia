@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_norm_le_norm_sum
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.norm_le_norm_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:52:52.1736+00:00
 -- url     : https://prove2.me/theorems/ca2b4df6-424b-4336-905e-253f2786961a

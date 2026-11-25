@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WitnessData_exists_psi_pull
 -- name    : GlobalTheory.WitnessData.exists_psi_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:42:37.629469+00:00
 -- url     : https://prove2.me/theorems/86c4ce98-3849-4b63-884a-b36581327e03

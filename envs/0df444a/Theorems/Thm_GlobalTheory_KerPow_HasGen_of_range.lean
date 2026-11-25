@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KerPow_HasGen_of_range
 -- name    : GlobalTheory.KerPow.HasGen.of_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:29:01.339598+00:00
 -- url     : https://prove2.me/theorems/2246d160-b0d9-5e5f-b95f-ebc9fa40c828

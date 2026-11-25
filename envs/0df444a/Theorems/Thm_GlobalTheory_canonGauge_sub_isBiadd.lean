@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_canonGauge_sub_isBiadd
 -- name    : GlobalTheory.canonGauge_sub_isBiadd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:12:13.931055+00:00
 -- url     : https://prove2.me/theorems/cf0ab15a-f64e-4004-bd9d-2bd53cb9e7a5

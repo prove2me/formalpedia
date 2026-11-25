@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_near_continuous_of_smoothR
 -- name    : ReciprocityTheory.L2DbarEstimates.H.near_continuous_of_smoothR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:58:22.773068+00:00
 -- url     : https://prove2.me/theorems/f81ef4f2-1429-5d37-9b66-c9319ec41412

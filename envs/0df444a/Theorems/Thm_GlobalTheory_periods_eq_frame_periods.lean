@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_periods_eq_frame_periods
 -- name    : GlobalTheory.periods_eq_frame_periods
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:14:58.422564+00:00
 -- url     : https://prove2.me/theorems/fcb5d5a6-1995-492b-8966-daa682641a76

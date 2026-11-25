@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_finrank_cotangentSpace_eq_of_ringEquiv
 -- name    : ReciprocityTheory.AnForm.R.finrank_cotangentSpace_eq_of_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:02:53.884266+00:00
 -- url     : https://prove2.me/theorems/e93ad8f0-417c-4b95-9756-fb33a1d43690

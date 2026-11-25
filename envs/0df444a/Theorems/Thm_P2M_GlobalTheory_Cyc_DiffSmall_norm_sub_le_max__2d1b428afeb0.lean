@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Cyc_DiffSmall_norm_sub_le_max__2d1b428afeb0
 -- name    : P2M_GlobalTheory_Cyc_DiffSmall_norm_sub_le_max__2d1b428afeb0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:03:35.052619+00:00
 -- url     : https://prove2.me/theorems/806dd0e4-ef1d-5cc2-a7ab-ca667f076294

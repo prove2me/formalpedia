@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldRestrictionTest_ext_valF
 -- name    : GlobalTheory.FieldRestrictionTest.ext_valF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:46:37.841931+00:00
 -- url     : https://prove2.me/theorems/6dc35cc9-c721-55e9-9c27-3d8913db5d6d

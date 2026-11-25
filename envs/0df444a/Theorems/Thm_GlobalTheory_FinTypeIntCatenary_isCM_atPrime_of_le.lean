@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinTypeIntCatenary_isCM_atPrime_of_le
 -- name    : GlobalTheory.FinTypeIntCatenary.isCM_atPrime_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:26:12.474821+00:00
 -- url     : https://prove2.me/theorems/f146af7c-1781-4fa8-85ee-d59144db32a1

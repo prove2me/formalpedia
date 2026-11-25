@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_extendGen_of_extension
 -- name    : GlobalTheory.extendGen_of_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:55:13.374599+00:00
 -- url     : https://prove2.me/theorems/b3ce76e1-559b-43e7-8c3f-339684873a95

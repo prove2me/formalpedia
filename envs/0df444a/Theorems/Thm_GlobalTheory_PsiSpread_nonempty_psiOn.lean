@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiSpread_nonempty_psiOn
 -- name    : GlobalTheory.PsiSpread.nonempty_psiOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:43:00.454289+00:00
 -- url     : https://prove2.me/theorems/1a6d1b19-ff97-4307-b66d-3646d600ef6e

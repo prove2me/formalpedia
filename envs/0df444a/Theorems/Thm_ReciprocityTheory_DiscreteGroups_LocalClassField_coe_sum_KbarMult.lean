@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_coe_sum_KbarMult
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.coe_sum_KbarMult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:59:41.124325+00:00
 -- url     : https://prove2.me/theorems/2d9912b6-7f9b-4d28-8a36-f08364ed7906

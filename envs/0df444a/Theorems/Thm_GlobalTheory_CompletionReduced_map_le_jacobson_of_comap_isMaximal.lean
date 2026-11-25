@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletionReduced_map_le_jacobson_of_comap_isMaximal
 -- name    : GlobalTheory.CompletionReduced.map_le_jacobson_of_comap_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:52:58.927798+00:00
 -- url     : https://prove2.me/theorems/1ce8ac86-1730-4910-b45b-28b065953d4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_FiniteLevelCohomology_exists_level
 -- name    : ReciprocityTheory.Coh.FiniteLevelCohomology.exists_level
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:42:57.71338+00:00
 -- url     : https://prove2.me/theorems/01b23437-6f34-447a-b0d3-bd1e7a71564f

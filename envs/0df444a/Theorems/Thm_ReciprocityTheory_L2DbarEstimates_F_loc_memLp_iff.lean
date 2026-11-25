@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_loc_memLp_iff
 -- name    : ReciprocityTheory.L2DbarEstimates.F.loc_memLp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:55:54.154012+00:00
 -- url     : https://prove2.me/theorems/414164fe-3136-4a9c-b791-794fb43020f2

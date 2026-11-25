@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_ofLin_fst
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.ofLin_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:53:56.248795+00:00
 -- url     : https://prove2.me/theorems/802715dd-cb0b-4fa2-8fd3-9d81c5cb1c50

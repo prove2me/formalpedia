@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_continuousOn_sec
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.continuousOn_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:59:58.857369+00:00
 -- url     : https://prove2.me/theorems/bfdc1fc7-81fd-46e4-9ba9-7fe1951ea7ed

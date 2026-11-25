@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommutatorPairing_exists_weilIs
 -- name    : GlobalTheory.CommutatorPairing.exists_weilIs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:12:42.818437+00:00
 -- url     : https://prove2.me/theorems/854c7c00-e332-4ed7-adf3-0b3b5cb62c6a

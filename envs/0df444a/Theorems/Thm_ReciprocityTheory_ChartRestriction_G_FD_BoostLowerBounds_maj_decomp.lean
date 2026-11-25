@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_BoostLowerBounds_maj_decomp
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.BoostLowerBounds.maj_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:11:50.166056+00:00
 -- url     : https://prove2.me/theorems/1ce9d679-ad4f-5f20-a65b-d19fa246667b

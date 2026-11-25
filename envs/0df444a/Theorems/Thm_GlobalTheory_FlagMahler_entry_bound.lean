@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagMahler_entry_bound
 -- name    : GlobalTheory.FlagMahler.entry_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:05:54.039425+00:00
 -- url     : https://prove2.me/theorems/383bf3d2-7f0c-5bb7-b70f-865c36a9a383

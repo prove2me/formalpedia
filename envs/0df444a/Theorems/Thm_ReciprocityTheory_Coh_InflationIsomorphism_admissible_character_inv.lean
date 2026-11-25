@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationIsomorphism_admissible_character_inv
 -- name    : ReciprocityTheory.Coh.InflationIsomorphism.admissible_character_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:50:15.846751+00:00
 -- url     : https://prove2.me/theorems/7de8f7a3-d19a-5ce5-8269-7e26c6226732

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_second_partial_law_alt
 -- name    : GlobalTheory.T.exists_second_partial_law_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:40:17.919216+00:00
 -- url     : https://prove2.me/theorems/090d3e29-42f5-49d6-9ca6-10d9159279e6

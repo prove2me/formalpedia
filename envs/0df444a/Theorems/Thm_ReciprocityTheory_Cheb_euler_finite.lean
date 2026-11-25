@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_euler_finite
 -- name    : ReciprocityTheory.Cheb.euler_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:48:51.525858+00:00
 -- url     : https://prove2.me/theorems/084cdc08-a810-4496-80ec-7005fbe8f9b9

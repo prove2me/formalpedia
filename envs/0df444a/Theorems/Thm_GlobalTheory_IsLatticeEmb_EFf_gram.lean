@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLatticeEmb_EFf_gram
 -- name    : GlobalTheory.IsLatticeEmb.EFf_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:37:26.739031+00:00
 -- url     : https://prove2.me/theorems/c2d3ed51-2bcc-44e1-9a41-ec33c4b66e93

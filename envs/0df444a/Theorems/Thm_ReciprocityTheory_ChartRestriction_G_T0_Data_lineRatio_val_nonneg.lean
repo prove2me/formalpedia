@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_lineRatio_val_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.lineRatio_val_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:05:42.644651+00:00
 -- url     : https://prove2.me/theorems/d62f4ff0-ba7e-46e9-8705-4a25e971aca2

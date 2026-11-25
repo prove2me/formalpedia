@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_E_db_expNeg
 -- name    : ReciprocityTheory.L2DbarEstimates.E.db_expNeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:02:57.961748+00:00
 -- url     : https://prove2.me/theorems/1d91076d-241c-5055-99b6-31864c9f4ea7

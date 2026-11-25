@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_PushAd_val_scale
 -- name    : GlobalTheory.ChartCmp.PushAd.val_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:49:25.165602+00:00
 -- url     : https://prove2.me/theorems/484fffb7-5afe-5739-b4dc-178a98764180

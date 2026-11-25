@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_tsum_dvd_eq
 -- name    : ReciprocityTheory.Cheb.tsum_dvd_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:49:19.446726+00:00
 -- url     : https://prove2.me/theorems/9d97e45d-2d6d-5518-ad67-0693f89343f2

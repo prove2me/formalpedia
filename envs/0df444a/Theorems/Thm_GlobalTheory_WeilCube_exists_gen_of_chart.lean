@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilCube_exists_gen_of_chart
 -- name    : GlobalTheory.WeilCube.exists_gen_of_chart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:49:50.609341+00:00
 -- url     : https://prove2.me/theorems/1adf47f0-3ec4-4540-b680-b67ebf68fe14

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_near_continuous_vsq
 -- name    : ReciprocityTheory.L2DbarEstimates.H.near_continuous_vsq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:58:05.726135+00:00
 -- url     : https://prove2.me/theorems/57ab0180-2528-42e9-bb5c-a7b4bd1e4468

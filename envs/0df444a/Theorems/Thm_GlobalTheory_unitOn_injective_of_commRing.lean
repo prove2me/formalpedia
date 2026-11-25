@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unitOn_injective_of_commRing
 -- name    : GlobalTheory.unitOn_injective_of_commRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:57:42.159789+00:00
 -- url     : https://prove2.me/theorems/4accb272-b4ee-5c1d-b62b-b60f036474f6

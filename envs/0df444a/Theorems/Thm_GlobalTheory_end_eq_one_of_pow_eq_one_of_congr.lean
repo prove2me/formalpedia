@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_end_eq_one_of_pow_eq_one_of_congr
 -- name    : GlobalTheory.end_eq_one_of_pow_eq_one_of_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:45:48.558394+00:00
 -- url     : https://prove2.me/theorems/bcc0fe0a-eff1-4438-b505-d58d1019da19

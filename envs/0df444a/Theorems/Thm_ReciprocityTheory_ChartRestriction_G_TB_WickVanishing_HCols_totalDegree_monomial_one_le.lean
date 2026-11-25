@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_HCols_totalDegree_monomial_one_le
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.HCols.totalDegree_monomial_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:05:21.699544+00:00
 -- url     : https://prove2.me/theorems/32c47bf3-17b8-4657-a2eb-ecce0f3e3840

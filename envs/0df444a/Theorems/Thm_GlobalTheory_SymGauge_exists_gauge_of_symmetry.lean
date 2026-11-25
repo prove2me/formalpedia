@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymGauge_exists_gauge_of_symmetry
 -- name    : GlobalTheory.SymGauge.exists_gauge_of_symmetry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:23:53.149803+00:00
 -- url     : https://prove2.me/theorems/36427086-dfa7-4e81-900e-1669859d8dc1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictGrp_isPullback_of_comm
 -- name    : GlobalTheory.SS.StrictGrp.isPullback_of_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:17:17.866405+00:00
 -- url     : https://prove2.me/theorems/56f5ec7d-c4f6-4d19-8df1-a7f43666ae02

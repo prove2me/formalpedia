@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentFJ_flow_mem_dom_of_im_nonneg
 -- name    : GlobalTheory.LaurentFJ.flow_mem_dom_of_im_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:04:59.268358+00:00
 -- url     : https://prove2.me/theorems/6c6e4fbd-62e0-4c89-9e00-a297c6f86244

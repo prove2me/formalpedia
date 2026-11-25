@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjPotMassEq_blockSum_pos_f3a6ed830dc6
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjPotMassEq_blockSum_pos_f3a6ed830dc6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:05:17.31445+00:00
 -- url     : https://prove2.me/theorems/b49c698e-1dd9-521c-a972-af6fdf45bf2e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_lift_oneParameter
 -- name    : GlobalTheory.SS.exists_lift_oneParameter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:37:58.224796+00:00
 -- url     : https://prove2.me/theorems/5813c197-487e-423f-9028-4df5a33e2959

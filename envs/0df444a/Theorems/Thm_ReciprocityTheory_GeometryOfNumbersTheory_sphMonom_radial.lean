@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_sphMonom_radial
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.sphMonom_radial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:54:23.283935+00:00
 -- url     : https://prove2.me/theorems/e36e5c0b-3800-5277-85c5-ef3533000ad1

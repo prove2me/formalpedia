@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeFirstLaw_exists_gauge_first_law
 -- name    : GlobalTheory.GaugeFirstLaw.exists_gauge_first_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:49:25.575252+00:00
 -- url     : https://prove2.me/theorems/dc760ee1-cb0f-4cff-a0d1-6fab9c356b53

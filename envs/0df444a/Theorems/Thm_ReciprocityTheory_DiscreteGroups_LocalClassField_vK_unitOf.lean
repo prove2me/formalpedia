@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_vK_unitOf
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.vK_unitOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:08:08.272098+00:00
 -- url     : https://prove2.me/theorems/fb72252d-5f90-4241-9b50-2942e1501b72

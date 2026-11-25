@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResDegPlace_ord_pos_iff
 -- name    : GlobalTheory.ResDegPlace.ord_pos_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:08:49.688888+00:00
 -- url     : https://prove2.me/theorems/3bf66511-2204-5c65-bae3-492069c95ff2

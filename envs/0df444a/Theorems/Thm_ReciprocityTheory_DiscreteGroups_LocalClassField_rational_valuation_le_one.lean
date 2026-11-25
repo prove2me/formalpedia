@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_rational_valuation_le_one
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.rational_valuation_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:00:47.245067+00:00
 -- url     : https://prove2.me/theorems/a2981137-0100-4bce-9d1b-ea8519c94c6a

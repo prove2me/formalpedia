@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalConnection_co_bracket
 -- name    : GlobalTheory.FormalConnection.co_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:37:25.691876+00:00
 -- url     : https://prove2.me/theorems/c1fed896-9003-4d35-a121-90e5005e5950

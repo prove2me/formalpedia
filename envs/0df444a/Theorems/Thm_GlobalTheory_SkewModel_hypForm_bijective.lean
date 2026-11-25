@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SkewModel_hypForm_bijective
 -- name    : GlobalTheory.SkewModel.hypForm_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:37:36.925423+00:00
 -- url     : https://prove2.me/theorems/f536382c-64cf-5759-beea-7541c14162ad

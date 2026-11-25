@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_KH_KrullDimensionPrincipalIdeal_isCM_atPrime_of_le
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.KH.KrullDimensionPrincipalIdeal.isCM_atPrime_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:01:38.462362+00:00
 -- url     : https://prove2.me/theorems/5c7b5170-5313-44d8-adee-3f6c49ef190d

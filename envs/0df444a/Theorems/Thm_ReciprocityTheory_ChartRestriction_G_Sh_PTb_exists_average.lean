@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_PTb_exists_average
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.PTb.exists_average
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:34:37.315064+00:00
 -- url     : https://prove2.me/theorems/dc925659-7a03-439b-871f-8ec4b646ca97

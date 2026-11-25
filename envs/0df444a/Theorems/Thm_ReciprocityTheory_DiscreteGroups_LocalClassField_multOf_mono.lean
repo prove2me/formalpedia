@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_multOf_mono
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.multOf_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:55:24.210789+00:00
 -- url     : https://prove2.me/theorems/85e40f2c-5d97-5733-a3fa-68a46ee49c39

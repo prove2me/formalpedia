@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_evl_dDot_zero
 -- name    : ReciprocityTheory.L2DbarEstimates.I.evl_dDot_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:59:53.023251+00:00
 -- url     : https://prove2.me/theorems/774bb0e0-9de3-510b-a689-8492036bca4a

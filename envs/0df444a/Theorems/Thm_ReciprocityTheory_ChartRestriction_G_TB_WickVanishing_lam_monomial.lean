@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_lam_monomial
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.lam_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:06:09.036858+00:00
 -- url     : https://prove2.me/theorems/9664268a-67c2-52f2-add2-368561ded1a9

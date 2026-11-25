@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_cyor_term_norm_le
 -- name    : ReciprocityTheory.Cheb.cyor_term_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:16:32.438857+00:00
 -- url     : https://prove2.me/theorems/7a41ac5f-49fc-43be-af7e-383e80703977

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_fracR_self
 -- name    : ReciprocityTheory.AnForm.R.fracR_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:01:57.788904+00:00
 -- url     : https://prove2.me/theorems/f232bfbf-14e1-4c34-ab2e-dd9aa7936e32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnitsFilt_Filt_hilbert90_matrix_subalgebra_norm_one
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnitsFilt.Filt.hilbert90_matrix_subalgebra_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:51:08.96915+00:00
 -- url     : https://prove2.me/theorems/e9b8706d-1ca7-44b5-b5e8-6a0967f2dae9

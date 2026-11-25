@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlueLineBundle_mem_of_mem_NU
 -- name    : GlobalTheory.GlueLineBundle.mem_of_mem_NU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:08:37.102947+00:00
 -- url     : https://prove2.me/theorems/4c8dbe82-4bb5-4112-a154-67355166fbc1

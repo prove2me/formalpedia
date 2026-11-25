@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_isLocalizedModule_tan
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.isLocalizedModule_tan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:02:57.53041+00:00
 -- url     : https://prove2.me/theorems/54c7e899-b2e0-59ee-acae-9888df127dd7

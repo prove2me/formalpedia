@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_integral_bumpProf
 -- name    : ReciprocityTheory.L2DbarEstimates.C.integral_bumpProf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:54:51.794306+00:00
 -- url     : https://prove2.me/theorems/c3d43e82-e37e-4f01-8c94-28e63aacb503

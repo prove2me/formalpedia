@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_shell_coef
 -- name    : ReciprocityTheory.L2DbarEstimates.F.shell_coef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:04:48.708884+00:00
 -- url     : https://prove2.me/theorems/6ae1092c-6b9b-44fa-a5f5-694fb106eee7

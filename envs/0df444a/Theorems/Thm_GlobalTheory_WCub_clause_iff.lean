@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WCub_clause_iff
 -- name    : GlobalTheory.WCub.clause_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:27:31.849407+00:00
 -- url     : https://prove2.me/theorems/d2170e96-fcca-41f8-b865-e963e012ef3a

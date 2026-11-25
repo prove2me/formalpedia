@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_rel_uniq_v
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.rel_uniq_v
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:04:38.796498+00:00
 -- url     : https://prove2.me/theorems/303beeab-3aee-527f-ad76-4061e1529e45

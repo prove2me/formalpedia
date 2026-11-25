@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_gen_of_refinement
 -- name    : GlobalTheory.exists_gen_of_refinement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:07:28.689937+00:00
 -- url     : https://prove2.me/theorems/f309c38c-2238-4f9e-96d3-f9885f6cb90b

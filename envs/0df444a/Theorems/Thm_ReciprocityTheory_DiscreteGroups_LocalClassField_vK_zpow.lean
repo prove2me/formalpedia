@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_vK_zpow
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.vK_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:01:50.444882+00:00
 -- url     : https://prove2.me/theorems/30cade8f-97d3-4592-ae2b-5b1988369a60

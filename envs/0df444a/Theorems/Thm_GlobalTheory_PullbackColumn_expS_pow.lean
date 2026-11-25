@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PullbackColumn_expS_pow
 -- name    : GlobalTheory.PullbackColumn.expS_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:26:38.031802+00:00
 -- url     : https://prove2.me/theorems/bf05ddca-62c0-4a5b-ad1e-187838403f8b

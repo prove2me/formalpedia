@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_gauss_bound
 -- name    : ReciprocityTheory.ChartRestriction.L1.gauss_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:21:03.234418+00:00
 -- url     : https://prove2.me/theorems/53e1207d-d6d9-42cb-84ad-fabf33bf0d7c

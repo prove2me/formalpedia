@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_E_hasCompactSupport_db
 -- name    : ReciprocityTheory.L2DbarEstimates.E.hasCompactSupport_db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:56:05.681921+00:00
 -- url     : https://prove2.me/theorems/85e8279b-c4a4-46c0-97f5-777bf6c13b52

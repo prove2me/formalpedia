@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_cocycle_identity_iso
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.cocycle_identity_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:29:21.190815+00:00
 -- url     : https://prove2.me/theorems/20193fc0-a5c9-4425-b13e-a349871bac7f

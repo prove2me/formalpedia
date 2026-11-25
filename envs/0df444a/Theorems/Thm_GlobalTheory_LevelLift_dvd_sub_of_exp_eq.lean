@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelLift_dvd_sub_of_exp_eq
 -- name    : GlobalTheory.LevelLift.dvd_sub_of_exp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:09:37.189638+00:00
 -- url     : https://prove2.me/theorems/ee40acfd-5580-4b38-a7c1-d7d178c6ac65

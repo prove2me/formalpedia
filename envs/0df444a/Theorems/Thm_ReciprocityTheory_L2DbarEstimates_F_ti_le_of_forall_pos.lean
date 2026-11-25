@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_ti_le_of_forall_pos
 -- name    : ReciprocityTheory.L2DbarEstimates.F.ti_le_of_forall_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:57:48.692597+00:00
 -- url     : https://prove2.me/theorems/157c61d6-0b7c-4b7d-8e25-d071da3a19d8

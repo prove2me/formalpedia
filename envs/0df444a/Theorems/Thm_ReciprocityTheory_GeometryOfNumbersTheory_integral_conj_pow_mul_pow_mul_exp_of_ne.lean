@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_integral_conj_pow_mul_pow_mul_exp_of_ne
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.integral_conj_pow_mul_pow_mul_exp_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:54:14.699939+00:00
 -- url     : https://prove2.me/theorems/ca391234-9281-4d7b-81c0-f94b95bd999a

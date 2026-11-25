@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubledSpace_existsUnique_glue
 -- name    : GlobalTheory.DoubledSpace.existsUnique_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:25:08.64258+00:00
 -- url     : https://prove2.me/theorems/8429e4a8-e31f-5956-ba65-588ad73c9209

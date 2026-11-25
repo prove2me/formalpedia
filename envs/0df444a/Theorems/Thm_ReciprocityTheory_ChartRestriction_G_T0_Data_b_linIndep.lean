@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_b_linIndep
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.b_linIndep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:09:46.616416+00:00
 -- url     : https://prove2.me/theorems/03a26cfb-19c6-5426-a396-9b63c5e98533

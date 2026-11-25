@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_NCA_normal_conjugation_hypothesis
 -- name    : PI.LevelKSplit.W.NCA.normal_conjugation_hypothesis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:33:35.456119+00:00
 -- url     : https://prove2.me/theorems/f8faf7a8-8349-42e7-85b7-2fe16dca7c51

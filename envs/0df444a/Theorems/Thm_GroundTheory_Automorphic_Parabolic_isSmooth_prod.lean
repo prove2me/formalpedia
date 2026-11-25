@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_isSmooth_prod
 -- name    : GroundTheory.Automorphic.Parabolic.isSmooth_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:32:41.653225+00:00
 -- url     : https://prove2.me/theorems/c09aa508-cbfb-46fe-afe7-96c65c83cba2

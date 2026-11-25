@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_card_dehom
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.card_dehom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:07:17.715335+00:00
 -- url     : https://prove2.me/theorems/70061a8e-db88-5d5a-b6a8-f24c6d85ecfc

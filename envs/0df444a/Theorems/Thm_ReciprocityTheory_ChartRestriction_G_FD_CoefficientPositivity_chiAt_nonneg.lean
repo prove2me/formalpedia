@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_CoefficientPositivity_chiAt_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.CoefficientPositivity.chiAt_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:13:23.597047+00:00
 -- url     : https://prove2.me/theorems/2b430807-3fee-4cbd-adc9-ed67f0bafe16

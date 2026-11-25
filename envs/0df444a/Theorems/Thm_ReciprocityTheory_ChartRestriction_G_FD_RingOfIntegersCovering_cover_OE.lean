@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_RingOfIntegersCovering_cover_OE
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.RingOfIntegersCovering.cover_OE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:22:14.851821+00:00
 -- url     : https://prove2.me/theorems/0aa54fcb-af17-57ab-afcd-b9cf55ee95f4

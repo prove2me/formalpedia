@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_av_point
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.av_point
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:30:59.04063+00:00
 -- url     : https://prove2.me/theorems/29f98132-dcfe-4aae-8b88-3d7d17fb9c5f

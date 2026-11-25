@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_cusp_coefficient_quantitative_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.cusp_coefficient_quantitative_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:27:25.907221+00:00
 -- url     : https://prove2.me/theorems/b13c2929-00c7-44cd-a17d-e3546e0ea7d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_LogPf_isUnit_det_jm
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.LogPf.isUnit_det_jm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:58:09.833205+00:00
 -- url     : https://prove2.me/theorems/78a464fb-c25b-47c2-886f-9668f60a5c70

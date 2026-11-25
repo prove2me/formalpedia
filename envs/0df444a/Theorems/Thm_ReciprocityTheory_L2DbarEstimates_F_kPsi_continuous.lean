@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_kPsi_continuous
 -- name    : ReciprocityTheory.L2DbarEstimates.F.kPsi_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:56:04.565015+00:00
 -- url     : https://prove2.me/theorems/7adfb714-b806-5078-b8e4-688b6c817fcd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldRestrictionTest_isIota_restrict
 -- name    : GlobalTheory.FieldRestrictionTest.isIota_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:40:41.279475+00:00
 -- url     : https://prove2.me/theorems/38ba482c-2249-59c9-bd6a-9ba046326f59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_fam_eq_on_class_of_eq
 -- name    : GlobalTheory.fam_eq_on_class_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:25:21.85926+00:00
 -- url     : https://prove2.me/theorems/c9e4545b-7f57-476f-a32a-14c15d7ba826

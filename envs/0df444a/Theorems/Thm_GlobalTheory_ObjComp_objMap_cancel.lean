@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ObjComp_objMap_cancel
 -- name    : GlobalTheory.ObjComp.objMap_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:47:25.990032+00:00
 -- url     : https://prove2.me/theorems/a99bb7ba-be2f-5a74-b165-4369deadeb2b

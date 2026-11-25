@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_residueFieldMap_finite_separable_of_tame
 -- name    : GlobalTheory.residueFieldMap_finite_separable_of_tame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:17:05.965511+00:00
 -- url     : https://prove2.me/theorems/20d3bfdd-cba0-4622-9ee2-1d8524d2abc9

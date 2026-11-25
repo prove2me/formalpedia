@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_DiffSmall_norm_l_pos
 -- name    : GlobalTheory.Cyc.DiffSmall.norm_l_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:06:21.186805+00:00
 -- url     : https://prove2.me/theorems/a1daa453-c9a9-43bb-ae30-3dcd831ee76a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_jetMapA_zR
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.jetMapA_zR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:46:22.720892+00:00
 -- url     : https://prove2.me/theorems/0f74901d-80fd-45ca-826d-81ba75b03d9e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_ses_smul
 -- name    : ReciprocityTheory.Coh.ses_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:58:31.840747+00:00
 -- url     : https://prove2.me/theorems/8e5c1ddd-7725-4148-b752-14d6c8d2ee9e

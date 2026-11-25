@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PureType_exists_isThetaUnif
 -- name    : GlobalTheory.PureType.exists_isThetaUnif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:00:52.95149+00:00
 -- url     : https://prove2.me/theorems/cec187ca-eaff-576b-baed-127f84cbc252

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalLift_hol_differentiableAt
 -- name    : GlobalTheory.LocalLift.hol_differentiableAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:23.630937+00:00
 -- url     : https://prove2.me/theorems/36558b62-c977-55a9-8e77-ad72aba1fd86

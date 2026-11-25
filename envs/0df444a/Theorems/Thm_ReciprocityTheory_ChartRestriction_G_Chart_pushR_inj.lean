@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_pushR_inj
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.pushR_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:48:21.066903+00:00
 -- url     : https://prove2.me/theorems/d55e183a-a3da-526c-a2ba-e579a89b7b84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_WA_isHermSemilocal_locRing
 -- name    : ReciprocityTheory.ChartRestriction.L3.WA.isHermSemilocal_locRing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:49:07.093451+00:00
 -- url     : https://prove2.me/theorems/3f2f6291-7cac-4923-a7c1-5640138a68bf

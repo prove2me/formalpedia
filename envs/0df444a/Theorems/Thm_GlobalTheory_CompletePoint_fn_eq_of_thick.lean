@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletePoint_fn_eq_of_thick
 -- name    : GlobalTheory.CompletePoint.fn_eq_of_thick
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:32:23.532341+00:00
 -- url     : https://prove2.me/theorems/62721d75-c4c0-59e0-acee-cf04ae49eac4

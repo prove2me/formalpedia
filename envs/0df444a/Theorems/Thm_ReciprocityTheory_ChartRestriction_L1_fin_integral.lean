@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_fin_integral
 -- name    : ReciprocityTheory.ChartRestriction.L1.fin_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:44:21.642082+00:00
 -- url     : https://prove2.me/theorems/d7a25edc-0c7e-57a0-ab6e-128333658ffe

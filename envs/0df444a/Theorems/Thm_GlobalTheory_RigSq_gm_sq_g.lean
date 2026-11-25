@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RigSq_gm_sq_g
 -- name    : GlobalTheory.RigSq.gm_sq_g
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:24:24.32783+00:00
 -- url     : https://prove2.me/theorems/85e9fe06-5c76-4b20-b96d-ba4586603b10

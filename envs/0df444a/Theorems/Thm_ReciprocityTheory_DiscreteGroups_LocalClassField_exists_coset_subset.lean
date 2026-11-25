@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_exists_coset_subset
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.exists_coset_subset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:07:51.758003+00:00
 -- url     : https://prove2.me/theorems/26f265ec-3090-40cc-ac17-8883b1054526

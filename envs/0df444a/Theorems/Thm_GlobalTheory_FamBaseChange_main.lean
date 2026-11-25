@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamBaseChange_main
 -- name    : GlobalTheory.FamBaseChange.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:24:43.293414+00:00
 -- url     : https://prove2.me/theorems/896c6851-2fe5-4cbe-9825-e9917a346bcb

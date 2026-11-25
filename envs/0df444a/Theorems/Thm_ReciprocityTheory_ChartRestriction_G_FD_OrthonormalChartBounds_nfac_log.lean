@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthonormalChartBounds_nfac_log
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthonormalChartBounds.nfac_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:19:47.946978+00:00
 -- url     : https://prove2.me/theorems/ca39d0aa-2805-4389-81f0-3f85a5a95ce3

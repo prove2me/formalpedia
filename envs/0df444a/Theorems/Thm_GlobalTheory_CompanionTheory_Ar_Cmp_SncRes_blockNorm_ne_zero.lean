@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_blockNorm_ne_zero
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.blockNorm_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:02:23.755943+00:00
 -- url     : https://prove2.me/theorems/50d3dd9c-90e7-55c7-8016-65f6cda68c93

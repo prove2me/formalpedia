@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtUnique_isMonHom_of_isGrpPullback
 -- name    : GlobalTheory.ExtUnique.isMonHom_of_isGrpPullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:43:31.997063+00:00
 -- url     : https://prove2.me/theorems/ea002f85-9b13-4d5d-805f-a4ab115d4df0

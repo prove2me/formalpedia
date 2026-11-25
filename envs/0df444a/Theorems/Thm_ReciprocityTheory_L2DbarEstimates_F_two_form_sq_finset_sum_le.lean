@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_two_form_sq_finset_sum_le
 -- name    : ReciprocityTheory.L2DbarEstimates.F.two_form_sq_finset_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:57:00.744957+00:00
 -- url     : https://prove2.me/theorems/1f148557-6da6-4946-a7cc-5a6f8a9ecdc7

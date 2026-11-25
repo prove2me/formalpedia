@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxCusp_Mmat_cong
 -- name    : GlobalTheory.MaxCusp.Mmat_cong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:34:46.659684+00:00
 -- url     : https://prove2.me/theorems/1bfe57b3-a830-4e6b-a602-963a59487fc5

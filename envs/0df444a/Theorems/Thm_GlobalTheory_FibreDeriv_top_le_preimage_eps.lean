@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreDeriv_top_le_preimage_eps
 -- name    : GlobalTheory.FibreDeriv.top_le_preimage_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:57:06.34428+00:00
 -- url     : https://prove2.me/theorems/564ad5d4-3cc3-4999-91b2-6b6ecf969d43

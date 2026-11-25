@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latticeEF_isIntConjAdj
 -- name    : GlobalTheory.latticeEF_isIntConjAdj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:38:48.190085+00:00
 -- url     : https://prove2.me/theorems/e1973c40-f75e-5288-9a5a-020c2c02f566

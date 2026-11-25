@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_hasSum_Tent_add_int
 -- name    : ReciprocityTheory.Cheb.hasSum_Tent_add_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:48:30.066292+00:00
 -- url     : https://prove2.me/theorems/8a4b2d30-530f-4c7c-9156-1ee651cc6069

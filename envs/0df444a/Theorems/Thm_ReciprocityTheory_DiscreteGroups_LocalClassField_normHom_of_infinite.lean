@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_normHom_of_infinite
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.normHom_of_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:54:56.85001+00:00
 -- url     : https://prove2.me/theorems/86c2b004-9ec7-5df3-9672-c6395af86e22

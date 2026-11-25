@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_SimplexSum_S_zero
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.SimplexSum.S_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:52:17.366149+00:00
 -- url     : https://prove2.me/theorems/8b349f85-a42a-570f-bb2d-bbfadf9f4e66

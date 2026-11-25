@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_chiPAux_sum_split
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.chiPAux_sum_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:53:47.793896+00:00
 -- url     : https://prove2.me/theorems/4c64ea2c-f6ce-5f0f-8f18-f27eb8925bb5

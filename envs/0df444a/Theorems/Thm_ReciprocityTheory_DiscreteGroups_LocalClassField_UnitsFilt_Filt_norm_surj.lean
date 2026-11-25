@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnitsFilt_Filt_norm_surj
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnitsFilt.Filt.norm_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:51:38.343049+00:00
 -- url     : https://prove2.me/theorems/609bc0a4-87dd-449a-897b-f6d9dd37a74a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_CCA_continuous_retr
 -- name    : ReciprocityTheory.Coh.CCA.continuous_retr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:49:20.683934+00:00
 -- url     : https://prove2.me/theorems/ff24961b-7193-4fca-b02e-2ce65884d6d0

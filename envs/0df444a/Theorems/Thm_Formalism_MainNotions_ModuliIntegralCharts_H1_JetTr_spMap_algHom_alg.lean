@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_JetTr_spMap_algHom_alg
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.JetTr.spMap_algHom_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:03:54.884486+00:00
 -- url     : https://prove2.me/theorems/b6d3d8dc-5f09-5183-bc8f-c36cb0d922f8

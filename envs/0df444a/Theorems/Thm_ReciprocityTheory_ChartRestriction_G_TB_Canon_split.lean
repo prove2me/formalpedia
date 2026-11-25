@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_Canon_split
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.Canon.split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:40:20.293218+00:00
 -- url     : https://prove2.me/theorems/db030f33-cf04-4012-b70e-747222c5052f

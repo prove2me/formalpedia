@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_UnivJets_idAt_homAt
 -- name    : GlobalTheory.PowGerm.UnivJets.idAt_homAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:57:19.032551+00:00
 -- url     : https://prove2.me/theorems/27c57a2b-d6ed-5d7e-99fb-ce5f8a774613

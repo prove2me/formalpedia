@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqGlue_nat_over
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqGlue.nat_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:39:18.915126+00:00
 -- url     : https://prove2.me/theorems/f264447b-f20e-5006-9d85-304c68a68569

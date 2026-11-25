@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_sec_mem_nonZeroDivisors
 -- name    : ReciprocityTheory.AnForm.R.sec_mem_nonZeroDivisors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:53:23.991799+00:00
 -- url     : https://prove2.me/theorems/5ca4de51-2e34-513a-9905-8f28cafc935d

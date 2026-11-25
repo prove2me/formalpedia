@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Norm_symmDiff_of_holoSection
 -- name    : ReciprocityTheory.L2DbarEstimates.Norm.symmDiff_of_holoSection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:00:21.441698+00:00
 -- url     : https://prove2.me/theorems/ab1e7a13-1457-5a92-814a-04053ec22d96

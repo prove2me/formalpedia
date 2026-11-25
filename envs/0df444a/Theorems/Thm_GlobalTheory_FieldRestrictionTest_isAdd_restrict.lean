@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldRestrictionTest_isAdd_restrict
 -- name    : GlobalTheory.FieldRestrictionTest.isAdd_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:39:14.700886+00:00
 -- url     : https://prove2.me/theorems/e52e66b7-787a-5cfa-9945-ceac5de7dc5e

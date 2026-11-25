@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Herbrand_half_hexagon
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Herbrand.half_hexagon
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:05:50.277704+00:00
 -- url     : https://prove2.me/theorems/fd32b155-91df-4be5-98bf-e43d406f44fa

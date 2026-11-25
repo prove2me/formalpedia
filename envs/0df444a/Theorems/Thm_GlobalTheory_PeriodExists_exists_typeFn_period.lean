@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodExists_exists_typeFn_period
 -- name    : GlobalTheory.PeriodExists.exists_typeFn_period
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:42:33.065849+00:00
 -- url     : https://prove2.me/theorems/c74da5bc-430e-4dac-8778-078cd65eb4a7

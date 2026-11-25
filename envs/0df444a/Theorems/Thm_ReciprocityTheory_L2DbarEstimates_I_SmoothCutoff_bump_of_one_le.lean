@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_SmoothCutoff_bump_of_one_le
 -- name    : ReciprocityTheory.L2DbarEstimates.I.SmoothCutoff.bump_of_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:57:01.431455+00:00
 -- url     : https://prove2.me/theorems/9dfb6949-91d2-4c9d-8fbd-ea5996ac8b56

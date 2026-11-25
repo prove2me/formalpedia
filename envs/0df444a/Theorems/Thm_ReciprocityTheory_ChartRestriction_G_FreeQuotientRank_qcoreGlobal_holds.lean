@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_qcoreGlobal_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.qcoreGlobal_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:25:50.947626+00:00
 -- url     : https://prove2.me/theorems/469eb59f-aa50-51cb-9bc8-9ce8c2358219

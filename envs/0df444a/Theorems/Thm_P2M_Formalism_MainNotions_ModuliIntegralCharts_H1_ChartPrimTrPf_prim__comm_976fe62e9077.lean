@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_ChartPrimTrPf_prim__comm_976fe62e9077
 -- name    : P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_ChartPrimTrPf_prim__comm_976fe62e9077
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:59:40.637286+00:00
 -- url     : https://prove2.me/theorems/8e629332-afdc-431c-8a5f-3b8fd705320d

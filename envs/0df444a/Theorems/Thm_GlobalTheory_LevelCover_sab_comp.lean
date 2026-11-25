@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelCover_sab_comp
 -- name    : GlobalTheory.LevelCover.sab_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:51:03.518272+00:00
 -- url     : https://prove2.me/theorems/132ce16b-a818-4e62-8cba-3ab0ad474537

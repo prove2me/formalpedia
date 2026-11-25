@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_extCh_le_one
 -- name    : ReciprocityTheory.L2DbarEstimates.C.extCh_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:53:47.645198+00:00
 -- url     : https://prove2.me/theorems/9099c618-54c4-4d44-a186-5ced701e089c

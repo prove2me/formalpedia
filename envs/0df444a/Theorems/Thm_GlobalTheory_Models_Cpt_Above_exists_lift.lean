@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_Cpt_Above_exists_lift
 -- name    : GlobalTheory.Models.Cpt.Above.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:03:16.482818+00:00
 -- url     : https://prove2.me/theorems/2dddb219-0008-49d8-837b-cdb5910ed092

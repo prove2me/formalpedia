@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ObjMaps_exists_sab_id
 -- name    : GlobalTheory.ObjMaps.exists_sab_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:48:24.926389+00:00
 -- url     : https://prove2.me/theorems/8e54b3ef-5650-4ebc-a912-8c6e146fe6cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_fm_coeff_star
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.fm_coeff_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:00:23.936559+00:00
 -- url     : https://prove2.me/theorems/97c59dda-82c6-4f09-8535-b1a3798bb3bb

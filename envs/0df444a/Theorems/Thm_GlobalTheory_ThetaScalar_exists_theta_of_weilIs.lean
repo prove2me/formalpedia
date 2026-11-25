@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaScalar_exists_theta_of_weilIs
 -- name    : GlobalTheory.ThetaScalar.exists_theta_of_weilIs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:07:41.644837+00:00
 -- url     : https://prove2.me/theorems/17883cf7-aed9-471f-a226-bd673982522e

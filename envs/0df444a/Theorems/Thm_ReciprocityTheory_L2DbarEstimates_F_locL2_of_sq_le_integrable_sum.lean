@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_locL2_of_sq_le_integrable_sum
 -- name    : ReciprocityTheory.L2DbarEstimates.F.locL2_of_sq_le_integrable_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:03:27.427799+00:00
 -- url     : https://prove2.me/theorems/5c7d61fa-cce5-5ee9-8c3f-d4c40e3ca5b9

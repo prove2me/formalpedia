@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_germ_expAdd_and_evConst
 -- name    : GlobalTheory.germ_expAdd_and_evConst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:14:21.56575+00:00
 -- url     : https://prove2.me/theorems/58405719-9ac5-47ec-81ff-05f8a3841186

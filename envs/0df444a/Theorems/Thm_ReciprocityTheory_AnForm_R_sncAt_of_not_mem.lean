@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_sncAt_of_not_mem
 -- name    : ReciprocityTheory.AnForm.R.sncAt_of_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:07:19.284096+00:00
 -- url     : https://prove2.me/theorems/eb25f0ab-eac8-44d3-8b91-53049eb9b6b0

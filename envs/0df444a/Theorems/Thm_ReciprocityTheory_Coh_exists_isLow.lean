@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_exists_isLow
 -- name    : ReciprocityTheory.Coh.exists_isLow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:58:31.398723+00:00
 -- url     : https://prove2.me/theorems/8000f6e5-2200-47b3-94cd-7b9c4771f8a5

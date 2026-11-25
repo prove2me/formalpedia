@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_R_exists_eval__chartCoord_95f51dd56702
 -- name    : P2M_ReciprocityTheory_AnForm_R_exists_eval__chartCoord_95f51dd56702
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:02:53.776546+00:00
 -- url     : https://prove2.me/theorems/0bb9da8d-fd58-4b39-94fc-8cae5b164ba7

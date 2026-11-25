@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Moduli_LevelAction_comp_eq_id_of_twists
 -- name    : GlobalTheory.Moduli.LevelAction.comp_eq_id_of_twists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:26:57.801441+00:00
 -- url     : https://prove2.me/theorems/e0488aa6-0641-489a-9b9a-64ca96741e18

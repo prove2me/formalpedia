@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PureType_period_rt_smul
 -- name    : GlobalTheory.PureType.period_rt_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:52:04.743885+00:00
 -- url     : https://prove2.me/theorems/088bd470-e748-5689-a275-2f87ac8f5bbc

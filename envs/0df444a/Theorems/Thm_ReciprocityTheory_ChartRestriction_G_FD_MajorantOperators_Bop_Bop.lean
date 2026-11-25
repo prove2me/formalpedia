@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_MajorantOperators_Bop_Bop
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.MajorantOperators.Bop_Bop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:18:56.623824+00:00
 -- url     : https://prove2.me/theorems/94095d6d-7d23-48dd-8512-3b019cf9ae80

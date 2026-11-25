@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_le_of_resK_le_of_norm
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.le_of_resK_le_of_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:52:58.595044+00:00
 -- url     : https://prove2.me/theorems/92779d0f-849e-57c4-a10f-ba5250c073a7

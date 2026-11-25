@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unitRes_top_injective
 -- name    : GlobalTheory.unitRes_top_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:59:30.498689+00:00
 -- url     : https://prove2.me/theorems/2398ba4f-9e2b-5855-9f51-bedc81ad2486

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_locality
 -- name    : ReciprocityTheory.L2DbarEstimates.F.locality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:56:41.750227+00:00
 -- url     : https://prove2.me/theorems/af931bc0-25e6-42ff-9d59-70215723334f

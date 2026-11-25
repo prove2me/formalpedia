@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_rootPoly_isCoprime_of_disjoint
 -- name    : ReciprocityTheory.ChartRestriction.L1.rootPoly_isCoprime_of_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:48:23.374424+00:00
 -- url     : https://prove2.me/theorems/71cde322-6163-4e31-838e-e963e6d0355c

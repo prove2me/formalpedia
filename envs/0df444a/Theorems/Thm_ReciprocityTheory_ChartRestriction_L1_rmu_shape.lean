@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_rmu_shape
 -- name    : ReciprocityTheory.ChartRestriction.L1.rmu_shape
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:46:33.498846+00:00
 -- url     : https://prove2.me/theorems/74d592c3-ea6c-4906-b0b1-2cc7d01db3a1

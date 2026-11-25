@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_norm_sq_le_two_form_sq
 -- name    : ReciprocityTheory.L2DbarEstimates.F.norm_sq_le_two_form_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:57:28.436341+00:00
 -- url     : https://prove2.me/theorems/c36ca7c9-7d71-4b9d-863e-e23947d15aea

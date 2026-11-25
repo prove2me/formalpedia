@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_gramSt_det_re_le_of_sub
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.gramSt_det_re_le_of_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:19:48.852182+00:00
 -- url     : https://prove2.me/theorems/3c24751e-ac27-4c9c-976e-0be6e5785b02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusExt_isZero_unique
 -- name    : GlobalTheory.TorusExt.isZero_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:40:47.736976+00:00
 -- url     : https://prove2.me/theorems/18f13679-6bf0-51f5-8473-b96781b7e11c

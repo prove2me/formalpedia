@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_TR_Weyl_sq_rho_surj
 -- name    : ReciprocityTheory.ChartRestriction.TR.Weyl.sq_rho_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:47:41.410348+00:00
 -- url     : https://prove2.me/theorems/bcd6ae5e-a10c-487b-9586-4dcb1372cd5c

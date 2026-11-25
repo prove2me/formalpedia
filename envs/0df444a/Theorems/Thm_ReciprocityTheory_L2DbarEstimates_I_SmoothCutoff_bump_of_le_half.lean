@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_SmoothCutoff_bump_of_le_half
 -- name    : ReciprocityTheory.L2DbarEstimates.I.SmoothCutoff.bump_of_le_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:57:01.898948+00:00
 -- url     : https://prove2.me/theorems/9af8b8bb-748e-47dd-b3b0-6b3671d0afe6

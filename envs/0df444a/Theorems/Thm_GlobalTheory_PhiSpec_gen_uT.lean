@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiSpec_gen_uT
 -- name    : GlobalTheory.PhiSpec.gen_uT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:45:02.124927+00:00
 -- url     : https://prove2.me/theorems/badd8eb2-284b-4b73-a546-29abb242f25d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_dens
 -- name    : ReciprocityTheory.L2DbarEstimates.F.dens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:55:27.619989+00:00
 -- url     : https://prove2.me/theorems/2ed4c212-d6bb-4a53-aff6-12a122752c45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartialBundleGlue_pull_isGen_of
 -- name    : GlobalTheory.PartialBundleGlue.pull_isGen_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:42:01.188596+00:00
 -- url     : https://prove2.me/theorems/4099d04a-ae03-480e-bcd3-fb94c54be737

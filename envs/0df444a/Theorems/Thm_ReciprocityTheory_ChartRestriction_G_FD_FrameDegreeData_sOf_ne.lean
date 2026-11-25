@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FrameDegreeData_sOf_ne
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FrameDegreeData.sOf_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:17:59.048398+00:00
 -- url     : https://prove2.me/theorems/f9e6c41a-9fe7-4d65-aa1e-0facbc44c3c7

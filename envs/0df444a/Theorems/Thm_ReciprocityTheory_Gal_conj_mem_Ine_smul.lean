@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_conj_mem_Ine_smul
 -- name    : ReciprocityTheory.Gal.conj_mem_Ine_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:52:14.740482+00:00
 -- url     : https://prove2.me/theorems/46e3f345-d915-5b2f-b481-165dcb99e5fa

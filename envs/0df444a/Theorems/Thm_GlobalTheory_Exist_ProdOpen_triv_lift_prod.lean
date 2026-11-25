@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Exist_ProdOpen_triv_lift_prod
 -- name    : GlobalTheory.Exist.ProdOpen.triv_lift_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:07:31.82506+00:00
 -- url     : https://prove2.me/theorems/fb5278cc-f6f3-4b7f-a0a5-7ebb1a1d2064

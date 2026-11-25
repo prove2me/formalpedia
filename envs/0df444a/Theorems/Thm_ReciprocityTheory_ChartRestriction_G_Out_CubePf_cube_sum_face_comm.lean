@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_CubePf_cube_sum_face_comm
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.CubePf.cube_sum_face_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:32:04.433919+00:00
 -- url     : https://prove2.me/theorems/c223e2f2-dc04-45c3-b7e2-0a2a008d2b1a

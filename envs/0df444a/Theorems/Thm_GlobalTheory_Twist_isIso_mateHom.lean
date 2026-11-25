@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Twist_isIso_mateHom
 -- name    : GlobalTheory.Twist.isIso_mateHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:09:53.231022+00:00
 -- url     : https://prove2.me/theorems/07ae7e1a-2168-4c7f-9503-1db80e86c3bd

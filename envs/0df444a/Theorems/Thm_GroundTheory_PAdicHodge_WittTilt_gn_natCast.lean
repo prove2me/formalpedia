@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittTilt_gn_natCast
 -- name    : GroundTheory.PAdicHodge.WittTilt.gn_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:49:04.235959+00:00
 -- url     : https://prove2.me/theorems/db1d3038-0c04-41fc-87ca-4892ba6c9ac1

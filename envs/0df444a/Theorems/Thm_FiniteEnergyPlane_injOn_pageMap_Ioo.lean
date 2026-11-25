@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_injOn_pageMap_Ioo
 -- name    : FiniteEnergyPlane.injOn_pageMap_Ioo
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-25T13:56:50.782035+00:00
 -- url     : https://prove2.me/theorems/6aa5a281-32d2-5126-947e-9ba23964df81

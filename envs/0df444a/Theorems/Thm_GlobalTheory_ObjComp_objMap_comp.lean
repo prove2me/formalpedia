@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ObjComp_objMap_comp
 -- name    : GlobalTheory.ObjComp.objMap_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:38:14.080208+00:00
 -- url     : https://prove2.me/theorems/f2b80621-de6e-558f-b409-c4ad9995e7fc

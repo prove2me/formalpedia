@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeDescent_gs_appLE
 -- name    : GlobalTheory.CubeDescent.gs_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:37.534154+00:00
 -- url     : https://prove2.me/theorems/047a89b3-d4fd-4afa-b9cb-d5d67791aae7

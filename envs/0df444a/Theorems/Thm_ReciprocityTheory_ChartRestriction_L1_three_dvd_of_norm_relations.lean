@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_three_dvd_of_norm_relations
 -- name    : ReciprocityTheory.ChartRestriction.L1.three_dvd_of_norm_relations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:52:46.214874+00:00
 -- url     : https://prove2.me/theorems/a20d740e-f025-50b8-b82d-13996987eb30

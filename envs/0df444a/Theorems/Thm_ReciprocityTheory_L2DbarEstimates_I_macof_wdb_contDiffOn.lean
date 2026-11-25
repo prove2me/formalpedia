@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_macof_wdb_contDiffOn
 -- name    : ReciprocityTheory.L2DbarEstimates.I.macof_wdb_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:59:37.819898+00:00
 -- url     : https://prove2.me/theorems/21f4e12c-6519-5d06-9ffa-a9fc52354bad

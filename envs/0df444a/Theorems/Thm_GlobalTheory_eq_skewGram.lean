@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_skewGram
 -- name    : GlobalTheory.eq_skewGram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:44:45.066196+00:00
 -- url     : https://prove2.me/theorems/1575901e-a290-5552-a8a3-f0aa624e5231

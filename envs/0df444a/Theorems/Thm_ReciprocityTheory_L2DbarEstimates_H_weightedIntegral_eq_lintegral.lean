@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_weightedIntegral_eq_lintegral
 -- name    : ReciprocityTheory.L2DbarEstimates.H.weightedIntegral_eq_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:58:04.537467+00:00
 -- url     : https://prove2.me/theorems/161be5c5-4474-5ee8-b4c5-3c1ec711a4c5

@@ -59240,7 +59240,7 @@
 {"parent": "GeneralPieces.Half.zz_eq", "child": "ClauseBound_Boson_HalfList", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.Half.zz_eq", "child": "GeneralPieces_Half_List", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_l_mesh_uniform_grid_intrinsic_test_difference_envelope", "child": "AvramDividend.Classical.avram_p2_l_mesh_uniform_all_negative_test_sum_envelope", "via": ["solution", "statement"]}
-{"parent": "FiniteEnergyPlane.exists_plane_open_book_of_page_foliation", "child": "FiniteEnergyPlane_OpenBook", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.exists_plane_open_book_of_page_foliation", "child": "FiniteEnergyPlane_OpenBook", "via": ["solution", "statement"]}
 {"parent": "VariableBound.Net.Basic.kind_cases", "child": "VariableBound_Net_Defs", "via": ["solution", "statement"]}
 {"parent": "VariableBound.Net.Basic.kind_cases", "child": "Groundwork.PolyT.length", "via": ["solution", "statement"]}
 {"parent": "VariableBound.Net.Basic.kind_cases", "child": "VariableBound_Net_Basic", "via": ["solution", "statement"]}

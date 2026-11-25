@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_algebraMap_reesChart_mem_nonZeroDivisors
 -- name    : ReciprocityTheory.AnForm.R.algebraMap_reesChart_mem_nonZeroDivisors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:01:37.849903+00:00
 -- url     : https://prove2.me/theorems/7773822c-b848-4ae5-917b-be23bd5ae4d6

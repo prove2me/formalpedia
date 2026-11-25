@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_height_add_height_maximal_quotient_field
 -- name    : ReciprocityTheory.CA.height_add_height_maximal_quotient_field
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:25:05.546275+00:00
 -- url     : https://prove2.me/theorems/06d26602-f825-410f-9998-7433ebfef435

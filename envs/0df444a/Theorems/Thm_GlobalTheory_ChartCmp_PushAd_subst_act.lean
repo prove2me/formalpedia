@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_PushAd_subst_act
 -- name    : GlobalTheory.ChartCmp.PushAd.subst_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:55:23.466557+00:00
 -- url     : https://prove2.me/theorems/f6ad8eaf-a123-5f85-9ce8-0f2ea7e6ae13

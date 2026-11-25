@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_TLinPf_hA
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.TLinPf.hA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:24:42.536797+00:00
 -- url     : https://prove2.me/theorems/636c0699-7a21-497e-b399-0593a1e4b674

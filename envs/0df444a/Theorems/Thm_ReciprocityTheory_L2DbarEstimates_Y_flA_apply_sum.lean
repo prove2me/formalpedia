@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_flA_apply_sum
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.flA_apply_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:00:45.696262+00:00
 -- url     : https://prove2.me/theorems/77ad1863-df3d-4108-a357-3a918b46b6ad

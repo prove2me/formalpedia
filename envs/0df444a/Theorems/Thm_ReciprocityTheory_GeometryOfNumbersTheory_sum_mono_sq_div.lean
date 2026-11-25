@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_sum_mono_sq_div
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.sum_mono_sq_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:54:58.003007+00:00
 -- url     : https://prove2.me/theorems/7f699d40-4825-4c2c-9151-07eed9c584d8

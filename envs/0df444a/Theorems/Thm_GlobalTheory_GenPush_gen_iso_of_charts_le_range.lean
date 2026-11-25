@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenPush_gen_iso_of_charts_le_range
 -- name    : GlobalTheory.GenPush.gen_iso_of_charts_le_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:53:44.66556+00:00
 -- url     : https://prove2.me/theorems/f5108c29-06bf-4588-bacc-b28073254af8

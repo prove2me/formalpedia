@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Deg2_descend2
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Deg2.descend2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:52:52.813325+00:00
 -- url     : https://prove2.me/theorems/be707834-c2aa-4666-9a27-50e96115d57e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxCusp_dmin_Zb
 -- name    : GlobalTheory.MaxCusp.dmin_Zb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:38:58.017134+00:00
 -- url     : https://prove2.me/theorems/d82c30dd-bc4e-5bb6-ba8e-1ab82149d073

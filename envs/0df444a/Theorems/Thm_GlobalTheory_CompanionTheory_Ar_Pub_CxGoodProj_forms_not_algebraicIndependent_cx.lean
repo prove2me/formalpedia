@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxGoodProj_forms_not_algebraicIndependent_cx
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxGoodProj.forms_not_algebraicIndependent_cx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:19:39.533175+00:00
 -- url     : https://prove2.me/theorems/be3a0d64-0f5a-44a0-9270-fb413ff26d30

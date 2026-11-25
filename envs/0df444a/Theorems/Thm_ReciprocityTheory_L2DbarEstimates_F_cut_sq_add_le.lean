@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_cut_sq_add_le
 -- name    : ReciprocityTheory.L2DbarEstimates.F.cut_sq_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:57:08.548409+00:00
 -- url     : https://prove2.me/theorems/f4e5c102-f27c-407f-8442-d5cdd20e7322

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_renPt_zero
 -- name    : ReciprocityTheory.AnForm.R.renPt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:50:19.977744+00:00
 -- url     : https://prove2.me/theorems/9bd02d5a-e934-5db1-8004-f788b6693837

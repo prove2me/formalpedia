@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaScalar_toStk_valF_gs
 -- name    : GlobalTheory.ThetaScalar.toStk_valF_gs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:43:50.958497+00:00
 -- url     : https://prove2.me/theorems/56205d52-6f58-472e-8d47-5f4660edf494

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_lintegral_dyadic_shell_bound
 -- name    : ReciprocityTheory.L2DbarEstimates.I.lintegral_dyadic_shell_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:57:56.792844+00:00
 -- url     : https://prove2.me/theorems/f2dba5e0-af69-4a34-a2a5-2d95df0c1215

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_llShift_contDiff
 -- name    : ReciprocityTheory.L2DbarEstimates.I.llShift_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:01:10.900815+00:00
 -- url     : https://prove2.me/theorems/bb2fb703-98f7-5cf0-9c5c-cfeb120720ae

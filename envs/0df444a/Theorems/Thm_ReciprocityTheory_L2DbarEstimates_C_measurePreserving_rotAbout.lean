@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_measurePreserving_rotAbout
 -- name    : ReciprocityTheory.L2DbarEstimates.C.measurePreserving_rotAbout
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:34:09.813828+00:00
 -- url     : https://prove2.me/theorems/f8bedd5f-f1c9-4df7-a45d-66c914040976

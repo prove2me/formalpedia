@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightVal_eq_zero_of_stalk_sum
 -- name    : GlobalTheory.WeightVal.eq_zero_of_stalk_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:35:16.602806+00:00
 -- url     : https://prove2.me/theorems/3aeb25a0-59ee-4cf7-a843-8a4a112388fb

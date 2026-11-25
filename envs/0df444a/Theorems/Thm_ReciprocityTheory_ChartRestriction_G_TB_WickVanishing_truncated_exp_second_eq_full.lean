@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_truncated_exp_second_eq_full
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.truncated_exp_second_eq_full
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:08:11.532894+00:00
 -- url     : https://prove2.me/theorems/dcc1346a-b046-4d67-be4d-e73ad246faa6

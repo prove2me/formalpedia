@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_exists_logDev_bound
 -- name    : ReciprocityTheory.Cheb.exists_logDev_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:47:51.069998+00:00
 -- url     : https://prove2.me/theorems/9957bab5-86db-511a-a712-dc58eaf8b25d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_regM_dbarDir_eq
 -- name    : ReciprocityTheory.L2DbarEstimates.F.regM_dbarDir_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:59:19.762235+00:00
 -- url     : https://prove2.me/theorems/e8ec89b0-2228-5ac4-8a79-49f7e99cd1bc

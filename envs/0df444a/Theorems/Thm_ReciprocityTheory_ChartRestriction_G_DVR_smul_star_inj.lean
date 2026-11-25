@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_smul_star_inj
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.smul_star_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:06:03.269375+00:00
 -- url     : https://prove2.me/theorems/830931b5-702c-58d0-8bd5-b2590aecdde9

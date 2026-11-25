@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isFullSymplecticLevelStructure_unique_of_levels
 -- name    : GlobalTheory.T.isFullSymplecticLevelStructure_unique_of_levels
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:48:51.923315+00:00
 -- url     : https://prove2.me/theorems/85867d53-40aa-474d-8922-908a4994d5d1

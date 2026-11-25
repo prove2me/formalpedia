@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_UnivJets_surj_of_sq
 -- name    : GlobalTheory.PowGerm.UnivJets.surj_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:06:36.445355+00:00
 -- url     : https://prove2.me/theorems/bbc38189-7956-5613-99d7-282486e3adab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sec_of_gen_diff
 -- name    : GlobalTheory.exists_sec_of_gen_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:41:30.548862+00:00
 -- url     : https://prove2.me/theorems/7b9160bf-318e-436e-9aaf-0f1ac0e05f09

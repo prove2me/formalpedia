@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_sum_blockWt_eval
 -- name    : ReciprocityTheory.AnForm.R.sum_blockWt_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:47:03.38147+00:00
 -- url     : https://prove2.me/theorems/57521495-5b9b-5685-b1ec-c59dd3fddd49

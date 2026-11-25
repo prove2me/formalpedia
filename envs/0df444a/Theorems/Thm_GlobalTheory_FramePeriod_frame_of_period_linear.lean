@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePeriod_frame_of_period_linear
 -- name    : GlobalTheory.FramePeriod.frame_of_period_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:51:07.501114+00:00
 -- url     : https://prove2.me/theorems/7301b59d-e9c5-4628-b976-7ed7de552034

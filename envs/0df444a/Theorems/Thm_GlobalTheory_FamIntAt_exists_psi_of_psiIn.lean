@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamIntAt_exists_psi_of_psiIn
 -- name    : GlobalTheory.FamIntAt.exists_psi_of_psiIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:20:14.925158+00:00
 -- url     : https://prove2.me/theorems/83e14c5d-bad6-44c3-baee-397103922d8e

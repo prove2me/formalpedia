@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConstFam_linearIndependent_of_isExtension
 -- name    : GlobalTheory.ConstFam.linearIndependent_of_isExtension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:08:05.354877+00:00
 -- url     : https://prove2.me/theorems/e09d1d3a-ed8d-481c-8512-7b7526ad9db9

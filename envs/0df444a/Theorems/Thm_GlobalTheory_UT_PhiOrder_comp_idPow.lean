@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_PhiOrder_comp_idPow
 -- name    : GlobalTheory.UT.PhiOrder.comp_idPow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:08:13.409491+00:00
 -- url     : https://prove2.me/theorems/6441bfa8-4120-4279-9ca8-9682d5f160d7
