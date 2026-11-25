@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordToExt_c_zero
 -- name    : GlobalTheory.CoordToExt.c_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:28:56.579583+00:00
 -- url     : https://prove2.me/theorems/e907e91c-92ac-4fe4-86a9-e380f0ce2f88

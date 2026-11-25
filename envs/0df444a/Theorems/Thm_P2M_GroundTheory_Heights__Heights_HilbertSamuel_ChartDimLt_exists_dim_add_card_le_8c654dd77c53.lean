@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ChartDimLt_exists_dim_add_card_le_8c654dd77c53
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ChartDimLt_exists_dim_add_card_le_8c654dd77c53
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:05:36.807808+00:00
 -- url     : https://prove2.me/theorems/eb3bdf7e-e68c-5905-bd8f-f8fb6e2c1104

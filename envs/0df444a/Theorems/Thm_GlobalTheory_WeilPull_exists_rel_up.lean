@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilPull_exists_rel_up
 -- name    : GlobalTheory.WeilPull.exists_rel_up
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:09:19.50538+00:00
 -- url     : https://prove2.me/theorems/17409b2d-6050-4459-ab74-d62a3fcda046

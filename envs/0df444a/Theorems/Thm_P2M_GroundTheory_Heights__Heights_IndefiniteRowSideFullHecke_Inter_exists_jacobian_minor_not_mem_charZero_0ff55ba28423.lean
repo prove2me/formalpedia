@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_exists_jacobian_minor_not_mem_charZero_0ff55ba28423
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_exists_jacobian_minor_not_mem_charZero_0ff55ba28423
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:28.593747+00:00
 -- url     : https://prove2.me/theorems/5f907b3d-e68f-4b5c-93eb-739f444dd2ec

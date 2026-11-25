@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilNoncomm_loc_twoCharts
 -- name    : GlobalTheory.WeilNoncomm.loc_twoCharts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:18:13.800805+00:00
 -- url     : https://prove2.me/theorems/a789aa58-8e36-5817-8c3d-fcf51e4fd443

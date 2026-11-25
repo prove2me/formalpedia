@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToricData_map_top_inj
 -- name    : GlobalTheory.ToricData.map_top_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:32:29.034305+00:00
 -- url     : https://prove2.me/theorems/c4005b45-bbbd-49ef-a4ce-7e93d7c4d458

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_gramSt_fin_blocks
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.gramSt_fin_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:19:48.529802+00:00
 -- url     : https://prove2.me/theorems/1fedbccb-da50-4c05-897d-bc41e6008d9c

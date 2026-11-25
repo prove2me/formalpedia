@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nonempty_torusExtension_of_isGt
 -- name    : GlobalTheory.nonempty_torusExtension_of_isGt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:40:56.937012+00:00
 -- url     : https://prove2.me/theorems/eb8471a9-0d8a-5c31-84a5-ac4cefe994e2

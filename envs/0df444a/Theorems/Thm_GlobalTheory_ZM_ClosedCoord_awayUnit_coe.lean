@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_ClosedCoord_awayUnit_coe
 -- name    : GlobalTheory.ZM.ClosedCoord.awayUnit_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:47:02.690578+00:00
 -- url     : https://prove2.me/theorems/762df991-965f-499a-9211-c721abb4fd33

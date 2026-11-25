@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocLift_isReduced_complex_tensor
 -- name    : GlobalTheory.LocLift.isReduced_complex_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:40:11.932181+00:00
 -- url     : https://prove2.me/theorems/2def868d-44a9-41b9-ae83-89cff168a57f

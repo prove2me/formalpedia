@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_sum_four_comm_bis
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.sum_four_comm_bis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:01:17.500836+00:00
 -- url     : https://prove2.me/theorems/553bce7d-a5a8-4207-80f4-db7d9bcec479

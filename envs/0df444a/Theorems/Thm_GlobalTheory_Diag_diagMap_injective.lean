@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_diagMap_injective
 -- name    : GlobalTheory.Diag.diagMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:07:04.268207+00:00
 -- url     : https://prove2.me/theorems/cc8a0cfd-a0fe-4d6e-9194-7a5d6cd562d3

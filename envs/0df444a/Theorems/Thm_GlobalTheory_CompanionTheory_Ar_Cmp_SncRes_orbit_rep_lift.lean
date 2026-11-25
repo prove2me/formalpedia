@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_orbit_rep_lift
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.orbit_rep_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:26:33.216333+00:00
 -- url     : https://prove2.me/theorems/15be3441-34fd-5f43-9646-65d344eb60df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuasiAffineTorus_appTop_eq_of_ev_eq
 -- name    : GlobalTheory.QuasiAffineTorus.appTop_eq_of_ev_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:43:50.684802+00:00
 -- url     : https://prove2.me/theorems/a4a1c454-34ea-4694-a1b5-399913f40235

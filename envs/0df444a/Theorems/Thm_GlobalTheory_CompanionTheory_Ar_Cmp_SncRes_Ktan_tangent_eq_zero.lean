@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Ktan_tangent_eq_zero
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Ktan.tangent_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:34:23.650414+00:00
 -- url     : https://prove2.me/theorems/5447161f-e1fd-554d-97ef-8ce63c9878fc

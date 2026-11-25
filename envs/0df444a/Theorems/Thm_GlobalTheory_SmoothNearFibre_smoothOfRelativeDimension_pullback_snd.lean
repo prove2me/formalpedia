@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothNearFibre_smoothOfRelativeDimension_pullback_snd
 -- name    : GlobalTheory.SmoothNearFibre.smoothOfRelativeDimension_pullback_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:41:47.444817+00:00
 -- url     : https://prove2.me/theorems/1cef27b4-2cff-4ece-b2cf-f9e2f5507312

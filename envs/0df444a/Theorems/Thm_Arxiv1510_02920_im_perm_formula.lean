@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1510_02920_im_perm_formula
 -- name    : Arxiv1510_02920.im_perm_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:09:17.113367+00:00
 -- url     : https://prove2.me/theorems/7f00e759-8014-4365-8bd5-87c9eaae49df

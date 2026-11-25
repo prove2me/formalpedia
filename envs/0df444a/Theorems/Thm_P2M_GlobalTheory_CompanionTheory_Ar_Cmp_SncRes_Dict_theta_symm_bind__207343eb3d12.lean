@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Dict_theta_symm_bind__207343eb3d12
 -- name    : P2M_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Dict_theta_symm_bind__207343eb3d12
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:21:27.82891+00:00
 -- url     : https://prove2.me/theorems/07829af4-449f-45f0-8b00-42a749b30d8b

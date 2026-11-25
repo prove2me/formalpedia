@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelLift_exists_lattice_lift
 -- name    : GlobalTheory.LevelLift.exists_lattice_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:16:43.549557+00:00
 -- url     : https://prove2.me/theorems/00a5cf1a-1d63-5b30-8625-6ad51c21213f

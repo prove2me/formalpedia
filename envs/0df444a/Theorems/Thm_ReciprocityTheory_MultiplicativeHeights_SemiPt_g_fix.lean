@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_g_fix
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.g_fix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:13:17.326635+00:00
 -- url     : https://prove2.me/theorems/9b7e5357-ebf9-4f46-810c-9a732688acaa

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for syracuse_nontrivial_period_coordinates_at_1241513984
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @FormallyCorrect
 -- created : 2026-11-25T14:42:46.156718+00:00
 -- url     : https://prove2.me/submissions/69c974c0-5b5a-4ea1-89b7-79787232527c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_syracuse_no_cycle_below_1241513984
 import Theorems.Thm_syracuse_periodic_reaches_one

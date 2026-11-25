@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_mem_fixJStab
 -- name    : ReciprocityTheory.ChartRestriction.L1.mem_fixJStab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:45:22.126516+00:00
 -- url     : https://prove2.me/theorems/b55e1811-d86c-439c-99dd-d41442354383

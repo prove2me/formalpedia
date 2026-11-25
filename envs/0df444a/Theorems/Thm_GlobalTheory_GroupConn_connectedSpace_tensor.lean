@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GroupConn_connectedSpace_tensor
 -- name    : GlobalTheory.GroupConn.connectedSpace_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:29:51.785143+00:00
 -- url     : https://prove2.me/theorems/66fcca45-facf-4b80-a788-3d39168f54fb

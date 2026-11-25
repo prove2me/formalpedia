@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DescTheta_nonvanishing_iso
 -- name    : GlobalTheory.DescTheta.nonvanishing_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:42:11.116791+00:00
 -- url     : https://prove2.me/theorems/90f718a4-69fa-5852-aaa2-95e2f2942b8c

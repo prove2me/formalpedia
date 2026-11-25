@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_splitFibres_descend_of_tame_quotient
 -- name    : GlobalTheory.splitFibres_descend_of_tame_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:22:44.1365+00:00
 -- url     : https://prove2.me/theorems/3dd9acef-51db-446a-98cc-ee5142fc9642

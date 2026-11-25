@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCoordPull_exists_pmaps
 -- name    : GlobalTheory.TorusCoordPull.exists_pmaps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:23:43.423147+00:00
 -- url     : https://prove2.me/theorems/63b97e82-c6cc-42e2-9375-8a3f43333437

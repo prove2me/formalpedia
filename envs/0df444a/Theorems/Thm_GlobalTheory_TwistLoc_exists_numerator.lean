@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistLoc_exists_numerator
 -- name    : GlobalTheory.TwistLoc.exists_numerator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:17:17.911345+00:00
 -- url     : https://prove2.me/theorems/b4c7e4c0-68e3-48ae-93c7-256cb9bf73eb

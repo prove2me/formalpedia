@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagMahler_finite_types
 -- name    : GlobalTheory.FlagMahler.finite_types
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:59:21.401509+00:00
 -- url     : https://prove2.me/theorems/9b67fd8e-ca4e-5ece-9bd7-f71bddf6f262

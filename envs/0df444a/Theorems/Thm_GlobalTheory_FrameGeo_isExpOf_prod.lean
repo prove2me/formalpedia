@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameGeo_isExpOf_prod
 -- name    : GlobalTheory.FrameGeo.isExpOf_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:37:56.171467+00:00
 -- url     : https://prove2.me/theorems/e3c4475a-e65f-4364-98c3-4391f7959112

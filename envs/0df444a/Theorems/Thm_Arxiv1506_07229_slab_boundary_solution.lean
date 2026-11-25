@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1506_07229_slab_boundary_solution
 -- name    : Arxiv1506_07229.slab_boundary_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:05:18.565263+00:00
 -- url     : https://prove2.me/theorems/8851f530-3e07-4583-866b-633c48021c84

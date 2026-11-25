@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IntegerToRational_dim_le_of_charP
 -- name    : ReciprocityTheory.AnForm.R.IntegerToRational.dim_le_of_charP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:04:47.624092+00:00
 -- url     : https://prove2.me/theorems/09c0cc7b-19f6-4299-8123-0ae49ec5d9ea

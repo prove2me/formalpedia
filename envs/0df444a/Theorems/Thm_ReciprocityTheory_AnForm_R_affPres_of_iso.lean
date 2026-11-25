@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_affPres_of_iso
 -- name    : ReciprocityTheory.AnForm.R.affPres_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:42:52.860257+00:00
 -- url     : https://prove2.me/theorems/cfd7e429-4bd0-408b-bf8a-9401065cbe23

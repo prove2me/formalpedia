@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_mu_singleton
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.mu_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:03:09.15797+00:00
 -- url     : https://prove2.me/theorems/4127b477-572c-4f0d-a623-059455cb76be

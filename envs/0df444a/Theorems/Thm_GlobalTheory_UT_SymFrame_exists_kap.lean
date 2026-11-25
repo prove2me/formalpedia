@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_SymFrame_exists_kap
 -- name    : GlobalTheory.UT.SymFrame.exists_kap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:08:07.749828+00:00
 -- url     : https://prove2.me/theorems/d68ffe37-482f-4e48-80a2-ab9dffb5f03f

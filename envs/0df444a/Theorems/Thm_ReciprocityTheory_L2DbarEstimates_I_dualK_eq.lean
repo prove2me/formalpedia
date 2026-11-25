@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_dualK_eq
 -- name    : ReciprocityTheory.L2DbarEstimates.I.dualK_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:31:48.927846+00:00
 -- url     : https://prove2.me/theorems/36917549-8352-4f03-9201-a0888d569277

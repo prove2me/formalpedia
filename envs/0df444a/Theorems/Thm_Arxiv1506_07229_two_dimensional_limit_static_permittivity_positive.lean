@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1506_07229_two_dimensional_limit_static_permittivity_positive
 -- name    : Arxiv1506_07229.two_dimensional_limit_static_permittivity_positive
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:06:58.706078+00:00
 -- url     : https://prove2.me/theorems/7e547d81-d503-4d26-abf2-882469f1647a

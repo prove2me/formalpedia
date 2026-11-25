@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetExtend_lieMult_fibre
 -- name    : GlobalTheory.DetExtend.lieMult_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:36:31.9164+00:00
 -- url     : https://prove2.me/theorems/e8f21977-46ad-429a-8335-921d9874a125

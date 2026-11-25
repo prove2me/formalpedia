@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_DegAdd_relIndex_ne_zero_of_fg
 -- name    : ReciprocityTheory.MultiplicativeHeights.DegAdd.relIndex_ne_zero_of_fg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:31.555781+00:00
 -- url     : https://prove2.me/theorems/d73c3114-0215-41e0-94e5-8988627a2b08

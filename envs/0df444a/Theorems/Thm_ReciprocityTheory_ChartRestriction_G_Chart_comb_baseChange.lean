@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_comb_baseChange
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.comb_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:44:16.616382+00:00
 -- url     : https://prove2.me/theorems/6767b16a-7b75-420d-8ae2-1da659a0a434

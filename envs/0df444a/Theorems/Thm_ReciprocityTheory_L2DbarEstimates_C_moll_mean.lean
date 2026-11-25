@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_moll_mean
 -- name    : ReciprocityTheory.L2DbarEstimates.C.moll_mean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:01:16.430096+00:00
 -- url     : https://prove2.me/theorems/454092dc-4281-5a0b-8d7e-c41072bc1de7

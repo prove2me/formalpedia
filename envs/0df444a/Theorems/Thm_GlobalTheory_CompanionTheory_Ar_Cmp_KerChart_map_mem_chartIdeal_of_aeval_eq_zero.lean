@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_KerChart_map_mem_chartIdeal_of_aeval_eq_zero
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.KerChart.map_mem_chartIdeal_of_aeval_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:17:15.409977+00:00
 -- url     : https://prove2.me/theorems/ce3ec798-6fa2-4688-9f59-a69901e7fd7b

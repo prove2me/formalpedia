@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_WtRat_appLE_wtDefect
 -- name    : GlobalTheory.SS.WtRat.appLE_wtDefect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:45:27.014808+00:00
 -- url     : https://prove2.me/theorems/60d05479-fd4e-4204-ba1c-f777ab85b93d

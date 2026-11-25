@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_PlaceTrivialOrPositive
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.PlaceTrivialOrPositive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:44:23.747894+00:00
 -- url     : https://prove2.me/theorems/f77541ce-f4bc-4fe9-8c72-0d394bfd8e66

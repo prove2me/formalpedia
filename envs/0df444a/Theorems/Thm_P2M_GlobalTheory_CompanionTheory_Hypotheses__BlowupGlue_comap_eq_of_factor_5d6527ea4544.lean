@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__BlowupGlue_comap_eq_of_factor_5d6527ea4544
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__BlowupGlue_comap_eq_of_factor_5d6527ea4544
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:43:36.671473+00:00
 -- url     : https://prove2.me/theorems/071e3e8c-c4f3-4588-bfed-d54c2ea8f3d7

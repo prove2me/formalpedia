@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_orthonormalFlagTranslate_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.orthonormalFlagTranslate_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:32:44.831267+00:00
 -- url     : https://prove2.me/theorems/c9c9d8ae-ef38-4684-8a63-d92718938b99

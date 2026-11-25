@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszTheta_indepNum_strongPow_le
 -- name    : LovaszTheta.indepNum_strongPow_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:37:17.186172+00:00
 -- url     : https://prove2.me/theorems/61a355ad-da95-40f5-bab7-014920c3847d

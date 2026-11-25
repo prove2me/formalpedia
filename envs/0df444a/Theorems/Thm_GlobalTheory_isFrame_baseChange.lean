@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isFrame_baseChange
 -- name    : GlobalTheory.isFrame_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:57:02.739896+00:00
 -- url     : https://prove2.me/theorems/8a96a09b-e784-4302-907d-0383bec36943

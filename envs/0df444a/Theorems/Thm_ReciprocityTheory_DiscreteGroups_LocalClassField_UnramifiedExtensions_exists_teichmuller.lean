@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_UnramifiedExtensions_exists_teichmuller
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.UnramifiedExtensions.exists_teichmuller
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:07.7846+00:00
 -- url     : https://prove2.me/theorems/68c04a37-a5f4-46b7-930f-d4c249c777e3

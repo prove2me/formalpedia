@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_flat_mulN
 -- name    : GlobalTheory.Diag.flat_mulN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:07:10.291396+00:00
 -- url     : https://prove2.me/theorems/a2c7b0b6-3dc9-47eb-bfb7-1d1c3d209126

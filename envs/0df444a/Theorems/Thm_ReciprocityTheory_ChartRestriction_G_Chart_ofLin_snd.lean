@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_ofLin_snd
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.ofLin_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:51:04.305535+00:00
 -- url     : https://prove2.me/theorems/6d81dd5e-ab89-4f5b-b052-df90f7b63a32

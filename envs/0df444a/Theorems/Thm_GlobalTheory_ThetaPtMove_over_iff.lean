@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtMove_over_iff
 -- name    : GlobalTheory.ThetaPtMove.over_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:36:31.91806+00:00
 -- url     : https://prove2.me/theorems/2dc95324-d943-4809-9078-b0e2bd7cb54a

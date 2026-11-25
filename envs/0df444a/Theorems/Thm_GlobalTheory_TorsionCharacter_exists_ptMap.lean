@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCharacter_exists_ptMap
 -- name    : GlobalTheory.TorsionCharacter.exists_ptMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:46:02.035319+00:00
 -- url     : https://prove2.me/theorems/b0091ee8-8a13-4d5f-8953-e287f25e8774

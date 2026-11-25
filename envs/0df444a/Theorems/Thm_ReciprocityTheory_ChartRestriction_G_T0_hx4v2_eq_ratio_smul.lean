@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_hx4v2_eq_ratio_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.hx4v2_eq_ratio_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:38:20.370871+00:00
 -- url     : https://prove2.me/theorems/18258199-4b17-4bb0-b22d-b42542060592

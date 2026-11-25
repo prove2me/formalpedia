@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_tail_sum_finset_prod_two_mul_div_sq
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.tail_sum_finset_prod_two_mul_div_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:53:59.650213+00:00
 -- url     : https://prove2.me/theorems/b1c1c761-6470-4ca8-9b0b-fc398ed080a7

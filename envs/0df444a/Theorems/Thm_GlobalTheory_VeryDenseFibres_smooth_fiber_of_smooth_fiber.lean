@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VeryDenseFibres_smooth_fiber_of_smooth_fiber
 -- name    : GlobalTheory.VeryDenseFibres.smooth_fiber_of_smooth_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:40:37.278561+00:00
 -- url     : https://prove2.me/theorems/5350b2c7-1450-5d57-8431-6673a4ecf2fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordToExt_exists_iso
 -- name    : GlobalTheory.CoordToExt.exists_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:36:01.88043+00:00
 -- url     : https://prove2.me/theorems/1d535e34-9093-4af4-b401-f700af99e9bd

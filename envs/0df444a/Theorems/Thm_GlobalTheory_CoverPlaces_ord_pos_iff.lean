@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverPlaces_ord_pos_iff
 -- name    : GlobalTheory.CoverPlaces.ord_pos_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:40:29.043152+00:00
 -- url     : https://prove2.me/theorems/c689e0df-1b3d-4acf-b074-41d3fbb9e81c

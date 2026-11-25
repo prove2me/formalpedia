@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_submoduleMulLeftImage_integralClosure_of_separable
 -- name    : GlobalTheory.T.eq_submoduleMulLeftImage_integralClosure_of_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:26:25.161872+00:00
 -- url     : https://prove2.me/theorems/9c50679e-effc-44e4-98b4-c743748cbc0e

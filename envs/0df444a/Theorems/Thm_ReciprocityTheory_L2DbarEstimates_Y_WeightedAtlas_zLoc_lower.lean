@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_zLoc_lower
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.zLoc_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:00:57.609995+00:00
 -- url     : https://prove2.me/theorems/e713dac6-329d-55e2-851f-606d80c79ca7

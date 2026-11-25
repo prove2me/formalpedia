@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_gaugeUniq_of_global
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.gaugeUniq_of_global
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:03:07.800608+00:00
 -- url     : https://prove2.me/theorems/1c75b7c8-deb5-495d-92b9-e215e18ff44a

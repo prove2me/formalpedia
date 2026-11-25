@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_llLog_deriv2
 -- name    : ReciprocityTheory.L2DbarEstimates.I.llLog_deriv2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:59:51.305371+00:00
 -- url     : https://prove2.me/theorems/67f6c746-8c7e-503d-976e-a2b25ec81a8b

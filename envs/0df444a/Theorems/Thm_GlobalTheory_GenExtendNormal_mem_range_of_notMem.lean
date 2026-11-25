@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenExtendNormal_mem_range_of_notMem
 -- name    : GlobalTheory.GenExtendNormal.mem_range_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:52:26.572692+00:00
 -- url     : https://prove2.me/theorems/7b4dc22b-40bd-41d2-8c27-d29e0370cc22

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_hasSum_absNorm_rpow_ideal
 -- name    : ReciprocityTheory.Cheb.hasSum_absNorm_rpow_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:48:55.494155+00:00
 -- url     : https://prove2.me/theorems/43d53972-da96-470c-8d0a-9ff8a23f140c

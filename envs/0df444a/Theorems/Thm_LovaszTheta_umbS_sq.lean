@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszTheta_umbS_sq
 -- name    : LovaszTheta.umbS_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:47:14.1539+00:00
 -- url     : https://prove2.me/theorems/745a5ba0-2fc8-44b1-a2e6-9a07ff0efb51

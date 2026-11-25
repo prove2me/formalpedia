@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_formalGroup_nsmul_estimate
 -- name    : ReciprocityTheory.ChartRestriction.L1.formalGroup_nsmul_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:49:57.221896+00:00
 -- url     : https://prove2.me/theorems/b1e82045-a2be-4f9f-b692-3edd4f4b2ea1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_LocalMaximumSecondDerivative_snd_nonpos_of_isLocalMax
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.LocalMaximumSecondDerivative.snd_nonpos_of_isLocalMax
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:59:40.306792+00:00
 -- url     : https://prove2.me/theorems/c192ccdc-af34-4b67-95f1-715f21deb62f

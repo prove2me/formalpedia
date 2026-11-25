@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_no_line
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.no_line
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:14:29.614857+00:00
 -- url     : https://prove2.me/theorems/f46d5f30-8f40-463d-8b63-23c819c20c3d

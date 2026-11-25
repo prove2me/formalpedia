@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_RealTangentSpace_phi_val
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.RealTangentSpace.phi_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:44:47.583171+00:00
 -- url     : https://prove2.me/theorems/d53b7173-e868-55bf-8f2a-5760db1ce974

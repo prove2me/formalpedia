@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_IntTrans_core
 -- name    : GlobalTheory.JetSer.IntTrans.core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:41:12.107965+00:00
 -- url     : https://prove2.me/theorems/681cbc70-fc1d-420c-85c4-1f8d800f9415

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_ehold_summable
 -- name    : ReciprocityTheory.Cheb.ehold_summable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:16:15.864682+00:00
 -- url     : https://prove2.me/theorems/c16cdf26-a323-4a14-a8ad-64bb5dbc6bac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistedTheta_sections_equiv_anArc_theta
 -- name    : GlobalTheory.TwistedTheta.sections_equiv_anArc_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:10:03.683214+00:00
 -- url     : https://prove2.me/theorems/9feb3094-df8a-4c15-8ae2-c75055391ff9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_gsv_inj
 -- name    : Formalism.L2.Pj.gsv_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:35:52.782186+00:00
 -- url     : https://prove2.me/theorems/16c77ef6-05d8-4a2c-8de5-2609a5e7bd06

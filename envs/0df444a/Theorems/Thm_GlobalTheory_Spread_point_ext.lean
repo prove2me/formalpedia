@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Spread_point_ext
 -- name    : GlobalTheory.Spread.point_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:36:36.716792+00:00
 -- url     : https://prove2.me/theorems/ec919dd8-215a-4072-a003-16cb64af8dff

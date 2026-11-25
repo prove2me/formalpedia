@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_det_map_hom
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.det_map_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:03:28.494832+00:00
 -- url     : https://prove2.me/theorems/b7fbb1de-6c3b-5a58-ae4d-cd4452a05690

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_PushAd_exists_carried
 -- name    : GlobalTheory.ChartCmp.PushAd.exists_carried
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:44:38.615597+00:00
 -- url     : https://prove2.me/theorems/3af3e1e0-9064-5ba8-bec4-7386bc926436

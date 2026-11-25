@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_PrimeRead_aeval_eq_image
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.PrimeRead.aeval_eq_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:36:06.752637+00:00
 -- url     : https://prove2.me/theorems/378f7247-aeeb-4ee2-8c86-12ed0d10726f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifEigenRank_finrank_of_existsUnique
 -- name    : GlobalTheory.UnifEigenRank.finrank_of_existsUnique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:39:42.907401+00:00
 -- url     : https://prove2.me/theorems/2fc8fc3c-ff3b-4a44-ab75-ca081dcb9de0

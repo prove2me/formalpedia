@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_circPt_injOn
 -- name    : ReciprocityTheory.MultiplicativeHeights.circPt_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:04:03.463956+00:00
 -- url     : https://prove2.me/theorems/e80f291f-3682-4835-ab05-26867e50836d

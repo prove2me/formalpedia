@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ModeHalfB_nmat_cont
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ModeHalfB.nmat_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:45:49.425583+00:00
 -- url     : https://prove2.me/theorems/909fe895-44ce-5a80-b1df-a993ae706e5a

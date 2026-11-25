@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpFamRel_eq_down
 -- name    : GlobalTheory.SharpFamRel.eq_down
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:44:08.714457+00:00
 -- url     : https://prove2.me/theorems/99d7e518-f43f-4ad1-b25d-4280bd8991a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Glob_InertiaLift_exists_inertia_lift
 -- name    : GlobalTheory.CompanionTheory.Glob.InertiaLift.exists_inertia_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:50:57.768822+00:00
 -- url     : https://prove2.me/theorems/6a40f672-f3f0-579c-aa52-43deffaf73df

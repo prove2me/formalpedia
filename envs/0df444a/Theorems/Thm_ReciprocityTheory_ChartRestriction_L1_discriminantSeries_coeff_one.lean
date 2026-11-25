@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_discriminantSeries_coeff_one
 -- name    : ReciprocityTheory.ChartRestriction.L1.discriminantSeries_coeff_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:43:50.211446+00:00
 -- url     : https://prove2.me/theorems/47b9fa71-a5e2-4771-b7d1-62e3b292fe01

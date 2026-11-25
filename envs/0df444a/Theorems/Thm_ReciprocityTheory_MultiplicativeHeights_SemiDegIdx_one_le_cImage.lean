@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiDegIdx_one_le_cImage
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiDegIdx.one_le_cImage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:01:54.338639+00:00
 -- url     : https://prove2.me/theorems/45890500-cbf5-467c-9b40-4f730029882b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Sig_exists_compIdeal_eq
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Sig.exists_compIdeal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:47:49.812897+00:00
 -- url     : https://prove2.me/theorems/1da04d38-0b52-4971-8e9d-855eb7089337

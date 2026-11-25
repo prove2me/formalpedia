@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_covariantDerivative_value_character_germs
 -- name    : GlobalTheory.T.covariantDerivative_value_character_germs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:19:07.227994+00:00
 -- url     : https://prove2.me/theorems/22efef34-c5db-424e-a66c-620914535b16

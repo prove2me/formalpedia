@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_coord_ne_zero_of_free
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.coord_ne_zero_of_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:31:44.856901+00:00
 -- url     : https://prove2.me/theorems/5185618a-8ec8-5597-b5bd-ded31042f3f3

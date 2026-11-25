@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Dehom_isHomogeneous_pow
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Dehom.isHomogeneous_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:43:02.138862+00:00
 -- url     : https://prove2.me/theorems/5d936d2d-ad92-5011-a261-1d947708eca4

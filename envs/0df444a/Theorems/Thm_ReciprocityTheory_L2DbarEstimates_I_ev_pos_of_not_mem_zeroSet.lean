@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_ev_pos_of_not_mem_zeroSet
 -- name    : ReciprocityTheory.L2DbarEstimates.I.ev_pos_of_not_mem_zeroSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:57:34.772774+00:00
 -- url     : https://prove2.me/theorems/618fecd1-2d91-5e27-a116-090e0d9f04f4

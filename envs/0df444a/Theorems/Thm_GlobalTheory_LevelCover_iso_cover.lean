@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelCover_iso_cover
 -- name    : GlobalTheory.LevelCover.iso_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:34.848994+00:00
 -- url     : https://prove2.me/theorems/27e6742b-4340-4a9f-b96d-766ae0c17f66

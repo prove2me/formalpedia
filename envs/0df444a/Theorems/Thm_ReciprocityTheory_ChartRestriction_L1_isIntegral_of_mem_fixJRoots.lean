@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_isIntegral_of_mem_fixJRoots
 -- name    : ReciprocityTheory.ChartRestriction.L1.isIntegral_of_mem_fixJRoots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:31:35.095318+00:00
 -- url     : https://prove2.me/theorems/e6e562a8-0cad-4ff4-aa4b-454d21c40ec7

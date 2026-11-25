@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VeryDenseFibres_eq_top_of_forall_mem
 -- name    : GlobalTheory.VeryDenseFibres.eq_top_of_forall_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:41:19.994679+00:00
 -- url     : https://prove2.me/theorems/a500badd-46ed-5e02-8128-a6366ad6a276

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeneratorLaw_constr_basis
 -- name    : GlobalTheory.GeneratorLaw.constr_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:34:52.054851+00:00
 -- url     : https://prove2.me/theorems/5cee1bf4-498b-41cb-9007-3a6f80184a3b

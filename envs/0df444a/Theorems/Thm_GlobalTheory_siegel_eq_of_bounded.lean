@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_siegel_eq_of_bounded
 -- name    : GlobalTheory.siegel_eq_of_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:21:03.246333+00:00
 -- url     : https://prove2.me/theorems/4ec99e3b-f938-4639-a389-e790bc85e178

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_isRegularLocalRing_of_jacobian
 -- name    : ReciprocityTheory.AnForm.R.isRegularLocalRing_of_jacobian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:56:35.79875+00:00
 -- url     : https://prove2.me/theorems/d568fe69-b2c6-4ffb-8bd8-c8cb3b436036

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiDegIdx_consZero_mem_intVec
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiDegIdx.consZero_mem_intVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:01:53.659341+00:00
 -- url     : https://prove2.me/theorems/9ed7fb90-2800-4745-8701-bb86328eb321

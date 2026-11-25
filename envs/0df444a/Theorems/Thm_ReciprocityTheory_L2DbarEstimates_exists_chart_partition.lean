@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_exists_chart_partition
 -- name    : ReciprocityTheory.L2DbarEstimates.exists_chart_partition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:20:37.511009+00:00
 -- url     : https://prove2.me/theorems/84330c8f-6f0a-4e2c-b0e3-277489436849

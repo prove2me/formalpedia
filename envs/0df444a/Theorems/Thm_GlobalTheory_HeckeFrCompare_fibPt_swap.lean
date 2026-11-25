@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeFrCompare_fibPt_swap
 -- name    : GlobalTheory.HeckeFrCompare.fibPt_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:45:07.653975+00:00
 -- url     : https://prove2.me/theorems/37716aeb-1ed9-495d-b2e2-5dacdec95984

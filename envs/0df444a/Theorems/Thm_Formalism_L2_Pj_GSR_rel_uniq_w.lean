@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_GSR_rel_uniq_w
 -- name    : Formalism.L2.Pj.GSR.rel_uniq_w
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:41:56.755823+00:00
 -- url     : https://prove2.me/theorems/25d689cd-851c-5dbd-ab70-1216c87c7a7f

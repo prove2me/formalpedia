@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevCover_nsmul_M_mem
 -- name    : GlobalTheory.LevCover.nsmul_M_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:24:48.0421+00:00
 -- url     : https://prove2.me/theorems/0a3f1f78-68dd-5a53-865c-5f040075cff9

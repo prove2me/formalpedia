@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_bijOn_secOnOf_top
 -- name    : GlobalTheory.Cartier.bijOn_secOnOf_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:10:52.425848+00:00
 -- url     : https://prove2.me/theorems/b1277458-159a-45d1-a5fa-d82f2ce48543

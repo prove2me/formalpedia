@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_pt_ord_eq_addValuation
 -- name    : GlobalTheory.exists_pt_ord_eq_addValuation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:19:40.920125+00:00
 -- url     : https://prove2.me/theorems/1d10ead6-32ad-446d-8d48-018491262caf

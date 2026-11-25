@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszTheta_dotProduct_tensor
 -- name    : LovaszTheta.dotProduct_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:46:50.589964+00:00
 -- url     : https://prove2.me/theorems/08bf9d7e-60bb-49fd-96a7-b0125a497b7f

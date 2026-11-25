@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_HeightMultiplicativity_multi_pow
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.HeightMultiplicativity.multi_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:35:52.730777+00:00
 -- url     : https://prove2.me/theorems/1e4b83cc-660c-47dd-bb7e-93a8b6eae6e0

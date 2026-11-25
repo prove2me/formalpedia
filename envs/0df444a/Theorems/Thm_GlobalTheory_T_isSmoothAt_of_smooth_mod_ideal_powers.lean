@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isSmoothAt_of_smooth_mod_ideal_powers
 -- name    : GlobalTheory.T.isSmoothAt_of_smooth_mod_ideal_powers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:48:33.502301+00:00
 -- url     : https://prove2.me/theorems/b1691686-00f7-44f0-966c-58daa5b271b7

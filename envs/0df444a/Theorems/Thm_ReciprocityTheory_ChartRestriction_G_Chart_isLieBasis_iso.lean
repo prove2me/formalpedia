@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_isLieBasis_iso
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.isLieBasis_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:21:21.721749+00:00
 -- url     : https://prove2.me/theorems/14202cd2-2fb7-47d1-af43-8db474b91cd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ThmIExists_isRFamily_famI_4b4e744fcce2
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ThmIExists_isRFamily_famI_4b4e744fcce2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:32:44.156408+00:00
 -- url     : https://prove2.me/theorems/08d4e450-b810-5ec1-81ba-75e585e14d33

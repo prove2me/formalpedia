@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_kbar_cocycle
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.kbar_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:47:39.1188+00:00
 -- url     : https://prove2.me/theorems/d2959346-a18d-48d1-9af6-c36ada580127

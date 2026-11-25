@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bilinPart_sub_eigen_eq_zero
 -- name    : GlobalTheory.bilinPart_sub_eigen_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:31:38.704438+00:00
 -- url     : https://prove2.me/theorems/a146bfca-8fa8-4d6d-a762-91c6770ab264

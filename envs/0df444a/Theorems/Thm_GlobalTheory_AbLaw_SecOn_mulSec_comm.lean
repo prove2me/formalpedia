@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOn_mulSec_comm
 -- name    : GlobalTheory.AbLaw.SecOn.mulSec_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:35:43.050869+00:00
 -- url     : https://prove2.me/theorems/730bebf6-f00a-4253-b1e7-b366f015716b

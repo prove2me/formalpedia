@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_decomp_block0
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.decomp_block0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:26:24.187527+00:00
 -- url     : https://prove2.me/theorems/886cf85f-6ead-5900-8e2e-fdf9b0f208b9

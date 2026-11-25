@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_DiffSmall_exists_primitive
 -- name    : GlobalTheory.Cyc.DiffSmall.exists_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:03:21.970194+00:00
 -- url     : https://prove2.me/theorems/b039ae00-98a6-5118-9b7b-5ec7498ef78b

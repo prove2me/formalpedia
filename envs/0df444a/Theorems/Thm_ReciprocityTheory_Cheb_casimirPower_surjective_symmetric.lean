@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_casimirPower_surjective_symmetric
 -- name    : ReciprocityTheory.Cheb.casimirPower_surjective_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:48:31.070887+00:00
 -- url     : https://prove2.me/theorems/3a758d02-5764-4d0c-b90b-86b85250c5f8

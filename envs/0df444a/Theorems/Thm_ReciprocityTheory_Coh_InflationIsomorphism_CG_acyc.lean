@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationIsomorphism_CG_acyc
 -- name    : ReciprocityTheory.Coh.InflationIsomorphism.CG_acyc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:51:33.100147+00:00
 -- url     : https://prove2.me/theorems/b4df79a7-135d-4034-a7df-b59e905bc1d5

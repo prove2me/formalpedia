@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_zd_iter_two_left
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.zd_iter_two_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:01:04.405826+00:00
 -- url     : https://prove2.me/theorems/9f6e6c51-405e-41d7-ac63-ce39efc48790

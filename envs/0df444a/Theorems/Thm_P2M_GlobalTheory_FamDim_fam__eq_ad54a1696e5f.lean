@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_FamDim_fam__eq_ad54a1696e5f
 -- name    : P2M_GlobalTheory_FamDim_fam__eq_ad54a1696e5f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:39:59.516809+00:00
 -- url     : https://prove2.me/theorems/e70b5be9-14ab-4ef1-a13a-44ae2e5f568d

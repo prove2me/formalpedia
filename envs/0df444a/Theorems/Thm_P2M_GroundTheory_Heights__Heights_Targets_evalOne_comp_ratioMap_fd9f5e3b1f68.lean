@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_evalOne_comp_ratioMap_fd9f5e3b1f68
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_evalOne_comp_ratioMap_fd9f5e3b1f68
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:14:14.35231+00:00
 -- url     : https://prove2.me/theorems/eb8d23ff-e2ab-5bba-ba61-103143f88d69

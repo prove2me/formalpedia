@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_isIntegralElt_add
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.isIntegralElt_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:13.042198+00:00
 -- url     : https://prove2.me/theorems/ad620eb8-1b09-4e5e-8811-21285145d9bf

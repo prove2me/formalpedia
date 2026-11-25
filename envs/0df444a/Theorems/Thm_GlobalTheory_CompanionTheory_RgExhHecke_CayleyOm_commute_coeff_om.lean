@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_CayleyOm_commute_coeff_om
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.CayleyOm.commute_coeff_om
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:09:45.776345+00:00
 -- url     : https://prove2.me/theorems/007627c6-dce9-5723-a20e-fd05e20bd68b

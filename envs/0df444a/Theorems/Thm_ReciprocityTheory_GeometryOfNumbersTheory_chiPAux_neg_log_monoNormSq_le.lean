@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_chiPAux_neg_log_monoNormSq_le
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.chiPAux_neg_log_monoNormSq_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:14:57.489934+00:00
 -- url     : https://prove2.me/theorems/8afc34bd-01eb-42eb-95fd-d13240d7b69c

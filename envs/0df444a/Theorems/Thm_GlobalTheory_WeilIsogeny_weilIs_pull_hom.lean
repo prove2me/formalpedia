@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilIsogeny_weilIs_pull_hom
 -- name    : GlobalTheory.WeilIsogeny.weilIs_pull_hom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:11:33.697845+00:00
 -- url     : https://prove2.me/theorems/84202a9d-0836-4e8e-aa38-743fa5dede7f

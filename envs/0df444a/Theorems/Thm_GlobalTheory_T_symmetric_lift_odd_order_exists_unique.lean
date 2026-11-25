@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_symmetric_lift_odd_order_exists_unique
 -- name    : GlobalTheory.T.symmetric_lift_odd_order_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:35:31.049698+00:00
 -- url     : https://prove2.me/theorems/7854ac81-a8b1-4e35-af18-9335d57cc983

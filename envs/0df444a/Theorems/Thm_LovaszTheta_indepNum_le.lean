@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszTheta_indepNum_le
 -- name    : LovaszTheta.indepNum_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:37:22.298503+00:00
 -- url     : https://prove2.me/theorems/76ce1b5e-7819-5357-9fa2-57f222a1f5c8

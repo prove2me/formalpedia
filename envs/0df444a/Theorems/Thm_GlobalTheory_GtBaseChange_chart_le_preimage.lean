@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GtBaseChange_chart_le_preimage
 -- name    : GlobalTheory.GtBaseChange.chart_le_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:17:50.996257+00:00
 -- url     : https://prove2.me/theorems/d10b372a-064e-50b3-b5e1-774f5216683c

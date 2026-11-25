@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_CompactEntryBounds_hermC_stab
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.CompactEntryBounds.hermC_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:16:50.269787+00:00
 -- url     : https://prove2.me/theorems/3cdd0858-f871-4425-875e-ea127f8c8f97

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_PhiOrder_Rep_prod
 -- name    : GlobalTheory.UT.PhiOrder.Rep.prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:08:54.812462+00:00
 -- url     : https://prove2.me/theorems/acb80335-e137-4500-b11a-405b298e8d62

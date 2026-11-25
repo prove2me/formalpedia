@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecPow_exists_finite_affine_cover
 -- name    : GlobalTheory.SecPow.exists_finite_affine_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:47:21.363826+00:00
 -- url     : https://prove2.me/theorems/0fcc62c9-726a-40ae-9539-b51f992c0d4a

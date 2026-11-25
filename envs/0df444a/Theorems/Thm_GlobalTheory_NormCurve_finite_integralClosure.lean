@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCurve_finite_integralClosure
 -- name    : GlobalTheory.NormCurve.finite_integralClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:23:19.274967+00:00
 -- url     : https://prove2.me/theorems/de4fd13f-13ed-5ae9-bbdd-8181de4d882d

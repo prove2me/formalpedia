@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_one_left_comp
 -- name    : GlobalTheory.UU.one_left_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:43:13.966204+00:00
 -- url     : https://prove2.me/theorems/3a9ecd29-c4f6-4379-a94b-2c4fc8b3669e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_classes_selfDual_pairs
 -- name    : GlobalTheory.finite_classes_selfDual_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:47:00.01187+00:00
 -- url     : https://prove2.me/theorems/b0e3c3a6-1463-41c9-b095-aa06f21cb704

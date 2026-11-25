@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Regauge_eq_mul_expS
 -- name    : GlobalTheory.Regauge.eq_mul_expS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:35:19.95514+00:00
 -- url     : https://prove2.me/theorems/9418bcab-673e-5514-81c0-541349509c8d

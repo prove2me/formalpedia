@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_hormanderLemma
 -- name    : ReciprocityTheory.L2DbarEstimates.hormanderLemma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:01:39.108407+00:00
 -- url     : https://prove2.me/theorems/ede01ed8-851b-4858-850e-bb905153b58d

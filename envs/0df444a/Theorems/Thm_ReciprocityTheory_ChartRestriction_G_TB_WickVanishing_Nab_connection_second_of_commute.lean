@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_Nab_connection_second_of_commute
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.Nab.connection_second_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:41:54.958501+00:00
 -- url     : https://prove2.me/theorems/691e2ec3-17d7-419a-a90d-32823362136e

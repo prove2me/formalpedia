@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevCover_add_map_nsmul
 -- name    : GlobalTheory.LevCover.add_map_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:18:34.179387+00:00
 -- url     : https://prove2.me/theorems/8f76298a-792e-4f23-8edf-a8beb2d05799

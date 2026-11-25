@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_discI_of_pos
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.discI_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:15:00.796052+00:00
 -- url     : https://prove2.me/theorems/7aa5d860-7f57-4998-b3a2-1e0ff9a81fcf

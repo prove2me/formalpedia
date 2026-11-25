@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1510_02920_im_perm_limits
 -- name    : Arxiv1510_02920.im_perm_limits
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:09:48.484428+00:00
 -- url     : https://prove2.me/theorems/75301535-4b59-4fe6-8fe7-40f9ed867358

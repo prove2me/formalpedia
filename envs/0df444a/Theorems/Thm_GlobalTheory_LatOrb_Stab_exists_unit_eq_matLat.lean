@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatOrb_Stab_exists_unit_eq_matLat
 -- name    : GlobalTheory.LatOrb.Stab.exists_unit_eq_matLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:34:37.029909+00:00
 -- url     : https://prove2.me/theorems/8e35afcf-2922-4e9b-80cd-9a6a4b06be87

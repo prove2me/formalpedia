@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxChart_SecNotIn_mem_of_eval_eq_zero
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxChart.SecNotIn.mem_of_eval_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:32:08.167125+00:00
 -- url     : https://prove2.me/theorems/c2046535-b04f-5d92-a651-19bd4b43b72c

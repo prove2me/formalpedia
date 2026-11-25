@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_leviNonnegOn_const
 -- name    : ReciprocityTheory.L2DbarEstimates.leviNonnegOn_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:01:22.301127+00:00
 -- url     : https://prove2.me/theorems/e63cc864-09f5-4691-adfe-f35cbd403b85

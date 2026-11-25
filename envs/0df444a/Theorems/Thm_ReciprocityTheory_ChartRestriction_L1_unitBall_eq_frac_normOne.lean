@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_unitBall_eq_frac_normOne
 -- name    : ReciprocityTheory.ChartRestriction.L1.unitBall_eq_frac_normOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:47:06.800499+00:00
 -- url     : https://prove2.me/theorems/31ff59db-7bdc-4808-b7b9-73fee7902960

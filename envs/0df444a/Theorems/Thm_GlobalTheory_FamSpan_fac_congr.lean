@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamSpan_fac_congr
 -- name    : GlobalTheory.FamSpan.fac_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:28:58.055808+00:00
 -- url     : https://prove2.me/theorems/ecd60067-503d-4a42-8db9-31eb6ec6ba1c

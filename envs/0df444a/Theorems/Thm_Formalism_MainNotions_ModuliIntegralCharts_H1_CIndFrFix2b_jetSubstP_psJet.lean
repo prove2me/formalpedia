@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix2b_jetSubstP_psJet
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix2b.jetSubstP_psJet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:35:56.297847+00:00
 -- url     : https://prove2.me/theorems/df4a481f-f652-46d3-a31f-ac412c0cbcfd

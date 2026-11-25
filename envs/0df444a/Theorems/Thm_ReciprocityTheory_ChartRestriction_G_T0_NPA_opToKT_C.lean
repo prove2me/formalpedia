@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_NPA_opToKT_C
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.NPA.opToKT_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:01:03.600595+00:00
 -- url     : https://prove2.me/theorems/fdf9b024-965c-5de2-8d54-8fa2dc357370

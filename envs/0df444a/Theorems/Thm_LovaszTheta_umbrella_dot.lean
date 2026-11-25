@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszTheta_umbrella_dot
 -- name    : LovaszTheta.umbrella_dot
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:47:08.362741+00:00
 -- url     : https://prove2.me/theorems/10653f0c-6966-441e-88e6-c586ed5af50b

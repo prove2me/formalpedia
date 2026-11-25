@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCharacter_isMapOf_baseChange
 -- name    : GlobalTheory.TorsionCharacter.isMapOf_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:46:46.223744+00:00
 -- url     : https://prove2.me/theorems/f6413049-c582-4243-9fd2-365040ae2ac4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_PlacesExt_fin_notIntegral
 -- name    : GlobalTheory.SS.PlacesExt.fin_notIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:14:54.783084+00:00
 -- url     : https://prove2.me/theorems/59539b5c-6425-4b8d-bd51-294d8fddd99d

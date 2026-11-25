@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_TorusSlice_ext_basis
 -- name    : GlobalTheory.SS.TorusSlice.ext_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:21:00.879867+00:00
 -- url     : https://prove2.me/theorems/7144d232-6a71-4818-bb3c-3f6b6226d360

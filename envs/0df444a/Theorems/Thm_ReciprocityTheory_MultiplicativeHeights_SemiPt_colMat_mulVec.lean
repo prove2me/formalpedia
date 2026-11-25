@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_colMat_mulVec
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.colMat_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:02:25.382835+00:00
 -- url     : https://prove2.me/theorems/09fbb1f6-3b79-51ba-b35f-d5db2bb18ee1

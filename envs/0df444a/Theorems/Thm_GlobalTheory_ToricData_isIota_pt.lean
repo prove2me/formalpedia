@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToricData_isIota_pt
 -- name    : GlobalTheory.ToricData.isIota_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:41:02.715711+00:00
 -- url     : https://prove2.me/theorems/d38ac380-a2e9-460d-8ddb-da90a6ef0b58

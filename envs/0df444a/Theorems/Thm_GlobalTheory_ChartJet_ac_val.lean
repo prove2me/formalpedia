@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartJet_ac_val
 -- name    : GlobalTheory.ChartJet.ac_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:37:33.478829+00:00
 -- url     : https://prove2.me/theorems/6463d427-cfcc-4633-ad09-00dc3e64f967

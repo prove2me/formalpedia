@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordToExt_coordUnit_trans
 -- name    : GlobalTheory.CoordToExt.coordUnit_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:18:43.328455+00:00
 -- url     : https://prove2.me/theorems/d8f32966-c6ef-4a13-8bf2-2ce619599548

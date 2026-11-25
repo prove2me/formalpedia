@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverPlaces_surjective_of_detect
 -- name    : GlobalTheory.CoverPlaces.surjective_of_detect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:39:39.773606+00:00
 -- url     : https://prove2.me/theorems/4aa2cdab-cb06-4e58-9987-f7c51c65b7ff

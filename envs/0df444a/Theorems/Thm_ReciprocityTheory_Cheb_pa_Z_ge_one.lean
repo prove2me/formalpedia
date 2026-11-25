@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_pa_Z_ge_one
 -- name    : ReciprocityTheory.Cheb.pa_Z_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:21:49.564821+00:00
 -- url     : https://prove2.me/theorems/8969f0cc-7133-4ad2-b4e0-d40314b18c6c

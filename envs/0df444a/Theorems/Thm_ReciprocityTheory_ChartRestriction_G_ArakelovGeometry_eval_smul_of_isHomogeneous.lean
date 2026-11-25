@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_eval_smul_of_isHomogeneous
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.eval_smul_of_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:49:07.106919+00:00
 -- url     : https://prove2.me/theorems/f519b920-a937-5c04-99b1-1e6721bc564a

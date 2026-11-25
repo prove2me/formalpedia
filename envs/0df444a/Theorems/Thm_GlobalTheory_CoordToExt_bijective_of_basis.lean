@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordToExt_bijective_of_basis
 -- name    : GlobalTheory.CoordToExt.bijective_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:38:56.32092+00:00
 -- url     : https://prove2.me/theorems/17844099-08b6-48cc-8da7-00738b5fafd2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Sig_compIdeal_injective
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Sig.compIdeal_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:47:52.676546+00:00
 -- url     : https://prove2.me/theorems/47c843c0-bcbe-465e-89ec-9db5aaf498d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConstFam_sval_pullThrough
 -- name    : GlobalTheory.ConstFam.sval_pullThrough
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:07:46.732811+00:00
 -- url     : https://prove2.me/theorems/ed6fe946-f145-4a55-905a-b101a85dd516

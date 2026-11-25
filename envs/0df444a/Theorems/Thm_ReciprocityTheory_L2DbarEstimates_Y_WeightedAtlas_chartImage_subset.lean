@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_chartImage_subset
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.chartImage_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:00:47.240358+00:00
 -- url     : https://prove2.me/theorems/c7fc88b9-7fa8-560c-a4c8-a334a02d0819

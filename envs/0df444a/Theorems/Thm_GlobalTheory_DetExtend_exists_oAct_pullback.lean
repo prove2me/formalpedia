@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetExtend_exists_oAct_pullback
 -- name    : GlobalTheory.DetExtend.exists_oAct_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:45:02.066998+00:00
 -- url     : https://prove2.me/theorems/abb0f999-c509-50f1-b0ed-631968a5bec3

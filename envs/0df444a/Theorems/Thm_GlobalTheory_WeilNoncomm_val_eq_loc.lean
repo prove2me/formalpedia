@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilNoncomm_val_eq_loc
 -- name    : GlobalTheory.WeilNoncomm.val_eq_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:07:52.721483+00:00
 -- url     : https://prove2.me/theorems/05ec74bf-1885-4979-b9d8-a0e2178bed0d

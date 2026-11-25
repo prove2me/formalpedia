@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubTransport_exists_down_units
 -- name    : GlobalTheory.CubTransport.exists_down_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:30:47.716126+00:00
 -- url     : https://prove2.me/theorems/20cfe453-3c3d-552d-a341-c4ae8edd5933

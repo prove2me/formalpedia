@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiSpec_liftB_pt
 -- name    : GlobalTheory.PhiSpec.liftB_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:20:48.230202+00:00
 -- url     : https://prove2.me/theorems/2520fe3e-bffe-4507-9e9e-62bde6368ed0

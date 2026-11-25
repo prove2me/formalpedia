@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_emb_zeta4
 -- name    : ReciprocityTheory.MultiplicativeHeights.emb_zeta4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:34.786396+00:00
 -- url     : https://prove2.me/theorems/a6d4b05c-c4ac-4bea-b004-054b2261f74e

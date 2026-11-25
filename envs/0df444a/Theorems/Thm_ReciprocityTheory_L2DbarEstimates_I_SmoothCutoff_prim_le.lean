@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_SmoothCutoff_prim_le
 -- name    : ReciprocityTheory.L2DbarEstimates.I.SmoothCutoff.prim_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:56:39.712929+00:00
 -- url     : https://prove2.me/theorems/d124dc07-9cb5-460e-b6b0-3f0eb1c47aec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletePoint_exists_unit_of_thick
 -- name    : GlobalTheory.CompletePoint.exists_unit_of_thick
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:33:11.505505+00:00
 -- url     : https://prove2.me/theorems/3a57ec29-8a10-56af-84cc-022b39ba8cf0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1007_0377_deriv_nPlus_formula
 -- name    : Arxiv1007_0377.deriv_nPlus_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T00:01:28.290787+00:00
 -- url     : https://prove2.me/theorems/1978a479-5509-4b32-a5a4-2c57760aaa78

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_ChartInv_chart_coord_ratio
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.ChartInv.chart_coord_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:18:03.376086+00:00
 -- url     : https://prove2.me/theorems/b7dabf77-0b1c-4286-b4ca-dcbf80cb82c3

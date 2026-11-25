@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_dZ_coeff_zero
 -- name    : ReciprocityTheory.ChartRestriction.L1.dZ_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:43:27.395877+00:00
 -- url     : https://prove2.me/theorems/f75aa60f-406c-4378-9f10-d650d84e1ae6

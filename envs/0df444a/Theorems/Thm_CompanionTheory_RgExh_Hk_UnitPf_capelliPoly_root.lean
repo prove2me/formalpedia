@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_RgExh_Hk_UnitPf_capelliPoly_root
 -- name    : CompanionTheory.RgExh.Hk.UnitPf.capelliPoly_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:45:51.577443+00:00
 -- url     : https://prove2.me/theorems/74f4f659-2992-5304-af6d-0c956e0b5853

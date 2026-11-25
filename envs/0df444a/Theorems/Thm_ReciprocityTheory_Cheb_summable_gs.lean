@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_summable_gs
 -- name    : ReciprocityTheory.Cheb.summable_gs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:49:18.793839+00:00
 -- url     : https://prove2.me/theorems/562c3f34-d345-4f80-8585-3a45c97fce67

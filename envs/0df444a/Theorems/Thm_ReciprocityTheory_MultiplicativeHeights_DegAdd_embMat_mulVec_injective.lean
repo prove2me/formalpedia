@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_DegAdd_embMat_mulVec_injective
 -- name    : ReciprocityTheory.MultiplicativeHeights.DegAdd.embMat_mulVec_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:01:30.981147+00:00
 -- url     : https://prove2.me/theorems/1d371cee-d114-5d60-8b9f-2f0bf1a6d66a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_evalSeries_discriminantSeries
 -- name    : ReciprocityTheory.ChartRestriction.L1.evalSeries_discriminantSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:38:08.698617+00:00
 -- url     : https://prove2.me/theorems/2f5e451b-81f0-4e10-a68c-4f38d2208eae

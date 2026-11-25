@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_integral_wd_eq_zero
 -- name    : ReciprocityTheory.L2DbarEstimates.integral_wd_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:01:46.432152+00:00
 -- url     : https://prove2.me/theorems/d4d5c178-b885-4a04-8e2a-2162d28a784c

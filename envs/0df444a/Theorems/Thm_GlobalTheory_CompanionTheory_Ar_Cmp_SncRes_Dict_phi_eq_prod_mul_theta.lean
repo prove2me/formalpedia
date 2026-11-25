@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Dict_phi_eq_prod_mul_theta
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Dict.phi_eq_prod_mul_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:20:04.467217+00:00
 -- url     : https://prove2.me/theorems/e976b356-564b-42e1-afc5-c5ae974413ad

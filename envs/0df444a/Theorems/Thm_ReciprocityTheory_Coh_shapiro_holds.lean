@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_shapiro_holds
 -- name    : ReciprocityTheory.Coh.shapiro_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:32:54.343804+00:00
 -- url     : https://prove2.me/theorems/6371856d-4f9b-4d5c-83d6-4c0aaf91d0af

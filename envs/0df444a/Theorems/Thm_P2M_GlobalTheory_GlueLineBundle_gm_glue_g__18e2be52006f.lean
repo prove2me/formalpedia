@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_GlueLineBundle_gm_glue_g__18e2be52006f
 -- name    : P2M_GlobalTheory_GlueLineBundle_gm_glue_g__18e2be52006f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:09:04.044078+00:00
 -- url     : https://prove2.me/theorems/569d45de-b08a-456e-82e9-ff081e46adb1

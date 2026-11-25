@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToricData_lieMult_zero
 -- name    : GlobalTheory.ToricData.lieMult_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:24:47.3158+00:00
 -- url     : https://prove2.me/theorems/53455daf-e7d6-5ec9-b2db-f215d253cde5

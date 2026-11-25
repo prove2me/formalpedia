@@ -46369,7 +46369,7 @@
 {"parent": "GeneralPieces.GenF.entry_false", "child": "GeneralPieces_GenF_Kappa", "via": ["solution", "statement"]}
 {"parent": "OAI.SmoothLocal.Flow.exists_C8_one_flow_physical_cap_estimates", "child": "SmoothLocalIsometricSupport", "via": ["solution", "statement"]}
 {"parent": "OAI.SmoothLocal.Flow.exists_C8_one_flow_physical_cap_estimates", "child": "IsometricImmersion", "via": ["solution", "statement"]}
-{"parent": "FiniteEnergyPlane.exists_page_foliation", "child": "FiniteEnergyPlane_OpenBook", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.exists_page_foliation", "child": "FiniteEnergyPlane_OpenBook", "via": ["solution", "statement"]}
 {"parent": "SparsificationLemma.Mach.Cert.unary_kL", "child": "UniformInK_Cert_Walk", "via": ["solution", "statement"]}
 {"parent": "SparsificationLemma.Mach.Cert.unary_kL", "child": "SparsificationLemma_Mach_Walk", "via": ["solution", "statement"]}
 {"parent": "SparsificationLemma.Mach.Cert.unary_kL", "child": "ClauseBound_ParityChecks_CertLib", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_supSt_integrable
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.supSt_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:54:52.857262+00:00
 -- url     : https://prove2.me/theorems/403e1eb3-7c16-4ff0-8945-fdf2b95edde6

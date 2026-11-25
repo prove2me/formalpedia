@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_exists_mul_pow_eq_aeval_of_mem_adjoin_inv
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.exists_mul_pow_eq_aeval_of_mem_adjoin_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:39:58.722796+00:00
 -- url     : https://prove2.me/theorems/8ffb1526-536f-51d3-9733-6553f16a12c3

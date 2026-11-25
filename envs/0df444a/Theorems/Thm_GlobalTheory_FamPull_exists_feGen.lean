@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamPull_exists_feGen
 -- name    : GlobalTheory.FamPull.exists_feGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:19:20.192883+00:00
 -- url     : https://prove2.me/theorems/248d2ab4-9a43-4f39-a238-7ba7a66dbd91

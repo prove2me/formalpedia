@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_EffCartierData_existsUnique_iso_ofSec__00c3eee85ad9
 -- name    : P2M_GlobalTheory_EffCartierData_existsUnique_iso_ofSec__00c3eee85ad9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:17:51.28283+00:00
 -- url     : https://prove2.me/theorems/2af03f31-2cff-5e2a-bb47-316b958d70d0

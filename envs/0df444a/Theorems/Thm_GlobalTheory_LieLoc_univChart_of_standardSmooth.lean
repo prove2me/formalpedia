@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieLoc_univChart_of_standardSmooth
 -- name    : GlobalTheory.LieLoc.univChart_of_standardSmooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:39:10.86023+00:00
 -- url     : https://prove2.me/theorems/c7981f16-b25c-4565-b867-6894d837fe82

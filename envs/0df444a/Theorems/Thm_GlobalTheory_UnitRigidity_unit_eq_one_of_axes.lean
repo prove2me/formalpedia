@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitRigidity_unit_eq_one_of_axes
 -- name    : GlobalTheory.UnitRigidity.unit_eq_one_of_axes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:19:20.993938+00:00
 -- url     : https://prove2.me/theorems/d6c14a3a-6ce8-47d7-bcbb-b3277eabfca4

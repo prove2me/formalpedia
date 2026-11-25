@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FrameJacobianGeneric_proof_1ca593bfb056
 -- name    : P2M_GroundTheory_Heights__Heights_FrameJacobianGeneric_proof_1ca593bfb056
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:02:22.034885+00:00
 -- url     : https://prove2.me/theorems/97b434f8-44f0-4b9d-95d1-fde29eb99654

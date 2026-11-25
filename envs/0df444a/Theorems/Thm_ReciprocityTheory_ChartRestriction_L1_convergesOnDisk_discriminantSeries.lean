@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_convergesOnDisk_discriminantSeries
 -- name    : ReciprocityTheory.ChartRestriction.L1.convergesOnDisk_discriminantSeries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:50.384349+00:00
 -- url     : https://prove2.me/theorems/299c6c66-8994-4f49-8896-537c92d65fc6

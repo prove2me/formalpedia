@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpFamRel_eq_up
 -- name    : GlobalTheory.SharpFamRel.eq_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:44:01.520643+00:00
 -- url     : https://prove2.me/theorems/c5678a56-a048-4947-8dc6-c48c347bcecd

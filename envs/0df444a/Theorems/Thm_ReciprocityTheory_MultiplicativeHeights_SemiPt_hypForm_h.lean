@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_hypForm_h
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.hypForm_h
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:02:57.851918+00:00
 -- url     : https://prove2.me/theorems/17512806-4c28-4d3c-b131-4c0aa821b8cc

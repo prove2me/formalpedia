@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_kernelPolarisation_trivial_of_sections_vanish_zero
 -- name    : GlobalTheory.T.kernelPolarisation_trivial_of_sections_vanish_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:54:12.058956+00:00
 -- url     : https://prove2.me/theorems/0bfe56ca-8162-4f2e-8ff6-fefb1c7547d2

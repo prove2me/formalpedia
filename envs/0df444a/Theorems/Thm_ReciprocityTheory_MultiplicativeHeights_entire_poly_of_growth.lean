@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_entire_poly_of_growth
 -- name    : ReciprocityTheory.MultiplicativeHeights.entire_poly_of_growth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:14.432455+00:00
 -- url     : https://prove2.me/theorems/cb93a949-cb90-40d7-870b-fcb54388a1b9

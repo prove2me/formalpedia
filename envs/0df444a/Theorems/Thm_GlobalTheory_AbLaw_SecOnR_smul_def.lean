@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOnR_smul_def
 -- name    : GlobalTheory.AbLaw.SecOnR.smul_def
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:44:04.414878+00:00
 -- url     : https://prove2.me/theorems/05db3147-4af9-5712-98f0-cd2e1699631c

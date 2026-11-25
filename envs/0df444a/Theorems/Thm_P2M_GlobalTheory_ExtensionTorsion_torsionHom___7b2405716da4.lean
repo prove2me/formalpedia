@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ExtensionTorsion_torsionHom___7b2405716da4
 -- name    : P2M_GlobalTheory_ExtensionTorsion_torsionHom___7b2405716da4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:26:44.731921+00:00
 -- url     : https://prove2.me/theorems/b1d55d63-8fa2-502b-9c53-e9898802e0b1

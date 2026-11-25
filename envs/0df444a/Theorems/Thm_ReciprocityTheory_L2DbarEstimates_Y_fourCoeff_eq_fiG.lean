@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_fourCoeff_eq_fiG
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.fourCoeff_eq_fiG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:00:15.496461+00:00
 -- url     : https://prove2.me/theorems/90a4c543-3a2f-409c-a13a-4f68752a0a91

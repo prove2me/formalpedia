@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickeningDivisible_constFn_dvd_of_mem_ker
 -- name    : GlobalTheory.ThickeningDivisible.constFn_dvd_of_mem_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:46:04.556146+00:00
 -- url     : https://prove2.me/theorems/b6dde393-d320-4c57-be54-3e1d92515dae

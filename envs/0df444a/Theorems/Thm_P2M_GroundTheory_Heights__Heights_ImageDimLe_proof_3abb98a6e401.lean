@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ImageDimLe_proof_3abb98a6e401
 -- name    : P2M_GroundTheory_Heights__Heights_ImageDimLe_proof_3abb98a6e401
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:32:58.390511+00:00
 -- url     : https://prove2.me/theorems/dde61898-42f3-4eba-ad8d-c16544897bcd

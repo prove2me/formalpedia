@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConstFam_exists_gen_through
 -- name    : GlobalTheory.ConstFam.exists_gen_through
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:11:51.315956+00:00
 -- url     : https://prove2.me/theorems/408cc2a9-1372-5769-b1e2-b1be4b531dae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_api_contOn_chart
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.api_contOn_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:07:18.402493+00:00
 -- url     : https://prove2.me/theorems/15e6b111-5c0f-435a-88c9-fbd37db4f956

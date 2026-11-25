@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_zetaUnr_eq_integral
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.zetaUnr_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:51:20.954189+00:00
 -- url     : https://prove2.me/theorems/c7f05cac-0355-4227-a6e2-756bbce17f55

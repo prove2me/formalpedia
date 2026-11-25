@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevCover_datum_free
 -- name    : GlobalTheory.LevCover.datum_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:36:23.951413+00:00
 -- url     : https://prove2.me/theorems/d5afc883-6bbf-40ad-9c2c-9d10e9cd9f1c

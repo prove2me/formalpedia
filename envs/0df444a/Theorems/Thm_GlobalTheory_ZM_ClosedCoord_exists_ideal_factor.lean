@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_ClosedCoord_exists_ideal_factor
 -- name    : GlobalTheory.ZM.ClosedCoord.exists_ideal_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:48:11.137303+00:00
 -- url     : https://prove2.me/theorems/2e739629-23eb-43a0-bba3-9ea01c6856f3

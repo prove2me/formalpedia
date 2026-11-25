@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_cutSub_zero
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.cutSub_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:03:14.557512+00:00
 -- url     : https://prove2.me/theorems/f8141d8a-129d-5699-92cc-4cae1f04e13f

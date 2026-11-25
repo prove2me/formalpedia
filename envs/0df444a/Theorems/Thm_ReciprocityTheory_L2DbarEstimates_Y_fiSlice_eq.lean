@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_fiSlice_eq
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.fiSlice_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:02:12.868503+00:00
 -- url     : https://prove2.me/theorems/70809db2-64c3-5e80-8987-f7ce67a40649

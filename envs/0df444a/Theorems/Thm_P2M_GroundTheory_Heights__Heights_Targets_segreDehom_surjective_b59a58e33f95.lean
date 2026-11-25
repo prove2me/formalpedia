@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_segreDehom_surjective_b59a58e33f95
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_segreDehom_surjective_b59a58e33f95
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:08:54.212837+00:00
 -- url     : https://prove2.me/theorems/74c4968d-d59a-4b81-ad30-c40a21612e97

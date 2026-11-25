@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_embMat_injective
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.embMat_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:02:01.151911+00:00
 -- url     : https://prove2.me/theorems/09ef6a1e-c1ba-5d17-9ef6-c4a46413bfb7

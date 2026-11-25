@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_Cheb_smoothMap_seminorm_bound__39c12cba5872
 -- name    : P2M_ReciprocityTheory_Cheb_smoothMap_seminorm_bound__39c12cba5872
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:16:53.163826+00:00
 -- url     : https://prove2.me/theorems/2b6d0a9b-fb5c-47a3-90c5-7162963c2f01

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_inh_isChart_refl
 -- name    : ReciprocityTheory.L2DbarEstimates.inh_isChart_refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:01:55.842835+00:00
 -- url     : https://prove2.me/theorems/59e34c4a-7f13-580d-815a-b7753c15bc92

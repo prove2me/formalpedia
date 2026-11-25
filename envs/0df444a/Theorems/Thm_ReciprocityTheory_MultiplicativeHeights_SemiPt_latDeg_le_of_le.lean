@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_latDeg_le_of_le
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.latDeg_le_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:02:54.621736+00:00
 -- url     : https://prove2.me/theorems/5e28811a-880c-48d6-a1e6-79c4270174bc

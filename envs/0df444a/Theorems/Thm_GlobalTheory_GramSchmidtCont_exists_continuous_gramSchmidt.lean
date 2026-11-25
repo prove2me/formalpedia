@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramSchmidtCont_exists_continuous_gramSchmidt
 -- name    : GlobalTheory.GramSchmidtCont.exists_continuous_gramSchmidt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:57:33.489065+00:00
 -- url     : https://prove2.me/theorems/69d38cfe-e031-4e4f-8ee5-4560f7748082

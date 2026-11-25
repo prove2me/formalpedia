@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DescTheta_exists_descent
 -- name    : GlobalTheory.DescTheta.exists_descent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:31:49.084957+00:00
 -- url     : https://prove2.me/theorems/0031e6e2-4142-519e-bac5-58296a477d87

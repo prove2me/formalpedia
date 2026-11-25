@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_rm_bil_expand
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.rm_bil_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:01:02.486319+00:00
 -- url     : https://prove2.me/theorems/9c51f76b-afc6-4487-8c11-5c5374299633

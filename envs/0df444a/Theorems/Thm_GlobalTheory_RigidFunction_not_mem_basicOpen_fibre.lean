@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RigidFunction_not_mem_basicOpen_fibre
 -- name    : GlobalTheory.RigidFunction.not_mem_basicOpen_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:42:50.032821+00:00
 -- url     : https://prove2.me/theorems/50bade38-6270-4a57-862f-ca16caabbf2a

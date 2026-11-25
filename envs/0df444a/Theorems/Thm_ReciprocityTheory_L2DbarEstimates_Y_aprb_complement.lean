@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_aprb_complement
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.aprb_complement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:00:40.123361+00:00
 -- url     : https://prove2.me/theorems/ac6bdc18-a872-47d5-8228-d61a39a27554

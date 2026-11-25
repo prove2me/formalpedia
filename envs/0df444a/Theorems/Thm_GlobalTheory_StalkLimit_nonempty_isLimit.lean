@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StalkLimit_nonempty_isLimit
 -- name    : GlobalTheory.StalkLimit.nonempty_isLimit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:24:48.043385+00:00
 -- url     : https://prove2.me/theorems/7f70d32e-27a9-573b-aa02-90a16216beef

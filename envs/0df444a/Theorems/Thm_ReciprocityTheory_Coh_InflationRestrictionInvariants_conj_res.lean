@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationRestrictionInvariants_conj_res
 -- name    : ReciprocityTheory.Coh.InflationRestrictionInvariants.conj_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:51:51.006117+00:00
 -- url     : https://prove2.me/theorems/e8f6dc40-ba9b-4bd2-81ea-ba2e5f441f74

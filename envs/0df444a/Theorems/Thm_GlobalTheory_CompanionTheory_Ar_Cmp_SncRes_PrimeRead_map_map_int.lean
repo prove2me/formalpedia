@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_PrimeRead_map_map_int
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.PrimeRead.map_map_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:37:23.863694+00:00
 -- url     : https://prove2.me/theorems/bde40afc-467c-45b2-87b8-54a85e7931fd

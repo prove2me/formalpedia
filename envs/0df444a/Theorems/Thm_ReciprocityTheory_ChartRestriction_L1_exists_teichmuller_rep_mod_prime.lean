@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_exists_teichmuller_rep_mod_prime
 -- name    : ReciprocityTheory.ChartRestriction.L1.exists_teichmuller_rep_mod_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:43:24.761373+00:00
 -- url     : https://prove2.me/theorems/1fd04fea-33a5-4e79-8eaa-a04236f8853f

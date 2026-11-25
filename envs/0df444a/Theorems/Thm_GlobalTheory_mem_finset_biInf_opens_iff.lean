@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_finset_biInf_opens_iff
 -- name    : GlobalTheory.mem_finset_biInf_opens_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:47:43.8049+00:00
 -- url     : https://prove2.me/theorems/aec0ab12-c3bc-49c2-a9de-f242dad8672d

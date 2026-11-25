@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_finrank_mulN
 -- name    : GlobalTheory.Diag.finrank_mulN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:07:19.296004+00:00
 -- url     : https://prove2.me/theorems/118c3e62-7974-46fb-987c-86ddd4a2f582

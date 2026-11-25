@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitRigidity_coeff_mem
 -- name    : GlobalTheory.UnitRigidity.coeff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:20:16.668102+00:00
 -- url     : https://prove2.me/theorems/a0151228-035b-4616-982f-3204680d7686

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_st_massIndep_of
 -- name    : ReciprocityTheory.AnForm.M.st_massIndep_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:32:54.533219+00:00
 -- url     : https://prove2.me/theorems/ae3a4ec5-e6ee-5557-932f-a6d7ccc7a23e

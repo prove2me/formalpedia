@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_KernelCokernelKilling_shC_acyc
 -- name    : ReciprocityTheory.Coh.KernelCokernelKilling.shC_acyc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:50:43.41727+00:00
 -- url     : https://prove2.me/theorems/bbf7caee-9927-5266-bcc7-6b5c27ad1ccf

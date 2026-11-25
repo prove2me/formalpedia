@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszTheta_indepNum_le_gen
 -- name    : LovaszTheta.indepNum_le_gen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:37:28.653288+00:00
 -- url     : https://prove2.me/theorems/c296eb53-4503-46d1-80cb-6535d7dedae2

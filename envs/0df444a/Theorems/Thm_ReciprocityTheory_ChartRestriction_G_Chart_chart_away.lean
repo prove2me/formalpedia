@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_chart_away
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.chart_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:25:20.062876+00:00
 -- url     : https://prove2.me/theorems/9b436619-8177-4cc7-bc36-db317554e8c6

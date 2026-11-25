@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_FamInh_exists_lift_dec
 -- name    : CompanionTheory.FamInh.exists_lift_dec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:17:54.361374+00:00
 -- url     : https://prove2.me/theorems/161ab59b-bc4c-4f8e-83c4-52b70efd9a63

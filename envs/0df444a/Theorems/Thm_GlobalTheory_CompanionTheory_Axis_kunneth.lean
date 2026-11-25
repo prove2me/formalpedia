@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Axis_kunneth
 -- name    : GlobalTheory.CompanionTheory.Axis.kunneth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:56:06.842232+00:00
 -- url     : https://prove2.me/theorems/c4a29bd2-20eb-4f61-bd96-30ffd990e96d

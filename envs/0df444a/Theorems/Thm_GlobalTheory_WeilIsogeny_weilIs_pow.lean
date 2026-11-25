@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilIsogeny_weilIs_pow
 -- name    : GlobalTheory.WeilIsogeny.weilIs_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:12:41.282899+00:00
 -- url     : https://prove2.me/theorems/65d2ec21-e04d-4f67-8add-d8e22d4855c6

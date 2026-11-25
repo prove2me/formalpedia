@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_factor_integralClosure_of_finiteType
 -- name    : GlobalTheory.exists_factor_integralClosure_of_finiteType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:45:51.040724+00:00
 -- url     : https://prove2.me/theorems/2724838f-060a-4d87-92ad-424835a8dd82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszTheta_cos_pentAngle_sub
 -- name    : LovaszTheta.cos_pentAngle_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:47:07.109139+00:00
 -- url     : https://prove2.me/theorems/591837d0-2fe3-4c23-8552-0d9d6c32a0c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Reg_card_le_finrank_add
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Reg.card_le_finrank_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:37:56.945905+00:00
 -- url     : https://prove2.me/theorems/d5faa450-ea47-43ff-9044-bfa3185d54d4

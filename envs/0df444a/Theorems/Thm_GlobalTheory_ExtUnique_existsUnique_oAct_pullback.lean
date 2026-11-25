@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtUnique_existsUnique_oAct_pullback
 -- name    : GlobalTheory.ExtUnique.existsUnique_oAct_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:43:34.415847+00:00
 -- url     : https://prove2.me/theorems/6372726d-523f-4746-83fd-44e06959b1f5

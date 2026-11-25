@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_cub_alg
 -- name    : GlobalTheory.UU.cub_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:42:41.783408+00:00
 -- url     : https://prove2.me/theorems/b7889d8e-b810-40aa-8da7-95cd31b304ab

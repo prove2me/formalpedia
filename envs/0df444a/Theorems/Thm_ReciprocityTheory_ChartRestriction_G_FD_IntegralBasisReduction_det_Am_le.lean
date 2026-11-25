@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_IntegralBasisReduction_det_Am_le
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.IntegralBasisReduction.det_Am_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:56:17.083919+00:00
 -- url     : https://prove2.me/theorems/6063efa0-95cf-4bfd-a0fc-3587c01a2ced

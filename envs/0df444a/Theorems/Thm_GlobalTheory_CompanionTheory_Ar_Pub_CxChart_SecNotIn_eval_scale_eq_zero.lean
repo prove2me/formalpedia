@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxChart_SecNotIn_eval_scale_eq_zero
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxChart.SecNotIn.eval_scale_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:42:33.753556+00:00
 -- url     : https://prove2.me/theorems/3e145a17-caf7-55b1-a1c3-51c5a0d80bfa

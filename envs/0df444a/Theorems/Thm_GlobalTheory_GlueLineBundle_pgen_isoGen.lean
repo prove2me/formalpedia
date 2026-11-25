@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlueLineBundle_pgen_isoGen
 -- name    : GlobalTheory.GlueLineBundle.pgen_isoGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:09:36.26921+00:00
 -- url     : https://prove2.me/theorems/7889b36f-95c2-41b6-89a4-9b174c05d37b

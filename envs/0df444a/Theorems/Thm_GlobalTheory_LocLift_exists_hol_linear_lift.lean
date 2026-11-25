@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocLift_exists_hol_linear_lift
 -- name    : GlobalTheory.LocLift.exists_hol_linear_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:21:31.463278+00:00
 -- url     : https://prove2.me/theorems/65458916-734b-4295-9d3c-84c3e8376252

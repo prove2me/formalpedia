@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverGlue_hom_ext
 -- name    : GlobalTheory.CoverGlue.hom_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:18:59.270948+00:00
 -- url     : https://prove2.me/theorems/5aeeaff6-33ab-4a91-a537-71c59860b0a1

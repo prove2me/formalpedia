@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_g_ne_zero
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.g_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:02:44.988955+00:00
 -- url     : https://prove2.me/theorems/6facb463-0c33-41c6-b9d1-ab7a96ef537f

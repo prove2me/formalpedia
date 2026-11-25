@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSequences_egReduce_add
 -- name    : DegreeSequences.egReduce_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:37:15.235333+00:00
 -- url     : https://prove2.me/theorems/3fc1835a-e277-4f3f-afd4-cdf2ce58f4b5

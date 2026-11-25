@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_isFinite_mulN
 -- name    : GlobalTheory.Diag.isFinite_mulN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:07:02.627829+00:00
 -- url     : https://prove2.me/theorems/9aff30a7-b7ee-4979-ab03-d6bc3d9a317d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_LawD_coeffY_subst
 -- name    : ReciprocityTheory.ChartRestriction.L1.LawD.coeffY_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:54:06.789803+00:00
 -- url     : https://prove2.me/theorems/15c85b02-e361-4043-bf08-2d8c049a7cf6

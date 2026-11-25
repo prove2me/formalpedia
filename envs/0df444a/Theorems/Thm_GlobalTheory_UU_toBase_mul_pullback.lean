@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_toBase_mul_pullback
 -- name    : GlobalTheory.UU.toBase_mul_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:42:30.161374+00:00
 -- url     : https://prove2.me/theorems/440d546a-8197-4029-9884-85fe4fec8593

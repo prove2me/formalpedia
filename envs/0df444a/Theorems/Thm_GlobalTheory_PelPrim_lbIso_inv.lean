@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PelPrim_lbIso_inv
 -- name    : GlobalTheory.PelPrim.lbIso_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:24:46.129619+00:00
 -- url     : https://prove2.me/theorems/b5cae312-fcc1-591a-b47e-f39f07b47e52

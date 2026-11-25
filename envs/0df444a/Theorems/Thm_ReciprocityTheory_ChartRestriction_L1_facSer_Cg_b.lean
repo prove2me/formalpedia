@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_facSer_Cg_b
 -- name    : ReciprocityTheory.ChartRestriction.L1.facSer_Cg_b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:00:00.328414+00:00
 -- url     : https://prove2.me/theorems/3757e297-81b9-5791-ae4e-c2fb3971d5c4

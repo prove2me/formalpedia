@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_dbarAt_eq_zero_of_holo
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.dbarAt_eq_zero_of_holo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:02:32.735198+00:00
 -- url     : https://prove2.me/theorems/828ddbf1-9d11-5fb6-a73a-d963daa98302

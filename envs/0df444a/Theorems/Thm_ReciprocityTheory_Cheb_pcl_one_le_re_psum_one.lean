@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_pcl_one_le_re_psum_one
 -- name    : ReciprocityTheory.Cheb.pcl_one_le_re_psum_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:48:08.713146+00:00
 -- url     : https://prove2.me/theorems/6bbe0867-5b3a-4423-94f8-e3dd751c131c

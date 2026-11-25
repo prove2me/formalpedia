@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_TorusSlice_isOpenImmersion_sweep
 -- name    : GlobalTheory.SS.TorusSlice.isOpenImmersion_sweep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:20:43.213207+00:00
 -- url     : https://prove2.me/theorems/8ea39061-be7d-453f-88b3-97d6d990f6b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_TorOpen_isIso_univPt_left
 -- name    : GlobalTheory.SS.TorOpen.isIso_univPt_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:31:46.97331+00:00
 -- url     : https://prove2.me/theorems/8cb2849b-96d7-46b0-82f2-74548672b018

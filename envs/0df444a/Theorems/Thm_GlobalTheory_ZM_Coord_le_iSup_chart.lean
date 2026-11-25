@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_Coord_le_iSup_chart
 -- name    : GlobalTheory.ZM.Coord.le_iSup_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:43:20.310226+00:00
 -- url     : https://prove2.me/theorems/9c877e0d-1f4a-4e54-bbad-58a19df356e3

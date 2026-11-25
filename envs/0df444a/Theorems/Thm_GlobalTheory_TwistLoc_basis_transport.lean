@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistLoc_basis_transport
 -- name    : GlobalTheory.TwistLoc.basis_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:20:40.787828+00:00
 -- url     : https://prove2.me/theorems/0f849952-33fc-4b90-bc53-62f2b1b789b3

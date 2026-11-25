@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix2b_bal_sum
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix2b.bal_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:46:07.465862+00:00
 -- url     : https://prove2.me/theorems/85473ae1-f2ee-5b44-9ea9-0520d15ae53e

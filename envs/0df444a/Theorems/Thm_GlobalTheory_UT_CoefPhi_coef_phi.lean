@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_CoefPhi_coef_phi
 -- name    : GlobalTheory.UT.CoefPhi.coef_phi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:36:38.816824+00:00
 -- url     : https://prove2.me/theorems/52d62096-c8ba-4770-b143-89d31bf0a987

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IotaInj_eq_zero_of_gs
 -- name    : GlobalTheory.IotaInj.eq_zero_of_gs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:57:32.879799+00:00
 -- url     : https://prove2.me/theorems/c9cf24b7-2575-4238-b1c3-eb1ba3e814d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sections_span_affine
 -- name    : GlobalTheory.exists_sections_span_affine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:45:26.195608+00:00
 -- url     : https://prove2.me/theorems/de7e42ef-f008-4095-9db8-e8a27bf4d991

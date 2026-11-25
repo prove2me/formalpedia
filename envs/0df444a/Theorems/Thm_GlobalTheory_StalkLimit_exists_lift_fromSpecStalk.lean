@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StalkLimit_exists_lift_fromSpecStalk
 -- name    : GlobalTheory.StalkLimit.exists_lift_fromSpecStalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:20:14.044802+00:00
 -- url     : https://prove2.me/theorems/fadff54d-3121-4d93-abef-6fca37fa5d14

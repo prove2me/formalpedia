@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieCombBaseChange_prod_left_comp
 -- name    : GlobalTheory.LieCombBaseChange.prod_left_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:34:28.046253+00:00
 -- url     : https://prove2.me/theorems/2b9bfb96-6dbd-495a-b88f-c26a82bc3adb

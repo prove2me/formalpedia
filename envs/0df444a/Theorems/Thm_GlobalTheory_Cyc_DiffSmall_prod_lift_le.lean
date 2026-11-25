@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_DiffSmall_prod_lift_le
 -- name    : GlobalTheory.Cyc.DiffSmall.prod_lift_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:14:13.010332+00:00
 -- url     : https://prove2.me/theorems/c4539a28-f66e-47f1-9a79-df826b84d26e

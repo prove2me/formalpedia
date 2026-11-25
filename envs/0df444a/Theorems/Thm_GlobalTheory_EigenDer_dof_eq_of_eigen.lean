@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenDer_dof_eq_of_eigen
 -- name    : GlobalTheory.EigenDer.dof_eq_of_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:58:16.675146+00:00
 -- url     : https://prove2.me/theorems/6b8333c8-34fd-48bc-ae2c-5179b92b6771

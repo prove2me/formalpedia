@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtMove_sv_of_eq_mul
 -- name    : GlobalTheory.ThetaPtMove.sv_of_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:33:57.658012+00:00
 -- url     : https://prove2.me/theorems/67da5576-2847-4b05-8e2b-df6947ff34d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_ringKrullDim_of_mem_minimalPrimes_extC
 -- name    : ReciprocityTheory.AnForm.R.ringKrullDim_of_mem_minimalPrimes_extC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:05:06.484503+00:00
 -- url     : https://prove2.me/theorems/cbc481da-a3af-4fca-991c-3166b09b3017

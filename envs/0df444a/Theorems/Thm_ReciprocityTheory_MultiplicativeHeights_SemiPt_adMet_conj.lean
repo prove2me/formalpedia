@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_adMet_conj
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.adMet_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:02:29.728113+00:00
 -- url     : https://prove2.me/theorems/92c4e5d2-4963-593f-818e-91e86abdf9dc

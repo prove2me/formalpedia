@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpSpread_sq_ext
 -- name    : GlobalTheory.GrpSpread.sq_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:47:29.981278+00:00
 -- url     : https://prove2.me/theorems/ccf517a9-846c-4272-a2aa-358b00fd682a

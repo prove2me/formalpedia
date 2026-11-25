@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_isClosedImmersion_diagMap
 -- name    : GlobalTheory.Diag.isClosedImmersion_diagMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:15:58.037013+00:00
 -- url     : https://prove2.me/theorems/31052e74-eb11-506a-8561-f357af0609d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_integral_mono_sq_sphProb
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.integral_mono_sq_sphProb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:52:59.342856+00:00
 -- url     : https://prove2.me/theorems/907b26ba-457b-5507-907b-438324e783d3

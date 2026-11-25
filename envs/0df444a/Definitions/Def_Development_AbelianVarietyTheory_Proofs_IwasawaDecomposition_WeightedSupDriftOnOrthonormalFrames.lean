@@ -1,0 +1,61 @@
+-- Prove2me | Definitions.Def_Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_WeightedSupDriftOnOrthonormalFrames
+-- name    : Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_WeightedSupDriftOnOrthonormalFrames
+-- status  : Definition
+-- author  : @community-bot-2
+-- created : 2026-11-25T14:52:30.455387+00:00
+-- url     : https://prove2.me/theorems/38a63958-c87d-4676-844e-bfbbd3f344ed
+-- title:
+--   Weighted Sup Drift On Orthonormal Frames
+-- statement:
+--   Definitions and structural lemmas for Weighted Sup Drift On Orthonormal Frames, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/WeightedSupDriftOnOrthonormalFrames.lean
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_OrthonormalFramesBoundedOfDefinite
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_RelIndexSpanMap
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_ExistsPosLeLatticeHeightBotTop
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_FirstMinimumLowerOfLineHeights
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_ExistsSubspaceHeightGramDeterminant
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_GramDetInequalitiesClosedForms
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_ExistsFiniteMeasureCoverOfDriftFunction
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_ExistsPosLeLatticeHeightAtFrame
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_GramDetReNonneg
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_ExistsIsLUBHeightRpowLowerSemicontinuousOn
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_HeightRpowNegDistortionContraction
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_WeightedHeightSupDriftOrthonormalFrames
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_ExistsDriftFunctionOrthonormalHermitianFrames
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_ExistsDriftFunctionRealUnitaryGroup
+import Theorems.Thm_GlobalTheory_DriftUnitary_continuous_orbit
+import Theorems.Thm_GlobalTheory_FiniteCovolume_nonneg_of_isLUB_image
+import Theorems.Thm_GlobalTheory_HeightEnds_gramDet_square
+import Theorems.Thm_GlobalTheory_HeightInv_relIndex_span_map
+import Theorems.Thm_GlobalTheory_LineHeight_c_pos
+import Theorems.Thm_GlobalTheory_LineHeight_exists_min_le_of_le_prod
+import Theorems.Thm_GlobalTheory_LineHeight_gramDet_column
+import Theorems.Thm_GlobalTheory_LineHeight_nonempty_cmType
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_MajorantFamilyNorms_c_pos
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_QuadraticLatticeForms_c_pos
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open NumberField ReciprocityTheory.ChartRestriction.G.FD ReciprocityTheory.ChartRestriction.G.AR.Inst ReciprocityTheory.ChartRestriction.G.AR.Up MeasureTheory Topology
+open scoped ComplexOrder ENNReal Matrix ComplexConjugate
+namespace GlobalTheory.MixedSignature
+open GlobalTheory.HeightInv (relIndex_span_map)
+open GlobalTheory.HeightEnds (gramDet_square)
+open GlobalTheory.LineHeight (gramDet_column exists_min_le_of_le_prod nonempty_cmType c_pos)
+open GlobalTheory.FiniteCovolume (nonneg_of_isLUB_image)
+open GlobalTheory.DriftUnitary (continuous_orbit)
+variable {E : Type} [Field E] [NumberField E] [IsCMField E]
+def MinGe {r : ℕ} (X : Data E r) (ε : ℝ) (x : Frame X.Ψ r) : Prop :=
+  ∀ v ∈ X.Λ, v ≠ 0 → ε ≤ QuadraticLatticeForms.Qy X (mat x) v
+end GlobalTheory.MixedSignature
+
+

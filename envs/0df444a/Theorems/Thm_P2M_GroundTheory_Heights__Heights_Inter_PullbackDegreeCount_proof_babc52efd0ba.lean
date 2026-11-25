@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PullbackDegreeCount_proof_babc52efd0ba
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PullbackDegreeCount_proof_babc52efd0ba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:46:51.107909+00:00
 -- url     : https://prove2.me/theorems/e4f59e50-f043-4488-ae0b-c3da215655a2

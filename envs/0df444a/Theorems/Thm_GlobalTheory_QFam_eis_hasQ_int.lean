@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_eis_hasQ_int
 -- name    : GlobalTheory.QFam.eis_hasQ_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:42:18.199774+00:00
 -- url     : https://prove2.me/theorems/c3d3ae97-08ad-44f9-8c25-876ae39e8568

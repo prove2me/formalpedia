@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Glob_InertiaLift_fixingSubgroup_le_NS
 -- name    : GlobalTheory.CompanionTheory.Glob.InertiaLift.fixingSubgroup_le_NS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:53:29.938693+00:00
 -- url     : https://prove2.me/theorems/423855a9-872f-41f3-9a67-61adbc6d857e

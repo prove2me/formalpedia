@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nonempty_isLimit_baseChange
 -- name    : GlobalTheory.nonempty_isLimit_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:12:42.773658+00:00
 -- url     : https://prove2.me/theorems/4bbd019a-e2ad-5bf7-9900-0c84ce6db953

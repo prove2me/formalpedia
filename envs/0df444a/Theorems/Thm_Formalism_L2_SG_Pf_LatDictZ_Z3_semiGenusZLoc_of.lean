@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z3_semiGenusZLoc_of
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z3.semiGenusZLoc_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:58:04.818232+00:00
 -- url     : https://prove2.me/theorems/3a75e723-149d-41dd-a40e-b6f851e43f0a

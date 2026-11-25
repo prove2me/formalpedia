@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_HermitianPsiBounds_sum_sq_le
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.HermitianPsiBounds.sum_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:30:50.590702+00:00
 -- url     : https://prove2.me/theorems/d7d552f4-cf8a-4384-b4f0-2b9d83ad7ded

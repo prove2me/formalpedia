@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_Coord_appLE_spec
 -- name    : GlobalTheory.ZM.Coord.appLE_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:33:48.754876+00:00
 -- url     : https://prove2.me/theorems/00020359-1d8c-45ee-8c7d-3fd294b6c613

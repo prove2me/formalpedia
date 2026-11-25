@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtUp_map_linComb
 -- name    : GlobalTheory.ThetaPtUp.map_linComb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:40:50.265808+00:00
 -- url     : https://prove2.me/theorems/96fec0f4-fb27-4592-ad0a-c9778fbafb33

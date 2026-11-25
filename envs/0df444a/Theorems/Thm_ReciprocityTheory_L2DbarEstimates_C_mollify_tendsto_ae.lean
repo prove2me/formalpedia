@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_mollify_tendsto_ae
 -- name    : ReciprocityTheory.L2DbarEstimates.C.mollify_tendsto_ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:55:16.46002+00:00
 -- url     : https://prove2.me/theorems/7a96eaad-e093-4f08-8a98-7aab71ed99a9

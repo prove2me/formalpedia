@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocLift_int_eq_of_exp
 -- name    : GlobalTheory.LocLift.int_eq_of_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:26:16.488592+00:00
 -- url     : https://prove2.me/theorems/7e46e028-308d-5a39-87e2-f6bf64a44baa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramSchmidtCont_continuousOn_bOf
 -- name    : GlobalTheory.GramSchmidtCont.continuousOn_bOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:56:32.466395+00:00
 -- url     : https://prove2.me/theorems/89285ba8-2663-4721-8725-57d7a9b80870

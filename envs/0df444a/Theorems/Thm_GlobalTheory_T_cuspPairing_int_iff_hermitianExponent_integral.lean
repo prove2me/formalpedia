@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cuspPairing_int_iff_hermitianExponent_integral
 -- name    : GlobalTheory.T.cuspPairing_int_iff_hermitianExponent_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:32:12.572063+00:00
 -- url     : https://prove2.me/theorems/b7707c16-7ea2-400c-8dc8-7feab73dff55

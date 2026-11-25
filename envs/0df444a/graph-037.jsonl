@@ -93864,13 +93864,13 @@
 {"parent": "Formalism.DworkPowerSeriesWeights.swap_mul_apply_right", "child": "Formalism_FormalGroupLog_FormalGroupLogProofs_ChainRule", "via": ["solution", "statement"]}
 {"parent": "Formalism.DworkPowerSeriesWeights.swap_mul_apply_right", "child": "Formalism_GaussJetBounds_GaussJetProofs_ConstantCoeffQuadSer", "via": ["solution", "statement"]}
 {"parent": "PI.LocDualGen.EpS.pr_apply", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LocalDualGenerator_EpSelfDualSplit", "via": ["solution", "statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.LocJacTyp.BM.box_measure_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LocalJacobianType_BoxMulA", "via": ["statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.LocJacTyp.BM.box_measure_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_JacobianTransvectionSplitting_GoodTransvection", "via": ["statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.LocJacTyp.BM.box_measure_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LocalJacobianType_BoxMul", "via": ["statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.LocJacTyp.BM.box_measure_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_JacobianTransvectionSplitting_Transport", "via": ["statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.LocJacTyp.BM.box_measure_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LocalJacobianType_BoxMulAlt", "via": ["statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.LocJacTyp.BM.box_measure_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_JacobianTransvectionSplitting_DiagonalOneJacobian", "via": ["statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.LocJacTyp.BM.box_measure_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LocalJacobianType_KitAbs", "via": ["statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.LocJacTyp.BM.box_measure_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LocalJacobianType_BoxMulA", "via": ["solution", "statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.LocJacTyp.BM.box_measure_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_JacobianTransvectionSplitting_GoodTransvection", "via": ["solution", "statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.LocJacTyp.BM.box_measure_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LocalJacobianType_BoxMul", "via": ["solution", "statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.LocJacTyp.BM.box_measure_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_JacobianTransvectionSplitting_Transport", "via": ["solution", "statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.LocJacTyp.BM.box_measure_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LocalJacobianType_BoxMulAlt", "via": ["solution", "statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.LocJacTyp.BM.box_measure_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_JacobianTransvectionSplitting_DiagonalOneJacobian", "via": ["solution", "statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.LocJacTyp.BM.box_measure_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LocalJacobianType_KitAbs", "via": ["solution", "statement"]}
 {"parent": "UpperTheory.Reformulated.B.SpanTopFamily.span_top", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_SpanTopFamily", "via": ["solution", "statement"]}
 {"parent": "Formalism.FN.SuccessiveMinima.finite_lat_inter", "child": "Formalism_SuccessiveMinima_SuccessiveMinimaProofs_SuccMin", "via": ["solution", "statement"]}
 {"parent": "Formalism.FN.SuccessiveMinima.finite_lat_inter", "child": "Formalism_SuccessiveMinima_DefsMink", "via": ["solution", "statement"]}

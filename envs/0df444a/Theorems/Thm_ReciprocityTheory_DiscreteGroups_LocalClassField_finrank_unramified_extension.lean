@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_finrank_unramified_extension
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.finrank_unramified_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:54:59.378047+00:00
 -- url     : https://prove2.me/theorems/24a42341-607f-412c-8aa3-60f7031ed477

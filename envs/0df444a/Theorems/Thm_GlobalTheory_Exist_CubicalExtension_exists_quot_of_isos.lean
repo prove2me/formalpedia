@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Exist_CubicalExtension_exists_quot_of_isos
 -- name    : GlobalTheory.Exist.CubicalExtension.exists_quot_of_isos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:44:34.249311+00:00
 -- url     : https://prove2.me/theorems/0ad7cc4e-9f8c-5c6b-9c95-81726458ce88

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrthFrameMahler_continuousOn_rmul_self
 -- name    : GlobalTheory.OrthFrameMahler.continuousOn_rmul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:18:36.561776+00:00
 -- url     : https://prove2.me/theorems/0749ee68-11f6-41d4-949f-8d075ba56530

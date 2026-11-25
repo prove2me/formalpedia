@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_eK_eq_of_norm
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.eK_eq_of_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:08:02.08701+00:00
 -- url     : https://prove2.me/theorems/2560c556-81cf-41b6-abc3-c4fe3340732b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_syracuse_nontrivial_period_coordinates_at_1241513984
 -- name    : syracuse_nontrivial_period_coordinates_at_1241513984
--- status  : Open
+-- status  : Proved
 -- author  : @FormallyCorrect
 -- created : 2026-11-25T14:40:31.408239+00:00
 -- url     : https://prove2.me/theorems/a093b898-08bc-5e1e-8112-2e286d7af04d

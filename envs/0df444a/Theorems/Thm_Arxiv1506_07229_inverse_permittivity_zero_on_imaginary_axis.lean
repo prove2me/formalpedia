@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1506_07229_inverse_permittivity_zero_on_imaginary_axis
 -- name    : Arxiv1506_07229.inverse_permittivity_zero_on_imaginary_axis
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:03:00.753181+00:00
 -- url     : https://prove2.me/theorems/b3aa385f-0d71-450b-a366-5da005167abc

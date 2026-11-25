@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1003_4724_time_correlations_real
 -- name    : Arxiv1003_4724.time_correlations_real
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T23:56:56.644882+00:00
 -- url     : https://prove2.me/theorems/74d0c3e7-f678-405e-8b81-91846c2ed072

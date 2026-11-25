@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Twist_mateHom_naturality
 -- name    : GlobalTheory.Twist.mateHom_naturality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:20:28.114022+00:00
 -- url     : https://prove2.me/theorems/9517dc05-2ccd-4f99-a217-8880f5f09fc4

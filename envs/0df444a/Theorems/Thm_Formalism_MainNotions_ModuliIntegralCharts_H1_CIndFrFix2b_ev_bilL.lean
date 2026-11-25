@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix2b_ev_bilL
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix2b.ev_bilL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:28:33.467104+00:00
 -- url     : https://prove2.me/theorems/9afb4fab-e6fb-49b2-b9a4-1260a159b383

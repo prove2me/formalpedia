@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_tl_twist_eq
 -- name    : ReciprocityTheory.L2DbarEstimates.I.tl_twist_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:32:24.590876+00:00
 -- url     : https://prove2.me/theorems/b178dddc-0a8c-4daf-a3b5-a8d38b0bac48

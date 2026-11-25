@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_UBC_eps_pullback_fst
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.UBC.eps_pullback_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:19:21.600068+00:00
 -- url     : https://prove2.me/theorems/2ff02515-470c-4a14-847f-5f379797e1bc

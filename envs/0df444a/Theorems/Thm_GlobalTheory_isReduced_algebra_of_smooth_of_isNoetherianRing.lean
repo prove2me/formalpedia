@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isReduced_algebra_of_smooth_of_isNoetherianRing
 -- name    : GlobalTheory.isReduced_algebra_of_smooth_of_isNoetherianRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:32:58.251237+00:00
 -- url     : https://prove2.me/theorems/a3883db0-741a-4f9a-9cd0-3791cbbbf8c6

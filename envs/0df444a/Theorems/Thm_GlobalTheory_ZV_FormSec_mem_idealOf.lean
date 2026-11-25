@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZV_FormSec_mem_idealOf
 -- name    : GlobalTheory.ZV.FormSec.mem_idealOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:47:49.268055+00:00
 -- url     : https://prove2.me/theorems/9e9e4a89-73d1-4071-84b0-f3e0a2cd5c78

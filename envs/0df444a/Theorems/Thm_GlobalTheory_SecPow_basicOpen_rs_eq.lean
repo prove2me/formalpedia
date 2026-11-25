@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecPow_basicOpen_rs_eq
 -- name    : GlobalTheory.SecPow.basicOpen_rs_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:49:30.606683+00:00
 -- url     : https://prove2.me/theorems/5b9510eb-3e00-461c-8373-0d5fc420d026

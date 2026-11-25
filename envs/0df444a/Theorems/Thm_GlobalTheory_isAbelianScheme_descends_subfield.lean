@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isAbelianScheme_descends_subfield
 -- name    : GlobalTheory.isAbelianScheme_descends_subfield
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:57:01.999432+00:00
 -- url     : https://prove2.me/theorems/249e0f11-ef60-40f9-9567-2fb6d39f3ac5

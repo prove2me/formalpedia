@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_bijOn_poleSecs_lbPow
 -- name    : GlobalTheory.EffCartierData.bijOn_poleSecs_lbPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:17:32.981251+00:00
 -- url     : https://prove2.me/theorems/7fcb514f-8e13-51be-bcc5-6a833220d545

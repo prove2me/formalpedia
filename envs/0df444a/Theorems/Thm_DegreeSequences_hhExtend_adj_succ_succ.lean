@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSequences_hhExtend_adj_succ_succ
 -- name    : DegreeSequences.hhExtend_adj_succ_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:47:06.096286+00:00
 -- url     : https://prove2.me/theorems/fe3d4ddd-f025-4447-8dd6-51e91d51cfac

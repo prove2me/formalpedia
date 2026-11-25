@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_loc_aem
 -- name    : ReciprocityTheory.L2DbarEstimates.F.loc_aem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:55:26.716183+00:00
 -- url     : https://prove2.me/theorems/53e63238-23f4-59a0-9176-abc120c33c66

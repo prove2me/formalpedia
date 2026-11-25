@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOn_ofSec_bijective
 -- name    : GlobalTheory.AbLaw.SecOn.ofSec_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:35:14.085111+00:00
 -- url     : https://prove2.me/theorems/8ff5fd78-45de-46f9-93e2-39bff974d405

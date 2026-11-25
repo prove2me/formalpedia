@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WitnessData_value_of_genRel
 -- name    : GlobalTheory.WitnessData.value_of_genRel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:56:24.602694+00:00
 -- url     : https://prove2.me/theorems/92de5bd4-cb32-4d34-860d-81779ff134d8

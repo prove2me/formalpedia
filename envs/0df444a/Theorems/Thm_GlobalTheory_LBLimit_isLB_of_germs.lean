@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LBLimit_isLB_of_germs
 -- name    : GlobalTheory.LBLimit.isLB_of_germs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:40:56.324173+00:00
 -- url     : https://prove2.me/theorems/d8477417-b352-4d9a-b6d3-d7bc62717cf9

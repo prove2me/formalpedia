@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsGenericPointHom_of_isPreimmersion
 -- name    : GlobalTheory.IsGenericPointHom.of_isPreimmersion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:17:33.121815+00:00
 -- url     : https://prove2.me/theorems/b5364a40-d7c0-4fd4-a942-83a66929ec17

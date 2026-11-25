@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_RealTangentSpace_norm_sq_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.RealTangentSpace.norm_sq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:30:59.923971+00:00
 -- url     : https://prove2.me/theorems/25783345-9f07-4aa6-beef-151ffe1e4106

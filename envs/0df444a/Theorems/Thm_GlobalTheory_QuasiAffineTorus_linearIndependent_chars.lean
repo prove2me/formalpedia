@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuasiAffineTorus_linearIndependent_chars
 -- name    : GlobalTheory.QuasiAffineTorus.linearIndependent_chars
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:43:01.316948+00:00
 -- url     : https://prove2.me/theorems/5d4480e7-fb47-4579-8c8e-a8766719422f

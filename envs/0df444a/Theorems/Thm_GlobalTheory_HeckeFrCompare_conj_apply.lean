@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeFrCompare_conj_apply
 -- name    : GlobalTheory.HeckeFrCompare.conj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:44:46.581878+00:00
 -- url     : https://prove2.me/theorems/db1ad104-ef53-4c95-985e-86ec6ea2356c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamSpan_val_of_rel
 -- name    : GlobalTheory.FamSpan.val_of_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:29:05.635801+00:00
 -- url     : https://prove2.me/theorems/c3eb8c95-4843-4e57-b63a-8e30e5cb62ec

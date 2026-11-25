@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_map_eisenstein_div_period
 -- name    : GlobalTheory.QFam.map_eisenstein_div_period
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:59:41.190848+00:00
 -- url     : https://prove2.me/theorems/2c90ee5f-d012-4494-a141-12bf2bd8c41b

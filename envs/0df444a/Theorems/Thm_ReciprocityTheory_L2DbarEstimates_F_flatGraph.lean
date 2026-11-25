@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_flatGraph
 -- name    : ReciprocityTheory.L2DbarEstimates.F.flatGraph
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:55:09.214821+00:00
 -- url     : https://prove2.me/theorems/d9d1b3e1-200e-5fe7-ad6c-1343d6c6beb9

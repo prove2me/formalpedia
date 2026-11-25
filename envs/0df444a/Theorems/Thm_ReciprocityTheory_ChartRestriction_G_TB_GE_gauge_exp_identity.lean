@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_GE_gauge_exp_identity
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.GE.gauge_exp_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:40:01.227203+00:00
 -- url     : https://prove2.me/theorems/dfab3345-d76b-4c69-b91d-bd2df0f4985d

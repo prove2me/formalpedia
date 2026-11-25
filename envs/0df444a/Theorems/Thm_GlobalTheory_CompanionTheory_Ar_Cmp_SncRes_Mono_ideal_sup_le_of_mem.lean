@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Mono_ideal_sup_le_of_mem
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Mono.ideal_sup_le_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:36:46.887032+00:00
 -- url     : https://prove2.me/theorems/85228de7-4ee3-4a90-bd61-d601574a7ca4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_lattice_EFf
 -- name    : GlobalTheory.exists_lattice_EFf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:38:17.285222+00:00
 -- url     : https://prove2.me/theorems/ab055516-c789-40a1-8f22-fb683dea565a

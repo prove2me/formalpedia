@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1007_0377_real_branches_formula
 -- name    : Arxiv1007_0377.real_branches_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T00:00:54.533609+00:00
 -- url     : https://prove2.me/theorems/05c4c579-5d0e-4f60-8b71-69989cd0804c

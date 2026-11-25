@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeuralCollapseUFM_critical_point_balance
 -- name    : NeuralCollapseUFM.critical_point_balance
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:16:11.280848+00:00
 -- url     : https://prove2.me/theorems/7957b25f-8ce9-48aa-a2d9-3fff497da187

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_euler_exp_log
 -- name    : ReciprocityTheory.Cheb.euler_exp_log
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:14.813185+00:00
 -- url     : https://prove2.me/theorems/a7abbe3a-8db0-4561-81ff-06c8bdce355a

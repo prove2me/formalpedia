@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletionReduced_isReduced_of_normal
 -- name    : GlobalTheory.CompletionReduced.isReduced_of_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:01:06.674241+00:00
 -- url     : https://prove2.me/theorems/9547a7cf-4227-5413-a30f-9da422d5b9b9

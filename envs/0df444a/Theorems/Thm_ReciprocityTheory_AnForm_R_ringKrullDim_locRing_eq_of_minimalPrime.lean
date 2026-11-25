@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_ringKrullDim_locRing_eq_of_minimalPrime
 -- name    : ReciprocityTheory.AnForm.R.ringKrullDim_locRing_eq_of_minimalPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:38:48.495815+00:00
 -- url     : https://prove2.me/theorems/31c1c692-fa22-5f9d-9453-3ad8fbf9c5e8

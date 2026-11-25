@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_map_mem_fixJRoots
 -- name    : ReciprocityTheory.ChartRestriction.L1.map_mem_fixJRoots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:34:02.682419+00:00
 -- url     : https://prove2.me/theorems/5a12b660-e185-4051-ae6a-b6e135e8e97d

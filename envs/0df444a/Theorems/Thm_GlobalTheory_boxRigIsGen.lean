@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_boxRigIsGen
 -- name    : GlobalTheory.boxRigIsGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:45:36.320844+00:00
 -- url     : https://prove2.me/theorems/dcb687d1-f483-465f-8913-a657d10f9eb4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvenPull_pmaps_of_section
 -- name    : GlobalTheory.EvenPull.pmaps_of_section
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:06:53.288362+00:00
 -- url     : https://prove2.me/theorems/ed57c6f3-9ea8-497d-a4e9-10e60e79ce6d

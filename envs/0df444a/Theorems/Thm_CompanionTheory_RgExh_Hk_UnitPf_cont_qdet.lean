@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_RgExh_Hk_UnitPf_cont_qdet
 -- name    : CompanionTheory.RgExh.Hk.UnitPf.cont_qdet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:19:24.601326+00:00
 -- url     : https://prove2.me/theorems/699ae566-73af-4eeb-92a3-e8d5677cf2e3

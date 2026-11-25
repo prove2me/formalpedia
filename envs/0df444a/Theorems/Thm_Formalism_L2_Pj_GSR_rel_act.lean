@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_GSR_rel_act
 -- name    : Formalism.L2.Pj.GSR.rel_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:40:55.464678+00:00
 -- url     : https://prove2.me/theorems/ff488d90-5f0e-49c7-b300-73c501483542

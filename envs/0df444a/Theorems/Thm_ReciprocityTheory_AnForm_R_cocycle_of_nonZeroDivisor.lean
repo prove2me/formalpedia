@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_cocycle_of_nonZeroDivisor
 -- name    : ReciprocityTheory.AnForm.R.cocycle_of_nonZeroDivisor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:43:14.925347+00:00
 -- url     : https://prove2.me/theorems/715ab916-a4df-46ec-80b2-831f7fbd1490

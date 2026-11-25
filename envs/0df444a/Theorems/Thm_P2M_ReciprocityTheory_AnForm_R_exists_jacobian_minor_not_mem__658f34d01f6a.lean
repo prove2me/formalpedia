@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_R_exists_jacobian_minor_not_mem__658f34d01f6a
 -- name    : P2M_ReciprocityTheory_AnForm_R_exists_jacobian_minor_not_mem__658f34d01f6a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:11:34.464286+00:00
 -- url     : https://prove2.me/theorems/86481192-ca68-543e-b269-73699f52f3f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unit_eq_of_stable_lattices
 -- name    : GlobalTheory.T.exists_unit_eq_of_stable_lattices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:36:03.717041+00:00
 -- url     : https://prove2.me/theorems/3ec19b39-04d8-4f0e-9054-eb2c8d3f6866

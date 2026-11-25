@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOn_coord_pullLE
 -- name    : GlobalTheory.AbLaw.SecOn.coord_pullLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:46:36.616958+00:00
 -- url     : https://prove2.me/theorems/6a3e8fcc-5dd3-5254-9d0c-3c377e8265ac

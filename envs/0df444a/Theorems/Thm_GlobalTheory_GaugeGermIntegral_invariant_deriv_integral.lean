@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeGermIntegral_invariant_deriv_integral
 -- name    : GlobalTheory.GaugeGermIntegral.invariant_deriv_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:27:15.219113+00:00
 -- url     : https://prove2.me/theorems/88bfc773-6b90-4e98-affa-b907400281a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreDeriv_isDerivAt0_of_affine
 -- name    : GlobalTheory.FibreDeriv.isDerivAt0_of_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:58:13.72526+00:00
 -- url     : https://prove2.me/theorems/4342bac3-bf66-44b1-bdeb-f93ecc5ce96d

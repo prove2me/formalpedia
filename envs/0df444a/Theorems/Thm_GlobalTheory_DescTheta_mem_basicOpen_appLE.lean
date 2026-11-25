@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DescTheta_mem_basicOpen_appLE
 -- name    : GlobalTheory.DescTheta.mem_basicOpen_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:29:46.09908+00:00
 -- url     : https://prove2.me/theorems/9364d25a-2bc4-4706-acf1-b6719579ff52

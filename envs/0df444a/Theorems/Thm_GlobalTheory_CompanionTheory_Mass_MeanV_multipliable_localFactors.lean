@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_multipliable_localFactors
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.multipliable_localFactors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:53:54.270032+00:00
 -- url     : https://prove2.me/theorems/dbf67865-a0bf-4292-81c4-23b9c432b309

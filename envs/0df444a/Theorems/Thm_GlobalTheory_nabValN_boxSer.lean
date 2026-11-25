@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nabValN_boxSer
 -- name    : GlobalTheory.nabValN_boxSer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:13:18.306857+00:00
 -- url     : https://prove2.me/theorems/9bf9ba19-0036-40d8-90c7-f7771bb2558a

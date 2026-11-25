@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoExtend_lbIso_pull_iff_gen
 -- name    : GlobalTheory.IsoExtend.lbIso_pull_iff_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:11:06.195891+00:00
 -- url     : https://prove2.me/theorems/46f8f9a3-2759-5711-8508-8a719894efeb

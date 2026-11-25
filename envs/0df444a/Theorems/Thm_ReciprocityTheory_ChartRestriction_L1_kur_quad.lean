@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_kur_quad
 -- name    : ReciprocityTheory.ChartRestriction.L1.kur_quad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:27:27.292173+00:00
 -- url     : https://prove2.me/theorems/51c18810-35ce-41a8-a002-07bdb6fffad2

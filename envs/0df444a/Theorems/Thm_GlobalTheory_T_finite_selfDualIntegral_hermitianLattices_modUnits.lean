@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_selfDualIntegral_hermitianLattices_modUnits
 -- name    : GlobalTheory.T.finite_selfDualIntegral_hermitianLattices_modUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:34:49.928812+00:00
 -- url     : https://prove2.me/theorems/c5f5f449-5a1b-4a1c-8cb4-b74cfa255d67

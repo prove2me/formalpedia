@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_WeightPf_weightIndep
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.WeightPf.weightIndep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:27:45.749032+00:00
 -- url     : https://prove2.me/theorems/82694dad-7419-4081-9b47-a7124eb2dee4

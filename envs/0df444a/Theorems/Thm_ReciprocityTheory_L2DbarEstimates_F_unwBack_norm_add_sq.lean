@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_unwBack_norm_add_sq
 -- name    : ReciprocityTheory.L2DbarEstimates.F.unwBack_norm_add_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:57:36.202188+00:00
 -- url     : https://prove2.me/theorems/7808c212-422b-4395-944c-9aec0daa071e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_shift_pow_sub_pow_isBigO
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.shift_pow_sub_pow_isBigO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:32:28.676125+00:00
 -- url     : https://prove2.me/theorems/2a639aeb-c4a2-49b7-9865-ac9c46fa8d53

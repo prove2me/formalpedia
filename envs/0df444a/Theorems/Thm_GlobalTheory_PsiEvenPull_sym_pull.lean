@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiEvenPull_sym_pull
 -- name    : GlobalTheory.PsiEvenPull.sym_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:56:41.329872+00:00
 -- url     : https://prove2.me/theorems/6e8979ee-1610-40c2-bde6-c0e724c90201

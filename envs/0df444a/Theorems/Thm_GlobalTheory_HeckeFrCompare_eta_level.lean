@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeFrCompare_eta_level
 -- name    : GlobalTheory.HeckeFrCompare.eta_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:45:43.347788+00:00
 -- url     : https://prove2.me/theorems/7bfabeb4-c665-486c-bff1-1edb638c77c7

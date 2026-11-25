@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_zd_iteratedFDeriv_comp_perm
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.zd_iteratedFDeriv_comp_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:27:28.216814+00:00
 -- url     : https://prove2.me/theorems/c70350a2-418f-4c1c-a112-5390fb742fe3

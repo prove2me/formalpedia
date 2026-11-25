@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_exists_unit___eq_ea6a0a298c88
 -- name    : P2M_GlobalTheory_exists_unit___eq_ea6a0a298c88
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:06:54.013441+00:00
 -- url     : https://prove2.me/theorems/b0293e6e-96ea-448d-be52-e5405eadb959

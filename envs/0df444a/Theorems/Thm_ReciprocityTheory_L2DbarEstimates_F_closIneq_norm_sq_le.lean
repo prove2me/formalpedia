@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_closIneq_norm_sq_le
 -- name    : ReciprocityTheory.L2DbarEstimates.F.closIneq_norm_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:56:10.371091+00:00
 -- url     : https://prove2.me/theorems/cea3eabb-aeea-4d35-8f81-598a8c6a9870

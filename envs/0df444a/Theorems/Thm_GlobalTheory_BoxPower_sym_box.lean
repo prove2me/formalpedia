@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxPower_sym_box
 -- name    : GlobalTheory.BoxPower.sym_box
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:32:03.497849+00:00
 -- url     : https://prove2.me/theorems/ea96d5d0-de13-40d3-b55f-4fee1838174b

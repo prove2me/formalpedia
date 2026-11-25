@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Norm_lineFinite
 -- name    : ReciprocityTheory.L2DbarEstimates.Norm.lineFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:58:34.165234+00:00
 -- url     : https://prove2.me/theorems/52f3f039-1ff4-4ad2-97b2-bf70eb9e716d

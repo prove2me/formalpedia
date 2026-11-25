@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Par_exponent_eq_order_polynomial
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Par.exponent_eq_order_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:16:02.117175+00:00
 -- url     : https://prove2.me/theorems/95601d55-dbb4-4387-b0fd-1a536c3eca1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_UnivJets_mem_sq_of_toFirst
 -- name    : GlobalTheory.PowGerm.UnivJets.mem_sq_of_toFirst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:57:12.248809+00:00
 -- url     : https://prove2.me/theorems/839d70ac-1e30-5485-add5-9fd4edb151ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_BdRad_exists_den_prod_params
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.BdRad.exists_den_prod_params
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:28:39.593812+00:00
 -- url     : https://prove2.me/theorems/80411784-0461-4bd7-8581-fe7871307e7a

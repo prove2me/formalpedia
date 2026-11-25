@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_FamSpan_fam_B_comm_3ace86c881b8
 -- name    : P2M_GlobalTheory_FamSpan_fam_B_comm_3ace86c881b8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:29:44.436337+00:00
 -- url     : https://prove2.me/theorems/87c129b3-ebcf-4b0c-b03d-c0b0288dce40

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamDim_fam_term_eq
 -- name    : GlobalTheory.FamDim.fam_term_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:40:29.964246+00:00
 -- url     : https://prove2.me/theorems/a818ce10-3579-4707-8ae7-02f6b37e9f4b

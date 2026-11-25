@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_tanBC_alg
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.tanBC_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:47:00.467234+00:00
 -- url     : https://prove2.me/theorems/3a5d012f-241c-400a-a7ed-4dc8e40db99e

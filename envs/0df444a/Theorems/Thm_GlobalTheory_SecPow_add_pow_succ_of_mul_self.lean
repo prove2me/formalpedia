@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecPow_add_pow_succ_of_mul_self
 -- name    : GlobalTheory.SecPow.add_pow_succ_of_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:48:04.662842+00:00
 -- url     : https://prove2.me/theorems/b8de6290-9d7a-4a9e-9984-652587e8f49c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_isoPullId_maps
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.isoPullId_maps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:23:53.621801+00:00
 -- url     : https://prove2.me/theorems/783d6f58-4c17-48d5-93ff-59729d2637a9

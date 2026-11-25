@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Pj_GSR_one_left__6033dbbff001
 -- name    : P2M_Formalism_L2_Pj_GSR_one_left__6033dbbff001
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:39:01.555719+00:00
 -- url     : https://prove2.me/theorems/30195b2b-d755-5a94-897c-7df41a8bdf5c

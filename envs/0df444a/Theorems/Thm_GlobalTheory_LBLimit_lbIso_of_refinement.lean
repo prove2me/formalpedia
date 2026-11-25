@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LBLimit_lbIso_of_refinement
 -- name    : GlobalTheory.LBLimit.lbIso_of_refinement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:40:59.199804+00:00
 -- url     : https://prove2.me/theorems/b77c5802-a0c5-44aa-b75b-073f35fd6ce0

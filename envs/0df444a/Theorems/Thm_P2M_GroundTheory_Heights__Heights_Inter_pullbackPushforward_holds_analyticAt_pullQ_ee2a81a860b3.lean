@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_pullbackPushforward_holds_analyticAt_pullQ_ee2a81a860b3
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_pullbackPushforward_holds_analyticAt_pullQ_ee2a81a860b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:39:45.038193+00:00
 -- url     : https://prove2.me/theorems/05164d8e-fc4e-5519-b112-c874cd02a5c5

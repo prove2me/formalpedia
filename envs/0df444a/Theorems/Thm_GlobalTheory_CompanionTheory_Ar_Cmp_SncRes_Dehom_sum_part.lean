@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Dehom_sum_part
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Dehom.sum_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:43:25.297291+00:00
 -- url     : https://prove2.me/theorems/4d43d0f7-2191-5393-87ab-9da651e0db17

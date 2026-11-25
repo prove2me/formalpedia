@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_RepBC_pullpull_g
 -- name    : GlobalTheory.ZM.RepBC.pullpull_g
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:19:46.284214+00:00
 -- url     : https://prove2.me/theorems/f49ca00f-7207-48aa-8414-fabb733aa810

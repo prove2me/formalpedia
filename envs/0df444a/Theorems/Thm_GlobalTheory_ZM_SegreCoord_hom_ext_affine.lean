@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_SegreCoord_hom_ext_affine
 -- name    : GlobalTheory.ZM.SegreCoord.hom_ext_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:48:29.865797+00:00
 -- url     : https://prove2.me/theorems/412aaaea-1340-453a-b46f-f9e9c77ed190

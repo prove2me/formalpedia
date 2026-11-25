@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToricData_sec_f_eq
 -- name    : GlobalTheory.ToricData.sec_f_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:28:42.737452+00:00
 -- url     : https://prove2.me/theorems/1422fab5-cc0f-414c-8225-ea08b6cb87a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverPlaces_isIntegral_of_forall
 -- name    : GlobalTheory.CoverPlaces.isIntegral_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:40:45.332802+00:00
 -- url     : https://prove2.me/theorems/0a5e87f9-2a76-4bbb-94c2-da5c7403caab

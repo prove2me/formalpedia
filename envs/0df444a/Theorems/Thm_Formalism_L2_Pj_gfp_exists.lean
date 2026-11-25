@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_gfp_exists
 -- name    : Formalism.L2.Pj.gfp_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:41:40.063917+00:00
 -- url     : https://prove2.me/theorems/1aeb1390-8d8f-5595-979a-18efdb782822

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Spread_eq_isoPullback_hom_comp_bcMap
 -- name    : GlobalTheory.Spread.eq_isoPullback_hom_comp_bcMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:39:36.148669+00:00
 -- url     : https://prove2.me/theorems/2fb379e2-85a2-4ae3-a688-e2138bc3fe5c

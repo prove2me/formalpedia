@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_isHolFam_comp
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.isHolFam_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:37:03.899658+00:00
 -- url     : https://prove2.me/theorems/79685139-e6a1-5550-be2d-26340d476ccc

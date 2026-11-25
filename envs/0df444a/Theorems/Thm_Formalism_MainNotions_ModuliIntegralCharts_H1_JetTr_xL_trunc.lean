@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_JetTr_xL_trunc
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.JetTr.xL_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:02:28.346665+00:00
 -- url     : https://prove2.me/theorems/2afbb07b-d7ba-52d2-9779-423d5f39c12b

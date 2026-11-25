@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSequences_sum_ite_sym2_eq
 -- name    : DegreeSequences.sum_ite_sym2_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:46:04.397324+00:00
 -- url     : https://prove2.me/theorems/3a5414b6-19ce-5088-853c-05d5f8619c1f

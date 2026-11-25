@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1506_07229_zero_condition_from_array_permittivity
 -- name    : Arxiv1506_07229.zero_condition_from_array_permittivity
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:04:06.227801+00:00
 -- url     : https://prove2.me/theorems/bb19e063-462f-4fac-b887-4a3adfdde6d9

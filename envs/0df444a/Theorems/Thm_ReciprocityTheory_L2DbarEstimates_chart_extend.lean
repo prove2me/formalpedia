@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_chart_extend
 -- name    : ReciprocityTheory.L2DbarEstimates.chart_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:00:53.430045+00:00
 -- url     : https://prove2.me/theorems/b0d0406c-e3e8-417e-b417-4d0d50cde2af

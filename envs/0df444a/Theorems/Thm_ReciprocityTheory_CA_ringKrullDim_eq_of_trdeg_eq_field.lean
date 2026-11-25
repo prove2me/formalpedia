@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_ringKrullDim_eq_of_trdeg_eq_field
 -- name    : ReciprocityTheory.CA.ringKrullDim_eq_of_trdeg_eq_field
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:44:02.691787+00:00
 -- url     : https://prove2.me/theorems/a5a82ac0-b0fd-419c-9bc1-1f32502bdb73

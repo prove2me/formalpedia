@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZJ_Core_nonempty_law
 -- name    : GlobalTheory.ZJ.Core.nonempty_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:03:44.312172+00:00
 -- url     : https://prove2.me/theorems/6cc7d56f-4fb9-4b55-807b-8d7731636188

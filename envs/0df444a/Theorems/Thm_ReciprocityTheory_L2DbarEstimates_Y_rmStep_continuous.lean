@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_rmStep_continuous
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.rmStep_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:03:12.240161+00:00
 -- url     : https://prove2.me/theorems/e5ee3bd7-e7f4-51ea-9d58-8aa7701b6e5b

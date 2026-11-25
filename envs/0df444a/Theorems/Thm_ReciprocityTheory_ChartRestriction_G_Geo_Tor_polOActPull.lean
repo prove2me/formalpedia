@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_polOActPull
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.polOActPull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:23:32.748841+00:00
 -- url     : https://prove2.me/theorems/75a4e88b-ee1e-4e0b-9390-198e9d7a3347

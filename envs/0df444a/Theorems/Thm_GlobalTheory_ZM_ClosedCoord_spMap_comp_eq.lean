@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_ClosedCoord_spMap_comp_eq
 -- name    : GlobalTheory.ZM.ClosedCoord.spMap_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:48:01.970314+00:00
 -- url     : https://prove2.me/theorems/dd5c81c3-15a9-4c50-be6a-8cc9d03702f4

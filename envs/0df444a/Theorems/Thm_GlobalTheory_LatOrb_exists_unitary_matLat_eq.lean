@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatOrb_exists_unitary_matLat_eq
 -- name    : GlobalTheory.LatOrb.exists_unitary_matLat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:34:02.596809+00:00
 -- url     : https://prove2.me/theorems/587aefd6-987d-43b7-ad79-e9408d16c081

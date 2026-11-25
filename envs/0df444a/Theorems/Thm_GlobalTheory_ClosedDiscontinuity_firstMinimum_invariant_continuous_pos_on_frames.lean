@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedDiscontinuity_firstMinimum_invariant_continuous_pos_on_frames
 -- name    : GlobalTheory.ClosedDiscontinuity.firstMinimum_invariant_continuous_pos_on_frames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:13:42.565859+00:00
 -- url     : https://prove2.me/theorems/53dfa950-819c-4bdb-ae04-2931989ab773

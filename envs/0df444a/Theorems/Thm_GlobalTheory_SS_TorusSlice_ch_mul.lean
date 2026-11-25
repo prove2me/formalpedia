@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_TorusSlice_ch_mul
 -- name    : GlobalTheory.SS.TorusSlice.ch_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:24:48.14141+00:00
 -- url     : https://prove2.me/theorems/345a358b-e0e8-599e-984a-6195bb3f7f00

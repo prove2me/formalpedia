@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_dedekindZeta_eq_tsum
 -- name    : ReciprocityTheory.Cheb.dedekindZeta_eq_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:16:24.679808+00:00
 -- url     : https://prove2.me/theorems/7afeada5-f89b-4fda-bd7f-1c05217bc577

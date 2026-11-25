@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_lift_oneParameter_quotient_torus
 -- name    : GlobalTheory.T.exists_lift_oneParameter_quotient_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:38:04.777784+00:00
 -- url     : https://prove2.me/theorems/e58aed58-71a0-4fcb-8ef3-485769e2e461

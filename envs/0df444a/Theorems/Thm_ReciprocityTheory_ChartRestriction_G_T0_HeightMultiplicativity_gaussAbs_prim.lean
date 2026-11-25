@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_HeightMultiplicativity_gaussAbs_prim
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.HeightMultiplicativity.gaussAbs_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:36:03.382993+00:00
 -- url     : https://prove2.me/theorems/89e16ca0-074e-5fe7-8b00-ae99ea29b995

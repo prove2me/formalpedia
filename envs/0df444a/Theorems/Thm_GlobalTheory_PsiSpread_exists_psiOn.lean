@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiSpread_exists_psiOn
 -- name    : GlobalTheory.PsiSpread.exists_psiOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:09:06.667804+00:00
 -- url     : https://prove2.me/theorems/c33f195a-2c0b-41a0-b269-b85e992a1ac7

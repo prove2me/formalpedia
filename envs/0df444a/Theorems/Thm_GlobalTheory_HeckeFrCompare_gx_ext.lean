@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeFrCompare_gx_ext
 -- name    : GlobalTheory.HeckeFrCompare.gx_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:44:25.043769+00:00
 -- url     : https://prove2.me/theorems/20be9a7b-05c2-4b0e-b8e3-ae0cf6368efa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieLoc_exists_standardSmooth_chart
 -- name    : GlobalTheory.LieLoc.exists_standardSmooth_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:45:12.20873+00:00
 -- url     : https://prove2.me/theorems/bccafdff-42ed-58a6-8f46-1747e8dedb21

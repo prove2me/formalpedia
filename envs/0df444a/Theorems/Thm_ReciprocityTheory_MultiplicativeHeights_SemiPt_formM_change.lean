@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_formM_change
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.formM_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:03:00.602779+00:00
 -- url     : https://prove2.me/theorems/420420dd-f1fa-47c1-a468-dfa68e33d701

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Kreg_isRegularLocalRing_locRing_of_span
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Kreg.isRegularLocalRing_locRing_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:27:04.118839+00:00
 -- url     : https://prove2.me/theorems/643ea1ec-0aa8-5b3d-937d-a44647543347

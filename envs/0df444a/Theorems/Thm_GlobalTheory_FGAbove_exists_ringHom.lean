@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FGAbove_exists_ringHom
 -- name    : GlobalTheory.FGAbove.exists_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:07:09.96507+00:00
 -- url     : https://prove2.me/theorems/440101f6-25a2-4c9c-9e3f-e0ae3963ef70

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_chartIdeal_le_ptIdealOf
 -- name    : ReciprocityTheory.AnForm.R.chartIdeal_le_ptIdealOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:17:23.746045+00:00
 -- url     : https://prove2.me/theorems/be944b84-1940-4872-b10a-5083d8855455

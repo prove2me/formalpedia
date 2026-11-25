@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSequences_hhExtend_adj_zero_zero
 -- name    : DegreeSequences.hhExtend_adj_zero_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:46:48.884807+00:00
 -- url     : https://prove2.me/theorems/4762a0bf-b6f9-4e53-969d-c5129c9f3bae

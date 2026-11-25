@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedLimit_isClosedImmersion_of_isPullback
 -- name    : GlobalTheory.ClosedLimit.isClosedImmersion_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:47:06.59473+00:00
 -- url     : https://prove2.me/theorems/baf2ea26-9596-4e5e-841a-9be297c1a48c

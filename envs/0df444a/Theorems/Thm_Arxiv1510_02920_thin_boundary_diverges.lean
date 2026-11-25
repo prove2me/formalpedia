@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1510_02920_thin_boundary_diverges
 -- name    : Arxiv1510_02920.thin_boundary_diverges
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:11:18.869661+00:00
 -- url     : https://prove2.me/theorems/c8da703a-6500-40b2-9cc2-20e427d0b52b

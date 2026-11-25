@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamGen_constVal_mul
 -- name    : GlobalTheory.FamGen.constVal_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:41:41.767836+00:00
 -- url     : https://prove2.me/theorems/c7236ea3-c60b-488e-8799-71d7194586a6

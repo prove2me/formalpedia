@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_PrincipalLatDVR_eq_mulLat_integralClosure_of_separable
 -- name    : GlobalTheory.UnitLemma.PrincipalLatDVR.eq_mulLat_integralClosure_of_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:10:07.128805+00:00
 -- url     : https://prove2.me/theorems/acbba960-e2ba-4876-9d01-e797698d0fae

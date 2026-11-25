@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSequences_card_hhSet
 -- name    : DegreeSequences.card_hhSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:37:18.906834+00:00
 -- url     : https://prove2.me/theorems/8b607b92-75a1-4744-b46e-34027b1ffbf4

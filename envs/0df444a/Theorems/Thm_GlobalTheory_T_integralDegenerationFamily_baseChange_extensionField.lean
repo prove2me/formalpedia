@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integralDegenerationFamily_baseChange_extensionField
 -- name    : GlobalTheory.T.integralDegenerationFamily_baseChange_extensionField
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:00:49.762551+00:00
 -- url     : https://prove2.me/theorems/bf1e8dcf-9a16-4830-8362-36937f9b4139

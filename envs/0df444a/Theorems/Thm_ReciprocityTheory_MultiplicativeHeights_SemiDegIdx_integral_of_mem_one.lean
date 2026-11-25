@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiDegIdx_integral_of_mem_one
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiDegIdx.integral_of_mem_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:02:02.507978+00:00
 -- url     : https://prove2.me/theorems/b7bc367f-d05f-5096-aeea-b84058d37d80

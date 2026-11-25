@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecPow_eq_of_preimage_eq
 -- name    : GlobalTheory.SecPow.eq_of_preimage_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:48:44.644143+00:00
 -- url     : https://prove2.me/theorems/b3ce2fa5-69ce-4372-9d17-7d50b345ac05

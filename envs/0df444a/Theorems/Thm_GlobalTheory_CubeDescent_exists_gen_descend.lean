@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeDescent_exists_gen_descend
 -- name    : GlobalTheory.CubeDescent.exists_gen_descend
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:28:19.523568+00:00
 -- url     : https://prove2.me/theorems/e5d2e664-cf80-4c78-9db9-1d7259df4fe2

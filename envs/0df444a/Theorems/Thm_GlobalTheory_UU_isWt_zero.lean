@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_isWt_zero
 -- name    : GlobalTheory.UU.isWt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:43:22.863841+00:00
 -- url     : https://prove2.me/theorems/c52d4737-52b5-4987-877e-8f8161bf355a

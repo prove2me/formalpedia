@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_zd_fderiv_symm
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.zd_fderiv_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:00:57.706354+00:00
 -- url     : https://prove2.me/theorems/562b7e6e-5c7c-4acf-84d8-e2e6d76c1e2d

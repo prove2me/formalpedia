@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_RgExh_Hk_UnitPf_Pr_tensE
 -- name    : CompanionTheory.RgExh.Hk.UnitPf.Pr_tensE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:32:48.608244+00:00
 -- url     : https://prove2.me/theorems/1a072ab7-917f-4ae2-bcf7-4a7b78bd62c5

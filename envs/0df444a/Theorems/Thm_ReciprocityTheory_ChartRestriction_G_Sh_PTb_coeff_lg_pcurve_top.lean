@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_PTb_coeff_lg_pcurve_top
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.PTb.coeff_lg_pcurve_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:34:56.174998+00:00
 -- url     : https://prove2.me/theorems/ed460944-9d22-401a-bce7-70ff6ab83bc8

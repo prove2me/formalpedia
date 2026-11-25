@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_torus_mod_integralUnits_structure_and_integrality
 -- name    : GlobalTheory.T.torus_mod_integralUnits_structure_and_integrality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:35:36.261591+00:00
 -- url     : https://prove2.me/theorems/d6169629-81db-4919-b051-088a4aa5a4ba

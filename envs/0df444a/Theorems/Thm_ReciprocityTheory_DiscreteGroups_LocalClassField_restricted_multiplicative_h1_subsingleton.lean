@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_restricted_multiplicative_h1_subsingleton
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.restricted_multiplicative_h1_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:46:30.204862+00:00
 -- url     : https://prove2.me/theorems/efbba4d9-592e-4007-b938-6ee9ce46e00c

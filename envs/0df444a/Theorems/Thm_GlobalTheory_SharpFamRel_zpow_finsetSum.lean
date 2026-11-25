@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpFamRel_zpow_finsetSum
 -- name    : GlobalTheory.SharpFamRel.zpow_finsetSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:48:56.993477+00:00
 -- url     : https://prove2.me/theorems/271cd127-7f82-4a41-a4af-5c7d640fff9a

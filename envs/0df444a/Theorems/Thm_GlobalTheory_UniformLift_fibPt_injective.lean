@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UniformLift_fibPt_injective
 -- name    : GlobalTheory.UniformLift.fibPt_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:24:47.604949+00:00
 -- url     : https://prove2.me/theorems/6653401f-bce6-52c6-9c8e-0f48aee02062

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_DegAdd_exists_int_smul_mem_span
 -- name    : ReciprocityTheory.MultiplicativeHeights.DegAdd.exists_int_smul_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:01:24.391829+00:00
 -- url     : https://prove2.me/theorems/7b4aa170-6abf-5132-aa23-9b0d6e8716a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_deriv_smoothTransition_bounded
 -- name    : ReciprocityTheory.L2DbarEstimates.F.deriv_smoothTransition_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:02:04.758806+00:00
 -- url     : https://prove2.me/theorems/69bf9f15-3468-4651-bef0-e214eedcc60a

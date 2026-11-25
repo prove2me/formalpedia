@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_DiffSmall_exists_lower_bound
 -- name    : GlobalTheory.Cyc.DiffSmall.exists_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:13:53.655625+00:00
 -- url     : https://prove2.me/theorems/4472d911-34ec-4350-a12a-f885197c593e

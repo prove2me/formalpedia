@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowAlongIso_isGen_germ
 -- name    : GlobalTheory.PowAlongIso.isGen_germ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:19:42.489531+00:00
 -- url     : https://prove2.me/theorems/b76ec4b0-7625-47af-8f36-6bd5dc9c3fa7

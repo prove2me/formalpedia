@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_finrank_cotangentSpace_locAt
 -- name    : ReciprocityTheory.AnForm.R.finrank_cotangentSpace_locAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:07:24.460225+00:00
 -- url     : https://prove2.me/theorems/96879533-47ec-4916-9235-0b0edb805275

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawFrameBC_exists_frames
 -- name    : GlobalTheory.RawFrameBC.exists_frames
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:24:36.798529+00:00
 -- url     : https://prove2.me/theorems/33bcf353-4b0d-434d-9dfc-a26417bee45f

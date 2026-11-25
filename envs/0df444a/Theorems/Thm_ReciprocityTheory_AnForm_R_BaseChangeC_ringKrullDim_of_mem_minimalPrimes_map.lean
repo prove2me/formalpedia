@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_BaseChangeC_ringKrullDim_of_mem_minimalPrimes_map
 -- name    : ReciprocityTheory.AnForm.R.BaseChangeC.ringKrullDim_of_mem_minimalPrimes_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:11:06.67121+00:00
 -- url     : https://prove2.me/theorems/54b609cf-2ee5-4748-a430-5000abcb6650

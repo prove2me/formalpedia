@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilNoncomm_twoCharts_iso
 -- name    : GlobalTheory.WeilNoncomm.twoCharts_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:18:21.142287+00:00
 -- url     : https://prove2.me/theorems/ba61c25f-49da-59f0-ab23-bbc93d42f853

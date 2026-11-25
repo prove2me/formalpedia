@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_isoRelM_lin
 -- name    : GlobalTheory.FieldBaseChange.isoRelM_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:48:34.97184+00:00
 -- url     : https://prove2.me/theorems/528d9a39-f9a9-48be-a1ae-5d68e0f6b343

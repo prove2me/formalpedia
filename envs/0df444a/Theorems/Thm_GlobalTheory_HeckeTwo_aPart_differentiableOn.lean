@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_aPart_differentiableOn
 -- name    : GlobalTheory.HeckeTwo.aPart_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:07:11.582938+00:00
 -- url     : https://prove2.me/theorems/e552f961-c5c6-477e-8c35-8bcafd9db92f

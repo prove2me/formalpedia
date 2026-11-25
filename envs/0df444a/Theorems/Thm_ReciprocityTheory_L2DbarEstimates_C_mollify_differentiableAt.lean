@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_mollify_differentiableAt
 -- name    : ReciprocityTheory.L2DbarEstimates.C.mollify_differentiableAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:18:19.365884+00:00
 -- url     : https://prove2.me/theorems/64219ca7-0445-418c-a08f-f004b1051b85

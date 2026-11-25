@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_choose_le_pow_div_factorial
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.choose_le_pow_div_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:32:18.366624+00:00
 -- url     : https://prove2.me/theorems/0e626f30-3fde-46b2-8356-cd33cefc37bd

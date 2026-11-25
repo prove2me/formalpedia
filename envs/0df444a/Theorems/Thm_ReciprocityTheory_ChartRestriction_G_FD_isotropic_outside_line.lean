@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_isotropic_outside_line
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.isotropic_outside_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:23:08.094091+00:00
 -- url     : https://prove2.me/theorems/2bb630d1-32d7-5e47-99bd-2da8b990c43f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_clear_denom
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.clear_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:03:07.408361+00:00
 -- url     : https://prove2.me/theorems/bccbd8d4-73f6-5775-a234-1f445392d8ab

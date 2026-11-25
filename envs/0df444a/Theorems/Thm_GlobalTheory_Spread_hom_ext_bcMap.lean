@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Spread_hom_ext_bcMap
 -- name    : GlobalTheory.Spread.hom_ext_bcMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:38:21.921805+00:00
 -- url     : https://prove2.me/theorems/f0d5fd51-a443-4af3-95a7-4af8ac2fa5e3

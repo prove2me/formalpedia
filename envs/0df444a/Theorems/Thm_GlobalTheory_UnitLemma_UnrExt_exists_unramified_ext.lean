@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_UnrExt_exists_unramified_ext
 -- name    : GlobalTheory.UnitLemma.UnrExt.exists_unramified_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:38:06.788876+00:00
 -- url     : https://prove2.me/theorems/a25a5433-c035-4abe-8e65-0f8b4ce48740

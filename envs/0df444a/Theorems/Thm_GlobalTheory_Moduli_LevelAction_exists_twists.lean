@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Moduli_LevelAction_exists_twists
 -- name    : GlobalTheory.Moduli.LevelAction.exists_twists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:26:44.829794+00:00
 -- url     : https://prove2.me/theorems/fbc8db0f-a1b8-4856-b6fb-ef863fc5cf1d

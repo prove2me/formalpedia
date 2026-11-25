@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_lift_mem_conePts
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.lift_mem_conePts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:20:49.183048+00:00
 -- url     : https://prove2.me/theorems/66be9d5a-2225-52e3-ac1a-8e318de76fd6

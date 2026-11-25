@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nabVal_columns_congr
 -- name    : GlobalTheory.nabVal_columns_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:56:17.370441+00:00
 -- url     : https://prove2.me/theorems/e8af6bf5-bcbd-4cd0-9eb8-2a0ff0b0e522

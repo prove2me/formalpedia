@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_TorusSlice_appLE_comp_top
 -- name    : GlobalTheory.SS.TorusSlice.appLE_comp_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:17:29.022506+00:00
 -- url     : https://prove2.me/theorems/eb21d30d-b932-4f22-947f-2fd6b321e494

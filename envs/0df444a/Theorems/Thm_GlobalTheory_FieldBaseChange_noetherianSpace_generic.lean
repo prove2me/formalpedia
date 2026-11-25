@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_noetherianSpace_generic
 -- name    : GlobalTheory.FieldBaseChange.noetherianSpace_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:49:42.231355+00:00
 -- url     : https://prove2.me/theorems/e0a49502-db9e-4813-89dc-eccbfb553ea1

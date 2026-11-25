@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_abs_norm_neg
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.abs_norm_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:02:41.594485+00:00
 -- url     : https://prove2.me/theorems/40e38d01-b2d8-44e1-b5e0-dcab686a9b97

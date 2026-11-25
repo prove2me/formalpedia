@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Twist_bijective_app_of_cover
 -- name    : GlobalTheory.Twist.bijective_app_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:10:51.412851+00:00
 -- url     : https://prove2.me/theorems/7155f442-2502-59b5-b71a-59d265f67444

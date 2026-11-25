@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaScalar_secVal_smul
 -- name    : GlobalTheory.ThetaScalar.secVal_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:43:40.521469+00:00
 -- url     : https://prove2.me/theorems/2200a227-eec7-43ea-9566-25101af0f925

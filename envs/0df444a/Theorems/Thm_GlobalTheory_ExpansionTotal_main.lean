@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpansionTotal_main
 -- name    : GlobalTheory.ExpansionTotal.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:01:53.948918+00:00
 -- url     : https://prove2.me/theorems/2d77145d-a990-4c3d-b2c4-222a5a048c24

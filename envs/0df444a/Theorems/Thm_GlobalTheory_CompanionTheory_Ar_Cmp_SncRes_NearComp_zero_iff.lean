@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_NearComp_zero_iff
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.NearComp.zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:37:55.640715+00:00
 -- url     : https://prove2.me/theorems/345ec20c-0f26-4d2e-9eb3-36bd6aa08916

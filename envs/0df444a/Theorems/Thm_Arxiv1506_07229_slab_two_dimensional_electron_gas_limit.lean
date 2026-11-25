@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1506_07229_slab_two_dimensional_electron_gas_limit
 -- name    : Arxiv1506_07229.slab_two_dimensional_electron_gas_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:06:25.06907+00:00
 -- url     : https://prove2.me/theorems/54fe098a-af8a-4e51-bbb0-ac60685f4c64

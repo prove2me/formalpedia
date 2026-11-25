@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_boxProducts_basis_span_powObj_sections
 -- name    : GlobalTheory.T.boxProducts_basis_span_powObj_sections
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:27:47.969444+00:00
 -- url     : https://prove2.me/theorems/5b5ce69b-5006-403c-89c1-be5d516762e2

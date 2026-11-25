@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_RegC_key_centre
 -- name    : Formalism.L2.Pj.RegC.key_centre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:47:25.009162+00:00
 -- url     : https://prove2.me/theorems/cac27a6e-c300-46a8-bd82-ac5d26800ff1

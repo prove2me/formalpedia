@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsSheetOnlyNull_isSimpleSheetPt_of_injective_6b1dc600c13c
 -- name    : P2M_GroundTheory_Heights__Heights_PtsSheetOnlyNull_isSimpleSheetPt_of_injective_6b1dc600c13c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:04:33.235016+00:00
 -- url     : https://prove2.me/theorems/dd0d45a1-0a3a-4701-9049-886d925988af

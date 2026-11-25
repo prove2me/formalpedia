@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Par_primes_below_params
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Par.primes_below_params
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:13:31.917329+00:00
 -- url     : https://prove2.me/theorems/1078a82d-dcfc-5057-a14c-373ed6f6fabc

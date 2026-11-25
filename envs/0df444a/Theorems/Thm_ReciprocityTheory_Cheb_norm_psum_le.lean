@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_norm_psum_le
 -- name    : ReciprocityTheory.Cheb.norm_psum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:48:27.316574+00:00
 -- url     : https://prove2.me/theorems/799889ee-b41c-42f4-82ee-471a16d27e26

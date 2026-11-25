@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_CompactEntryBounds_comb_bound
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.CompactEntryBounds.comb_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:18:36.421841+00:00
 -- url     : https://prove2.me/theorems/6b544b5a-8331-5d80-87d9-e1b21610e14d

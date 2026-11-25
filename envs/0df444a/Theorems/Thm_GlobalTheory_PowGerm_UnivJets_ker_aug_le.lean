@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_UnivJets_ker_aug_le
 -- name    : GlobalTheory.PowGerm.UnivJets.ker_aug_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:56:29.319649+00:00
 -- url     : https://prove2.me/theorems/ae497dc1-5b4a-563d-b5b2-bc3793b525df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToricData_toricPre_tate
 -- name    : GlobalTheory.ToricData.toricPre_tate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:14:33.125307+00:00
 -- url     : https://prove2.me/theorems/172022b7-f4f6-4c56-b8ae-a3319cf6463f

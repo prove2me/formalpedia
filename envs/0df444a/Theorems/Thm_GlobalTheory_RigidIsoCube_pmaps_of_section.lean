@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RigidIsoCube_pmaps_of_section
 -- name    : GlobalTheory.RigidIsoCube.pmaps_of_section
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:54:48.567235+00:00
 -- url     : https://prove2.me/theorems/520506fa-500a-4ecb-956f-f8ea743efa04

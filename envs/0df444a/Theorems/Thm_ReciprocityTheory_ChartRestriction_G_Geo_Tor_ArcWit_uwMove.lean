@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_ArcWit_uwMove
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.ArcWit.uwMove
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:25:16.572051+00:00
 -- url     : https://prove2.me/theorems/4c400627-84e2-419f-862f-8ac723b04633

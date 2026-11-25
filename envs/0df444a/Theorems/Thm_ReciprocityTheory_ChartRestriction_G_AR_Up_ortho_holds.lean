@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ortho_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ortho_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:57:59.992579+00:00
 -- url     : https://prove2.me/theorems/209b5aa1-fb00-4094-a2cb-67d761bb3c0d

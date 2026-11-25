@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_opToS_alg
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.opToS_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:09:07.288734+00:00
 -- url     : https://prove2.me/theorems/c592804d-a844-5f8c-a839-ab880112a1e2

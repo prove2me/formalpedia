@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix2b_cc_pt__5e1994025291
 -- name    : P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix2b_cc_pt__5e1994025291
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:31:31.081801+00:00
 -- url     : https://prove2.me/theorems/60f6f978-ed89-54e8-aba1-36aa496e3b33

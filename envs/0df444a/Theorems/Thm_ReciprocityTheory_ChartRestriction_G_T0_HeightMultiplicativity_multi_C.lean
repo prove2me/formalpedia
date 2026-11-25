@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_HeightMultiplicativity_multi_C
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.HeightMultiplicativity.multi_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:45:46.892409+00:00
 -- url     : https://prove2.me/theorems/eb25ce7b-6d22-438d-b2de-d9e0aa7f4dc1

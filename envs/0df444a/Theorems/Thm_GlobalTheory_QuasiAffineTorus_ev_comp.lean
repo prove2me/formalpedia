@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuasiAffineTorus_ev_comp
 -- name    : GlobalTheory.QuasiAffineTorus.ev_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:44:50.834535+00:00
 -- url     : https://prove2.me/theorems/1d99de24-9b39-4f73-9d94-728b07efb883

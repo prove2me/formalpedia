@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_splitTorus_extension_descends_alt
 -- name    : GlobalTheory.T.splitTorus_extension_descends_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:59:43.96934+00:00
 -- url     : https://prove2.me/theorems/00c3070b-1025-4344-8669-4e5e552d2aaf

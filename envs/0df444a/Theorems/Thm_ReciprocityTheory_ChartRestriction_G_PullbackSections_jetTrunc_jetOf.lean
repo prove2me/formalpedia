@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_jetTrunc_jetOf
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.jetTrunc_jetOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:21:16.165859+00:00
 -- url     : https://prove2.me/theorems/ec1ca45c-8c6f-4e08-9b64-2c282a1989dc

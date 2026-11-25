@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Diag_coord_mul
 -- name    : GlobalTheory.Diag.coord_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:08:18.065949+00:00
 -- url     : https://prove2.me/theorems/d6e99e20-8056-42e6-8f12-cb761111e29a

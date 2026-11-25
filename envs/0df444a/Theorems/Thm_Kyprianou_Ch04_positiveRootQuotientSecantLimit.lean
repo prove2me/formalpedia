@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_positiveRootQuotientSecantLimit
 -- name    : Kyprianou.Ch04.positiveRootQuotientSecantLimit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T12:33:59.551117+00:00
 -- url     : https://prove2.me/theorems/29857b85-6615-4bdc-886d-9b5a24476db8

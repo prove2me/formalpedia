@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_ap_prod_blowup
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.ap_prod_blowup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:06:53.105831+00:00
 -- url     : https://prove2.me/theorems/5f013963-6ac6-4581-9907-236049b27cd7

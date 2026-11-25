@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateStep_HasDlog_mul
 -- name    : GlobalTheory.HodgeTateStep.HasDlog.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:24:48.121245+00:00
 -- url     : https://prove2.me/theorems/4960f088-f968-5b66-a660-6cd87bec005e

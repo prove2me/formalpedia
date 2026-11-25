@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FGAbove_isFiltered
 -- name    : GlobalTheory.FGAbove.isFiltered
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:14:13.95865+00:00
 -- url     : https://prove2.me/theorems/301560bb-26e2-521a-aa66-def4b59d8d1a

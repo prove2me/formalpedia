@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetExtend_exists_factor
 -- name    : GlobalTheory.DetExtend.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:44:18.694127+00:00
 -- url     : https://prove2.me/theorems/c3aa7cb0-706e-5acc-a085-fca9797e06e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Par_ptI_le_of_span_grad_eq_top
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Par.ptI_le_of_span_grad_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:26:53.211739+00:00
 -- url     : https://prove2.me/theorems/85e01784-fc5f-5e4c-a368-fcb1f06172fa

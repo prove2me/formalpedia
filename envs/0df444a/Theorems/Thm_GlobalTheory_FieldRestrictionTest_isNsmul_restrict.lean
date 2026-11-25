@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldRestrictionTest_isNsmul_restrict
 -- name    : GlobalTheory.FieldRestrictionTest.isNsmul_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:37:55.892652+00:00
 -- url     : https://prove2.me/theorems/42f81716-1f99-4188-b865-48821267ca37
