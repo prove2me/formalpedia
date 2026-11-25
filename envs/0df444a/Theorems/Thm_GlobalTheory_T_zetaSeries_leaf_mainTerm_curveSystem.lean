@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_zetaSeries_leaf_mainTerm_curveSystem
 -- name    : GlobalTheory.T.zetaSeries_leaf_mainTerm_curveSystem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:30.242399+00:00
 -- url     : https://prove2.me/theorems/930eede8-21c6-46fa-a39a-f0ff6e2baa5a

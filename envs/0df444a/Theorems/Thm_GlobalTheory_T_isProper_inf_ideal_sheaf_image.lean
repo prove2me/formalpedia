@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isProper_inf_ideal_sheaf_image
 -- name    : GlobalTheory.T.isProper_inf_ideal_sheaf_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:36:35.021545+00:00
 -- url     : https://prove2.me/theorems/680ddad9-8583-4c13-b2a0-25115e593f6c

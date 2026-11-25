@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_thetaPointsVanishingIdeal_radical_homogeneous
 -- name    : GlobalTheory.T.thetaPointsVanishingIdeal_radical_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:40:38.509908+00:00
 -- url     : https://prove2.me/theorems/4cb3d578-051b-5036-8474-7a52c5679647

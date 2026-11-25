@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_effCartier_restrict_iff_cartier_at
 -- name    : GlobalTheory.T.effCartier_restrict_iff_cartier_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:20:19.389376+00:00
 -- url     : https://prove2.me/theorems/96c9afb3-ceb3-48ec-b076-a278420248f3

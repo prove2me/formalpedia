@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCob_toCech_d0
 -- name    : GlobalTheory.T.isCob_toCech_d0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T16:04:23.690354+00:00
 -- url     : https://prove2.me/theorems/a8af9c8c-ea30-5444-9279-a485a680737a

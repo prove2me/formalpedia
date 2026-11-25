@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_symmetricLevelChain_classAt_every_position
 -- name    : GlobalTheory.T.symmetricLevelChain_classAt_every_position
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:40:41.356322+00:00
 -- url     : https://prove2.me/theorems/ed6396f6-85c3-544a-a92d-c64e4d4d3425

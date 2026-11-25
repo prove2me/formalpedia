@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecLimit_mul_mem_iff
 -- name    : GlobalTheory.SecLimit.mul_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T16:29:37.151158+00:00
 -- url     : https://prove2.me/theorems/6646f9fd-421d-4f75-8b2f-c47c766e4b5f

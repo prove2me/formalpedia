@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos919_ColorableOn_toNat
 -- name    : Erdos919.ColorableOn.toNat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T18:18:52.322801+00:00
 -- url     : https://prove2.me/theorems/a1e08a83-2a94-57a8-bf2e-0de6f7bc7e1e

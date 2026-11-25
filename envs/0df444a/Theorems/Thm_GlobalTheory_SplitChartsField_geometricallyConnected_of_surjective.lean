@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitChartsField_geometricallyConnected_of_surjective
 -- name    : GlobalTheory.SplitChartsField.geometricallyConnected_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T17:48:05.003161+00:00
 -- url     : https://prove2.me/theorems/b3f95142-4274-48f6-8d1f-a21359966eed

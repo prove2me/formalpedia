@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_normCoeffIdealFamily_map_basicOpen
 -- name    : GlobalTheory.T.normCoeffIdealFamily_map_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:36:11.841317+00:00
 -- url     : https://prove2.me/theorems/1292d2ea-b413-5461-a760-4d8158456f7c

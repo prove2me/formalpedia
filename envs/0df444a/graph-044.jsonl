@@ -30283,9 +30283,9 @@
 {"parent": "GlobalTheory.DerivEndo.iterate_dof_C_mul", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_ContinuousPderivDisc", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DerivEndo.iterate_dof_C_mul", "child": "Development_AbelianVarietyTheory_Proofs_FormalGroupCharts_FormalSecondPointDerivativeSecondCoordinate", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DerivEndo.iterate_dof_C_mul", "child": "Development_AbelianVarietyTheory_Proofs_JetHarmonics_InvariantDerivAlongEndo", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.finiteENNCompensatedMartingale", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.finiteENNCompensatedMartingale", "child": "Kyprianou_Ch04_PoissonCompensationSetting", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.finiteENNCompensatedMartingale", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.finiteENNCompensatedMartingale", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.finiteENNCompensatedMartingale", "child": "Kyprianou_Ch04_PoissonCompensationSetting", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.finiteENNCompensatedMartingale", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.FormalSeriesBounds.rtj_degree_embDomain", "child": "Formalism_LocalToGlobal_CharacterGerms_MemVarsProdAll", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.FormalSeriesBounds.rtj_degree_embDomain", "child": "Formalism_LocalToGlobal_CharacterGerms_RowTieJet", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_sectionsOn_to__mapOver_3feea3d5df06", "child": "Development_AbelianVarietyTheory_Definitions_QuasicoherentCohomology_HdimEqZeroOfSubsingleton", "via": ["solution", "statement"]}

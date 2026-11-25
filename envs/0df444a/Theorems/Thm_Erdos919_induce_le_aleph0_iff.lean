@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos919_induce_le_aleph0_iff
 -- name    : Erdos919.induce_le_aleph0_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T18:25:57.739846+00:00
 -- url     : https://prove2.me/theorems/5f94831c-799e-405f-90d8-0bbe86d62f36

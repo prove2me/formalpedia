@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_graph_short_witness
 -- name    : OAI.Optimization.LinearProgramming.Lattice.graph_short_witness
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:25:04.793965+00:00
 -- url     : https://prove2.me/theorems/a5796ada-aef1-4c36-8f89-b4f8277bfa3e

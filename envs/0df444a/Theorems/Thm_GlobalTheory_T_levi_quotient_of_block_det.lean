@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_levi_quotient_of_block_det
 -- name    : GlobalTheory.T.levi_quotient_of_block_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:34:51.991799+00:00
 -- url     : https://prove2.me/theorems/ae98ec17-4f1f-5bdc-b34b-0ee3362f7372

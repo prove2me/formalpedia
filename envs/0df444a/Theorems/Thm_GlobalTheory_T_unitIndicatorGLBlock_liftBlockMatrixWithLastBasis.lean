@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitIndicatorGLBlock_liftBlockMatrixWithLastBasis
 -- name    : GlobalTheory.T.unitIndicatorGLBlock_liftBlockMatrixWithLastBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:40:34.696799+00:00
 -- url     : https://prove2.me/theorems/41f2c91b-ff9f-449b-bdb2-4bb07eecc71b

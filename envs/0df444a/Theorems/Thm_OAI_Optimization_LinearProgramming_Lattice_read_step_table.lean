@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_read_step_table
 -- name    : OAI.Optimization.LinearProgramming.Lattice.read_step_table
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:24:50.064842+00:00
 -- url     : https://prove2.me/theorems/72fe575f-1e92-4c6d-bbb3-32904127eced

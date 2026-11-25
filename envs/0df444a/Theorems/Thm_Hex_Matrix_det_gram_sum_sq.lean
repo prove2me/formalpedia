@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_Matrix_det_gram_sum_sq
 -- name    : Hex.Matrix.det_gram_sum_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:01:04.577399+00:00
 -- url     : https://prove2.me/theorems/486a0955-ec76-4309-8843-a29ece2afc57

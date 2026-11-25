@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_regularFunction_const_of_finite_values_on_period_space
 -- name    : GlobalTheory.T.regularFunction_const_of_finite_values_on_period_space
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:38:19.538207+00:00
 -- url     : https://prove2.me/theorems/4705cc26-5938-4f0c-9b75-76b1c6942ce3

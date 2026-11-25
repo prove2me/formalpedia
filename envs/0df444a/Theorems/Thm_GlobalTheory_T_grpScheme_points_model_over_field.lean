@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_grpScheme_points_model_over_field
 -- name    : GlobalTheory.T.grpScheme_points_model_over_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:33:35.822641+00:00
 -- url     : https://prove2.me/theorems/32a9b471-fdcb-4b2b-a264-6a44a515b737

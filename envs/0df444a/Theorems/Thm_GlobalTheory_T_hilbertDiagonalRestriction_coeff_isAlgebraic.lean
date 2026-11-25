@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hilbertDiagonalRestriction_coeff_isAlgebraic
 -- name    : GlobalTheory.T.hilbertDiagonalRestriction_coeff_isAlgebraic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:41.754238+00:00
 -- url     : https://prove2.me/theorems/9e43dc23-1059-5af1-989e-2869667bc60e

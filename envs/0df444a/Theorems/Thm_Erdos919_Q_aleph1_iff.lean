@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos919_Q_aleph1_iff
 -- name    : Erdos919.Q_aleph1_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T18:18:31.154785+00:00
 -- url     : https://prove2.me/theorems/f7e2bb9b-a60b-5773-b972-1fe6d25e3db7

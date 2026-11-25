@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFinitePart_eq_comp_section
 -- name    : GlobalTheory.SplitFinitePart.eq_comp_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:24:18.036908+00:00
 -- url     : https://prove2.me/theorems/b48e6b2b-a293-4de8-a3d8-85c1f079b17a

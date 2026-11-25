@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smul_gluedLatticeFirstPosition_cases
 -- name    : GlobalTheory.T.smul_gluedLatticeFirstPosition_cases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:46:15.188672+00:00
 -- url     : https://prove2.me/theorems/61fe68ca-df89-559c-90dc-1f4581fe97ab

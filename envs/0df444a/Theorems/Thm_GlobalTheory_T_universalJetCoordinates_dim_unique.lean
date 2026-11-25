@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_universalJetCoordinates_dim_unique
 -- name    : GlobalTheory.T.universalJetCoordinates_dim_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:00:45.245927+00:00
 -- url     : https://prove2.me/theorems/696c609b-ae15-4049-ae98-cefc44d79d10

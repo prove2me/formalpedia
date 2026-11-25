@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_fnAtHom_apply
 -- name    : GlobalTheory.ThetaFn.fnAtHom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:42:27.872265+00:00
 -- url     : https://prove2.me/theorems/18dde997-207c-4494-b6c8-858d0c9f47bc

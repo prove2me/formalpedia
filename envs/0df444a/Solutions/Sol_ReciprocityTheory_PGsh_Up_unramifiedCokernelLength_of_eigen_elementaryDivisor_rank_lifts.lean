@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for ReciprocityTheory.PGsh.Up.unramifiedCokernelLength_of_eigen_elementaryDivisor_rank_lifts
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T18:23:42.26835+00:00
+-- url     : https://prove2.me/submissions/a3b08b28-5d5a-439c-bc07-fd536fb17cb6
+
+import Definitions.Def_ReciprocityTheory_DualLattices_UnramifiedCokernelLengthOfLengthEigenLengthProduct
+import Definitions.Def_ReciprocityTheory_DualLattices_EqZeroOfIsoZero
+import Definitions.Def_ReciprocityTheory_DualLattices_MatEquivApply
+import Definitions.Def_ReciprocityTheory_DualLattices_EigenLengthProductStatementHolds
+import Definitions.Def_ReciprocityTheory_DualLattices_LenEx
+import Definitions.Def_ReciprocityTheory_DualLattices_MonomialsSpanOfProdEq
+import Definitions.Def_ReciprocityTheory_DualLattices_EigenLiftsFrobenius
+import Definitions.Def_ReciprocityTheory_DualLattices_ElementaryDivisorStatement
+import Definitions.Def_ReciprocityTheory_DualLattices_RankEqRankOfPermAndZero
+import Definitions.Def_ReciprocityTheory_DualLattices_LiftMonomialDeterminantStatementHolds
+import Definitions.Def_ReciprocityTheory_DualLattices_FrobeniusBlock
+import Definitions.Def_ReciprocityTheory_DualLattices_SumX
+import Definitions.Def_ReciprocityTheory_DualLattices_EmbeddingSeparatingGroup
+import Definitions.Def_ReciprocityTheory_DualLattices_FrobeniusOfGroupDivisorsRank
+import Theorems.Thm_ReciprocityTheory_PGsh_Up_frobenius_of_length_lifts
+import Theorems.Thm_ReciprocityTheory_PGsh_Up_eigenLengthProductStatement_holds
+import Theorems.Thm_ReciprocityTheory_PGsh_Up_lenEx
+import Theorems.Thm_ReciprocityTheory_PGsh_Up_lenId
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ReciprocityTheory ReciprocityTheory.PGsh ReciprocityTheory.PGsh.Up
+namespace ReciprocityTheory.PGsh.Up
+theorem _root_.solution (hG : EmbeddingSeparatingGroupStatement) (hE : EigenElementaryDivisorStatement)
+    (hR : EigenRankStatement) (hB : EigenLiftsBasisStatement) (hF : EigenLiftsFrobeniusStatement) : UnramifiedCokernelLengthStatement :=
+  frobenius_of_length_lifts lenId lenEx eigenLengthProductStatement_holds hG hE hR hB hF
+end ReciprocityTheory.PGsh.Up

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_ext_unique
 -- name    : GlobalTheory.SS.ext_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:21:50.207018+00:00
 -- url     : https://prove2.me/theorems/0887aec3-1b0c-553c-93c9-8e7a234c7e56

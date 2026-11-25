@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_exists_unif_isFnT
 -- name    : GlobalTheory.ThetaFn.exists_unif_isFnT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:41:26.370143+00:00
 -- url     : https://prove2.me/theorems/03c10d50-2682-572d-82c5-e9d057990ffa

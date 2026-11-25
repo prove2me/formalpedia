@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitUnitary_Model_hyps_dyadic
 -- name    : GlobalTheory.SplitUnitary.Model.hyps_dyadic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:34:01.715186+00:00
 -- url     : https://prove2.me/theorems/db970fc8-aa2a-56b2-ab80-f704bb2b333f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaHalf_thetaChar_holomorphic_ne_zero
 -- name    : GlobalTheory.ThetaHalf.thetaChar_holomorphic_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T17:31:14.827166+00:00
 -- url     : https://prove2.me/theorems/8c29f1cb-89a5-55f4-b48f-e34b53d34765

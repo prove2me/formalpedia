@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashWilliams_cutF_sdiff_eq
 -- name    : NashWilliams.cutF_sdiff_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T17:50:18.104121+00:00
 -- url     : https://prove2.me/theorems/a09da288-024b-4d6e-8556-d2ef9c41e6e3

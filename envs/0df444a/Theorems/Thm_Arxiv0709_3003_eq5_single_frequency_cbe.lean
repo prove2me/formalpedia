@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv0709_3003_eq5_single_frequency_cbe
 -- name    : Arxiv0709_3003.eq5_single_frequency_cbe
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:21:51.267901+00:00
 -- url     : https://prove2.me/theorems/46f55ac6-12a7-4c0d-8d66-edf90d491f44

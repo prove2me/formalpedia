@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos919_colorableOn_iff_induce
 -- name    : Erdos919.colorableOn_iff_induce
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T18:29:25.186385+00:00
 -- url     : https://prove2.me/theorems/83ab8c8e-0e87-47fd-bfb7-0203127aadbd

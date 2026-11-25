@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isFormalGroupLawOfChart_of_jetChart
 -- name    : GlobalTheory.T.isFormalGroupLawOfChart_of_jetChart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:34:38.316523+00:00
 -- url     : https://prove2.me/theorems/03a0a0b1-9578-54c6-93b4-0fca705790e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Rat_coeffs_rowAdd_lower
 -- name    : Hex.GramSchmidt.Rat.coeffs_rowAdd_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:07:29.301434+00:00
 -- url     : https://prove2.me/theorems/68469dc4-7e4a-4594-bffe-1122e7fa4b1b

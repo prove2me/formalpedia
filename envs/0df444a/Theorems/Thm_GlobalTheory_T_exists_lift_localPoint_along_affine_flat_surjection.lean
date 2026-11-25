@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_lift_localPoint_along_affine_flat_surjection
 -- name    : GlobalTheory.T.exists_lift_localPoint_along_affine_flat_surjection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:30:54.52795+00:00
 -- url     : https://prove2.me/theorems/dce99460-9e9c-58c4-a39a-fc8b690dfac5

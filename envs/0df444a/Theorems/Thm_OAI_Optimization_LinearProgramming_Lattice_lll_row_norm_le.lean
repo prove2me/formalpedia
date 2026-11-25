@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_lll_row_norm_le
 -- name    : OAI.Optimization.LinearProgramming.Lattice.lll_row_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:24:54.83289+00:00
 -- url     : https://prove2.me/theorems/4be770fd-059e-5c92-b7e2-d0fbb950ef80

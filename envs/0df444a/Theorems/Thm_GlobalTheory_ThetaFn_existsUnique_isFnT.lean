@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_existsUnique_isFnT
 -- name    : GlobalTheory.ThetaFn.existsUnique_isFnT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:43:24.910405+00:00
 -- url     : https://prove2.me/theorems/c9a2851b-4c1b-47a3-9321-f5758d065654

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CanTh_hasSum_polyDeriv_mul_prod
 -- name    : GlobalTheory.CanTh.hasSum_polyDeriv_mul_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T16:54:19.911791+00:00
 -- url     : https://prove2.me/theorems/64b78cf6-0981-44df-ba88-7e9eb03d12fc

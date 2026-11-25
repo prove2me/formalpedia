@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_probeRowsQ_none_iff
 -- name    : OAI.Optimization.LinearProgramming.Lattice.probeRowsQ_none_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:24:51.421149+00:00
 -- url     : https://prove2.me/theorems/7dfcc860-6075-55c1-a9a9-2666969b6410

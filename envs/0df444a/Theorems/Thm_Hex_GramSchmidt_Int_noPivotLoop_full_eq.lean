@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_noPivotLoop_full_eq
 -- name    : Hex.GramSchmidt.Int.noPivotLoop_full_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:30:05.246809+00:00
 -- url     : https://prove2.me/theorems/9470d32c-3660-58bb-a3ca-831a67b2e64f

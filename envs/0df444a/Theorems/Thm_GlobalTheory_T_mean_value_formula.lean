@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mean_value_formula
 -- name    : GlobalTheory.T.mean_value_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:39:53.945734+00:00
 -- url     : https://prove2.me/theorems/b4e500e9-5388-5888-816d-0de7bccbf74e

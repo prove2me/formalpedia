@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_finiteExt_point_lift_of_surjective_locFinType
 -- name    : GlobalTheory.T.exists_finiteExt_point_lift_of_surjective_locFinType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:09.159544+00:00
 -- url     : https://prove2.me/theorems/58aeb799-bae8-4dd4-88a2-fd95276797f9

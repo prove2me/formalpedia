@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_rationalResidualMatrix_entry_size
 -- name    : OAI.Optimization.LinearProgramming.Lattice.rationalResidualMatrix_entry_size
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:24:54.392337+00:00
 -- url     : https://prove2.me/theorems/4dd55770-3e93-4458-9223-d7a47b753db8

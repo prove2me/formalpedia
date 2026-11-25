@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_leading_gram_det_pos
 -- name    : OAI.Optimization.LinearProgramming.Lattice.leading_gram_det_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:24:47.578651+00:00
 -- url     : https://prove2.me/theorems/cb2be891-34d1-4d6c-b011-f1888f0498ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashWilliams_tree_packing
 -- name    : NashWilliams.tree_packing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T17:46:00.628957+00:00
 -- url     : https://prove2.me/theorems/a990b6e2-1544-4af6-ab1a-12b7f2dad043

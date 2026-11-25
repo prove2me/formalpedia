@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finrank_symm_commutant_kronecker_le
 -- name    : GlobalTheory.T.finrank_symm_commutant_kronecker_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:31:39.558483+00:00
 -- url     : https://prove2.me/theorems/13877ea6-3180-5d05-b38d-4936c4022c98

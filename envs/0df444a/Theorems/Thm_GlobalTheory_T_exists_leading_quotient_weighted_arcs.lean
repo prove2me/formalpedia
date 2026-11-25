@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_leading_quotient_weighted_arcs
 -- name    : GlobalTheory.T.exists_leading_quotient_weighted_arcs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:30:21.566306+00:00
 -- url     : https://prove2.me/theorems/357de74e-81ef-5f8e-a480-e4a083863f7c

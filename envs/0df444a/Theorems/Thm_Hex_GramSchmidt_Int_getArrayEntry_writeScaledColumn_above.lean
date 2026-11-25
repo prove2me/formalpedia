@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_getArrayEntry_writeScaledColumn_above
 -- name    : Hex.GramSchmidt.Int.getArrayEntry_writeScaledColumn_above
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:19:19.618324+00:00
 -- url     : https://prove2.me/theorems/4202f8a7-5cfe-46d3-928d-b58aefb3f4b9

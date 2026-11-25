@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashWilliams_cutF_congr
 -- name    : NashWilliams.cutF_congr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T17:49:46.176487+00:00
 -- url     : https://prove2.me/theorems/3e8ce2b9-b467-5d7a-a047-fd4de1ab9a92

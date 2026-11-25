@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiltonMilner_hilton_milner
 -- name    : HiltonMilner.hilton_milner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T18:05:44.926511+00:00
 -- url     : https://prove2.me/theorems/3e5c73ad-ab84-4e0c-b558-41c98c995b51

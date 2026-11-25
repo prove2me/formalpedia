@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StabFlat_stalk_of_smooth
 -- name    : GlobalTheory.StabFlat.stalk_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:25:16.291064+00:00
 -- url     : https://prove2.me/theorems/1a1e1f88-e434-59cc-8760-2a95094ea60f

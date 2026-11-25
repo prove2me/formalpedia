@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_complex_embedding_scaling_of_ker_eval_eq
 -- name    : GlobalTheory.T.exists_complex_embedding_scaling_of_ker_eval_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:29:29.192182+00:00
 -- url     : https://prove2.me/theorems/92db9a1f-dd2e-43ee-a387-4c9c24aeb9e1

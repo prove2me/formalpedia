@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pushChartAlt
 -- name    : GlobalTheory.T.pushChartAlt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:37:30.306986+00:00
 -- url     : https://prove2.me/theorems/61bedafb-10fb-5aa8-a6b9-dea590d73b90

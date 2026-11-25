@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCompare_isOriginChart_iff
 -- name    : GlobalTheory.TorsionCompare.isOriginChart_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:42:45.400325+00:00
 -- url     : https://prove2.me/theorems/752935fb-cbb2-4c66-9879-42bc3fed4082

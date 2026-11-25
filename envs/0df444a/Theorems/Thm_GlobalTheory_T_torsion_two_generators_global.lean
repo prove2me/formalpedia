@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_torsion_two_generators_global
 -- name    : GlobalTheory.T.torsion_two_generators_global
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:40:19.786124+00:00
 -- url     : https://prove2.me/theorems/49c1f2c8-bad2-4e72-8f0c-573652960ce5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_psi_mul_psi_addition_second_variable
 -- name    : GlobalTheory.T.psi_mul_psi_addition_second_variable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T16:16:55.613824+00:00
 -- url     : https://prove2.me/theorems/5f471df2-b4fc-4c32-8027-816b66e2dc91

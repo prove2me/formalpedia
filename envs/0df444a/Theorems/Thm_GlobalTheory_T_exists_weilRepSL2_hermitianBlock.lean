@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_weilRepSL2_hermitianBlock
 -- name    : GlobalTheory.T.exists_weilRepSL2_hermitianBlock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:31:45.650925+00:00
 -- url     : https://prove2.me/theorems/537454ff-1b10-500d-b202-9ca6b283a66d

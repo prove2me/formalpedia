@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_getArrayEntry_scaledCoeffRowsSchur_col_zero
 -- name    : Hex.GramSchmidt.Int.getArrayEntry_scaledCoeffRowsSchur_col_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:24:42.138655+00:00
 -- url     : https://prove2.me/theorems/416775cd-fc6f-50b0-859b-08c82baec37d

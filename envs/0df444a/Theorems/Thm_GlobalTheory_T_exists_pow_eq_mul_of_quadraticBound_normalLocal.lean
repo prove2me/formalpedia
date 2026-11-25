@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_pow_eq_mul_of_quadraticBound_normalLocal
 -- name    : GlobalTheory.T.exists_pow_eq_mul_of_quadraticBound_normalLocal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:31:14.654252+00:00
 -- url     : https://prove2.me/theorems/f6e21dbb-131f-4cd9-9e9b-f986d485cbee

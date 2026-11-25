@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_globalFunctionsConstantAfterBaseChange_of_abelianScheme
 -- name    : GlobalTheory.T.globalFunctionsConstantAfterBaseChange_of_abelianScheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:26:14.122133+00:00
 -- url     : https://prove2.me/theorems/2ae6bd46-46b1-4307-87f8-55f35252b810

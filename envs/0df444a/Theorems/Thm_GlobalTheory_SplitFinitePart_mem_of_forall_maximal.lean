@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFinitePart_mem_of_forall_maximal
 -- name    : GlobalTheory.SplitFinitePart.mem_of_forall_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:25:27.847841+00:00
 -- url     : https://prove2.me/theorems/a38c885f-e19a-40a8-9189-cb0c0dd4f58a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_universalFrameRing_subalgebra_eq_top
 -- name    : GlobalTheory.T.universalFrameRing_subalgebra_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:00:50.767988+00:00
 -- url     : https://prove2.me/theorems/c300f2d4-40ab-5c85-8167-5ebfbd93eb5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unramified_local_formula
 -- name    : GlobalTheory.T.unramified_local_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:41:34.847866+00:00
 -- url     : https://prove2.me/theorems/3730f1d8-1c7a-49a5-b488-87761c22bda1

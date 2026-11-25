@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_complete_dvr_integralClosure_finite_fractionRing
 -- name    : GlobalTheory.T.exists_complete_dvr_integralClosure_finite_fractionRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:29:06.400938+00:00
 -- url     : https://prove2.me/theorems/80fc5b7f-c214-463e-a5f2-e1f827ff813d

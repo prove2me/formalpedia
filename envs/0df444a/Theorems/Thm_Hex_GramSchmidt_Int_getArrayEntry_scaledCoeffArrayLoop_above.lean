@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_getArrayEntry_scaledCoeffArrayLoop_above
 -- name    : Hex.GramSchmidt.Int.getArrayEntry_scaledCoeffArrayLoop_above
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:19:13.657795+00:00
 -- url     : https://prove2.me/theorems/ed27fd16-ebfb-46a5-91cb-9506dddaf764

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_closure_of_forall_clm_vanish
 -- name    : GlobalTheory.T.mem_closure_of_forall_clm_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:35:08.817405+00:00
 -- url     : https://prove2.me/theorems/05450dea-485a-51a5-a357-c5799627e186

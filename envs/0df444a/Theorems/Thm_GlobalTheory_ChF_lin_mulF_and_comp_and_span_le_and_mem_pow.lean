@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_lin_mulF_and_comp_and_span_le_and_mem_pow
 -- name    : GlobalTheory.ChF.lin_mulF_and_comp_and_span_le_and_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:05:03.951424+00:00
 -- url     : https://prove2.me/theorems/6805b735-cf4e-4d5a-a71f-0ac90e9182ed

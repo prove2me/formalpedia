@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_rescale_rigidified_square_iso
 -- name    : GlobalTheory.T.exists_rescale_rigidified_square_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:31:05.408876+00:00
 -- url     : https://prove2.me/theorems/50223479-471a-57a7-b3c4-4c684785dc84

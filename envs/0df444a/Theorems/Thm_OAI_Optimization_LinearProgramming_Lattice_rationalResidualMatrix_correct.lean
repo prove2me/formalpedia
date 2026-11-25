@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_rationalResidualMatrix_correct
 -- name    : OAI.Optimization.LinearProgramming.Lattice.rationalResidualMatrix_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:24:50.557381+00:00
 -- url     : https://prove2.me/theorems/1b7634c1-576c-499c-ab65-a88f84a174a4

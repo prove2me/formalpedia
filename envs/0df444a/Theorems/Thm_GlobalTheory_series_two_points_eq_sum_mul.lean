@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_series_two_points_eq_sum_mul
 -- name    : GlobalTheory.series_two_points_eq_sum_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:10:45.354347+00:00
 -- url     : https://prove2.me/theorems/726f5aad-4119-4932-b839-2cea6a51fc1b

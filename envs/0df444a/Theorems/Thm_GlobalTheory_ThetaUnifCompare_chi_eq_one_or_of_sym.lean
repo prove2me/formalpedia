@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaUnifCompare_chi_eq_one_or_of_sym
 -- name    : GlobalTheory.ThetaUnifCompare.chi_eq_one_or_of_sym
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:01.443657+00:00
 -- url     : https://prove2.me/theorems/e6c083c1-d364-4f3e-ba74-da0a20d77ada

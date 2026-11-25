@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isInertAt_of_unique_unramified_prime
 -- name    : GlobalTheory.T.isInertAt_of_unique_unramified_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:56:08.854699+00:00
 -- url     : https://prove2.me/theorems/034a1243-7c6f-52e2-aa1c-475f73379969

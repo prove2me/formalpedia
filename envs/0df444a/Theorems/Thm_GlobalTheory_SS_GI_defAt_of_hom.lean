@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_defAt_of_hom
 -- name    : GlobalTheory.SS.GI.defAt_of_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:22:07.240116+00:00
 -- url     : https://prove2.me/theorems/0ae5570f-2287-4aa9-8c91-9b6124f90b91

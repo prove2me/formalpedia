@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_normalizedRowApprox_error
 -- name    : OAI.Optimization.LinearProgramming.Lattice.normalizedRowApprox_error
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:25:01.422232+00:00
 -- url     : https://prove2.me/theorems/5bbb6cb5-6376-466a-88ac-a5ec4ba2bf37

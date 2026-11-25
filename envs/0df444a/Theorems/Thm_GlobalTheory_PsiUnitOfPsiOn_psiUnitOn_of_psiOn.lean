@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiUnitOfPsiOn_psiUnitOn_of_psiOn
 -- name    : GlobalTheory.PsiUnitOfPsiOn.psiUnitOn_of_psiOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:16:54.786426+00:00
 -- url     : https://prove2.me/theorems/1811397f-c2af-4404-a623-3460dcc467fb

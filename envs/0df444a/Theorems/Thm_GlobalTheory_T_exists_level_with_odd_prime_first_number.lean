@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_level_with_odd_prime_first_number
 -- name    : GlobalTheory.T.exists_level_with_odd_prime_first_number
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:30:29.189426+00:00
 -- url     : https://prove2.me/theorems/938a138d-a9fd-575c-88ec-1bee49ef1951

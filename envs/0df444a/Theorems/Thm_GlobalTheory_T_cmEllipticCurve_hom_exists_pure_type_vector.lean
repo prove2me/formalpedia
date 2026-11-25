@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cmEllipticCurve_hom_exists_pure_type_vector
 -- name    : GlobalTheory.T.cmEllipticCurve_hom_exists_pure_type_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:52:08.144506+00:00
 -- url     : https://prove2.me/theorems/41f77d5a-3a3d-4010-a3e8-c8f4dced5a2c

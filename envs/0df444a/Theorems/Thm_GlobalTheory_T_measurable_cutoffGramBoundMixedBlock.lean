@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_measurable_cutoffGramBoundMixedBlock
 -- name    : GlobalTheory.T.measurable_cutoffGramBoundMixedBlock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:35:38.87804+00:00
 -- url     : https://prove2.me/theorems/aed6b45b-83d4-5c1f-b43d-fc76456a411f

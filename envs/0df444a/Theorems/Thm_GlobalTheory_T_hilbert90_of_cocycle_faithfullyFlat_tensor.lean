@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hilbert90_of_cocycle_faithfullyFlat_tensor
 -- name    : GlobalTheory.T.hilbert90_of_cocycle_faithfullyFlat_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:28.874987+00:00
 -- url     : https://prove2.me/theorems/c413d61b-7cad-4de5-91a6-d0ab8052cc93

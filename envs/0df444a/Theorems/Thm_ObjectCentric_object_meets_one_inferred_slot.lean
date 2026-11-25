@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObjectCentric_object_meets_one_inferred_slot
 -- name    : ObjectCentric.object_meets_one_inferred_slot
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T19:40:48.767308+00:00
 -- url     : https://prove2.me/theorems/86fe06ef-d8cf-48b9-bf20-ce11c04c183b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Spread_hom_ext_of_compatible
 -- name    : GlobalTheory.Spread.hom_ext_of_compatible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:28:24.615168+00:00
 -- url     : https://prove2.me/theorems/d02cd79b-e12c-4244-9c27-3a2cf6506c23

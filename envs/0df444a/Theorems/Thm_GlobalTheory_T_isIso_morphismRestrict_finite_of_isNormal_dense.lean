@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isIso_morphismRestrict_finite_of_isNormal_dense
 -- name    : GlobalTheory.T.isIso_morphismRestrict_finite_of_isNormal_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:34:28.991821+00:00
 -- url     : https://prove2.me/theorems/ad6e558b-9809-48cb-912b-78e4783f90a5

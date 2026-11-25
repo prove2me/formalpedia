@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weil_rep_bijection_schwartz
 -- name    : GlobalTheory.T.weil_rep_bijection_schwartz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:42:07.054583+00:00
 -- url     : https://prove2.me/theorems/df553382-6b75-4c96-b03d-2b1a8e6a8d37

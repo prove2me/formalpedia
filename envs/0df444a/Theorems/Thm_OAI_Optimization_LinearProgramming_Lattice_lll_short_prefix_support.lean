@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_lll_short_prefix_support
 -- name    : OAI.Optimization.LinearProgramming.Lattice.lll_short_prefix_support
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:24:55.902151+00:00
 -- url     : https://prove2.me/theorems/52b125a5-4131-51f1-a785-0331db0a3b4b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerfectPairing_val_one_iff
 -- name    : GlobalTheory.PerfectPairing.val_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T18:17:34.44658+00:00
 -- url     : https://prove2.me/theorems/8583ac1a-762f-48d3-8213-8b0789918ade

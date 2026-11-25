@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cuspForm_pullback_isBoundedSection
 -- name    : GlobalTheory.T.cuspForm_pullback_isBoundedSection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:29:27.151437+00:00
 -- url     : https://prove2.me/theorems/a5f78413-c040-447a-8995-a0f7ce717f20

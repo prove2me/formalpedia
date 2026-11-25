@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_spec_vectorField_of_dualNumber_section
 -- name    : GlobalTheory.T.exists_spec_vectorField_of_dualNumber_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:31:58.766581+00:00
 -- url     : https://prove2.me/theorems/48ca45ef-4b23-4b2d-9de9-092704749a75

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_GeneratorTable_warmSlots_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.GeneratorTable.warmSlots_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:18:55.333035+00:00
 -- url     : https://prove2.me/theorems/ebc39c11-1472-4ad4-907b-32f00780a525

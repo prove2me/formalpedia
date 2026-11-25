@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hodge_projection_from_lattice
 -- name    : GlobalTheory.T.hodge_projection_from_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:32:36.413805+00:00
 -- url     : https://prove2.me/theorems/3f5b2485-945e-5c70-85f1-e59a55cbaff6

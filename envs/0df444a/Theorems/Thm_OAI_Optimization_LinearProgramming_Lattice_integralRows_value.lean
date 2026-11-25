@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_integralRows_value
 -- name    : OAI.Optimization.LinearProgramming.Lattice.integralRows_value
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:25:09.054492+00:00
 -- url     : https://prove2.me/theorems/aa4811ca-55df-4b7a-9570-3c7b5eb61ff4

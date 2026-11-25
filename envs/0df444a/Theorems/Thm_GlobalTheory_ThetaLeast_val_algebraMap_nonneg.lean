@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaLeast_val_algebraMap_nonneg
 -- name    : GlobalTheory.ThetaLeast.val_algebraMap_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:42:57.814907+00:00
 -- url     : https://prove2.me/theorems/1e3d3881-ad69-4b9b-b026-4cd99f72f9a2

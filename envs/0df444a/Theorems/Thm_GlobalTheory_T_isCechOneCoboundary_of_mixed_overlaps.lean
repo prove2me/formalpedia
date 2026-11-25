@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCechOneCoboundary_of_mixed_overlaps
 -- name    : GlobalTheory.T.isCechOneCoboundary_of_mixed_overlaps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:18:06.041353+00:00
 -- url     : https://prove2.me/theorems/1a768ef4-a83f-562f-9789-436d1307d43a

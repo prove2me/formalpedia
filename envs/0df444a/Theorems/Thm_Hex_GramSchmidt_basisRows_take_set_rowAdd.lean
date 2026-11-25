@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_basisRows_take_set_rowAdd
 -- name    : Hex.GramSchmidt.basisRows_take_set_rowAdd
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:07:18.589045+00:00
 -- url     : https://prove2.me/theorems/e5e4739b-fbec-55b7-92e3-097c64c62666

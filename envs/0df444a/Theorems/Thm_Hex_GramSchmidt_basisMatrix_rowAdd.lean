@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_basisMatrix_rowAdd
 -- name    : Hex.GramSchmidt.basisMatrix_rowAdd
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:07:25.097454+00:00
 -- url     : https://prove2.me/theorems/70e92dfe-2354-41ca-8dae-7a6c2a33f8f3

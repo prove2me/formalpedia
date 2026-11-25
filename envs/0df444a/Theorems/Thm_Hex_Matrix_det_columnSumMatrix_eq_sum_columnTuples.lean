@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_Matrix_det_columnSumMatrix_eq_sum_columnTuples
 -- name    : Hex.Matrix.det_columnSumMatrix_eq_sum_columnTuples
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T17:55:26.205944+00:00
 -- url     : https://prove2.me/theorems/7850fbf4-cefd-55b4-a0e1-4360a12b30c6

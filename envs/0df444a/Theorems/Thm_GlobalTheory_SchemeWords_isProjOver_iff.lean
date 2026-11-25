@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchemeWords_isProjOver_iff
 -- name    : GlobalTheory.SchemeWords.isProjOver_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:21:56.495654+00:00
 -- url     : https://prove2.me/theorems/0d93d833-82bd-5c47-b003-b5eb70351a86

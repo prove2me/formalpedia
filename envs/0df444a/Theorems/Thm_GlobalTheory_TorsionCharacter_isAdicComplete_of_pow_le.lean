@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCharacter_isAdicComplete_of_pow_le
 -- name    : GlobalTheory.TorsionCharacter.isAdicComplete_of_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:36:44.394115+00:00
 -- url     : https://prove2.me/theorems/0c9d218f-646e-4eee-a105-90eaeb404927

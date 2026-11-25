@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZJ_KerCut_hom_ext_of_appLE
 -- name    : GlobalTheory.ZJ.KerCut.hom_ext_of_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:22:25.018961+00:00
 -- url     : https://prove2.me/theorems/eb4accd3-5d6f-4c7b-9a4c-cac6d61cb6a1

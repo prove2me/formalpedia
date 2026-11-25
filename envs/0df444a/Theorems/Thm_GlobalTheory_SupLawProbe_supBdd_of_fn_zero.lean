@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SupLawProbe_supBdd_of_fn_zero
 -- name    : GlobalTheory.SupLawProbe.supBdd_of_fn_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:25:09.600478+00:00
 -- url     : https://prove2.me/theorems/ed54e282-c8b6-5672-97a7-6b6466331c25

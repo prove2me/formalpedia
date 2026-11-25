@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_simultaneous_dirichlet
 -- name    : OAI.Optimization.LinearProgramming.Lattice.simultaneous_dirichlet
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:24:54.496912+00:00
 -- url     : https://prove2.me/theorems/72dd60e4-db93-48bc-8ba3-ee2faff6375e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashWilliams_exists_orientation
 -- name    : NashWilliams.exists_orientation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T18:16:00.411068+00:00
 -- url     : https://prove2.me/theorems/e868cbd1-bd3f-4ef8-afa5-62901bb4744a

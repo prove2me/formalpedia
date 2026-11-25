@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos919_bigGraph_smallType
 -- name    : Erdos919.bigGraph_smallType
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T18:23:25.903261+00:00
 -- url     : https://prove2.me/theorems/3820db03-60fc-552e-bcc8-ba11890a23c3

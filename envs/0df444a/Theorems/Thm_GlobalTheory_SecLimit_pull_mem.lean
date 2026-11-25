@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecLimit_pull_mem
 -- name    : GlobalTheory.SecLimit.pull_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T16:33:02.88622+00:00
 -- url     : https://prove2.me/theorems/cc504905-1432-58b7-9b62-887b37b2799a

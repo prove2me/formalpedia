@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cartier_at_of_not_mem_support
 -- name    : GlobalTheory.T.cartier_at_of_not_mem_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:27:01.286014+00:00
 -- url     : https://prove2.me/theorems/453d1f03-b52a-4b73-be9b-e2219d34885c

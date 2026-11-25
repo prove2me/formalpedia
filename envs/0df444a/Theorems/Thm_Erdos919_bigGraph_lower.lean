@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos919_bigGraph_lower
 -- name    : Erdos919.bigGraph_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T18:23:29.296113+00:00
 -- url     : https://prove2.me/theorems/96731a27-9810-57a2-a0fb-ee3a7f318c0e

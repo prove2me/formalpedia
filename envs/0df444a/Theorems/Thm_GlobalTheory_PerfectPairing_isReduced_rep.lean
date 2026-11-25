@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerfectPairing_isReduced_rep
 -- name    : GlobalTheory.PerfectPairing.isReduced_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T18:19:40.89244+00:00
 -- url     : https://prove2.me/theorems/30a4d893-9a5e-4859-9320-d326fce7d774

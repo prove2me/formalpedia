@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_connectionCurvatureSumWedge_semilinearPullback
 -- name    : GlobalTheory.T.connectionCurvatureSumWedge_semilinearPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:17:14.496175+00:00
 -- url     : https://prove2.me/theorems/0fb26ee5-f626-4c31-8faa-99566ca9308e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_two_inert_odd_primes_coprime_level
 -- name    : GlobalTheory.T.exists_two_inert_odd_primes_coprime_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:32:42.593302+00:00
 -- url     : https://prove2.me/theorems/a94fc8f1-0a8b-4ad4-b52f-0074f3abf338

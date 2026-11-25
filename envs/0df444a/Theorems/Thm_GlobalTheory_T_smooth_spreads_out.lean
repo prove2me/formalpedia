@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smooth_spreads_out
 -- name    : GlobalTheory.T.smooth_spreads_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:38:12.990157+00:00
 -- url     : https://prove2.me/theorems/b8d7f2aa-4265-4fbe-85d5-60cb6b2838ce

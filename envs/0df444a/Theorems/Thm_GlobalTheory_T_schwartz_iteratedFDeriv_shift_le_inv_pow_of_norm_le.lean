@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_iteratedFDeriv_shift_le_inv_pow_of_norm_le
 -- name    : GlobalTheory.T.schwartz_iteratedFDeriv_shift_le_inv_pow_of_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:01.808126+00:00
 -- url     : https://prove2.me/theorems/d4dcc681-afb2-551e-80e6-135ca9ec1e85

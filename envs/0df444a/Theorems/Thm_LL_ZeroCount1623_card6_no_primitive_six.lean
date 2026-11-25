@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_ZeroCount1623_card6_no_primitive_six
 -- name    : LL_ZeroCount1623.card6_no_primitive_six
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-25T03:54:21.1178+00:00
 -- url     : https://prove2.me/theorems/e2990eeb-8a91-4c2c-bc29-db865e35f542

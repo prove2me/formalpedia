@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_commutatorPairing_e8Sharp_levelPoints
 -- name    : GlobalTheory.T.commutatorPairing_e8Sharp_levelPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:28:33.979524+00:00
 -- url     : https://prove2.me/theorems/cd2681a5-4562-5bbc-8a8c-73bf11197340

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryGroup_character_eq_one_of_trivial_integral
 -- name    : GlobalTheory.T.unitaryGroup_character_eq_one_of_trivial_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:50:01.499372+00:00
 -- url     : https://prove2.me/theorems/36482316-b154-5f90-86ae-094fb1ba7be0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_addCommMonoid_algHom_powerSeries_fgLaw
 -- name    : GlobalTheory.T.exists_addCommMonoid_algHom_powerSeries_fgLaw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T18:01:28.110359+00:00
 -- url     : https://prove2.me/theorems/d784ef81-38d2-50a7-b4c5-7d5e41659b03

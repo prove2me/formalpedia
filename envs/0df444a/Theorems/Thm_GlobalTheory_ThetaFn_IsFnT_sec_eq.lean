@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_IsFnT_sec_eq
 -- name    : GlobalTheory.ThetaFn.IsFnT.sec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:41:39.930386+00:00
 -- url     : https://prove2.me/theorems/02033072-5e7b-5eaa-ad24-f76c38d6529e

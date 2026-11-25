@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_roundingDirection_not_mem
 -- name    : OAI.Optimization.LinearProgramming.Lattice.roundingDirection_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:24:51.626985+00:00
 -- url     : https://prove2.me/theorems/0686e530-cd43-5f03-9714-7c7fdee2a576

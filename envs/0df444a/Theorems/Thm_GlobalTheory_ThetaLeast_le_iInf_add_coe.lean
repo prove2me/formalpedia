@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaLeast_le_iInf_add_coe
 -- name    : GlobalTheory.ThetaLeast.le_iInf_add_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:42:02.757309+00:00
 -- url     : https://prove2.me/theorems/0a3ae04d-5b99-5e4f-ae7c-972776295797

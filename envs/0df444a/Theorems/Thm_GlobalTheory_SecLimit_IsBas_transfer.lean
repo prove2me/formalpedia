@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecLimit_IsBas_transfer
 -- name    : GlobalTheory.SecLimit.IsBas.transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T16:23:34.86101+00:00
 -- url     : https://prove2.me/theorems/2c8eb4da-b3cd-4c87-b2bb-f578abd12a78

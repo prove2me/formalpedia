@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeBetaCompare_isBe_iff
 -- name    : GlobalTheory.LatticeBetaCompare.isBe_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T17:30:13.318104+00:00
 -- url     : https://prove2.me/theorems/da217d11-5045-56c8-95bb-64cc43307726

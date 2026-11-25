@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_leafCoordinate_weight_nonneg_of_adaptedChainData
 -- name    : GlobalTheory.T.leafCoordinate_weight_nonneg_of_adaptedChainData
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:34:40.919752+00:00
 -- url     : https://prove2.me/theorems/01caf427-2d8e-5f4e-ae91-ea041126fd9d

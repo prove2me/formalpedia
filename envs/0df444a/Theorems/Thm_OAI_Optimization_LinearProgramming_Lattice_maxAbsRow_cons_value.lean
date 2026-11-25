@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_maxAbsRow_cons_value
 -- name    : OAI.Optimization.LinearProgramming.Lattice.maxAbsRow_cons_value
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:24:50.605455+00:00
 -- url     : https://prove2.me/theorems/e7c9ae99-d3d7-5955-85c9-f3846cc29b27

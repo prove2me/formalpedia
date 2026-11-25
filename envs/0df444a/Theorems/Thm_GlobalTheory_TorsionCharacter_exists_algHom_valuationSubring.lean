@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCharacter_exists_algHom_valuationSubring
 -- name    : GlobalTheory.TorsionCharacter.exists_algHom_valuationSubring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:43:21.178798+00:00
 -- url     : https://prove2.me/theorems/e6f2777a-3a15-5f59-bad5-69e33a67982d

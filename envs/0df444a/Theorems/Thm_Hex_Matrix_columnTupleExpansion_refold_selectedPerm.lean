@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_Matrix_columnTupleExpansion_refold_selectedPerm
 -- name    : Hex.Matrix.columnTupleExpansion_refold_selectedPerm
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:01:10.31704+00:00
 -- url     : https://prove2.me/theorems/5726e105-9ad6-4252-abd7-b20eb856916e

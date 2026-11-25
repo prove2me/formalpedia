@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fgProjectiveConstantRank_extension_and_prod
 -- name    : GlobalTheory.T.fgProjectiveConstantRank_extension_and_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:31:14.875968+00:00
 -- url     : https://prove2.me/theorems/f7d38153-2d7c-52e2-a6c8-ffc2b1e95d2b

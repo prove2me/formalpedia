@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ncard_fibre_stableLatticePairProjection
 -- name    : GlobalTheory.T.ncard_fibre_stableLatticePairProjection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:36:34.6084+00:00
 -- url     : https://prove2.me/theorems/49402278-14d7-58c2-b096-efdf3fe3d4ab

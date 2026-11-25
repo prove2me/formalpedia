@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreDense_dense
 -- name    : GlobalTheory.FibreDense.dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:23:59.995026+00:00
 -- url     : https://prove2.me/theorems/76dc2839-d0b6-473b-9857-1781a1bcf065

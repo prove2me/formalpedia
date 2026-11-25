@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_selectedDirection_correct
 -- name    : OAI.Optimization.LinearProgramming.Lattice.selectedDirection_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:25:24.284538+00:00
 -- url     : https://prove2.me/theorems/98778694-7495-4d58-bf8e-7e9e9b160cf5

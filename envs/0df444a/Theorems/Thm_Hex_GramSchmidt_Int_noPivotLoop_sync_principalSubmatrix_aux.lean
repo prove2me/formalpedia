@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_noPivotLoop_sync_principalSubmatrix_aux
 -- name    : Hex.GramSchmidt.Int.noPivotLoop_sync_principalSubmatrix_aux
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:24:47.622655+00:00
 -- url     : https://prove2.me/theorems/186bb26d-3192-54b7-a196-d90558d2dbbe

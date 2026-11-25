@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_posDef_hermitian_invariant_of_isCompact
 -- name    : GlobalTheory.T.exists_posDef_hermitian_invariant_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:30:28.790025+00:00
 -- url     : https://prove2.me/theorems/317d1d03-57e2-43eb-97e6-92f43b983606

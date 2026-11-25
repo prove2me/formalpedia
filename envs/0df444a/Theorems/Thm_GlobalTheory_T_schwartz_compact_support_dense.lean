@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_compact_support_dense
 -- name    : GlobalTheory.T.schwartz_compact_support_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:29.324111+00:00
 -- url     : https://prove2.me/theorems/331c9e75-5e9c-4338-84ee-c654163d13ca

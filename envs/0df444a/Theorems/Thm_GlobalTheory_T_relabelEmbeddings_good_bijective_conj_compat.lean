@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relabelEmbeddings_good_bijective_conj_compat
 -- name    : GlobalTheory.T.relabelEmbeddings_good_bijective_conj_compat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:37:16.512609+00:00
 -- url     : https://prove2.me/theorems/b0eb338d-bf1c-5b98-8cd1-b597967587bb

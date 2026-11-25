@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_basisMatrix_rowSwap_adjacent_prev
 -- name    : Hex.GramSchmidt.basisMatrix_rowSwap_adjacent_prev
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:06:59.103456+00:00
 -- url     : https://prove2.me/theorems/ad65643a-4c42-48d9-8878-bf18af20d623

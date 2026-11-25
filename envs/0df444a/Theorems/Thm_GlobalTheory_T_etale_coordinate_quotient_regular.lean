@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_etale_coordinate_quotient_regular
 -- name    : GlobalTheory.T.etale_coordinate_quotient_regular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:28:28.756174+00:00
 -- url     : https://prove2.me/theorems/747ede3e-16cb-55f4-abab-ccc6d7b41f8f

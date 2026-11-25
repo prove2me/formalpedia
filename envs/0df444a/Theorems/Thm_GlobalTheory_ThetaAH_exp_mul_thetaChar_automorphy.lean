@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaAH_exp_mul_thetaChar_automorphy
 -- name    : GlobalTheory.ThetaAH.exp_mul_thetaChar_automorphy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:15.916666+00:00
 -- url     : https://prove2.me/theorems/3a3b5d3a-95e9-581c-9fb9-9af40f0d58cd

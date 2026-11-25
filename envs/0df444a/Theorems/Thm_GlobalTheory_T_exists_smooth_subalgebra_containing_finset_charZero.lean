@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_smooth_subalgebra_containing_finset_charZero
 -- name    : GlobalTheory.T.exists_smooth_subalgebra_containing_finset_charZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:31:06.470003+00:00
 -- url     : https://prove2.me/theorems/b2e8334e-0643-5715-9109-514544dde7ea

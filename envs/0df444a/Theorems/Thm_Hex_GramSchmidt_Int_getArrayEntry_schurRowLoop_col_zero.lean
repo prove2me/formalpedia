@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_getArrayEntry_schurRowLoop_col_zero
 -- name    : Hex.GramSchmidt.Int.getArrayEntry_schurRowLoop_col_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:19:28.482112+00:00
 -- url     : https://prove2.me/theorems/d4ae9f33-d888-4c2e-9eba-1e7634e7d96e

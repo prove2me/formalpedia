@@ -41561,7 +41561,7 @@
 {"parent": "Formalism.L2.Th1.H.lineRestr_hasSubst", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_CayleyGaussianIntegrals_IteratedDerivLine", "via": ["solution", "statement"]}
 {"parent": "Formalism.LogVandermondeBounds.product_first_zeroth_parts.up_down_operators_adjoint", "child": "Formalism_LogVandermondeBounds_FinrankFiberSumZero", "via": ["solution", "statement"]}
 {"parent": "Formalism.LogVandermondeBounds.product_first_zeroth_parts.up_down_operators_adjoint", "child": "Formalism_LogVandermondeBounds_LogVandermondeProofs_RamifiedLatticeOperatorIdentity", "via": ["solution", "statement"]}
-{"parent": "Arxiv0709_3003.eq5_single_frequency_cbe", "child": "Arxiv0709_3003_Basic", "via": ["statement"]}
+{"parent": "Arxiv0709_3003.eq5_single_frequency_cbe", "child": "Arxiv0709_3003_Basic", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_HermitianLattices_Ext_L3_Cell_inI___dc4ac2cc5e49", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CongrPIffInI", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_HermitianLattices_Ext_L3_Cell_inI___dc4ac2cc5e49", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_InLZeroIff", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_HermitianLattices_Ext_L3_Cell_inI___dc4ac2cc5e49", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsLocalData", "via": ["solution", "statement"]}
@@ -42032,7 +42032,7 @@
 {"parent": "RHX1000000.Run.C09.blk4", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.C09.blk4", "child": "RHX_RunSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Run.C09.blk4", "child": "RHX_RunChain", "via": ["statement"]}
-{"parent": "Arxiv0709_3003.eq4_mode_expansion_as_proved", "child": "Arxiv0709_3003_Basic", "via": ["statement"]}
+{"parent": "Arxiv0709_3003.eq4_mode_expansion_as_proved", "child": "Arxiv0709_3003_Basic", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.E.Power.sum_add", "child": "Formalism_LocalToGlobal_TorsionIntegrality_TorsionTranslationPowers_NonsingularJetNorms_ScaledXEqOffOrigin", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.E.Power.sum_add", "child": "Formalism_LocalToGlobal_TorsionIntegrality_TorsionTranslationPowers_StatementT", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.abs_x_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_AlphaNOfVdZeroUnit", "via": ["solution", "statement"]}
@@ -42275,7 +42275,7 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsResEqOfUnitInChart", "child": "GlobalTheory.SqZero.ptsMap_apply", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsResEqOfUnitInChart", "child": "ReciprocityTheory.ChartRestriction.G.Chart.spMap_comp", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsResEqOfUnitInChart", "child": "GlobalTheory.SqZero.IsAway.ker_fin", "via": ["statement"]}
-{"parent": "Arxiv0709_3003.eq5_band_averaged_cbe", "child": "Arxiv0709_3003_Basic", "via": ["statement"]}
+{"parent": "Arxiv0709_3003.eq5_band_averaged_cbe", "child": "Arxiv0709_3003_Basic", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.F.Taylor.taylor0_inj", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_EndoZInstance", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.F.Taylor.taylor0_inj", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_Taylor", "via": ["solution", "statement"]}
 {"parent": "Formalism.LatticeBaseChangeAlt.principal_minor_factor", "child": "Formalism_FilteredPoleLength_ReducedBasisBounds_ParameterInequalities", "via": ["solution", "statement"]}

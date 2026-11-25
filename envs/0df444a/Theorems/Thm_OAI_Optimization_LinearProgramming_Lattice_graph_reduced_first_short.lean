@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_graph_reduced_first_short
 -- name    : OAI.Optimization.LinearProgramming.Lattice.graph_reduced_first_short
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:25:03.653766+00:00
 -- url     : https://prove2.me/theorems/748f583c-0dd6-598e-adcb-6dfc2cbf9dcf

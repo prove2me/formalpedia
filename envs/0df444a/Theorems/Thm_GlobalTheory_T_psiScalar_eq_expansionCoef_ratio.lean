@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_psiScalar_eq_expansionCoef_ratio
 -- name    : GlobalTheory.T.psiScalar_eq_expansionCoef_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:18:31.986417+00:00
 -- url     : https://prove2.me/theorems/5ac20348-7911-4942-90a2-81625db58763

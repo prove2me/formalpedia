@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashWilliams_nash_williams
 -- name    : NashWilliams.nash_williams
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T18:05:56.773+00:00
 -- url     : https://prove2.me/theorems/49da36e5-086c-4db7-8d65-e2546d8735e2

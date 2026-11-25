@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteGL_lineRep_isIrreducible
 -- name    : GlobalTheory.FiniteGL.lineRep_isIrreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T18:03:38.463486+00:00
 -- url     : https://prove2.me/theorems/894fe606-7547-51b7-b7cd-7ac1811f50e8

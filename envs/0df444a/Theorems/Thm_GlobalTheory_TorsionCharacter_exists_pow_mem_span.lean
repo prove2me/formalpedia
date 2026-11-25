@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCharacter_exists_pow_mem_span
 -- name    : GlobalTheory.TorsionCharacter.exists_pow_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:43:59.782697+00:00
 -- url     : https://prove2.me/theorems/776f4a54-76c1-5061-8446-257e316731de

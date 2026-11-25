@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smooth_of_limit_class_stable_under_directional_derivs
 -- name    : GlobalTheory.T.smooth_of_limit_class_stable_under_directional_derivs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:38:19.53765+00:00
 -- url     : https://prove2.me/theorems/25cf3520-cff8-4e43-bd04-7f7441e742ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_chart_law_action_eq_transported_of_coordRel
 -- name    : GlobalTheory.T.chart_law_action_eq_transported_of_coordRel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:51:12.813811+00:00
 -- url     : https://prove2.me/theorems/4bf5631f-99b9-52d8-a778-a5b67bb98eac

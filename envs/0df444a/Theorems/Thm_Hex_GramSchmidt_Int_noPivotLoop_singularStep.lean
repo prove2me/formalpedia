@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_noPivotLoop_singularStep
 -- name    : Hex.GramSchmidt.Int.noPivotLoop_singularStep
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:24:56.246533+00:00
 -- url     : https://prove2.me/theorems/f663a5b8-e7ba-5e59-b9da-229a26a7b697

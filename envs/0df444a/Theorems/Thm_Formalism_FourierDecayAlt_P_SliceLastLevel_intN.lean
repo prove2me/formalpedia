@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_intN
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.intN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:06:51.652802+00:00
 -- url     : https://prove2.me/theorems/2f206011-64c8-4fe8-9469-1ccd90fc20ea

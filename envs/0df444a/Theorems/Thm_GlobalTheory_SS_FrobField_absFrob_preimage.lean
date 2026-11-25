@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FrobField_absFrob_preimage
 -- name    : GlobalTheory.SS.FrobField.absFrob_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:27:09.056857+00:00
 -- url     : https://prove2.me/theorems/5a499f27-a288-56cd-90f7-328247759c87

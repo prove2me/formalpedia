@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isTangentVectorBasisAtPoint_baseChange
 -- name    : GlobalTheory.T.isTangentVectorBasisAtPoint_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:31:25.818924+00:00
 -- url     : https://prove2.me/theorems/4b18fa7b-5447-4fb7-a2e7-9425dfc57cc9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_normCharacterOnIdempotentPart_orthogonality_classes
 -- name    : GlobalTheory.T.normCharacterOnIdempotentPart_orthogonality_classes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:36:50.349799+00:00
 -- url     : https://prove2.me/theorems/edf98bd2-0df3-43cb-88f6-3970dee21f0b

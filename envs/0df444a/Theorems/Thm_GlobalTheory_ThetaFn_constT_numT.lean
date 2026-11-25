@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_constT_numT
 -- name    : GlobalTheory.ThetaFn.constT_numT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:43:21.604684+00:00
 -- url     : https://prove2.me/theorems/e630378b-0d6b-40cf-814d-9251e0938ad5

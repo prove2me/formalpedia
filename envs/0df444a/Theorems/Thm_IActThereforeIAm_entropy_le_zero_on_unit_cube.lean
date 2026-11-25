@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IActThereforeIAm_entropy_le_zero_on_unit_cube
 -- name    : IActThereforeIAm.entropy_le_zero_on_unit_cube
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T19:03:29.844649+00:00
 -- url     : https://prove2.me/theorems/927e7986-a74e-4f77-90b1-a7c5eae06697

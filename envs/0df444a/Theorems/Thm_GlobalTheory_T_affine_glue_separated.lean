@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_affine_glue_separated
 -- name    : GlobalTheory.T.affine_glue_separated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:16:05.466437+00:00
 -- url     : https://prove2.me/theorems/fdad0497-0876-418c-8a8e-c9db8de514d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_exUnit_eq_exT
 -- name    : GlobalTheory.ThetaFn.exUnit_eq_exT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:41:20.218928+00:00
 -- url     : https://prove2.me/theorems/63c4a814-321a-5c02-a553-765b11a4c221

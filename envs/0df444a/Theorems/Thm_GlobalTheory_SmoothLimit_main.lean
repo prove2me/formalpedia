@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothLimit_main
 -- name    : GlobalTheory.SmoothLimit.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:24:16.975672+00:00
 -- url     : https://prove2.me/theorems/84808f5f-f80d-5f78-80be-34066aa41e09

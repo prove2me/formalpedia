@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_appellHumbert_frame_of_pulled_biextension
 -- name    : GlobalTheory.T.exists_appellHumbert_frame_of_pulled_biextension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:29:07.716919+00:00
 -- url     : https://prove2.me/theorems/eba7e2e8-3b48-5e13-8591-146ccc176508

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_arc_extends_of_regular_second_axis
 -- name    : GlobalTheory.T.arc_extends_of_regular_second_axis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:35:47.013714+00:00
 -- url     : https://prove2.me/theorems/f26b44c6-2c5c-4830-a375-2a463ec3baa7

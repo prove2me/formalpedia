@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv0709_3003_eq5_band_averaged_cbe
 -- name    : Arxiv0709_3003.eq5_band_averaged_cbe
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:22:15.744455+00:00
 -- url     : https://prove2.me/theorems/82d8e6e0-2060-433c-9ff0-57b9f1a67bb7

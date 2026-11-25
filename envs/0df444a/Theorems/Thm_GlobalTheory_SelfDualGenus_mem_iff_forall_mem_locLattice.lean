@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_mem_iff_forall_mem_locLattice
 -- name    : GlobalTheory.SelfDualGenus.mem_iff_forall_mem_locLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:22:55.202498+00:00
 -- url     : https://prove2.me/theorems/c7121598-910d-5174-abf0-5386122187d9

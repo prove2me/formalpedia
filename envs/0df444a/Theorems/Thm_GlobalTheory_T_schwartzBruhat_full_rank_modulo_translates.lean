@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhat_full_rank_modulo_translates
 -- name    : GlobalTheory.T.schwartzBruhat_full_rank_modulo_translates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:38:37.685105+00:00
 -- url     : https://prove2.me/theorems/c2b7b71b-9b75-5971-a7af-1b04f4d90d83

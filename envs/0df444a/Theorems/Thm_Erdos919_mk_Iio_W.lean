@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos919_mk_Iio_W
 -- name    : Erdos919.mk_Iio_W
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T18:13:16.718147+00:00
 -- url     : https://prove2.me/theorems/cc63ab83-6d5a-5704-9763-373c08c740cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_lattice_ineq_integers
 -- name    : GlobalTheory.ChF.lattice_ineq_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T18:02:14.311466+00:00
 -- url     : https://prove2.me/theorems/39a7b5d3-66c3-4ade-886d-efdd2fdf7d6a

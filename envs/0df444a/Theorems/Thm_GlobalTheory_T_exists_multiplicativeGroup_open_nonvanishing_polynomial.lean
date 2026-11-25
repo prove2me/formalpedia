@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_multiplicativeGroup_open_nonvanishing_polynomial
 -- name    : GlobalTheory.T.exists_multiplicativeGroup_open_nonvanishing_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:49:39.939305+00:00
 -- url     : https://prove2.me/theorems/fd0c1150-d787-4dcb-8d43-96b59df06cc2

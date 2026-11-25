@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympQ_wpQ_mk
 -- name    : GlobalTheory.SympQ.wpQ_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:32:57.398047+00:00
 -- url     : https://prove2.me/theorems/053e3657-75a7-5daa-b6f7-8dc1cd711e1b

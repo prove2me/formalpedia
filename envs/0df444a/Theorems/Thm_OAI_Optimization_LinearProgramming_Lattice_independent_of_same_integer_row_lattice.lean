@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_independent_of_same_integer_row_lattice
 -- name    : OAI.Optimization.LinearProgramming.Lattice.independent_of_same_integer_row_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:29:58.446322+00:00
 -- url     : https://prove2.me/theorems/b098c7cc-7263-521f-a966-7f6d30a8382c

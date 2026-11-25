@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rank_zero_gram_fiber_measure
 -- name    : GlobalTheory.T.rank_zero_gram_fiber_measure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:37:09.414801+00:00
 -- url     : https://prove2.me/theorems/fd624c0b-5c64-4295-a6e1-b3c2ccdbae58

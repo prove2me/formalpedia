@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitLemma_local_oddResidue_of_lieAlgebra
 -- name    : GlobalTheory.T.unitLemma_local_oddResidue_of_lieAlgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:41:18.031503+00:00
 -- url     : https://prove2.me/theorems/0f2ab6fd-a1ad-53df-930f-7b509bad5003

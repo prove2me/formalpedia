@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCharacter_exists_lie_coordinates
 -- name    : GlobalTheory.TorsionCharacter.exists_lie_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:48:28.913803+00:00
 -- url     : https://prove2.me/theorems/3212e92f-aaf3-4691-b51d-695453e5962a

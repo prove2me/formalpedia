@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isArtinianLocal_length_finite_and_exists_socle_elem
 -- name    : GlobalTheory.T.isArtinianLocal_length_finite_and_exists_socle_elem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:41:50.622812+00:00
 -- url     : https://prove2.me/theorems/7fdf3578-29e6-5ce5-a054-4c43d4b1d02a

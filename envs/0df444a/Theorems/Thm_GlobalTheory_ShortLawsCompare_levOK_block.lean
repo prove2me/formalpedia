@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortLawsCompare_levOK_block
 -- name    : GlobalTheory.ShortLawsCompare.levOK_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:24:00.81388+00:00
 -- url     : https://prove2.me/theorems/31d285bb-2104-5907-92ce-1f26a4696522

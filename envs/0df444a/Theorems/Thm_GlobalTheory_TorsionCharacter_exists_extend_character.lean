@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCharacter_exists_extend_character
 -- name    : GlobalTheory.TorsionCharacter.exists_extend_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:38:59.527405+00:00
 -- url     : https://prove2.me/theorems/014a4cbd-84ee-5495-a6ee-78551c09e1a3

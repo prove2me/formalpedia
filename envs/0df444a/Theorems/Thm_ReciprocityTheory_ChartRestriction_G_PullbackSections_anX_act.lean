@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_anX_act
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.anX_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T17:53:04.136163+00:00
 -- url     : https://prove2.me/theorems/11ace844-f8a4-4d54-ba9b-62393cdc456a

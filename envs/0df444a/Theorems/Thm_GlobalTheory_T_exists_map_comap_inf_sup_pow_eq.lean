@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_map_comap_inf_sup_pow_eq
 -- name    : GlobalTheory.T.exists_map_comap_inf_sup_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:30:50.69627+00:00
 -- url     : https://prove2.me/theorems/fe435bd8-bf4d-4f17-b63f-62b1af87b7ac

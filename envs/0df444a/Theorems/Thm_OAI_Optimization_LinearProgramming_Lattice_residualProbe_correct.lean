@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_residualProbe_correct
 -- name    : OAI.Optimization.LinearProgramming.Lattice.residualProbe_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:24:55.453459+00:00
 -- url     : https://prove2.me/theorems/d702c6f0-8186-5a3c-8d68-a2f3010c7835

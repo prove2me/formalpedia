@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_linPart_act_ringHom
 -- name    : GlobalTheory.ChF.linPart_act_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:08:35.455826+00:00
 -- url     : https://prove2.me/theorems/1b68d1a3-bd7f-43ca-b2df-b8be69105756

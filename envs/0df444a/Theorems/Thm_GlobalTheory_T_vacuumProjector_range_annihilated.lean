@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_vacuumProjector_range_annihilated
 -- name    : GlobalTheory.T.vacuumProjector_range_annihilated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:41:33.230801+00:00
 -- url     : https://prove2.me/theorems/24805dad-ce12-4b3a-9794-a32b590ccafd

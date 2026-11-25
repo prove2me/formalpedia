@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_Compensated_compensated_cross_integrable
 -- name    : LevyStochCalc.Poisson.Compensated.compensated_cross_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T17:07:50.408067+00:00
 -- url     : https://prove2.me/theorems/cbbea466-a658-406a-b432-998e5e3742f8

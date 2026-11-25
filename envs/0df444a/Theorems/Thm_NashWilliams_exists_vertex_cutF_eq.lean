@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashWilliams_exists_vertex_cutF_eq
 -- name    : NashWilliams.exists_vertex_cutF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T17:59:51.149921+00:00
 -- url     : https://prove2.me/theorems/b34d200c-3754-4b4b-b4ba-017fc89713b7

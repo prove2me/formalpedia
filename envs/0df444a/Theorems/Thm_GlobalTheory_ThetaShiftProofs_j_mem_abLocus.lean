@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaShiftProofs_j_mem_abLocus
 -- name    : GlobalTheory.ThetaShiftProofs.j_mem_abLocus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:42:32.122503+00:00
 -- url     : https://prove2.me/theorems/3b305ddd-ec6e-42c2-ba0d-7874fc33236d

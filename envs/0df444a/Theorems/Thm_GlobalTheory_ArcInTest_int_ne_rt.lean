@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcInTest_int_ne_rt
 -- name    : GlobalTheory.ArcInTest.int_ne_rt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T17:55:38.615404+00:00
 -- url     : https://prove2.me/theorems/8f7a2993-4a29-4f32-b677-056622d18e08

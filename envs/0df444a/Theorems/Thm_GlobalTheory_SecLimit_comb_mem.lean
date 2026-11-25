@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecLimit_comb_mem
 -- name    : GlobalTheory.SecLimit.comb_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T16:23:11.61659+00:00
 -- url     : https://prove2.me/theorems/14ff7960-65bf-427b-b2ba-c5ce89ec17b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_arithmeticGroup_cuspCentre_lattice
 -- name    : GlobalTheory.T.arithmeticGroup_cuspCentre_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:29:24.926265+00:00
 -- url     : https://prove2.me/theorems/50475b88-94c7-4b9f-b288-5a18aad3cefb

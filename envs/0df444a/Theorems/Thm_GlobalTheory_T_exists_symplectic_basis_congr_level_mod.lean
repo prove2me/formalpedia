@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_symplectic_basis_congr_level_mod
 -- name    : GlobalTheory.T.exists_symplectic_basis_congr_level_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:32:45.145582+00:00
 -- url     : https://prove2.me/theorems/2cc84fca-ca24-4446-95a1-74aa1a485d0f

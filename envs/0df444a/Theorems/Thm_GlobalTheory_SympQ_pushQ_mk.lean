@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SympQ_pushQ_mk
 -- name    : GlobalTheory.SympQ.pushQ_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:26:03.389967+00:00
 -- url     : https://prove2.me/theorems/5f5bade2-879e-59a9-b904-fa3f9c2980d6

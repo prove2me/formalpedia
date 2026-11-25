@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_symmetricLift_torsionPoint_action_on_theta
 -- name    : GlobalTheory.T.symmetricLift_torsionPoint_action_on_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:41:28.4545+00:00
 -- url     : https://prove2.me/theorems/482c6523-0ee9-450f-8e48-2b5e93fb51b8

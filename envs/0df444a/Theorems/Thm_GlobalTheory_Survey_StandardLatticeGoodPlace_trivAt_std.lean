@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Survey_StandardLatticeGoodPlace_trivAt_std
 -- name    : GlobalTheory.Survey.StandardLatticeGoodPlace.trivAt_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:26:11.816834+00:00
 -- url     : https://prove2.me/theorems/b14b1823-e3c6-47e3-8fc1-e97df50984fc

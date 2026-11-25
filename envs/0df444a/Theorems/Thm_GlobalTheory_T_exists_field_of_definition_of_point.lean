@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_field_of_definition_of_point
 -- name    : GlobalTheory.T.exists_field_of_definition_of_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:29:20.270213+00:00
 -- url     : https://prove2.me/theorems/955af092-4734-43b2-b6ab-53745386ae2a

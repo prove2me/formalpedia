@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_GeneratorTable_pairSweep_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.GeneratorTable.pairSweep_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:24:48.526995+00:00
 -- url     : https://prove2.me/theorems/f4158097-02e2-57b1-8776-0c6d92990610

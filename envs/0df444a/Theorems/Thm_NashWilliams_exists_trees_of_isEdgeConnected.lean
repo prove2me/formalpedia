@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashWilliams_exists_trees_of_isEdgeConnected
 -- name    : NashWilliams.exists_trees_of_isEdgeConnected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T17:46:07.043994+00:00
 -- url     : https://prove2.me/theorems/98cd42e3-13b4-413e-8ec3-d0ff970817ba

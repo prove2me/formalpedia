@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos1063_cambie_upper_bound
 -- name    : Erdos1063.cambie_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T17:40:22.658478+00:00
 -- url     : https://prove2.me/theorems/b3c672a8-5815-492f-8e98-88e90fa246bf

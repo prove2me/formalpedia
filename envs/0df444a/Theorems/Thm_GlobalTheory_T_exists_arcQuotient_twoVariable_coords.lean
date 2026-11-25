@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_arcQuotient_twoVariable_coords
 -- name    : GlobalTheory.T.exists_arcQuotient_twoVariable_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:28:42.893575+00:00
 -- url     : https://prove2.me/theorems/f772ab1e-6fd7-5213-a338-e0df45ab30f5

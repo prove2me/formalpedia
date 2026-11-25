@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeBetaCompare_extend_coeI
 -- name    : GlobalTheory.LatticeBetaCompare.extend_coeI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T17:29:37.8908+00:00
 -- url     : https://prove2.me/theorems/a9df9b6b-1f1d-5477-9bcb-c1205ccdb880

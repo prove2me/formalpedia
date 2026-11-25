@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_abelianScheme_cubical_bundle_exists_and_maps
 -- name    : GlobalTheory.T.abelianScheme_cubical_bundle_exists_and_maps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:49:14.961931+00:00
 -- url     : https://prove2.me/theorems/0a9d4c2b-d5a7-4f80-8485-877207d4d421

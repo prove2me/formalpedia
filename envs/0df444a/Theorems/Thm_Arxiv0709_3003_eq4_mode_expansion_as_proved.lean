@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv0709_3003_eq4_mode_expansion_as_proved
 -- name    : Arxiv0709_3003.eq4_mode_expansion_as_proved
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:21:24.198723+00:00
 -- url     : https://prove2.me/theorems/1f8cd0be-fd9d-4305-a0b5-6600edac5944

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hilbertEisensteinLatticeJet_split_smul_direction
 -- name    : GlobalTheory.T.hilbertEisensteinLatticeJet_split_smul_direction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:35:57.261088+00:00
 -- url     : https://prove2.me/theorems/e131cd84-cc4b-4cb6-b2f7-6e28a8dcb58d

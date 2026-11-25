@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_normal_subgroup_le_unramified_fixing
 -- name    : GlobalTheory.T.normal_subgroup_le_unramified_fixing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:38:01.564593+00:00
 -- url     : https://prove2.me/theorems/0d2a9258-f8a1-4e11-a431-9b1a96fc711f

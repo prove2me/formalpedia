@@ -21166,8 +21166,8 @@
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_437", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_437", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "RPLib_F2_062", "child": "RPLib_F2_061", "via": ["statement"]}
-{"parent": "LevyStochCalc.Poisson.Compensated.compensated_cross_integrable", "child": "LevyStochCalc_Poisson_CompensatedMartingaleAdapted_F000", "via": ["statement"]}
-{"parent": "LevyStochCalc.Poisson.Compensated.compensated_cross_integrable", "child": "LevyStochCalc_Poisson_CompensatedMartingaleAdapted_F001", "via": ["statement"]}
+{"parent": "LevyStochCalc.Poisson.Compensated.compensated_cross_integrable", "child": "LevyStochCalc_Poisson_CompensatedMartingaleAdapted_F000", "via": ["solution", "statement"]}
+{"parent": "LevyStochCalc.Poisson.Compensated.compensated_cross_integrable", "child": "LevyStochCalc_Poisson_CompensatedMartingaleAdapted_F001", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_1302", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_1302", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_607", "child": "OAIQ259US022", "via": ["solution", "statement"]}

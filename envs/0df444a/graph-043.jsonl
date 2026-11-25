@@ -25377,23 +25377,23 @@
 {"parent": "Formalism.FourierDecayAlt.P.WeakDominationMajorants.Orb.Linv_eq", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CoordinateSizesOfHypotheses", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.WeakDominationMajorants.Orb.Linv_eq", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SandwichRhoAction", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.WeakDominationMajorants.Orb.Linv_eq", "child": "Formalism_HermitianCurvature_StatementJF", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_NormDiagonalEntryDilationGeneratorLeOne", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OppositeWeylSubgroupClosed", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_Block3MulBlocks", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LongWeylElement", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RegularisedPairingViaPhase", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BetaSesquilinearity", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationUnipotentWeylMeasure", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SliceLastLevel", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_StatementJF", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_FormalDegreeBessel_FinalBF", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SettingExistence", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CompactGroupHaarExists", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_TwoByOneBlock", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbitalIntegralAeConvergenceContinuity", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PhiBoundPartsOfRadicalParametrisation", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_HermitianFormFactor", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SmoothnessOnGoodSet", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_NormDiagonalEntryDilationGeneratorLeOne", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OppositeWeylSubgroupClosed", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_Block3MulBlocks", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LongWeylElement", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RegularisedPairingViaPhase", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BetaSesquilinearity", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationUnipotentWeylMeasure", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SliceLastLevel", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_StatementJF", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_FormalDegreeBessel_FinalBF", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SettingExistence", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CompactGroupHaarExists", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_TwoByOneBlock", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbitalIntegralAeConvergenceContinuity", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PhiBoundPartsOfRadicalParametrisation", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_HermitianFormFactor", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.SliceLastLevel.intN", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SmoothnessOnGoodSet", "via": ["solution", "statement"]}
 {"parent": "Sensitivity214439_PairedSemantic_Solutions_MacroTokenSemantics", "child": "Sensitivity214439_PairedSemantic_Solutions_CyclicTokenMasks", "via": ["statement"]}
 {"parent": "Sensitivity214439_PairedSemantic_Solutions_MacroTokenSemantics", "child": "Sensitivity214439_PairedSemantic_Solutions_CliqueCertificate", "via": ["statement"]}
 {"parent": "Formalism_SharpRestriction_RamificationFrobenius_TotientGaloisClasses_InertiaGaloisSymmetry_CycLift", "child": "Formalism_SharpRestriction_RamificationFrobenius_TotientGaloisClasses_InertiaGaloisSymmetry_CycBasic", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_Vf2_exists_skew
 -- name    : GlobalTheory.ThK.Dbl.Vf2.exists_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:41:09.250119+00:00
 -- url     : https://prove2.me/theorems/227a19aa-9091-53b8-9c9b-637b7406adab

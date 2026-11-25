@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos919_size_iff
 -- name    : Erdos919.size_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T18:29:09.772431+00:00
 -- url     : https://prove2.me/theorems/5a47f803-f7d4-5aa0-9063-aa86d0cf10e8

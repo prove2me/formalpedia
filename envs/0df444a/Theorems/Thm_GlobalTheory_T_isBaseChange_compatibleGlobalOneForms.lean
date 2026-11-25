@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isBaseChange_compatibleGlobalOneForms
 -- name    : GlobalTheory.T.isBaseChange_compatibleGlobalOneForms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T16:07:33.398107+00:00
 -- url     : https://prove2.me/theorems/6bbbe62f-1513-4f3c-b588-1e1f2d05fb1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Spread_bcMap_id
 -- name    : GlobalTheory.Spread.bcMap_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:43:06.020942+00:00
 -- url     : https://prove2.me/theorems/d3c3bb33-37a4-50f6-ae7e-54e397fb1cb5

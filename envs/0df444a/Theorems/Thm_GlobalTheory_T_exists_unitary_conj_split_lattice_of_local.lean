@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unitary_conj_split_lattice_of_local
 -- name    : GlobalTheory.T.exists_unitary_conj_split_lattice_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:31:40.295002+00:00
 -- url     : https://prove2.me/theorems/87c852a3-e65e-58c4-a54c-7e79801ce6f9

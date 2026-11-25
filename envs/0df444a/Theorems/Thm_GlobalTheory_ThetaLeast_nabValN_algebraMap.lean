@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaLeast_nabValN_algebraMap
 -- name    : GlobalTheory.ThetaLeast.nabValN_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:48:09.496978+00:00
 -- url     : https://prove2.me/theorems/0e5cf294-66bc-4fd7-be67-86848442ef39

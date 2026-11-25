@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_kaehler_basis_on_localization_away
 -- name    : GlobalTheory.T.kaehler_basis_on_localization_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:39.879196+00:00
 -- url     : https://prove2.me/theorems/06fcffa7-3178-49b0-9679-1f5bf24485a2

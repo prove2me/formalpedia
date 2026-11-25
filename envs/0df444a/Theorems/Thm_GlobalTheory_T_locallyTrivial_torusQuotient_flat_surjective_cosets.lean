@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_locallyTrivial_torusQuotient_flat_surjective_cosets
 -- name    : GlobalTheory.T.locallyTrivial_torusQuotient_flat_surjective_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T16:29:17.150854+00:00
 -- url     : https://prove2.me/theorems/e0f4ccbd-df86-582e-beca-ec550332148a

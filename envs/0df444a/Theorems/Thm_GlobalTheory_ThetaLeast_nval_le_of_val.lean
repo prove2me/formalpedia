@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaLeast_nval_le_of_val
 -- name    : GlobalTheory.ThetaLeast.nval_le_of_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:42:59.188374+00:00
 -- url     : https://prove2.me/theorems/fc3ff493-7322-431f-9562-6084201964af

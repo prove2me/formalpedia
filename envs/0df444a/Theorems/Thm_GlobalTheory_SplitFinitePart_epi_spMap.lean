@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFinitePart_epi_spMap
 -- name    : GlobalTheory.SplitFinitePart.epi_spMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:23:58.193068+00:00
 -- url     : https://prove2.me/theorems/9eb7da80-b598-569e-bc6c-24aef050f7ec

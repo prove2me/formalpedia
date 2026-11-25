@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_log_card_eq_finsum_length_localized_maximal
 -- name    : GlobalTheory.T.log_card_eq_finsum_length_localized_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:35:07.634622+00:00
 -- url     : https://prove2.me/theorems/011938bc-2b4e-573d-8af9-7ac85c7be5c5

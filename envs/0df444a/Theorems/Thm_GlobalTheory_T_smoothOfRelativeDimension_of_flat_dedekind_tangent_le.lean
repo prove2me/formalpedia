@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smoothOfRelativeDimension_of_flat_dedekind_tangent_le
 -- name    : GlobalTheory.T.smoothOfRelativeDimension_of_flat_dedekind_tangent_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T16:15:00.403628+00:00
 -- url     : https://prove2.me/theorems/ed75aaca-e847-4374-99ec-6e9af4afc0d3

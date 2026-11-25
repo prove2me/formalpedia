@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos919_chromaticCardinal_eq_aleph2_iff
 -- name    : Erdos919.chromaticCardinal_eq_aleph2_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T18:28:10.566281+00:00
 -- url     : https://prove2.me/theorems/58053d53-fe82-4c1f-8120-a4952d64c6f1

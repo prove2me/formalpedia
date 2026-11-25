@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SquareZero_mul_eq_zero_of_app_eq_zero
 -- name    : GlobalTheory.SquareZero.mul_eq_zero_of_app_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:34:27.876855+00:00
 -- url     : https://prove2.me/theorems/68f2e1d1-6126-5e69-b8e6-ee0d23d0bb59

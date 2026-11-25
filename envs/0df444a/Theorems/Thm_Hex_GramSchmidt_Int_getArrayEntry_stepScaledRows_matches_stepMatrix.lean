@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_getArrayEntry_stepScaledRows_matches_stepMatrix
 -- name    : Hex.GramSchmidt.Int.getArrayEntry_stepScaledRows_matches_stepMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:19:08.516501+00:00
 -- url     : https://prove2.me/theorems/5ad1112a-6114-4a56-ade3-b5cb878399bf

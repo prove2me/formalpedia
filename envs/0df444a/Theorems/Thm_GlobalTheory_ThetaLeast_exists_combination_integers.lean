@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaLeast_exists_combination_integers
 -- name    : GlobalTheory.ThetaLeast.exists_combination_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:49:22.142715+00:00
 -- url     : https://prove2.me/theorems/7465e3da-7256-4c67-82a3-bd5f987e08b8

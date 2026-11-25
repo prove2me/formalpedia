@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_preimage_generic_fiber_isOpen
 -- name    : GlobalTheory.T.preimage_generic_fiber_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:36:31.187121+00:00
 -- url     : https://prove2.me/theorems/8303b30d-a40d-426c-aba4-d3fef4cf3373

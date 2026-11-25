@@ -71666,7 +71666,7 @@
 {"parent": "Formalism.FourierDecayAlt.P.AveragedKernelSums.supportModule_of", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AveragedKernelSums", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.AveragedKernelSums.supportModule_of", "child": "Formalism_HermitianCurvature_ThetaExistenceInductiveFromPieces", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DecoratedLatticeProofs_MatrixFieldStableRangeOneDetNeZeroStatement", "child": "Development_AbelianVarietyTheory_Proofs_DecoratedLatticeProofs_MatrixFieldStableRangeOneDetNeZero", "via": ["statement"]}
-{"parent": "IActThereforeIAm.entropy_le_zero_on_unit_cube", "child": "IActThereforeIAm_Basic", "via": ["statement"]}
+{"parent": "IActThereforeIAm.entropy_le_zero_on_unit_cube", "child": "IActThereforeIAm_Basic", "via": ["solution", "statement"]}
 {"parent": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_FlowTwoTorsionWp", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_WeierstrassSubstitution_EqWSerSubst", "via": ["statement"]}
 {"parent": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_FlowTwoTorsionWp", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_WeierstrassSubstitution_Laurent", "via": ["statement"]}
 {"parent": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_FlowTwoTorsionWp", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_WeierstrassSubstitution_FlowBasic", "via": ["statement"]}
@@ -80014,7 +80014,7 @@
 {"parent": "AvramDividend.Classical.laplace_endpoint_of_isQScale", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.PolynomialWeightAction.phi_injective", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PairSym", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.PolynomialWeightAction.phi_injective", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_TransvectionInv", "via": ["solution", "statement"]}
-{"parent": "ObjectCentric.slot_affects_at_most_one_inferred_slot", "child": "ObjectCentric_Basic", "via": ["statement"]}
+{"parent": "ObjectCentric.slot_affects_at_most_one_inferred_slot", "child": "ObjectCentric_Basic", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_DetWEqNormSqDetOneAddIStatement", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ContinuousBlkM", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_DetWEqNormSqDetOneAddIStatement", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SecondCountableHermC", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_DetWEqNormSqDetOneAddIStatement", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_DetWEqNormSqDetOneAddI", "via": ["statement"]}
@@ -80479,7 +80479,7 @@
 {"parent": "PositivityTheory.Rg.Sw.LVs.STD.dc_comp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffB", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.B.Bm_mul_Am", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundAlt", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.B.Bm_mul_Am", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundA", "via": ["solution", "statement"]}
-{"parent": "ObjectCentric.object_meets_one_inferred_slot", "child": "ObjectCentric_Basic", "via": ["statement"]}
+{"parent": "ObjectCentric.object_meets_one_inferred_slot", "child": "ObjectCentric_Basic", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_NormIteratedFDerivIteratedFDerivStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_NormIteratedFDerivIteratedFDeriv", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SplitExtensionFundamentalDomain", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ParabolicIntegralUnfoldingStatement", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SplitExtensionFundamentalDomain", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ParabolicQuotientMeasureStatement", "via": ["statement"]}
@@ -81643,7 +81643,7 @@
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_TubeChainHolds", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_InverseTransformContinuousStatement", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_TubeChainHolds", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_InverseTransformLocallyBoundedStatement", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_TubeChainHolds", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_GaussTubeOfTubeGood", "via": ["statement"]}
-{"parent": "ObjectCentric.inferred_slot_meets_one_object", "child": "ObjectCentric_Basic", "via": ["statement"]}
+{"parent": "ObjectCentric.inferred_slot_meets_one_object", "child": "ObjectCentric_Basic", "via": ["solution", "statement"]}
 {"parent": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_InvOp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_TransvectionInv", "via": ["statement"]}
 {"parent": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_InvOp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_SymmetricFiltrationIffSupported", "via": ["statement"]}
 {"parent": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_InvOp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_MapDomainInlInr", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_refl_ne_neg
 -- name    : GlobalTheory.HostModel.refl_ne_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:20:07.037106+00:00
 -- url     : https://prove2.me/theorems/cecfc5b6-7b69-4095-94fe-bdf5b5252c69

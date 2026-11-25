@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolZeros_simple_zeros_move_holomorphically
 -- name    : GlobalTheory.HolZeros.simple_zeros_move_holomorphically
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T17:37:00.136322+00:00
 -- url     : https://prove2.me/theorems/1e675ae8-7f1c-4e1e-a8a6-f6a9740503bb

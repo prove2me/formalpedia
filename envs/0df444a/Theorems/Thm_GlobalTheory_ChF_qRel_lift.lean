@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_qRel_lift
 -- name    : GlobalTheory.ChF.qRel_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:08:27.762774+00:00
 -- url     : https://prove2.me/theorems/51060cca-3035-4a74-b509-decf6976034b

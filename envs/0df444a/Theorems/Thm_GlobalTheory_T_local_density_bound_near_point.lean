@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_local_density_bound_near_point
 -- name    : GlobalTheory.T.local_density_bound_near_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:35:51.346907+00:00
 -- url     : https://prove2.me/theorems/27b0e845-be32-4f7f-a145-4da433960c55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weightedOrder_slope_comparison_alt
 -- name    : GlobalTheory.T.weightedOrder_slope_comparison_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:41:04.339617+00:00
 -- url     : https://prove2.me/theorems/922a17b7-0336-4be7-99b3-ec8723a8d8e4

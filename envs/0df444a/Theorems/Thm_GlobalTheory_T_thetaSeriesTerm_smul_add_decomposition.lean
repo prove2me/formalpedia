@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_thetaSeriesTerm_smul_add_decomposition
 -- name    : GlobalTheory.T.thetaSeriesTerm_smul_add_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:40:12.193711+00:00
 -- url     : https://prove2.me/theorems/39d495a7-fd5e-5f78-b2ab-a1748e0ce826

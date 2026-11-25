@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashWilliams_split_all
 -- name    : NashWilliams.split_all
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T18:11:57.988198+00:00
 -- url     : https://prove2.me/theorems/c6b1855c-8114-598e-9ae6-4f1f3894e1d1

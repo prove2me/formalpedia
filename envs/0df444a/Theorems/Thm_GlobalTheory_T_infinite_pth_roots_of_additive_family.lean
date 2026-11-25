@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_infinite_pth_roots_of_additive_family
 -- name    : GlobalTheory.T.infinite_pth_roots_of_additive_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:34:07.816322+00:00
 -- url     : https://prove2.me/theorems/675b2e81-3849-5fc3-b9ce-1663b7cd3eec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitTorus_homEquiv_comp
 -- name    : GlobalTheory.SplitTorus.homEquiv_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:24:47.395644+00:00
 -- url     : https://prove2.me/theorems/419b9d4b-bb15-4807-921f-e8e82f7fc6e3

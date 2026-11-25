@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_curvatureSumWedge_wellDefined_and_deRhamLift
 -- name    : GlobalTheory.T.curvatureSumWedge_wellDefined_and_deRhamLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:28:15.048975+00:00
 -- url     : https://prove2.me/theorems/09e01e46-4247-45f9-89bf-3fa88e85da33

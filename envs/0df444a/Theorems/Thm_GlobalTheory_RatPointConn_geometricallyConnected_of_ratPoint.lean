@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RatPointConn_geometricallyConnected_of_ratPoint
 -- name    : GlobalTheory.RatPointConn.geometricallyConnected_of_ratPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:20:23.365003+00:00
 -- url     : https://prove2.me/theorems/594f66dc-88be-4837-8d79-f6a17df66311

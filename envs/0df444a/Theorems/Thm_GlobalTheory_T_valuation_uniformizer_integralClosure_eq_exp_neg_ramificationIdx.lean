@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_valuation_uniformizer_integralClosure_eq_exp_neg_ramificationIdx
 -- name    : GlobalTheory.T.valuation_uniformizer_integralClosure_eq_exp_neg_ramificationIdx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:40:20.090329+00:00
 -- url     : https://prove2.me/theorems/405b5ea4-b69b-575b-a252-f89aff102362

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_nonempty_jacquetRallisHaarMeasures_forall_size
 -- name    : GlobalTheory.T.nonempty_jacquetRallisHaarMeasures_forall_size
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:36:16.296061+00:00
 -- url     : https://prove2.me/theorems/b6a0e659-f068-5b07-9127-8e701c194609

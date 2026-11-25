@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashWilliams_outCut_le_card
 -- name    : NashWilliams.outCut_le_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T18:19:14.385008+00:00
 -- url     : https://prove2.me/theorems/a3a4bdfd-d61d-5ef9-a2cc-ed5734f07a70

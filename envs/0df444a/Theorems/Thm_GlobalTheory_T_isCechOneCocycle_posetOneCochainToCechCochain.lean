@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCechOneCocycle_posetOneCochainToCechCochain
 -- name    : GlobalTheory.T.isCechOneCocycle_posetOneCochainToCechCochain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T16:06:51.493555+00:00
 -- url     : https://prove2.me/theorems/98cc5e12-58f8-41b2-96bc-e60e56b1ec2f

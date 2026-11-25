@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_anRen_copy
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.anRen_copy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T17:46:20.053462+00:00
 -- url     : https://prove2.me/theorems/ece78487-afde-4f94-a7c2-d50a91ee54ab

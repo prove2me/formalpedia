@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothNormal_isNormalScheme_of_smoothOfRelativeDimension
 -- name    : GlobalTheory.SmoothNormal.isNormalScheme_of_smoothOfRelativeDimension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:23:57.536388+00:00
 -- url     : https://prove2.me/theorems/55bdf4bb-b988-46b1-a3a4-0ffd40ffe711

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObjectCentric_slot_affects_at_most_one_inferred_slot
 -- name    : ObjectCentric.slot_affects_at_most_one_inferred_slot
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T19:41:15.61989+00:00
 -- url     : https://prove2.me/theorems/3f0083c5-701d-47e0-ad45-e386e22cf6e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_dataRigidSt_iff
 -- name    : GlobalTheory.HostModel.dataRigidSt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:20:08.35774+00:00
 -- url     : https://prove2.me/theorems/32562f15-4daf-4665-928e-909b0e2f5c06

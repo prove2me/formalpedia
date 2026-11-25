@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos1063_lower_bound
 -- name    : Erdos1063.lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T17:30:57.077923+00:00
 -- url     : https://prove2.me/theorems/f00a3da9-8424-5827-ae49-e17ecd0415a9

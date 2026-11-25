@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_formalDisc_points_valuationIntegers
 -- name    : GlobalTheory.T.formalDisc_points_valuationIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T18:11:47.652746+00:00
 -- url     : https://prove2.me/theorems/8f9f1f72-a786-51e0-83b6-ea45f9b2af28

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_padicInt_algebra_of_isAdicComplete_matrix_unique
 -- name    : GlobalTheory.T.padicInt_algebra_of_isAdicComplete_matrix_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T18:06:47.134452+00:00
 -- url     : https://prove2.me/theorems/21331e58-4f5f-4318-a14e-ac82da0b9798

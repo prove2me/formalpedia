@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_frameRing_over_testRing
 -- name    : GlobalTheory.T.exists_frameRing_over_testRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:51.667984+00:00
 -- url     : https://prove2.me/theorems/d5274fbe-0f05-4a33-beb0-06e424dc1a1c

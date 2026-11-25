@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_det_bounded_convergent_powerSeries_matrix_eTwoPi
 -- name    : GlobalTheory.T.det_bounded_convergent_powerSeries_matrix_eTwoPi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:28:51.759748+00:00
 -- url     : https://prove2.me/theorems/048892a2-c27e-4a5f-8a78-e9d6b43ce698

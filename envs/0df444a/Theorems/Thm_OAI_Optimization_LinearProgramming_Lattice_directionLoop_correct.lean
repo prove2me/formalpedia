@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_directionLoop_correct
 -- name    : OAI.Optimization.LinearProgramming.Lattice.directionLoop_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:30:04.386367+00:00
 -- url     : https://prove2.me/theorems/9a214b60-0d5a-5763-9084-e48a520d2f46

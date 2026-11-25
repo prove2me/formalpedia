@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_flat_quotient_of_equiv_coker_dualMap_of_exact_fibres_alt
 -- name    : GlobalTheory.T.flat_quotient_of_equiv_coker_dualMap_of_exact_fibres_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:33:07.490737+00:00
 -- url     : https://prove2.me/theorems/d840fcb7-2f6c-5ba6-9e14-9b3a36b5fb61

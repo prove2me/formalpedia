@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_order_rep_diagonalisable
 -- name    : GlobalTheory.order_rep_diagonalisable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:02:08.797903+00:00
 -- url     : https://prove2.me/theorems/c1783108-57ca-4ce3-a439-62a2a95f457f

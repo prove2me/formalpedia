@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cmType_eigenMultiplicity_of_dense_primes
 -- name    : GlobalTheory.T.cmType_eigenMultiplicity_of_dense_primes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:27:39.566572+00:00
 -- url     : https://prove2.me/theorems/439c128d-f77e-593d-bb87-1bba45d65c91

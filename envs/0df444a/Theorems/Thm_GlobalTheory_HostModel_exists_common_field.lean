@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_exists_common_field
 -- name    : GlobalTheory.HostModel.exists_common_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:20:50.037276+00:00
 -- url     : https://prove2.me/theorems/98e2636e-dde8-4988-a849-bac018cd10e6

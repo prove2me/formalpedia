@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_Matrix_det_lowerTriangular_eq_finFoldl_diag
 -- name    : Hex.Matrix.det_lowerTriangular_eq_finFoldl_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:02:06.340809+00:00
 -- url     : https://prove2.me/theorems/47b5b33d-3b62-4a23-a2cf-cc00441e7546

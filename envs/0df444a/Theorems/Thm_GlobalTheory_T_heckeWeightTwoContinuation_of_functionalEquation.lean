@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeWeightTwoContinuation_of_functionalEquation
 -- name    : GlobalTheory.T.heckeWeightTwoContinuation_of_functionalEquation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:40:54.20078+00:00
 -- url     : https://prove2.me/theorems/c70bcf4e-362a-58e1-9981-d87b4f764342

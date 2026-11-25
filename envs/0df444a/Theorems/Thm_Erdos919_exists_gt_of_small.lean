@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos919_exists_gt_of_small
 -- name    : Erdos919.exists_gt_of_small
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T18:13:26.224018+00:00
 -- url     : https://prove2.me/theorems/cd7e60ab-76b1-467d-9508-47a9e8923742

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsDescent_constFn_eq
 -- name    : GlobalTheory.SectionsDescent.constFn_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:24:05.642172+00:00
 -- url     : https://prove2.me/theorems/fe423779-dd6f-400e-95bc-fd1954ae1914

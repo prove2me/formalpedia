@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Survey_BaseClassMove_zetaM_pow
 -- name    : GlobalTheory.Survey.BaseClassMove.zetaM_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:24:50.709081+00:00
 -- url     : https://prove2.me/theorems/21bb8f79-2b12-54c1-ab13-5c4eaa20fdb4

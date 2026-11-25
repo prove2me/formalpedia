@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFlatNearFibre_exists_away_smoothOfRelativeDimension
 -- name    : GlobalTheory.ProperFlatNearFibre.exists_away_smoothOfRelativeDimension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:48:49.602562+00:00
 -- url     : https://prove2.me/theorems/aa3c9b0e-95c4-4677-9fe1-1fbdca059196

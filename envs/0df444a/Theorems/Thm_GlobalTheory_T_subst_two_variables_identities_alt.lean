@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_subst_two_variables_identities_alt
 -- name    : GlobalTheory.T.subst_two_variables_identities_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:40:21.223842+00:00
 -- url     : https://prove2.me/theorems/536c3f9b-63c7-4a52-a655-d1e85842aca0

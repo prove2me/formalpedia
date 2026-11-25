@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcInTest_exists_values
 -- name    : GlobalTheory.ArcInTest.exists_values
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T18:00:57.315975+00:00
 -- url     : https://prove2.me/theorems/128650d8-22ad-54dc-a8db-6b3e10bf9fc2

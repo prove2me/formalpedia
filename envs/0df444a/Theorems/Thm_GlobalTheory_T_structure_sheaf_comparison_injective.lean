@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_structure_sheaf_comparison_injective
 -- name    : GlobalTheory.T.structure_sheaf_comparison_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:45:24.933911+00:00
 -- url     : https://prove2.me/theorems/7fafd925-9e04-5421-a000-97e44313f312

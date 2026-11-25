@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos1063_W_le_n_of_three_le
 -- name    : Erdos1063.W_le_n_of_three_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T17:39:48.680704+00:00
 -- url     : https://prove2.me/theorems/55433a1c-2a27-4651-9797-4460434caf00

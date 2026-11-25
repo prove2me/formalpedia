@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_roundingProjectionStep
 -- name    : OAI.Optimization.LinearProgramming.Lattice.roundingProjectionStep
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:25:01.990815+00:00
 -- url     : https://prove2.me/theorems/f84e9293-5cb5-4896-b576-1f29b8e4c108

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_integerGramDet_mul_entry
 -- name    : OAI.Optimization.LinearProgramming.Lattice.integerGramDet_mul_entry
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:25:06.521846+00:00
 -- url     : https://prove2.me/theorems/84e702b2-1d53-4034-88c0-81a9cc47416c

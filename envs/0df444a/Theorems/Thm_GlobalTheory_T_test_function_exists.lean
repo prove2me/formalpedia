@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_test_function_exists
 -- name    : GlobalTheory.T.test_function_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:41:25.492404+00:00
 -- url     : https://prove2.me/theorems/49244e2a-94fa-59a1-8c0a-9b3bc5091b7c

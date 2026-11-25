@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise42LipschitzAffineSegmentChainV1
 -- name    : Kyprianou.Ch04.exercise42LipschitzAffineSegmentChainV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T18:16:15.675561+00:00
 -- url     : https://prove2.me/theorems/0814ae2c-96f7-5308-acd1-40d1fa4beafd

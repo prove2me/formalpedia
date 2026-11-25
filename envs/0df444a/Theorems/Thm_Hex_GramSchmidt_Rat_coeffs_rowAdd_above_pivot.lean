@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Rat_coeffs_rowAdd_above_pivot
 -- name    : Hex.GramSchmidt.Rat.coeffs_rowAdd_above_pivot
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:07:17.332566+00:00
 -- url     : https://prove2.me/theorems/b58cd414-d8bb-5a55-9847-7e4d7d74a660

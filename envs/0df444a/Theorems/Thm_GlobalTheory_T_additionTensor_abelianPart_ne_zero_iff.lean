@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_additionTensor_abelianPart_ne_zero_iff
 -- name    : GlobalTheory.T.additionTensor_abelianPart_ne_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:49:32.669568+00:00
 -- url     : https://prove2.me/theorems/aa55bc5e-7641-4965-ad54-3ade124a383e

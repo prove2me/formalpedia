@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Rat_projectionCoeff_row_later_basis_eq_zero
 -- name    : Hex.GramSchmidt.Rat.projectionCoeff_row_later_basis_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:07:22.888836+00:00
 -- url     : https://prove2.me/theorems/230490a9-8077-4731-9178-6944e2108329

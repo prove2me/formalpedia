@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianDataMass_eq_sum_frameClasses
 -- name    : GlobalTheory.T.hermitianDataMass_eq_sum_frameClasses
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:34:04.359312+00:00
 -- url     : https://prove2.me/theorems/4ef17b56-164e-4c9d-b1fb-5278a0dff66b

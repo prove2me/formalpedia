@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteGL_mem_mirabInducedSpace
 -- name    : GlobalTheory.FiniteGL.mem_mirabInducedSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:17:05.119978+00:00
 -- url     : https://prove2.me/theorems/229a6786-c775-56db-b7f7-2fee20c1e7a5

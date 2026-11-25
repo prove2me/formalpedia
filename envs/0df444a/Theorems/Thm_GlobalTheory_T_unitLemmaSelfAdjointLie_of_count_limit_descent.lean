@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitLemmaSelfAdjointLie_of_count_limit_descent
 -- name    : GlobalTheory.T.unitLemmaSelfAdjointLie_of_count_limit_descent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:40:55.931113+00:00
 -- url     : https://prove2.me/theorems/44536df8-6c2f-4c5e-8ddd-181feef4ba69

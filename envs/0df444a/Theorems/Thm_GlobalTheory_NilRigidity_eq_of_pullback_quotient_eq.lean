@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NilRigidity_eq_of_pullback_quotient_eq
 -- name    : GlobalTheory.NilRigidity.eq_of_pullback_quotient_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:21:40.654967+00:00
 -- url     : https://prove2.me/theorems/9d571c46-6a9b-5486-b8b1-7ac942040820

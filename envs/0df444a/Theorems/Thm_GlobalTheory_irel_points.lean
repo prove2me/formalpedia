@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_irel_points
 -- name    : GlobalTheory.irel_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T17:53:20.373992+00:00
 -- url     : https://prove2.me/theorems/f9f110c0-8556-5394-8f69-0e48835c2a13

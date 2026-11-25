@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isSemiAbelian_of_proper_generic_torusExtension_special
 -- name    : GlobalTheory.T.isSemiAbelian_of_proper_generic_torusExtension_special
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:33:32.4088+00:00
 -- url     : https://prove2.me/theorems/bae4fca6-5434-4c6e-90d2-b8401fd55d47

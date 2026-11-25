@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FrobLB_frob_pullPow
 -- name    : GlobalTheory.SS.FrobLB.frob_pullPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:27:24.440946+00:00
 -- url     : https://prove2.me/theorems/717f774d-46fd-5831-be90-703aac50fff5

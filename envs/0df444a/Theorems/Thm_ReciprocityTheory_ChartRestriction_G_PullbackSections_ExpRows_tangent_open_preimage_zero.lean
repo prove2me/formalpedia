@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_ExpRows_tangent_open_preimage_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.ExpRows.tangent_open_preimage_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:13:35.704256+00:00
 -- url     : https://prove2.me/theorems/781f7d4f-1127-5838-b1b4-e46dd5c672f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_reduceRationalWith_spec
 -- name    : OAI.Optimization.LinearProgramming.Lattice.reduceRationalWith_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:25:19.501123+00:00
 -- url     : https://prove2.me/theorems/62827a58-69b4-4b5f-864c-14b521870294

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_roundingDirection_sign
 -- name    : OAI.Optimization.LinearProgramming.Lattice.roundingDirection_sign
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:24:54.425347+00:00
 -- url     : https://prove2.me/theorems/1bbe71d5-e934-5b40-accf-08e79059d60f

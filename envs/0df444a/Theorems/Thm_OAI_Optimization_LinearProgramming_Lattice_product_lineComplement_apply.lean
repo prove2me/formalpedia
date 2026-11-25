@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Lattice_product_lineComplement_apply
 -- name    : OAI.Optimization.LinearProgramming.Lattice.product_lineComplement_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:24:44.953896+00:00
 -- url     : https://prove2.me/theorems/219564e2-2635-566a-88ce-110ac821c188

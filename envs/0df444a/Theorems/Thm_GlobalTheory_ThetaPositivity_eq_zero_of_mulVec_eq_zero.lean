@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPositivity_eq_zero_of_mulVec_eq_zero
 -- name    : GlobalTheory.ThetaPositivity.eq_zero_of_mulVec_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:41:18.931999+00:00
 -- url     : https://prove2.me/theorems/058f8a94-069e-55db-92fc-9be8bd285a06

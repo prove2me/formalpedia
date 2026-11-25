@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_modulation_invariant_functional_kills_linear_multiple
 -- name    : GlobalTheory.T.modulation_invariant_functional_kills_linear_multiple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:36:16.292996+00:00
 -- url     : https://prove2.me/theorems/ed411b51-23e4-4719-b7a2-4c4e54b394dc

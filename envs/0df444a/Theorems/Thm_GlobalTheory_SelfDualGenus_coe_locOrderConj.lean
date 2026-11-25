@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_coe_locOrderConj
 -- name    : GlobalTheory.SelfDualGenus.coe_locOrderConj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:23:11.225172+00:00
 -- url     : https://prove2.me/theorems/b0cd2cf7-a00e-55fa-8a4b-b553f3365519

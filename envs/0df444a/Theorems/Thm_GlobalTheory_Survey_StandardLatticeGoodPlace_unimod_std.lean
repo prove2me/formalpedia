@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Survey_StandardLatticeGoodPlace_unimod_std
 -- name    : GlobalTheory.Survey.StandardLatticeGoodPlace.unimod_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:25:46.366377+00:00
 -- url     : https://prove2.me/theorems/2617bb76-dfe7-411d-9ff3-e7ad8999c879

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_affine_cover_sections_glue
 -- name    : GlobalTheory.T.affine_cover_sections_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:39:18.406107+00:00
 -- url     : https://prove2.me/theorems/1261423a-062f-5bd3-8f31-1632c46f1994

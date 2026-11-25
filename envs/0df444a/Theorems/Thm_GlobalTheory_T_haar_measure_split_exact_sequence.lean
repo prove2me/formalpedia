@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_haar_measure_split_exact_sequence
 -- name    : GlobalTheory.T.haar_measure_split_exact_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:32:17.752812+00:00
 -- url     : https://prove2.me/theorems/1bfa8c65-9974-4e02-a6a6-8a383dc6ef0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaShiftProofs_j_over
 -- name    : GlobalTheory.ThetaShiftProofs.j_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:41:49.489551+00:00
 -- url     : https://prove2.me/theorems/aa7a81b5-ba87-5b18-a651-3d2f9719cdee

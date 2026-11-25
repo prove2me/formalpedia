@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_finiteENNCompensatedMartingale
 -- name    : Kyprianou.Ch04.finiteENNCompensatedMartingale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:26:58.683519+00:00
 -- url     : https://prove2.me/theorems/c26c0933-689e-44ba-866a-36cf01cb204c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_GeneratorTable_candidateDet_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.GeneratorTable.candidateDet_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:18:54.623948+00:00
 -- url     : https://prove2.me/theorems/593b841b-a4ca-510f-a070-dfa9bdd98d52

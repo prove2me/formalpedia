@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_polynomial_approx_uniqueness
 -- name    : GlobalTheory.T.polynomial_approx_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:37:39.031806+00:00
 -- url     : https://prove2.me/theorems/04c84fe4-9ef5-4bac-8c04-fefae5432851

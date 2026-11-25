@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_posDef_real_gram_pair_hermitian_forms
 -- name    : GlobalTheory.T.posDef_real_gram_pair_hermitian_forms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:37:22.079116+00:00
 -- url     : https://prove2.me/theorems/7185a0bd-abf2-5ad2-ac1f-88d0a4d2d6fc

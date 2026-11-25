@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_existsUnique_glue_dualNumber
 -- name    : GlobalTheory.T.existsUnique_glue_dualNumber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:29:08.203009+00:00
 -- url     : https://prove2.me/theorems/df792b50-9587-5687-a117-9c2d9062bd4b

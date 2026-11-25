@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_affineUnitChart_smoothGroupScheme
 -- name    : GlobalTheory.T.exists_affineUnitChart_smoothGroupScheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:28:39.693078+00:00
 -- url     : https://prove2.me/theorems/f3a915e7-01cf-5a53-b403-9ed4a1bb47fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos919_smallCard_of_smallType
 -- name    : Erdos919.smallCard_of_smallType
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T18:24:00.830345+00:00
 -- url     : https://prove2.me/theorems/5310551f-9721-441b-9d8b-f17dfd1f69b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_measurable_embedding_of_injective_proper
 -- name    : GlobalTheory.T.measurable_embedding_of_injective_proper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:46:01.616979+00:00
 -- url     : https://prove2.me/theorems/f1d0838e-3552-5844-965c-351a2c2799a4

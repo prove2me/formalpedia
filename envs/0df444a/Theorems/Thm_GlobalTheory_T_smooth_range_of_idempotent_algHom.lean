@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smooth_range_of_idempotent_algHom
 -- name    : GlobalTheory.T.smooth_range_of_idempotent_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:37:42.246828+00:00
 -- url     : https://prove2.me/theorems/627182dc-c45b-5352-b65a-f8ce787dd252

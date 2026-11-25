@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitBall_leadingGramMinor_lower_bound_last
 -- name    : GlobalTheory.T.unitBall_leadingGramMinor_lower_bound_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:42:04.422718+00:00
 -- url     : https://prove2.me/theorems/ad509097-c72a-5948-abce-e8e11c360677

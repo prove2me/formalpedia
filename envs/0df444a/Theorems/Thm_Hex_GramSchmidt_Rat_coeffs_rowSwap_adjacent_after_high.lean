@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Rat_coeffs_rowSwap_adjacent_after_high
 -- name    : Hex.GramSchmidt.Rat.coeffs_rowSwap_adjacent_after_high
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:06:30.626801+00:00
 -- url     : https://prove2.me/theorems/1be3ee1c-374a-5387-8c91-9df9d79a3ef1

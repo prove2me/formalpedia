@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_Ingress_stageRequest_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.Ingress.stageRequest_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:25:17.983941+00:00
 -- url     : https://prove2.me/theorems/a29a0cd2-6bbc-4800-9174-0bd8ee40cb59

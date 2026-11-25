@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BXOf_val_nat
 -- name    : GlobalTheory.BXOf.val_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T16:52:30.800491+00:00
 -- url     : https://prove2.me/theorems/db76f3fb-19f6-5c8f-8cb9-5ec62d06443b

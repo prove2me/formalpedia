@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SeriesValue_limVal_one
 -- name    : GlobalTheory.SeriesValue.limVal_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:50:07.112183+00:00
 -- url     : https://prove2.me/theorems/0193cb8f-3e65-4dc4-b622-d51cf647c58e

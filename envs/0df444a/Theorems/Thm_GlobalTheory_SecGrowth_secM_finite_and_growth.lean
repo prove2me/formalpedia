@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGrowth_secM_finite_and_growth
 -- name    : GlobalTheory.SecGrowth.secM_finite_and_growth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:22:49.226797+00:00
 -- url     : https://prove2.me/theorems/d68cafba-1a6d-53e6-a616-a1db781b61f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_d0_eq_toPos_toCech_sub_of_mem_Z1
 -- name    : GlobalTheory.T.exists_d0_eq_toPos_toCech_sub_of_mem_Z1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:56:18.048634+00:00
 -- url     : https://prove2.me/theorems/7eb3f7a5-e3eb-4492-a8f8-8c9c7f6f9b0f

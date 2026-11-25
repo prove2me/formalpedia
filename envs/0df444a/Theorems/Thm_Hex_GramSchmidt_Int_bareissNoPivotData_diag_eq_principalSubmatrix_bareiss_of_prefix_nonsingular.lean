@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_bareissNoPivotData_diag_eq_principalSubmatrix_bareiss_of_prefix_nonsingular
 -- name    : Hex.GramSchmidt.Int.bareissNoPivotData_diag_eq_principalSubmatrix_bareiss_of_prefix_nonsingular
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:25:24.690454+00:00
 -- url     : https://prove2.me/theorems/494b4c12-cd40-413b-ab37-2a281eaa096c

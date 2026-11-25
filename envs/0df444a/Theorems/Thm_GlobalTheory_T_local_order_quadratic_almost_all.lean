@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_local_order_quadratic_almost_all
 -- name    : GlobalTheory.T.local_order_quadratic_almost_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:38:38.267126+00:00
 -- url     : https://prove2.me/theorems/8057d9ac-d0c2-416a-baae-1d2ffa3844e9

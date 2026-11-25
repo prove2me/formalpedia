@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cmCurveHom_exists_pureTypeVector_anyLevel
 -- name    : GlobalTheory.T.cmCurveHom_exists_pureTypeVector_anyLevel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T16:05:35.501003+00:00
 -- url     : https://prove2.me/theorems/b48d5fc8-3492-437c-9133-f8d0f8814561

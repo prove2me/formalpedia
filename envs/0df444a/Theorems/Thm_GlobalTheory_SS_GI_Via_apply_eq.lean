@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_Via_apply_eq
 -- name    : GlobalTheory.SS.GI.Via.apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:22:06.286981+00:00
 -- url     : https://prove2.me/theorems/79737001-5d3b-416a-8ff0-8ee1f95efa07
