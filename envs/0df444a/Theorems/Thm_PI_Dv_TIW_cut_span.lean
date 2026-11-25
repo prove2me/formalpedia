@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_cut_span
 -- name    : PI.Dv.TIW.cut_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:04:45.489676+00:00
 -- url     : https://prove2.me/theorems/06dac66e-f37a-4fff-8799-9ef429a16aea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HeckeProdW_exists_strictHenselian_absolutely_closed_local_ring
 -- name    : PI.HeckeProdW.exists_strictHenselian_absolutely_closed_local_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:30:54.397535+00:00
 -- url     : https://prove2.me/theorems/43061efe-148f-5aa0-83a4-b3dab6c96db9

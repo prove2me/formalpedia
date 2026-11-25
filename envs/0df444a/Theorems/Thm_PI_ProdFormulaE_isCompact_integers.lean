@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_isCompact_integers
 -- name    : PI.ProdFormulaE.isCompact_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:17:27.066002+00:00
 -- url     : https://prove2.me/theorems/dd2b5c6c-b527-5423-b2d7-845c3931fa13

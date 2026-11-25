@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerDetFinW_exists_nat_mul_mem_frac_fam
 -- name    : PI.KerDetFinW.exists_nat_mul_mem_frac_fam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:33:19.075966+00:00
 -- url     : https://prove2.me/theorems/61383d1c-9272-4095-9ea1-75c38d75ba97

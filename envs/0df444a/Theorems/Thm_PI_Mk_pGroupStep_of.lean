@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Mk_pGroupStep_of
 -- name    : PI.Mk.pGroupStep_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:22.559251+00:00
 -- url     : https://prove2.me/theorems/8eb014e1-3ead-4336-b672-91c09eed0574

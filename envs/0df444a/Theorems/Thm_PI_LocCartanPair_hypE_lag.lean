@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocCartanPair_hypE_lag
 -- name    : PI.LocCartanPair.hypE_lag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:00.593585+00:00
 -- url     : https://prove2.me/theorems/64e722b3-13c5-5b24-8826-ccf4166da1b1

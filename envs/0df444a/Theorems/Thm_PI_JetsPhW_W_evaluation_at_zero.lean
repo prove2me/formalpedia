@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_W_evaluation_at_zero
 -- name    : PI.JetsPhW.W.evaluation_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:33:03.545862+00:00
 -- url     : https://prove2.me/theorems/f1e05198-0985-5c48-addf-17834c2ee12e

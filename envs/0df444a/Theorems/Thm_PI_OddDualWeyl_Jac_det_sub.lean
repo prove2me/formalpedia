@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Jac_det_sub
 -- name    : PI.OddDualWeyl.Jac.det_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:14:29.941865+00:00
 -- url     : https://prove2.me/theorems/dd68bde8-ec10-4ac3-b944-97194727a7a6

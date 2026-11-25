@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExpIntWProof_Key_div_p_mem_of_S
 -- name    : PI.ExpIntWProof.Key.div_p_mem_of_S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:11.032224+00:00
 -- url     : https://prove2.me/theorems/82b10f5e-117e-582c-88d5-ebe4b1514e05

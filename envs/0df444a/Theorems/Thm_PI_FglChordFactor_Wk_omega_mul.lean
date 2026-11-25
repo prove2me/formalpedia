@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglChordFactor_Wk_omega_mul
 -- name    : PI.FglChordFactor.Wk.omega_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:44:47.914484+00:00
 -- url     : https://prove2.me/theorems/c21e778a-0092-465c-b63a-5cb633f813ce

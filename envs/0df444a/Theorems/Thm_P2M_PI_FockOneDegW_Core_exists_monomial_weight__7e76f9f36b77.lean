@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_FockOneDegW_Core_exists_monomial_weight__7e76f9f36b77
 -- name    : P2M_PI_FockOneDegW_Core_exists_monomial_weight__7e76f9f36b77
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:57:38.087903+00:00
 -- url     : https://prove2.me/theorems/70bc9fdb-b727-40a6-822d-1998dc7189e3

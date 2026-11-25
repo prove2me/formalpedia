@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_fineSubgroup_moves_at_lattice
 -- name    : GlobalTheory.T.exists_fineSubgroup_moves_at_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:08:14.945582+00:00
 -- url     : https://prove2.me/theorems/3bab3f05-5d60-47e6-bf34-087373828c02

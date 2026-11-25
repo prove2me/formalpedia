@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_perron_gluing_sides
 -- name    : PI.EF.perron_gluing_sides
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:49.190832+00:00
 -- url     : https://prove2.me/theorems/ad7d0368-93ce-5247-a698-50381e03bb97

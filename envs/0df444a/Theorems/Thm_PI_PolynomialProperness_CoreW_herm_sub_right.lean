@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CoreW_herm_sub_right
 -- name    : PI.PolynomialProperness.CoreW.herm_sub_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:36:26.186894+00:00
 -- url     : https://prove2.me/theorems/3dcf591f-4093-422a-84ae-283daa472fe5

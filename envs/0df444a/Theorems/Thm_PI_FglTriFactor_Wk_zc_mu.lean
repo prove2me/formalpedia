@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglTriFactor_Wk_zc_mu
 -- name    : PI.FglTriFactor.Wk.zc_mu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:05.370975+00:00
 -- url     : https://prove2.me/theorems/3cc19693-035c-5597-afc8-6bac8a5d0bb2

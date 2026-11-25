@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Low_coeff_lin_pow
 -- name    : PI.OddDualWeyl.Low.coeff_lin_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:13:41.505361+00:00
 -- url     : https://prove2.me/theorems/00144ae9-5f7d-48f0-a9d0-f2bc7ccd5c9e

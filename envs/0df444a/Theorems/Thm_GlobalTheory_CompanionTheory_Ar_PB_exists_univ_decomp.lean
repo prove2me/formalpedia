@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_exists_univ_decomp
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.exists_univ_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:04:10.710025+00:00
 -- url     : https://prove2.me/theorems/560ff69b-5ff8-5bd9-b3cd-4d9d38847bde

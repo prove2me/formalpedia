@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerDetFinW_exists_denom_backward
 -- name    : PI.KerDetFinW.exists_denom_backward
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:33:33.475546+00:00
 -- url     : https://prove2.me/theorems/a51eda34-4762-4bfc-8f13-6e98f0af47da

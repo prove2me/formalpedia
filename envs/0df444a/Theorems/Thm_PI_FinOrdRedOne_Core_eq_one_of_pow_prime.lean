@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinOrdRedOne_Core_eq_one_of_pow_prime
 -- name    : PI.FinOrdRedOne.Core.eq_one_of_pow_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:06.910315+00:00
 -- url     : https://prove2.me/theorems/ae629308-fac8-4b42-b19c-3dfceb4507c3

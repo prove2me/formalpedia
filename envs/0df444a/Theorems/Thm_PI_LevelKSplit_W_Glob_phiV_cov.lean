@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Glob_phiV_cov
 -- name    : PI.LevelKSplit.W.Glob.phiV_cov
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:33:39.906801+00:00
 -- url     : https://prove2.me/theorems/f4ac5fb7-2662-4627-915d-6589d496f417

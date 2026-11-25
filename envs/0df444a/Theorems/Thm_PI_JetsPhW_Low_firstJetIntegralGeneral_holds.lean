@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Low_firstJetIntegralGeneral_holds
 -- name    : PI.JetsPhW.Low.firstJetIntegralGeneral_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:10:46.498007+00:00
 -- url     : https://prove2.me/theorems/06c75297-5dd1-59c3-980f-aa41a4797962

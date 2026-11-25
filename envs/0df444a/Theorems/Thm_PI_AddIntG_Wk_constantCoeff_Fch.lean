@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_constantCoeff_Fch
 -- name    : PI.AddIntG.Wk.constantCoeff_Fch
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:22:35.186011+00:00
 -- url     : https://prove2.me/theorems/fa2b1aa6-bf62-5090-bdef-e589a7a9781f

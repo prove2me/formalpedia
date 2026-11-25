@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjAW_dual_part
 -- name    : PI.Dv.ProjAW.dual_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:28:40.229834+00:00
 -- url     : https://prove2.me/theorems/01fd4893-b23d-4053-8b7a-993c5a0e335c

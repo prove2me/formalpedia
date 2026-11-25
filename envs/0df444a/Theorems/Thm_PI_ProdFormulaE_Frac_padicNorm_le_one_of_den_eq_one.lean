@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Frac_padicNorm_le_one_of_den_eq_one
 -- name    : PI.ProdFormulaE.Frac.padicNorm_le_one_of_den_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:58.353328+00:00
 -- url     : https://prove2.me/theorems/6354fbce-9598-482f-9292-a9d6fdb9b43b

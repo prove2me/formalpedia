@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_fourG_act_pt_eq_fourK
 -- name    : GlobalTheory.JR.LinDesc.fourG_act_pt_eq_fourK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:35:16.526623+00:00
 -- url     : https://prove2.me/theorems/a6a85e5c-86cf-41eb-9974-d041b1e95e43

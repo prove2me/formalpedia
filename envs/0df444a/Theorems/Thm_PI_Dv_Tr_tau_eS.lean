@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_tau_eS
 -- name    : PI.Dv.Tr.tau_eS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:21:36.117288+00:00
 -- url     : https://prove2.me/theorems/6a72f262-d0aa-40c2-80a4-96d3f187d314

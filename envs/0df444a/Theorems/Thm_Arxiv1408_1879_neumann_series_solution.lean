@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1408_1879_neumann_series_solution
 -- name    : Arxiv1408_1879.neumann_series_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:42:10.158784+00:00
 -- url     : https://prove2.me/theorems/62ded5e0-0aff-4343-87ed-b5f494cfcb08

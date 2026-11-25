@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KFinSmoothW_Gard_stepGarding_main
 -- name    : PI.KFinSmoothW.Gard.stepGarding_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:33:25.239337+00:00
 -- url     : https://prove2.me/theorems/a159f118-cfaf-47f6-81c0-108b78a53b78

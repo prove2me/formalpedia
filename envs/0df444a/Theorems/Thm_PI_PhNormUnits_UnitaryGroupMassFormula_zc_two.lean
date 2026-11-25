@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PhNormUnits_UnitaryGroupMassFormula_zc_two
 -- name    : PI.PhNormUnits.UnitaryGroupMassFormula.zc_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:36.391512+00:00
 -- url     : https://prove2.me/theorems/067fb6f1-63ed-4cf3-b11c-ba1bb7bdcb70

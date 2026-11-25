@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocMassTypW_WCoreP_model_inj
 -- name    : PI.LocMassTypW.WCoreP.model_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:34:48.300863+00:00
 -- url     : https://prove2.me/theorems/373999d7-1b03-4788-b83d-fbb73c1d3c3c

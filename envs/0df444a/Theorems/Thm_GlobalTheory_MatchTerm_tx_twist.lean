@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_tx_twist
 -- name    : GlobalTheory.MatchTerm.tx_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:21:52.21026+00:00
 -- url     : https://prove2.me/theorems/5429afff-0875-4a87-9ff7-b8aab1cc9ce8

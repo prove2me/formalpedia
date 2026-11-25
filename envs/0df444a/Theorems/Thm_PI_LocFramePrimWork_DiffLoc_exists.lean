@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_DiffLoc_exists
 -- name    : PI.LocFramePrimWork.DiffLoc_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:16:39.094621+00:00
 -- url     : https://prove2.me/theorems/fd2d1413-8e00-5276-a059-9729367058cc

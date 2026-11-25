@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocMassTypL_lat_basis
 -- name    : PI.LocMassTypL.lat_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:24.745481+00:00
 -- url     : https://prove2.me/theorems/eaf5e9e0-9331-4394-9149-31b02e319e65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_TauN_T_ne
 -- name    : PI.PolynomialProperness.TauN.T_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:18:38.000721+00:00
 -- url     : https://prove2.me/theorems/d0eb72a3-9d01-422e-9613-02f0d6468614

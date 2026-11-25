@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isCompact_unitFiltrationUnits_zero
 -- name    : GroundTheory.LocalField.isCompact_unitFiltrationUnits_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:43:26.64387+00:00
 -- url     : https://prove2.me/theorems/5c790e51-6a93-457d-9aac-5d31b57cb7b5

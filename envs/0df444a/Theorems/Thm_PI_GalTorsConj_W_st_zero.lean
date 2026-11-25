@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_st_zero
 -- name    : PI.GalTorsConj.W.st_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:31:23.314993+00:00
 -- url     : https://prove2.me/theorems/3ba39b1d-b369-4ba4-baf0-fb734480534e

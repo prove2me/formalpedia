@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocLatEq_W_core_gen_ideal
 -- name    : PI.LocLatEq.W.core_gen_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:14:00.00946+00:00
 -- url     : https://prove2.me/theorems/c8a5fc47-a549-4b19-8436-f57338ca451a

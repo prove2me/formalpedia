@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_norm_twistedGamma_le_of_re_eq_eleven_halves
 -- name    : PI.EF.norm_twistedGamma_le_of_re_eq_eleven_halves
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:04.748375+00:00
 -- url     : https://prove2.me/theorems/1049e058-e400-45af-9ca0-907ce0fdf221

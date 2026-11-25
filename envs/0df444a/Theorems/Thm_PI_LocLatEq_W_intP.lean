@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocLatEq_W_intP
 -- name    : PI.LocLatEq.W.intP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:34:43.497803+00:00
 -- url     : https://prove2.me/theorems/2143aa62-31b5-41ac-a542-7e36421f559f

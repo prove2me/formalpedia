@@ -1,0 +1,54 @@
+-- Prove2me | solution 1 for PI.NglqJacSplitW.image_update_pi
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-25T09:57:15.69507+00:00
+-- url     : https://prove2.me/submissions/78542233-f397-47e4-979d-8ee6a51b343f
+
+import Mathlib
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_JacobianTransvectionSplitting_DiscreteHaar
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_JacobianTransvectionSplitting_DiagonalOneJacobian
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open MeasureTheory Set Function Topology
+open scoped ENNReal NNReal Pointwise
+open PI PI.NglqJacSplitW
+variable {F : Type} [Field F] [TopologicalSpace F] [IsTopologicalDivisionRing F]
+  {ι : Type} [Fintype ι] [DecidableEq ι]
+namespace PI.NglqJacSplitW
+theorem _root_.solution (i : ι) (a : F) (_ha : a ≠ 0) (s : ι → Set F) :
+    (fun x => update x i (a * x i)) '' (univ.pi s) =
+      univ.pi (update s i ((fun y => a * y) '' s i)) := by
+  ext y
+  simp only [Set.mem_image, Set.mem_univ_pi]
+  constructor
+  · rintro ⟨x, hx, rfl⟩ j
+    by_cases hj : j = i
+    · subst hj
+      simp only [update_self]
+      exact ⟨x j, hx j, rfl⟩
+    · simp only [update_of_ne hj]
+      exact hx j
+  · intro hy
+    have hyi := hy i
+    simp only [update_self, Set.mem_image] at hyi
+    obtain ⟨t, ht, hti⟩ := hyi
+    refine ⟨update y i t, fun j => ?_, ?_⟩
+    · by_cases hj : j = i
+      · subst hj
+        simpa using ht
+      · have := hy j
+        simpa [update_of_ne hj] using this
+    · funext j
+      by_cases hj : j = i
+      · subst hj
+        simp [hti]
+      · simp [update_of_ne hj]
+end PI.NglqJacSplitW

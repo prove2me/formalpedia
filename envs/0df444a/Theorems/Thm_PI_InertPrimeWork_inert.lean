@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InertPrimeWork_inert
 -- name    : PI.InertPrimeWork.inert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:40.362831+00:00
 -- url     : https://prove2.me/theorems/1e47444e-09f0-4832-bd87-e088167757d7

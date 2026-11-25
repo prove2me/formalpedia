@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_NO_unit_of_norm
 -- name    : PI.KLW.NO.unit_of_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:44:17.409021+00:00
 -- url     : https://prove2.me/theorems/d0e3d40f-4f30-4856-b26b-2d91d3b34c63

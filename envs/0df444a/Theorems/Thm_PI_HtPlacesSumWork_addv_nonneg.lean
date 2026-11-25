@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HtPlacesSumWork_addv_nonneg
 -- name    : PI.HtPlacesSumWork.addv_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:46.80799+00:00
 -- url     : https://prove2.me/theorems/9c62c102-d033-467d-98bd-464337820bce

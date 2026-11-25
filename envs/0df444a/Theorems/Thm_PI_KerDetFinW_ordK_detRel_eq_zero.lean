@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerDetFinW_ordK_detRel_eq_zero
 -- name    : PI.KerDetFinW.ordK_detRel_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:33:12.260623+00:00
 -- url     : https://prove2.me/theorems/06cf904c-867b-564d-a5e4-d7ea55655787

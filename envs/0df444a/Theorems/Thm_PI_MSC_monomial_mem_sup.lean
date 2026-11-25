@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_MSC_monomial_mem_sup
 -- name    : PI.MSC.monomial_mem_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:35:13.741107+00:00
 -- url     : https://prove2.me/theorems/7b5544ce-48ad-4abd-a51a-8d90e1a398a1

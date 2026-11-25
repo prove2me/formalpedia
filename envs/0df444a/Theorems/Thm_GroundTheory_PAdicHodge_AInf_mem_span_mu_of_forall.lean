@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_mem_span_mu_of_forall
 -- name    : GroundTheory.PAdicHodge.AInf.mem_span_mu_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:02:34.535632+00:00
 -- url     : https://prove2.me/theorems/bc003f4d-4bdc-4965-9954-1e88af90656f

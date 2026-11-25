@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_hasSumLocallyUniformlyOn_term
 -- name    : GlobalTheory.AnArc.hasSumLocallyUniformlyOn_term
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:00:23.74467+00:00
 -- url     : https://prove2.me/theorems/d293bf36-77f1-44a5-948e-3142d6f69dbc

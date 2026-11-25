@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LPI_prV_sum_tmul
 -- name    : PI.LPI.prV_sum_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:19:11.615803+00:00
 -- url     : https://prove2.me/theorems/c0f0780c-d31e-4ac2-be39-3a3f2c0b3215

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_SdCore_chi_zero_left
 -- name    : PI.OmFibreUniq.W.SdCore.chi_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:37:43.397801+00:00
 -- url     : https://prove2.me/theorems/be9f474d-ee1d-5e4f-8ee0-ae3a1082ee43

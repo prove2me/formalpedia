@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_NO_generic_pair
 -- name    : PI.KLW.NO.generic_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:33:43.759801+00:00
 -- url     : https://prove2.me/theorems/6996f2c9-7a23-409e-a122-d58f8a4c5395

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_UnitBall_norm_unif_pos
 -- name    : GlobalTheory.CompanionTheory.CartGL.UnitBall.norm_unif_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:43:47.797797+00:00
 -- url     : https://prove2.me/theorems/3b585f4b-fd7b-4637-9452-56cd14461d81

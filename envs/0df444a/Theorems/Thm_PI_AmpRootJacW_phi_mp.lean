@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AmpRootJacW_phi_mp
 -- name    : PI.AmpRootJacW.phi_mp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:23:40.760255+00:00
 -- url     : https://prove2.me/theorems/52dbf2ba-c0b9-55ed-8a0d-eea90c905222

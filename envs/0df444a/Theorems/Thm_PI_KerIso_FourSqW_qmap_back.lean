@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerIso_FourSqW_qmap_back
 -- name    : PI.KerIso.FourSqW.qmap_back
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:34:02.825068+00:00
 -- url     : https://prove2.me/theorems/eca4b013-761e-4a8c-b032-411a2a6e5423

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_GN_hs_hpk_mul
 -- name    : PI.PolynomialProperness.GN.hs_hpk_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:37:55.856881+00:00
 -- url     : https://prove2.me/theorems/7535cc4c-dd29-43b7-89a7-3cbf5d738f3f

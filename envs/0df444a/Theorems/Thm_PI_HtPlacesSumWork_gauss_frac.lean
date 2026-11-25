@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HtPlacesSumWork_gauss_frac
 -- name    : PI.HtPlacesSumWork.gauss_frac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:07:14.527693+00:00
 -- url     : https://prove2.me/theorems/af47c50b-c185-58b1-8f14-6788b801a23c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Misc_invT_eq
 -- name    : PI.OddDualWeyl.Misc.invT_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:14:57.148628+00:00
 -- url     : https://prove2.me/theorems/95f4bc95-2b28-4c74-bfc1-3ab9a5593623

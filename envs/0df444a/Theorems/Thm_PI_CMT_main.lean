@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CMT_main
 -- name    : PI.CMT.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:24:22.128817+00:00
 -- url     : https://prove2.me/theorems/10134d9c-cb7b-48ad-8452-04e31f550e40

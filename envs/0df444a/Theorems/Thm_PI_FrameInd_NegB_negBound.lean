@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_NegB_negBound
 -- name    : PI.FrameInd.NegB.negBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:06.356598+00:00
 -- url     : https://prove2.me/theorems/fe8ed76e-a279-49dc-a9f1-520818d1b051

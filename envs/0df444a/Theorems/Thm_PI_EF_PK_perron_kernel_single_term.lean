@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_perron_kernel_single_term
 -- name    : PI.EF.PK.perron_kernel_single_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:28:02.881962+00:00
 -- url     : https://prove2.me/theorems/1526093d-f213-5fb3-9c1e-b18b3c69ad2b

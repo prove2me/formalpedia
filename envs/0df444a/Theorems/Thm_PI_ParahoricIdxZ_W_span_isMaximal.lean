@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ParahoricIdxZ_W_span_isMaximal
 -- name    : PI.ParahoricIdxZ.W.span_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:36:07.420089+00:00
 -- url     : https://prove2.me/theorems/49f84d4b-bbfe-436d-98a1-224d9829d207

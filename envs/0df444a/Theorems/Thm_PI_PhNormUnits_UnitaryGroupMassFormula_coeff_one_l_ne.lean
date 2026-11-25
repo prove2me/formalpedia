@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PhNormUnits_UnitaryGroupMassFormula_coeff_one_l_ne
 -- name    : PI.PhNormUnits.UnitaryGroupMassFormula.coeff_one_l_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:35:35.656827+00:00
 -- url     : https://prove2.me/theorems/d628381e-1418-4501-ba4c-281d4b867863

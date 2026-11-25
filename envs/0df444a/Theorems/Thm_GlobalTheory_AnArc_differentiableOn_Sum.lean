@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_differentiableOn_Sum
 -- name    : GlobalTheory.AnArc.differentiableOn_Sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:59:42.567662+00:00
 -- url     : https://prove2.me/theorems/dd1482d5-8af5-46a0-a12a-e2e47b71200d

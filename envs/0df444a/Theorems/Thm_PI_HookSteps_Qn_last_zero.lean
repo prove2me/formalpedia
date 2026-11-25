@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_Qn_last_zero
 -- name    : PI.HookSteps.Qn_last_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:09:34.838803+00:00
 -- url     : https://prove2.me/theorems/aad46335-bf1e-4d4f-b128-92585696e60d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_kernel_highest_weight
 -- name    : PI.FockOneDegW.kernel_highest_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:13:27.60262+00:00
 -- url     : https://prove2.me/theorems/7015ede4-c801-49b7-8111-14553ec5bd2f

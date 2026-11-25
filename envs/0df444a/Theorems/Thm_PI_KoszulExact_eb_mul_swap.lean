@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KoszulExact_eb_mul_swap
 -- name    : PI.KoszulExact.eb_mul_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:33:54.195376+00:00
 -- url     : https://prove2.me/theorems/55fd2a7d-15c9-4799-8fba-8df768571f61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_NCH_unipotent_radical_action_formula
 -- name    : PI.LevelKSplit.W.NCH.unipotent_radical_action_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:34:56.28909+00:00
 -- url     : https://prove2.me/theorems/6855256c-1a4c-4acc-9dc5-c66a2dcbd4af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LocInv_inversion
 -- name    : GlobalTheory.CompanionTheory.SW.LocInv.inversion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:04:40.522182+00:00
 -- url     : https://prove2.me/theorems/1536ce9e-0af0-452a-84e8-83e7b644549f

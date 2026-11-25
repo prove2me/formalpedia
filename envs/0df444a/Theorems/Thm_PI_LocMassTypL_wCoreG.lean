@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocMassTypL_wCoreG
 -- name    : PI.LocMassTypL.wCoreG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:29.28952+00:00
 -- url     : https://prove2.me/theorems/abc3c86f-dcef-4790-8309-ab7bddbecd74

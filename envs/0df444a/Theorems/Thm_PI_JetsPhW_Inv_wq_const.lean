@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Inv_wq_const
 -- name    : PI.JetsPhW.Inv.wq_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:09:46.093011+00:00
 -- url     : https://prove2.me/theorems/429338d9-fdac-4ca0-8214-f7131ee88f2d

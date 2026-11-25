@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmLocU_CntFF_exists_orth2
 -- name    : PI.OmLocU.CntFF.exists_orth2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:15:56.28069+00:00
 -- url     : https://prove2.me/theorems/4a5cb402-2fd5-5097-b789-69bfcf289d02

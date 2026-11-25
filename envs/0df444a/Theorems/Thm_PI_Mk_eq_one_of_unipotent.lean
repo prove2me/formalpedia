@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Mk_eq_one_of_unipotent
 -- name    : PI.Mk.eq_one_of_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:00.663867+00:00
 -- url     : https://prove2.me/theorems/713094e4-9125-5fef-b400-06843dbdf09d

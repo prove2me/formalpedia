@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_leadT_der_rows
 -- name    : PI.FJMX.leadT_der_rows
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:01:37.289973+00:00
 -- url     : https://prove2.me/theorems/3b7c2d3e-6ebb-4241-bae9-66be76351fde

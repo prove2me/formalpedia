@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMirBoundW_rowExists
 -- name    : PI.GGMirBoundW.rowExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:31:26.263608+00:00
 -- url     : https://prove2.me/theorems/cb41ce00-64ad-47f9-803d-8759949c1476

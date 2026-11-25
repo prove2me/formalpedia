@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Red_det_cM
 -- name    : PI.OddDualWeyl.Red.det_cM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:13:44.149112+00:00
 -- url     : https://prove2.me/theorems/472ac699-e9b1-5adf-9715-a80f8d3f9da4

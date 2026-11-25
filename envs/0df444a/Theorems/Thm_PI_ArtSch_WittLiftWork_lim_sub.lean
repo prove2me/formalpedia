@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ArtSch_WittLiftWork_lim_sub
 -- name    : PI.ArtSch.WittLiftWork.lim_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:24:15.488362+00:00
 -- url     : https://prove2.me/theorems/08ae3044-e803-4025-b76d-cf7ca898da81

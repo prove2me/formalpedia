@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LPI_prV_mem_tensInt
 -- name    : PI.LPI.prV_mem_tensInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:33:46.045794+00:00
 -- url     : https://prove2.me/theorems/86dba259-601a-55e9-9192-ad25c9eb4839

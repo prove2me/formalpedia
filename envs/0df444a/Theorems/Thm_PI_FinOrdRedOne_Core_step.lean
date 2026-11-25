@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinOrdRedOne_Core_step
 -- name    : PI.FinOrdRedOne.Core.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:37.176736+00:00
 -- url     : https://prove2.me/theorems/dd97b61b-c6e3-4981-8fde-c99a25757029

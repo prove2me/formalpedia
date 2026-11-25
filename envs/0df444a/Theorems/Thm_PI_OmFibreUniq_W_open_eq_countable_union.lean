@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_open_eq_countable_union
 -- name    : PI.OmFibreUniq.W.open_eq_countable_union
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:15:51.893342+00:00
 -- url     : https://prove2.me/theorems/7b195d3f-b6bb-412c-bd21-93fbfca45522

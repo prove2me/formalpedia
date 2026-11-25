@@ -1,0 +1,45 @@
+-- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_BaseChangeLogBound_of_leaves_bd9af0a8cb17
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-25T09:56:51.332444+00:00
+-- url     : https://prove2.me/submissions/d37c408b-46a3-48d9-858c-af7c988e2755
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_RenameProdMapMul
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_SphereMean
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_LogGaussNormSupportFinite
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_ContinuousHermNormGroup
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_MahlerMul
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_HeightMul
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_LineInhabitant
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_LowerBoundConditional
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PConeLogBound
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PBaseChangeLogBound
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PRecursion
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PCharacterised
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_OfLeaves
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_BaseChangeLogBound_proof_d1598fdd0006
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowHeightCharacterised_proof_5cff3b7b4e2f
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowHeightRecursion_proof_551609a7f0f6
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeLogBound_proof_ab4a666aa1df
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights
+namespace GroundTheory.Heights₂.Heights
+namespace BaseChangeLogBound
+theorem _root_.solution (hB : ChowFormBaseChange.Statement)
+    (hAv : BaseChangeAvoid.Statement) (hMass : ConeIntegralMass.Statement)
+    (hFin : ConeBallFinite.Statement) (hInt : ConeFsLogIntegrable.Statement)
+    (hNull : ConeHyperplaneNull.Statement) : BaseChangeLogBound.Statement :=
+  BaseChangeLogBound.proof hB hAv (ConeLogBound.proof hMass hFin hInt hNull)
+end BaseChangeLogBound
+end GroundTheory.Heights₂.Heights

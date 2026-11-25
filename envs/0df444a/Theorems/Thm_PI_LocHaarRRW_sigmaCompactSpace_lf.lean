@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocHaarRRW_sigmaCompactSpace_lf
 -- name    : PI.LocHaarRRW.sigmaCompactSpace_lf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:35:13.295245+00:00
 -- url     : https://prove2.me/theorems/7c9b39d3-9dc9-4c27-a888-bc3b7b18ae8b

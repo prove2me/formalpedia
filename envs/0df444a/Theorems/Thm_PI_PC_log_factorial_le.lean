@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_log_factorial_le
 -- name    : PI.PC.log_factorial_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:31.744071+00:00
 -- url     : https://prove2.me/theorems/8e1d524d-e37b-44ef-a1d2-28b0ecc7662a

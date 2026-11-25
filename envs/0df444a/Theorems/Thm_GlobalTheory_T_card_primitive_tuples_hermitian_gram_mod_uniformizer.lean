@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_primitive_tuples_hermitian_gram_mod_uniformizer
 -- name    : GlobalTheory.T.card_primitive_tuples_hermitian_gram_mod_uniformizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:50:47.754416+00:00
 -- url     : https://prove2.me/theorems/790fbbf4-f63b-4142-8b75-8cf91acda039

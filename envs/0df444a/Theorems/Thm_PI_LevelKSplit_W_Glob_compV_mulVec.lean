@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Glob_compV_mulVec
 -- name    : PI.LevelKSplit.W.Glob.compV_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:34:27.279502+00:00
 -- url     : https://prove2.me/theorems/a5e173ab-eff9-4f52-81e3-81653394626f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FibreMahlerForms_iSup_norm_ball_b20791a9192b
 -- name    : P2M_GroundTheory_Heights__Heights_FibreMahlerForms_iSup_norm_ball_b20791a9192b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:40:10.645574+00:00
 -- url     : https://prove2.me/theorems/0a324e09-949a-5355-8bdb-653cefe96f28

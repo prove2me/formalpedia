@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LowSplitHaarW_measurable_extNe
 -- name    : PI.LowSplitHaarW.measurable_extNe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:30.614054+00:00
 -- url     : https://prove2.me/theorems/34c564b9-eeb4-4386-a8de-ae5b6cf53471

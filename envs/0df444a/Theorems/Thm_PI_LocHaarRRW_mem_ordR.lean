@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocHaarRRW_mem_ordR
 -- name    : PI.LocHaarRRW.mem_ordR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:35:52.190791+00:00
 -- url     : https://prove2.me/theorems/36c69440-a003-5c43-978a-688dd4e80ad3

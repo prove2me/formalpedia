@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_eS_idem
 -- name    : PI.Dv.TIW.eS_idem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:53:41.832803+00:00
 -- url     : https://prove2.me/theorems/678a750f-7cdb-4931-9cad-ce6148166db6

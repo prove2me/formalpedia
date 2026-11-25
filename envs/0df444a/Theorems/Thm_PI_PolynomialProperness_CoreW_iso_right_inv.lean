@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CoreW_iso_right_inv
 -- name    : PI.PolynomialProperness.CoreW.iso_right_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:58:28.697969+00:00
 -- url     : https://prove2.me/theorems/34d0e1d1-7291-4ab0-b292-8402ed023016

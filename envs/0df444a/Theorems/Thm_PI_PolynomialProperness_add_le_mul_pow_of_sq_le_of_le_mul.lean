@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_add_le_mul_pow_of_sq_le_of_le_mul
 -- name    : PI.PolynomialProperness.add_le_mul_pow_of_sq_le_of_le_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:17:44.658008+00:00
 -- url     : https://prove2.me/theorems/b1977365-873a-587b-bff6-78e3f8e057a3

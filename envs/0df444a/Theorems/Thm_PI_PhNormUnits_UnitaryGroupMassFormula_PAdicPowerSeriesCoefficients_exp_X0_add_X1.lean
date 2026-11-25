@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PhNormUnits_UnitaryGroupMassFormula_PAdicPowerSeriesCoefficients_exp_X0_add_X1
 -- name    : PI.PhNormUnits.UnitaryGroupMassFormula.PAdicPowerSeriesCoefficients.exp_X0_add_X1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:35:42.267584+00:00
 -- url     : https://prove2.me/theorems/95c0aa81-55e8-4ff6-91b3-ff218d1efa67

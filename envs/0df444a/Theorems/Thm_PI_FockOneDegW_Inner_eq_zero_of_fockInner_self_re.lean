@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Inner_eq_zero_of_fockInner_self_re
 -- name    : PI.FockOneDegW.Inner.eq_zero_of_fockInner_self_re
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:55.116884+00:00
 -- url     : https://prove2.me/theorems/bb35b39c-c23d-43e4-af9c-d775c60074b1

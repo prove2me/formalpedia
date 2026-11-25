@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_map_eq_smul_of_coordinates_dd57324cb110
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_map_eq_smul_of_coordinates_dd57324cb110
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:43:07.491975+00:00
 -- url     : https://prove2.me/theorems/414b372e-8095-59b2-ac5e-600ebdb41c33

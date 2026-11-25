@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocHaarRRW_pair_indep
 -- name    : PI.LocHaarRRW.pair_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:35:24.721859+00:00
 -- url     : https://prove2.me/theorems/74f4a49c-ee2e-468e-90e6-1f66365ab8b3

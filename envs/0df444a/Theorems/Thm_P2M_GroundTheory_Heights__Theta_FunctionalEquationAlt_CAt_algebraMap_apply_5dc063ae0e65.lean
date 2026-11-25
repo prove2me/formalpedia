@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_CAt_algebraMap_apply_5dc063ae0e65
 -- name    : P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_CAt_algebraMap_apply_5dc063ae0e65
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:45:45.22167+00:00
 -- url     : https://prove2.me/theorems/8ff2636f-db29-44bf-93c2-7ae5d2250896

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_Gen_repOn_list
 -- name    : PI.QnHermHaar.Gen.repOn_list
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:36:01.779668+00:00
 -- url     : https://prove2.me/theorems/b68abb33-966d-5153-b97b-21cebc7a4b1b

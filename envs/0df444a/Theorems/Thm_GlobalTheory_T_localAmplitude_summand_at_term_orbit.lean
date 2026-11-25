@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_localAmplitude_summand_at_term_orbit
 -- name    : GlobalTheory.T.localAmplitude_summand_at_term_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:58:23.465797+00:00
 -- url     : https://prove2.me/theorems/155717b5-10ca-5eb7-a6ea-13ef19105d54

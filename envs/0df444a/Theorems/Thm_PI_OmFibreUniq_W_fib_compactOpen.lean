@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_fib_compactOpen
 -- name    : PI.OmFibreUniq.W.fib_compactOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:15:58.859469+00:00
 -- url     : https://prove2.me/theorems/53f859c9-eca5-51e0-a8b9-7caec7824c05

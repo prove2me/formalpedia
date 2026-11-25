@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LatIdxDetW_lidx_antisymm
 -- name    : PI.LatIdxDetW.lidx_antisymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:33:45.191801+00:00
 -- url     : https://prove2.me/theorems/b9fae301-2bf8-54a1-9bdf-fdd2dbe66010

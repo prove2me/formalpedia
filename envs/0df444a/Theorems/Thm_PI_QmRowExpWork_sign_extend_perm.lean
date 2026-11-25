@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QmRowExpWork_sign_extend_perm
 -- name    : PI.QmRowExpWork.sign_extend_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:17:40.088719+00:00
 -- url     : https://prove2.me/theorems/561e20d3-e738-5e17-81a7-d21f1f55923b

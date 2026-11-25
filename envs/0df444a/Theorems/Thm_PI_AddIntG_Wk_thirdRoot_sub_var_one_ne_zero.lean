@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_thirdRoot_sub_var_one_ne_zero
 -- name    : PI.AddIntG.Wk.thirdRoot_sub_var_one_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:22:46.975826+00:00
 -- url     : https://prove2.me/theorems/6f5a83f0-e3ab-5443-854a-8e1acf0d77a2

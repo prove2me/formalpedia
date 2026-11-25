@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinOrdRedOne_Bridge_natCast_ne_zero
 -- name    : PI.FinOrdRedOne.Bridge.natCast_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:46.57298+00:00
 -- url     : https://prove2.me/theorems/a70b1778-ac22-565b-ac08-3523d130de9b

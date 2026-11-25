@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_projA_eq_self_of_projX_eq_zero
 -- name    : PI.OneCosetSharp.W.projA_eq_self_of_projX_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:17:06.111291+00:00
 -- url     : https://prove2.me/theorems/8f219fac-c02e-4d55-8e48-aadae32802ca

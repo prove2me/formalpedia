@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Meas_measKf_of
 -- name    : PI.LevelKSplit.W.Meas.measKf_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:34:38.877431+00:00
 -- url     : https://prove2.me/theorems/c079928d-4af6-5b57-a82c-9965fa4bcc9f

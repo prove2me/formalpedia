@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_normal_form_ideal_divisibility
 -- name    : GlobalTheory.T.normal_form_ideal_divisibility
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:46:54.71884+00:00
 -- url     : https://prove2.me/theorems/adb1c804-13d7-48fb-9c86-0c1495d43f17

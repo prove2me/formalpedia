@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KFinSmoothW_Gard_umat_inv
 -- name    : PI.KFinSmoothW.Gard.umat_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:32:22.339063+00:00
 -- url     : https://prove2.me/theorems/6d744321-b9ee-5790-a42e-b9180653900e

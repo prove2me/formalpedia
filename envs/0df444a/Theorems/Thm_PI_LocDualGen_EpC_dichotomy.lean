@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_EpC_dichotomy
 -- name    : PI.LocDualGen.EpC.dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:34:50.499785+00:00
 -- url     : https://prove2.me/theorems/1ceebfde-b9a8-4105-a5aa-6d357e8b8ac9

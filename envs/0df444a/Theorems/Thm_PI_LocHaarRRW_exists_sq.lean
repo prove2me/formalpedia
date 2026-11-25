@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocHaarRRW_exists_sq
 -- name    : PI.LocHaarRRW.exists_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:34:41.079668+00:00
 -- url     : https://prove2.me/theorems/a21b25e9-c743-48f4-b83f-a9b6517f3d11

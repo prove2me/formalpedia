@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_unitFiltrationUnits_quasiCharConductor_le_ker
 -- name    : GroundTheory.LocalField.unitFiltrationUnits_quasiCharConductor_le_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:41:58.869246+00:00
 -- url     : https://prove2.me/theorems/ee422524-102f-58f2-975a-79ac12477959

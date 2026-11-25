@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_pow_smul_mem_adjoin_gen
 -- name    : GlobalTheory.UnitLemma.Desc.pow_smul_mem_adjoin_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:29:03.568677+00:00
 -- url     : https://prove2.me/theorems/8eec2537-a4e6-47e0-a93b-9e0bfd5a4991

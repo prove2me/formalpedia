@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OneSidedAffineHatGuessing_one_sided_affine_obstruction
 -- name    : OneSidedAffineHatGuessing.one_sided_affine_obstruction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:22:56.080805+00:00
 -- url     : https://prove2.me/theorems/cb856674-99ba-46d7-8c7e-ea455b60710f

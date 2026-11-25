@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NMeasInv_UnitaryGroupMassFormula_pull
 -- name    : PI.NMeasInv.UnitaryGroupMassFormula.pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:13:18.272007+00:00
 -- url     : https://prove2.me/theorems/b2823f5d-0f4f-5069-b20a-8feacf071634

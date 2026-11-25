@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_DiffLoc_span_pow
 -- name    : PI.LocFramePrimWork.DiffLoc_span_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:13:28.008901+00:00
 -- url     : https://prove2.me/theorems/4c13e475-2148-465c-9644-1440dfed2135

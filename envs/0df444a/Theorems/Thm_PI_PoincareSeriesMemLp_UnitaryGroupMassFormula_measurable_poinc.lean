@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PoincareSeriesMemLp_UnitaryGroupMassFormula_measurable_poinc
 -- name    : PI.PoincareSeriesMemLp.UnitaryGroupMassFormula.measurable_poinc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:36:06.789713+00:00
 -- url     : https://prove2.me/theorems/b52c4e65-76ab-47bb-84c2-2b3c00e5e3f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_deriv_det_eq_zero_rows
 -- name    : PI.FJMX.deriv_det_eq_zero_rows
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:09.703294+00:00
 -- url     : https://prove2.me/theorems/f6529bc5-f52b-4572-923f-fc843073d263

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Tr_exists_approx
 -- name    : PI.ProdFormulaE.Tr.exists_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:35.143892+00:00
 -- url     : https://prove2.me/theorems/da4f3833-3ff8-4df1-9b48-455109635143

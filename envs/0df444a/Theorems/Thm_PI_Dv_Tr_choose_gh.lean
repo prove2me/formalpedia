@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_choose_gh
 -- name    : PI.Dv.Tr.choose_gh
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:30:41.504651+00:00
 -- url     : https://prove2.me/theorems/26f8fac7-cd96-4066-b9c4-9fc4644c771b

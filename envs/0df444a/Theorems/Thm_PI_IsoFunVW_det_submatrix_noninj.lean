@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoFunVW_det_submatrix_noninj
 -- name    : PI.IsoFunVW.det_submatrix_noninj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:10:14.415171+00:00
 -- url     : https://prove2.me/theorems/22c85d3f-3b99-40fc-8f54-5adfe1b1c92f

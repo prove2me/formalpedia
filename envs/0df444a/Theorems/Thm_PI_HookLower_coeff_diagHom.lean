@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookLower_coeff_diagHom
 -- name    : PI.HookLower.coeff_diagHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:06:11.407124+00:00
 -- url     : https://prove2.me/theorems/f53e9ecc-7d12-52b9-a0c7-a8aa2981a27e

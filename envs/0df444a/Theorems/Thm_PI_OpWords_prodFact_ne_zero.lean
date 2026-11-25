@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_prodFact_ne_zero
 -- name    : PI.OpWords.prodFact_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:45.691712+00:00
 -- url     : https://prove2.me/theorems/cda06a87-912d-40b0-bae8-3980c187802c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Gamma_decay
 -- name    : PI.EF.Gamma_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:28:09.876978+00:00
 -- url     : https://prove2.me/theorems/252a8f44-8a69-48b4-8dd8-f5544be9f1e8

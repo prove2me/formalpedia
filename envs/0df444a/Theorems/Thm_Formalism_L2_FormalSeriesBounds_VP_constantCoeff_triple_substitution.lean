@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_constantCoeff_triple_substitution
 -- name    : Formalism.L2.FormalSeriesBounds.VP.constantCoeff_triple_substitution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:35:26.088577+00:00
 -- url     : https://prove2.me/theorems/3272d310-83fe-5f31-a6f1-5a8005c0cb0d

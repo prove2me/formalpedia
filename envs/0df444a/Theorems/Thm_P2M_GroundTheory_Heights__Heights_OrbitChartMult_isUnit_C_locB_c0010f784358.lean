@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitChartMult_isUnit_C_locB_c0010f784358
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitChartMult_isUnit_C_locB_c0010f784358
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:41:14.46101+00:00
 -- url     : https://prove2.me/theorems/ec174421-63d9-50ee-8627-bdb7936c38b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_expProductClockWienerHopfChar
 -- name    : Kyprianou.Ch04.expProductClockWienerHopfChar
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T07:56:45.773069+00:00
 -- url     : https://prove2.me/theorems/9280a461-efc0-4d67-b6f5-99405e1c98a8

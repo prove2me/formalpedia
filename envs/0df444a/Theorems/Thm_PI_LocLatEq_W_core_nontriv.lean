@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocLatEq_W_core_nontriv
 -- name    : PI.LocLatEq.W.core_nontriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:05.975913+00:00
 -- url     : https://prove2.me/theorems/28d169d5-9495-4306-bc25-29f115314c59

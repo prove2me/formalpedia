@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LPI_prV_tmul_eq_tmul_apply
 -- name    : PI.LPI.prV_tmul_eq_tmul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:34:08.33081+00:00
 -- url     : https://prove2.me/theorems/073a3254-66ea-4f9c-873c-c2c54b713f58

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocalEndW_valOfInt
 -- name    : PI.LocalEndW.valOfInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:30.434819+00:00
 -- url     : https://prove2.me/theorems/ee21d8ea-4640-441b-870c-2b34b63e9f67

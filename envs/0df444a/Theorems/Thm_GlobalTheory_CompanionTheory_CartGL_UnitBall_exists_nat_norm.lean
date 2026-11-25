@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_UnitBall_exists_nat_norm
 -- name    : GlobalTheory.CompanionTheory.CartGL.UnitBall.exists_nat_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:43:51.083844+00:00
 -- url     : https://prove2.me/theorems/d9dcb492-206c-42d2-acdd-2b96fc2807dc

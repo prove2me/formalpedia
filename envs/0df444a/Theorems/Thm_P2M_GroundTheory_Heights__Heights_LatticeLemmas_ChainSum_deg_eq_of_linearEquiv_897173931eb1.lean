@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLemmas_ChainSum_deg_eq_of_linearEquiv_897173931eb1
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLemmas_ChainSum_deg_eq_of_linearEquiv_897173931eb1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:43:24.058926+00:00
 -- url     : https://prove2.me/theorems/f1937ce7-a6f7-47d0-a463-cbaabd24bde3

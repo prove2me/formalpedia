@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LowUniSplit_uniq_entries
 -- name    : PI.LowUniSplit.uniq_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:35:08.719841+00:00
 -- url     : https://prove2.me/theorems/00d1c778-d1f9-4c79-98f9-7fc82eebe169

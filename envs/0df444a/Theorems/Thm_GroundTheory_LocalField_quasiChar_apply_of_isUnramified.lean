@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_quasiChar_apply_of_isUnramified
 -- name    : GroundTheory.LocalField.quasiChar_apply_of_isUnramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:42:34.947324+00:00
 -- url     : https://prove2.me/theorems/32d92519-eebb-47f0-87de-58da7822b874

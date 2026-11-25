@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Loc_local_abstract
 -- name    : PI.EF.Loc.local_abstract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:28:53.64247+00:00
 -- url     : https://prove2.me/theorems/9266b4e5-7907-4a0c-a6be-d43ce8174f5c

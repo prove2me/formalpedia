@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitChartMult_length_localizedModule_quot_eq_8af71d39845c
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitChartMult_length_localizedModule_quot_eq_8af71d39845c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:41:32.70658+00:00
 -- url     : https://prove2.me/theorems/2929179e-3e17-5ec8-8cda-1fecb94928f3

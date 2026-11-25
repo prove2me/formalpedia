@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerLat_PerPairProof_indep_of_im_ne
 -- name    : PI.KerLat.PerPairProof.indep_of_im_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:34:07.690814+00:00
 -- url     : https://prove2.me/theorems/00b60119-bba8-40f3-8580-00ed12899e69

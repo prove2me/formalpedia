@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmVe_ffH_self_of_snd
 -- name    : PI.OmVe.ffH_self_of_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:28:49.221029+00:00
 -- url     : https://prove2.me/theorems/222e932c-da11-4e40-86d1-7ba1ba67f844

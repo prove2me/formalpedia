@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_FpD_exists_ne_zero
 -- name    : PI.LocDualGen.FpD.exists_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:13.23482+00:00
 -- url     : https://prove2.me/theorems/da514dda-8fa8-56e8-a74c-99324469c671

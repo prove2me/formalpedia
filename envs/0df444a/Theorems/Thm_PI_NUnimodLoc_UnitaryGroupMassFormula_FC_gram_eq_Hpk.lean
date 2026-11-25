@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NUnimodLoc_UnitaryGroupMassFormula_FC_gram_eq_Hpk
 -- name    : PI.NUnimodLoc.UnitaryGroupMassFormula.FC.gram_eq_Hpk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:57:18.435488+00:00
 -- url     : https://prove2.me/theorems/fd5df9df-19ac-4111-b291-b49579af9937

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_wtLe_span
 -- name    : PI.OpWords.wtLe_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:17:01.517685+00:00
 -- url     : https://prove2.me/theorems/626bbc92-0ebd-4ef1-aa4f-5d2b29b7fcea

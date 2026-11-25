@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueCharacterDense_sum_local_trace
 -- name    : GlobalTheory.ResidueCharacterDense.sum_local_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:26:48.354392+00:00
 -- url     : https://prove2.me/theorems/c9296e81-fbb6-4887-9dff-ecf5231f42ff

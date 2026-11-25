@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CA_mx_inv_conjT
 -- name    : PI.PolynomialProperness.CA.mx_inv_conjT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:36:57.388737+00:00
 -- url     : https://prove2.me/theorems/a9424e94-31bb-513c-96bc-ddcee6e07404

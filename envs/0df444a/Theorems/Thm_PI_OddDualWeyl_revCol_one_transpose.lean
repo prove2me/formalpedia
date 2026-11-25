@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_revCol_one_transpose
 -- name    : PI.OddDualWeyl.revCol_one_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:14:49.146267+00:00
 -- url     : https://prove2.me/theorems/a8b9e3d4-002b-40bd-a92a-fc7825ecb8a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmVe_ffH_self_of_fst
 -- name    : PI.OmVe.ffH_self_of_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:28:16.822948+00:00
 -- url     : https://prove2.me/theorems/782186ea-2db9-5b21-8c7f-1a6231075ad9

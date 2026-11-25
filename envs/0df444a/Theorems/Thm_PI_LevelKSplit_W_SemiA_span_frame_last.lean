@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiA_span_frame_last
 -- name    : PI.LevelKSplit.W.SemiA.span_frame_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:35:00.785945+00:00
 -- url     : https://prove2.me/theorems/12eb5949-68d4-4b12-9b1e-64d4f632443f

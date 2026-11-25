@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_WeightedHomogeneousPolynomialDifferentialWords_chiF_eq
 -- name    : PI.OpWords.WeightedHomogeneousPolynomialDifferentialWords.chiF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:16:34.806066+00:00
 -- url     : https://prove2.me/theorems/e4db6623-a526-5bd5-a122-64ec780fea36

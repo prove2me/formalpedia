@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_fIdx_add_of_lt
 -- name    : PI.OneCosetSharp.W.fIdx_add_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:18:28.464282+00:00
 -- url     : https://prove2.me/theorems/a4e13423-46d7-4e6a-87db-10cdac5ecbca

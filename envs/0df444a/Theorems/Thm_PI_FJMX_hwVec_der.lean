@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_hwVec_der
 -- name    : PI.FJMX.hwVec_der
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:19.15935+00:00
 -- url     : https://prove2.me/theorems/5518d426-ee82-41e0-b5e9-be6488af5bca

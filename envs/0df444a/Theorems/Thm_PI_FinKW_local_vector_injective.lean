@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinKW_local_vector_injective
 -- name    : PI.FinKW.local_vector_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:31:33.029493+00:00
 -- url     : https://prove2.me/theorems/63e82496-829b-4205-b38e-5938856128e2

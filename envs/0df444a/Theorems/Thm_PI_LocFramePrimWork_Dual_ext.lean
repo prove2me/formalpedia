@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_Dual_ext
 -- name    : PI.LocFramePrimWork.Dual_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:13:25.953799+00:00
 -- url     : https://prove2.me/theorems/b854489d-5f2f-46e2-afda-852632bd1d93

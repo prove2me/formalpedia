@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OrbShared_Tri_ord_pow_sub
 -- name    : PI.OrbShared.Tri.ord_pow_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:16:32.511539+00:00
 -- url     : https://prove2.me/theorems/40c5bd48-c25a-4bec-890d-d5d86d931187

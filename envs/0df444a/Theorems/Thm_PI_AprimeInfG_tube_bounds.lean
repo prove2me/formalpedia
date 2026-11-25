@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfG_tube_bounds
 -- name    : PI.AprimeInfG.tube_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:13:47.233412+00:00
 -- url     : https://prove2.me/theorems/73e03c64-94d9-4925-ac7b-e4d7df8304c0

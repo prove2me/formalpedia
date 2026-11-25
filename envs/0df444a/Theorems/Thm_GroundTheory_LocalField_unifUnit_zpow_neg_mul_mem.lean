@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_unifUnit_zpow_neg_mul_mem
 -- name    : GroundTheory.LocalField.unifUnit_zpow_neg_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:43:28.528194+00:00
 -- url     : https://prove2.me/theorems/0a187b98-5ed3-4f64-a966-90309ec4f886

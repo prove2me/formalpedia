@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Uniq_dualM_eq
 -- name    : PI.OddDualWeyl.Uniq.dualM_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:13:52.38487+00:00
 -- url     : https://prove2.me/theorems/69192310-8d19-43ed-a19b-64643afe2b0b

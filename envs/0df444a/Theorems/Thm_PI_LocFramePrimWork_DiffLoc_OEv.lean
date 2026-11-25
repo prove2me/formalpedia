@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_DiffLoc_OEv
 -- name    : PI.LocFramePrimWork.DiffLoc_OEv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:11:50.157255+00:00
 -- url     : https://prove2.me/theorems/cc56b48c-60e6-4361-8ac8-4fe234db8c4f

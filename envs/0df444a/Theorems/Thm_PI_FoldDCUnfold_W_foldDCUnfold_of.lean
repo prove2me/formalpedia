@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FoldDCUnfold_W_foldDCUnfold_of
 -- name    : PI.FoldDCUnfold.W.foldDCUnfold_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:20.93686+00:00
 -- url     : https://prove2.me/theorems/6d161e7e-6fdb-4f6f-b693-a7c6438b942f

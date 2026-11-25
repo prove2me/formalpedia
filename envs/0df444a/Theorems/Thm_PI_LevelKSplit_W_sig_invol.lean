@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_sig_invol
 -- name    : PI.LevelKSplit.W.sig_invol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:37:15.81792+00:00
 -- url     : https://prove2.me/theorems/f1a2a8db-3cc4-5361-bad6-e2196d17e304

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_MkQ_rho_apply_coe
 -- name    : PI.MkQ.rho_apply_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:02.860865+00:00
 -- url     : https://prove2.me/theorems/5264131e-98e5-589a-9fcc-19d88ef9b08e

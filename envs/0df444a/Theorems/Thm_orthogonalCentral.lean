@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_orthogonalCentral
 -- name    : orthogonalCentral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:11:03.116305+00:00
 -- url     : https://prove2.me/theorems/5e21a99b-524b-4da2-b29f-8d3842e8d534

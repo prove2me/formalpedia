@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_tate_decomposition
 -- name    : GlobalTheory.TateDecomp.tate_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:53:14.97388+00:00
 -- url     : https://prove2.me/theorems/4f9edefc-6b22-49bd-8996-53f516f13c28

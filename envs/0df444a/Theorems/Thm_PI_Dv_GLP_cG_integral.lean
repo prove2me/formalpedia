@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLP_cG_integral
 -- name    : PI.Dv.GLP.cG_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:28:02.372541+00:00
 -- url     : https://prove2.me/theorems/8da4cf65-ff79-4b1e-9a6d-860a925911c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_embedMatrix_basisVec_apply_of_le
 -- name    : PI.OneCosetSharp.W.embedMatrix_basisVec_apply_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:18:36.474981+00:00
 -- url     : https://prove2.me/theorems/fa0929d8-7208-4e21-ae59-57044289cac1

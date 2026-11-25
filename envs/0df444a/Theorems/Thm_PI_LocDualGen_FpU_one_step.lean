@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_FpU_one_step
 -- name    : PI.LocDualGen.FpU.one_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:34:33.968798+00:00
 -- url     : https://prove2.me/theorems/d13e68b9-76ec-4991-99fb-1e25bb250e91

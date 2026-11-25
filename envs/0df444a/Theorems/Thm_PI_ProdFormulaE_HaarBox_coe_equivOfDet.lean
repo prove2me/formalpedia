@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_HaarBox_coe_equivOfDet
 -- name    : PI.ProdFormulaE.HaarBox.coe_equivOfDet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:36:26.435264+00:00
 -- url     : https://prove2.me/theorems/5b544996-8752-418d-a819-13b34e9f2769

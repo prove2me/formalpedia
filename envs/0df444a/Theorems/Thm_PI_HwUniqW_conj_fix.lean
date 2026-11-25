@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HwUniqW_conj_fix
 -- name    : PI.HwUniqW.conj_fix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:29.517602+00:00
 -- url     : https://prove2.me/theorems/ef938e43-c234-451f-8496-feb6df239507

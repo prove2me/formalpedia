@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocalEndW_valSurjective
 -- name    : PI.LocalEndW.valSurjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:21.473701+00:00
 -- url     : https://prove2.me/theorems/c3e7c2f1-1d9c-4575-8d53-c0c939dd8637

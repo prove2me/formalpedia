@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ParahoricIdxZ_W_prod_Icc_one
 -- name    : PI.ParahoricIdxZ.W.prod_Icc_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:35:57.56459+00:00
 -- url     : https://prove2.me/theorems/b3c89a37-bb22-471f-af80-2dbaae6d3862

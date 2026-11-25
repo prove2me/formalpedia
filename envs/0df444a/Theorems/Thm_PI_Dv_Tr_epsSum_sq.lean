@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_epsSum_sq
 -- name    : PI.Dv.Tr.epsSum_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:19:42.358596+00:00
 -- url     : https://prove2.me/theorems/cfed8813-4a3c-429a-bb7b-095c85d373c3

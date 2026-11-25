@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PinHostLoc_UnitaryGroupMassFormula_le_exp_neg_one_of_lt_one
 -- name    : PI.PinHostLoc.UnitaryGroupMassFormula.le_exp_neg_one_of_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:53.398991+00:00
 -- url     : https://prove2.me/theorems/b82ba45c-c04e-40bc-9749-10cba1658c04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_chebyshevPrimeBounds_log_fact
 -- name    : PI.PC.chebyshevPrimeBounds_log_fact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:12.194825+00:00
 -- url     : https://prove2.me/theorems/aeb8ffd6-dc5f-54be-ad38-af86f34946c5

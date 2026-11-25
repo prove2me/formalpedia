@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_ge_apply
 -- name    : PI.Dv.Tr.ge_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:22:02.470622+00:00
 -- url     : https://prove2.me/theorems/4df1d1e4-b6ba-4f5c-acec-1876d58313d4

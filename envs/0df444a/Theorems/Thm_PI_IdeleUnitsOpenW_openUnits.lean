@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IdeleUnitsOpenW_openUnits
 -- name    : PI.IdeleUnitsOpenW.openUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:03:48.449944+00:00
 -- url     : https://prove2.me/theorems/ffd4310d-414f-4906-8dd1-72556d35ff9a

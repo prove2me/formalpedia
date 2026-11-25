@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinKW_finK_of
 -- name    : PI.FinKW.finK_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:44.399654+00:00
 -- url     : https://prove2.me/theorems/6374a6b7-b8fc-4564-a71d-6b4190562d88

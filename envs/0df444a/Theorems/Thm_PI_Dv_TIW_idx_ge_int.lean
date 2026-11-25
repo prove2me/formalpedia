@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_idx_ge_int
 -- name    : PI.Dv.TIW.idx_ge_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:02.77656+00:00
 -- url     : https://prove2.me/theorems/3c86097a-d719-4fc5-aa5a-eb1d2658901d

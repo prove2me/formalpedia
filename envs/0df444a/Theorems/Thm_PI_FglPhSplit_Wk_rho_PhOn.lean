@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglPhSplit_Wk_rho_PhOn
 -- name    : PI.FglPhSplit.Wk.rho_PhOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:19.90701+00:00
 -- url     : https://prove2.me/theorems/689ced0f-9fd9-4d3d-9988-250405917c86

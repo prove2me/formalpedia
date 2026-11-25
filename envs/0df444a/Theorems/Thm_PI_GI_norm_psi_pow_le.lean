@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GI_norm_psi_pow_le
 -- name    : PI.GI.norm_psi_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:30:46.834946+00:00
 -- url     : https://prove2.me/theorems/dffdfa9f-d344-41dc-9be3-3273a2685b54

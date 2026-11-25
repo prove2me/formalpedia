@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_norm_trace_tau_le
 -- name    : PI.Dv.TIW.norm_trace_tau_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:01.093387+00:00
 -- url     : https://prove2.me/theorems/9654d675-62c2-5a1f-b809-9558ad445d07

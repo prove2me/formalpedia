@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoInvMetricW_vnuMap_torus
 -- name    : PI.IsoInvMetricW.vnuMap_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:08:46.573105+00:00
 -- url     : https://prove2.me/theorems/d8147e28-f9d1-4340-8da3-cc37f22fae97

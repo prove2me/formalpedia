@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_UPosW_herm_cols
 -- name    : PI.FrameInd.UPosW.herm_cols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:31:12.474831+00:00
 -- url     : https://prove2.me/theorems/366754e2-288e-4ec6-9360-c1182778310f

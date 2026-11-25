@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SncRes_SegreForm_aeval_eq_prod_mul
 -- name    : GlobalTheory.CompanionTheory.Ar.SncRes.SegreForm.aeval_eq_prod_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:39:20.157577+00:00
 -- url     : https://prove2.me/theorems/8ffc178f-fe03-4b08-a351-67a30694dd47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Jac_dualSub_pMinor
 -- name    : PI.OddDualWeyl.Jac.dualSub_pMinor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:14:13.834083+00:00
 -- url     : https://prove2.me/theorems/796b7101-fd92-5942-b15a-78bb56ab850e

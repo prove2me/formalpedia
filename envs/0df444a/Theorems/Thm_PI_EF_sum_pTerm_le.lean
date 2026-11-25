@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_sum_pTerm_le
 -- name    : PI.EF.sum_pTerm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:50.10618+00:00
 -- url     : https://prove2.me/theorems/469ac382-a9ff-475c-87d9-345f9231fdb4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_tt_ne_zero
 -- name    : PI.OpWords.tt_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:17:16.531165+00:00
 -- url     : https://prove2.me/theorems/b1a7e02e-d35b-4c60-a889-493039ba3e08

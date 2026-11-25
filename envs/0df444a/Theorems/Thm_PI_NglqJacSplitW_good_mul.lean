@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NglqJacSplitW_good_mul
 -- name    : PI.NglqJacSplitW.good_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:34:05.953317+00:00
 -- url     : https://prove2.me/theorems/eb007d0e-9bd2-4d16-9768-abaf4c43ee88

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Rect_rectInt_inv_sub_sq
 -- name    : PI.EF.Rect.rectInt_inv_sub_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:43.110391+00:00
 -- url     : https://prove2.me/theorems/1a5f17a4-7301-4e2e-b48d-def501144c63

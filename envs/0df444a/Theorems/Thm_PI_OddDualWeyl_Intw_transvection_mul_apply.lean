@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Intw_transvection_mul_apply
 -- name    : PI.OddDualWeyl.Intw.transvection_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:14:14.118951+00:00
 -- url     : https://prove2.me/theorems/0d23b8d1-cfc5-5048-af45-9572e0056083

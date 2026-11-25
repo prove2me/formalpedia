@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_W_derivative_integral
 -- name    : PI.JetsPhW.W.derivative_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:32:49.125378+00:00
 -- url     : https://prove2.me/theorems/692cacf6-11d9-5f67-b822-10c13aa9dec7

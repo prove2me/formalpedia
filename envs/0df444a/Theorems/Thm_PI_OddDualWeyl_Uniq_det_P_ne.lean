@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Uniq_det_P_ne
 -- name    : PI.OddDualWeyl.Uniq.det_P_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:14:19.492789+00:00
 -- url     : https://prove2.me/theorems/e5de9f59-3c54-4934-8bdb-28447c674c14

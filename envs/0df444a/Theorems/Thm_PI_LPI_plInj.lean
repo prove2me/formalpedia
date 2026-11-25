@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LPI_plInj
 -- name    : PI.LPI.plInj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:36:41.259941+00:00
 -- url     : https://prove2.me/theorems/b33726f9-5ea9-5798-a90e-c3be071e59de

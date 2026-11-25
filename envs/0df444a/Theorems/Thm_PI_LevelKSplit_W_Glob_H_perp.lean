@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Glob_H_perp
 -- name    : PI.LevelKSplit.W.Glob.H_perp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:32:29.280799+00:00
 -- url     : https://prove2.me/theorems/a5aa544e-d4ba-482f-994e-a00b521af839

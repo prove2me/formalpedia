@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_kappaZero
 -- name    : PI.OneCosetSharp.W.kappaZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:32:45.534554+00:00
 -- url     : https://prove2.me/theorems/c8288bde-6238-4bca-aa5e-a0deab01282c

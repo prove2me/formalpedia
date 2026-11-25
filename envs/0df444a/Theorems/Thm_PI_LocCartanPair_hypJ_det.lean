@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocCartanPair_hypJ_det
 -- name    : PI.LocCartanPair.hypJ_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:01.724805+00:00
 -- url     : https://prove2.me/theorems/5be6d14f-a806-5947-9b4b-9e3e2405a8b7

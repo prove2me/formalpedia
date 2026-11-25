@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NglqJacSplitW_diagonal_one_jacobian
 -- name    : PI.NglqJacSplitW.diagonal_one_jacobian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:33:53.100801+00:00
 -- url     : https://prove2.me/theorems/0e0e226f-95af-4fc7-85a0-80e34fb91f15

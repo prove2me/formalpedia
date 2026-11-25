@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_chLower_of
 -- name    : PI.PC.chLower_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:35:56.318534+00:00
 -- url     : https://prove2.me/theorems/0e861c1e-fbef-55c6-a1bb-53e04394c463

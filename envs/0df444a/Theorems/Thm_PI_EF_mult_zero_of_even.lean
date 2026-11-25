@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_mult_zero_of_even
 -- name    : PI.EF.mult_zero_of_even
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:24:14.835669+00:00
 -- url     : https://prove2.me/theorems/8f71c4c0-122e-4ab5-8100-3654fbaffe8b

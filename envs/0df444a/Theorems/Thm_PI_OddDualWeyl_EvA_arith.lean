@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_EvA_arith
 -- name    : PI.OddDualWeyl.EvA.arith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:35:01.071159+00:00
 -- url     : https://prove2.me/theorems/613ce5a8-de94-47d0-94d3-6d61ed8c720c

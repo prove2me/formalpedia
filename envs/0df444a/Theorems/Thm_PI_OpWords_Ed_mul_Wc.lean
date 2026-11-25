@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_Ed_mul_Wc
 -- name    : PI.OpWords.Ed_mul_Wc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:16:28.24965+00:00
 -- url     : https://prove2.me/theorems/d69a3588-172b-5a0b-a523-a9683c69680a

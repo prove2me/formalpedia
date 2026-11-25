@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_log_norm_embedding
 -- name    : PI.Dv.TIW.log_norm_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:27:53.301952+00:00
 -- url     : https://prove2.me/theorems/c8b90902-2f39-4ff5-82c0-2e43884eea7f

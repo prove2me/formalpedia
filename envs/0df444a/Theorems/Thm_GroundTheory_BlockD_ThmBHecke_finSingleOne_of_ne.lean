@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_ThmBHecke_finSingleOne_of_ne
 -- name    : GroundTheory.BlockD.ThmBHecke.finSingleOne_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:42:32.211947+00:00
 -- url     : https://prove2.me/theorems/64dbe493-1726-4ce3-ad98-95f1d96ff845

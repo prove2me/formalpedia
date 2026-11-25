@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FibreMahlerForms_apply_eq_sum_1364e9b5a1d6
 -- name    : P2M_GroundTheory_Heights__Heights_FibreMahlerForms_apply_eq_sum_1364e9b5a1d6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:44:50.671885+00:00
 -- url     : https://prove2.me/theorems/2a51735c-c566-5df6-b4c0-ea254ee14d4f

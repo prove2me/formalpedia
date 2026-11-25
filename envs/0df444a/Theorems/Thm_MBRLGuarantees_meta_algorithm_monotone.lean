@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MBRLGuarantees_meta_algorithm_monotone
 -- name    : MBRLGuarantees.meta_algorithm_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:51:18.832263+00:00
 -- url     : https://prove2.me/theorems/fe9f453f-b23f-4de7-8746-e7ec03759310

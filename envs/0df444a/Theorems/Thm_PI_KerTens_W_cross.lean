@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerTens_W_cross
 -- name    : PI.KerTens.W.cross
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:34:06.89278+00:00
 -- url     : https://prove2.me/theorems/2dd18b8f-acf2-5736-a26f-be521dc38c6b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovHatW_inj_decomp
 -- name    : PI.QnCovHatW.inj_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:36:28.509229+00:00
 -- url     : https://prove2.me/theorems/ae61feea-b185-4cc6-9020-6f9d38cac54b

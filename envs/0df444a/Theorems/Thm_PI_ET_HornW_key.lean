@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_HornW_key
 -- name    : PI.ET.HornW.key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:13:50.172437+00:00
 -- url     : https://prove2.me/theorems/739479dc-78f3-40d1-9d13-d4bf2278a6ef

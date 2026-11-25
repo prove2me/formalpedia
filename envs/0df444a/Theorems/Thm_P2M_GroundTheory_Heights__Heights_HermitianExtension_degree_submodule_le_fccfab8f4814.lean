@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermitianExtension_degree_submodule_le_fccfab8f4814
 -- name    : P2M_GroundTheory_Heights__Heights_HermitianExtension_degree_submodule_le_fccfab8f4814
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:18:19.228448+00:00
 -- url     : https://prove2.me/theorems/4d6bb763-a67b-57f5-b8a3-bce1ba695d22

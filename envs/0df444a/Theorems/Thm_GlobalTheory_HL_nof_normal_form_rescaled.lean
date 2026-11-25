@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_nof_normal_form_rescaled
 -- name    : GlobalTheory.HL.nof_normal_form_rescaled
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:56:36.597281+00:00
 -- url     : https://prove2.me/theorems/81c11a5a-15f0-4773-8b0f-e40cd7122d0a

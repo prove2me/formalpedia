@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_rk_cut
 -- name    : PI.Dv.TIW.rk_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:19:34.303348+00:00
 -- url     : https://prove2.me/theorems/6c3b20dd-bfb9-4e9b-8b05-b2346137f9b0

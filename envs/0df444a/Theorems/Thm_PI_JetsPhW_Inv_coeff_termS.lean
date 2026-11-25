@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Inv_coeff_termS
 -- name    : PI.JetsPhW.Inv.coeff_termS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:13:00.322437+00:00
 -- url     : https://prove2.me/theorems/34cdd2eb-8ddd-472d-8fc6-71b142eab3f6

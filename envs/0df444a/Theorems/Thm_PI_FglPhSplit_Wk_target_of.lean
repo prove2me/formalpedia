@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglPhSplit_Wk_target_of
 -- name    : PI.FglPhSplit.Wk.target_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:29:53.213101+00:00
 -- url     : https://prove2.me/theorems/00775e18-7050-52fe-91fa-84b7e595bc15

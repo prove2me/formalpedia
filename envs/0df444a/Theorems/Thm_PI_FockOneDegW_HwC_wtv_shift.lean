@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_HwC_wtv_shift
 -- name    : PI.FockOneDegW.HwC.wtv_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:33:03.815162+00:00
 -- url     : https://prove2.me/theorems/9a937698-8478-5851-99da-f6ce4261f291

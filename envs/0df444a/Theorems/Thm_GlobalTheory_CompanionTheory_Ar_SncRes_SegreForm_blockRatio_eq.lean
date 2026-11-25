@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SncRes_SegreForm_blockRatio_eq
 -- name    : GlobalTheory.CompanionTheory.Ar.SncRes.SegreForm.blockRatio_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:39:41.886881+00:00
 -- url     : https://prove2.me/theorems/1115305a-0a84-58b3-9c42-559f6fc4f55d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Low_mnr_comp_swap
 -- name    : PI.OddDualWeyl.Low.mnr_comp_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:13:21.007389+00:00
 -- url     : https://prove2.me/theorems/59cf17b9-6252-5557-90e7-18e908e0068e

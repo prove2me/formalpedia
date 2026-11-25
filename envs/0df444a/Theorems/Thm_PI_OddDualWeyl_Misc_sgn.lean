@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Misc_sgn
 -- name    : PI.OddDualWeyl.Misc.sgn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:15:33.159922+00:00
 -- url     : https://prove2.me/theorems/f78aa2af-05b8-4e9e-bde5-d3ff58fc179e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_germLift_of
 -- name    : Formalism.L2.FormalSeriesBounds.germLift_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:06:21.858464+00:00
 -- url     : https://prove2.me/theorems/4103f741-3974-5d6f-ad37-8637af154882

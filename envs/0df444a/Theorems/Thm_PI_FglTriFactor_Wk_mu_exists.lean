@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglTriFactor_Wk_mu_exists
 -- name    : PI.FglTriFactor.Wk.mu_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:30:43.253823+00:00
 -- url     : https://prove2.me/theorems/73b48ffd-2d9b-48cb-8d83-2b80be92942f

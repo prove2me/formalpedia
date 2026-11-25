@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_cont_holds
 -- name    : PI.BeDiagZp.cont_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:25:12.448584+00:00
 -- url     : https://prove2.me/theorems/5cf5b0a6-8822-4a94-94be-f8928547261b

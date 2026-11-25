@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DefPosDefWork_splitting_of_extension
 -- name    : PI.DefPosDefWork.splitting_of_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:27:13.92289+00:00
 -- url     : https://prove2.me/theorems/adacb1f3-e056-544e-af74-2b6f2a0734c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Jac_jacobi
 -- name    : PI.OddDualWeyl.Jac.jacobi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:13:58.434805+00:00
 -- url     : https://prove2.me/theorems/e578fd3d-e4b5-47f0-8a25-f3a80b9ee7af

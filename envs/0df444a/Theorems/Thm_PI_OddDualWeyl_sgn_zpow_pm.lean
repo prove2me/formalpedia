@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_sgn_zpow_pm
 -- name    : PI.OddDualWeyl.sgn_zpow_pm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:14:41.759803+00:00
 -- url     : https://prove2.me/theorems/f46e3e37-84d9-404e-85c9-1d789ebcf09a

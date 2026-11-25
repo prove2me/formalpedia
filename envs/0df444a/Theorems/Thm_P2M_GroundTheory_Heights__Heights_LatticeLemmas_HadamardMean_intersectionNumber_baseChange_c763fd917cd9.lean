@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLemmas_HadamardMean_intersectionNumber_baseChange_c763fd917cd9
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLemmas_HadamardMean_intersectionNumber_baseChange_c763fd917cd9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:35:29.046723+00:00
 -- url     : https://prove2.me/theorems/5b852e62-4f22-59ad-ba4b-44a43ecfe514

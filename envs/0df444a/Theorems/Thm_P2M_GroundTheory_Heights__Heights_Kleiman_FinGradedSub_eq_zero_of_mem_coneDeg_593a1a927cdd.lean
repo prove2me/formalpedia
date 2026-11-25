@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_FinGradedSub_eq_zero_of_mem_coneDeg_593a1a927cdd
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_FinGradedSub_eq_zero_of_mem_coneDeg_593a1a927cdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:41:29.863458+00:00
 -- url     : https://prove2.me/theorems/a7b9a235-522e-424b-ade1-0b0e45cd3b1c

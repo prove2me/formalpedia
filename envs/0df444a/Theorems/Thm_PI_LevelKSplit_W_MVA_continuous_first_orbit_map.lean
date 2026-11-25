@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_MVA_continuous_first_orbit_map
 -- name    : PI.LevelKSplit.W.MVA.continuous_first_orbit_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:34:58.854798+00:00
 -- url     : https://prove2.me/theorems/248b873d-bb95-4af4-9c9d-c39282cc3f70

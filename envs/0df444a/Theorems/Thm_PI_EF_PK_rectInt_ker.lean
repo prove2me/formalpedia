@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_rectInt_ker
 -- name    : PI.EF.PK.rectInt_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:28:28.655222+00:00
 -- url     : https://prove2.me/theorems/c7a0bfa1-b4f3-472e-bae7-de86fccb14db

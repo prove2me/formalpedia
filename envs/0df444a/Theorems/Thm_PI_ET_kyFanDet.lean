@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_kyFanDet
 -- name    : PI.ET.kyFanDet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:38.072579+00:00
 -- url     : https://prove2.me/theorems/eae99056-2f73-4237-8ceb-b99c6a63f1a0

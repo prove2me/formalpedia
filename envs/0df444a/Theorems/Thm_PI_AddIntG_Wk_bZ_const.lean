@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_bZ_const
 -- name    : PI.AddIntG.Wk.bZ_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:51:02.726835+00:00
 -- url     : https://prove2.me/theorems/5cd51f29-e008-4f7a-a63d-c9e14bdd6130

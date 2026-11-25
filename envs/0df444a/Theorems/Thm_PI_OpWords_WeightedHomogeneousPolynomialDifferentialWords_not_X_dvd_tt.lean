@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_WeightedHomogeneousPolynomialDifferentialWords_not_X_dvd_tt
 -- name    : PI.OpWords.WeightedHomogeneousPolynomialDifferentialWords.not_X_dvd_tt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:16:57.505595+00:00
 -- url     : https://prove2.me/theorems/a5b21183-b881-424d-af08-747a4b3981e5

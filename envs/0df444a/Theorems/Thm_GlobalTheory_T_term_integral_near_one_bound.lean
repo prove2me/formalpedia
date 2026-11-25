@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_term_integral_near_one_bound
 -- name    : GlobalTheory.T.term_integral_near_one_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:48:57.824194+00:00
 -- url     : https://prove2.me/theorems/0aaecdff-c482-43ad-9947-c8fffda8d2fb

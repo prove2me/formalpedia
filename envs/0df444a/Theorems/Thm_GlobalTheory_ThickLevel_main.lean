@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickLevel_main
 -- name    : GlobalTheory.ThickLevel.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:47:53.249889+00:00
 -- url     : https://prove2.me/theorems/b25f384e-c0d9-45af-9120-6cc757625555

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_TauN_smul_mv
 -- name    : PI.PolynomialProperness.TauN.smul_mv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:18:31.276819+00:00
 -- url     : https://prove2.me/theorems/384b86ec-2634-4efd-b430-d9fa2827c438

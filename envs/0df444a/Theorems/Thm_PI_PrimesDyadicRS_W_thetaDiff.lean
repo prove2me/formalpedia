@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PrimesDyadicRS_W_thetaDiff
 -- name    : PI.PrimesDyadicRS.W.thetaDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:36:41.821528+00:00
 -- url     : https://prove2.me/theorems/15efe8d2-f699-55a1-8f4d-7d057cf0c5f1

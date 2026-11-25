@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_eq_sum_mono
 -- name    : PI.OpWords.eq_sum_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:17:39.548164+00:00
 -- url     : https://prove2.me/theorems/0a374c17-d18f-52e0-a4c6-c3feef47a8f3

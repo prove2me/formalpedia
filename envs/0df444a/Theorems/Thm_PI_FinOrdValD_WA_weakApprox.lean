@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinOrdValD_WA_weakApprox
 -- name    : PI.FinOrdValD.WA.weakApprox
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:05.769175+00:00
 -- url     : https://prove2.me/theorems/5e4ef27f-4049-4bb3-bf58-3e8e3d84ebbb

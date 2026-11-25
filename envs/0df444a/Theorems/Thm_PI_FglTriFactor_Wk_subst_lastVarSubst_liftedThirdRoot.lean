@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglTriFactor_Wk_subst_lastVarSubst_liftedThirdRoot
 -- name    : PI.FglTriFactor.Wk.subst_lastVarSubst_liftedThirdRoot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:26:51.349046+00:00
 -- url     : https://prove2.me/theorems/f66e982a-60ef-46da-bf7a-6bb45e195c78

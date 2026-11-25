@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LatIdxDetW_locLen_congr
 -- name    : PI.LatIdxDetW.locLen_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:34:10.084436+00:00
 -- url     : https://prove2.me/theorems/1e431c0c-fdf3-4e95-a6a5-84e907cee715

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_UnitBall_isUnit_of_norm_eq_one
 -- name    : GlobalTheory.CompanionTheory.CartGL.UnitBall.isUnit_of_norm_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:43:33.572366+00:00
 -- url     : https://prove2.me/theorems/b2eed5eb-cb28-47a9-9465-67dba608f965

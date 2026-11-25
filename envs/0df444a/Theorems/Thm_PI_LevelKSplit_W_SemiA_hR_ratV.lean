@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiA_hR_ratV
 -- name    : PI.LevelKSplit.W.SemiA.hR_ratV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:30.691829+00:00
 -- url     : https://prove2.me/theorems/8016bb7c-cc51-45db-b692-323b32dcc7ec

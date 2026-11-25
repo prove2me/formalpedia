@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_RK_rat_ker
 -- name    : PI.Dv.RK.rat_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:27:56.369959+00:00
 -- url     : https://prove2.me/theorems/d1201e83-5e4c-4b02-86ec-b1188eee7d2d

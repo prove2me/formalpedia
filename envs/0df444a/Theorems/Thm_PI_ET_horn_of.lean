@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_horn_of
 -- name    : PI.ET.horn_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:36.097671+00:00
 -- url     : https://prove2.me/theorems/c2db4d17-f22a-4a3e-9cc5-72eadfc2b654

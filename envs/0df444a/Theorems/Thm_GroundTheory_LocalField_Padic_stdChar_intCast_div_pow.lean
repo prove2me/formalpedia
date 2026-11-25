@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Padic_stdChar_intCast_div_pow
 -- name    : GroundTheory.LocalField.Padic.stdChar_intCast_div_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:37:33.151234+00:00
 -- url     : https://prove2.me/theorems/1487fb15-1c45-4535-a57a-b8ba7239522f

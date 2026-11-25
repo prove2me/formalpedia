@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6RotationSupport_mem_commonInc
 -- name    : F6RotationSupport.mem_commonInc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:32:23.138662+00:00
 -- url     : https://prove2.me/theorems/e837f81a-8a15-51fc-aace-43756e2355ea

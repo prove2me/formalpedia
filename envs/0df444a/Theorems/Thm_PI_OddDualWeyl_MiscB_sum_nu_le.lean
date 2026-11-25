@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_MiscB_sum_nu_le
 -- name    : PI.OddDualWeyl.MiscB.sum_nu_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:13:54.712961+00:00
 -- url     : https://prove2.me/theorems/96bfa612-67ae-4a6b-a3ff-da6f4a31162e

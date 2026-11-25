@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExistsGaugeMeasureForEachRank_W_mem_UWb_iff
 -- name    : PI.ExistsGaugeMeasureForEachRank.W.mem_UWb_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:09:51.028193+00:00
 -- url     : https://prove2.me/theorems/7c7bdf98-541d-4495-9abc-e02046e40415

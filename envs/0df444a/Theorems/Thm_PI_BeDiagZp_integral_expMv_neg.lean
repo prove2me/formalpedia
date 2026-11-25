@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_integral_expMv_neg
 -- name    : PI.BeDiagZp.integral_expMv_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:25:11.292541+00:00
 -- url     : https://prove2.me/theorems/ee73aa3d-1947-464d-9ce7-713cbe238844

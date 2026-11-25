@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_third_le_log
 -- name    : PI.PC.third_le_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:52.820315+00:00
 -- url     : https://prove2.me/theorems/40e966fa-8f15-4fff-b984-c9c12be7c213

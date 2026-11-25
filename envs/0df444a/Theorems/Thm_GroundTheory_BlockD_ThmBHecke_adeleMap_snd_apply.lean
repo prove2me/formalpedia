@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_ThmBHecke_adeleMap_snd_apply
 -- name    : GroundTheory.BlockD.ThmBHecke.adeleMap_snd_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:41:24.132804+00:00
 -- url     : https://prove2.me/theorems/293f336e-20af-5cff-842a-3758e1e68dda

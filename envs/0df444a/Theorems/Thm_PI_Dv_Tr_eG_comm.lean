@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_eG_comm
 -- name    : PI.Dv.Tr.eG_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:58:51.210631+00:00
 -- url     : https://prove2.me/theorems/c4ef7c87-93e2-433b-b5f5-e01c2f497322

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_MultFromLatWork_const_eq
 -- name    : PI.MultFromLatWork.const_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:36:11.290234+00:00
 -- url     : https://prove2.me/theorems/fe4695e7-c59e-4267-acbe-6b303c3c668e

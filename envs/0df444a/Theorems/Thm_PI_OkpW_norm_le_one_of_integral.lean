@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OkpW_norm_le_one_of_integral
 -- name    : PI.OkpW.norm_le_one_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:16:13.147446+00:00
 -- url     : https://prove2.me/theorems/77610437-a2d6-47b3-a9b9-ca2ef9d3486f

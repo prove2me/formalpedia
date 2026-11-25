@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KFinSmoothW_one_mem_UJset
 -- name    : PI.KFinSmoothW.one_mem_UJset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:32:42.642858+00:00
 -- url     : https://prove2.me/theorems/cc920913-f1f5-463c-af03-c153c4dd2a2d

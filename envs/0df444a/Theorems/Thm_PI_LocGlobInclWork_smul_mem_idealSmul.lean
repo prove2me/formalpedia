@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocGlobInclWork_smul_mem_idealSmul
 -- name    : PI.LocGlobInclWork.smul_mem_idealSmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:34:52.177476+00:00
 -- url     : https://prove2.me/theorems/9660d6b1-3dcb-451f-9288-221dfa65f688

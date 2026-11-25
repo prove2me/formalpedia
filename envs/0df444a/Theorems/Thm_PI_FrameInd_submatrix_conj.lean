@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_submatrix_conj
 -- name    : PI.FrameInd.submatrix_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:31:48.39289+00:00
 -- url     : https://prove2.me/theorems/9f8ea870-58f3-4f25-bc58-faf57f6c7eae

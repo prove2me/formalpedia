@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_Pn_succ_shift
 -- name    : PI.HookSteps.Pn_succ_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:07:45.2127+00:00
 -- url     : https://prove2.me/theorems/63443149-9545-4cc4-80b7-11983a272954

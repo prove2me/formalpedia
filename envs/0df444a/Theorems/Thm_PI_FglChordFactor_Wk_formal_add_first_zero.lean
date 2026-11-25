@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglChordFactor_Wk_formal_add_first_zero
 -- name    : PI.FglChordFactor.Wk.formal_add_first_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:44:02.557029+00:00
 -- url     : https://prove2.me/theorems/b4250e9b-71be-5ded-9a62-d9f1861d0391

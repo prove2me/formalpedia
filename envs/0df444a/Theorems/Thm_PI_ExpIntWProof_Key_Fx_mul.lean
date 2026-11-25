@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExpIntWProof_Key_Fx_mul
 -- name    : PI.ExpIntWProof.Key.Fx.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:25:25.825095+00:00
 -- url     : https://prove2.me/theorems/32128cd3-5ceb-4a8a-91de-11cd54feffc0

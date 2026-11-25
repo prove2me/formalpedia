@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Low_degree_expY
 -- name    : PI.JetsPhW.Low.degree_expY
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:09:31.435027+00:00
 -- url     : https://prove2.me/theorems/51ff01a8-0fd9-56d8-8c87-3587b7cae1c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_WeightedHomogeneousPolynomialDifferentialWords_isWeightedHomogeneous_pairing_left
 -- name    : PI.OpWords.WeightedHomogeneousPolynomialDifferentialWords.isWeightedHomogeneous_pairing_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:16:57.459123+00:00
 -- url     : https://prove2.me/theorems/836414c2-dd0c-4a6c-81db-b8b6a604599e

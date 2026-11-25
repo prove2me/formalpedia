@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLemmas_LocalLatticeIndex_norm_unit_16f7003adcaf
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLemmas_LocalLatticeIndex_norm_unit_16f7003adcaf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:43:44.653843+00:00
 -- url     : https://prove2.me/theorems/6c25ccac-f88b-49c4-a9d2-6dca4f910716

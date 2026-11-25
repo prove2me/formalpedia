@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocJacOrd_W_absMul_holds
 -- name    : PI.LocJacOrd.W.absMul_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:17:10.969556+00:00
 -- url     : https://prove2.me/theorems/90d3ed60-eb73-4a68-bb4a-bc9e046199b8

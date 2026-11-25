@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Jac_sign_pm
 -- name    : PI.OddDualWeyl.Jac.sign_pm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:13:19.933096+00:00
 -- url     : https://prove2.me/theorems/95210a54-3d44-5a96-a3ea-955c184e051c

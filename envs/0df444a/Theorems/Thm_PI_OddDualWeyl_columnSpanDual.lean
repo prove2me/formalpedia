@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_columnSpanDual
 -- name    : PI.OddDualWeyl.columnSpanDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:14:07.890471+00:00
 -- url     : https://prove2.me/theorems/da584319-52d5-5112-975a-008d356e86e2

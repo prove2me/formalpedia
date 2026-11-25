@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KFinSmoothW_dense_weak_vectors
 -- name    : PI.KFinSmoothW.dense_weak_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:45:47.496936+00:00
 -- url     : https://prove2.me/theorems/d1df0774-1631-41a4-9e14-2e181e5be2ee

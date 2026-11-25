@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NglqJacSplitW_good_transvection
 -- name    : PI.NglqJacSplitW.good_transvection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:34:43.871791+00:00
 -- url     : https://prove2.me/theorems/89b81ec0-d645-4f23-92b4-44332a7ea51d

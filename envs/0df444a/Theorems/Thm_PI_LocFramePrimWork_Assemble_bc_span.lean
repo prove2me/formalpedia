@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_Assemble_bc_span
 -- name    : PI.LocFramePrimWork.Assemble_bc_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:35:21.443189+00:00
 -- url     : https://prove2.me/theorems/1c060f1c-9b6f-4917-a380-6c707d36cb03

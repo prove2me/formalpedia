@@ -19379,37 +19379,37 @@
 {"parent": "FairSelling.PhaseTPS.preq_nonneg", "child": "RequestProject_TPSSefxStep", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_LocalSplittingKernelBaseChangeStatement", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_LocalSplittingKernelBaseChange", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Arith_SchemeCoh_push_zero__4bd36dbeb085", "child": "GroundTheory_ArithmeticGeometry_SchemeCohomology_ConsCompSuccAboveZero", "via": ["solution", "statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesGramPosDef", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesQuotGramLog", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesCoordImage", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesGenIndexPi", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesFischer", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesQuotIndexSplit", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesStdIndexDet", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesGramFischerBound", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesStdPi", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesLineDegree", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesIsLattice", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesGenIndexDet", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesGenIndexTrans", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesQuotDegreeBound", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesQuotIndex", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesLatticeBasis", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesIdealIndexPos", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesCoordDet", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesIdealStdIndex", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesGramDetChange", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesTop", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesGenIndexMono", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_AssemblyLines", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesExtendBasis", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesGramChange", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesProductFormula", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesDiagGram", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesProjLattice", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesQuotIndexLog", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesIdealLatticeFG", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesProjIndexLower", "via": ["statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesGramPosDef", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesQuotGramLog", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesCoordImage", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesGenIndexPi", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesFischer", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesQuotIndexSplit", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesStdIndexDet", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesGramFischerBound", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesStdPi", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesLineDegree", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesIsLattice", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesGenIndexDet", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesGenIndexTrans", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesQuotDegreeBound", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesQuotIndex", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesLatticeBasis", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesIdealIndexPos", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesCoordDet", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesIdealStdIndex", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesGramDetChange", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesTop", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesGenIndexMono", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_AssemblyLines", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesExtendBasis", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesGramChange", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesProductFormula", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesDiagGram", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesProjLattice", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesQuotIndexLog", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesIdealLatticeFG", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesProjIndexLower", "via": ["solution", "statement"]}
 {"parent": "RH1E6S17_D050_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "ReciprocityTheory.AnForm.volume_eq_zero_of_locally_in_analytic_zero_set", "child": "ReciprocityTheory_AnalyticForms_AnalyticCharts_NullZero", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Inter_sumW_line0_ea32279785ad", "child": "GroundTheory_HeightsAndTheta_Heights_Intersections_StatementsArith", "via": ["solution", "statement"]}
@@ -21704,9 +21704,9 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_mConeMap_of_isMultiHomog_f3a1bcb1fd3a", "child": "GroundTheory_HeightsAndTheta_Heights_HeightsOfSets_Comparison", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_mConeMap_of_isMultiHomog_f3a1bcb1fd3a", "child": "GroundTheory_HeightsAndTheta_Heights_HeightComparison_HeightOrbitFiniteSum", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_mConeMap_of_isMultiHomog_f3a1bcb1fd3a", "child": "GroundTheory_HeightsAndTheta_Heights_HeightComparison_PHeightRecR", "via": ["solution", "statement"]}
-{"parent": "PI.GreenLabelSurjWork.transp_cusp", "child": "Formalism_PadicSubsetSums_CentralIdempotents_IsConstituent", "via": ["statement"]}
-{"parent": "PI.GreenLabelSurjWork.transp_cusp", "child": "Formalism_PadicSubsetSums_CentralIdempotents_GaloisConjCentralIdempotent", "via": ["statement"]}
-{"parent": "PI.GreenLabelSurjWork.transp_cusp", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GreenLabelSurjective_Transp", "via": ["statement"]}
+{"parent": "PI.GreenLabelSurjWork.transp_cusp", "child": "Formalism_PadicSubsetSums_CentralIdempotents_IsConstituent", "via": ["solution", "statement"]}
+{"parent": "PI.GreenLabelSurjWork.transp_cusp", "child": "Formalism_PadicSubsetSums_CentralIdempotents_GaloisConjCentralIdempotent", "via": ["solution", "statement"]}
+{"parent": "PI.GreenLabelSurjWork.transp_cusp", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GreenLabelSurjective_Transp", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TyFinJacquet.refine_of_gt", "child": "Development_WeilBound_CoreStatements_FiniteTypeHarishChandra_SupportExistsAll", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TyFinJacquet.refine_of_gt", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_JacquetModuleAll", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TyFinJacquet.refine_of_gt", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ProductSimpleAllStatement", "via": ["solution", "statement"]}
@@ -32981,30 +32981,30 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_Intersections_PWellDefined", "child": "GroundTheory_HeightsAndTheta_Heights_Intersections_AvoidRing", "via": ["statement"]}
 {"parent": "ReciprocityTheory.AnForm.A.norm_le_of_kK_ne", "child": "ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_IsPshLocallyIntegrableStatement", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.A.norm_le_of_kK_ne", "child": "ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_ContinuousTmaxShift", "via": ["solution", "statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplReduceMem", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplExtVecMul", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplGcd", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplReduceConj", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplReduceStep", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_AssemblySympl", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplMinkowskiBox", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplMinBound", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplMinExists", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplExtMem", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplFirstRow", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplBoxVolume", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplOrbit", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplGramMem", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplStep", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplReducePosDef", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplDetSchur", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplShortPrim", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplCons", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplTop", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplQuadDiag", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplTwoRow", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplOmegaMem", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplDetBound", "via": ["statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplReduceMem", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplExtVecMul", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplGcd", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplReduceConj", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplReduceStep", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_AssemblySympl", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplMinkowskiBox", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplMinBound", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplMinExists", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplExtMem", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplFirstRow", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplBoxVolume", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplOrbit", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplGramMem", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplStep", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplReducePosDef", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplDetSchur", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplShortPrim", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplCons", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplTop", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplQuadDiag", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplTwoRow", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplOmegaMem", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_SymplReduceMem_full_4312e29b3093", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PSymplDetBound", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TyFin.Maschke.avg_of_mem", "child": "Development_WeilBound_CoreStatements_FiniteTypeHarishChandra_SupportExistsAll", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TyFin.Maschke.avg_of_mem", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_MaschkeProperties", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TyFin.Maschke.avg_of_mem", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SimpleIffIrreducibleStatement", "via": ["solution", "statement"]}
@@ -38140,9 +38140,9 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_Kleiman_coneGen_homogeneousComponent_066005156b15", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_IsSemipositiveOn", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Kleiman_coneGen_homogeneousComponent_066005156b15", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_Objects", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Kleiman_coneGen_homogeneousComponent_066005156b15", "child": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_Objects", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.T.simple_iff_irreducible", "child": "Development_WeilBound_CoreStatements_FiniteTypeHarishChandra_SupportExistsAll", "via": ["statement"]}
-{"parent": "GlobalTheory.T.simple_iff_irreducible", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SimpleIffIrreducible", "via": ["statement"]}
-{"parent": "GlobalTheory.T.simple_iff_irreducible", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SimpleIffIrreducibleStatement", "via": ["statement"]}
+{"parent": "GlobalTheory.T.simple_iff_irreducible", "child": "Development_WeilBound_CoreStatements_FiniteTypeHarishChandra_SupportExistsAll", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.simple_iff_irreducible", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SimpleIffIrreducible", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.simple_iff_irreducible", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SimpleIffIrreducibleStatement", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CriticalImageNull_proof_bedda1fe3c58", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PCriticalImageNull", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CriticalImageNull_proof_bedda1fe3c58", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StCriticalImageNull", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GreenLabelCharpoly_GaloisClause", "child": "Formalism_PadicSubsetSums_CentralIdempotents_GaloisConjCentralIdempotent", "via": ["statement"]}
@@ -38929,9 +38929,9 @@
 {"parent": "Formalism.GM.leadingTermLemmas.fk_X_mul", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_GamLead", "via": ["solution", "statement"]}
 {"parent": "Formalism.G0.TopsCount.A_succ", "child": "Formalism_SubspaceCounting_TopsChoiceSecondBound", "via": ["solution", "statement"]}
 {"parent": "Formalism.G0.TopsCount.A_succ", "child": "Formalism_SubspaceCounting_SubspaceCountingProofs_TopsChoiceCount", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.CompanionTheory.TyFin.simpleIffIrr", "child": "Development_WeilBound_CoreStatements_FiniteTypeHarishChandra_SupportExistsAll", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.TyFin.simpleIffIrr", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SimpleIffIrreducible", "via": ["statement"]}
-{"parent": "GlobalTheory.CompanionTheory.TyFin.simpleIffIrr", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HarishChandraLabels_Basics", "via": ["statement"]}
+{"parent": "GlobalTheory.CompanionTheory.TyFin.simpleIffIrr", "child": "Development_WeilBound_CoreStatements_FiniteTypeHarishChandra_SupportExistsAll", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.TyFin.simpleIffIrr", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SimpleIffIrreducible", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CompanionTheory.TyFin.simpleIffIrr", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HarishChandraLabels_Basics", "via": ["solution", "statement"]}
 {"parent": "Formalism.GM.leadingTermLemmas.Kc_nonneg", "child": "Formalism_MahlerMeasure_HasOrder", "via": ["solution", "statement"]}
 {"parent": "Formalism.GM.leadingTermLemmas.Kc_nonneg", "child": "Formalism_MahlerMeasure_FinalM", "via": ["solution", "statement"]}
 {"parent": "Formalism.GM.leadingTermLemmas.Kc_nonneg", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_GamLead", "via": ["solution", "statement"]}
@@ -70567,11 +70567,11 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_ChartNormAlgClosed_algebraMap_localization_C_eccb7f2840c7", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsChartNormAlgClosed", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ChartNormAlgClosed_algebraMap_localization_C_eccb7f2840c7", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PChartNormAlgClosed", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ChartNormAlgClosed_algebraMap_localization_C_eccb7f2840c7", "child": "GroundTheory_HeightsAndTheta_Heights_ChowForms_StatementsChartFirstGroupDvd", "via": ["solution", "statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_VerticalPartGauss_isChowForm_genericIdeal_bbb2eb08edc5", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_FiniteSupportLogCoeffGaussNorm", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_VerticalPartGauss_isChowForm_genericIdeal_bbb2eb08edc5", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_ImportsAlt", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_VerticalPartGauss_isChowForm_genericIdeal_bbb2eb08edc5", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_AevalGenericIdealIff", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_VerticalPartGauss_isChowForm_genericIdeal_bbb2eb08edc5", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_Statements", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_VerticalPartGauss_isChowForm_genericIdeal_bbb2eb08edc5", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_SpecFirstDetFormNeZero", "via": ["statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_VerticalPartGauss_isChowForm_genericIdeal_bbb2eb08edc5", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_FiniteSupportLogCoeffGaussNorm", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_VerticalPartGauss_isChowForm_genericIdeal_bbb2eb08edc5", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_ImportsAlt", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_VerticalPartGauss_isChowForm_genericIdeal_bbb2eb08edc5", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_AevalGenericIdealIff", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_VerticalPartGauss_isChowForm_genericIdeal_bbb2eb08edc5", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_Statements", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_VerticalPartGauss_isChowForm_genericIdeal_bbb2eb08edc5", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_SpecFirstDetFormNeZero", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StCurveBranchLength", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StSliceObjects", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StSliceBundleRadicalAway", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StGenericFibreRadicalAway", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StSliceBundleRadicalAway", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StSliceObjects", "via": ["statement"]}
@@ -71583,8 +71583,8 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_FrameImplicitGraph_continuous_eval_c29a4cd0acc4", "child": "GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PFrameImplicitGraph", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_FrameImplicitGraph_continuous_eval_c29a4cd0acc4", "child": "GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_StFrameImplicitGraph", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_SplitThetaGridPathAvoidsOppositeCorner", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_RankEqCardIffExistsFrameMatrixFirstColumnBlock", "via": ["statement"]}
-{"parent": "GlobalTheory.HkFin.exists_weak_approx_unit", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FiniteOrderValuation_WeakApprox", "via": ["statement"]}
-{"parent": "GlobalTheory.HkFin.exists_weak_approx_unit", "child": "Development_AbelianVarietyTheory_Proofs_SatakeParameters_ExistsWeakApproxUnitFinitePlace", "via": ["statement"]}
+{"parent": "GlobalTheory.HkFin.exists_weak_approx_unit", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FiniteOrderValuation_WeakApprox", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HkFin.exists_weak_approx_unit", "child": "Development_AbelianVarietyTheory_Proofs_SatakeParameters_ExistsWeakApproxUnitFinitePlace", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ArithDegree", "child": "GroundTheory_HeightsAndTheta_Heights_HermitianTensor", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ArithDegree", "child": "P2M_GroundTheory_Heights__Heights_HermitianMetric_integers_inner_66e5d940cc4d", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StCMProjDimCriterion", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StTransverseObjects", "via": ["statement"]}
@@ -74277,8 +74277,8 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PBranchInComponent", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PRiemannExtensionAnalytic", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_MonomialMapNorm_chartPow_add_67d12914ee42", "child": "GroundTheory_HeightsAndTheta_Heights_WeightedHomogeneous_EvalConeChartMonomialNeZeroBis", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_MonomialMapNorm_chartPow_add_67d12914ee42", "child": "GroundTheory_HeightsAndTheta_Heights_WeightedHomogeneous_Statements", "via": ["solution", "statement"]}
-{"parent": "PI.FHS.fockInner_pderiv", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockHarmonicSplitting_FockInnerSelfReNonneg", "via": ["statement"]}
-{"parent": "PI.FHS.fockInner_pderiv", "child": "Formalism_PeriodIntegrals_JointBlockShapes_MinusPart", "via": ["statement"]}
+{"parent": "PI.FHS.fockInner_pderiv", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockHarmonicSplitting_FockInnerSelfReNonneg", "via": ["solution", "statement"]}
+{"parent": "PI.FHS.fockInner_pderiv", "child": "Formalism_PeriodIntegrals_JointBlockShapes_MinusPart", "via": ["solution", "statement"]}
 {"parent": "UpperTheory.Reformulated.B.Qn12.exists_expansion", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_ExistsExpansion", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StDerivationCotangentIndependent", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StFormalFibresRegular", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_MembershipProofs_IntegrablePair", "child": "Development_AutomorphicSpectrum_Definitions_MembershipCriteria_GoodChar", "via": ["statement"]}
@@ -83061,8 +83061,8 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_Vertical_secCoord_adjoin_702b1310c2e3", "child": "GroundTheory_HeightsAndTheta_Heights_VerticalDivisors_PChowNormFormGeneric", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Vertical_secCoord_adjoin_702b1310c2e3", "child": "GroundTheory_HeightsAndTheta_Heights_VerticalDivisors_StatementsChowNorm", "via": ["solution", "statement"]}
 {"parent": "RoughSurfaceScattering.frontier_hausdorff_finite", "child": "RoughSurfaceScattering_Basic", "via": ["solution", "statement"]}
-{"parent": "PI.FJMP.pureJ_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_MemLeftHighestWeightOfIsMinimalJointVector", "via": ["statement"]}
-{"parent": "PI.FJMP.pureJ_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_CauchyHW", "via": ["statement"]}
+{"parent": "PI.FJMP.pureJ_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_MemLeftHighestWeightOfIsMinimalJointVector", "via": ["solution", "statement"]}
+{"parent": "PI.FJMP.pureJ_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_CauchyHW", "via": ["solution", "statement"]}
 {"parent": "P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_KU_countable___ab97de32dd45", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_KaUnfoldPf", "via": ["solution", "statement"]}
 {"parent": "P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_KU_countable___ab97de32dd45", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_KaUnfoldPfC", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PFormalFibresRegular", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StFlatNormalFibres", "via": ["statement"]}
@@ -83372,9 +83372,9 @@
 {"parent": "GroundTheory_AutomorphicForms_WhittakerOrbit", "child": "GroundTheory_AutomorphicForms_SmoothRep", "via": ["statement"]}
 {"parent": "GroundTheory_AutomorphicForms_WhittakerOrbit", "child": "GroundTheory_AutomorphicForms_WhittakerLSpace", "via": ["statement"]}
 {"parent": "GroundTheory_AutomorphicForms_WhittakerOrbit", "child": "GroundTheory_AutomorphicForms_LocallyProfinite", "via": ["statement"]}
-{"parent": "PI.FJMX.leadT_der_rows", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_ExistGen", "via": ["statement"]}
-{"parent": "PI.FJMX.leadT_der_rows", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_JointMultOfSteps", "via": ["statement"]}
-{"parent": "PI.FJMX.leadT_der_rows", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_ExistHW", "via": ["statement"]}
+{"parent": "PI.FJMX.leadT_der_rows", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_ExistGen", "via": ["solution", "statement"]}
+{"parent": "PI.FJMX.leadT_der_rows", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_JointMultOfSteps", "via": ["solution", "statement"]}
+{"parent": "PI.FJMX.leadT_der_rows", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_ExistHW", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E42.run", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E42.run", "child": "RHX_Edge1000000Data", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E42.run", "child": "RHX1E6_RunE42", "via": ["statement"]}
@@ -83743,8 +83743,8 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PPrimitivePresentationCover", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PevEqZeroOfPresentation", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PPrimitivePresentationCover", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StPrimitivePresentationCover", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PPrimitivePresentationCover", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StSeparateWeierstrassDivision", "via": ["statement"]}
-{"parent": "PI.FJMP.monomialLeftWeight_eq_weight_sub", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_MemLeftHighestWeightOfIsMinimalJointVector", "via": ["statement"]}
-{"parent": "PI.FJMP.monomialLeftWeight_eq_weight_sub", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_CauchyHW", "via": ["statement"]}
+{"parent": "PI.FJMP.monomialLeftWeight_eq_weight_sub", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_MemLeftHighestWeightOfIsMinimalJointVector", "via": ["solution", "statement"]}
+{"parent": "PI.FJMP.monomialLeftWeight_eq_weight_sub", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_CauchyHW", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_HermitianExtension_subExact_03efe69f570c", "child": "GroundTheory_HeightsAndTheta_Heights_HeightsOfSets_LinearIndependentSumElimOfExact", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_HermitianExtension_subExact_03efe69f570c", "child": "GroundTheory_HeightsAndTheta_Heights_ArithDegreeIdeal", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_HermitianExtension_subExact_03efe69f570c", "child": "GroundTheory_HeightsAndTheta_Heights_HermitianDual", "via": ["solution", "statement"]}
@@ -83888,9 +83888,9 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_chartCutoff_le_one_40af82f0b80c", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PChartEnergySwap", "via": ["solution", "statement"]}
 {"parent": "Formalism_LocalToGlobal_IndefiniteReal_FinitePlaces_FourVac", "child": "Formalism_LocalToGlobal_IndefiniteReal_FinitePlaces_FourUniq", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_JacobiMinorIdentity", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_JacRev", "via": ["statement"]}
-{"parent": "PI.FJMX.leadT_der_cols", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_ExistGen", "via": ["statement"]}
-{"parent": "PI.FJMX.leadT_der_cols", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_JointMultOfSteps", "via": ["statement"]}
-{"parent": "PI.FJMX.leadT_der_cols", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_ExistHW", "via": ["statement"]}
+{"parent": "PI.FJMX.leadT_der_cols", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_ExistGen", "via": ["solution", "statement"]}
+{"parent": "PI.FJMX.leadT_der_cols", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_JointMultOfSteps", "via": ["solution", "statement"]}
+{"parent": "PI.FJMX.leadT_der_cols", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_ExistHW", "via": ["solution", "statement"]}
 {"parent": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_FormalGroupLinearSecond", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_GaugeBilinearTermEqNegDoubleSum", "via": ["statement"]}
 {"parent": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_FormalGroupLinearSecond", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_CIndFrFix", "via": ["statement"]}
 {"parent": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_FormalGroupLinearSecond", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_ThetaSwapFirstTwo", "via": ["statement"]}
@@ -84567,8 +84567,8 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_exists_pow_mul_mem_of_aeval_chartSubst_mem_9a4afa4e37e2", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_AevalChartSubstMemOfMemBlowUpOf", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_exists_pow_mul_mem_of_aeval_chartSubst_mem_9a4afa4e37e2", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_StatementsBlowUpHorizontal", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_exists_pow_mul_mem_of_aeval_chartSubst_mem_9a4afa4e37e2", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PBlowUpHorizontalSat", "via": ["solution", "statement"]}
-{"parent": "PI.FHS.omAct_adj", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockHarmonicSplitting_ConjTransposeOneKronecker", "via": ["statement"]}
-{"parent": "PI.FHS.omAct_adj", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockHarmonicSplitting_FockInnerSelfReNonneg", "via": ["statement"]}
+{"parent": "PI.FHS.omAct_adj", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockHarmonicSplitting_ConjTransposeOneKronecker", "via": ["solution", "statement"]}
+{"parent": "PI.FHS.omAct_adj", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockHarmonicSplitting_FockInnerSelfReNonneg", "via": ["solution", "statement"]}
 {"parent": "Formalism_LocalToGlobal_ThetaOperatorCommutation_RealTh", "child": "ReciprocityTheory_ThetaSummability_RealCoinvariants_CoinvSubLeComap", "via": ["statement"]}
 {"parent": "Formalism_LocalToGlobal_ThetaOperatorCommutation_RealTh", "child": "Formalism_PeriodIntegrals_JointBlockShapes_JointShape", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.B.clsBound", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundB", "via": ["statement"]}
@@ -84771,8 +84771,8 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PBranchLift", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StRiemannExtensionAnalytic", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.SA.good_preserves", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_StrongApproximation_ConjMemEichSet", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.SA.good_preserves", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_StrongApproximation_ReachableFixingAddSmulSecond", "via": ["statement"]}
-{"parent": "PI.FJMP.monomialRightWeight_eq_weight_sub", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_MemLeftHighestWeightOfIsMinimalJointVector", "via": ["statement"]}
-{"parent": "PI.FJMP.monomialRightWeight_eq_weight_sub", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_CauchyHW", "via": ["statement"]}
+{"parent": "PI.FJMP.monomialRightWeight_eq_weight_sub", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_MemLeftHighestWeightOfIsMinimalJointVector", "via": ["solution", "statement"]}
+{"parent": "PI.FJMP.monomialRightWeight_eq_weight_sub", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_CauchyHW", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_abs_gradDens_chart_le_3efa90400089", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_ChartCutoffParts", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_abs_gradDens_chart_le_3efa90400089", "child": "ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_PartsAlg", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_abs_gradDens_chart_le_3efa90400089", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PChartEnergyCocycle", "via": ["statement"]}
@@ -90354,8 +90354,8 @@
 {"parent": "GlobalTheory.PairOp.U_dia", "child": "Development_AbelianVarietyTheory_Definitions_TwistedInnerProducts_ExistsFFNeZeroThree", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_StrongApproximation_PAENeighbourhoods", "child": "GroundTheory_HeightsAndTheta_Heights_StrongApproximation_Statements", "via": ["statement"]}
 {"parent": "GroundTheory.GroupCoh.partialProd_prefix", "child": "GroundTheory_TateCohomology_CupCochains", "via": ["solution", "statement"]}
-{"parent": "PI.OddDualWeyl.Intw.rowGen_genM", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_TransvectionMulApply", "via": ["statement"]}
-{"parent": "PI.OddDualWeyl.Intw.rowGen_genM", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_JacRev", "via": ["statement"]}
+{"parent": "PI.OddDualWeyl.Intw.rowGen_genM", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_TransvectionMulApply", "via": ["solution", "statement"]}
+{"parent": "PI.OddDualWeyl.Intw.rowGen_genM", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_JacRev", "via": ["solution", "statement"]}
 {"parent": "Erdos1219.Ctx.B_basic", "child": "Erdos1219_CardinalLemmas", "via": ["solution", "statement"]}
 {"parent": "Erdos1219.Ctx.B_basic", "child": "Erdos1219_UnbalancedErdosRado", "via": ["solution", "statement"]}
 {"parent": "Erdos1219.Ctx.B_basic", "child": "Erdos1219_Defs", "via": ["solution", "statement"]}
@@ -90435,8 +90435,8 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_ae_fibreCount_eq_zero_40bf10712179", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_Characterised", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ae_fibreCount_eq_zero_40bf10712179", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsConeMass", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ae_fibreCount_eq_zero_40bf10712179", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PConeIntegralMass", "via": ["solution", "statement"]}
-{"parent": "PI.FJMP.seg_neg_gen", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_MemLeftHighestWeightOfIsMinimalJointVector", "via": ["statement"]}
-{"parent": "PI.FJMP.seg_neg_gen", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_CauchyHW", "via": ["statement"]}
+{"parent": "PI.FJMP.seg_neg_gen", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_MemLeftHighestWeightOfIsMinimalJointVector", "via": ["solution", "statement"]}
+{"parent": "PI.FJMP.seg_neg_gen", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_CauchyHW", "via": ["solution", "statement"]}
 {"parent": "RegMT.Classif.Supplement.theorem_3_9", "child": "RegMT_Classif_Supplement_Perturbation", "via": ["statement"]}
 {"parent": "RoughSurfaceScattering.harmonic_analytic_R3", "child": "RoughSurfaceScattering_Basic", "via": ["solution", "statement"]}
 {"parent": "P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_jacU_L__09c946809e4d", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_MeasInvStatementPfD", "via": ["solution", "statement"]}
@@ -90448,7 +90448,7 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_StrongApprox_hf_e0f0_88b2973874db", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_StrongApproximation_LocGen", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_StrongApprox_hf_e0f0_88b2973874db", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_StrongApproximation_DenseRangeFiniteAdele", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_StrongApprox_hf_e0f0_88b2973874db", "child": "GroundTheory_HeightsAndTheta_Heights_StrongApproximation_Statements", "via": ["solution", "statement"]}
-{"parent": "PINNGeneralization.abstract_generalization_error_bound", "child": "PINNGeneralization_Basic", "via": ["statement"]}
+{"parent": "PINNGeneralization.abstract_generalization_error_bound", "child": "PINNGeneralization_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LastSteps.dual_ext", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_IsClopenIsCompactMapsPair", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LastSteps.dual_ext", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_PairOperatorStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LastSteps.dual_ext", "child": "Development_AbelianVarietyTheory_BlockTheory_TwistedDiscreteSeries_DualLiftInvariance", "via": ["solution", "statement"]}
@@ -90597,7 +90597,7 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_Vertical_pointPar_algebraicIndependent_557120b59e17", "child": "GroundTheory_HeightsAndTheta_Heights_VerticalDivisors_Inhabitants", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_MeasInvStatementPfL", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_MeasInvStatementPfK", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_StrongApproximation_PEichlerDense", "child": "GroundTheory_HeightsAndTheta_Heights_StrongApproximation_Statements", "via": ["statement"]}
-{"parent": "DeepONetError.error_decomposition", "child": "DeepONetError_Basic", "via": ["statement"]}
+{"parent": "DeepONetError.error_decomposition", "child": "DeepONetError_Basic", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_RestTerms_Top_completeSymmetric_zero_8b38a07da8f0", "child": "GroundTheory_HeightsAndTheta_Heights_RemainderTerms_Statements", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_RestTerms_Top_completeSymmetric_zero_8b38a07da8f0", "child": "GroundTheory_HeightsAndTheta_Heights_RemainderTerms_Expand", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_StrongApproximation_PLocalInClosure", "child": "GroundTheory_HeightsAndTheta_Heights_StrongApproximation_Statements", "via": ["statement"]}
@@ -90929,16 +90929,16 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_SphereMean_integrable_disc_radial_b2316b4572c9", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_Statements", "via": ["solution", "statement"]}
 {"parent": "PI.FockWtDegWork.sum_diag_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockWeightDegree_ExistsMonomialWeight", "via": ["solution", "statement"]}
 {"parent": "PI.FockWtDegWork.sum_diag_of", "child": "Formalism_PeriodIntegrals_FockDegreeTwoParts", "via": ["solution", "statement"]}
-{"parent": "PI.OddDualWeyl.Low.rowGen_mnr_mat", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_MnrUpdateEqZero", "via": ["statement"]}
-{"parent": "PI.OddDualWeyl.Low.rowGen_mnr_mat", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_JacRev", "via": ["statement"]}
+{"parent": "PI.OddDualWeyl.Low.rowGen_mnr_mat", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_MnrUpdateEqZero", "via": ["solution", "statement"]}
+{"parent": "PI.OddDualWeyl.Low.rowGen_mnr_mat", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_JacRev", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E49.blk8", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E49.blk8", "child": "RHX1E6_RunE49", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E49.blk8", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E49.blk8", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E49.blk8", "child": "RHX_RunChain", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E49.blk8", "child": "RHX_RunSplit", "via": ["statement"]}
-{"parent": "PI.FJMP.seg_pos_gen", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_MemLeftHighestWeightOfIsMinimalJointVector", "via": ["statement"]}
-{"parent": "PI.FJMP.seg_pos_gen", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_CauchyHW", "via": ["statement"]}
+{"parent": "PI.FJMP.seg_pos_gen", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_MemLeftHighestWeightOfIsMinimalJointVector", "via": ["solution", "statement"]}
+{"parent": "PI.FJMP.seg_pos_gen", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_CauchyHW", "via": ["solution", "statement"]}
 {"parent": "PI.OddDualWeyl.Hom.good_rowGen", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_HighestWeightMultiplicity", "via": ["statement"]}
 {"parent": "PI.OddDualWeyl.Hom.good_rowGen", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_JacRev", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_OrbitLimits_StChartSheetNoRatNull", "child": "GroundTheory_HeightsAndTheta_Heights_OrbitLimits_RatChartObjects", "via": ["statement"]}
@@ -91130,8 +91130,8 @@
 {"parent": "Development_AutomorphicSpectrum_Proofs_MetricProofs_MultihomogeneousNonvanishingOnJoinStatement", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterBridge", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_MetricProofs_MultihomogeneousNonvanishingOnJoinStatement", "child": "Development_AutomorphicSpectrum_Definitions_DivisibilityTowers_Proportional", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_MetricProofs_MultihomogeneousNonvanishingOnJoinStatement", "child": "Development_AutomorphicSpectrum_Definitions_GlobalGeometry_IsSncModel", "via": ["statement"]}
-{"parent": "PI.OddDualWeyl.Red.cM_map", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_JacRev", "via": ["statement"]}
-{"parent": "PI.OddDualWeyl.Red.cM_map", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_AevalMulHomog", "via": ["statement"]}
+{"parent": "PI.OddDualWeyl.Red.cM_map", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_JacRev", "via": ["solution", "statement"]}
+{"parent": "PI.OddDualWeyl.Red.cM_map", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_AevalMulHomog", "via": ["solution", "statement"]}
 {"parent": "Erdos1219.ofFinsetColouring_apply", "child": "Erdos1219_Defs", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_le_of_isArithVar_pblk_fb6970ea00bb", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PConeChartArea", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_le_of_isArithVar_pblk_fb6970ea00bb", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsConeSheetArea", "via": ["solution", "statement"]}
@@ -91237,8 +91237,8 @@
 {"parent": "RHX1000000.Run.E50.blk7", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E50.blk7", "child": "RHX_RunChain", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E50.blk7", "child": "RHX_RunSplit", "via": ["statement"]}
-{"parent": "PI.OddDualWeyl.highest_weight_multiplicity", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_HighestWeightMultiplicity", "via": ["statement"]}
-{"parent": "PI.OddDualWeyl.highest_weight_multiplicity", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_JacRev", "via": ["statement"]}
+{"parent": "PI.OddDualWeyl.highest_weight_multiplicity", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_HighestWeightMultiplicity", "via": ["solution", "statement"]}
+{"parent": "PI.OddDualWeyl.highest_weight_multiplicity", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_JacRev", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_TrdegAdjoin_ringKrullDim_quotient_ker_39672f46aed5", "child": "ReciprocityTheory_CommutativeAlgebra_PolynomialHeights_HeightAddRingKrullDimQuotientMvPolynomialField", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_TrdegAdjoin_ringKrullDim_quotient_ker_39672f46aed5", "child": "GroundTheory_HeightsAndTheta_Heights_WeightedHomogeneous_IsAlgebraicAdjoinRangeIff", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_TrdegAdjoin_ringKrullDim_quotient_ker_39672f46aed5", "child": "ReciprocityTheory_AnalyticForms_RegularLocalRings_IntToRat", "via": ["statement"]}
@@ -91932,8 +91932,8 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_StrongApproximation_PPlaceMaps", "child": "GroundTheory_HeightsAndTheta_Heights_StrongApproximation_Statements", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_finite_support_blockFin_1d8804ad44af", "child": "GroundTheory_HeightsAndTheta_Heights_HeightsOfSets_Comparison", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_finite_support_blockFin_1d8804ad44af", "child": "GroundTheory_HeightsAndTheta_Heights_HeightsOfSets_FiniteSupportHeight", "via": ["solution", "statement"]}
-{"parent": "PI.FockOneDegW.hwExist", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockDegreeOne_HighestWeightExists", "via": ["statement"]}
-{"parent": "PI.FockOneDegW.hwExist", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockDegreeOne_CoeffXMulPderivSelf", "via": ["statement"]}
+{"parent": "PI.FockOneDegW.hwExist", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockDegreeOne_HighestWeightExists", "via": ["solution", "statement"]}
+{"parent": "PI.FockOneDegW.hwExist", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockDegreeOne_CoeffXMulPderivSelf", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_StandardDualModelTranscendence_scale_emb_295f67d8befc", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_DualStdModelField", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_StandardDualModelTranscendence_scale_emb_295f67d8befc", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PDualStdModelTransc", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_StandardDualModelTranscendence_scale_emb_295f67d8befc", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PDualArithVar", "via": ["solution", "statement"]}
@@ -92060,10 +92060,10 @@
 {"parent": "RegMT.Classif.Supplement.theorem_3_30", "child": "RegMT_Classif_Supplement_Neural", "via": ["statement"]}
 {"parent": "Erdos1219.le_two_pow_self", "child": "Erdos1219_CardinalLemmas", "via": ["solution", "statement"]}
 {"parent": "Erdos1219.le_two_pow_self", "child": "Erdos1219_Defs", "via": ["solution", "statement"]}
-{"parent": "PI.FockOneDegW.fock_kernel_adjoint", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockDegreeOne_FockOperatorsKernel", "via": ["statement"]}
-{"parent": "PI.FockOneDegW.fock_kernel_adjoint", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockDegreeOne_RedDefs", "via": ["statement"]}
-{"parent": "PI.FockOneDegW.fock_kernel_adjoint", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_FockRaiseLow", "via": ["statement"]}
-{"parent": "PI.FockOneDegW.fock_kernel_adjoint", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockDegreeOne_RedOps", "via": ["statement"]}
+{"parent": "PI.FockOneDegW.fock_kernel_adjoint", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockDegreeOne_FockOperatorsKernel", "via": ["solution", "statement"]}
+{"parent": "PI.FockOneDegW.fock_kernel_adjoint", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockDegreeOne_RedDefs", "via": ["solution", "statement"]}
+{"parent": "PI.FockOneDegW.fock_kernel_adjoint", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_FockRaiseLow", "via": ["solution", "statement"]}
+{"parent": "PI.FockOneDegW.fock_kernel_adjoint", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockDegreeOne_RedOps", "via": ["solution", "statement"]}
 {"parent": "PI.OddDualWeyl.LowA.expo_castSucc", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_HighestWeightDualOf", "via": ["solution", "statement"]}
 {"parent": "PI.OddDualWeyl.LowA.expo_castSucc", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_MnrUpdateEqZero", "via": ["solution", "statement"]}
 {"parent": "PI.OddDualWeyl.LowA.expo_castSucc", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_JacRev", "via": ["solution", "statement"]}
@@ -95298,9 +95298,9 @@
 {"parent": "PositivityTheory.ThKG.Std.prod_mid", "child": "Development_WeilBound_ThetaLifts_LocalTheory_StandardValuations_SplitProd", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.exists_periodic_smooth_coboundary_of_cech_cocycle", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_PeriodicCechCocycleSmoothCoboundary", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.exists_periodic_smooth_coboundary_of_cech_cocycle", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_PeriodicCechCocycleSmoothCoboundaryStatement", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.T.thetaConstantTerm_representative_dependence", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_ThetaConstantTermRepresentativeDependence", "via": ["statement"]}
-{"parent": "GlobalTheory.T.thetaConstantTerm_representative_dependence", "child": "Development_AbelianVarietyTheory_Definitions_Degenerations_SepticCharacterInjective", "via": ["statement"]}
-{"parent": "GlobalTheory.T.thetaConstantTerm_representative_dependence", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_ThetaConstantTermRepresentativeDependenceStatement", "via": ["statement"]}
+{"parent": "GlobalTheory.T.thetaConstantTerm_representative_dependence", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_ThetaConstantTermRepresentativeDependence", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.thetaConstantTerm_representative_dependence", "child": "Development_AbelianVarietyTheory_Definitions_Degenerations_SepticCharacterInjective", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.thetaConstantTerm_representative_dependence", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_ThetaConstantTermRepresentativeDependenceStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.riemannThetaTerm_zero_zero", "child": "ReciprocityTheory_ThetaQuasiPeriods_PeriodLattice", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.riemannThetaTerm_zero_zero", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_ExistsEventuallyNormRiemannThetaTermLe", "via": ["solution", "statement"]}
 {"parent": "NegativeDP.EssFinite.Supplement.theorem84", "child": "NegativeDP_EssFinite_Supplement_Model", "via": ["statement"]}
@@ -95581,9 +95581,9 @@
 {"parent": "GlobalTheory.ClassMin.finite_sublevel", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_ExistsEventuallyNormRiemannThetaTermLe", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ClassMin.finite_sublevel", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_EqOfIsMinInClassTwoOfSameClassFour", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.ThKCT.Arch.peetre", "child": "Development_WeilBound_ThetaLifts_SmallCones_SliceArch", "via": ["solution", "statement"]}
-{"parent": "PI.OddDualWeyl.evalDuality", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_AevalMulHomog", "via": ["statement"]}
-{"parent": "PI.OddDualWeyl.evalDuality", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_JacRev", "via": ["statement"]}
-{"parent": "PI.OddDualWeyl.evalDuality", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_EvalDuality", "via": ["statement"]}
+{"parent": "PI.OddDualWeyl.evalDuality", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_AevalMulHomog", "via": ["solution", "statement"]}
+{"parent": "PI.OddDualWeyl.evalDuality", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_JacRev", "via": ["solution", "statement"]}
+{"parent": "PI.OddDualWeyl.evalDuality", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_OddDualWeylJacobian_EvalDuality", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Key.Chi.eJ_symm", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SymplecticGenerators_SymplecticCharacters_GenBase", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Key.Chi.eJ_symm", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SymplecticGenerators_SymplecticCharacters_SpGenStatement", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.ThKEst.UMGS.contDiff_tail", "child": "Development_WeilBound_ThetaLifts_FrameEstimates_UMGSmoothA", "via": ["solution", "statement"]}
@@ -97907,7 +97907,7 @@
 {"parent": "PositivityTheory.Rg.Cz.TGK.prod_split", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_PTensorGKA", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Cz.TGK.prod_split", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_LiftCommEAt", "via": ["solution", "statement"]}
 {"parent": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_ExpGOPf", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_BqOriginSt", "via": ["statement"]}
-{"parent": "PI.FJMX.deriv_det_eq_zero_rows", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_ExistGen", "via": ["statement"]}
+{"parent": "PI.FJMX.deriv_det_eq_zero_rows", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_ExistGen", "via": ["solution", "statement"]}
 {"parent": "PI.FHS.fockInner_hc_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockHarmonicSplitting_FockInnerSelfReNonneg", "via": ["solution", "statement"]}
 {"parent": "PI.FHS.fockInner_hc_left", "child": "Formalism_PeriodIntegrals_JointBlockShapes_MinusPart", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.restrictFixed_apply", "child": "GroundTheory_AutomorphicForms_SmoothRep", "via": ["solution", "statement"]}

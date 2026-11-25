@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_projA_inX
 -- name    : PI.OneCosetSharp.W.projA_inX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:16:26.520947+00:00
 -- url     : https://prove2.me/theorems/0c2f9f86-caad-5b3b-84b8-ca27fe57a4b9

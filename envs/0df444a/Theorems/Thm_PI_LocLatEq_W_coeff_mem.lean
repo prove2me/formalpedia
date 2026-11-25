@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocLatEq_W_coeff_mem
 -- name    : PI.LocLatEq.W.coeff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:15:23.849778+00:00
 -- url     : https://prove2.me/theorems/cc95dae5-a934-4c05-923d-57befc90fe93

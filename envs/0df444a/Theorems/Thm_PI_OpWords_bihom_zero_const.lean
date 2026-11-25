@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_bihom_zero_const
 -- name    : PI.OpWords.bihom_zero_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:17:13.329304+00:00
 -- url     : https://prove2.me/theorems/31a77e2d-be8b-4f55-a29f-b0b84e23821e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglTriFactor_Wk_constantCoeff_liftedThirdRoot
 -- name    : PI.FglTriFactor.Wk.constantCoeff_liftedThirdRoot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:55:58.25912+00:00
 -- url     : https://prove2.me/theorems/6275e112-0832-4043-894b-27a4bb2126f6

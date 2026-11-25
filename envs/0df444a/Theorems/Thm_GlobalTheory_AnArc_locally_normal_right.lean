@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_locally_normal_right
 -- name    : GlobalTheory.AnArc.locally_normal_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:26:51.68235+00:00
 -- url     : https://prove2.me/theorems/b21de759-adf1-432d-89ee-50cbb5766e8b

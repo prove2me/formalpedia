@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_EpF_differentIdeal_eq_top
 -- name    : PI.LocDualGen.EpF.differentIdeal_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:34:38.852063+00:00
 -- url     : https://prove2.me/theorems/d9143e28-e920-5952-86c1-915963b0302c

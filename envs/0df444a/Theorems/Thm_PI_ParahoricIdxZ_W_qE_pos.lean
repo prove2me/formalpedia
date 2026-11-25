@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ParahoricIdxZ_W_qE_pos
 -- name    : PI.ParahoricIdxZ.W.qE_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:36:03.523073+00:00
 -- url     : https://prove2.me/theorems/4e8ce9fe-fa08-4f35-aeae-e072146baa12

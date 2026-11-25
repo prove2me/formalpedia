@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocCartanPair_hypE_idem
 -- name    : PI.LocCartanPair.hypE_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:08.853647+00:00
 -- url     : https://prove2.me/theorems/fe6dd83a-84f9-4d04-85ca-09dd771c91f7

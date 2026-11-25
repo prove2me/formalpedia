@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinOrdRedOne_Core_pdvd_sum
 -- name    : PI.FinOrdRedOne.Core.pdvd_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:48.353826+00:00
 -- url     : https://prove2.me/theorems/173913eb-4242-4556-b72e-c368f6b40ef7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_NO_eps
 -- name    : PI.KLW.NO.eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:43:57.806802+00:00
 -- url     : https://prove2.me/theorems/0cba3733-5683-46d7-80a1-bac06ddbbf7b

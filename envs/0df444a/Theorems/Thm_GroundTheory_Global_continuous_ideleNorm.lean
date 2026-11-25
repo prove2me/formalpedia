@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_continuous_ideleNorm
 -- name    : GroundTheory.Global.continuous_ideleNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:23:05.068874+00:00
 -- url     : https://prove2.me/theorems/e78453b2-3172-45d7-b90e-cf3dab464c56

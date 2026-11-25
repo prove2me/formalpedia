@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsotropicReflections_hpk_e_col
 -- name    : PI.IsotropicReflections.hpk_e_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:13:52.505964+00:00
 -- url     : https://prove2.me/theorems/981ab5d0-b1f5-507a-8665-e30983c42228

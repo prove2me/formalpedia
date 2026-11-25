@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AutLzFinite_SlopeTestRemainingChoices_indSet_finite
 -- name    : PI.AutLzFinite.SlopeTestRemainingChoices.indSet_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:24:19.611645+00:00
 -- url     : https://prove2.me/theorems/eddab791-9d34-472e-aa5b-d8bb37aa6c4d

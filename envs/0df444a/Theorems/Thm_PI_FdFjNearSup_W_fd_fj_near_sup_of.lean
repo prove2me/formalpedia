@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FdFjNearSup_W_fd_fj_near_sup_of
 -- name    : PI.FdFjNearSup.W.fd_fj_near_sup_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:29:34.230827+00:00
 -- url     : https://prove2.me/theorems/54f843c5-f78f-440b-b697-7ebd4e907bd9

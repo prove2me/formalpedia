@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_isLat_std
 -- name    : PI.IsoDetW.Loc.isLat_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:08:58.026911+00:00
 -- url     : https://prove2.me/theorems/a5e6f8e8-6248-42aa-b592-63bdd39af514

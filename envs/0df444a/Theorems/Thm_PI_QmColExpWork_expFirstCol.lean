@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QmColExpWork_expFirstCol
 -- name    : PI.QmColExpWork.expFirstCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:18:09.505546+00:00
 -- url     : https://prove2.me/theorems/88b6b263-c76c-4b4d-869c-145fbc70d7d9

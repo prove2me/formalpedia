@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Ind_zero_mem_of
 -- name    : PI.KLW.Ind.zero_mem_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:42:01.626188+00:00
 -- url     : https://prove2.me/theorems/1c1ee6f2-af5c-4c79-b562-0cd5c9f4cf67

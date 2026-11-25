@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QmSkipWork_skipSucc2
 -- name    : PI.QmSkipWork.skipSucc2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:17:22.358995+00:00
 -- url     : https://prove2.me/theorems/f4772be3-e12b-4703-8a0f-82353a367f0d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglShared_exists_coeff_ne
 -- name    : PI.FglShared.exists_coeff_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:27:02.286122+00:00
 -- url     : https://prove2.me/theorems/49e623d8-b673-4672-9033-b8d918fb3ed3

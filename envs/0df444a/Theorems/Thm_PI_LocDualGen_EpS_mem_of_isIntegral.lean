@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_EpS_mem_of_isIntegral
 -- name    : PI.LocDualGen.EpS.mem_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:11.033885+00:00
 -- url     : https://prove2.me/theorems/aad7890b-911e-46ae-a74a-249165cf198b

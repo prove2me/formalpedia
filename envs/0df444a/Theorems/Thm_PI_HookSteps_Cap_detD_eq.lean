@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_Cap_detD_eq
 -- name    : PI.HookSteps.Cap.detD_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:08:49.512218+00:00
 -- url     : https://prove2.me/theorems/8146a3c8-79b6-528b-9462-8049ab2144e8

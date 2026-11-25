@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_idx_smulSub_int
 -- name    : PI.Dv.TIW.idx_smulSub_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:31.709212+00:00
 -- url     : https://prove2.me/theorems/cb1dd65c-1016-427e-a92f-03dd25601982

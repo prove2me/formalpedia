@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NRL_row_elim
 -- name    : PI.NRL.row_elim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:22.641286+00:00
 -- url     : https://prove2.me/theorems/57292d53-e6fd-4a8b-a451-b86cd0124879

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMirBoundW_stepOf
 -- name    : PI.GGMirBoundW.stepOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:30:43.081098+00:00
 -- url     : https://prove2.me/theorems/2de53117-4ea0-4a67-a951-dc37748696dd

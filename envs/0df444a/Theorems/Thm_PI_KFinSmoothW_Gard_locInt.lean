@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KFinSmoothW_Gard_locInt
 -- name    : PI.KFinSmoothW.Gard.locInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:33:23.228291+00:00
 -- url     : https://prove2.me/theorems/1f30a14d-9fe4-5133-82ad-35c66865a558

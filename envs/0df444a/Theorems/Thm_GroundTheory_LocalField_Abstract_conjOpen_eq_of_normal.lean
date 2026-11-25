@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_conjOpen_eq_of_normal
 -- name    : GroundTheory.LocalField.Abstract.conjOpen_eq_of_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:50:06.166823+00:00
 -- url     : https://prove2.me/theorems/5c9fa753-2bea-5af5-b1e3-0e4fd78fb167

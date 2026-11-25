@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_NO_key_id
 -- name    : PI.KLW.NO.key_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:34:49.227668+00:00
 -- url     : https://prove2.me/theorems/1bfffcb9-2429-5a62-97eb-cfd28f250905

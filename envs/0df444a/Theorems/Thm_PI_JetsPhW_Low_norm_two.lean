@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Low_norm_two
 -- name    : PI.JetsPhW.Low.norm_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:11:11.854403+00:00
 -- url     : https://prove2.me/theorems/2f698bea-8b35-4474-b13d-ec903d51e695

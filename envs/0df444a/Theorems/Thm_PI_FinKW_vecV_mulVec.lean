@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinKW_vecV_mulVec
 -- name    : PI.FinKW.vecV_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:31:15.318394+00:00
 -- url     : https://prove2.me/theorems/8b4745e2-5223-4dbf-b506-b97b36aa729b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HtPlacesSumWork_plOf_injective
 -- name    : PI.HtPlacesSumWork.plOf_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:07:13.987456+00:00
 -- url     : https://prove2.me/theorems/8a1129c0-ea4b-51c0-9c6c-fb8bf5ca6731

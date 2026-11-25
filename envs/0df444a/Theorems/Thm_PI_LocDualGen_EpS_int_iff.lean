@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_EpS_int_iff
 -- name    : PI.LocDualGen.EpS.int_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:19.0078+00:00
 -- url     : https://prove2.me/theorems/3ae98d63-d593-4ab5-8a24-18947825be59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PrimesDyadicRS_W_floor_half
 -- name    : PI.PrimesDyadicRS.W.floor_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:36:31.323964+00:00
 -- url     : https://prove2.me/theorems/e100ed89-1313-55a6-83ac-754460aabc11

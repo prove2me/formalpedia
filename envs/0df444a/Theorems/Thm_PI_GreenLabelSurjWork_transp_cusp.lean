@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelSurjWork_transp_cusp
 -- name    : PI.GreenLabelSurjWork.transp_cusp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:16:01.216923+00:00
 -- url     : https://prove2.me/theorems/3d2436af-7f47-45d8-9c85-553fa9dfc382

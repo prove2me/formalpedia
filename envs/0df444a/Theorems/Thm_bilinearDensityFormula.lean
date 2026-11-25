@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_bilinearDensityFormula
 -- name    : bilinearDensityFormula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:24:03.772247+00:00
 -- url     : https://prove2.me/theorems/4a3afe96-320f-42e8-9078-8a952c0110c4

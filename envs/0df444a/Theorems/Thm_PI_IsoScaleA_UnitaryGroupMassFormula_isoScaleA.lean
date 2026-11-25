@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoScaleA_UnitaryGroupMassFormula_isoScaleA
 -- name    : PI.IsoScaleA.UnitaryGroupMassFormula.isoScaleA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:08:49.704172+00:00
 -- url     : https://prove2.me/theorems/03deebd0-bf72-4309-89c4-b7b6c0cc1bf7

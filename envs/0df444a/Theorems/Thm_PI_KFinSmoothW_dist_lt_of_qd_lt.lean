@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KFinSmoothW_dist_lt_of_qd_lt
 -- name    : PI.KFinSmoothW.dist_lt_of_qd_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:32:51.585364+00:00
 -- url     : https://prove2.me/theorems/5ce607e7-e94d-4cb1-8007-4ac70c276d61

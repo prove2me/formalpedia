@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhenToTrustYourModel_mbpo_performance_bound
 -- name    : WhenToTrustYourModel.mbpo_performance_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:22:49.479609+00:00
 -- url     : https://prove2.me/theorems/089f19f7-0f88-4cc7-8ed8-8590f3d167cf

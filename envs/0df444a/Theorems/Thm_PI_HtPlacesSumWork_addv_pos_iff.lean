@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HtPlacesSumWork_addv_pos_iff
 -- name    : PI.HtPlacesSumWork.addv_pos_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:34:40.598086+00:00
 -- url     : https://prove2.me/theorems/e03b33a7-55d1-4fad-815d-9cfa940acc43

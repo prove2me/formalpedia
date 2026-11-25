@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QmRowExpWork_cycle_perm_succ
 -- name    : PI.QmRowExpWork.cycle_perm_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:17:34.856924+00:00
 -- url     : https://prove2.me/theorems/792fce3a-9019-4a11-8ef9-723c6ef847e6

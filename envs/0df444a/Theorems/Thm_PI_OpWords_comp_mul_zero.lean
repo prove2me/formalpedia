@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_comp_mul_zero
 -- name    : PI.OpWords.comp_mul_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:16:56.23594+00:00
 -- url     : https://prove2.me/theorems/7d6b869e-6e0e-5fc5-bda1-8a64c4a28912

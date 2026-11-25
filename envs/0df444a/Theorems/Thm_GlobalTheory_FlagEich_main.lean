@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagEich_main
 -- name    : GlobalTheory.FlagEich.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:38:32.747741+00:00
 -- url     : https://prove2.me/theorems/34d19d04-c954-441b-a06b-fe456ca96f43

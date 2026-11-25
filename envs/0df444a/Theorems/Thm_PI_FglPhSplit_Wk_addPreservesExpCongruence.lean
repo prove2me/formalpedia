@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglPhSplit_Wk_addPreservesExpCongruence
 -- name    : PI.FglPhSplit.Wk.addPreservesExpCongruence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:53.148423+00:00
 -- url     : https://prove2.me/theorems/731ebe8e-1c46-4c2c-82fa-0ba0791d5cd7

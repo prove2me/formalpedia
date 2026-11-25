@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMD_shapeVector_ne_zero
 -- name    : PI.FJMD.shapeVector_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:09.901659+00:00
 -- url     : https://prove2.me/theorems/6803fa38-94be-46f9-a20e-c1f6ef217ccb

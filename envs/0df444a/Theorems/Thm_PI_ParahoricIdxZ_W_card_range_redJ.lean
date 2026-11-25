@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ParahoricIdxZ_W_card_range_redJ
 -- name    : PI.ParahoricIdxZ.W.card_range_redJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:36:18.473173+00:00
 -- url     : https://prove2.me/theorems/e9dce92d-5c13-4ef0-b700-0a8f059839a6

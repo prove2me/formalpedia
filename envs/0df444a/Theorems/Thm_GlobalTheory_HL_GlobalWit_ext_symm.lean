@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GlobalWit_ext_symm
 -- name    : GlobalTheory.HL.GlobalWit.ext_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:45:28.60133+00:00
 -- url     : https://prove2.me/theorems/30084541-15d0-4086-b999-d7786180e102

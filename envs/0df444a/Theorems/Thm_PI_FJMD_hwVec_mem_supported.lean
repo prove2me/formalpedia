@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMD_hwVec_mem_supported
 -- name    : PI.FJMD.hwVec_mem_supported
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:36.972941+00:00
 -- url     : https://prove2.me/theorems/0f6c6449-8526-4d0c-9bdd-83a41da7d782

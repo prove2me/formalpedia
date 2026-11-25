@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Low_expX_ne_expY
 -- name    : PI.JetsPhW.Low.expX_ne_expY
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:12:38.01606+00:00
 -- url     : https://prove2.me/theorems/491df912-b743-58be-8418-f96910c6504c

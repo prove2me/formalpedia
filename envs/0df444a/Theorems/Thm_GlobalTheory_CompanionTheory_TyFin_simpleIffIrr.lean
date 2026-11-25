@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_simpleIffIrr
 -- name    : GlobalTheory.CompanionTheory.TyFin.simpleIffIrr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:14:33.365564+00:00
 -- url     : https://prove2.me/theorems/c6b318c1-eddb-4760-8fa6-8a7261d51f82

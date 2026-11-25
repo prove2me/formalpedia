@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_relativeLength_localized_pow
 -- name    : PI.IsoDetW.Loc.relativeLength_localized_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:08:46.896848+00:00
 -- url     : https://prove2.me/theorems/6651ecf9-b793-442f-be7e-2db0ac7f3103

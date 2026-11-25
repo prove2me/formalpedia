@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_sub_one_dvd_coeff_zero
 -- name    : GroundTheory.PAdicHodge.AInf.sub_one_dvd_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:46:25.751163+00:00
 -- url     : https://prove2.me/theorems/90513794-74fa-4501-bcd0-b0560fd52681

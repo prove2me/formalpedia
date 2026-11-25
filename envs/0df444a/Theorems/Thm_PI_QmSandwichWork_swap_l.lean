@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QmSandwichWork_swap_l
 -- name    : PI.QmSandwichWork.swap_l
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:17:19.919803+00:00
 -- url     : https://prove2.me/theorems/de1a772f-2e3e-4612-a1d9-e54b58a24822

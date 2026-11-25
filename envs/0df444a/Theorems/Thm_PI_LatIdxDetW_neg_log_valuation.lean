@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LatIdxDetW_neg_log_valuation
 -- name    : PI.LatIdxDetW.neg_log_valuation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:33:56.061823+00:00
 -- url     : https://prove2.me/theorems/3ec84dc7-5a7d-4c1f-8ee6-d76134f6f4da

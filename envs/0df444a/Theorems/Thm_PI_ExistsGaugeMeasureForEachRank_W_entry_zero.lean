@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExistsGaugeMeasureForEachRank_W_entry_zero
 -- name    : PI.ExistsGaugeMeasureForEachRank.W.entry_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:18:01.331382+00:00
 -- url     : https://prove2.me/theorems/5d574f1f-8ab4-5ccf-a804-068e0aefdca4

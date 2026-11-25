@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OrbShared_Tri_triangular_solution_stable
 -- name    : PI.OrbShared.Tri.triangular_solution_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:35:40.152807+00:00
 -- url     : https://prove2.me/theorems/f406a51c-4573-414e-b7fb-aada79b54566

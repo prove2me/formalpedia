@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_KLW_Pair_add_mem__5e06d2fd9611
 -- name    : P2M_PI_KLW_Pair_add_mem__5e06d2fd9611
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:56:39.311607+00:00
 -- url     : https://prove2.me/theorems/aa290460-6bd5-4aec-a621-0d731b5ce27e

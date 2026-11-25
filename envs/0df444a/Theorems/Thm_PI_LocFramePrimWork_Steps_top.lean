@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_Steps_top
 -- name    : PI.LocFramePrimWork.Steps_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:13:21.537792+00:00
 -- url     : https://prove2.me/theorems/c3e7ef01-1836-5188-a8e5-7140c92c5dfc

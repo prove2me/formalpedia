@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoInvMetricW_stab_of
 -- name    : PI.IsoInvMetricW.stab_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:09:21.483537+00:00
 -- url     : https://prove2.me/theorems/fd69bec6-a196-5f48-baa5-2a27182f2cc8

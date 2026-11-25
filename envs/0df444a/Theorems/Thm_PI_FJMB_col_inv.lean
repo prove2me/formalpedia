@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMB_col_inv
 -- name    : PI.FJMB.col_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:48.821373+00:00
 -- url     : https://prove2.me/theorems/4c5cee5e-f587-5535-91fe-9849ec46758d

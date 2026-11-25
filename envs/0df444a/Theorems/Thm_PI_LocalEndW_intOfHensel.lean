@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocalEndW_intOfHensel
 -- name    : PI.LocalEndW.intOfHensel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:34:45.829129+00:00
 -- url     : https://prove2.me/theorems/1df8c1f0-55b5-5511-b91d-ffec672fc726

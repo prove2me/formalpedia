@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PowBddIntWork_stepB
 -- name    : PI.PowBddIntWork.stepB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:40.010849+00:00
 -- url     : https://prove2.me/theorems/f3bf7ee3-aaa7-4a13-ab32-55f15ebe10b1

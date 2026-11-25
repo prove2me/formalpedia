@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Ind_exists_refl
 -- name    : PI.KLW.Ind.exists_refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:34:01.884056+00:00
 -- url     : https://prove2.me/theorems/7ce341dc-a0c0-5283-9726-39d43be02ce5

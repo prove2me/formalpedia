@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_GramDeterminantPositive_sum_piv
 -- name    : PI.DvRows.GramDeterminantPositive.sum_piv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:23:41.859658+00:00
 -- url     : https://prove2.me/theorems/bbf322ad-c1db-4db7-82b7-a7df0af802a7

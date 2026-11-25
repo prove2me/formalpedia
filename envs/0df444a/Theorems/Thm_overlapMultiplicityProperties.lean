@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_overlapMultiplicityProperties
 -- name    : overlapMultiplicityProperties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:23:51.774973+00:00
 -- url     : https://prove2.me/theorems/34d655f1-08c2-4708-aefb-453b0202a3c6

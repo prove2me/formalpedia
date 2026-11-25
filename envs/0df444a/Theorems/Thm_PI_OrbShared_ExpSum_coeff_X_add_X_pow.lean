@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OrbShared_ExpSum_coeff_X_add_X_pow
 -- name    : PI.OrbShared.ExpSum.coeff_X_add_X_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:16:38.470516+00:00
 -- url     : https://prove2.me/theorems/2ef1a1c4-49a1-42ea-bd4d-14381e00042c

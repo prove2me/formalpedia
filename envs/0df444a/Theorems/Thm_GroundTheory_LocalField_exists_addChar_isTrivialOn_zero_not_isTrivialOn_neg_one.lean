@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_addChar_isTrivialOn_zero_not_isTrivialOn_neg_one
 -- name    : GroundTheory.LocalField.exists_addChar_isTrivialOn_zero_not_isTrivialOn_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:23:51.05124+00:00
 -- url     : https://prove2.me/theorems/8d28510a-75e5-4a2b-9bd1-02e6c27c01f9

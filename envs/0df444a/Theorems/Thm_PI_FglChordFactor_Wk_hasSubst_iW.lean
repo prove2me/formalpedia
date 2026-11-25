@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglChordFactor_Wk_hasSubst_iW
 -- name    : PI.FglChordFactor.Wk.hasSubst_iW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:39:07.020244+00:00
 -- url     : https://prove2.me/theorems/38db9ff7-b090-53cb-b286-85a16d850bf5

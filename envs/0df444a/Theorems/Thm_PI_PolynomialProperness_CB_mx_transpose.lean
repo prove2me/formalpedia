@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CB_mx_transpose
 -- name    : PI.PolynomialProperness.CB.mx_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:56.081866+00:00
 -- url     : https://prove2.me/theorems/f81cc91c-9da3-5d74-a0b1-a09a7133a456

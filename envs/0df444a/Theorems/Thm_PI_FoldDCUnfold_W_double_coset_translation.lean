@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FoldDCUnfold_W_double_coset_translation
 -- name    : PI.FoldDCUnfold.W.double_coset_translation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:26:42.287842+00:00
 -- url     : https://prove2.me/theorems/667de0c5-1dd7-444f-8616-1c4ff50751f3

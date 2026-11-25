@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocHaarRRW_exists_haar_of_subgroup
 -- name    : PI.LocHaarRRW.exists_haar_of_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:34:50.389581+00:00
 -- url     : https://prove2.me/theorems/ba1de5d4-bc9e-4040-bf6c-a279be4e13cf

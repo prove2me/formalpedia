@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_applyWord_nil
 -- name    : PI.OddDualWeyl.applyWord_nil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:14:16.770721+00:00
 -- url     : https://prove2.me/theorems/f766f201-fbd2-4e04-9a0d-019f1674a884

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GlobalWit_symm_mem_of_maps
 -- name    : GlobalTheory.HL.GlobalWit.symm_mem_of_maps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:47:29.057375+00:00
 -- url     : https://prove2.me/theorems/1c128af4-348e-4734-ab90-9325df70e063

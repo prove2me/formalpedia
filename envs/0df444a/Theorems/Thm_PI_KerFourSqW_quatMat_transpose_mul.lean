@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerFourSqW_quatMat_transpose_mul
 -- name    : PI.KerFourSqW.quatMat_transpose_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:32:55.570932+00:00
 -- url     : https://prove2.me/theorems/ea078443-6d6c-57c0-95d6-13ff564e90da

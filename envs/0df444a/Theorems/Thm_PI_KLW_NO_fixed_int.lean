@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_NO_fixed_int
 -- name    : PI.KLW.NO.fixed_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:43:32.140442+00:00
 -- url     : https://prove2.me/theorems/97303d65-9940-4116-a7cb-04e9b74cfe5c

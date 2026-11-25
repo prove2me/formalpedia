@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDualPair_UnitaryGroupMassFormula_pairL_surjective
 -- name    : PI.IsoDualPair.UnitaryGroupMassFormula.pairL_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:10:17.460614+00:00
 -- url     : https://prove2.me/theorems/94dca646-c34a-4045-a551-293c24a2a76c

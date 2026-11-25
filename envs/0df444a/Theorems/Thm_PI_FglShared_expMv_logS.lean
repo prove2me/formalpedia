@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglShared_expMv_logS
 -- name    : PI.FglShared.expMv_logS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:25:56.533692+00:00
 -- url     : https://prove2.me/theorems/e08fabff-2a8f-4ef5-be94-1de59f29725c

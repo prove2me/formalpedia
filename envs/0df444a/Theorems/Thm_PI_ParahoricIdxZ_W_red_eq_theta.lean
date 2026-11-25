@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ParahoricIdxZ_W_red_eq_theta
 -- name    : PI.ParahoricIdxZ.W.red_eq_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:35:53.066079+00:00
 -- url     : https://prove2.me/theorems/c312f539-05b0-5640-a9e3-a84280261017

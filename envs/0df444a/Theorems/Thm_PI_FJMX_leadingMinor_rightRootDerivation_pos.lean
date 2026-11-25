@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_leadingMinor_rightRootDerivation_pos
 -- name    : PI.FJMX.leadingMinor_rightRootDerivation_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:39.281175+00:00
 -- url     : https://prove2.me/theorems/f7a977e5-7104-4c30-a5e1-06995505042f

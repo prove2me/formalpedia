@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ParahoricIdxZ_W_intProd
 -- name    : PI.ParahoricIdxZ.W.intProd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:35:52.396976+00:00
 -- url     : https://prove2.me/theorems/23080763-a51c-46bf-945c-5185e755c408

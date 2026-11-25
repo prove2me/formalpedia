@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_Dual_retract
 -- name    : PI.LocFramePrimWork.Dual_retract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:17:09.84369+00:00
 -- url     : https://prove2.me/theorems/f6c0cdef-3c3f-4dd1-ac8b-2512f3a5e03f

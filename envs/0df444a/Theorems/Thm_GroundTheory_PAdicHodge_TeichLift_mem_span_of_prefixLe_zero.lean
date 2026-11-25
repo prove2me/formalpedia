@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_mem_span_of_prefixLe_zero
 -- name    : GroundTheory.PAdicHodge.TeichLift.mem_span_of_prefixLe_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:35:41.072108+00:00
 -- url     : https://prove2.me/theorems/2a983fa4-6d5d-4095-b629-c98fd82593f4

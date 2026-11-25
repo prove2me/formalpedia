@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LPI_prV_sigR
 -- name    : PI.LPI.prV_sigR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:33:55.604814+00:00
 -- url     : https://prove2.me/theorems/492bcdae-a34d-5280-b8a8-d2b59f238edb

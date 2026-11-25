@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocalEndW_isAdicComplete
 -- name    : PI.LocalEndW.isAdicComplete
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:34:04.063014+00:00
 -- url     : https://prove2.me/theorems/395cfd2f-7b05-4183-91aa-b18d905a4bf2

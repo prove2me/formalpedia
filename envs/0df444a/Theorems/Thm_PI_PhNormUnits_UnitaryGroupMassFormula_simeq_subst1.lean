@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PhNormUnits_UnitaryGroupMassFormula_simeq_subst1
 -- name    : PI.PhNormUnits.UnitaryGroupMassFormula.simeq_subst1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:35:41.285828+00:00
 -- url     : https://prove2.me/theorems/e9db0ba5-eea5-54f7-97d0-ff54253b964a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_FpU_charP_res
 -- name    : PI.LocDualGen.FpU.charP_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:34:35.352736+00:00
 -- url     : https://prove2.me/theorems/2da28159-5690-40d8-bcdb-a714856ee178

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_ZChartSmul_proof_d6400f85587e
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_ZChartSmul_proof_d6400f85587e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:37:53.11984+00:00
 -- url     : https://prove2.me/theorems/9199201e-2e15-4de3-bd46-1d2fd81391d0

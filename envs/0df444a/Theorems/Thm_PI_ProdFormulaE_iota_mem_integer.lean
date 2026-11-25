@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_iota_mem_integer
 -- name    : PI.ProdFormulaE.iota_mem_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:17:45.297828+00:00
 -- url     : https://prove2.me/theorems/509d1739-6511-42a4-9923-9228476be0aa

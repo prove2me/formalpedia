@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_Xj_inter
 -- name    : GlobalTheory.TateDecomp.Xj_inter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:01:42.314517+00:00
 -- url     : https://prove2.me/theorems/32f9f61e-58ab-4704-ad2d-335710fcfd07

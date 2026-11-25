@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Meas_lattice_borel
 -- name    : PI.LevelKSplit.W.Meas.lattice_borel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:34:45.417988+00:00
 -- url     : https://prove2.me/theorems/210f9095-28e8-4430-864b-3d590660ef8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_logDerivLeft_of
 -- name    : PI.EF.logDerivLeft_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:19.872164+00:00
 -- url     : https://prove2.me/theorems/3017ebed-bd94-5ad0-af30-44da9febfd63

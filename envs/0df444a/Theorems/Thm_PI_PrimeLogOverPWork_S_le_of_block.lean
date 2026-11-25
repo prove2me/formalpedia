@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PrimeLogOverPWork_S_le_of_block
 -- name    : PI.PrimeLogOverPWork.S_le_of_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:18:02.09152+00:00
 -- url     : https://prove2.me/theorems/f9603477-ab87-42bb-acbc-f87ae1c4bd87

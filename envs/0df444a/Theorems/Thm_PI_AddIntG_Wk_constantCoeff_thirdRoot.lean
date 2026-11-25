@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_constantCoeff_thirdRoot
 -- name    : PI.AddIntG.Wk.constantCoeff_thirdRoot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:47:55.394514+00:00
 -- url     : https://prove2.me/theorems/a34c3389-2081-4539-b5b1-6be68f436ac4

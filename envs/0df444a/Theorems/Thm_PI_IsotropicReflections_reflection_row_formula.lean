@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsotropicReflections_reflection_row_formula
 -- name    : PI.IsotropicReflections.reflection_row_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:15:00.592103+00:00
 -- url     : https://prove2.me/theorems/6b9466d1-f71b-4614-9c19-0bcff3847b33

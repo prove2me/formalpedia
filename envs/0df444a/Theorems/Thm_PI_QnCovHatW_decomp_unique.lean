@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovHatW_decomp_unique
 -- name    : PI.QnCovHatW.decomp_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:36:30.555558+00:00
 -- url     : https://prove2.me/theorems/ebcd7464-e968-4c4d-89cb-4f2ab2b07e9f

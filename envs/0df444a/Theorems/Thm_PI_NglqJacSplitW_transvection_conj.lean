@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NglqJacSplitW_transvection_conj
 -- name    : PI.NglqJacSplitW.transvection_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:34:46.822896+00:00
 -- url     : https://prove2.me/theorems/6bed8a0f-18c4-4544-857f-a55b9b8cabe6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_W_cubeDefectFormula_holds
 -- name    : PI.JetsPhW.W.cubeDefectFormula_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:33:39.558993+00:00
 -- url     : https://prove2.me/theorems/f91360b7-978d-5134-9f8a-c7bb9bce78b9

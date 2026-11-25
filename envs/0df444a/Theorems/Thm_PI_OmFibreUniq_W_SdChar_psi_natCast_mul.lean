@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_SdChar_psi_natCast_mul
 -- name    : PI.OmFibreUniq.W.SdChar.psi_natCast_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:37:56.490234+00:00
 -- url     : https://prove2.me/theorems/15bbb08c-7ead-4ab9-b3a3-ffc6bb0f3460

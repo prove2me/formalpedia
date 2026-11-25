@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsotropicReflections_w1_commute_of_mem_Glev
 -- name    : PI.IsotropicReflections.w1_commute_of_mem_Glev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:15:37.058791+00:00
 -- url     : https://prove2.me/theorems/70ff93d4-6a31-50c5-95c7-caea2772042d

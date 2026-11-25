@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_NO_dvd_pow_p
 -- name    : PI.KLW.NO.dvd_pow_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:32:57.230914+00:00
 -- url     : https://prove2.me/theorems/cd27559e-c806-44a5-b3d3-0d5dc7b051db

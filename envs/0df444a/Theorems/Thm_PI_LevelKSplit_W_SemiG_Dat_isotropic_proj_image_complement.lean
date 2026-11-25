@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiG_Dat_isotropic_proj_image_complement
 -- name    : PI.LevelKSplit.W.SemiG.Dat.isotropic_proj_image_complement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:35:19.969655+00:00
 -- url     : https://prove2.me/theorems/01e166bc-0aff-47c5-98d6-e495840f5e5b

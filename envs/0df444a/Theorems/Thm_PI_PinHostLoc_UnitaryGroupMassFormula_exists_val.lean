@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PinHostLoc_UnitaryGroupMassFormula_exists_val
 -- name    : PI.PinHostLoc.UnitaryGroupMassFormula.exists_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:50.533338+00:00
 -- url     : https://prove2.me/theorems/ba2cea3a-86bb-4de9-ba87-bdfc6af76d5a

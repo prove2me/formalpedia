@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerIso_DetOrdW_val_le_one_of_den
 -- name    : PI.KerIso.DetOrdW.val_le_one_of_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:33:19.580738+00:00
 -- url     : https://prove2.me/theorems/de9dae6c-4e59-40fa-ad65-b8162cf535c4

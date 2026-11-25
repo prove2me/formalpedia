@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_sumElim_add_single_inr
 -- name    : PI.OpWords.sumElim_add_single_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:43.826147+00:00
 -- url     : https://prove2.me/theorems/d09e3d9a-3e7d-5b95-a4f6-7851281ce479

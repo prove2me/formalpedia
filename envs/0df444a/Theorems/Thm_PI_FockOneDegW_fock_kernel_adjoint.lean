@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_fock_kernel_adjoint
 -- name    : PI.FockOneDegW.fock_kernel_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:25.969015+00:00
 -- url     : https://prove2.me/theorems/d7270ce8-e900-400f-b9ce-1ce97ed455fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_IdentW_ident_holds
 -- name    : PI.BeDiagZp.IdentW.ident_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:41:15.935997+00:00
 -- url     : https://prove2.me/theorems/ae98299d-81d9-485b-8ad6-826ee4f0f88f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_h_mono
 -- name    : PI.PC.h_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:36:03.482159+00:00
 -- url     : https://prove2.me/theorems/aef80ea6-e308-41e4-84e4-a62b5cf851c5

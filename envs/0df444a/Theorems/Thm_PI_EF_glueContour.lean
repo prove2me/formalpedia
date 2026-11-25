@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_glueContour
 -- name    : PI.EF.glueContour
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:29:26.679579+00:00
 -- url     : https://prove2.me/theorems/f00842c0-629f-4edd-944b-86579d2adfbd

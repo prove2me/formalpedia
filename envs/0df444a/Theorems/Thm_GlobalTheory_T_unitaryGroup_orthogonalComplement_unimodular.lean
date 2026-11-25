@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryGroup_orthogonalComplement_unimodular
 -- name    : GlobalTheory.T.unitaryGroup_orthogonalComplement_unimodular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:57:37.127582+00:00
 -- url     : https://prove2.me/theorems/a0c0f0a7-78fa-4252-9445-5bc958a7c160

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsotropicReflections_diagonal_row_dual_isotropic
 -- name    : PI.IsotropicReflections.diagonal_row_dual_isotropic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:10:12.317174+00:00
 -- url     : https://prove2.me/theorems/b58857b0-acfd-5db9-b9b4-2eecb02b8e22

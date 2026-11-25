@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_line_bound_neg
 -- name    : PI.EF.PK.line_bound_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:28:36.323871+00:00
 -- url     : https://prove2.me/theorems/b65480af-367a-4be2-8e02-b2b4b7ddc340

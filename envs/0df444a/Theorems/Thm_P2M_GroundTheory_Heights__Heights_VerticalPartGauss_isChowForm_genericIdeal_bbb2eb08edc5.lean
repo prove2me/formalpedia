@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VerticalPartGauss_isChowForm_genericIdeal_bbb2eb08edc5
 -- name    : P2M_GroundTheory_Heights__Heights_VerticalPartGauss_isChowForm_genericIdeal_bbb2eb08edc5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:57:50.146554+00:00
 -- url     : https://prove2.me/theorems/84e21227-8747-417a-9838-6bee5b6b3ee3

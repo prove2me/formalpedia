@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocalEndW_henselRoot
 -- name    : PI.LocalEndW.henselRoot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:52:04.725556+00:00
 -- url     : https://prove2.me/theorems/5f6f28cd-58bd-422e-838a-2321b58885ee

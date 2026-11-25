@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_span_map_matV
 -- name    : PI.Dv.TIW.span_map_matV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:19:56.214162+00:00
 -- url     : https://prove2.me/theorems/fe82d8e6-11a6-42a3-9eae-018a4b3d9496

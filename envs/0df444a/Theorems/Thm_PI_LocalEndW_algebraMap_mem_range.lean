@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocalEndW_algebraMap_mem_range
 -- name    : PI.LocalEndW.algebraMap_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:06.039825+00:00
 -- url     : https://prove2.me/theorems/e4b21dd0-49e1-4800-b423-8acc366a9f9b

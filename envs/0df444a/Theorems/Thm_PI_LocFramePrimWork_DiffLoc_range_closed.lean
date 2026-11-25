@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_DiffLoc_range_closed
 -- name    : PI.LocFramePrimWork.DiffLoc_range_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:12:56.667012+00:00
 -- url     : https://prove2.me/theorems/b743ae23-7ed0-5c8f-8388-5ed3db3ab8a3

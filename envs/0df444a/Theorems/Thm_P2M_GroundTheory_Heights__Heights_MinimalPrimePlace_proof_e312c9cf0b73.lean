@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MinimalPrimePlace_proof_e312c9cf0b73
 -- name    : P2M_GroundTheory_Heights__Heights_MinimalPrimePlace_proof_e312c9cf0b73
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:06:47.410457+00:00
 -- url     : https://prove2.me/theorems/c5a6ef29-d135-4f97-a018-9c2f0ce9b9d3

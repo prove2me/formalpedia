@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_MultFromLatWork_inP_conj
 -- name    : PI.MultFromLatWork.inP_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:36:55.171943+00:00
 -- url     : https://prove2.me/theorems/babf9b0e-20c2-49a9-94a0-2f77fc1399fe

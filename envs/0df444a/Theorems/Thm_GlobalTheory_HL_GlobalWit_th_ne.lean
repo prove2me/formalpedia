@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GlobalWit_th_ne
 -- name    : GlobalTheory.HL.GlobalWit.th_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:46:53.075007+00:00
 -- url     : https://prove2.me/theorems/860a957b-002d-495f-ba60-ae6402e972ac

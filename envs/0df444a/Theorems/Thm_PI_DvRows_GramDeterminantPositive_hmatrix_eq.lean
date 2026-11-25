@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_GramDeterminantPositive_hmatrix_eq
 -- name    : PI.DvRows.GramDeterminantPositive.hmatrix_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:31:10.952891+00:00
 -- url     : https://prove2.me/theorems/fdb61d25-551c-5d63-b7b3-043a6203379b

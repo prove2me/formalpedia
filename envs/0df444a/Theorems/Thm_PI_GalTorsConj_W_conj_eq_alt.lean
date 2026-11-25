@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_conj_eq_alt
 -- name    : PI.GalTorsConj.W.conj_eq_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:31:40.852897+00:00
 -- url     : https://prove2.me/theorems/0382e463-7e52-4b16-bf38-c83bbd04a830

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_thetaConstantTerm_representative_dependence
 -- name    : GlobalTheory.T.thetaConstantTerm_representative_dependence
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:03.014347+00:00
 -- url     : https://prove2.me/theorems/14ac1a00-f976-43e9-aa61-b9504b0b8dec

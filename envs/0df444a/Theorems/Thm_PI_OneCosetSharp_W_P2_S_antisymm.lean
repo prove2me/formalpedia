@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_P2_S_antisymm
 -- name    : PI.OneCosetSharp.W.P2.S_antisymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:15:50.81028+00:00
 -- url     : https://prove2.me/theorems/710c006c-f9c7-416e-bf7d-55311adbbad9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_KLW_Pair_smul_mem__4f5cbb083064
 -- name    : P2M_PI_KLW_Pair_smul_mem__4f5cbb083064
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:54:33.766409+00:00
 -- url     : https://prove2.me/theorems/b393236c-479f-4792-853c-f39d0b88a270

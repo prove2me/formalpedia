@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGRatio_pow_gauss_eq_prod
 -- name    : PI.GGRatio.pow_gauss_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:31:09.472804+00:00
 -- url     : https://prove2.me/theorems/6bd8496c-b80e-4670-b943-01e2f0f39ddb

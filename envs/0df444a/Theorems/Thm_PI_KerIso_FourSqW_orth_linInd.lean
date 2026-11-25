@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerIso_FourSqW_orth_linInd
 -- name    : PI.KerIso.FourSqW.orth_linInd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:32.818532+00:00
 -- url     : https://prove2.me/theorems/2f7190a9-b310-5779-b388-d22082e97678

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfG_tube_ratio
 -- name    : PI.AprimeInfG.tube_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:28:16.708711+00:00
 -- url     : https://prove2.me/theorems/11dcb505-854b-40d4-86da-fb3894fde1ef

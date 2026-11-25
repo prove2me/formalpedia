@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OkpW_c_fix_rat
 -- name    : PI.OkpW.c_fix_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:14:46.004644+00:00
 -- url     : https://prove2.me/theorems/af4f1f1e-f77b-43a6-9597-87c2a78a575f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocalEndW_mem_pow_smul_top_iff
 -- name    : PI.LocalEndW.mem_pow_smul_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:34:59.994253+00:00
 -- url     : https://prove2.me/theorems/e60c9ca2-e4d0-41cc-8c89-9156cb76b6e9

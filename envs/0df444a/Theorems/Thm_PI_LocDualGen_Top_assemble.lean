@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_Top_assemble
 -- name    : PI.LocDualGen.Top.assemble
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:35:15.120053+00:00
 -- url     : https://prove2.me/theorems/25ed7526-47b3-5ba3-8a20-0900e704c8a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_GGMatBoundW_prod_formula__2c80237a3610
 -- name    : P2M_PI_GGMatBoundW_prod_formula__2c80237a3610
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:56:38.048707+00:00
 -- url     : https://prove2.me/theorems/4f652c12-3d5e-4e55-8ac3-98479690f13a

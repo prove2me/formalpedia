@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_Wc_mono
 -- name    : PI.OpWords.Wc_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:16:58.965107+00:00
 -- url     : https://prove2.me/theorems/73cf5787-6e6c-4e4c-8248-3398377f17cf

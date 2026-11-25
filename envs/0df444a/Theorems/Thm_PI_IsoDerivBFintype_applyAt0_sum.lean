@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDerivBFintype_applyAt0_sum
 -- name    : PI.IsoDerivBFintype.applyAt0_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:09:14.533015+00:00
 -- url     : https://prove2.me/theorems/e1a0cfe9-8fef-5985-b2d5-99f8aef2d357

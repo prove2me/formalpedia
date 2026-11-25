@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_partA
 -- name    : PI.DvRows.partA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:28:51.247428+00:00
 -- url     : https://prove2.me/theorems/75dc5960-dd64-412c-aa1c-441e52de1a4d

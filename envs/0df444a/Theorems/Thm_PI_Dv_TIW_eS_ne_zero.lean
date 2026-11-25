@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_eS_ne_zero
 -- name    : PI.Dv.TIW.eS_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:06.671149+00:00
 -- url     : https://prove2.me/theorems/ef7aceb0-f4e7-4701-af5f-25cb1f16e2e0

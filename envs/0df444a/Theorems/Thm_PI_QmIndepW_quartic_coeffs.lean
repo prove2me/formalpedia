@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QmIndepW_quartic_coeffs
 -- name    : PI.QmIndepW.quartic_coeffs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:17:08.910425+00:00
 -- url     : https://prove2.me/theorems/28db9c41-97e3-5b6f-9376-75477fccf080

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_mem_Ufl
 -- name    : PI.OneCosetSharp.W.mem_Ufl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:20:12.516714+00:00
 -- url     : https://prove2.me/theorems/37c57770-2809-4e15-9f4e-8750ba7a3be2

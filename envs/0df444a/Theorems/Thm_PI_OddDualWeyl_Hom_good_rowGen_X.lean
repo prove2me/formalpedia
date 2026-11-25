@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Hom_good_rowGen_X
 -- name    : PI.OddDualWeyl.Hom.good_rowGen_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:35:07.820716+00:00
 -- url     : https://prove2.me/theorems/98db44ca-952d-5bab-b5c7-373c96bf85e3

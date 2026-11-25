@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjAW_rk_img
 -- name    : PI.Dv.ProjAW.rk_img
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:28:16.911509+00:00
 -- url     : https://prove2.me/theorems/176ddede-bbb9-48ec-b542-647d8067fbde

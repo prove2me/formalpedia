@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FHS_fockInner_pderiv
 -- name    : PI.FHS.fockInner_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:21:47.356806+00:00
 -- url     : https://prove2.me/theorems/83340be7-add2-407c-8d23-eb98e334374e

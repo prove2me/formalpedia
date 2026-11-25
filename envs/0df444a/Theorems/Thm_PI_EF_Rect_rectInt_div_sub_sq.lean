@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Rect_rectInt_div_sub_sq
 -- name    : PI.EF.Rect.rectInt_div_sub_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:48.339185+00:00
 -- url     : https://prove2.me/theorems/87e810be-e613-4260-bc60-8ccb6279a7c6

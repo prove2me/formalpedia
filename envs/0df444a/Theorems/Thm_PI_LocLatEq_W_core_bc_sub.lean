@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocLatEq_W_core_bc_sub
 -- name    : PI.LocLatEq.W.core_bc_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:15:21.062803+00:00
 -- url     : https://prove2.me/theorems/fa3ec8c7-6a53-48ad-99fb-8c6d22888cb8

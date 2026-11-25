@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HkFin_exists_weak_approx_unit
 -- name    : GlobalTheory.HkFin.exists_weak_approx_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:03:27.592711+00:00
 -- url     : https://prove2.me/theorems/faa82cbf-e85b-4ade-9dc6-0a7376f6d7a1

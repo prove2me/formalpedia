@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerExtCWork_extC
 -- name    : PI.KerExtCWork.extC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:10:09.275724+00:00
 -- url     : https://prove2.me/theorems/b10f868c-9d91-435a-b3c3-20e86cb80833

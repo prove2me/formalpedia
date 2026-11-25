@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KoszulExact_Dc_smul
 -- name    : PI.KoszulExact.Dc_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:33:32.285118+00:00
 -- url     : https://prove2.me/theorems/8fd0ef93-4696-5d8c-9b46-881a41360374

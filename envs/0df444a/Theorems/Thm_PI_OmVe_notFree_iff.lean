@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmVe_notFree_iff
 -- name    : PI.OmVe.notFree_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:28:41.629635+00:00
 -- url     : https://prove2.me/theorems/4d8ba224-b9e0-440d-9a01-e9c8e790d496

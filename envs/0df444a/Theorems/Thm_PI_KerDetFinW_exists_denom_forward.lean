@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerDetFinW_exists_denom_forward
 -- name    : PI.KerDetFinW.exists_denom_forward
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:35:19.940319+00:00
 -- url     : https://prove2.me/theorems/4243098a-828c-512f-9fd8-58a77afda812

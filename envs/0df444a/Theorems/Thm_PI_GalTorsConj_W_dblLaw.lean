@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_dblLaw
 -- name    : PI.GalTorsConj.W.dblLaw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:49:07.183334+00:00
 -- url     : https://prove2.me/theorems/56eb80ff-bc99-4dd2-b836-76a7ec99e34a

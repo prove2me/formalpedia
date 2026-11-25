@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_Assemble_ratTup_last
 -- name    : PI.LocFramePrimWork.Assemble_ratTup_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:35:50.456944+00:00
 -- url     : https://prove2.me/theorems/b71ea346-57d4-4c4a-9db7-a0ea3d46d405

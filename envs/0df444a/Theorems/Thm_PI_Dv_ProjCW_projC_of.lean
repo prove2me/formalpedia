@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjCW_projC_of
 -- name    : PI.Dv.ProjCW.projC_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:13.73116+00:00
 -- url     : https://prove2.me/theorems/a20700cc-5ff0-5115-8b57-e27d615de838

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TotalWeight_sumCls_one_le
 -- name    : GlobalTheory.HL.TotalWeight.sumCls_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:48:37.324859+00:00
 -- url     : https://prove2.me/theorems/098bc5d6-ae17-431e-8b53-ee0769568b5a

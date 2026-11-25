@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_exponential_cell_product
 -- name    : Kyprianou.Ch04.kw47_exponential_cell_product
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T08:39:53.92032+00:00
 -- url     : https://prove2.me/theorems/2b1a3b3f-f2da-4585-b0be-6cfa9c70d14d

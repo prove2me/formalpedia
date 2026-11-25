@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_thick_orbit_selfDual_unramified_lattice
 -- name    : GlobalTheory.T.thick_orbit_selfDual_unramified_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:11:39.091319+00:00
 -- url     : https://prove2.me/theorems/e965ebed-dcec-4275-8fe9-fac81628fcae

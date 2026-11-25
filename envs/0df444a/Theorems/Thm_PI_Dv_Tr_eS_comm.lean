@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_eS_comm
 -- name    : PI.Dv.Tr.eS_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:58:15.789922+00:00
 -- url     : https://prove2.me/theorems/aa87daea-e703-47b1-9a95-fae36f05ab2c

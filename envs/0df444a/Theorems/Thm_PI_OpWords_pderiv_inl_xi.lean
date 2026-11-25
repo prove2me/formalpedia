@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_pderiv_inl_xi
 -- name    : PI.OpWords.pderiv_inl_xi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:20.775731+00:00
 -- url     : https://prove2.me/theorems/7e5ef403-9fd7-4dec-835e-d1b531ffb21a

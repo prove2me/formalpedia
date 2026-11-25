@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Low_rowGen_X
 -- name    : PI.OddDualWeyl.Low.rowGen_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:13:46.741209+00:00
 -- url     : https://prove2.me/theorems/8e88d2d3-7a00-43ab-aef2-11878b99e422

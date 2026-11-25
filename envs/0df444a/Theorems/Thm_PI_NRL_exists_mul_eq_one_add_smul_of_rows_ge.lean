@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NRL_exists_mul_eq_one_add_smul_of_rows_ge
 -- name    : PI.NRL.exists_mul_eq_one_add_smul_of_rows_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:29.939634+00:00
 -- url     : https://prove2.me/theorems/db9e10ab-a841-4b72-b2ed-c563263c579d

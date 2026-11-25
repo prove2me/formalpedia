@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_lamStar_lamStar
 -- name    : PI.OddDualWeyl.lamStar_lamStar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:14:42.373812+00:00
 -- url     : https://prove2.me/theorems/1f5bdbc8-4214-49cf-99dc-4083b6aa38b8

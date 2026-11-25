@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_MSC_initMinor_zero
 -- name    : PI.MSC.initMinor_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:35:10.071532+00:00
 -- url     : https://prove2.me/theorems/97445794-57d2-4c52-9ed8-ed1fa46f571a

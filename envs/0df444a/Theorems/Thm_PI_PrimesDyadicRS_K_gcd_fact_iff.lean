@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PrimesDyadicRS_K_gcd_fact_iff
 -- name    : PI.PrimesDyadicRS.K.gcd_fact_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:36:47.991819+00:00
 -- url     : https://prove2.me/theorems/9b60a998-d54d-4f14-a36f-c354d489ce9e

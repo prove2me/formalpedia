@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_PAdicHodge_TeichLift_exists_add___mul_pow_sub_5a50fafd6f50
 -- name    : P2M_GroundTheory_PAdicHodge_TeichLift_exists_add___mul_pow_sub_5a50fafd6f50
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:54:36.050941+00:00
 -- url     : https://prove2.me/theorems/d53a4117-f313-5d1e-a7cf-51946dc9a973

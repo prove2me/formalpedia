@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_exists_natCast_mul_mem
 -- name    : PI.KLW.exists_natCast_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:33:31.915318+00:00
 -- url     : https://prove2.me/theorems/c6a319a2-81a6-4f8f-896b-df51e6ee87d7

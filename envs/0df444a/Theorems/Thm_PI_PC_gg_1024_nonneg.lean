@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_gg_1024_nonneg
 -- name    : PI.PC.gg_1024_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:11.892906+00:00
 -- url     : https://prove2.me/theorems/86b79a7b-4ab9-5600-be1b-db4041791220

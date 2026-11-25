@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_iterate_frobeniusEquiv_symm_pow
 -- name    : GroundTheory.PAdicHodge.TeichLift.iterate_frobeniusEquiv_symm_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:35:50.196244+00:00
 -- url     : https://prove2.me/theorems/0c4fc001-10f1-47e6-ae5f-75b8387dc97d

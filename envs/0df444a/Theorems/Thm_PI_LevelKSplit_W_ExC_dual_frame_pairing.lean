@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_ExC_dual_frame_pairing
 -- name    : PI.LevelKSplit.W.ExC.dual_frame_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:34:02.498497+00:00
 -- url     : https://prove2.me/theorems/36d1fb94-3379-4851-ae32-a4ef7faf1758

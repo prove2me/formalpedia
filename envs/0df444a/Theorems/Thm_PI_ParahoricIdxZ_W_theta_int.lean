@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ParahoricIdxZ_W_theta_int
 -- name    : PI.ParahoricIdxZ.W.theta_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:35:54.743646+00:00
 -- url     : https://prove2.me/theorems/1588c655-f2a3-577b-8861-d65892db0282

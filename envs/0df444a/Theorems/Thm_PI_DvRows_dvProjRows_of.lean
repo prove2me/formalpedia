@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_dvProjRows_of
 -- name    : PI.DvRows.dvProjRows_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:32:48.108956+00:00
 -- url     : https://prove2.me/theorems/e93286aa-0df7-5842-baa9-18e2e931bbce

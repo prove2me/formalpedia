@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiG_Dat_orthogonal_proj_normal_zero
 -- name    : PI.LevelKSplit.W.SemiG.Dat.orthogonal_proj_normal_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:37:21.162217+00:00
 -- url     : https://prove2.me/theorems/88a378fc-c1a9-5f30-b8e1-1e27b58d0163

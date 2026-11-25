@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TildeTail_proof_fa6492dcadb7
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TildeTail_proof_fa6492dcadb7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:58:16.599624+00:00
 -- url     : https://prove2.me/theorems/2061c668-8f08-4630-a147-3df25e0463ec

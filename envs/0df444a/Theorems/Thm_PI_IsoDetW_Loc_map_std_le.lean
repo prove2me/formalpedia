@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_map_std_le
 -- name    : PI.IsoDetW.Loc.map_std_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:08:53.895451+00:00
 -- url     : https://prove2.me/theorems/8c8cb988-92d2-47b9-ac18-4613e02c2d31

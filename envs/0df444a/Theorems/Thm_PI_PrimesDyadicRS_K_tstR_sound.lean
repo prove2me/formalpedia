@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PrimesDyadicRS_K_tstR_sound
 -- name    : PI.PrimesDyadicRS.K.tstR_sound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:57:16.888357+00:00
 -- url     : https://prove2.me/theorems/ce9175d9-3fc4-4c37-93a4-6328b71ad2b3

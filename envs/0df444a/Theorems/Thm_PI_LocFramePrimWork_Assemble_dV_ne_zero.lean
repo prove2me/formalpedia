@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_Assemble_dV_ne_zero
 -- name    : PI.LocFramePrimWork.Assemble_dV_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:35:21.048428+00:00
 -- url     : https://prove2.me/theorems/b4f39e5a-7614-5264-9bb4-e5195b041e92

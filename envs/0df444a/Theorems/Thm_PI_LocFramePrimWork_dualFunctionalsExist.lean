@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_dualFunctionalsExist
 -- name    : PI.LocFramePrimWork.dualFunctionalsExist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:13:53.250655+00:00
 -- url     : https://prove2.me/theorems/e357caa1-6641-4275-99fe-9b42875e4880

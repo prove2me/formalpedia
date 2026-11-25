@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocCartanPair_splPlane_entry
 -- name    : PI.LocCartanPair.splPlane_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:34:25.206044+00:00
 -- url     : https://prove2.me/theorems/f3584962-e2b9-50d2-af61-629942e1b07f

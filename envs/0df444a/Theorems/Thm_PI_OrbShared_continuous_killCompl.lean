@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OrbShared_continuous_killCompl
 -- name    : PI.OrbShared.continuous_killCompl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:35:30.98081+00:00
 -- url     : https://prove2.me/theorems/6c127cb9-03e8-42f3-b60a-a4aeaa458ec9

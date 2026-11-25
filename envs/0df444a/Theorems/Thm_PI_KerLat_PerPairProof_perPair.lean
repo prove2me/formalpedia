@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerLat_PerPairProof_perPair
 -- name    : PI.KerLat.PerPairProof.perPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:34:11.018802+00:00
 -- url     : https://prove2.me/theorems/55fe4987-dcb6-4d86-956b-1b740b737a8b

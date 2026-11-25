@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_abs_norm_le
 -- name    : PI.Dv.TIW.abs_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:19.728288+00:00
 -- url     : https://prove2.me/theorems/7cbf22b0-ea06-493f-93bb-01fad3a2283e

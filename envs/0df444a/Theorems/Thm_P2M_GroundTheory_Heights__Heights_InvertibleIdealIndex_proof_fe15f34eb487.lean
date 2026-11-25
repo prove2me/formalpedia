@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_InvertibleIdealIndex_proof_fe15f34eb487
 -- name    : P2M_GroundTheory_Heights__Heights_InvertibleIdealIndex_proof_fe15f34eb487
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:40:47.473804+00:00
 -- url     : https://prove2.me/theorems/3c9f087f-f13a-5305-b5ee-df7190210d5f

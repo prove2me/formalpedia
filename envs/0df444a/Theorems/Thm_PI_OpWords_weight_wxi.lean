@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_weight_wxi
 -- name    : PI.OpWords.weight_wxi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:16:29.850217+00:00
 -- url     : https://prove2.me/theorems/77e85eb0-dca2-4ef2-a186-529b714e5649

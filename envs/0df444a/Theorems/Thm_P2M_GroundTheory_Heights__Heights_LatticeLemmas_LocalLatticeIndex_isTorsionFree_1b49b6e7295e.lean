@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLemmas_LocalLatticeIndex_isTorsionFree_1b49b6e7295e
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLemmas_LocalLatticeIndex_isTorsionFree_1b49b6e7295e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:44:41.552437+00:00
 -- url     : https://prove2.me/theorems/0ca00ee0-574e-447f-818b-8ac236eb6c1d

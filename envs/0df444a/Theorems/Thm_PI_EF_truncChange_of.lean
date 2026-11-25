@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_truncChange_of
 -- name    : PI.EF.truncChange_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:04.072839+00:00
 -- url     : https://prove2.me/theorems/bc5a3a1c-e6f9-4798-b98b-6e83c95f5793

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NglqJacSplitW_modF_mul
 -- name    : PI.NglqJacSplitW.modF_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:34:57.032061+00:00
 -- url     : https://prove2.me/theorems/7d2f341a-a858-469e-a3f0-5c6078df5232

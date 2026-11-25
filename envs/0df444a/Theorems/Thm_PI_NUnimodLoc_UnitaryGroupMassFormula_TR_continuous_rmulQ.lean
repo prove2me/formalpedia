@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NUnimodLoc_UnitaryGroupMassFormula_TR_continuous_rmulQ
 -- name    : PI.NUnimodLoc.UnitaryGroupMassFormula.TR.continuous_rmulQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:07.037576+00:00
 -- url     : https://prove2.me/theorems/0d011991-085b-5f20-8e0f-2574aa19a888

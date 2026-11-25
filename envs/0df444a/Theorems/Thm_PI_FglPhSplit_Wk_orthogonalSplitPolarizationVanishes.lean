@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglPhSplit_Wk_orthogonalSplitPolarizationVanishes
 -- name    : PI.FglPhSplit.Wk.orthogonalSplitPolarizationVanishes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:29.415498+00:00
 -- url     : https://prove2.me/theorems/060d64c7-3ead-4508-9347-addf5e374046

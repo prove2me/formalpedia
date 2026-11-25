@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Inv_C_mem_serS
 -- name    : PI.JetsPhW.Inv.C_mem_serS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:12:46.779546+00:00
 -- url     : https://prove2.me/theorems/0dfcf9ae-91c3-5baa-8dde-41d8c44a3e1a

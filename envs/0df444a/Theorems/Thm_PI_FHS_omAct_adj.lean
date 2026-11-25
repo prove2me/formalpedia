@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FHS_omAct_adj
 -- name    : PI.FHS.omAct_adj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:01:04.508908+00:00
 -- url     : https://prove2.me/theorems/e7ff95f3-a33f-4ce5-abf0-0836375bac21

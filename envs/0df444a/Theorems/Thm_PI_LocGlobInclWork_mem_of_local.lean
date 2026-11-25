@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocGlobInclWork_mem_of_local
 -- name    : PI.LocGlobInclWork.mem_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:21:51.154634+00:00
 -- url     : https://prove2.me/theorems/95bdd810-30a8-4d65-8a65-ee3f3abdb3a4

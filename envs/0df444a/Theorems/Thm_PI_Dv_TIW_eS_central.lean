@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_eS_central
 -- name    : PI.Dv.TIW.eS_central
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:53:41.297338+00:00
 -- url     : https://prove2.me/theorems/f191af12-0956-4a90-9b43-f4e7f147c22a

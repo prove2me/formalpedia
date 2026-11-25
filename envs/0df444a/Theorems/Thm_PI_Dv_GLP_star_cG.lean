@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLP_star_cG
 -- name    : PI.Dv.GLP.star_cG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:28:00.809712+00:00
 -- url     : https://prove2.me/theorems/1e220d77-d3cd-5a72-825c-40ebe3100696

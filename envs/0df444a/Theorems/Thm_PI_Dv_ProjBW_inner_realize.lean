@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjBW_inner_realize
 -- name    : PI.Dv.ProjBW.inner_realize
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:28:40.091914+00:00
 -- url     : https://prove2.me/theorems/4bc934ba-b3f6-4935-9849-451f94861887

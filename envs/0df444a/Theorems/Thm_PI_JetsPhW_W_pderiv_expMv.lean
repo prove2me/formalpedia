@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_W_pderiv_expMv
 -- name    : PI.JetsPhW.W.pderiv_expMv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:33:25.655565+00:00
 -- url     : https://prove2.me/theorems/84c46dfd-6117-5e83-8605-ae458bf25be5

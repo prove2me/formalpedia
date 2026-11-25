@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocJacOrd_W_Ar_jac_count
 -- name    : PI.LocJacOrd.W.Ar.jac_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:13:49.200124+00:00
 -- url     : https://prove2.me/theorems/cb4bdc15-9460-5298-a2be-3da3f1c8a5ab

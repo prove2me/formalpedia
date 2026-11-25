@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_Top_trQ_eq
 -- name    : PI.LocDualGen.Top.trQ_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:35:06.660156+00:00
 -- url     : https://prove2.me/theorems/7f61599f-a9a2-44c8-843e-af8ea8e6def4

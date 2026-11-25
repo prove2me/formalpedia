@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_MSC_span_map_le
 -- name    : PI.MSC.span_map_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:24.053538+00:00
 -- url     : https://prove2.me/theorems/2ff56a11-3c43-4e2c-b011-cec9b2c5b043

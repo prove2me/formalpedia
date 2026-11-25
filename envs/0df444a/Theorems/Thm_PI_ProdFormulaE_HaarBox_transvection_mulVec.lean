@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_HaarBox_transvection_mulVec
 -- name    : PI.ProdFormulaE.HaarBox.transvection_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:36:14.088931+00:00
 -- url     : https://prove2.me/theorems/8fef5d48-6540-5c55-ae3c-1ea3786fd866

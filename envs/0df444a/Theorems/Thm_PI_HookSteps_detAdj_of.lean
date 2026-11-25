@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_detAdj_of
 -- name    : PI.HookSteps.detAdj_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:07:53.265949+00:00
 -- url     : https://prove2.me/theorems/a87d8e0d-d7dd-40cb-a3c6-48e37268a9cd

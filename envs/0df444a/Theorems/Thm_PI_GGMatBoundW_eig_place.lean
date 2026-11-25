@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMatBoundW_eig_place
 -- name    : PI.GGMatBoundW.eig_place
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:31:21.682346+00:00
 -- url     : https://prove2.me/theorems/25f95638-3e38-4f32-9ee0-16cf2b3ae503

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_opWords_of
 -- name    : PI.OpWords.opWords_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:38.42419+00:00
 -- url     : https://prove2.me/theorems/2f8b8e5e-2d0a-4aa1-b630-dddbe702903e

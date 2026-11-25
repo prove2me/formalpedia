@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_setIntegral_ordShell_mul
 -- name    : GroundTheory.LocalField.setIntegral_ordShell_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:38:07.007358+00:00
 -- url     : https://prove2.me/theorems/79cc9b6a-83a7-5e79-828b-23ec6fdcdfc2

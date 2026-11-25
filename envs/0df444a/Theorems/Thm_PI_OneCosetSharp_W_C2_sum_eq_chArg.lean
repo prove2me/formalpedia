@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_C2_sum_eq_chArg
 -- name    : PI.OneCosetSharp.W.C2.sum_eq_chArg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:15:43.526943+00:00
 -- url     : https://prove2.me/theorems/9663713f-8940-4451-b9fb-473fa15b98ee

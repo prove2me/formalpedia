@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_mem_untiltField_of_approx
 -- name    : GroundTheory.PAdicHodge.exists_mem_untiltField_of_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:36:25.537037+00:00
 -- url     : https://prove2.me/theorems/60f31795-64c0-5ad1-991a-e3d12be5469e

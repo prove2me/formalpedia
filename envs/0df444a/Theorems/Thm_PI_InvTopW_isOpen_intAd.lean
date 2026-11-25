@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_isOpen_intAd
 -- name    : PI.InvTopW.isOpen_intAd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:08:28.770276+00:00
 -- url     : https://prove2.me/theorems/45af99be-ecdc-41d9-905c-150ca852a895

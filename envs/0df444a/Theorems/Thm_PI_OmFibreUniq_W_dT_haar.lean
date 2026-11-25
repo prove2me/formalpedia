@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_dT_haar
 -- name    : PI.OmFibreUniq.W.dT_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:14:58.876229+00:00
 -- url     : https://prove2.me/theorems/353e078e-05e4-5e29-a17f-22797a7079ef

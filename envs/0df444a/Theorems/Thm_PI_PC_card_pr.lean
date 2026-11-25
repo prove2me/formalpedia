@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_card_pr
 -- name    : PI.PC.card_pr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:35:51.452544+00:00
 -- url     : https://prove2.me/theorems/a6ae3f8a-c398-48d0-b6c0-9cdad341a715

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMatBoundW_exists_irreducible_le
 -- name    : PI.GGMatBoundW.exists_irreducible_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:30.64994+00:00
 -- url     : https://prove2.me/theorems/16467c45-5bd6-4d52-9778-ad5466aedd50

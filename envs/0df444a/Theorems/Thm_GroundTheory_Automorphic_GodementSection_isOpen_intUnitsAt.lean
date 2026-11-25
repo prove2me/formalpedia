@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSection_isOpen_intUnitsAt
 -- name    : GroundTheory.Automorphic.GodementSection.isOpen_intUnitsAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:49:50.737287+00:00
 -- url     : https://prove2.me/theorems/c5d77974-31e1-4799-81ee-b38b5a96d860

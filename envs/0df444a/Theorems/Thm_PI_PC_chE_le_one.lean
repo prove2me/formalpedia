@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_chE_le_one
 -- name    : PI.PC.chE_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:00.374654+00:00
 -- url     : https://prove2.me/theorems/371b73d1-b787-414f-a9a8-1eb75ab1f908

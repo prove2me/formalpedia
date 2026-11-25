@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_rt_order_BA
 -- name    : PI.AddIntG.Wk.rt_order_BA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:22:41.157798+00:00
 -- url     : https://prove2.me/theorems/42def29c-0120-5adc-a968-78d576bbcdc6

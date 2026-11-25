@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_WeightedHomogeneousPolynomialDifferentialWords_divT_one
 -- name    : PI.OpWords.WeightedHomogeneousPolynomialDifferentialWords.divT_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:17:03.74693+00:00
 -- url     : https://prove2.me/theorems/12211a42-2bea-5e01-8518-8c5c63ff743f

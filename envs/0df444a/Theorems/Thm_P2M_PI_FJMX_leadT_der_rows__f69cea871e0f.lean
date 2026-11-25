@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_FJMX_leadT_der_rows__f69cea871e0f
 -- name    : P2M_PI_FJMX_leadT_der_rows__f69cea871e0f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:56:40.503077+00:00
 -- url     : https://prove2.me/theorems/26aaf4a2-754a-4986-a256-679d5c269ecf

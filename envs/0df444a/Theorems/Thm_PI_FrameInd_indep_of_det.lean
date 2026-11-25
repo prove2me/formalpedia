@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_indep_of_det
 -- name    : PI.FrameInd.indep_of_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:31:19.571993+00:00
 -- url     : https://prove2.me/theorems/3257c45d-4723-4e50-a371-571e29153763

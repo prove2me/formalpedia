@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_inc_symm
 -- name    : F6ConvexWindow.inc_symm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:34:52.812194+00:00
 -- url     : https://prove2.me/theorems/964f4a54-8dc7-5df7-8d67-d1aff1765444

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiA_stabilizer_fixes_tail_coords
 -- name    : PI.LevelKSplit.W.SemiA.stabilizer_fixes_tail_coords
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:33:48.926031+00:00
 -- url     : https://prove2.me/theorems/99dd2dd4-af91-40aa-81f3-c9e763877b90

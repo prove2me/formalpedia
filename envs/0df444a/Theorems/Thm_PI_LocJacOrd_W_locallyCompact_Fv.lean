@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocJacOrd_W_locallyCompact_Fv
 -- name    : PI.LocJacOrd.W.locallyCompact_Fv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:15:18.558516+00:00
 -- url     : https://prove2.me/theorems/d2a6aa5f-e1b8-4518-a437-74265f7fbaf9

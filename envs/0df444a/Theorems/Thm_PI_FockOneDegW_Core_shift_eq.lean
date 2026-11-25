@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Core_shift_eq
 -- name    : PI.FockOneDegW.Core.shift_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:45.590954+00:00
 -- url     : https://prove2.me/theorems/81b11b32-f99a-4b8e-a6e7-dffb8655bed8

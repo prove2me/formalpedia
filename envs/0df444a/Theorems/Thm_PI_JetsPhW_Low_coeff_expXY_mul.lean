@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Low_coeff_expXY_mul
 -- name    : PI.JetsPhW.Low.coeff_expXY_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:31:42.215296+00:00
 -- url     : https://prove2.me/theorems/2e7564f9-bd07-4274-9318-c5fb5e815988

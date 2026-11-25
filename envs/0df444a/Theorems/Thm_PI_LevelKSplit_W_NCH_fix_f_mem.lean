@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_NCH_fix_f_mem
 -- name    : PI.LevelKSplit.W.NCH.fix_f_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:18.144319+00:00
 -- url     : https://prove2.me/theorems/c9d12a98-7ddf-5d09-81bb-70553c54ebed

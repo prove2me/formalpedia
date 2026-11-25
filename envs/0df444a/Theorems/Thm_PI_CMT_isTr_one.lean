@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CMT_isTr_one
 -- name    : PI.CMT.isTr_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:15:44.676675+00:00
 -- url     : https://prove2.me/theorems/d2df01a5-4c09-4c59-9ee1-9caed929fb9a

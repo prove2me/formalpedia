@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_coeff_teich
 -- name    : GroundTheory.PAdicHodge.TeichLift.coeff_teich
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:35:29.686401+00:00
 -- url     : https://prove2.me/theorems/96b0b20e-508d-47f2-a29b-2a5583860bc9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_untiltField_norm_sub_le
 -- name    : GroundTheory.PAdicHodge.exists_untiltField_norm_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:38:46.738608+00:00
 -- url     : https://prove2.me/theorems/e075a614-c03c-4a7a-b2cb-1fb129dc4fee

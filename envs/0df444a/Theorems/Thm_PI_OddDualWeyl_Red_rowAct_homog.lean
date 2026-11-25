@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Red_rowAct_homog
 -- name    : PI.OddDualWeyl.Red.rowAct_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:13:57.237874+00:00
 -- url     : https://prove2.me/theorems/5de6ad4d-bfa6-4b3b-bd3d-ef8a2a3548c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDerivBFintype_cauchyBinet
 -- name    : PI.IsoDerivBFintype.cauchyBinet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:49.626584+00:00
 -- url     : https://prove2.me/theorems/214852a9-090d-43df-ba64-f4fe43ff69d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoInvMetricW_unitVector_val_eq
 -- name    : PI.IsoInvMetricW.unitVector_val_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:30:57.633422+00:00
 -- url     : https://prove2.me/theorems/6d99a5b3-f7af-4ef7-b367-eb84192113f0

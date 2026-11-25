@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_MultFromLatWork_encard_le_of_finset
 -- name    : PI.MultFromLatWork.encard_le_of_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:37.75815+00:00
 -- url     : https://prove2.me/theorems/1d859c4d-b60a-440f-9e2c-1ab2505be7c7

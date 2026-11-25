@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_flagUnipotent_iff_orderedEichlerProduct
 -- name    : GlobalTheory.T.mem_flagUnipotent_iff_orderedEichlerProduct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:46:45.651972+00:00
 -- url     : https://prove2.me/theorems/b90e8e5b-298d-463d-9800-dfa1c3e03b08

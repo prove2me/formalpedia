@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerTens_W_slice_th
 -- name    : PI.KerTens.W.slice_th
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:36:15.773113+00:00
 -- url     : https://prove2.me/theorems/0aee9e9e-9c57-49ce-8abe-c781ce8891d7

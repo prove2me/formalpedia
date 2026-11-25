@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LPI_single_apply
 -- name    : PI.LPI.single_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:34:10.22148+00:00
 -- url     : https://prove2.me/theorems/70450f27-9c76-443d-9941-c012771b513f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiG_Dat_pW_of_isW
 -- name    : PI.LevelKSplit.W.SemiG.Dat.pW_of_isW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:34:44.364185+00:00
 -- url     : https://prove2.me/theorems/12d3ed5e-5b7b-40df-9f1e-2bac4928dfa7

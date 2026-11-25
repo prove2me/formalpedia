@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_MSC_rowLen_eq_zero
 -- name    : PI.MSC.rowLen_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:34:35.233614+00:00
 -- url     : https://prove2.me/theorems/42360998-8db2-4812-9d02-fcf1b3365bb7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Hom_good_add
 -- name    : PI.OddDualWeyl.Hom.good_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:35:13.46481+00:00
 -- url     : https://prove2.me/theorems/290da792-496a-4bce-986f-9f4ff50243df

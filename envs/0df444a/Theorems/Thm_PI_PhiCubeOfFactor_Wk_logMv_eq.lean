@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PhiCubeOfFactor_Wk_logMv_eq
 -- name    : PI.PhiCubeOfFactor.Wk.logMv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:36:04.244599+00:00
 -- url     : https://prove2.me/theorems/e0e95845-51b1-41a5-b8d8-a8dd72cd9b96

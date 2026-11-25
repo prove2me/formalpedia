@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Ch_pderiv_subst_X_self
 -- name    : PI.JetsPhW.Ch.pderiv_subst_X_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:31:38.308466+00:00
 -- url     : https://prove2.me/theorems/65e94629-75b7-4197-93b1-cb6d662f83ef

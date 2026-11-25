@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_card_le_sum_mult
 -- name    : PI.EF.card_le_sum_mult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:49.636974+00:00
 -- url     : https://prove2.me/theorems/d39cf3c1-41bb-4e6a-91ed-d4280e379125

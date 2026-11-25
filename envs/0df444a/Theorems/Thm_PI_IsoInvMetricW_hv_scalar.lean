@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoInvMetricW_hv_scalar
 -- name    : PI.IsoInvMetricW.hv_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:08:51.477848+00:00
 -- url     : https://prove2.me/theorems/b90b2492-515f-56f6-ae6e-125bd5303d42

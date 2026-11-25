@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMP_pureJ_of
 -- name    : PI.FJMP.pureJ_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:40.082887+00:00
 -- url     : https://prove2.me/theorems/24b39515-9a8a-44e9-a5e2-3f17fdee063a

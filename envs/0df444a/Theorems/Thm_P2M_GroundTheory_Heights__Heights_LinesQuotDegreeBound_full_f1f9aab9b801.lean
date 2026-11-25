@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801
 -- name    : P2M_GroundTheory_Heights__Heights_LinesQuotDegreeBound_full_f1f9aab9b801
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:25:30.17838+00:00
 -- url     : https://prove2.me/theorems/2a87110d-5f82-4d1a-8cbf-5d1b04d24904

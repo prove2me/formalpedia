@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelSurjWork_glEquiv_mem_unip
 -- name    : PI.GreenLabelSurjWork.glEquiv_mem_unip
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:18:53.737042+00:00
 -- url     : https://prove2.me/theorems/45c02d57-5390-47f7-a81c-8186babf34e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_vieta3
 -- name    : PI.AddIntG.Wk.vieta3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:22:59.589803+00:00
 -- url     : https://prove2.me/theorems/b1eef021-0730-57f5-8d76-ae9627212d22

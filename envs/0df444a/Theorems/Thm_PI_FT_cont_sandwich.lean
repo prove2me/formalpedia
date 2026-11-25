@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FT_cont_sandwich
 -- name    : PI.FT.cont_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:25:58.000688+00:00
 -- url     : https://prove2.me/theorems/2891ec96-7a91-4ae2-a63a-9d0a003cb1d3

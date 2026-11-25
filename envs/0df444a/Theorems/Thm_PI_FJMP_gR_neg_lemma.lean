@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMP_gR_neg_lemma
 -- name    : PI.FJMP.gR_neg_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:13.844059+00:00
 -- url     : https://prove2.me/theorems/6658a501-b7d4-5462-8d45-bdcc6816188b

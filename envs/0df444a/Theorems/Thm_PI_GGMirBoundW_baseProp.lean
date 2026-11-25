@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMirBoundW_baseProp
 -- name    : PI.GGMirBoundW.baseProp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:30.314972+00:00
 -- url     : https://prove2.me/theorems/28ad7a2d-0274-4944-9c2d-e928ce3a4010

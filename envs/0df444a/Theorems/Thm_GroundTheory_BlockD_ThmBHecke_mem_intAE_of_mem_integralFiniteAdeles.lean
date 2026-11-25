@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_ThmBHecke_mem_intAE_of_mem_integralFiniteAdeles
 -- name    : GroundTheory.BlockD.ThmBHecke.mem_intAE_of_mem_integralFiniteAdeles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:34:32.917659+00:00
 -- url     : https://prove2.me/theorems/e9d2f88c-bd5a-5861-96e9-891b9bc68123

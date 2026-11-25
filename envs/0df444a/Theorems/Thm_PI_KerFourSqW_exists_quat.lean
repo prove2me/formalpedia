@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerFourSqW_exists_quat
 -- name    : PI.KerFourSqW.exists_quat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:32:49.126124+00:00
 -- url     : https://prove2.me/theorems/e3b7ead0-53f0-579a-bc53-8b910ef9c542

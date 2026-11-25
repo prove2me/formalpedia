@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoInvMetricW_eStar
 -- name    : PI.IsoInvMetricW.eStar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:13:51.621352+00:00
 -- url     : https://prove2.me/theorems/197cb7fc-50d7-497e-b066-9ab8f16153af

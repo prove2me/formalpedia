@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OrbShared_Tri_IsTri_order_sub
 -- name    : PI.OrbShared.Tri.IsTri.order_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:16:41.31294+00:00
 -- url     : https://prove2.me/theorems/cee1dab3-fa58-46e8-9ad1-4cbaaf7f66a1

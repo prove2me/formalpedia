@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CompDegEF_ballCard
 -- name    : PI.CompDegEF.ballCard
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:31:25.949416+00:00
 -- url     : https://prove2.me/theorems/0e92c691-0f69-45df-86f4-e0b2ade76c42

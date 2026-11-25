@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_pTerm_le_near
 -- name    : PI.EF.pTerm_le_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:18.111482+00:00
 -- url     : https://prove2.me/theorems/4e4b653c-0707-4833-8de5-d5d2b0bd45b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_NCH_h_tV_right
 -- name    : PI.LevelKSplit.W.NCH.h_tV_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:33:57.863816+00:00
 -- url     : https://prove2.me/theorems/f4fb99c1-38a4-4864-8a8a-f4b99635deb3

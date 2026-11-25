@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_exists_prefix_max
 -- name    : GroundTheory.PAdicHodge.TeichLift.exists_prefix_max
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:35:45.586002+00:00
 -- url     : https://prove2.me/theorems/ead88c83-9b0b-45f3-80c9-fad66cb719e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocLatEq_W_avoidP
 -- name    : PI.LocLatEq.W.avoidP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:15:46.629923+00:00
 -- url     : https://prove2.me/theorems/50b8445b-0ef3-40c2-b885-250b06532975

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Top_fibFin
 -- name    : PI.ProdFormulaE.Top.fibFin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:13.474831+00:00
 -- url     : https://prove2.me/theorems/899fea25-90a7-53f9-b4f1-075fa488d2cc

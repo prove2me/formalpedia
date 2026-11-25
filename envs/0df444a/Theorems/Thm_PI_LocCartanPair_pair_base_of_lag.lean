@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocCartanPair_pair_base_of_lag
 -- name    : PI.LocCartanPair.pair_base_of_lag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:24.522002+00:00
 -- url     : https://prove2.me/theorems/fad99d2a-9737-485c-abc9-414b8e83fc8e

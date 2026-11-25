@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NMeasInv_UnitaryGroupMassFormula_le_one_of_pow_le
 -- name    : PI.NMeasInv.UnitaryGroupMassFormula.le_one_of_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:13:30.189347+00:00
 -- url     : https://prove2.me/theorems/9d90bc6c-1ac2-42ef-9be7-0fd86a074d63

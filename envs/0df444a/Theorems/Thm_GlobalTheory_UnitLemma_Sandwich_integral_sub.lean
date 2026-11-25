@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Sandwich_integral_sub
 -- name    : GlobalTheory.UnitLemma.Sandwich.integral_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:37:40.372344+00:00
 -- url     : https://prove2.me/theorems/86946f83-79f2-4301-947d-3c49c9045b32

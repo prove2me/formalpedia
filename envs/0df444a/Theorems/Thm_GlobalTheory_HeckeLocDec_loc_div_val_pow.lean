@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeLocDec_loc_div_val_pow
 -- name    : GlobalTheory.HeckeLocDec.loc_div_val_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:41:20.879083+00:00
 -- url     : https://prove2.me/theorems/71e69361-9dfd-4a1b-9e11-bc6f5c08f6ea

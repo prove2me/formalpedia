@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Mk_nextCoeff_X_pow_sub_one
 -- name    : PI.Mk.nextCoeff_X_pow_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:21.687061+00:00
 -- url     : https://prove2.me/theorems/25b2e845-1e17-4080-a787-13722b703bb9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoInvMetricW_hv_tri
 -- name    : PI.IsoInvMetricW.hv_tri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:08:36.517279+00:00
 -- url     : https://prove2.me/theorems/65ff8586-25e0-4e1c-9221-907fc277f1e3

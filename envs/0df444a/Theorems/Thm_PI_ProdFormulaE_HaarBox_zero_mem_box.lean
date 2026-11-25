@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_HaarBox_zero_mem_box
 -- name    : PI.ProdFormulaE.HaarBox.zero_mem_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:36:23.475199+00:00
 -- url     : https://prove2.me/theorems/ee36ce54-63d1-5b2d-8d1d-d41391155937

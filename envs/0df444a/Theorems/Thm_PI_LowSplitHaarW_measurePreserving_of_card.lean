@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LowSplitHaarW_measurePreserving_of_card
 -- name    : PI.LowSplitHaarW.measurePreserving_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:34.744631+00:00
 -- url     : https://prove2.me/theorems/b106ea92-76f1-48e2-8b8d-7b2726e03a8f

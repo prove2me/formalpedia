@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocalEndW_exists_N
 -- name    : PI.LocalEndW.exists_N
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:33:41.147614+00:00
 -- url     : https://prove2.me/theorems/54148ee5-6548-4e9a-8bdd-1796fd558678

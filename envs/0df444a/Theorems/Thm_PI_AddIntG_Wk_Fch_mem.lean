@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_Fch_mem
 -- name    : PI.AddIntG.Wk.Fch_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:21:59.052539+00:00
 -- url     : https://prove2.me/theorems/ed3d0f9b-d7aa-4ab1-8c75-acfc1301cda1

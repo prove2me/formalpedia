@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_ExC_continuous_projD
 -- name    : PI.LevelKSplit.W.ExC.continuous_projD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:34:36.339701+00:00
 -- url     : https://prove2.me/theorems/378f5e16-7e91-45a6-86cb-5ffc134b7034

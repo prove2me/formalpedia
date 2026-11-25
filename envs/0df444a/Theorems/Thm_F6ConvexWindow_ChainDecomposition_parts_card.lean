@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_ChainDecomposition_parts_card
 -- name    : F6ConvexWindow.ChainDecomposition.parts_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:36:19.740199+00:00
 -- url     : https://prove2.me/theorems/8a21f5f0-e060-50ba-9cdc-0f2e09e9846c

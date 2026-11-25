@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Frac_norm_sum_sub_sum_le_one
 -- name    : PI.ProdFormulaE.Frac.norm_sum_sub_sum_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:36:05.63451+00:00
 -- url     : https://prove2.me/theorems/44b19a9b-a0b2-41a8-814a-9beedc38d2cf

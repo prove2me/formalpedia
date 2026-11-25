@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoInvMetricW_metric_diagonal
 -- name    : PI.IsoInvMetricW.metric_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:46:44.991555+00:00
 -- url     : https://prove2.me/theorems/c2300813-9a30-4752-95f0-7088bc11dd82

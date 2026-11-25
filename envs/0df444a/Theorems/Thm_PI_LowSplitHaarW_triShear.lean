@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LowSplitHaarW_triShear
 -- name    : PI.LowSplitHaarW.triShear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:48.561959+00:00
 -- url     : https://prove2.me/theorems/66b41167-c686-4b2f-92c3-93d668f5342d

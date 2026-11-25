@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_P2_allow_col_lt
 -- name    : PI.OneCosetSharp.W.P2.allow_col_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:16:09.062946+00:00
 -- url     : https://prove2.me/theorems/1d3d4735-e726-4043-9598-23a50dcb0312

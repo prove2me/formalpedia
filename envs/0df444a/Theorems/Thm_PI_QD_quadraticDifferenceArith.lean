@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QD_quadraticDifferenceArith
 -- name    : PI.QD.quadraticDifferenceArith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:17:37.94332+00:00
 -- url     : https://prove2.me/theorems/6f694e89-9649-579c-ba78-21d95b1e1618

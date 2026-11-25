@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_mem_sc
 -- name    : PI.IsoDetW.Loc.mem_sc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:08:47.034863+00:00
 -- url     : https://prove2.me/theorems/26d6fea3-f8d8-4ce2-acbd-0970b577ad44

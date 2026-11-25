@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DivPowInteg_Top_divPowInteg_of
 -- name    : PI.DivPowInteg.Top.divPowInteg_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:27:25.592202+00:00
 -- url     : https://prove2.me/theorems/274cf135-7995-58a4-a24a-d0e896a82695

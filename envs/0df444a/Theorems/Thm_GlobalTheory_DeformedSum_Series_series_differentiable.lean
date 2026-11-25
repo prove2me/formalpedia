@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DeformedSum_Series_series_differentiable
 -- name    : GlobalTheory.DeformedSum.Series.series_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:36:10.706078+00:00
 -- url     : https://prove2.me/theorems/1030bf4e-fc0b-4125-ac82-ce207ef5ddf1

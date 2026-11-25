@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsotropicReflections_g_mem_cast
 -- name    : PI.IsotropicReflections.g_mem_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:09:39.149169+00:00
 -- url     : https://prove2.me/theorems/3140a80d-e9d8-470f-b8c2-90254ef0713e

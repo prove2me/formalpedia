@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PhNormUnits_UnitaryGroupMassFormula_coeff_subst_sum
 -- name    : PI.PhNormUnits.UnitaryGroupMassFormula.coeff_subst_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:35:38.432881+00:00
 -- url     : https://prove2.me/theorems/f1289ed7-d77f-4245-abc1-1ada6b98237b

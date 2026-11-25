@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_int_vec_mem
 -- name    : PI.InvTopW.int_vec_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:49.364497+00:00
 -- url     : https://prove2.me/theorems/60020ee5-1614-4ae9-9dfd-4dba3d3bb596

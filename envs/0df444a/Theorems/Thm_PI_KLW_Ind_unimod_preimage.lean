@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Ind_unimod_preimage
 -- name    : PI.KLW.Ind.unimod_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:33:55.683537+00:00
 -- url     : https://prove2.me/theorems/8919bbd0-bdbc-506b-8afd-c2526435a9b0

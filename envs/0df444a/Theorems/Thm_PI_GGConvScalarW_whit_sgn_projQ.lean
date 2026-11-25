@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGConvScalarW_whit_sgn_projQ
 -- name    : PI.GGConvScalarW.whit_sgn_projQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:31:25.80037+00:00
 -- url     : https://prove2.me/theorems/a7593f7f-0612-46a4-89d6-87838d53b3b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_Sd_af_sub_apply
 -- name    : PI.OmFibreUniq.W.Sd.af_sub_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:17:55.741658+00:00
 -- url     : https://prove2.me/theorems/5047f9da-7bb1-52db-88ce-5f94fcfc60d4

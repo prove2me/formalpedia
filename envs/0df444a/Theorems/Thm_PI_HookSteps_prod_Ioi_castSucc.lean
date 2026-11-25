@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_prod_Ioi_castSucc
 -- name    : PI.HookSteps.prod_Ioi_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:16:38.227395+00:00
 -- url     : https://prove2.me/theorems/179a6187-7b6f-443c-a444-34ba8b4dc093

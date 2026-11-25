@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerIso_FourSqW_from_diagonal
 -- name    : PI.KerIso.FourSqW.from_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:33:37.439388+00:00
 -- url     : https://prove2.me/theorems/494fb79a-3898-4b96-9357-a1c34eeb5a6c

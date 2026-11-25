@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_isPrimitive_inv
 -- name    : PI.EF.isPrimitive_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:29:07.024867+00:00
 -- url     : https://prove2.me/theorems/fdb25e16-e9c7-4953-8c0f-47031ecfe41c

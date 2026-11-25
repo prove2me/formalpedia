@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DegenerateSiegelWeil_Scale_preimage_linIndep
 -- name    : PI.DegenerateSiegelWeil.Scale.preimage_linIndep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:17:47.364319+00:00
 -- url     : https://prove2.me/theorems/a568934d-be74-4fd8-8ddf-1d8b460da6f3

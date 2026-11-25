@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitChartMult_betaB_mem_maximalIdeal_iff_8d6ed7f06979
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitChartMult_betaB_mem_maximalIdeal_iff_8d6ed7f06979
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:37:30.046814+00:00
 -- url     : https://prove2.me/theorems/8f901dae-cf0e-57c6-b8e7-466ba9dfcf06

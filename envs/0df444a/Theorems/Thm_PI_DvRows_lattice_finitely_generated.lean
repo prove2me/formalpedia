@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_lattice_finitely_generated
 -- name    : PI.DvRows.lattice_finitely_generated
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:28.025148+00:00
 -- url     : https://prove2.me/theorems/561eade5-6adb-4600-a312-346e71d80cf3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerIso_FourSqW_qmap_injective
 -- name    : PI.KerIso.FourSqW.qmap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:44.945712+00:00
 -- url     : https://prove2.me/theorems/03a9b2d3-3050-55f5-8d35-8ce804d3cfab

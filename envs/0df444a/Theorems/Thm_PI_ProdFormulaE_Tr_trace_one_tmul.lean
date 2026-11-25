@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Tr_trace_one_tmul
 -- name    : PI.ProdFormulaE.Tr.trace_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:43.977714+00:00
 -- url     : https://prove2.me/theorems/59233754-e451-4423-8b2d-f18705b6e074

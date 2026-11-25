@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ParahoricIdxZ_W_theta_injective
 -- name    : PI.ParahoricIdxZ.W.theta_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:36:10.067749+00:00
 -- url     : https://prove2.me/theorems/dbf9f8cd-1126-442f-a165-b196faeeed42

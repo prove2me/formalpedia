@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocLatSat_UnitaryGroupMassFormula_bcG_smulR
 -- name    : PI.LocLatSat.UnitaryGroupMassFormula.bcG_smulR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:34:55.645148+00:00
 -- url     : https://prove2.me/theorems/923793f1-81f9-55d0-b6c2-b64e19afa3c6

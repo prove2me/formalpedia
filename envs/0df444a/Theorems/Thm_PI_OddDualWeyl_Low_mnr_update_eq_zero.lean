@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Low_mnr_update_eq_zero
 -- name    : PI.OddDualWeyl.Low.mnr_update_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:13:33.556308+00:00
 -- url     : https://prove2.me/theorems/9c17a984-7c91-43f4-a9fa-bd6f037c5af1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelSurjWork_hcSpace_nontrivial
 -- name    : PI.GreenLabelSurjWork.hcSpace_nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:31:15.300539+00:00
 -- url     : https://prove2.me/theorems/030dc3ef-f4f3-43f3-bf87-6f729206de77

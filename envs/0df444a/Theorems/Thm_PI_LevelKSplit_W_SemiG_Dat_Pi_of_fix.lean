@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiG_Dat_Pi_of_fix
 -- name    : PI.LevelKSplit.W.SemiG.Dat.Pi_of_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:34:59.2956+00:00
 -- url     : https://prove2.me/theorems/28eaa304-6b2d-4dcf-8918-8efd6ccdfc8d

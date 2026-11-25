@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EndTorus_isMonHom_of_mono
 -- name    : GlobalTheory.EndTorus.isMonHom_of_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:42:40.323311+00:00
 -- url     : https://prove2.me/theorems/36e6c448-0293-41fb-80fa-502424bb9fbd

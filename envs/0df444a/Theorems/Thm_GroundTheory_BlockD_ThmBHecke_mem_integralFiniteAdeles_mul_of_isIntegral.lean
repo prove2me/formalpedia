@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_ThmBHecke_mem_integralFiniteAdeles_mul_of_isIntegral
 -- name    : GroundTheory.BlockD.ThmBHecke.mem_integralFiniteAdeles_mul_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:35:28.175567+00:00
 -- url     : https://prove2.me/theorems/5da82a8b-d55e-505b-907d-dacf2da4a7fc

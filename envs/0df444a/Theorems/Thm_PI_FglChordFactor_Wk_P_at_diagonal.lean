@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglChordFactor_Wk_P_at_diagonal
 -- name    : PI.FglChordFactor.Wk.P_at_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:44:23.182986+00:00
 -- url     : https://prove2.me/theorems/c7642cb0-fc61-4088-9909-a6dbfce38358

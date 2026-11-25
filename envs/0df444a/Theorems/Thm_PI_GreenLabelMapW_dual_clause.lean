@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelMapW_dual_clause
 -- name    : PI.GreenLabelMapW.dual_clause
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:31:07.058233+00:00
 -- url     : https://prove2.me/theorems/8245e2f1-a0d0-43bc-b0d4-2851e46550b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_ThmBHecke_eq_zero_or_one_of_mul_self
 -- name    : GroundTheory.BlockD.ThmBHecke.eq_zero_or_one_of_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:42:31.552813+00:00
 -- url     : https://prove2.me/theorems/10110a37-cec5-565a-a45a-96aec9570bff

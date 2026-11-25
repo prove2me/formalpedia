@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelSurjWork_infl_mul
 -- name    : PI.GreenLabelSurjWork.infl_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:30:57.053689+00:00
 -- url     : https://prove2.me/theorems/a262cd8a-e48d-46a4-a7b6-fee790955c49

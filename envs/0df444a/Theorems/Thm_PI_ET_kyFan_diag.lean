@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_kyFan_diag
 -- name    : PI.ET.kyFan_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:28.374058+00:00
 -- url     : https://prove2.me/theorems/e4eccf50-8058-5b31-a96e-48b4e253d065

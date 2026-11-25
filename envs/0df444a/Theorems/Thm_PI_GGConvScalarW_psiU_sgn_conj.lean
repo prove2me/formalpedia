@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGConvScalarW_psiU_sgn_conj
 -- name    : PI.GGConvScalarW.psiU_sgn_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:27:09.597937+00:00
 -- url     : https://prove2.me/theorems/5bdb1221-cd61-4ae8-9e7b-a439e8fdac45

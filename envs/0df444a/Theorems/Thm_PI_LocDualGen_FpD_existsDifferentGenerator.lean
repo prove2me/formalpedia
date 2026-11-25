@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_FpD_existsDifferentGenerator
 -- name    : PI.LocDualGen.FpD.existsDifferentGenerator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:19.003541+00:00
 -- url     : https://prove2.me/theorems/e2c8823e-c1d8-40b1-8846-e139dadc122f

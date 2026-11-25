@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DivPowInteg_Gen_powXL_holds
 -- name    : PI.DivPowInteg.Gen.powXL_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:27:00.704834+00:00
 -- url     : https://prove2.me/theorems/8ac633ec-7390-5736-a830-c4b516770a14

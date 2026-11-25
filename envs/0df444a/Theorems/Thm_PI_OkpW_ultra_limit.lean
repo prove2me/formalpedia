@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OkpW_ultra_limit
 -- name    : PI.OkpW.ultra_limit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:59.133664+00:00
 -- url     : https://prove2.me/theorems/33dd6114-7781-5a3a-9d22-9959dc4422e3

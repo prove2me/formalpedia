@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BridgeMaxCptWork_bridgeMaxCpt_of
 -- name    : PI.BridgeMaxCptWork.bridgeMaxCpt_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:25:55.74119+00:00
 -- url     : https://prove2.me/theorems/a926079a-6b0e-4596-bc54-eeda805d32a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Mk_good_cyclotomic_one
 -- name    : PI.Mk.good_cyclotomic_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:25.743795+00:00
 -- url     : https://prove2.me/theorems/645d9e45-72ba-4b32-8af8-bf551ee2e56a

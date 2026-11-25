@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_SdCore_exists_normalized
 -- name    : PI.OmFibreUniq.W.SdCore.exists_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:36:06.989035+00:00
 -- url     : https://prove2.me/theorems/07a86f0c-fbe5-4123-9871-77d4381300d0

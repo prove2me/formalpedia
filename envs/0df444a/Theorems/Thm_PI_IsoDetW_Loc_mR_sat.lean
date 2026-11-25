@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_mR_sat
 -- name    : PI.IsoDetW.Loc.mR_sat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:08:36.591892+00:00
 -- url     : https://prove2.me/theorems/35aa2d33-7924-53d0-9e9a-1b54386d3189

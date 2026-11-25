@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Intw_coeff_comp_neg_X
 -- name    : PI.OddDualWeyl.Intw.coeff_comp_neg_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:13:59.680864+00:00
 -- url     : https://prove2.me/theorems/3a751222-12c4-5e5b-938b-b735be268091

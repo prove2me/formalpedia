@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLatHermW_isCM_sum
 -- name    : PI.Dv.GLatHermW.isCM_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:29:27.576271+00:00
 -- url     : https://prove2.me/theorems/41b17f37-3a44-497f-828d-c08eb3e07a46

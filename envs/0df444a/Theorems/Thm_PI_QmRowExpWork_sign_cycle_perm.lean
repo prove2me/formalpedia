@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QmRowExpWork_sign_cycle_perm
 -- name    : PI.QmRowExpWork.sign_cycle_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:17:25.579041+00:00
 -- url     : https://prove2.me/theorems/c14eb56b-9e51-5225-afed-abb88d56d620

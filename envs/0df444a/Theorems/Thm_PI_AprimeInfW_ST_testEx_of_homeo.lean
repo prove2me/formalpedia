@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_ST_testEx_of_homeo
 -- name    : PI.AprimeInfW.ST.testEx_of_homeo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:32:48.556145+00:00
 -- url     : https://prove2.me/theorems/2b857400-a81d-5f86-9501-46878ef2a111

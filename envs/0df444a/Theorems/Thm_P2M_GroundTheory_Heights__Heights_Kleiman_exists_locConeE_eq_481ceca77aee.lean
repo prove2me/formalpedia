@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_exists_locConeE_eq_481ceca77aee
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_exists_locConeE_eq_481ceca77aee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:38:07.634409+00:00
 -- url     : https://prove2.me/theorems/8ba82da6-4730-5aab-9d61-22f245bc7866

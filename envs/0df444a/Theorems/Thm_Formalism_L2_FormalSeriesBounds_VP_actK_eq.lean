@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_actK_eq
 -- name    : Formalism.L2.FormalSeriesBounds.VP.actK_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:37:47.513255+00:00
 -- url     : https://prove2.me/theorems/b324f16e-bf98-4208-83ee-fdc9c30c0138

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_OriginCoordinatesAdd_stepA
 -- name    : PI.GalTorsConj.W.OriginCoordinatesAdd.stepA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:00.886644+00:00
 -- url     : https://prove2.me/theorems/a6818c26-d75d-4eb2-a389-bbc8dd8083da

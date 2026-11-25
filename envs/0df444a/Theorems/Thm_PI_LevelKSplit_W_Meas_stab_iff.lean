@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Meas_stab_iff
 -- name    : PI.LevelKSplit.W.Meas.stab_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:34:45.11596+00:00
 -- url     : https://prove2.me/theorems/55e2f220-3d3c-5c09-84dc-2e05e3865cf8

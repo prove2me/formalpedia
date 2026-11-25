@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_FglChordFactor_Wk_F__at_aa_34077df8c2da
 -- name    : P2M_PI_FglChordFactor_Wk_F__at_aa_34077df8c2da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:43:41.063286+00:00
 -- url     : https://prove2.me/theorems/48e3708e-66e8-4530-97b6-c9ac080fba7f

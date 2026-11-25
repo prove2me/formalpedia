@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LatLocGlob_Proof_latLocGlob_core
 -- name    : PI.LatLocGlob.Proof.latLocGlob_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:34:07.262025+00:00
 -- url     : https://prove2.me/theorems/f026ca7c-0b08-460b-a282-a8413e7d18e1

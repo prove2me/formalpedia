@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_ThmBHecke_idemAt_fst
 -- name    : GroundTheory.BlockD.ThmBHecke.idemAt_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:44:19.909044+00:00
 -- url     : https://prove2.me/theorems/e83ae5e2-74cf-4fc1-ae3c-99fcf24e5324

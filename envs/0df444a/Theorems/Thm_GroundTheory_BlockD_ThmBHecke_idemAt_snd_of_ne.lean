@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_ThmBHecke_idemAt_snd_of_ne
 -- name    : GroundTheory.BlockD.ThmBHecke.idemAt_snd_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:41:54.495499+00:00
 -- url     : https://prove2.me/theorems/5c661e8e-342c-5216-b58e-ad6406e026eb

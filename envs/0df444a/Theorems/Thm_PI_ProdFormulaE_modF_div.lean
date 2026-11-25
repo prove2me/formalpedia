@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_modF_div
 -- name    : PI.ProdFormulaE.modF_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:17:22.416845+00:00
 -- url     : https://prove2.me/theorems/f6e9d031-30cd-56d8-95d2-2e44ed7fa69a

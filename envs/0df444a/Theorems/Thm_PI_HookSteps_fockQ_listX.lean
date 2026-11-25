@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_fockQ_listX
 -- name    : PI.HookSteps.fockQ_listX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:16:48.481705+00:00
 -- url     : https://prove2.me/theorems/4b2efbfe-f3c8-4685-9f1e-d26341b95b00

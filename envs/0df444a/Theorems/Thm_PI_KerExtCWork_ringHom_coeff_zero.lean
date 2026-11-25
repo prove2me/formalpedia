@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerExtCWork_ringHom_coeff_zero
 -- name    : PI.KerExtCWork.ringHom_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:33:24.556878+00:00
 -- url     : https://prove2.me/theorems/c2c2614f-0327-5279-a0e2-6d0fd25bc027

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMB_elim_step
 -- name    : PI.FJMB.elim_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:41.385645+00:00
 -- url     : https://prove2.me/theorems/f7de5290-9e36-41ff-a8ba-cc005d811936

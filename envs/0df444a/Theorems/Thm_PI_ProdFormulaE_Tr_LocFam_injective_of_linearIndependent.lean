@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Tr_LocFam_injective_of_linearIndependent
 -- name    : PI.ProdFormulaE.Tr.LocFam.injective_of_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:29.265005+00:00
 -- url     : https://prove2.me/theorems/d9c651ce-fe68-4cad-a066-c18ba00e92dd

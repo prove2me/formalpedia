@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OkpW_span_p_ne_bot
 -- name    : PI.OkpW.span_p_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:16:19.33082+00:00
 -- url     : https://prove2.me/theorems/e1c9739c-e43c-4a64-b868-86ac7e82849d

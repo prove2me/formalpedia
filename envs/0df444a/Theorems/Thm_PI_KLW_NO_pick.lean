@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_NO_pick
 -- name    : PI.KLW.NO.pick
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:07.648719+00:00
 -- url     : https://prove2.me/theorems/917d4ffc-363d-5c64-87a4-b2be67dbd5a2

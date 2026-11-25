@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinKW_memLocFrom_of
 -- name    : PI.FinKW.memLocFrom_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:31:02.90781+00:00
 -- url     : https://prove2.me/theorems/6fe08595-635d-4b5d-afaf-9e4d2ca1c27c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HtPlacesSumWork_gauss_maximalIdeal
 -- name    : PI.HtPlacesSumWork.gauss_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:11.033847+00:00
 -- url     : https://prove2.me/theorems/e1b2700f-d434-419d-a5b7-201efb54e0e2

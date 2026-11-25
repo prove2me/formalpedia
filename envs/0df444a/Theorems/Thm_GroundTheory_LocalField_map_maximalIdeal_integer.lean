@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_map_maximalIdeal_integer
 -- name    : GroundTheory.LocalField.map_maximalIdeal_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:43:56.802294+00:00
 -- url     : https://prove2.me/theorems/cd1113a9-b504-43d0-bf24-240a0fd0ba1f

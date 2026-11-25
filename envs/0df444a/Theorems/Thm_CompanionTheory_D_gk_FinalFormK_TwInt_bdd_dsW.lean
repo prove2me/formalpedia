@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_FinalFormK_TwInt_bdd_dsW
 -- name    : CompanionTheory.D.gk.FinalFormK.TwInt.bdd_dsW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:57:04.4389+00:00
 -- url     : https://prove2.me/theorems/d9fc95b2-4881-4c42-aeb9-56cbeaa1d7e6

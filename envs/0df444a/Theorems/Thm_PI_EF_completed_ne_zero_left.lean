@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_completed_ne_zero_left
 -- name    : PI.EF.completed_ne_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:22:46.1138+00:00
 -- url     : https://prove2.me/theorems/48f5ed44-15ca-4373-a97d-15bd4eddd13c

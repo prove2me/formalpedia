@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_Assemble_ratV_smul
 -- name    : PI.LocFramePrimWork.Assemble_ratV_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:35:36.936491+00:00
 -- url     : https://prove2.me/theorems/3fe70fa1-4531-4cf5-82c3-99e58b8f2981

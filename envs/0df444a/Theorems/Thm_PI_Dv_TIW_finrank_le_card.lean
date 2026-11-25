@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_finrank_le_card
 -- name    : PI.Dv.TIW.finrank_le_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:18:40.880304+00:00
 -- url     : https://prove2.me/theorems/7a5ed193-4a9d-4fc2-9bce-2bf81851f0a4

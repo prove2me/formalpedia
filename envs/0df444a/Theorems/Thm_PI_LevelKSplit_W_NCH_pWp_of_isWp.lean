@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_NCH_pWp_of_isWp
 -- name    : PI.LevelKSplit.W.NCH.pWp_of_isWp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:34:00.380723+00:00
 -- url     : https://prove2.me/theorems/a7ad1b99-dcab-4145-bf82-ee63f9a41b91

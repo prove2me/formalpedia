@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocGlobInclWork_maximal_ne_bot
 -- name    : PI.LocGlobInclWork.maximal_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:35:16.362603+00:00
 -- url     : https://prove2.me/theorems/8afda13e-e16f-503d-8f73-7825cffe6be1

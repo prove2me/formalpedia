@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglChordFactor_Wk_subst_bivariateSeries_difference_pair
 -- name    : PI.FglChordFactor.Wk.subst_bivariateSeries_difference_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:43:39.361495+00:00
 -- url     : https://prove2.me/theorems/26387d14-6f2b-469d-bb53-e78b37949bd6

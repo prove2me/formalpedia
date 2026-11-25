@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_EpG_field_version
 -- name    : PI.LocDualGen.EpG.field_version
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:08.469515+00:00
 -- url     : https://prove2.me/theorems/7bcd94f1-90f5-4cb0-8bf6-519de9bf6719

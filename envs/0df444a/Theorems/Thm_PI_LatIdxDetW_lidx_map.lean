@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LatIdxDetW_lidx_map
 -- name    : PI.LatIdxDetW.lidx_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:34:01.596332+00:00
 -- url     : https://prove2.me/theorems/6a54828f-491e-52f7-a982-38caabd040db

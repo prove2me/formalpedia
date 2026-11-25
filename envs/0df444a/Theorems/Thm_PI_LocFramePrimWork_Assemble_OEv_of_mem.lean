@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_Assemble_OEv_of_mem
 -- name    : PI.LocFramePrimWork.Assemble_OEv_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:35:09.695026+00:00
 -- url     : https://prove2.me/theorems/08a57d9b-5b75-50c6-bce8-df0b49549474

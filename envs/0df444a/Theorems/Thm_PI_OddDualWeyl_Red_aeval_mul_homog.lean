@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Red_aeval_mul_homog
 -- name    : PI.OddDualWeyl.Red.aeval_mul_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:14:10.760944+00:00
 -- url     : https://prove2.me/theorems/f0afb247-e3b9-4641-9d90-4ec4b6afb092

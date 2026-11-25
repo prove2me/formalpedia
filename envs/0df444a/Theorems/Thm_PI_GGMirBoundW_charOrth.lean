@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMirBoundW_charOrth
 -- name    : PI.GGMirBoundW.charOrth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:43.528584+00:00
 -- url     : https://prove2.me/theorems/26ddc29a-17fb-586d-948d-562929be180b

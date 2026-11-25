@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_ThmBHecke_cA_tmul
 -- name    : GroundTheory.BlockD.ThmBHecke.cA_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:41:24.978801+00:00
 -- url     : https://prove2.me/theorems/6325c235-8861-53fa-b253-981700a7e4e3

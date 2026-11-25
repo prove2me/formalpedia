@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_DiffLoc_inclR_alg
 -- name    : PI.LocFramePrimWork.DiffLoc_inclR_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:13:58.323004+00:00
 -- url     : https://prove2.me/theorems/513571ed-4ade-4f03-909c-c55119cf81e7

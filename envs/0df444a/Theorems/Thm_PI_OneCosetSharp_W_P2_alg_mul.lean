@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_P2_alg_mul
 -- name    : PI.OneCosetSharp.W.P2.alg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:34:58.474982+00:00
 -- url     : https://prove2.me/theorems/600f49ca-89be-4708-9ba9-b1ff86355aa5

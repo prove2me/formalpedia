@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Rect_rectInt_finset_sum
 -- name    : PI.EF.Rect.rectInt_finset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:45.495809+00:00
 -- url     : https://prove2.me/theorems/9c306310-9392-4691-a6eb-164c25917107

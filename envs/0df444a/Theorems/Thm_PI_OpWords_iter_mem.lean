@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_iter_mem
 -- name    : PI.OpWords.iter_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:16:22.856815+00:00
 -- url     : https://prove2.me/theorems/c4911023-12dd-5647-8d75-83eaf5ea2444

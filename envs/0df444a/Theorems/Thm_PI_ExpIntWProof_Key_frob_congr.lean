@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExpIntWProof_Key_frob_congr
 -- name    : PI.ExpIntWProof.Key.frob_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:10.074122+00:00
 -- url     : https://prove2.me/theorems/48322034-4f00-4a1a-8bf2-25e274b6e837

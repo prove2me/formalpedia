@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_hasSum_fderiv_term
 -- name    : GlobalTheory.AnArc.hasSum_fderiv_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:56:37.88058+00:00
 -- url     : https://prove2.me/theorems/c40082a4-839f-43c2-a511-74c9448235fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Ind_split_step
 -- name    : PI.KLW.Ind.split_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:33:36.101155+00:00
 -- url     : https://prove2.me/theorems/3b30c691-1400-5fe8-81be-ad7ff56e3b3b

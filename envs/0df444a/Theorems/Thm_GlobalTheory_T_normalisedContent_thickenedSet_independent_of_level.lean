@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_normalisedContent_thickenedSet_independent_of_level
 -- name    : GlobalTheory.T.normalisedContent_thickenedSet_independent_of_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:50:10.498912+00:00
 -- url     : https://prove2.me/theorems/eade7c6c-0c46-5365-a360-9fd37752727a

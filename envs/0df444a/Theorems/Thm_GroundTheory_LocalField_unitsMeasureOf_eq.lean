@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_unitsMeasureOf_eq
 -- name    : GroundTheory.LocalField.unitsMeasureOf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:41:10.33051+00:00
 -- url     : https://prove2.me/theorems/b96c2325-1bd3-5a70-8150-26da27a592c4

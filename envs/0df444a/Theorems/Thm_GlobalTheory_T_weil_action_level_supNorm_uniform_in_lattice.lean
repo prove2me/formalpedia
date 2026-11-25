@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weil_action_level_supNorm_uniform_in_lattice
 -- name    : GlobalTheory.T.weil_action_level_supNorm_uniform_in_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:04.616774+00:00
 -- url     : https://prove2.me/theorems/7dc43909-4edb-4ae0-b29b-184f1be56ae0

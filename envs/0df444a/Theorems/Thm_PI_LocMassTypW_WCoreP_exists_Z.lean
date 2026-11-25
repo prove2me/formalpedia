@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocMassTypW_WCoreP_exists_Z
 -- name    : PI.LocMassTypW.WCoreP.exists_Z
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:35.651852+00:00
 -- url     : https://prove2.me/theorems/f4c47f1e-8c25-4a81-95ae-52dfe25d25a8

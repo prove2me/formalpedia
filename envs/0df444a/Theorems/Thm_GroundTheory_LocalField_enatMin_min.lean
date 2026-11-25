@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_enatMin_min
 -- name    : GroundTheory.LocalField.enatMin_min
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:57:43.546475+00:00
 -- url     : https://prove2.me/theorems/f6bc26d5-538e-47b4-8181-ed7c8fb96ab2

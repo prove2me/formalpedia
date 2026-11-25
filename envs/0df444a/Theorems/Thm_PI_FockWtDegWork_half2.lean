@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockWtDegWork_half2
 -- name    : PI.FockWtDegWork.half2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:31:07.636431+00:00
 -- url     : https://prove2.me/theorems/7c98ac81-38bd-48dd-b6a3-53519f51fbc4

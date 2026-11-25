@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CharIdemW_scalar
 -- name    : PI.CharIdemW.scalar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:10:41.27283+00:00
 -- url     : https://prove2.me/theorems/1c80a6fb-1edf-4d9e-8bf4-99cadc5e8e7c

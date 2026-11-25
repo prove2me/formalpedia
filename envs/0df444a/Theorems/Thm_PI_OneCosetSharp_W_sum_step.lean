@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_sum_step
 -- name    : PI.OneCosetSharp.W.sum_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:16:15.878849+00:00
 -- url     : https://prove2.me/theorems/26930175-cead-5ebe-8957-381a8e73149b

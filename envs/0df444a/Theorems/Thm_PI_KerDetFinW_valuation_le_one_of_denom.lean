@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerDetFinW_valuation_le_one_of_denom
 -- name    : PI.KerDetFinW.valuation_le_one_of_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:33:30.298107+00:00
 -- url     : https://prove2.me/theorems/96c30dad-7207-519f-baf8-ce8e8ec6159a

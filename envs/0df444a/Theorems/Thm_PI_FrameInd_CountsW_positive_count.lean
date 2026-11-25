@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_CountsW_positive_count
 -- name    : PI.FrameInd.CountsW.positive_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:32:16.293006+00:00
 -- url     : https://prove2.me/theorems/4c38c12e-223d-498e-a0f5-2eae9c885064

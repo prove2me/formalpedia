@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IdeleUnitsOpenW_isOpen_integralFinite
 -- name    : PI.IdeleUnitsOpenW.isOpen_integralFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:33.281034+00:00
 -- url     : https://prove2.me/theorems/a2724a57-1e36-4e1a-9328-daf242738d1c

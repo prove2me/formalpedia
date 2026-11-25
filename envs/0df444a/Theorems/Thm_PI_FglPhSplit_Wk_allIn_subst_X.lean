@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglPhSplit_Wk_allIn_subst_X
 -- name    : PI.FglPhSplit.Wk.allIn_subst_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:26:11.092184+00:00
 -- url     : https://prove2.me/theorems/7841f9a7-2e5a-4245-9d63-269d21d1fcd6

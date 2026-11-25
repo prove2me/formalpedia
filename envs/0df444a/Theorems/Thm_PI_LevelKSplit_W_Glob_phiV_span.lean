@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Glob_phiV_span
 -- name    : PI.LevelKSplit.W.Glob.phiV_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:33:39.240318+00:00
 -- url     : https://prove2.me/theorems/15cbe4db-e50f-40e8-b4b6-9869ca0c5b4a

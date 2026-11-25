@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiG_Dat_h_e_S
 -- name    : PI.LevelKSplit.W.SemiG.Dat.h_e_S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:35:06.690238+00:00
 -- url     : https://prove2.me/theorems/d02f08a7-a2fc-47c8-9845-6b4137c51a92

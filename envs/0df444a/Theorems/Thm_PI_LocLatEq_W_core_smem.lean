@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocLatEq_W_core_smem
 -- name    : PI.LocLatEq.W.core_smem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:34:53.180799+00:00
 -- url     : https://prove2.me/theorems/2cf5d953-2fb7-58fe-8f39-2268deb4220f

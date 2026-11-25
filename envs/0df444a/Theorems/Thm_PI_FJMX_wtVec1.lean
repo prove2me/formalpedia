@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_wtVec1
 -- name    : PI.FJMX.wtVec1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:30:28.986244+00:00
 -- url     : https://prove2.me/theorems/74a9e329-b544-4817-becd-ce227bdf0971

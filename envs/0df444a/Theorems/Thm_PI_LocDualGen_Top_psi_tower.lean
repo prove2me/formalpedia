@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_Top_psi_tower
 -- name    : PI.LocDualGen.Top.psi_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:25:44.920418+00:00
 -- url     : https://prove2.me/theorems/ee823664-c011-433d-b9b7-e94541711865

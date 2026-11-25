@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_norm_embedding_eq
 -- name    : PI.Dv.TIW.norm_embedding_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:00:05.785808+00:00
 -- url     : https://prove2.me/theorems/c588b915-2bae-4044-89f8-e8353c62b468

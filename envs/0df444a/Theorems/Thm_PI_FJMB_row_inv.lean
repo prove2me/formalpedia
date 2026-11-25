@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMB_row_inv
 -- name    : PI.FJMB.row_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:01.895352+00:00
 -- url     : https://prove2.me/theorems/5a79be6b-2bfb-4706-acca-ab2975ba6188

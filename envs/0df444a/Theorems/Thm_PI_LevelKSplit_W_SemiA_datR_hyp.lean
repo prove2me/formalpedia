@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiA_datR_hyp
 -- name    : PI.LevelKSplit.W.SemiA.datR_hyp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:20:48.283394+00:00
 -- url     : https://prove2.me/theorems/04c52fb0-fdc7-48c4-a519-3c4461d63821

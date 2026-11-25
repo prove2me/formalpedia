@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocLatEq_W_int_of_val
 -- name    : PI.LocLatEq.W.int_of_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:34:53.460632+00:00
 -- url     : https://prove2.me/theorems/809ac5f7-9002-4fb4-8ca7-4504847c238a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeLogBound_of_leaves_d950f357a44f
 -- name    : P2M_GroundTheory_Heights__Heights_ConeLogBound_of_leaves_d950f357a44f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:16:31.299375+00:00
 -- url     : https://prove2.me/theorems/4e602c33-85d0-5305-8174-7754b8755693

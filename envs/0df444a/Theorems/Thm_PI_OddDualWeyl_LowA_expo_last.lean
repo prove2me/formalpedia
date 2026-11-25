@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_LowA_expo_last
 -- name    : PI.OddDualWeyl.LowA.expo_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:14:27.775456+00:00
 -- url     : https://prove2.me/theorems/a303c203-7dd5-457a-97a2-fe004601a221

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_IdxW_len_pow
 -- name    : PI.Dv.IdxW.len_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:44:05.421872+00:00
 -- url     : https://prove2.me/theorems/2755419b-92e3-5dbb-8340-995e4d7300fe

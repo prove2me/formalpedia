@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMirBoundW_mirabolicBound_of
 -- name    : PI.GGMirBoundW.mirabolicBound_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:31:18.025474+00:00
 -- url     : https://prove2.me/theorems/61b3a65d-d195-4e5f-aebc-63ac081638a8

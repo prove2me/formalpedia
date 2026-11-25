@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Core_sum_SS
 -- name    : PI.FockOneDegW.Core.sum_SS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:56:53.926855+00:00
 -- url     : https://prove2.me/theorems/f66373b6-34ae-4dbc-af5d-44e48c97392f

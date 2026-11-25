@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_symbolMapMulLeft
 -- name    : PI.OpWords.symbolMapMulLeft
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:35:30.943369+00:00
 -- url     : https://prove2.me/theorems/e8071e92-7899-4907-9863-d813c5b77ac0

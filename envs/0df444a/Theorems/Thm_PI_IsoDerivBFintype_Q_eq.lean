@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDerivBFintype_Q_eq
 -- name    : PI.IsoDerivBFintype.Q_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:09:05.703764+00:00
 -- url     : https://prove2.me/theorems/05e0874a-6e94-4735-ae12-5a36a554281c

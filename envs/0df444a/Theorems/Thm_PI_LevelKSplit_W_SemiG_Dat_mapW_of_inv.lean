@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiG_Dat_mapW_of_inv
 -- name    : PI.LevelKSplit.W.SemiG.Dat.mapW_of_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:35:25.186818+00:00
 -- url     : https://prove2.me/theorems/9450af9e-e2de-4b18-be2e-cdffaedc79dd

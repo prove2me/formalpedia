@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmLocU_Sd_vol_mul_vol_ann
 -- name    : PI.OmLocU.Sd.vol_mul_vol_ann
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:16:47.110022+00:00
 -- url     : https://prove2.me/theorems/d36c5f84-e89b-54ee-a890-efcd16a75dc1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OkpW_add_c_int
 -- name    : PI.OkpW.add_c_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:14:24.546825+00:00
 -- url     : https://prove2.me/theorems/272509ae-fde6-5a5a-aebd-4bc3f2a83f03

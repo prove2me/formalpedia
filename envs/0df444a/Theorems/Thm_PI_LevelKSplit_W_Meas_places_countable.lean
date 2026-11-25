@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Meas_places_countable
 -- name    : PI.LevelKSplit.W.Meas.places_countable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:31.452953+00:00
 -- url     : https://prove2.me/theorems/b51075f5-ce13-45cf-8341-99b11c376547

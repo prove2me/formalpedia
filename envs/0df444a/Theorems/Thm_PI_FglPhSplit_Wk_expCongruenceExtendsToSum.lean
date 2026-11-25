@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglPhSplit_Wk_expCongruenceExtendsToSum
 -- name    : PI.FglPhSplit.Wk.expCongruenceExtendsToSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:46.898881+00:00
 -- url     : https://prove2.me/theorems/8e71c1ef-e545-45ed-ace2-66f8a1eb2ce3

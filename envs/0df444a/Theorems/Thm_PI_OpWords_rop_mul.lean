@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_rop_mul
 -- name    : PI.OpWords.rop_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:33.662126+00:00
 -- url     : https://prove2.me/theorems/1605b329-bb7b-5f3a-b4d4-1783be44340a

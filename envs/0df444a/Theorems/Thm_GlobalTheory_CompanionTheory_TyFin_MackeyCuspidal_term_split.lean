@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_MackeyCuspidal_term_split
 -- name    : GlobalTheory.CompanionTheory.TyFin.MackeyCuspidal.term_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:34:00.203991+00:00
 -- url     : https://prove2.me/theorems/e203a464-3535-4cb4-91cc-a6db2cbacedd

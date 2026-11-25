@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Ind_decomp
 -- name    : PI.KLW.Ind.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:33:42.944804+00:00
 -- url     : https://prove2.me/theorems/b3a7980f-057d-559a-b700-c53e49f57be7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_mul_notMem
 -- name    : PI.GalTorsConj.W.mul_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:31:15.179067+00:00
 -- url     : https://prove2.me/theorems/127bf548-d527-4a21-af34-3db8bc658719

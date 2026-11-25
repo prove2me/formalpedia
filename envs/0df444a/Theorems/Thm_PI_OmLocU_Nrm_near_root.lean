@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmLocU_Nrm_near_root
 -- name    : PI.OmLocU.Nrm.near_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:16:02.482803+00:00
 -- url     : https://prove2.me/theorems/1b51efc5-4b68-4304-8897-aa37e38ecad7

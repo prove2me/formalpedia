@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KoszulExact_eb_mem_Li
 -- name    : PI.KoszulExact.eb_mem_Li
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:33:53.126982+00:00
 -- url     : https://prove2.me/theorems/b70849d8-9f8e-4e52-820a-4401a2247aa5

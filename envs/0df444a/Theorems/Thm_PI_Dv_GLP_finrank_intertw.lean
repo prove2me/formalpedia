@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLP_finrank_intertw
 -- name    : PI.Dv.GLP.finrank_intertw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:27:22.186716+00:00
 -- url     : https://prove2.me/theorems/77696b67-45b7-5aba-b48f-d143927dfaeb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Rp_sub
 -- name    : PI.KLW.Rp_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:33:37.899033+00:00
 -- url     : https://prove2.me/theorems/01edac3f-63a0-5f37-abc0-6459a2595bc2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGConvScalarW_isUni_mul
 -- name    : PI.GGConvScalarW.isUni_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:34.750648+00:00
 -- url     : https://prove2.me/theorems/1849e5b5-9218-4e87-9acf-fd7f7fed0f21

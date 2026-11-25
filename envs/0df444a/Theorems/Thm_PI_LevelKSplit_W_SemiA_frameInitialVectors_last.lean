@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiA_frameInitialVectors_last
 -- name    : PI.LevelKSplit.W.SemiA.frameInitialVectors_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:34:32.799187+00:00
 -- url     : https://prove2.me/theorems/0cecbd86-2af5-46ec-af2b-cf13771a2cc2

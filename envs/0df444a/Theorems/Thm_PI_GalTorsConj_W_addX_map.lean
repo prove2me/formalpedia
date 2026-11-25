@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_addX_map
 -- name    : PI.GalTorsConj.W.addX_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:31:14.674797+00:00
 -- url     : https://prove2.me/theorems/04c93f58-fa1e-4243-b7b2-fe6733672d25

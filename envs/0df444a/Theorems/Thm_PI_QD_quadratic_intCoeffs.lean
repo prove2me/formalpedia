@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QD_quadratic_intCoeffs
 -- name    : PI.QD.quadratic_intCoeffs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:17:50.65755+00:00
 -- url     : https://prove2.me/theorems/4c41cb1d-25b8-53bc-9761-ff0c840c34d8

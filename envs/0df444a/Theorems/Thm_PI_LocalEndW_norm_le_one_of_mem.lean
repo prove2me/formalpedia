@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocalEndW_norm_le_one_of_mem
 -- name    : PI.LocalEndW.norm_le_one_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:08.826356+00:00
 -- url     : https://prove2.me/theorems/e3a3d33c-6bbb-4000-b77f-2237bfd22b71

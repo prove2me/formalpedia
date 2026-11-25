@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_ChainDecomposition_color_injective_on_antichain
 -- name    : F6ConvexWindow.ChainDecomposition.color_injective_on_antichain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:36:38.651464+00:00
 -- url     : https://prove2.me/theorems/ec27d0fd-c5ff-4a00-97af-71cfd389e2ef

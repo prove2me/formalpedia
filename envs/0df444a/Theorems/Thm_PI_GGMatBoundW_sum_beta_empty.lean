@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMatBoundW_sum_beta_empty
 -- name    : PI.GGMatBoundW.sum_beta_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:31:26.657151+00:00
 -- url     : https://prove2.me/theorems/68dd521d-a85e-48cc-aef6-6a3b7a56eb56

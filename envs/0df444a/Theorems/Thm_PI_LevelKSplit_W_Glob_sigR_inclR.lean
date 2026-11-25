@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Glob_sigR_inclR
 -- name    : PI.LevelKSplit.W.Glob.sigR_inclR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:34:10.737477+00:00
 -- url     : https://prove2.me/theorems/30535504-f531-4b43-a95d-c267b2b00011

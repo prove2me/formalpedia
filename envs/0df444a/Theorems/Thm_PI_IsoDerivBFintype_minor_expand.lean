@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDerivBFintype_minor_expand
 -- name    : PI.IsoDerivBFintype.minor_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:08:47.646676+00:00
 -- url     : https://prove2.me/theorems/3eb822ef-a298-4267-b888-c1b8a14a0067

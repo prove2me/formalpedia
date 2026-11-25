@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiA_mapX_S
 -- name    : PI.LevelKSplit.W.SemiA.mapX_S
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:33:08.878162+00:00
 -- url     : https://prove2.me/theorems/61d8f7f8-4d1a-4ddd-8fb5-11cf8874294e

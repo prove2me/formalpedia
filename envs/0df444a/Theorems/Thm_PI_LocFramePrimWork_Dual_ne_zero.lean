@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_Dual_ne_zero
 -- name    : PI.LocFramePrimWork.Dual_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:12:59.780042+00:00
 -- url     : https://prove2.me/theorems/650e9634-649a-5221-ae33-e57d1cc462c7

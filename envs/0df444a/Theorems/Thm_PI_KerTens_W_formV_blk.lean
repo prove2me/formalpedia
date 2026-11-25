@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerTens_W_formV_blk
 -- name    : PI.KerTens.W.formV_blk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:34:13.185314+00:00
 -- url     : https://prove2.me/theorems/ba2da7e0-0348-4a44-9d39-a211ff3b4f38

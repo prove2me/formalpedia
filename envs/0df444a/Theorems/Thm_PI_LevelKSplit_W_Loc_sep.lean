@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Loc_sep
 -- name    : PI.LevelKSplit.W.Loc.sep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:33:51.440156+00:00
 -- url     : https://prove2.me/theorems/f8b205b6-06c2-4117-a7df-a2650e39f968

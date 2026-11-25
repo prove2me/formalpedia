@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_deg_ge_of_inj
 -- name    : PI.Dv.Tr.deg_ge_of_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:19:32.279833+00:00
 -- url     : https://prove2.me/theorems/aa84a34c-f7ea-410f-a514-6bb42d4317bf

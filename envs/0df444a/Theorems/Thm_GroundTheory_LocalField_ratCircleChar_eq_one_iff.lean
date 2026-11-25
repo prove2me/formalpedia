@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ratCircleChar_eq_one_iff
 -- name    : GroundTheory.LocalField.ratCircleChar_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:19:33.353062+00:00
 -- url     : https://prove2.me/theorems/69b511c3-6344-5d82-a338-c9d5c67519c4

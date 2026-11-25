@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglChordFactor_Wk_constantCoeff_inverse_variable
 -- name    : PI.FglChordFactor.Wk.constantCoeff_inverse_variable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:43:10.669904+00:00
 -- url     : https://prove2.me/theorems/783a1a42-8ade-5caa-94b8-ee6215c759c2

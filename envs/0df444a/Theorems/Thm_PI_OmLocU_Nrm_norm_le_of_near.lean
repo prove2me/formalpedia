@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmLocU_Nrm_norm_le_of_near
 -- name    : PI.OmLocU.Nrm.norm_le_of_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:15:30.057988+00:00
 -- url     : https://prove2.me/theorems/a923fa22-ca5d-4f50-97b7-fa7eff60aac0

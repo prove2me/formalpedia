@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_ExC_isClosed_stabT
 -- name    : PI.LevelKSplit.W.ExC.isClosed_stabT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:36:13.501893+00:00
 -- url     : https://prove2.me/theorems/df99c00e-edd3-5f9e-88b7-50480d33ae72

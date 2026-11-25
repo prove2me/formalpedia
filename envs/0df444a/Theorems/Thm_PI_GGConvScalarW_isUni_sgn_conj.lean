@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGConvScalarW_isUni_sgn_conj
 -- name    : PI.GGConvScalarW.isUni_sgn_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:26:56.510814+00:00
 -- url     : https://prove2.me/theorems/48b5300e-3974-454f-9dbf-a006a65cf3c5

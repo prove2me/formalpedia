@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Uniq_aeval_smul_hom
 -- name    : PI.OddDualWeyl.Uniq.aeval_smul_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:14:01.83635+00:00
 -- url     : https://prove2.me/theorems/d4575fb4-f756-5d55-a75e-9ab6d45a1221

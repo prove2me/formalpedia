@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmVe_gram_split
 -- name    : PI.OmVe.gram_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:15:43.182611+00:00
 -- url     : https://prove2.me/theorems/2ade609c-591b-4c3d-ba34-0a83cf1b9299

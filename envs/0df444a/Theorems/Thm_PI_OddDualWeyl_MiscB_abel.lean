@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_MiscB_abel
 -- name    : PI.OddDualWeyl.MiscB.abel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:15:07.08626+00:00
 -- url     : https://prove2.me/theorems/a0c89300-c346-5441-b88c-c7c9e11a0c4a

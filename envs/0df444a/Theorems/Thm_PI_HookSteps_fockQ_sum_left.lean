@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_fockQ_sum_left
 -- name    : PI.HookSteps.fockQ_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:17:13.267209+00:00
 -- url     : https://prove2.me/theorems/9784ea7d-0b08-46be-958d-928deec76ded

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_incomparability_interval
 -- name    : F6ConvexWindow.incomparability_interval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:33:53.685351+00:00
 -- url     : https://prove2.me/theorems/36e349ce-8e78-57bc-9bd1-4f58b75d9519

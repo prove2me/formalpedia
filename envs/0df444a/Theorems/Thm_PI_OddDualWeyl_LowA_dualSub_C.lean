@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_LowA_dualSub_C
 -- name    : PI.OddDualWeyl.LowA.dualSub_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:15:07.680882+00:00
 -- url     : https://prove2.me/theorems/9647ced2-458a-4b4f-a276-0b0d2262ee24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Tr_exists_eq_ell_mul
 -- name    : PI.ProdFormulaE.Tr.exists_eq_ell_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:15.418853+00:00
 -- url     : https://prove2.me/theorems/cb779bda-1ec0-5846-b2ee-b9233c298935

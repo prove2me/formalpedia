@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NglqJacSplitW_chiM_pos
 -- name    : PI.NglqJacSplitW.chiM_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:34:43.359543+00:00
 -- url     : https://prove2.me/theorems/fc210b2e-10ff-46e6-9ce4-4c41566c592a

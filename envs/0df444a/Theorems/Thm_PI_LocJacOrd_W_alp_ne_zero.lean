@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocJacOrd_W_alp_ne_zero
 -- name    : PI.LocJacOrd.W.alp_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:30:53.380454+00:00
 -- url     : https://prove2.me/theorems/239cfff6-397c-45f5-918c-483c7144f0f0

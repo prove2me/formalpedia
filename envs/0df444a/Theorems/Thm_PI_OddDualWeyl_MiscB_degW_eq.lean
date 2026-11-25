@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_MiscB_degW_eq
 -- name    : PI.OddDualWeyl.MiscB.degW_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:15:06.638808+00:00
 -- url     : https://prove2.me/theorems/7064041c-7acf-481d-a606-16a7f1a7641f

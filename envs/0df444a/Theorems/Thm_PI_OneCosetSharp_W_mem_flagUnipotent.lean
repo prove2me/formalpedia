@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_mem_flagUnipotent
 -- name    : PI.OneCosetSharp.W.mem_flagUnipotent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:35:35.495403+00:00
 -- url     : https://prove2.me/theorems/90f2c3e8-abed-4490-bdf2-b4711c5eb2c7

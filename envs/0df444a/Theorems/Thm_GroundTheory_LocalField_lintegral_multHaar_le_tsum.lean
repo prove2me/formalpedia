@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_lintegral_multHaar_le_tsum
 -- name    : GroundTheory.LocalField.lintegral_multHaar_le_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:37:01.196742+00:00
 -- url     : https://prove2.me/theorems/77a48043-4597-44d8-b2ef-dd8518b77880

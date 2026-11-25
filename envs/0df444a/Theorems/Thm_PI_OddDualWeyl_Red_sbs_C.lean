@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Red_sbs_C
 -- name    : PI.OddDualWeyl.Red.sbs_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:14:19.430805+00:00
 -- url     : https://prove2.me/theorems/eb57af88-a7e0-4301-889a-42c02c541213

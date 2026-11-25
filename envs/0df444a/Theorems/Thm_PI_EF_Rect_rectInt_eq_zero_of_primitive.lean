@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Rect_rectInt_eq_zero_of_primitive
 -- name    : PI.EF.Rect.rectInt_eq_zero_of_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:52.302045+00:00
 -- url     : https://prove2.me/theorems/a99fd17b-bec2-4303-987b-a5015bb6007b

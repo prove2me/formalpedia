@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_W_constantCoeff_expMv
 -- name    : PI.JetsPhW.W.constantCoeff_expMv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:33:32.075558+00:00
 -- url     : https://prove2.me/theorems/c370bc1b-5b52-4ef8-803f-57108394da50

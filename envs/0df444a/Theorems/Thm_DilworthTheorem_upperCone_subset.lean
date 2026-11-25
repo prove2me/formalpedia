@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_upperCone_subset
 -- name    : DilworthTheorem.upperCone_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:30:42.791877+00:00
 -- url     : https://prove2.me/theorems/b9c3bdf9-ae8d-528d-b1ec-2b2e1d5681d8

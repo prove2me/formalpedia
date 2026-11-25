@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KoszulExact_ofList_take_ofFn
 -- name    : PI.KoszulExact.ofList_take_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:33:52.727912+00:00
 -- url     : https://prove2.me/theorems/6f0bdf8f-dfc6-4cc1-b296-0f0ff2f87726

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_reverseSignUnit
 -- name    : PI.OddDualWeyl.reverseSignUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:14:34.415348+00:00
 -- url     : https://prove2.me/theorems/aacd4988-bd36-5cba-a0ce-b360189446a0

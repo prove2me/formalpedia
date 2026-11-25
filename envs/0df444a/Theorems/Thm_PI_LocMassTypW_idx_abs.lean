@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocMassTypW_idx_abs
 -- name    : PI.LocMassTypW.idx_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:34:50.336097+00:00
 -- url     : https://prove2.me/theorems/574c94cf-a762-4b07-9327-8aeffe50a7af

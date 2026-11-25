@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_EpS_selfDual_split
 -- name    : PI.LocDualGen.EpS.selfDual_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:00.989146+00:00
 -- url     : https://prove2.me/theorems/893f391c-5c56-52a6-85ff-c369a7aa8706

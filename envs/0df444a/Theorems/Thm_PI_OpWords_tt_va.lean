@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_tt_va
 -- name    : PI.OpWords.tt_va
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:16:45.319085+00:00
 -- url     : https://prove2.me/theorems/de2994bb-214f-507d-aa04-23f7f6314912

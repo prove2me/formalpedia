@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_highest_weight_multiplicity
 -- name    : PI.OddDualWeyl.highest_weight_multiplicity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:58.358653+00:00
 -- url     : https://prove2.me/theorems/76346a88-ba01-4130-8dd2-dc2a57b8a2c0

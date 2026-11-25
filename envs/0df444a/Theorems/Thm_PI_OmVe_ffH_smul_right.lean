@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmVe_ffH_smul_right
 -- name    : PI.OmVe.ffH_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:15:21.262598+00:00
 -- url     : https://prove2.me/theorems/5959e357-fef0-5243-b13a-95a144e3146c

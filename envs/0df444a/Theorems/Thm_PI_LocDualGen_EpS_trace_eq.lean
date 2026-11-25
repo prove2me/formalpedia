@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_EpS_trace_eq
 -- name    : PI.LocDualGen.EpS.trace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:03.966431+00:00
 -- url     : https://prove2.me/theorems/7b7a8f51-f91b-521a-87d2-6e98bc95d66c

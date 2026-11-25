@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NMeasInv_UnitaryGroupMassFormula_Pw_A
 -- name    : PI.NMeasInv.UnitaryGroupMassFormula.Pw_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:12:46.298989+00:00
 -- url     : https://prove2.me/theorems/57b6fa7d-c406-4e73-88b4-e4f4ee03e93c

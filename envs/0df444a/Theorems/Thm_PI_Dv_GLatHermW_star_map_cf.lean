@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLatHermW_star_map_cf
 -- name    : PI.Dv.GLatHermW.star_map_cf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:16:44.315368+00:00
 -- url     : https://prove2.me/theorems/d8c42db3-9744-4e49-8f1d-dcf0cfd4bfb6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_NCH_xp_add
 -- name    : PI.LevelKSplit.W.NCH.xp_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:36:53.553838+00:00
 -- url     : https://prove2.me/theorems/0104d5a8-30ea-501b-b95d-af91114f0e03

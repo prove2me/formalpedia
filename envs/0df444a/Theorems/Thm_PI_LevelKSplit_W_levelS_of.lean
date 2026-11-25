@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_levelS_of
 -- name    : PI.LevelKSplit.W.levelS_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:26.967298+00:00
 -- url     : https://prove2.me/theorems/931b8d16-d980-42aa-b021-1b4a64625ca4

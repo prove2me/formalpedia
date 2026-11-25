@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerIso_FourSqW_conjK_apply
 -- name    : PI.KerIso.FourSqW.conjK_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:34:55.395969+00:00
 -- url     : https://prove2.me/theorems/70b3c40e-39ca-5fb0-b0b0-987303e85497

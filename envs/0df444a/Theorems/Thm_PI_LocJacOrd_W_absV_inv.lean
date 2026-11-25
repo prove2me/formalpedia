@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocJacOrd_W_absV_inv
 -- name    : PI.LocJacOrd.W.absV_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:18:38.592294+00:00
 -- url     : https://prove2.me/theorems/737483dc-e215-5287-bc19-d7d06a1511f3

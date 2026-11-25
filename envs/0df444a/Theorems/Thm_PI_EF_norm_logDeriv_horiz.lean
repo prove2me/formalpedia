@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_norm_logDeriv_horiz
 -- name    : PI.EF.norm_logDeriv_horiz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:57.381801+00:00
 -- url     : https://prove2.me/theorems/e49646c1-f482-59be-a713-f9de554525ae

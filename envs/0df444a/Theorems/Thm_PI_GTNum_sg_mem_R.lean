@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTNum_sg_mem_R
 -- name    : PI.GTNum.sg_mem_R
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:28:41.988663+00:00
 -- url     : https://prove2.me/theorems/b32ea150-faa0-41a8-b336-a8898b8c747b

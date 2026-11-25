@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_ThmBHecke_isPlaceIdem_placeIdem
 -- name    : GroundTheory.BlockD.ThmBHecke.isPlaceIdem_placeIdem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:42:44.577418+00:00
 -- url     : https://prove2.me/theorems/685149ab-2293-4402-acfb-8d9ea7c66be3

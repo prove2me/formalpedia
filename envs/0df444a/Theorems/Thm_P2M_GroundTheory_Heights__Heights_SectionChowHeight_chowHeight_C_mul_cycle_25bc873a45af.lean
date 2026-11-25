@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionChowHeight_chowHeight_C_mul_cycle_25bc873a45af
 -- name    : P2M_GroundTheory_Heights__Heights_SectionChowHeight_chowHeight_C_mul_cycle_25bc873a45af
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:40:44.396148+00:00
 -- url     : https://prove2.me/theorems/9434ed73-638f-50d1-8a9e-db11b244171a

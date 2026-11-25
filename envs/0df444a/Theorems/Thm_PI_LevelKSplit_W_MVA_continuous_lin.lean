@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_MVA_continuous_lin
 -- name    : PI.LevelKSplit.W.MVA.continuous_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:35:38.686111+00:00
 -- url     : https://prove2.me/theorems/8af317f5-c939-427c-8759-6dffc96fc19e

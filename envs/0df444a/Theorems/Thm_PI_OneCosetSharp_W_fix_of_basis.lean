@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_fix_of_basis
 -- name    : PI.OneCosetSharp.W.fix_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:20:44.291594+00:00
 -- url     : https://prove2.me/theorems/24c23f99-0021-53f8-b79a-23be0966f118

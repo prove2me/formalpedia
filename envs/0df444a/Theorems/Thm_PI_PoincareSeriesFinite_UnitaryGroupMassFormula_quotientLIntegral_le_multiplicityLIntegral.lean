@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PoincareSeriesFinite_UnitaryGroupMassFormula_quotientLIntegral_le_multiplicityLIntegral
 -- name    : PI.PoincareSeriesFinite.UnitaryGroupMassFormula.quotientLIntegral_le_multiplicityLIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:57.339933+00:00
 -- url     : https://prove2.me/theorems/0d8dc015-0639-5dbc-954c-0437a9684119

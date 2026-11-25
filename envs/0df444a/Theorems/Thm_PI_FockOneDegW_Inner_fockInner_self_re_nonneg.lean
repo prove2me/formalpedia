@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Inner_fockInner_self_re_nonneg
 -- name    : PI.FockOneDegW.Inner.fockInner_self_re_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:46.858388+00:00
 -- url     : https://prove2.me/theorems/09b025f6-d157-4a39-9876-40e06d49e860

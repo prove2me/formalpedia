@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Tr_t2Space_of_isValuativeTopology_alt
 -- name    : PI.ProdFormulaE.Tr.t2Space_of_isValuativeTopology_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:28.412827+00:00
 -- url     : https://prove2.me/theorems/3d2e1a1c-85c8-54fd-9947-2a60063ff4f7

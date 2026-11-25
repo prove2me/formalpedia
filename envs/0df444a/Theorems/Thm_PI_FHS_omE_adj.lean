@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FHS_omE_adj
 -- name    : PI.FHS.omE_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:42.631259+00:00
 -- url     : https://prove2.me/theorems/797aa62f-40e5-41b8-8b77-d415459934c4

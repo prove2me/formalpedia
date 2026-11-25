@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLemmas_LocalLatticeIndex_card_quot_span_bba263407b48
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLemmas_LocalLatticeIndex_card_quot_span_bba263407b48
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:43:06.480059+00:00
 -- url     : https://prove2.me/theorems/a3423a16-3fdc-46a2-b6e8-16f3fa364fdb

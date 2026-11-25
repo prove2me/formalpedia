@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PhMeasCore_UnitaryGroupMassFormula_mul_mem_UH
 -- name    : PI.PhMeasCore.UnitaryGroupMassFormula.mul_mem_UH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:35:42.547947+00:00
 -- url     : https://prove2.me/theorems/d52794ac-ca0d-4b3a-8b71-5b356e83bf1e

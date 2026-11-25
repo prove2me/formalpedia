@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_OnW_Gen_exists_restrict_twistMulBundle_1b736d316c28
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_OnW_Gen_exists_restrict_twistMulBundle_1b736d316c28
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:09:57.422497+00:00
 -- url     : https://prove2.me/theorems/28e3086e-2653-48b7-8d97-5de14e0b267e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMP_seg_pos_gen
 -- name    : PI.FJMP.seg_pos_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:45:37.730317+00:00
 -- url     : https://prove2.me/theorems/1e794ef2-8293-42d7-b525-0c53a8f287f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglChordFactor_Wk_fact_div
 -- name    : PI.FglChordFactor.Wk.fact_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:18.680078+00:00
 -- url     : https://prove2.me/theorems/9df613bc-f1f9-4c0d-8454-c6a137aa1bc7

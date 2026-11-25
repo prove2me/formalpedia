@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PhMeasCore_UnitaryGroupMassFormula_continuousOn_B
 -- name    : PI.PhMeasCore.UnitaryGroupMassFormula.continuousOn_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:35:28.121801+00:00
 -- url     : https://prove2.me/theorems/d587e232-bf97-5117-9241-65f487a411a8

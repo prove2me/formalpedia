@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_comm_eq
 -- name    : PI.FJMF.comm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:20.712145+00:00
 -- url     : https://prove2.me/theorems/b8cd1f07-a321-4d48-9023-9f7b2b46f53b

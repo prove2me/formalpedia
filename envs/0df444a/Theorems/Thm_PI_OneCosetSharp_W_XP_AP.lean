@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_XP_AP
 -- name    : PI.OneCosetSharp.W.XP_AP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:18:19.997186+00:00
 -- url     : https://prove2.me/theorems/7e174c14-95c9-5f04-a6e4-0f689d4fc866

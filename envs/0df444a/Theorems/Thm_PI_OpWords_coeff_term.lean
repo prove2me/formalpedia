@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_coeff_term
 -- name    : PI.OpWords.coeff_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:17:08.395674+00:00
 -- url     : https://prove2.me/theorems/597732a3-4afb-4bfd-a49d-1fe9e1bc4ff4

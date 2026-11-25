@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_finite_neighbourhood_first
 -- name    : PI.InvTopW.finite_neighbourhood_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:45.198003+00:00
 -- url     : https://prove2.me/theorems/f0c0b828-5820-57a5-9af6-498520420ef3

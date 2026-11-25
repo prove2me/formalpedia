@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_MSC_shapeColumnDegree_columnSizes
 -- name    : PI.MSC.shapeColumnDegree_columnSizes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:34:40.619584+00:00
 -- url     : https://prove2.me/theorems/0e798a06-5bc8-5194-920f-e40a6b31e3ad

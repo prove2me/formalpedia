@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_HwC_wt_Eab
 -- name    : PI.FockOneDegW.HwC.wt_Eab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:30:40.930229+00:00
 -- url     : https://prove2.me/theorems/f31fa66f-868e-4cab-b680-e88af16c2542

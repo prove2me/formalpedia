@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_log_six
 -- name    : PI.PC.log_six
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:50.271991+00:00
 -- url     : https://prove2.me/theorems/b8c622ee-75c9-508b-9152-d6dfd073a12c

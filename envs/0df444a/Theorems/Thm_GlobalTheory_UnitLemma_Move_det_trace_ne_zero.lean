@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Move_det_trace_ne_zero
 -- name    : GlobalTheory.UnitLemma.Move.det_trace_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:29:45.680565+00:00
 -- url     : https://prove2.me/theorems/13643dd9-dadc-4099-a537-f6cb4c6c69fa

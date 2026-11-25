@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Low_rowGen_mnr_mat
 -- name    : PI.OddDualWeyl.Low.rowGen_mnr_mat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:55.015946+00:00
 -- url     : https://prove2.me/theorems/616216eb-a1f0-4f3c-b771-f1d891fa1373

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Hom_lpMinor_tot
 -- name    : PI.OddDualWeyl.Hom.lpMinor_tot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:14:15.077207+00:00
 -- url     : https://prove2.me/theorems/30ccddb7-b394-42f8-b039-7234fee3272b

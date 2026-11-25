@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Lent_disc_bound
 -- name    : PI.EF.Lent_disc_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:05.55457+00:00
 -- url     : https://prove2.me/theorems/7d716a6a-0274-469b-89fa-5e3f975a528c

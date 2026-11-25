@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Mk_kron_mul
 -- name    : PI.Mk.kron_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:19.678871+00:00
 -- url     : https://prove2.me/theorems/eb01f40c-8ba3-409a-858c-e31c39d6241d

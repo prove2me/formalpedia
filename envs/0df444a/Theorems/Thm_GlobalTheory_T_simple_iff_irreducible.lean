@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_simple_iff_irreducible
 -- name    : GlobalTheory.T.simple_iff_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:15:58.66145+00:00
 -- url     : https://prove2.me/theorems/d35a4e52-ff82-4164-a449-862e5477c1e2

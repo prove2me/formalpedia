@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_ZetaDoubling_dblB
 -- name    : PI.GalTorsConj.W.ZetaDoubling.dblB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:31:47.087489+00:00
 -- url     : https://prove2.me/theorems/14c4b57f-d975-4a7a-9c84-57095fb23e67

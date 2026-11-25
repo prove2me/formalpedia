@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GoodPlace_equality
 -- name    : GlobalTheory.HL.GoodPlace.equality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:34:50.419905+00:00
 -- url     : https://prove2.me/theorems/15ff1196-fa0e-5b27-9ef7-cd2e93913e7f

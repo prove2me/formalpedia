@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HatAffineFullTheorem_no_affineHalf_extends
 -- name    : HatAffineFullTheorem.no_affineHalf_extends
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:13:39.507105+00:00
 -- url     : https://prove2.me/theorems/d874c1c2-4bcc-50d2-851c-21e4c1d2ef5a

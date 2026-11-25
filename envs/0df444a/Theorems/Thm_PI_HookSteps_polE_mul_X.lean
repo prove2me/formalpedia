@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_polE_mul_X
 -- name    : PI.HookSteps.polE_mul_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:17:53.051129+00:00
 -- url     : https://prove2.me/theorems/6f2dc48a-890e-44f9-9886-a8a18ddbde21

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_rowGen_coeff_zero
 -- name    : PI.HookSteps.rowGen_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:08:54.317376+00:00
 -- url     : https://prove2.me/theorems/65be7bac-590c-5e75-842a-e56f854ade0d

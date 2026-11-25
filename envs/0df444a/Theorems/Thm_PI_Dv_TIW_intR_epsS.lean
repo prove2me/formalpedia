@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_intR_epsS
 -- name    : PI.Dv.TIW.intR_epsS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:18:51.696672+00:00
 -- url     : https://prove2.me/theorems/035508b5-ad5f-43e2-9019-0039c868cf0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_encard_gluingHom_kernels_le
 -- name    : GlobalTheory.T.encard_gluingHom_kernels_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:53:09.269586+00:00
 -- url     : https://prove2.me/theorems/a3f4d7dc-cb8f-5409-b3bd-ae085e13dea0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_hc_raiLow
 -- name    : PI.FJMF.hc_raiLow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:21.212492+00:00
 -- url     : https://prove2.me/theorems/9e06d45c-d703-4050-b4fa-f99e1eb46504

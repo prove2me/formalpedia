@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_GN_fvec_sum_le
 -- name    : PI.PolynomialProperness.GN.fvec_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:36:22.098429+00:00
 -- url     : https://prove2.me/theorems/3a2eab22-6061-5470-a1df-832db45369b4

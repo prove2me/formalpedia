@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_inter_congr_of_curve_deb0aef85e6b
 -- name    : P2M_GroundTheory_Heights__Heights_inter_congr_of_curve_deb0aef85e6b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:06:39.542796+00:00
 -- url     : https://prove2.me/theorems/0f02b770-39a9-4bd3-bd09-bc8e3c28a187

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HwUniqW_fix_block
 -- name    : PI.HwUniqW.fix_block
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:45.202273+00:00
 -- url     : https://prove2.me/theorems/a6dfd491-00fd-485f-b4bc-04d55c6746d0

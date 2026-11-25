@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_FglShared_expMv_add__f0eb8b5a05d0
 -- name    : P2M_PI_FglShared_expMv_add__f0eb8b5a05d0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:11:36.454818+00:00
 -- url     : https://prove2.me/theorems/eeb36355-10b1-4d04-9d52-c53f770c2e07

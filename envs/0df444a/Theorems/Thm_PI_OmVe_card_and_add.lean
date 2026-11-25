@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmVe_card_and_add
 -- name    : PI.OmVe.card_and_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:15:31.603817+00:00
 -- url     : https://prove2.me/theorems/500ec4d6-be25-5f2b-a7ef-de3d4ed18260

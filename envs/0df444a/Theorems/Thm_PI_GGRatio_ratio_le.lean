@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGRatio_ratio_le
 -- name    : PI.GGRatio.ratio_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:57:46.727884+00:00
 -- url     : https://prove2.me/theorems/2e4d96a3-b000-5548-b898-ede31d952620

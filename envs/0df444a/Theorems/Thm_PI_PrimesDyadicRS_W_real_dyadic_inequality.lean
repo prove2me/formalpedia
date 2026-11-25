@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PrimesDyadicRS_W_real_dyadic_inequality
 -- name    : PI.PrimesDyadicRS.W.real_dyadic_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:36:31.248974+00:00
 -- url     : https://prove2.me/theorems/eee31286-0934-47c6-ad11-a8a38ef628a5

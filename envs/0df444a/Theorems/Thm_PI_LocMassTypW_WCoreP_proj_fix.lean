@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocMassTypW_WCoreP_proj_fix
 -- name    : PI.LocMassTypW.WCoreP.proj_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:34:43.227926+00:00
 -- url     : https://prove2.me/theorems/1c86a8a2-4fda-4e3e-b35a-8f848a87b3e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LPI_lift_lat
 -- name    : PI.LPI.lift_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:35:12.241744+00:00
 -- url     : https://prove2.me/theorems/774dd45e-7673-4443-bc21-5d97227ac55b

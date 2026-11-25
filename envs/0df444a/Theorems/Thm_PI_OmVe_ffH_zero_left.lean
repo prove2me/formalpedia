@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmVe_ffH_zero_left
 -- name    : PI.OmVe.ffH_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:27:36.408805+00:00
 -- url     : https://prove2.me/theorems/a5901cd0-a003-4d45-b825-badc6b5038e8

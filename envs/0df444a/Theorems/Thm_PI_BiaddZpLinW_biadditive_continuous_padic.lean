@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BiaddZpLinW_biadditive_continuous_padic
 -- name    : PI.BiaddZpLinW.biadditive_continuous_padic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:25:41.8028+00:00
 -- url     : https://prove2.me/theorems/b8bc0e23-c87e-4642-83c7-8bd8731ea551

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_Assemble_sc_one
 -- name    : PI.LocFramePrimWork.Assemble_sc_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:11:02.197463+00:00
 -- url     : https://prove2.me/theorems/ea970ad1-e99c-477b-9034-49dd0864f4c9

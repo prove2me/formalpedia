@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_factorial_add_le
 -- name    : PI.HookSteps.factorial_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:07:30.97417+00:00
 -- url     : https://prove2.me/theorems/f4ef5ec6-78f8-44f3-9b80-a0f784e781c8

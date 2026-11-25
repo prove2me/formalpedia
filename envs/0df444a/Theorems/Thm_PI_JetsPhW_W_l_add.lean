@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_W_l_add
 -- name    : PI.JetsPhW.W.l_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:33:25.716469+00:00
 -- url     : https://prove2.me/theorems/4591b69d-1329-413b-997e-4ac62220a565

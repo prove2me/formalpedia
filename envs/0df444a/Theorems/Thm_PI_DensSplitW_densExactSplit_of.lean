@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DensSplitW_densExactSplit_of
 -- name    : PI.DensSplitW.densExactSplit_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:16:32.385704+00:00
 -- url     : https://prove2.me/theorems/1222938e-9153-49b8-b4f7-e14e98f29117

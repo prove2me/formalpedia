@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_coeff_X_pderiv_self
 -- name    : PI.OpWords.coeff_X_pderiv_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:17:22.309791+00:00
 -- url     : https://prove2.me/theorems/5535e0fe-d01f-5272-86e3-31491e58b916

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_integerInclusion_injective
 -- name    : GroundTheory.LocalField.integerInclusion_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:44:59.062281+00:00
 -- url     : https://prove2.me/theorems/de87dfca-d93c-4ad2-8331-319297f61bb6

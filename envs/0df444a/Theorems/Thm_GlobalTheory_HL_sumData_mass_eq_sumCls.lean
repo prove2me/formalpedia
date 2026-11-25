@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_sumData_mass_eq_sumCls
 -- name    : GlobalTheory.HL.sumData_mass_eq_sumCls
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:35:57.596601+00:00
 -- url     : https://prove2.me/theorems/20d4d420-007a-42c7-b0a3-6e88ec867a70

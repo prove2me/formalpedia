@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NMeasInv_UnitaryGroupMassFormula_A_spanLt
 -- name    : PI.NMeasInv.UnitaryGroupMassFormula.A_spanLt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:21:58.28428+00:00
 -- url     : https://prove2.me/theorems/39b51ea1-e69a-5b23-be95-f8c797b206d1

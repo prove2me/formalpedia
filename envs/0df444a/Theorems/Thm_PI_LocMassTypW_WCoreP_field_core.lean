@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocMassTypW_WCoreP_field_core
 -- name    : PI.LocMassTypW.WCoreP.field_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:16.05888+00:00
 -- url     : https://prove2.me/theorems/2eb36db8-5c1c-4f96-af0f-ca298c81beaa

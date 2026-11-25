@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_weak_approx_unit_finite_place
 -- name    : GlobalTheory.T.exists_weak_approx_unit_finite_place
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:39:28.244983+00:00
 -- url     : https://prove2.me/theorems/b0483c23-4343-4954-9913-3414fd080e5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMD_vecJ_of
 -- name    : PI.FJMD.vecJ_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:08.223246+00:00
 -- url     : https://prove2.me/theorems/0009c2de-b23c-5737-8b1a-77579809641a

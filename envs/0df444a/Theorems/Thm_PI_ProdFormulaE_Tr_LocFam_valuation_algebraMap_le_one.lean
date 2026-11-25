@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Tr_LocFam_valuation_algebraMap_le_one
 -- name    : PI.ProdFormulaE.Tr.LocFam.valuation_algebraMap_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:34.863723+00:00
 -- url     : https://prove2.me/theorems/c9113f67-8753-43eb-abdf-098c11e5d9c3

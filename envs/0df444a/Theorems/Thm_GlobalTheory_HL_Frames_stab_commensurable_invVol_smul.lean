@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Frames_stab_commensurable_invVol_smul
 -- name    : GlobalTheory.HL.Frames.stab_commensurable_invVol_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:39:28.739867+00:00
 -- url     : https://prove2.me/theorems/150c19a9-a43d-4585-95a7-bc0d61f0b127

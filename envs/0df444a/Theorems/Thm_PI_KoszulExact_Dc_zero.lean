@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KoszulExact_Dc_zero
 -- name    : PI.KoszulExact.Dc_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:34:15.906045+00:00
 -- url     : https://prove2.me/theorems/97ed0b07-1f7f-48ef-a04e-5556bcf38e79

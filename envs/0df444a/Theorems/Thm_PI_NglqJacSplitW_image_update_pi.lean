@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NglqJacSplitW_image_update_pi
 -- name    : PI.NglqJacSplitW.image_update_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:35:18.977961+00:00
 -- url     : https://prove2.me/theorems/45526bd2-ac52-4560-854c-914b0e4570c5

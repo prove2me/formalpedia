@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_normGroupSign_mul_and_neg_one
 -- name    : GlobalTheory.T.normGroupSign_mul_and_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:12:47.825813+00:00
 -- url     : https://prove2.me/theorems/3a5743ef-fec4-5da3-a2e9-df8ef5cb9351

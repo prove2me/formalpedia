@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_finite_rhoSet
 -- name    : GlobalTheory.UnitLemma.Desc.finite_rhoSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:28:13.632807+00:00
 -- url     : https://prove2.me/theorems/2d5c6bff-9440-4468-8da3-0ac5b3b33e75

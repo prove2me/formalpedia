@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OkpW_c_invol
 -- name    : PI.OkpW.c_invol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:14:55.294103+00:00
 -- url     : https://prove2.me/theorems/4a2cc46a-74f9-4dba-ab01-aeb44990568c

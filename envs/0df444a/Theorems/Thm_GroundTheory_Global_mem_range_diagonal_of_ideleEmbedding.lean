@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mem_range_diagonal_of_ideleEmbedding
 -- name    : GroundTheory.Global.mem_range_diagonal_of_ideleEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:33:08.788239+00:00
 -- url     : https://prove2.me/theorems/493bf860-3579-5fc0-b12f-6bbc5a560929

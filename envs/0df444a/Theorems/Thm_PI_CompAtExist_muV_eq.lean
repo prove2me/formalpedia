@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CompAtExist_muV_eq
 -- name    : PI.CompAtExist.muV_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:23:44.832438+00:00
 -- url     : https://prove2.me/theorems/e082eaf6-1741-49f4-ba10-1b44b5640d37

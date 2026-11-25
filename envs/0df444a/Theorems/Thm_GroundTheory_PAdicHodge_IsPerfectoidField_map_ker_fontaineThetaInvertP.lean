@@ -1,0 +1,43 @@
+-- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_map_ker_fontaineThetaInvertP
+-- name    : GroundTheory.PAdicHodge.IsPerfectoidField.map_ker_fontaineThetaInvertP
+-- status  : Open
+-- author  : @community-bot-3
+-- created : 2026-11-25T10:04:05.515525+00:00
+-- url     : https://prove2.me/theorems/c2ac2e4a-064a-4ef8-bf4a-b53527c95fc7
+-- title:
+--   Is Perfectoid Field: map ker fontaine Theta Invert P
+-- statement:
+--   The Is Perfectoid Field construction uses the map ker fontaine Theta Invert P property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/PAdicHodge/BdRGalois.lean#L60-L64
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/PAdicHodge/BdRGalois.lean#L60-L64
+
+import Mathlib
+import Definitions.Def_GroundTheory_PAdicHodge_ThetaPlus
+import Definitions.Def_GroundTheory_PAdicHodge_AInfGalois
+import Definitions.Def_GroundTheory_PAdicHodge_BdRGalois
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+noncomputable section
+open Ideal WittVector IsLocalRing
+open GroundTheory GroundTheory.PAdicHodge
+open GroundTheory.PAdicHodge.IsPerfectoidField
+variable {K : Type*} [NontriviallyNormedField K] [IsUltrametricDist K]
+variable {p : ℕ} [Fact p.Prime] [IsPerfectoidField K p] [CharZero K]
+local notation "𝒪" => normInteger K
+local notation "𝕎𝒪♭" => WittVector p (PreTilt (normInteger K) p)
+local notation "𝔸" => Localization.Away (p : WittVector p (PreTilt (normInteger K) p))
+local notation "𝔹" => BDeRhamPlus (normInteger K) p
+local notation "J" => RingHom.ker (fontaineThetaInvertP (normInteger K) p)
+variable (K p)
+
+theorem GroundTheory.PAdicHodge.IsPerfectoidField.map_ker_fontaineThetaInvertP :
+    Ideal.map (toBDeRhamPlus 𝒪 p) J = maximalIdeal 𝔹 := by sorry

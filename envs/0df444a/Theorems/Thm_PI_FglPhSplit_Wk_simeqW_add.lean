@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglPhSplit_Wk_simeqW_add
 -- name    : PI.FglPhSplit.Wk.simeqW_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:29:47.048804+00:00
 -- url     : https://prove2.me/theorems/8e7d90e3-4aaa-5fe1-adea-c553c38453c0

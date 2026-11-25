@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_MSC_exists_coeff_ne_zero_of_mem_span
 -- name    : PI.MSC.exists_coeff_ne_zero_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:34:53.041556+00:00
 -- url     : https://prove2.me/theorems/3abeb136-a1e1-5c90-aa7f-59cea47c22e9

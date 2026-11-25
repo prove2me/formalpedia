@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_GN_dot_bound
 -- name    : PI.PolynomialProperness.GN.dot_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:36:28.29636+00:00
 -- url     : https://prove2.me/theorems/5898373a-e1f0-5a82-a194-18ba173ea14d

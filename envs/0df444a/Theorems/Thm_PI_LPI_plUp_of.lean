@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LPI_plUp_of
 -- name    : PI.LPI.plUp_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:33:32.319185+00:00
 -- url     : https://prove2.me/theorems/5be3f110-fceb-490a-8ed0-119351663689

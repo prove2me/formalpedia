@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OkpW_ultra_tail
 -- name    : PI.OkpW.ultra_tail
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:36:05.583821+00:00
 -- url     : https://prove2.me/theorems/fac2d34f-3560-5665-aa03-07ed40d3205a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_UnitBall_unif_coe
 -- name    : GlobalTheory.CompanionTheory.CartGL.UnitBall.unif_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:43:51.500066+00:00
 -- url     : https://prove2.me/theorems/5fd49ad1-f389-4949-b42c-4d48d36b1bf5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_norm_qpow
 -- name    : GroundTheory.LocalField.norm_qpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:37:19.300093+00:00
 -- url     : https://prove2.me/theorems/b0ff2f0c-f834-45f5-99ed-142b3b06484c

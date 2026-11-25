@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_exists_good_height
 -- name    : PI.EF.exists_good_height
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:44.294883+00:00
 -- url     : https://prove2.me/theorems/b36f783d-5e28-4b17-a485-87f56c974f2c

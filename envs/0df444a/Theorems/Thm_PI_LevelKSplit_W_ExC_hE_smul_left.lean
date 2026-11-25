@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_ExC_hE_smul_left
 -- name    : PI.LevelKSplit.W.ExC.hE_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:34:43.847598+00:00
 -- url     : https://prove2.me/theorems/99df6cf7-e572-4256-8b97-63fe686492c8

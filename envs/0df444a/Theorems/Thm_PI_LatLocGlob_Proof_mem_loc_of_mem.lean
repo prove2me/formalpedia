@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LatLocGlob_Proof_mem_loc_of_mem
 -- name    : PI.LatLocGlob.Proof.mem_loc_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:33:53.485294+00:00
 -- url     : https://prove2.me/theorems/c51c5e9b-b9ec-4ce0-9d1d-d5cbe8032200

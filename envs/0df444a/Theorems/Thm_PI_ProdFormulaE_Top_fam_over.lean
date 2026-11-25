@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Top_fam_over
 -- name    : PI.ProdFormulaE.Top.fam_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:41.505532+00:00
 -- url     : https://prove2.me/theorems/001fe7a5-58f6-4589-a67c-f692d85ff377

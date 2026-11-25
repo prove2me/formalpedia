@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Frac_exp_two_pi_int
 -- name    : PI.ProdFormulaE.Frac.exp_two_pi_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:36:34.441805+00:00
 -- url     : https://prove2.me/theorems/a1d3fe83-578f-482d-9121-2cd0105b2ce7

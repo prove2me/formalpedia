@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimensionalCollapse_strong_augmentation_vanishing_singular_values
 -- name    : DimensionalCollapse.strong_augmentation_vanishing_singular_values
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T06:53:42.658606+00:00
 -- url     : https://prove2.me/theorems/dfe1e394-fbf1-40f5-ba71-d577c6d110fe

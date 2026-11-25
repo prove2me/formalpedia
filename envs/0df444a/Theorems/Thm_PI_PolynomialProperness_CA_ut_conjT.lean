@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CA_ut_conjT
 -- name    : PI.PolynomialProperness.CA.ut_conjT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:10:10.165507+00:00
 -- url     : https://prove2.me/theorems/85e64be6-8725-4d22-8947-a9c137954d26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_W_coeff_expMv_eq_expT
 -- name    : PI.JetsPhW.W.coeff_expMv_eq_expT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:33:46.647506+00:00
 -- url     : https://prove2.me/theorems/3de55f4d-d99b-5a1c-8b02-9a035ca710cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitChartMult_exists_betaB_mul_eq_45dd53d7220e
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitChartMult_exists_betaB_mul_eq_45dd53d7220e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:41:24.003401+00:00
 -- url     : https://prove2.me/theorems/ec2906f3-5c02-5c16-9df8-29d1e62df111

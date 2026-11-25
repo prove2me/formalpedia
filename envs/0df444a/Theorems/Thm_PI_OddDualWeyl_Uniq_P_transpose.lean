@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Uniq_P_transpose
 -- name    : PI.OddDualWeyl.Uniq.P_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:13:47.853398+00:00
 -- url     : https://prove2.me/theorems/5e62b635-eb95-5937-b419-a5dd35a19b77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_SubstW_expMv_subst
 -- name    : PI.BeDiagZp.SubstW.expMv_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:25:14.724032+00:00
 -- url     : https://prove2.me/theorems/5f23943f-a315-573e-be1d-9829181d2877

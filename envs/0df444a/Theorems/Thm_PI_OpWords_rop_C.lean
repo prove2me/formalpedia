@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_rop_C
 -- name    : PI.OpWords.rop_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:57.222255+00:00
 -- url     : https://prove2.me/theorems/e9c58804-d2ce-4376-8524-a929b81d5905

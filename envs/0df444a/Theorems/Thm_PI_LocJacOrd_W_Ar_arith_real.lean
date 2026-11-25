@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocJacOrd_W_Ar_arith_real
 -- name    : PI.LocJacOrd.W.Ar.arith_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:35:23.252287+00:00
 -- url     : https://prove2.me/theorems/f5aa1b28-d7f7-4764-832d-9c0fed150cdc

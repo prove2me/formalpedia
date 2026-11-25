@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_EpF_mem_C_iff
 -- name    : PI.LocDualGen.EpF.mem_C_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:34:45.221673+00:00
 -- url     : https://prove2.me/theorems/f304981b-132c-5af6-91ce-190002cb208d

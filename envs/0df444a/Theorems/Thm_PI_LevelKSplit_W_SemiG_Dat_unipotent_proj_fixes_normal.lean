@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiG_Dat_unipotent_proj_fixes_normal
 -- name    : PI.LevelKSplit.W.SemiG.Dat.unipotent_proj_fixes_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:37:43.537258+00:00
 -- url     : https://prove2.me/theorems/2ec881a7-3206-5b6e-95a6-93537d41a0e9

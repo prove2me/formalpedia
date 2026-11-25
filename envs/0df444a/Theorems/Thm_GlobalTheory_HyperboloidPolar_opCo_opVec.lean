@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HyperboloidPolar_opCo_opVec
 -- name    : GlobalTheory.HyperboloidPolar.opCo_opVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:38:06.252917+00:00
 -- url     : https://prove2.me/theorems/3a8db87d-792d-5d72-a1ce-172b6cc29752

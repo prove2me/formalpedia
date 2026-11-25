@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_Ak_zero
 -- name    : F6ConvexWindow.Ak_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:35:36.632524+00:00
 -- url     : https://prove2.me/theorems/aa5cbd63-0bcf-470c-b7ff-49c2d4a13dd1

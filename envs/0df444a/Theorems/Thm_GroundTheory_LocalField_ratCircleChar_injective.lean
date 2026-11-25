@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ratCircleChar_injective
 -- name    : GroundTheory.LocalField.ratCircleChar_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:05:36.682288+00:00
 -- url     : https://prove2.me/theorems/33c0e8b4-3227-44b4-830d-f9eebca461bf

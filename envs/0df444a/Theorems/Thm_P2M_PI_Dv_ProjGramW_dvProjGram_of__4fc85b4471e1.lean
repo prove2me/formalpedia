@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Dv_ProjGramW_dvProjGram_of__4fc85b4471e1
 -- name    : P2M_PI_Dv_ProjGramW_dvProjGram_of__4fc85b4471e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:56:36.902004+00:00
 -- url     : https://prove2.me/theorems/ed2596ca-1b92-4e49-bf34-4b64e884e2e6

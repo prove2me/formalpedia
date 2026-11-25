@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_finsum_eq_log_norm
 -- name    : PI.Dv.TIW.finsum_eq_log_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:31:28.469857+00:00
 -- url     : https://prove2.me/theorems/24cad80d-a992-5623-8daf-2e5d2433d7f7

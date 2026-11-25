@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_prodFact_add_single
 -- name    : PI.OpWords.prodFact_add_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:22.529952+00:00
 -- url     : https://prove2.me/theorems/e60fa32c-ce0c-5f8b-9d72-1bfce87b153e

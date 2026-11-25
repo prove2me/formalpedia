@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SesqAsym_sesq_asym
 -- name    : GlobalTheory.SesqAsym.sesq_asym
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:54:14.272035+00:00
 -- url     : https://prove2.me/theorems/d71fdf6c-e030-42ec-836a-ee01559bb23a

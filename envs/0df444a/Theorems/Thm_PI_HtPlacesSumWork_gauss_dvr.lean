@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HtPlacesSumWork_gauss_dvr
 -- name    : PI.HtPlacesSumWork.gauss_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:07:14.098549+00:00
 -- url     : https://prove2.me/theorems/16b9bb2b-b528-489a-aa99-808c167ca684

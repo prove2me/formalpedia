@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_embedMatrix_basisVec_apply_of_not_free
 -- name    : PI.OneCosetSharp.W.embedMatrix_basisVec_apply_of_not_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:18:29.600813+00:00
 -- url     : https://prove2.me/theorems/d09ce1e9-11f6-5244-9f14-517cb200d56c

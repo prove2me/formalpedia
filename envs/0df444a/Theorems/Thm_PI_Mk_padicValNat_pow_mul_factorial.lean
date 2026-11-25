@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Mk_padicValNat_pow_mul_factorial
 -- name    : PI.Mk.padicValNat_pow_mul_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:18.678307+00:00
 -- url     : https://prove2.me/theorems/386c2096-f8bd-596d-8eb5-d21deaa0dd96

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KoszulExact_one_mem_pow_zero
 -- name    : PI.KoszulExact.one_mem_pow_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:33:46.175821+00:00
 -- url     : https://prove2.me/theorems/b03fb8c1-0267-56b0-be75-39cc650e552b

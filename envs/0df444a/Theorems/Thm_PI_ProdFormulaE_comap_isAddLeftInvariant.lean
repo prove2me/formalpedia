@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_comap_isAddLeftInvariant
 -- name    : PI.ProdFormulaE.comap_isAddLeftInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:17:38.486329+00:00
 -- url     : https://prove2.me/theorems/9308d2e1-b25f-4d6a-983e-904fdbe69dc2

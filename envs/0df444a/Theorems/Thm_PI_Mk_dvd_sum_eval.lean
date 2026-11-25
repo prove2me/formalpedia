@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Mk_dvd_sum_eval
 -- name    : PI.Mk.dvd_sum_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:34:54.773183+00:00
 -- url     : https://prove2.me/theorems/fb578b27-4bb8-450d-843a-bb4ed009f7e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KoszulExact_eb_mul_self
 -- name    : PI.KoszulExact.eb_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:34:19.943862+00:00
 -- url     : https://prove2.me/theorems/422805f2-ad59-43c3-9074-c3ce8215bd44

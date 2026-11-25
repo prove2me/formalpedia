@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsotropicReflections_reflection_hermitian_value
 -- name    : PI.IsotropicReflections.reflection_hermitian_value
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:15:31.580781+00:00
 -- url     : https://prove2.me/theorems/d3a7fc7f-45e3-5382-a69b-0bdc5088682a

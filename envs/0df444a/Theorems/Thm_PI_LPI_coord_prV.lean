@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LPI_coord_prV
 -- name    : PI.LPI.coord_prV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:35:11.881353+00:00
 -- url     : https://prove2.me/theorems/d964fe6b-f418-5e68-9a76-686597e96166

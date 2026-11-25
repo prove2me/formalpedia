@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerIso_FourSqW_fourSq_of
 -- name    : PI.KerIso.FourSqW.fourSq_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:33:38.123181+00:00
 -- url     : https://prove2.me/theorems/9afc9c0f-2fd4-41a5-ba87-a5379c4ee9de

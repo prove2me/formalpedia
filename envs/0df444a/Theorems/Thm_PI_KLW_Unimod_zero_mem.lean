@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Unimod_zero_mem
 -- name    : PI.KLW.Unimod.zero_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:43:47.890432+00:00
 -- url     : https://prove2.me/theorems/f41088b6-3c36-4466-8125-cd61423501f3

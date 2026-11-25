@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ParahoricIdxZ_W_cong_blockCond
 -- name    : PI.ParahoricIdxZ.W.cong_blockCond
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:35:42.28379+00:00
 -- url     : https://prove2.me/theorems/f25fde6e-9e45-5344-9a02-9ab33260287e

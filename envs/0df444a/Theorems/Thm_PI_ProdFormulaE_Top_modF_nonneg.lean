@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Top_modF_nonneg
 -- name    : PI.ProdFormulaE.Top.modF_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:32.711862+00:00
 -- url     : https://prove2.me/theorems/aec385ef-659e-4229-97b4-e53b156c73b1

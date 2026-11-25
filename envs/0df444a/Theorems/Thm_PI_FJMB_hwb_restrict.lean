@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMB_hwb_restrict
 -- name    : PI.FJMB.hwb_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:45.833123+00:00
 -- url     : https://prove2.me/theorems/b41bdbcb-b359-4ace-a416-e70fbff1017e

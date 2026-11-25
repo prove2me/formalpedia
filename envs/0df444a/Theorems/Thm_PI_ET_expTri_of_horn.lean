@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_expTri_of_horn
 -- name    : PI.ET.expTri_of_horn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:25.623581+00:00
 -- url     : https://prove2.me/theorems/1d8c6f6e-b6b0-432a-ad48-ba661996d70b

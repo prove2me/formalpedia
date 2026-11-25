@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_MVA_cancel_prod
 -- name    : PI.LevelKSplit.W.MVA.cancel_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:35:39.52864+00:00
 -- url     : https://prove2.me/theorems/a48ec0a6-795b-4bb9-9829-cd7f2049381e

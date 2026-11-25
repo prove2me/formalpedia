@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AutLzFinite_SlopeTestRemainingChoices_pos_perp
 -- name    : PI.AutLzFinite.SlopeTestRemainingChoices.pos_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:24:06.632221+00:00
 -- url     : https://prove2.me/theorems/4979fb47-ea3a-4999-a379-862969b5feab

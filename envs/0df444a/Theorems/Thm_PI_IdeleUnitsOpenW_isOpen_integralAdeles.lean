@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IdeleUnitsOpenW_isOpen_integralAdeles
 -- name    : PI.IdeleUnitsOpenW.isOpen_integralAdeles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:05.112968+00:00
 -- url     : https://prove2.me/theorems/4be11373-3022-544c-a720-28fca42e6a37

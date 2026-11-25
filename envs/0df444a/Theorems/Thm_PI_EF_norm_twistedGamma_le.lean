@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_norm_twistedGamma_le
 -- name    : PI.EF.norm_twistedGamma_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:50.59334+00:00
 -- url     : https://prove2.me/theorems/d791a380-c5b5-4fb0-846a-755998f4331a

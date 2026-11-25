@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMA_shapeProd_supported
 -- name    : PI.FJMA.shapeProd_supported
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:32:12.348801+00:00
 -- url     : https://prove2.me/theorems/d1f7c767-0fed-50ae-858c-f585ae88765c

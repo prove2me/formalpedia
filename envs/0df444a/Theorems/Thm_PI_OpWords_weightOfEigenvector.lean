@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_weightOfEigenvector
 -- name    : PI.OpWords.weightOfEigenvector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:16:50.905228+00:00
 -- url     : https://prove2.me/theorems/6a7e7ba9-3611-5a7e-8910-55b2d97a1b56

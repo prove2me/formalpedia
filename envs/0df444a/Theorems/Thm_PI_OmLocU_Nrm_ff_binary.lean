@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmLocU_Nrm_ff_binary
 -- name    : PI.OmLocU.Nrm.ff_binary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:15:41.716997+00:00
 -- url     : https://prove2.me/theorems/fad45818-0e60-46b5-a7bb-83c66b832df1

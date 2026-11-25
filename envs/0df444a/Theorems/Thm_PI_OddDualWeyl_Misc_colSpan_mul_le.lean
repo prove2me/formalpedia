@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Misc_colSpan_mul_le
 -- name    : PI.OddDualWeyl.Misc.colSpan_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:15:00.514954+00:00
 -- url     : https://prove2.me/theorems/fbd0cbb4-09ed-5211-9f66-5728f00fb8e8

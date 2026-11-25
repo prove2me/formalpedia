@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_HwC_exists_wtvec
 -- name    : PI.FockOneDegW.HwC.exists_wtvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:31:17.022002+00:00
 -- url     : https://prove2.me/theorems/265a3075-f7fb-4ad4-8a91-915da5b7d4eb

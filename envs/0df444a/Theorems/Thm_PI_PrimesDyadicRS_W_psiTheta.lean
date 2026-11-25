@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PrimesDyadicRS_W_psiTheta
 -- name    : PI.PrimesDyadicRS.W.psiTheta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:37:09.846804+00:00
 -- url     : https://prove2.me/theorems/e8a367ae-871c-4781-bf98-2f54ce7bfe44

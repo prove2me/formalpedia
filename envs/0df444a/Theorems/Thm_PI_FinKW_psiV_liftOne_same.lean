@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinKW_psiV_liftOne_same
 -- name    : PI.FinKW.psiV_liftOne_same
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:56:53.681382+00:00
 -- url     : https://prove2.me/theorems/cb050872-73ab-4e94-9f55-64a8dc32a01a

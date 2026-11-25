@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_lidx_map_inj
 -- name    : PI.DvRows.lidx_map_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:32:06.184345+00:00
 -- url     : https://prove2.me/theorems/7af02f05-a7df-5957-8ab3-2ae9d27f6da7

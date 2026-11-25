@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_Part2_dualAtL_mul_unit
 -- name    : PI.LocDualGen.Part2.dualAtL_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:35:01.788889+00:00
 -- url     : https://prove2.me/theorems/17f44af4-414e-4391-a909-3195b128ed19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KoszulExact_Li_eq_map
 -- name    : PI.KoszulExact.Li_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:34:16.068373+00:00
 -- url     : https://prove2.me/theorems/a17c518a-b3dd-4fe5-83fa-785c1492d6d7

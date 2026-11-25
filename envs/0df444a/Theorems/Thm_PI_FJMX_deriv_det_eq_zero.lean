@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_deriv_det_eq_zero
 -- name    : PI.FJMX.deriv_det_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:10:50.504018+00:00
 -- url     : https://prove2.me/theorems/77608bc3-5c28-4d40-86e8-d9b09f1730f7

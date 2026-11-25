@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerTens_W_upd_part
 -- name    : PI.KerTens.W.upd_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:33:42.435382+00:00
 -- url     : https://prove2.me/theorems/3553f7b4-d988-554f-8c0a-6bf15fdd2908

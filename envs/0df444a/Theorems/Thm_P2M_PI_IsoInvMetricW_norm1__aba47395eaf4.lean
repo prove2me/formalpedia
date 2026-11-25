@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_IsoInvMetricW_norm1__aba47395eaf4
 -- name    : P2M_PI_IsoInvMetricW_norm1__aba47395eaf4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:56:46.141525+00:00
 -- url     : https://prove2.me/theorems/b7b4383a-0913-44c5-b9a0-d9286b23d953

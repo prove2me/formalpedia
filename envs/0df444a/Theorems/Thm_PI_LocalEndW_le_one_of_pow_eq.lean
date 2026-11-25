@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocalEndW_le_one_of_pow_eq
 -- name    : PI.LocalEndW.le_one_of_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:34:51.744801+00:00
 -- url     : https://prove2.me/theorems/7e516fae-0f08-5da4-b300-ba9d752d1cd4

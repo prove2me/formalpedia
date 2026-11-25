@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_lidx_mR
 -- name    : PI.IsoDetW.Loc.lidx_mR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:07:48.400551+00:00
 -- url     : https://prove2.me/theorems/1a8b6e2f-bd19-4aaa-8e20-d6e66e73903b

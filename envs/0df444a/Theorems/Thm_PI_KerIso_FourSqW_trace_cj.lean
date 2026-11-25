@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerIso_FourSqW_trace_cj
 -- name    : PI.KerIso.FourSqW.trace_cj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:34:09.559125+00:00
 -- url     : https://prove2.me/theorems/62abece5-3993-485b-ab42-a77c5537f35d

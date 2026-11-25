@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglShared_exp_subst_log
 -- name    : PI.FglShared.exp_subst_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:29:58.982133+00:00
 -- url     : https://prove2.me/theorems/582f0de3-9707-5944-bc3a-4e6536962288

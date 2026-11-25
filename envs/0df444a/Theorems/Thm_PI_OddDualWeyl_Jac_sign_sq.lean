@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Jac_sign_sq
 -- name    : PI.OddDualWeyl.Jac.sign_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:13:34.955802+00:00
 -- url     : https://prove2.me/theorems/02757b99-5701-4c9e-bba0-00b6afebd32d

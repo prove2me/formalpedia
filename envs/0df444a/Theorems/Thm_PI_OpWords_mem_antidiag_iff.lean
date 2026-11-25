@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_mem_antidiag_iff
 -- name    : PI.OpWords.mem_antidiag_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:53.924107+00:00
 -- url     : https://prove2.me/theorems/26a84b5f-3105-45e2-9554-5fca17450930

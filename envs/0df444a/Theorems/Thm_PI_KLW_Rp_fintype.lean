@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Rp_fintype
 -- name    : PI.KLW.Rp_fintype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:32:54.512802+00:00
 -- url     : https://prove2.me/theorems/ca91dee9-5e14-5445-a78e-5c521f765c0b

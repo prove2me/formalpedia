@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocalEndW_valContinuous
 -- name    : PI.LocalEndW.valContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:11.642418+00:00
 -- url     : https://prove2.me/theorems/e364e259-46b7-4988-859e-d11913d6135f

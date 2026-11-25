@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_fockQ_zsmul_left
 -- name    : PI.HookSteps.fockQ_zsmul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:08:16.435738+00:00
 -- url     : https://prove2.me/theorems/ff7730a1-1b5b-43ac-887f-048bec776c1f

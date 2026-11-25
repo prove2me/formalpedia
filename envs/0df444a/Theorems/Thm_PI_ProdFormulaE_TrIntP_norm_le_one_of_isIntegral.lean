@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_TrIntP_norm_le_one_of_isIntegral
 -- name    : PI.ProdFormulaE.TrIntP.norm_le_one_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:18:35.478193+00:00
 -- url     : https://prove2.me/theorems/891d3134-8cf4-40e5-853b-2e38bdfea96d

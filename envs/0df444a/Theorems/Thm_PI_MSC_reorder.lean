@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_MSC_reorder
 -- name    : PI.MSC.reorder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:35:28.371024+00:00
 -- url     : https://prove2.me/theorems/a59aeeb1-1098-4092-a968-5a217448effc

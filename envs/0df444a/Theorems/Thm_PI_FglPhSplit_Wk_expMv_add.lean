@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglPhSplit_Wk_expMv_add
 -- name    : PI.FglPhSplit.Wk.expMv_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:25:47.613237+00:00
 -- url     : https://prove2.me/theorems/e64ddfce-5f33-41d6-9234-9cf038434ab1

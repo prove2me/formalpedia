@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OkpW_pair_mem_of_pow
 -- name    : PI.OkpW.pair_mem_of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:16:55.707939+00:00
 -- url     : https://prove2.me/theorems/fd59d731-77e4-4c9c-b9a2-208cf61bac45

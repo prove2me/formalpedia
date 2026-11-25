@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerIso_FourSqW_tr_swap_zero
 -- name    : PI.KerIso.FourSqW.tr_swap_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:33:53.148349+00:00
 -- url     : https://prove2.me/theorems/185f660d-2d0b-425e-affd-eff5eb29c201

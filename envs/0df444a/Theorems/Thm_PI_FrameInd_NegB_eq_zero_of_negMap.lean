@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_NegB_eq_zero_of_negMap
 -- name    : PI.FrameInd.NegB.eq_zero_of_negMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:55.098407+00:00
 -- url     : https://prove2.me/theorems/e9346e4b-7fd5-49c0-a21b-1781a0350f50

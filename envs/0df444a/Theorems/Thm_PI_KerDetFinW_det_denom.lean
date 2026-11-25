@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerDetFinW_det_denom
 -- name    : PI.KerDetFinW.det_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:33:29.668702+00:00
 -- url     : https://prove2.me/theorems/45daee07-8e5e-43cc-b6af-10db582dca07

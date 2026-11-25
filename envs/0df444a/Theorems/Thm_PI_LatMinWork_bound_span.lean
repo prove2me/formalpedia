@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LatMinWork_bound_span
 -- name    : PI.LatMinWork.bound_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:33:44.384074+00:00
 -- url     : https://prove2.me/theorems/54111c96-c74d-5faa-a897-2a6621ed815f

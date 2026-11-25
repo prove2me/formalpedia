@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HatAffineFullTheorem_generalNoGoStatement
 -- name    : HatAffineFullTheorem.generalNoGoStatement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:11:12.333021+00:00
 -- url     : https://prove2.me/theorems/2db942a5-2088-5f6b-babc-83f8cd8b274c

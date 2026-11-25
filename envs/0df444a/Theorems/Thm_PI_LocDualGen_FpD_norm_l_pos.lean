@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_FpD_norm_l_pos
 -- name    : PI.LocDualGen.FpD.norm_l_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:30.906461+00:00
 -- url     : https://prove2.me/theorems/fbb18f8d-b647-41d8-b264-95ff4895f3ac

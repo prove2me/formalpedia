@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FdFjNearSup_W_realFlow
 -- name    : PI.FdFjNearSup.W.realFlow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:29:44.004394+00:00
 -- url     : https://prove2.me/theorems/2124b77f-ef53-5b63-8984-b0f49787e668

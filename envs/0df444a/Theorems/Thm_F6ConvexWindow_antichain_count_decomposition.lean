@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_antichain_count_decomposition
 -- name    : F6ConvexWindow.antichain_count_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:35:45.917312+00:00
 -- url     : https://prove2.me/theorems/d68d6624-275e-53a5-a9a8-704bce527aad

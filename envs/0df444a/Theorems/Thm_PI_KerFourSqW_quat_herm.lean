@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerFourSqW_quat_herm
 -- name    : PI.KerFourSqW.quat_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:33:02.582694+00:00
 -- url     : https://prove2.me/theorems/fd9da75c-2d65-57a1-8744-6a644e193b3e

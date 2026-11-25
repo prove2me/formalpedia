@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ComplexConjugateDerivative_good_sum
 -- name    : PI.ComplexConjugateDerivative.good_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:26:30.278594+00:00
 -- url     : https://prove2.me/theorems/a2f76ace-39e7-4761-94e1-ce1dfccbc6fa

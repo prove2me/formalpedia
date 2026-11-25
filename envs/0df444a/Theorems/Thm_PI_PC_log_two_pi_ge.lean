@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_log_two_pi_ge
 -- name    : PI.PC.log_two_pi_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:45.350062+00:00
 -- url     : https://prove2.me/theorems/d400ff51-8b22-5f2c-9b43-309c551a31a0

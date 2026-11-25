@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerFourSqW_rat_sum_four_squares
 -- name    : PI.KerFourSqW.rat_sum_four_squares
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:33:04.681092+00:00
 -- url     : https://prove2.me/theorems/01560b25-a668-4ca9-8431-687676dcfcc0

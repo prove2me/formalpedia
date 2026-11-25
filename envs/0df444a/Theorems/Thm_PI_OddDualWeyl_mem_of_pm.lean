@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_mem_of_pm
 -- name    : PI.OddDualWeyl.mem_of_pm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:14:55.56642+00:00
 -- url     : https://prove2.me/theorems/f7f4d275-196a-43a2-bec6-0571908b2082

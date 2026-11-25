@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiG_Dat_complement_proj_image
 -- name    : PI.LevelKSplit.W.SemiG.Dat.complement_proj_image
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:21:25.739081+00:00
 -- url     : https://prove2.me/theorems/25f884f9-73c4-44c1-9a57-1bf1e1d91f8b

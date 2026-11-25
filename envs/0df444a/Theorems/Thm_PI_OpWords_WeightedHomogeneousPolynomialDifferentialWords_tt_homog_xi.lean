@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_WeightedHomogeneousPolynomialDifferentialWords_tt_homog_xi
 -- name    : PI.OpWords.WeightedHomogeneousPolynomialDifferentialWords.tt_homog_xi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:17:00.740274+00:00
 -- url     : https://prove2.me/theorems/a88c66bc-909c-4852-ad3b-943a3f964cac

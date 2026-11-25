@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Intw_adjugate_transvection
 -- name    : PI.OddDualWeyl.Intw.adjugate_transvection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:14:19.314957+00:00
 -- url     : https://prove2.me/theorems/d0386849-4ec9-4504-96bb-c11b57f3dd09

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermiteMinkowski_natAbs_discr_dvd
 -- name    : GlobalTheory.CompanionTheory.HermiteMinkowski.natAbs_discr_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:53:34.623384+00:00
 -- url     : https://prove2.me/theorems/7d638025-eafa-4412-b6a0-3f0169854230

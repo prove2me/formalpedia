@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_theta_homomorphism
 -- name    : Formalism.L2.Th1.D.theta_homomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:10:15.7063+00:00
 -- url     : https://prove2.me/theorems/60534cd0-8e4e-5c69-8403-d4ef251f142f

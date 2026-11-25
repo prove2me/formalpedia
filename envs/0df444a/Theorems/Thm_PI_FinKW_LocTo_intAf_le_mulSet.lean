@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinKW_LocTo_intAf_le_mulSet
 -- name    : PI.FinKW.LocTo.intAf_le_mulSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:34:28.777274+00:00
 -- url     : https://prove2.me/theorems/c34bd118-6835-4f17-82b3-77d77b21c318

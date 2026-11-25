@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointwiseLelong_proof_affee7cfc672
 -- name    : P2M_GroundTheory_Heights__Heights_PointwiseLelong_proof_affee7cfc672
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:14:44.010884+00:00
 -- url     : https://prove2.me/theorems/3d6947ca-57bd-4354-bfef-bcd02796040a

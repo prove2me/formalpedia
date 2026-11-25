@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_EvA_sgn_sq
 -- name    : PI.OddDualWeyl.EvA.sgn_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:35:08.714119+00:00
 -- url     : https://prove2.me/theorems/d81a9ba7-6410-4037-a5e7-abb6ff827921

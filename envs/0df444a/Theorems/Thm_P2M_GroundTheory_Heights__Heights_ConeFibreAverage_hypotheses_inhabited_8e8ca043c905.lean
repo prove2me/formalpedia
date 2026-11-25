@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeFibreAverage_hypotheses_inhabited_8e8ca043c905
 -- name    : P2M_GroundTheory_Heights__Heights_ConeFibreAverage_hypotheses_inhabited_8e8ca043c905
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:49:35.279113+00:00
 -- url     : https://prove2.me/theorems/a83c34a0-3b74-5360-a6e1-b40aa6abba5e

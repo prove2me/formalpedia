@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Ind_unitary_trans
 -- name    : PI.KLW.Ind.unitary_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:33:45.253471+00:00
 -- url     : https://prove2.me/theorems/2b5c79ea-a271-531c-8ff2-befe20c8cf2c

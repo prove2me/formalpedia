@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocHaarRRW_integral_of_memO
 -- name    : PI.LocHaarRRW.integral_of_memO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:34:47.657166+00:00
 -- url     : https://prove2.me/theorems/e85b1f9e-cbd8-4eca-a891-a5aebd21f668

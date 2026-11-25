@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PINNGeneralization_abstract_generalization_error_bound
 -- name    : PINNGeneralization.abstract_generalization_error_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T05:45:56.855632+00:00
 -- url     : https://prove2.me/theorems/53b15545-52b0-46ae-acb0-c8e5b67ebd46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_simeq_trans
 -- name    : PI.BeDiagZp.simeq_trans
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:15:48.118357+00:00
 -- url     : https://prove2.me/theorems/37409ef0-3a51-41aa-9861-e73bbfe32bb8

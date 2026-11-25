@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_finrank_Uperp_of_det
 -- name    : PI.FrameInd.finrank_Uperp_of_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:48.9198+00:00
 -- url     : https://prove2.me/theorems/e7f9bdde-98b6-53db-ab26-860605b501e8

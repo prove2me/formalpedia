@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Diag_fockAct1_monomial
 -- name    : PI.FockOneDegW.Diag.fockAct1_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:31:55.774721+00:00
 -- url     : https://prove2.me/theorems/5fa6917d-a5f8-54a7-9568-8987db0ac1b2

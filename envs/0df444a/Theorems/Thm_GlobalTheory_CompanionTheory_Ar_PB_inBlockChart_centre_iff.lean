@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_inBlockChart_centre_iff
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.inBlockChart_centre_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:23:27.257846+00:00
 -- url     : https://prove2.me/theorems/59d90521-e141-50b5-982f-31a98d44a5af

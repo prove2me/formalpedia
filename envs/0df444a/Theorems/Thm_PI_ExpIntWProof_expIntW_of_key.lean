@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExpIntWProof_expIntW_of_key
 -- name    : PI.ExpIntWProof.expIntW_of_key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:40.209097+00:00
 -- url     : https://prove2.me/theorems/c5ac5024-6f53-4d1a-b5a2-f7da7b1f6b77

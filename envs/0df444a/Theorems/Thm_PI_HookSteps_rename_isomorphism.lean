@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_rename_isomorphism
 -- name    : PI.HookSteps.rename_isomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:08:36.620036+00:00
 -- url     : https://prove2.me/theorems/88b7fdec-23f3-53f1-9cf9-efec7d821a75

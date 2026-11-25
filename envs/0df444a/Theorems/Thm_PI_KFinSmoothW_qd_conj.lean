@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KFinSmoothW_qd_conj
 -- name    : PI.KFinSmoothW.qd_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:32:33.594793+00:00
 -- url     : https://prove2.me/theorems/1c3ad1e4-70ed-57eb-ad11-e0de669e1817

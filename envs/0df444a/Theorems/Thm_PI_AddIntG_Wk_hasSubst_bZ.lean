@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_hasSubst_bZ
 -- name    : PI.AddIntG.Wk.hasSubst_bZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:13:52.688491+00:00
 -- url     : https://prove2.me/theorems/63043ac0-6681-4e3b-8878-d44fd7a330b8

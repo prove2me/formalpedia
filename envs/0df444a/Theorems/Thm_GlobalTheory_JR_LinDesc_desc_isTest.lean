@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_desc_isTest
 -- name    : GlobalTheory.JR.LinDesc.desc_isTest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:33:33.479805+00:00
 -- url     : https://prove2.me/theorems/2432a639-1a7f-4fad-85ed-43330506a7c5

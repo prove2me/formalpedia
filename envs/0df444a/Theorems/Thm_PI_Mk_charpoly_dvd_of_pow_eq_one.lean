@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Mk_charpoly_dvd_of_pow_eq_one
 -- name    : PI.Mk.charpoly_dvd_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:34:59.859385+00:00
 -- url     : https://prove2.me/theorems/3128d22a-45d2-4d18-b567-89edab81db84

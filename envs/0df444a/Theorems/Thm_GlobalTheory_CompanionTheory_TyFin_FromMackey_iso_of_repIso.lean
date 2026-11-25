@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_FromMackey_iso_of_repIso
 -- name    : GlobalTheory.CompanionTheory.TyFin.FromMackey.iso_of_repIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:18:11.19873+00:00
 -- url     : https://prove2.me/theorems/c40f451b-e796-46d9-9aef-0f652a6344cc

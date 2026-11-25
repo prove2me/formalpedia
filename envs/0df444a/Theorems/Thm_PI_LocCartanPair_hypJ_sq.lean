@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocCartanPair_hypJ_sq
 -- name    : PI.LocCartanPair.hypJ_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:12.159185+00:00
 -- url     : https://prove2.me/theorems/4d75a68a-b863-4c29-ba30-750fcc5eabe6

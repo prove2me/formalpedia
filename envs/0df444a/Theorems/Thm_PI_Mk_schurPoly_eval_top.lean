@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Mk_schurPoly_eval_top
 -- name    : PI.Mk.schurPoly_eval_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:34:38.928237+00:00
 -- url     : https://prove2.me/theorems/4c7d0127-7bc8-537e-babf-0b45a67e2b21

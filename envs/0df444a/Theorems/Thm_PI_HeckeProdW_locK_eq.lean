@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HeckeProdW_locK_eq
 -- name    : PI.HeckeProdW.locK_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:31:19.096423+00:00
 -- url     : https://prove2.me/theorems/71464d1e-bccd-45f4-ae10-63aef9ad1cfb

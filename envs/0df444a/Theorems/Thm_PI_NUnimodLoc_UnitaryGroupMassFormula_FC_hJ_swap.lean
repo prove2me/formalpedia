@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NUnimodLoc_UnitaryGroupMassFormula_FC_hJ_swap
 -- name    : PI.NUnimodLoc.UnitaryGroupMassFormula.FC.hJ_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:34:42.943294+00:00
 -- url     : https://prove2.me/theorems/8a233854-07aa-5747-a669-ebcc48e30d00

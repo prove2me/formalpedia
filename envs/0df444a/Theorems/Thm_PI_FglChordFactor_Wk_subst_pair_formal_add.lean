@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglChordFactor_Wk_subst_pair_formal_add
 -- name    : PI.FglChordFactor.Wk.subst_pair_formal_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:43:23.66758+00:00
 -- url     : https://prove2.me/theorems/b5b10dd6-6f18-5c28-99c4-ced821ab534c

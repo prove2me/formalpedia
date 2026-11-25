@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_sidesBound_of
 -- name    : PI.EF.PK.sidesBound_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:28:22.731283+00:00
 -- url     : https://prove2.me/theorems/33da90d0-3b86-5d24-9a31-2338252f1d23

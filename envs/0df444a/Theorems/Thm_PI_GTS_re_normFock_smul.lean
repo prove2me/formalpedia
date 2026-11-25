@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTS_re_normFock_smul
 -- name    : PI.GTS.re_normFock_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:21.63642+00:00
 -- url     : https://prove2.me/theorems/f1e19e5e-6f6f-4cbc-9429-5506a81ae9ea

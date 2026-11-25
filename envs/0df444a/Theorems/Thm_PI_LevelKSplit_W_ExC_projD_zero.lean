@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_ExC_projD_zero
 -- name    : PI.LevelKSplit.W.ExC.projD_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:36:47.458191+00:00
 -- url     : https://prove2.me/theorems/e20fec30-7847-5af0-b73e-5bbc8a744661

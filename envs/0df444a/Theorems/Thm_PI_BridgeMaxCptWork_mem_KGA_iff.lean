@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BridgeMaxCptWork_mem_KGA_iff
 -- name    : PI.BridgeMaxCptWork.mem_KGA_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:26:27.302799+00:00
 -- url     : https://prove2.me/theorems/d5dbe98d-2afe-4a1a-aad1-419a061e4b75

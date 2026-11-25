@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Meas_compV_mulVec_inv
 -- name    : PI.LevelKSplit.W.Meas.compV_mulVec_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:34:15.320781+00:00
 -- url     : https://prove2.me/theorems/da8b6803-b794-4671-90db-bd0558e256cb

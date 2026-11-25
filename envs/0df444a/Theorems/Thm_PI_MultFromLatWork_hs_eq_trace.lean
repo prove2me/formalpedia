@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_MultFromLatWork_hs_eq_trace
 -- name    : PI.MultFromLatWork.hs_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:49.669087+00:00
 -- url     : https://prove2.me/theorems/af8832a6-20b3-4802-b310-2cc3f42abbe2

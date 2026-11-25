@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_WeightedHomogeneousPolynomialDifferentialWords_homog_of_mul
 -- name    : PI.OpWords.WeightedHomogeneousPolynomialDifferentialWords.homog_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:17:33.832925+00:00
 -- url     : https://prove2.me/theorems/901003eb-3e5d-4000-8f4c-cd034c600f09

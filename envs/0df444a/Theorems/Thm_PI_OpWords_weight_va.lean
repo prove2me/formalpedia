@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_weight_va
 -- name    : PI.OpWords.weight_va
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:16:57.361802+00:00
 -- url     : https://prove2.me/theorems/ddc6a992-a01b-5e80-867a-0a29c9f2546f

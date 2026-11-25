@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTermSharp_ofRestTerms_b51aeb723e5a
 -- name    : P2M_GroundTheory_Heights__Heights_RestTermSharp_ofRestTerms_b51aeb723e5a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:02:07.1181+00:00
 -- url     : https://prove2.me/theorems/b684ad21-c704-5b6d-beaf-e8df0064bb3c

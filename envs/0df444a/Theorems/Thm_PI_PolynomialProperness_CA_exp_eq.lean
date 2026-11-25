@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CA_exp_eq
 -- name    : PI.PolynomialProperness.CA.exp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:59:07.531081+00:00
 -- url     : https://prove2.me/theorems/99b7e61b-eeda-4cc1-be1f-df26f38c024d

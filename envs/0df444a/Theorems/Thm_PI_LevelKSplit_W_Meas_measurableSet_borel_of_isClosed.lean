@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Meas_measurableSet_borel_of_isClosed
 -- name    : PI.LevelKSplit.W.Meas.measurableSet_borel_of_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:34:12.204045+00:00
 -- url     : https://prove2.me/theorems/5b87088e-6fe4-4a23-9c0e-d363d4144b24

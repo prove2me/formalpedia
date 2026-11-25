@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_Dual_den
 -- name    : PI.LocFramePrimWork.Dual_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:13:06.387364+00:00
 -- url     : https://prove2.me/theorems/a917e444-8910-50a5-aeab-4937bef4c042

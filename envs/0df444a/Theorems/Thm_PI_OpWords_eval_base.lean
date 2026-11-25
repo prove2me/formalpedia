@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_eval_base
 -- name    : PI.OpWords.eval_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:17:22.715624+00:00
 -- url     : https://prove2.me/theorems/ea19edd3-2507-4ec8-965c-31f221e27d3b

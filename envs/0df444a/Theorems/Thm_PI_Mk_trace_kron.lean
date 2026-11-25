@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Mk_trace_kron
 -- name    : PI.Mk.trace_kron
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:34:49.103147+00:00
 -- url     : https://prove2.me/theorems/6f7cac7f-daea-4b17-a907-2d8e9d5c442c

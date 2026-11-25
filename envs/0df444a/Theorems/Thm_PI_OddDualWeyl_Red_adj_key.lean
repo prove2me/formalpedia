@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Red_adj_key
 -- name    : PI.OddDualWeyl.Red.adj_key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:13:48.77696+00:00
 -- url     : https://prove2.me/theorems/bf9021dc-f643-4951-a3d6-aaae96e1f5eb

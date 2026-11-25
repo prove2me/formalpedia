@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HwUniqW_Hpk_conjTranspose
 -- name    : PI.HwUniqW.Hpk_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:32:26.588667+00:00
 -- url     : https://prove2.me/theorems/86be9260-57e9-4fca-9f3f-1b2eea5dbce8

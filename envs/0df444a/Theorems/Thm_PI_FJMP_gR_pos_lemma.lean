@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMP_gR_pos_lemma
 -- name    : PI.FJMP.gR_pos_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:19.397071+00:00
 -- url     : https://prove2.me/theorems/47549d7e-c11b-4fe3-8edd-bb60be1374ed

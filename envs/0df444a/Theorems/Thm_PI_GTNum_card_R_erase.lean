@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTNum_card_R_erase
 -- name    : PI.GTNum.card_R_erase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:31:02.6338+00:00
 -- url     : https://prove2.me/theorems/2e5166b7-4713-456d-9af6-08d4a45e48e3

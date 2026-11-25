@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LabelsAgree_defect_diag
 -- name    : GlobalTheory.LabelsAgree.defect_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:56:49.83763+00:00
 -- url     : https://prove2.me/theorems/c48aeff3-e128-448b-adfa-a272f5b6bbd3

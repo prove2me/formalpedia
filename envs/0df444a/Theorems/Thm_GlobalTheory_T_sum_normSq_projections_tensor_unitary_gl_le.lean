@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sum_normSq_projections_tensor_unitary_gl_le
 -- name    : GlobalTheory.T.sum_normSq_projections_tensor_unitary_gl_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:09:38.294437+00:00
 -- url     : https://prove2.me/theorems/e77d24e3-391a-46de-ae0c-1b4ac6acc81c

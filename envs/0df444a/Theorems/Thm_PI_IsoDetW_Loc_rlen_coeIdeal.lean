@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_rlen_coeIdeal
 -- name    : PI.IsoDetW.Loc.rlen_coeIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:31:43.0363+00:00
 -- url     : https://prove2.me/theorems/af102efa-02e5-4759-b8b6-de79148bbbf9

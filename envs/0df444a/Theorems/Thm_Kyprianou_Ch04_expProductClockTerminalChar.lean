@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_expProductClockTerminalChar
 -- name    : Kyprianou.Ch04.expProductClockTerminalChar
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T07:56:41.138359+00:00
 -- url     : https://prove2.me/theorems/62854e7f-86bd-4581-bc3b-cbfa0ee287cd

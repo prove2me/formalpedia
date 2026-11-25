@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSection_intUnitsAt_eq_unitFiltrationUnits
 -- name    : GroundTheory.Automorphic.GodementSection.intUnitsAt_eq_unitFiltrationUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:47:42.610569+00:00
 -- url     : https://prove2.me/theorems/918e6933-23bb-5368-8c3c-ac159539c2da

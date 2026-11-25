@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMP_seg_neg_gen
 -- name    : PI.FJMP.seg_neg_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:45:45.740267+00:00
 -- url     : https://prove2.me/theorems/43aae5d3-39f3-4883-a94e-d4ba71696e39

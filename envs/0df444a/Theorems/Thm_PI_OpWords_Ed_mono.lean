@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_Ed_mono
 -- name    : PI.OpWords.Ed_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:16:40.073272+00:00
 -- url     : https://prove2.me/theorems/d766300d-c0b2-428a-9a9b-02e62096109d

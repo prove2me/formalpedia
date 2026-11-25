@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_map_mR_mul
 -- name    : PI.IsoDetW.Loc.map_mR_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:08:44.460391+00:00
 -- url     : https://prove2.me/theorems/cb22c430-4ae4-5650-a8fb-f3f64a2ce0bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FoldMult_UnitaryGroupMassFormula_measurable_mult
 -- name    : PI.FoldMult.UnitaryGroupMassFormula.measurable_mult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:31:06.554405+00:00
 -- url     : https://prove2.me/theorems/dab0e927-aa2b-5e99-b052-a10c4fa58650

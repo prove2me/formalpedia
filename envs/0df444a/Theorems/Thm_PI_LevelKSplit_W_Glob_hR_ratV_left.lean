@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Glob_hR_ratV_left
 -- name    : PI.LevelKSplit.W.Glob.hR_ratV_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:32:43.549664+00:00
 -- url     : https://prove2.me/theorems/72b2e462-1755-40e3-ae25-123ca82102c9

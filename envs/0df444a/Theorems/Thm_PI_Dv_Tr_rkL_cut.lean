@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_rkL_cut
 -- name    : PI.Dv.Tr.rkL_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:12:49.242104+00:00
 -- url     : https://prove2.me/theorems/5f2784bb-9c1d-40b7-9d8f-afa54303598b

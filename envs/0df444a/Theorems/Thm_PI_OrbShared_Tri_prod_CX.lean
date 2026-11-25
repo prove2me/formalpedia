@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OrbShared_Tri_prod_CX
 -- name    : PI.OrbShared.Tri.prod_CX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:35:24.415946+00:00
 -- url     : https://prove2.me/theorems/a29bba29-0a0d-5a69-96f0-63d21c6690d4

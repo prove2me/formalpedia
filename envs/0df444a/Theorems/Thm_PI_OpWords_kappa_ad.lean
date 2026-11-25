@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_kappa_ad
 -- name    : PI.OpWords.kappa_ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:16:40.930986+00:00
 -- url     : https://prove2.me/theorems/73d88309-5b7a-4f73-a8f6-399f42dc588c

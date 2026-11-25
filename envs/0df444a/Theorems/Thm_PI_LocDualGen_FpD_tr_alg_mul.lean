@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_FpD_tr_alg_mul
 -- name    : PI.LocDualGen.FpD.tr_alg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:26.733622+00:00
 -- url     : https://prove2.me/theorems/2265c725-13b8-59ce-8712-ac639ade288b

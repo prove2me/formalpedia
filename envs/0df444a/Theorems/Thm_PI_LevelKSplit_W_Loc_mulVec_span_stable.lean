@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Loc_mulVec_span_stable
 -- name    : PI.LevelKSplit.W.Loc.mulVec_span_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:33:43.051998+00:00
 -- url     : https://prove2.me/theorems/f3833cbd-edac-4a80-87a9-3276b0f6956b

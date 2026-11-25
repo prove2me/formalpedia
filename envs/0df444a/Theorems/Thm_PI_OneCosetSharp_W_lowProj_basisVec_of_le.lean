@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_lowProj_basisVec_of_le
 -- name    : PI.OneCosetSharp.W.lowProj_basisVec_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:20:21.914241+00:00
 -- url     : https://prove2.me/theorems/e501f03e-89cf-4fa8-a4f3-3b5dc524b123

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NglqJacSplitW_exists_test_set
 -- name    : PI.NglqJacSplitW.exists_test_set
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:34:34.301988+00:00
 -- url     : https://prove2.me/theorems/d772af8f-76f6-5c35-b447-35858d07990e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_zeroLocus
 -- name    : PI.EF.zeroLocus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:30:49.057671+00:00
 -- url     : https://prove2.me/theorems/f40bca5d-a1bc-45fd-808e-37c6f65b92a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_PrimeFiltration_RestrictQuot_proof_c9a9d1e661b6
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_PrimeFiltration_RestrictQuot_proof_c9a9d1e661b6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:35:26.757139+00:00
 -- url     : https://prove2.me/theorems/f26b06a0-0b12-5166-a820-80eb20374476

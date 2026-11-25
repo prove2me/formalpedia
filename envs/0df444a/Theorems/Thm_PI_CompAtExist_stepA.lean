@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CompAtExist_stepA
 -- name    : PI.CompAtExist.stepA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:27:05.577911+00:00
 -- url     : https://prove2.me/theorems/ad680667-c604-4a6f-8951-0b5ea08ddc92

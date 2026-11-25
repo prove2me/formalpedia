@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTNum_interlacing_defect_eq_card
 -- name    : PI.GTNum.interlacing_defect_eq_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:04:01.958552+00:00
 -- url     : https://prove2.me/theorems/9c92d25a-f19f-4e07-b2e7-7e07ec32a6ca

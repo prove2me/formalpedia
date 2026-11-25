@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Low_pMinor_congr
 -- name    : PI.OddDualWeyl.Low.pMinor_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:14:06.117249+00:00
 -- url     : https://prove2.me/theorems/24ee8c6f-fb17-4f74-bbb5-b30b4503dbcc

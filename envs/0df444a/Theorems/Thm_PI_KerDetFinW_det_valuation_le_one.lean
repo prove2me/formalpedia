@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerDetFinW_det_valuation_le_one
 -- name    : PI.KerDetFinW.det_valuation_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:34:38.031946+00:00
 -- url     : https://prove2.me/theorems/ce3b41cb-4782-5322-b2d4-4ee2cffc0f9f

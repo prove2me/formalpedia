@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PhNormUnits_UnitaryGroupMassFormula_target_of_hyp
 -- name    : PI.PhNormUnits.UnitaryGroupMassFormula.target_of_hyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:54.5688+00:00
 -- url     : https://prove2.me/theorems/410bf807-dbd1-4b10-8f81-8bf7021288f6

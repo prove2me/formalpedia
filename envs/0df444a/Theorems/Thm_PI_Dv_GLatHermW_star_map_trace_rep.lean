@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLatHermW_star_map_trace_rep
 -- name    : PI.Dv.GLatHermW.star_map_trace_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:13.484494+00:00
 -- url     : https://prove2.me/theorems/02607158-de09-4a61-a095-0e62da1236a8

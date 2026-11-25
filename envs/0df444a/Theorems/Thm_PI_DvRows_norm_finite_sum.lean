@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_norm_finite_sum
 -- name    : PI.DvRows.norm_finite_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:28:53.206412+00:00
 -- url     : https://prove2.me/theorems/cb5edc1b-5e1c-4927-a656-1e6ed46bbaf1

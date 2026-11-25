@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LatIdxDetW_locLen_map
 -- name    : PI.LatIdxDetW.locLen_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:34:13.738917+00:00
 -- url     : https://prove2.me/theorems/737b5f03-973d-47b4-90f5-b53be6db00cc

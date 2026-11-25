@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Misc_exists_eq_mul_of_columnSpan_le
 -- name    : PI.OddDualWeyl.Misc.exists_eq_mul_of_columnSpan_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:14:57.014627+00:00
 -- url     : https://prove2.me/theorems/6dbc9ad1-93cf-599a-98e1-29bc239b4f0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExistsGaugeMeasureForEachRank_W_map_lmul
 -- name    : PI.ExistsGaugeMeasureForEachRank.W.map_lmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:32:51.300684+00:00
 -- url     : https://prove2.me/theorems/ddc3479a-7c63-5956-935b-a6ecb4abd9d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoInvMetricW_wt_lt
 -- name    : PI.IsoInvMetricW.wt_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:09:00.869387+00:00
 -- url     : https://prove2.me/theorems/6e835198-d40e-5318-a1c5-18c7d5446d54

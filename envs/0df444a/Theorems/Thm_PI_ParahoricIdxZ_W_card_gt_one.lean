@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ParahoricIdxZ_W_card_gt_one
 -- name    : PI.ParahoricIdxZ.W.card_gt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:35:47.280304+00:00
 -- url     : https://prove2.me/theorems/5f91d659-7e39-4f3e-ba32-42c375ee37d8

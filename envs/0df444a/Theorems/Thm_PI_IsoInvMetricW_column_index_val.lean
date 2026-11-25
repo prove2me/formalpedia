@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoInvMetricW_column_index_val
 -- name    : PI.IsoInvMetricW.column_index_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:10:32.72786+00:00
 -- url     : https://prove2.me/theorems/cf5b5b08-380c-44f0-a43c-eeddb0ee76de

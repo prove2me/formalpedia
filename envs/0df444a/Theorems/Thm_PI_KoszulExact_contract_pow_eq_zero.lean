@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KoszulExact_contract_pow_eq_zero
 -- name    : PI.KoszulExact.contract_pow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:34:04.343853+00:00
 -- url     : https://prove2.me/theorems/3a4c770a-cb8e-421a-a480-317912b2ed3b

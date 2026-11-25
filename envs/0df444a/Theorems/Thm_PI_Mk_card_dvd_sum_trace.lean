@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Mk_card_dvd_sum_trace
 -- name    : PI.Mk.card_dvd_sum_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:08.401296+00:00
 -- url     : https://prove2.me/theorems/55dbfcba-1de9-48b4-9e32-ffdec163839f

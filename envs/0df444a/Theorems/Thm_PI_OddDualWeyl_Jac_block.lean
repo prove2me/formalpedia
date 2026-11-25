@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Jac_block
 -- name    : PI.OddDualWeyl.Jac.block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:14:24.083916+00:00
 -- url     : https://prove2.me/theorems/c6b0de24-6509-420c-a4bc-ac6e871c49de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_LatticeLemmas_LocalChangeEq_deg_bundle_eq_a4a2fdc96f75
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_LatticeLemmas_LocalChangeEq_deg_bundle_eq_a4a2fdc96f75
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:46:07.395828+00:00
 -- url     : https://prove2.me/theorems/65d236f7-f24e-40b8-87ee-e6b32f165dde

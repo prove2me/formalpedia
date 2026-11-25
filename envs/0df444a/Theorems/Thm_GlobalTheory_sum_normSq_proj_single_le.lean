@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_normSq_proj_single_le
 -- name    : GlobalTheory.sum_normSq_proj_single_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:55:52.85278+00:00
 -- url     : https://prove2.me/theorems/e4721855-f4d4-425d-b4f6-f18d00ede76e

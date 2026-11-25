@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Mk_trace_idem_nat
 -- name    : PI.Mk.trace_idem_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:34:48.370688+00:00
 -- url     : https://prove2.me/theorems/9f6e8191-7f73-4686-8853-2d61ee805eca

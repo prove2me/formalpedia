@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_rt_coeff_BA
 -- name    : PI.AddIntG.Wk.rt_coeff_BA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:46:32.890737+00:00
 -- url     : https://prove2.me/theorems/793162be-397d-4b45-be9b-828cb943ed94

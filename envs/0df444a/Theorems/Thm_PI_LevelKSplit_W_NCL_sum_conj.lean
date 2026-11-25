@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_NCL_sum_conj
 -- name    : PI.LevelKSplit.W.NCL.sum_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:34:24.430243+00:00
 -- url     : https://prove2.me/theorems/52ed66d8-573e-4090-9362-09dd31fbcfc1

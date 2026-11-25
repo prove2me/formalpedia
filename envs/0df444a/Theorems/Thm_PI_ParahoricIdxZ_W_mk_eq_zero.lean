@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ParahoricIdxZ_W_mk_eq_zero
 -- name    : PI.ParahoricIdxZ.W.mk_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:36:16.255333+00:00
 -- url     : https://prove2.me/theorems/ad4c957d-c5a7-4e34-a504-c3a09d0615f2

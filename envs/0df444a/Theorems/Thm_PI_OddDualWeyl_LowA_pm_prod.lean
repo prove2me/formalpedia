@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_LowA_pm_prod
 -- name    : PI.OddDualWeyl.LowA.pm_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:13:52.722051+00:00
 -- url     : https://prove2.me/theorems/00ca8991-90e4-41bf-b200-aaf391d9db3c

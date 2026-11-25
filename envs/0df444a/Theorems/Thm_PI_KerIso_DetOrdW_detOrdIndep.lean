@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerIso_DetOrdW_detOrdIndep
 -- name    : PI.KerIso.DetOrdW.detOrdIndep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:34:36.416625+00:00
 -- url     : https://prove2.me/theorems/78b65cd0-0bc9-5aad-930d-e93006351f05

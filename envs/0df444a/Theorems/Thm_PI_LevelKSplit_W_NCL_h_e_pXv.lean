@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_NCL_h_e_pXv
 -- name    : PI.LevelKSplit.W.NCL.h_e_pXv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:37:03.191523+00:00
 -- url     : https://prove2.me/theorems/acb2dbe2-eb1d-54c9-b62b-3346e58ca237

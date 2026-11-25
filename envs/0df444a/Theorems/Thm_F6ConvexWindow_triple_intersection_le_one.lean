@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_triple_intersection_le_one
 -- name    : F6ConvexWindow.triple_intersection_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:34:10.703228+00:00
 -- url     : https://prove2.me/theorems/6ace4be1-7175-536d-9d9d-a6ef672c5407

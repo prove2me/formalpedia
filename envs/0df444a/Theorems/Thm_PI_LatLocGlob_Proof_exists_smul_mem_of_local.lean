@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LatLocGlob_Proof_exists_smul_mem_of_local
 -- name    : PI.LatLocGlob.Proof.exists_smul_mem_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:34:04.213795+00:00
 -- url     : https://prove2.me/theorems/1726a59d-c6e8-5163-a43b-c059ed24d75c

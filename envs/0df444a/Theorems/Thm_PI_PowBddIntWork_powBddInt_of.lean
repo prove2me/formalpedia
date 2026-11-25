@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PowBddIntWork_powBddInt_of
 -- name    : PI.PowBddIntWork.powBddInt_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:18.921056+00:00
 -- url     : https://prove2.me/theorems/94042c38-416a-41b6-a147-765ef3a56e6f

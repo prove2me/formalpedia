@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLemmas_exists_smulSub_le_b0a4c2df638b
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLemmas_exists_smulSub_le_b0a4c2df638b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:39:57.194027+00:00
 -- url     : https://prove2.me/theorems/73e9899e-0195-4e08-a00a-82a95eadce0b

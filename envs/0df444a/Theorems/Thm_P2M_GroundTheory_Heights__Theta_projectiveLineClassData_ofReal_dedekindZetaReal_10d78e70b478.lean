@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_projectiveLineClassData_ofReal_dedekindZetaReal_10d78e70b478
 -- name    : P2M_GroundTheory_Heights__Theta_projectiveLineClassData_ofReal_dedekindZetaReal_10d78e70b478
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:54:43.012588+00:00
 -- url     : https://prove2.me/theorems/763f97ce-250e-4744-bfcf-076d56b1cafc

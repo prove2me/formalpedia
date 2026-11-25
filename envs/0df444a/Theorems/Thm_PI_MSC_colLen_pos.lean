@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_MSC_colLen_pos
 -- name    : PI.MSC.colLen_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:34:54.860237+00:00
 -- url     : https://prove2.me/theorems/4e4e24c2-188a-47e1-ac79-b1c2bf285283

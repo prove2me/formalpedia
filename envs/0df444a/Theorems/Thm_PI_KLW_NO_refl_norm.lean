@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_NO_refl_norm
 -- name    : PI.KLW.NO.refl_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:26.825136+00:00
 -- url     : https://prove2.me/theorems/944813f6-2d18-5034-b040-ec27e9c3a73a

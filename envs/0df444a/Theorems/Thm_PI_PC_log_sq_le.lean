@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_log_sq_le
 -- name    : PI.PC.log_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:55.120629+00:00
 -- url     : https://prove2.me/theorems/42a3bdfe-d416-49b5-bda9-3916a56aad90

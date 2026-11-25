@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_coeffHolderExp_succ
 -- name    : GroundTheory.PAdicHodge.TeichLift.coeffHolderExp_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:45:32.043739+00:00
 -- url     : https://prove2.me/theorems/544c6f0e-8983-407b-b15c-7556724cd6e6

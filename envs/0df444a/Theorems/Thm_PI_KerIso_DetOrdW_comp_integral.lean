@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerIso_DetOrdW_comp_integral
 -- name    : PI.KerIso.DetOrdW.comp_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:33:24.297836+00:00
 -- url     : https://prove2.me/theorems/b1b30957-f7aa-453f-83ca-46c0c2518bc3

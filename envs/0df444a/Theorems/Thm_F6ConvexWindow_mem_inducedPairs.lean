@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_mem_inducedPairs
 -- name    : F6ConvexWindow.mem_inducedPairs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:32:22.686491+00:00
 -- url     : https://prove2.me/theorems/8fc3d751-3188-4de3-b4ea-016cf1feb0b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_tors_vals_finite
 -- name    : PI.GalTorsConj.W.tors_vals_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:31:56.151845+00:00
 -- url     : https://prove2.me/theorems/c9d1bd63-49b9-44a6-87d9-af72d112f0b8

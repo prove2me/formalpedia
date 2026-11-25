@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_MSC_rename_initMinor
 -- name    : PI.MSC.rename_initMinor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:35:58.044737+00:00
 -- url     : https://prove2.me/theorems/d155a386-200c-43cf-ba19-e09f5b334a08

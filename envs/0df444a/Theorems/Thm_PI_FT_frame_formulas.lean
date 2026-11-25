@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FT_frame_formulas
 -- name    : PI.FT.frame_formulas
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:26:03.418785+00:00
 -- url     : https://prove2.me/theorems/c60f1cd5-4123-4d96-b668-e8ccd89a1e29

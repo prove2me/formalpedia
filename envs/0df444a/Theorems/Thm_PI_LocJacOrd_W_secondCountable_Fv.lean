@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocJacOrd_W_secondCountable_Fv
 -- name    : PI.LocJacOrd.W.secondCountable_Fv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:15:42.033295+00:00
 -- url     : https://prove2.me/theorems/a5f9800d-6dc7-4a47-a66b-dcd18e385f9c

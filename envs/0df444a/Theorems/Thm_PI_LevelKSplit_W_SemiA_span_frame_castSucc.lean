@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiA_span_frame_castSucc
 -- name    : PI.LevelKSplit.W.SemiA.span_frame_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:34:46.217823+00:00
 -- url     : https://prove2.me/theorems/bfd9a253-1ef1-4a87-b9b1-93b7ffb84ec4

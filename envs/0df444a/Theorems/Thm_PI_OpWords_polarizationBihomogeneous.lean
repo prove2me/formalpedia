@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_polarizationBihomogeneous
 -- name    : PI.OpWords.polarizationBihomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:55.127568+00:00
 -- url     : https://prove2.me/theorems/6e07c2c0-f2e8-48f3-87a5-5e389cfac314

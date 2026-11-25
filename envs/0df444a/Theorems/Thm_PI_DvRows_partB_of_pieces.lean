@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_partB_of_pieces
 -- name    : PI.DvRows.partB_of_pieces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:37.433044+00:00
 -- url     : https://prove2.me/theorems/5b1905e0-45e4-48eb-a0e3-7d0c3cd16b73

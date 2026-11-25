@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_ThmBHecke_adeleEquiv_incA
 -- name    : GroundTheory.BlockD.ThmBHecke.adeleEquiv_incA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:38:12.90695+00:00
 -- url     : https://prove2.me/theorems/00187d26-bf1f-4b9e-89b0-30e954080c70

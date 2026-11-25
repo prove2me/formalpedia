@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_degree_sub_add
 -- name    : PI.OpWords.degree_sub_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:17:02.646451+00:00
 -- url     : https://prove2.me/theorems/9a54960f-aa7d-5c61-8992-961ff46245a5

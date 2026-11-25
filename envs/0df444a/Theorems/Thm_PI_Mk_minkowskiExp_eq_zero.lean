@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Mk_minkowskiExp_eq_zero
 -- name    : PI.Mk.minkowskiExp_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:25.896351+00:00
 -- url     : https://prove2.me/theorems/eec751cf-ebc8-47c5-9e90-1fcf5d7673e6

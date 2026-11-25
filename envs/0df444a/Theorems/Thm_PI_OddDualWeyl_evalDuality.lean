@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_evalDuality
 -- name    : PI.OddDualWeyl.evalDuality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:50:14.742942+00:00
 -- url     : https://prove2.me/theorems/385139fd-c7ab-4e2f-a400-527a2c3b7c92

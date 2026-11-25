@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OrbShared_killCompl_subst
 -- name    : PI.OrbShared.killCompl_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:18:56.03678+00:00
 -- url     : https://prove2.me/theorems/03038d7f-3672-4e75-8d3a-2f7c89c69b59

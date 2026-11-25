@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ringKrullDim_le_of_isAlgebraic_adjoin_singleton_7a17107463fa
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ringKrullDim_le_of_isAlgebraic_adjoin_singleton_7a17107463fa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:12:49.091193+00:00
 -- url     : https://prove2.me/theorems/af26244e-4a5d-4136-92e4-d3d54846ec89

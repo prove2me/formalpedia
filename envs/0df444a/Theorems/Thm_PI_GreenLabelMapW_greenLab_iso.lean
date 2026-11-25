@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelMapW_greenLab_iso
 -- name    : PI.GreenLabelMapW.greenLab_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:19.794822+00:00
 -- url     : https://prove2.me/theorems/2710cbb2-ed7d-580a-a820-afcadd46752a

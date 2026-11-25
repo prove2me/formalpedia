@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BaseChangeLogBound_of_leaves_bd9af0a8cb17
 -- name    : P2M_GroundTheory_Heights__Heights_BaseChangeLogBound_of_leaves_bd9af0a8cb17
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:15:01.536775+00:00
 -- url     : https://prove2.me/theorems/b5c66a97-d3a7-4e41-a744-cd582710bd5d

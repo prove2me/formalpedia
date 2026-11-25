@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Low_rowDiv_mem
 -- name    : PI.OddDualWeyl.Low.rowDiv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:13:43.485225+00:00
 -- url     : https://prove2.me/theorems/2446004e-d887-4999-b995-f3db22a1f726

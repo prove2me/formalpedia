@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleClassGroup_exists_map_congruenceSubgroup_le
 -- name    : GroundTheory.Global.IdeleClassGroup.exists_map_congruenceSubgroup_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:23:06.766255+00:00
 -- url     : https://prove2.me/theorems/950ea93a-cbac-5100-a163-c28a9e8d661a

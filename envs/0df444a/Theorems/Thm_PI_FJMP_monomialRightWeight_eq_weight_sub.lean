@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMP_monomialRightWeight_eq_weight_sub
 -- name    : PI.FJMP.monomialRightWeight_eq_weight_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:02.951674+00:00
 -- url     : https://prove2.me/theorems/dd03f25b-3626-4ffd-8a8c-a6b145f71f98

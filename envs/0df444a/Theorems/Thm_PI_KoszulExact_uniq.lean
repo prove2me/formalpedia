@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KoszulExact_uniq
 -- name    : PI.KoszulExact.uniq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:15:18.006773+00:00
 -- url     : https://prove2.me/theorems/fc9eb8eb-f9ec-406d-b73d-303cf4edf3bf

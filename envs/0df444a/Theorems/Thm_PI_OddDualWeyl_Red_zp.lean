@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Red_zp
 -- name    : PI.OddDualWeyl.Red.zp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:14:02.62107+00:00
 -- url     : https://prove2.me/theorems/25de882f-3a08-49e2-9e1f-12ff58bbce5f

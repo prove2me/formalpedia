@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LatMinWork_norm_two_eq_one
 -- name    : PI.LatMinWork.norm_two_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:33:46.244356+00:00
 -- url     : https://prove2.me/theorems/962146ce-3b97-56b3-a902-7b793a036806

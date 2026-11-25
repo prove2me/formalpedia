@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IdealLatticeWork_okArea
 -- name    : PI.IdealLatticeWork.okArea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:07:34.084837+00:00
 -- url     : https://prove2.me/theorems/9c9d2fe4-1f5c-4beb-b0ca-c4bf96fc862b

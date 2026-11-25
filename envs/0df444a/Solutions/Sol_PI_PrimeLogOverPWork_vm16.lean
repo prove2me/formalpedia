@@ -1,0 +1,25 @@
+-- Prove2me | solution 1 for PI.PrimeLogOverPWork.vm16
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-25T10:05:15.222156+00:00
+-- url     : https://prove2.me/submissions/2183fda1-88ba-4aba-adec-b1a6dbc0ce1c
+
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MertensLogSum_LogFactorialEqSumLog
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MertensLogSum_PrimeLogOverPWork
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open PI PI.PrimeLogOverPWork
+open Finset ArithmeticFunction Nat
+namespace PI.PrimeLogOverPWork
+theorem _root_.solution : Λ 16 = Real.log 2 := by
+  rw [show (16:ℕ) = 2 ^ 4 by norm_num, vonMangoldt_apply_pow (by norm_num : (4:ℕ) ≠ 0),
+    vonMangoldt_apply_prime Nat.prime_two]
+  norm_num
+end PI.PrimeLogOverPWork

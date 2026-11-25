@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_GramDeterminantPositive_gramPl_posDef
 -- name    : PI.DvRows.GramDeterminantPositive.gramPl_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:22:09.233676+00:00
 -- url     : https://prove2.me/theorems/942736c7-4813-4dea-80f6-1e62379f1117

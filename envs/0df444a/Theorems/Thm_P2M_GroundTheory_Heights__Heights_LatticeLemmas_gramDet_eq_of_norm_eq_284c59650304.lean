@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLemmas_gramDet_eq_of_norm_eq_284c59650304
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLemmas_gramDet_eq_of_norm_eq_284c59650304
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:38:53.695431+00:00
 -- url     : https://prove2.me/theorems/03815aae-352a-4cf0-ae32-68751517f38d

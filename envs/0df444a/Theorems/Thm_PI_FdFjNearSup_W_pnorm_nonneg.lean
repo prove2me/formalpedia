@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FdFjNearSup_W_pnorm_nonneg
 -- name    : PI.FdFjNearSup.W.pnorm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:29:59.68926+00:00
 -- url     : https://prove2.me/theorems/0bbf3884-6eb1-438a-8291-c8997ac38811

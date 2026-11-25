@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmLocU_CntFF_exists_tr_ne
 -- name    : PI.OmLocU.CntFF.exists_tr_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:16:20.097798+00:00
 -- url     : https://prove2.me/theorems/a6b937af-8075-46a8-b791-5b758d2adbef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_torsUnits
 -- name    : PI.AlgValsFin.W.torsUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:32:06.963299+00:00
 -- url     : https://prove2.me/theorems/6d9374aa-6fa7-449e-86d9-4c83776a4b85

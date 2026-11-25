@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KFinSmoothW_gv_sub_norm_le
 -- name    : PI.KFinSmoothW.gv_sub_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:32:50.956094+00:00
 -- url     : https://prove2.me/theorems/96ef9738-3079-4e4d-bf06-1b7146b4655f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Frac_padicNorm_sub_le_one
 -- name    : PI.ProdFormulaE.Frac.padicNorm_sub_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:36:06.986822+00:00
 -- url     : https://prove2.me/theorems/abf22a4c-22b9-4438-822b-3ea59766b954

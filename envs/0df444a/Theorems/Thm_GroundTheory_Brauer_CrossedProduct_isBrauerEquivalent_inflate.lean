@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_CrossedProduct_isBrauerEquivalent_inflate
 -- name    : GroundTheory.Brauer.CrossedProduct.isBrauerEquivalent_inflate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:43:10.486933+00:00
 -- url     : https://prove2.me/theorems/b369914c-2f16-4d4e-940c-c13a8d20f607

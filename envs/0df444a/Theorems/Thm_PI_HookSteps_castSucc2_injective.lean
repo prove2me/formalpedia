@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_castSucc2_injective
 -- name    : PI.HookSteps.castSucc2_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:08:17.838451+00:00
 -- url     : https://prove2.me/theorems/866ca790-fc19-515b-8c8e-48302ace4747

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglTriFactor_Wk_liftedThirdRoot_mem_coeffSubring
 -- name    : PI.FglTriFactor.Wk.liftedThirdRoot_mem_coeffSubring
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:26:34.04942+00:00
 -- url     : https://prove2.me/theorems/958f0e1c-b553-4c69-82fb-a8fe8981bef6

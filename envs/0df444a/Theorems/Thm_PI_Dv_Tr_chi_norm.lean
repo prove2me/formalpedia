@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_chi_norm
 -- name    : PI.Dv.Tr.chi_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:30:26.641971+00:00
 -- url     : https://prove2.me/theorems/77139547-d5db-4439-8bce-4dcc0ae9ca17

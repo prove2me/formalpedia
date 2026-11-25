@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_chi_integral
 -- name    : PI.Dv.Tr.chi_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:32:20.084899+00:00
 -- url     : https://prove2.me/theorems/bd5bcaa3-6110-5013-88ec-e34eb431d27c

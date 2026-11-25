@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_DividedDifferenceVandermonde_flagIntegral_eq_mul_ddConst_53ddae8e92d5
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_DividedDifferenceVandermonde_flagIntegral_eq_mul_ddConst_53ddae8e92d5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:19:56.294439+00:00
 -- url     : https://prove2.me/theorems/1e239624-c1c6-4dd6-be8c-900ea89c19ae

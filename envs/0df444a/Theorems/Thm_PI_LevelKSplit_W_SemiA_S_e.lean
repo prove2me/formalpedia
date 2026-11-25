@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiA_S_e
 -- name    : PI.LevelKSplit.W.SemiA.S_e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:32:48.049938+00:00
 -- url     : https://prove2.me/theorems/2c18afec-1356-4c4a-8c93-697fc0102190

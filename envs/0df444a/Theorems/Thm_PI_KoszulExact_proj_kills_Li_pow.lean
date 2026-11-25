@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KoszulExact_proj_kills_Li_pow
 -- name    : PI.KoszulExact.proj_kills_Li_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:33:53.989817+00:00
 -- url     : https://prove2.me/theorems/3d5ee32e-3932-54b8-a27f-2188a1f7cffa

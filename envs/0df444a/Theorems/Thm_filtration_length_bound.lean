@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_filtration_length_bound
 -- name    : filtration_length_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:24:18.735795+00:00
 -- url     : https://prove2.me/theorems/4631af75-dff9-4a48-9132-16c28318126f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiA_span_le_spanR
 -- name    : PI.LevelKSplit.W.SemiA.span_le_spanR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:37:36.012772+00:00
 -- url     : https://prove2.me/theorems/ee6d48a6-0385-5f73-8360-ae0db8243512

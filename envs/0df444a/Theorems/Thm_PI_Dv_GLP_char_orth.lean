@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLP_char_orth
 -- name    : PI.Dv.GLP.char_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:27:10.706265+00:00
 -- url     : https://prove2.me/theorems/b7d3bdf2-550b-5db6-92c1-73052ac8ef94

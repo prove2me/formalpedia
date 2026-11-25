@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Mk_pow_minkowskiExp_dvd
 -- name    : PI.Mk.pow_minkowskiExp_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:29.928381+00:00
 -- url     : https://prove2.me/theorems/faf22d89-8d16-43e8-88a1-f525f218398f
