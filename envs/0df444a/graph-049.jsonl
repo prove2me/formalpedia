@@ -11606,7 +11606,7 @@
 {"parent": "SourceProof_ac2ebac4addb5d2fcfe359a6", "child": "SourceProof_6d3db110f0519c19963e703d", "via": ["statement"]}
 {"parent": "RPLib_FX_EtPBC_098", "child": "RPLib_FX_EtPBC_051", "via": ["statement"]}
 {"parent": "RPLib_FX_EtPBC_098", "child": "RPLib_FX_EtPBC_087", "via": ["statement"]}
-{"parent": "Poly1305Debian.internalOk_poly1305_blocks_v2", "child": "Poly1305Debian_BlocksWhole", "via": ["statement"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_blocks_v2", "child": "Poly1305Debian_BlocksWhole", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.actualCutoffAffineStepsV1", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.actualCutoffAffineStepsV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.actualCutoffAffineStepsV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
@@ -12016,3 +12016,43 @@
 {"parent": "Kyprianou.Ch04.exercise46MM1TrafficIntegratedTailV1", "child": "Kyprianou.Ch04.exercise46NegativeExponentialTailV1", "via": ["solution"]}
 {"parent": "Kyprianou.Ch04.exercise46MM1TrafficIntegratedTailV1", "child": "AvramDividend.Classical.original_negative_tail_unweighted_layercake", "via": ["solution"]}
 {"parent": "Kyprianou.Ch04.exercise46ProbabilityEqOfFiniteNegativeLaplaceV1", "child": "AvramDividend.Classical.measure_eq_of_pos_mgf_on_ray", "via": ["solution"]}
+{"parent": "RPLib_FX_EtPBC_090", "child": "RPLib_FX_EtPBC_081", "via": ["statement"]}
+{"parent": "SourceProof_80324cbbeff36b01b3d7de62", "child": "SourceProof_8c18053bf585bd3a019ad5a3", "via": ["statement"]}
+{"parent": "SourceProof_80324cbbeff36b01b3d7de62", "child": "SourceProof_291aad4ab03bb1d5b777f066", "via": ["statement"]}
+{"parent": "SourceProof_80324cbbeff36b01b3d7de62", "child": "SourceProof_273ddc3f085d385a3a11a0a8", "via": ["statement"]}
+{"parent": "SourceProof_80324cbbeff36b01b3d7de62", "child": "SourceProof_954e10b76576263a9def2e7a", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_122", "child": "RPLib_FX_EtPBC_111", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_130", "child": "RPLib_FX_EtPBC_082", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_130", "child": "RPLib_FX_EtPBC_122", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_093", "child": "RPLib_FX_EtPBC_032", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_093", "child": "RPLib_FX_EtPBC_081", "via": ["statement"]}
+{"parent": "SourceProof_01c241ba168e1cbd32adb235", "child": "SourceProof_8c18053bf585bd3a019ad5a3", "via": ["statement"]}
+{"parent": "SourceProof_01c241ba168e1cbd32adb235", "child": "SourceProof_dd381a297e552784125931ec", "via": ["statement"]}
+{"parent": "SourceProof_01c241ba168e1cbd32adb235", "child": "SourceProof_44f0559de53e8d14df7bb61f", "via": ["statement"]}
+{"parent": "SourceProof_01c241ba168e1cbd32adb235", "child": "SourceProof_1baf76f2e8ee7f355f832ace", "via": ["statement"]}
+{"parent": "SourceProof_01c241ba168e1cbd32adb235", "child": "SourceProof_31d0de13ef1656df97c05a7d", "via": ["statement"]}
+{"parent": "SourceProof_01c241ba168e1cbd32adb235", "child": "SourceProof_a7b6b2ace97fad1531f4af27", "via": ["statement"]}
+{"parent": "SourceProof_01c241ba168e1cbd32adb235", "child": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_PureJump_F000", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_099", "child": "RPLib_FX_EtPBC_088", "via": ["statement"]}
+{"parent": "SourceProof_44f0559de53e8d14df7bb61f", "child": "SourceProof_8c18053bf585bd3a019ad5a3", "via": ["statement"]}
+{"parent": "SourceProof_44f0559de53e8d14df7bb61f", "child": "SourceProof_273ddc3f085d385a3a11a0a8", "via": ["statement"]}
+{"parent": "SourceProof_44f0559de53e8d14df7bb61f", "child": "SourceProof_31d0de13ef1656df97c05a7d", "via": ["statement"]}
+{"parent": "SourceProof_44f0559de53e8d14df7bb61f", "child": "SourceProof_29ce176e0a41eb350a93631c", "via": ["statement"]}
+{"parent": "SourceProof_44f0559de53e8d14df7bb61f", "child": "SourceProof_80324cbbeff36b01b3d7de62", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise46FirstPhysicalJumpBusyStartV1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "RPLib_FX_EtPBC_111", "child": "RPLib_FX_EtPBC_099", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_111", "child": "RPLib_FX_EtPBC_089", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_111", "child": "RPLib_FX_EtPBC_091", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_123", "child": "RPLib_FX_EtPBC_111", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_109", "child": "RPLib_FX_EtPBC_097", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_084", "child": "RPLib_FX_EtPBC_038", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_084", "child": "RPLib_FX_EtPBC_073", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_084", "child": "RPLib_FX_EtPBC_040", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_118", "child": "RPLib_FX_EtPBC_082", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_118", "child": "RPLib_FX_EtPBC_108", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_108", "child": "RPLib_FX_EtPBC_096", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise46FirstPhysicalJumpExistsV1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_blocks_v2", "child": "Poly1305Libsodium_Spec", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_blocks_v2", "child": "Poly1305Debian_Spec", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_blocks_v2", "child": "Poly1305Debian_PlacedObj", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise46FirstPhysicalJumpBusyStartV1", "child": "AvramDividend.Classical.avram_p2_a_zero_rate_original_cadlag_regular_all_times", "via": ["solution"]}
