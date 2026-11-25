@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_EmbeddedResolution_smooth___comp_subscheme__comp_of_eq_coordIdeal_d4967085d282
 -- name    : P2M_FunctorialResolution_EmbeddedResolution_smooth___comp_subscheme__comp_of_eq_coordIdeal_d4967085d282
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:02:44.469181+00:00
 -- url     : https://prove2.me/theorems/dae3ec5e-28ca-4a6d-bc33-b2b39cc8da7f

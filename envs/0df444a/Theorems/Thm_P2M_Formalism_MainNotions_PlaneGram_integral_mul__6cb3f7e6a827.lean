@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_PlaneGram_integral_mul__6cb3f7e6a827
 -- name    : P2M_Formalism_MainNotions_PlaneGram_integral_mul__6cb3f7e6a827
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:01:03.246873+00:00
 -- url     : https://prove2.me/theorems/cc8bef46-ec39-47b5-968a-1a3a89dddd9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Local_matching_dichotomy
 -- name    : GalvinMultigraph.Local.matching_dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:28:17.489568+00:00
 -- url     : https://prove2.me/theorems/67a34f48-7593-45eb-a1f5-ff1cbf42a101

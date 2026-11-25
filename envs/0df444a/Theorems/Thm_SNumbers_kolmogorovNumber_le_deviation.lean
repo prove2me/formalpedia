@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_kolmogorovNumber_le_deviation
 -- name    : SNumbers.kolmogorovNumber_le_deviation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:51:46.47612+00:00
 -- url     : https://prove2.me/theorems/b24cc64e-08a1-439b-b138-ec4852f139f9

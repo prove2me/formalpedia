@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_hostV_pos
 -- name    : Formalism.LFunctionChainParameters.LChain2.hostV_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:49:51.733797+00:00
 -- url     : https://prove2.me/theorems/970ec7e4-49ee-48f4-82a0-485d4fc45f6b

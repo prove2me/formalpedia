@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_distribHaarChar_finiteSingleUnits_uniformizer
 -- name    : GroundTheory.Global.distribHaarChar_finiteSingleUnits_uniformizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:14:03.129302+00:00
 -- url     : https://prove2.me/theorems/dc3d2459-468f-45c6-85d8-cd3452660314

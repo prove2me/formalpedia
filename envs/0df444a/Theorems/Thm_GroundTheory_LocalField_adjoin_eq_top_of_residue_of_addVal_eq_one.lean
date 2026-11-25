@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_adjoin_eq_top_of_residue_of_addVal_eq_one
 -- name    : GroundTheory.LocalField.adjoin_eq_top_of_residue_of_addVal_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:15:02.500047+00:00
 -- url     : https://prove2.me/theorems/000372e9-78f2-487b-a192-c4372c032959

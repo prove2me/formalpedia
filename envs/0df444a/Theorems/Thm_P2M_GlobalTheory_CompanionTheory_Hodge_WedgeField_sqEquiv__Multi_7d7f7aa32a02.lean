@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hodge_WedgeField_sqEquiv__Multi_7d7f7aa32a02
 -- name    : P2M_GlobalTheory_CompanionTheory_Hodge_WedgeField_sqEquiv__Multi_7d7f7aa32a02
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:05:24.608595+00:00
 -- url     : https://prove2.me/theorems/2b507470-611f-4032-99f8-17b0f49799b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_RgTransfer_k__cont_339454cbab40
 -- name    : P2M_GlobalTheory_CompanionTheory_RgTransfer_k__cont_339454cbab40
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:03:03.600408+00:00
 -- url     : https://prove2.me/theorems/6199375f-fe9e-4a20-8768-b7f1a1e9ad5c

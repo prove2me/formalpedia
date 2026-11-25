@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_Vizing_lineGraph_colorable
 -- name    : LeanPool.Vizing.lineGraph_colorable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:05:35.309529+00:00
 -- url     : https://prove2.me/theorems/85846213-9cce-47d8-b01e-e95e5f06727c

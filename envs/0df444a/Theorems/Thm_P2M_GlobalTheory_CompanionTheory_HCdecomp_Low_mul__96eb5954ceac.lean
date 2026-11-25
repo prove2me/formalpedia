@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_HCdecomp_Low_mul__96eb5954ceac
 -- name    : P2M_GlobalTheory_CompanionTheory_HCdecomp_Low_mul__96eb5954ceac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:03:32.99401+00:00
 -- url     : https://prove2.me/theorems/faba42b1-328c-46b4-9c30-f912a3c325f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_TieLDA_length_tensor_eq_top
 -- name    : Formalism.L2.Pj.QAt.TieLDA.length_tensor_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:36:13.224558+00:00
 -- url     : https://prove2.me/theorems/42d8444e-13c0-4691-ad35-cb9f5ccfdfe5

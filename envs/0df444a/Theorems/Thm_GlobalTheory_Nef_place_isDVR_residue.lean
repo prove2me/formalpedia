@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_place_isDVR_residue
 -- name    : GlobalTheory.Nef.place_isDVR_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:15:02.045407+00:00
 -- url     : https://prove2.me/theorems/da5b7ce4-0152-4c20-af36-cdedfa3e066e

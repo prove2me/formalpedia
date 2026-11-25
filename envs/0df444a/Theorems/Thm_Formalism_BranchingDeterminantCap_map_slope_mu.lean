@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_map_slope_mu
 -- name    : Formalism.BranchingDeterminantCap.map_slope_mu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:32:23.051543+00:00
 -- url     : https://prove2.me/theorems/5d525751-c8e5-4a36-aa92-05fc5ecbec6f

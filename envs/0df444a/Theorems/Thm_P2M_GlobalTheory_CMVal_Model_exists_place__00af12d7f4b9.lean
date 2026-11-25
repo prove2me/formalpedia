@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CMVal_Model_exists_place__00af12d7f4b9
 -- name    : P2M_GlobalTheory_CMVal_Model_exists_place__00af12d7f4b9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:03:00.43817+00:00
 -- url     : https://prove2.me/theorems/57c41ae3-4a68-42e5-afd4-d9abe097086f

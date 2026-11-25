@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_thetaC_inv
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.thetaC_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:36:17.646447+00:00
 -- url     : https://prove2.me/theorems/ef65d51b-b489-4173-affc-6bac6c641f7b

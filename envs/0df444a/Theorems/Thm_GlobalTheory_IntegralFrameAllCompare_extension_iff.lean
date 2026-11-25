@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralFrameAllCompare_extension_iff
 -- name    : GlobalTheory.IntegralFrameAllCompare.extension_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:05:11.262743+00:00
 -- url     : https://prove2.me/theorems/7fcfc515-8570-471b-bc93-3e3ec341fbc0

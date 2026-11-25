@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_level_start_from_normal_form
 -- name    : Formalism.FourierDecayAlt.P.level_start_from_normal_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:33:46.742281+00:00
 -- url     : https://prove2.me/theorems/49e7dd47-acf8-409b-8112-443b4213355f

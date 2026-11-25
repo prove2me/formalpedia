@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__BsetUnit_corner_mul_inv_40be7c0e982e
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__BsetUnit_corner_mul_inv_40be7c0e982e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:03:02.850504+00:00
 -- url     : https://prove2.me/theorems/bf297e56-1e0a-48de-beb8-fe9902034917

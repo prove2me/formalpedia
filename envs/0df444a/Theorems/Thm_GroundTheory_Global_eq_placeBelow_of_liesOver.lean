@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_eq_placeBelow_of_liesOver
 -- name    : GroundTheory.Global.eq_placeBelow_of_liesOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:48:08.718967+00:00
 -- url     : https://prove2.me/theorems/075d625b-8bb6-4bce-b135-9969a7aa428f

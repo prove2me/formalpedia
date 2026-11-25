@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_secOn_of_coheight_le_one
 -- name    : GlobalTheory.existsUnique_secOn_of_coheight_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:47:38.511543+00:00
 -- url     : https://prove2.me/theorems/e3bcd638-d92b-4777-8198-725194347fdb

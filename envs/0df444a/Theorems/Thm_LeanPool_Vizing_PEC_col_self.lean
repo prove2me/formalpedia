@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_Vizing_PEC_col_self
 -- name    : LeanPool.Vizing.PEC.col_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:30:29.461806+00:00
 -- url     : https://prove2.me/theorems/c9309dd4-964d-484a-89c1-dd9664b0c0cd

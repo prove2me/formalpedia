@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_universalJets_power_product
 -- name    : GlobalTheory.T.universalJets_power_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:06:57.67394+00:00
 -- url     : https://prove2.me/theorems/d7437982-8098-471a-bd39-b80829b6215d

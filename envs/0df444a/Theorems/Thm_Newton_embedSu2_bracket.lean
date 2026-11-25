@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_embedSu2_bracket
 -- name    : Newton.embedSu2_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:19:13.035561+00:00
 -- url     : https://prove2.me/theorems/2b15edf8-4c7b-4fae-943d-b529e49cbb5f

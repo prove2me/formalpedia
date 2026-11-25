@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_degree_eq_iff
 -- name    : GroundTheory.Brauer.degree_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:11:53.560841+00:00
 -- url     : https://prove2.me/theorems/5fea6ae2-b109-4cba-b80f-8fa4ca9fb8ea

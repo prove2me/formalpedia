@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_card_eq_of_phi_eq
 -- name    : ChromaticReconstruction.card_eq_of_phi_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:25:17.146051+00:00
 -- url     : https://prove2.me/theorems/cf51d3de-3323-469a-87fc-20a2cf6db923

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGL_val_genPow__02a5ca4210cb
 -- name    : P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGL_val_genPow__02a5ca4210cb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:01:55.717826+00:00
 -- url     : https://prove2.me/theorems/495d0888-1ba7-409f-b00c-7e647da6b746

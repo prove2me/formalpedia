@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_span_min_slope
 -- name    : Formalism.ExtensionFiltration.span_min_slope
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:54.110861+00:00
 -- url     : https://prove2.me/theorems/2dde1f82-41a3-430c-8976-3a89bb5e16b0

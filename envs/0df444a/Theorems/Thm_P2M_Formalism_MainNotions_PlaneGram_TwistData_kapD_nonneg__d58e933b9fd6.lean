@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_PlaneGram_TwistData_kapD_nonneg__d58e933b9fd6
 -- name    : P2M_Formalism_MainNotions_PlaneGram_TwistData_kapD_nonneg__d58e933b9fd6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:01:31.991442+00:00
 -- url     : https://prove2.me/theorems/cfafcf87-cbca-4fcd-8e46-2d75577ab2f4

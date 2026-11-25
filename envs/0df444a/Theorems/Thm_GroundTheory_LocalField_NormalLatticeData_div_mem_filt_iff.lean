@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_NormalLatticeData_div_mem_filt_iff
 -- name    : GroundTheory.LocalField.NormalLatticeData.div_mem_filt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:10:59.0048+00:00
 -- url     : https://prove2.me/theorems/cbab2361-6ce6-4f85-a766-ff66a86f8c3f

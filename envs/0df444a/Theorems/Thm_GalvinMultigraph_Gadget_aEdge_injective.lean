@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Gadget_aEdge_injective
 -- name    : GalvinMultigraph.Gadget.aEdge_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:19:27.88493+00:00
 -- url     : https://prove2.me/theorems/2abbeab6-e313-4609-bef0-e6c2f7813845

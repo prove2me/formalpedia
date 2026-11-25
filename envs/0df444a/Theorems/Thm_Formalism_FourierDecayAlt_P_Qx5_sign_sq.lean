@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx5_sign_sq
 -- name    : Formalism.FourierDecayAlt.P.Qx5.sign_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:49:07.459653+00:00
 -- url     : https://prove2.me/theorems/a59192b3-995b-4fb2-b0b3-8c05aee1bb73

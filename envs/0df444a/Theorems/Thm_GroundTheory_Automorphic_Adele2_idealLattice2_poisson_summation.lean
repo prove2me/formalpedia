@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Adele2_idealLattice2_poisson_summation
 -- name    : GroundTheory.Automorphic.Adele2.idealLattice2_poisson_summation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:48:40.549037+00:00
 -- url     : https://prove2.me/theorems/5c0fff35-16f9-4128-bbd2-130c60e6871b

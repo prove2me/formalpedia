@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_permMatrix_isUnitary_of_commute_rev
 -- name    : Formalism.UG.P.permMatrix_isUnitary_of_commute_rev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:33:43.826336+00:00
 -- url     : https://prove2.me/theorems/5c062a4f-5bfe-42b6-999a-094bf9daebc8

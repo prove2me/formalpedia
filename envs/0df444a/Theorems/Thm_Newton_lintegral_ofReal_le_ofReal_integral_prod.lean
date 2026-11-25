@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_lintegral_ofReal_le_ofReal_integral_prod
 -- name    : Newton.lintegral_ofReal_le_ofReal_integral_prod
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:21:54.456328+00:00
 -- url     : https://prove2.me/theorems/a5329bdd-5290-494f-af0f-1a31f89ecdbf

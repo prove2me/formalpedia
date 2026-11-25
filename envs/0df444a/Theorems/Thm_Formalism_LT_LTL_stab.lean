@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_stab
 -- name    : Formalism.LT.LTL.stab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:53.664789+00:00
 -- url     : https://prove2.me/theorems/e6141144-d269-4df0-b2b5-d8b4d7d5a74a

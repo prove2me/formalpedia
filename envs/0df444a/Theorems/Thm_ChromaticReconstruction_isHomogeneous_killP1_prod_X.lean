@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_isHomogeneous_killP1_prod_X
 -- name    : ChromaticReconstruction.isHomogeneous_killP1_prod_X
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:06:29.29219+00:00
 -- url     : https://prove2.me/theorems/23610e76-75ce-4b5d-9cc2-59e5af73a1d7

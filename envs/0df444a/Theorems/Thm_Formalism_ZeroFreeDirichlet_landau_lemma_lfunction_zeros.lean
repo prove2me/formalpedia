@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_landau_lemma_lfunction_zeros
 -- name    : Formalism.ZeroFreeDirichlet.landau_lemma_lfunction_zeros
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:37:54.290675+00:00
 -- url     : https://prove2.me/theorems/4cfa79da-d460-47f4-986e-edc6fcf0c2f8

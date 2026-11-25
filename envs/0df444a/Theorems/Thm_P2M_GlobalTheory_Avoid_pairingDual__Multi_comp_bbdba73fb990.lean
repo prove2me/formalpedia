@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Avoid_pairingDual__Multi_comp_bbdba73fb990
 -- name    : P2M_GlobalTheory_Avoid_pairingDual__Multi_comp_bbdba73fb990
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:01:59.241563+00:00
 -- url     : https://prove2.me/theorems/bcb340ae-dbc1-4808-a4c7-6e71c88a4527

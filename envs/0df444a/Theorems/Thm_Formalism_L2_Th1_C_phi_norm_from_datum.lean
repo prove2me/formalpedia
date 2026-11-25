@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_phi_norm_from_datum
 -- name    : Formalism.L2.Th1.C.phi_norm_from_datum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:24:39.527281+00:00
 -- url     : https://prove2.me/theorems/f2bfe561-4806-4a7a-9fa0-393c1508baf0

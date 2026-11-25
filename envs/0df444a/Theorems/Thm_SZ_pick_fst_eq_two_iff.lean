@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_pick_fst_eq_two_iff
 -- name    : SZ.pick_fst_eq_two_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:25:18.125836+00:00
 -- url     : https://prove2.me/theorems/9f9824ea-1c85-460e-ae57-fa2f5735ad70

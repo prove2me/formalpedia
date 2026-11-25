@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CMLattice____ne_zero_814f16d1d8c8
 -- name    : P2M_GlobalTheory_CMLattice____ne_zero_814f16d1d8c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:02:17.4791+00:00
 -- url     : https://prove2.me/theorems/acdbd8b0-b158-483c-91f3-fbd4f4a84eb7

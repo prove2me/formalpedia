@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_PrimesToPts_comap_toSpec__ae60923711e0
 -- name    : P2M_GlobalTheory_CompanionTheory_PrimesToPts_comap_toSpec__ae60923711e0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:05:26.828879+00:00
 -- url     : https://prove2.me/theorems/eaf5e5ef-9211-468b-9384-6943062f8bed

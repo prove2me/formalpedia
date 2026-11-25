@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_sum_map_eq_sum_count
 -- name    : ChromaticReconstruction.sum_map_eq_sum_count
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:01:17.026716+00:00
 -- url     : https://prove2.me/theorems/31cff11b-36c0-4072-9fc2-0f5988984159

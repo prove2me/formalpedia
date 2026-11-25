@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Galvin_rankA_injective
 -- name    : Galvin.rankA_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:14:47.703565+00:00
 -- url     : https://prove2.me/theorems/ba3bcc3c-7c8f-4d0e-b249-985ddda74ad2

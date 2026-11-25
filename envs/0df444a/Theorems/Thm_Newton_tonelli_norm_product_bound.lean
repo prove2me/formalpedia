@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_tonelli_norm_product_bound
 -- name    : Newton.tonelli_norm_product_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:21:16.965232+00:00
 -- url     : https://prove2.me/theorems/509cc200-082f-4a1c-8630-947a04cc50c8

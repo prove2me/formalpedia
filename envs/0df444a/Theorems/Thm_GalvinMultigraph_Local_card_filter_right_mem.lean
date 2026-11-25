@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Local_card_filter_right_mem
 -- name    : GalvinMultigraph.Local.card_filter_right_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:22:11.682801+00:00
 -- url     : https://prove2.me/theorems/e2e43f3f-705c-4c30-8edf-208fd9eb07f9

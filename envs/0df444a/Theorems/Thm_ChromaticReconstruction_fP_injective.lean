@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_fP_injective
 -- name    : ChromaticReconstruction.fP_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:48:39.220036+00:00
 -- url     : https://prove2.me/theorems/9a724287-ae34-45e8-9f51-06fae032ddb3

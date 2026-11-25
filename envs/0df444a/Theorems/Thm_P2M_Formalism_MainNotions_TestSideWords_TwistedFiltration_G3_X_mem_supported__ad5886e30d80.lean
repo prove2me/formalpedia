@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_TestSideWords_TwistedFiltration_G3_X_mem_supported__ad5886e30d80
 -- name    : P2M_Formalism_MainNotions_TestSideWords_TwistedFiltration_G3_X_mem_supported__ad5886e30d80
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:01:38.203452+00:00
 -- url     : https://prove2.me/theorems/6be4ad06-96d7-4dea-ba10-9290f000ee92

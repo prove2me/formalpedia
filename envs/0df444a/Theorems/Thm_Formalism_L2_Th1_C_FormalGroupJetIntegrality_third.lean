@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_FormalGroupJetIntegrality_third
 -- name    : Formalism.L2.Th1.C.FormalGroupJetIntegrality.third
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:38:27.012832+00:00
 -- url     : https://prove2.me/theorems/31c85329-79fd-5475-ab0d-3c96bde65871

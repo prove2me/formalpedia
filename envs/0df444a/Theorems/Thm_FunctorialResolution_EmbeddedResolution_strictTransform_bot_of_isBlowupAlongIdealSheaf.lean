@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_strictTransform_bot_of_isBlowupAlongIdealSheaf
 -- name    : FunctorialResolution.EmbeddedResolution.strictTransform_bot_of_isBlowupAlongIdealSheaf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:49:16.521241+00:00
 -- url     : https://prove2.me/theorems/b8bc3e37-8181-4a1b-b37c-52d5b75c7d2b

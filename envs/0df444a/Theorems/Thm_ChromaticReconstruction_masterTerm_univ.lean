@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_masterTerm_univ
 -- name    : ChromaticReconstruction.masterTerm_univ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:14:56.778528+00:00
 -- url     : https://prove2.me/theorems/bae2828c-b76a-453c-bc92-de0edba7baa2

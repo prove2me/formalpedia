@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_landauIteratedDerivatives_dist_ofReal__31aeae0510ba
 -- name    : P2M_Formalism_landauIteratedDerivatives_dist_ofReal__31aeae0510ba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:02:14.260101+00:00
 -- url     : https://prove2.me/theorems/4a2adea7-2420-49c2-9038-9af85b8902e8

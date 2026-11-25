@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_gelfandNumber_zero_eq_norm
 -- name    : SNumbers.gelfandNumber_zero_eq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:08:48.904712+00:00
 -- url     : https://prove2.me/theorems/d8c083c0-ca4a-4650-a79b-89b02df1e1d3

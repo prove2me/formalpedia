@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SemiLocal_algebraMap_trace_eq_sum
 -- name    : GroundTheory.Global.SemiLocal.algebraMap_trace_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:26:21.959242+00:00
 -- url     : https://prove2.me/theorems/3c6df5b2-8304-4ec0-a5f8-e5f5d56531bb

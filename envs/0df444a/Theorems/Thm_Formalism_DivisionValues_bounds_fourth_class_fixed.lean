@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_bounds_fourth_class_fixed
 -- name    : Formalism.DivisionValues.bounds_fourth_class_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:22:29.653005+00:00
 -- url     : https://prove2.me/theorems/9131b2da-6cd2-4ae4-bc65-6dfe3deb9fc7

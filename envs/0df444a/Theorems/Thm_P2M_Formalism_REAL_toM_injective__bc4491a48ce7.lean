@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_REAL_toM_injective__bc4491a48ce7
 -- name    : P2M_Formalism_REAL_toM_injective__bc4491a48ce7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:01:31.760089+00:00
 -- url     : https://prove2.me/theorems/623a14d1-027d-4cd4-8059-28e7ff3903fe

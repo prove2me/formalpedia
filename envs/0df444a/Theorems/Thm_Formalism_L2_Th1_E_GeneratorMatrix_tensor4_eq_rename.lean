@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_GeneratorMatrix_tensor4_eq_rename
 -- name    : Formalism.L2.Th1.E.GeneratorMatrix.tensor4_eq_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:47:09.457853+00:00
 -- url     : https://prove2.me/theorems/75316257-8908-5d0b-aa26-0df034ac2bee

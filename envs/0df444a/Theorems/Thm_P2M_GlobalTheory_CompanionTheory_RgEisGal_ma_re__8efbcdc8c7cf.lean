@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_RgEisGal_ma_re__8efbcdc8c7cf
 -- name    : P2M_GlobalTheory_CompanionTheory_RgEisGal_ma_re__8efbcdc8c7cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:03:43.983945+00:00
 -- url     : https://prove2.me/theorems/037601b8-5746-44cd-acac-b7dd6867961f

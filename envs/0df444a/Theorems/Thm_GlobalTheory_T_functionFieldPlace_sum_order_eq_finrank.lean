@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_functionFieldPlace_sum_order_eq_finrank
 -- name    : GlobalTheory.T.functionFieldPlace_sum_order_eq_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:08:06.070968+00:00
 -- url     : https://prove2.me/theorems/fd2b096e-37a7-4201-9267-c3557986d2aa

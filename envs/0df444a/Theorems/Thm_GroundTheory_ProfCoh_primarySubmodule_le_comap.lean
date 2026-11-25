@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_primarySubmodule_le_comap
 -- name    : GroundTheory.ProfCoh.primarySubmodule_le_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:46:53.923636+00:00
 -- url     : https://prove2.me/theorems/75f26a81-40a2-47ac-ac1e-13754a2d84fb

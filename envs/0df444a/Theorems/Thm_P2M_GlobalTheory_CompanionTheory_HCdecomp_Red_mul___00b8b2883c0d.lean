@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_HCdecomp_Red_mul___00b8b2883c0d
 -- name    : P2M_GlobalTheory_CompanionTheory_HCdecomp_Red_mul___00b8b2883c0d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:03:01.313362+00:00
 -- url     : https://prove2.me/theorems/b8879f1c-c4fc-4921-b61e-bca78602d07f

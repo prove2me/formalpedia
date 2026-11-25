@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_int_of_mul_eq_int
 -- name    : GroundTheory.LocalField.exists_int_of_mul_eq_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:46:12.395712+00:00
 -- url     : https://prove2.me/theorems/4ccacb62-3cba-4666-b697-76e8ccb40a88

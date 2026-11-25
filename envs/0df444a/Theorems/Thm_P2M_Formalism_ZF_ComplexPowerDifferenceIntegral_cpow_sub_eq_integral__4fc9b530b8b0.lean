@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_ZF_ComplexPowerDifferenceIntegral_cpow_sub_eq_integral__4fc9b530b8b0
 -- name    : P2M_Formalism_ZF_ComplexPowerDifferenceIntegral_cpow_sub_eq_integral__4fc9b530b8b0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:01:55.967539+00:00
 -- url     : https://prove2.me/theorems/d5b75fe9-18a6-4697-ba70-9d90ec6c69f6

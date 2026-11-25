@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Two_exp_mul_inv
 -- name    : Formalism.L2.Th1.A.Two.exp_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:19:03.331751+00:00
 -- url     : https://prove2.me/theorems/ce3ca586-4d21-4cd0-8d01-c99f3f9dc7f1

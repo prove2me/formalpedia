@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Local_kernel_coloring
 -- name    : GalvinMultigraph.Local.kernel_coloring
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:21:29.243089+00:00
 -- url     : https://prove2.me/theorems/a87051fb-75a1-4a09-b35c-baaf56c8c24f

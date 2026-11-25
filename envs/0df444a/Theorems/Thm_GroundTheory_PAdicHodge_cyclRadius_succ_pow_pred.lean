@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_cyclRadius_succ_pow_pred
 -- name    : GroundTheory.PAdicHodge.cyclRadius_succ_pow_pred
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:46:32.933842+00:00
 -- url     : https://prove2.me/theorems/1bd4f507-5833-40ce-a757-463f41bd181a

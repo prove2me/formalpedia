@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_HurwitzJetIntegrality_inBlock_eq_rename
 -- name    : Formalism.L2.Th1.G.HurwitzJetIntegrality.inBlock_eq_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:35:13.848714+00:00
 -- url     : https://prove2.me/theorems/06ac88d9-5770-440e-8e13-f291f8dc0c90

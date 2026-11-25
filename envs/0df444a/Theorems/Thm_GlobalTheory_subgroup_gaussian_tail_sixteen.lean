@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_subgroup_gaussian_tail_sixteen
 -- name    : GlobalTheory.subgroup_gaussian_tail_sixteen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:57:26.146439+00:00
 -- url     : https://prove2.me/theorems/d8bf8248-92c9-4dc8-af4b-bd17df0d4a39

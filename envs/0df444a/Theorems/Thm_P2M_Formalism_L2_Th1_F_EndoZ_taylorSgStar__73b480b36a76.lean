@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_F_EndoZ_taylorSgStar__73b480b36a76
 -- name    : P2M_Formalism_L2_Th1_F_EndoZ_taylorSgStar__73b480b36a76
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:58:59.849294+00:00
 -- url     : https://prove2.me/theorems/174b47e7-e4b3-43d9-9ace-dd59affc2a1e

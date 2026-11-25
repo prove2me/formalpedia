@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_algebraMap_norm_eq_prod
 -- name    : GroundTheory.LocalField.algebraMap_norm_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:15:19.650971+00:00
 -- url     : https://prove2.me/theorems/e4ffe1ff-0aa0-4af0-be0b-7a6021ee93ed

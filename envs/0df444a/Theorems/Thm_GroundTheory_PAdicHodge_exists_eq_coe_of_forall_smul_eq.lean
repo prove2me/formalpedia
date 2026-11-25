@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_eq_coe_of_forall_smul_eq
 -- name    : GroundTheory.PAdicHodge.exists_eq_coe_of_forall_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:46:57.978921+00:00
 -- url     : https://prove2.me/theorems/997acb1f-3166-40c2-8dc8-27db6db5c922

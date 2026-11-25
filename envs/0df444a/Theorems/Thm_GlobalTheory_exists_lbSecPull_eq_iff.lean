@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_lbSecPull_eq_iff
 -- name    : GlobalTheory.exists_lbSecPull_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:48:02.401239+00:00
 -- url     : https://prove2.me/theorems/5e0fff7a-fbbc-435c-b4a9-4d7fa36414ec

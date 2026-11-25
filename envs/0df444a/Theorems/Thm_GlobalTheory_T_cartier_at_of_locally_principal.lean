@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cartier_at_of_locally_principal
 -- name    : GlobalTheory.T.cartier_at_of_locally_principal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:32:06.888137+00:00
 -- url     : https://prove2.me/theorems/2fc61f34-6108-45ea-a0a7-da1a2e18f93b

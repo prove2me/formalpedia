@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_germ_expansion_matrix_function
 -- name    : Formalism.FourierDecayAlt.P.germ_expansion_matrix_function
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:30.15587+00:00
 -- url     : https://prove2.me/theorems/3a3d0dc0-b685-4185-8bb9-c0775afae627

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G3_twistSub_X_mem_supported
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G3.twistSub_X_mem_supported
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:12:18.313988+00:00
 -- url     : https://prove2.me/theorems/a29b15b0-5082-407c-bc89-34cbd001a427

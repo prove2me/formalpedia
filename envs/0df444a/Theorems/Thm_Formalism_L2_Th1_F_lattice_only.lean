@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_lattice_only
 -- name    : Formalism.L2.Th1.F.lattice_only
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:00.763893+00:00
 -- url     : https://prove2.me/theorems/2391719b-4497-4034-9c43-0fca6af27720

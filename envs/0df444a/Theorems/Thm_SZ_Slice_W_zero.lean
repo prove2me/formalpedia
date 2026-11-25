@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_W_zero
 -- name    : SZ.Slice.W_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:18:44.883367+00:00
 -- url     : https://prove2.me/theorems/dacd80ba-ce3e-4c40-84ef-229f86da8814

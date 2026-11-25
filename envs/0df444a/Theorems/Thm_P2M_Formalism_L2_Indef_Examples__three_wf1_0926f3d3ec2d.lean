@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Indef_Examples__three_wf1_0926f3d3ec2d
 -- name    : P2M_Formalism_L2_Indef_Examples__three_wf1_0926f3d3ec2d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:06:33.494392+00:00
 -- url     : https://prove2.me/theorems/8d9eac30-4e5e-483f-8e35-a4833274433b

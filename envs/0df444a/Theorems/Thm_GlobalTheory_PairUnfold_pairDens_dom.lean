@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairUnfold_pairDens_dom
 -- name    : GlobalTheory.PairUnfold.pairDens_dom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:34:16.952278+00:00
 -- url     : https://prove2.me/theorems/89446ec9-95a2-4210-a677-876f79203006

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_TieLDA_tm_smul
 -- name    : Formalism.L2.Pj.QAt.TieLDA.tm_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:36:33.754039+00:00
 -- url     : https://prove2.me/theorems/67938185-4d63-44a2-99a2-147af03575ea

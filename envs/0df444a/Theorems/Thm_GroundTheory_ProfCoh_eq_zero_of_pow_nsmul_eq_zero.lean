@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_eq_zero_of_pow_nsmul_eq_zero
 -- name    : GroundTheory.ProfCoh.eq_zero_of_pow_nsmul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:45:25.437265+00:00
 -- url     : https://prove2.me/theorems/858d77c4-1933-4a6f-af3c-a1b5506231ee

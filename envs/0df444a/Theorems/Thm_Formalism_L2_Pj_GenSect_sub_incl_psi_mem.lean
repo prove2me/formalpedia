@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_GenSect_sub_incl_psi_mem
 -- name    : Formalism.L2.Pj.GenSect.sub_incl_psi_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:32:08.39912+00:00
 -- url     : https://prove2.me/theorems/f6e6f956-d304-4f0c-99b1-65e80d151b49

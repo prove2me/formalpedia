@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_homogeneity
 -- name    : Formalism.L2.Th1.F.homogeneity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:50:30.869879+00:00
 -- url     : https://prove2.me/theorems/3e5dfc44-6abb-499b-b855-4bae33f40e90

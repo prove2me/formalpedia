@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_eq_top_of_annihilator_eq_bot
 -- name    : GroundTheory.Automorphic.Whittaker.eq_top_of_annihilator_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:04:56.682251+00:00
 -- url     : https://prove2.me/theorems/8987f6d7-67c5-40b8-9990-b7c351d33d74

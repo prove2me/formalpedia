@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_addVal_term_of_totallyRamified
 -- name    : GroundTheory.LocalField.addVal_term_of_totallyRamified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:14:06.328504+00:00
 -- url     : https://prove2.me/theorems/07cb5c9f-641b-4c6a-9434-3e0d7c5972ff

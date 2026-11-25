@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_lp_duality_exists_norm_one_attainer
 -- name    : Newton.lp_duality_exists_norm_one_attainer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:11:58.37626+00:00
 -- url     : https://prove2.me/theorems/98239514-81a1-47b0-9a8a-18053da60613

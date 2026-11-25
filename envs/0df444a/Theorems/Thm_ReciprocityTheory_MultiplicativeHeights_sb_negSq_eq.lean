@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sb_negSq_eq
 -- name    : ReciprocityTheory.MultiplicativeHeights.sb_negSq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:46:30.955801+00:00
 -- url     : https://prove2.me/theorems/69d3c9ec-2d9b-4635-990f-b3a57422b160

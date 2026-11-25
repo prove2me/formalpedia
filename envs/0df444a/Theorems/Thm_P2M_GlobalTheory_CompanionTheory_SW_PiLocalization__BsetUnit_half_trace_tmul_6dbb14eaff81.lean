@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__BsetUnit_half_trace_tmul_6dbb14eaff81
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__BsetUnit_half_trace_tmul_6dbb14eaff81
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:02:59.551195+00:00
 -- url     : https://prove2.me/theorems/4588c1b8-c59d-40ec-b1c2-fa37856bdb86

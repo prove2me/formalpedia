@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_chpsC_apply
 -- name    : Formalism.LFunctionChainParameters.LBr2.chpsC_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:43:53.150784+00:00
 -- url     : https://prove2.me/theorems/94f58428-77df-4fc9-b855-fcfc1309f97b

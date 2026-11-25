@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_masterTerm_edge
 -- name    : ChromaticReconstruction.masterTerm_edge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:19:02.160801+00:00
 -- url     : https://prove2.me/theorems/711c2ecb-cf2b-438f-a4bc-447ace980172

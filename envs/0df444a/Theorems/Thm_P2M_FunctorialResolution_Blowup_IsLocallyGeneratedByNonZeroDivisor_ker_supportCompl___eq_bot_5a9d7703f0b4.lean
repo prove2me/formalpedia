@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_Blowup_IsLocallyGeneratedByNonZeroDivisor_ker_supportCompl___eq_bot_5a9d7703f0b4
 -- name    : P2M_FunctorialResolution_Blowup_IsLocallyGeneratedByNonZeroDivisor_ker_supportCompl___eq_bot_5a9d7703f0b4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:02:28.727827+00:00
 -- url     : https://prove2.me/theorems/63afced3-c6f2-450e-98c1-64f1c2caa92c

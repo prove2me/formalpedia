@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_KAV_dAdd_single__5657c32646f4
 -- name    : P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_KAV_dAdd_single__5657c32646f4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:01:13.363197+00:00
 -- url     : https://prove2.me/theorems/e44030f7-0366-4370-be4f-ef0a0530d0f7

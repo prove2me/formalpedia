@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EsymmVirt_exists_multisets
 -- name    : GlobalTheory.EsymmVirt.exists_multisets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:15:10.407112+00:00
 -- url     : https://prove2.me/theorems/9faf410a-3639-4034-99c3-35ce8bbedb53

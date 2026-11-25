@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_exists_eq_mul_mul_of_cellMinor_eq
 -- name    : GroundTheory.Automorphic.Whittaker.exists_eq_mul_mul_of_cellMinor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:40:54.397361+00:00
 -- url     : https://prove2.me/theorems/125574a5-23c6-4e3d-9691-8d725a2c92d7

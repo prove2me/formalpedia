@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_mul_entry_comm
 -- name    : Formalism.FourierDecayAlt.P.Qx8.mul_entry_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:29:36.094039+00:00
 -- url     : https://prove2.me/theorems/95604143-440f-48dc-abe0-68c8423d88bf

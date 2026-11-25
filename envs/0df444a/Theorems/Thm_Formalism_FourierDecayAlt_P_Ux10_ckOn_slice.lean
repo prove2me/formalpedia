@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_ckOn_slice
 -- name    : Formalism.FourierDecayAlt.P.Ux10.ckOn_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:24:29.365859+00:00
 -- url     : https://prove2.me/theorems/6712a522-8a1e-49a9-8628-be0cdf29b59c

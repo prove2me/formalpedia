@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_exists_generator_of_rankAtStalk_eq_one_fad9a8a39d3b
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_exists_generator_of_rankAtStalk_eq_one_fad9a8a39d3b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:03:45.308129+00:00
 -- url     : https://prove2.me/theorems/3a26064d-1194-4c7a-b737-25fe80dc0ff6

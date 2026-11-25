@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_word_statements_all_hold
 -- name    : Formalism.FourierDecayAlt.P.word_statements_all_hold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:19:29.295929+00:00
 -- url     : https://prove2.me/theorems/361dfb25-2405-431a-b540-370cf3def1b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_exists_labels_77c94fa8b886
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_exists_labels_77c94fa8b886
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:54:07.987842+00:00
 -- url     : https://prove2.me/theorems/b4d15914-2923-4b6e-89ad-6b998b25972d

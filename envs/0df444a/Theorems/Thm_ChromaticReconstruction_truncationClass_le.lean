@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_truncationClass_le
 -- name    : ChromaticReconstruction.truncationClass_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:13:07.814266+00:00
 -- url     : https://prove2.me/theorems/a5044737-488b-4c6b-8fc6-89a710da61f4

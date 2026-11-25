@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_integer_adjoin_eq_top
 -- name    : GroundTheory.LocalField.exists_integer_adjoin_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:14:48.121605+00:00
 -- url     : https://prove2.me/theorems/5f993dd6-f7d6-4ac6-8d22-dd381643cbf0

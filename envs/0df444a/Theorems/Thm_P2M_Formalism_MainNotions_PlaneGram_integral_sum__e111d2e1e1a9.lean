@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_PlaneGram_integral_sum__e111d2e1e1a9
 -- name    : P2M_Formalism_MainNotions_PlaneGram_integral_sum__e111d2e1e1a9
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:06:27.352795+00:00
 -- url     : https://prove2.me/theorems/4b868178-6972-42e6-bb60-e9edb332ccfe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Local_degROn_pos
 -- name    : GalvinMultigraph.Local.degROn_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:28:04.667697+00:00
 -- url     : https://prove2.me/theorems/b0436ca3-bd25-4ab8-b842-a7a0734648fd

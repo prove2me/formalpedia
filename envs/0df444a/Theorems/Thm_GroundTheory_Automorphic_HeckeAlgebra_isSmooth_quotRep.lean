@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HeckeAlgebra_isSmooth_quotRep
 -- name    : GroundTheory.Automorphic.HeckeAlgebra.isSmooth_quotRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:46:29.116915+00:00
 -- url     : https://prove2.me/theorems/250507a3-e247-471e-b00e-f4f5c120d223

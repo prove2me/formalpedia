@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Calc_cong_refl
 -- name    : Formalism.L2.Th1.C.Calc.cong_refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:43:44.604186+00:00
 -- url     : https://prove2.me/theorems/cde3516e-0d3d-5cc6-ac97-91b6c79e8b58

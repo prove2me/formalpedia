@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_AllRowsGA_conjA_mul
 -- name    : Formalism.L2.SG.Pf.AllRowsGA.conjA_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:44:24.699343+00:00
 -- url     : https://prove2.me/theorems/cfad2fd6-53e8-5e42-b23b-3f1dbdec9be4

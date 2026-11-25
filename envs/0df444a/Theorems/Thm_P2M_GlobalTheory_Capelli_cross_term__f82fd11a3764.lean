@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Capelli_cross_term__f82fd11a3764
 -- name    : P2M_GlobalTheory_Capelli_cross_term__f82fd11a3764
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:02:27.117845+00:00
 -- url     : https://prove2.me/theorems/e12328a2-594e-4989-8cf6-f5777f17ac2e

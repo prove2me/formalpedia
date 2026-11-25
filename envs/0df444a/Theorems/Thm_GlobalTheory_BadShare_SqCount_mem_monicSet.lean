@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_SqCount_mem_monicSet
 -- name    : GlobalTheory.BadShare.SqCount.mem_monicSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:44:21.951212+00:00
 -- url     : https://prove2.me/theorems/d357e5e7-c94b-499e-83a2-d99faed46df5

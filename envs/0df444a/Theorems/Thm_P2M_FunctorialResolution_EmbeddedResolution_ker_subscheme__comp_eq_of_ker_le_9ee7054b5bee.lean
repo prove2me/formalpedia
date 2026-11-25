@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_EmbeddedResolution_ker_subscheme__comp_eq_of_ker_le_9ee7054b5bee
 -- name    : P2M_FunctorialResolution_EmbeddedResolution_ker_subscheme__comp_eq_of_ker_le_9ee7054b5bee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:04:14.665085+00:00
 -- url     : https://prove2.me/theorems/9c5aae4d-9ad3-422c-806c-07a6e37a32c7

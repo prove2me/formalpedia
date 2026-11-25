@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Fgl2_fgl_symm
 -- name    : Formalism.L2.Th1.A.Fgl2.fgl_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:43:20.178804+00:00
 -- url     : https://prove2.me/theorems/8d9f06a2-ec0b-4099-bf82-379a0f8be57e

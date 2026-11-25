@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gamma_integrality
 -- name    : Formalism.GM.gamma_integrality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:23:42.580595+00:00
 -- url     : https://prove2.me/theorems/232b3730-b0c1-46ad-a55b-47f502214842

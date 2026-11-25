@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_N_Br___cont_43903f940a18
 -- name    : P2M_Formalism_MainNotions_N_Br___cont_43903f940a18
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:01:14.706491+00:00
 -- url     : https://prove2.me/theorems/5d2fbc0c-6109-4902-84eb-5a8e84127956

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CoeffExt_finrank_fun__0788e41184fe
 -- name    : P2M_GlobalTheory_CoeffExt_finrank_fun__0788e41184fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:02:24.831882+00:00
 -- url     : https://prove2.me/theorems/99ab7ca6-b747-4834-ac56-c5aa081cf948

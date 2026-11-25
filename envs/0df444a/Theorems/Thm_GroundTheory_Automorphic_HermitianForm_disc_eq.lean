@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_disc_eq
 -- name    : GroundTheory.Automorphic.HermitianForm.disc_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:16:14.139679+00:00
 -- url     : https://prove2.me/theorems/6c045e2e-df4d-4f0a-9294-fbd4709bbc1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_retraction_adjoin
 -- name    : GroundTheory.LocalField.exists_retraction_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:46:00.820189+00:00
 -- url     : https://prove2.me/theorems/7b944169-8ba1-422b-96a9-75235cea869f

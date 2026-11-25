@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_bddBelow_gelfandSet
 -- name    : SNumbers.bddBelow_gelfandSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:22:51.5381+00:00
 -- url     : https://prove2.me/theorems/5fbb0b5e-e1f4-4c29-b271-baf4b8986e6a

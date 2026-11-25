@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_dual_lattice_measure
 -- name    : Formalism.DivisionValues.dual_lattice_measure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:06:00.109332+00:00
 -- url     : https://prove2.me/theorems/d5633fdd-8e43-4aea-822e-f20ea940fd9b

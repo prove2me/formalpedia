@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_isCompact_infinite_abs_log_le
 -- name    : GroundTheory.Global.IdeleGroup.isCompact_infinite_abs_log_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:13:16.541008+00:00
 -- url     : https://prove2.me/theorems/543e8cae-ff4f-48e0-a167-99815ea627f8

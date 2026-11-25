@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_realCharZeroSmallHeightOfBounds
 -- name    : Formalism.ZeroFreeDirichlet.realCharZeroSmallHeightOfBounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:44:22.641369+00:00
 -- url     : https://prove2.me/theorems/80c9361b-6f97-4527-8df3-87bf5d008b65

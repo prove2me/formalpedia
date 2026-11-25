@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_descent_slope
 -- name    : Formalism.ExtensionFiltration.descent_slope
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:45.091857+00:00
 -- url     : https://prove2.me/theorems/bf571492-31af-45f5-9ec4-9b5105923c5e

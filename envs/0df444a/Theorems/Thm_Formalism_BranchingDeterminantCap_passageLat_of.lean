@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_passageLat_of
 -- name    : Formalism.BranchingDeterminantCap.passageLat_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:29:31.287566+00:00
 -- url     : https://prove2.me/theorems/ced7d02d-6c7c-4784-afc3-c3fda2fd4e0f

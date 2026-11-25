@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_ZeroFreeDirichlet_norm_le_norm_add_of_mem_closedBall__531c6a09be92
 -- name    : P2M_Formalism_ZeroFreeDirichlet_norm_le_norm_add_of_mem_closedBall__531c6a09be92
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:02:13.45682+00:00
 -- url     : https://prove2.me/theorems/8ae91a9f-2111-42b9-aab0-99e99a4243e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_RgEisLeviQUnit_pi___44780f1c40f3
 -- name    : P2M_GlobalTheory_CompanionTheory_RgEisLeviQUnit_pi___44780f1c40f3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:03:26.161111+00:00
 -- url     : https://prove2.me/theorems/91a473ff-56e6-40dd-884e-c9d2d108254a

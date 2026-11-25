@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_cartAt_of_notMem_support_9dc6313038df
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_cartAt_of_notMem_support_9dc6313038df
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:04:17.214822+00:00
 -- url     : https://prove2.me/theorems/cb5dc2f7-beb5-4e6b-99b8-cf5d86b6d660

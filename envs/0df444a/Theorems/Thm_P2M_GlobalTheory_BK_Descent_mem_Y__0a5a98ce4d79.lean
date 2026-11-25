@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_BK_Descent_mem_Y__0a5a98ce4d79
 -- name    : P2M_GlobalTheory_BK_Descent_mem_Y__0a5a98ce4d79
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:03:17.711795+00:00
 -- url     : https://prove2.me/theorems/5a752fa8-8dbe-409f-8c2e-1aa293bdeb6c

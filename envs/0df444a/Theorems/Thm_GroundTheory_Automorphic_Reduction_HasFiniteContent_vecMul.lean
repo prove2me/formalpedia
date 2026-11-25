@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_HasFiniteContent_vecMul
 -- name    : GroundTheory.Automorphic.Reduction.HasFiniteContent.vecMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:06:11.929028+00:00
 -- url     : https://prove2.me/theorems/ab22d70f-5c23-400a-be19-044eabfb1c0f

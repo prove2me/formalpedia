@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeafCoordWeight_weight_nonneg
 -- name    : GlobalTheory.LeafCoordWeight.weight_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:46:47.966604+00:00
 -- url     : https://prove2.me/theorems/334f9f7a-10b5-46c3-93fa-706406811c73

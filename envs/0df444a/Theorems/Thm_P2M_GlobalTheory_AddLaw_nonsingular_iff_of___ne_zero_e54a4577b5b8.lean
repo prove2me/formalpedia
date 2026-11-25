@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_AddLaw_nonsingular_iff_of___ne_zero_e54a4577b5b8
 -- name    : P2M_GlobalTheory_AddLaw_nonsingular_iff_of___ne_zero_e54a4577b5b8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:02:28.261798+00:00
 -- url     : https://prove2.me/theorems/ec143758-1d8c-4576-a9ac-d0de9e8214b2

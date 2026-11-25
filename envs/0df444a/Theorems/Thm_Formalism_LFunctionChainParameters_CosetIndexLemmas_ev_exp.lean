@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_CosetIndexLemmas_ev_exp
 -- name    : Formalism.LFunctionChainParameters.CosetIndexLemmas.ev_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:34:07.881705+00:00
 -- url     : https://prove2.me/theorems/5227bea8-716a-4ae7-a5bf-8f976925ec64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Local_degROn_sdiff_covered
 -- name    : GalvinMultigraph.Local.degROn_sdiff_covered
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:25:21.860448+00:00
 -- url     : https://prove2.me/theorems/4401674e-6529-4dc4-a791-c9ca03591832

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_comp_eq_zero_of_not_dle
 -- name    : Formalism.InvariantFactorPaths.PW.comp_eq_zero_of_not_dle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:33:09.352943+00:00
 -- url     : https://prove2.me/theorems/b7c9bbf7-0c33-434a-a5c4-84f7a0e2221c

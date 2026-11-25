@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_EmbeddedResolution_exists_etaleChart_comap_subscheme__eraseIdx_fdb03de3c0d1
 -- name    : P2M_FunctorialResolution_EmbeddedResolution_exists_etaleChart_comap_subscheme__eraseIdx_fdb03de3c0d1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:02:40.538464+00:00
 -- url     : https://prove2.me/theorems/4bbf7fbc-3055-4877-9805-b33da6d87f2c

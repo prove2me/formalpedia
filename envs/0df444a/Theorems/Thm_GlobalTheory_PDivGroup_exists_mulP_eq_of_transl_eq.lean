@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_exists_mulP_eq_of_transl_eq
 -- name    : GlobalTheory.PDivGroup.exists_mulP_eq_of_transl_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:44:50.319161+00:00
 -- url     : https://prove2.me/theorems/dda62444-86d0-425c-900a-a48a7ac95ffc

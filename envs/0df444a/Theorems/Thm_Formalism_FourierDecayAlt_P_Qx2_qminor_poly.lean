@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_qminor_poly
 -- name    : Formalism.FourierDecayAlt.P.Qx2.qminor_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:16:20.823135+00:00
 -- url     : https://prove2.me/theorems/11698ba5-5354-4fe4-98bd-fb25295439f0

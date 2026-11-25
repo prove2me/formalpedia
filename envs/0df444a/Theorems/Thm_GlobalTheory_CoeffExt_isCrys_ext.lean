@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffExt_isCrys_ext
 -- name    : GlobalTheory.CoeffExt.isCrys_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:15:23.340087+00:00
 -- url     : https://prove2.me/theorems/0ed1485d-8784-4a4d-b49e-5c6acdf68bdb

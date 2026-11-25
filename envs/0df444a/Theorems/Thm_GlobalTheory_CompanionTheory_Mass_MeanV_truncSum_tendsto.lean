@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_truncSum_tendsto
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.truncSum_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:51:21.827702+00:00
 -- url     : https://prove2.me/theorems/775f3aef-0157-44a1-b2e7-5a4944a1b598

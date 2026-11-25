@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_goodAcyclic_twist
 -- name    : GroundTheory.Arith.SchemeCoh.goodAcyclic_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:10:21.628237+00:00
 -- url     : https://prove2.me/theorems/a1630924-27aa-4183-87a9-77cc2c96f864

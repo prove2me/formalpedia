@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_extendByZero_conjFun
 -- name    : GroundTheory.Global.Artin.extendByZero_conjFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:45:43.697242+00:00
 -- url     : https://prove2.me/theorems/eb6147d5-f36f-5cf3-84c3-70f98cd84755

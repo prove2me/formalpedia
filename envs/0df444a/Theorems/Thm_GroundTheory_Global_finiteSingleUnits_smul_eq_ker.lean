@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finiteSingleUnits_smul_eq_ker
 -- name    : GroundTheory.Global.finiteSingleUnits_smul_eq_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:13:44.44658+00:00
 -- url     : https://prove2.me/theorems/036ef6ec-894c-40d2-90b0-3679e168a7e2

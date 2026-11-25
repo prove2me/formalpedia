@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_ChainHighest_aux__53c00536da70
 -- name    : P2M_GlobalTheory_CompanionTheory_ChainHighest_aux__53c00536da70
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:02:58.148618+00:00
 -- url     : https://prove2.me/theorems/6d66593c-c5a3-469b-8c27-d9537416141d

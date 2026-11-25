@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_pow_nsmul_eq_zero_of_le
 -- name    : GroundTheory.ProfCoh.pow_nsmul_eq_zero_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:47:33.180252+00:00
 -- url     : https://prove2.me/theorems/ec24911c-602e-4dc0-9843-6111f1e84e74

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx5_hpart_sum
 -- name    : Formalism.FourierDecayAlt.P.Qx5.hpart_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:44:51.917966+00:00
 -- url     : https://prove2.me/theorems/5ce6dd3f-e610-47f6-a992-ea4527298cab

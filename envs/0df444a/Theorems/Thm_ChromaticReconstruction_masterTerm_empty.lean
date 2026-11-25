@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_masterTerm_empty
 -- name    : ChromaticReconstruction.masterTerm_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:17:28.517595+00:00
 -- url     : https://prove2.me/theorems/547bd770-ada3-48e8-bddc-972949d399e5

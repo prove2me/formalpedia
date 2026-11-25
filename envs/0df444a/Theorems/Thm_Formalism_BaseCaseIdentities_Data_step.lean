@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_step
 -- name    : Formalism.BaseCaseIdentities.Data.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:43:39.022476+00:00
 -- url     : https://prove2.me/theorems/209e56cc-640f-45ef-9e23-76c1f9a5de09

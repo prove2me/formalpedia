@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_fock_comp_right
 -- name    : Formalism.InvariantFactorPaths.PW.fock_comp_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:44:54.74437+00:00
 -- url     : https://prove2.me/theorems/1bc452e1-085d-4ea2-a1a1-b98f7086dd0d

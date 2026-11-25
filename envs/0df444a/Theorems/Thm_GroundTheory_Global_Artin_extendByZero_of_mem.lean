@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_extendByZero_of_mem
 -- name    : GroundTheory.Global.Artin.extendByZero_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:44:58.642938+00:00
 -- url     : https://prove2.me/theorems/0de6d806-7480-45f5-8c7b-910b09c65f02

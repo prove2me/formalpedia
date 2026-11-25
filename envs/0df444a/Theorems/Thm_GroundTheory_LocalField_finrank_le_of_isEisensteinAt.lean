@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_finrank_le_of_isEisensteinAt
 -- name    : GroundTheory.LocalField.finrank_le_of_isEisensteinAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:59:38.710113+00:00
 -- url     : https://prove2.me/theorems/cc7ea88e-ce4f-45a7-a731-9aef25a4c549

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FubiniStudyChowHeightFormula__Adr_Acyc_two_37305c98b3e1
 -- name    : P2M_FubiniStudyChowHeightFormula__Adr_Acyc_two_37305c98b3e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:02:22.634249+00:00
 -- url     : https://prove2.me/theorems/d20863ad-7348-4882-bcfa-e46320dabd89

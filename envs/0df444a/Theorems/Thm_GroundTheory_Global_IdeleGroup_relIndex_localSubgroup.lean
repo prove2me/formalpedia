@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_relIndex_localSubgroup
 -- name    : GroundTheory.Global.IdeleGroup.relIndex_localSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:19:15.032065+00:00
 -- url     : https://prove2.me/theorems/37803a1a-9584-44f9-b7eb-5f642f30d3da

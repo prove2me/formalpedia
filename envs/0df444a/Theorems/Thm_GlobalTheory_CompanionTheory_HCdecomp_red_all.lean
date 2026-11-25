@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HCdecomp_red_all
 -- name    : GlobalTheory.CompanionTheory.HCdecomp.red_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:45:35.537888+00:00
 -- url     : https://prove2.me/theorems/a530d1f0-eb44-4f26-ab39-8be515bac47f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_TieQL_inf_ker_eq_bot
 -- name    : Formalism.L2.Pj.QAt.TieQL.inf_ker_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:36:35.148799+00:00
 -- url     : https://prove2.me/theorems/f77955ac-645a-4212-ab9d-1e4e645e7733

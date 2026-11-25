@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Local_degLOn_le_of_subset
 -- name    : GalvinMultigraph.Local.degLOn_le_of_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:24:33.058939+00:00
 -- url     : https://prove2.me/theorems/8a26d31e-3e4c-4951-854d-5f6e8bcb14c2

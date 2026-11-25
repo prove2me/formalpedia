@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_prod_nabVal_leading_minors_of_column_jets
 -- name    : GlobalTheory.sum_prod_nabVal_leading_minors_of_column_jets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:13:30.636801+00:00
 -- url     : https://prove2.me/theorems/d336b3bc-0c13-467a-a35e-d6977389c2b0

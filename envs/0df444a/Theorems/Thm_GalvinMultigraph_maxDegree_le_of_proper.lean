@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_maxDegree_le_of_proper
 -- name    : GalvinMultigraph.maxDegree_le_of_proper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:21:24.134849+00:00
 -- url     : https://prove2.me/theorems/6000451c-aac9-4bb4-b111-fccc86821abc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_continuous_normUnits
 -- name    : GroundTheory.LocalField.continuous_normUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:14:41.436265+00:00
 -- url     : https://prove2.me/theorems/cf568f42-0d40-413c-a7a5-d41703173da4

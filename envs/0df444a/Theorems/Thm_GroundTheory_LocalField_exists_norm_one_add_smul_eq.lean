@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_norm_one_add_smul_eq
 -- name    : GroundTheory.LocalField.exists_norm_one_add_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:14:27.623824+00:00
 -- url     : https://prove2.me/theorems/a4aa5ef4-ad15-4f8f-a682-f711bd47b5b2

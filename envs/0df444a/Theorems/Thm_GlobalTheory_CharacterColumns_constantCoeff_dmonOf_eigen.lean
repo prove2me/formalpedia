@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharacterColumns_constantCoeff_dmonOf_eigen
 -- name    : GlobalTheory.CharacterColumns.constantCoeff_dmonOf_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:57:31.731805+00:00
 -- url     : https://prove2.me/theorems/0f14e0a1-71bc-4458-b59a-3f4392f71c05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_SobolevSpace_norm_diffQuot_le
 -- name    : GroundTheory.Automorphic.Sobolev.SobolevSpace.norm_diffQuot_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:55:50.713925+00:00
 -- url     : https://prove2.me/theorems/28b991b3-747b-4d36-93fa-d1c31b2fd4c4

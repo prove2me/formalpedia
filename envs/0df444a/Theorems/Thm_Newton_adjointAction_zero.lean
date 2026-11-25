@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_adjointAction_zero
 -- name    : Newton.adjointAction.zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:18:17.366377+00:00
 -- url     : https://prove2.me/theorems/310564aa-ca97-4cd8-8636-d90f9345d9c1

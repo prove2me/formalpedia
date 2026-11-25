@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Galvin_lineGraph_adj_iff_ends
 -- name    : Galvin.lineGraph_adj_iff_ends
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:50:17.00415+00:00
 -- url     : https://prove2.me/theorems/502cbd71-8f62-4152-9cb9-51f5d738aea7

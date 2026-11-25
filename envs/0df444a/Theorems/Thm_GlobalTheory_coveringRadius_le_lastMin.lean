@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coveringRadius_le_lastMin
 -- name    : GlobalTheory.coveringRadius_le_lastMin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:57:04.101413+00:00
 -- url     : https://prove2.me/theorems/d9d13054-b40a-420f-95d1-6eb04b2d4ee0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeviZero_wd_coord
 -- name    : GlobalTheory.LeviZero.wd_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:31:13.857969+00:00
 -- url     : https://prove2.me/theorems/cb4bee9c-7472-4314-956b-3273d20f52b3

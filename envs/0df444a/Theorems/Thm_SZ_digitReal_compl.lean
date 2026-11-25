@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_digitReal_compl
 -- name    : SZ.digitReal_compl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:15:03.271508+00:00
 -- url     : https://prove2.me/theorems/2e0af0c3-086d-4183-9795-cf93ef3c2fdc

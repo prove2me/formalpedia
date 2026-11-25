@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_prim_mul
 -- name    : Formalism.LFunctionChainParameters.LBr2.prim_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:42:00.978931+00:00
 -- url     : https://prove2.me/theorems/674e24b8-6fc5-489d-af80-80f4576466e1

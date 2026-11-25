@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KronOff_pnorm_eq
 -- name    : GlobalTheory.KronOff.pnorm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:44:44.186933+00:00
 -- url     : https://prove2.me/theorems/6434538a-dd12-516c-abf4-cb66328050fb

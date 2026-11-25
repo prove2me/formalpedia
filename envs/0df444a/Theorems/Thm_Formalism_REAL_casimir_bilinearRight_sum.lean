@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_casimir_bilinearRight_sum
 -- name    : Formalism.REAL.casimir_bilinearRight_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:19:47.875805+00:00
 -- url     : https://prove2.me/theorems/cf9b57dc-6dc7-489c-befb-4edeb4af9414

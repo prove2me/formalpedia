@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_PlaneGram_der__2d3ff284a7e8
 -- name    : P2M_Formalism_MainNotions_PlaneGram_der__2d3ff284a7e8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:01:22.081375+00:00
 -- url     : https://prove2.me/theorems/8469426b-b59e-4bdd-b26d-a2f2bc444eff

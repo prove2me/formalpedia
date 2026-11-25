@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_PlaneGram_ddiv_zero__7224b7af6ae9
 -- name    : P2M_Formalism_MainNotions_PlaneGram_ddiv_zero__7224b7af6ae9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:01:22.502279+00:00
 -- url     : https://prove2.me/theorems/313d2f73-a9eb-4b1f-9b8e-7b20fea3b160

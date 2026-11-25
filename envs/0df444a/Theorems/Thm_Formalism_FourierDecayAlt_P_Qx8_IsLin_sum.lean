@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_IsLin_sum
 -- name    : Formalism.FourierDecayAlt.P.Qx8.IsLin.sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:19:28.569725+00:00
 -- url     : https://prove2.me/theorems/117ebfb3-e23b-42b9-a656-0830aa68ba5f

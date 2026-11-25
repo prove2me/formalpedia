@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__unimodular_of_orthonormal_basis_66c8c2117918
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__unimodular_of_orthonormal_basis_66c8c2117918
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:59:58.062645+00:00
 -- url     : https://prove2.me/theorems/91549eea-47ac-498f-92bd-261d552f1d49

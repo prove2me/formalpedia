@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_mulL2_coeFn
 -- name    : MeasureTheory.mulL2_coeFn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:19:22.515627+00:00
 -- url     : https://prove2.me/theorems/f735d086-5b75-415c-b819-5a3f7091b8b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_residueCard_nnreal_ne_zero
 -- name    : GroundTheory.LocalField.residueCard_nnreal_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:27:18.275126+00:00
 -- url     : https://prove2.me/theorems/3d30d6a0-e41f-41ca-aa73-3c112be986b7

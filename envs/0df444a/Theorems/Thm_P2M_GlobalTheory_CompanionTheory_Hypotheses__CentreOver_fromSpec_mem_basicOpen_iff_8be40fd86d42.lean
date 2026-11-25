@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_fromSpec_mem_basicOpen_iff_8be40fd86d42
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_fromSpec_mem_basicOpen_iff_8be40fd86d42
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:03:51.507093+00:00
 -- url     : https://prove2.me/theorems/27c25e5e-4468-4744-89dc-9563b7392f77

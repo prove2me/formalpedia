@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_unitBallClosed
 -- name    : Formalism.L2.Th1.C.unitBallClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:48:30.931047+00:00
 -- url     : https://prove2.me/theorems/8a20e853-fe06-5e58-82f9-ca8e0b4b2828

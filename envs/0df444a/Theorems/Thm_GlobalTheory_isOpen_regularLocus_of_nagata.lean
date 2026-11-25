@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isOpen_regularLocus_of_nagata
 -- name    : GlobalTheory.isOpen_regularLocus_of_nagata
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:15:25.605598+00:00
 -- url     : https://prove2.me/theorems/dee8e567-b968-4920-8c1e-cd6eda85b5ea

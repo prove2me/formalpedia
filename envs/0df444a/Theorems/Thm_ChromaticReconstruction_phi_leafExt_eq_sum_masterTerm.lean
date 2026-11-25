@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_phi_leafExt_eq_sum_masterTerm
 -- name    : ChromaticReconstruction.phi_leafExt_eq_sum_masterTerm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:07:48.080009+00:00
 -- url     : https://prove2.me/theorems/42af66db-3b10-4756-875b-3b4e56dcaf88

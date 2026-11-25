@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_REAL_sum_sum_sum_sum_comm__604324486430
 -- name    : P2M_Formalism_REAL_sum_sum_sum_sum_comm__604324486430
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:01:05.093086+00:00
 -- url     : https://prove2.me/theorems/45bd292f-6542-4cc2-8158-abb929cbc106

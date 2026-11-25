@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_convolution_diff_bound_L1
 -- name    : Newton.convolution_diff_bound_L1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:15:11.059682+00:00
 -- url     : https://prove2.me/theorems/39df0fc7-0e5e-45c9-8492-1625c47c94fb

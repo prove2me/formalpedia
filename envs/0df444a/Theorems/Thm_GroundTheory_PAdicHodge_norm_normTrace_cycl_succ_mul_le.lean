@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_normTrace_cycl_succ_mul_le
 -- name    : GroundTheory.PAdicHodge.norm_normTrace_cycl_succ_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:47:08.771146+00:00
 -- url     : https://prove2.me/theorems/95287e39-9ae3-49aa-b6a8-7af15fbcddb9

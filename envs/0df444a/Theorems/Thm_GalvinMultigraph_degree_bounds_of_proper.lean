@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_degree_bounds_of_proper
 -- name    : GalvinMultigraph.degree_bounds_of_proper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:21:37.653707+00:00
 -- url     : https://prove2.me/theorems/5ef70a1d-270a-44a4-a2d2-560a26ffe369

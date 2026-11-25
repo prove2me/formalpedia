@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_su2_has_noncommuting_pair
 -- name    : Newton.su2_has_noncommuting_pair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:18:42.177831+00:00
 -- url     : https://prove2.me/theorems/0cf5007c-5c78-408e-be96-8dfa36da8d91

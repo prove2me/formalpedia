@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_Top_schurTrace
 -- name    : Formalism.InvariantFactorPaths.PW.Top.schurTrace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:16:11.357073+00:00
 -- url     : https://prove2.me/theorems/ecc12006-7af8-4a8c-8f24-26413a4ab38b

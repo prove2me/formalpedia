@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_AlgConn_hom_eq_toSpec__comp_f14dc953d336
 -- name    : P2M_GlobalTheory_AlgConn_hom_eq_toSpec__comp_f14dc953d336
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:02:17.699605+00:00
 -- url     : https://prove2.me/theorems/6b57aacd-2054-4303-81f7-758cc9d1f057

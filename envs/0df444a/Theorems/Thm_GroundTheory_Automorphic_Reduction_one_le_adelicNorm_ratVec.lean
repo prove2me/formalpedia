@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_one_le_adelicNorm_ratVec
 -- name    : GroundTheory.Automorphic.Reduction.one_le_adelicNorm_ratVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:08:31.9628+00:00
 -- url     : https://prove2.me/theorems/6a73ff0b-2184-4e25-85b0-735b63cac5e3

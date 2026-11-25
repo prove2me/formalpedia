@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_GeneratorMatrix_cc_matCoord
 -- name    : Formalism.L2.Th1.E.GeneratorMatrix.cc_matCoord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:40:32.646087+00:00
 -- url     : https://prove2.me/theorems/800745c7-1d77-526a-8278-2f0a8d17510b

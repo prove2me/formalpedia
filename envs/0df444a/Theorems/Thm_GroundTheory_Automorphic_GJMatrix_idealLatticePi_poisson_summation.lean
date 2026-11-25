@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GJMatrix_idealLatticePi_poisson_summation
 -- name    : GroundTheory.Automorphic.GJMatrix.idealLatticePi_poisson_summation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:56:26.130362+00:00
 -- url     : https://prove2.me/theorems/82b71d3d-aefc-4255-8d08-cab605806915

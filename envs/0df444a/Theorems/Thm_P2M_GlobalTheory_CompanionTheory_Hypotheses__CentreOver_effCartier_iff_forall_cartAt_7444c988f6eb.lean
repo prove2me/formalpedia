@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_effCartier_iff_forall_cartAt_7444c988f6eb
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_effCartier_iff_forall_cartAt_7444c988f6eb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:03:18.519489+00:00
 -- url     : https://prove2.me/theorems/1de5e060-a4dc-4844-87af-67c6b294aa8f

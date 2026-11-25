@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_mem_valuation_eq
 -- name    : GroundTheory.Global.exists_mem_valuation_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:13:45.653654+00:00
 -- url     : https://prove2.me/theorems/086e6d9a-6bc6-476a-9a4d-4046dcf5e044

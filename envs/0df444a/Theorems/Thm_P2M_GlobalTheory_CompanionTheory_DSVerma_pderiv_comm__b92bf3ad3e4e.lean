@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_DSVerma_pderiv_comm__b92bf3ad3e4e
 -- name    : P2M_GlobalTheory_CompanionTheory_DSVerma_pderiv_comm__b92bf3ad3e4e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:03:39.564392+00:00
 -- url     : https://prove2.me/theorems/502c8da2-f339-490a-afb9-8af5d96b3958

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_gelfandNumber_le_deviation
 -- name    : SNumbers.gelfandNumber_le_deviation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:48:28.262601+00:00
 -- url     : https://prove2.me/theorems/bfe02c78-0451-42d5-852c-c403605fb950

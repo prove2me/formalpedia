@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_norm_vecMul_integralGL
 -- name    : GroundTheory.Automorphic.Reduction.norm_vecMul_integralGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:09:11.192944+00:00
 -- url     : https://prove2.me/theorems/391eee51-f6f2-43d7-8533-c714e848a7aa

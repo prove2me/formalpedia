@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_group_exponential_facts
 -- name    : Formalism.REAL.group_exponential_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:53:48.234657+00:00
 -- url     : https://prove2.me/theorems/e0a7ad44-ac23-4ed6-89ed-d18b901166fc

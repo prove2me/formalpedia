@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_mollifier_convolution_diff_L1
 -- name    : Newton.mollifier_convolution_diff_L1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:15:06.506893+00:00
 -- url     : https://prove2.me/theorems/d10bdb45-b700-4d76-978e-38c686f01c42

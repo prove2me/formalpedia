@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_cycHerbrand_integerUnits_eq_one_of_subgroup
 -- name    : GroundTheory.LocalField.cycHerbrand_integerUnits_eq_one_of_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:16:51.218604+00:00
 -- url     : https://prove2.me/theorems/00805725-a695-4635-82da-5edbc7caa3d1

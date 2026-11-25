@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_bigWeights_subsingleton
 -- name    : ChromaticReconstruction.bigWeights_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:38:23.185719+00:00
 -- url     : https://prove2.me/theorems/da527710-bae0-45fe-b817-6c3d747bfbfd

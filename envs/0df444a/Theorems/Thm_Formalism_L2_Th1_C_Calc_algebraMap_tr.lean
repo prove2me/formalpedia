@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Calc_algebraMap_tr
 -- name    : Formalism.L2.Th1.C.Calc.algebraMap_tr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:36:56.817525+00:00
 -- url     : https://prove2.me/theorems/4bf4a8e3-46c8-4dc4-8e41-cf39f104215b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_exists_unit_forall_abs_log_le
 -- name    : GroundTheory.Global.IdeleGroup.exists_unit_forall_abs_log_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:13:47.897151+00:00
 -- url     : https://prove2.me/theorems/cf120c59-7c05-490c-98cf-3ff0ca734ef5

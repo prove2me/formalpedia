@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Local_galvin_engine
 -- name    : GalvinMultigraph.Local.galvin_engine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:57:54.102344+00:00
 -- url     : https://prove2.me/theorems/90983c1c-e7ef-4f02-ba02-d67a8290d8eb

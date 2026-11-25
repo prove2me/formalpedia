@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_coe_norm_eq_algebraMap_norm
 -- name    : GroundTheory.LocalField.coe_norm_eq_algebraMap_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:23:10.576873+00:00
 -- url     : https://prove2.me/theorems/01e3ace3-7109-45c7-9a19-ba12a186c118

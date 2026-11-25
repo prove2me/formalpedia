@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_NuclearRankWeightBounds_P_PB___bbar_e0c4441375c8
 -- name    : P2M_Formalism_NuclearRankWeightBounds_P_PB___bbar_e0c4441375c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:01:25.184168+00:00
 -- url     : https://prove2.me/theorems/0860872f-980c-4500-ab00-da67c30591a4

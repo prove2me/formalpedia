@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_twist_lower_bound
 -- name    : Formalism.ExtensionFiltration.twist_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:37:14.371692+00:00
 -- url     : https://prove2.me/theorems/57c3a2d2-123b-4ced-b662-aa2e8bd3c05c

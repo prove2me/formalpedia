@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_MinorLast_nmat_eq
 -- name    : GlobalTheory.IntBall.MinorLast.nmat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:46:13.301338+00:00
 -- url     : https://prove2.me/theorems/bd51daa6-bed5-468d-80d2-5fd51d614e4b

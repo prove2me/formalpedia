@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_pick_snd_mem
 -- name    : SZ.pick_snd_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:26:47.690459+00:00
 -- url     : https://prove2.me/theorems/250fa84d-b895-42b8-ac7f-83474da39c28

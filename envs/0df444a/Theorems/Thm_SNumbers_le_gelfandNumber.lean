@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_le_gelfandNumber
 -- name    : SNumbers.le_gelfandNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:22:55.860673+00:00
 -- url     : https://prove2.me/theorems/eb918d3a-7203-428e-87ef-f9ac7feef331

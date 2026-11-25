@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMLattice_exists_ideal
 -- name    : GlobalTheory.CMLattice.exists_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:38:50.887584+00:00
 -- url     : https://prove2.me/theorems/21259455-d5b8-4373-9ddf-01ed84be0645

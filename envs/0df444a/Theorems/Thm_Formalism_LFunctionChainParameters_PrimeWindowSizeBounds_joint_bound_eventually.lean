@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_joint_bound_eventually
 -- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.joint_bound_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:34:53.345808+00:00
 -- url     : https://prove2.me/theorems/7d9d88ee-8d7b-4859-b67d-b13121cc9dcc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_mem_norm_sub_le_lastMin
 -- name    : GlobalTheory.exists_mem_norm_sub_le_lastMin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:56:47.264121+00:00
 -- url     : https://prove2.me/theorems/10f051c5-7def-457a-afca-5da26fcfc0c0

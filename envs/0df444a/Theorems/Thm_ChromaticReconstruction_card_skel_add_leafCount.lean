@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_card_skel_add_leafCount
 -- name    : ChromaticReconstruction.card_skel_add_leafCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:18:05.21827+00:00
 -- url     : https://prove2.me/theorems/cd9248e4-5949-4908-bff0-ac06f70a0850

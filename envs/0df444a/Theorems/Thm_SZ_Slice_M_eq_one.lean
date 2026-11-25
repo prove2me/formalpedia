@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_M_eq_one
 -- name    : SZ.Slice.M_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:21:17.784978+00:00
 -- url     : https://prove2.me/theorems/34a3866e-e283-4753-bae1-4dcd0b9c3213

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_ev_levelW
 -- name    : Formalism.LFunctionChainParameters.LChain2.ev_levelW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:42:35.196748+00:00
 -- url     : https://prove2.me/theorems/c083db10-50dc-5068-b82a-2c2721b840c8

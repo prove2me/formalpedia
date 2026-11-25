@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_Qx5_single_mulVec__ad7365b648dd
 -- name    : P2M_Formalism_FourierDecayAlt_P_Qx5_single_mulVec__ad7365b648dd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:45:33.489947+00:00
 -- url     : https://prove2.me/theorems/1fd777a4-a98f-4298-b3a5-f429904fcbdf

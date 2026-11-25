@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainTerm_zeta_leaf_main_term
 -- name    : GlobalTheory.MainTerm.zeta_leaf_main_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:58:46.50526+00:00
 -- url     : https://prove2.me/theorems/0d8dff95-147a-480a-b5eb-4f32a02c25ca

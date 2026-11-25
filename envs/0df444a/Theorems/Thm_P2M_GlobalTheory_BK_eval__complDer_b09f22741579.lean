@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_BK_eval__complDer_b09f22741579
 -- name    : P2M_GlobalTheory_BK_eval__complDer_b09f22741579
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:02:01.815322+00:00
 -- url     : https://prove2.me/theorems/db24e20f-0a3d-4c95-a092-20dd907da24a

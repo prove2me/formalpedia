@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_MapThetaTInvariant_countable_valueGroupWithZero_cd8b2c53ac4b
 -- name    : P2M_GroundTheory_Variant__N1_MapThetaTInvariant_countable_valueGroupWithZero_cd8b2c53ac4b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:47:33.401794+00:00
 -- url     : https://prove2.me/theorems/1b5337a8-a709-436b-89ed-4b315ca8cca7

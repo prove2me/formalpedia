@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_AlgConn_hom_ext_of_two__of_basicOpen_d5662058710f
 -- name    : P2M_GlobalTheory_AlgConn_hom_ext_of_two__of_basicOpen_d5662058710f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:02:02.692485+00:00
 -- url     : https://prove2.me/theorems/fb339203-dc56-4cd9-a8a4-0ebee52cff69

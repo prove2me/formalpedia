@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_Zb_Zb
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.Zb_Zb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:43:54.742451+00:00
 -- url     : https://prove2.me/theorems/73517071-2ae6-4f84-a3bd-d43f73d95816

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_maxCuspsA_herm_sum_right
 -- name    : Formalism.L2.Pj.QAt.maxCuspsA_herm_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:37:48.068003+00:00
 -- url     : https://prove2.me/theorems/7f12f420-6121-5d19-95c8-815588003b0b

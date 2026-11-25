@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_dualPl
 -- name    : Formalism.HN.dualPl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:27:33.618952+00:00
 -- url     : https://prove2.me/theorems/ffa34322-ea79-4c79-a022-1ac7f7428193

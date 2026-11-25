@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_GenericSectionMinimum_totalDegree_pderiv_lt
 -- name    : Formalism.L2.Pj.GenericSectionMinimum.totalDegree_pderiv_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:44:29.957803+00:00
 -- url     : https://prove2.me/theorems/ac34c5c3-463a-5d70-89b5-258117383013

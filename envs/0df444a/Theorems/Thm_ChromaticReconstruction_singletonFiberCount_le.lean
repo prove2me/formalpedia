@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_singletonFiberCount_le
 -- name    : ChromaticReconstruction.singletonFiberCount_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:16:26.323369+00:00
 -- url     : https://prove2.me/theorems/485ddfc6-dca9-401a-ab4b-677d459afd5d

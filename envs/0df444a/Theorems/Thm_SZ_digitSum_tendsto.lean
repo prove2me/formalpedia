@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_digitSum_tendsto
 -- name    : SZ.digitSum_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:39:04.670429+00:00
 -- url     : https://prove2.me/theorems/15a5e232-683d-4a1a-b3f1-d2ea3cd2b5e0

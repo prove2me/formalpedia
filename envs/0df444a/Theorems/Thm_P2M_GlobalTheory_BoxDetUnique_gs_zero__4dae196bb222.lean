@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_BoxDetUnique_gs_zero__4dae196bb222
 -- name    : P2M_GlobalTheory_BoxDetUnique_gs_zero__4dae196bb222
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:02:45.223337+00:00
 -- url     : https://prove2.me/theorems/aeec95d6-4b1c-4f6e-91b3-9bed3340e458

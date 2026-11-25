@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Calc_phi_norm
 -- name    : Formalism.L2.Th1.C.Calc.phi_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:17:09.225829+00:00
 -- url     : https://prove2.me/theorems/ae67485b-5f49-4220-9c56-1b5242d48f43

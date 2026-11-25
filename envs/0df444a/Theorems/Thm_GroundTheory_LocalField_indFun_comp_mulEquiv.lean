@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_indFun_comp_mulEquiv
 -- name    : GroundTheory.LocalField.indFun_comp_mulEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:45:38.097481+00:00
 -- url     : https://prove2.me/theorems/8df438ee-29cf-5a22-85a9-3c759123c2f7

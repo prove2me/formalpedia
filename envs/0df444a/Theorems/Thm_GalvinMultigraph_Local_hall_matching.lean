@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Local_hall_matching
 -- name    : GalvinMultigraph.Local.hall_matching
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:28:14.43947+00:00
 -- url     : https://prove2.me/theorems/381d9664-6c7b-41c4-a0a3-b2dcc9cf3b67

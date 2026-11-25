@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpOf_subst___comp1_f9ac2339a24b
 -- name    : P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpOf_subst___comp1_f9ac2339a24b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:01:22.118735+00:00
 -- url     : https://prove2.me/theorems/263725f6-8342-429c-82d4-d6325dc87558

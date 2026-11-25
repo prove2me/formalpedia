@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Gadget_degree_a
 -- name    : GalvinMultigraph.Gadget.degree_a
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:18:25.429017+00:00
 -- url     : https://prove2.me/theorems/237c4a05-4a31-4441-b903-4105d30a3429

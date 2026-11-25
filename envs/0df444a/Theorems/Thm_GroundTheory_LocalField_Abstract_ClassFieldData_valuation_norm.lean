@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_valuation_norm
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.valuation_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:03:30.012828+00:00
 -- url     : https://prove2.me/theorems/0f59b036-cea3-4df3-a04c-ade465e96fea

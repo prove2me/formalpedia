@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_character_linRep
 -- name    : GroundTheory.LocalField.character_linRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:45:49.097427+00:00
 -- url     : https://prove2.me/theorems/9df15d53-2225-4ef0-b10a-e4ec7dce0d8a

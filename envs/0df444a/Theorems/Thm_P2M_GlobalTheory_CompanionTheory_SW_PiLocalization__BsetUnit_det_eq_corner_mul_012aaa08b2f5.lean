@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__BsetUnit_det_eq_corner_mul_012aaa08b2f5
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__BsetUnit_det_eq_corner_mul_012aaa08b2f5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:03:03.859825+00:00
 -- url     : https://prove2.me/theorems/da48d133-83d0-4e8f-8b90-74556c117969

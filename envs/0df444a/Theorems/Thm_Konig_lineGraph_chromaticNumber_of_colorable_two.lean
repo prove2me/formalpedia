@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Konig_lineGraph_chromaticNumber_of_colorable_two
 -- name    : Konig.lineGraph_chromaticNumber_of_colorable_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:40:42.553878+00:00
 -- url     : https://prove2.me/theorems/96ceb2b0-a0d9-410d-9ea9-200ab5cd02c4

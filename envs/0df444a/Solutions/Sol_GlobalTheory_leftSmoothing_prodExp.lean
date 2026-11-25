@@ -1,0 +1,61 @@
+-- Prove2me | solution 1 for GlobalTheory.leftSmoothing_prodExp
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T02:05:06.849672+00:00
+-- url     : https://prove2.me/submissions/47e38307-800e-48dd-a190-9b403c70d3d2
+
+import Mathlib
+import Definitions.Def_GroundTheory_AutomorphicForms_GKModules_Casimir
+import Definitions.Def_GroundTheory_AutomorphicForms_HarishChandraRegularity_ExpHaar
+import Definitions.Def_GroundTheory_AutomorphicForms_HarishChandraInvariance_Compact
+import Definitions.Def_GroundTheory_AutomorphicForms_DixmierMalliavin
+import Definitions.Def_GroundTheory_AutomorphicForms_GKModules_ParametricIntegral
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_LeftSmoothingProdExpSmoothCommute
+import Theorems.Thm_GlobalTheory_LeftSmoothing_adjoin_commute_convEnd
+import Theorems.Thm_GroundTheory_Automorphic_HeckeAlgebra_mul_apply
+import Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_AdL_apply
+import Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_Ad_one
+import Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_coe_Ad
+import Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_coe_bracket
+import Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_coe_rightDerivEnd
+import Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_coe_rightTranslateEnd
+import Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_derivLie_apply
+import Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_coe_restrict_apply
+import Theorems.Thm_GroundTheory_Automorphic_conjCME_apply
+import Theorems.Thm_P2M_GroundTheory_Automorphic_IsExpLieAlgebra_rightUAction___d9062316eb7b
+import Theorems.Thm_P2M_GroundTheory_Automorphic_IsExpLieAlgebra_uAction___195cbae0e32a
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] GroundTheory.Automorphic.IsExpLieAlgebra.AdL_apply
+attribute [local simp] GroundTheory.Automorphic.IsExpLieAlgebra.Ad_one
+attribute [local simp] GroundTheory.Automorphic.IsExpLieAlgebra.coe_Ad
+attribute [local simp] GroundTheory.Automorphic.IsExpLieAlgebra.coe_bracket
+attribute [local simp] GroundTheory.Automorphic.IsExpLieAlgebra.coe_rightDerivEnd
+attribute [local simp] GroundTheory.Automorphic.IsExpLieAlgebra.coe_rightTranslateEnd
+attribute [local simp] GroundTheory.Automorphic.IsExpLieAlgebra.derivLie_apply
+attribute [local simp] GroundTheory.Automorphic.UnitaryRep.coe_restrict_apply
+attribute [local simp] GroundTheory.Automorphic.conjCME_apply
+attribute [local simp] P2M_GroundTheory_Automorphic_IsExpLieAlgebra_rightUAction___d9062316eb7b
+attribute [local simp] P2M_GroundTheory_Automorphic_IsExpLieAlgebra_uAction___195cbae0e32a
+
+
+
+set_option autoImplicit false
+open MeasureTheory GroundTheory.Automorphic
+open scoped ContDiff
+open GlobalTheory.LeftSmoothing
+namespace GlobalTheory
+theorem _root_.solution :
+    ∀ (𝔸 : Type) [NormedRing 𝔸] [NormedAlgebra ℝ 𝔸] [CompleteSpace 𝔸] [FiniteDimensional ℝ 𝔸] (G : Subgroup 𝔸ˣ) (𝔤 : Submodule ℝ 𝔸) (h : IsExpLieAlgebra G 𝔤) (n : ℕ) (X : Fin n → 𝔤) (κ : (Fin n → ℝ) → ℂ), Continuous κ → HasCompactSupport κ → ∀ f : h.smoothFuns (F := ℂ), ∃ v : h.smoothFuns (F := ℂ), (∀ y, (v : G → ℂ) y = ∫ t, κ t * (f : G → ℂ) (h.prodExp X t * y)) ∧ ∀ T ∈ Algebra.adjoin ℂ (Set.range (h.rightDerivEnd (F := ℂ))), ∀ y, (T v : G → ℂ) y = ∫ t, κ t * (T f : G → ℂ) (h.prodExp X t * y) := by
+  intro 𝔸 _ _ _ _ G 𝔤 h n X κ hκ hκs f
+  refine ⟨convEnd h X hκ hκs f, fun y => rfl, fun T hT y => ?_⟩
+  have e := LinearMap.congr_fun (adjoin_commute_convEnd (X := X) hκ hκs hT) f
+  simp only [Module.End.mul_apply] at e
+  rw [e]
+  rfl
+end GlobalTheory

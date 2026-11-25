@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_compSets_empty
 -- name    : ChromaticReconstruction.compSets_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:05:48.606943+00:00
 -- url     : https://prove2.me/theorems/97e1bdc3-64dd-480c-9322-d2ec631f2f50

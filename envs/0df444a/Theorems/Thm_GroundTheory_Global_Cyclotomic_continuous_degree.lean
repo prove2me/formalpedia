@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_continuous_degree
 -- name    : GroundTheory.Global.Cyclotomic.continuous_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:34:56.223315+00:00
 -- url     : https://prove2.me/theorems/b239c3fb-545d-46b9-b503-04138b7e4306

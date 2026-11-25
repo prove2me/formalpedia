@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_endIntClosed
 -- name    : Formalism.L2.Th1.C.endIntClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:39:15.724842+00:00
 -- url     : https://prove2.me/theorems/7ff51b85-fa15-4e34-a052-fcf8bd4f0f45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_OpenImmersionRestriction_idealSheafGeometryHypotheses_of_orderAtEqOfAgreeNear
 -- name    : FunctorialResolution.EmbeddedResolution.OpenImmersionRestriction.idealSheafGeometryHypotheses_of_orderAtEqOfAgreeNear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:13:55.73203+00:00
 -- url     : https://prove2.me/theorems/a90d1d92-bdb2-4c8c-9bdf-1901087f6a63

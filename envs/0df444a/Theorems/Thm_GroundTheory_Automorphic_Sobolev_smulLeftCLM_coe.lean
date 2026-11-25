@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_smulLeftCLM_coe
 -- name    : GroundTheory.Automorphic.Sobolev.smulLeftCLM_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:49:50.751673+00:00
 -- url     : https://prove2.me/theorems/7f7cfd11-272a-58a5-8ca3-48dc680771f9

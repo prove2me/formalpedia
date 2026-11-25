@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__ExplChiLeft_bound_right_960b4eaa5826
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__ExplChiLeft_bound_right_960b4eaa5826
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:04:01.512068+00:00
 -- url     : https://prove2.me/theorems/9464f411-c931-4e46-b087-2f8e210071e3

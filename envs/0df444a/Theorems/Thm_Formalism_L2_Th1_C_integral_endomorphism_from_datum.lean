@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_integral_endomorphism_from_datum
 -- name    : Formalism.L2.Th1.C.integral_endomorphism_from_datum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:16:42.861521+00:00
 -- url     : https://prove2.me/theorems/38731f2c-4b2c-41b8-befe-0aadbbfe0dbf

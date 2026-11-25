@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_small_onto
 -- name    : Formalism.CountingSumsFrames.small_onto
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:46:12.855859+00:00
 -- url     : https://prove2.me/theorems/96233610-0175-4261-b94a-29e0558d56b9

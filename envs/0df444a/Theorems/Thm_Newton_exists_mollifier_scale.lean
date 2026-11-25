@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_exists_mollifier_scale
 -- name    : Newton.exists_mollifier_scale
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:15:24.526259+00:00
 -- url     : https://prove2.me/theorems/37b37256-e591-4a83-a1c1-c68347f316b4

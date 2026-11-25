@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FubiniStudyChowHeightFormula__Adr_qa1_7c8b1fea16fe
 -- name    : P2M_FubiniStudyChowHeightFormula__Adr_qa1_7c8b1fea16fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:02:21.991858+00:00
 -- url     : https://prove2.me/theorems/be3f4313-acdf-4ec5-aefb-2a0feefeb6fb

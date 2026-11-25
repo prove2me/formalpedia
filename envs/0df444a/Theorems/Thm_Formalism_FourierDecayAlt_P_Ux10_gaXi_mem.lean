@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_gaXi_mem
 -- name    : Formalism.FourierDecayAlt.P.Ux10.gaXi_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:10:41.676808+00:00
 -- url     : https://prove2.me/theorems/d318e864-4193-4e67-bc26-f7acdb00dfe3

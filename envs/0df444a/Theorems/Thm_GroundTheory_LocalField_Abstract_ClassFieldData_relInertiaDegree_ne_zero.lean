@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_relInertiaDegree_ne_zero
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.relInertiaDegree_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:03:09.888584+00:00
 -- url     : https://prove2.me/theorems/0c6f841c-c474-430f-b193-315ea7787714

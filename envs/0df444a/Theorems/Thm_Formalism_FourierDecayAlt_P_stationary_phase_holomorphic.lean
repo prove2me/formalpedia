@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_stationary_phase_holomorphic
 -- name    : Formalism.FourierDecayAlt.P.stationary_phase_holomorphic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:03:01.098799+00:00
 -- url     : https://prove2.me/theorems/71496d88-749b-4b2d-b6d8-bde2e7178dcd

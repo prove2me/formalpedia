@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeviTransfer_borel_diag_ne_zero
 -- name    : GlobalTheory.LeviTransfer.borel_diag_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:33:04.941496+00:00
 -- url     : https://prove2.me/theorems/326a6fb0-90d5-4051-b74e-65d1db649546

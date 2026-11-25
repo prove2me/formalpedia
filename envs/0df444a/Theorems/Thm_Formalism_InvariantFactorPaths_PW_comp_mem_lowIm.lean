@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_comp_mem_lowIm
 -- name    : Formalism.InvariantFactorPaths.PW.comp_mem_lowIm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:33:14.84782+00:00
 -- url     : https://prove2.me/theorems/01509ae0-1f55-4884-bb30-c34f0d4a7118

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sb_herm_swap
 -- name    : ReciprocityTheory.MultiplicativeHeights.sb_herm_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:46:46.418584+00:00
 -- url     : https://prove2.me/theorems/0669ae60-27d9-49a7-9c05-922a4c9aefb6

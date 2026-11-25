@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_CharDet_isU_one
 -- name    : GlobalTheory.UTrans.CharDet.isU_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:47:40.001284+00:00
 -- url     : https://prove2.me/theorems/53e92be8-d9fb-4a1c-bc7d-ec73960277ce

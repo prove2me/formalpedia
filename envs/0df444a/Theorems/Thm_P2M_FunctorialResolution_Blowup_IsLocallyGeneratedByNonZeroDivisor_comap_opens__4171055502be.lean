@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_Blowup_IsLocallyGeneratedByNonZeroDivisor_comap_opens__4171055502be
 -- name    : P2M_FunctorialResolution_Blowup_IsLocallyGeneratedByNonZeroDivisor_comap_opens__4171055502be
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:02:08.843973+00:00
 -- url     : https://prove2.me/theorems/d4ef7a4e-d55c-4fb7-8d09-56178bd02fc8

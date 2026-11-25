@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_pairMS_le_weightMS
 -- name    : ChromaticReconstruction.pairMS_le_weightMS
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:21:05.831082+00:00
 -- url     : https://prove2.me/theorems/f00d2a00-0e7b-44e3-8857-2da74e00442f

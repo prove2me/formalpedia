@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx5_capelli_two_same_left
 -- name    : Formalism.FourierDecayAlt.P.Qx5.capelli_two_same_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:44:26.726832+00:00
 -- url     : https://prove2.me/theorems/1fae2cb1-2862-4f81-9088-1f8699f75ea1

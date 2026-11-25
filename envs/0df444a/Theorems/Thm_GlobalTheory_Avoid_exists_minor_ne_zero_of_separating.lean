@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Avoid_exists_minor_ne_zero_of_separating
 -- name    : GlobalTheory.Avoid.exists_minor_ne_zero_of_separating
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:58:06.168671+00:00
 -- url     : https://prove2.me/theorems/ecdae4e6-d256-4900-a858-02e905ee445c

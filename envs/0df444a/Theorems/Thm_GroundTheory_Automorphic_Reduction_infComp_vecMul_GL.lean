@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_infComp_vecMul_GL
 -- name    : GroundTheory.Automorphic.Reduction.infComp_vecMul_GL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:09:31.192483+00:00
 -- url     : https://prove2.me/theorems/a6a5279f-0a0c-4011-ab44-7a2c40b239d8

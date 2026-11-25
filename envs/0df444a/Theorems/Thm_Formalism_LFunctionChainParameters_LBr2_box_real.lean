@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_box_real
 -- name    : Formalism.LFunctionChainParameters.LBr2.box_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:40:20.809175+00:00
 -- url     : https://prove2.me/theorems/b1bd8e76-22b6-458c-b558-ea3957569222

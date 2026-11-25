@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_EisRk1Cont____eq_tails_8e43976e975c
 -- name    : P2M_GlobalTheory_CompanionTheory_EisRk1Cont____eq_tails_8e43976e975c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:03:42.273988+00:00
 -- url     : https://prove2.me/theorems/05c92cab-e5e3-472f-9beb-d5743327dce1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_ExplChi_hasDerivAt_Gamma__of_ne_8141e52e745e
 -- name    : P2M_GlobalTheory_CompanionTheory_ExplChi_hasDerivAt_Gamma__of_ne_8141e52e745e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:03:45.662232+00:00
 -- url     : https://prove2.me/theorems/ead00ce7-3f37-4c18-9e49-e6ea1472e59a

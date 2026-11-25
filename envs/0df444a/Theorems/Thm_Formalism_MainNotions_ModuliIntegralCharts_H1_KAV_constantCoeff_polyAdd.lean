@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_KAV_constantCoeff_polyAdd
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.KAV.constantCoeff_polyAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:01:41.836792+00:00
 -- url     : https://prove2.me/theorems/781593c5-f3b1-45be-8db2-4879b5f68a48

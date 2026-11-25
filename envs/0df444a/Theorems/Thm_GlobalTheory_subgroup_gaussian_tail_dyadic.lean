@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_subgroup_gaussian_tail_dyadic
 -- name    : GlobalTheory.subgroup_gaussian_tail_dyadic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:57:13.133314+00:00
 -- url     : https://prove2.me/theorems/537be6ef-d6e1-4781-8761-73aa70246abc

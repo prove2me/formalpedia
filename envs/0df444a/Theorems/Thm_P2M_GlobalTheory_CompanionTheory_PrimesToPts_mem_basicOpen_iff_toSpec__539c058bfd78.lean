@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_PrimesToPts_mem_basicOpen_iff_toSpec__539c058bfd78
 -- name    : P2M_GlobalTheory_CompanionTheory_PrimesToPts_mem_basicOpen_iff_toSpec__539c058bfd78
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:04:18.904806+00:00
 -- url     : https://prove2.me/theorems/4d5ddce0-ad11-4d08-b39d-f782a079079d

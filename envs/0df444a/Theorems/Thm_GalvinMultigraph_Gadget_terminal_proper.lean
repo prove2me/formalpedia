@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Gadget_terminal_proper
 -- name    : GalvinMultigraph.Gadget.terminal_proper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:19:38.998466+00:00
 -- url     : https://prove2.me/theorems/fe2477c0-eaf2-47f1-b734-f603124b9be7

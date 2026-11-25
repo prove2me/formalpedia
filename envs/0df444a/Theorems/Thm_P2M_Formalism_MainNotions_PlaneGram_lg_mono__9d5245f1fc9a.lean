@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_PlaneGram_lg_mono__9d5245f1fc9a
 -- name    : P2M_Formalism_MainNotions_PlaneGram_lg_mono__9d5245f1fc9a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:00:55.017607+00:00
 -- url     : https://prove2.me/theorems/77cadb30-e100-4868-929f-fc026c30a967

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_ZeroFreeDirichlet_re_one_div_sub_zero_pos__2a434b05b21b
 -- name    : P2M_Formalism_ZeroFreeDirichlet_re_one_div_sub_zero_pos__2a434b05b21b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:02:23.041108+00:00
 -- url     : https://prove2.me/theorems/2eb493a4-6327-4c5e-8b11-a06533ae1b90

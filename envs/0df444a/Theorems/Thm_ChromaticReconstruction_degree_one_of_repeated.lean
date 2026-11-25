@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_degree_one_of_repeated
 -- name    : ChromaticReconstruction.degree_one_of_repeated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:27:45.915406+00:00
 -- url     : https://prove2.me/theorems/22eb71e8-531b-453a-9841-9b5f46c579d8

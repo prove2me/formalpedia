@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_Nlev_last
 -- name    : Formalism.FourierDecayAlt.P.Qx8.Nlev_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:22:26.454833+00:00
 -- url     : https://prove2.me/theorems/aad22fd3-415d-4550-b594-15dac788114f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothnessOrderArithmetic_ruleB
 -- name    : Formalism.FourierDecayAlt.P.SmoothnessOrderArithmetic.ruleB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:29:56.90772+00:00
 -- url     : https://prove2.me/theorems/2c6b5651-d3e9-46bb-88ef-9ad5eeeed0cf

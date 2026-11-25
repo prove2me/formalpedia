@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_padic_stationary_phase
 -- name    : Formalism.FourierDecayAlt.P.padic_stationary_phase
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:09.929228+00:00
 -- url     : https://prove2.me/theorems/4bc07622-a3ac-4fb4-a7cb-1abea2358436

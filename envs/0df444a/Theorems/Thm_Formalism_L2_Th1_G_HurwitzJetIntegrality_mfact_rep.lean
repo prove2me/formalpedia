@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_HurwitzJetIntegrality_mfact_rep
 -- name    : Formalism.L2.Th1.G.HurwitzJetIntegrality.mfact_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:39:02.948613+00:00
 -- url     : https://prove2.me/theorems/09196d60-8954-4b5f-ac04-1d6b01200d11

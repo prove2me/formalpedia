@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_unitB_conj_bvec
 -- name    : Formalism.FourierDecayAlt.P.Qx8.unitB_conj_bvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:40:36.122925+00:00
 -- url     : https://prove2.me/theorems/b52397d1-2d29-4f66-a3a5-233ca424bb22

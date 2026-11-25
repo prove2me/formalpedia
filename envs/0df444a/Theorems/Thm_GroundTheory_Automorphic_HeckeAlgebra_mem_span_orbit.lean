@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HeckeAlgebra_mem_span_orbit
 -- name    : GroundTheory.Automorphic.HeckeAlgebra.mem_span_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:45:00.344725+00:00
 -- url     : https://prove2.me/theorems/f95922f4-ff7e-41a6-a46e-2dfc2715b991

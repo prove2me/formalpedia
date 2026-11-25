@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_BrC_norm_unitO
 -- name    : Formalism.L2.Th1.D.BrC.norm_unitO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:40:26.0558+00:00
 -- url     : https://prove2.me/theorems/393e8bf9-3988-54d0-bf9a-b88c35ab4689

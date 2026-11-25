@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_stalkIdeal_componentPowerIdeal_of_mem
 -- name    : FunctorialResolution.EmbeddedResolution.stalkIdeal_componentPowerIdeal_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:48:31.917809+00:00
 -- url     : https://prove2.me/theorems/e113fc10-1238-48c8-806b-1df064166407

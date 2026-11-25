@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_canon_notUpper_add
 -- name    : GroundTheory.Automorphic.HarishChandra.canon_notUpper_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:08:14.687481+00:00
 -- url     : https://prove2.me/theorems/a50fc55e-06d4-4d8f-9ce2-9fc5e08b48f6

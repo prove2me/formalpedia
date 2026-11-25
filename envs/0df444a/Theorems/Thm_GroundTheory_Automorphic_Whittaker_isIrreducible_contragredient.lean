@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_isIrreducible_contragredient
 -- name    : GroundTheory.Automorphic.Whittaker.isIrreducible_contragredient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:02:10.66631+00:00
 -- url     : https://prove2.me/theorems/3712e6f2-7fee-44d3-b3e8-fa1868ef48fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_sum_degree_weight
 -- name    : ChromaticReconstruction.sum_degree_weight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:27:51.178136+00:00
 -- url     : https://prove2.me/theorems/b3e2c661-7bed-4c52-90f0-caab17a5ab9c

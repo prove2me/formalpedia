@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_exists_ne_of_count_ne_one
 -- name    : ChromaticReconstruction.exists_ne_of_count_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:32:32.454828+00:00
 -- url     : https://prove2.me/theorems/0596cce4-f8d0-4311-b0f6-72610d360860

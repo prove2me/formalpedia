@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.regularised_average_identity
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T01:59:08.681436+00:00
+-- url     : https://prove2.me/submissions/ba9773d0-55c7-4dd8-8ed2-aaaa64757e43
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementB
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_IntegralZeroFrequencyInvariant
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_AdjointnessPolynomiallyBounded
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationUnipotentWeylMeasure
+import Definitions.Def_Formalism_FormalDegreeBessel_FormalDegreeRatio_UnitaryWeylNormalHolds
+import Definitions.Def_Formalism_FormalDegreeBessel_FormalDegreeRatio_BesselUnitaryEquivHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CartanInvolutionConjTransposeMul
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_NormDiagonalEntryDilationGeneratorLeOne
+import Theorems.Thm_Formalism_FourierDecayAlt_P_B6_top_regAverage
+import Theorems.Thm_Formalism_FourierDecayAlt_P_dilation_unipotent_measure
+import Theorems.Thm_Formalism_FourierDecayAlt_P_dilation_unipotent_weyl_measure
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix MeasureTheory Filter Topology
+open scoped ComplexConjugate ENNReal
+noncomputable section
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+namespace Formalism.FourierDecayAlt.P
+theorem _root_.solution : Formalism.FourierDecayAlt.B.StepRegAverage := B6.top_regAverage dilation_unipotent_measure dilation_unipotent_weyl_measure
+end Formalism.FourierDecayAlt.P

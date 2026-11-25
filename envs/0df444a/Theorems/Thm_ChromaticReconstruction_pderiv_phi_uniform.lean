@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_pderiv_phi_uniform
 -- name    : ChromaticReconstruction.pderiv_phi_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:34:56.815026+00:00
 -- url     : https://prove2.me/theorems/e6a3a9c1-63aa-4f2c-8923-ec98762dff89

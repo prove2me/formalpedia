@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpTiePf_homAt_j__jBase_2a7168f2da0a
 -- name    : P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpTiePf_homAt_j__jBase_2a7168f2da0a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:01:33.902408+00:00
 -- url     : https://prove2.me/theorems/a184d7b4-18a5-4369-81d4-aa02157810b9

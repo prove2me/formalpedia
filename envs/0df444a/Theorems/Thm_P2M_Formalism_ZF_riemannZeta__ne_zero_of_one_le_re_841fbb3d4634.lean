@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_ZF_riemannZeta__ne_zero_of_one_le_re_841fbb3d4634
 -- name    : P2M_Formalism_ZF_riemannZeta__ne_zero_of_one_le_re_841fbb3d4634
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:02:11.938828+00:00
 -- url     : https://prove2.me/theorems/7f405845-ba83-4abf-9b49-02605b56f838

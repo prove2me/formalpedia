@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_sn_smul_le
 -- name    : SNumbers.sn_smul_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:20:05.138191+00:00
 -- url     : https://prove2.me/theorems/dcf2f52c-8092-483c-ac58-1a1b11c15a18

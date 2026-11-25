@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx5_Rep_mul
 -- name    : Formalism.FourierDecayAlt.P.Qx5.Rep.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:44:50.930736+00:00
 -- url     : https://prove2.me/theorems/427e56a6-78af-55a9-91e1-e8bda9073e60

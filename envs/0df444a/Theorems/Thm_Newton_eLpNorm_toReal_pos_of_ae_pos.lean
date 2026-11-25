@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_eLpNorm_toReal_pos_of_ae_pos
 -- name    : Newton.eLpNorm_toReal_pos_of_ae_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:28:09.687843+00:00
 -- url     : https://prove2.me/theorems/99664633-dd58-4194-b900-b115a20c3637

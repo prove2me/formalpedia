@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_finite_stable_submodule
 -- name    : GroundTheory.ProfCoh.exists_finite_stable_submodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:45:22.209937+00:00
 -- url     : https://prove2.me/theorems/8e6d1454-2ae3-57cc-8f32-fd490746381e

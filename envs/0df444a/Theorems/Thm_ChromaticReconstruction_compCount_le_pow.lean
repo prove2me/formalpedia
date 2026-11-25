@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_compCount_le_pow
 -- name    : ChromaticReconstruction.compCount_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:10:24.111086+00:00
 -- url     : https://prove2.me/theorems/488c216c-1d0d-4854-967c-ad9c13d73a69

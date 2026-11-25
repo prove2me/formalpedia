@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_toHat_derivative
 -- name    : GlobalTheory.BK.toHat_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:51:55.265019+00:00
 -- url     : https://prove2.me/theorems/826ccb19-65e1-4b01-bf35-f448a66731d5

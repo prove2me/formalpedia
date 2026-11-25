@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_AffinePoints_fderiv_apply_eval__3bb27b96ffd8
 -- name    : P2M_GlobalTheory_AffinePoints_fderiv_apply_eval__3bb27b96ffd8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:02:00.380156+00:00
 -- url     : https://prove2.me/theorems/f0cfcf34-770a-44d1-8795-8cef410f97c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_EmbeddedResolution_sigma___sigmaOpensDesc_assoc_1a480721dd20
 -- name    : P2M_FunctorialResolution_EmbeddedResolution_sigma___sigmaOpensDesc_assoc_1a480721dd20
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:02:35.382581+00:00
 -- url     : https://prove2.me/theorems/3f814d1f-660a-4d21-9c05-6d06e4c3dc60

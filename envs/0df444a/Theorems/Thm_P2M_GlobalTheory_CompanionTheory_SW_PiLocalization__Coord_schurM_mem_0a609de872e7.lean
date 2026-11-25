@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Coord_schurM_mem_0a609de872e7
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Coord_schurM_mem_0a609de872e7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:03:51.009254+00:00
 -- url     : https://prove2.me/theorems/7f162467-9d8e-414a-ab9b-37eaa84c8b39

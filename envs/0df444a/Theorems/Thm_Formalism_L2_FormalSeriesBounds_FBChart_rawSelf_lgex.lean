@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_FBChart_rawSelf_lgex
 -- name    : Formalism.L2.FormalSeriesBounds.FBChart.rawSelf_lgex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:53:18.333221+00:00
 -- url     : https://prove2.me/theorems/47f7890f-5a73-46ee-a9ca-c0ab487800ec

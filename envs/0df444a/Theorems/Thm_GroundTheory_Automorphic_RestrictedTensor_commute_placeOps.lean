@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_commute_placeOps
 -- name    : GroundTheory.Automorphic.RestrictedTensor.commute_placeOps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:55:56.648607+00:00
 -- url     : https://prove2.me/theorems/422b0faf-131b-4db1-9efb-85d06571da5a

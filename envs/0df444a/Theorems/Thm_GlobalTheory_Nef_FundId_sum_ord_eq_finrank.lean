@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_FundId_sum_ord_eq_finrank
 -- name    : GlobalTheory.Nef.FundId.sum_ord_eq_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:01:17.400397+00:00
 -- url     : https://prove2.me/theorems/c171224a-c280-447d-ae3b-95c2e7938ba4

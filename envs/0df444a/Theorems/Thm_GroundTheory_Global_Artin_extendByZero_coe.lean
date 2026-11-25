@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_extendByZero_coe
 -- name    : GroundTheory.Global.Artin.extendByZero_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:45:25.613998+00:00
 -- url     : https://prove2.me/theorems/8f5a0759-8fd4-4422-ad00-f2d55eb75af8

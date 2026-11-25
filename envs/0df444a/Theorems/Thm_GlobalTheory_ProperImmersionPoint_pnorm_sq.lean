@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperImmersionPoint_pnorm_sq
 -- name    : GlobalTheory.ProperImmersionPoint.pnorm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:43:41.447622+00:00
 -- url     : https://prove2.me/theorems/07d62ee7-0056-460a-9e29-59464c1fe468

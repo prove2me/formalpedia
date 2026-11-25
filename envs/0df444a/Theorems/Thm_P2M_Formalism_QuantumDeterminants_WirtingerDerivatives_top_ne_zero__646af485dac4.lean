@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_QuantumDeterminants_WirtingerDerivatives_top_ne_zero__646af485dac4
 -- name    : P2M_Formalism_QuantumDeterminants_WirtingerDerivatives_top_ne_zero__646af485dac4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:01:25.335736+00:00
 -- url     : https://prove2.me/theorems/32dc70ba-0f90-4de6-a352-ed7cb8276658

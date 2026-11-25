@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_ConjugatePairPlaceSetting_inv_bi
 -- name    : Formalism.L2.FormalSeriesBounds.RF.ConjugatePairPlaceSetting.inv_bi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:47:23.829276+00:00
 -- url     : https://prove2.me/theorems/062f7af5-4696-4f9e-a79a-7903eac2e96f

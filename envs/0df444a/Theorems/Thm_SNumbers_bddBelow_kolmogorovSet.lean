@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_bddBelow_kolmogorovSet
 -- name    : SNumbers.bddBelow_kolmogorovSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:26:58.335228+00:00
 -- url     : https://prove2.me/theorems/6132972c-38a1-4f9e-9100-4ca16bd0d101

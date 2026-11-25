@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Galvin_hasKernels_arc
 -- name    : Galvin.hasKernels_arc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:16:47.470261+00:00
 -- url     : https://prove2.me/theorems/1e8106f5-486c-457c-9453-307daf23c74d

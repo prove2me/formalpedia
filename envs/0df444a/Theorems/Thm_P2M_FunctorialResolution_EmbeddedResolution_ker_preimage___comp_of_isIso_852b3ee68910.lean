@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_EmbeddedResolution_ker_preimage___comp_of_isIso_852b3ee68910
 -- name    : P2M_FunctorialResolution_EmbeddedResolution_ker_preimage___comp_of_isIso_852b3ee68910
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:02:34.673156+00:00
 -- url     : https://prove2.me/theorems/5c6c3803-9bac-456b-b1e4-777ca723ba66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsTraceClass_adjoint
 -- name    : GroundTheory.Automorphic.IsTraceClass.adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:42:12.634044+00:00
 -- url     : https://prove2.me/theorems/0f264f1b-9414-4821-a9bb-bc9df15b18bd

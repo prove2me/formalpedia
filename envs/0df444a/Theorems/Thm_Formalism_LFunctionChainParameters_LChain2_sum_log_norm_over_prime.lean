@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_sum_log_norm_over_prime
 -- name    : Formalism.LFunctionChainParameters.LChain2.sum_log_norm_over_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:37:02.359876+00:00
 -- url     : https://prove2.me/theorems/9906625a-099f-4089-b20e-afdeccfd9c2f

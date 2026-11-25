@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ExplChi_completed_logDeriv
 -- name    : GlobalTheory.CompanionTheory.ExplChi.completed_logDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:38:12.213536+00:00
 -- url     : https://prove2.me/theorems/6c42ea4c-09a9-4037-8dda-d07a2a1a8948

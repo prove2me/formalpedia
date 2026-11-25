@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_word_matrix_entry_one
 -- name    : Formalism.FourierDecayAlt.P.word_matrix_entry_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:39:14.083598+00:00
 -- url     : https://prove2.me/theorems/1a9af0e8-bb9b-4fea-b7c2-efe3f7ef1140

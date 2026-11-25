@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_muDef_fractional
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.muDef_fractional
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:13:11.958811+00:00
 -- url     : https://prove2.me/theorems/b001d69e-e223-494e-a923-24dfec22fa6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_maxCuspsA_transv
 -- name    : Formalism.L2.Pj.QAt.maxCuspsA_transv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:32:15.792021+00:00
 -- url     : https://prove2.me/theorems/576abf65-0c34-477d-96f5-0c09873de8c9

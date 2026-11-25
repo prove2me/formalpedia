@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_flipOneThree_Pf_harProj_eq_zero_iff
 -- name    : Formalism.MainNotions.flipOneThree.Pf.harProj_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:12:31.180244+00:00
 -- url     : https://prove2.me/theorems/00d638e5-c7be-4294-a4a4-6bbf74946bf7

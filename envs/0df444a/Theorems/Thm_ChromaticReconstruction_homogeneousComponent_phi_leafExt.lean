@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_homogeneousComponent_phi_leafExt
 -- name    : ChromaticReconstruction.homogeneousComponent_phi_leafExt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:12:53.434351+00:00
 -- url     : https://prove2.me/theorems/c4ef8727-1fc5-497a-927a-d43d7263232e

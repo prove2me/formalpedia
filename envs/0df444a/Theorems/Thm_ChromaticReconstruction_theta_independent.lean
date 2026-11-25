@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_theta_independent
 -- name    : ChromaticReconstruction.theta_independent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:02:45.787812+00:00
 -- url     : https://prove2.me/theorems/9e4d562a-897b-47e7-af38-9b416da196e1

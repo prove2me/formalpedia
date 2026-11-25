@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_embedSu2_ne_zero
 -- name    : Newton.embedSu2_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:19:23.696276+00:00
 -- url     : https://prove2.me/theorems/a27a27df-05fe-4c82-8352-4e0c8d06445a

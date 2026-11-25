@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_CosetIndexLemmas_sigma_window_eventual
 -- name    : Formalism.LFunctionChainParameters.CosetIndexLemmas.sigma_window_eventual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:39:15.373647+00:00
 -- url     : https://prove2.me/theorems/82014bcc-bcec-41fb-abd9-dce51e604eb4

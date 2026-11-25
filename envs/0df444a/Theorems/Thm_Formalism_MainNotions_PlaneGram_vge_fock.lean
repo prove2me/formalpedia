@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vge_fock
 -- name    : Formalism.MainNotions.PlaneGram.vge_fock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:10:36.794088+00:00
 -- url     : https://prove2.me/theorems/59fc3eac-f0a0-4bbd-9367-fbbc9af36056

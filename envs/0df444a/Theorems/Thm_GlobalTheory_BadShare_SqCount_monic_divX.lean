@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_SqCount_monic_divX
 -- name    : GlobalTheory.BadShare.SqCount.monic_divX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:44:32.48516+00:00
 -- url     : https://prove2.me/theorems/912dcb8d-2027-53dc-a0f4-d0985f9c980a

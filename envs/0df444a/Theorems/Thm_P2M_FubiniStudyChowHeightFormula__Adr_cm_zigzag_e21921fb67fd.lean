@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FubiniStudyChowHeightFormula__Adr_cm_zigzag_e21921fb67fd
 -- name    : P2M_FubiniStudyChowHeightFormula__Adr_cm_zigzag_e21921fb67fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:02:07.964808+00:00
 -- url     : https://prove2.me/theorems/42fef597-bdf8-409a-9e0f-841f0cde218d

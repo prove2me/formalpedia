@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Galvin_eq_of_colour_eq
 -- name    : Galvin.eq_of_colour_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:41:49.69802+00:00
 -- url     : https://prove2.me/theorems/bf030628-9617-44af-90c2-cdaf117c3b73

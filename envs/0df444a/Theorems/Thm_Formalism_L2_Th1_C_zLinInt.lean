@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_zLinInt
 -- name    : Formalism.L2.Th1.C.zLinInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:27:44.5359+00:00
 -- url     : https://prove2.me/theorems/06ba3207-54f0-4648-b70f-c951b728541d

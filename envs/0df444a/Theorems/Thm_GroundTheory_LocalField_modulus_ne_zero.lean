@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_modulus_ne_zero
 -- name    : GroundTheory.LocalField.modulus_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:27:30.069782+00:00
 -- url     : https://prove2.me/theorems/91ee9335-3a3d-4b92-9914-59eea1128933

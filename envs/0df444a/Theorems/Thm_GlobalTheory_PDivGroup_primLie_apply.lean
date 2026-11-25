@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_primLie_apply
 -- name    : GlobalTheory.PDivGroup.primLie_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:37:50.966582+00:00
 -- url     : https://prove2.me/theorems/dd08ae41-904a-4e59-951e-7c1f3e91fe9e

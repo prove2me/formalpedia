@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Galvin_card_arc_lt
 -- name    : Galvin.card_arc_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:12:30.329802+00:00
 -- url     : https://prove2.me/theorems/358f6058-05c8-4ccb-bdce-904e4620ea05

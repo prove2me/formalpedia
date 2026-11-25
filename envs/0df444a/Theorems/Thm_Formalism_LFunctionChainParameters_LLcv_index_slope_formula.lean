@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LLcv_index_slope_formula
 -- name    : Formalism.LFunctionChainParameters.LLcv.index_slope_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:49:11.481617+00:00
 -- url     : https://prove2.me/theorems/e7382585-e568-47fc-a162-43e3c7452d46

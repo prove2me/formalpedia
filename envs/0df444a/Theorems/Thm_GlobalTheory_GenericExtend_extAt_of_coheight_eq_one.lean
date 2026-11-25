@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericExtend_extAt_of_coheight_eq_one
 -- name    : GlobalTheory.GenericExtend.extAt_of_coheight_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:01:23.691543+00:00
 -- url     : https://prove2.me/theorems/83deeef2-02a7-43b3-8eed-f6e5db5e5949

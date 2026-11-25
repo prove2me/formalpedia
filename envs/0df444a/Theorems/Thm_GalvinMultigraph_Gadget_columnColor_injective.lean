@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Gadget_columnColor_injective
 -- name    : GalvinMultigraph.Gadget.columnColor_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:19:13.9208+00:00
 -- url     : https://prove2.me/theorems/5fb35607-03b5-4ab1-b8b6-f5c7e62aab56

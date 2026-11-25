@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_sub_algebraMap_mem_maximalIdeal
 -- name    : GroundTheory.LocalField.exists_sub_algebraMap_mem_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:14:52.331713+00:00
 -- url     : https://prove2.me/theorems/f0a320d7-0c26-4c75-ad4e-5e35924577e8

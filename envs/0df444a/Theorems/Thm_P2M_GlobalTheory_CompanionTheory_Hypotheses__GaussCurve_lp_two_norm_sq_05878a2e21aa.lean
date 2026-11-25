@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__GaussCurve_lp_two_norm_sq_05878a2e21aa
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__GaussCurve_lp_two_norm_sq_05878a2e21aa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:03:46.939291+00:00
 -- url     : https://prove2.me/theorems/d3799d6f-1e98-4102-a253-106cc911ba62

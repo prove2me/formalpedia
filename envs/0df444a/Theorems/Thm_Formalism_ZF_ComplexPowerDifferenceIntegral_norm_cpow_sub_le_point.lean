@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_ComplexPowerDifferenceIntegral_norm_cpow_sub_le_point
 -- name    : Formalism.ZF.ComplexPowerDifferenceIntegral.norm_cpow_sub_le_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:41:42.267282+00:00
 -- url     : https://prove2.me/theorems/662509ca-8b54-4197-a472-d1380cd98648

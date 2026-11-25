@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_skelWeight_eq_leafCount
 -- name    : ChromaticReconstruction.skelWeight_eq_leafCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:11:47.607752+00:00
 -- url     : https://prove2.me/theorems/908adf33-6c35-4d02-96a6-72594aeffa87

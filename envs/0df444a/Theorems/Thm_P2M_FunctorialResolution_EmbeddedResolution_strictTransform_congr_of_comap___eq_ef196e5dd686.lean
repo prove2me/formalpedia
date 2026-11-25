@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_EmbeddedResolution_strictTransform_congr_of_comap___eq_ef196e5dd686
 -- name    : P2M_FunctorialResolution_EmbeddedResolution_strictTransform_congr_of_comap___eq_ef196e5dd686
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:03:35.113928+00:00
 -- url     : https://prove2.me/theorems/498fc716-46ec-4271-be16-e6f5e9af60e1

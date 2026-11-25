@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_TieLDA_Phi_injective
 -- name    : Formalism.L2.Pj.QAt.TieLDA.Phi_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:20:40.322799+00:00
 -- url     : https://prove2.me/theorems/9a98ac0e-fbac-4c1f-8840-494066efeec1

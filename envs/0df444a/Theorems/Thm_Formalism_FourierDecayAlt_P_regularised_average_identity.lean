@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_regularised_average_identity
 -- name    : Formalism.FourierDecayAlt.P.regularised_average_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:23:42.831516+00:00
 -- url     : https://prove2.me/theorems/73ee4f9f-40e7-4174-90ae-403bcc26cb87

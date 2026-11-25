@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_Blowup_affineBlowupChart_eq_away__6f5d034cade6
 -- name    : P2M_FunctorialResolution_Blowup_affineBlowupChart_eq_away__6f5d034cade6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:02:02.975574+00:00
 -- url     : https://prove2.me/theorems/b2590182-cdd2-4eab-b4d3-89a1204b49d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__Conormal_finite_projective_cotangent_6ff6ba17bbab
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__Conormal_finite_projective_cotangent_6ff6ba17bbab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:03:31.710139+00:00
 -- url     : https://prove2.me/theorems/0c8865c8-703f-42e7-8da6-85c1b6430dba

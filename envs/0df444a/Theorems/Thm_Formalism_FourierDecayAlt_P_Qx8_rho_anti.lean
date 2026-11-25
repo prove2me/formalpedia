@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_rho_anti
 -- name    : Formalism.FourierDecayAlt.P.Qx8.rho_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:23:15.130832+00:00
 -- url     : https://prove2.me/theorems/3d34a382-f5e8-4498-8fdb-7358884af743

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__ContTwo_continuous_tmul_one_568389719e18
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__ContTwo_continuous_tmul_one_568389719e18
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:03:30.650794+00:00
 -- url     : https://prove2.me/theorems/093eee59-8c0b-4753-8db0-fc458d9b89c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_mem_map_relDeg_iff
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.mem_map_relDeg_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:03:36.124627+00:00
 -- url     : https://prove2.me/theorems/e8b6515c-7d7f-4dff-b2ab-7b19e3e125ff

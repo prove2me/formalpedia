@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LLcv_log_covolume_slope_mu
 -- name    : Formalism.LFunctionChainParameters.LLcv.log_covolume_slope_mu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:17:49.166416+00:00
 -- url     : https://prove2.me/theorems/68b86735-9ef3-4319-a018-9ae9de162961

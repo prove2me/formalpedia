@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_hnSum_orth
 -- name    : Formalism.HN.hnSum_orth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:27:22.970084+00:00
 -- url     : https://prove2.me/theorems/127ff432-5253-4cae-b93a-fa836127f018

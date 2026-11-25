@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_normDiscrete_irreducible
 -- name    : GlobalTheory.normDiscrete_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:20:42.497101+00:00
 -- url     : https://prove2.me/theorems/eba98f99-7a9a-4787-ac9d-a0c7727355f1

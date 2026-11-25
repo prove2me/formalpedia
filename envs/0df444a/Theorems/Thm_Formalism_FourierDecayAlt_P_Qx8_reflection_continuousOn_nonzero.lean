@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_reflection_continuousOn_nonzero
 -- name    : Formalism.FourierDecayAlt.P.Qx8.reflection_continuousOn_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:32:12.687956+00:00
 -- url     : https://prove2.me/theorems/474ef050-3dd3-43b0-8063-31b2993e4929

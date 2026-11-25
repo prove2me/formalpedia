@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_gam_to__114d125ac7f0
 -- name    : P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_gam_to__114d125ac7f0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:03:51.437564+00:00
 -- url     : https://prove2.me/theorems/fd5379dd-f9c3-40da-9fc5-031903810aec

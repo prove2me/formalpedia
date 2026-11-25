@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_valuation_of_mem
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.valuation_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:03:46.641859+00:00
 -- url     : https://prove2.me/theorems/d130f456-d84a-4a37-bea0-cebbfd04a238

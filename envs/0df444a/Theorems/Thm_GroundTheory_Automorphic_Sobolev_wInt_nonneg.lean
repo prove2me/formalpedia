@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_wInt_nonneg
 -- name    : GroundTheory.Automorphic.Sobolev.wInt_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:50:04.81692+00:00
 -- url     : https://prove2.me/theorems/6b929e96-9c68-4bf1-917c-d8fa2bd85440

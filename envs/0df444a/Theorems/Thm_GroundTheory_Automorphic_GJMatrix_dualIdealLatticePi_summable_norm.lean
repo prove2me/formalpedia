@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GJMatrix_dualIdealLatticePi_summable_norm
 -- name    : GroundTheory.Automorphic.GJMatrix.dualIdealLatticePi_summable_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:56:22.844321+00:00
 -- url     : https://prove2.me/theorems/c90e8dd6-998b-419d-95fa-f707047db336

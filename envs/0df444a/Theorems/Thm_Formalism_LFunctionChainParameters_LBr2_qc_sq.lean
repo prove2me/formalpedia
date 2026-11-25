@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_qc_sq
 -- name    : Formalism.LFunctionChainParameters.LBr2.qc_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:42:17.65642+00:00
 -- url     : https://prove2.me/theorems/5900beca-742a-4429-9dc9-dc0b506614b9

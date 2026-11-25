@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_exists_mem_stabilizer_degreeComponent_ne_one
 -- name    : GroundTheory.Global.Cyclotomic.exists_mem_stabilizer_degreeComponent_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:43:00.413801+00:00
 -- url     : https://prove2.me/theorems/c05a3ac6-1131-441d-892a-ad3f42029995

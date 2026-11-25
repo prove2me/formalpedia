@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_piL_eig
 -- name    : Formalism.FourierDecayAlt.P.Qx8.piL_eig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:32:09.281109+00:00
 -- url     : https://prove2.me/theorems/5b5ab9ed-adb8-4f2a-9009-450be749e37b

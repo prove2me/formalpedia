@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_U3_IsTeich_wt_int
 -- name    : ReciprocityTheory.PGsh.Up.U3.IsTeich.wt_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:36.052793+00:00
 -- url     : https://prove2.me/theorems/44bf640c-9a4f-4818-a098-5dec8e2884e3

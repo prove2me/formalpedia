@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_P_rank_block_holds
 -- name    : Formalism.NuclearRankWeightBounds.P.rank_block_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:18:02.350433+00:00
 -- url     : https://prove2.me/theorems/bf1c5664-b6f0-431c-9ee8-9b77e5e0082d

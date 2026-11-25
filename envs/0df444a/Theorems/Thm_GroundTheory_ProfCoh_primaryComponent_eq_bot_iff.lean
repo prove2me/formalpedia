@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_primaryComponent_eq_bot_iff
 -- name    : GroundTheory.ProfCoh.primaryComponent_eq_bot_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:45:10.471507+00:00
 -- url     : https://prove2.me/theorems/52eaaa42-4ec7-4bdc-93c9-f20eade26ba0

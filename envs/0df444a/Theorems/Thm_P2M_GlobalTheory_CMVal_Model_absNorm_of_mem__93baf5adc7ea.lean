@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CMVal_Model_absNorm_of_mem__93baf5adc7ea
 -- name    : P2M_GlobalTheory_CMVal_Model_absNorm_of_mem__93baf5adc7ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:02:45.460611+00:00
 -- url     : https://prove2.me/theorems/cfc0a6ab-0666-4559-8456-79de2861a283

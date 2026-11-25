@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_norm_smul_le_sn
 -- name    : SNumbers.norm_smul_le_sn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:20:13.486891+00:00
 -- url     : https://prove2.me/theorems/60248d2c-9d56-4c43-8573-fddcddb030a9

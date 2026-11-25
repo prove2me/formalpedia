@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_norm_sub_finProj_le_norm
 -- name    : GroundTheory.Automorphic.norm_sub_finProj_le_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:12:10.191616+00:00
 -- url     : https://prove2.me/theorems/375a2839-6273-452b-98ba-3f3afaf972a3

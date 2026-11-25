@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_comap_le_iff
 -- name    : GlobalTheory.Cartier.comap_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:15:26.840054+00:00
 -- url     : https://prove2.me/theorems/e523b716-236f-4842-ac64-69884a27d01e

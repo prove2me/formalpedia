@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperImmersionPoint_cpt_differentiable
 -- name    : GlobalTheory.ProperImmersionPoint.cpt_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:45:15.668907+00:00
 -- url     : https://prove2.me/theorems/25da6daf-79fc-41c3-b2c4-17bcf266f7b3

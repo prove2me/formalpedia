@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_PlaneGram_expand_monomial__8cd8bb5d66fe
 -- name    : P2M_Formalism_MainNotions_PlaneGram_expand_monomial__8cd8bb5d66fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:01:21.41382+00:00
 -- url     : https://prove2.me/theorems/c86d2730-1cde-4701-9460-c2cf50562820

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisCross_dom
 -- name    : GlobalTheory.CompanionTheory.EisCross.dom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:36:45.459109+00:00
 -- url     : https://prove2.me/theorems/52bf5683-c121-4d63-b266-d0eb8961d1c6

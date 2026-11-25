@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_degreeB_le_maxDegree
 -- name    : GalvinMultigraph.degreeB_le_maxDegree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:20:43.300534+00:00
 -- url     : https://prove2.me/theorems/a7fe3f6f-f088-43a4-be0d-b1d5ab6af81d

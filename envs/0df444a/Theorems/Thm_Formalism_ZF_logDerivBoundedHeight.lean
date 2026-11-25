@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_logDerivBoundedHeight
 -- name    : Formalism.ZF.logDerivBoundedHeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:41:39.900752+00:00
 -- url     : https://prove2.me/theorems/cc336057-c6f4-4538-92b6-1d6757bf3e03

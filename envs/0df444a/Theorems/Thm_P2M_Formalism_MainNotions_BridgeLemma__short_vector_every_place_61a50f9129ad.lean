@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__short_vector_every_place_61a50f9129ad
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__short_vector_every_place_61a50f9129ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:00:18.819236+00:00
 -- url     : https://prove2.me/theorems/3c7c9236-7c25-4b23-b3cf-ae68ee3ca56d

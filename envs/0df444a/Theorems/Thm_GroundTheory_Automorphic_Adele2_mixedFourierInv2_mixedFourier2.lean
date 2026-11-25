@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Adele2_mixedFourierInv2_mixedFourier2
 -- name    : GroundTheory.Automorphic.Adele2.mixedFourierInv2_mixedFourier2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:48:50.123258+00:00
 -- url     : https://prove2.me/theorems/b72bc30d-6024-4565-8a5b-e987a48cd87b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Gram_coe_sum_nm
 -- name    : Formalism.L2.Th1.C.Gram.coe_sum_nm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:38:11.821617+00:00
 -- url     : https://prove2.me/theorems/3729fe85-24ea-5758-a4e3-23667c441148

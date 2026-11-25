@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_NormalLatticeData_exists_mem_filt
 -- name    : GroundTheory.LocalField.NormalLatticeData.exists_mem_filt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:10:03.681335+00:00
 -- url     : https://prove2.me/theorems/fb59785f-d1e5-4432-98d3-3eda5cab9b8b

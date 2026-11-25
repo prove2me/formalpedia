@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_TwoRoots_pow_card_pow_natDegree
 -- name    : GlobalTheory.BadShare.TwoRoots.pow_card_pow_natDegree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:44:47.982917+00:00
 -- url     : https://prove2.me/theorems/52b17444-0524-47a0-9ec1-ae8f005673eb

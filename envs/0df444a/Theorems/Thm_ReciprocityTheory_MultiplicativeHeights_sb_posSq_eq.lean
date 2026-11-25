@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sb_posSq_eq
 -- name    : ReciprocityTheory.MultiplicativeHeights.sb_posSq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:45:38.145416+00:00
 -- url     : https://prove2.me/theorems/1dea3a8d-bf9f-5509-92a8-cc3d18db2d2f

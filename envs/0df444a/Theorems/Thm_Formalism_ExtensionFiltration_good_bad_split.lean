@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_good_bad_split
 -- name    : Formalism.ExtensionFiltration.good_bad_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:39.348768+00:00
 -- url     : https://prove2.me/theorems/603e99bc-cd35-48d7-a92f-ad0a592c4602

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ChartUniv_spMap_id__b39f24ee8cf8
 -- name    : P2M_GlobalTheory_ChartUniv_spMap_id__b39f24ee8cf8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:03:01.393738+00:00
 -- url     : https://prove2.me/theorems/715bc159-336d-4e57-bb5c-baf90c661d50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_card_wts
 -- name    : ChromaticReconstruction.card_wts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:31:32.369075+00:00
 -- url     : https://prove2.me/theorems/c65741c6-93c8-4fac-a077-d55cae4467fe

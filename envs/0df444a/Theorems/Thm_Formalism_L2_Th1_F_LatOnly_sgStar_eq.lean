@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_LatOnly_sgStar_eq
 -- name    : Formalism.L2.Th1.F.LatOnly.sgStar_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:39.871751+00:00
 -- url     : https://prove2.me/theorems/beeb0e22-eaff-4874-a233-7372e89b99ab

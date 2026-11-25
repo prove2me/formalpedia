@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_seq_sub
 -- name    : Formalism.LT.LTL.seq_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:53.674058+00:00
 -- url     : https://prove2.me/theorems/beddc067-b5d4-42e0-831b-a75d87d8209c

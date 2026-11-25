@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_UG_P_permMatrix_mulVec__7012a139132f
 -- name    : P2M_Formalism_UG_P_permMatrix_mulVec__7012a139132f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:01:33.339028+00:00
 -- url     : https://prove2.me/theorems/49298260-c07a-464a-9a7d-5b6ac4e7f2f0

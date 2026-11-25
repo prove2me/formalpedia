@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_pow_mul_exp_neg_le
 -- name    : Formalism.LFunctionChainParameters.LBr2.pow_mul_exp_neg_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:46:37.934493+00:00
 -- url     : https://prove2.me/theorems/72ed1433-1f19-417f-a1e2-51633104ebd9

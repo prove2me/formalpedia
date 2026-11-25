@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_MeasurablePartition_norm_toLp_sub_avgProj_le
 -- name    : GroundTheory.Automorphic.MeasurablePartition.norm_toLp_sub_avgProj_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:05:44.810035+00:00
 -- url     : https://prove2.me/theorems/56c5bd4d-e94c-48a2-8efd-35ecff515a15

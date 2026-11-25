@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Axis_PullO_isPullO_wOver_comp
 -- name    : GlobalTheory.CompanionTheory.Axis.PullO.isPullO_wOver_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:43:44.458803+00:00
 -- url     : https://prove2.me/theorems/dbb07931-f14f-4ebe-8e7f-d1a202738ea8

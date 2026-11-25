@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_Qx8_herm_self__1fb92c1e2c1d
 -- name    : P2M_Formalism_FourierDecayAlt_P_Qx8_herm_self__1fb92c1e2c1d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:28:33.443806+00:00
 -- url     : https://prove2.me/theorems/692935c1-abf1-424f-857c-1eaa0881cf3c

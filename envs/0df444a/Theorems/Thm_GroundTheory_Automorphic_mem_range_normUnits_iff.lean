@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_mem_range_normUnits_iff
 -- name    : GroundTheory.Automorphic.mem_range_normUnits_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:46:38.692149+00:00
 -- url     : https://prove2.me/theorems/3886e75f-0513-49ca-8bcb-ed1b73b9d4dd

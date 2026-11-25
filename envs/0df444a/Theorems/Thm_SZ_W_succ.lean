@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_W_succ
 -- name    : SZ.W_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:57:27.111258+00:00
 -- url     : https://prove2.me/theorems/f2f85fbf-ad4c-4409-954e-434fadf2b4d9

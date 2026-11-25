@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_nf_levelStart
 -- name    : Formalism.FourierDecayAlt.P.Qx8.nf_levelStart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:30:11.35739+00:00
 -- url     : https://prove2.me/theorems/6bb377cb-f415-4980-9794-df6c457de909

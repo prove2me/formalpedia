@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_dA_eq
 -- name    : SZ.Slice.dA_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:18:57.35292+00:00
 -- url     : https://prove2.me/theorems/58eb125a-60a6-4bdc-b9b7-1697a7ed8c53

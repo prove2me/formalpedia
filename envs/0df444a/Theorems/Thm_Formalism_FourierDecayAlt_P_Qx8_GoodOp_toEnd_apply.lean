@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_GoodOp_toEnd_apply
 -- name    : Formalism.FourierDecayAlt.P.Qx8.GoodOp.toEnd_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:41:55.35103+00:00
 -- url     : https://prove2.me/theorems/cfd32383-a17c-4d7e-99f5-f1ce6e559a0d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_DimensionMonotonicity_highest_weight_dim_monotone
 -- name    : Formalism.GM.DimensionMonotonicity.highest_weight_dim_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:36:42.16571+00:00
 -- url     : https://prove2.me/theorems/7045890f-0bdd-4e23-bf83-c3efe21e549e

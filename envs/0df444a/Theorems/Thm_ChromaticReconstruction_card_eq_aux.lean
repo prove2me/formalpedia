@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_card_eq_aux
 -- name    : ChromaticReconstruction.card_eq_aux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T13:25:29.354147+00:00
 -- url     : https://prove2.me/theorems/e76e3567-dad0-420b-a3b7-68dcb251b2dd

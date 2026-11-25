@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_rank_quotient_inf_le
 -- name    : SNumbers.rank_quotient_inf_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:24:43.483691+00:00
 -- url     : https://prove2.me/theorems/879e266c-4d32-4346-8555-7b5f2bf23994

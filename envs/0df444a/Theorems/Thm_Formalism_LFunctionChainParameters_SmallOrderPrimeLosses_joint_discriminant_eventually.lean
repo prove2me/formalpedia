@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SmallOrderPrimeLosses_joint_discriminant_eventually
 -- name    : Formalism.LFunctionChainParameters.SmallOrderPrimeLosses.joint_discriminant_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:50:12.857797+00:00
 -- url     : https://prove2.me/theorems/fa108ff8-e683-4884-adbe-8b6d06f7da7a

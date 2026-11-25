@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FubiniStudyChowHeightFormula__Adr_acyc_of_zigzag_13f90d6b760d
 -- name    : P2M_FubiniStudyChowHeightFormula__Adr_acyc_of_zigzag_13f90d6b760d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:02:08.388317+00:00
 -- url     : https://prove2.me/theorems/538a44af-8f49-4df6-acfe-3f264f228002

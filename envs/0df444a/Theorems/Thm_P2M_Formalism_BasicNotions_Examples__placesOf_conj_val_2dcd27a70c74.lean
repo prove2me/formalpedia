@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__placesOf_conj_val_2dcd27a70c74
 -- name    : P2M_Formalism_BasicNotions_Examples__placesOf_conj_val_2dcd27a70c74
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:26:16.566308+00:00
 -- url     : https://prove2.me/theorems/aebe4500-ef8a-4554-8f91-c01bea4460f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_WirtingerDerivatives_diff_of_reg
 -- name    : Formalism.QuantumDeterminants.WirtingerDerivatives.diff_of_reg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:41:41.538501+00:00
 -- url     : https://prove2.me/theorems/1b86b5bb-ee3d-465d-b441-12ca1b19eee0

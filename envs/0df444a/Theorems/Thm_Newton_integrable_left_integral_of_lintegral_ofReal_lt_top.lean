@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_integrable_left_integral_of_lintegral_ofReal_lt_top
 -- name    : Newton.integrable_left_integral_of_lintegral_ofReal_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:21:32.621801+00:00
 -- url     : https://prove2.me/theorems/e3d22195-5cc2-483e-8ca5-35beb2c13522

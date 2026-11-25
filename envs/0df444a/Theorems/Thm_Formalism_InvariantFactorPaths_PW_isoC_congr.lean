@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_isoC_congr
 -- name    : Formalism.InvariantFactorPaths.PW.isoC_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:44:33.404651+00:00
 -- url     : https://prove2.me/theorems/9078232b-87e6-5568-9fd3-41628c64625b

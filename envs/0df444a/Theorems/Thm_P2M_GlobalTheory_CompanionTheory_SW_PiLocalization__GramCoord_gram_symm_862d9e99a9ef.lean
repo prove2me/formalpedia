@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__GramCoord_gram_symm_862d9e99a9ef
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__GramCoord_gram_symm_862d9e99a9ef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:04:22.325326+00:00
 -- url     : https://prove2.me/theorems/2b6e055b-42c0-407c-806b-70d5dac1e92a

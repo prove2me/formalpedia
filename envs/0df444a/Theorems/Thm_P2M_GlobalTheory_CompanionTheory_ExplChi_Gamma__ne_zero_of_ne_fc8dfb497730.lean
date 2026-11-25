@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_ExplChi_Gamma__ne_zero_of_ne_fc8dfb497730
 -- name    : P2M_GlobalTheory_CompanionTheory_ExplChi_Gamma__ne_zero_of_ne_fc8dfb497730
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:03:40.766305+00:00
 -- url     : https://prove2.me/theorems/a08c7824-91d8-48b4-833f-8d35572f2214

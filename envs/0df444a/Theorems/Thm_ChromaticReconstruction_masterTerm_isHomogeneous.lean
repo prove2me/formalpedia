@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_masterTerm_isHomogeneous
 -- name    : ChromaticReconstruction.masterTerm_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:08:07.294064+00:00
 -- url     : https://prove2.me/theorems/516ecc6c-51d2-40fb-a2c3-218fe71f5275

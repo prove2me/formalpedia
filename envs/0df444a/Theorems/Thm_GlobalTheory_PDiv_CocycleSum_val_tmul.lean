@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_CocycleSum_val_tmul
 -- name    : GlobalTheory.PDiv.CocycleSum.val_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:44:58.534318+00:00
 -- url     : https://prove2.me/theorems/18a6d9c8-2da1-5e8b-a072-8450a5d6aeba

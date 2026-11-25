@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_WachCohomologyFacts_PCoh_fD___5f81d7cb3ce3
 -- name    : P2M_Formalism_WachCohomologyFacts_PCoh_fD___5f81d7cb3ce3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:02:40.201502+00:00
 -- url     : https://prove2.me/theorems/b662e24e-cd9d-42ce-b5f0-d6d665df3403

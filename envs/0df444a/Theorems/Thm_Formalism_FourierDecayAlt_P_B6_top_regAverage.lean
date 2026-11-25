@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_top_regAverage
 -- name    : Formalism.FourierDecayAlt.P.B6.top_regAverage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:05:37.950136+00:00
 -- url     : https://prove2.me/theorems/e168eb90-1f58-42ce-a9d0-50e9351fb10d

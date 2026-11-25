@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Cartier_app_subscheme__eq_zero_iff_d10420bb44b5
 -- name    : P2M_GlobalTheory_Cartier_app_subscheme__eq_zero_iff_d10420bb44b5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:02:41.867674+00:00
 -- url     : https://prove2.me/theorems/cbe70ada-16c4-4add-a2dc-db40b3787fdd

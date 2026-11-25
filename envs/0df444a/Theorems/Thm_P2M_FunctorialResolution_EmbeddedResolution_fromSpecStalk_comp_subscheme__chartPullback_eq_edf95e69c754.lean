@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_EmbeddedResolution_fromSpecStalk_comp_subscheme__chartPullback_eq_edf95e69c754
 -- name    : P2M_FunctorialResolution_EmbeddedResolution_fromSpecStalk_comp_subscheme__chartPullback_eq_edf95e69c754
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:03:21.770249+00:00
 -- url     : https://prove2.me/theorems/2c1de23b-284b-4ddb-9e9d-0661f20da52a

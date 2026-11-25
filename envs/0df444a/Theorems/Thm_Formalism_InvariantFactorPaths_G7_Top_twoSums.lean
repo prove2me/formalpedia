@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_twoSums
 -- name    : Formalism.InvariantFactorPaths.G7.Top.twoSums
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:17:26.232332+00:00
 -- url     : https://prove2.me/theorems/c373a253-0e9f-4286-9c91-b4cb027f8f91

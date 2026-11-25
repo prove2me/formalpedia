@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_transposeGL_smul
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.transposeGL_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:37:17.127895+00:00
 -- url     : https://prove2.me/theorems/cd7d5e51-734d-44e5-9aaa-74af0ab5db5e

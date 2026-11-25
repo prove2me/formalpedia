@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_massRatio_eq_lvalue
 -- name    : Formalism.HermitianLattices.Ext.L3.massRatio_eq_lvalue
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:56.056482+00:00
 -- url     : https://prove2.me/theorems/88ec8fa8-b3fb-4d7c-812d-e3f9713ac34b

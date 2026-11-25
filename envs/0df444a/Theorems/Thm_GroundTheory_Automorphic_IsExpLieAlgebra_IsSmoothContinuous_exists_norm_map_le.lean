@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_IsSmoothContinuous_exists_norm_map_le
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.IsSmoothContinuous.exists_norm_map_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:05:37.940803+00:00
 -- url     : https://prove2.me/theorems/e5ef0328-3f5b-41eb-810c-093561b793d8

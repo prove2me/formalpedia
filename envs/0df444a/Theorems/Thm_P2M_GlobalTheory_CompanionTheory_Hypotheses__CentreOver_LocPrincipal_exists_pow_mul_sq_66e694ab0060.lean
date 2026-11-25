@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_LocPrincipal_exists_pow_mul_sq_66e694ab0060
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_LocPrincipal_exists_pow_mul_sq_66e694ab0060
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:03:18.552798+00:00
 -- url     : https://prove2.me/theorems/954d81fb-3332-4dc8-90dc-7e409c56323a

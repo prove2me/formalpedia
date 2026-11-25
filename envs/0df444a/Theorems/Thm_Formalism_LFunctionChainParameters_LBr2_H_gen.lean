@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_H_gen
 -- name    : Formalism.LFunctionChainParameters.LBr2.H_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:39:28.959506+00:00
 -- url     : https://prove2.me/theorems/0b5e9745-e781-4333-bb1f-f075b5b6d279

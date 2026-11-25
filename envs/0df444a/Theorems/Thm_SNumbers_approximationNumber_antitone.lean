@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_antitone
 -- name    : SNumbers.approximationNumber_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:07:53.286113+00:00
 -- url     : https://prove2.me/theorems/697ad98c-10ad-45e4-bb72-5a6df208e76c

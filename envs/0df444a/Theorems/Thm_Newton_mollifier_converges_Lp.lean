@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_mollifier_converges_Lp
 -- name    : Newton.mollifier_converges_Lp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:07:44.060801+00:00
 -- url     : https://prove2.me/theorems/d2e3bfa9-4a23-4ae7-8b0d-4b1dbaa4e6b9

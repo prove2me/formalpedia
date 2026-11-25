@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_conormal_finite_projective_of_smooth
 -- name    : GlobalTheory.T.conormal_finite_projective_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:31:50.681434+00:00
 -- url     : https://prove2.me/theorems/633b1a5b-3792-4410-8f2a-ea5fe071c688

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__isometric_of_orthogonal_pairs_8df74ab90f8e
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__isometric_of_orthogonal_pairs_8df74ab90f8e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:59:33.001184+00:00
 -- url     : https://prove2.me/theorems/94fd02a7-df9e-498e-8b8c-f356819abb22

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxCosetSum_isOpen_box
 -- name    : GlobalTheory.BoxCosetSum.isOpen_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:02:38.713856+00:00
 -- url     : https://prove2.me/theorems/2650aaa0-fd57-4573-9fef-8a948b00da50

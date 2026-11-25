@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_LocAlg_sum_y_sImg
 -- name    : Formalism.L2.Pj.LocAlg.sum_y_sImg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:35:02.755983+00:00
 -- url     : https://prove2.me/theorems/d170ee77-fb8f-4731-8187-8861fa384840

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_gaugeUniq_of__2db4fcf18649
 -- name    : P2M_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_gaugeUniq_of__2db4fcf18649
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:01:33.664647+00:00
 -- url     : https://prove2.me/theorems/aea8670f-aa0d-48c7-b407-3398b3fd8033

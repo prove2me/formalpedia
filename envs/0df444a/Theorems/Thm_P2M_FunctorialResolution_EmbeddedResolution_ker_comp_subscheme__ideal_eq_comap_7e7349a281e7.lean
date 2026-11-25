@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_EmbeddedResolution_ker_comp_subscheme__ideal_eq_comap_7e7349a281e7
 -- name    : P2M_FunctorialResolution_EmbeddedResolution_ker_comp_subscheme__ideal_eq_comap_7e7349a281e7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:02:27.028324+00:00
 -- url     : https://prove2.me/theorems/c8721752-71bb-4897-8e06-864dbbe8d118

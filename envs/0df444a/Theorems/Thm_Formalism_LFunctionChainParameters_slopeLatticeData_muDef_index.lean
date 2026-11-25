@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_muDef_index
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.muDef_index
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:40:50.420229+00:00
 -- url     : https://prove2.me/theorems/7a28f054-cd5b-49f2-8c63-bf7e386dfc65

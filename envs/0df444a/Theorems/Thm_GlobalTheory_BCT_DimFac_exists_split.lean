@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BCT_DimFac_exists_split
 -- name    : GlobalTheory.BCT.DimFac.exists_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:21:18.531385+00:00
 -- url     : https://prove2.me/theorems/c6e8020d-950b-4c8f-aea0-2d9a3b071f7a

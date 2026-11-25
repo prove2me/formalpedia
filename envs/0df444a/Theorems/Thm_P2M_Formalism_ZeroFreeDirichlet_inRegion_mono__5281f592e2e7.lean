@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_ZeroFreeDirichlet_inRegion_mono__5281f592e2e7
 -- name    : P2M_Formalism_ZeroFreeDirichlet_inRegion_mono__5281f592e2e7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:02:07.921843+00:00
 -- url     : https://prove2.me/theorems/3e8852b7-b1d2-4ba3-9a63-a789283c5ebb

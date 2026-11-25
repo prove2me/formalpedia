@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_maxCuspsA_zAct_int
 -- name    : Formalism.L2.Pj.QAt.maxCuspsA_zAct_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:38:02.099558+00:00
 -- url     : https://prove2.me/theorems/d32702c6-5091-5002-91d3-54867b1095bf

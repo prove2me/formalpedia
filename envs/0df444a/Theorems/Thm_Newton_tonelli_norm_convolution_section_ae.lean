@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_tonelli_norm_convolution_section_ae
 -- name    : Newton.tonelli_norm_convolution_section_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:19:50.883704+00:00
 -- url     : https://prove2.me/theorems/9c0934a5-2325-40d8-b717-8ca62720970f

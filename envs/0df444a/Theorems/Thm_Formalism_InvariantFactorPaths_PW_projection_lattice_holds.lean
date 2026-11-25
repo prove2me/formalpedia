@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_projection_lattice_holds
 -- name    : Formalism.InvariantFactorPaths.PW.projection_lattice_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:09:18.724752+00:00
 -- url     : https://prove2.me/theorems/6e4c007e-3269-4e92-a67f-f4bbd250b2cd

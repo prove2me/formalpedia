@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_BoxCosetSum_continuous_evalV__bc2f1c713454
 -- name    : P2M_GlobalTheory_BoxCosetSum_continuous_evalV__bc2f1c713454
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:02:16.522027+00:00
 -- url     : https://prove2.me/theorems/c03f9ad8-d1a7-46a7-b179-cfd477dd1ed0

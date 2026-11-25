@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__exists_orthogonal_second_vector_7f62f316d7fa
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__exists_orthogonal_second_vector_7f62f316d7fa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:59:21.223172+00:00
 -- url     : https://prove2.me/theorems/1b056f7a-050f-46ae-b84e-3203fc89b15d

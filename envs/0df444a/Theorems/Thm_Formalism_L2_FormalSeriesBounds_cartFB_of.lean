@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_cartFB_of
 -- name    : Formalism.L2.FormalSeriesBounds.cartFB_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:38:07.385627+00:00
 -- url     : https://prove2.me/theorems/45ab70a0-0163-4151-8457-43c83ba56ca1

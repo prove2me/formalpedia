@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_nonempty_placesOver
 -- name    : GroundTheory.Global.nonempty_placesOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:45:07.391712+00:00
 -- url     : https://prove2.me/theorems/4b6c2a90-d09f-46c2-8fa2-c6f746142c20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_H1Iso_hom
 -- name    : GroundTheory.ProfCoh.H1Iso_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:49:34.056291+00:00
 -- url     : https://prove2.me/theorems/5952f69a-6348-519a-82e6-79d30437cc4e

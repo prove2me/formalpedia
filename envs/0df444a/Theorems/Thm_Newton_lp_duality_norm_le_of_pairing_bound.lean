@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_lp_duality_norm_le_of_pairing_bound
 -- name    : Newton.lp_duality_norm_le_of_pairing_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:51:49.799984+00:00
 -- url     : https://prove2.me/theorems/e5980371-c806-431f-ab96-736316b37a2d

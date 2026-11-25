@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_regularised_pairing_sesquilinear
 -- name    : Formalism.FourierDecayAlt.P.B6.regularised_pairing_sesquilinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:05:36.390036+00:00
 -- url     : https://prove2.me/theorems/063f1995-d392-4ab8-8074-719b26da23fe

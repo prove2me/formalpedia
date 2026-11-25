@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_theorem_P_integral_of_places
 -- name    : Formalism.FourierDecayAlt.P.theorem_P_integral_of_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:46:48.847686+00:00
 -- url     : https://prove2.me/theorems/ce4e45c1-d613-41d1-b670-20fdc0db504f

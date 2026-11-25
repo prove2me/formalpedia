@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HeckeAlgebra_heckeAct_mul
 -- name    : GroundTheory.Automorphic.HeckeAlgebra.heckeAct_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:44:31.717603+00:00
 -- url     : https://prove2.me/theorems/45903659-1fba-5812-abf9-2452e2d0b6e1

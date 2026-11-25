@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_CharDet_isU_refl
 -- name    : GlobalTheory.UTrans.CharDet.isU_refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:46:48.785645+00:00
 -- url     : https://prove2.me/theorems/c9a42bc7-da91-56a0-9a99-5cbf5bfbc775

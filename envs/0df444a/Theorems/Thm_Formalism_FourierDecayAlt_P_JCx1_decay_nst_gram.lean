@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_decay_nst_gram
 -- name    : Formalism.FourierDecayAlt.P.JCx1.decay.nst_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:46:32.865445+00:00
 -- url     : https://prove2.me/theorems/7bfef18d-67f5-4e94-8daa-94aba21b9899

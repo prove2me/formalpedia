@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_norm_apply_le_deviationFromRestriction_mul
 -- name    : SNumbers.norm_apply_le_deviationFromRestriction_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:24:03.17929+00:00
 -- url     : https://prove2.me/theorems/65cc151e-a520-4d2f-8606-5f5fcba03d15

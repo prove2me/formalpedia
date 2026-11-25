@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainTerm_zetaSeries_main_term_fintype
 -- name    : GlobalTheory.MainTerm.zetaSeries_main_term_fintype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:58:51.727419+00:00
 -- url     : https://prove2.me/theorems/3a9eed84-aa25-4cb3-a863-8675db9da995

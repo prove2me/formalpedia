@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_BrC_logPair
 -- name    : Formalism.L2.Th1.D.BrC.logPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:39:10.711803+00:00
 -- url     : https://prove2.me/theorems/d57ab5f5-5f5f-43f8-93af-1e8b87b55e4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_lift_primitive
 -- name    : GroundTheory.LocalField.exists_lift_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:15:09.931163+00:00
 -- url     : https://prove2.me/theorems/36f9a246-fb8e-48f8-a31e-98a28ebd0e8c

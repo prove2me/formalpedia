@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1503_02159_two_point_phase_recovery
 -- name    : Arxiv1503_02159.two_point_phase_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T13:00:19.543353+00:00
 -- url     : https://prove2.me/theorems/7cbc0e2e-361c-43c9-9efc-d34dc884baab

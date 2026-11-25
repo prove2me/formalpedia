@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_SqCount_card_monicSet
 -- name    : GlobalTheory.BadShare.SqCount.card_monicSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:44:04.158668+00:00
 -- url     : https://prove2.me/theorems/988da25a-84ac-4bbb-93c7-46f1c449f098

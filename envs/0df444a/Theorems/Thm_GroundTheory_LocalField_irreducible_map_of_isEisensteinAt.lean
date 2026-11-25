@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_irreducible_map_of_isEisensteinAt
 -- name    : GroundTheory.LocalField.irreducible_map_of_isEisensteinAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:22:32.345792+00:00
 -- url     : https://prove2.me/theorems/392f3978-ad03-4552-b546-d31b7080e0d3

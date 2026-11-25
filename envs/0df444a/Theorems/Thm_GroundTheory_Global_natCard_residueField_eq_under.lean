@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_natCard_residueField_eq_under
 -- name    : GroundTheory.Global.natCard_residueField_eq_under
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:18:37.739213+00:00
 -- url     : https://prove2.me/theorems/c20f9ddf-dc4e-40ce-bac7-48c7ffad0de3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_TieLD_exists_rel
 -- name    : Formalism.L2.Pj.QAt.TieLD.exists_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:35:42.389849+00:00
 -- url     : https://prove2.me/theorems/62dfcc5a-da6f-4c93-9337-b42b718b2ded

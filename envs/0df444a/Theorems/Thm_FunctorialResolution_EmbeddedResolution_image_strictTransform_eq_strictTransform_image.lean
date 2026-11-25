@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_image_strictTransform_eq_strictTransform_image
 -- name    : FunctorialResolution.EmbeddedResolution.image_strictTransform_eq_strictTransform_image
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:58:36.052868+00:00
 -- url     : https://prove2.me/theorems/2344a1dd-fbab-4254-989a-de966a0dd725

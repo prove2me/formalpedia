@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_infinitely_many_primes_in_ray_class
 -- name    : GlobalTheory.T.infinitely_many_primes_in_ray_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:47:06.274869+00:00
 -- url     : https://prove2.me/theorems/1e452e13-bace-4702-81d2-190f440517d9

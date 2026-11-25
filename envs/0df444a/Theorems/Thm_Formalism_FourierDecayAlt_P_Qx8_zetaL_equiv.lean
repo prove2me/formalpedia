@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_zetaL_equiv
 -- name    : Formalism.FourierDecayAlt.P.Qx8.zetaL_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:32:49.371731+00:00
 -- url     : https://prove2.me/theorems/3ee14dd6-c262-4323-b353-ed44748b7d98

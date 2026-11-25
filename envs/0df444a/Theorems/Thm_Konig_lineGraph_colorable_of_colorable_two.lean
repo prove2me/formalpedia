@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Konig_lineGraph_colorable_of_colorable_two
 -- name    : Konig.lineGraph_colorable_of_colorable_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:08:51.346466+00:00
 -- url     : https://prove2.me/theorems/5479d06d-9c5e-44a1-b3dd-104202249010

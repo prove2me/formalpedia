@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_QrD_J_right
 -- name    : Formalism.FourierDecayAlt.P.QrD.J_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:36:27.355798+00:00
 -- url     : https://prove2.me/theorems/72c8c070-5adc-4695-9f6b-70bc3f76b677

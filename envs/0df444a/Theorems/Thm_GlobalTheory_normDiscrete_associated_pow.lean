@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_normDiscrete_associated_pow
 -- name    : GlobalTheory.normDiscrete_associated_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:21:08.589437+00:00
 -- url     : https://prove2.me/theorems/2e280230-e94b-4d22-9dcc-19e50da405b3

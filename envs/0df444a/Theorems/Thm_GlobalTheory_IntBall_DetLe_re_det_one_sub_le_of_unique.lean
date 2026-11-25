@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_DetLe_re_det_one_sub_le_of_unique
 -- name    : GlobalTheory.IntBall.DetLe.re_det_one_sub_le_of_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:45:55.021357+00:00
 -- url     : https://prove2.me/theorems/4b8075f1-d212-4c55-a51f-32b6f50aa341

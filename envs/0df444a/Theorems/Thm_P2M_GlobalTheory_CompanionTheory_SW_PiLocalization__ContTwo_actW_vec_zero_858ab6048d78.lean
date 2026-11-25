@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__ContTwo_actW_vec_zero_858ab6048d78
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__ContTwo_actW_vec_zero_858ab6048d78
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:03:35.211673+00:00
 -- url     : https://prove2.me/theorems/016a23d9-6fb3-4735-9027-29b45f1b34f1

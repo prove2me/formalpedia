@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_jetExp
 -- name    : Formalism.L2.Th1.C.jetExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:39:02.302523+00:00
 -- url     : https://prove2.me/theorems/c4c66134-ed62-5f25-82bf-8ae49059d6fc

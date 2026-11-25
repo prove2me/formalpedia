@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_WeaklyAdmissibleFiltrations_exwaF___70203564a2ca
 -- name    : P2M_Formalism_WeaklyAdmissibleFiltrations_exwaF___70203564a2ca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:02:00.765294+00:00
 -- url     : https://prove2.me/theorems/02021010-200d-40fb-9c7a-a5ac452d9972

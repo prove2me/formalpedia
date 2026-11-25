@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_DimensionMonotonicity_Ffull_ycond
 -- name    : Formalism.GM.DimensionMonotonicity.Ffull_ycond
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:27:57.05552+00:00
 -- url     : https://prove2.me/theorems/b3e50c3e-b18b-4c57-919c-ccaeb50e6297

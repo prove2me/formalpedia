@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Two_tS_mul
 -- name    : Formalism.L2.Th1.A.Two.tS_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:16:55.874744+00:00
 -- url     : https://prove2.me/theorems/4ac729f4-88ed-4610-91a8-4f0549e38f66

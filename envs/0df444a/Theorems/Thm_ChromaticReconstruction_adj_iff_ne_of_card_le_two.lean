@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_adj_iff_ne_of_card_le_two
 -- name    : ChromaticReconstruction.adj_iff_ne_of_card_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:34:15.302799+00:00
 -- url     : https://prove2.me/theorems/5d8a0159-9c25-4f74-8a32-1fa55f51ecab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_GenericSectionMinimum_algIndep_of_der
 -- name    : Formalism.L2.Pj.GenericSectionMinimum.algIndep_of_der
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:32:35.148001+00:00
 -- url     : https://prove2.me/theorems/23d844ad-7f07-4a13-8d73-15dd1148c9b8

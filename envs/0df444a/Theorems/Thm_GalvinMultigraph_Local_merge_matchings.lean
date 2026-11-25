@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Local_merge_matchings
 -- name    : GalvinMultigraph.Local.merge_matchings
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:23:31.57812+00:00
 -- url     : https://prove2.me/theorems/21457490-0dd0-42b8-97cd-9a2ea50dd5a9

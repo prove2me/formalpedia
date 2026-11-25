@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_cast_eq_one_iff
 -- name    : Formalism.LFunctionChainParameters.LHost.cast_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:24:41.052029+00:00
 -- url     : https://prove2.me/theorems/12d9b9ca-bf7b-44f7-bc74-a107288cbbb6

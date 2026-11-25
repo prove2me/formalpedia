@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HomogeneousCase
 -- name    : HomogeneousCase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:45:35.39582+00:00
 -- url     : https://prove2.me/theorems/e655d761-f484-4baa-852b-3252b9273b60

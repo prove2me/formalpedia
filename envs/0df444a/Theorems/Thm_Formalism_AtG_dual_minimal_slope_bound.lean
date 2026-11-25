@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_dual_minimal_slope_bound
 -- name    : Formalism.AtG.dual_minimal_slope_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:42:37.614799+00:00
 -- url     : https://prove2.me/theorems/6f64cfb3-5129-4e81-8d08-d7a4d9f753e9

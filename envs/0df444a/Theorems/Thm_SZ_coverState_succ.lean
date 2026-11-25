@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_coverState_succ
 -- name    : SZ.coverState_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:26:49.315851+00:00
 -- url     : https://prove2.me/theorems/61e0f043-3a18-4423-ad60-fbae1c587023

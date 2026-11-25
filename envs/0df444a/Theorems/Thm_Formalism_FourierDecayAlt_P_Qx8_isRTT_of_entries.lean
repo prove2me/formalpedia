@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_isRTT_of_entries
 -- name    : Formalism.FourierDecayAlt.P.Qx8.isRTT_of_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:29:55.102125+00:00
 -- url     : https://prove2.me/theorems/a6557a54-67b2-4c5b-9ff6-bc58a385ae38

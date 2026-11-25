@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_ringKrullDim_le_of_isIntegral
 -- name    : GroundTheory.Arith.Toric.ringKrullDim_le_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:43:16.542435+00:00
 -- url     : https://prove2.me/theorems/754eab76-9a24-402e-9f7a-67cbd6ac7348

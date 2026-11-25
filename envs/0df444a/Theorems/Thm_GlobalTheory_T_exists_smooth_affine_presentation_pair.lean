@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_smooth_affine_presentation_pair
 -- name    : GlobalTheory.T.exists_smooth_affine_presentation_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:38:27.674116+00:00
 -- url     : https://prove2.me/theorems/06291d5f-1101-463a-88e9-8f01f01aab1c

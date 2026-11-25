@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HopfSys_counit
 -- name    : GlobalTheory.CompanionTheory.HopfSys.counit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:36:38.469349+00:00
 -- url     : https://prove2.me/theorems/cad8c680-0bcf-4f69-a13a-de9db9bd7d39

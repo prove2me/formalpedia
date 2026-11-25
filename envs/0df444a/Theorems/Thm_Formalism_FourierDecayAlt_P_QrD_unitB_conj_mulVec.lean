@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_QrD_unitB_conj_mulVec
 -- name    : Formalism.FourierDecayAlt.P.QrD.unitB_conj_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:36:36.78029+00:00
 -- url     : https://prove2.me/theorems/ca41d44f-d189-4678-bafb-58d03c116dd3

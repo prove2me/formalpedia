@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_EqualChar_valuation_powerSeriesHom_of_constantCoeff_ne_zero
 -- name    : GroundTheory.LocalField.EqualChar.valuation_powerSeriesHom_of_constantCoeff_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:13:33.350435+00:00
 -- url     : https://prove2.me/theorems/787e5bc1-ce0a-4b61-a95a-53a1bfb53fb3

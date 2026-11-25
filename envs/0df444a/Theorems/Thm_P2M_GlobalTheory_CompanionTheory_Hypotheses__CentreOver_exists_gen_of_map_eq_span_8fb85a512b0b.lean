@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_exists_gen_of_map_eq_span_8fb85a512b0b
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_exists_gen_of_map_eq_span_8fb85a512b0b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:03:56.957038+00:00
 -- url     : https://prove2.me/theorems/b96d567d-3351-48e3-a8b1-e29f22178267

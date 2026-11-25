@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_leftSmoothing_prodExp
 -- name    : GlobalTheory.leftSmoothing_prodExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:23:13.881842+00:00
 -- url     : https://prove2.me/theorems/f25b10f4-be9c-44e7-b732-412264a52611

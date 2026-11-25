@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx5_swap_list
 -- name    : Formalism.FourierDecayAlt.P.Qx5.swap_list
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:48:43.386198+00:00
 -- url     : https://prove2.me/theorems/5596d981-c674-404f-8940-fb5608708759

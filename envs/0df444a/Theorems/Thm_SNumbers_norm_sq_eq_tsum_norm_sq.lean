@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_norm_sq_eq_tsum_norm_sq
 -- name    : SNumbers.norm_sq_eq_tsum_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:19:19.475906+00:00
 -- url     : https://prove2.me/theorems/24bf9252-cba9-41b7-a419-47146f83bec3

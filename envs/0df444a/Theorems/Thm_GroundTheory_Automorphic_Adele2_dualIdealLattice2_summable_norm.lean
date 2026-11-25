@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Adele2_dualIdealLattice2_summable_norm
 -- name    : GroundTheory.Automorphic.Adele2.dualIdealLattice2_summable_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:47:29.000921+00:00
 -- url     : https://prove2.me/theorems/cee8345e-f579-4cd6-91dd-b07893946778

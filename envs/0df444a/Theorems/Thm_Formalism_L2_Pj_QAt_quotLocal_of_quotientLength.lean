@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_quotLocal_of_quotientLength
 -- name    : Formalism.L2.Pj.QAt.quotLocal_of_quotientLength
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:37:27.308158+00:00
 -- url     : https://prove2.me/theorems/a2b68b06-2de0-5b5d-9340-4418960dd144

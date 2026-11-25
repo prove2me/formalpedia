@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__FreeQuot_IsFppfTorsor_of_descendsAlong_b40a1a97fbb5
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__FreeQuot_IsFppfTorsor_of_descendsAlong_b40a1a97fbb5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:03:21.756798+00:00
 -- url     : https://prove2.me/theorems/0f5422bb-76ee-4006-aab4-fa05a244e53a

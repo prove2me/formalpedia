@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_W_zero
 -- name    : SZ.W_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:26:58.508244+00:00
 -- url     : https://prove2.me/theorems/19f2d21c-7d6b-46a4-a24c-16dd4b925a03

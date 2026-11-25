@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_CosetIndexLemmas_deletion_eventual_holds
 -- name    : Formalism.LFunctionChainParameters.CosetIndexLemmas.deletion_eventual_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:39:57.761252+00:00
 -- url     : https://prove2.me/theorems/cb1e8d02-82d3-4f84-ba18-faac5392a40d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_lowC_le_perpV
 -- name    : Formalism.InvariantFactorPaths.PW.lowC_le_perpV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:44:38.916818+00:00
 -- url     : https://prove2.me/theorems/34efd69b-f926-5a64-809e-7bae386a166a
