@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Cusp_Fr_third_idempotent_adjoint_first
 -- name    : PositivityTheory.ThKEnd.Cusp.Fr.third_idempotent_adjoint_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:50:09.252442+00:00
 -- url     : https://prove2.me/theorems/bb9fb842-76a5-4263-b3f8-195322036583

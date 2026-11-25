@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF_L2_integrableOn_right
 -- name    : PositivityTheory.ThKF.L2.integrableOn_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:03:53.4068+00:00
 -- url     : https://prove2.me/theorems/9271a26a-8e2d-4e1b-abbb-e0a1d2343253

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_submatrix_finsetSum
 -- name    : ReciprocityTheory.AnForm.A.submatrix_finsetSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:19:15.553902+00:00
 -- url     : https://prove2.me/theorems/4bad5a8b-1d94-4073-a0d5-2bd4c1f14743

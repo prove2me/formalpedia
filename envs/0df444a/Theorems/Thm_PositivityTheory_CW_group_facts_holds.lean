@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_group_facts_holds
 -- name    : PositivityTheory.CW.group_facts_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:04.926114+00:00
 -- url     : https://prove2.me/theorems/25330e51-d8e3-4d79-8e8e-5469911e1541

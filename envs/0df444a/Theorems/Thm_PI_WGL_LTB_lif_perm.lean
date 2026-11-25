@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTB_lif_perm
 -- name    : PI.WGL.LTB.lif_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:48:25.758706+00:00
 -- url     : https://prove2.me/theorems/f210ca95-0a77-4d0e-b452-9f2cc8fe6e7b

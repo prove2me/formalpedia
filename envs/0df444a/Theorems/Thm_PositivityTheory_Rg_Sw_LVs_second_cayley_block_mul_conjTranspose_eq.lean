@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_second_cayley_block_mul_conjTranspose_eq
 -- name    : PositivityTheory.Rg.Sw.LVs.second_cayley_block_mul_conjTranspose_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:03.758064+00:00
 -- url     : https://prove2.me/theorems/e76c1de8-1b5e-4b0e-a528-d388b5a415d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_PLsAbs2_exists_proj
 -- name    : PositivityTheory.Rg.Rs.PLsAbs2.exists_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:55:17.840048+00:00
 -- url     : https://prove2.me/theorems/62e40cdc-37b7-4482-bb7c-bb0ee664097e

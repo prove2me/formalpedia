@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_a9_of_a0_a1_eigenbasis_a6
 -- name    : PositivityTheory.CW.a9_of_a0_a1_eigenbasis_a6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:50:58.814484+00:00
 -- url     : https://prove2.me/theorems/1e5682a9-713d-4ef6-891d-136727da966e

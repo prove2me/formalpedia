@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_exists_pow_near_one
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.exists_pow_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:39:21.277823+00:00
 -- url     : https://prove2.me/theorems/e6efb8ee-988d-44db-b513-ec9d2c1db9c6

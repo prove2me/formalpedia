@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_continuous_Fi
 -- name    : PositivityTheory.Rg.Sw.WR.D.continuous_Fi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:27:28.126165+00:00
 -- url     : https://prove2.me/theorems/9808da2d-9e91-401e-800e-b301951568ed

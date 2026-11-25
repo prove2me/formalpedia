@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_Z_sq_smul
 -- name    : PositivityTheory.Rg.Sw.WR.Z.sq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:07:01.802+00:00
 -- url     : https://prove2.me/theorems/84512b9b-4825-57de-8cbf-fcfbb5ea55c2

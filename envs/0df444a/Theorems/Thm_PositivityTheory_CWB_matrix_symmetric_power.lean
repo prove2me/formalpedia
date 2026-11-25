@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_matrix_symmetric_power
 -- name    : PositivityTheory.CWB.matrix_symmetric_power
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:49:13.673583+00:00
 -- url     : https://prove2.me/theorems/c7604529-b9e6-47f2-abb5-5ca24b17e65e

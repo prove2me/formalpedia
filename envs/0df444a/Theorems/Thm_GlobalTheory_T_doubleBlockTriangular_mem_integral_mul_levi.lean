@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_doubleBlockTriangular_mem_integral_mul_levi
 -- name    : GlobalTheory.T.doubleBlockTriangular_mem_integral_mul_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:17:14.618012+00:00
 -- url     : https://prove2.me/theorems/cbae9483-5b95-4073-80e2-5d5e98507f13

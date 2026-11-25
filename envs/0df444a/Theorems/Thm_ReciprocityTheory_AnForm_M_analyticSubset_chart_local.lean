@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_analyticSubset_chart_local
 -- name    : ReciprocityTheory.AnForm.M.analyticSubset_chart_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:19:03.665158+00:00
 -- url     : https://prove2.me/theorems/8e3aa95f-98a9-53ea-a8f3-d3d14313fb24

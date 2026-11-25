@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_lcp_iterate
 -- name    : PositivityTheory.Rg.Sw.SP.lcp_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:00:17.989027+00:00
 -- url     : https://prove2.me/theorems/44d6f912-7702-427d-b47c-8bcaa9fe6063

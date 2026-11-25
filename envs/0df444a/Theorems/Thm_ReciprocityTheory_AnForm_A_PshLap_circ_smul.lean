@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshLap_circ_smul
 -- name    : ReciprocityTheory.AnForm.A.PshLap.circ_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:05:02.359541+00:00
 -- url     : https://prove2.me/theorems/7ca1e5ad-0da0-4045-bec2-2f66d337b75d

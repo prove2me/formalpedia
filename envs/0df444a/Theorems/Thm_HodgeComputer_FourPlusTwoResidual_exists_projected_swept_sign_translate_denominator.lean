@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_FourPlusTwoResidual_exists_projected_swept_sign_translate_denominator
 -- name    : HodgeComputer.FourPlusTwoResidual.exists_projected_swept_sign_translate_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-25T05:49:14.852608+00:00
 -- url     : https://prove2.me/theorems/44b07f38-b27d-49dc-a14e-073ed9a4cacf

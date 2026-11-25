@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_LandauNonnegativeDirichletSeries_re_neg_mul
 -- name    : PositivityTheory.RgJS.LandauNonnegativeDirichletSeries.re_neg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:03:16.988691+00:00
 -- url     : https://prove2.me/theorems/d47585aa-eadd-4b0e-bc5c-3b23e08d4593

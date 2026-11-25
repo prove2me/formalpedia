@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_apply_eq_or_gap
 -- name    : GroundTheory.Automorphic.Parabolic.apply_eq_or_gap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:44:43.443338+00:00
 -- url     : https://prove2.me/theorems/300211e2-cbba-5634-8a6b-7274ca471ea2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_GradedNormalNilpotent_main
 -- name    : PositivityTheory.CW.GradedNormalNilpotent.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:50:30.587949+00:00
 -- url     : https://prove2.me/theorems/a31f6f10-47f3-46eb-a3e5-e0e53a139469

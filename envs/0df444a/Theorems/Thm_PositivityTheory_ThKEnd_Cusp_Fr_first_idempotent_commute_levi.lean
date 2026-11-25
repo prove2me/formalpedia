@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Cusp_Fr_first_idempotent_commute_levi
 -- name    : PositivityTheory.ThKEnd.Cusp.Fr.first_idempotent_commute_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:33.32805+00:00
 -- url     : https://prove2.me/theorems/c666e04f-8d05-4e54-a500-d7d037923c69

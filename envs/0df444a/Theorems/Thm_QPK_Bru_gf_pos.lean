@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_Bru_gf_pos
 -- name    : QPK.Bru.gf_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:50:49.706825+00:00
 -- url     : https://prove2.me/theorems/d598b862-5ff6-48f6-a039-6304f186e15c

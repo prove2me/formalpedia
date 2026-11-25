@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Two_dia_val
 -- name    : PositivityTheory.ThKEnd.Two.dia_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:50:32.807849+00:00
 -- url     : https://prove2.me/theorems/d6e8032a-31f0-4b4e-8298-0101a161b42f

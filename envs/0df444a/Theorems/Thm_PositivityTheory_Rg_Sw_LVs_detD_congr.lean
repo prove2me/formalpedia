@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_detD_congr
 -- name    : PositivityTheory.Rg.Sw.LVs.detD_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:28.557861+00:00
 -- url     : https://prove2.me/theorems/164eb0a8-26cb-5adb-8589-54215a9f83ed

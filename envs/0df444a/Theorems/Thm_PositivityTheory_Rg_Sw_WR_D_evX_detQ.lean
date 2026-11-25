@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_evX_detQ
 -- name    : PositivityTheory.Rg.Sw.WR.D.evX_detQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:01:39.748804+00:00
 -- url     : https://prove2.me/theorems/b47f8298-9b30-4a66-a184-850d2df8caff

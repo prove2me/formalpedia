@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_stable_complement_exists
 -- name    : PI.WGB.stable_complement_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:00:52.914025+00:00
 -- url     : https://prove2.me/theorems/6c4830e8-9633-4039-bbfe-6101306bb9a9

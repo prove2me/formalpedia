@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_blocks_of_InG
 -- name    : PositivityTheory.Rg.Sw.LVs.blocks_of_InG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:03.750405+00:00
 -- url     : https://prove2.me/theorems/0f7c4128-8d91-4de8-93bd-33cad3cfa40a

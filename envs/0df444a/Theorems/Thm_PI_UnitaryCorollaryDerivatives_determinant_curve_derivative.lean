@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_determinant_curve_derivative
 -- name    : PI.UnitaryCorollaryDerivatives.determinant_curve_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:48:37.964955+00:00
 -- url     : https://prove2.me/theorems/4bbd9fb0-4bcb-4e3b-89f2-7fbb9beebad4

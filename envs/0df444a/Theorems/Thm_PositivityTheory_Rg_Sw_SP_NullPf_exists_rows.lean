@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_NullPf_exists_rows
 -- name    : PositivityTheory.Rg.Sw.SP.NullPf.exists_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:49:35.940538+00:00
 -- url     : https://prove2.me/theorems/44201a0d-5aad-42ea-b5c5-b58f7aa669af

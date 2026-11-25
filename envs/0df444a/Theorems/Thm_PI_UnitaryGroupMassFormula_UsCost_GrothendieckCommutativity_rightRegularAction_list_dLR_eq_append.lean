@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_GrothendieckCommutativity_rightRegularAction_list_dLR_eq_append
 -- name    : PI.UnitaryGroupMassFormula.UsCost.GrothendieckCommutativity.rightRegularAction_list_dLR_eq_append
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:05:55.622821+00:00
 -- url     : https://prove2.me/theorems/082c2569-ee5a-4aa1-8e75-21104ee0a388

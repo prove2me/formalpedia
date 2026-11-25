@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_Sd_continuous_trE_symm
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.Sd.continuous_trE_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:44:55.071181+00:00
 -- url     : https://prove2.me/theorems/35a0faa9-8e3e-5622-b73b-dbb093e02605

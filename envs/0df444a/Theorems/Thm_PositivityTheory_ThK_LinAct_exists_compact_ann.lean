@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_LinAct_exists_compact_ann
 -- name    : PositivityTheory.ThK.LinAct.exists_compact_ann
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:04:18.760579+00:00
 -- url     : https://prove2.me/theorems/ddbfd196-0a23-4652-8324-d8efbf200c4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshMol_radialBump_smul
 -- name    : ReciprocityTheory.AnForm.A.PshMol.radialBump_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:05:23.734942+00:00
 -- url     : https://prove2.me/theorems/bc389a57-e559-52fb-914e-2c16cd1d7404

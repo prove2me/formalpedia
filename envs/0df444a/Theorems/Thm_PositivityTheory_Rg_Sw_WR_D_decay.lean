@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_decay
 -- name    : PositivityTheory.Rg.Sw.WR.D.decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:01:46.066406+00:00
 -- url     : https://prove2.me/theorems/82378ca2-334f-4b87-8c19-d416b9139043

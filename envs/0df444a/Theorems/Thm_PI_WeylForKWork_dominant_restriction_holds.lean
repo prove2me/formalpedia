@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_dominant_restriction_holds
 -- name    : PI.WeylForKWork.dominant_restriction_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:45:06.206386+00:00
 -- url     : https://prove2.me/theorems/694f426f-6249-4eca-af46-aef0bafe275d

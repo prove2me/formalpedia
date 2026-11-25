@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_Bru_Eset_exists
 -- name    : QPK.Bru.Eset_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:50:35.837987+00:00
 -- url     : https://prove2.me/theorems/7cedd11c-7b97-4698-a585-10db2db1e603

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_RealFourierCoefficientBounds_peetre
 -- name    : PositivityTheory.ThKEst.RealFourierCoefficientBounds.peetre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:39.48972+00:00
 -- url     : https://prove2.me/theorems/48eb414d-f1cd-4e5f-bd88-052f1eae07a5

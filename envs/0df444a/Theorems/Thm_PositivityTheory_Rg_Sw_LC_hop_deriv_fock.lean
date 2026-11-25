@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_hop_deriv_fock
 -- name    : PositivityTheory.Rg.Sw.LC.hop_deriv_fock
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:17:23.263859+00:00
 -- url     : https://prove2.me/theorems/b1efa006-feaa-44ed-aec1-0084441365fe

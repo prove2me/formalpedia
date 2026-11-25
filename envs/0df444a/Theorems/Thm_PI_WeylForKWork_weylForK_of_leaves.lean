@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_weylForK_of_leaves
 -- name    : PI.WeylForKWork.weylForK_of_leaves
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:49:43.963628+00:00
 -- url     : https://prove2.me/theorems/bf4fa0ca-76bb-5ec9-ab83-eea7fed9f491

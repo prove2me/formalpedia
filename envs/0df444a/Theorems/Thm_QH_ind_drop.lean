@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QH_ind_drop
 -- name    : QH.ind_drop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:05:31.133604+00:00
 -- url     : https://prove2.me/theorems/777d6578-d75b-5afa-8433-d2a3a64f1c21

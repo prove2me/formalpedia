@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_c_sq
 -- name    : PositivityTheory.Rg.Sw.SP.c_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:51:08.113965+00:00
 -- url     : https://prove2.me/theorems/fc274e39-da08-439f-b1fd-0514a177bd2d

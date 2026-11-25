@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RL_Delta_zero_of_ball
 -- name    : PositivityTheory.RL.Delta.zero_of_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:51:56.953098+00:00
 -- url     : https://prove2.me/theorems/03481c17-4f99-497a-8e93-703add74080c

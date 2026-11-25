@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_eval_detBlocks
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.eval_detBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:38:27.829875+00:00
 -- url     : https://prove2.me/theorems/c03949fc-0d85-4e73-b729-9bd080afe12a

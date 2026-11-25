@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CK_fderiv_fsum
 -- name    : PositivityTheory.Rg.Sw.LVs.CK.fderiv_fsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:49:45.803149+00:00
 -- url     : https://prove2.me/theorems/27994751-21de-4a87-a719-c1023d224452

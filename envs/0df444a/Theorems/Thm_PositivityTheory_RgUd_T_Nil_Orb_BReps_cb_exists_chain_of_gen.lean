@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Orb_BReps_cb_exists_chain_of_gen
 -- name    : PositivityTheory.RgUd.T.Nil.Orb.BReps.cb_exists_chain_of_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:55:43.274737+00:00
 -- url     : https://prove2.me/theorems/ff8063f9-a3a0-4c2f-a8bb-1905a0fe632f

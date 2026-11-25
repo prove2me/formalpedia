@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialWeightAction_Dsrc_monomial
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialWeightAction.Dsrc_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:58:32.136074+00:00
 -- url     : https://prove2.me/theorems/d0d503dd-06b9-5c0e-9c7a-5b73f48b1a6a

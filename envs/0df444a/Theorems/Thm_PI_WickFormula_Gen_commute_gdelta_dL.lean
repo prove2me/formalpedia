@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Gen_commute_gdelta_dL
 -- name    : PI.WickFormula.Gen.commute_gdelta_dL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:37:53.387519+00:00
 -- url     : https://prove2.me/theorems/8d9530d2-0c2e-4109-bd20-79e949fc6aae

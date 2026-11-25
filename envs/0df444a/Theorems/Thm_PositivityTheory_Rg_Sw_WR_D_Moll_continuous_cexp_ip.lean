@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_Moll_continuous_cexp_ip
 -- name    : PositivityTheory.Rg.Sw.WR.D.Moll.continuous_cexp_ip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:02:56.216975+00:00
 -- url     : https://prove2.me/theorems/07e0e630-95b5-5a97-b748-4f67c9a4b3e9

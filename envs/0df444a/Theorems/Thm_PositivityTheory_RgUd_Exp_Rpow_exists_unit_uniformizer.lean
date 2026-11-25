@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Exp_Rpow_exists_unit_uniformizer
 -- name    : PositivityTheory.RgUd.Exp.Rpow.exists_unit_uniformizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:03.600548+00:00
 -- url     : https://prove2.me/theorems/44ac2c0a-4456-4244-b215-55ea335ba7fc

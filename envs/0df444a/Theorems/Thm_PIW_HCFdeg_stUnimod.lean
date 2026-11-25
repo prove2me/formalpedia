@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_stUnimod
 -- name    : PIW.HCFdeg.stUnimod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:59:11.836494+00:00
 -- url     : https://prove2.me/theorems/432d5248-24eb-43e6-ab98-85fe1d3a04c1

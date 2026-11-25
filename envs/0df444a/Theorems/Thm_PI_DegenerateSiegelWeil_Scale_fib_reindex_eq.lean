@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DegenerateSiegelWeil_Scale_fib_reindex_eq
 -- name    : PI.DegenerateSiegelWeil.Scale.fib_reindex_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:07:36.257621+00:00
 -- url     : https://prove2.me/theorems/3cfb8edf-0e6f-49ea-938c-d48bb2a71f0e

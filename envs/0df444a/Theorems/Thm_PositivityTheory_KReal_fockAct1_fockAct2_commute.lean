@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_fockAct1_fockAct2_commute
 -- name    : PositivityTheory.KReal.fockAct1_fockAct2_commute
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:30:15.300409+00:00
 -- url     : https://prove2.me/theorems/cf84e3c4-49f0-407f-a226-e2ef3df5a323

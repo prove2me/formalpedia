@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_LinAct_schr_box
 -- name    : PositivityTheory.ThK.LinAct.schr_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:04:44.358529+00:00
 -- url     : https://prove2.me/theorems/adf22a6e-a3ea-5837-aa15-250e278724c1

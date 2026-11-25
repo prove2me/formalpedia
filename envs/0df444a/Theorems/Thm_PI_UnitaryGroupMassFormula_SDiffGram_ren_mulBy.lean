@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_SDiffGram_ren_mulBy
 -- name    : PI.UnitaryGroupMassFormula.SDiffGram.ren_mulBy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:36:09.005319+00:00
 -- url     : https://prove2.me/theorems/e7829921-cdfa-5cc5-92a3-3f47c0d103c4

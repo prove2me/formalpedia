@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_T_abs_log_le
 -- name    : PositivityTheory.Rg.Sw.WR.T.abs_log_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:02:30.929544+00:00
 -- url     : https://prove2.me/theorems/2c693392-cee4-467f-8d26-36b696863248

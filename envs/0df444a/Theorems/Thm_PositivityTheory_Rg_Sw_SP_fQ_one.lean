@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_fQ_one
 -- name    : PositivityTheory.Rg.Sw.SP.fQ_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:51:46.82285+00:00
 -- url     : https://prove2.me/theorems/876db92c-708b-419a-8058-1f2d38b6c7a7

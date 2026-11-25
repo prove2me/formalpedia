@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_embGL_transvec
 -- name    : PI.WGL.embGL_transvec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:02:54.700801+00:00
 -- url     : https://prove2.me/theorems/1b099d23-e8e3-4696-b608-82797ec8a26d

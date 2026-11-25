@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_trace_im_zero
 -- name    : PositivityTheory.Rg.Sw.WR.G.trace_im_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:05:53.46557+00:00
 -- url     : https://prove2.me/theorems/05f0ad28-658e-5e7f-9d82-5f29108bf557

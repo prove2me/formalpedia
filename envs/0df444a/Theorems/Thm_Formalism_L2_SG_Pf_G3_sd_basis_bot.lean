@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G3_sd_basis_bot
 -- name    : Formalism.L2.SG.Pf.G3.sd_basis_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:30:25.860916+00:00
 -- url     : https://prove2.me/theorems/d9e233b6-ad77-5180-9784-76e9298cea81

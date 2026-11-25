@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_Common0Aux_exists_pos_le
 -- name    : PositivityTheory.RgJS.Common0Aux.exists_pos_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:03:03.478015+00:00
 -- url     : https://prove2.me/theorems/46ecfed0-b6b0-42ec-9020-60868ff2882d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_spherical_detD
 -- name    : PositivityTheory.Rg.Sw.LVs.spherical_detD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:01:08.442154+00:00
 -- url     : https://prove2.me/theorems/8a970677-ee28-4575-84fe-6b0c6ffa55eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_NullPf_det_eq_zero_of_rank_lt
 -- name    : PositivityTheory.Rg.Sw.SP.NullPf.det_eq_zero_of_rank_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:49:23.772311+00:00
 -- url     : https://prove2.me/theorems/bcd76cbf-76aa-42db-b143-3ee13ba90316

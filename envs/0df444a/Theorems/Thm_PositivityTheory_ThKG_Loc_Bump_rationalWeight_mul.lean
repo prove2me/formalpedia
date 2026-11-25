@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_rationalWeight_mul
 -- name    : PositivityTheory.ThKG.Loc.Bump.rationalWeight_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:04:40.313769+00:00
 -- url     : https://prove2.me/theorems/fccdebad-7b07-49ba-99cd-ba82bb61a3d0

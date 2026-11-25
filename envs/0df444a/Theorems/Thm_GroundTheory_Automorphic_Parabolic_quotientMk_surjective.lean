@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_quotientMk_surjective
 -- name    : GroundTheory.Automorphic.Parabolic.quotientMk_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:47:38.280156+00:00
 -- url     : https://prove2.me/theorems/ba4843b5-77c5-5d1d-b4cc-c5b6af62a7f9

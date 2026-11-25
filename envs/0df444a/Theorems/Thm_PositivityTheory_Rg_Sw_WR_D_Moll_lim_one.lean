@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_Moll_lim_one
 -- name    : PositivityTheory.Rg.Sw.WR.D.Moll.lim_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:01:42.507742+00:00
 -- url     : https://prove2.me/theorems/0406b284-69d4-4271-b5e5-ed050ebfe46d

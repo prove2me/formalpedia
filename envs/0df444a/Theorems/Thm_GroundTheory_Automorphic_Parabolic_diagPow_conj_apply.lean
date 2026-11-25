@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_diagPow_conj_apply
 -- name    : GroundTheory.Automorphic.Parabolic.diagPow_conj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:38:39.641023+00:00
 -- url     : https://prove2.me/theorems/137463c3-ed21-4877-9922-cdab50157e73

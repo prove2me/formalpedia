@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TF_common_ker
 -- name    : PositivityTheory.Rg.Cz.TF.common_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:53:27.017854+00:00
 -- url     : https://prove2.me/theorems/2beafb7e-5e10-4b44-b6be-dca732f22335

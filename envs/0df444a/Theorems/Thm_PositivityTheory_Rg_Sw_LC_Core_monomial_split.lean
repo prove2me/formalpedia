@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Core_monomial_split
 -- name    : PositivityTheory.Rg.Sw.LC.Core.monomial_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:55:09.129885+00:00
 -- url     : https://prove2.me/theorems/12755e2a-dbfc-51e4-a5db-899de0a47393

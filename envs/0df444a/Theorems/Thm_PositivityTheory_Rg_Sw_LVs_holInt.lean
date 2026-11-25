@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_holInt
 -- name    : PositivityTheory.Rg.Sw.LVs.holInt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:44.221499+00:00
 -- url     : https://prove2.me/theorems/dbce2e32-c067-4bf7-9ce9-eb04d1a8548c

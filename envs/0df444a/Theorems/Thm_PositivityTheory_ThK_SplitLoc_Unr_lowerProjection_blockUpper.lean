@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_lowerProjection_blockUpper
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.lowerProjection_blockUpper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:51:23.915832+00:00
 -- url     : https://prove2.me/theorems/cc790639-5f44-4322-9ba8-0b5b618fa9b0

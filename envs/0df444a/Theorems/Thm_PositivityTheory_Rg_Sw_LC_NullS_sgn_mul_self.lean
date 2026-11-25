@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_NullS_sgn_mul_self
 -- name    : PositivityTheory.Rg.Sw.LC.NullS.sgn_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:48:44.721287+00:00
 -- url     : https://prove2.me/theorems/35a63f57-7850-495a-8762-a4703a7cfded

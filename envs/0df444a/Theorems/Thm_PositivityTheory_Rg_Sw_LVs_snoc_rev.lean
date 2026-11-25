@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_snoc_rev
 -- name    : PositivityTheory.Rg.Sw.LVs.snoc_rev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:59:54.87343+00:00
 -- url     : https://prove2.me/theorems/cb10eef9-7e38-43db-84c9-95147a9bca0d

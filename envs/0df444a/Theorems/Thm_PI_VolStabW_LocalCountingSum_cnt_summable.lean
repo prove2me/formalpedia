@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_LocalCountingSum_cnt_summable
 -- name    : PI.VolStabW.LocalCountingSum.cnt_summable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:40:12.879074+00:00
 -- url     : https://prove2.me/theorems/d6614535-22b8-5ccf-a188-a0486d02e257

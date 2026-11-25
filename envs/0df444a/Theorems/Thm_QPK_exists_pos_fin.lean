@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_exists_pos_fin
 -- name    : QPK.exists_pos_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:51:31.773299+00:00
 -- url     : https://prove2.me/theorems/dfe6937b-e60a-46e7-a371-9aabc9a8f78d

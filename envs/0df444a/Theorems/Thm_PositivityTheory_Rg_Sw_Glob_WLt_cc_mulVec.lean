@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_Glob_WLt_cc_mulVec
 -- name    : PositivityTheory.Rg.Sw.Glob.WLt.cc_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:49:24.565428+00:00
 -- url     : https://prove2.me/theorems/430659bf-1902-41a3-bbed-890e63cda248

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_coordInf_of
 -- name    : PI.VolStabW.coordInf_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:53:46.127691+00:00
 -- url     : https://prove2.me/theorems/700b0c3c-1a50-4d87-b35e-e45a21b5173b

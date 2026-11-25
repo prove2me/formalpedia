@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Loc_Ptf_eI_mem
 -- name    : PositivityTheory.RgUd.TP.Loc.Ptf.eI_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:03:14.725173+00:00
 -- url     : https://prove2.me/theorems/e75b7376-eda3-4f54-9d4c-11fd803c5dd6

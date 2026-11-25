@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialWeightAction_fix_of_exp
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialWeightAction.fix_of_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:49:56.962881+00:00
 -- url     : https://prove2.me/theorems/dc991efc-684f-4fe6-8555-cbf083db57ed

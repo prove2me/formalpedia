@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_iterate_AT
 -- name    : PositivityTheory.Rg.Sw.SP.iterate_AT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:04:39.568372+00:00
 -- url     : https://prove2.me/theorems/db68536a-71fc-506c-8ab7-3f784322e1c3

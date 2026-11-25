@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_cE_hasDerivAt
 -- name    : PositivityTheory.Rg.Sw.LVs.II.cE_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:46:57.314362+00:00
 -- url     : https://prove2.me/theorems/c91cda9c-707a-454a-9407-119bc3e7331d

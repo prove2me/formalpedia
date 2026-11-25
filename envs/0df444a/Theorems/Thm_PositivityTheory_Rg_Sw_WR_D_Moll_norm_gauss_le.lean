@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_Moll_norm_gauss_le
 -- name    : PositivityTheory.Rg.Sw.WR.D.Moll.norm_gauss_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:01:10.660975+00:00
 -- url     : https://prove2.me/theorems/df201bbb-5e8c-40c1-b853-594f20ddbcb1

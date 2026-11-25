@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_Moll_continuous_kr
 -- name    : PositivityTheory.Rg.Sw.WR.D.Moll.continuous_kr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:01:03.947016+00:00
 -- url     : https://prove2.me/theorems/aa20b5ce-d3d3-4b2a-99bc-b15e69cdf537

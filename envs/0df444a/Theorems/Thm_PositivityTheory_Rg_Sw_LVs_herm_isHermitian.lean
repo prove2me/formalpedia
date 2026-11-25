@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_herm_isHermitian
 -- name    : PositivityTheory.Rg.Sw.LVs.herm_isHermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:00:37.899882+00:00
 -- url     : https://prove2.me/theorems/59eb4e4a-464d-5dce-b92c-e051ae1582a1

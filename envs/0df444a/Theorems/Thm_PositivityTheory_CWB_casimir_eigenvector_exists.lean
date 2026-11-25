@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_casimir_eigenvector_exists
 -- name    : PositivityTheory.CWB.casimir_eigenvector_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:31.703204+00:00
 -- url     : https://prove2.me/theorems/9ca8bd36-8bfd-478d-8d32-a1a6b715e263

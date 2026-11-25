@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_TraceConjugationCover_complexHessian_add_of_contDiffAt
 -- name    : ReciprocityTheory.AnForm.A.TraceConjugationCover.complexHessian_add_of_contDiffAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:05:32.318244+00:00
 -- url     : https://prove2.me/theorems/dbd68c87-3357-586c-b8c8-419c13702a86

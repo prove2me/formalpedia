@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_tmax_convex_comb
 -- name    : ReciprocityTheory.AnForm.A.tmax_convex_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:19:29.596155+00:00
 -- url     : https://prove2.me/theorems/89dfc3dc-10bc-4566-8c50-081058e1a1b0

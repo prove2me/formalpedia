@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_DoubleStepProof_integral_box
 -- name    : GlobalTheory.LocFlat.DoubleStepProof.integral_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:28:08.5743+00:00
 -- url     : https://prove2.me/theorems/2145dc15-c6a8-41d6-9d06-874527dc45d0

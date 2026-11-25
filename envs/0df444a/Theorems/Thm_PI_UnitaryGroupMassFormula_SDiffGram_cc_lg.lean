@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_SDiffGram_cc_lg
 -- name    : PI.UnitaryGroupMassFormula.SDiffGram.cc_lg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:44:21.601319+00:00
 -- url     : https://prove2.me/theorems/052c18f2-43d7-4dc7-bfa3-c438e4389675

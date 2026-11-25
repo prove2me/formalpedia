@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_LVs_mX_eq__121fdc765cb7
 -- name    : P2M_PositivityTheory_Rg_Sw_LVs_mX_eq__121fdc765cb7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:11:04.821389+00:00
 -- url     : https://prove2.me/theorems/16c3bc11-ab1b-4001-9357-3191acc5c3f2

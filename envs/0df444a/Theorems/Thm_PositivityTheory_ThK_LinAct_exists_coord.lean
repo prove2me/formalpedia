@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_LinAct_exists_coord
 -- name    : PositivityTheory.ThK.LinAct.exists_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:04:22.106731+00:00
 -- url     : https://prove2.me/theorems/e025754d-8883-432a-a2bb-985dd6134975

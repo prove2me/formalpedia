@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KFPB_iteratedDeriv_line
 -- name    : PositivityTheory.SiegelWeilFormula.KFPB.iteratedDeriv_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:38.955266+00:00
 -- url     : https://prove2.me/theorems/6d3b6cc0-6d9c-55dc-a3d7-7cfd6376844f

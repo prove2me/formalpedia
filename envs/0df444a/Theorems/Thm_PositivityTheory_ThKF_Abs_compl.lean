@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF_Abs_compl
 -- name    : PositivityTheory.ThKF.Abs.compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:39.540567+00:00
 -- url     : https://prove2.me/theorems/ab916e66-d68f-4f51-84d3-1d5b39f5f054

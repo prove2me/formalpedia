@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_resAA_of
 -- name    : PI.VolStabW.resAA_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:44:39.352621+00:00
 -- url     : https://prove2.me/theorems/238e7760-65a2-4b27-9c76-e5e7a40f7982

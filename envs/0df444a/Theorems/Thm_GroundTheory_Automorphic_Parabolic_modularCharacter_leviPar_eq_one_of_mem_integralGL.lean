@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_modularCharacter_leviPar_eq_one_of_mem_integralGL
 -- name    : GroundTheory.Automorphic.Parabolic.modularCharacter_leviPar_eq_one_of_mem_integralGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:48:06.331653+00:00
 -- url     : https://prove2.me/theorems/559ab881-0120-4b61-8f9f-ec134115488b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_map_smul_volume
 -- name    : PositivityTheory.Rg.Sw.WR.G.map_smul_volume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:02:24.470824+00:00
 -- url     : https://prove2.me/theorems/b149463c-1cc6-467d-a84c-91bfe7b65f9e

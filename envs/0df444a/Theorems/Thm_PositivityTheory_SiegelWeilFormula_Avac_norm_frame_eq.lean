@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Avac_norm_frame_eq
 -- name    : PositivityTheory.SiegelWeilFormula.Avac.norm_frame_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:50.58528+00:00
 -- url     : https://prove2.me/theorems/a2ab39d4-f24e-46ae-9033-ebd091b3c175

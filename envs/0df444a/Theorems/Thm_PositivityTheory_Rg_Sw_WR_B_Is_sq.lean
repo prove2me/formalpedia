@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_Is_sq
 -- name    : PositivityTheory.Rg.Sw.WR.B.Is_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:50:15.879803+00:00
 -- url     : https://prove2.me/theorems/c6e44b95-10a1-498a-91cb-d2bd33bf9325

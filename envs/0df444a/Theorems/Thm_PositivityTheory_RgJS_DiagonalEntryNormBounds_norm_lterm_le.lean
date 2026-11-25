@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_DiagonalEntryNormBounds_norm_lterm_le
 -- name    : PositivityTheory.RgJS.DiagonalEntryNormBounds.norm_lterm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:03:03.512949+00:00
 -- url     : https://prove2.me/theorems/1056e2cc-8253-480d-9616-80f7ef5d8e29

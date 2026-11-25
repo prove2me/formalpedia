@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_hasFDerivAt_conv
 -- name    : ReciprocityTheory.AnForm.A.hasFDerivAt_conv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:05:36.749839+00:00
 -- url     : https://prove2.me/theorems/301e9c37-8a52-41dc-9ec8-6971978dec3a

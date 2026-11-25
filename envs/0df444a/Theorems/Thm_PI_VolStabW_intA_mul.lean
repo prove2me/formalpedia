@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_intA_mul
 -- name    : PI.VolStabW.intA_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:43:33.922282+00:00
 -- url     : https://prove2.me/theorems/3aaff282-4f47-4c10-9cfd-99dd77fbd938

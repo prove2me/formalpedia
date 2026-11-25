@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_trace_eU
 -- name    : PositivityTheory.Rg.Sw.SP.trace_eU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:02:22.811375+00:00
 -- url     : https://prove2.me/theorems/d85edf42-8db3-5041-b094-87ce574b3f01

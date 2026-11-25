@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_dimension_induction_holds
 -- name    : PI.WeylForKWork.dimension_induction_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:48:49.09572+00:00
 -- url     : https://prove2.me/theorems/7a7a786e-1007-5b4d-aae2-882bbc663b6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PDich_W_fix
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PDich.W_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:03:07.115545+00:00
 -- url     : https://prove2.me/theorems/14f03ea4-ff27-5c09-9251-19fb773ba0dc

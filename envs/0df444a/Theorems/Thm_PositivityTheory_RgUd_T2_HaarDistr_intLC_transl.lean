@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T2_HaarDistr_intLC_transl
 -- name    : PositivityTheory.RgUd.T2.HaarDistr.intLC_transl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:21.634919+00:00
 -- url     : https://prove2.me/theorems/fe928b0c-7022-4df6-8402-1ffe09e4013f

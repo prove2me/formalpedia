@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_MMap_Fq_deg
 -- name    : PI.WMI.MMap.Fq_deg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:46:55.122798+00:00
 -- url     : https://prove2.me/theorems/0bc294f4-1517-47f8-a53b-3ee508b0de86

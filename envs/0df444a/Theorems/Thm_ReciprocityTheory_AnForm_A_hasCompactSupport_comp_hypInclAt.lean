@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_hasCompactSupport_comp_hypInclAt
 -- name    : ReciprocityTheory.AnForm.A.hasCompactSupport_comp_hypInclAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:06:19.741096+00:00
 -- url     : https://prove2.me/theorems/6b448427-5217-55cf-b30d-21625d6730c9

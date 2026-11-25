@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_card_lt_eMi
 -- name    : PI.WeylForKWork.card_lt_eMi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:50:08.779911+00:00
 -- url     : https://prove2.me/theorems/1dc66508-66cd-5f2c-a5b1-9d7e8a02493b

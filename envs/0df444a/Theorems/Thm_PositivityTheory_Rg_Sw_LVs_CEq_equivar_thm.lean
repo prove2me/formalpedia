@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CEq_equivar_thm
 -- name    : PositivityTheory.Rg.Sw.LVs.CEq.equivar_thm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:18.062837+00:00
 -- url     : https://prove2.me/theorems/61055381-802c-4025-87ad-5ff7bbfc6ce5

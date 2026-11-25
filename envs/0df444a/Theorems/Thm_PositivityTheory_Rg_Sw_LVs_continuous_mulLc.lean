@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_continuous_mulLc
 -- name    : PositivityTheory.Rg.Sw.LVs.continuous_mulLc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:01:32.432471+00:00
 -- url     : https://prove2.me/theorems/9c7ced25-7885-53e6-acb9-99fc6bfa0fd3

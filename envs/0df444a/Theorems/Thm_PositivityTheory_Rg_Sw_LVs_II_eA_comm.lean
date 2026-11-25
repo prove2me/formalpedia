@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_eA_comm
 -- name    : PositivityTheory.Rg.Sw.LVs.II.eA_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:59:33.805866+00:00
 -- url     : https://prove2.me/theorems/500881d5-b4e5-5b1c-923f-b852aa837662

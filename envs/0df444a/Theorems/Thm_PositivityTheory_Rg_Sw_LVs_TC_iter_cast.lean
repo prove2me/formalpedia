@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_iter_cast
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.iter_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:41.407804+00:00
 -- url     : https://prove2.me/theorems/a16346c2-ba9c-45f0-9196-b0c3196c0694

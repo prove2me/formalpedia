@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_poissonKernel_zero_le
 -- name    : ReciprocityTheory.AnForm.A.poissonKernel_zero_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:19:32.559534+00:00
 -- url     : https://prove2.me/theorems/353b7075-d464-4656-bcbf-d1d5d1b5bbba

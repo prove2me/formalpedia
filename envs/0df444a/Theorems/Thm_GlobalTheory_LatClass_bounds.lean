@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_bounds
 -- name    : GlobalTheory.LatClass.bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:08:13.273713+00:00
 -- url     : https://prove2.me/theorems/832226ac-e602-4634-9718-4f57e8a19dd0

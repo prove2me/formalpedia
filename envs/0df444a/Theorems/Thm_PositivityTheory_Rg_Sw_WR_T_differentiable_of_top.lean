@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_T_differentiable_of_top
 -- name    : PositivityTheory.Rg.Sw.WR.T.differentiable_of_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:02:15.64613+00:00
 -- url     : https://prove2.me/theorems/151ed6a2-84c3-449d-bab0-87f522936767

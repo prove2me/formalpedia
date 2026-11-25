@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_basis_form_sum_of_gain
 -- name    : PositivityTheory.CW.basis_form_sum_of_gain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:51:16.049019+00:00
 -- url     : https://prove2.me/theorems/776d9868-61d1-418d-a746-2ebcf317ba5a

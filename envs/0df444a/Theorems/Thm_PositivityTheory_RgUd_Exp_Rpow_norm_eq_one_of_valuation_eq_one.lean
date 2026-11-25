@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Exp_Rpow_norm_eq_one_of_valuation_eq_one
 -- name    : PositivityTheory.RgUd.Exp.Rpow.norm_eq_one_of_valuation_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:02.225153+00:00
 -- url     : https://prove2.me/theorems/6700d484-be84-4d81-87e2-da51dfa449c1

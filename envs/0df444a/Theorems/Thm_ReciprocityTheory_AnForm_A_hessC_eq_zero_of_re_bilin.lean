@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_hessC_eq_zero_of_re_bilin
 -- name    : ReciprocityTheory.AnForm.A.hessC_eq_zero_of_re_bilin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:05:36.037699+00:00
 -- url     : https://prove2.me/theorems/2fe74e6e-8265-5048-b9aa-e7084a875b44

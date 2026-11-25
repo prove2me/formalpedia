@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Form_U_Asm_exists_orth_decomp
 -- name    : PositivityTheory.RgUd.Form.U.Asm.exists_orth_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:49.542825+00:00
 -- url     : https://prove2.me/theorems/985b1b14-a48a-5d24-be8f-f4b8af02d087

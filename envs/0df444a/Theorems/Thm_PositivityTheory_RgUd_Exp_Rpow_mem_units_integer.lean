@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Exp_Rpow_mem_units_integer
 -- name    : PositivityTheory.RgUd.Exp.Rpow.mem_units_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:50.629615+00:00
 -- url     : https://prove2.me/theorems/34b6cf96-679d-5c17-a629-98b35d4c0e3c

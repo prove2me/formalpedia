@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_BasePf_slice_mem
 -- name    : PositivityTheory.RgUd.T.Nil.BasePf.slice_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:02:37.755015+00:00
 -- url     : https://prove2.me/theorems/81bef216-093a-5dca-a97a-2f9dc40abb8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_HolC_span_top
 -- name    : PositivityTheory.Rg.Sw.LVs.HolC.span_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:59:10.706191+00:00
 -- url     : https://prove2.me/theorems/30072e8e-87c6-51e1-9956-8f2fb275e88e

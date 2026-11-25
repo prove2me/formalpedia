@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_elimGL_mem_iwahori
 -- name    : GroundTheory.Automorphic.Parabolic.elimGL_mem_iwahori
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:19:00.855378+00:00
 -- url     : https://prove2.me/theorems/36ed4fee-9a7f-4c77-8e32-f5e9d2967c11

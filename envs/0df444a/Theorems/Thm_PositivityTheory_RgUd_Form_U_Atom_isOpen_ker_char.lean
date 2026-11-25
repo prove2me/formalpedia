@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Form_U_Atom_isOpen_ker_char
 -- name    : PositivityTheory.RgUd.Form.U.Atom.isOpen_ker_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:01.518022+00:00
 -- url     : https://prove2.me/theorems/6b5482ac-4acf-4cbc-9391-85c6ff1128cd

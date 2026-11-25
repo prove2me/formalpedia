@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_B3_symmetric_filtration_zero
 -- name    : PositivityTheory.Rg.Sw.LC.B3.symmetric_filtration_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:54:32.508143+00:00
 -- url     : https://prove2.me/theorems/86e84e8e-005a-5756-b6b6-454f759f3801

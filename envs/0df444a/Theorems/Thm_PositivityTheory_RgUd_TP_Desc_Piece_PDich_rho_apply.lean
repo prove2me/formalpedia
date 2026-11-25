@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PDich_rho_apply
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PDich.rho_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:30.32907+00:00
 -- url     : https://prove2.me/theorems/70627c59-bc6a-4819-a216-0119cce81153

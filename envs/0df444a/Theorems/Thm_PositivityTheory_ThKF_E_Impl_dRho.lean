@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF_E_Impl_dRho
 -- name    : PositivityTheory.ThKF.E.Impl.dRho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:17:06.096477+00:00
 -- url     : https://prove2.me/theorems/df48fbb2-455c-4afd-a02a-c7d1a25bbb95

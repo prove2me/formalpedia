@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PDich_rank_pos_of_ne
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PDich.rank_pos_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:12.665828+00:00
 -- url     : https://prove2.me/theorems/6fa9b8b9-45b4-4a1e-bee7-e03ed22d6590

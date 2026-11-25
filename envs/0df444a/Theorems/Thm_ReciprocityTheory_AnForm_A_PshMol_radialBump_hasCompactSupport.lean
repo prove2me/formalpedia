@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshMol_radialBump_hasCompactSupport
 -- name    : ReciprocityTheory.AnForm.A.PshMol.radialBump_hasCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:05:15.985792+00:00
 -- url     : https://prove2.me/theorems/737ced18-898a-563a-bf5c-7aacf6b978ba

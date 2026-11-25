@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_PureColPf_Phi_add_colAt
 -- name    : GlobalTheory.LocFlat.PureColPf.Phi_add_colAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:10:25.959414+00:00
 -- url     : https://prove2.me/theorems/cfd2d8ea-ca10-4003-baac-64668ce15e82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_eq_one_of_mul_self
 -- name    : QPK.eq_one_of_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:50:51.744478+00:00
 -- url     : https://prove2.me/theorems/e401132c-edf5-59ff-a5bb-4a51eac86be1

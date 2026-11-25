@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_fock_C
 -- name    : PositivityTheory.Rg.Sw.LC.fock_C
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:46:34.71972+00:00
 -- url     : https://prove2.me/theorems/8ddf2bdf-f894-4992-b31a-873dbf2f9217

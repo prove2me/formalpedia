@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_PStepFormula_one
 -- name    : PositivityTheory.Rg.Cz.PStepFormula.one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:48:47.383822+00:00
 -- url     : https://prove2.me/theorems/1e91622d-e444-492f-9139-f9f8a720a7c5

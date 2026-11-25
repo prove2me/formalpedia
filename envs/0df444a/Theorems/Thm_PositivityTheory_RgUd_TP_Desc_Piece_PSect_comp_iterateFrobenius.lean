@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PSect_comp_iterateFrobenius
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PSect.comp_iterateFrobenius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:08.966014+00:00
 -- url     : https://prove2.me/theorems/69f38bec-4ab4-5783-a75c-d032bde174a8

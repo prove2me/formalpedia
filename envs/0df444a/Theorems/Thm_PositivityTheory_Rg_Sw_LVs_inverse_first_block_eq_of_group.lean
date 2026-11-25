@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_inverse_first_block_eq_of_group
 -- name    : PositivityTheory.Rg.Sw.LVs.inverse_first_block_eq_of_group
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:26:04.147887+00:00
 -- url     : https://prove2.me/theorems/2854c298-a2d7-4a52-90ab-79bac4323994

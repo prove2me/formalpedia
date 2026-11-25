@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_LVs_contDiffOn_fV__5c9c41bef768
 -- name    : P2M_PositivityTheory_Rg_Sw_LVs_contDiffOn_fV__5c9c41bef768
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:10:28.71403+00:00
 -- url     : https://prove2.me/theorems/bd5fee07-7fb9-4cc9-84a2-eacedad5f2f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_T_Delta_eq
 -- name    : PositivityTheory.Rg.Sw.WR.T.Delta_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:02:11.596078+00:00
 -- url     : https://prove2.me/theorems/2d7ae9c5-2cbd-402a-873d-a1865470d0d0

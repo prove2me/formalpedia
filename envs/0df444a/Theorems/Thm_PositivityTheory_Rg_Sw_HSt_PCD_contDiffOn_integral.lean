@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_PCD_contDiffOn_integral
 -- name    : PositivityTheory.Rg.Sw.HSt.PCD.contDiffOn_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:09.583801+00:00
 -- url     : https://prove2.me/theorems/669523c1-3f18-48b9-ba35-eb51d869433d

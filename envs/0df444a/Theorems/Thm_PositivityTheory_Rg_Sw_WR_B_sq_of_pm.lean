@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_sq_of_pm
 -- name    : PositivityTheory.Rg.Sw.WR.B.sq_of_pm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:00:33.494794+00:00
 -- url     : https://prove2.me/theorems/307dd0b5-04cc-4c46-8d98-2bb575a8c104

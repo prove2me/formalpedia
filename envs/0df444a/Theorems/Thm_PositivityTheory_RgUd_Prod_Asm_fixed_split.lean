@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Prod_Asm_fixed_split
 -- name    : PositivityTheory.RgUd.Prod.Asm.fixed_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:54.091188+00:00
 -- url     : https://prove2.me/theorems/9a6e1ef0-df65-400c-b9d6-6e155d32dd57

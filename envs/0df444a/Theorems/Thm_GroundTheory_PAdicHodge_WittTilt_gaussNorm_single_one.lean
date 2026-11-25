@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittTilt_gaussNorm_single_one
 -- name    : GroundTheory.PAdicHodge.WittTilt.gaussNorm_single_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:46:51.661677+00:00
 -- url     : https://prove2.me/theorems/daac262a-8211-54bd-94b3-a90e532baae2

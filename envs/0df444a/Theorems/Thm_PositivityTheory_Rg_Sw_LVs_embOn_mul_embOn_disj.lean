@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_embOn_mul_embOn_disj
 -- name    : PositivityTheory.Rg.Sw.LVs.embOn_mul_embOn_disj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:00:19.237642+00:00
 -- url     : https://prove2.me/theorems/7d7bfbaf-061e-5948-b89a-e6e827ce439d

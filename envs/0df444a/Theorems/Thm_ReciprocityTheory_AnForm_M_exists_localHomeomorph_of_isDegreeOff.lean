@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_exists_localHomeomorph_of_isDegreeOff
 -- name    : ReciprocityTheory.AnForm.M.exists_localHomeomorph_of_isDegreeOff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:19:55.09093+00:00
 -- url     : https://prove2.me/theorems/db1984d6-0822-443e-891e-2e4b83009474

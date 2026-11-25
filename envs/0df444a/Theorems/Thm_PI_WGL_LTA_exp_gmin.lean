@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTA_exp_gmin
 -- name    : PI.WGL.LTA.exp_gmin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:57:12.294013+00:00
 -- url     : https://prove2.me/theorems/f67a0696-3830-43cb-b9f1-c7b99b1609ff

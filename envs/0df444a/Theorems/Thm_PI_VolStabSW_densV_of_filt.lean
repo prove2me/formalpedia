@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_densV_of_filt
 -- name    : PI.VolStabSW.densV_of_filt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:42:32.376233+00:00
 -- url     : https://prove2.me/theorems/13fbc6c4-79d1-4276-a9eb-bc79de6b2cb5

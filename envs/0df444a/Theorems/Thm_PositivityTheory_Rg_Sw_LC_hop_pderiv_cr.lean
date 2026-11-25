@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_hop_pderiv_cr
 -- name    : PositivityTheory.Rg.Sw.LC.hop_pderiv_cr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:57:29.392748+00:00
 -- url     : https://prove2.me/theorems/962960d8-dca7-4528-a743-b67a718a6814

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_invOn_pi
 -- name    : QPK.invOn_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:51:05.979151+00:00
 -- url     : https://prove2.me/theorems/a301999d-44b3-5cba-8e23-055ecd548dba

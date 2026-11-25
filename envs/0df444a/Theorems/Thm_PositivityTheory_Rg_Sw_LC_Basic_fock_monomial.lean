@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Basic_fock_monomial
 -- name    : PositivityTheory.Rg.Sw.LC.Basic.fock_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:40:39.619061+00:00
 -- url     : https://prove2.me/theorems/e1fd7f78-fbd9-4541-a112-e96f73cd975f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_evX_pderiv_phiP
 -- name    : PositivityTheory.Rg.Sw.WR.G.evX_pderiv_phiP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:06:29.579697+00:00
 -- url     : https://prove2.me/theorems/798f9250-8ba1-5265-90c4-e867910ca2b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_conj_mem_Ugood
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.conj_mem_Ugood
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:02:50.607107+00:00
 -- url     : https://prove2.me/theorems/672b2abb-d2e1-4499-a229-fa4638dd8c8d

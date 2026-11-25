@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Ald_PCI_pder_eq
 -- name    : PositivityTheory.SiegelWeilFormula.Ald.PCI.pder_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:38.351575+00:00
 -- url     : https://prove2.me/theorems/33481f25-6f85-4fdf-9c7f-f356630201f9

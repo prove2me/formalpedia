@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_TrOrb_isClosed_idem_rank
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.TrOrb.isClosed_idem_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:15.472536+00:00
 -- url     : https://prove2.me/theorems/1be2411b-f016-5dee-8ad2-7551c2a97cee

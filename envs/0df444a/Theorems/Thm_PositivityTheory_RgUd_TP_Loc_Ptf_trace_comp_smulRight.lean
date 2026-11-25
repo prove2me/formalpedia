@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Loc_Ptf_trace_comp_smulRight
 -- name    : PositivityTheory.RgUd.TP.Loc.Ptf.trace_comp_smulRight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:24.527588+00:00
 -- url     : https://prove2.me/theorems/031ab2fc-c0c7-565c-a557-ee9eeff370f8

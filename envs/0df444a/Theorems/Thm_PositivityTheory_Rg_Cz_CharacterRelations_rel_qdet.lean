@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_CharacterRelations_rel_qdet
 -- name    : PositivityTheory.Rg.Cz.CharacterRelations.rel_qdet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:49:17.015805+00:00
 -- url     : https://prove2.me/theorems/886e4d46-0f09-4aa6-bd9b-b98c7981d24d

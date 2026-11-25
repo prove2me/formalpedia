@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_scaled_circle_inv
 -- name    : ReciprocityTheory.AnForm.A.scaled_circle_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:19:51.481521+00:00
 -- url     : https://prove2.me/theorems/5d7e1c74-9cd5-4e54-821a-24d1820d6b59

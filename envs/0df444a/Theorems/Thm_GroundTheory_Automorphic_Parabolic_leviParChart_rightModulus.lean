@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_leviParChart_rightModulus
 -- name    : GroundTheory.Automorphic.Parabolic.leviParChart_rightModulus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:48:00.451648+00:00
 -- url     : https://prove2.me/theorems/9764857c-6685-59a3-a8bc-e86d68d40056

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_isoCore
 -- name    : PI.PolynomialProperness.isoCore
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:38:37.313391+00:00
 -- url     : https://prove2.me/theorems/686a20d7-4799-455a-864b-3a283df8e259

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittTilt_gn_algebraMap
 -- name    : GroundTheory.PAdicHodge.WittTilt.gn_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:46:16.479366+00:00
 -- url     : https://prove2.me/theorems/6386f7cf-b62f-4582-b71d-2e8e64680834

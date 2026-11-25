@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_fderiv_xZx
 -- name    : PositivityTheory.Rg.Sw.LVs.II.fderiv_xZx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:58:30.853968+00:00
 -- url     : https://prove2.me/theorems/3323cacf-997c-4c6a-b2ae-20c2c6debc27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_kDens_mul
 -- name    : ReciprocityTheory.AnForm.A.kDens_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:07:09.136438+00:00
 -- url     : https://prove2.me/theorems/9d582a85-11ee-4ba5-a2b7-81b5cb202b6b

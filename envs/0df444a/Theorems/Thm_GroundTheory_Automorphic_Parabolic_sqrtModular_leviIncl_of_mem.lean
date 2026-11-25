@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_sqrtModular_leviIncl_of_mem
 -- name    : GroundTheory.Automorphic.Parabolic.sqrtModular_leviIncl_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:47:43.898663+00:00
 -- url     : https://prove2.me/theorems/ccd700bc-5b27-5491-93b1-4842a8eb2b57

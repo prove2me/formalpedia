@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTree_cayley
 -- name    : MatrixTree.cayley
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T11:01:02.008226+00:00
 -- url     : https://prove2.me/theorems/7441ce9f-ca0e-4414-aef4-863b1906667b

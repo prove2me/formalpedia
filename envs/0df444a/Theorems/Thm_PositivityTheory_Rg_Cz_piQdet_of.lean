@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_piQdet_of
 -- name    : PositivityTheory.Rg.Cz.piQdet_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:53:39.838346+00:00
 -- url     : https://prove2.me/theorems/c9a876f1-7054-4884-862f-42a1d5bc7431

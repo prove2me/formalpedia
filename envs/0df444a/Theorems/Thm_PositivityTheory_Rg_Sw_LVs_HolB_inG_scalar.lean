@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_HolB_inG_scalar
 -- name    : PositivityTheory.Rg.Sw.LVs.HolB.inG_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:59:27.155341+00:00
 -- url     : https://prove2.me/theorems/347acca8-0302-5fac-912e-d7e8ffe39ab9

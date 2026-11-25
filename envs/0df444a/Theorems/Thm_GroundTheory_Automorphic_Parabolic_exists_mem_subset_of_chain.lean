@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_exists_mem_subset_of_chain
 -- name    : GroundTheory.Automorphic.Parabolic.exists_mem_subset_of_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:46:47.135138+00:00
 -- url     : https://prove2.me/theorems/57769dd6-11c5-462a-af06-4fe3341707cf

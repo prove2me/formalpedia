@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialWeightAction_act_unitary
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialWeightAction.act_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:48:46.471551+00:00
 -- url     : https://prove2.me/theorems/574ececa-4d9f-492c-9071-1661b25732e2

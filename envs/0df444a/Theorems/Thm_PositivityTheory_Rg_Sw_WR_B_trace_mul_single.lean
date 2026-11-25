@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_trace_mul_single
 -- name    : PositivityTheory.Rg.Sw.WR.B.trace_mul_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:00:41.086917+00:00
 -- url     : https://prove2.me/theorems/64b80d88-dd59-4222-aeeb-c4bb420a836d

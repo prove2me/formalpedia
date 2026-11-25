@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_det_ne_zero_of_inG
 -- name    : PositivityTheory.Rg.Sw.LVs.det_ne_zero_of_inG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:55.006443+00:00
 -- url     : https://prove2.me/theorems/b7fd282b-83cb-52cc-8440-6fd26a1e7426

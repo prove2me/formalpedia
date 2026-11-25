@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QH_rows_of_mem
 -- name    : QH.rows_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:50:53.702311+00:00
 -- url     : https://prove2.me/theorems/7058a0e1-6a98-4d76-a00e-f7741ab64c9b

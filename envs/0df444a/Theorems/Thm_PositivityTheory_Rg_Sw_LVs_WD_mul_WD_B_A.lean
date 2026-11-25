@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_WD_mul_WD_B_A
 -- name    : PositivityTheory.Rg.Sw.LVs.WD_mul_WD_B_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:01:01.307014+00:00
 -- url     : https://prove2.me/theorems/a0722c2c-cf0c-44b4-a258-3d9eb9428eaa

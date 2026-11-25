@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_NewtonIdentitiesAlt_ev_zero
 -- name    : PositivityTheory.RgJS.NewtonIdentitiesAlt.ev_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:54.166424+00:00
 -- url     : https://prove2.me/theorems/a1081475-561b-4a6e-8214-6c546567f2f5

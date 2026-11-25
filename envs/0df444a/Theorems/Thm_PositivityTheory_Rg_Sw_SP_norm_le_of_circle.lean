@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_norm_le_of_circle
 -- name    : PositivityTheory.Rg.Sw.SP.norm_le_of_circle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:59:48.76584+00:00
 -- url     : https://prove2.me/theorems/8a52ffbc-3024-473f-b5b4-5adfea419816

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTB_top_entries
 -- name    : PI.WGL.LTB.top_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:44:38.666847+00:00
 -- url     : https://prove2.me/theorems/ca97ca1f-7e1c-5fc6-88f2-780fb1ee6a45

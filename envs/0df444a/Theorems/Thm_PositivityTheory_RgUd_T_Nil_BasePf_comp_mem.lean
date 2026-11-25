@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_BasePf_comp_mem
 -- name    : PositivityTheory.RgUd.T.Nil.BasePf.comp_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:02:48.610838+00:00
 -- url     : https://prove2.me/theorems/18771535-18f0-44f5-b817-7dab5534b877

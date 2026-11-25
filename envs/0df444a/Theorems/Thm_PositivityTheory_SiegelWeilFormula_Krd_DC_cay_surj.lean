@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Krd_DC_cay_surj
 -- name    : PositivityTheory.SiegelWeilFormula.Krd.DC.cay_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:04:25.432487+00:00
 -- url     : https://prove2.me/theorems/88ff9464-e900-5ea2-a063-635fb1ceb118

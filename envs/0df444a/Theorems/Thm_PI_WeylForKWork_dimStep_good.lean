@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_dimStep_good
 -- name    : PI.WeylForKWork.dimStep_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:45:22.65777+00:00
 -- url     : https://prove2.me/theorems/f4d2ad03-c1be-4927-91a7-eb0e178de3db

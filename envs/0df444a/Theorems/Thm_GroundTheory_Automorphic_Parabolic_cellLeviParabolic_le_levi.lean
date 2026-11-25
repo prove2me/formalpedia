@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_cellLeviParabolic_le_levi
 -- name    : GroundTheory.Automorphic.Parabolic.cellLeviParabolic_le_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:47:11.675273+00:00
 -- url     : https://prove2.me/theorems/5aa02b83-4322-5166-a601-ecb759c9272e

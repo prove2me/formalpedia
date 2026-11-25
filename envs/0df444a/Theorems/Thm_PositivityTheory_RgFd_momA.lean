@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgFd_momA
 -- name    : PositivityTheory.RgFd.momA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:02:44.930265+00:00
 -- url     : https://prove2.me/theorems/d903da08-3372-5eda-aea3-f127ed2fa784

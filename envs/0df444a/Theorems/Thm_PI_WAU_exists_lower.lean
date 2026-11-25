@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_exists_lower
 -- name    : PI.WAU.exists_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:51:21.738712+00:00
 -- url     : https://prove2.me/theorems/8d12dd4b-1c11-52ba-90d5-679a263c4724

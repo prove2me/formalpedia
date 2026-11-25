@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_OrthogonalComplementGenusMass_mem_push
 -- name    : Formalism.L2.SG.Pf.OrthogonalComplementGenusMass.mem_push
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:21:45.721391+00:00
 -- url     : https://prove2.me/theorems/8bf38018-ad8d-4edb-bf21-6de0975a9f22

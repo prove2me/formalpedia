@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_EulerProductLogLemmas_norm_lterm_le
 -- name    : PositivityTheory.RgJS.EulerProductLogLemmas.norm_lterm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:03:07.22536+00:00
 -- url     : https://prove2.me/theorems/23abd730-b228-4061-8725-96b9433bb2d6

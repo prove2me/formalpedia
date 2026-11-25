@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_PCD_good_of_joint
 -- name    : PositivityTheory.Rg.Sw.HSt.PCD.good_of_joint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:18.869969+00:00
 -- url     : https://prove2.me/theorems/fa4a686a-396e-43f5-b7bc-7a5146ff4827

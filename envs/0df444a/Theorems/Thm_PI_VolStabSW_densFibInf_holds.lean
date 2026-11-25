@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_densFibInf_holds
 -- name    : PI.VolStabSW.densFibInf_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:42:35.571672+00:00
 -- url     : https://prove2.me/theorems/94cbb8f6-ec2f-47c7-9681-f337a37bb4d2

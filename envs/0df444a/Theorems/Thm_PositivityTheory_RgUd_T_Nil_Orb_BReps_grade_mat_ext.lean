@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Orb_BReps_grade_mat_ext
 -- name    : PositivityTheory.RgUd.T.Nil.Orb.BReps.grade_mat_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:03:00.538863+00:00
 -- url     : https://prove2.me/theorems/9c68da2b-3034-4228-a6f1-6dd539c8ae24

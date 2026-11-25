@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_tmax_sub_le_norm
 -- name    : ReciprocityTheory.AnForm.A.tmax_sub_le_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:19:15.900696+00:00
 -- url     : https://prove2.me/theorems/d07474c0-5963-43f6-b6b9-c51b0c78f8d2

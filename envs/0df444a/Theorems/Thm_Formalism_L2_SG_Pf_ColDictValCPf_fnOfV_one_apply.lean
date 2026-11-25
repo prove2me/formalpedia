@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_fnOfV_one_apply
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.fnOfV_one_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:46:31.037227+00:00
 -- url     : https://prove2.me/theorems/77c33ade-25e9-4274-bbc8-b580115e2430

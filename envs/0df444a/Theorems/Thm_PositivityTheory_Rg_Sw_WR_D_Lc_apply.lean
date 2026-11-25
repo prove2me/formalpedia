@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_Lc_apply
 -- name    : PositivityTheory.Rg.Sw.WR.D.Lc_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:26:23.090003+00:00
 -- url     : https://prove2.me/theorems/70573a11-e319-47d9-bad6-a989b31094d7

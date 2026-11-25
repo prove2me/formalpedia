@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdDualW_isCompact_latS
 -- name    : PI.VolStabW.SdDualW.isCompact_latS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:38:43.421603+00:00
 -- url     : https://prove2.me/theorems/5b8c604a-d7e4-4358-96bb-0f4f78bcbab1

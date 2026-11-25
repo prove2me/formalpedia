@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_isWtOn_sigC_iff
 -- name    : PI.ZuckTensorWork.isWtOn_sigC_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:15:41.91483+00:00
 -- url     : https://prove2.me/theorems/8f7de8f5-2c7d-4cce-a82d-bff951982ff4

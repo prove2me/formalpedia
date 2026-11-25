@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Grow_lintegral_fin_succ
 -- name    : PositivityTheory.ThKF0.Grow.lintegral_fin_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:51.465164+00:00
 -- url     : https://prove2.me/theorems/fcfc5a24-5675-5deb-b87f-cb6af90aa839

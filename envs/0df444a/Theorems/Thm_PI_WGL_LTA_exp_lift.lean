@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTA_exp_lift
 -- name    : PI.WGL.LTA.exp_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:47:17.931619+00:00
 -- url     : https://prove2.me/theorems/75f1a05c-0927-489b-99eb-a3dbbc134670

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_differentiable_class_function_param
 -- name    : PositivityTheory.Rg.Sw.SP.differentiable_class_function_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:15.857799+00:00
 -- url     : https://prove2.me/theorems/ac17682d-893e-4766-9ab6-b6b0f73e22c5

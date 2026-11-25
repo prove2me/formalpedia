@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_lam_rowE_symLevel
 -- name    : GlobalTheory.LocFlat.lam_rowE_symLevel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:31:53.134343+00:00
 -- url     : https://prove2.me/theorems/79e78418-b271-4ced-a0a8-ad1e0e02436d

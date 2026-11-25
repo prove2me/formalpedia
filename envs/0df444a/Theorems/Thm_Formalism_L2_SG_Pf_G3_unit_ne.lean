@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G3_unit_ne
 -- name    : Formalism.L2.SG.Pf.G3.unit_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:02:17.559346+00:00
 -- url     : https://prove2.me/theorems/fead14de-482a-53ad-ac8d-4bbbd06ac4e7

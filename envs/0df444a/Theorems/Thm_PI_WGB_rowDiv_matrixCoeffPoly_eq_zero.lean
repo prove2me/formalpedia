@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_rowDiv_matrixCoeffPoly_eq_zero
 -- name    : PI.WGB.rowDiv_matrixCoeffPoly_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:46:22.848896+00:00
 -- url     : https://prove2.me/theorems/86c57978-345a-47b3-9a7b-63a371209b8f

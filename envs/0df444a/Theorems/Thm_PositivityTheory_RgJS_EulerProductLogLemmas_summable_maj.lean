@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_EulerProductLogLemmas_summable_maj
 -- name    : PositivityTheory.RgJS.EulerProductLogLemmas.summable_maj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:03:07.604592+00:00
 -- url     : https://prove2.me/theorems/cb9843dc-d5a8-5049-ae7f-735cd15452f3

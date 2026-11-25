@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Gen_commL_holds
 -- name    : PI.WickFormula.Gen.commL_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:45:08.427651+00:00
 -- url     : https://prove2.me/theorems/67ef1e82-d575-404f-a50f-87eed49a863f

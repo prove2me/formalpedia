@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_sum_perm_eq_det
 -- name    : PositivityTheory.Rg.Sw.WR.D.sum_perm_eq_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:02:26.895854+00:00
 -- url     : https://prove2.me/theorems/1a314db6-50ae-40ae-92df-2a0f0e4cdd0a

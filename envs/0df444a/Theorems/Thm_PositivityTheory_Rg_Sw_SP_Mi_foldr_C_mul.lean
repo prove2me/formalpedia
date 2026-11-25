@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_Mi_foldr_C_mul
 -- name    : PositivityTheory.Rg.Sw.SP.Mi.foldr_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:00:13.700175+00:00
 -- url     : https://prove2.me/theorems/b1cccf11-d535-42bc-a242-3c416ee3d0de

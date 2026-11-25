@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_DoubleStepProof_Phi_mul_rowE
 -- name    : GlobalTheory.LocFlat.DoubleStepProof.Phi_mul_rowE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:33:32.652097+00:00
 -- url     : https://prove2.me/theorems/7dcc7894-d1c5-4eec-a952-2fb77daa2c26

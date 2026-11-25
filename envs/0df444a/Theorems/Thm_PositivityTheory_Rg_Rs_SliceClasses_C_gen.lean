@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_SliceClasses_C_gen
 -- name    : PositivityTheory.Rg.Rs.SliceClasses.C_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:08:58.765282+00:00
 -- url     : https://prove2.me/theorems/b4fa2fe2-9ab0-4125-a4b8-9beda9769ee5

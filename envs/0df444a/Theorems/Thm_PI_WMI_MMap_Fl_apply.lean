@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_MMap_Fl_apply
 -- name    : PI.WMI.MMap.Fl_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:50:09.364826+00:00
 -- url     : https://prove2.me/theorems/39323a5e-9ee3-4376-baa4-2fcf95c3a1c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_contDiffAt_det_zpow
 -- name    : PositivityTheory.Rg.Sw.LVs.contDiffAt_det_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:12.041319+00:00
 -- url     : https://prove2.me/theorems/2615c326-fb53-5da8-8317-78761809855b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_uJClassMass_of_deep
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.uJClassMass_of_deep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:33:51.493585+00:00
 -- url     : https://prove2.me/theorems/6b6de67d-5113-4e30-9c06-894a89d91d44

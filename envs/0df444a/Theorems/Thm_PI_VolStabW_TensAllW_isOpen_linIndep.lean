@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_TensAllW_isOpen_linIndep
 -- name    : PI.VolStabW.TensAllW.isOpen_linIndep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:53:29.638579+00:00
 -- url     : https://prove2.me/theorems/9cddea4b-0842-4e9b-8a0b-6de819737f8a

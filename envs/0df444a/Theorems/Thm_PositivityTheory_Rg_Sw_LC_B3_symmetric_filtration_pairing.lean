@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_B3_symmetric_filtration_pairing
 -- name    : PositivityTheory.Rg.Sw.LC.B3.symmetric_filtration_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:55:04.070606+00:00
 -- url     : https://prove2.me/theorems/16059f3d-372a-4e95-8d03-16301223d123

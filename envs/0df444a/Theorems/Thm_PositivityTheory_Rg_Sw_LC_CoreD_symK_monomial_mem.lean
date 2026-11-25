@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreD_symK_monomial_mem
 -- name    : PositivityTheory.Rg.Sw.LC.CoreD.symK_monomial_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:58:12.381649+00:00
 -- url     : https://prove2.me/theorems/b266b563-c89f-404c-90df-822529a55bec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_Mi_deriv_det
 -- name    : PositivityTheory.Rg.Sw.SP.Mi.deriv_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:17.795417+00:00
 -- url     : https://prove2.me/theorems/c5f1e8df-e91d-44c0-b789-c084f6710c1c

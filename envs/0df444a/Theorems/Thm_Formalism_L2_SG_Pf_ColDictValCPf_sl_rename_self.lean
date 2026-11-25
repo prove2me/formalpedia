@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_sl_rename_self
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.sl_rename_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:29:19.069848+00:00
 -- url     : https://prove2.me/theorems/a0bc4ac4-0f57-434a-8f79-9cdb8512967b

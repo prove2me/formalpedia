@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_gI_neg
 -- name    : PositivityTheory.ThKG.Std.gI_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:05:24.286066+00:00
 -- url     : https://prove2.me/theorems/ad0a0316-0ae6-4674-a9ea-2e49866ae278

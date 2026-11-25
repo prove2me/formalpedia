@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Krd_DC_continuous_proj
 -- name    : PositivityTheory.SiegelWeilFormula.Krd.DC.continuous_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:03:48.843907+00:00
 -- url     : https://prove2.me/theorems/7d6e4aa7-0869-4282-a70c-09e6847974c6

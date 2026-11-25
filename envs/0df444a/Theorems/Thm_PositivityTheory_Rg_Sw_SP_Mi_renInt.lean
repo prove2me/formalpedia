@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_Mi_renInt
 -- name    : PositivityTheory.Rg.Sw.SP.Mi.renInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:49:33.261188+00:00
 -- url     : https://prove2.me/theorems/67f493e1-20bd-44ed-8be3-2916985ec25e

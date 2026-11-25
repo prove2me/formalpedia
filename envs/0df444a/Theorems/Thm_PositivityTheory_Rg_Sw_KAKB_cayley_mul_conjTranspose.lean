@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_KAKB_cayley_mul_conjTranspose
 -- name    : PositivityTheory.Rg.Sw.KAKB.cayley_mul_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:56:15.518579+00:00
 -- url     : https://prove2.me/theorems/09794e76-eac1-4e98-b7ee-6c80e4b0736b

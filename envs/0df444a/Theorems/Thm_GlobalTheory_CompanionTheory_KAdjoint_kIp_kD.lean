@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KAdjoint_kIp_kD
 -- name    : GlobalTheory.CompanionTheory.KAdjoint.kIp_kD
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:20:41.248626+00:00
 -- url     : https://prove2.me/theorems/1aefbb3c-9dec-44ce-b1f9-22efc8141254

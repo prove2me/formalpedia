@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_integrable_monomial
 -- name    : PositivityTheory.Rg.Sw.LC.integrable_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:49:00.596398+00:00
 -- url     : https://prove2.me/theorems/080c0bef-db8e-4da1-9c1a-31554f469811

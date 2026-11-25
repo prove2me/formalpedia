@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_vanishA
 -- name    : PI.WGB.vanishA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:46:13.932798+00:00
 -- url     : https://prove2.me/theorems/8cde2f76-65f4-40a9-941b-9a9fec8e906a

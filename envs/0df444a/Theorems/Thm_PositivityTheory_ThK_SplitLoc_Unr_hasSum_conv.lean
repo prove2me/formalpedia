@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_hasSum_conv
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.hasSum_conv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:06:25.531909+00:00
 -- url     : https://prove2.me/theorems/6f1f558c-1bcb-42b1-8711-ebeb8f70d26a

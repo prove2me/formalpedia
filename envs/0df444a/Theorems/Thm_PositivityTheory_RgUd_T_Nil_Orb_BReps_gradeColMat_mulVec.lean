@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Orb_BReps_gradeColMat_mulVec
 -- name    : PositivityTheory.RgUd.T.Nil.Orb.BReps.gradeColMat_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:03:41.136971+00:00
 -- url     : https://prove2.me/theorems/b1aa5d37-cbc0-547b-bd8c-ffecd027a492

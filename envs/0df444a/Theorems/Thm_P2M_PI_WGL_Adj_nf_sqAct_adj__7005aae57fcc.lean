@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_WGL_Adj_nf_sqAct_adj__7005aae57fcc
 -- name    : P2M_PI_WGL_Adj_nf_sqAct_adj__7005aae57fcc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:59:01.047656+00:00
 -- url     : https://prove2.me/theorems/0e6702a7-83ea-490e-8ca9-3e501aca4ec7

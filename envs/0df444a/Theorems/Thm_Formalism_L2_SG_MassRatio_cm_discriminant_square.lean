@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_MassRatio_cm_discriminant_square
 -- name    : Formalism.L2.SG.MassRatio.cm_discriminant_square
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:31.282866+00:00
 -- url     : https://prove2.me/theorems/5c529cd7-9606-4810-9b07-f65cf9e966fb

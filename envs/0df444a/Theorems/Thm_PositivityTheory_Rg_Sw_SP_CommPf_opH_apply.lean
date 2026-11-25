@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_CommPf_opH_apply
 -- name    : PositivityTheory.Rg.Sw.SP.CommPf.opH_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:59:53.342795+00:00
 -- url     : https://prove2.me/theorems/10856062-7b77-4885-8f3a-83b441945769

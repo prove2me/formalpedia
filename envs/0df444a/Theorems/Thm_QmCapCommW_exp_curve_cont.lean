@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QmCapCommW_exp_curve_cont
 -- name    : QmCapCommW.exp_curve_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:52:34.42962+00:00
 -- url     : https://prove2.me/theorems/2ccab063-5d2e-4f4b-bf9a-ba363e421254

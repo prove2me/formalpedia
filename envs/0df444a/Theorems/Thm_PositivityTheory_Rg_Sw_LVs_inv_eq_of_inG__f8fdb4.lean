@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_inv_eq_of_inG__f8fdb4
 -- name    : PositivityTheory.Rg.Sw.LVs.inv_eq_of_inG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:59:22.504422+00:00
 -- url     : https://prove2.me/theorems/f8fdb416-959d-4f91-95ae-150e0231071c

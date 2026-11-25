@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_BrInt_fockF_sum_right
 -- name    : PI.WGL.BrInt.fockF_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:58.622126+00:00
 -- url     : https://prove2.me/theorems/edfcc3b7-b8ea-4ca6-b9b6-445a5307127d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Arch_u_deriv
 -- name    : PositivityTheory.ThKCT.Arch.u_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:24.34597+00:00
 -- url     : https://prove2.me/theorems/be75e188-5557-4dc9-b963-84d7b4e0ab92

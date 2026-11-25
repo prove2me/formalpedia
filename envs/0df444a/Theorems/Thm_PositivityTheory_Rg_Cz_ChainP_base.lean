@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_ChainP_base
 -- name    : PositivityTheory.Rg.Cz.ChainP.base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:48:16.339778+00:00
 -- url     : https://prove2.me/theorems/9b7cec29-4fb2-4ca9-93ab-8370cce66798

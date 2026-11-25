@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_conj_nU
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.conj_nU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:09.261803+00:00
 -- url     : https://prove2.me/theorems/58c81d59-947b-4fcc-8508-ba1565d79dcd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Act_latHaar
 -- name    : PositivityTheory.SiegelWeilFormula.Act.latHaar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:39.504227+00:00
 -- url     : https://prove2.me/theorems/4109ed36-bd50-523b-ba66-425b161d2168

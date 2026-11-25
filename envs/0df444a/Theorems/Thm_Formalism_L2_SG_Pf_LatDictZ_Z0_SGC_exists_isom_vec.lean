@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_SGC_exists_isom_vec
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.SGC.exists_isom_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:58:41.660037+00:00
 -- url     : https://prove2.me/theorems/4de619fb-61a1-4d0f-8b96-eab8e760631a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_first_mem
 -- name    : GlobalTheory.LatClass.first_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:54:48.857378+00:00
 -- url     : https://prove2.me/theorems/8ac810d5-adb4-519b-972d-f863841641dd

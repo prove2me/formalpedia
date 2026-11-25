@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_integrable_evX
 -- name    : PositivityTheory.Rg.Sw.LC.integrable_evX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:48:54.501822+00:00
 -- url     : https://prove2.me/theorems/cfcd7171-485b-465c-bc51-664c468f5cb6

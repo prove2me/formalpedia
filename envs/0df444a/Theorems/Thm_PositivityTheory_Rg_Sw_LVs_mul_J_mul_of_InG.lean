@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_mul_J_mul_of_InG
 -- name    : PositivityTheory.Rg.Sw.LVs.mul_J_mul_of_InG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:58:39.38681+00:00
 -- url     : https://prove2.me/theorems/c3034751-3f8f-4736-9829-2a8b83067443

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_B1_opMono_shiftL
 -- name    : PositivityTheory.Rg.Sw.LC.B1.opMono_shiftL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:59:09.664161+00:00
 -- url     : https://prove2.me/theorems/fc7befae-3a5d-474b-8895-94f03c86df4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF_L2_integral_deriv
 -- name    : PositivityTheory.ThKF.L2.integral_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:03:52.520802+00:00
 -- url     : https://prove2.me/theorems/258539ab-11b8-531b-bec2-40217baf7f50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_modelIso_of_steps
 -- name    : PI.WMI.modelIso_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:47:27.069621+00:00
 -- url     : https://prove2.me/theorems/73b8f6e2-d644-44b4-b6b6-c9746650dfc1

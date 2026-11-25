@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_det_one_add_mul_embOn
 -- name    : PositivityTheory.Rg.Sw.LVs.det_one_add_mul_embOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:11.581989+00:00
 -- url     : https://prove2.me/theorems/de51f991-41a6-44bd-9e78-103f2c7bac39

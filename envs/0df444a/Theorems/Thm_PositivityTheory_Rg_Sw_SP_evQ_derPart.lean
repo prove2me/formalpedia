@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_evQ_derPart
 -- name    : PositivityTheory.Rg.Sw.SP.evQ_derPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:09.46085+00:00
 -- url     : https://prove2.me/theorems/ffa53c94-990b-4cb6-8aa3-f18568fa8c69

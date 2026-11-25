@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_contDiffOn_scalar_section_of_units
 -- name    : PositivityTheory.Rg.Sw.LVs.contDiffOn_scalar_section_of_units
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:18.623141+00:00
 -- url     : https://prove2.me/theorems/d95e5ab7-31e5-469b-ba83-26f2b7a298bc

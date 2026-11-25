@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_divZ_of_rcp
 -- name    : PositivityTheory.Rg.Sw.SP.divZ_of_rcp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:24.922687+00:00
 -- url     : https://prove2.me/theorems/503ba106-f443-4ef4-ac21-85c511ae1724

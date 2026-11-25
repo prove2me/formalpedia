@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_prod_blocks
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.prod_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:17.980209+00:00
 -- url     : https://prove2.me/theorems/51c55adf-55ca-4baa-905e-d01b04b80fc8

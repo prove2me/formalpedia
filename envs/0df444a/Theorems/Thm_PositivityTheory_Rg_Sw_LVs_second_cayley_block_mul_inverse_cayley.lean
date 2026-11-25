@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_second_cayley_block_mul_inverse_cayley
 -- name    : PositivityTheory.Rg.Sw.LVs.second_cayley_block_mul_inverse_cayley
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:59:48.922467+00:00
 -- url     : https://prove2.me/theorems/b3bb7a4c-a2a0-4476-8e9c-9f860f1c6d6b

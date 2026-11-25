@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G3_spanS_le_of
 -- name    : Formalism.L2.SG.Pf.G3.spanS_le_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:19:42.303105+00:00
 -- url     : https://prove2.me/theorems/c91aefd8-1fd0-5c1a-8241-6c39d8952f9e

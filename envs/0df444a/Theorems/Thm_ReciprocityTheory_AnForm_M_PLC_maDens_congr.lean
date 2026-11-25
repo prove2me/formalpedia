@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLC_maDens_congr
 -- name    : ReciprocityTheory.AnForm.M.PLC.maDens_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:21:10.421204+00:00
 -- url     : https://prove2.me/theorems/fc2246cb-5653-5e5a-b08c-b0c9243cf71a

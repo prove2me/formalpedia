@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMS_hypothesis_fourth_cover
 -- name    : PI.FJMS.hypothesis_fourth_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:20.382051+00:00
 -- url     : https://prove2.me/theorems/4e2768c6-d1e0-497c-97df-73ff138fc879

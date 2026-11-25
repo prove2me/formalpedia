@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WADVR_sm_of_density
 -- name    : PI.WADVR.sm_of_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:43:07.682408+00:00
 -- url     : https://prove2.me/theorems/eb1b61c0-3373-4468-9a8c-fcc4e2ddbbfc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_FourInj_real_ae_zero
 -- name    : PositivityTheory.ThKEst.FourInj.real_ae_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:04.820448+00:00
 -- url     : https://prove2.me/theorems/86df2342-1421-41ae-9cfb-e0741b06f37a

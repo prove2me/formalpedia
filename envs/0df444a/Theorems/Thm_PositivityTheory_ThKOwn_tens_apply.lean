@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKOwn_tens_apply
 -- name    : PositivityTheory.ThKOwn.tens_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:05:11.066496+00:00
 -- url     : https://prove2.me/theorems/c99e7673-892c-5c7c-9440-4868828ccbe0

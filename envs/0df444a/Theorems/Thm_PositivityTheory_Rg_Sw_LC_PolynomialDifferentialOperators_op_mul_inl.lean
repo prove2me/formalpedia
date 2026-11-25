@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialDifferentialOperators_op_mul_inl
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.op_mul_inl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:44:18.697654+00:00
 -- url     : https://prove2.me/theorems/2a147164-86df-41ea-9aaf-0bf3df6f1318

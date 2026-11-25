@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_transference_successive_minima
 -- name    : transference_successive_minima
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:31.211639+00:00
 -- url     : https://prove2.me/theorems/7bb14439-318e-4dba-a766-418499d37d06

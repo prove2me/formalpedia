@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_Ib_vkl_swap
 -- name    : PositivityTheory.Rg.Sw.WR.Ib.vkl_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:50:27.273057+00:00
 -- url     : https://prove2.me/theorems/681860d4-2988-4bdd-a955-a63d38470e70

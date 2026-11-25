@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_HtPt_KtwS_StepTwo_onW
 -- name    : PositivityTheory.HtPt.KtwS.StepTwo.onW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:51:53.552615+00:00
 -- url     : https://prove2.me/theorems/7fa3345e-921b-4f0e-b4fe-86839bcef2c4

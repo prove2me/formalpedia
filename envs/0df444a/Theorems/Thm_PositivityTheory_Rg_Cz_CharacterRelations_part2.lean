@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_CharacterRelations_part2
 -- name    : PositivityTheory.Rg.Cz.CharacterRelations.part2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:48:45.666578+00:00
 -- url     : https://prove2.me/theorems/66800667-a889-4f0c-9ef6-27b9d7f8888c

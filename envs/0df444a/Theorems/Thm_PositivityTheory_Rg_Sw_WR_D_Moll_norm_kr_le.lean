@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_Moll_norm_kr_le
 -- name    : PositivityTheory.Rg.Sw.WR.D.Moll.norm_kr_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:07:04.762733+00:00
 -- url     : https://prove2.me/theorems/0942629e-3da0-5a11-b999-d2ce1e45f75d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_HolA_hasFDerivAt_int
 -- name    : PositivityTheory.Rg.Sw.LVs.HolA.hasFDerivAt_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:57:29.820513+00:00
 -- url     : https://prove2.me/theorems/111aa158-e458-42b6-9b5a-6b16023f7c87

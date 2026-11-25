@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Tf_Loc_map_twNorm
 -- name    : PositivityTheory.Rg.Tf.Loc.map_twNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:02:31.184507+00:00
 -- url     : https://prove2.me/theorems/205e0046-30cf-50e6-aea9-40bd22deb3c8

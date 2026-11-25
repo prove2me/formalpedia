@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_inG_fromBlocks_diag
 -- name    : PositivityTheory.Rg.Sw.LVs.II.inG_fromBlocks_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:58:40.917331+00:00
 -- url     : https://prove2.me/theorems/608ad86f-fc44-4018-a04f-1e4f6cdfcd21

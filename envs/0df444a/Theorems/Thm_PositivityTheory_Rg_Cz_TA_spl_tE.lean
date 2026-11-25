@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TA_spl_tE
 -- name    : PositivityTheory.Rg.Cz.TA.spl_tE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:06.223087+00:00
 -- url     : https://prove2.me/theorems/c62a5423-751c-4535-87c9-94023be5ad7d

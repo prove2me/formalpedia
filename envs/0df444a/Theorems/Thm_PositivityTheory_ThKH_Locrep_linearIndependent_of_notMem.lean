@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKH_Locrep_linearIndependent_of_notMem
 -- name    : PositivityTheory.ThKH.Locrep.linearIndependent_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:05:12.589919+00:00
 -- url     : https://prove2.me/theorems/5843c266-3cec-433f-86dd-1bbb3319ba9f

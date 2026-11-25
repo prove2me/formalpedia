@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_blockReindex_mem_unitaryGroup_iff
 -- name    : PI.WeylForKWork.blockReindex_mem_unitaryGroup_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:45:34.287031+00:00
 -- url     : https://prove2.me/theorems/9e12cd82-153f-4458-96a8-ea49f908a30c

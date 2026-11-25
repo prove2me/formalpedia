@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Geo_schr_add
 -- name    : PositivityTheory.ThKF0.Geo.schr_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:04:06.483532+00:00
 -- url     : https://prove2.me/theorems/b9e43997-c95b-5eb2-95a3-15b8ba6baf90

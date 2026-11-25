@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreC_contr_mono
 -- name    : PositivityTheory.Rg.Sw.LC.CoreC.contr_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:41:38.787004+00:00
 -- url     : https://prove2.me/theorems/fd7bddca-e2a8-4661-a88f-6eb6cd73f3ca

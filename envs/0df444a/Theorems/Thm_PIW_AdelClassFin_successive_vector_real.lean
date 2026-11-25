@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_successive_vector_real
 -- name    : PIW.AdelClassFin.successive_vector_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:49:45.282949+00:00
 -- url     : https://prove2.me/theorems/33566f5f-13df-474e-8250-9120f6df6980

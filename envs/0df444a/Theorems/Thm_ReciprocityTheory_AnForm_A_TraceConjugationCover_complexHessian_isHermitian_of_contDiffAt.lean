@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_TraceConjugationCover_complexHessian_isHermitian_of_contDiffAt
 -- name    : ReciprocityTheory.AnForm.A.TraceConjugationCover.complexHessian_isHermitian_of_contDiffAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:05:30.463029+00:00
 -- url     : https://prove2.me/theorems/5068afe6-2e70-4ca0-8599-2b448f82acc9

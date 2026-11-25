@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Loc_eq_zero_of_fiber_equivariant
 -- name    : PositivityTheory.PfBern.Loc.eq_zero_of_fiber_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:59:10.345744+00:00
 -- url     : https://prove2.me/theorems/3f842a6e-f275-4a57-b9a1-4261048eb7bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_hasDerivAt_eval
 -- name    : PositivityTheory.Rg.Sw.SP.hasDerivAt_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:00:07.720206+00:00
 -- url     : https://prove2.me/theorems/736f3af6-14b1-4283-a0e6-188302e12674

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Geo_emb_inj
 -- name    : PositivityTheory.ThKF0.Geo.emb_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:58.094998+00:00
 -- url     : https://prove2.me/theorems/05807a7b-8c63-4293-8007-b0e883d5ed82

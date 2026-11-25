@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantNormShapes_hom_shift
 -- name    : Formalism.L2.SG.Pf.discriminantNormShapes.hom_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:29:51.633498+00:00
 -- url     : https://prove2.me/theorems/3f8915eb-90c6-48ff-b30d-5184dce6c95e

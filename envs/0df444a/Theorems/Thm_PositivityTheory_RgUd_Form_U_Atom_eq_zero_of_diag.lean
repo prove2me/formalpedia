@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Form_U_Atom_eq_zero_of_diag
 -- name    : PositivityTheory.RgUd.Form.U.Atom.eq_zero_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:09.892904+00:00
 -- url     : https://prove2.me/theorems/9ae4086e-372d-5282-a1ad-0a5700000f0e

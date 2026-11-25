@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_NullS_pderiv_Sg
 -- name    : PositivityTheory.Rg.Sw.LC.NullS.pderiv_Sg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:49:00.50124+00:00
 -- url     : https://prove2.me/theorems/a2ccaa85-6a90-47ce-8730-8feec3c5c84b

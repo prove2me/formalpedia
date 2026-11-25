@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_SWS_nonvanish
 -- name    : PositivityTheory.Rg.Cz.SWS.nonvanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:54:20.020818+00:00
 -- url     : https://prove2.me/theorems/46836337-71e0-47f8-929b-405c12fcc978

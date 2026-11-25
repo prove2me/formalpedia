@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_locallyIntegrable_comp_snd_real
 -- name    : ReciprocityTheory.AnForm.A.locallyIntegrable_comp_snd_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:06:15.606171+00:00
 -- url     : https://prove2.me/theorems/da282a34-3730-4a41-804a-7abf6c888f40

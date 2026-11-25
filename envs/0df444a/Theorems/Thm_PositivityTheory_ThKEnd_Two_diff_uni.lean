@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Two_diff_uni
 -- name    : PositivityTheory.ThKEnd.Two.diff_uni
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:50:24.205452+00:00
 -- url     : https://prove2.me/theorems/7f616216-ef3f-585b-aa06-7c82aa649491

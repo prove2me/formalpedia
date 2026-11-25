@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_B3_etaEq_mul
 -- name    : PositivityTheory.Rg.Sw.LC.B3.etaEq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:40:34.768917+00:00
 -- url     : https://prove2.me/theorems/607068be-0560-4d47-a017-50c8f3bbd05f

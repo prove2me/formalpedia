@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_scalar_section_compact_block_invariant
 -- name    : PositivityTheory.Rg.Sw.LVs.scalar_section_compact_block_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:59:35.546997+00:00
 -- url     : https://prove2.me/theorems/a01f4ffc-3fd2-41db-87da-93383644c1cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_ennreal_eq_one_of_mul
 -- name    : QPK.ennreal_eq_one_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:51:08.143712+00:00
 -- url     : https://prove2.me/theorems/1a4cc204-a65b-4e53-a132-e04bdb3d1d60

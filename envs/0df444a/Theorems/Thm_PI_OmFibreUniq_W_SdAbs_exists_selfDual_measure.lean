@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_SdAbs_exists_selfDual_measure
 -- name    : PI.OmFibreUniq.W.SdAbs.exists_selfDual_measure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:36:58.888914+00:00
 -- url     : https://prove2.me/theorems/68f8cd22-12a3-471d-bc3b-77ffb8d1dc8d

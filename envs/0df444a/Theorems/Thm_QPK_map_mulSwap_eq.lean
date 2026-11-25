@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_map_mulSwap_eq
 -- name    : QPK.map_mulSwap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:51:31.313805+00:00
 -- url     : https://prove2.me/theorems/e78ee097-a757-442a-abe3-399abc1fd939

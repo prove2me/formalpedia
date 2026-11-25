@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_finsum_eq_of_hasSum
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.finsum_eq_of_hasSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:51.14541+00:00
 -- url     : https://prove2.me/theorems/2d9ee958-92bf-4468-80a2-6405b3924fd7

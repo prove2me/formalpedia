@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_sum_eq_top
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.sum_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:49:23.881069+00:00
 -- url     : https://prove2.me/theorems/26c34f4c-9805-4657-8409-9c06128a559d

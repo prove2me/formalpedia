@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiA_rowAct_xi
 -- name    : PI.WGL.XiA.rowAct_xi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:58:25.508165+00:00
 -- url     : https://prove2.me/theorems/96aaf95b-ddbc-4549-8b2f-a50bfafa38e7

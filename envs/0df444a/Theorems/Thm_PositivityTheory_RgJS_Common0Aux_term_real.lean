@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_Common0Aux_term_real
 -- name    : PositivityTheory.RgJS.Common0Aux.term_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:03:18.535384+00:00
 -- url     : https://prove2.me/theorems/5c5f4f10-163d-4a24-867d-46035581d857

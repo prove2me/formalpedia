@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_aux_statement_7
 -- name    : PositivityTheory.CWB.aux_statement_7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:41:10.182348+00:00
 -- url     : https://prove2.me/theorems/d1406a4e-795d-47d1-b4e5-ab9e28c3aaf5

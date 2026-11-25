@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_evQ_smul
 -- name    : PositivityTheory.Rg.Sw.SP.evQ_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:36.67708+00:00
 -- url     : https://prove2.me/theorems/1aad9d69-dcca-4633-a9f8-729c322a6f65

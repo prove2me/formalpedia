@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_topL_single
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.topL_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:50:01.645517+00:00
 -- url     : https://prove2.me/theorems/b09878ce-6845-42f7-a6f6-1a1ac232bcda

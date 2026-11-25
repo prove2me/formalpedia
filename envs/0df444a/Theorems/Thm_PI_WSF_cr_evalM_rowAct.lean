@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_cr_evalM_rowAct
 -- name    : PI.WSF.cr_evalM_rowAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:51:45.690832+00:00
 -- url     : https://prove2.me/theorems/66adce1d-1e7e-4090-8134-8219ab6b1a1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_prodId
 -- name    : PositivityTheory.Rg.Sw.SP.prodId
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:02:38.60889+00:00
 -- url     : https://prove2.me/theorems/a48487f7-3cec-4994-a623-4f68f6aa03d1

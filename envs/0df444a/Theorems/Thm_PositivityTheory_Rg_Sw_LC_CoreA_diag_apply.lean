@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreA_diag_apply
 -- name    : PositivityTheory.Rg.Sw.LC.CoreA.diag_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:04:03.530441+00:00
 -- url     : https://prove2.me/theorems/d772aae2-d5d0-5c20-9d26-5c31a8fddc87

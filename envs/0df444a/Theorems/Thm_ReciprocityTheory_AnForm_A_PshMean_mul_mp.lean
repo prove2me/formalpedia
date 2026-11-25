@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshMean_mul_mp
 -- name    : ReciprocityTheory.AnForm.A.PshMean.mul_mp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:05:34.794116+00:00
 -- url     : https://prove2.me/theorems/c5385b76-03bb-4026-9f16-5f459ec73fba

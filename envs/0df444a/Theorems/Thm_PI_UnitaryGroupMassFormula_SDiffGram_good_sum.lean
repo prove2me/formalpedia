@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_SDiffGram_good_sum
 -- name    : PI.UnitaryGroupMassFormula.SDiffGram.good_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:35:42.658017+00:00
 -- url     : https://prove2.me/theorems/ea6cc109-44e7-570f-ad35-dcfc74f3660e

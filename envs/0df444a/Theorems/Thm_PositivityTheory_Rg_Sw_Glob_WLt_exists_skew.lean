@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_Glob_WLt_exists_skew
 -- name    : PositivityTheory.Rg.Sw.Glob.WLt.exists_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:49:25.42199+00:00
 -- url     : https://prove2.me/theorems/addf66bc-f858-4128-9c1e-7bda2bfd1c06

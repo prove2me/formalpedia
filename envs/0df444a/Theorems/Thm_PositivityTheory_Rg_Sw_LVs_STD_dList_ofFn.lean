@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_STD_dList_ofFn
 -- name    : PositivityTheory.Rg.Sw.LVs.STD.dList_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:15.26649+00:00
 -- url     : https://prove2.me/theorems/57188bdc-9b38-4cfa-a697-26648d95c011

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PlurisubharmonicExtension_pert_continuousOn
 -- name    : ReciprocityTheory.AnForm.A.PlurisubharmonicExtension.pert_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:43.692129+00:00
 -- url     : https://prove2.me/theorems/81be31e8-53d6-5715-8dff-c071cc6f99cb

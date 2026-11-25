@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Orb_BModbound_LaurentWeightBound_laurent_coeff_zero
 -- name    : PositivityTheory.RgUd.T.Nil.Orb.BModbound.LaurentWeightBound.laurent_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:02:36.173035+00:00
 -- url     : https://prove2.me/theorems/66b0c66e-74c1-40e3-9114-fb2eba80b037

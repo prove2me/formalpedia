@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgFd_mom_sum
 -- name    : PositivityTheory.RgFd.mom_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:02:56.16142+00:00
 -- url     : https://prove2.me/theorems/d8c838a3-a464-57c1-be43-6b938f02660e

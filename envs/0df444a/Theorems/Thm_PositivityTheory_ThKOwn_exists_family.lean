@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKOwn_exists_family
 -- name    : PositivityTheory.ThKOwn.exists_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:06:28.698801+00:00
 -- url     : https://prove2.me/theorems/927cb7ef-a88c-520a-aaea-1848c74c9c2d

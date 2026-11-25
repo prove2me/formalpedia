@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_Z_an_cay
 -- name    : PositivityTheory.Rg.Sw.WR.Z.an_cay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:06:43.651717+00:00
 -- url     : https://prove2.me/theorems/f5e452c1-db1c-58d2-840a-b0b82141bed9

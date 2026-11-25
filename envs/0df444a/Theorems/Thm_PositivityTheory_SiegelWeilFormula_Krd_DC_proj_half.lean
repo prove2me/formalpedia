@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Krd_DC_proj_half
 -- name    : PositivityTheory.SiegelWeilFormula.Krd.DC.proj_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:03:57.402799+00:00
 -- url     : https://prove2.me/theorems/a1f7bb36-b7b5-5e3a-9a1b-71abdfa6b56f

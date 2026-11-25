@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_ts_continuous_nU
 -- name    : PositivityTheory.Rg.Sw.LVs.ts_continuous_nU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:01:04.598483+00:00
 -- url     : https://prove2.me/theorems/200d1a98-a4c2-5bbb-89f5-f16fc8a170e8

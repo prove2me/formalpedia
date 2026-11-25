@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_Inv_eq_sum_E
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.Inv.eq_sum_E
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:52:22.9128+00:00
 -- url     : https://prove2.me/theorems/b67669be-0d32-5275-bf4a-3117be1f0ef5

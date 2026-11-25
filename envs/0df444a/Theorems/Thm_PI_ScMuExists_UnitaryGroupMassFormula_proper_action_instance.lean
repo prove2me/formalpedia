@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_proper_action_instance
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.proper_action_instance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:21.019668+00:00
 -- url     : https://prove2.me/theorems/b72c3914-00b6-4a86-87b6-b679079da385

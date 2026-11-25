@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_GI_abs_pow_exp
 -- name    : PositivityTheory.Rg.Sw.WR.G.GI.abs_pow_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:01:36.159202+00:00
 -- url     : https://prove2.me/theorems/a599da38-3523-4946-804e-d239c52b9c3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_lieInv_holds
 -- name    : PositivityTheory.Rg.Cz.lieInv_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:57:00.297562+00:00
 -- url     : https://prove2.me/theorems/c1080f91-4217-5427-adfb-146ef9ac1225

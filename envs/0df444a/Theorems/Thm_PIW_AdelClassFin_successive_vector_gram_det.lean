@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_successive_vector_gram_det
 -- name    : PIW.AdelClassFin.successive_vector_gram_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:48:46.715732+00:00
 -- url     : https://prove2.me/theorems/9802ef40-2c9b-4284-8b6f-5b3d6dffefb3

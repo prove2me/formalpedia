@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_CommPf_key2
 -- name    : PositivityTheory.Rg.Sw.SP.CommPf.key2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:00:27.636168+00:00
 -- url     : https://prove2.me/theorems/a840335c-a304-4263-a5eb-6ccee5dd793d

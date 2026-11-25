@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_prod_flatMap_real
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.prod_flatMap_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:55.873534+00:00
 -- url     : https://prove2.me/theorems/71c4ddf0-caf6-42a4-864a-02bf652a7ed8

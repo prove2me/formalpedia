@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittTilt_coeffB_toB_algebraMap
 -- name    : GroundTheory.PAdicHodge.WittTilt.coeffB_toB_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:38:01.468696+00:00
 -- url     : https://prove2.me/theorems/a3bf8f01-ca6d-4ecb-8b01-df2dd7d71345

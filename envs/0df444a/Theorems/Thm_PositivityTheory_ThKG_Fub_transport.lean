@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Fub_transport
 -- name    : PositivityTheory.ThKG.Fub.transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:03:50.2161+00:00
 -- url     : https://prove2.me/theorems/4ba26edf-1b74-5621-b905-983414edcd55

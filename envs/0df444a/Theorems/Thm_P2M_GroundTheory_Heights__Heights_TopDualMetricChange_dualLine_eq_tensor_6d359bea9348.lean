@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TopDualMetricChange_dualLine_eq_tensor_6d359bea9348
 -- name    : P2M_GroundTheory_Heights__Heights_TopDualMetricChange_dualLine_eq_tensor_6d359bea9348
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:55:53.328927+00:00
 -- url     : https://prove2.me/theorems/48c87cf8-2568-413c-9ffe-dc9dc9047c2c

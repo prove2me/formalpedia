@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_MMap_Fq_colAdd
 -- name    : PI.WMI.MMap.Fq_colAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:01:01.339818+00:00
 -- url     : https://prove2.me/theorems/fbdb2e64-04a9-5f0d-a435-a1bb772667ce

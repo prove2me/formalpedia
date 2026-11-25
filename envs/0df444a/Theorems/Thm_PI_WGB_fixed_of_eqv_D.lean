@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_fixed_of_eqv_D
 -- name    : PI.WGB.fixed_of_eqv_D
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:45:54.629246+00:00
 -- url     : https://prove2.me/theorems/b92b039b-598d-49dc-a1e6-33c09ed5d94c

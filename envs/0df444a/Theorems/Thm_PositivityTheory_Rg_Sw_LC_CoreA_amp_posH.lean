@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreA_amp_posH
 -- name    : PositivityTheory.Rg.Sw.LC.CoreA.amp_posH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:55:51.487007+00:00
 -- url     : https://prove2.me/theorems/e876ef18-ab43-500c-bcc4-facd16170104

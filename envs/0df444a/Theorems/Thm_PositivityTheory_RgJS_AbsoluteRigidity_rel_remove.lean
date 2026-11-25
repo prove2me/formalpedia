@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_AbsoluteRigidity_rel_remove
 -- name    : PositivityTheory.RgJS.AbsoluteRigidity.rel_remove
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:02:49.997221+00:00
 -- url     : https://prove2.me/theorems/ee2c71a0-8e0b-4cda-ae4b-861730ad04ac

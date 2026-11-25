@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_QF_natDegree_prod_ne_one
 -- name    : PositivityTheory.Rg.Cz.QF.natDegree_prod_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:48:34.838579+00:00
 -- url     : https://prove2.me/theorems/26e05c2c-354a-5f8b-9d0f-699d38604b4c

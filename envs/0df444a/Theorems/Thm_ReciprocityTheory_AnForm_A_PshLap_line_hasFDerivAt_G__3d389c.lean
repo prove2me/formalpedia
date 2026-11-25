@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshLap_line_hasFDerivAt_G__3d389c
 -- name    : ReciprocityTheory.AnForm.A.PshLap.line_hasFDerivAt_G
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:05:23.842263+00:00
 -- url     : https://prove2.me/theorems/3d389c78-98fc-5298-97e8-f686791fd147

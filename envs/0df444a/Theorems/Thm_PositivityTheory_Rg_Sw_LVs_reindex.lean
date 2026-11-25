@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_reindex
 -- name    : PositivityTheory.Rg.Sw.LVs.reindex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:17.818044+00:00
 -- url     : https://prove2.me/theorems/f131e2b0-99bf-48ed-8299-0218c31e2c2e

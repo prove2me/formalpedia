@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Orb_BReps_sigma_fin_eq_iff
 -- name    : PositivityTheory.RgUd.T.Nil.Orb.BReps.sigma_fin_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:02:55.215595+00:00
 -- url     : https://prove2.me/theorems/742bd957-e875-40ba-b008-df302b712897

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_RealFourierCoefficientBounds_wt_int
 -- name    : PositivityTheory.ThKEst.RealFourierCoefficientBounds.wt_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:47.730803+00:00
 -- url     : https://prove2.me/theorems/04b2fc80-a94e-43aa-944e-370c19bd8a3e

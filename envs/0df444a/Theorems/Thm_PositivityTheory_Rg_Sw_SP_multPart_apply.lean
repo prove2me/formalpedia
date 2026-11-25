@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_multPart_apply
 -- name    : PositivityTheory.Rg.Sw.SP.multPart_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:00:36.088692+00:00
 -- url     : https://prove2.me/theorems/8672fa14-7fc2-44b2-ab82-8bf780114517

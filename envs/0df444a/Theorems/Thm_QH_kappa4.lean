@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QH_kappa4
 -- name    : QH.kappa4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:06:31.700689+00:00
 -- url     : https://prove2.me/theorems/0c8a9315-8ea1-40ec-b14c-39202f4910c9

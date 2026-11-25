@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_cardAddB
 -- name    : PositivityTheory.Rg.Sw.WR.D.cardAddB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:01:32.280798+00:00
 -- url     : https://prove2.me/theorems/b0fe660d-8c41-4106-bb6d-d2c3700b6d37

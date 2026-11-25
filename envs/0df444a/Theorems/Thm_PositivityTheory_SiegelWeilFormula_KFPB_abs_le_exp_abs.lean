@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KFPB_abs_le_exp_abs
 -- name    : PositivityTheory.SiegelWeilFormula.KFPB.abs_le_exp_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:40.127185+00:00
 -- url     : https://prove2.me/theorems/ecd72ee6-8680-4a0f-8353-cb6a4abbd8ab

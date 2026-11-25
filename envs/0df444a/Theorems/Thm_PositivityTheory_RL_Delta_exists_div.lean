@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RL_Delta_exists_div
 -- name    : PositivityTheory.RL.Delta.exists_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:51:43.69999+00:00
 -- url     : https://prove2.me/theorems/0fe95cea-1c32-42d5-ae87-a5459643d3fb

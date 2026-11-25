@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_FinLine_off
 -- name    : PositivityTheory.ThKF0.FinLine.off
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:04:10.756643+00:00
 -- url     : https://prove2.me/theorems/ff960811-7ac4-5726-8da6-3f9d2d0df4df

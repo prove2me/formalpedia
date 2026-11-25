@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMS_intFacts_of
 -- name    : PI.FJMS.intFacts_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:32:32.641815+00:00
 -- url     : https://prove2.me/theorems/bfa54231-7330-4303-941e-0a2bb35526ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PSect_rq_rep
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PSect.rq_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:58.28498+00:00
 -- url     : https://prove2.me/theorems/c957ca11-926e-5a42-97ab-59e96f209a80

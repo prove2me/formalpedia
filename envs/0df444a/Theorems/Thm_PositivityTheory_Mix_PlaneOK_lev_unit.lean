@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Mix_PlaneOK_lev_unit
 -- name    : PositivityTheory.Mix.PlaneOK.lev_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:51:09.578983+00:00
 -- url     : https://prove2.me/theorems/7bff6266-877a-5c28-8606-a2a4a2a1bb80

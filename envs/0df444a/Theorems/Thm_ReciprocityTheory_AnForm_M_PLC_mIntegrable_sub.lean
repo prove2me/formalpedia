@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLC_mIntegrable_sub
 -- name    : ReciprocityTheory.AnForm.M.PLC.mIntegrable_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:21:21.313057+00:00
 -- url     : https://prove2.me/theorems/eb653cd4-085b-4419-ad11-bde4fd7bfe91

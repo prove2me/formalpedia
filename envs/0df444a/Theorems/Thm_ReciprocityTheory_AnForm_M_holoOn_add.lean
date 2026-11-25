@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_holoOn_add
 -- name    : ReciprocityTheory.AnForm.M.holoOn_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:19:03.636483+00:00
 -- url     : https://prove2.me/theorems/f0f2f600-6dbd-5acb-a93d-da3ab233c38e

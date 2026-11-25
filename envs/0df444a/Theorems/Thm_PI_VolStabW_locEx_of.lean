@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_locEx_of
 -- name    : PI.VolStabW.locEx_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:44:53.630862+00:00
 -- url     : https://prove2.me/theorems/8dde71a4-2038-4b50-8e31-d7a9244e5f28

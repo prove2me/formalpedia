@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_inverse_power_square_bound
 -- name    : PositivityTheory.CWB.inverse_power_square_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:53:28.296674+00:00
 -- url     : https://prove2.me/theorems/cd1480a9-53ad-430e-9879-656d8dc74e68

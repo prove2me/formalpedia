@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_GB_gauss_diag
 -- name    : PositivityTheory.Rg.Sw.WR.G.GB.gauss_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:01:08.36703+00:00
 -- url     : https://prove2.me/theorems/750be350-7e77-4680-8f39-e577e5da12d6

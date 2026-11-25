@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshLap_radial_ftc
 -- name    : ReciprocityTheory.AnForm.A.PshLap.radial_ftc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:05:13.811438+00:00
 -- url     : https://prove2.me/theorems/879f2c94-33d4-42b5-ae99-7c274ca9ff3d

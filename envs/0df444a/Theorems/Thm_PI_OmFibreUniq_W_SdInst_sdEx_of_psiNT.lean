@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_SdInst_sdEx_of_psiNT
 -- name    : PI.OmFibreUniq.W.SdInst.sdEx_of_psiNT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:48:18.197872+00:00
 -- url     : https://prove2.me/theorems/aac563eb-a1c1-5a17-9342-26b4667740e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_swap_mem_B
 -- name    : PI.WGB.swap_mem_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:45:20.38195+00:00
 -- url     : https://prove2.me/theorems/06eb0dea-a907-4b0f-a4d7-fc95ea4f7991

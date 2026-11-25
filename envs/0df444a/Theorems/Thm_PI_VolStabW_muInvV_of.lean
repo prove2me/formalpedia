@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_muInvV_of
 -- name    : PI.VolStabW.muInvV_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:44:34.660672+00:00
 -- url     : https://prove2.me/theorems/919de159-3806-4090-a250-86368367bf08

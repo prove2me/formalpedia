@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Act_ComplexParameterFamilyContinuity_addFD_of_cover
 -- name    : PositivityTheory.SiegelWeilFormula.Act.ComplexParameterFamilyContinuity.addFD_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:48.170842+00:00
 -- url     : https://prove2.me/theorems/3e0c0534-3a19-4b86-b338-286de182987e

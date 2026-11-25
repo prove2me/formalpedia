@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialDifferentialOperators_dvE_single
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.dvE_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:48:57.544809+00:00
 -- url     : https://prove2.me/theorems/6d8fe371-f7cc-4b12-9ee3-654bd7e230d8

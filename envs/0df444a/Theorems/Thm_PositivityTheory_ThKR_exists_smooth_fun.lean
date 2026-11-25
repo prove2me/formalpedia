@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_exists_smooth_fun
 -- name    : PositivityTheory.ThKR.exists_smooth_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:05:28.386966+00:00
 -- url     : https://prove2.me/theorems/93aabaf3-8aa3-43cd-9c70-52e98773481b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_integrable_gs_row
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.integrable_gs_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:51:39.584143+00:00
 -- url     : https://prove2.me/theorems/ffb013a2-8c95-5089-bc0a-26254aae2147

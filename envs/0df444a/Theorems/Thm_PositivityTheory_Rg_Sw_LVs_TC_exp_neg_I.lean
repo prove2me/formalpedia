@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_exp_neg_I
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.exp_neg_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:09.411801+00:00
 -- url     : https://prove2.me/theorems/fa9e2863-9a72-41ec-83f1-c22c7b12d438

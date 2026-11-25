@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_nilpotent_of_power_traces
 -- name    : PositivityTheory.CW.nilpotent_of_power_traces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:11.206254+00:00
 -- url     : https://prove2.me/theorems/4ce9f72c-7e62-4a21-8443-9f3b33f93463

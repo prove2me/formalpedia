@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_Mi_deriv_prod
 -- name    : PositivityTheory.Rg.Sw.SP.Mi.deriv_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:59:28.949861+00:00
 -- url     : https://prove2.me/theorems/961cac91-590b-4e79-9ef3-95acdf821c5a

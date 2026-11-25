@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_det_smul_add_smul_eq_sum_mdisc
 -- name    : ReciprocityTheory.AnForm.A.det_smul_add_smul_eq_sum_mdisc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:51:05.611565+00:00
 -- url     : https://prove2.me/theorems/12d16b40-03fb-42eb-92ed-3e0547d1ef8e

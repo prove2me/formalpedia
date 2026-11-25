@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G7_locF_le_of_zsmul
 -- name    : Formalism.L2.SG.Pf.G7.locF_le_of_zsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:15:22.337799+00:00
 -- url     : https://prove2.me/theorems/17180772-0d47-507b-9ff9-34154420e680

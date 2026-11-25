@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_latSB_holds
 -- name    : PI.VolStabSW.latSB_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:43:28.688071+00:00
 -- url     : https://prove2.me/theorems/f9d454df-c578-4636-9bc9-29edd6d2588e

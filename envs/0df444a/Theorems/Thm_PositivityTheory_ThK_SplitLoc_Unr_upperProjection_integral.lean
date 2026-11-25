@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_upperProjection_integral
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.upperProjection_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:51:27.212601+00:00
 -- url     : https://prove2.me/theorems/a9e7aa17-4043-4451-a2d4-37d4c401a003

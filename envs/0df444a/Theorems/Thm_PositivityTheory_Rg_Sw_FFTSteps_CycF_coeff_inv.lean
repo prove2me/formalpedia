@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_CycF_coeff_inv
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.CycF.coeff_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:03:23.822592+00:00
 -- url     : https://prove2.me/theorems/409a3b71-83e9-5845-b3b1-0f3896ca3aa7

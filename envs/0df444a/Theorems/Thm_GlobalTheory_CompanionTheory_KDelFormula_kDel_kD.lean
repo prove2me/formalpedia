@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KDelFormula_kDel_kD
 -- name    : GlobalTheory.CompanionTheory.KDelFormula.kDel_kD
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:21:27.664882+00:00
 -- url     : https://prove2.me/theorems/28218ee3-8cdd-4733-a31a-3eaa2e64027d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_weil_orbit
 -- name    : PI.VolStabSW.weil_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:44:35.792001+00:00
 -- url     : https://prove2.me/theorems/518da86e-56f9-43eb-9020-cfc33ec325f5

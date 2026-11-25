@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Tf_Loc_pow_succ_apply
 -- name    : PositivityTheory.Rg.Tf.Loc.pow_succ_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:02:37.932776+00:00
 -- url     : https://prove2.me/theorems/0c77b3c4-e6fb-4134-ae20-a37b24695b8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Mom1_integral_offdiag
 -- name    : PositivityTheory.Rg.Sw.LC.Mom1.integral_offdiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:48:50.906559+00:00
 -- url     : https://prove2.me/theorems/8615f9bd-d6ee-4b2a-a3d6-aea16609deac

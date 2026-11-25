@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Closed_AdBridgeIso_holds
 -- name    : Formalism.L2.SG.Closed.AdBridgeIso_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:38:48.315155+00:00
 -- url     : https://prove2.me/theorems/8d038f77-1c25-5792-b7dc-e661c42cad55

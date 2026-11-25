@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Grow_lintegral_sumSq
 -- name    : PositivityTheory.ThKF0.Grow.lintegral_sumSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:55.069017+00:00
 -- url     : https://prove2.me/theorems/78b52449-07c0-5dbf-a80b-8428faa74d22

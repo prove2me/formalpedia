@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_Specmeas_exists_measure_of_positive
 -- name    : PositivityTheory.Rg.BcB.E2.P.Specmeas.exists_measure_of_positive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:52:13.694809+00:00
 -- url     : https://prove2.me/theorems/d64768f2-f5ec-56e3-b3c8-029b45030baa

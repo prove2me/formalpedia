@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMS_blkHyp_neg
 -- name    : PI.FJMS.blkHyp_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:13.68117+00:00
 -- url     : https://prove2.me/theorems/26ec703e-c4ba-4e0b-9c83-08ef8435d38b

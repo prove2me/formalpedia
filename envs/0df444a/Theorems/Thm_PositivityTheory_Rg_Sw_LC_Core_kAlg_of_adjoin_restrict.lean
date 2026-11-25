@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Core_kAlg_of_adjoin_restrict
 -- name    : PositivityTheory.Rg.Sw.LC.Core.kAlg_of_adjoin_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:55:09.458645+00:00
 -- url     : https://prove2.me/theorems/fa6d35ef-9255-5394-9e01-0449cad4285a

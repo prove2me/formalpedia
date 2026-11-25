@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_GreenFunction_hasDerivAt_rad
 -- name    : ReciprocityTheory.AnForm.A.GreenFunction.hasDerivAt_rad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:51:27.758433+00:00
 -- url     : https://prove2.me/theorems/6991d15f-f33d-4316-a32c-a6b151d4e1c1

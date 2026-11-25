@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Sph_finite_cover
 -- name    : PositivityTheory.Sph.finite_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:03:54.213856+00:00
 -- url     : https://prove2.me/theorems/d847fe7e-f937-4cc8-88bc-da8600ceaaa2

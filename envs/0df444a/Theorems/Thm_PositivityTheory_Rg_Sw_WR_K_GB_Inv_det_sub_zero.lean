@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_Inv_det_sub_zero
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.Inv.det_sub_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:50:54.513615+00:00
 -- url     : https://prove2.me/theorems/5c2d6489-452b-4cfd-bd5b-80cd7b6a1d8c

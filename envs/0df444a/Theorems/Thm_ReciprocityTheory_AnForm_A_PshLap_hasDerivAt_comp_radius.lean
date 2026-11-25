@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshLap_hasDerivAt_comp_radius
 -- name    : ReciprocityTheory.AnForm.A.PshLap.hasDerivAt_comp_radius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:04:49.634197+00:00
 -- url     : https://prove2.me/theorems/2d7aeaae-e485-5a16-9121-85a8e0957061

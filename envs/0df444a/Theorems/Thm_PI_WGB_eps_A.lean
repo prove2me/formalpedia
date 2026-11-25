@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_eps_A
 -- name    : PI.WGB.eps_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:46:24.87087+00:00
 -- url     : https://prove2.me/theorems/e5806567-70b1-4026-8ece-81263faa33ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgBcC_LfSt_ChainPf_Cact_contDiffOn_int_nat
 -- name    : PositivityTheory.RgBcC.LfSt.ChainPf.Cact.contDiffOn_int_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:02:42.37279+00:00
 -- url     : https://prove2.me/theorems/082d6677-d7bc-44a8-9039-867582c0e88d

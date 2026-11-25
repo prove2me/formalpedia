@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_PowSpanB_lf_eq
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.PowSpanB.lf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:55:13.940263+00:00
 -- url     : https://prove2.me/theorems/0ed23238-abe0-4728-b5fe-561fb0775f1d

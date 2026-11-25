@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Cz_re_swapSum_le__5cc149ecbe22
 -- name    : P2M_PositivityTheory_Rg_Cz_re_swapSum_le__5cc149ecbe22
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:09:58.498055+00:00
 -- url     : https://prove2.me/theorems/22ad6f7e-c17a-45ba-8c97-563b32485369

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialWeightAction_coeff_Dsrc
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialWeightAction.coeff_Dsrc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:48:58.496739+00:00
 -- url     : https://prove2.me/theorems/a246fae0-05ce-46ba-a514-10f0c2392b2e

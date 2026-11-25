@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_I_norm_sq_le_sum
 -- name    : PositivityTheory.Rg.Sw.WR.I.norm_sq_le_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:01:44.354559+00:00
 -- url     : https://prove2.me/theorems/b4ebf112-0764-4cbc-9800-50358b5f361d

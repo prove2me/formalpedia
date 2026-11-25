@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_FiniteThetaCoordinates_finite_of_adm
 -- name    : PI.VolStabW.FiniteThetaCoordinates.finite_of_adm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:43:24.014949+00:00
 -- url     : https://prove2.me/theorems/7e9f38c7-4209-400c-9167-a9ddb447b090

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_gaussian_moment_symm
 -- name    : PositivityTheory.Rg.Sw.LC.gaussian_moment_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:00:49.996975+00:00
 -- url     : https://prove2.me/theorems/576799d0-5b10-573c-8d50-b904ed647320

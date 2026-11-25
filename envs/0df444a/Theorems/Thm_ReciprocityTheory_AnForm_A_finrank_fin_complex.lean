@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_finrank_fin_complex
 -- name    : ReciprocityTheory.AnForm.A.finrank_fin_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:51:01.275795+00:00
 -- url     : https://prove2.me/theorems/feec7da9-f8de-4889-94b5-1d4a4046e47c

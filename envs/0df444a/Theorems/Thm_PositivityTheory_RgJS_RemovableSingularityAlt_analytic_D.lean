@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_RemovableSingularityAlt_analytic_D
 -- name    : PositivityTheory.RgJS.RemovableSingularityAlt.analytic_D
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:04.262547+00:00
 -- url     : https://prove2.me/theorems/a36384a1-4090-41b5-986d-1c8f8369dbe0

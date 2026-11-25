@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_inv_conjDiag
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.inv_conjDiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:37.995676+00:00
 -- url     : https://prove2.me/theorems/63ecba16-84fe-4f6c-abe8-1a5eb681734c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_LinAct_hTens_transpose
 -- name    : PositivityTheory.ThK.LinAct.hTens_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:04:26.738522+00:00
 -- url     : https://prove2.me/theorems/ef6e957a-038f-476d-9129-70b4867c800b

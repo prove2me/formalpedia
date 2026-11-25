@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_I_normSq_herm
 -- name    : PositivityTheory.Rg.Sw.WR.I.normSq_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:02:10.5119+00:00
 -- url     : https://prove2.me/theorems/61cdbc1b-afed-48e7-a452-3b0f860dc817

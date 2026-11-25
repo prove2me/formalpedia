@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PlacePermOperatorBicommutantSpan_schur
 -- name    : PositivityTheory.PlacePermOperatorBicommutantSpan.schur
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:52:02.005611+00:00
 -- url     : https://prove2.me/theorems/03329e0f-724d-428f-84f5-eb5be6bde640

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF_E_exists_exp
 -- name    : PositivityTheory.ThKF.E.exists_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:51:02.476609+00:00
 -- url     : https://prove2.me/theorems/4873a5bd-d230-4e41-bdf0-b1fd3ba48907

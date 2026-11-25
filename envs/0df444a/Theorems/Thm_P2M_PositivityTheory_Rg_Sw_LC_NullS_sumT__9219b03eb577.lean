@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_LC_NullS_sumT__9219b03eb577
 -- name    : P2M_PositivityTheory_Rg_Sw_LC_NullS_sumT__9219b03eb577
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:10:38.271329+00:00
 -- url     : https://prove2.me/theorems/ad376502-1f3f-41b9-93fd-c9575b56fc95

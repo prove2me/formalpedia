@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Fub_unitInvariant_zero
 -- name    : PositivityTheory.ThKG.Fub.unitInvariant_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:04:28.171071+00:00
 -- url     : https://prove2.me/theorems/65a2f79d-d79b-40f8-b9a2-f1da9982a729

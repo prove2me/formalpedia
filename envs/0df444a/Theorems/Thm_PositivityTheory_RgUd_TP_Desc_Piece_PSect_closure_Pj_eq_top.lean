@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PSect_closure_Pj_eq_top
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PSect.closure_Pj_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:17.908705+00:00
 -- url     : https://prove2.me/theorems/3c73f8de-3eeb-4500-a1b5-01f5a4dd3980

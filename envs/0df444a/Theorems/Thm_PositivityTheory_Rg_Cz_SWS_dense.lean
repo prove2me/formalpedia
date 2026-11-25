@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_SWS_dense
 -- name    : PositivityTheory.Rg.Cz.SWS.dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:49:16.233422+00:00
 -- url     : https://prove2.me/theorems/2de9089a-92f4-4dd8-b7f5-47a092f3d29a

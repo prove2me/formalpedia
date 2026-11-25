@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_NewtonIdentitiesAlt_aeval_esymm
 -- name    : PositivityTheory.RgJS.NewtonIdentitiesAlt.aeval_esymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:02:51.970797+00:00
 -- url     : https://prove2.me/theorems/2ec168bd-8225-4d12-8d96-53a7412f1c24

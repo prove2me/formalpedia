@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_divZ_zero
 -- name    : PositivityTheory.Rg.Sw.SP.divZ_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:36.801001+00:00
 -- url     : https://prove2.me/theorems/710fc54a-1434-4a8c-847f-0ffc716d67f0

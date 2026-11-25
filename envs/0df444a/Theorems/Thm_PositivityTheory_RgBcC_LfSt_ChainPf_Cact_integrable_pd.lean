@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgBcC_LfSt_ChainPf_Cact_integrable_pd
 -- name    : PositivityTheory.RgBcC.LfSt.ChainPf.Cact.integrable_pd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:02:42.090936+00:00
 -- url     : https://prove2.me/theorems/bf0c5c28-ce68-4ff5-ac3e-09f7e3148442

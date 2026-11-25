@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_STD_sum_sign_prod_ell
 -- name    : PositivityTheory.Rg.Sw.LVs.STD.sum_sign_prod_ell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:24.4955+00:00
 -- url     : https://prove2.me/theorems/433404a3-ca7e-44b0-a12b-34cae74e9961

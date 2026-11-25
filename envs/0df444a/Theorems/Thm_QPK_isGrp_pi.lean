@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_isGrp_pi
 -- name    : QPK.isGrp_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:51:23.818465+00:00
 -- url     : https://prove2.me/theorems/1fc561ff-b56a-4e95-aaee-85accc4c8efe

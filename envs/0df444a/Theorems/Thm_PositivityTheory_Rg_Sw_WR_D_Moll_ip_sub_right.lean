@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_Moll_ip_sub_right
 -- name    : PositivityTheory.Rg.Sw.WR.D.Moll.ip_sub_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:01:24.318796+00:00
 -- url     : https://prove2.me/theorems/e57ec4e0-1b43-4a0d-abf7-baf3eb887025

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PSect_idem
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PSect.idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:59.075276+00:00
 -- url     : https://prove2.me/theorems/62466166-e7cb-4b7a-9f38-7669880f1e8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_LinDerPf_step
 -- name    : PositivityTheory.ThKEst.LinDerPf.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:38.696889+00:00
 -- url     : https://prove2.me/theorems/1bd6f43c-ef9f-40e5-8593-7f29b90e779f

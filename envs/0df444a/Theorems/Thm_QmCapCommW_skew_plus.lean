@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QmCapCommW_skew_plus
 -- name    : QmCapCommW.skew_plus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:05:48.830783+00:00
 -- url     : https://prove2.me/theorems/ff5aad36-c76a-48bd-b2c9-ed5a6cc6e0ed

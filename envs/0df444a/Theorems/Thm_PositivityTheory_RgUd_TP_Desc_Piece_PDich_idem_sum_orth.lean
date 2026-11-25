@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PDich_idem_sum_orth
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PDich.idem_sum_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:02:56.499014+00:00
 -- url     : https://prove2.me/theorems/100e515b-d942-5543-b109-17b6f701a8d4

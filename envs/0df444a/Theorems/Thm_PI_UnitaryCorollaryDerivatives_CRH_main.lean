@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_CRH_main
 -- name    : PI.UnitaryCorollaryDerivatives.CRH.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:30:43.163899+00:00
 -- url     : https://prove2.me/theorems/9e0e35f1-27f9-40f2-8e64-1aca6ac57c85

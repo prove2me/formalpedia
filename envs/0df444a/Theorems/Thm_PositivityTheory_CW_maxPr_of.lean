@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_maxPr_of
 -- name    : PositivityTheory.CW.maxPr_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:47:46.462077+00:00
 -- url     : https://prove2.me/theorems/2b2ffdbc-9cd6-4104-b64c-f2e31f2c532d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_PositiveNearLattice_isSB_latV
 -- name    : PI.VolStabW.PositiveNearLattice.isSB_latV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:10:22.813096+00:00
 -- url     : https://prove2.me/theorems/a47a775f-556c-4641-921c-06411ea7b7ac

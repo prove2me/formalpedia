@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_UnifChange_psi_inv_mul
 -- name    : GlobalTheory.SymChain.UnifChange.psi_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:27:59.705334+00:00
 -- url     : https://prove2.me/theorems/4ecb48fa-b5fb-420e-8f8d-751dbb364406

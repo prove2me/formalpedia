@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TA_conj_tensor_entry_base
 -- name    : PositivityTheory.Rg.Cz.TA.conj_tensor_entry_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:54:18.369811+00:00
 -- url     : https://prove2.me/theorems/7fcd06f6-0bd3-584d-8729-2f998350c862

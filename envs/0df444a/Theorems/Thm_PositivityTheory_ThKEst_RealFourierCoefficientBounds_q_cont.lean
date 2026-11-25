@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_RealFourierCoefficientBounds_q_cont
 -- name    : PositivityTheory.ThKEst.RealFourierCoefficientBounds.q_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:44.585914+00:00
 -- url     : https://prove2.me/theorems/2d4691ff-79ff-4ffc-81e9-e2c5f45a088c

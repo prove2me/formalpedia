@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_wallAlg_of
 -- name    : PositivityTheory.Rg.Cz.wallAlg_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:49:03.393662+00:00
 -- url     : https://prove2.me/theorems/9e00dce2-4b21-4686-afd0-93c67ea4291a

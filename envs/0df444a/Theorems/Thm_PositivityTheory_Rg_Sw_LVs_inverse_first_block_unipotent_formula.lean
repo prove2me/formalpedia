@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_inverse_first_block_unipotent_formula
 -- name    : PositivityTheory.Rg.Sw.LVs.inverse_first_block_unipotent_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:03:19.609055+00:00
 -- url     : https://prove2.me/theorems/f90f3bde-ce8b-5197-8c01-ff93ed9e441f

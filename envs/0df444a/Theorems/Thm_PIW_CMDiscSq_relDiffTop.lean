@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_CMDiscSq_relDiffTop
 -- name    : PIW.CMDiscSq.relDiffTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:48:23.469741+00:00
 -- url     : https://prove2.me/theorems/5d5c9350-bd1d-45f0-aef3-c22322ab99b3

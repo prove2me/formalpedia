@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_bessel_integral_converges
 -- name    : Formalism.FourierDecayAlt.P.bessel_integral_converges
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:05:48.14213+00:00
 -- url     : https://prove2.me/theorems/214ff4a1-e922-405a-a343-cc8404268ef3

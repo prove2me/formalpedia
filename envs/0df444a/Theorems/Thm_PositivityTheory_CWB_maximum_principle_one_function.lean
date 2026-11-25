@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_maximum_principle_one_function
 -- name    : PositivityTheory.CWB.maximum_principle_one_function
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:49.033467+00:00
 -- url     : https://prove2.me/theorems/f8e6d8b2-9f33-4b2d-9d89-6e3193a67b19

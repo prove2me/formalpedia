@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_T_Dkl_sum
 -- name    : PositivityTheory.Rg.Sw.WR.T.Dkl_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:02:10.538532+00:00
 -- url     : https://prove2.me/theorems/466942be-87a5-445c-a05b-ff5dea393040

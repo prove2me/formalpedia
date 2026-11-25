@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_tensorGl_holds
 -- name    : PositivityTheory.Rg.Cz.tensorGl_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:50:14.597086+00:00
 -- url     : https://prove2.me/theorems/5bda5d9d-b17a-4ff6-af20-34c98bc94418

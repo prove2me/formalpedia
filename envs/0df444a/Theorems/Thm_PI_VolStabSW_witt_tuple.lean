@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_witt_tuple
 -- name    : PI.VolStabSW.witt_tuple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:37:49.26634+00:00
 -- url     : https://prove2.me/theorems/9d86f18f-2280-4733-8e65-c0726ea6e543

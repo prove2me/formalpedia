@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_isWH_of_scale
 -- name    : PI.WGB.isWH_of_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:56:58.012915+00:00
 -- url     : https://prove2.me/theorems/ba8a7ea5-0261-5553-a3b0-6cb20dcf07c1

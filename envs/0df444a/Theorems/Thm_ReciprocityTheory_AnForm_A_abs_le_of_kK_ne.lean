@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_abs_le_of_kK_ne
 -- name    : ReciprocityTheory.AnForm.A.abs_le_of_kK_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:50:34.201449+00:00
 -- url     : https://prove2.me/theorems/4eb2465c-36ca-5a97-a7d8-d5400c768f2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Form_U_Atom_exists_small_ann
 -- name    : PositivityTheory.RgUd.Form.U.Atom.exists_small_ann
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:18.185788+00:00
 -- url     : https://prove2.me/theorems/048be628-54ec-46fd-937d-cd7f8ad56811

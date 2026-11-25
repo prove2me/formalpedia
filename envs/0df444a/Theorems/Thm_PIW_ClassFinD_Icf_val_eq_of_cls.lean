@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ClassFinD_Icf_val_eq_of_cls
 -- name    : PIW.ClassFinD.Icf.val_eq_of_cls
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:48:08.660333+00:00
 -- url     : https://prove2.me/theorems/7372bae4-70fe-4532-afc9-e6087ba509e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Fock6_rowDiv_diag
 -- name    : PI.WGL.Fock6.rowDiv_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:47:06.552113+00:00
 -- url     : https://prove2.me/theorems/b3057d8b-7fa6-474f-bf6f-570bde48ad2a

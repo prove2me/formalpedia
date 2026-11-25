@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QH_g_integral
 -- name    : QH.g_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:06:38.924504+00:00
 -- url     : https://prove2.me/theorems/b2af9884-a07c-4f7a-b609-f1a053cfc56e

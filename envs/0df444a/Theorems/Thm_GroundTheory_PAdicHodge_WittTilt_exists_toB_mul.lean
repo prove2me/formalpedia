@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittTilt_exists_toB_mul
 -- name    : GroundTheory.PAdicHodge.WittTilt.exists_toB_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:45:41.884361+00:00
 -- url     : https://prove2.me/theorems/d7045b00-817e-58c1-99d3-b0cea56d5da4

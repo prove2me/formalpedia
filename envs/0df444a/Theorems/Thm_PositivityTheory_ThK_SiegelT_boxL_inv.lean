@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SiegelT_boxL_inv
 -- name    : PositivityTheory.ThK.SiegelT.boxL_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:04:18.365587+00:00
 -- url     : https://prove2.me/theorems/f33fc1f1-c313-4ba2-a75f-1c6899275245

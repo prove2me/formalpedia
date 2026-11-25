@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_jacquetFiltration_univ
 -- name    : GroundTheory.Automorphic.Parabolic.jacquetFiltration_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:23:36.484636+00:00
 -- url     : https://prove2.me/theorems/f8cdc2e8-5bf9-4821-890e-695726f01557

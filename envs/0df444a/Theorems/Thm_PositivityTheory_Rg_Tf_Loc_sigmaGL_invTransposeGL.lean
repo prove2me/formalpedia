@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Tf_Loc_sigmaGL_invTransposeGL
 -- name    : PositivityTheory.Rg.Tf.Loc.sigmaGL_invTransposeGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:02:39.217319+00:00
 -- url     : https://prove2.me/theorems/601241b2-d9ef-43ed-9789-708ae7499ef7

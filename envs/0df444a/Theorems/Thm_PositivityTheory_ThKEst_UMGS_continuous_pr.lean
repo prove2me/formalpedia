@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_UMGS_continuous_pr
 -- name    : PositivityTheory.ThKEst.UMGS.continuous_pr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:20.957957+00:00
 -- url     : https://prove2.me/theorems/54425605-61f8-4484-aca8-ec6f129ea2a0

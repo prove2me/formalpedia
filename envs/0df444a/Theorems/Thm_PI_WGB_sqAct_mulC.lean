@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_sqAct_mulC
 -- name    : PI.WGB.sqAct_mulC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:45:50.868185+00:00
 -- url     : https://prove2.me/theorems/9c8b1a82-c186-4422-9df6-b69492412834

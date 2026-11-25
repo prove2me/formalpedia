@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_JLatOf_lattice_height_zero_eq
 -- name    : PositivityTheory.Rg.Rs.JLatOf.lattice_height_zero_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:49:11.484715+00:00
 -- url     : https://prove2.me/theorems/b6e13e08-0b1f-4fbe-80fe-c23fdbb04381

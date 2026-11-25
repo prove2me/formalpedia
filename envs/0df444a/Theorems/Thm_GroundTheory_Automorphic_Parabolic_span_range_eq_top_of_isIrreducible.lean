@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_span_range_eq_top_of_isIrreducible
 -- name    : GroundTheory.Automorphic.Parabolic.span_range_eq_top_of_isIrreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:47:03.309836+00:00
 -- url     : https://prove2.me/theorems/228ac9a5-b57f-4ba7-bb7b-6be9a889b6cf

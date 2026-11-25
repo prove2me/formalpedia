@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_WD_prod
 -- name    : PositivityTheory.Rg.Sw.LVs.WD_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:50:22.240889+00:00
 -- url     : https://prove2.me/theorems/f2d6474c-13c6-480c-aa9c-8c26b44045f2

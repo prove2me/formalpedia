@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_hermitian_approximation_of_parts
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.hermitian_approximation_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:03:50.074089+00:00
 -- url     : https://prove2.me/theorems/702459eb-8d05-496c-a49e-40eb32947f8e

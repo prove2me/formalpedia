@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_LinDerPf_Gr_mul
 -- name    : PositivityTheory.ThKEst.LinDerPf.Gr.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:25.73495+00:00
 -- url     : https://prove2.me/theorems/68dd74df-1f86-491d-b764-c430946d274b

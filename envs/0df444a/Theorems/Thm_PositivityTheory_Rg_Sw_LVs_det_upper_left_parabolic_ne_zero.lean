@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_det_upper_left_parabolic_ne_zero
 -- name    : PositivityTheory.Rg.Sw.LVs.det_upper_left_parabolic_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:35.194651+00:00
 -- url     : https://prove2.me/theorems/c1bbb695-0d6e-5817-9dbb-9c56a11d8ffc

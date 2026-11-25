@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Krd_DC_inLie_proj
 -- name    : PositivityTheory.SiegelWeilFormula.Krd.DC.inLie_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:03:46.979725+00:00
 -- url     : https://prove2.me/theorems/b1113b00-5158-44da-a703-357575b23244

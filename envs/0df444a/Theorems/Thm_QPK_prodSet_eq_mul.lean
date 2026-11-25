@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_prodSet_eq_mul
 -- name    : QPK.prodSet_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:54:31.934226+00:00
 -- url     : https://prove2.me/theorems/6e6edf58-7d2e-502e-b3bc-36b0a001d52f

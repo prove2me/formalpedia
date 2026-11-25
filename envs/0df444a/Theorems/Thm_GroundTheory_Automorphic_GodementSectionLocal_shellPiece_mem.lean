@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_shellPiece_mem
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.shellPiece_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:34:37.663337+00:00
 -- url     : https://prove2.me/theorems/be824430-ffc7-5a08-bf67-9080e7f5c509

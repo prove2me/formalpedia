@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_exists_lb
 -- name    : PositivityTheory.ThKG.Loc.Bump.exists_lb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:04:19.280397+00:00
 -- url     : https://prove2.me/theorems/b6e0335e-346d-5e9e-a0ca-54b8f990a4eb

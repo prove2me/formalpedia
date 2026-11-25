@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_intA_sig
 -- name    : PI.VolStabW.intA_sig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:46:19.27509+00:00
 -- url     : https://prove2.me/theorems/1d40029e-c61e-4bed-bc1d-a60532c7d2f1

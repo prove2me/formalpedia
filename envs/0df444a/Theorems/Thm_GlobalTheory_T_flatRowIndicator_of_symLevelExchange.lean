@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_flatRowIndicator_of_symLevelExchange
 -- name    : GlobalTheory.T.flatRowIndicator_of_symLevelExchange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:39:49.967713+00:00
 -- url     : https://prove2.me/theorems/197c5da9-52e8-57ea-9ff0-5494b3f7165e

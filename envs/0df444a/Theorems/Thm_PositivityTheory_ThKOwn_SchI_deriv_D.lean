@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKOwn_SchI_deriv_D
 -- name    : PositivityTheory.ThKOwn.SchI.deriv_D
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:04:57.992092+00:00
 -- url     : https://prove2.me/theorems/952a87ae-1613-44db-8367-ec56a3a4d98b

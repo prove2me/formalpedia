@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_rowAct_diag_monomial
 -- name    : PI.WGB.rowAct_diag_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:58:21.757301+00:00
 -- url     : https://prove2.me/theorems/07779b97-03ed-5b3f-a609-4901089bf953

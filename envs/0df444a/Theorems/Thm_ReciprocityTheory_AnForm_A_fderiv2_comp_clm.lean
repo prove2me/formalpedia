@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_fderiv2_comp_clm
 -- name    : ReciprocityTheory.AnForm.A.fderiv2_comp_clm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:51:21.420724+00:00
 -- url     : https://prove2.me/theorems/fb52184c-8013-499b-a14e-f79353a9c840

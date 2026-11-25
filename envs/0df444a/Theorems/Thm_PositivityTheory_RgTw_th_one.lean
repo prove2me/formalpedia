@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgTw_th_one
 -- name    : PositivityTheory.RgTw.th_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:07.356749+00:00
 -- url     : https://prove2.me/theorems/fca22c9a-1771-4712-8526-78eea3d9aee7

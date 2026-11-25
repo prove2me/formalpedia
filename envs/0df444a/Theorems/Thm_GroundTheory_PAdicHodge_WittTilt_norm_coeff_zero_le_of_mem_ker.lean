@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittTilt_norm_coeff_zero_le_of_mem_ker
 -- name    : GroundTheory.PAdicHodge.WittTilt.norm_coeff_zero_le_of_mem_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:48:02.902152+00:00
 -- url     : https://prove2.me/theorems/2ad31075-05fd-4ea2-8911-d85c0a9479a6

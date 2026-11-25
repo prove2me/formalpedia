@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_invOn_map_conj
 -- name    : QPK.invOn_map_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:51:06.28638+00:00
 -- url     : https://prove2.me/theorems/9db62fbb-5566-45a3-a750-6d8139c7d96b

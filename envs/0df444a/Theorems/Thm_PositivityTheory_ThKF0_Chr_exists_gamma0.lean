@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_exists_gamma0
 -- name    : PositivityTheory.ThKF0.Chr.exists_gamma0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:05:49.152118+00:00
 -- url     : https://prove2.me/theorems/3159b19a-2a65-5e46-afac-693783fb1cc8

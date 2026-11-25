@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_wickFormula_of
 -- name    : PI.WickFormula.wickFormula_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:45:37.041943+00:00
 -- url     : https://prove2.me/theorems/44c2b328-b2ba-4fed-a57d-7357bee21db9

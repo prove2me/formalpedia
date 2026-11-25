@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Loc_fiberStable_relSpanH
 -- name    : PositivityTheory.PfBern.Loc.fiberStable_relSpanH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:53:16.712481+00:00
 -- url     : https://prove2.me/theorems/1feadebf-705e-4c10-b5d4-adef1f945948

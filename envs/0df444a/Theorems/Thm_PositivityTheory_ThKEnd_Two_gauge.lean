@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Two_gauge
 -- name    : PositivityTheory.ThKEnd.Two.gauge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:50:31.013803+00:00
 -- url     : https://prove2.me/theorems/65731603-b00b-5b86-9142-0e5a6d7976b6

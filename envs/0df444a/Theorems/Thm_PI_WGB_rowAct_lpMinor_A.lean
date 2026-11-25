@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_rowAct_lpMinor_A
 -- name    : PI.WGB.rowAct_lpMinor_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:46:24.471918+00:00
 -- url     : https://prove2.me/theorems/1ae8f139-c564-4699-b11a-f11f5c499e71

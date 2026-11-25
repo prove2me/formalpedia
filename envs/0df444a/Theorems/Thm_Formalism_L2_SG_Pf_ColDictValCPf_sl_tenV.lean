@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_sl_tenV
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.sl_tenV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:47:13.592416+00:00
 -- url     : https://prove2.me/theorems/cc1d84a5-5a3d-5fdc-b567-422027108b94

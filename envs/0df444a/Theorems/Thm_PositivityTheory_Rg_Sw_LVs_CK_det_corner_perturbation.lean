@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CK_det_corner_perturbation
 -- name    : PositivityTheory.Rg.Sw.LVs.CK.det_corner_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:49:20.955523+00:00
 -- url     : https://prove2.me/theorems/b9ec5328-ff10-49ed-afd2-218dba6dba59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_wallQuot_of
 -- name    : PositivityTheory.Rg.Cz.wallQuot_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:51.23681+00:00
 -- url     : https://prove2.me/theorems/122734bd-1f26-42f4-adf9-247871e7f3ad

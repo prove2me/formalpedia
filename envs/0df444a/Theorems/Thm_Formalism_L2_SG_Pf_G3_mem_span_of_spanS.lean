@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G3_mem_span_of_spanS
 -- name    : Formalism.L2.SG.Pf.G3.mem_span_of_spanS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:08:32.801808+00:00
 -- url     : https://prove2.me/theorems/a2398c08-5a1c-5cc3-bde5-a7ddbf4dcfa5

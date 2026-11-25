@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_ch_sum
 -- name    : PositivityTheory.ThKG.Loc.Bump.ch_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:04:21.588888+00:00
 -- url     : https://prove2.me/theorems/cb3c1700-1513-4ad3-b024-af9179e07dad

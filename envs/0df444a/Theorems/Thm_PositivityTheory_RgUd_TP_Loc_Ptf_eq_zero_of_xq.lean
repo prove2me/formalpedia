@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Loc_Ptf_eq_zero_of_xq
 -- name    : PositivityTheory.RgUd.TP.Loc.Ptf.eq_zero_of_xq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:03:07.607242+00:00
 -- url     : https://prove2.me/theorems/fea96f05-c5cb-54ce-91f1-24ab44c65b8c

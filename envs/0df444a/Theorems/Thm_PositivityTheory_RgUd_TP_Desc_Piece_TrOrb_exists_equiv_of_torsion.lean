@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_TrOrb_exists_equiv_of_torsion
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.TrOrb.exists_equiv_of_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:07.803802+00:00
 -- url     : https://prove2.me/theorems/629c305f-7a65-474a-bc0f-3303934e9659

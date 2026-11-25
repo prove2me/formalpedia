@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_suppCol_of_oneIndexAt
 -- name    : GlobalTheory.LocFlat.suppCol_of_oneIndexAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:19:55.391588+00:00
 -- url     : https://prove2.me/theorems/36d0e04a-066c-5207-9c16-bc3ab69cdbdf

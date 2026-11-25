@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_DM_factor
 -- name    : PositivityTheory.DM.factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:47:58.362029+00:00
 -- url     : https://prove2.me/theorems/27de9575-dbcc-43b5-bbea-83f9e4e835ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KSplit_prod_phase
 -- name    : PositivityTheory.SiegelWeilFormula.KSplit.prod_phase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:04:01.316261+00:00
 -- url     : https://prove2.me/theorems/2a519eb4-0263-40a0-bb42-7717ca2b5fe6

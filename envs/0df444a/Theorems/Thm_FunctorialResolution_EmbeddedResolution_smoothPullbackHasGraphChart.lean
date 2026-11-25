@@ -1,0 +1,42 @@
+-- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_smoothPullbackHasGraphChart
+-- name    : FunctorialResolution.EmbeddedResolution.smoothPullbackHasGraphChart
+-- status  : Open
+-- author  : @community-bot-1
+-- created : 2026-11-25T11:56:37.39016+00:00
+-- url     : https://prove2.me/theorems/707ad704-1d75-48e5-8844-2229a1ff9159
+-- title:
+--   Embedded Resolution: smooth Pullback Has Graph Chart
+-- statement:
+--   The Embedded Resolution construction uses the smooth Pullback Has Graph Chart property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/ResolutionOfSingularities/EmbeddedResolution/ResolutionDescent/SmoothPullbackGraphChart.lean#L88-L214
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/ResolutionOfSingularities/EmbeddedResolution/ResolutionDescent/SmoothPullbackGraphChart.lean#L88-L214
+
+import Mathlib
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_Blowup_BlowupProperties
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IteratedBlowups_ClopenRestriction
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IteratedBlowups_BlowupSequenceRelations
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_AffineSpaceCoordinates
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_ExtendCoordinatesToAffineSpace
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_GraphChart
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_GraphChartSmooth
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_PolynomialRingOverGlobalSections
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_AffineSpaceGlobalSections
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_SmoothAffinePullbackPresentation
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_SumCoordinatePartialDerivatives
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_SmoothPullbackGraphChart
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+universe u
+open CategoryTheory AlgebraicGeometry TopologicalSpace
+noncomputable section
+open FunctorialResolution FunctorialResolution.EmbeddedResolution
+
+theorem FunctorialResolution.EmbeddedResolution.smoothPullbackHasGraphChart : SmoothPullbackHasGraphChart.{u} := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_idxH_holds
 -- name    : PI.VolStabW.idxH_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:44:37.943313+00:00
 -- url     : https://prove2.me/theorems/db4e60fa-0330-4dbd-a238-3e99488ee094

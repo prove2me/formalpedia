@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_cas_count
 -- name    : PositivityTheory.Rg.Cz.cas_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:49:31.30934+00:00
 -- url     : https://prove2.me/theorems/e8d90e9a-be81-536e-8adb-96f05d1b923b

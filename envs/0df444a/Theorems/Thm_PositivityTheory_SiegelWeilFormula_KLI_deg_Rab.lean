@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KLI_deg_Rab
 -- name    : PositivityTheory.SiegelWeilFormula.KLI.deg_Rab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:50:22.64354+00:00
 -- url     : https://prove2.me/theorems/4fbb7cad-3873-40ae-a50a-6d9a7a8c95a6

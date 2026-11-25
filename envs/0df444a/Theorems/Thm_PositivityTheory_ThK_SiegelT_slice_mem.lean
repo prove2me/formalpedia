@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SiegelT_slice_mem
 -- name    : PositivityTheory.ThK.SiegelT.slice_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:04:11.94388+00:00
 -- url     : https://prove2.me/theorems/e71fcbda-9a7f-4980-a381-d4d90d83ce70

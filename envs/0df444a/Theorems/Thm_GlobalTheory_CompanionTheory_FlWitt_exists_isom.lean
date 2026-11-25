@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlWitt_exists_isom
 -- name    : GlobalTheory.CompanionTheory.FlWitt.exists_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:41:50.353543+00:00
 -- url     : https://prove2.me/theorems/df1deba5-39cd-406c-ad10-1fa3280acaa5

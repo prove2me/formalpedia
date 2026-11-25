@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_normal_nilpotent_of_commutator
 -- name    : PositivityTheory.CW.normal_nilpotent_of_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:18.692555+00:00
 -- url     : https://prove2.me/theorems/e42ebaa4-df73-4a27-b9e5-9bb8649c63fa

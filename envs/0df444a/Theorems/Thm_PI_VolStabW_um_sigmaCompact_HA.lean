@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_um_sigmaCompact_HA
 -- name    : PI.VolStabW.um_sigmaCompact_HA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:11:47.03775+00:00
 -- url     : https://prove2.me/theorems/62923d62-81e4-453a-804c-b2ddd6f32816

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialWeightAction_act_transvection
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialWeightAction.act_transvection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:48:54.175089+00:00
 -- url     : https://prove2.me/theorems/5265ca13-fb9f-42bf-a1e4-5a40493935b0

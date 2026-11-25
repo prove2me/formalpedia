@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_insertNth_eq_add
 -- name    : ReciprocityTheory.AnForm.A.insertNth_eq_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:06:04.535122+00:00
 -- url     : https://prove2.me/theorems/b6cc8cf7-d8b5-4b8f-81e1-1d3aa324b57d

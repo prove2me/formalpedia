@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_deltaC_contDiffOn
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.deltaC_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:02:33.510487+00:00
 -- url     : https://prove2.me/theorems/ce932ddf-cda3-4dd6-b32b-48559c20d97b

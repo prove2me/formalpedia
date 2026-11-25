@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnYLeibnizW_out_ne
 -- name    : QnYLeibnizW.out_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:07:55.031037+00:00
 -- url     : https://prove2.me/theorems/0ddbb8c3-ef9f-531a-ae3a-447f7629b092

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_third_fderiv_symm_one_two
 -- name    : ReciprocityTheory.AnForm.A.third_fderiv_symm_one_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:20:17.972796+00:00
 -- url     : https://prove2.me/theorems/87b05ece-5a2e-5645-afd4-1981a2e86e0c

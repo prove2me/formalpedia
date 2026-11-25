@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_unipotentCompactG_eq
 -- name    : GroundTheory.Automorphic.Parabolic.unipotentCompactG_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:38:50.380349+00:00
 -- url     : https://prove2.me/theorems/5067e218-249f-52c3-a8c4-415657e37cfb

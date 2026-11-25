@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_TrOrb_exists_equiv_of_finrank
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.TrOrb.exists_equiv_of_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:11.544332+00:00
 -- url     : https://prove2.me/theorems/414621a3-912d-4a21-929a-285286df3468

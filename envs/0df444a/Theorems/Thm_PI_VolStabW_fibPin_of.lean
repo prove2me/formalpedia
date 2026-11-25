@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_fibPin_of
 -- name    : PI.VolStabW.fibPin_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:54:11.065984+00:00
 -- url     : https://prove2.me/theorems/e74d596f-bf71-4d4f-b619-da57ae57a627

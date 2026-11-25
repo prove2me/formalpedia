@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KSplit_chg_add
 -- name    : PositivityTheory.SiegelWeilFormula.KSplit.chg_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:03:30.176164+00:00
 -- url     : https://prove2.me/theorems/4a5c3b99-fbe3-416b-9037-46a356a739bc

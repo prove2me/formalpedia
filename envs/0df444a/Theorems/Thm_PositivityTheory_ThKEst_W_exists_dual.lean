@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_W_exists_dual
 -- name    : PositivityTheory.ThKEst.W.exists_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:13.173989+00:00
 -- url     : https://prove2.me/theorems/42ecba1b-fc2a-4e5f-897a-3f6401cb86bf

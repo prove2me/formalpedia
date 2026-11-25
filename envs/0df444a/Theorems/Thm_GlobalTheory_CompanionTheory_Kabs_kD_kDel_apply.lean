@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Kabs_kD_kDel_apply
 -- name    : GlobalTheory.CompanionTheory.Kabs.kD_kDel_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:51:14.533359+00:00
 -- url     : https://prove2.me/theorems/bf4d15e9-445e-41e1-a204-f98af89d0616

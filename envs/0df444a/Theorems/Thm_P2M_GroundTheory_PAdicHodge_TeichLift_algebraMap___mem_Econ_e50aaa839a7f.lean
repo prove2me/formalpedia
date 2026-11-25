@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_PAdicHodge_TeichLift_algebraMap___mem_Econ_e50aaa839a7f
 -- name    : P2M_GroundTheory_PAdicHodge_TeichLift_algebraMap___mem_Econ_e50aaa839a7f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:30:44.415839+00:00
 -- url     : https://prove2.me/theorems/9b8456f0-e38a-42e0-9d40-f549cf02987e

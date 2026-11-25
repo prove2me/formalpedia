@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G7_zmult_of_span
 -- name    : Formalism.L2.SG.Pf.G7.zmult_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:05:20.994097+00:00
 -- url     : https://prove2.me/theorems/dce26a76-aad8-51cf-8dee-40a7e47cfef4

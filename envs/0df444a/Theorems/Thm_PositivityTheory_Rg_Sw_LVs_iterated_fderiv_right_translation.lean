@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_iterated_fderiv_right_translation
 -- name    : PositivityTheory.Rg.Sw.LVs.iterated_fderiv_right_translation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:33.911436+00:00
 -- url     : https://prove2.me/theorems/22cfedd0-df69-4806-8987-acc69958c928

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_hasDerivAt_det_add
 -- name    : PositivityTheory.Rg.Sw.HSt.hasDerivAt_det_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:54:46.467104+00:00
 -- url     : https://prove2.me/theorems/3642c9dc-90b0-5c35-bd70-d68411f7f511

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_cellRep_apply
 -- name    : GroundTheory.Automorphic.Parabolic.cellRep_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:47:56.420808+00:00
 -- url     : https://prove2.me/theorems/789d92af-2fc5-4f2d-9141-4c86b06a2462

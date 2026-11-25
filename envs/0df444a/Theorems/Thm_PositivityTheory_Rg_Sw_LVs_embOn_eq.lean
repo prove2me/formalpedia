@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_embOn_eq
 -- name    : PositivityTheory.Rg.Sw.LVs.embOn_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:02:19.244517+00:00
 -- url     : https://prove2.me/theorems/3c56d6be-2b91-51ea-ab0e-53ae08a52679

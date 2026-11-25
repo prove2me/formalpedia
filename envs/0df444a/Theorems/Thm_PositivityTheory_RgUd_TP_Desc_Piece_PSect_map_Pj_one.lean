@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PSect_map_Pj_one
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PSect.map_Pj_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:03.243373+00:00
 -- url     : https://prove2.me/theorems/83ef60ff-8ca4-4448-9cf8-007a5a79d8ef

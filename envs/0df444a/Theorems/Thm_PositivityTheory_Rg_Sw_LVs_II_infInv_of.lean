@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_infInv_of
 -- name    : PositivityTheory.Rg.Sw.LVs.II.infInv_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:59:46.401174+00:00
 -- url     : https://prove2.me/theorems/0899136c-0f3d-53e3-baf4-81448bccfe97

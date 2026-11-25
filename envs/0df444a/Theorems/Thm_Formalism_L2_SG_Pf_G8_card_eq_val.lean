@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G8_card_eq_val
 -- name    : Formalism.L2.SG.Pf.G8.card_eq_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:19:33.213845+00:00
 -- url     : https://prove2.me/theorems/bfd05d6d-e865-40ee-9a82-4b8e13943305

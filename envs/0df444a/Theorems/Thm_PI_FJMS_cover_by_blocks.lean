@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMS_cover_by_blocks
 -- name    : PI.FJMS.cover_by_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:51.617809+00:00
 -- url     : https://prove2.me/theorems/3fee531c-9e5e-4e87-a47e-c4b5c5cfbdd2

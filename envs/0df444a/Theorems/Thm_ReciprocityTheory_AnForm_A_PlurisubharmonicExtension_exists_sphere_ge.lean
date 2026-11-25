@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PlurisubharmonicExtension_exists_sphere_ge
 -- name    : ReciprocityTheory.AnForm.A.PlurisubharmonicExtension.exists_sphere_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:51:06.925811+00:00
 -- url     : https://prove2.me/theorems/0c31fd3a-83fa-463f-8774-3ee3ba1d02d9

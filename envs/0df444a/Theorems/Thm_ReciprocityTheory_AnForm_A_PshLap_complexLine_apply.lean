@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshLap_complexLine_apply
 -- name    : ReciprocityTheory.AnForm.A.PshLap.complexLine_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:05:16.225428+00:00
 -- url     : https://prove2.me/theorems/7f4fac5f-f07b-445e-a997-6b9a9cf01097

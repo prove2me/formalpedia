@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_isClosed_cellUnipotent
 -- name    : GroundTheory.Automorphic.Parabolic.isClosed_cellUnipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:48:11.911653+00:00
 -- url     : https://prove2.me/theorems/f7954466-cb84-4027-860c-638237ac2a60

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittTilt_toB_injective
 -- name    : GroundTheory.PAdicHodge.WittTilt.toB_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:38:14.155844+00:00
 -- url     : https://prove2.me/theorems/84abc113-85f1-42a5-a665-9eeaad0c5af8

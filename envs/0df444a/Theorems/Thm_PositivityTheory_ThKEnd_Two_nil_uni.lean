@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Two_nil_uni
 -- name    : PositivityTheory.ThKEnd.Two.nil_uni
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:50:38.646817+00:00
 -- url     : https://prove2.me/theorems/d2f17947-67e6-470b-9905-3f0188c29067

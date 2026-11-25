@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreBb_op_mul_X_inr
 -- name    : PositivityTheory.Rg.Sw.LC.CoreBb.op_mul_X_inr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:24:17.258956+00:00
 -- url     : https://prove2.me/theorems/362b3065-2351-4583-b7f2-ab1b803fff44

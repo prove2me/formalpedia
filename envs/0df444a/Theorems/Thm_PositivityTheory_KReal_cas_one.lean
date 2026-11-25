@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_cas_one
 -- name    : PositivityTheory.KReal.cas_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:51:13.776837+00:00
 -- url     : https://prove2.me/theorems/5e1889f2-b083-4509-8acf-332b9a12fc22

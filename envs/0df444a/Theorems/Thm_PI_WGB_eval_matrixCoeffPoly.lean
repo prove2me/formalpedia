@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_eval_matrixCoeffPoly
 -- name    : PI.WGB.eval_matrixCoeffPoly
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:00:41.158483+00:00
 -- url     : https://prove2.me/theorems/4f3f7be2-54a8-4a70-8b50-45d2f2eac600

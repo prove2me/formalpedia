@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_evX_smul_mono
 -- name    : PositivityTheory.Rg.Sw.WR.G.evX_smul_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:01:21.084567+00:00
 -- url     : https://prove2.me/theorems/7ba3fa84-87ef-491e-b409-fa48d6983403

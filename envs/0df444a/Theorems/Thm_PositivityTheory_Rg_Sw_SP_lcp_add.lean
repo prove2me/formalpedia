@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_lcp_add
 -- name    : PositivityTheory.Rg.Sw.SP.lcp_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:05:58.516518+00:00
 -- url     : https://prove2.me/theorems/3f04a7c7-0958-582b-bcd0-03eaaf86a611

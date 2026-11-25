@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictGen_exists_denominator_fmat
 -- name    : PIW.AdelClassFin.DictGen.exists_denominator_fmat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:28:29.242114+00:00
 -- url     : https://prove2.me/theorems/bd00ca24-5e93-4724-8dc2-09eb9da1db93

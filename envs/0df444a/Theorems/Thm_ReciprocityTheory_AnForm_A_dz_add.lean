@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_dz_add
 -- name    : ReciprocityTheory.AnForm.A.dz_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:51:07.247207+00:00
 -- url     : https://prove2.me/theorems/f4b80100-3445-4663-bdf2-b03619e1ad8f

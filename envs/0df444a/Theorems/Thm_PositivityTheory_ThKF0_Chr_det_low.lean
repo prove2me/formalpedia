@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_det_low
 -- name    : PositivityTheory.ThKF0.Chr.det_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:05:13.929884+00:00
 -- url     : https://prove2.me/theorems/efb1dda7-536f-4f98-91fe-059a8f0cf24c

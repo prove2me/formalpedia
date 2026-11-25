@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_SimpleNormalCrossingSliceCharts_compat_trans
 -- name    : ReciprocityTheory.AnForm.M.SimpleNormalCrossingSliceCharts.compat_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:19:30.478634+00:00
 -- url     : https://prove2.me/theorems/b8186b47-5d3c-4b68-a4c2-0f58995cbe0e

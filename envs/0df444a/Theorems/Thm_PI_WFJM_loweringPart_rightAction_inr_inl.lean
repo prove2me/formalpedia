@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_loweringPart_rightAction_inr_inl
 -- name    : PI.WFJM.loweringPart_rightAction_inr_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:44:01.61229+00:00
 -- url     : https://prove2.me/theorems/fcf9d93a-19db-4246-b97c-b7de27d1a898

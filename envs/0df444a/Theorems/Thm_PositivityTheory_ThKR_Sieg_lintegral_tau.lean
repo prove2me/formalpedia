@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Sieg_lintegral_tau
 -- name    : PositivityTheory.ThKR.Sieg.lintegral_tau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:05:28.192799+00:00
 -- url     : https://prove2.me/theorems/4ea6541e-f09a-5cf5-b52c-0df5364b52e0

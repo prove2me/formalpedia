@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_prod_sqrt_perm
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.prod_sqrt_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:52:38.168464+00:00
 -- url     : https://prove2.me/theorems/661282cb-80c7-55ac-9c91-1ec43d597786

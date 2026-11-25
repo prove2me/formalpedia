@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_smul_conjCm
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.smul_conjCm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:50:47.830844+00:00
 -- url     : https://prove2.me/theorems/98d908f4-0f5b-57cd-addd-ae536e36d031

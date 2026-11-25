@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_UnitarySelfGeneration_Mend_specInt_norm_le_one_iff_mem
 -- name    : PositivityTheory.UnitarySelfGeneration.Mend.specInt_norm_le_one_iff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:05:28.927806+00:00
 -- url     : https://prove2.me/theorems/f8936906-4194-44fd-bdcc-17b5d7d229b0

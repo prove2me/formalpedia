@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_chord_to_convex
 -- name    : ReciprocityTheory.AnForm.A.chord_to_convex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:51:00.852222+00:00
 -- url     : https://prove2.me/theorems/2363fb26-b643-4003-bddf-001a6ebd1efe

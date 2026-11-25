@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_dirC_inv_entry
 -- name    : PositivityTheory.Rg.Sw.WR.B.dirC_inv_entry
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:51.790072+00:00
 -- url     : https://prove2.me/theorems/7baa45e5-565f-487d-bf79-451c3b293b8e

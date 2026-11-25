@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_isPerfectoidField_of_isAlgClosed_of_normedAlgebra
 -- name    : GroundTheory.PAdicHodge.isPerfectoidField_of_isAlgClosed_of_normedAlgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:40:18.395101+00:00
 -- url     : https://prove2.me/theorems/207e90c3-0dea-4232-b8cc-1144df1e107c

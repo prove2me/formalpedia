@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreBb_symK_inl
 -- name    : PositivityTheory.Rg.Sw.LC.CoreBb.symK_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:56:09.819083+00:00
 -- url     : https://prove2.me/theorems/7a251f15-1aa9-40b4-b77f-c6389f0433af

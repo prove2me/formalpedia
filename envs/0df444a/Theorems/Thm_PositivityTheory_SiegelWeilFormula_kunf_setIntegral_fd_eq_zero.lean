@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_kunf_setIntegral_fd_eq_zero
 -- name    : PositivityTheory.SiegelWeilFormula.kunf.setIntegral_fd_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:03:32.21155+00:00
 -- url     : https://prove2.me/theorems/b2e82432-a6d2-5be6-b8ac-8da35baf527d

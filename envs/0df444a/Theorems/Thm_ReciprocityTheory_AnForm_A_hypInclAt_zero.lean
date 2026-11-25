@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_hypInclAt_zero
 -- name    : ReciprocityTheory.AnForm.A.hypInclAt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:05:48.426715+00:00
 -- url     : https://prove2.me/theorems/6c5bbad1-8e43-4bb5-8998-ba6021d7d492

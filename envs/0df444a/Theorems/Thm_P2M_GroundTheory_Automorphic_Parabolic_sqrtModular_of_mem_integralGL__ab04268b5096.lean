@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Automorphic_Parabolic_sqrtModular_of_mem_integralGL__ab04268b5096
 -- name    : P2M_GroundTheory_Automorphic_Parabolic_sqrtModular_of_mem_integralGL__ab04268b5096
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:48:07.668887+00:00
 -- url     : https://prove2.me/theorems/fc4f72d8-c098-45aa-ae42-8dfb7532aeca

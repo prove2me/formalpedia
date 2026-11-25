@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_LinDerPf_Gr_eq_of_pr
 -- name    : PositivityTheory.ThKEst.LinDerPf.Gr.eq_of_pr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:22.067642+00:00
 -- url     : https://prove2.me/theorems/564ea8e5-96f7-420a-a53d-0243e4830640

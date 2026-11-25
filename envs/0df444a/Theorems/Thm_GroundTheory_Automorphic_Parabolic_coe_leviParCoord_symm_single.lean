@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_coe_leviParCoord_symm_single
 -- name    : GroundTheory.Automorphic.Parabolic.coe_leviParCoord_symm_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:49:47.01615+00:00
 -- url     : https://prove2.me/theorems/fdacade1-a253-514b-83f5-22b8e5b4bab5

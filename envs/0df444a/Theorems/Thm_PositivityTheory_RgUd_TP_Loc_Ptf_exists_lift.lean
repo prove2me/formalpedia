@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Loc_Ptf_exists_lift
 -- name    : PositivityTheory.RgUd.TP.Loc.Ptf.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:03:21.192307+00:00
 -- url     : https://prove2.me/theorems/c3fb7866-33c9-4cf9-9d06-0d3044daee35

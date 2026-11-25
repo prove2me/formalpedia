@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_GI_norm_mono
 -- name    : PositivityTheory.Rg.Sw.WR.G.GI.norm_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:01:20.991408+00:00
 -- url     : https://prove2.me/theorems/492f601e-5d61-4f5a-995f-634a7bb22284

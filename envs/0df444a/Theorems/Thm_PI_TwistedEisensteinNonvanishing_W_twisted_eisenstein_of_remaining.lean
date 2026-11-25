@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_twisted_eisenstein_of_remaining
 -- name    : PI.TwistedEisensteinNonvanishing.W.twisted_eisenstein_of_remaining
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:30:36.465034+00:00
 -- url     : https://prove2.me/theorems/2aa7e9d4-3b89-428e-a633-ebe21ec50dd8

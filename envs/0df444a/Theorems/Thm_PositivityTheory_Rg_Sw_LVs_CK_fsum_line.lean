@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CK_fsum_line
 -- name    : PositivityTheory.Rg.Sw.LVs.CK.fsum_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:51:08.820831+00:00
 -- url     : https://prove2.me/theorems/4d281e4a-ad9a-5eb2-9748-dd0bba3c9f23

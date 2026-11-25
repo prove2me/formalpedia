@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_analyticAt_det_one_add_zpow
 -- name    : PositivityTheory.Rg.Sw.LVs.analyticAt_det_one_add_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:49:24.160252+00:00
 -- url     : https://prove2.me/theorems/2b0bcd11-c8e3-4462-9560-3ebcf2a42b43

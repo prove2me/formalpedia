@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Closed_AdBridgeGF_holds
 -- name    : Formalism.L2.SG.Closed.AdBridgeGF_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:39:56.111828+00:00
 -- url     : https://prove2.me/theorems/e260ca98-ddf3-58de-8124-7f5f5b247ad2

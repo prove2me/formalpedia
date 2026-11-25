@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_GI_add_pow_le
 -- name    : PositivityTheory.Rg.Sw.WR.G.GI.add_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:06:45.171507+00:00
 -- url     : https://prove2.me/theorems/9932a2e6-275c-522c-8e8f-0e12a1caeecf

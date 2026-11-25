@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_iteratedDeriv_zero_of_bound
 -- name    : PositivityTheory.Rg.Sw.SP.iteratedDeriv_zero_of_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:00:18.109057+00:00
 -- url     : https://prove2.me/theorems/2a1f49f3-27fe-43f9-94c5-30f4ab2026b0

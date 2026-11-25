@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_GB_integral_unitary
 -- name    : PositivityTheory.Rg.Sw.WR.G.GB.integral_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:01:36.841681+00:00
 -- url     : https://prove2.me/theorems/ece873c5-897a-4fcc-b0fe-ddbaf38459fb

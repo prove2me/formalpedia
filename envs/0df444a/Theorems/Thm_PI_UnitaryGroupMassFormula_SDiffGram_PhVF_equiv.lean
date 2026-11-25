@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_SDiffGram_PhVF_equiv
 -- name    : PI.UnitaryGroupMassFormula.SDiffGram.PhVF_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:44:54.749726+00:00
 -- url     : https://prove2.me/theorems/94df46f3-3710-459e-b765-8a9363cea7c1

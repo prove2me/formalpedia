@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_Moll_exp_combine
 -- name    : PositivityTheory.Rg.Sw.WR.D.Moll.exp_combine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:01:21.401007+00:00
 -- url     : https://prove2.me/theorems/4364a48c-474f-41dc-ab31-621bb1785dbb

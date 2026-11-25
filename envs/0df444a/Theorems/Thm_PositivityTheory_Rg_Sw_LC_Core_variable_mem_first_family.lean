@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Core_variable_mem_first_family
 -- name    : PositivityTheory.Rg.Sw.LC.Core.variable_mem_first_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:55:10.636102+00:00
 -- url     : https://prove2.me/theorems/98a099a0-e901-5cc3-9c06-f788805f945c

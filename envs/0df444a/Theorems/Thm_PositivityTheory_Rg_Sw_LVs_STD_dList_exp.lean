@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_STD_dList_exp
 -- name    : PositivityTheory.Rg.Sw.LVs.STD.dList_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:27.134702+00:00
 -- url     : https://prove2.me/theorems/6dbd2c9a-5e18-47f7-ba6c-a53a8f79967f

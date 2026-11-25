@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_continuous_hypInclAt
 -- name    : ReciprocityTheory.AnForm.A.continuous_hypInclAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:52:07.512038+00:00
 -- url     : https://prove2.me/theorems/8dcbb386-ea18-4893-8d20-85b2d79b8067

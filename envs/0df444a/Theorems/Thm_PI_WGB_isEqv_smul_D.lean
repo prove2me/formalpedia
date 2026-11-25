@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_isEqv_smul_D
 -- name    : PI.WGB.isEqv_smul_D
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:57:24.146922+00:00
 -- url     : https://prove2.me/theorems/97381b78-b5c1-5a46-8663-4b84c87fb327

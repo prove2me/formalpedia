@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_LinDerPf_prod_strict
 -- name    : PositivityTheory.ThKEst.LinDerPf.prod_strict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:27.433806+00:00
 -- url     : https://prove2.me/theorems/5b516ef2-e317-4388-829f-b887b95cd3a6

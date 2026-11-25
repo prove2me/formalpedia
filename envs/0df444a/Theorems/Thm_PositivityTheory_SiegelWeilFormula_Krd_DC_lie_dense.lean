@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Krd_DC_lie_dense
 -- name    : PositivityTheory.SiegelWeilFormula.Krd.DC.lie_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:04:02.569195+00:00
 -- url     : https://prove2.me/theorems/9ba4bb1d-0bc3-4524-93aa-3ff22c872079

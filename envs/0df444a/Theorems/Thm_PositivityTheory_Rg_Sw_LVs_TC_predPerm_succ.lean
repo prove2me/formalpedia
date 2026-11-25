@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_predPerm_succ
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.predPerm_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:49:58.41293+00:00
 -- url     : https://prove2.me/theorems/4e78b481-8a7c-4f47-ab0a-a66fae6a88c7

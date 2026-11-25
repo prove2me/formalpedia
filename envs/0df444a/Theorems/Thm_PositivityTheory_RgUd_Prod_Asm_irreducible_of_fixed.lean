@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Prod_Asm_irreducible_of_fixed
 -- name    : PositivityTheory.RgUd.Prod.Asm.irreducible_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:02:57.535061+00:00
 -- url     : https://prove2.me/theorems/6fe9c751-886d-4ca0-aac7-be1e8b2bcc9f

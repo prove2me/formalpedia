@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_normal_one
 -- name    : GlobalTheory.LatClass.normal_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:08:43.222356+00:00
 -- url     : https://prove2.me/theorems/461a4e33-11b8-46b0-a9c9-c925ec096b5c

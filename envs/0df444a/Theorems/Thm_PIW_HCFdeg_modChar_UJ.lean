@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_modChar_UJ
 -- name    : PIW.HCFdeg.modChar_UJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:49:00.83283+00:00
 -- url     : https://prove2.me/theorems/bf266a30-7078-5557-ab4b-0c85b02b4937

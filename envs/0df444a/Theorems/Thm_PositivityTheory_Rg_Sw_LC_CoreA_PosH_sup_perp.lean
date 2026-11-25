@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreA_PosH_sup_perp
 -- name    : PositivityTheory.Rg.Sw.LC.CoreA.PosH.sup_perp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:40:47.306854+00:00
 -- url     : https://prove2.me/theorems/0063cc22-51ed-4173-b422-3c80a262baac

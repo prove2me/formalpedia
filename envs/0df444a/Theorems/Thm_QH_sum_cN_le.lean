@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QH_sum_cN_le
 -- name    : QH.sum_cN_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:51:25.452852+00:00
 -- url     : https://prove2.me/theorems/a68ce725-ff7b-41f5-ab65-f2ca66f5af22

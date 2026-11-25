@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_exists_pow_sub
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.exists_pow_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:00.676801+00:00
 -- url     : https://prove2.me/theorems/57de0b1f-c0e1-4dd1-a1ce-8fb55104d1ed

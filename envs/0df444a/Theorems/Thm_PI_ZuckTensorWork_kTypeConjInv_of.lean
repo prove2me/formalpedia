@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_kTypeConjInv_of
 -- name    : PI.ZuckTensorWork.kTypeConjInv_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:47:01.5784+00:00
 -- url     : https://prove2.me/theorems/eec84e71-ae2a-4856-8084-9b711a965222

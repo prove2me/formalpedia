@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_uAct
 -- name    : PositivityTheory.Rg.Sw.LVs.uAct
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:27.523405+00:00
 -- url     : https://prove2.me/theorems/391aa424-a8ba-4b52-8ac5-ff771d6a97ce

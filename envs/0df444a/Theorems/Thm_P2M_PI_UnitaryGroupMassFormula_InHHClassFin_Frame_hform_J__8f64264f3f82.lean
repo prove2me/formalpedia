@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryGroupMassFormula_InHHClassFin_Frame_hform_J__8f64264f3f82
 -- name    : P2M_PI_UnitaryGroupMassFormula_InHHClassFin_Frame_hform_J__8f64264f3f82
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:03:40.849429+00:00
 -- url     : https://prove2.me/theorems/4593ab31-707d-5a3a-9e53-1b7fee54a799

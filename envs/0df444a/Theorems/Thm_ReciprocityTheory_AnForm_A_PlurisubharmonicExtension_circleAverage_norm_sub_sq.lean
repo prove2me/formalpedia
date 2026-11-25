@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PlurisubharmonicExtension_circleAverage_norm_sub_sq
 -- name    : ReciprocityTheory.AnForm.A.PlurisubharmonicExtension.circleAverage_norm_sub_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:50.845083+00:00
 -- url     : https://prove2.me/theorems/5182ec38-c3e4-4413-89f0-4a21cb72bd85

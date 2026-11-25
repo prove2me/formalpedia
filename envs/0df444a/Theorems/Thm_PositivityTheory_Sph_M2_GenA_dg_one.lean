@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Sph_M2_GenA_dg_one
 -- name    : PositivityTheory.Sph.M2.GenA.dg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:03:32.994097+00:00
 -- url     : https://prove2.me/theorems/81c13df8-f6c5-57a5-a50b-d345a0d684d4

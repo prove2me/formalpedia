@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_Z_herm_star
 -- name    : PositivityTheory.Rg.Sw.WR.Z.herm_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:02:28.750412+00:00
 -- url     : https://prove2.me/theorems/af27f05b-c9d2-48bf-86da-490c1feb77e3

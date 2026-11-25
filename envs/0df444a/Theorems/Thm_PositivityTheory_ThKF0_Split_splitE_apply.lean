@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Split_splitE_apply
 -- name    : PositivityTheory.ThKF0.Split.splitE_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:03:59.873046+00:00
 -- url     : https://prove2.me/theorems/66ef6361-d9c8-460e-b0b3-a29d7645948a

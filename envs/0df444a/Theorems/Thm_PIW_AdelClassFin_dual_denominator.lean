@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_dual_denominator
 -- name    : PIW.AdelClassFin.dual_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:28:58.171904+00:00
 -- url     : https://prove2.me/theorems/ca349a95-f83e-48ba-a152-34294efa5f68

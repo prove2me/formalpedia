@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Mom1_integrable_integrand
 -- name    : PositivityTheory.Rg.Sw.LC.Mom1.integrable_integrand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:48:55.48591+00:00
 -- url     : https://prove2.me/theorems/02e2ec55-d7c4-41ee-8a5d-63b957087f39

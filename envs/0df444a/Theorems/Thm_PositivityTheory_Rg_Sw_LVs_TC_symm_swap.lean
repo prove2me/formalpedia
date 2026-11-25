@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_symm_swap
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.symm_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:49:38.787099+00:00
 -- url     : https://prove2.me/theorems/149cbd37-5be4-4186-8e85-e5e4a7b2a968

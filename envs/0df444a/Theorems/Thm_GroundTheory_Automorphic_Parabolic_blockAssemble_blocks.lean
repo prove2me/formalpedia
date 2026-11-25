@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_blockAssemble_blocks
 -- name    : GroundTheory.Automorphic.Parabolic.blockAssemble_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:45:35.800468+00:00
 -- url     : https://prove2.me/theorems/8827adc5-3d61-5844-abb1-21e2cc2a8256

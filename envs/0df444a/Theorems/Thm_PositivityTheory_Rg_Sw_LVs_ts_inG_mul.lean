@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_ts_inG_mul
 -- name    : PositivityTheory.Rg.Sw.LVs.ts_inG_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:59:34.548985+00:00
 -- url     : https://prove2.me/theorems/4b215ba3-6a9a-45ad-a081-0b7d1bd3bae9

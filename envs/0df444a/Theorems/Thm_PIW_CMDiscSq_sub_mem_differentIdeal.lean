@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_CMDiscSq_sub_mem_differentIdeal
 -- name    : PIW.CMDiscSq.sub_mem_differentIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:48:12.342805+00:00
 -- url     : https://prove2.me/theorems/39ba5adc-3ac0-4a51-8c34-b6119294056b

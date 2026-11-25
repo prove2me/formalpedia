@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CEq_detD_eq_Dg
 -- name    : PositivityTheory.Rg.Sw.LVs.CEq.detD_eq_Dg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:25.480231+00:00
 -- url     : https://prove2.me/theorems/207f90ed-fc29-4f1c-a083-dc9946c0e30c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_LinAct_exists_section
 -- name    : PositivityTheory.ThK.LinAct.exists_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:05:47.478296+00:00
 -- url     : https://prove2.me/theorems/6a0bd896-930b-5345-b4e5-15ad05acb638

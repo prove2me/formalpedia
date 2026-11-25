@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiFrameW_frame_holds
 -- name    : PI.ScPiFrameW.frame_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:24:26.12556+00:00
 -- url     : https://prove2.me/theorems/737a9f05-5738-5020-bb86-dc35ca40d310

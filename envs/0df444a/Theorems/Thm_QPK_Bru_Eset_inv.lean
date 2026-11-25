@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_Bru_Eset_inv
 -- name    : QPK.Bru.Eset_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:50:56.59888+00:00
 -- url     : https://prove2.me/theorems/33775f50-26d8-42a1-b78d-ada7ea410a01

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Tf_Loc_conj_commute_of_commute
 -- name    : PositivityTheory.Rg.Tf.Loc.conj_commute_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:02:27.833969+00:00
 -- url     : https://prove2.me/theorems/5594c264-c65d-53fd-8792-4e2fd52741ec

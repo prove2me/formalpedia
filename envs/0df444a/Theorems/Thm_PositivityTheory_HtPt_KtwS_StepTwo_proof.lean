@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_HtPt_KtwS_StepTwo_proof
 -- name    : PositivityTheory.HtPt.KtwS.StepTwo.proof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:10:49.193479+00:00
 -- url     : https://prove2.me/theorems/1852392c-b530-57bd-bb1f-c5434992deae

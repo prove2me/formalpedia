@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KLI_deg_toMv
 -- name    : PositivityTheory.SiegelWeilFormula.KLI.deg_toMv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:49:56.841694+00:00
 -- url     : https://prove2.me/theorems/5d2d558d-4648-4c54-8d33-e7f93a4258f3

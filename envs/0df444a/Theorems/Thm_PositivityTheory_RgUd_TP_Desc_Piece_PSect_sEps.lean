@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PSect_sEps
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PSect.sEps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:04.952549+00:00
 -- url     : https://prove2.me/theorems/5e1433ca-af12-45cf-9ed9-1640c8c6203e

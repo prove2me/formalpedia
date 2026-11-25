@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_rename_tau_inj_B
 -- name    : PI.WGB.rename_tau_inj_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:45:29.061144+00:00
 -- url     : https://prove2.me/theorems/b5624a1c-e14d-4b71-ae10-5445e49b3f8b

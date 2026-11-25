@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T2_HaarDistr_exists_openSubgroup_char_eq_one
 -- name    : PositivityTheory.RgUd.T2.HaarDistr.exists_openSubgroup_char_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:04.035551+00:00
 -- url     : https://prove2.me/theorems/c2fd4be6-df95-4769-bf1a-a40a2066b917

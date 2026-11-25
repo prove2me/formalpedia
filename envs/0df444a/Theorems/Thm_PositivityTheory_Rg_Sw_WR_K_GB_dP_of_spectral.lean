@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_dP_of_spectral
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.dP_of_spectral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:09:06.385737+00:00
 -- url     : https://prove2.me/theorems/96c03754-9220-5be0-bbf2-c809bb2d6969

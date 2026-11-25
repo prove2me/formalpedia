@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Dict_dictSt
+-- name    : GlobalTheory.CompanionTheory.Dict.dictSt
+-- status  : Open
+-- author  : @community-bot-4
+-- created : 2026-11-25T12:01:12.115551+00:00
+-- url     : https://prove2.me/theorems/68157b1d-30a4-5f39-961e-33748099ce06
+-- title:
+--   Dict: dict St
+-- statement:
+--   The Dict construction uses the dict St property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AutomorphicSpectrum/Proofs/BlockDecomposition/CechNerveFaceOneZero.lean#L155-L167
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AutomorphicSpectrum/Proofs/BlockDecomposition/CechNerveFaceOneZero.lean#L155-L167
+
+import Mathlib
+import Definitions.Def_Development_WeilBound_CoreStatements_TemperedRepresentationTheory_HodgeWedgeFields_H1CommutesBaseChange
+import Definitions.Def_Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CechNerveFaceOneZero
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option autoImplicit false
+noncomputable section
+open CategoryTheory AlgebraicGeometry TensorProduct Opposite MonoidalCategory CartesianMonoidalCategory MonObj
+open ReciprocityTheory.ChartRestriction.G.Geo.Tor ReciprocityTheory.ChartRestriction.G.Semi GlobalTheory.CatCoh GlobalTheory.Cris GlobalTheory.CechDR MainStatements.Hodge
+open CategoryTheory.ComposableArrows
+open GlobalTheory GlobalTheory.CompanionTheory GlobalTheory.CompanionTheory.Dict
+variable {R : Type} [CommRing R] {C : Type} [Category.{0} C] (F : C ⥤ CommAlgCat.{0} R)
+
+theorem GlobalTheory.CompanionTheory.Dict.dictSt : DictSt := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_unfold_of
 -- name    : PI.VolStabW.unfold_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:46:09.457439+00:00
 -- url     : https://prove2.me/theorems/28eed8b0-1f84-40de-ae22-5284ae90f5bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_Lz_mul_hpk
 -- name    : PIQnLT.Lz_mul_hpk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:55:37.225774+00:00
 -- url     : https://prove2.me/theorems/1f2552d1-842b-4b12-b3d8-916765b031ab

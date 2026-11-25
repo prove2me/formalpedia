@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_abs_qX_le
 -- name    : PositivityTheory.Rg.Sw.WR.D.abs_qX_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:01:27.137653+00:00
 -- url     : https://prove2.me/theorems/e9125d1c-4b3d-418a-b834-9ce5c8049af2

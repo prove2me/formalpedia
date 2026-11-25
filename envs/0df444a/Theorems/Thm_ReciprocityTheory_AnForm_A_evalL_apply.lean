@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_evalL_apply
 -- name    : ReciprocityTheory.AnForm.A.evalL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:54.123933+00:00
 -- url     : https://prove2.me/theorems/8a42bb35-c6f7-47a5-bfda-5c60dc5ad8f2

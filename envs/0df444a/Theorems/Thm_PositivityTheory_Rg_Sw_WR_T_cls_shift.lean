@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_T_cls_shift
 -- name    : PositivityTheory.Rg.Sw.WR.T.cls_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:02:59.207285+00:00
 -- url     : https://prove2.me/theorems/d84455e0-6792-4a36-bbc3-744becc567b1

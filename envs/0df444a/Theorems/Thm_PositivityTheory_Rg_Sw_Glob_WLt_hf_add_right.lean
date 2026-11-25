@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_Glob_WLt_hf_add_right
 -- name    : PositivityTheory.Rg.Sw.Glob.WLt.hf_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:18.610474+00:00
 -- url     : https://prove2.me/theorems/94d701e5-8f4c-4280-bef6-a033b88864d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_STD_tsupport_dList_subset
 -- name    : PositivityTheory.Rg.Sw.LVs.STD.tsupport_dList_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:25.970655+00:00
 -- url     : https://prove2.me/theorems/0291325b-b1cf-4582-9dd3-a74f19da9c15

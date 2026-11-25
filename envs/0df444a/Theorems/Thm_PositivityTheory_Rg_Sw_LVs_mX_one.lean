@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_mX_one
 -- name    : PositivityTheory.Rg.Sw.LVs.mX_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:58:32.58032+00:00
 -- url     : https://prove2.me/theorems/e644366c-ed93-4045-af69-afebc026abea

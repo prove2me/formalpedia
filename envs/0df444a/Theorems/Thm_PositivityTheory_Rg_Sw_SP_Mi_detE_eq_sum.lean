@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_Mi_detE_eq_sum
 -- name    : PositivityTheory.Rg.Sw.SP.Mi.detE_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:59:34.196581+00:00
 -- url     : https://prove2.me/theorems/54cbf2a6-af2f-4f44-931c-7a09a16c3d86

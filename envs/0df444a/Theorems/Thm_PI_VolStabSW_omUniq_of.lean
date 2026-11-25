@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_omUniq_of
 -- name    : PI.VolStabSW.omUniq_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:45:06.994799+00:00
 -- url     : https://prove2.me/theorems/eff82c15-34c7-4fd5-8db5-e843ed300c5a

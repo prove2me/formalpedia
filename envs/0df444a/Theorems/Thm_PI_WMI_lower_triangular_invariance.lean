@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_lower_triangular_invariance
 -- name    : PI.WMI.lower_triangular_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:47:47.434955+00:00
 -- url     : https://prove2.me/theorems/da9799d9-c9b2-4e08-9c76-6c2a6c2e3589

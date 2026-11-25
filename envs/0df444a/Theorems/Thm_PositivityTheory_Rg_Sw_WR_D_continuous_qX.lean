@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_continuous_qX
 -- name    : PositivityTheory.Rg.Sw.WR.D.continuous_qX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:01:26.586395+00:00
 -- url     : https://prove2.me/theorems/185f47e6-0dbd-4990-9af5-cb53c8f9da86

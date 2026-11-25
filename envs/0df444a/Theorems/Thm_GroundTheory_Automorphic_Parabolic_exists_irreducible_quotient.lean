@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_exists_irreducible_quotient
 -- name    : GroundTheory.Automorphic.Parabolic.exists_irreducible_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:48:06.955604+00:00
 -- url     : https://prove2.me/theorems/5bcff70e-66e5-4496-b2ea-c5f18f035dcb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Unit_level_schur
 -- name    : PositivityTheory.PfBern.Unit.level_schur
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:51:36.242572+00:00
 -- url     : https://prove2.me/theorems/fc4a716e-5e14-50e9-b6bc-6a7340fe50a5

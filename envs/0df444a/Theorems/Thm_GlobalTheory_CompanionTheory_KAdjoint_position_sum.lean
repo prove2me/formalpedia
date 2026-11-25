@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KAdjoint_position_sum
 -- name    : GlobalTheory.CompanionTheory.KAdjoint.position_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:49:08.046472+00:00
 -- url     : https://prove2.me/theorems/d6521d50-54dd-476d-8487-2de01e5a39cd

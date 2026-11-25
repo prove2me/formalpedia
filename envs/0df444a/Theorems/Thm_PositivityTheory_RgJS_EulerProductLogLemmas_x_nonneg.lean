@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_EulerProductLogLemmas_x_nonneg
 -- name    : PositivityTheory.RgJS.EulerProductLogLemmas.x_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:02:34.439089+00:00
 -- url     : https://prove2.me/theorems/265de968-08eb-4395-a12d-6deee83fb1f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PlurisubharmonicExtension_loglog_bound
 -- name    : ReciprocityTheory.AnForm.A.PlurisubharmonicExtension.loglog_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:51.06079+00:00
 -- url     : https://prove2.me/theorems/ff53a791-9b42-532e-8128-cf5879d5dd21

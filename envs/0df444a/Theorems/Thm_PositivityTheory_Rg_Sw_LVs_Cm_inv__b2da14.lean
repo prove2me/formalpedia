@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_Cm_inv__b2da14
 -- name    : PositivityTheory.Rg.Sw.LVs.Cm_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:57:36.608952+00:00
 -- url     : https://prove2.me/theorems/b2da141a-5521-467a-98b4-153cc07f5a08

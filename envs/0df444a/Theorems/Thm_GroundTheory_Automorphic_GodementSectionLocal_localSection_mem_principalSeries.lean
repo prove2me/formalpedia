@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_localSection_mem_principalSeries
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.localSection_mem_principalSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:34:22.943464+00:00
 -- url     : https://prove2.me/theorems/5510d063-d852-5487-b42e-ecdafe72d09e

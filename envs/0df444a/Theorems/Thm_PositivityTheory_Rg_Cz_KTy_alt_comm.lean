@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_KTy_alt_comm
 -- name    : PositivityTheory.Rg.Cz.KTy.alt_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:52:39.782206+00:00
 -- url     : https://prove2.me/theorems/a81bc179-7313-5834-8252-b371834e9a42

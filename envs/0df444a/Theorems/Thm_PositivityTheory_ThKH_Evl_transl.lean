@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKH_Evl_transl
 -- name    : PositivityTheory.ThKH.Evl.transl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:05:08.820029+00:00
 -- url     : https://prove2.me/theorems/72dec08f-02bb-4549-9c32-22b56ef82e3b

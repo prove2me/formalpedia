@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_starScale
 -- name    : PI.UnitaryGroupMassFormula.UsCost.starScale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:37:07.548217+00:00
 -- url     : https://prove2.me/theorems/8706b274-3944-4f99-8c44-9caddbf6d542

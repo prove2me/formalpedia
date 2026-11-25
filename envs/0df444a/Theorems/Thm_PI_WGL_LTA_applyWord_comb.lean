@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTA_applyWord_comb
 -- name    : PI.WGL.LTA.applyWord_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:58:05.912579+00:00
 -- url     : https://prove2.me/theorems/d9e1709e-221e-5011-aa03-5d902dbd42c5

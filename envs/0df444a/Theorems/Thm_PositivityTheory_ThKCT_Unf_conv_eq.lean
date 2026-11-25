@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Unf_conv_eq
 -- name    : PositivityTheory.ThKCT.Unf.conv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:37.093541+00:00
 -- url     : https://prove2.me/theorems/bf8554c6-a300-45e5-8386-ed8e4157f1d4

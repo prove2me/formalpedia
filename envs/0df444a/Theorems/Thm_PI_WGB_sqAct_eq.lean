@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_sqAct_eq
 -- name    : PI.WGB.sqAct_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:07:19.252597+00:00
 -- url     : https://prove2.me/theorems/6ed6d88d-274c-40a6-957b-b2fcc9af02dd

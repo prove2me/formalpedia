@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_Common0Aux_lterm_pair
 -- name    : PositivityTheory.RgJS.Common0Aux.lterm_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:03:09.269833+00:00
 -- url     : https://prove2.me/theorems/e521573a-edfd-4648-9448-fe4164d382a9

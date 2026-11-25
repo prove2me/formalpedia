@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_LinAct_eventually_fix
 -- name    : PositivityTheory.ThK.LinAct.eventually_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:05:17.90324+00:00
 -- url     : https://prove2.me/theorems/0b9be9ca-d20a-5e31-892d-ff67d942914f

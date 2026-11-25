@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_cutoff_mul
 -- name    : ReciprocityTheory.AnForm.A.cutoff_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:51:10.895268+00:00
 -- url     : https://prove2.me/theorems/cec5be76-92af-5f6f-a01f-e0bc91ac84fa

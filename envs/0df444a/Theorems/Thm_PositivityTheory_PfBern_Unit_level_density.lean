@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Unit_level_density
 -- name    : PositivityTheory.PfBern.Unit.level_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:06:17.598805+00:00
 -- url     : https://prove2.me/theorems/448534d2-73de-527b-901a-ee8fd93b9598

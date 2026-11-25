@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Prod_Asm_le_genSub
 -- name    : PositivityTheory.RgUd.Prod.Asm.le_genSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:02:29.529812+00:00
 -- url     : https://prove2.me/theorems/1a216a92-9c32-5adc-a673-52c469e4bd2b

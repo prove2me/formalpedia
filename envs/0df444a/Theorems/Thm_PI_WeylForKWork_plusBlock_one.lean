@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_plusBlock_one
 -- name    : PI.WeylForKWork.plusBlock_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:44:29.144064+00:00
 -- url     : https://prove2.me/theorems/db3ccb2a-2192-510a-be7d-cdd842cdbfa7

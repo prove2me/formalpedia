@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PSect_Pj_succ_le
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PSect.Pj_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:00.547508+00:00
 -- url     : https://prove2.me/theorems/18b5baef-42bb-5178-8c01-2774f67b274d

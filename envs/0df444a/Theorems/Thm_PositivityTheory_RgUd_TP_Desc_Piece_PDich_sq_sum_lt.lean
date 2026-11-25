@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PDich_sq_sum_lt
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PDich.sq_sum_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:32.378795+00:00
 -- url     : https://prove2.me/theorems/94d7ccb7-fe99-4a8e-9b18-d3dc05d255d2

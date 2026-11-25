@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Tf_Loc_twNorm_twConj
 -- name    : PositivityTheory.Rg.Tf.Loc.twNorm_twConj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:02:35.762563+00:00
 -- url     : https://prove2.me/theorems/c3e28bcf-1ba2-5005-92d4-e784a98cfc4c

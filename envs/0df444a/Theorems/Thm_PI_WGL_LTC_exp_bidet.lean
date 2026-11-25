@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTC_exp_bidet
 -- name    : PI.WGL.LTC.exp_bidet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:45:03.428641+00:00
 -- url     : https://prove2.me/theorems/52c7897d-a9e5-56d8-b770-87d76a79ab12

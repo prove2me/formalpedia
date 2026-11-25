@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KFock_measure_split
 -- name    : PositivityTheory.SiegelWeilFormula.KFock.measure_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:50:07.365349+00:00
 -- url     : https://prove2.me/theorems/47249ba5-c327-4812-9cb4-6af17b7e37c9

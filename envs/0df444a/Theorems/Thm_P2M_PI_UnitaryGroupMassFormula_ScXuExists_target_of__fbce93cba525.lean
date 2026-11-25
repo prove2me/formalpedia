@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryGroupMassFormula_ScXuExists_target_of__fbce93cba525
 -- name    : P2M_PI_UnitaryGroupMassFormula_ScXuExists_target_of__fbce93cba525
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:03:01.528373+00:00
 -- url     : https://prove2.me/theorems/607812d5-f02f-488b-b60b-2d81613fe10b

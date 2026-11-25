@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_blockAssemble_diagonal
 -- name    : GroundTheory.Automorphic.Parabolic.blockAssemble_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:31:24.981347+00:00
 -- url     : https://prove2.me/theorems/04996650-e164-4fff-a0e8-a7c354f7d5e1

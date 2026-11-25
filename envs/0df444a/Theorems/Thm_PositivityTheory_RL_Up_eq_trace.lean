@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RL_Up_eq_trace
 -- name    : PositivityTheory.RL.Up.eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:55:05.523784+00:00
 -- url     : https://prove2.me/theorems/30032987-c5b2-568f-a45d-e80b00bfbc58

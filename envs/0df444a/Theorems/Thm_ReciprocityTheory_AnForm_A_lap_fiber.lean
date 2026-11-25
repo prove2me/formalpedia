@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_lap_fiber
 -- name    : ReciprocityTheory.AnForm.A.lap_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:05:53.52771+00:00
 -- url     : https://prove2.me/theorems/c31273f0-5227-4d02-a6ec-7bbdcc987801

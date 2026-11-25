@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_block_part_single
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.block_part_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:27.220628+00:00
 -- url     : https://prove2.me/theorems/90cffcb3-dc52-4cd1-bdea-58d166896420

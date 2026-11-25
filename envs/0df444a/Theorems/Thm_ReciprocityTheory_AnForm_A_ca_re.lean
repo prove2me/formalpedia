@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_ca_re
 -- name    : ReciprocityTheory.AnForm.A.ca_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:50:58.173557+00:00
 -- url     : https://prove2.me/theorems/6ebf8bfb-b308-445a-9bcb-ca3558b3a39b

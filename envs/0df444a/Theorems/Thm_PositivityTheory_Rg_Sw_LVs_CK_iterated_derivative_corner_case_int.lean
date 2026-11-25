@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CK_iterated_derivative_corner_case_int
 -- name    : PositivityTheory.Rg.Sw.LVs.CK.iterated_derivative_corner_case_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:49:59.729509+00:00
 -- url     : https://prove2.me/theorems/2db4948d-f971-4740-b36c-9f5ef1decfd1

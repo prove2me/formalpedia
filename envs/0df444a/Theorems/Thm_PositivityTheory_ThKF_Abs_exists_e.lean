@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF_Abs_exists_e
 -- name    : PositivityTheory.ThKF.Abs.exists_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:40.192817+00:00
 -- url     : https://prove2.me/theorems/7f1a3370-5cc6-4a5b-8640-d10524e4cc66

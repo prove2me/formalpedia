@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Asm_lin_comb
 -- name    : PositivityTheory.RgUd.T.Nil.Asm.lin_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:02:29.846397+00:00
 -- url     : https://prove2.me/theorems/b8f11729-634f-5966-b9ed-49836913ad56

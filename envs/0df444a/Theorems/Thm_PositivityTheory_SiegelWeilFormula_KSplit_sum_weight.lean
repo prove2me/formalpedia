@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KSplit_sum_weight
 -- name    : PositivityTheory.SiegelWeilFormula.KSplit.sum_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:03:54.462096+00:00
 -- url     : https://prove2.me/theorems/5714c7d6-7251-4855-be07-86975ad35e75

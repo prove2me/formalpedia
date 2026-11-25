@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_KAKB_cayley_mul_inverse
 -- name    : PositivityTheory.Rg.Sw.KAKB.cayley_mul_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:01:55.477478+00:00
 -- url     : https://prove2.me/theorems/20f19682-be58-42e4-b7d1-52f9959a52e0

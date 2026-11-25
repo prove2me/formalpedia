@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_MMap_Fq_scale
 -- name    : PI.WMI.MMap.Fq_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:01:17.968844+00:00
 -- url     : https://prove2.me/theorems/c10b8dd4-92ad-5282-9d8c-7c407f7bcbc5

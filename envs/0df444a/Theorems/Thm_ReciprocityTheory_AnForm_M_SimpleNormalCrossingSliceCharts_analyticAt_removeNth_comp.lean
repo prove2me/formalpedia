@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_SimpleNormalCrossingSliceCharts_analyticAt_removeNth_comp
 -- name    : ReciprocityTheory.AnForm.M.SimpleNormalCrossingSliceCharts.analyticAt_removeNth_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:19:27.151107+00:00
 -- url     : https://prove2.me/theorems/6a7eb19c-d2b8-5438-b806-f4517c79f999

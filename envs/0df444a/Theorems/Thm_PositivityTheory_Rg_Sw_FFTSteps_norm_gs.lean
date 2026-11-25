@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_norm_gs
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.norm_gs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:06.183186+00:00
 -- url     : https://prove2.me/theorems/35c15936-3c45-42c5-95ec-6f7568111584

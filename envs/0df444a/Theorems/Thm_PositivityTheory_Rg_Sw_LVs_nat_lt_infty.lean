@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_nat_lt_infty
 -- name    : PositivityTheory.Rg.Sw.LVs.nat_lt_infty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:00:24.630862+00:00
 -- url     : https://prove2.me/theorems/988448a6-1bf9-53b8-966e-8706c588f0a3

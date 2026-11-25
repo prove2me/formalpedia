@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_Common0Aux_dsum_subtype
 -- name    : PositivityTheory.RgJS.Common0Aux.dsum_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:02:42.157947+00:00
 -- url     : https://prove2.me/theorems/8b906d30-faa6-5792-814c-d3b8f1af24c6

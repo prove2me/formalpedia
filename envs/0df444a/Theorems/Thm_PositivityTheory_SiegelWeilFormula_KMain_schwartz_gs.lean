@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KMain_schwartz_gs
 -- name    : PositivityTheory.SiegelWeilFormula.KMain.schwartz_gs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:50:44.37048+00:00
 -- url     : https://prove2.me/theorems/1d8e885f-fc14-41cc-9a91-e8bd5036bb1c

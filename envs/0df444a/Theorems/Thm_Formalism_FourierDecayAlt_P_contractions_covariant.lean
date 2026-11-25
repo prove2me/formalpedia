@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_contractions_covariant
 -- name    : Formalism.FourierDecayAlt.P.contractions_covariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:51:16.388004+00:00
 -- url     : https://prove2.me/theorems/f8a0bbd9-49c5-4e56-9b60-e8f742d3de93

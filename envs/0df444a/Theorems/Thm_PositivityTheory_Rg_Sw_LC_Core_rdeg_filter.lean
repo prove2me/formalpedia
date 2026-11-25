@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Core_rdeg_filter
 -- name    : PositivityTheory.Rg.Sw.LC.Core.rdeg_filter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:55:14.814846+00:00
 -- url     : https://prove2.me/theorems/21d41257-c1ab-5b87-8790-cf98ff7ec540

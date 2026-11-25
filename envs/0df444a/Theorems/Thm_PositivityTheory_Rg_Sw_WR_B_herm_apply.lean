@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_herm_apply
 -- name    : PositivityTheory.Rg.Sw.WR.B.herm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:00:30.856263+00:00
 -- url     : https://prove2.me/theorems/e683c0d6-265c-4f7b-a851-56f339d648cb

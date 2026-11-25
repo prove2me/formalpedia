@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Form_U_Atom_exists_GL_vecMul
 -- name    : PositivityTheory.RgUd.Form.U.Atom.exists_GL_vecMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:36.788199+00:00
 -- url     : https://prove2.me/theorems/66e7cd66-6a2c-4046-a01e-ec1a18d57b2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_indicator_shellAt_eq
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.indicator_shellAt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:35:17.689894+00:00
 -- url     : https://prove2.me/theorems/e8eab35c-e68b-56ab-b6c9-4916b7c85814

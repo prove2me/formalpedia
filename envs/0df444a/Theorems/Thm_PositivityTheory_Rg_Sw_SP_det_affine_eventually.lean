@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_det_affine_eventually
 -- name    : PositivityTheory.Rg.Sw.SP.det_affine_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:49:52.093233+00:00
 -- url     : https://prove2.me/theorems/7d0651d3-5476-4b94-bdc2-29ea2d097c87

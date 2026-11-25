@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_memB
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.memB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:49:35.282771+00:00
 -- url     : https://prove2.me/theorems/9cdef2ed-e994-436c-bb59-85b35a485436

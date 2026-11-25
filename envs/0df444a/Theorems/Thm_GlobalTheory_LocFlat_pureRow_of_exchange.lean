@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_pureRow_of_exchange
 -- name    : GlobalTheory.LocFlat.pureRow_of_exchange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:31:48.257905+00:00
 -- url     : https://prove2.me/theorems/0e914be7-e6d0-46e5-b2f2-64b3653eca5b

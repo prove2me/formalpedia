@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_sgn_mul_same
 -- name    : PositivityTheory.Rg.Sw.LC.sgn_mul_same
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:49:36.134069+00:00
 -- url     : https://prove2.me/theorems/31e406fa-09a0-494f-b8da-399dcde2aa1a

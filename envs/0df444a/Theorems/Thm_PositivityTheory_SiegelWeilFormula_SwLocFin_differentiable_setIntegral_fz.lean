@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_SwLocFin_differentiable_setIntegral_fz
 -- name    : PositivityTheory.SiegelWeilFormula.SwLocFin.differentiable_setIntegral_fz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:03:41.173348+00:00
 -- url     : https://prove2.me/theorems/443a6642-479d-5c37-87e8-e4dbd0ed0dfd

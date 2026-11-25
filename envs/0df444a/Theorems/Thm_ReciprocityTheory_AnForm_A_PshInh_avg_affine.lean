@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshInh_avg_affine
 -- name    : ReciprocityTheory.AnForm.A.PshInh.avg_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:51:05.342615+00:00
 -- url     : https://prove2.me/theorems/9c6a4279-1e46-4c2f-85da-f4f53141c6c2

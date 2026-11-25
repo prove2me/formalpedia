@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CK_fderiv_determinant_power_corner_int
 -- name    : PositivityTheory.Rg.Sw.LVs.CK.fderiv_determinant_power_corner_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:51:18.516723+00:00
 -- url     : https://prove2.me/theorems/e29f08ca-2d31-4c48-9044-1952537aad73

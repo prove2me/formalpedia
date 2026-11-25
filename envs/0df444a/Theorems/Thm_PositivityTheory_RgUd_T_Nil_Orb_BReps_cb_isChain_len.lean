@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Orb_BReps_cb_isChain_len
 -- name    : PositivityTheory.RgUd.T.Nil.Orb.BReps.cb_isChain_len
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:03:20.948522+00:00
 -- url     : https://prove2.me/theorems/9bbcd2a8-1646-4f21-9aba-41ea470609e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreA_orbit
 -- name    : PositivityTheory.Rg.Sw.LC.CoreA.orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:55:18.205874+00:00
 -- url     : https://prove2.me/theorems/662d2a02-767c-5f44-98b4-388f210e6576

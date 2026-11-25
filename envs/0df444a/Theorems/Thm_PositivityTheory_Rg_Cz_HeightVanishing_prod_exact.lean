@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_HeightVanishing_prod_exact
 -- name    : PositivityTheory.Rg.Cz.HeightVanishing.prod_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:48:49.371816+00:00
 -- url     : https://prove2.me/theorems/2741b8cc-f200-4346-9241-36b0d300e926

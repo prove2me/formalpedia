@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_finiteDimensional_of_le_tilt
 -- name    : GroundTheory.PAdicHodge.finiteDimensional_of_le_tilt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:48:40.8618+00:00
 -- url     : https://prove2.me/theorems/f5ab76ee-4c01-5830-ac78-b1b626aa0925

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Krd_DC_isOpen_dom
 -- name    : PositivityTheory.SiegelWeilFormula.Krd.DC.isOpen_dom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:03:48.639641+00:00
 -- url     : https://prove2.me/theorems/7eebd447-6415-50c7-9eac-683c8f3e9af3

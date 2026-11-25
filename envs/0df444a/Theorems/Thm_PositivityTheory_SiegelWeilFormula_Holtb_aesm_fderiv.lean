@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Holtb_aesm_fderiv
 -- name    : PositivityTheory.SiegelWeilFormula.Holtb.aesm_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:36.266085+00:00
 -- url     : https://prove2.me/theorems/03985512-58cd-4ff2-8961-fa1ec549dd8e

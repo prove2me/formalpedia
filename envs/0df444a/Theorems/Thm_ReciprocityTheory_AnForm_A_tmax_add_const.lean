@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_tmax_add_const
 -- name    : ReciprocityTheory.AnForm.A.tmax_add_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:19:22.575166+00:00
 -- url     : https://prove2.me/theorems/2c342a62-66f3-48aa-90f3-06d00de3306c

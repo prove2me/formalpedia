@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_semiFam
 -- name    : PositivityTheory.Rg.Sw.LC.semiFam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:49:10.871186+00:00
 -- url     : https://prove2.me/theorems/ae3ac727-4fb4-48a2-9485-e33da3a6993b

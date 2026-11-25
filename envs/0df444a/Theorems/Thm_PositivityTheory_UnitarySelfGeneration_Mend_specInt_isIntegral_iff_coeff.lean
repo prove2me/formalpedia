@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_UnitarySelfGeneration_Mend_specInt_isIntegral_iff_coeff
 -- name    : PositivityTheory.UnitarySelfGeneration.Mend.specInt_isIntegral_iff_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:05:26.541052+00:00
 -- url     : https://prove2.me/theorems/ffbcb7a1-974c-4c88-9a9e-24c0f29a4350

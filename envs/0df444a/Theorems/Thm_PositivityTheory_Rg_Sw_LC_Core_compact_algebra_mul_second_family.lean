@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Core_compact_algebra_mul_second_family
 -- name    : PositivityTheory.Rg.Sw.LC.Core.compact_algebra_mul_second_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:55:48.159419+00:00
 -- url     : https://prove2.me/theorems/5c0b4057-94fb-4820-bf3b-f7424dd5964a

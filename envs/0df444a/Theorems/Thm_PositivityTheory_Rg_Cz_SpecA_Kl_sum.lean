@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_SpecA_Kl_sum
 -- name    : PositivityTheory.Rg.Cz.SpecA.Kl_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:53:06.083805+00:00
 -- url     : https://prove2.me/theorems/b6bf3f67-70cb-4276-abed-d6ecaa0e7641

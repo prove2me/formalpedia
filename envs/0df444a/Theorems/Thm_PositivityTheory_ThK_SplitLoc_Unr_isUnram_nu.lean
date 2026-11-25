@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_isUnram_nu
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.isUnram_nu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:06:55.517826+00:00
 -- url     : https://prove2.me/theorems/bc42bb9d-e605-5f3e-9b4e-1aaf64537191

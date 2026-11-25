@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwEvalWork_wwEval
 -- name    : PI.WwEvalWork.wwEval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:46:12.402182+00:00
 -- url     : https://prove2.me/theorems/88ac0a7d-f9d8-4144-a55e-d386b45dde65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_fixed_point_subgroup
 -- name    : PI.StabSplit.fixed_point_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:47:23.846382+00:00
 -- url     : https://prove2.me/theorems/8fc8f2bb-4d19-4ca3-9474-5dabdbeca876

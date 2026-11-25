@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_HSt_PCD_contDiffOn_integral__5b3d1c8257c9
 -- name    : P2M_PositivityTheory_Rg_Sw_HSt_PCD_contDiffOn_integral__5b3d1c8257c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:09:45.678485+00:00
 -- url     : https://prove2.me/theorems/b0dc4ea0-2c82-43b9-9b8c-2cf75e58ef21

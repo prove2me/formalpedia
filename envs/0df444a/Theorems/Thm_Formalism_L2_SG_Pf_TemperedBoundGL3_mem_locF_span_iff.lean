@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_TemperedBoundGL3_mem_locF_span_iff
 -- name    : Formalism.L2.SG.Pf.TemperedBoundGL3.mem_locF_span_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:41:11.0478+00:00
 -- url     : https://prove2.me/theorems/ade5f7b8-aa8a-555a-bce3-6ec25b46081a

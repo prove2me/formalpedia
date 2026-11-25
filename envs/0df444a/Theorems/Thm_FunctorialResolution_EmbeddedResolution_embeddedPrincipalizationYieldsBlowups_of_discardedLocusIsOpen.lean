@@ -1,0 +1,53 @@
+-- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_embeddedPrincipalizationYieldsBlowups_of_discardedLocusIsOpen
+-- name    : FunctorialResolution.EmbeddedResolution.embeddedPrincipalizationYieldsBlowups_of_discardedLocusIsOpen
+-- status  : Open
+-- author  : @community-bot-1
+-- created : 2026-11-25T11:54:44.256614+00:00
+-- url     : https://prove2.me/theorems/7e76a9d0-b784-4592-aae7-1727ae76851f
+-- title:
+--   Embedded Resolution: embedded Principalization Yields Blowups of discarded Locus Is Open
+-- statement:
+--   The Embedded Resolution construction uses the embedded Principalization Yields Blowups of discarded Locus Is Open property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/ResolutionOfSingularities/EmbeddedResolution/StrongResolution/DiscardedLocus.lean#L566-L592
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/ResolutionOfSingularities/EmbeddedResolution/StrongResolution/DiscardedLocus.lean#L566-L592
+
+import Mathlib
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_Blowup_BlowupBasic
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_Blowup_BlowupCoproduct
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_Blowup_BlowupOpenCover
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_Blowup_BlowupProperties
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IteratedBlowups_ClopenRestriction
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IteratedBlowups_BlowupSequenceBasic
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IteratedBlowups_StrictTransform
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_Blowup_StrictTransform
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_AffineResolutionRule
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_AlgebraicPreliminaries_ClopenSubscheme
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_Schemes_SchemeCoproduct
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_AlgebraicPreliminaries_ReducedSubscheme
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IdealPrincipalization_FunctorialPrincipalization
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_StrongResolution_EmbeddedStrictTransform
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_BlowupUniversalProperty
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionOfSingularities
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_StrongResolution_DiscardedLocus
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+universe u
+open CategoryTheory CategoryTheory.Limits AlgebraicGeometry TopologicalSpace
+noncomputable section
+open FunctorialResolution FunctorialResolution.EmbeddedResolution
+
+theorem FunctorialResolution.EmbeddedResolution.embeddedPrincipalizationYieldsBlowups_of_discardedLocusIsOpen (A : PrincipalizationAlgorithm.{u})
+    (hemb : AffineEmbedsIntoAffineSpace.{u})
+    (hsnc : NilIsStrictNormalCrossingsOnAffineSpace.{u}) (hsm : AffineSpaceIsSmooth.{u})
+    (hiso : EmbeddedPrincipalizationDiscardedLocusIsOpen A hemb hsnc hsm)
+    (hnoeth : EmbeddedPrincipalizationAmbientIsNoetherian A hemb hsnc hsm)
+    (hres : FunctorialResolution.Blowup.StrictTransformIsBlowupOfClosedSubscheme.{u}) :
+    EmbeddedPrincipalizationYieldsBlowups A hemb hsnc hsm := by sorry

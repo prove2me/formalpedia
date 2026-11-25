@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PDich_num_fib
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PDich.num_fib
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:03:13.807478+00:00
 -- url     : https://prove2.me/theorems/547638c2-4313-4662-a218-fb8dc5b5ee27

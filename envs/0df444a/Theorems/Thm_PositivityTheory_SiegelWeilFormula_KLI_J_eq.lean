@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KLI_J_eq
 -- name    : PositivityTheory.SiegelWeilFormula.KLI.J_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:13:16.510173+00:00
 -- url     : https://prove2.me/theorems/19fc929a-b420-4f02-9811-0926c7356598

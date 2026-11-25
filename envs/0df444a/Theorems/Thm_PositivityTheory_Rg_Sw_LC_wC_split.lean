@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_wC_split
 -- name    : PositivityTheory.Rg.Sw.LC.wC_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:10.761299+00:00
 -- url     : https://prove2.me/theorems/f6835109-5b1f-503c-b9f6-bc3ad42ce0fb

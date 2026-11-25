@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_QuantumDeterminantProducts_evA
 -- name    : PositivityTheory.Rg.Cz.QuantumDeterminantProducts.evA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:49:37.201799+00:00
 -- url     : https://prove2.me/theorems/73dc661c-098e-483b-9d97-8cb333b851d1

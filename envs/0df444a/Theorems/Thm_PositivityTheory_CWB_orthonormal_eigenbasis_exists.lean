@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_orthonormal_eigenbasis_exists
 -- name    : PositivityTheory.CWB.orthonormal_eigenbasis_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:55.652051+00:00
 -- url     : https://prove2.me/theorems/0e88657b-1b17-4d18-b76e-9e54384e3d06

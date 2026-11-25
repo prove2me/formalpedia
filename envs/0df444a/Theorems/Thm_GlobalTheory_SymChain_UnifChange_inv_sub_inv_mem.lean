@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_UnifChange_inv_sub_inv_mem
 -- name    : GlobalTheory.SymChain.UnifChange.inv_sub_inv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:37:01.636078+00:00
 -- url     : https://prove2.me/theorems/1a4d2339-b5ad-5cdb-9c4f-d56423fb0869

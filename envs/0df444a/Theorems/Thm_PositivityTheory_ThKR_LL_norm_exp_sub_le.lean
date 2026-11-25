@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_LL_norm_exp_sub_le
 -- name    : PositivityTheory.ThKR.LL.norm_exp_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:05:20.750011+00:00
 -- url     : https://prove2.me/theorems/1bc87307-b828-404f-bacb-23e33bcc8ebc

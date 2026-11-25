@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForUWork_natW_cast_real
 -- name    : PI.WeylForUWork.natW_cast_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:44:32.19075+00:00
 -- url     : https://prove2.me/theorems/01966eaf-6ecc-41e3-bbb3-03b2b2e0d6ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_LandauNonnegativeDirichletSeries_hasSum_iteratedDeriv
 -- name    : PositivityTheory.RgJS.LandauNonnegativeDirichletSeries.hasSum_iteratedDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:02:29.86669+00:00
 -- url     : https://prove2.me/theorems/4548159f-e0ff-5f30-ba2f-702ba5006f48

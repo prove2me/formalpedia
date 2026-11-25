@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Fock6_rowGen_diag_monomial
 -- name    : PI.WGL.Fock6.rowGen_diag_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:00:37.678422+00:00
 -- url     : https://prove2.me/theorems/d4e8e654-f17f-59fd-b55f-ddf8c5688aea

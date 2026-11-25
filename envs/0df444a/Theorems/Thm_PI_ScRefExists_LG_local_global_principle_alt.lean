@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_LG_local_global_principle_alt
 -- name    : PI.ScRefExists.LG.local_global_principle_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:38:06.198938+00:00
 -- url     : https://prove2.me/theorems/c1ae3111-c4f1-4c2d-9c61-867f30620e05

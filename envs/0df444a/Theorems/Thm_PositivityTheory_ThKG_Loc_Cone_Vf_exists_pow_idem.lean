@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Cone_Vf_exists_pow_idem
 -- name    : PositivityTheory.ThKG.Loc.Cone.Vf.exists_pow_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:05:02.884882+00:00
 -- url     : https://prove2.me/theorems/b420b948-c0ee-5f4d-9713-9382f2012a0c

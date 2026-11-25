@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_fderiv_fderiv_re_analytic
 -- name    : ReciprocityTheory.AnForm.A.fderiv_fderiv_re_analytic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:52.599819+00:00
 -- url     : https://prove2.me/theorems/c572ef7c-b1e4-4910-affe-5ded7dc2f795

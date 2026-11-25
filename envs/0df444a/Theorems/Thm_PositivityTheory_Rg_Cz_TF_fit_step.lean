@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TF_fit_step
 -- name    : PositivityTheory.Rg.Cz.TF.fit_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:55:06.347258+00:00
 -- url     : https://prove2.me/theorems/b27aa3cc-6339-50f7-b353-5af2b0590ac9

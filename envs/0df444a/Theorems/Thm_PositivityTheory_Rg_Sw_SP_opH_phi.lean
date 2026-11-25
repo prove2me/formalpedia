@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_opH_phi
 -- name    : PositivityTheory.Rg.Sw.SP.opH_phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:04:45.758886+00:00
 -- url     : https://prove2.me/theorems/c609cb53-8912-5883-bf70-912c76756e6a

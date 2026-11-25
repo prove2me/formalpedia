@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_continuous_Lc_comp
 -- name    : PositivityTheory.Rg.Sw.WR.D.continuous_Lc_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:01:19.92684+00:00
 -- url     : https://prove2.me/theorems/78cdcd78-d88d-48c3-a064-52ce08efba82

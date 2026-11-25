@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_contDiffOn_inverse_first_block
 -- name    : PositivityTheory.Rg.Sw.LVs.contDiffOn_inverse_first_block
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:12:57.061831+00:00
 -- url     : https://prove2.me/theorems/485afb11-e0f5-4893-88aa-2391112dd62a

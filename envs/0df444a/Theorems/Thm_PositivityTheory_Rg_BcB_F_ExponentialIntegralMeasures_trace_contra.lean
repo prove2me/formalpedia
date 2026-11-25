@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_F_ExponentialIntegralMeasures_trace_contra
 -- name    : PositivityTheory.Rg.BcB.F.ExponentialIntegralMeasures.trace_contra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:57:56.099358+00:00
 -- url     : https://prove2.me/theorems/fbe16d23-5491-4a82-b73e-0a6b074b1ba1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rootExchange_blockDiagonal_target_entry_conditions
 -- name    : GlobalTheory.T.rootExchange_blockDiagonal_target_entry_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:20:45.564576+00:00
 -- url     : https://prove2.me/theorems/743d9afe-ba47-4fd7-b051-9b2785d1e2ac

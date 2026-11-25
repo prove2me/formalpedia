@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_branching_rule_decomposition
 -- name    : PI.WGB.branching_rule_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:01:29.274828+00:00
 -- url     : https://prove2.me/theorems/891b5d61-eb06-5dc5-8af8-3fe7374d23a0

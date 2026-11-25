@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Cj_transvection_preserves_haar
 -- name    : PI.VolSemiDirect.W.Cj.transvection_preserves_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:36:42.458552+00:00
 -- url     : https://prove2.me/theorems/4f54d00f-9918-5d5b-bce7-29a14e922c1b

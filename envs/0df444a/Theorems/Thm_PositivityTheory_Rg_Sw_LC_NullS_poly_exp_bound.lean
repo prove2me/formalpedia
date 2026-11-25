@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_NullS_poly_exp_bound
 -- name    : PositivityTheory.Rg.Sw.LC.NullS.poly_exp_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:49:27.611967+00:00
 -- url     : https://prove2.me/theorems/c7f719d3-3aa6-4a73-8459-0335ba93e3c9

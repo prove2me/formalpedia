@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_qnTInv
 -- name    : qnTInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:31:43.860801+00:00
 -- url     : https://prove2.me/theorems/3243a94b-70c4-4e01-9c69-94377c43b52b

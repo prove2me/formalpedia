@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_exists_apply_eq_out
 -- name    : GroundTheory.Automorphic.Parabolic.exists_apply_eq_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:23:05.393469+00:00
 -- url     : https://prove2.me/theorems/dfbedfd7-b6a4-4dc4-b480-fd9106c124e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_pb_conj_entry
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.pb_conj_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:52:12.305481+00:00
 -- url     : https://prove2.me/theorems/3b02e725-ba4a-5bf4-bdbf-83c6d531f6ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosEntries_entries_core
 -- name    : GlobalTheory.PosEntries.entries_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:12:01.315938+00:00
 -- url     : https://prove2.me/theorems/e25cead7-fa5a-4f16-844a-8ce1f677a55f

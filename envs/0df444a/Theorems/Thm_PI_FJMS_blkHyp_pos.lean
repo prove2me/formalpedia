@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMS_blkHyp_pos
 -- name    : PI.FJMS.blkHyp_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:12.898085+00:00
 -- url     : https://prove2.me/theorems/37f39f88-b0e6-4fdd-b9b0-b429d04658ee

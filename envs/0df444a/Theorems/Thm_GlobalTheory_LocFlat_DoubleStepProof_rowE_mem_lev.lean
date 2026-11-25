@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_DoubleStepProof_rowE_mem_lev
 -- name    : GlobalTheory.LocFlat.DoubleStepProof.rowE_mem_lev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:30:59.437644+00:00
 -- url     : https://prove2.me/theorems/78aa3a4b-56f4-423c-96fc-f964f0a78e23

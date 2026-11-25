@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_CCA_leibC
 -- name    : PI.UnitaryCorollaryDerivatives.CCA.leibC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:47:10.485176+00:00
 -- url     : https://prove2.me/theorems/6bc174cc-c2d1-4564-9df4-0188d8e66ebe

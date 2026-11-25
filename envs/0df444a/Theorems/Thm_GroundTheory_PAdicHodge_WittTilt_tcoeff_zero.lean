@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittTilt_tcoeff_zero
 -- name    : GroundTheory.PAdicHodge.WittTilt.tcoeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:37:47.53971+00:00
 -- url     : https://prove2.me/theorems/39eda895-f220-4d18-96f1-25be63d6cfdc

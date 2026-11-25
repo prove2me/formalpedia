@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SiegelT_norm_psi
 -- name    : PositivityTheory.ThK.SiegelT.norm_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:04:19.062577+00:00
 -- url     : https://prove2.me/theorems/62ae963c-488c-486a-92ee-2bcd621a1ea3

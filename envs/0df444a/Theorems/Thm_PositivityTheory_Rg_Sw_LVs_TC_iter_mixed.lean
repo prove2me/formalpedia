@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_iter_mixed
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.iter_mixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:36.08556+00:00
 -- url     : https://prove2.me/theorems/a5fc25c1-a680-49f0-bd18-0daaa28e9e70

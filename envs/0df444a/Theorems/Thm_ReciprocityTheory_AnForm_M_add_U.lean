@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_add_U
 -- name    : ReciprocityTheory.AnForm.M.add_U
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:19:12.539091+00:00
 -- url     : https://prove2.me/theorems/ee12cd0d-1966-4e1c-957a-3637001515db

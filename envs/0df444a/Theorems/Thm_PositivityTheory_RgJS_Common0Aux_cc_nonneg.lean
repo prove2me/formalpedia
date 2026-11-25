@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_Common0Aux_cc_nonneg
 -- name    : PositivityTheory.RgJS.Common0Aux.cc_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:03:01.474702+00:00
 -- url     : https://prove2.me/theorems/c8ebc8b0-a82e-470e-853f-26d8efc01f84

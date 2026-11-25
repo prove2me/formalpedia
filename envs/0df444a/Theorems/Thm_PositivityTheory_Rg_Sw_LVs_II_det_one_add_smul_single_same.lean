@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_det_one_add_smul_single_same
 -- name    : PositivityTheory.Rg.Sw.LVs.II.det_one_add_smul_single_same
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:58:50.549876+00:00
 -- url     : https://prove2.me/theorems/aa4af882-7f95-4f8b-96d5-7fa39af621aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_eval_D_A
 -- name    : PI.WGB.eval_D_A
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:57:24.857274+00:00
 -- url     : https://prove2.me/theorems/413d8549-41d6-4ab4-9679-71ca7cac33d4

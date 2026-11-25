@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_Ib_conj_half_add
 -- name    : PositivityTheory.Rg.Sw.WR.Ib.conj_half_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:01:32.131282+00:00
 -- url     : https://prove2.me/theorems/17bf92e6-b9d2-4f54-84f7-c3871c1b7fcf

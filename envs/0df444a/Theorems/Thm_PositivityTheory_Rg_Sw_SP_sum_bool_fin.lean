@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_sum_bool_fin
 -- name    : PositivityTheory.Rg.Sw.SP.sum_bool_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:00:26.148609+00:00
 -- url     : https://prove2.me/theorems/cf1c0455-e2b2-4c02-bf7a-44e0205c9d6e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_fixed_rowDeg_A
 -- name    : PI.WGB.fixed_rowDeg_A
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:57:11.304825+00:00
 -- url     : https://prove2.me/theorems/77929863-18f6-4f0f-9147-cdad234a4a49

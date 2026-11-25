@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_MI_contDiffOn_inv
 -- name    : PositivityTheory.Rg.Sw.HSt.MI.contDiffOn_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:55:50.978803+00:00
 -- url     : https://prove2.me/theorems/a6134819-33f9-496a-9faf-706a4b976591

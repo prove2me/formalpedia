@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_W_rank_neg_full
 -- name    : PositivityTheory.ThKEst.W.rank_neg_full
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:51:14.969091+00:00
 -- url     : https://prove2.me/theorems/0c2c09a8-bea9-4b96-9327-8da666f0ddda

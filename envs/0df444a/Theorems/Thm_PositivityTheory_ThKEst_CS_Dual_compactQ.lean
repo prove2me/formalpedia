@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_CS_Dual_compactQ
 -- name    : PositivityTheory.ThKEst.CS.Dual.compactQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:50:20.652542+00:00
 -- url     : https://prove2.me/theorems/7d350cf0-0798-5f62-9bc6-8d8b5bca6fda

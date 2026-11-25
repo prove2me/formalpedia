@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Grow_oneD
 -- name    : PositivityTheory.ThKF0.Grow.oneD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:03:58.197652+00:00
 -- url     : https://prove2.me/theorems/a6a7018f-7c5f-4fa1-8637-844933e20f90

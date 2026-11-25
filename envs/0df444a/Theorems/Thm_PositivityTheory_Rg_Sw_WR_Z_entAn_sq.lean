@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_Z_entAn_sq
 -- name    : PositivityTheory.Rg.Sw.WR.Z.entAn_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:07.115042+00:00
 -- url     : https://prove2.me/theorems/969bc1b1-95d6-4921-bbb8-84510e5ecf4d

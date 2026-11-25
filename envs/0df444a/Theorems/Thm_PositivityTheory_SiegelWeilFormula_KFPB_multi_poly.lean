@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KFPB_multi_poly
 -- name    : PositivityTheory.SiegelWeilFormula.KFPB.multi_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:50:06.524674+00:00
 -- url     : https://prove2.me/theorems/ec550ab6-7d42-42ff-b182-7136e106c412

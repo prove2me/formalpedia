@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_exists_sp
 -- name    : PositivityTheory.ThKR.exists_sp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:06:01.718465+00:00
 -- url     : https://prove2.me/theorems/3d95f3f6-f786-5213-979e-8964e9f7a3c2

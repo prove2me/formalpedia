@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Form_U_Atom_comap_lat
 -- name    : PositivityTheory.RgUd.Form.U.Atom.comap_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:57.046203+00:00
 -- url     : https://prove2.me/theorems/35c892c5-b3cb-42d4-88be-95b569b38d53

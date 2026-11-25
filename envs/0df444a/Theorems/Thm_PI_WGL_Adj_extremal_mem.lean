@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Adj_extremal_mem
 -- name    : PI.WGL.Adj.extremal_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:48:04.498967+00:00
 -- url     : https://prove2.me/theorems/6be5c62a-2f93-4da0-8752-8a040b4f286a

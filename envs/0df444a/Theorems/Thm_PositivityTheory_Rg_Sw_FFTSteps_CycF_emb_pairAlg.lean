@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_CycF_emb_pairAlg
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.CycF.emb_pairAlg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:55:03.327438+00:00
 -- url     : https://prove2.me/theorems/df8d193f-f556-475a-bd7c-fdf1a3dc9070

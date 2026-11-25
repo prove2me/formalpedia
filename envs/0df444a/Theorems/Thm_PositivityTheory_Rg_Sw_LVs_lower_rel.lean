@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_lower_rel
 -- name    : PositivityTheory.Rg.Sw.LVs.lower_rel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:12.809959+00:00
 -- url     : https://prove2.me/theorems/82cf4141-889c-40c9-8bda-0fdc410b9fb6

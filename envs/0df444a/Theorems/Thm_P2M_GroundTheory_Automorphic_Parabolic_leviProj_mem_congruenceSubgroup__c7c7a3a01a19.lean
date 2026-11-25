@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Automorphic_Parabolic_leviProj_mem_congruenceSubgroup__c7c7a3a01a19
 -- name    : P2M_GroundTheory_Automorphic_Parabolic_leviProj_mem_congruenceSubgroup__c7c7a3a01a19
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:49:42.292871+00:00
 -- url     : https://prove2.me/theorems/e9413f7a-f412-512d-8888-d6d2c37365a2

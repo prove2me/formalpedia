@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KMain_coordX_temperate
 -- name    : PositivityTheory.SiegelWeilFormula.KMain.coordX_temperate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:50:30.509847+00:00
 -- url     : https://prove2.me/theorems/657aeb9a-c711-491f-a44b-e4830792520a

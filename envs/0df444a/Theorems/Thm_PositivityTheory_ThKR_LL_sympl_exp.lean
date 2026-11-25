@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_LL_sympl_exp
 -- name    : PositivityTheory.ThKR.LL.sympl_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:06:27.283521+00:00
 -- url     : https://prove2.me/theorems/25a21387-d504-40a5-bccd-ec6314d4fecc

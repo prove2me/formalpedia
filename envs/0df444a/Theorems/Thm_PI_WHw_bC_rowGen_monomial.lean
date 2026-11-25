@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WHw_bC_rowGen_monomial
 -- name    : PI.WHw.bC_rowGen_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:47:26.073875+00:00
 -- url     : https://prove2.me/theorems/53eafdd3-778c-4a53-9aeb-5453b76ba2b0

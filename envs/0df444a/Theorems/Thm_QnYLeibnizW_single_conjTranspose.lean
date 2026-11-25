@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnYLeibnizW_single_conjTranspose
 -- name    : QnYLeibnizW.single_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:05:39.80989+00:00
 -- url     : https://prove2.me/theorems/bcafe10a-8638-47f6-8f3e-9938b294d465

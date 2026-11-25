@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKOwn_SchI_factor
 -- name    : PositivityTheory.ThKOwn.SchI.factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:05:02.847286+00:00
 -- url     : https://prove2.me/theorems/cfd1d146-9a3f-4fcb-9abc-785e3fcc85ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLC_exists_cutoff
 -- name    : ReciprocityTheory.AnForm.M.PLC.exists_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:34:47.908324+00:00
 -- url     : https://prove2.me/theorems/ff3f5e98-94a8-454a-9411-9130e2b0ba05

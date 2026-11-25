@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_ColumnAntisymmetry_deg_factor
 -- name    : PositivityTheory.Rg.Cz.ColumnAntisymmetry.deg_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:01.521426+00:00
 -- url     : https://prove2.me/theorems/c82aab96-ab0c-4868-9824-c6d6d14ea3fb

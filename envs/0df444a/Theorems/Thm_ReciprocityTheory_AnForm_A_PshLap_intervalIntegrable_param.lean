@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshLap_intervalIntegrable_param
 -- name    : ReciprocityTheory.AnForm.A.PshLap.intervalIntegrable_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:05:08.740978+00:00
 -- url     : https://prove2.me/theorems/9f027dcf-5b86-4cb4-82ad-259111c33d92

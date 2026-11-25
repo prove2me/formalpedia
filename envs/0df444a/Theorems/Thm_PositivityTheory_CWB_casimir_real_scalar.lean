@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_casimir_real_scalar
 -- name    : PositivityTheory.CWB.casimir_real_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:15.319955+00:00
 -- url     : https://prove2.me/theorems/f01d3516-aae6-413f-b9b5-dc959ec382c5

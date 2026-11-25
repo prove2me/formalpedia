@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_integral_coord_kK
 -- name    : ReciprocityTheory.AnForm.A.integral_coord_kK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:05:50.707839+00:00
 -- url     : https://prove2.me/theorems/e5c7d6f7-9d83-465a-9573-5959ca3e74f5

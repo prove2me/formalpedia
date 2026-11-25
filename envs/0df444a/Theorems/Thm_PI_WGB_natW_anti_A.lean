@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_natW_anti_A
 -- name    : PI.WGB.natW_anti_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:49:17.486372+00:00
 -- url     : https://prove2.me/theorems/a807c000-1625-4599-af6b-43d9ce5b6dfe

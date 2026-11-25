@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_SG_Pf_ColDictValCPf_eval_push__3947714a735e
 -- name    : P2M_Formalism_L2_SG_Pf_ColDictValCPf_eval_push__3947714a735e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:31:36.72279+00:00
 -- url     : https://prove2.me/theorems/fcaf5cee-970d-408b-8b8c-7e342869ca36

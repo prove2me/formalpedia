@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_contr_monomial
 -- name    : PositivityTheory.Rg.Sw.LC.contr_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:45:17.192842+00:00
 -- url     : https://prove2.me/theorems/fd7f8c23-5bd7-4c58-bdd3-8eef021ed381

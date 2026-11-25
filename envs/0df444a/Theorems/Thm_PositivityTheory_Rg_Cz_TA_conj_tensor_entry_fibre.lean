@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TA_conj_tensor_entry_fibre
 -- name    : PositivityTheory.Rg.Cz.TA.conj_tensor_entry_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:53:51.092275+00:00
 -- url     : https://prove2.me/theorems/60cdc731-754e-49c8-a250-6ad8a1eaa70e

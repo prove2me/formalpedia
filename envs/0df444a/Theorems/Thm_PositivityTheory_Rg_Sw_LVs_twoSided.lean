@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_twoSided
 -- name    : PositivityTheory.Rg.Sw.LVs.twoSided
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:11:17.045132+00:00
 -- url     : https://prove2.me/theorems/9bdaa5e5-0f7d-4595-ba9d-83e0b40ac053

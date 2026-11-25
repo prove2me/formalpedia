@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_infinite_circle
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.infinite_circle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:27.597421+00:00
 -- url     : https://prove2.me/theorems/d9d5ccd9-ef54-430c-a1fe-2a5f115bc4c1

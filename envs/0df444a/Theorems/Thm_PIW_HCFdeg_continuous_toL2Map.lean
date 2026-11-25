@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_continuous_toL2Map
 -- name    : PIW.HCFdeg.continuous_toL2Map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:48:38.686562+00:00
 -- url     : https://prove2.me/theorems/15126646-932e-5b4d-a024-24cd98f4d4cc

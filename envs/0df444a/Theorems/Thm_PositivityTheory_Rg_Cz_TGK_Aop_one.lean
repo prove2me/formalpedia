@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TGK_Aop_one
 -- name    : PositivityTheory.Rg.Cz.TGK.Aop_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:53:38.812965+00:00
 -- url     : https://prove2.me/theorems/ee1bb92f-815d-4fee-b1bc-2a6cf9eb35cf

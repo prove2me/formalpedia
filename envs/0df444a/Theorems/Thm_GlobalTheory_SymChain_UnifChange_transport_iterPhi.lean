@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_UnifChange_transport_iterPhi
 -- name    : GlobalTheory.SymChain.UnifChange.transport_iterPhi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:27:49.017824+00:00
 -- url     : https://prove2.me/theorems/81057b65-838f-4470-8e9d-4fae90053d3d

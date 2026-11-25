@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WA_rho_projection_assembly
 -- name    : PI.WA.rho_projection_assembly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:44:13.72463+00:00
 -- url     : https://prove2.me/theorems/ba4e49a6-5a9b-4d8f-a125-7c82d85c8480

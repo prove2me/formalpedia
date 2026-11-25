@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KSplit_star_exp_mul_I
 -- name    : PositivityTheory.SiegelWeilFormula.KSplit.star_exp_mul_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:03:51.177184+00:00
 -- url     : https://prove2.me/theorems/f019efeb-197f-48ef-a845-210d8edcc3d5

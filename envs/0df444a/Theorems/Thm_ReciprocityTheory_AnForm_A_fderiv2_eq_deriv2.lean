@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_fderiv2_eq_deriv2
 -- name    : ReciprocityTheory.AnForm.A.fderiv2_eq_deriv2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:51:11.433009+00:00
 -- url     : https://prove2.me/theorems/b318eb05-608d-4835-9730-a667ebba7cda

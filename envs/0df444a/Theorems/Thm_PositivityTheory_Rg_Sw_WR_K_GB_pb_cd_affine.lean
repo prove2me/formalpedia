@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_pb_cd_affine
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.pb_cd_affine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:54:16.389565+00:00
 -- url     : https://prove2.me/theorems/348fcb57-5892-4a69-bd11-0e3b77b20b6a

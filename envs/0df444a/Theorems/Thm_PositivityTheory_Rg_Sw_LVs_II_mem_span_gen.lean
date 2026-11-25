@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_mem_span_gen
 -- name    : PositivityTheory.Rg.Sw.LVs.II.mem_span_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:58:54.470547+00:00
 -- url     : https://prove2.me/theorems/b50dd0f8-583d-444a-b130-b789020aac1a

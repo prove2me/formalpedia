@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_GreenFunction_continuous_lap
 -- name    : ReciprocityTheory.AnForm.A.GreenFunction.continuous_lap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:50:57.244768+00:00
 -- url     : https://prove2.me/theorems/9208d8d5-78f7-44d8-8c94-253ae6eaa108

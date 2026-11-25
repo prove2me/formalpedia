@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KFPB_integrable_rexp_lin
 -- name    : PositivityTheory.SiegelWeilFormula.KFPB.integrable_rexp_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:36.0433+00:00
 -- url     : https://prove2.me/theorems/8ef1df00-ce7e-4132-9d14-d166295a6b46

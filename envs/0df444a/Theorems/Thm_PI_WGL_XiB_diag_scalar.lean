@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiB_diag_scalar
 -- name    : PI.WGL.XiB.diag_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:46:56.017793+00:00
 -- url     : https://prove2.me/theorems/e1df7c12-e657-4ba2-9e54-dae80edefb40

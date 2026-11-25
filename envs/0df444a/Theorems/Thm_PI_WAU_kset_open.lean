@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_kset_open
 -- name    : PI.WAU.kset_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:12:05.259033+00:00
 -- url     : https://prove2.me/theorems/8a9c3898-4d12-49b6-a00a-23561f78df4f

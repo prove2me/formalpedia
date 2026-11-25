@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_UG_exists_isom_frameU
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.UG.exists_isom_frameU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:34:11.366873+00:00
 -- url     : https://prove2.me/theorems/fb3f89b7-ed97-55d3-818f-ee8d1faee6ca

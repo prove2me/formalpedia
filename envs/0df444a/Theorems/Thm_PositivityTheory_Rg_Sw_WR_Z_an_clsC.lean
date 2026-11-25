@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_Z_an_clsC
 -- name    : PositivityTheory.Rg.Sw.WR.Z.an_clsC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:52:10.424034+00:00
 -- url     : https://prove2.me/theorems/ec4dcf70-b9fb-4c4c-b955-4cae349e00fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PDich_Fe_isField
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PDich.Fe_isField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:01.432494+00:00
 -- url     : https://prove2.me/theorems/be4793b3-ddc2-5e9e-a475-b225800c3e96

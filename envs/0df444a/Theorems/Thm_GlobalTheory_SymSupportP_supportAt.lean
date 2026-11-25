@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymSupportP_supportAt
 -- name    : GlobalTheory.SymSupportP.supportAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:29:47.10373+00:00
 -- url     : https://prove2.me/theorems/7002833e-15a2-5288-87ca-cb28583e6506

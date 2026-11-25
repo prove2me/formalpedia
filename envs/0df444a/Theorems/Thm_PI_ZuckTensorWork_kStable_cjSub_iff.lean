@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_kStable_cjSub_iff
 -- name    : PI.ZuckTensorWork.kStable_cjSub_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:15:51.104493+00:00
 -- url     : https://prove2.me/theorems/9533e5e1-ef50-4ec2-8dc2-d4091e626c62

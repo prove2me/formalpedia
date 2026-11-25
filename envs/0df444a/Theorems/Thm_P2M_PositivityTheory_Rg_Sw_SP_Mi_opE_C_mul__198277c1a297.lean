@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_SP_Mi_opE_C_mul__198277c1a297
 -- name    : P2M_PositivityTheory_Rg_Sw_SP_Mi_opE_C_mul__198277c1a297
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:11:40.748339+00:00
 -- url     : https://prove2.me/theorems/99ae43a3-be98-42d4-92fe-4ce2b5153690

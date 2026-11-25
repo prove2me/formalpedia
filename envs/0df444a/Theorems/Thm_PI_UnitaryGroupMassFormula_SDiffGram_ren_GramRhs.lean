@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_SDiffGram_ren_GramRhs
 -- name    : PI.UnitaryGroupMassFormula.SDiffGram.ren_GramRhs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:35:53.736379+00:00
 -- url     : https://prove2.me/theorems/3a9c0213-aae7-5544-86d8-0be570e37840

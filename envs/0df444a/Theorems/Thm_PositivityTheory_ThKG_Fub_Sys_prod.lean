@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Fub_Sys_prod
 -- name    : PositivityTheory.ThKG.Fub.Sys.prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:03:58.911544+00:00
 -- url     : https://prove2.me/theorems/8dba4824-3438-4173-8b0b-3871d95a5603

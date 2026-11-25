@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_two_le_infty
 -- name    : PositivityTheory.Rg.Sw.LVs.two_le_infty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:00:04.919591+00:00
 -- url     : https://prove2.me/theorems/b7cf9b82-cfc9-4343-a6ee-e8aad133ea8e

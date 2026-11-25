@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_ext_inl
 -- name    : PositivityTheory.ThKF0.Chr.ext_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:06:02.52032+00:00
 -- url     : https://prove2.me/theorems/afc7b884-b170-5a63-8b5e-809d1f287150

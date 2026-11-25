@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_bessel_integral_domain
 -- name    : Formalism.FourierDecayAlt.P.bessel_integral_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:05:12.283551+00:00
 -- url     : https://prove2.me/theorems/5bb7fa28-98c1-4e8c-b40b-1a365ee8b010

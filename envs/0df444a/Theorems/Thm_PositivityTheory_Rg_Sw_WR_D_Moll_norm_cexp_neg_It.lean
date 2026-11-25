@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_Moll_norm_cexp_neg_It
 -- name    : PositivityTheory.Rg.Sw.WR.D.Moll.norm_cexp_neg_It
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:10.822545+00:00
 -- url     : https://prove2.me/theorems/c336aa49-23fe-51de-95e3-a7e1238b9a34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_mem_pdisc_self
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.mem_pdisc_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:14.631156+00:00
 -- url     : https://prove2.me/theorems/6e8108b4-f122-4cf6-bf76-a0d3833cfd06

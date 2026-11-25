@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_kunf_exists_beta_pf
 -- name    : PositivityTheory.SiegelWeilFormula.kunf.exists_beta_pf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:03:54.809999+00:00
 -- url     : https://prove2.me/theorems/1124168e-f69a-4b61-98e1-3c3330066cb8

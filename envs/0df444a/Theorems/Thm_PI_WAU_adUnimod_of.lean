@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_adUnimod_of
 -- name    : PI.WAU.adUnimod_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:11:11.768154+00:00
 -- url     : https://prove2.me/theorems/ecc5848a-55ff-45e1-a959-492cf5c728f5

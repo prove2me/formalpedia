@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_group_facts
 -- name    : PositivityTheory.CWB.group_facts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:41:10.289818+00:00
 -- url     : https://prove2.me/theorems/2c5a8e7b-6090-460c-b550-bac0f4e4e4ea

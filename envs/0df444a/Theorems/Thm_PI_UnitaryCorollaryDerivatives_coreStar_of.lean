@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_coreStar_of
 -- name    : PI.UnitaryCorollaryDerivatives.coreStar_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:40:21.777629+00:00
 -- url     : https://prove2.me/theorems/305af5a2-b734-4b39-8c5a-0264b31e3f41

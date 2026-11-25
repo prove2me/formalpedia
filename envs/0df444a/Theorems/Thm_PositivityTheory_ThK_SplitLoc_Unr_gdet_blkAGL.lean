@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_gdet_blkAGL
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.gdet_blkAGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:06:35.570169+00:00
 -- url     : https://prove2.me/theorems/637f9266-01d8-4fdb-91bc-1765bd6b241c

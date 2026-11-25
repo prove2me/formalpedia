@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_TrOrb_rank_eq_of_idem
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.TrOrb.rank_eq_of_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:03:17.029631+00:00
 -- url     : https://prove2.me/theorems/9c75aeee-4445-4142-aa16-863ec55e614e

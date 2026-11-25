@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_JLatOf_finrank_Mj
 -- name    : PositivityTheory.Rg.Rs.JLatOf.finrank_Mj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:42.802043+00:00
 -- url     : https://prove2.me/theorems/5e088197-f394-40b6-a641-ebe324c7c14f

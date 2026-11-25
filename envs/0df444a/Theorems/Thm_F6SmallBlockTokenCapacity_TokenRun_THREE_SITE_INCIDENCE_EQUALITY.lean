@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6SmallBlockTokenCapacity_TokenRun_THREE_SITE_INCIDENCE_EQUALITY
 -- name    : F6SmallBlockTokenCapacity.TokenRun.THREE_SITE_INCIDENCE_EQUALITY
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:29:23.230621+00:00
 -- url     : https://prove2.me/theorems/aa095462-25c0-5508-a313-b235b99a0e4f

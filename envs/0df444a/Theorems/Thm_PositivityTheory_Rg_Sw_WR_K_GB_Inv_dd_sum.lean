@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_Inv_dd_sum
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.Inv.dd_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:50:03.358682+00:00
 -- url     : https://prove2.me/theorems/6c563d7c-01ca-4592-a9b6-641a13425eb4

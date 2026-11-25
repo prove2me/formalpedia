@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_GreenFunction_integrableOn_log_mul
 -- name    : ReciprocityTheory.AnForm.A.GreenFunction.integrableOn_log_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:51:05.97454+00:00
 -- url     : https://prove2.me/theorems/f89e2318-bc7d-5a2e-8179-fc2e3ba1e6c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SiegelT_conj_psi
 -- name    : PositivityTheory.ThK.SiegelT.conj_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:04:20.156675+00:00
 -- url     : https://prove2.me/theorems/fcceacfd-eae6-400c-9444-d9d02981b1c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_deltaC_eq_word
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.deltaC_eq_word
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:02:56.155103+00:00
 -- url     : https://prove2.me/theorems/d541fc80-8498-46a9-a242-e2a71a91f00c

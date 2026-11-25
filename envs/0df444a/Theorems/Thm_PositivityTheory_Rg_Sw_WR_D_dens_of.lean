@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_dens_of
 -- name    : PositivityTheory.Rg.Sw.WR.D.dens_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:01:49.565589+00:00
 -- url     : https://prove2.me/theorems/b2e98d8e-eb37-4651-b88e-e1faef01f158

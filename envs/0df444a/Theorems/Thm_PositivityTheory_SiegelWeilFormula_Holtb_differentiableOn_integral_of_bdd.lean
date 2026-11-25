@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Holtb_differentiableOn_integral_of_bdd
 -- name    : PositivityTheory.SiegelWeilFormula.Holtb.differentiableOn_integral_of_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:30.191996+00:00
 -- url     : https://prove2.me/theorems/ef2b81bf-6416-5997-930c-f831f475de1b

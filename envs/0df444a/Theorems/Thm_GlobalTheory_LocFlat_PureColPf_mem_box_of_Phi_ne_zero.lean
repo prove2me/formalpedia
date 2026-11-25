@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_PureColPf_mem_box_of_Phi_ne_zero
 -- name    : GlobalTheory.LocFlat.PureColPf.mem_box_of_Phi_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:10:15.426703+00:00
 -- url     : https://prove2.me/theorems/2fafa204-a823-5cac-a7fc-b42f66fef185

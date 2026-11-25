@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PolyCoef_orb_cont
 -- name    : PI.UnitaryGroupMassFormula.PolyCoef.orb_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:21:12.500034+00:00
 -- url     : https://prove2.me/theorems/b75bef86-576c-5d68-965a-ed259d95e852

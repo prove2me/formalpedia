@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_PowSpanB_herm_decomp
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.PowSpanB.herm_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:55:57.633954+00:00
 -- url     : https://prove2.me/theorems/6e16dc55-2e7f-5bf8-a808-66d3a5ca6912

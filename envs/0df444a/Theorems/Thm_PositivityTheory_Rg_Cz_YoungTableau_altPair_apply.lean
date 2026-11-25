@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_YoungTableau_altPair_apply
 -- name    : PositivityTheory.Rg.Cz.YoungTableau.altPair_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:49:01.707622+00:00
 -- url     : https://prove2.me/theorems/fe62ca52-224c-41fc-8134-de3b3bdf5ef5

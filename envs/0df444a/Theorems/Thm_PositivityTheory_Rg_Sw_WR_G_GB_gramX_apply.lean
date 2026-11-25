@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_GB_gramX_apply
 -- name    : PositivityTheory.Rg.Sw.WR.G.GB.gramX_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:01:39.160231+00:00
 -- url     : https://prove2.me/theorems/b08f0f41-c254-45a2-8dd9-1488642ff4d6

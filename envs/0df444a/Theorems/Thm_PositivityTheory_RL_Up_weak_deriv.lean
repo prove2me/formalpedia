@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RL_Up_weak_deriv
 -- name    : PositivityTheory.RL.Up.weak_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:52:01.262544+00:00
 -- url     : https://prove2.me/theorems/fdc99356-8f01-4592-adb2-63102699e64c

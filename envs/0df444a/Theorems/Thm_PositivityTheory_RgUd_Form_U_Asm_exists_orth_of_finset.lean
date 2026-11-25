@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Form_U_Asm_exists_orth_of_finset
 -- name    : PositivityTheory.RgUd.Form.U.Asm.exists_orth_of_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:00.425698+00:00
 -- url     : https://prove2.me/theorems/cf2aa272-a35c-4cdc-a777-27b7bdc13838

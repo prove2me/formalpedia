@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CEq_reindex_thm
 -- name    : PositivityTheory.Rg.Sw.LVs.CEq.reindex_thm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:59:48.359092+00:00
 -- url     : https://prove2.me/theorems/c51fe1fe-9276-4989-95ae-25c08d6bbf83

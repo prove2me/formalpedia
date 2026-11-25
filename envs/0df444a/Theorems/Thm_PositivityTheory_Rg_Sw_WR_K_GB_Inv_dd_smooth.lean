@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_Inv_dd_smooth
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.Inv.dd_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:50:25.03673+00:00
 -- url     : https://prove2.me/theorems/b8c453a0-0e50-4b52-a148-888e9f360e40

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_NullS_evX_bound
 -- name    : PositivityTheory.Rg.Sw.LC.NullS.evX_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:48:52.253937+00:00
 -- url     : https://prove2.me/theorems/df1d0572-60fc-4295-aa5f-6a40290e318b

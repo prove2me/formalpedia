@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_SpecA_filt
 -- name    : PositivityTheory.Rg.Cz.SpecA.filt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:53:34.411647+00:00
 -- url     : https://prove2.me/theorems/4fe4737f-4cf4-46fb-be7b-ca1f5606c916

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_fFCount_of_inert
 -- name    : PI.VolStabW.fFCount_of_inert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:39:50.23881+00:00
 -- url     : https://prove2.me/theorems/ea6b0c22-e557-44d6-b4d6-b87d08e80df5

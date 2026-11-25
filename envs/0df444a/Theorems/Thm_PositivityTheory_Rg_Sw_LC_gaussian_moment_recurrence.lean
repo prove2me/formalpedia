@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_gaussian_moment_recurrence
 -- name    : PositivityTheory.Rg.Sw.LC.gaussian_moment_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:58:18.073808+00:00
 -- url     : https://prove2.me/theorems/a0a52789-a3ec-468b-bde5-2c665c510bde

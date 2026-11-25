@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_map_mul_vol
 -- name    : PositivityTheory.ThKG.Loc.Bump.map_mul_vol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:04:25.66674+00:00
 -- url     : https://prove2.me/theorems/334d7ef6-d981-5aa5-b887-e3b8e080c7c3

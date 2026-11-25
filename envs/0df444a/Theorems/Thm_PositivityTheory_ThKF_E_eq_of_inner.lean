@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF_E_eq_of_inner
 -- name    : PositivityTheory.ThKF.E.eq_of_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:51:43.693798+00:00
 -- url     : https://prove2.me/theorems/de3490a3-261e-4dce-a193-3ca6e9c87bd0

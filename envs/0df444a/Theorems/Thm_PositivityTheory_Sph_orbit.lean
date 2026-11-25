@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Sph_orbit
 -- name    : PositivityTheory.Sph.orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:04:06.620664+00:00
 -- url     : https://prove2.me/theorems/3c0ca35e-541e-551b-8bd5-80a11dabfdb8

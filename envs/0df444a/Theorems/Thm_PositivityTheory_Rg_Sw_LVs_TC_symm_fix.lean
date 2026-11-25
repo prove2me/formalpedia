@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_symm_fix
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.symm_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:49:42.417919+00:00
 -- url     : https://prove2.me/theorems/ccd180c6-7247-47b6-a702-aa263f428aba

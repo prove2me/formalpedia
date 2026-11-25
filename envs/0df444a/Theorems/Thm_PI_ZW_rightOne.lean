@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZW_rightOne
 -- name    : PI.ZW.rightOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:46:33.696661+00:00
 -- url     : https://prove2.me/theorems/96731b1f-23fb-42ed-85b1-339b57c1211b

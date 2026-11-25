@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_invSelf_mem_Econ
 -- name    : GroundTheory.PAdicHodge.TeichLift.invSelf_mem_Econ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:27:46.223796+00:00
 -- url     : https://prove2.me/theorems/32868b1f-e9ee-4393-9d28-87a0a7010ebf

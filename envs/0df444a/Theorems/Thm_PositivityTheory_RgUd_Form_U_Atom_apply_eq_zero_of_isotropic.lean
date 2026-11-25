@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Form_U_Atom_apply_eq_zero_of_isotropic
 -- name    : PositivityTheory.RgUd.Form.U.Atom.apply_eq_zero_of_isotropic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:50.145022+00:00
 -- url     : https://prove2.me/theorems/1f7bd7a6-5383-4376-bbae-8e1056ddb63a

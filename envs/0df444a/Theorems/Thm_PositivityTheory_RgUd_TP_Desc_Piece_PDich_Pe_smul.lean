@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PDich_Pe_smul
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PDich.Pe_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:15.197651+00:00
 -- url     : https://prove2.me/theorems/6ce8b750-0065-5f14-b0e3-0565bb839d44

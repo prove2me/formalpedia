@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_Ib_continuous_chr
 -- name    : PositivityTheory.Rg.Sw.WR.Ib.continuous_chr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:01:56.739069+00:00
 -- url     : https://prove2.me/theorems/984e322a-983c-4a73-9271-e00d1c797621

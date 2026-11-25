@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreC_piC_eq_wt
 -- name    : PositivityTheory.Rg.Sw.LC.CoreC.piC_eq_wt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:57:15.583001+00:00
 -- url     : https://prove2.me/theorems/caa9fdac-a589-4562-8dc7-72a4119c0ac4

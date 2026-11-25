@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_coeff_prod_mk
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.coeff_prod_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:51:07.979864+00:00
 -- url     : https://prove2.me/theorems/e6040552-7992-4f10-82cd-0da5b6e2eddb

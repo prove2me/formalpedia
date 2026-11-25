@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Split_continuous_toMixed
 -- name    : PositivityTheory.ThKF0.Split.continuous_toMixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:04:19.092861+00:00
 -- url     : https://prove2.me/theorems/0bc02d9e-1be3-5816-afbe-1f93bf6c77e4

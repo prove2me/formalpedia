@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WfLogWork_formal_logarithm_holds
 -- name    : PI.WfLogWork.formal_logarithm_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:05:57.54004+00:00
 -- url     : https://prove2.me/theorems/2ba2f123-d5e0-4d60-9712-3a763cb83a3d

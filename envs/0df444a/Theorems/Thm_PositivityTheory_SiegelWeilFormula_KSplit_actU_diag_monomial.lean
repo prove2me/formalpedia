@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KSplit_actU_diag_monomial
 -- name    : PositivityTheory.SiegelWeilFormula.KSplit.actU_diag_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:52:16.186414+00:00
 -- url     : https://prove2.me/theorems/fc6cd06b-91dc-56ef-adfd-bf33be8166ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Ald_PCI_contDiff_pder
 -- name    : PositivityTheory.SiegelWeilFormula.Ald.PCI.contDiff_pder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:11:11.853794+00:00
 -- url     : https://prove2.me/theorems/462ef514-ed12-496b-8bee-596fe8cb00f8

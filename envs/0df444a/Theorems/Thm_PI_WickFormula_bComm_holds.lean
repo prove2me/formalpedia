@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_bComm_holds
 -- name    : PI.WickFormula.bComm_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:47:20.505794+00:00
 -- url     : https://prove2.me/theorems/ca4b4a97-016b-489f-b420-519d88c2a31e

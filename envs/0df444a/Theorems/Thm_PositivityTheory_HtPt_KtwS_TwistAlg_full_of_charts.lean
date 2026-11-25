@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_HtPt_KtwS_TwistAlg_full_of_charts
 -- name    : PositivityTheory.HtPt.KtwS.TwistAlg.full_of_charts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:00:46.463813+00:00
 -- url     : https://prove2.me/theorems/640a82de-3513-5c8e-a339-a48968801297

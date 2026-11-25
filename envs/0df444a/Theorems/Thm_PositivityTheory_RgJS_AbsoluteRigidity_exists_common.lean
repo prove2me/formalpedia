@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_AbsoluteRigidity_exists_common
 -- name    : PositivityTheory.RgJS.AbsoluteRigidity.exists_common
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:02:55.159168+00:00
 -- url     : https://prove2.me/theorems/064a5ae7-7d86-5f7b-a409-33b13dd9c5a3

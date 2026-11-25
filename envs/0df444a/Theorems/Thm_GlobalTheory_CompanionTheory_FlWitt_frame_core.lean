@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlWitt_frame_core
 -- name    : GlobalTheory.CompanionTheory.FlWitt.frame_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:42:21.937828+00:00
 -- url     : https://prove2.me/theorems/0ace68b8-e555-4b2a-912f-67ef8cc7dd6f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_rowGen_sl
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.rowGen_sl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:34:39.882823+00:00
 -- url     : https://prove2.me/theorems/ae631c68-005f-57f3-918e-ba287919a3c3

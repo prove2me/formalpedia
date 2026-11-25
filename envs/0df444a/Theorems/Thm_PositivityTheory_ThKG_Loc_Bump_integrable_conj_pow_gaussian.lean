@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_integrable_conj_pow_gaussian
 -- name    : PositivityTheory.ThKG.Loc.Bump.integrable_conj_pow_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:04:36.895688+00:00
 -- url     : https://prove2.me/theorems/88e68b22-dc3e-4f14-a9c4-fc731647e3ad

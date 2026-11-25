@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_lintegral_pi_prod_mul
 -- name    : QPK.lintegral_pi_prod_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:50:55.871993+00:00
 -- url     : https://prove2.me/theorems/abfb0e4c-ead6-44b5-9b24-3e25e6b3845e

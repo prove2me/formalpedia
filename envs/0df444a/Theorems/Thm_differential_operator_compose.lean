@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_differential_operator_compose
 -- name    : differential_operator_compose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:24:47.70734+00:00
 -- url     : https://prove2.me/theorems/935395b5-cfa3-4673-91ae-56d8e7f1a46d

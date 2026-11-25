@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_CS_Dual_separates
 -- name    : PositivityTheory.ThKEst.CS.Dual.separates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:49:59.650633+00:00
 -- url     : https://prove2.me/theorems/0e00e98f-595c-5c67-b5fd-96d8bf648774

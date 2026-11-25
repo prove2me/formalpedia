@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_EigenspaceOrthogonality_Lsym
 -- name    : PositivityTheory.CW.EigenspaceOrthogonality.Lsym
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:49:57.830588+00:00
 -- url     : https://prove2.me/theorems/931642bf-fc20-5514-89a3-c31aef6c03a8

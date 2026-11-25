@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_STD_herm_zero
 -- name    : PositivityTheory.Rg.Sw.LVs.STD.herm_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:51:37.909352+00:00
 -- url     : https://prove2.me/theorems/5872bc1f-7dd3-4df3-bcc0-96729ef9cd7a

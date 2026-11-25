@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CK_fderiv_determinant_power_column_sum
 -- name    : PositivityTheory.Rg.Sw.LVs.CK.fderiv_determinant_power_column_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:49:26.951944+00:00
 -- url     : https://prove2.me/theorems/22516b32-6783-4999-91e5-99b8aff36517

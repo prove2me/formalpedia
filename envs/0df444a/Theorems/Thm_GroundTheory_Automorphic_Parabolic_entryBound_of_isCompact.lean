@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_entryBound_of_isCompact
 -- name    : GroundTheory.Automorphic.Parabolic.entryBound_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:39:25.906828+00:00
 -- url     : https://prove2.me/theorems/32418671-6d30-47b3-9f4d-93012f6bd1c7

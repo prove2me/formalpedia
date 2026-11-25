@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_TrOrb_mul_pidem_of_mem
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.TrOrb.mul_pidem_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:21.774715+00:00
 -- url     : https://prove2.me/theorems/01fa8da4-f926-5634-bd62-e31f2b490384

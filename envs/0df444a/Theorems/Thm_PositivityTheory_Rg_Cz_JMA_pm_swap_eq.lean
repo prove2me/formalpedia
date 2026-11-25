@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_JMA_pm_swap_eq
 -- name    : PositivityTheory.Rg.Cz.JMA.pm_swap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:49:11.149794+00:00
 -- url     : https://prove2.me/theorems/684c210b-efb5-46f0-a1a3-539f1c5301fe

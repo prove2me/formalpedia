@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_GB_normSq_det_unitary
 -- name    : PositivityTheory.Rg.Sw.WR.G.GB.normSq_det_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:01:12.301928+00:00
 -- url     : https://prove2.me/theorems/f8f25fa6-41eb-5597-bbbf-684f90a4326b

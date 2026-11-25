@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_hermApprox_of
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.hermApprox_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:05:38.25397+00:00
 -- url     : https://prove2.me/theorems/58ceaa97-b96e-479c-bbff-cb00526b4fc5

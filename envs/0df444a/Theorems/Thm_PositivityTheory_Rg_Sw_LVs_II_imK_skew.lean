@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_imK_skew
 -- name    : PositivityTheory.Rg.Sw.LVs.II.imK_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:58:39.730318+00:00
 -- url     : https://prove2.me/theorems/3a55917a-2310-4a02-8543-f9a9fcabe4b7

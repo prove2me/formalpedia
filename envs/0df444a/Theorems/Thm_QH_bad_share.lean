@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QH_bad_share
 -- name    : QH.bad_share
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:06:00.298398+00:00
 -- url     : https://prove2.me/theorems/9433d188-2803-48e4-a03f-ea9ebf0e6085

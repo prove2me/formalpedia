@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_TrOrb_finrank_piece_rep
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.TrOrb.finrank_piece_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:21.704998+00:00
 -- url     : https://prove2.me/theorems/666e8861-afd2-4e74-8e0d-cc3f380b4ad7

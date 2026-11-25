@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_word_length_filtration
 -- name    : PositivityTheory.CWB.word_length_filtration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:49:00.010412+00:00
 -- url     : https://prove2.me/theorems/3532b23c-58dc-47dd-bfd3-f4ca25d348fd

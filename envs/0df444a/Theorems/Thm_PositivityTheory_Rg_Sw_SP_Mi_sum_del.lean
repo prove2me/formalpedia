@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_Mi_sum_del
 -- name    : PositivityTheory.Rg.Sw.SP.Mi.sum_del
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:49:35.77446+00:00
 -- url     : https://prove2.me/theorems/3ed3a590-b60b-4193-9e7c-915662fa82c5

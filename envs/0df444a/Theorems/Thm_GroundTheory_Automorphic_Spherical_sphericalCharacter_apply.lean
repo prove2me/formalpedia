@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_sphericalCharacter_apply
 -- name    : GroundTheory.Automorphic.Spherical.sphericalCharacter_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:44:39.058149+00:00
 -- url     : https://prove2.me/theorems/4d292492-2357-4801-bf8c-d20a7a86cfd5

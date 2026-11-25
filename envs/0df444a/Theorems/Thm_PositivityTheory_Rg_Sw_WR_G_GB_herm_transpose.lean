@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_GB_herm_transpose
 -- name    : PositivityTheory.Rg.Sw.WR.G.GB.herm_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:01:54.927588+00:00
 -- url     : https://prove2.me/theorems/16d28db3-d1bf-4e8f-a91e-37bfd6f7acc5

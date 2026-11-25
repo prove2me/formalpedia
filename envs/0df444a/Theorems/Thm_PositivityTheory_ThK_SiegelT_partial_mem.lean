@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SiegelT_partial_mem
 -- name    : PositivityTheory.ThK.SiegelT.partial_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:04:24.099175+00:00
 -- url     : https://prove2.me/theorems/b6439b00-91a9-464b-ac4a-86505ff3d045

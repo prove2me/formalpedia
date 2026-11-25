@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_pieceN
 -- name    : PositivityTheory.Rg.Sw.LVs.II.pieceN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:59:01.820939+00:00
 -- url     : https://prove2.me/theorems/c7d7e674-359a-4b77-972a-bdac36503618

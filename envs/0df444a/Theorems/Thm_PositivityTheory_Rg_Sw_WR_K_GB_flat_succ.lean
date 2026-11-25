@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_flat_succ
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.flat_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:50:07.052801+00:00
 -- url     : https://prove2.me/theorems/aff07ac9-ae42-4e50-b504-9f468dfb5258

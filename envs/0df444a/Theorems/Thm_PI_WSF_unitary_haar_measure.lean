@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_unitary_haar_measure
 -- name    : PI.WSF.unitary_haar_measure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:46:09.061284+00:00
 -- url     : https://prove2.me/theorems/029e5896-d025-489e-9186-725b7ca67919

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Tf_Loc_sigmaGL_pow
 -- name    : PositivityTheory.Rg.Tf.Loc.sigmaGL_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:40:42.094285+00:00
 -- url     : https://prove2.me/theorems/10e7f66d-baae-4fba-98d6-265463f07c98

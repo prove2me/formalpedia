@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_hc_mem_hwSub2
 -- name    : PI.FJMF.hc_mem_hwSub2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:31.979114+00:00
 -- url     : https://prove2.me/theorems/34b6d1a9-565a-42f5-bea9-e83229b06ac9

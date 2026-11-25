@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_contDiffOn_cplx
 -- name    : ReciprocityTheory.AnForm.A.contDiffOn_cplx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:50:57.56875+00:00
 -- url     : https://prove2.me/theorems/3c35bb09-3bcd-469c-b919-804869456562

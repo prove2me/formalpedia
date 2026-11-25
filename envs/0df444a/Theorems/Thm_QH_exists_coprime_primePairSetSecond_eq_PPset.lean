@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QH_exists_coprime_primePairSetSecond_eq_PPset
 -- name    : QH.exists_coprime_primePairSetSecond_eq_PPset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:05:55.446599+00:00
 -- url     : https://prove2.me/theorems/f79da0e0-add0-4853-9f1e-b760b3e4d16d

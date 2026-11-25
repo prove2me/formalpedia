@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Krd_DC_scalar_avoid
 -- name    : PositivityTheory.SiegelWeilFormula.Krd.DC.scalar_avoid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:03:51.471857+00:00
 -- url     : https://prove2.me/theorems/bb89e7c7-702c-56e5-8d53-8123b9637307

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Act_exch
 -- name    : PositivityTheory.SiegelWeilFormula.Act.exch
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:27.985884+00:00
 -- url     : https://prove2.me/theorems/1dd09c27-b120-5259-9fd2-4dd25432d8a8

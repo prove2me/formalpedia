@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_Moll_finrank_E
 -- name    : PositivityTheory.Rg.Sw.WR.D.Moll.finrank_E
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:00:55.794067+00:00
 -- url     : https://prove2.me/theorems/cce835c6-2586-476b-a5e4-d4aaa2e1729d

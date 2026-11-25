@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PDich_rank_sum_orth
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PDich.rank_sum_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:02.354114+00:00
 -- url     : https://prove2.me/theorems/268111aa-caaa-5dc2-be45-55dced35af84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_shift_sub
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.shift_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:51:59.760089+00:00
 -- url     : https://prove2.me/theorems/8fea4de3-32fe-5614-886f-a4b80814815f

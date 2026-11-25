@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Adj_exists_frame
 -- name    : PI.WGL.Adj.exists_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:47:24.447934+00:00
 -- url     : https://prove2.me/theorems/2cc047d1-87b5-4a35-9ef4-787143b52d60

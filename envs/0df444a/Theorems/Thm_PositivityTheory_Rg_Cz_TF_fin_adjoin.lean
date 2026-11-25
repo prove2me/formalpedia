@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TF_fin_adjoin
 -- name    : PositivityTheory.Rg.Cz.TF.fin_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:53:40.197847+00:00
 -- url     : https://prove2.me/theorems/c8cea24f-013e-48de-b92e-72b7358560e7

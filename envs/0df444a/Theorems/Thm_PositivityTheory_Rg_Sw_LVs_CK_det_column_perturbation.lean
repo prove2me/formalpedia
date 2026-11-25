@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CK_det_column_perturbation
 -- name    : PositivityTheory.Rg.Sw.LVs.CK.det_column_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:49:18.925831+00:00
 -- url     : https://prove2.me/theorems/60df37a0-c5ff-47f5-a3b4-e46e241b44cf

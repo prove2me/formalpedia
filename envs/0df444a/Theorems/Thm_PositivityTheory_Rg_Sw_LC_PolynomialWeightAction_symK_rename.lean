@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialWeightAction_symK_rename
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialWeightAction.symK_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:49:02.366815+00:00
 -- url     : https://prove2.me/theorems/bf285d2e-a34d-4920-88df-af3d3d4f7cb1

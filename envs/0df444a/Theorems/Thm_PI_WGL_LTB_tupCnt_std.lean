@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTB_tupCnt_std
 -- name    : PI.WGL.LTB.tupCnt_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:45:12.280846+00:00
 -- url     : https://prove2.me/theorems/613e7639-2b6c-4223-8436-9eb806cb785b

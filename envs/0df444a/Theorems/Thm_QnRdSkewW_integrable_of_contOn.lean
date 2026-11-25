@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnRdSkewW_integrable_of_contOn
 -- name    : QnRdSkewW.integrable_of_contOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:06:44.618249+00:00
 -- url     : https://prove2.me/theorems/bbc79b6f-d9fe-4871-bc08-7256fa4c8f23

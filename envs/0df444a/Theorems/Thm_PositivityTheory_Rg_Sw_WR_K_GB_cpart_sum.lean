@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_cpart_sum
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.cpart_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:02:26.365781+00:00
 -- url     : https://prove2.me/theorems/99763b0a-1475-4645-b47f-9898b3c9a954

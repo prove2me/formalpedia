@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KLI_intg_poly2
 -- name    : PositivityTheory.SiegelWeilFormula.KLI.intg_poly2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:50:20.085124+00:00
 -- url     : https://prove2.me/theorems/9b7638eb-b514-492b-9537-7f366f3b32a2

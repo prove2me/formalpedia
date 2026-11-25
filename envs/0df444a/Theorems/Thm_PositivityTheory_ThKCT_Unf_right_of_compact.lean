@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Unf_right_of_compact
 -- name    : PositivityTheory.ThKCT.Unf.right_of_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:45.253794+00:00
 -- url     : https://prove2.me/theorems/65e336e0-64b7-411e-950c-64c111ddaba0

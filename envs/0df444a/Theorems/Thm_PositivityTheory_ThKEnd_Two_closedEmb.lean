@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Two_closedEmb
 -- name    : PositivityTheory.ThKEnd.Two.closedEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:50:24.859393+00:00
 -- url     : https://prove2.me/theorems/da2a9897-8075-4fec-90fe-dbf3d6815c59

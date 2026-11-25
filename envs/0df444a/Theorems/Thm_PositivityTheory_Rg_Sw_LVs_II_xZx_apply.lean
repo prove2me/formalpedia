@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_xZx_apply
 -- name    : PositivityTheory.Rg.Sw.LVs.II.xZx_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:37.598745+00:00
 -- url     : https://prove2.me/theorems/ac290680-7ed2-57c8-af43-0b995ace545d

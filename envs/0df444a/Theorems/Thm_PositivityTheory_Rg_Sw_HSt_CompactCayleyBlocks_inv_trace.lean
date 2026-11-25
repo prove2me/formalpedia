@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_CompactCayleyBlocks_inv_trace
 -- name    : PositivityTheory.Rg.Sw.HSt.CompactCayleyBlocks.inv_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:53:56.139459+00:00
 -- url     : https://prove2.me/theorems/d4233d3a-628d-481e-ae7a-854149ad475a

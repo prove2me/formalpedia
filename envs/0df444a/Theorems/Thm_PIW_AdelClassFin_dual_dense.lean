@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_dual_dense
 -- name    : PIW.AdelClassFin.dual_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:28:59.379084+00:00
 -- url     : https://prove2.me/theorems/1f12d8a0-a139-40f4-a706-14d90eab6c54

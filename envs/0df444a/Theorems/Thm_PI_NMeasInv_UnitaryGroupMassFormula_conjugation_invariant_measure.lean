@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NMeasInv_UnitaryGroupMassFormula_conjugation_invariant_measure
 -- name    : PI.NMeasInv.UnitaryGroupMassFormula.conjugation_invariant_measure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:13:45.583613+00:00
 -- url     : https://prove2.me/theorems/e7980eea-bf48-5210-a45a-9cb90044487f

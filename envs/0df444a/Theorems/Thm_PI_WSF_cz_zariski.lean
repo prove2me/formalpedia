@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_cz_zariski
 -- name    : PI.WSF.cz_zariski
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:45:40.155349+00:00
 -- url     : https://prove2.me/theorems/03b84b7a-fd60-5683-9270-e5b41e846599

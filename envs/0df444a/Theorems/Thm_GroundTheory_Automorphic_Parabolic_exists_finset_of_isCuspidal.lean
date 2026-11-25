@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_exists_finset_of_isCuspidal
 -- name    : GroundTheory.Automorphic.Parabolic.exists_finset_of_isCuspidal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:39:56.847022+00:00
 -- url     : https://prove2.me/theorems/31224d25-ba4b-4196-9aed-62b158f27dcf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_Inv_sum_perm_of_noninj
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.Inv.sum_perm_of_noninj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:12.787126+00:00
 -- url     : https://prove2.me/theorems/862eefa2-2597-4197-bc3d-bf76d3445c75

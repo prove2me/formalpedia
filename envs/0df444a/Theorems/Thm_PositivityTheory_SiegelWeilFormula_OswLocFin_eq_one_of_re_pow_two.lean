@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_OswLocFin_eq_one_of_re_pow_two
 -- name    : PositivityTheory.SiegelWeilFormula.OswLocFin.eq_one_of_re_pow_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:04:13.962057+00:00
 -- url     : https://prove2.me/theorems/d7515a33-7cc6-4643-a890-9ec5fe604134

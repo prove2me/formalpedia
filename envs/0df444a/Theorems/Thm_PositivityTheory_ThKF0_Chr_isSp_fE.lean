@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_isSp_fE
 -- name    : PositivityTheory.ThKF0.Chr.isSp_fE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:04:32.659249+00:00
 -- url     : https://prove2.me/theorems/12b194aa-1b8c-467e-b0d0-abfb58979498

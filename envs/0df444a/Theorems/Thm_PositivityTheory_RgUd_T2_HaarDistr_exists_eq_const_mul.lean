@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T2_HaarDistr_exists_eq_const_mul
 -- name    : PositivityTheory.RgUd.T2.HaarDistr.exists_eq_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:03:10.718506+00:00
 -- url     : https://prove2.me/theorems/fe80d560-32f0-5078-80e2-119ce3026e1e

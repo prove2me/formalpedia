@@ -2351,12 +2351,12 @@
 {"parent": "GlobalTheory.meets_cosets_nsmul_of_meets_cosets_torsion", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_BaseOver", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.meets_cosets_nsmul_of_meets_cosets_torsion", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_ExistsNeZeroHalfStandardAltFormConstOfExponentOn", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.unitary_submonoid_exists_skewAdjoint_log_polynomial", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_UnitaryExistsSkewLog", "via": ["solution", "statement"]}
-{"parent": "P2M_PI_ZuckTensorWork_isWtOn_sigC_iff__603798d8d857", "child": "Formalism_PeriodIntegrals_IsLowUnitH", "via": ["statement"]}
-{"parent": "P2M_PI_ZuckTensorWork_isWtOn_sigC_iff__603798d8d857", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DualChoice", "via": ["statement"]}
-{"parent": "P2M_PI_ZuckTensorWork_isWtOn_sigC_iff__603798d8d857", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DualDefs", "via": ["statement"]}
-{"parent": "P2M_PI_ZuckTensorWork_isWtOn_sigC_iff__603798d8d857", "child": "Formalism_PeriodIntegrals_ZuckTensor", "via": ["statement"]}
-{"parent": "P2M_PI_ZuckTensorWork_isWtOn_sigC_iff__603798d8d857", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_ConjRep", "via": ["statement"]}
-{"parent": "P2M_PI_ZuckTensorWork_isWtOn_sigC_iff__603798d8d857", "child": "Formalism_PeriodIntegrals_UpqRep", "via": ["statement"]}
+{"parent": "P2M_PI_ZuckTensorWork_isWtOn_sigC_iff__603798d8d857", "child": "Formalism_PeriodIntegrals_IsLowUnitH", "via": ["solution", "statement"]}
+{"parent": "P2M_PI_ZuckTensorWork_isWtOn_sigC_iff__603798d8d857", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DualChoice", "via": ["solution", "statement"]}
+{"parent": "P2M_PI_ZuckTensorWork_isWtOn_sigC_iff__603798d8d857", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DualDefs", "via": ["solution", "statement"]}
+{"parent": "P2M_PI_ZuckTensorWork_isWtOn_sigC_iff__603798d8d857", "child": "Formalism_PeriodIntegrals_ZuckTensor", "via": ["solution", "statement"]}
+{"parent": "P2M_PI_ZuckTensorWork_isWtOn_sigC_iff__603798d8d857", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_ConjRep", "via": ["solution", "statement"]}
+{"parent": "P2M_PI_ZuckTensorWork_isWtOn_sigC_iff__603798d8d857", "child": "Formalism_PeriodIntegrals_UpqRep", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.tendstoUniformlyOn_doublingLog_of_contraction", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_TendstoUniformlyOnDoublingLogOfContraction", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.tendstoUniformlyOn_doublingLog_of_contraction", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_DifferentiableOnOfTendstoLocallyUniformlyOn", "via": ["solution", "statement"]}
 {"parent": "SourceProof_18bece8c82da2c8f12fd926b", "child": "StochLean_Probability_Process_Partition_Refinement_F001", "via": ["statement"]}
@@ -3673,12 +3673,12 @@
 {"parent": "PI.ZuckTensorWork.revM_mem_Kset_iff", "child": "Formalism_PeriodIntegrals_ZuckTensor", "via": ["solution", "statement"]}
 {"parent": "PI.ZuckTensorWork.revM_mem_Kset_iff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_ConjRep", "via": ["solution", "statement"]}
 {"parent": "PI.ZuckTensorWork.revM_mem_Kset_iff", "child": "Formalism_PeriodIntegrals_UpqRep", "via": ["solution", "statement"]}
-{"parent": "PI.ZuckTensorWork.kStable_cjSub_iff", "child": "Formalism_PeriodIntegrals_IsLowUnitH", "via": ["statement"]}
-{"parent": "PI.ZuckTensorWork.kStable_cjSub_iff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DualChoice", "via": ["statement"]}
-{"parent": "PI.ZuckTensorWork.kStable_cjSub_iff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DualDefs", "via": ["statement"]}
-{"parent": "PI.ZuckTensorWork.kStable_cjSub_iff", "child": "Formalism_PeriodIntegrals_ZuckTensor", "via": ["statement"]}
-{"parent": "PI.ZuckTensorWork.kStable_cjSub_iff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_ConjRep", "via": ["statement"]}
-{"parent": "PI.ZuckTensorWork.kStable_cjSub_iff", "child": "Formalism_PeriodIntegrals_UpqRep", "via": ["statement"]}
+{"parent": "PI.ZuckTensorWork.kStable_cjSub_iff", "child": "Formalism_PeriodIntegrals_IsLowUnitH", "via": ["solution", "statement"]}
+{"parent": "PI.ZuckTensorWork.kStable_cjSub_iff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DualChoice", "via": ["solution", "statement"]}
+{"parent": "PI.ZuckTensorWork.kStable_cjSub_iff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DualDefs", "via": ["solution", "statement"]}
+{"parent": "PI.ZuckTensorWork.kStable_cjSub_iff", "child": "Formalism_PeriodIntegrals_ZuckTensor", "via": ["solution", "statement"]}
+{"parent": "PI.ZuckTensorWork.kStable_cjSub_iff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_ConjRep", "via": ["solution", "statement"]}
+{"parent": "PI.ZuckTensorWork.kStable_cjSub_iff", "child": "Formalism_PeriodIntegrals_UpqRep", "via": ["solution", "statement"]}
 {"parent": "CompanionTheory.ThKR.Mp.MpA.om_eps", "child": "CompanionTheory_ThickeningEstimates_LieGroupReduction_MetaplecticRepresentation_ContinuousTo", "via": ["solution", "statement"]}
 {"parent": "CompanionTheory.ThKR.Mp.MpA.om_eps", "child": "CompanionTheory_ThickeningEstimates_LieGroupReduction_MetaplecticRepresentation_ContinuousOm", "via": ["solution", "statement"]}
 {"parent": "CompanionTheory.ThKR.Mp.MpA.om_eps", "child": "GroundTheory_GlobalFields_TateThesis_GaussianSchwartz", "via": ["solution", "statement"]}
@@ -4658,12 +4658,12 @@
 {"parent": "GlobalTheory.IsGradedMap.liftQ", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_WeightAddLeOfMemSupportDividedContraction", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.IsGradedMap.liftQ", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_XSmulMemWeightedHomogeneousSubmodule", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.nsmul_aeval_mem_lattice_of_intMatrix_basis", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_NsmulAevalMemLatticeOfIntRationalMatrix", "via": ["solution", "statement"]}
-{"parent": "PI.ZuckTensorWork.isWtOn_sigC_iff", "child": "Formalism_PeriodIntegrals_IsLowUnitH", "via": ["statement"]}
-{"parent": "PI.ZuckTensorWork.isWtOn_sigC_iff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DualChoice", "via": ["statement"]}
-{"parent": "PI.ZuckTensorWork.isWtOn_sigC_iff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DualDefs", "via": ["statement"]}
-{"parent": "PI.ZuckTensorWork.isWtOn_sigC_iff", "child": "Formalism_PeriodIntegrals_ZuckTensor", "via": ["statement"]}
-{"parent": "PI.ZuckTensorWork.isWtOn_sigC_iff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_ConjRep", "via": ["statement"]}
-{"parent": "PI.ZuckTensorWork.isWtOn_sigC_iff", "child": "Formalism_PeriodIntegrals_UpqRep", "via": ["statement"]}
+{"parent": "PI.ZuckTensorWork.isWtOn_sigC_iff", "child": "Formalism_PeriodIntegrals_IsLowUnitH", "via": ["solution", "statement"]}
+{"parent": "PI.ZuckTensorWork.isWtOn_sigC_iff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DualChoice", "via": ["solution", "statement"]}
+{"parent": "PI.ZuckTensorWork.isWtOn_sigC_iff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DualDefs", "via": ["solution", "statement"]}
+{"parent": "PI.ZuckTensorWork.isWtOn_sigC_iff", "child": "Formalism_PeriodIntegrals_ZuckTensor", "via": ["solution", "statement"]}
+{"parent": "PI.ZuckTensorWork.isWtOn_sigC_iff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_ConjRep", "via": ["solution", "statement"]}
+{"parent": "PI.ZuckTensorWork.isWtOn_sigC_iff", "child": "Formalism_PeriodIntegrals_UpqRep", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Arith.Abelian.TateModule.exists_basis", "child": "GroundTheory_ArithmeticGeometry_AbelianVarieties_TateModule", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Arith.Abelian.TateModule.exists_basis", "child": "GroundTheory_ArithmeticGeometry_AbelianVarieties_TorsionGalois", "via": ["solution", "statement"]}
 {"parent": "SourceProof_aa8efee0d1e9dbf694c57465", "child": "StochLean_Probability_InfinitelyDivisible_LevyKhintchine_F008", "via": ["statement"]}
@@ -5001,12 +5001,12 @@
 {"parent": "CompanionTheory.ThKR.Mp.MpA.om_mul", "child": "GroundTheory_GlobalFields_TateThesis_GaussianSchwartz", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.mem_associatedPrimes_tensor_residueField_iff", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_ExistsBasicOpenEqZeroOfMemIInfPowSmul", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.succMin_map_linearIsometry", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_ExistsLinearIndependentNormLeSuccMin", "via": ["solution", "statement"]}
-{"parent": "PI.ZuckTensorWork.kStable_cjSubInv_iff", "child": "Formalism_PeriodIntegrals_IsLowUnitH", "via": ["statement"]}
-{"parent": "PI.ZuckTensorWork.kStable_cjSubInv_iff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DualChoice", "via": ["statement"]}
-{"parent": "PI.ZuckTensorWork.kStable_cjSubInv_iff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DualDefs", "via": ["statement"]}
-{"parent": "PI.ZuckTensorWork.kStable_cjSubInv_iff", "child": "Formalism_PeriodIntegrals_ZuckTensor", "via": ["statement"]}
-{"parent": "PI.ZuckTensorWork.kStable_cjSubInv_iff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_ConjRep", "via": ["statement"]}
-{"parent": "PI.ZuckTensorWork.kStable_cjSubInv_iff", "child": "Formalism_PeriodIntegrals_UpqRep", "via": ["statement"]}
+{"parent": "PI.ZuckTensorWork.kStable_cjSubInv_iff", "child": "Formalism_PeriodIntegrals_IsLowUnitH", "via": ["solution", "statement"]}
+{"parent": "PI.ZuckTensorWork.kStable_cjSubInv_iff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DualChoice", "via": ["solution", "statement"]}
+{"parent": "PI.ZuckTensorWork.kStable_cjSubInv_iff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DualDefs", "via": ["solution", "statement"]}
+{"parent": "PI.ZuckTensorWork.kStable_cjSubInv_iff", "child": "Formalism_PeriodIntegrals_ZuckTensor", "via": ["solution", "statement"]}
+{"parent": "PI.ZuckTensorWork.kStable_cjSubInv_iff", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_ConjRep", "via": ["solution", "statement"]}
+{"parent": "PI.ZuckTensorWork.kStable_cjSubInv_iff", "child": "Formalism_PeriodIntegrals_UpqRep", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Arith.Abelian.natDegree_norm_smul_basis_of_q_eq_zero", "child": "GroundTheory_ArithmeticGeometry_AbelianVarieties_DivisorsValuation", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Arith.Abelian.natDegree_norm_smul_basis_of_q_eq_zero", "child": "GroundTheory_ArithmeticGeometry_AbelianVarieties_FunctionFieldPoint", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Arith.Abelian.natDegree_norm_smul_basis_of_q_eq_zero", "child": "GroundTheory_ArithmeticGeometry_AbelianVarieties_DivisorsOrd", "via": ["solution", "statement"]}
@@ -71443,9 +71443,9 @@
 {"parent": "P2M_GroundTheory_GroupCoh_tateTransport___61af264f7b42", "child": "GroundTheory_TateCohomology_TateZeroClass", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_GroupCoh_tateTransport___61af264f7b42", "child": "GroundTheory_TateCohomology_TateTransport", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_GroupCoh_tateTransport___61af264f7b42", "child": "GroundTheory_TateCohomology_TateGroupIso", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.PfBern.Unit.level_density", "child": "Development_WeilBound_CoreStatements_AutomorphicKernels_BernsteinUnitaryProducts_BernsteinTheoremA_UnitaryKirillovModel_LevelSmulSmul", "via": ["statement"]}
-{"parent": "PositivityTheory.PfBern.Unit.level_density", "child": "GroundTheory_AutomorphicForms_LocallyProfinite", "via": ["statement"]}
-{"parent": "PositivityTheory.PfBern.Unit.level_density", "child": "GroundTheory_AutomorphicForms_ContragredientTranspose_Character", "via": ["statement"]}
+{"parent": "PositivityTheory.PfBern.Unit.level_density", "child": "Development_WeilBound_CoreStatements_AutomorphicKernels_BernsteinUnitaryProducts_BernsteinTheoremA_UnitaryKirillovModel_LevelSmulSmul", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.PfBern.Unit.level_density", "child": "GroundTheory_AutomorphicForms_LocallyProfinite", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.PfBern.Unit.level_density", "child": "GroundTheory_AutomorphicForms_ContragredientTranspose_Character", "via": ["solution", "statement"]}
 {"parent": "Formalism.LFunctionChainParameters.LChain2.slopes_of_places", "child": "Formalism_SizeWindowBrackets_ChainSlopeWindows_GaloisMapComplexConjugation", "via": ["solution", "statement"]}
 {"parent": "Formalism.LFunctionChainParameters.LChain2.slopes_of_places", "child": "Formalism_SizeWindowBrackets_ChainSlopeWindows_ProjectiveLines", "via": ["solution", "statement"]}
 {"parent": "Formalism.LFunctionChainParameters.LChain2.slopes_of_places", "child": "Formalism_SizeWindowBrackets_ChainSlopeWindows_ChainLatticeSizesModelEventually", "via": ["solution", "statement"]}
@@ -81499,9 +81499,9 @@
 {"parent": "GlobalTheory.ChartCmp.CoordDir.tp_zero", "child": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.IsGrpPullback.comp", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.Artin.inertiaDeg_subfieldPlace", "child": "GroundTheory_GlobalFields_Artin_PlacesFrobenius", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.Artin.inertiaDeg_subfieldPlace", "child": "GroundTheory_GlobalFields_Artin_Places", "via": ["solution", "statement"]}
-{"parent": "CompanionTheory.CapEig.capelli_transport", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CapelliEigenvalues_Smooth", "via": ["statement"]}
-{"parent": "CompanionTheory.CapEig.capelli_transport", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LemmaDDeterminantIdentity", "via": ["statement"]}
-{"parent": "CompanionTheory.CapEig.capelli_transport", "child": "CompanionTheory_AutomorphicTheory_ZuckermanCommutation_CapelliEigenvalues_Transport", "via": ["statement"]}
+{"parent": "CompanionTheory.CapEig.capelli_transport", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CapelliEigenvalues_Smooth", "via": ["solution", "statement"]}
+{"parent": "CompanionTheory.CapEig.capelli_transport", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LemmaDDeterminantIdentity", "via": ["solution", "statement"]}
+{"parent": "CompanionTheory.CapEig.capelli_transport", "child": "CompanionTheory_AutomorphicTheory_ZuckermanCommutation_CapelliEigenvalues_Transport", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.CapelliTwoByTwo.bc_herm", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AnisotropicColumnSums", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.CapelliTwoByTwo.bc_herm", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_FrameEntries", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.CapelliTwoByTwo.bc_herm", "child": "Formalism_HermitianCurvature_FrameMinor", "via": ["solution", "statement"]}

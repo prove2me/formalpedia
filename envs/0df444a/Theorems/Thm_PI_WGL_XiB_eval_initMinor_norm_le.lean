@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiB_eval_initMinor_norm_le
 -- name    : PI.WGL.XiB.eval_initMinor_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:45:48.678219+00:00
 -- url     : https://prove2.me/theorems/141f7159-4df0-4718-8291-526812502729

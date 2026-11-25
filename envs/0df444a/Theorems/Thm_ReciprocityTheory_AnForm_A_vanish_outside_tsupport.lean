@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_vanish_outside_tsupport
 -- name    : ReciprocityTheory.AnForm.A.vanish_outside_tsupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:20:18.297404+00:00
 -- url     : https://prove2.me/theorems/dc3b128e-219a-51a4-939d-a86be720df2d

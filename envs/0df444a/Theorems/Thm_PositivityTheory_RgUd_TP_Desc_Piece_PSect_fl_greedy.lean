@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PSect_fl_greedy
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PSect.fl_greedy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:52.73807+00:00
 -- url     : https://prove2.me/theorems/fab482a7-848e-41ed-a16e-b6150f378d68

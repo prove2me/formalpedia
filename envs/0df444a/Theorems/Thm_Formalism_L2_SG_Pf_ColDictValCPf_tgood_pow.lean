@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_tgood_pow
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.tgood_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:39:56.861797+00:00
 -- url     : https://prove2.me/theorems/45d55cc4-4b53-4dbc-97b2-8554096a1415

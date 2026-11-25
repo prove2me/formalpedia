@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_Moll_tendsto_mM
 -- name    : PositivityTheory.Rg.Sw.WR.D.Moll.tendsto_mM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:06:41.951786+00:00
 -- url     : https://prove2.me/theorems/8cc3910e-6aed-5564-8253-cb8723d3e7af

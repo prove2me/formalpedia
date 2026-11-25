@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_gen_geom
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.gen_geom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:05:58.74605+00:00
 -- url     : https://prove2.me/theorems/0de1d7a6-3120-4b56-9138-aa1ce6ba2a31

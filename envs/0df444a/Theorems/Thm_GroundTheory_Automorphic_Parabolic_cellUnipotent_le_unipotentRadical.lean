@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_cellUnipotent_le_unipotentRadical
 -- name    : GroundTheory.Automorphic.Parabolic.cellUnipotent_le_unipotentRadical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:47:50.232813+00:00
 -- url     : https://prove2.me/theorems/456f41f6-6695-45a8-b61c-d16a262191a0

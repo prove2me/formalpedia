@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_rising_product_ne_zero
 -- name    : PositivityTheory.Rg.Sw.LVs.rising_product_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:01:00.349849+00:00
 -- url     : https://prove2.me/theorems/ba7650e8-634c-5e5e-9639-d52fc67eecf5

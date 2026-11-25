@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_GI_cplx
 -- name    : PositivityTheory.Rg.Sw.WR.G.GI.cplx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:05:33.94716+00:00
 -- url     : https://prove2.me/theorems/c3cafdc6-1941-5ef4-9abc-27bd3e265cb5

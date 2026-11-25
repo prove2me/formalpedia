@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PDich_range_Psi
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PDich.range_Psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:04:43.743632+00:00
 -- url     : https://prove2.me/theorems/f4ad6b71-9d3f-401a-841b-54cc57c5fa11

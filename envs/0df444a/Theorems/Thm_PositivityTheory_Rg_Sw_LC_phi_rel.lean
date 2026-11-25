@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_phi_rel
 -- name    : PositivityTheory.Rg.Sw.LC.phi_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:49:47.352796+00:00
 -- url     : https://prove2.me/theorems/6b59cd3f-395b-4fa5-805c-90e1cedbbde5

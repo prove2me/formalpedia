@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Asm_claim
 -- name    : PI.WickFormula.Asm.claim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:44:01.671639+00:00
 -- url     : https://prove2.me/theorems/1852d7a0-b439-5ccf-a72b-31e7fa572fca

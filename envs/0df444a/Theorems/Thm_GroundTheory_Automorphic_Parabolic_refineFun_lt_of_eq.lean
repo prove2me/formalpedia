@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_refineFun_lt_of_eq
 -- name    : GroundTheory.Automorphic.Parabolic.refineFun_lt_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:46:15.149795+00:00
 -- url     : https://prove2.me/theorems/9d826d25-c2f4-5bb7-915b-0b997c4318bb

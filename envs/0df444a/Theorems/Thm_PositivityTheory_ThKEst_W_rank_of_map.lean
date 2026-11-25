@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_W_rank_of_map
 -- name    : PositivityTheory.ThKEst.W.rank_of_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:37.327032+00:00
 -- url     : https://prove2.me/theorems/ffc754a2-162b-499c-a2ac-8404611fec89

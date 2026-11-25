@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryGroupMassFormula_AdIndexEq_trace_integral__5d3ee3114f2e
 -- name    : P2M_PI_UnitaryGroupMassFormula_AdIndexEq_trace_integral__5d3ee3114f2e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:00:28.057072+00:00
 -- url     : https://prove2.me/theorems/5f35a068-8c8e-5c8e-9f4c-bd50802a5b47

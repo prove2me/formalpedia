@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_integral_fderiv_apply_of_cs
 -- name    : ReciprocityTheory.AnForm.A.integral_fderiv_apply_of_cs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:05:59.060124+00:00
 -- url     : https://prove2.me/theorems/b59c6bf1-b2ed-4485-b3c2-533e4137bad4

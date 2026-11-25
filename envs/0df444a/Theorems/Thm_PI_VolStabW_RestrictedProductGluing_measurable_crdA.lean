@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_RestrictedProductGluing_measurable_crdA
 -- name    : PI.VolStabW.RestrictedProductGluing.measurable_crdA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:39:28.36944+00:00
 -- url     : https://prove2.me/theorems/6664a284-99e9-4a51-bc06-6d6f92e5b339

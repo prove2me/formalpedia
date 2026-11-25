@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_GreenFunction_polar_symm_eq
 -- name    : ReciprocityTheory.AnForm.A.GreenFunction.polar_symm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:48.863341+00:00
 -- url     : https://prove2.me/theorems/92b99509-2491-5d07-b4c9-d90c5eae9119

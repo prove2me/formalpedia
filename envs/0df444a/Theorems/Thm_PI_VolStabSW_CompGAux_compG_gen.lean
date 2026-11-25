@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_CompGAux_compG_gen
 -- name    : PI.VolStabSW.CompGAux.compG_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:39:07.234932+00:00
 -- url     : https://prove2.me/theorems/0850a6f2-c069-4682-949a-ec312f35265c

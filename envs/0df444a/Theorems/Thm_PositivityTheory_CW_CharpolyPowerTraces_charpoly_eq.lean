@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_CharpolyPowerTraces_charpoly_eq
 -- name    : PositivityTheory.CW.CharpolyPowerTraces.charpoly_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:49:21.137799+00:00
 -- url     : https://prove2.me/theorems/6b1ff8b5-6218-5918-b3b4-0ea49240a3ad

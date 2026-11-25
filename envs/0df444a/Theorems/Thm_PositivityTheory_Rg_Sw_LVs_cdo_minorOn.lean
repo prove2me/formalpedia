@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_cdo_minorOn
 -- name    : PositivityTheory.Rg.Sw.LVs.cdo_minorOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:07:13.284029+00:00
 -- url     : https://prove2.me/theorems/eed3ebd9-d9f2-5674-95b9-e12237841a16

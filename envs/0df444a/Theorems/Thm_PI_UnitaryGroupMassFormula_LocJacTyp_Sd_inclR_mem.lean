@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_Sd_inclR_mem
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.Sd.inclR_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:44:21.944922+00:00
 -- url     : https://prove2.me/theorems/4987ffd6-c113-4e72-b7ba-a7466ad9fa88

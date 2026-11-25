@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Two_nhds_box
 -- name    : PositivityTheory.ThKEnd.Two.nhds_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:50:48.405114+00:00
 -- url     : https://prove2.me/theorems/e56e03e4-2175-463f-818e-3cd13c1b46c7

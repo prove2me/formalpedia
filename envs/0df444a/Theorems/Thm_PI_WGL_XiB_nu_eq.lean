@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiB_nu_eq
 -- name    : PI.WGL.XiB.nu_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:46:38.157294+00:00
 -- url     : https://prove2.me/theorems/4235f5fb-cb68-4008-ae12-036e25613250

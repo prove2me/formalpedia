@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_IdxHW_comap_eq
 -- name    : PI.VolStabW.IdxHW.comap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:44:16.216803+00:00
 -- url     : https://prove2.me/theorems/09ffba52-9529-472e-8fe4-89f0a5f71dd4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Grow_exists_reps
 -- name    : PositivityTheory.ThKF0.Grow.exists_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:53.913623+00:00
 -- url     : https://prove2.me/theorems/fd3cd5ab-0aad-55de-958e-4f92b38fdd56

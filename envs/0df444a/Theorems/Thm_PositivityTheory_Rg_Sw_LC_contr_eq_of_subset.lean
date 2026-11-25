@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_contr_eq_of_subset
 -- name    : PositivityTheory.Rg.Sw.LC.contr_eq_of_subset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:44:59.285799+00:00
 -- url     : https://prove2.me/theorems/ac86a1ef-0fe1-487d-bbc7-3bd98d9650ac

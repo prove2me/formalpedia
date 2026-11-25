@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_formal_degree_of_schur_unimodular
 -- name    : PIW.HCFdeg.formal_degree_of_schur_unimodular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:49:54.689367+00:00
 -- url     : https://prove2.me/theorems/5319374c-01b5-42cc-adba-ada19243ca71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialDifferentialOperators_first_family_symbol_mul_variable_pow
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.first_family_symbol_mul_variable_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:49:18.462984+00:00
 -- url     : https://prove2.me/theorems/7c802058-c3b3-45fc-b3cc-23a710486c48

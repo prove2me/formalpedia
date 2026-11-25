@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_NullS_mom_C_mul
 -- name    : PositivityTheory.Rg.Sw.LC.NullS.mom_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:49:27.464632+00:00
 -- url     : https://prove2.me/theorems/54f7649f-2009-4b44-8b7c-308c3068c3ee

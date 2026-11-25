@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_flatColumnSupport_of_oneIndexAt_symPosition
 -- name    : GlobalTheory.T.flatColumnSupport_of_oneIndexAt_symPosition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:39:49.928245+00:00
 -- url     : https://prove2.me/theorems/9c60063a-408d-42bd-940c-e00f8a0f193a

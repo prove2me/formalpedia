@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Orb_BReps_cb_single
 -- name    : PositivityTheory.RgUd.T.Nil.Orb.BReps.cb_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:03:15.395485+00:00
 -- url     : https://prove2.me/theorems/424ae7c5-0dfd-4c28-90ea-f4e20efda7cf

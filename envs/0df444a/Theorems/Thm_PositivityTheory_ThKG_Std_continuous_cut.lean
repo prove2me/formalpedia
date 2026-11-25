@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_continuous_cut
 -- name    : PositivityTheory.ThKG.Std.continuous_cut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:06:40.074148+00:00
 -- url     : https://prove2.me/theorems/2dbc4ef2-f388-5783-8482-d3ad8022d280

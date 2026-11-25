@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_GM_norm_phase
 -- name    : PositivityTheory.Rg.Sw.WR.G.GM.norm_phase
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:20.269591+00:00
 -- url     : https://prove2.me/theorems/776776b1-8777-4984-9cbe-dd5206a2fc1f

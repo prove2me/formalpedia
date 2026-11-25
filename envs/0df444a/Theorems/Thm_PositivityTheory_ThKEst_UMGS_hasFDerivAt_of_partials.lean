@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_UMGS_hasFDerivAt_of_partials
 -- name    : PositivityTheory.ThKEst.UMGS.hasFDerivAt_of_partials
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:26.430798+00:00
 -- url     : https://prove2.me/theorems/02bebeb6-9d24-458a-92f9-bfb765ffbf7c

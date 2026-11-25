@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialDifferentialOperators_op_add_f
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.op_add_f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:44:21.140848+00:00
 -- url     : https://prove2.me/theorems/51f78428-2ede-49f7-8eff-cb61b0aa7df3

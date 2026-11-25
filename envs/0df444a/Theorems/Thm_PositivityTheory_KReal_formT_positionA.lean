@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_formT_positionA
 -- name    : PositivityTheory.KReal.formT_positionA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:51:13.562087+00:00
 -- url     : https://prove2.me/theorems/5e7e28f0-87ce-44af-bd86-856aad797444

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_EqvWt_sum_rowDeg_of_mem
 -- name    : PI.WGL.EqvWt.sum_rowDeg_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:47:08.549129+00:00
 -- url     : https://prove2.me/theorems/b97bbb02-5398-41e3-8342-ce88c2aaec59

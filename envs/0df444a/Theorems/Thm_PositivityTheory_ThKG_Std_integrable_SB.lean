@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_integrable_SB
 -- name    : PositivityTheory.ThKG.Std.integrable_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:07:25.633466+00:00
 -- url     : https://prove2.me/theorems/a279580d-30e6-4069-8ae8-6e59a01f92a6

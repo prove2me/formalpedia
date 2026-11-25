@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QH_sPsq_le
 -- name    : QH.sPsq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:51:05.703047+00:00
 -- url     : https://prove2.me/theorems/09327d98-9bfb-4fee-8513-073b2e1dccff

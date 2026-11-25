@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_smul_measurePreserving
 -- name    : ReciprocityTheory.AnForm.A.smul_measurePreserving
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:19:42.644413+00:00
 -- url     : https://prove2.me/theorems/da3a983c-3b19-446c-acba-8e3e52ce993d

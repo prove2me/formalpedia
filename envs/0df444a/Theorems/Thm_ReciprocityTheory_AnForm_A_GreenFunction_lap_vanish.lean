@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_GreenFunction_lap_vanish
 -- name    : ReciprocityTheory.AnForm.A.GreenFunction.lap_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:51:00.010902+00:00
 -- url     : https://prove2.me/theorems/25881161-031d-478c-9f7c-3c0e51cefa2f

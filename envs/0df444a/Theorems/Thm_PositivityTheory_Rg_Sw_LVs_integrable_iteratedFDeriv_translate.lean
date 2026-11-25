@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_integrable_iteratedFDeriv_translate
 -- name    : PositivityTheory.Rg.Sw.LVs.integrable_iteratedFDeriv_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:50.145486+00:00
 -- url     : https://prove2.me/theorems/249b6934-e5a9-4d9d-b081-2bc449cce799

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Two_Dat_gr
 -- name    : PositivityTheory.ThKEnd.Two.Dat.gr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:50:10.826509+00:00
 -- url     : https://prove2.me/theorems/2e21294e-93c1-4d49-bc58-42c3f2adfc02

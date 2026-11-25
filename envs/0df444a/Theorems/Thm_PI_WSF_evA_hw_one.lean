@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_evA_hw_one
 -- name    : PI.WSF.evA_hw_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:46:44.951257+00:00
 -- url     : https://prove2.me/theorems/e96c8b1c-3032-4568-b267-b8e410d48945

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_iterNested
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.iterNested
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:47.332625+00:00
 -- url     : https://prove2.me/theorems/f06f37b9-bb86-4379-970b-8685bee4971d

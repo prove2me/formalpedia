@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_UnifChange_near_typeFrame
 -- name    : GlobalTheory.SymChain.UnifChange.near_typeFrame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:27:47.16384+00:00
 -- url     : https://prove2.me/theorems/a4f0f5d0-99bb-45b2-b12f-940f2f908771

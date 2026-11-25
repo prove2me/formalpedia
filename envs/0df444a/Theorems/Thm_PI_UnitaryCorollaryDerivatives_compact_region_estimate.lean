@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_compact_region_estimate
 -- name    : PI.UnitaryCorollaryDerivatives.compact_region_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:39:34.577606+00:00
 -- url     : https://prove2.me/theorems/35c5f0d5-8bbc-4b8b-a4a6-7a34aeadf2ee

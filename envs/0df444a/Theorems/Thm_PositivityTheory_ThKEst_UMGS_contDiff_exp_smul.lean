@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_UMGS_contDiff_exp_smul
 -- name    : PositivityTheory.ThKEst.UMGS.contDiff_exp_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:05.178902+00:00
 -- url     : https://prove2.me/theorems/c7da227f-0485-438d-b205-f7d909120c38

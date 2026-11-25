@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_JLatOf_linInd_ej
 -- name    : PositivityTheory.Rg.Rs.JLatOf.linInd_ej
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:53.298952+00:00
 -- url     : https://prove2.me/theorems/a2d4f947-f051-4591-b5ac-caae51a3b1ea

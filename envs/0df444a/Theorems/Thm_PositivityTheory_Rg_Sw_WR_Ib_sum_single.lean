@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_Ib_sum_single
 -- name    : PositivityTheory.Rg.Sw.WR.Ib.sum_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:50:12.040639+00:00
 -- url     : https://prove2.me/theorems/2c6d7faf-6354-4f79-a4ac-490250864eca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_column_moments_of_symmetric
 -- name    : PositivityTheory.CW.column_moments_of_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:47:48.891578+00:00
 -- url     : https://prove2.me/theorems/0c1b1a7d-4a74-5c2b-9d93-be7e93360193

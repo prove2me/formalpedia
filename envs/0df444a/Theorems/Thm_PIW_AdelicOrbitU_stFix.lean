@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelicOrbitU_stFix
 -- name    : PIW.AdelicOrbitU.stFix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:59:31.164117+00:00
 -- url     : https://prove2.me/theorems/a38064b7-d411-4479-a0ce-462d655ef25a

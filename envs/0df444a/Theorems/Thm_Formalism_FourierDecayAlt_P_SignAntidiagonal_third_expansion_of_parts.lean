@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_third_expansion_of_parts
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.third_expansion_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:35:13.020418+00:00
 -- url     : https://prove2.me/theorems/6a1ce364-23dd-4a03-ab10-6738e934c573

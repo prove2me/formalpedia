@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Loc_Ptf_sum_eI
 -- name    : PositivityTheory.RgUd.TP.Loc.Ptf.sum_eI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:03:07.54108+00:00
 -- url     : https://prove2.me/theorems/71ef7263-0174-5355-83d5-d01655cffb7e

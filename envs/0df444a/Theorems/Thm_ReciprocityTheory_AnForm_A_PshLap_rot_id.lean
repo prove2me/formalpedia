@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshLap_rot_id
 -- name    : ReciprocityTheory.AnForm.A.PshLap.rot_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:05:06.907406+00:00
 -- url     : https://prove2.me/theorems/df63ae5f-1c09-5507-ae8c-94c484e008a4

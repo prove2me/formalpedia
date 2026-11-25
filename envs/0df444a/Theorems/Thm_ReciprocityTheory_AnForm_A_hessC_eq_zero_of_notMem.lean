@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_hessC_eq_zero_of_notMem
 -- name    : ReciprocityTheory.AnForm.A.hessC_eq_zero_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:05:52.456068+00:00
 -- url     : https://prove2.me/theorems/3e361fc5-3f3d-560b-94da-49eda6553f74

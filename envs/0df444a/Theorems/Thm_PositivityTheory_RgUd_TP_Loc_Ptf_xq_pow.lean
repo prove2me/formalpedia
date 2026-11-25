@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Loc_Ptf_xq_pow
 -- name    : PositivityTheory.RgUd.TP.Loc.Ptf.xq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:28.411934+00:00
 -- url     : https://prove2.me/theorems/880b64d8-6f2a-5b35-936c-595b149ef419

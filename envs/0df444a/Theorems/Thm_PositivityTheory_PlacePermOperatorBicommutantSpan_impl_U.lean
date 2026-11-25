@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PlacePermOperatorBicommutantSpan_impl_U
 -- name    : PositivityTheory.PlacePermOperatorBicommutantSpan.impl_U
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:46:13.424033+00:00
 -- url     : https://prove2.me/theorems/531267df-8855-4ffa-b4ce-9f85da24c707

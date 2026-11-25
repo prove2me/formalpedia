@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Orb_BModbound_LaurentWeightBound_prj_mem
 -- name    : PositivityTheory.RgUd.T.Nil.Orb.BModbound.LaurentWeightBound.prj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:51.695125+00:00
 -- url     : https://prove2.me/theorems/758bbb4c-0617-4c99-82b8-30e4de681815

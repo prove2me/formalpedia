@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_VolAAW_isCompact_hermO
 -- name    : PI.VolStabW.VolAAW.isCompact_hermO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:47:02.954337+00:00
 -- url     : https://prove2.me/theorems/59bbe07f-14f7-5678-add9-5f2e0023f340

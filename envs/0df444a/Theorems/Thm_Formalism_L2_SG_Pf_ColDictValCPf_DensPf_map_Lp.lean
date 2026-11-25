@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_DensPf_map_Lp
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.DensPf.map_Lp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:43:27.129584+00:00
 -- url     : https://prove2.me/theorems/ad4b9b28-d11f-5da3-9f70-52be73753d25

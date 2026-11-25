@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZW_zerosWindow_of_transfer
 -- name    : PI.ZW.zerosWindow_of_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:46:43.542876+00:00
 -- url     : https://prove2.me/theorems/a0b136e4-1d91-4d3a-9a7f-f38d49029b19

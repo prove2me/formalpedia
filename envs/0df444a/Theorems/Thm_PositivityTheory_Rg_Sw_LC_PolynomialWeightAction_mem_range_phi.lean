@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialWeightAction_mem_range_phi
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialWeightAction.mem_range_phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:48:50.50835+00:00
 -- url     : https://prove2.me/theorems/0a0488b2-6022-4801-857c-71cbce691e3d

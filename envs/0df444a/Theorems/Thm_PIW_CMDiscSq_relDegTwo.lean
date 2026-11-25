@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_CMDiscSq_relDegTwo
 -- name    : PIW.CMDiscSq.relDegTwo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:38.103801+00:00
 -- url     : https://prove2.me/theorems/6ee0e286-c65e-49af-b1e6-9da825bf979a

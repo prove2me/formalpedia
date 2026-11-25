@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_gl_character
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.gl_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:02:13.94588+00:00
 -- url     : https://prove2.me/theorems/2e33fd79-fb11-4866-bd02-f9b2a6f8791c

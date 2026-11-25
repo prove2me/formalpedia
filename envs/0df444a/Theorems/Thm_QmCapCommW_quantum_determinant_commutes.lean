@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QmCapCommW_quantum_determinant_commutes
 -- name    : QmCapCommW.quantum_determinant_commutes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:05:53.215226+00:00
 -- url     : https://prove2.me/theorems/de134d03-bccf-5400-984c-bab8aee07f2c

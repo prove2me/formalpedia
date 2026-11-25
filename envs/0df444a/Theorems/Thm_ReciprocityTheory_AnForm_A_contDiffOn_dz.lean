@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_contDiffOn_dz
 -- name    : ReciprocityTheory.AnForm.A.contDiffOn_dz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:50:57.983354+00:00
 -- url     : https://prove2.me/theorems/5e7f0c88-7038-4ba7-8711-abd270846795

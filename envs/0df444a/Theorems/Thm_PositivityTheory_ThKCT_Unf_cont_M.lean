@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Unf_cont_M
 -- name    : PositivityTheory.ThKCT.Unf.cont_M
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:38.449905+00:00
 -- url     : https://prove2.me/theorems/5165a4f4-d504-4dee-92ac-f31bb6f96ab6

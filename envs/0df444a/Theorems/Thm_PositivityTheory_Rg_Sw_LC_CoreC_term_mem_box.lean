@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreC_term_mem_box
 -- name    : PositivityTheory.Rg.Sw.LC.CoreC.term_mem_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:57:16.926795+00:00
 -- url     : https://prove2.me/theorems/59d6b049-feb4-4f6e-bc77-d6e06e72aea6

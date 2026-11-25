@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_I_continuous_herm
 -- name    : PositivityTheory.Rg.Sw.WR.I.continuous_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:08:48.589993+00:00
 -- url     : https://prove2.me/theorems/d3f48036-2ac8-5aa2-afbd-f6fda0ad0ce3

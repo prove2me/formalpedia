@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_cas_tensor
 -- name    : PositivityTheory.KReal.cas_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:51:14.665321+00:00
 -- url     : https://prove2.me/theorems/f6d9328e-5153-4e0c-9565-28897a17ea83

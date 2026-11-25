@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_AvgPf_actP_actP
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.AvgPf.actP_actP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:54:43.105943+00:00
 -- url     : https://prove2.me/theorems/5291a32f-8377-49dd-ba94-930cb934c7a5

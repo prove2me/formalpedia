@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_NullPf_rank_lt_of_minors
 -- name    : PositivityTheory.Rg.Sw.SP.NullPf.rank_lt_of_minors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:49:32.527+00:00
 -- url     : https://prove2.me/theorems/083e3e85-9219-4c8f-a15a-246c52275f19

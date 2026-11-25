@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_herm_spectral
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.herm_spectral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:54:17.254486+00:00
 -- url     : https://prove2.me/theorems/fb2c913c-17ad-457b-be22-0c089e9ffcae

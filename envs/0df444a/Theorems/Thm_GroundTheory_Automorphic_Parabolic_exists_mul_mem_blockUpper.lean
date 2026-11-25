@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_exists_mul_mem_blockUpper
 -- name    : GroundTheory.Automorphic.Parabolic.exists_mul_mem_blockUpper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:19:46.632859+00:00
 -- url     : https://prove2.me/theorems/553930a5-b7a5-456a-8b57-0bba9138176f

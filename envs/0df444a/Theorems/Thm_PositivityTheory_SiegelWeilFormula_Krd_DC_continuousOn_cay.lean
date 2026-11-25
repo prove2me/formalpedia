@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Krd_DC_continuousOn_cay
 -- name    : PositivityTheory.SiegelWeilFormula.Krd.DC.continuousOn_cay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:03:40.160637+00:00
 -- url     : https://prove2.me/theorems/e9fbb0ef-c6aa-54ef-ba0c-edf356df7dc7

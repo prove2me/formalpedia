@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_Bm_line
 -- name    : PositivityTheory.Rg.Sw.WR.B.Bm_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:02:01.726612+00:00
 -- url     : https://prove2.me/theorems/c4f09b9d-82dc-505e-ba2d-2195e71a6f20

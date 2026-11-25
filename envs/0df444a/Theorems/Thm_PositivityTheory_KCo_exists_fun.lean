@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KCo_exists_fun
 -- name    : PositivityTheory.KCo.exists_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:52:35.599689+00:00
 -- url     : https://prove2.me/theorems/3d797288-1560-5d12-a1e0-6de536a3c54d

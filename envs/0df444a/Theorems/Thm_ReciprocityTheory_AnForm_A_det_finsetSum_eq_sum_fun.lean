@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_det_finsetSum_eq_sum_fun
 -- name    : ReciprocityTheory.AnForm.A.det_finsetSum_eq_sum_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:50:58.933143+00:00
 -- url     : https://prove2.me/theorems/2d13e11d-744f-4c20-a967-202cf327fad5

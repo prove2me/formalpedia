@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_tmax_eq_of_forall_le
 -- name    : ReciprocityTheory.AnForm.A.tmax_eq_of_forall_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:19:36.539034+00:00
 -- url     : https://prove2.me/theorems/4c8094cb-6289-463c-81e8-b0df28700ce2

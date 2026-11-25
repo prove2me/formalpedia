@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_NewtonIdentitiesAlt_card_filter_lt
 -- name    : PositivityTheory.RgJS.NewtonIdentitiesAlt.card_filter_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:02:56.996479+00:00
 -- url     : https://prove2.me/theorems/f531b5af-6c54-55fe-b33a-497da74009bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_hermRed_surjective
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.hermRed_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:06:09.987797+00:00
 -- url     : https://prove2.me/theorems/c267fd5d-6333-4cc2-9a9c-903c9e7d9655

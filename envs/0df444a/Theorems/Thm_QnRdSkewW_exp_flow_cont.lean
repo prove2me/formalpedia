@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnRdSkewW_exp_flow_cont
 -- name    : QnRdSkewW.exp_flow_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:05:35.96083+00:00
 -- url     : https://prove2.me/theorems/60751b1b-45a1-5762-85b1-248c14634bf6

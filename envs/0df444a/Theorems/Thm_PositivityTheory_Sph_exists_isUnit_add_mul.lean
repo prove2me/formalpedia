@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Sph_exists_isUnit_add_mul
 -- name    : PositivityTheory.Sph.exists_isUnit_add_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:03:47.176648+00:00
 -- url     : https://prove2.me/theorems/079c8956-8908-5e43-aecf-9526e52326b7

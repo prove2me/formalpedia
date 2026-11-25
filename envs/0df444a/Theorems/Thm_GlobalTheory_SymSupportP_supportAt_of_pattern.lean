@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymSupportP_supportAt_of_pattern
 -- name    : GlobalTheory.SymSupportP.supportAt_of_pattern
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:30:50.298365+00:00
 -- url     : https://prove2.me/theorems/11ca7028-1570-4ad3-9ad4-91e61607c986

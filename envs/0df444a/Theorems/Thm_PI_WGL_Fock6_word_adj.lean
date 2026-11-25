@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Fock6_word_adj
 -- name    : PI.WGL.Fock6.word_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:47:24.807803+00:00
 -- url     : https://prove2.me/theorems/646233bd-87ca-49b4-854e-e17c96d85fa5

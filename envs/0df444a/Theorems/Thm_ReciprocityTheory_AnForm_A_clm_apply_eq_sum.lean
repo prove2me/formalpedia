@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_clm_apply_eq_sum
 -- name    : ReciprocityTheory.AnForm.A.clm_apply_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:50:43.701612+00:00
 -- url     : https://prove2.me/theorems/fe327a75-dd59-5b01-a453-1b6bec25ef2a

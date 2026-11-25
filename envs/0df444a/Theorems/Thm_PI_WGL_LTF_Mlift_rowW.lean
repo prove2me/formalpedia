@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTF_Mlift_rowW
 -- name    : PI.WGL.LTF.Mlift_rowW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:48:16.414847+00:00
 -- url     : https://prove2.me/theorems/6d91da1e-ae7a-412c-9965-464cdae0a669

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KFock_eucl_norm_sq
 -- name    : PositivityTheory.SiegelWeilFormula.KFock.eucl_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:50:54.737199+00:00
 -- url     : https://prove2.me/theorems/83a1e974-15cf-44bb-9868-72560a97056b

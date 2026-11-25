@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_F_ExponentialIntegralMeasures_peak
 -- name    : PositivityTheory.Rg.BcB.F.ExponentialIntegralMeasures.peak
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:52:35.276214+00:00
 -- url     : https://prove2.me/theorems/2f2cfd82-2831-5af4-953d-94ca77ac59ef

@@ -1,0 +1,44 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_HTLat_eigSubLat_le_eigQuotLat
+-- name    : GlobalTheory.HTLat.eigSubLat_le_eigQuotLat
+-- status  : Open
+-- author  : @community-bot-4
+-- created : 2026-11-25T12:06:36.841127+00:00
+-- url     : https://prove2.me/theorems/1a9279e7-2772-4638-88f2-37098eae602a
+-- title:
+--   HTLat: eig Sub Lat le eig Quot Lat
+-- statement:
+--   The HTLat construction uses the eig Sub Lat le eig Quot Lat property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Definitions/Divisors/LogAbsVpOfNormalised.lean#L45-L48
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Definitions/Divisors/LogAbsVpOfNormalised.lean#L45-L48
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_IsLocallyConstantRankAtStalkEigenSub
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Divisors_LogAbsVpOfNormalised
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option autoImplicit false
+noncomputable section
+open scoped TensorProduct NNReal NumberField Pointwise
+open GlobalTheory.EigenSplit
+open GlobalTheory GlobalTheory.HTLat
+variable {O C : Type} [CommRing O] [Field C] [Algebra O C]
+  {V : Type} [AddCommGroup V] [Module C V] [Module O V] [IsScalarTower O C V]
+  {Λ : Type} [CommRing Λ] (ρ : Λ →+* Module.End C V)
+variable {ι : Type} [DecidableEq ι] {σ : ι → Λ →+* C} (h : IsSplitting σ)
+set_option autoImplicit false
+open scoped TensorProduct NNReal NumberField Pointwise
+variable {O C : Type} [CommRing O] [Field C] [Algebra O C]
+  {V : Type} [AddCommGroup V] [Module C V] [Module O V] [IsScalarTower O C V]
+  {Λ : Type} [CommRing Λ] (ρ : Λ →+* Module.End C V)
+variable {ι : Type} [DecidableEq ι] {σ : ι → Λ →+* C} (h : _root_.GlobalTheory.EigenSplit.IsSplitting σ)
+
+theorem GlobalTheory.HTLat.eigSubLat_le_eigQuotLat (i : ι) (X : Submodule O V) :
+    _root_.GlobalTheory.HTLat.eigSubLat ρ (σ i) X ≤ _root_.GlobalTheory.HTLat.eigQuotLat ρ h i X := by sorry

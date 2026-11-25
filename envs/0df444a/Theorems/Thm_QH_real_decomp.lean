@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QH_real_decomp
 -- name    : QH.real_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:50:42.996058+00:00
 -- url     : https://prove2.me/theorems/d22579ef-e5db-426a-89b7-11d6eb2af582

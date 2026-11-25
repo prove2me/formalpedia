@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_DoubleStepProof_vol_box_pos
 -- name    : GlobalTheory.LocFlat.DoubleStepProof.vol_box_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:28:19.637801+00:00
 -- url     : https://prove2.me/theorems/d41a5c08-3a5c-4004-b0fe-790f7da8411e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreA_PosH_re_nonneg
 -- name    : PositivityTheory.Rg.Sw.LC.CoreA.PosH.re_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:55:35.412094+00:00
 -- url     : https://prove2.me/theorems/bc991dc4-895c-5afb-a375-89a3251ab5db

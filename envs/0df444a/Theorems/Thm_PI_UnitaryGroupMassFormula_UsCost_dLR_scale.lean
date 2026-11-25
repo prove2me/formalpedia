@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_dLR_scale
 -- name    : PI.UnitaryGroupMassFormula.UsCost.dLR_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:44:56.267532+00:00
 -- url     : https://prove2.me/theorems/0ec25b47-cf8a-4ed8-9997-a412affa5984

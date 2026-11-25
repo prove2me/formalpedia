@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KFPB_iteratedDeriv_poly_real
 -- name    : PositivityTheory.SiegelWeilFormula.KFPB.iteratedDeriv_poly_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:03:17.869864+00:00
 -- url     : https://prove2.me/theorems/3126c31e-4f9d-412f-9e6f-301e1c71f1a7

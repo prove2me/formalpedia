@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_NullS_norm_gs_le
 -- name    : PositivityTheory.Rg.Sw.LC.NullS.norm_gs_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:48:54.96001+00:00
 -- url     : https://prove2.me/theorems/bf1f2fe5-d3d4-4b19-af49-be33159e5f9c

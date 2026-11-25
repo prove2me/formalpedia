@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_functional_calculus_of_basic
 -- name    : PositivityTheory.CW.functional_calculus_of_basic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:47:52.743801+00:00
 -- url     : https://prove2.me/theorems/f9a69b04-f06c-46bb-b7a5-4938f981e366

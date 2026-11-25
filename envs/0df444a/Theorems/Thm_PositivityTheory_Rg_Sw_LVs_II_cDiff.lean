@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_cDiff
 -- name    : PositivityTheory.Rg.Sw.LVs.II.cDiff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:47:14.701566+00:00
 -- url     : https://prove2.me/theorems/1ce3dbc7-4fa7-47e1-9fb4-56e444b3f855

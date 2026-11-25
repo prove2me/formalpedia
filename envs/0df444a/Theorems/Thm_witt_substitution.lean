@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_witt_substitution
 -- name    : witt_substitution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:03:26.190701+00:00
 -- url     : https://prove2.me/theorems/ad392938-a666-54b3-b4e4-8da790de600e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_list_prod_eq_foldr
 -- name    : PositivityTheory.Rg.Sw.SP.list_prod_eq_foldr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:00:37.213243+00:00
 -- url     : https://prove2.me/theorems/9ef610ad-b166-477b-928c-f5df2b0c06be

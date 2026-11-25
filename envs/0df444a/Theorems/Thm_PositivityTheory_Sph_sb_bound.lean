@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Sph_sb_bound
 -- name    : PositivityTheory.Sph.sb_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:04:26.360279+00:00
 -- url     : https://prove2.me/theorems/e7cac9d9-ec9a-4357-9a3b-b65a6022972e

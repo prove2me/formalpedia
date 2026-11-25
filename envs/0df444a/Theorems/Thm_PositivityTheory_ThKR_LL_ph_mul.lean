@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_LL_ph_mul
 -- name    : PositivityTheory.ThKR.LL.ph_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:07:43.433529+00:00
 -- url     : https://prove2.me/theorems/db842731-fb45-5b9d-a378-34d5a6d51370

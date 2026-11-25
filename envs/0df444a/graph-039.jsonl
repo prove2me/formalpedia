@@ -35266,8 +35266,8 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LogConcaveMultiplicativeGrowthBoundStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LogConcaveMultiplicativeGrowthBound", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.FD.PositiveMinorUnits.mN_pos", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_GramDeterminantReal", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.FD.PositiveMinorUnits.mN_pos", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_PositiveMinorUnits", "via": ["statement"]}
-{"parent": "PI.WickFormula.Gen.commute_gdelta_dL", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_WickFormula_GenDefs", "via": ["statement"]}
-{"parent": "PI.WickFormula.Gen.commute_gdelta_dL", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_WickFormula_GenPow", "via": ["statement"]}
+{"parent": "PI.WickFormula.Gen.commute_gdelta_dL", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_WickFormula_GenDefs", "via": ["solution", "statement"]}
+{"parent": "PI.WickFormula.Gen.commute_gdelta_dL", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_WickFormula_GenPow", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SW.ExpSum.imH_isHermitian", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_HermitianThetaSummableAndDeterminesTestFn", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SW.ExpSum.imH_isHermitian", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_DifferentiableOnOfTendstoLocallyUniformlyOn", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SW.ExpSum.imH_isHermitian", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_ExhaustStatementPfA", "via": ["solution", "statement"]}
@@ -70882,8 +70882,8 @@
 {"parent": "Formalism.FourierDecayAlt.P.A6x3.perp_R", "child": "Formalism_HermitianCurvature_ThetaExistenceInductiveFromPieces", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.A6x3.perp_R", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_KernelNonzeroModulusDeterminantEq", "via": ["solution", "statement"]}
 {"parent": "RH1E6S16_D085_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.II.contDiff_xZx", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_FderivXZxSkew", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.II.contDiff_xZx", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_InfInvA", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.II.contDiff_xZx", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_FderivXZxSkew", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.II.contDiff_xZx", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_InfInvA", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_ExistsReflection", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_DisjointSpanPerpLat", "via": ["statement"]}
 {"parent": "RelaxedEqMDP_Discrete_Supplement_ContinuousTime", "child": "RelaxedEqMDP_Discrete_Setting", "via": ["statement"]}
 {"parent": "GroundTheory.Automorphic.UnitaryRep.IsInvariant.topologicalClosure", "child": "GroundTheory_AutomorphicForms_UnitaryRepresentations_IsInvariantIffCommuteStarProjection", "via": ["solution", "statement"]}
@@ -75299,8 +75299,8 @@
 {"parent": "GlobalTheory.CompanionTheory.RiemannCore.mem_tile", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CosetOff", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.RiemannCore.mem_tile", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_LatticePointCountScaling", "via": ["solution", "statement"]}
 {"parent": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_MollId", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_MollIdA", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.CoreBb.op_mul_X_inr", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.CoreBb.op_mul_X_inr", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ProdMapPowSingle", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.CoreBb.op_mul_X_inr", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.CoreBb.op_mul_X_inr", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ProdMapPowSingle", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.D.Moll.norm_cexp_It", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_MollId", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.D.Moll.norm_cexp_It", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_MollIdA", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_HermitianMatricesCard", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ResAlgSplitTwo", "via": ["statement"]}
@@ -75393,8 +75393,8 @@
 {"parent": "GlobalTheory.CompactHowe.subst2_X", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_TotalDegreeSubstFLe", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.RgEisGal.aff_re", "child": "Development_WeilBound_RepresentationTheoryGL_EisensteinSeries_SiegelEisensteinContinuation_StripEntire", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.RgEisGal.aff_re", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_DifferentiableAffLine", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.B.herm_conjTranspose", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundA", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.B.herm_conjTranspose", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundAlt", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.B.herm_conjTranspose", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundA", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.B.herm_conjTranspose", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundAlt", "via": ["solution", "statement"]}
 {"parent": "RH1E6S16_D088_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_ExistsIsSelfDualOfHasConductor", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_SimpleSum", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_ExistsIsSelfDualOfHasConductor", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_PadicIsNonarchimedeanLocalField", "via": ["statement"]}
@@ -75428,8 +75428,8 @@
 {"parent": "PositivityTheory.Rg.Sw.LVs.det_second_cayley_block_ne_zero", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SecondCayleyBlockMulConjTransposeEq", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.CoreBb.symK_op", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.CoreBb.symK_op", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ProdMapPowSingle", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.inverse_first_block_eq_of_group", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffAlt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.inverse_first_block_eq_of_group", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SecondCayleyBlockMulConjTransposeEq", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.inverse_first_block_eq_of_group", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffAlt", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.inverse_first_block_eq_of_group", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SecondCayleyBlockMulConjTransposeEq", "via": ["solution", "statement"]}
 {"parent": "WeilConjectures.exists_zeta_functional_equation_of_ge_two", "child": "WeilConjectures_zetaFunction", "via": ["solution", "statement"]}
 {"parent": "WeilConjectures.exists_zeta_functional_equation_of_ge_two", "child": "WeilConjectures_projectiveSpace", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.CoreC.mem_second_family_iff", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoeffSmulX", "via": ["solution", "statement"]}
@@ -75512,8 +75512,8 @@
 {"parent": "GlobalTheory.CompanionTheory.RgEisLeviQUnit.bdet_mulQ", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_LeviQuotientOfBlockDet", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.RgEisLeviQUnit.bdet_mulQ", "child": "Development_WeilBound_RepresentationTheoryGL_EisensteinSeries_SiegelEisensteinContinuation_ConvGrOf", "via": ["solution", "statement"]}
 {"parent": "RH1E6S16_D089_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fock_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_MapDomainFlpFlp", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fock_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_NullStableAlt", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fock_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_MapDomainFlpFlp", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fock_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_NullStableAlt", "via": ["solution", "statement"]}
 {"parent": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_SymmetricFiltrationIffSupported", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PairSym", "via": ["statement"]}
 {"parent": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_SymmetricFiltrationIffSupported", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PderivPowMonomial", "via": ["statement"]}
 {"parent": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_SymmetricFiltrationIffSupported", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ProdMapPowSingle", "via": ["statement"]}
@@ -75729,12 +75729,12 @@
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_HermitianMatrixDiagonalizableStatement", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_UnramifiedQuotientCardStatement", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_HermitianMatrixDiagonalizableStatement", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ResAlgSplitTwo", "via": ["statement"]}
 {"parent": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_BinaryMassMeans_MeanVal", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_IsEulerProd", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.mom_add", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_OneMom", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.mom_add", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_NullStableAlt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.mom_add", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_IntegrableMonomial", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.mom_add", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_OneMom", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.mom_add", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_NullStableAlt", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.mom_add", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_IntegrableMonomial", "via": ["solution", "statement"]}
 {"parent": "X25519Dalek.fnOk_edwardsPoint_mul_by_pow_2_four_v2", "child": "X25519Dalek_Spec", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.STD.isT_dList", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffB", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.STD.isT_dList", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffA", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.STD.isT_dList", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffB", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.STD.isT_dList", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffA", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.SiegLoc.psi_pow", "child": "Development_WeilBound_CoreStatements_AutomorphicKernels_UnitarySchrodingerModel_LocalDefs", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.SiegLoc.psi_pow", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ResAlgSplitTwo", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.SiegLoc.psi_pow", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_FixedNondeg", "via": ["solution", "statement"]}
@@ -75958,8 +75958,8 @@
 {"parent": "RH1E6S16.part_087_2", "child": "ArdaRS_Arithmetic", "via": ["statement"]}
 {"parent": "RH1E6S16.part_087_2", "child": "ArdaRH65K_RS_Fold", "via": ["statement"]}
 {"parent": "RH1E6S16.part_087_2", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.D.Lc_apply", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_DerivFA", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.D.Lc_apply", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_DensDefs", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.D.Lc_apply", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_DerivFA", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.D.Lc_apply", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_DensDefs", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_MembershipProofs_BoundMulTranslate", "child": "Development_AutomorphicSpectrum_Definitions_MembershipCriteria_ExistsHarrisTaylorObjectOfLevelLift", "via": ["statement"]}
 {"parent": "GroundTheory_AutomorphicForms_RealGroupsIwasawaHaar", "child": "GroundTheory.Automorphic.coe_iwasawaHomeomorph_apply", "via": ["statement"]}
 {"parent": "GroundTheory_AutomorphicForms_RealGroupsIwasawaHaar", "child": "GroundTheory_AutomorphicForms_RealGroupsHaar", "via": ["statement"]}
@@ -76204,8 +76204,8 @@
 {"parent": "Formalism.L2.Th1.A.ZSer.FF_map", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_WeierstrassSubstitution_FormalGroupEqWSeries", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.A.ZSer.FF_map", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_WeierstrassSubstitution_EqWSerSubst", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.A.ZSer.FF_map", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_WeierstrassSubstitution_FlowBasic", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.hop_deriv_fock", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_HopPderivComm", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.hop_deriv_fock", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_NullStableAlt", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.hop_deriv_fock", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_HopPderivComm", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.hop_deriv_fock", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_NullStableAlt", "via": ["solution", "statement"]}
 {"parent": "RH1E6S16.part_088_0", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
 {"parent": "RH1E6S16.part_088_0", "child": "ArdaRH65K_RS_Mellin", "via": ["statement"]}
 {"parent": "RH1E6S16.part_088_0", "child": "ArdaRS_Evaluator", "via": ["statement"]}
@@ -76564,8 +76564,8 @@
 {"parent": "Formalism.L2.Th1.A.halfSpec_of", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_WeierstrassSubstitution_EqWSerSubst", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.A.halfSpec_of", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_WeierstrassSubstitution_FlowBasic", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensInfSS", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensInfFS", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.Inv.wd_smooth", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsGainBSt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.Inv.wd_smooth", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GBInvar", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.Inv.wd_smooth", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsGainBSt", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.Inv.wd_smooth", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GBInvar", "via": ["solution", "statement"]}
 {"parent": "RH1E6S17_D000_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ArchimedeanFundamentalDomainIntegers", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CosetOff", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ArchimedeanFundamentalDomainIntegers", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_InfiniteAdeleHaarMapEqScaledVolume", "via": ["statement"]}
@@ -76577,8 +76577,8 @@
 {"parent": "GlobalTheory.CompanionTheory.RgEis.det_blk_mul_inv", "child": "Development_WeilBound_RepresentationTheoryGL_EisensteinSeries_SiegelEisensteinContinuation_ConvGrOf", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.LocalDens.red_eq_iff", "child": "Development_WeilBound_CoreStatements_AutomorphicKernels_UnitarySchrodingerModel_LocalDefs", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.LocalDens.red_eq_iff", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CardPreimageHom", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.D.continuous_Fi", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_DerivFA", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.D.continuous_Fi", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_DensDefs", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.D.continuous_Fi", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_DerivFA", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.D.continuous_Fi", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_DensDefs", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ArchimedeanBinaryGramDensityStatement", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ArchimedeanBinaryGramDensity", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ArchimedeanBinaryGramDensityStatement", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_BinaryMassMeans_MeanVal", "via": ["statement"]}
 {"parent": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_StepC", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_MollId", "via": ["statement"]}
@@ -76627,8 +76627,8 @@
 {"parent": "Formalism.L2.Th1.A.ZSer.log_FF", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_WeierstrassSubstitution_FormalGroupEqWSeries", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.A.ZSer.log_FF", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_WeierstrassSubstitution_EqWSerSubst", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.A.ZSer.log_FF", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_WeierstrassSubstitution_FlowBasic", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.contDiffOn_second_cayley_block_entries", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ScalarSectionCompactBlockInvariant", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.contDiffOn_second_cayley_block_entries", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ContDiffOnSecondCayleyBlockEntries", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.contDiffOn_second_cayley_block_entries", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ScalarSectionCompactBlockInvariant", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.contDiffOn_second_cayley_block_entries", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ContDiffOnSecondCayleyBlockEntries", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.FinHeis.Implements.injective", "child": "Development_AutomorphicSpectrum_Definitions_MembershipCriteria_LaEqSqrtSmulLam", "via": ["solution", "statement"]}
 {"parent": "RH1E6S16_D088_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_PowNormMulSeminormSliceRLe", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HasTemperateGrowthElim", "via": ["statement"]}
@@ -76716,8 +76716,8 @@
 {"parent": "Formalism.L2.Th1.A.WpSh.cleared_low", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_WeierstrassSubstitution_Laurent", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.A.WpSh.cleared_low", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_WeierstrassSubstitution_WpShape", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.A.WpSh.cleared_low", "child": "Formalism_LocalToGlobal_TorsionIntegrality_WeierstrassTwoTorsion_WeierstrassSubstitution_CurveSer", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.B1.sf_sum", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.B1.sf_sum", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PderivPowMonomial", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.B1.sf_sum", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.B1.sf_sum", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PderivPowMonomial", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.Equi.CosetStep.val_eq_one_of_not_mem", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CosetOff", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.Equi.CosetStep.val_eq_one_of_not_mem", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CosetCongruenceRefinement", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ExponentialDecayByMidpointsStatement", "child": "Development_WeilBound_RepresentationTheoryGL_EisensteinSeries_SiegelEisensteinContinuation_StripEntire", "via": ["statement"]}
@@ -78924,8 +78924,8 @@
 {"parent": "Formalism.L2.Th1.A.CubeR.mem_range", "child": "Formalism.G.LogCR.Agree.mul", "via": ["solution"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.B1.sf_smul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.B1.sf_smul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PderivPowMonomial", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fock_X_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_NullStableAlt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fock_X_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_MapDomainFlpFlp", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fock_X_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_NullStableAlt", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fock_X_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_MapDomainFlpFlp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S17_D002_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RobustSAA_Discrete_Supplement_LCXDual", "child": "RobustSAA_Discrete_Supplement_LCX", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.STD.support_dc_subset", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffB", "via": ["solution", "statement"]}
@@ -78935,8 +78935,8 @@
 {"parent": "PI.VolStabSW.VolAAW.ev_int", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdUniq", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_SchurClosable", "child": "Formalism_LocalToGlobal_IndefiniteReal_HaarTransfer_SchurClosable", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_SchurClosable", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SchurUnitaryInner_UnitaryInner", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.CoreA.PosH.sup_perp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_SupPerp", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.CoreA.PosH.sup_perp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ZeroRight", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.CoreA.PosH.sup_perp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_SupPerp", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.CoreA.PosH.sup_perp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ZeroRight", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.isCompact_smulSub", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_MeasureEqOfCos", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.isCompact_smulSub", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_EventuallySmulSub", "via": ["solution", "statement"]}
 {"parent": "RH1E6S17.part_005_3", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
@@ -79033,8 +79033,8 @@
 {"parent": "P2M_GroundTheory_Heights__Theta_gaussValue_diagonal_ee78aa9b998e", "child": "GroundTheory_AutomorphicForms_HermitianSpaces", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.CoreA.PosH.definite", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.CoreA.PosH.definite", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ZeroRight", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.B.hc_vkl", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundB", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.B.hc_vkl", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundA", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.B.hc_vkl", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundB", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.B.hc_vkl", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundA", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.STD.ell_apply", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffC", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.STD.ell_apply", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiff", "via": ["solution", "statement"]}
 {"parent": "P2M_PositivityTheory_Rg_Sw_LC_CoreC_as_sum__18a03b30628b", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_FunctionalRepresentationByContraction", "via": ["solution", "statement"]}
@@ -79067,8 +79067,8 @@
 {"parent": "RH1E6S17.part_003_3", "child": "ArdaRS_Config64", "via": ["statement"]}
 {"parent": "RH1E6S17.part_003_3", "child": "ArdaRS_Arithmetic", "via": ["statement"]}
 {"parent": "RH1E6S17.part_003_3", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.op_add_f", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PairSym", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.op_add_f", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ComapDomainInlAdd", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.op_add_f", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PairSym", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.op_add_f", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ComapDomainInlAdd", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.FFHS.card_decomp", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensFFCnt", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.FFHS.card_decomp", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensFFHS", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.InducedPBW.defect_apply", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_DegreeSingleAdd", "via": ["solution", "statement"]}
@@ -79145,9 +79145,9 @@
 {"parent": "PI.VolStabSW.DensGen.densGen", "child": "Formalism_PeriodIntegrals_VolFromSW", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.DensGen.densGen", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensGen", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_SymmetricBlockTraceInverseEqTwoMul", "child": "ReciprocityTheory_GeometryOfNumbers_PluriharmonicAnalysis_LogDetSt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.iterated_fderiv_right_translation", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ScalarSectionCompactBlockInvariant", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.iterated_fderiv_right_translation", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_IteratedFderivRightTranslation", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.iterated_fderiv_right_translation", "child": "ReciprocityTheory_L2DbarEstimates_PlurisubharmonicCharts_ZeroDimA", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.iterated_fderiv_right_translation", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ScalarSectionCompactBlockInvariant", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.iterated_fderiv_right_translation", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_IteratedFderivRightTranslation", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.iterated_fderiv_right_translation", "child": "ReciprocityTheory_L2DbarEstimates_PlurisubharmonicCharts_ZeroDimA", "via": ["solution", "statement"]}
 {"parent": "RobustInventory.SingleStation.Supplement.theorem_4_3", "child": "RobustInventory_SingleStation_Supplement_NetworkCap", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.CoreC.mapDomain_pE_pE", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_FunctionalRepresentationByContraction", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.CoreC.mapDomain_pE_pE", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_XPderivMono", "via": ["solution", "statement"]}
@@ -79158,8 +79158,8 @@
 {"parent": "Kyprianou.Ch01.independentHeadAtomOnMarkSlice", "child": "Kyprianou_Ch01_BranchingGenerator", "via": ["statement"]}
 {"parent": "Kyprianou.Ch01.independentHeadAtomOnMarkSlice", "child": "LeanLevy_Processes_CompoundPoisson", "via": ["statement"]}
 {"parent": "Kyprianou.Ch01.independentHeadAtomOnMarkSlice", "child": "Kyprianou_Ch01_BranchingClocks", "via": ["statement"]}
-{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.impl_U", "child": "Development_WeilBound_CoreStatements_ThetaDilations_IsOpenCoset", "via": ["statement"]}
-{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.impl_U", "child": "Development_WeilBound_CoreStatements_ThetaDilations_SqPosOfNe", "via": ["statement"]}
+{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.impl_U", "child": "Development_WeilBound_CoreStatements_ThetaDilations_IsOpenCoset", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.impl_U", "child": "Development_WeilBound_CoreStatements_ThetaDilations_SqPosOfNe", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.continuousOn_inverse_first_block", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ScalarSectionCompactBlockInvariant", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.continuousOn_inverse_first_block", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SecondCayleyBlockMulConjTransposeEq", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.continuousOn_inverse_first_block", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffAlt", "via": ["solution", "statement"]}
@@ -79263,8 +79263,8 @@
 {"parent": "PositivityTheory.Rg.Sw.LC.NullS.gs_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PolyExpBound", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.NullS.gs_eq", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_SquareNormBound", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.NullS.gs_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_HasFDerivAtEvX", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fock_smul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_NullStableAlt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fock_smul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_MapDomainFlpFlp", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fock_smul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_NullStableAlt", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fock_smul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_MapDomainFlpFlp", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.HarishChandra.fischer_zero_left", "child": "GroundTheory_AutomorphicForms_HarishChandraCentre_FischerForm", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_LintegralPowerLineScaling", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ContinuousBlkM", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_LintegralPowerLineScaling", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SecondCountableHermC", "via": ["statement"]}
@@ -79408,8 +79408,8 @@
 {"parent": "GroundTheory_AutomorphicForms_HarishChandraRegularity_ExpHaar", "child": "GroundTheory_AutomorphicForms_HarishChandraRegularity_ContDiffCompCoordEquiv", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.mapDomain_inl_inl", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_FirstFamilySymbolMulVariablePow", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.mapDomain_inl_inl", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_MapDomainInlInr", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.B1.sf_mulL", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.B1.sf_mulL", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PderivPowMonomial", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.B1.sf_mulL", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.B1.sf_mulL", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PderivPowMonomial", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TubeFourier.integrable_exp_neg_mul_abs", "child": "Development_WeilBound_RepresentationTheoryGL_EisensteinSeries_SiegelEisensteinContinuation_StripEntire", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TubeFourier.integrable_exp_neg_mul_abs", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ExponentialFourierIntegralBound", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TubeFourier.integrable_exp_neg_mul_abs", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_GaussTubeOfTubeGood", "via": ["solution", "statement"]}
@@ -79461,8 +79461,8 @@
 {"parent": "GlobalTheory.IntegralAgainstMeasure.integralAgainst_apply", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_IntegralAgainstLinearApply", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.Basic.fock_sub", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_NullStableAlt", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.Basic.fock_sub", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_MapDomainFlpFlp", "via": ["statement"]}
-{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.fou_add", "child": "Development_WeilBound_CoreStatements_ThetaDilations_IsOpenCoset", "via": ["statement"]}
-{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.fou_add", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_CountData", "via": ["statement"]}
+{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.fou_add", "child": "Development_WeilBound_CoreStatements_ThetaDilations_IsOpenCoset", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.fou_add", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_CountData", "via": ["solution", "statement"]}
 {"parent": "RH1E6S17_D004_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.good_le", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_FirstFamilySymbolMulVariablePow", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.good_le", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ComapDomainInlAdd", "via": ["solution", "statement"]}
@@ -79513,8 +79513,8 @@
 {"parent": "PI.VolStabSW.filt_abstract", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_EventuallySmulSub", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.CoreA.PosH.inf_perp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.CoreA.PosH.inf_perp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ZeroRight", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.uAct", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffAlt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.uAct", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SecondCayleyBlockMulInverseCayley", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.uAct", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffAlt", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.uAct", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SecondCayleyBlockMulInverseCayley", "via": ["solution", "statement"]}
 {"parent": "RH1E6S17.part_004_1", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S17.part_004_1", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S17.part_004_1", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
@@ -79618,8 +79618,8 @@
 {"parent": "RH1E6S17.part_002_1", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "GlobalTheory.HermLineZeros.exists_anisotropic", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_HermitianFormFiniteZerosOnLineCmExt", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HermLineZeros.exists_anisotropic", "child": "Formalism_SharpRestriction_GlobalSchurBounds_GeneralLinearActions_GenusMassVolumes", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.op_mul_inl", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PairSym", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.op_mul_inl", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ComapDomainInlAdd", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.op_mul_inl", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PairSym", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.op_mul_inl", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ComapDomainInlAdd", "via": ["solution", "statement"]}
 {"parent": "RH1E6S17.group_003", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S17.group_003", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S17.group_003", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
@@ -79719,8 +79719,8 @@
 {"parent": "GlobalTheory.CompanionTheory.SW.GramDensity.isContDensityOn_gram", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_UnitsOpenEmbeddingLocalTensorStatement", "via": ["solution", "statement"]}
 {"parent": "GrothendieckLB_Supplement_cqReplayCheckpoint3", "child": "GrothendieckLB_Supplement_cqReplayRowRecurrence", "via": ["statement"]}
 {"parent": "GlobalTheory.SchwartzTranslate.hasDerivAt_iteratedFDeriv_line", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SchwartzSeminormTranslateSubLineDerivLe", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fockMono_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_NullStableAlt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fockMono_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_MapDomainFlpFlp", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fockMono_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_NullStableAlt", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fockMono_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_MapDomainFlpFlp", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensHL", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_UnifVSpec", "via": ["statement"]}
 {"parent": "GlobalTheory.CompanionTheory.RgTransfer.sec_pull", "child": "Development_WeilBound_RepresentationTheoryGL_EisensteinSeries_SiegelEisensteinContinuation_StripEntire", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.RgTransfer.sec_pull", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CorrESymmCoe", "via": ["solution", "statement"]}
@@ -79862,8 +79862,8 @@
 {"parent": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_CayleyGaussianIntegrals_ScalePairMulMulEq", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_CayleyGaussianIntegrals_Th0CharMulOpUTh0HalfPeriodEq", "via": ["statement"]}
 {"parent": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_CayleyGaussianIntegrals_ScalePairMulMulEq", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_QuadraticSemicharactersFactAltForm", "via": ["statement"]}
 {"parent": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_CayleyGaussianIntegrals_ScalePairMulMulEq", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_MulStableIntegral", "via": ["statement"]}
-{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.gram_blk", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_HypJ", "via": ["statement"]}
-{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.gram_blk", "child": "Development_WeilBound_CoreStatements_ThetaDilations_ParAlg", "via": ["statement"]}
+{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.gram_blk", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_HypJ", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.gram_blk", "child": "Development_WeilBound_CoreStatements_ThetaDilations_ParAlg", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.E.congruence_iff_simeq", "child": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FrobeniusLiftNorms_CoeffSubstLgFOfDegreeOne", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.E.congruence_iff_simeq", "child": "Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_ConstantCoeffVecConsPairEqZero", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.E.congruence_iff_simeq", "child": "Formalism_LocalToGlobal_TorsionIntegrality_TorsionTranslationPowers_NonsingularJetNorms_ConstantCoeffInVarEqZero", "via": ["solution", "statement"]}
@@ -79917,8 +79917,8 @@
 {"parent": "GlobalTheory.CompanionTheory.TubeFourier.inner_eq_rdot", "child": "Development_WeilBound_RepresentationTheoryGL_EisensteinSeries_SiegelEisensteinContinuation_StripEntire", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TubeFourier.inner_eq_rdot", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_FourierInversionProd", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TubeFourier.inner_eq_rdot", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_GaussTubeOfTubeGood", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.II.cDiff", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_InfInvA", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.II.cDiff", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_FderivXZxSkew", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.II.cDiff", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_InfInvA", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.II.cDiff", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_FderivXZxSkew", "via": ["solution", "statement"]}
 {"parent": "RH1E6S17_D001_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "GlobalTheory.TriangularityLowCoeff.der_mem_pow", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CoeffAnnihilatedOfAevalMemKerPow", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.hypJ_eq", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_HypJ", "via": ["solution", "statement"]}
@@ -80109,8 +80109,8 @@
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_TubeTransformIndependentOfBaseStatement", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_GaussTubeOfTubeGood", "via": ["statement"]}
 {"parent": "GrothendieckLB.Supplement.cq_packed_initial_hermite_rows", "child": "GrothendieckLB_Supplement_cqReplayMoments", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LiftSquarePresentationOfFlatStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LiftSquarePresentationOfFlat", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.Mom1.oneMom", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_OneMom", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.Mom1.oneMom", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_IntegrableRpowGauss", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.Mom1.oneMom", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_OneMom", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.Mom1.oneMom", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_IntegrableRpowGauss", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SchwartzWeightedSobolevOfFinrankZeroStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SchwartzWeightedSobolevOfFinrankZero", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.TC.rot_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_StarExpNegI", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.TC.rot_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_TCMatC", "via": ["solution", "statement"]}
@@ -80129,14 +80129,14 @@
 {"parent": "GlobalTheory.CompanionTheory.Mass.MeanV.tsum_ne_zero_eq_sum", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ExistsIntegralMultipleBoundedPlacesStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.Mass.MeanV.tsum_ne_zero_eq_sum", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_TruncSum", "via": ["solution", "statement"]}
 {"parent": "GrothendieckLB.Supplement.cq_boundary_mixed_hermite_identity", "child": "GrothendieckLB_Supplement_cqBoundaryEulerKernel", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.blocks_of_InG", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_DpDual", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.blocks_of_InG", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffAlt", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.blocks_of_InG", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_DpDual", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.blocks_of_InG", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffAlt", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.RiemannCore.measure_tile", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_LatticePointCountScaling", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.RiemannCore.measure_tile", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CosetOff", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.B3.etaEq_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ProdMapPowSingle", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.B3.etaEq_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PairSym", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.B3.etaEq_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_SymmetricFiltrationIffSupported", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.B3.etaEq_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PderivPowMonomial", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.B3.etaEq_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ProdMapPowSingle", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.B3.etaEq_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PairSym", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.B3.etaEq_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_SymmetricFiltrationIffSupported", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.B3.etaEq_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PderivPowMonomial", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_IndefR_DeterminantProjection_det_proj__f4d24e7fe785", "child": "Formalism_LocalToGlobal_IndefiniteReal_DeterminantProjection", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SquarePresentationOfCounitalComul", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_FrobeniusSubalgebraCounitalComulStatement", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SquarePresentationOfCounitalComul", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsSquarePresentationOfTowerStatement", "via": ["statement"]}
@@ -80156,8 +80156,8 @@
 {"parent": "ObjectCentric.slot_identifiability", "child": "ObjectCentric_Basic", "via": ["statement"]}
 {"parent": "GroundTheory.Automorphic.UnitaryRep.integrated_apply_eq_integral", "child": "GroundTheory_AutomorphicForms_UnitaryRepresentations_Integrated", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.UnitaryRep.integrated_apply_eq_integral", "child": "GroundTheory_AutomorphicForms_UnitaryRepresentations_IsInvariantIffCommuteStarProjection", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.contr_add", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_GaussianMomentRecurrence", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.contr_add", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ContrEqOfSubset", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.contr_add", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_GaussianMomentRecurrence", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.contr_add", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ContrEqOfSubset", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.B1.op_monomial", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.B1.op_monomial", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PderivPowMonomial", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.HarishChandra.fischer_conj_symm", "child": "GroundTheory_AutomorphicForms_HarishChandraCentre_FischerForm", "via": ["solution", "statement"]}
@@ -80261,8 +80261,8 @@
 {"parent": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_CayleyGaussianIntegrals_StdDataCmProof", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_CayleyGaussianIntegrals_MatrixFormFourfoldBlockFirstBlockEmb", "via": ["statement"]}
 {"parent": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_CayleyGaussianIntegrals_StdDataCmProof", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_CayleyGaussianIntegrals_MatrixFormFourfoldBlock", "via": ["statement"]}
 {"parent": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_CayleyGaussianIntegrals_StdDataCmProof", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_MulStableIntegral", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.lower_rel", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SecondCayleyBlockMulConjTransposeEq", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.lower_rel", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffAlt", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.lower_rel", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SecondCayleyBlockMulConjTransposeEq", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.lower_rel", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffAlt", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.B.detV_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundB", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.B.detV_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBound", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_OneLeDetWStatement", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ContinuousBlkM", "via": ["statement"]}
@@ -80424,8 +80424,8 @@
 {"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.sb_mul", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_CountData", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.posDef_lower", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SecondCayleyBlockMulConjTransposeEq", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.posDef_lower", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffAlt", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabSW.DiscreteGroups.fibOfDens_holds", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibDis", "via": ["statement"]}
-{"parent": "PI.VolStabSW.DiscreteGroups.fibOfDens_holds", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibGlue", "via": ["statement"]}
+{"parent": "PI.VolStabSW.DiscreteGroups.fibOfDens_holds", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibDis", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.DiscreteGroups.fibOfDens_holds", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibGlue", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.blk_inj", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_HypJ", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.blk_inj", "child": "Development_WeilBound_CoreStatements_ThetaDilations_ParAlg", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.Glue.lam_apply", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibFour", "via": ["solution", "statement"]}
@@ -80475,10 +80475,10 @@
 {"parent": "PI.VolStabSW.FFHS.finrank_perp", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensFFHS", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.CoreC.Bop_mono", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_FunctionalRepresentationByContraction", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.CoreC.Bop_mono", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_XPderivMono", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.STD.dc_comp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffC", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.STD.dc_comp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffB", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.B.Bm_mul_Am", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundAlt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.B.Bm_mul_Am", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundA", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.STD.dc_comp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffC", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.STD.dc_comp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffB", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.B.Bm_mul_Am", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundAlt", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.B.Bm_mul_Am", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundA", "via": ["solution", "statement"]}
 {"parent": "ObjectCentric.object_meets_one_inferred_slot", "child": "ObjectCentric_Basic", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_NormIteratedFDerivIteratedFDerivStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_NormIteratedFDerivIteratedFDeriv", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SplitExtensionFundamentalDomain", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ParabolicIntegralUnfoldingStatement", "via": ["statement"]}
@@ -80577,9 +80577,9 @@
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_HuaDeterminantIntegrableOfLtStatement", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SecondCountableHermC", "via": ["statement"]}
 {"parent": "PI.VolStabSW.FFHS.perp_isHS", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensFF", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.FFHS.perp_isHS", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensFFHS", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.CoreD.symK_mem", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_EquivLift", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.CoreD.symK_mem", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_SymbolFirstFamilyOfMem", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.CoreD.symK_mem", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ZeroRight", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.CoreD.symK_mem", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_EquivLift", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.CoreD.symK_mem", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_SymbolFirstFamilyOfMem", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.CoreD.symK_mem", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ZeroRight", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_UnimodularHermitianRepsCountSucc", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_UnramifiedQuotientCard", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_UnimodularHermitianRepsCountSucc", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ResidueAlgebraUnramified", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_UnimodularHermitianRepsCountSucc", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ResAlgSplitTwo", "via": ["statement"]}
@@ -80588,8 +80588,8 @@
 {"parent": "PositivityTheory.Rg.Sw.WR.B.Am_conjTranspose", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundAlt", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.B.Am_conjTranspose", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundA", "via": ["statement"]}
 {"parent": "Kyprianou.Ch08.StageB.source_result8_6_zero_discount_v3_positive_increment", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.TC.rot_inG", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_StarExpNegI", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.TC.rot_inG", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_TCMatC", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.TC.rot_inG", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_StarExpNegI", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.TC.rot_inG", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_TCMatC", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.D.algA", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_DensDefs", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.D.algA", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ContinuousEvX", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_TruncatedMonomialsLinearIndependentOverConstantsStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_TruncatedMonomialsLinearIndependentOverConstants", "via": ["statement"]}
@@ -80613,8 +80613,8 @@
 {"parent": "RobustPower.StochGap.Supplement.theorem_4_1_robust_le_two_adapt", "child": "RobustPower_StochGap_SymmetricSets", "via": ["statement"]}
 {"parent": "RobustPower.StochGap.Supplement.theorem_4_1_robust_le_two_adapt", "child": "RobustPower_AdaptGap_Problems", "via": ["statement"]}
 {"parent": "RobustPower.StochGap.Supplement.theorem_4_1_robust_le_two_adapt", "child": "RobustPower_StochGap_Problems", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.CoreC.contr_eq_bf", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoeffSmulX", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.CoreC.contr_eq_bf", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PartialDerivZeroSecondFamily", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.CoreC.contr_eq_bf", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoeffSmulX", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.CoreC.contr_eq_bf", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PartialDerivZeroSecondFamily", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_WeightedLintegralSobolevPointwise", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_NormLeLintegralRayIteratedFDerivStatement", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_WeightedLintegralSobolevPointwise", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LintegralUnitBallRayAverageLeStatement", "via": ["statement"]}
 {"parent": "PI.VolStabSW.TensAllW.lip_field", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibOfTens", "via": ["solution", "statement"]}
@@ -80708,8 +80708,8 @@
 {"parent": "GroundTheory.Automorphic.IsExpLieAlgebra.integrable_smul_orbit", "child": "GroundTheory_AutomorphicForms_GKModules_ParametricIntegral", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.IsExpLieAlgebra.integrable_smul_orbit", "child": "GroundTheory_AutomorphicForms_DixmierMalliavinBasic", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_IdeleClassFiniteness_OhatCompact", "child": "Formalism_UnipotentAdelicQuotients_ClassNumberFinite", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.B1.op_mulL", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.B1.op_mulL", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PderivPowMonomial", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.B1.op_mulL", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.B1.op_mulL", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PderivPowMonomial", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.CK.phiF_add", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_AnalyticAtDeterminantPowerZeroInt", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.CK.phiF_add", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_FderivDeterminantPowerCornerInt", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TubeFourier.planeCoord_apply", "child": "Development_WeilBound_RepresentationTheoryGL_EisensteinSeries_SiegelEisensteinContinuation_StripEntire", "via": ["solution", "statement"]}
@@ -80853,8 +80853,8 @@
 {"parent": "Kyprianou.Ch02.compensatedSmallJumpUniformLimitIsLevyV1", "child": "Kyprianou_Ch02_CompletedPoissonFiltration", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch02.compensatedSmallJumpUniformLimitIsLevyV1", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch02.compensatedSmallJumpUniformLimitIsLevyV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.NullS.sgn3", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PartialDerivQuadraticPairing", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.NullS.sgn3", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_SumPderivXMem", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.NullS.sgn3", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PartialDerivQuadraticPairing", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.NullS.sgn3", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_SumPderivXMem", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.bsym", "child": "Development_WeilBound_CoreStatements_ThetaDilations_IsOpenCoset", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.bsym", "child": "Development_WeilBound_CoreStatements_ThetaDilations_SqPosOfNe", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.IsExpLieAlgebra.locallyCompactSpace", "child": "GroundTheory_AutomorphicForms_RealGroupsLie", "via": ["solution", "statement"]}
@@ -80881,14 +80881,14 @@
 {"parent": "RobustPower.StochGap.Supplement.theorem_4_4_simplex_adapt_gap", "child": "RobustPower_SimplexGap_SimplexInstance", "via": ["solution", "statement"]}
 {"parent": "RobustPower.StochGap.Supplement.theorem_4_4_simplex_adapt_gap", "child": "RobustPower_AdaptGap_Problems", "via": ["solution", "statement"]}
 {"parent": "RobustPower.StochGap.Supplement.theorem_4_4_simplex_adapt_gap", "child": "RobustPower_StochGap_Problems", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.B.dirC_inv_entry", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundB", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.B.dirC_inv_entry", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundA", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.B.dirC_inv_entry", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundB", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.B.dirC_inv_entry", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundA", "via": ["solution", "statement"]}
 {"parent": "UpperTheory.Reformulated.B.EqOneOfPowNear.eq_one_of_pow_near", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_EqOneOfPowNear", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensFFHS", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensFF", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_KerAevalTruncatedPolynomialPresentationStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_KerAevalTruncatedPolynomialPresentation", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.fock_C", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_FockMomOfBasic", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.fock_C", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_IntegrableRpowGauss", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.fock_C", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ContrEqOfSubset", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.fock_C", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_FockMomOfBasic", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.fock_C", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_IntegrableRpowGauss", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.fock_C", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ContrEqOfSubset", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.LatFactsW.isOpen_hermO", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_UnifVSpec", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.LatFactsW.isOpen_hermO", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensHL", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.cdo_zpow", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ScalarSectionCompactBlockInvariant", "via": ["solution", "statement"]}
@@ -80898,8 +80898,8 @@
 {"parent": "PositivityTheory.Rg.Sw.LVs.mX_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ContinuousOnIteratedFDerivTranslate", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.mX_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ContDiffOnSecondCayleyBlockEntries", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.mX_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_IteratedFderivRightTranslation", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.contr_eq_of_subset", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_GaussianMomentRecurrence", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.contr_eq_of_subset", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ContrEqOfSubset", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.contr_eq_of_subset", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_GaussianMomentRecurrence", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.contr_eq_of_subset", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ContrEqOfSubset", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.SdUniqW.continuous_psiV", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_TensTop", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.SdUniqW.continuous_psiV", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdUniq", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.SdUniqW.continuous_psiV", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensFibV", "via": ["solution", "statement"]}
@@ -80978,8 +80978,8 @@
 {"parent": "PositivityTheory.Rg.Sw.LC.Core.fform_eq_sum", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_EquivLift", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.Core.fform_eq_sum", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_FformSmulRight", "via": ["solution", "statement"]}
 {"parent": "RH1E6S17_D002_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.Cm_mul_CmI", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_DpDual", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.Cm_mul_CmI", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffAlt", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.Cm_mul_CmI", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_DpDual", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.Cm_mul_CmI", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffAlt", "via": ["solution", "statement"]}
 {"parent": "Formalism.REAL.noncompact_arr_finite_dimensional", "child": "Formalism_RealPlaceAnalysis_StatementU", "via": ["solution", "statement"]}
 {"parent": "Formalism.REAL.noncompact_arr_finite_dimensional", "child": "Formalism_RealPlaceAnalysis_ThirdArithmeticHolds", "via": ["solution", "statement"]}
 {"parent": "Formalism.REAL.noncompact_arr_finite_dimensional", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_NoncompactArrFiniteDimensional", "via": ["solution", "statement"]}
@@ -81029,8 +81029,8 @@
 {"parent": "GlobalTheory.WeilTr.isUSplitting_trRep", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_IsUSplittingTrRep", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.NullS.pderiv_X_mem", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PartialDerivQuadraticPairing", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.NullS.pderiv_X_mem", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_SumPderivXMem", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.CoreBb.op_C", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ProdMapPowSingle", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.CoreBb.op_C", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.CoreBb.op_C", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ProdMapPowSingle", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.CoreBb.op_C", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.multipliable_local_factors", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_MultipliableLocalFactorsStatement", "via": ["statement"]}
 {"parent": "GlobalTheory.T.multipliable_local_factors", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_MultipliableLocalFactors", "via": ["statement"]}
 {"parent": "GlobalTheory.T.multipliable_local_factors", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_TruncSum", "via": ["statement"]}
@@ -81040,8 +81040,8 @@
 {"parent": "OODLearnable.multiclass_separate_learnable", "child": "OODLearnable_Basic", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.TC.iter_diffAt", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_TCCalc", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.TC.iter_diffAt", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_TopCompS", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.CoreC.G.gf_adj", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.CoreC.G.gf_adj", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_BfSmulRight", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.CoreC.G.gf_adj", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.CoreC.G.gf_adj", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_BfSmulRight", "via": ["solution", "statement"]}
 {"parent": "RobustAgentsCausal.causal_model_identifies_policies", "child": "RobustAgentsCausal_Basic", "via": ["statement"]}
 {"parent": "PI.VolStabSW.dualLatV_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdDual", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.dualLatV_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_PosNear", "via": ["solution", "statement"]}
@@ -81096,8 +81096,8 @@
 {"parent": "PositivityTheory.Rg.Sw.LC.CoreC.wt_pos", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoeffSmulX", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.CoreC.wt_pos", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_BfSmulRight", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.InducedPBW.rho_e_le", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_DegreeSingleAdd", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fock_monomial", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_NullStableAlt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fock_monomial", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_MapDomainFlpFlp", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fock_monomial", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_NullStableAlt", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.Basic.fock_monomial", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_MapDomainFlpFlp", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.D.Moll.gauss_prod", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_DensDefs", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.D.Moll.gauss_prod", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_MollIdA", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.UnrDens.gram_apply", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ResAlgSplitTwo", "via": ["solution", "statement"]}
@@ -81107,8 +81107,8 @@
 {"parent": "GlobalTheory.CompanionTheory.SW.QuadricCount.norm_gauss", "child": "Formalism_UnipotentAdelicQuotients_SWXSDefs", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.SW.QuadricCount.norm_gauss", "child": "Formalism_SharpRestriction_GlobalSchurBounds_GeneralLinearActions_GenusMassVolumes", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.SW.QuadricCount.norm_gauss", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_FiniteFieldQuadraticFormPointCount", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.first_cayley_block_mul_conjTranspose_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SecondCayleyBlockMulConjTransposeEq", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.first_cayley_block_mul_conjTranspose_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffAlt", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.first_cayley_block_mul_conjTranspose_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SecondCayleyBlockMulConjTransposeEq", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.first_cayley_block_mul_conjTranspose_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffAlt", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.H.CmData.slice_embA", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_CayleyGaussianIntegrals_Th0CharMulOpUTh0HalfPeriodEq", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.H.CmData.slice_embA", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_QuadraticSemicharactersFactAltForm", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.H.CmData.slice_embA", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_CayleyGaussianIntegrals_ScalePairMulMulEq", "via": ["solution", "statement"]}
@@ -81166,9 +81166,9 @@
 {"parent": "PI.VolStabSW.isCOBasis_latSub", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensVNA", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.isCOBasis_latSub", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_PosNear", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.isCOBasis_latSub", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensVSt", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.TC.inG_mul_inv", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_TCMatB", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.TC.inG_mul_inv", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_TCMatA", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.TC.inG_mul_inv", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_BlkB", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.TC.inG_mul_inv", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_TCMatB", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.TC.inG_mul_inv", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_TCMatA", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.TC.inG_mul_inv", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_BlkB", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.B.contDiff_detU", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundB", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.B.contDiff_detU", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBound", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.cr_apply", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_GaussianMomentRecurrence", "via": ["solution", "statement"]}
@@ -81229,8 +81229,8 @@
 {"parent": "Kyprianou.Ch02.compensatedSmallJumpUniformLimitHasStationaryIncrementsV1", "child": "Kyprianou_Ch02_CompletedPoissonFiltration", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch02.compensatedSmallJumpUniformLimitHasStationaryIncrementsV1", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch02.compensatedSmallJumpUniformLimitHasStationaryIncrementsV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.sb_level", "child": "Development_WeilBound_CoreStatements_ThetaDilations_IsOpenCoset", "via": ["statement"]}
-{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.sb_level", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_CountData", "via": ["statement"]}
+{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.sb_level", "child": "Development_WeilBound_CoreStatements_ThetaDilations_IsOpenCoset", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.sb_level", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_CountData", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SchwartzDiv.contDiff_invCut", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SchwartzVanishingDecomposition", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SliceOp.continuous_qOp", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HasTemperateGrowthElim", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SliceOp.continuous_qOp", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SchwartzTranslationSeminormBound", "via": ["solution", "statement"]}
@@ -81275,8 +81275,8 @@
 {"parent": "RobustSAA.Discrete.Supplement.theorem_6", "child": "RobustSAA_Convergence_Setting", "via": ["statement"]}
 {"parent": "GlobalTheory.CompanionTheory.UnrDens.NormUnit.ratioU_eq_iff", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ResAlgSplitTwo", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.UnrDens.NormUnit.ratioU_eq_iff", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_NormFibreCardNonzero", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.second_cayley_block_mul_conjTranspose_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SecondCayleyBlockMulConjTransposeEq", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.second_cayley_block_mul_conjTranspose_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffAlt", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.second_cayley_block_mul_conjTranspose_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SecondCayleyBlockMulConjTransposeEq", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.second_cayley_block_mul_conjTranspose_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_SingToDiffAlt", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.norm_fibre_card_zero", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ResAlgSplitTwo", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.norm_fibre_card_zero", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_NormFibreCardZero", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.norm_fibre_card_zero", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_NormFibreCardZeroStatement", "via": ["solution", "statement"]}
@@ -81290,8 +81290,8 @@
 {"parent": "PositivityTheory.Rg.Sw.LVs.TC.rot_nU", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_TopCompC", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.TC.rot_nU", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_TopCompS", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.TC.rot_nU", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_StarExpNegI", "via": ["statement"]}
-{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.sb_chi", "child": "Development_WeilBound_CoreStatements_ThetaDilations_IsOpenCoset", "via": ["statement"]}
-{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.sb_chi", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_CountData", "via": ["statement"]}
+{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.sb_chi", "child": "Development_WeilBound_CoreStatements_ThetaDilations_IsOpenCoset", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.sb_chi", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_CountData", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_GFrames", "child": "Formalism_SharpRestriction_CuspSpanNormBounds_FractionFieldToGenericStalkAlgebraMapEq", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_GFrames", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_IsHermND", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_GFrames", "child": "Formalism_SharpRestriction_CuspSpanNormBounds_PsiEDef", "via": ["statement"]}
@@ -81302,8 +81302,8 @@
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HaarFibreUniqueness_SdExInst", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdDual", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HaarFibreUniqueness_SdExInst", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HaarFibreUniqueness_SdExAbs", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HaarFibreUniqueness_SdExInst", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_TensTop", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.contDiffOn_scalar_section_of_units", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ScalarSectionCompactBlockInvariant", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.contDiffOn_scalar_section_of_units", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ContDiffOnSecondCayleyBlockEntries", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.contDiffOn_scalar_section_of_units", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ScalarSectionCompactBlockInvariant", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.contDiffOn_scalar_section_of_units", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ContDiffOnSecondCayleyBlockEntries", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.IsExpLieAlgebra.expChartProd_zero_mem_nhdOne", "child": "GroundTheory_AutomorphicForms_HarishChandraRegularity_ExpChart", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.IsExpLieAlgebra.expChartProd_zero_mem_nhdOne", "child": "GroundTheory_AutomorphicForms_HarishChandraRegularity_ContDiffCompCoordEquiv", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.dvE_mul", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PairSym", "via": ["statement"]}
@@ -81311,8 +81311,8 @@
 {"parent": "PositivityTheory.Rg.Sw.LC.NullS.continuous_evX", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PolyExpBound", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.NullS.continuous_evX", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_SquareNormBound", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.NullS.continuous_evX", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_HasFDerivAtEvX", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.cdo_wM", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ScalarSectionCompactBlockInvariant", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.cdo_wM", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ContDiffOnSecondCayleyBlockEntries", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.cdo_wM", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ScalarSectionCompactBlockInvariant", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.cdo_wM", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_ContDiffOnSecondCayleyBlockEntries", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Anisotropic.baseMap_baseBasis", "child": "GroundTheory_AutomorphicForms_AnisotropicRestrict", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.GramCount.map_ip", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_PrimOfIsUnitDet", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.HarishChandra.TopClose.mul", "child": "GroundTheory_AutomorphicForms_HarishChandraCentre_Symmetric", "via": ["solution", "statement"]}
@@ -81341,10 +81341,10 @@
 {"parent": "Formalism.REAL.arr_operator_apply", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_NoncompactGeneratorRaisesPfil", "via": ["solution", "statement"]}
 {"parent": "Formalism.REAL.arr_operator_apply", "child": "Formalism_RealPlaceAnalysis_StatementU", "via": ["solution", "statement"]}
 {"parent": "Formalism.REAL.arr_operator_apply", "child": "Formalism_RealPlaceAnalysis_ThirdArithmeticHolds", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.CoreC.mem_cand", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_FunctionalRepresentationByContraction", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.CoreC.mem_cand", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_XPderivMono", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.II.cE_hasDerivAt", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_InfInvA", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LVs.II.cE_hasDerivAt", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_IILeft", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.CoreC.mem_cand", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_FunctionalRepresentationByContraction", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.CoreC.mem_cand", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_XPderivMono", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.II.cE_hasDerivAt", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_InfInvA", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LVs.II.cE_hasDerivAt", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_IILeft", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.CoreC.G.gf_smul_left", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoreSt", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LC.CoreC.G.gf_smul_left", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_BfSmulRight", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.LVs.HolA.integrable_of_cont", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_AnalyticDeterminants_HasFDerivAtInt", "via": ["solution", "statement"]}
@@ -81490,12 +81490,12 @@
 {"parent": "PI.VolStabS.isOpen_isUnit_det", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerVolume_TensTop", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.impl_fou_chiB", "child": "Development_WeilBound_CoreStatements_ThetaDilations_IsOpenCoset", "via": ["statement"]}
 {"parent": "PositivityTheory.PlacePermOperatorBicommutantSpan.impl_fou_chiB", "child": "Development_WeilBound_CoreStatements_ThetaDilations_SqPosOfNe", "via": ["statement"]}
-{"parent": "PI.VolStabSW.TensAllW.isOpen_linIndep", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibOfTens", "via": ["statement"]}
-{"parent": "PI.VolStabSW.TensAllW.isOpen_linIndep", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_TensTop", "via": ["statement"]}
-{"parent": "PI.VolStabSW.TensAllW.isOpen_linIndep", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensFibV", "via": ["statement"]}
-{"parent": "PI.VolStabSW.TensAllW.isOpen_linIndep", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicLocalCompactness_AdeleLC", "via": ["statement"]}
-{"parent": "PI.VolStabSW.TensAllW.isOpen_linIndep", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_TensAll", "via": ["statement"]}
-{"parent": "PI.VolStabSW.TensAllW.isOpen_linIndep", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_PosNear", "via": ["statement"]}
+{"parent": "PI.VolStabSW.TensAllW.isOpen_linIndep", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibOfTens", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.TensAllW.isOpen_linIndep", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_TensTop", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.TensAllW.isOpen_linIndep", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_DensFibV", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.TensAllW.isOpen_linIndep", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicLocalCompactness_AdeleLC", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.TensAllW.isOpen_linIndep", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_TensAll", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.TensAllW.isOpen_linIndep", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_PosNear", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.RestrictedTensor.mem_span_orbit", "child": "GroundTheory_AutomorphicForms_TensorProductTheorem_MatrixCoeff", "via": ["solution", "statement"]}
 {"parent": "GrothendieckLB.Supplement.cq_head_cutoff_invariance", "child": "GrothendieckLB_Supplement_cqNonlinearHeadCheck", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LiftSquarePresentationOfFlat", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LeSupKerMulOfLeSupMaximalMulSectionStatement", "via": ["statement"]}
@@ -81586,10 +81586,10 @@
 {"parent": "WeilConjectures.exists_weil_cohomology_cup_trace_of_ge_two", "child": "WeilConjectures_zetaFunction", "via": ["solution", "statement"]}
 {"parent": "GrothendieckLB_Supplement_cqReplaySums", "child": "GrothendieckLB_Supplement_cqReplayPowers", "via": ["statement"]}
 {"parent": "GrothendieckLB_Supplement_cqReplaySums", "child": "GrothendieckLB_Supplement_cqReplayWeights", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.CoreC.contr_mono", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoeffSmulX", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.CoreC.contr_mono", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PartialDerivZeroSecondFamily", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.contr_monomial", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_GaussianMomentRecurrence", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.LC.contr_monomial", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ContrEqOfSubset", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.CoreC.contr_mono", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_CoeffSmulX", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.CoreC.contr_mono", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_PartialDerivZeroSecondFamily", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.contr_monomial", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_GaussianMomentRecurrence", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.LC.contr_monomial", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_PolynomialDerivatives_ContrEqOfSubset", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ContinuousOfMemSchA", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_HilbertNinetyQuotientHomEqIff", "via": ["statement"]}
 {"parent": "GlobalTheory.sum_norm_sq_minors_eq_one", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_MulConjTransposeEqOneOfOrthonormal", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ParabolicIntegralUnfolding", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SplitHomeoApply", "via": ["statement"]}
@@ -82517,8 +82517,8 @@
 {"parent": "Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.Bm_DB", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_StandardCharacterExists", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.Bm_DB", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PhaseFunctionCriticalPoints", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.Bm_DB", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdditiveCharacterPsi", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.pb_cd_affine", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsGainBSt", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.pb_cd_affine", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GBBound", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.pb_cd_affine", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsGainBSt", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.pb_cd_affine", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GBBound", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.HenselRootsBounded.core", "child": "Formalism_HermitianCurvature_ThetaExistenceInductiveFromPieces", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.HenselRootsBounded.core", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_HenselRootsBounded", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.GermSumLattices.cut_Q", "child": "Formalism_HermitianCurvature_ThetaExistenceInductiveFromPieces", "via": ["solution", "statement"]}
@@ -82966,8 +82966,8 @@
 {"parent": "Formalism.FourierDecayAlt.P.G7.mp_shear", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbitalIntegralConvergesAbs", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.G7.mp_shear", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PhaseFunctionCriticalPoints", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.G7.mp_shear", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdditiveCharacterPsi", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.Ib.contDiff_foldr", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_IntegrableOfBound", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.Ib.contDiff_foldr", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundAlt", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.Ib.contDiff_foldr", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_IntegrableOfBound", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.Ib.contDiff_foldr", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundAlt", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr7.zfns_comm", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PositionInsertionDiagonalCompat", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr7.zfns_comm", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr7.zfns_comm", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PlusLetterFrameOfData", "via": ["solution", "statement"]}
@@ -82986,8 +82986,8 @@
 {"parent": "Formalism.FourierDecayAlt.P.Fr2.cPosBase", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdmissibleRecOfAdmissibleWord", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.K.GB.TW.dirC_zero", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GBTwist", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.K.GB.TW.dirC_zero", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_Lagr", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.Ib.sum_vkl", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_IntegrableOfBound", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.Ib.sum_vkl", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundAlt", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.Ib.sum_vkl", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_IntegrableOfBound", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.Ib.sum_vkl", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundAlt", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr11.Adm_tail", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr11.Adm_tail", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_ResidueForm", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.K.GB.Inv.top_succ_le", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsGainBSt", "via": ["solution", "statement"]}
@@ -83239,16 +83239,16 @@
 {"parent": "Formalism.FourierDecayAlt.P.Fr7.plusStep_of", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PositionInsertionDiagonalCompat", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr7.plusStep_of", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr7.plusStep_of", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PlusLetterFrameOfData", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.T.continuous_dP", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ContinuousHerm", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.T.continuous_dP", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_DifferentiableOfTop", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.T.continuous_dP", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ContinuousHerm", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.T.continuous_dP", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_DifferentiableOfTop", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.HenselRootsBounded.unit_of", "child": "Formalism_HermitianCurvature_ThetaExistenceInductiveFromPieces", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.HenselRootsBounded.unit_of", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_HenselRootsBounded", "via": ["solution", "statement"]}
 {"parent": "PrescAnalytics_ERM_Supplement_CensorExample", "child": "PrescAnalytics_ERM_Supplement_Censoring", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr2.mem_invB", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_Interlace", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr2.mem_invB", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr2.mem_invB", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdmissibleRecOfAdmissibleWord", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.G.GM.det_ne_zero", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GaussM", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.G.GM.det_ne_zero", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GaussS", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.G.GM.det_ne_zero", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GaussM", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.G.GM.det_ne_zero", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GaussS", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.G3.double_vol", "child": "Formalism_HermitianCurvature_StatementG", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.G3.double_vol", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AffineChangeOfVariables", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr11.Ph_const", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["solution", "statement"]}
@@ -83623,8 +83623,8 @@
 {"parent": "RH1E6S17.group_006", "child": "ArdaRS_Dyadic", "via": ["statement"]}
 {"parent": "RH1E6S17.group_006", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S17.group_006", "child": "ArdaRS_DyadicOps", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.TW.foldr_supp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GBTwist", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.TW.foldr_supp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_Lagr", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.TW.foldr_supp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GBTwist", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.TW.foldr_supp", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_Lagr", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.VolAAW.BR_eT_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensVolA", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.VolAAW.BR_eT_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdDual", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.VolAAW.BR_eT_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensVolB", "via": ["solution", "statement"]}
@@ -84040,7 +84040,7 @@
 {"parent": "CompanionTheory.D.Upq.DoubleCosetLemmas.Meas.finset", "child": "Development_WeilBound_HeckeVectors_HeckeDoubleCosets_DoubleCosetLemmas_LocCount", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch02.levyBoundedVariationSufficiencyV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch02.levyBoundedVariationSufficiencyV1", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Rs.SliceClasses.C_gen", "child": "Development_WeilBound_RepresentationTheoryGL_ResidualSpectrum_SliceTensors_PSliceC", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Rs.SliceClasses.C_gen", "child": "Development_WeilBound_RepresentationTheoryGL_ResidualSpectrum_SliceTensors_PSliceC", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Rs.SliceClasses.C_comm_pow", "child": "Development_WeilBound_RepresentationTheoryGL_ResidualSpectrum_SliceTensors_PSliceC", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.FormDomination.prob_nonneg", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_FormDomination", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.FormDomination.prob_nonneg", "child": "Formalism_HermitianCurvature_StatementTB", "via": ["solution", "statement"]}
@@ -84365,8 +84365,8 @@
 {"parent": "PositivityTheory.ThKR.Sieg.isClosed_image_section", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_HaarProductClosedCompactHolds", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.ThKR.Sieg.isClosed_image_section", "child": "Development_WeilBound_ThetaLifts_Reductions_SiegelHaar", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.ThKR.Sieg.isClosed_image_section", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_SmulNn", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.TW.dP_pos", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GBTwist", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.TW.dP_pos", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_Lagr", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.TW.dP_pos", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GBTwist", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.TW.dP_pos", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_Lagr", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.Lim.cont_g", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AffineChangeOfVariables", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.Lim.cont_g", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PhaseFunctionDerivatives", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.Lim.cont_g", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_WeakApproximationGL", "via": ["solution", "statement"]}
@@ -84661,8 +84661,8 @@
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ShuffleWeightSquareLengthLtStatement", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ShuffleWeightSquareLengthLt", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_IsOpenCharacterAnnihilatorStatement", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_IsOpenCharacterAnnihilator", "via": ["statement"]}
 {"parent": "RH1E6S17_D007_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.G.crd_apply", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GWickA", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.G.crd_apply", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GaussS", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.G.crd_apply", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GWickA", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.G.crd_apply", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GaussS", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_GlobalProofs_ParabolicElementBlocks", "child": "Development_AutomorphicSpectrum_Definitions_GlobalGeometry_InstBorelGL", "via": ["statement"]}
 {"parent": "PrescAnalytics.ERM.Supplement.theorem_17", "child": "PrescAnalytics_ERM_Supplement_Prescription", "via": ["statement"]}
 {"parent": "PrescAnalytics.ERM.Supplement.theorem_17", "child": "PrescAnalytics_ERM_Supplement_Mixing", "via": ["statement"]}
@@ -84747,8 +84747,8 @@
 {"parent": "Formalism.FourierDecayAlt.P.Fejer.fac_succ_of_mem", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_Herglotz", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fejer.fac_succ_of_mem", "child": "Formalism_HermitianCurvature_StatementH", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fejer.fac_succ_of_mem", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_FacSuccOfNotMem", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.TW.contDiff_Dkl", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GBTwist", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.TW.contDiff_Dkl", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_Lagr", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.TW.contDiff_Dkl", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GBTwist", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.TW.contDiff_Dkl", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_Lagr", "via": ["solution", "statement"]}
 {"parent": "RH1E6S17_D008_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_GlobalProofs_IwasawaDecompositionUpperTriangular", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsOfValILeOne", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_GlobalProofs_IwasawaDecompositionUpperTriangular", "child": "Development_AutomorphicSpectrum_Definitions_GlobalGeometry_InstBorelGL", "via": ["statement"]}
@@ -85088,8 +85088,8 @@
 {"parent": "RH1E6S17.part_011_0", "child": "ArdaRS_Dyadic", "via": ["statement"]}
 {"parent": "RH1E6S17.part_011_0", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S17.part_011_0", "child": "ArdaRS_DyadicOps", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.B.Is_sq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundA", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.B.Is_sq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundAlt", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.B.Is_sq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundA", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.B.Is_sq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundAlt", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.FinitePointSets.rows_le_form", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_FinitePointSets", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.FinitePointSets.rows_le_form", "child": "Formalism_HermitianCurvature_StatementTB", "via": ["solution", "statement"]}
 {"parent": "RH1E6S17_D007_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
@@ -85467,8 +85467,8 @@
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SumHyperplanesComplementFlags", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CardAffineHyperplaneStatement", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.FrameIntegralJacobian.frameIntegral_ok", "child": "Formalism_HermitianCurvature_LowerBlockNormalisedBoundFromComponents", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.FrameIntegralJacobian.frameIntegral_ok", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_FrameIntegralJacobian", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.G.GM.amat_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GaussM", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.G.GM.amat_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GaussS", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.G.GM.amat_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GaussM", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.G.GM.amat_eq", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GaussS", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CosetSumTranslateInvariantStatement", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CosetSumTranslateInvariant", "via": ["statement"]}
 {"parent": "PositivityTheory.RgJS.EulerProductLogLemmas.norm_zz_le", "child": "Development_WeilBound_RepresentationTheoryGL_JacquetShalikaBounds_AbsoluteRigidity_NewtonLow", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.RgJS.EulerProductLogLemmas.norm_zz_le", "child": "Development_WeilBound_RepresentationTheoryGL_JacquetShalikaBounds_AbsoluteRigidity_EulerLogarithms_EulerProductLogBound", "via": ["solution", "statement"]}
@@ -85536,8 +85536,8 @@
 {"parent": "Formalism.FourierDecayAlt.P.GramProductIdentities.gramRealise", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_GramProductIdentities", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.GramProductIdentities.gramRealise", "child": "Lemmata_HermitianSesquilinear_ConjEqOfNonnegReal", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_SatakeParameters_IsSemisimpleOfLocallyFiniteCompactGroup", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_IntegralConjInnerMulInnerOfIsEmptyEquiv", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.herm_spectral", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GBFinal", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.herm_spectral", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_Lagr", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.herm_spectral", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_GBFinal", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.Sw.WR.K.GB.herm_spectral", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_Lagr", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.AnalyticWord.word_nil", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SkewAdjointCasimirSpectral", "via": ["solution", "statement"]}
 {"parent": "RH1E6S17_D009_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.HermitianFormNormLemmas.D1.t_ExponentSumText", "child": "Formalism_HermitianCurvature_StatementPN", "via": ["solution", "statement"]}
@@ -85586,9 +85586,9 @@
 {"parent": "PositivityTheory.Rg.Sw.WR.K.GB.word_contDiffOn", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsGainBSt", "via": ["solution", "statement"]}
 {"parent": "RH1E6S17_D006_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "GlobalTheory.GLFirstColumn.det_blk", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_MeasurePreservingCons", "via": ["solution", "statement"]}
-{"parent": "PI.VolStabSW.VolAAW.BR_eq_sum", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensVolA", "via": ["statement"]}
-{"parent": "PI.VolStabSW.VolAAW.BR_eq_sum", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdDual", "via": ["statement"]}
-{"parent": "PI.VolStabSW.VolAAW.BR_eq_sum", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensVolB", "via": ["statement"]}
+{"parent": "PI.VolStabSW.VolAAW.BR_eq_sum", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensVolA", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.VolAAW.BR_eq_sum", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdDual", "via": ["solution", "statement"]}
+{"parent": "PI.VolStabSW.VolAAW.BR_eq_sum", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_LocDensVolB", "via": ["solution", "statement"]}
 {"parent": "GrothendieckLB.Supplement.cq_head_integer_degrees_53_to_251", "child": "GrothendieckLB_Supplement_cqNonlinearHeadCheck", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.B.det_line", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBound", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.B.det_line", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundB", "via": ["solution", "statement"]}
@@ -90475,7 +90475,7 @@
 {"parent": "RH1E6S17.part_020_0", "child": "ArdaRS_Config64", "via": ["statement"]}
 {"parent": "RH1E6S17.part_020_0", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S17.part_020_0", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.Tf.Loc.sigmaGL_pow", "child": "Development_WeilBound_RepresentationTheoryGL_TwistedFactors_IntegralUnitBaseChange_InvTransposeGLInvTransposeGL", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.Tf.Loc.sigmaGL_pow", "child": "Development_WeilBound_RepresentationTheoryGL_TwistedFactors_IntegralUnitBaseChange_InvTransposeGLInvTransposeGL", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.S3x6.d_unitaryOrder", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RestrictOrthogonalComplementNondeg", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.S3x6.d_unitaryOrder", "child": "Formalism_HermitianCurvature_MemParahoricTimesPrincipalCongruenceIff", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_ExistsCompactPreimageNormCentralizerHermitian", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_ExistsIsotropicIdempotentCentralizerHermitianStatement", "via": ["statement"]}
@@ -98972,7 +98972,7 @@
 {"parent": "PositivityTheory.Rg.BcB.E2.P.Specmeas.ofR_sub", "child": "Development_WeilBound_RepresentationTheoryGL_ArchimedeanBaseChange_ArchimedeanBaseChangeProof_EigenvalueSeparation_AlmostEverywhereEigen_OneStepOf", "via": ["solution", "statement"]}
 {"parent": "CarlssonPartition.Approx.Supplement.theorem_4", "child": "CarlssonPartition_Approx_Supplement_Model", "via": ["statement"]}
 {"parent": "CarlssonPartition.Approx.Supplement.theorem_4", "child": "CarlssonPartition_Approx_Supplement_AdmissiblePolicies", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.SepFac.isSS_algebraMap", "child": "Development_WeilBound_RepresentationTheoryGL_ArchimedeanBaseChange_ArchimedeanBaseChangeProof_InfinitesimalCharacterLimits_LieSumDecompositions_PSepFac", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.SepFac.isSS_algebraMap", "child": "Development_WeilBound_RepresentationTheoryGL_ArchimedeanBaseChange_ArchimedeanBaseChangeProof_InfinitesimalCharacterLimits_LieSumDecompositions_PSepFac", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.ApproxUnit.approxU", "child": "Development_WeilBound_RepresentationTheoryGL_ArchimedeanBaseChange_ArchimedeanBaseChangeProof_ThetaCellCovers_VecClose", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.ApproxUnit.approxU", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CvAdjEqAvg", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.UnitLemma.Unr.val_mul_of_ne", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_EtaGramDetInvAlgBaseChangeUnramifiedOdd", "via": ["solution", "statement"]}

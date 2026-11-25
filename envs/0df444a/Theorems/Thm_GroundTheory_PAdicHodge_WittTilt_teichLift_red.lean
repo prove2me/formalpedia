@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittTilt_teichLift_red
 -- name    : GroundTheory.PAdicHodge.WittTilt.teichLift_red
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:35:58.764485+00:00
 -- url     : https://prove2.me/theorems/e0891e08-7d8c-53c3-8df8-885bdaaf02a9

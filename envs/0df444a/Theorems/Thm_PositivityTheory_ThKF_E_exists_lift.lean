@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF_E_exists_lift
 -- name    : PositivityTheory.ThKF.E.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:41.112962+00:00
 -- url     : https://prove2.me/theorems/63873eb1-9792-4525-b083-77a787b20e88

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_isCOBasis_latSub
 -- name    : PI.VolStabW.isCOBasis_latSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:55:01.951023+00:00
 -- url     : https://prove2.me/theorems/11bb474c-3dc1-46f7-a0ca-55d92eeff4cd

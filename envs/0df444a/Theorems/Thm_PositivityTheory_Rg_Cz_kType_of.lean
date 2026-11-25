@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_kType_of
 -- name    : PositivityTheory.Rg.Cz.kType_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:56:46.247928+00:00
 -- url     : https://prove2.me/theorems/75ad9392-6a8f-5a38-b1a2-85b3c59adfc8

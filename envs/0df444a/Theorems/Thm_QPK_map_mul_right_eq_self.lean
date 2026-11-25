@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_map_mul_right_eq_self
 -- name    : QPK.map_mul_right_eq_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:51:15.500904+00:00
 -- url     : https://prove2.me/theorems/ad57c8c4-f886-4fc2-80e0-9f02636c615e

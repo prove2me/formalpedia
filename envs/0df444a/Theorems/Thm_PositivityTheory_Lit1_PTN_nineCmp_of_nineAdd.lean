@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lit1_PTN_nineCmp_of_nineAdd
 -- name    : PositivityTheory.Lit1.PTN.nineCmp_of_nineAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:51:51.665278+00:00
 -- url     : https://prove2.me/theorems/1c03c46d-6eb2-582f-8f1f-394122e02d0c

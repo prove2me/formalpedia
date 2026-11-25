@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CK_fderiv_determinant_power_column_int
 -- name    : PositivityTheory.Rg.Sw.LVs.CK.fderiv_determinant_power_column_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:49:56.689823+00:00
 -- url     : https://prove2.me/theorems/19470fb6-42aa-4cc2-beb1-8e795b029fb7

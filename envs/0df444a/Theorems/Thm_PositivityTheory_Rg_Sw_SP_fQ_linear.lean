@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_fQ_linear
 -- name    : PositivityTheory.Rg.Sw.SP.fQ_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:47.952335+00:00
 -- url     : https://prove2.me/theorems/da562fbe-3eb0-4330-abc4-f2cb34ead315

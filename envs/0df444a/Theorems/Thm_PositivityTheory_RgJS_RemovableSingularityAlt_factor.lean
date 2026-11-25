@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_RemovableSingularityAlt_factor
 -- name    : PositivityTheory.RgJS.RemovableSingularityAlt.factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:52.351142+00:00
 -- url     : https://prove2.me/theorems/abb1bf7b-ec9a-43cf-8857-d5c97221b4f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelicOrbitU_stLam_of
 -- name    : PIW.AdelicOrbitU.stLam_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:48:09.760959+00:00
 -- url     : https://prove2.me/theorems/6a7ec5e6-848b-495e-9e1e-1de1f5d0714d

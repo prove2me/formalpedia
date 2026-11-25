@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_unifV_spec
 -- name    : PI.VolStabW.unifV_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:34:38.321865+00:00
 -- url     : https://prove2.me/theorems/13e222d7-4e5c-4f35-b564-e1e74ab84d8d

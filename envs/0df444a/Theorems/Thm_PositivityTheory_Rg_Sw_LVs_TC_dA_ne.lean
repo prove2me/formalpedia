@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_dA_ne
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.dA_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:10.605697+00:00
 -- url     : https://prove2.me/theorems/516309a0-780d-4c09-ae3f-10711dd5eb1b

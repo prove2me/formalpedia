@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_CommPf_sum_eq
 -- name    : PositivityTheory.Rg.Sw.SP.CommPf.sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:00:05.21568+00:00
 -- url     : https://prove2.me/theorems/fe279879-2c12-42e9-9750-464066de507b

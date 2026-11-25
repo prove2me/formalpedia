@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_isUnit_one_add_elem
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.isUnit_one_add_elem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:32:26.731962+00:00
 -- url     : https://prove2.me/theorems/973bce95-8e80-4b10-bff2-2429397e79ca

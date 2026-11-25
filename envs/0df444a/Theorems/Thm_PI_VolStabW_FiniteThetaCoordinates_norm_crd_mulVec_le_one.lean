@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_FiniteThetaCoordinates_norm_crd_mulVec_le_one
 -- name    : PI.VolStabW.FiniteThetaCoordinates.norm_crd_mulVec_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:43:11.607432+00:00
 -- url     : https://prove2.me/theorems/83906259-39e9-44fa-b94c-4dadf907e43c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialWeightAction_vars_subset
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialWeightAction.vars_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:49:01.818167+00:00
 -- url     : https://prove2.me/theorems/aab91323-43f1-4132-a683-fbd479e549f1

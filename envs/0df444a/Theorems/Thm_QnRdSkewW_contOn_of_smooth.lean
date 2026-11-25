@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnRdSkewW_contOn_of_smooth
 -- name    : QnRdSkewW.contOn_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:05:30.526723+00:00
 -- url     : https://prove2.me/theorems/4cdae1ff-cea0-517f-8ee5-ae4fdba5d32f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_I_one_add_sum_le_prod
 -- name    : PositivityTheory.Rg.Sw.WR.I.one_add_sum_le_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:05:12.047074+00:00
 -- url     : https://prove2.me/theorems/c1c52701-36ac-52b5-90ba-23e0d6d84ffb

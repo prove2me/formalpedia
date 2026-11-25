@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_TrOrb_pidem_idem
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.TrOrb.pidem_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:28.383324+00:00
 -- url     : https://prove2.me/theorems/1f1b9125-6d82-56be-9dcc-c8b62e757c7f

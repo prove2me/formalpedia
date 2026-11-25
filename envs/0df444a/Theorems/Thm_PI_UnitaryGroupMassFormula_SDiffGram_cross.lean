@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_SDiffGram_cross
 -- name    : PI.UnitaryGroupMassFormula.SDiffGram.cross
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:43:48.57122+00:00
 -- url     : https://prove2.me/theorems/277ff4b3-3a5d-5caf-98b5-bbf5a84bdb85

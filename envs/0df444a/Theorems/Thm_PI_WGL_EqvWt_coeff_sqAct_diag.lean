@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_EqvWt_coeff_sqAct_diag
 -- name    : PI.WGL.EqvWt.coeff_sqAct_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:02:16.139859+00:00
 -- url     : https://prove2.me/theorems/d463bd2e-94f6-4a2a-91d8-4d5af96cb300

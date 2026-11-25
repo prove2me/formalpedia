@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_SWS_tensor_exists
 -- name    : PositivityTheory.Rg.Cz.SWS.tensor_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:53:28.167348+00:00
 -- url     : https://prove2.me/theorems/da1b110e-4eab-52d2-8edf-827621a38678

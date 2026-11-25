@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_cellCoinvRep_mk
 -- name    : GroundTheory.Automorphic.Parabolic.cellCoinvRep_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:47:34.400951+00:00
 -- url     : https://prove2.me/theorems/ae5d0592-d74f-4da5-bef6-b8e745dab6f3

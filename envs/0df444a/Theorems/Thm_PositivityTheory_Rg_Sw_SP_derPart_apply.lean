@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_derPart_apply
 -- name    : PositivityTheory.Rg.Sw.SP.derPart_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:51:34.806389+00:00
 -- url     : https://prove2.me/theorems/b214158f-b68d-54d1-974f-d5a484dc1e0b

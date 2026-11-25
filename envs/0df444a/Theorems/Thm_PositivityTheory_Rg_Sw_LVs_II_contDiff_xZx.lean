@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_contDiff_xZx
 -- name    : PositivityTheory.Rg.Sw.LVs.II.contDiff_xZx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:08:11.496259+00:00
 -- url     : https://prove2.me/theorems/264cfb85-6b98-40f7-a86c-abb48dfa7255

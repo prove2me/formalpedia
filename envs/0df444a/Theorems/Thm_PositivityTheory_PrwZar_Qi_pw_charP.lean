@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PrwZar_Qi_pw_charP
 -- name    : PositivityTheory.PrwZar.Qi.pw_charP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:51:52.609808+00:00
 -- url     : https://prove2.me/theorems/5b7ba256-5819-4b87-863c-de32d318e5c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Form_U_Asm_mem_fixed_iff_irr
 -- name    : PositivityTheory.RgUd.Form.U.Asm.mem_fixed_iff_irr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:01.06141+00:00
 -- url     : https://prove2.me/theorems/728982f9-fda9-4dc4-911c-4ea37118aba2

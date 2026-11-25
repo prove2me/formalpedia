@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ScalarCastIdentities_covariant_commutes_signed_column_sum
 -- name    : Formalism.FourierDecayAlt.P.ScalarCastIdentities.covariant_commutes_signed_column_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:12:54.868801+00:00
 -- url     : https://prove2.me/theorems/2032dea9-cdef-41a4-b1a2-0fda01c9faa9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Loc_Ptf_lam_one
 -- name    : PositivityTheory.RgUd.TP.Loc.Ptf.lam_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:03:18.041116+00:00
 -- url     : https://prove2.me/theorems/0bb11b0c-959d-43cc-b109-148cddb4a0c8

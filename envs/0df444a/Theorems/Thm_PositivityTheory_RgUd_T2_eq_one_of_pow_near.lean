@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T2_eq_one_of_pow_near
 -- name    : PositivityTheory.RgUd.T2.eq_one_of_pow_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:02:54.804416+00:00
 -- url     : https://prove2.me/theorems/8978dc11-7ded-4ff1-8576-f29eab174482

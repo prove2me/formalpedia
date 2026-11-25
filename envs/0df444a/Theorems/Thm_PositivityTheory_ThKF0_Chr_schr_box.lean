@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_schr_box
 -- name    : PositivityTheory.ThKF0.Chr.schr_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:04:18.328846+00:00
 -- url     : https://prove2.me/theorems/d49a9359-98d0-5651-9068-0a0df76bbda6

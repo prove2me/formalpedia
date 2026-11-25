@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Orb_BReps_chain_Npow_zero
 -- name    : PositivityTheory.RgUd.T.Nil.Orb.BReps.chain_Npow_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:02:51.632574+00:00
 -- url     : https://prove2.me/theorems/11b7c97f-7f5a-4b9e-b723-87e4f137fdcc

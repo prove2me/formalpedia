@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DiscreteGroups_disintStep_holds
 -- name    : PI.VolStabW.DiscreteGroups.disintStep_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:42:34.537138+00:00
 -- url     : https://prove2.me/theorems/2b67f406-b934-4a9e-99c5-60459c1ef273

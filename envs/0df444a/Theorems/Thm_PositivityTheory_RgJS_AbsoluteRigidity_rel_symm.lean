@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_AbsoluteRigidity_rel_symm
 -- name    : PositivityTheory.RgJS.AbsoluteRigidity.rel_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:02:46.201556+00:00
 -- url     : https://prove2.me/theorems/edfce137-6d4d-4941-b714-ff4bc866ba94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_cdo_id
 -- name    : PositivityTheory.Rg.Sw.LVs.cdo_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:01:27.146729+00:00
 -- url     : https://prove2.me/theorems/6382d6c6-83e3-515b-82b5-6aa97aa42d31

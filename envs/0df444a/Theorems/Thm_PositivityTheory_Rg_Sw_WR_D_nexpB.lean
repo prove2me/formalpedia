@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_nexpB
 -- name    : PositivityTheory.Rg.Sw.WR.D.nexpB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:03:45.488125+00:00
 -- url     : https://prove2.me/theorems/1d2bf24f-dca5-5a73-867c-896970d14b62

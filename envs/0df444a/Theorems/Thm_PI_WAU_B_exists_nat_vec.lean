@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_exists_nat_vec
 -- name    : PI.WAU.B.exists_nat_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:40:49.682346+00:00
 -- url     : https://prove2.me/theorems/81f4d597-26fd-49fe-a83e-901329ff7312

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_GoodB_X_tri
 -- name    : PI.WGB.GoodB_X_tri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:47:40.535416+00:00
 -- url     : https://prove2.me/theorems/96fa9560-8f4b-420a-8c56-9b5d1c05f71e

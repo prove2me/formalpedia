@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_sum_incl
 -- name    : PositivityTheory.Rg.Sw.LVs.sum_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:01:49.893248+00:00
 -- url     : https://prove2.me/theorems/d4dff926-ffbb-544b-a3dd-ae940087c96c

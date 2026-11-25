@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_BrInt_fockF_zero_right
 -- name    : PI.WGL.BrInt.fockF_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:42.025025+00:00
 -- url     : https://prove2.me/theorems/c344cf31-615e-4802-ad52-a2c66af214e0

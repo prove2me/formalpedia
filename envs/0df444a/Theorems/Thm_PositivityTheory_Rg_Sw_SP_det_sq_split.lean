@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_det_sq_split
 -- name    : PositivityTheory.Rg.Sw.SP.det_sq_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:51:52.188961+00:00
 -- url     : https://prove2.me/theorems/ae2f6c62-b233-4f75-b349-93a0b9226b70

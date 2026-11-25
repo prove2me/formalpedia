@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_b_mul_ordEval
 -- name    : PI.WickFormula.b_mul_ordEval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:46:43.429943+00:00
 -- url     : https://prove2.me/theorems/92bf5227-e0f6-481f-9c0e-20615f1dea47

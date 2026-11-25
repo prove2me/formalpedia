@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_hwAt_shift
 -- name    : PI.WGB.hwAt_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:45:45.768702+00:00
 -- url     : https://prove2.me/theorems/49a14b4d-7684-4942-8d65-d54e61042d3a

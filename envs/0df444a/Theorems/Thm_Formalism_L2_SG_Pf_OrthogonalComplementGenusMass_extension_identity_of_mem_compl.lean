@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_OrthogonalComplementGenusMass_extension_identity_of_mem_compl
 -- name    : Formalism.L2.SG.Pf.OrthogonalComplementGenusMass.extension_identity_of_mem_compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:25:27.360777+00:00
 -- url     : https://prove2.me/theorems/7b9bd3d7-e455-5b28-9dd7-931ff2f95ff3

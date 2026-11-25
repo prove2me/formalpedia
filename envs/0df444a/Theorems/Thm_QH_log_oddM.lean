@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QH_log_oddM
 -- name    : QH.log_oddM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:06:01.098654+00:00
 -- url     : https://prove2.me/theorems/6b5a82a7-632f-4ea7-b5e1-ccabf633bed9

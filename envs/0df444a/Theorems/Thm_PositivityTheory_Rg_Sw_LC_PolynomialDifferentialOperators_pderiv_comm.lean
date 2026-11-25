@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialDifferentialOperators_pderiv_comm
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.pderiv_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:57:53.40821+00:00
 -- url     : https://prove2.me/theorems/394d2930-b407-433f-a4c8-d981480c0c51

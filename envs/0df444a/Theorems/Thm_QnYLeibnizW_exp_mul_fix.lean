@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnYLeibnizW_exp_mul_fix
 -- name    : QnYLeibnizW.exp_mul_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:06:10.911112+00:00
 -- url     : https://prove2.me/theorems/2ef62467-0af6-4371-a1a9-d8a1b1ecf9cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_quotProdK_of
 -- name    : QPK.quotProdK_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:50:51.609873+00:00
 -- url     : https://prove2.me/theorems/f7eb8611-a9a1-465b-af70-e079afa75ac8

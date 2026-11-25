@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_lawDeriv
 -- name    : PositivityTheory.Rg.Sw.LVs.II.lawDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:02:36.34155+00:00
 -- url     : https://prove2.me/theorems/a3614dc3-a5de-57c7-b21d-f6a5bc3a4b7c

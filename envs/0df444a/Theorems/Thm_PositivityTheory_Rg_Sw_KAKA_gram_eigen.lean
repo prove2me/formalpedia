@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_KAKA_gram_eigen
 -- name    : PositivityTheory.Rg.Sw.KAKA.gram_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:55:06.082252+00:00
 -- url     : https://prove2.me/theorems/2f106ad9-c0b5-472a-956d-6f23c7255890

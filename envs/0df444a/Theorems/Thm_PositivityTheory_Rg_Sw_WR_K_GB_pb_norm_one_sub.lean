@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_pb_norm_one_sub
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.pb_norm_one_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:49:51.641792+00:00
 -- url     : https://prove2.me/theorems/2584cc0f-05a0-429d-b1b7-57b2e9092bc7

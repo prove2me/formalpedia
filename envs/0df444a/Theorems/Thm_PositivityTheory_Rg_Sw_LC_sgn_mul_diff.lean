@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_sgn_mul_diff
 -- name    : PositivityTheory.Rg.Sw.LC.sgn_mul_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:49:22.711687+00:00
 -- url     : https://prove2.me/theorems/e483345c-90af-478c-8df1-585da9a3cfba

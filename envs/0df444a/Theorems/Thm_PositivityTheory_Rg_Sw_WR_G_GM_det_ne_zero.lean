@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_GM_det_ne_zero
 -- name    : PositivityTheory.Rg.Sw.WR.G.GM.det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:51:03.011087+00:00
 -- url     : https://prove2.me/theorems/2ce35dfd-ed6f-4705-bed6-16dd096282b6

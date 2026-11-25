@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KLI_gramX_tr_g
 -- name    : PositivityTheory.SiegelWeilFormula.KLI.gramX_tr_g
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:51:15.870548+00:00
 -- url     : https://prove2.me/theorems/ba76a1e0-2370-468f-a955-878f8bed3216

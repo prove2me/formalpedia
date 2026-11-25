@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_column_moments_bound
 -- name    : PositivityTheory.CWB.column_moments_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:02:23.794185+00:00
 -- url     : https://prove2.me/theorems/6f4e7cad-ab81-428a-90b7-feea5f1299f1
