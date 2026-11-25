@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_diffContOnCl_twistedGamma
 -- name    : PI.EF.diffContOnCl_twistedGamma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:37.989313+00:00
 -- url     : https://prove2.me/theorems/7e9cc2c6-6565-5607-ac05-efabdb0599a3

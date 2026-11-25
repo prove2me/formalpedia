@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_RatPat_rhoL_rhoL
 -- name    : GlobalTheory.HL.RatPat.rhoL_rhoL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:47:18.698708+00:00
 -- url     : https://prove2.me/theorems/1455dc63-aa28-552d-95ed-dabf41b12b57

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Unimod_delta_inv
 -- name    : GlobalTheory.HL.Unimod.delta_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:37:45.816352+00:00
 -- url     : https://prove2.me/theorems/e40e1455-e643-54cf-9023-f4520925d5ac

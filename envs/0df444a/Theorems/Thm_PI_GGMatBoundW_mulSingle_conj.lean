@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMatBoundW_mulSingle_conj
 -- name    : PI.GGMatBoundW.mulSingle_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:31:34.189779+00:00
 -- url     : https://prove2.me/theorems/8ffbfe52-d57b-5431-b270-daaca57ded88

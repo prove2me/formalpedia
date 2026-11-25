@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StrongSt_unit_of_pat
 -- name    : GlobalTheory.HL.StrongSt.unit_of_pat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:06:55.527109+00:00
 -- url     : https://prove2.me/theorems/9d7833d9-ca8a-4d9b-b378-f233be54b1bf

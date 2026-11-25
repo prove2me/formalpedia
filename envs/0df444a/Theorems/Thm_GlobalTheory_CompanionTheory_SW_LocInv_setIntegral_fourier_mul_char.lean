@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LocInv_setIntegral_fourier_mul_char
 -- name    : GlobalTheory.CompanionTheory.SW.LocInv.setIntegral_fourier_mul_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:05:31.790746+00:00
 -- url     : https://prove2.me/theorems/12ef3e90-55dd-4fb4-a130-d31df0d319cb

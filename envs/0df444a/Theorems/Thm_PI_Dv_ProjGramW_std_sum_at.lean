@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjGramW_std_sum_at
 -- name    : PI.Dv.ProjGramW.std_sum_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:28:53.359708+00:00
 -- url     : https://prove2.me/theorems/1e640cdf-24a4-4ed5-9ee3-cf1d38d8be33

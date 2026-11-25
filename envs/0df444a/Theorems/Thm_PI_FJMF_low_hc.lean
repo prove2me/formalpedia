@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_low_hc
 -- name    : PI.FJMF.low_hc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:44.506214+00:00
 -- url     : https://prove2.me/theorems/61489635-655f-5c7b-bfed-49ac5b6b9838

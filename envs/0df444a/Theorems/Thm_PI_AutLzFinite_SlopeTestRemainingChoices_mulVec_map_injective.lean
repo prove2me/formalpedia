@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AutLzFinite_SlopeTestRemainingChoices_mulVec_map_injective
 -- name    : PI.AutLzFinite.SlopeTestRemainingChoices.mulVec_map_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:23:54.095796+00:00
 -- url     : https://prove2.me/theorems/52ad7338-ae74-5dc7-8be1-8178e12f0fff

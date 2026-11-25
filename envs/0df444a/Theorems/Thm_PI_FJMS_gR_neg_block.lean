@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMS_gR_neg_block
 -- name    : PI.FJMS.gR_neg_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:59.650592+00:00
 -- url     : https://prove2.me/theorems/b1cfedad-6e14-4241-8011-fbcbc22bbed4

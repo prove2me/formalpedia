@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjAW_ext_lat
 -- name    : PI.Dv.ProjAW.ext_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:28:16.642972+00:00
 -- url     : https://prove2.me/theorems/a3457e17-139a-422f-9134-2b64e521c223

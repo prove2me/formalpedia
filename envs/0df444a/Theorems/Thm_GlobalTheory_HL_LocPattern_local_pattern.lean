@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LocPattern_local_pattern
 -- name    : GlobalTheory.HL.LocPattern.local_pattern
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:18:41.195015+00:00
 -- url     : https://prove2.me/theorems/05e34193-2c4a-4960-aa29-9119123f66f6

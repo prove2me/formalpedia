@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinKW_evalV_singleV_same
 -- name    : PI.FinKW.evalV_singleV_same
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:31:12.835751+00:00
 -- url     : https://prove2.me/theorems/7aaa425d-23cf-4856-ac9f-a82020b2ce6f

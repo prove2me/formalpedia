@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_unitAt_iff_of_valAt
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.unitAt_iff_of_valAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:24:27.435449+00:00
 -- url     : https://prove2.me/theorems/f0b0934d-aafa-4075-b653-701b013ee5ab

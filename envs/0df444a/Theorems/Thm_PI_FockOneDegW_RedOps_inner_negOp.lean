@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_RedOps_inner_negOp
 -- name    : PI.FockOneDegW.RedOps.inner_negOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:07:53.967585+00:00
 -- url     : https://prove2.me/theorems/15742269-a8ce-4f1a-a455-2f6e47eb1f12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_sum_rpow_le
 -- name    : PI.EF.sum_rpow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:23.486636+00:00
 -- url     : https://prove2.me/theorems/4b72e034-37e0-4198-b3d1-3327322799f0

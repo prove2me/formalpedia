@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CompDegEF_placeProp
 -- name    : PI.CompDegEF.placeProp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:28:46.73434+00:00
 -- url     : https://prove2.me/theorems/c03a1aa6-0707-4c8b-bf22-d12422dacd22

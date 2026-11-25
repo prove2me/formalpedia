@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionExists_proof_417c804731d1
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionExists_proof_417c804731d1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:32:39.421797+00:00
 -- url     : https://prove2.me/theorems/310154f1-fdc5-4842-9ae5-3e1b0b0ed3c8

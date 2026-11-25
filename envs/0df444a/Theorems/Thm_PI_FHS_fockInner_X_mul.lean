@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FHS_fockInner_X_mul
 -- name    : PI.FHS.fockInner_X_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:20:36.692101+00:00
 -- url     : https://prove2.me/theorems/8a37b4fa-4e29-4c9f-acf8-128d277d8e5d

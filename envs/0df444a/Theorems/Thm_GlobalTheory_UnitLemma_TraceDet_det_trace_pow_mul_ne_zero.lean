@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_TraceDet_det_trace_pow_mul_ne_zero
 -- name    : GlobalTheory.UnitLemma.TraceDet.det_trace_pow_mul_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:34:12.625209+00:00
 -- url     : https://prove2.me/theorems/c44fb944-9885-484c-a380-dd7120e6ef8a

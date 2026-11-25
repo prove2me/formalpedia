@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HeckeProdW_no_small
 -- name    : PI.HeckeProdW.no_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:31:06.128879+00:00
 -- url     : https://prove2.me/theorems/615952c7-fe45-4705-996d-0f00929e3df6

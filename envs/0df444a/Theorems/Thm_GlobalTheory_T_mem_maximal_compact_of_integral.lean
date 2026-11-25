@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_maximal_compact_of_integral
 -- name    : GlobalTheory.T.mem_maximal_compact_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:29:42.239918+00:00
 -- url     : https://prove2.me/theorems/58a922cd-9244-4593-a0d0-d659b801a3cd

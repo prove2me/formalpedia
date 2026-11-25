@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CompDegEF_exists_den
 -- name    : PI.CompDegEF.exists_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:26:38.594454+00:00
 -- url     : https://prove2.me/theorems/6fd7c3ea-8ca7-5c6d-b2e0-52bd467e4ce9

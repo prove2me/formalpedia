@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_intVal_conj
 -- name    : PI.DvRows.intVal_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:28:31.992038+00:00
 -- url     : https://prove2.me/theorems/6a2a6f15-4439-4158-bb90-c14cf13e57b9

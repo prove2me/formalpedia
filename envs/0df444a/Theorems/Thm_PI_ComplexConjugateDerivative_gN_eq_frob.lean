@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ComplexConjugateDerivative_gN_eq_frob
 -- name    : PI.ComplexConjugateDerivative.gN_eq_frob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:26:14.013052+00:00
 -- url     : https://prove2.me/theorems/af2e2e1b-a348-58b4-b93a-a76c2b654459

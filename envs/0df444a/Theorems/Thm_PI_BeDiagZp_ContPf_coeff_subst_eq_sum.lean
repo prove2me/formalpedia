@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_ContPf_coeff_subst_eq_sum
 -- name    : PI.BeDiagZp.ContPf.coeff_subst_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:24:47.707288+00:00
 -- url     : https://prove2.me/theorems/78e470d8-8302-452f-91ae-067b93dc9dd0

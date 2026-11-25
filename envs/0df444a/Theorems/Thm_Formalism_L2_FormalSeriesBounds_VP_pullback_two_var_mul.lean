@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_pullback_two_var_mul
 -- name    : Formalism.L2.FormalSeriesBounds.VP.pullback_two_var_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:41:43.736667+00:00
 -- url     : https://prove2.me/theorems/039813f1-c32b-5354-a383-6a8fd13d1438

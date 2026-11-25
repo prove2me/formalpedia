@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_embedding_algebraMap_conj_473ce874b5b7
 -- name    : P2M_GroundTheory_Heights__Theta_embedding_algebraMap_conj_473ce874b5b7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:24.685645+00:00
 -- url     : https://prove2.me/theorems/47835967-0793-40d3-b92e-ec16067eabd5

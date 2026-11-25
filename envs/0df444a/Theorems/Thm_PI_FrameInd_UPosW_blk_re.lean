@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_UPosW_blk_re
 -- name    : PI.FrameInd.UPosW.blk_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:08:20.348276+00:00
 -- url     : https://prove2.me/theorems/b5be63fc-aa87-41ed-ac0d-d257d4d3fe37

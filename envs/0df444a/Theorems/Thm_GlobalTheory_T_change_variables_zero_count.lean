@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_change_variables_zero_count
 -- name    : GlobalTheory.T.change_variables_zero_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:30:39.01094+00:00
 -- url     : https://prove2.me/theorems/38250f83-c1a6-4571-8311-0ba9682ce38e

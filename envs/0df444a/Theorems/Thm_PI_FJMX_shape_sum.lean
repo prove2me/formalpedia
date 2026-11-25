@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_shape_sum
 -- name    : PI.FJMX.shape_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:25:58.144608+00:00
 -- url     : https://prove2.me/theorems/ceb42699-6069-48d0-821a-66a857b079af

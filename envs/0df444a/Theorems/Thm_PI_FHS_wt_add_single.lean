@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FHS_wt_add_single
 -- name    : PI.FHS.wt_add_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:32:04.273259+00:00
 -- url     : https://prove2.me/theorems/d6837426-9bd4-556e-8a6b-dd09f00aded6

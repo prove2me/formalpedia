@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_conj_natCast_alt
 -- name    : PI.GalTorsConj.W.conj_natCast_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:15.147404+00:00
 -- url     : https://prove2.me/theorems/c8774ef1-564c-5ae8-8559-1451180360e6

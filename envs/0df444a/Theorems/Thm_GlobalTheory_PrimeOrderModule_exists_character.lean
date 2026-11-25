@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeOrderModule_exists_character
 -- name    : GlobalTheory.PrimeOrderModule.exists_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:19:04.057069+00:00
 -- url     : https://prove2.me/theorems/9c17fdf3-ed3c-5f59-aa6e-a833f3c865f4

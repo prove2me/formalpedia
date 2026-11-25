@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HeckeProdW_pv_local_ne
 -- name    : PI.HeckeProdW.pv_local_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:31:22.832417+00:00
 -- url     : https://prove2.me/theorems/051bbcf6-9b53-48bc-932a-f9e7755765ef

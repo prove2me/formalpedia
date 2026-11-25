@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DefPosDefWork_positive_definite_second
 -- name    : PI.DefPosDefWork.positive_definite_second
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:27:01.948532+00:00
 -- url     : https://prove2.me/theorems/8da8af6a-f443-5301-83c2-9b05a31a5b9b

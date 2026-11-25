@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLPTr_star_trace_of_pow_eq_one
 -- name    : PI.Dv.GLPTr.star_trace_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:28.009956+00:00
 -- url     : https://prove2.me/theorems/54cfda3b-01e0-4983-b534-58517095d535

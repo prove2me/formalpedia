@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionOrder_hypotheses_inhabited_cb85664a66ad
 -- name    : P2M_GroundTheory_Heights__Heights_SectionOrder_hypotheses_inhabited_cb85664a66ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:20:35.313914+00:00
 -- url     : https://prove2.me/theorems/5e21ddc0-29c8-5dc1-b51c-6cae741d6e79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IdealLatticeWork_im_scale
 -- name    : PI.IdealLatticeWork.im_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:06:54.587863+00:00
 -- url     : https://prove2.me/theorems/7026aa33-ca37-58f8-9169-9ea46ef00c30

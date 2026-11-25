@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Loc_refl_center
 -- name    : PI.EF.Loc.refl_center
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:27:47.772607+00:00
 -- url     : https://prove2.me/theorems/9ae63a63-43e9-46d1-88de-22d25b132e87

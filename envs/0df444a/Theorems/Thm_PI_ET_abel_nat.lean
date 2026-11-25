@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_abel_nat
 -- name    : PI.ET.abel_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:28:58.96621+00:00
 -- url     : https://prove2.me/theorems/9cb08cd5-d70c-4b57-9d57-ee0286776718

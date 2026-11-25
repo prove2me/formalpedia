@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglPhSplit_Wk_be_mulBy_zero
 -- name    : PI.FglPhSplit.Wk.be_mulBy_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:43:21.353634+00:00
 -- url     : https://prove2.me/theorems/6841c1e1-c3c2-4e89-bf6b-6e472414d9c9

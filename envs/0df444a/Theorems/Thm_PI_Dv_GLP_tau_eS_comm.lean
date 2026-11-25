@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLP_tau_eS_comm
 -- name    : PI.Dv.GLP.tau_eS_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:18.089604+00:00
 -- url     : https://prove2.me/theorems/de8ffc2e-a881-4ac1-8cc2-5e99e245840c

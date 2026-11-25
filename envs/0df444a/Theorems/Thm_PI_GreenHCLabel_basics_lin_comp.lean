@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenHCLabel_basics_lin_comp
 -- name    : PI.GreenHCLabel.basics_lin_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:02.785273+00:00
 -- url     : https://prove2.me/theorems/62585216-5f57-5d1e-ae62-f41c7cf29f08

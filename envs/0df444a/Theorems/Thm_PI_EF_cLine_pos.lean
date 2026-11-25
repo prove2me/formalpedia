@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_cLine_pos
 -- name    : PI.EF.cLine_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:48.573383+00:00
 -- url     : https://prove2.me/theorems/6adcd34d-9d48-5568-a3c6-270749d44bdd

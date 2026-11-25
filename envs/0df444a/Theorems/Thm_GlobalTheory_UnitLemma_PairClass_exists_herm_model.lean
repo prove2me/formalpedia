@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_PairClass_exists_herm_model
 -- name    : GlobalTheory.UnitLemma.PairClass.exists_herm_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:29:25.993499+00:00
 -- url     : https://prove2.me/theorems/80a36cae-9939-4c7a-97e9-609e97244617

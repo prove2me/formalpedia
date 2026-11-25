@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StrongSt_mat_step
 -- name    : GlobalTheory.HL.StrongSt.mat_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:06:06.377281+00:00
 -- url     : https://prove2.me/theorems/df1bae36-4ff6-4881-ba15-35df86654d4b

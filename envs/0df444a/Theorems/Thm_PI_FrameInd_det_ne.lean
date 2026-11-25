@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_det_ne
 -- name    : PI.FrameInd.det_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:31:26.262442+00:00
 -- url     : https://prove2.me/theorems/7fecc945-78ce-4f98-8a45-67386fcacb5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_isOpen_domK
 -- name    : PositivityTheory.Rg.Sw.LVs.isOpen_domK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:48:57.051855+00:00
 -- url     : https://prove2.me/theorems/1fae6999-05ea-4142-a7b0-55adb36d8dd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_FinGradedSub_exists_cocycle_of_mem_secs_a6b4983c8a3e
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_FinGradedSub_exists_cocycle_of_mem_secs_a6b4983c8a3e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:54:09.869896+00:00
 -- url     : https://prove2.me/theorems/ad6fd3b1-735d-41e4-a671-39b7b0e60fbb

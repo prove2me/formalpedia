@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_coneSet_hausdorff_null_of_dim_lt_8a4e1c11caea
 -- name    : P2M_GroundTheory_Heights__Heights_coneSet_hausdorff_null_of_dim_lt_8a4e1c11caea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:47:31.745093+00:00
 -- url     : https://prove2.me/theorems/92384d65-064e-5d08-b256-ba8b563fadd2

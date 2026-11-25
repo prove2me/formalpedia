@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLP_eigen_pow_eq_one
 -- name    : PI.Dv.GLP.eigen_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:27:24.632719+00:00
 -- url     : https://prove2.me/theorems/dc309b3d-f1eb-4452-9e72-d2e470b301d5

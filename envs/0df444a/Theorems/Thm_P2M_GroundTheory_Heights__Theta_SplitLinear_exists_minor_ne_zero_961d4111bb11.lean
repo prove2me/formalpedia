@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_SplitLinear_exists_minor_ne_zero_961d4111bb11
 -- name    : P2M_GroundTheory_Heights__Theta_SplitLinear_exists_minor_ne_zero_961d4111bb11
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:52:55.338963+00:00
 -- url     : https://prove2.me/theorems/4857024c-9195-4bac-acf8-15e738fd606a

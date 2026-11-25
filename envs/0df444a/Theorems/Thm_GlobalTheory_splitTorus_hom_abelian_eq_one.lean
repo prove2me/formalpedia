@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_splitTorus_hom_abelian_eq_one
 -- name    : GlobalTheory.splitTorus_hom_abelian_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:57:22.424839+00:00
 -- url     : https://prove2.me/theorems/91e0109a-72a4-5081-94aa-e0567f569916

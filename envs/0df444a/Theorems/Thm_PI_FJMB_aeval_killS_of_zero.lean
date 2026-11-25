@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMB_aeval_killS_of_zero
 -- name    : PI.FJMB.aeval_killS_of_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:26.513066+00:00
 -- url     : https://prove2.me/theorems/c775baf5-57d1-4e00-851e-cf14c5bdf52f

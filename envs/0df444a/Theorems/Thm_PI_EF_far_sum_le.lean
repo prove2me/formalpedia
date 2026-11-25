@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_far_sum_le
 -- name    : PI.EF.far_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:30:10.582718+00:00
 -- url     : https://prove2.me/theorems/eff8dca6-ca85-4ee0-82f1-b70cb6b4ab65

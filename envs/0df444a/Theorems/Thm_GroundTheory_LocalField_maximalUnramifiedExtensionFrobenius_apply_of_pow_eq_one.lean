@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_maximalUnramifiedExtensionFrobenius_apply_of_pow_eq_one
 -- name    : GroundTheory.LocalField.maximalUnramifiedExtensionFrobenius_apply_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:38:09.411821+00:00
 -- url     : https://prove2.me/theorems/c470dd64-7859-5975-9a68-1bacd5b5f519

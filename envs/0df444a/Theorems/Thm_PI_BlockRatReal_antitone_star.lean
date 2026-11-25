@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BlockRatReal_antitone_star
 -- name    : PI.BlockRatReal.antitone_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:25:12.487797+00:00
 -- url     : https://prove2.me/theorems/d7828e49-ede7-5f4e-bf67-1a38fd2d135d

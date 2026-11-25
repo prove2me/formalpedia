@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjGramW_li_famC
 -- name    : PI.Dv.ProjGramW.li_famC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:50.179696+00:00
 -- url     : https://prove2.me/theorems/c0eb03ec-fddd-5be5-a700-1e6a8ebf2e2e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Swap_isHW_map
 -- name    : PI.FockOneDegW.Swap.isHW_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:32:22.237172+00:00
 -- url     : https://prove2.me/theorems/b7fc9d76-7b12-5b65-8cb0-d2e42ce647c3

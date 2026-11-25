@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_algebraMap_mem_intOE
 -- name    : PI.InvTopW.algebraMap_mem_intOE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:50.843713+00:00
 -- url     : https://prove2.me/theorems/c0692aa1-2787-45c7-96e2-247ef566b3a9

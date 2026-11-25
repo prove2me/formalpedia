@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglChordFactor_Wk_coeff_mul_second_variable
 -- name    : PI.FglChordFactor.Wk.coeff_mul_second_variable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:19.818881+00:00
 -- url     : https://prove2.me/theorems/7795cc41-4726-405a-af8a-63fa54a91f4e

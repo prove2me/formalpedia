@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_ChowFormSectionPerfect_isChowFormCycle_sum_73ada14765c6
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_ChowFormSectionPerfect_isChowFormCycle_sum_73ada14765c6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:07:08.891943+00:00
 -- url     : https://prove2.me/theorems/1a1cbd9f-63fb-4a3c-b81c-f63f9f881ff5

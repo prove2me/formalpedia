@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjAW_fg_cut
 -- name    : PI.Dv.ProjAW.fg_cut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:01.281138+00:00
 -- url     : https://prove2.me/theorems/8225c443-c182-59fd-96ed-e3414dceb452

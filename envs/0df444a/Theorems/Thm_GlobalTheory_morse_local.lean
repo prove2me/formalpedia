@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_morse_local
 -- name    : GlobalTheory.morse_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:22:15.426174+00:00
 -- url     : https://prove2.me/theorems/2090e90f-1264-489e-bcd3-020e69f026c3

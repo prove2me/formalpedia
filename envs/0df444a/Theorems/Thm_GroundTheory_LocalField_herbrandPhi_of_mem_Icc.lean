@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_herbrandPhi_of_mem_Icc
 -- name    : GroundTheory.LocalField.herbrandPhi_of_mem_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:39:28.75461+00:00
 -- url     : https://prove2.me/theorems/b62e911b-53cb-4680-8478-f755b086ecf5

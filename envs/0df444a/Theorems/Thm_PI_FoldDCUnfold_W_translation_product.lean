@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FoldDCUnfold_W_translation_product
 -- name    : PI.FoldDCUnfold.W.translation_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:45.613519+00:00
 -- url     : https://prove2.me/theorems/7d8c8f47-3ec9-5601-9ffe-284a924fb81a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FoldUnfold_UnitaryGroupMassFormula_count_ae_one
 -- name    : PI.FoldUnfold.UnitaryGroupMassFormula.count_ae_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:31:11.670798+00:00
 -- url     : https://prove2.me/theorems/42d0bacc-74c6-4d6d-999a-c65203cd5b7d

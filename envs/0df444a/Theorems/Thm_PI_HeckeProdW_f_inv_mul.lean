@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HeckeProdW_f_inv_mul
 -- name    : PI.HeckeProdW.f_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:31:00.476863+00:00
 -- url     : https://prove2.me/theorems/5617806c-fd9e-5145-8c0b-7a9c16707523

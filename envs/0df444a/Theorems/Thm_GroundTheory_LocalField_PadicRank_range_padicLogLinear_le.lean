@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_PadicRank_range_padicLogLinear_le
 -- name    : GroundTheory.LocalField.PadicRank.range_padicLogLinear_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:44:56.590868+00:00
 -- url     : https://prove2.me/theorems/72f7e409-5839-4c98-9aaa-a216f580ee4b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirrorSection__conj_n_ea3c2f1eea26
 -- name    : P2M_PI_MirrorSection__conj_n_ea3c2f1eea26
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:57:14.865119+00:00
 -- url     : https://prove2.me/theorems/18957bb1-6c5e-4e47-b38c-e1100ed10fe0

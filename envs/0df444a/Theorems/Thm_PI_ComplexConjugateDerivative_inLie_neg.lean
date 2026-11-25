@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ComplexConjugateDerivative_inLie_neg
 -- name    : PI.ComplexConjugateDerivative.inLie_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:26:23.810851+00:00
 -- url     : https://prove2.me/theorems/d7c6051b-db15-4417-86cc-cadad345681d

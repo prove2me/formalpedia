@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GaugeCharW_extChar
 -- name    : PI.GaugeCharW.extChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:30.721645+00:00
 -- url     : https://prove2.me/theorems/e2c558b4-1b48-4c23-b017-5c157c8e58f8

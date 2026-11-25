@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_HornW_sq_conj
 -- name    : PI.ET.HornW.sq_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:48.803946+00:00
 -- url     : https://prove2.me/theorems/8de1ec50-3a77-4647-89ec-50cb7661688d

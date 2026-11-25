@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_heisForm_nondegenerate_cc62763bbee2
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_heisForm_nondegenerate_cc62763bbee2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:00:47.416012+00:00
 -- url     : https://prove2.me/theorems/e444a86c-615d-470a-9466-10181ad71d02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_evI_infDiag
 -- name    : PI.AlgValsFin.W.evI_infDiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:23:15.958291+00:00
 -- url     : https://prove2.me/theorems/e726b6ff-a88e-4566-a1f9-5b1a44b883f4

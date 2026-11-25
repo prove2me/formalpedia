@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeDimOfChowForm_hypotheses_inhabited_5ea052711d29
 -- name    : P2M_GroundTheory_Heights__Heights_ConeDimOfChowForm_hypotheses_inhabited_5ea052711d29
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:21:08.880997+00:00
 -- url     : https://prove2.me/theorems/fc4a1dba-c355-5f60-9530-b4521a4e2c37

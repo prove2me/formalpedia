@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_zerosFinite
 -- name    : PI.EF.zerosFinite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:24:56.900798+00:00
 -- url     : https://prove2.me/theorems/53d74578-8f49-42fd-8d3c-633dcc7ce5b8

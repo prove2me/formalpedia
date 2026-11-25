@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTNum_card_erase_Icc_min
 -- name    : PI.GTNum.card_erase_Icc_min
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:30:55.654374+00:00
 -- url     : https://prove2.me/theorems/c3825118-7dd7-4fbe-961b-f19814e67c9c

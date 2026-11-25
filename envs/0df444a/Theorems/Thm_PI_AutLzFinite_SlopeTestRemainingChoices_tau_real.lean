@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AutLzFinite_SlopeTestRemainingChoices_tau_real
 -- name    : PI.AutLzFinite.SlopeTestRemainingChoices.tau_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:23:43.778602+00:00
 -- url     : https://prove2.me/theorems/db35f397-82f2-4226-9fa2-3b095c1c9c00

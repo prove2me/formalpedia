@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FGTFG_peel
 -- name    : PI.FGTFG.peel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:30:06.92438+00:00
 -- url     : https://prove2.me/theorems/3cfb8cdf-3037-470f-b5ec-e570144551a1

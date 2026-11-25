@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_conductor_mul_mem_adjoin_of_separable
 -- name    : GlobalTheory.T.exists_conductor_mul_mem_adjoin_of_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:34:46.480235+00:00
 -- url     : https://prove2.me/theorems/749818a6-36ce-4fea-94a7-b0f112b80acb

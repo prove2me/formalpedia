@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMirBoundW_addChar_sum
 -- name    : PI.GGMirBoundW.addChar_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:57:46.411252+00:00
 -- url     : https://prove2.me/theorems/ebb85168-4ca8-4ae8-bf43-2f2c5599e3b3

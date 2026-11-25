@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FT_stab_mul_Xc
 -- name    : PI.FT.stab_mul_Xc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:29:58.413965+00:00
 -- url     : https://prove2.me/theorems/35ef06dc-910f-42f7-aaac-98be243d46a3

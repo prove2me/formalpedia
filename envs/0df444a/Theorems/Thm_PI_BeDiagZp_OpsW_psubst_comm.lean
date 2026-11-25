@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_OpsW_psubst_comm
 -- name    : PI.BeDiagZp.OpsW.psubst_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:24:53.636281+00:00
 -- url     : https://prove2.me/theorems/d505361c-8204-5bac-95c0-98920a12982e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_log_facts
 -- name    : PI.EF.PK.log_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:47.537028+00:00
 -- url     : https://prove2.me/theorems/21c10c2e-827d-5ce6-beec-64020f6c57b7

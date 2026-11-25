@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_isOpen_veluU
 -- name    : PI.GalTorsConj.W.isOpen_veluU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:31:46.03309+00:00
 -- url     : https://prove2.me/theorems/c70b6709-d078-4ac1-a398-d71f7f74fdb8

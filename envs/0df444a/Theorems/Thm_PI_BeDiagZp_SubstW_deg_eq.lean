@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_SubstW_deg_eq
 -- name    : PI.BeDiagZp.SubstW.deg_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:24:52.710722+00:00
 -- url     : https://prove2.me/theorems/3742c8bb-740d-586e-afea-7fa574cce1b5

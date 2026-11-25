@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_exists_nhds_eq_ptOver
 -- name    : GlobalTheory.WeierstrassCurve.exists_nhds_eq_ptOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:53:11.188283+00:00
 -- url     : https://prove2.me/theorems/1f355192-2ea0-5e50-a4f0-a9e04b54951a

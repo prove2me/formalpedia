@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_RedOps_inner_posOp
 -- name    : PI.FockOneDegW.RedOps.inner_posOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:32:02.984083+00:00
 -- url     : https://prove2.me/theorems/3cf8974b-307c-508d-80af-fec34b676891

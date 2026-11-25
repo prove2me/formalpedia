@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfA_unfold_stab
 -- name    : PI.AprimeInfA.unfold_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:05:23.720974+00:00
 -- url     : https://prove2.me/theorems/f413d683-6f4e-5560-ad6a-00fe712ea810

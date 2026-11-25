@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_KSum_kappa_sum_holds
 -- name    : Formalism.L2.Th1.B.KSum.kappa_sum_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:04:25.706826+00:00
 -- url     : https://prove2.me/theorems/7844601f-8fcf-580f-8168-a31f77e1ab0c

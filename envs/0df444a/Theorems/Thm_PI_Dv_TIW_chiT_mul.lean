@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_chiT_mul
 -- name    : PI.Dv.TIW.chiT_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:55.516797+00:00
 -- url     : https://prove2.me/theorems/b5167d82-f210-4851-bca8-13b32cfecd6d

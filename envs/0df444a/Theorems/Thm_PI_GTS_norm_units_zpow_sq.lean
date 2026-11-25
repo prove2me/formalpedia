@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTS_norm_units_zpow_sq
 -- name    : PI.GTS.norm_units_zpow_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:31:24.415537+00:00
 -- url     : https://prove2.me/theorems/6444aa43-b2fa-4ab4-a1a0-7232069bf1f3

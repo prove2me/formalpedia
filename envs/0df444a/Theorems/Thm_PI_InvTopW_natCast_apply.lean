@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_natCast_apply
 -- name    : PI.InvTopW.natCast_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:08:37.357103+00:00
 -- url     : https://prove2.me/theorems/971c3290-2e0e-4d4b-a402-300b0923350b

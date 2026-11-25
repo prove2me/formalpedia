@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTNum_sum_range_le_tele
 -- name    : PI.GTNum.sum_range_le_tele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:30:28.271994+00:00
 -- url     : https://prove2.me/theorems/4fc205fb-2851-4fdb-bb01-064e859ccb6c

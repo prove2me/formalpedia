@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_vAdd_unit
 -- name    : PI.DvRows.vAdd_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:28:51.408125+00:00
 -- url     : https://prove2.me/theorems/251e9153-cf7f-4745-aa8a-8abdac0b1568

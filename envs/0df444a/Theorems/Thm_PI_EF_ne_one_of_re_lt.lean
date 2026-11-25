@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_ne_one_of_re_lt
 -- name    : PI.EF.ne_one_of_re_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:52.182325+00:00
 -- url     : https://prove2.me/theorems/6dc0699a-4a5b-5830-b323-9db8e660709e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_harmonic_submodule
 -- name    : PI.FockOneDegW.harmonic_submodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:30:10.078046+00:00
 -- url     : https://prove2.me/theorems/4a743fa6-1fbd-415c-8d23-dde26f8cd6c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_SubstW_integral_iff
 -- name    : PI.BeDiagZp.SubstW.integral_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:24:58.924679+00:00
 -- url     : https://prove2.me/theorems/696d7f69-8e6a-4a93-99ad-d226b99d2163

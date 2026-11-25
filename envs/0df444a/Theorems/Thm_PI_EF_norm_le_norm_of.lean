@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_norm_le_norm_of
 -- name    : PI.EF.norm_le_norm_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:39.586851+00:00
 -- url     : https://prove2.me/theorems/48069a11-7cc9-427b-a93a-d65c0f18b2d8

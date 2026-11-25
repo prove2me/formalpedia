@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjContract_ringKrullDim_imageVar_fd8895e43c69
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjContract_ringKrullDim_imageVar_fd8895e43c69
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:06:12.804616+00:00
 -- url     : https://prove2.me/theorems/ce22a61a-7dcd-4bbd-be25-1c68cda404c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_GrpObj_isSeparable_of_tangentMap_injective
 -- name    : AlgebraicGeometry.GrpObj.isSeparable_of_tangentMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-25T09:28:33.733124+00:00
 -- url     : https://prove2.me/theorems/423130c9-be77-5220-8a3d-7b8f60aea7ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_log_le_two_mul
 -- name    : PI.EF.PK.log_le_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:54.607348+00:00
 -- url     : https://prove2.me/theorems/e7faa3b6-8b37-47eb-92d7-dfad82808e6f

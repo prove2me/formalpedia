@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AutLzFinite_SlopeTestRemainingChoices_finite_of_integral_bound
 -- name    : PI.AutLzFinite.SlopeTestRemainingChoices.finite_of_integral_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:24:22.505924+00:00
 -- url     : https://prove2.me/theorems/c07665cb-ad57-4f04-ad6d-99bf05f2a224

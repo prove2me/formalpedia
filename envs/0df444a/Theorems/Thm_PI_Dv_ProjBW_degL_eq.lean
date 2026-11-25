@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjBW_degL_eq
 -- name    : PI.Dv.ProjBW.degL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:21.528626+00:00
 -- url     : https://prove2.me/theorems/d9c502d9-550f-4638-aacb-3a1d36e103f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchAltPartitionExpansion_alt_partition_add_stair_eq_ef5b2bd149cf
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchAltPartitionExpansion_alt_partition_add_stair_eq_ef5b2bd149cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:20:37.973098+00:00
 -- url     : https://prove2.me/theorems/b2e3b2ee-0755-5d76-8a29-63b8e7775cfc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Loc_gfun_bounds
 -- name    : PI.EF.Loc.gfun_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:01.26289+00:00
 -- url     : https://prove2.me/theorems/5b94e44f-105d-45a3-b31f-99e92bef2fbc

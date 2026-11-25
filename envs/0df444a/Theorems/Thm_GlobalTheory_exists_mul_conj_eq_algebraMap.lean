@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_mul_conj_eq_algebraMap
 -- name    : GlobalTheory.exists_mul_conj_eq_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:20:44.806802+00:00
 -- url     : https://prove2.me/theorems/e960a057-c138-5908-b31b-54c7703698e5

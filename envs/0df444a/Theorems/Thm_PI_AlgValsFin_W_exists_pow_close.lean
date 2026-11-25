@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_exists_pow_close
 -- name    : PI.AlgValsFin.W.exists_pow_close
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:22:54.166592+00:00
 -- url     : https://prove2.me/theorems/d40bc439-75d4-5aba-b0a5-e863bca0185d

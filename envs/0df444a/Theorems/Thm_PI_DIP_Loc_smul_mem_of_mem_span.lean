@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DIP_Loc_smul_mem_of_mem_span
 -- name    : PI.DIP.Loc.smul_mem_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:26:27.710493+00:00
 -- url     : https://prove2.me/theorems/04874c18-4a98-4493-a7cb-ef718ff98037

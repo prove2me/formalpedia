@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelMapW_galois_clause
 -- name    : PI.GreenLabelMapW.galois_clause
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:14.243643+00:00
 -- url     : https://prove2.me/theorems/fca444a8-b561-5785-ba88-05778fb8f4d7

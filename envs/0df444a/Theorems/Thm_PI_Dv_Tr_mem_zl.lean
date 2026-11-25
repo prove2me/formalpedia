@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_mem_zl
 -- name    : PI.Dv.Tr.mem_zl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:15.515955+00:00
 -- url     : https://prove2.me/theorems/2012c1fb-5c79-4140-a83f-5441f92f6580

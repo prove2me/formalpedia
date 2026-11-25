@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HwUniqW_fix_of_smul
 -- name    : PI.HwUniqW.fix_of_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:09:29.389803+00:00
 -- url     : https://prove2.me/theorems/210089b8-4595-56e8-9f2b-81506a541783

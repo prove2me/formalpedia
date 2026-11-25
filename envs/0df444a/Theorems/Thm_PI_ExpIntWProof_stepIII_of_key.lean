@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExpIntWProof_stepIII_of_key
 -- name    : PI.ExpIntWProof.stepIII_of_key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:25:38.53271+00:00
 -- url     : https://prove2.me/theorems/9fa73e62-1f52-4416-bc42-826fc72d6776

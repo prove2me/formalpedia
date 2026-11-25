@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Diag_coeff_of_diag
 -- name    : PI.FockOneDegW.Diag.coeff_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:54.760516+00:00
 -- url     : https://prove2.me/theorems/42f49d69-7ee2-4001-a441-76b9c6328d24

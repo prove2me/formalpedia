@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_sc_mono
 -- name    : PI.IsoDetW.Loc.sc_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:08:22.951143+00:00
 -- url     : https://prove2.me/theorems/4fca4cda-3fdd-4384-b123-a5c366c8fae6

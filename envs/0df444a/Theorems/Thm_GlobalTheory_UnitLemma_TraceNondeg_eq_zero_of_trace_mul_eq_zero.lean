@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_TraceNondeg_eq_zero_of_trace_mul_eq_zero
 -- name    : GlobalTheory.UnitLemma.TraceNondeg.eq_zero_of_trace_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:31:55.417123+00:00
 -- url     : https://prove2.me/theorems/b5c670f1-d4ba-4865-9954-b9d7fc624a2e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_MapThetaTInvariant_secondCountableTopology_GL_9d991f300e31
 -- name    : P2M_GroundTheory_Variant__N1_MapThetaTInvariant_secondCountableTopology_GL_9d991f300e31
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:56:17.12766+00:00
 -- url     : https://prove2.me/theorems/f967c640-134e-4e28-94bc-6e50d14c018c

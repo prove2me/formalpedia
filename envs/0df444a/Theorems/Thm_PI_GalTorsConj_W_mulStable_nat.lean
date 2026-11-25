@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_mulStable_nat
 -- name    : PI.GalTorsConj.W.mulStable_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:31:39.554072+00:00
 -- url     : https://prove2.me/theorems/7c00c5d6-8cc4-4c1f-81d7-77f6b0144cca

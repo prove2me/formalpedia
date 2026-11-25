@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CharIdemW_central
 -- name    : PI.CharIdemW.central
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:58:20.065581+00:00
 -- url     : https://prove2.me/theorems/532b6a78-2c89-4cda-a6d0-bb574304f889

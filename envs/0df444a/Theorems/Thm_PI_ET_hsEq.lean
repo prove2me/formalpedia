@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_hsEq
 -- name    : PI.ET.hsEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:22.71381+00:00
 -- url     : https://prove2.me/theorems/618dd880-7f23-5e4c-88c4-91766f7cfcc0

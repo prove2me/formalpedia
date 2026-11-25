@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AmpRootCommon_inv_superdiag
 -- name    : PI.AmpRootCommon.inv_superdiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:23:03.92419+00:00
 -- url     : https://prove2.me/theorems/0462b8f4-fcb7-491f-af85-1481719765c9

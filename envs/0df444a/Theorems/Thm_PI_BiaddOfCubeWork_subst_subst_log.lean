@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BiaddOfCubeWork_subst_subst_log
 -- name    : PI.BiaddOfCubeWork.subst_subst_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:25:16.013889+00:00
 -- url     : https://prove2.me/theorems/df7cb71a-f3e7-461b-9d56-b31f72515977

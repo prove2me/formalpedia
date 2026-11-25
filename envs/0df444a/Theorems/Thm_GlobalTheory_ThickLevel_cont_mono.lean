@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickLevel_cont_mono
 -- name    : GlobalTheory.ThickLevel.cont_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:47:23.962307+00:00
 -- url     : https://prove2.me/theorems/af7ba130-de91-4a79-b4f2-92a68bb75476

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointwiseLelong_main_bound_fdf9c91e7ac8
 -- name    : P2M_GroundTheory_Heights__Heights_PointwiseLelong_main_bound_fdf9c91e7ac8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:14:57.066963+00:00
 -- url     : https://prove2.me/theorems/2743d697-fa69-4f5f-a594-4591b0a91e9b

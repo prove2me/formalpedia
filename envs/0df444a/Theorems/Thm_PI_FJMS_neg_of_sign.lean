@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMS_neg_of_sign
 -- name    : PI.FJMS.neg_of_sign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:30:47.793789+00:00
 -- url     : https://prove2.me/theorems/c39cb29a-5eff-419f-9df8-788abce65399

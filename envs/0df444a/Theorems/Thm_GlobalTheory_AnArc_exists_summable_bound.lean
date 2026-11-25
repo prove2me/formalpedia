@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_exists_summable_bound
 -- name    : GlobalTheory.AnArc.exists_summable_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:57:48.494081+00:00
 -- url     : https://prove2.me/theorems/d3f55c58-89ee-4679-9b27-01b540b79db7

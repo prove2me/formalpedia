@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tuple_jacobian_rightMul_isometry
 -- name    : GlobalTheory.T.tuple_jacobian_rightMul_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:35:06.59281+00:00
 -- url     : https://prove2.me/theorems/de4751bc-f17a-49c6-b66a-11f535aac016

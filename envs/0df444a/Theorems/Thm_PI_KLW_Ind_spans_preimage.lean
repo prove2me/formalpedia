@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Ind_spans_preimage
 -- name    : PI.KLW.Ind.spans_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:32:46.038726+00:00
 -- url     : https://prove2.me/theorems/a2dc9e75-4b91-42c4-8378-bae0ddd230cc

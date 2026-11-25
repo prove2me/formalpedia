@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FdFjNearSup_W_flow_eq
 -- name    : PI.FdFjNearSup.W.flow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:29:47.049424+00:00
 -- url     : https://prove2.me/theorems/49b81164-2a17-40ba-90a2-2a3fae9dc092

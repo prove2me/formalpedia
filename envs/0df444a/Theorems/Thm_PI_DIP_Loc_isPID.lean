@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DIP_Loc_isPID
 -- name    : PI.DIP.Loc.isPID
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:26:14.446058+00:00
 -- url     : https://prove2.me/theorems/4102c158-7c70-5595-b341-51eedf082bf5

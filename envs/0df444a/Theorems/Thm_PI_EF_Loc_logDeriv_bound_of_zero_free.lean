@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Loc_logDeriv_bound_of_zero_free
 -- name    : PI.EF.Loc.logDeriv_bound_of_zero_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:28:45.387864+00:00
 -- url     : https://prove2.me/theorems/cfa485b2-2a99-40b0-8e50-722eb55253f9

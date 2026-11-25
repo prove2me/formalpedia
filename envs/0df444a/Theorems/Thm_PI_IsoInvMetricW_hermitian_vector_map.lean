@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoInvMetricW_hermitian_vector_map
 -- name    : PI.IsoInvMetricW.hermitian_vector_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:13:00.955391+00:00
 -- url     : https://prove2.me/theorems/866fd970-9ecc-5783-9b6c-6f232c7d27e1

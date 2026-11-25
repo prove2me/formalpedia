@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FundCycleBaseChange_proof_63fe28d8b32b
 -- name    : P2M_GroundTheory_Heights__Heights_FundCycleBaseChange_proof_63fe28d8b32b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:20:27.916445+00:00
 -- url     : https://prove2.me/theorems/ab82060c-bf14-5c8b-8d8f-15423355c4fa

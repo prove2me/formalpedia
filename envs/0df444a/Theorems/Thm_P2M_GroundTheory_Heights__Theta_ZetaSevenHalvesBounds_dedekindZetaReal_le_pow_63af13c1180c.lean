@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_ZetaSevenHalvesBounds_dedekindZetaReal_le_pow_63af13c1180c
 -- name    : P2M_GroundTheory_Heights__Theta_ZetaSevenHalvesBounds_dedekindZetaReal_le_pow_63af13c1180c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:52:55.789638+00:00
 -- url     : https://prove2.me/theorems/2e201004-9f10-4f66-a11e-013491b58f23

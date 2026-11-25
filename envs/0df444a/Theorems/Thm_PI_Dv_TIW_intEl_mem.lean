@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_intEl_mem
 -- name    : PI.Dv.TIW.intEl_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:33:02.27121+00:00
 -- url     : https://prove2.me/theorems/7e47323f-a5cc-5b6c-b594-32d20c5f58ed

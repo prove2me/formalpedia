@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_coeff_sum_of
 -- name    : PI.Dv.TIW.coeff_sum_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:28:49.510682+00:00
 -- url     : https://prove2.me/theorems/368d1a53-bc54-4f7c-8329-a748c6d9000f

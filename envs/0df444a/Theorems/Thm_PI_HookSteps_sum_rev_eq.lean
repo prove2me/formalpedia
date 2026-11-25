@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_sum_rev_eq
 -- name    : PI.HookSteps.sum_rev_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:08:27.446954+00:00
 -- url     : https://prove2.me/theorems/84ea166c-1f05-4a9b-a1a0-8fa1f9691d1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_weil_parabolic
 -- name    : GlobalTheory.SW.weil_parabolic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:45:57.136291+00:00
 -- url     : https://prove2.me/theorems/f03d8d0b-b8d9-4362-9044-83ef265e0018

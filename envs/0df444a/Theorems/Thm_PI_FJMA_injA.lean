@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMA_injA
 -- name    : PI.FJMA.injA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:29:52.769652+00:00
 -- url     : https://prove2.me/theorems/bca0597d-7585-4148-9177-72ff284af210

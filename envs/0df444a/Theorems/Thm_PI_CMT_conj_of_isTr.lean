@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CMT_conj_of_isTr
 -- name    : PI.CMT.conj_of_isTr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:26:29.45828+00:00
 -- url     : https://prove2.me/theorems/60097a03-7752-4b2e-b1f7-035e7de6774f

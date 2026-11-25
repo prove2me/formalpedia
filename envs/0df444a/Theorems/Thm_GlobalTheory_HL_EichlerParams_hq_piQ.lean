@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_EichlerParams_hq_piQ
 -- name    : GlobalTheory.HL.EichlerParams.hq_piQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:58:46.744796+00:00
 -- url     : https://prove2.me/theorems/4d703a6b-feff-4415-8320-ed56b76fd5c6

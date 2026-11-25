@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IwaMeasEx_MF_measure_eq_relIndex_mul
 -- name    : PI.IwaMeasEx.MF.measure_eq_relIndex_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:15:07.003606+00:00
 -- url     : https://prove2.me/theorems/b7537a1f-4a28-5c16-86a7-e9d27b9d931e

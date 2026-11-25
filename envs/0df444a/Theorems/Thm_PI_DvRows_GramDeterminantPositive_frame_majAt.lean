@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_GramDeterminantPositive_frame_majAt
 -- name    : PI.DvRows.GramDeterminantPositive.frame_majAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:31:28.709948+00:00
 -- url     : https://prove2.me/theorems/7e4b3076-6a89-4ab6-b7bb-a35a44544688

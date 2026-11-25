@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_vert_inv_right
 -- name    : PI.EF.PK.vert_inv_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:28:28.497239+00:00
 -- url     : https://prove2.me/theorems/21a217a7-9a3c-45d3-b719-5e0387f955d4

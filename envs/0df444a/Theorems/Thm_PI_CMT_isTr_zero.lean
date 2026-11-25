@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CMT_isTr_zero
 -- name    : PI.CMT.isTr_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:25:56.15046+00:00
 -- url     : https://prove2.me/theorems/a565a40f-29c4-577e-8179-96689c78045c

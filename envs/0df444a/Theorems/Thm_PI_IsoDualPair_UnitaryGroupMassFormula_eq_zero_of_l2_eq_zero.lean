@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDualPair_UnitaryGroupMassFormula_eq_zero_of_l2_eq_zero
 -- name    : PI.IsoDualPair.UnitaryGroupMassFormula.eq_zero_of_l2_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:09:15.616399+00:00
 -- url     : https://prove2.me/theorems/f5ecad98-da63-4794-99ee-123331bd671e

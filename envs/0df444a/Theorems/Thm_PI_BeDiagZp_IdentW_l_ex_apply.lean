@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_IdentW_l_ex_apply
 -- name    : PI.BeDiagZp.IdentW.l_ex_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:25:03.122645+00:00
 -- url     : https://prove2.me/theorems/6e274cae-7a68-5ad5-a51f-fff5dc56403b

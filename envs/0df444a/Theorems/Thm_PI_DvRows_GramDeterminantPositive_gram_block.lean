@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_GramDeterminantPositive_gram_block
 -- name    : PI.DvRows.GramDeterminantPositive.gram_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:29.072102+00:00
 -- url     : https://prove2.me/theorems/136d2989-cd37-4888-9826-2b7912be7f61

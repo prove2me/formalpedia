@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_expT_add
 -- name    : PI.BeDiagZp.expT_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:25:23.472551+00:00
 -- url     : https://prove2.me/theorems/7c0d7be3-2434-4f34-97ec-d56ffcb8b401

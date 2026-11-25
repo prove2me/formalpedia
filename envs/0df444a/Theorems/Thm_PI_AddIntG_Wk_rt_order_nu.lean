@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_rt_order_nu
 -- name    : PI.AddIntG.Wk.rt_order_nu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:13:02.913903+00:00
 -- url     : https://prove2.me/theorems/7843f4df-c901-4eba-870f-4f6ce1b793bb

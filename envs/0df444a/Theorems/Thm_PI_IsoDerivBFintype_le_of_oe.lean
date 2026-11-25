@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDerivBFintype_le_of_oe
 -- name    : PI.IsoDerivBFintype.le_of_oe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:08:16.358369+00:00
 -- url     : https://prove2.me/theorems/43aa3822-15a2-4e36-98d0-d9e30051654a

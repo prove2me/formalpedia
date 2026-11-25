@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HwUniqW_unitary_of_blockW_mem
 -- name    : PI.HwUniqW.unitary_of_blockW_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:55.521315+00:00
 -- url     : https://prove2.me/theorems/a342ce54-9649-4830-a1c0-c847ea2a62d9

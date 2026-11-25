@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_select
 -- name    : PI.Dv.Tr.select
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:32:30.557811+00:00
 -- url     : https://prove2.me/theorems/a579bbea-82d2-5e1d-8aac-45095da057b8

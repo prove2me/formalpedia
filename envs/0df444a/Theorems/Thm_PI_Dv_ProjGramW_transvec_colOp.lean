@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjGramW_transvec_colOp
 -- name    : PI.Dv.ProjGramW.transvec_colOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:28:18.037437+00:00
 -- url     : https://prove2.me/theorems/f57139a8-0bcb-45ec-a9e8-7218e63e0504

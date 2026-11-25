@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExpIntWProof_p_mem
 -- name    : PI.ExpIntWProof.p_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:50.428586+00:00
 -- url     : https://prove2.me/theorems/232e51c9-a203-4ca5-b5cb-879568ae00be

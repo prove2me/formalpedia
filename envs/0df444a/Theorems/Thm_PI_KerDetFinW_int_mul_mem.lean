@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerDetFinW_int_mul_mem
 -- name    : PI.KerDetFinW.int_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:32:29.066108+00:00
 -- url     : https://prove2.me/theorems/7a8c9a58-8cba-5238-8d03-f116631b7ea0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelMapW_gen_ne_zero
 -- name    : PI.GreenLabelMapW.gen_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:28.669352+00:00
 -- url     : https://prove2.me/theorems/e39dbf83-408d-557d-be7b-806560d1eb7e

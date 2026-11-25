@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_inertiaDegree_unramifiedDegree_fixingSubgroup
 -- name    : GroundTheory.LocalField.inertiaDegree_unramifiedDegree_fixingSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:22:24.306189+00:00
 -- url     : https://prove2.me/theorems/5b85f11d-252a-4244-962e-34ee7fa06136

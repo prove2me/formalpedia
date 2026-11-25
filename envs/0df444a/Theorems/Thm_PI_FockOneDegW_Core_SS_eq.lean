@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Core_SS_eq
 -- name    : PI.FockOneDegW.Core.SS_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:32:15.833715+00:00
 -- url     : https://prove2.me/theorems/2ff5fc70-c3f1-4fdb-b1e2-d756033672ec

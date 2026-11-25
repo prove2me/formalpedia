@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvIdealIdxPiWork_relIndex_pi_idS
 -- name    : PI.InvIdealIdxPiWork.relIndex_pi_idS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:14.087949+00:00
 -- url     : https://prove2.me/theorems/fd7eba08-8955-59ea-9ef4-3e75ceda917b

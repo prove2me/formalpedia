@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_IsLowerUni_eq_one
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.IsLowerUni.eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:58:31.055422+00:00
 -- url     : https://prove2.me/theorems/8608a0c1-ddc7-5224-bbfd-2636031db7d2

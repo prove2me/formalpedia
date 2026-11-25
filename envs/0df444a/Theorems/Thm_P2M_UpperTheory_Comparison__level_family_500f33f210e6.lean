@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Comparison__level_family_500f33f210e6
 -- name    : P2M_UpperTheory_Comparison__level_family_500f33f210e6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:22:00.938556+00:00
 -- url     : https://prove2.me/theorems/88d2b998-93b7-4ba9-9ffa-59bd0636d658

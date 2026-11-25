@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ArtSch_WittLiftWork_seq_succ_sub
 -- name    : PI.ArtSch.WittLiftWork.seq_succ_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:23:55.874731+00:00
 -- url     : https://prove2.me/theorems/eeaa8232-fd5a-4b7a-841a-3177e8baa2d5

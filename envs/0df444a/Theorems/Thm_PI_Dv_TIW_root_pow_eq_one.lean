@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_root_pow_eq_one
 -- name    : PI.Dv.TIW.root_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:28:09.743514+00:00
 -- url     : https://prove2.me/theorems/faf6dc62-82f9-5663-99dc-d4d0d63b434f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CubicExponentialFactor_Wk_wq_int
 -- name    : PI.CubicExponentialFactor.Wk.wq_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:26:41.226182+00:00
 -- url     : https://prove2.me/theorems/af0d5ed8-de33-4bd8-8360-5b51355ee60b

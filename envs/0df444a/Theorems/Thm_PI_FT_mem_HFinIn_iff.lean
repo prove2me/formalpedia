@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FT_mem_HFinIn_iff
 -- name    : PI.FT.mem_HFinIn_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:29:40.071513+00:00
 -- url     : https://prove2.me/theorems/942d8614-a02e-4e01-9992-f2b1dd5b3baf

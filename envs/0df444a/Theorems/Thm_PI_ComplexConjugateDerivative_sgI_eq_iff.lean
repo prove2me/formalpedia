@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ComplexConjugateDerivative_sgI_eq_iff
 -- name    : PI.ComplexConjugateDerivative.sgI_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:26:39.931527+00:00
 -- url     : https://prove2.me/theorems/f2b80942-aee0-5f99-b1e6-3bd3c4ae8a19

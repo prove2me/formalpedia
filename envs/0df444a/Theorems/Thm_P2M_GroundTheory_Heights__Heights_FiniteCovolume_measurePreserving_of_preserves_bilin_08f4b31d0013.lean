@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_measurePreserving_of_preserves_bilin_08f4b31d0013
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_measurePreserving_of_preserves_bilin_08f4b31d0013
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:17:53.584321+00:00
 -- url     : https://prove2.me/theorems/b6680a5c-72ac-4e8b-87f8-224b36d18a12

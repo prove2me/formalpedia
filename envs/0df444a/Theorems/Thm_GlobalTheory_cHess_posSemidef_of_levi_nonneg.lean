@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cHess_posSemidef_of_levi_nonneg
 -- name    : GlobalTheory.cHess_posSemidef_of_levi_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:07:53.545168+00:00
 -- url     : https://prove2.me/theorems/345d1f18-e239-4734-a971-4327f924067f

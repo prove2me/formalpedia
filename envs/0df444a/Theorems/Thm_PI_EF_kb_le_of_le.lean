@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_kb_le_of_le
 -- name    : PI.EF.kb_le_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:52.90415+00:00
 -- url     : https://prove2.me/theorems/955b252f-15bf-5b12-9c16-3d58d5012ac4

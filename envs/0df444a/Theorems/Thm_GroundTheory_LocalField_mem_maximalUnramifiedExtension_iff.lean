@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_mem_maximalUnramifiedExtension_iff
 -- name    : GroundTheory.LocalField.mem_maximalUnramifiedExtension_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:23:21.495363+00:00
 -- url     : https://prove2.me/theorems/7fbfc6ee-4176-4143-88dd-6435b1285451

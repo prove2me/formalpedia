@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_PairClass_trace_nondeg
 -- name    : GlobalTheory.UnitLemma.PairClass.trace_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:37:11.935994+00:00
 -- url     : https://prove2.me/theorems/09dd8fc5-8183-433e-9cac-93bb6ec25df9

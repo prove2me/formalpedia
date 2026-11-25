@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMean_setAverage_log_fst_normalized_c0546c37a0db
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMean_setAverage_log_fst_normalized_c0546c37a0db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:38:12.303782+00:00
 -- url     : https://prove2.me/theorems/244d13f3-2201-4bdd-b85c-d2e28f8c154e

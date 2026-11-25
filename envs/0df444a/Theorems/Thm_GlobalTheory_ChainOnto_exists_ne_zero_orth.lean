@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChainOnto_exists_ne_zero_orth
 -- name    : GlobalTheory.ChainOnto.exists_ne_zero_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:20:27.958259+00:00
 -- url     : https://prove2.me/theorems/2524016b-de7a-529f-aa13-4d247843757c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_SgnProd_sgnLat_prod
 -- name    : GlobalTheory.UnitLemma.SgnProd.sgnLat_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:35:14.127777+00:00
 -- url     : https://prove2.me/theorems/6bc7f770-769c-4914-baa0-7290401649aa

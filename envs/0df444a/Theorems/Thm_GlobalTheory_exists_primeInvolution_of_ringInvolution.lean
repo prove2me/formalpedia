@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_primeInvolution_of_ringInvolution
 -- name    : GlobalTheory.exists_primeInvolution_of_ringInvolution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:20:47.841408+00:00
 -- url     : https://prove2.me/theorems/0243beae-b02f-5e6e-ad79-478c9497177a

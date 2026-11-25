@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_hor_side
 -- name    : PI.EF.PK.hor_side
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:28:31.472055+00:00
 -- url     : https://prove2.me/theorems/12267535-4fb0-4e62-aab7-86b4654ba151

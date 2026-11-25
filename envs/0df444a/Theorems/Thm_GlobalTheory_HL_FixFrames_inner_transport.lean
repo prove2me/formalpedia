@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FixFrames_inner_transport
 -- name    : GlobalTheory.HL.FixFrames.inner_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:46:32.950928+00:00
 -- url     : https://prove2.me/theorems/42ea12f8-1168-4da8-9c71-2c8616982430

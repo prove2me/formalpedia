@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_re_det_gram_sumElim_ge_6194b3aa88ab
 -- name    : P2M_GroundTheory_Heights__Heights_re_det_gram_sumElim_ge_6194b3aa88ab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:49:50.342564+00:00
 -- url     : https://prove2.me/theorems/ee69d50d-0021-4291-9d5a-326ca2207bcf

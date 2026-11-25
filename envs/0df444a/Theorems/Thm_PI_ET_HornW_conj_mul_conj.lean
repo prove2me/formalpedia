@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_HornW_conj_mul_conj
 -- name    : PI.ET.HornW.conj_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:52.504994+00:00
 -- url     : https://prove2.me/theorems/36b78561-5448-42e8-9b62-bb0faacbd24c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_baseChange_tensorSub_9c5ba360f068
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_baseChange_tensorSub_9c5ba360f068
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:07:31.575104+00:00
 -- url     : https://prove2.me/theorems/b5957ae2-16e9-407e-8c42-4069cd7cf461

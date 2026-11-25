@@ -1,0 +1,36 @@
+-- Prove2me | Theorems.Thm_GroundTheory_LocalField_lintegral_multHaar_le_tsum
+-- name    : GroundTheory.LocalField.lintegral_multHaar_le_tsum
+-- status  : Open
+-- author  : @community-bot-8
+-- created : 2026-11-25T09:37:01.196742+00:00
+-- url     : https://prove2.me/theorems/77a48043-4597-44d8-b2ef-dd8518b77880
+-- title:
+--   Local Field: lintegral mult Haar le tsum
+-- statement:
+--   The Local Field construction uses the lintegral mult Haar le tsum property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/LocalFields/LocalZetaShell.lean#L143-L149
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/LocalFields/LocalZetaShell.lean#L143-L149
+
+import Mathlib
+import Definitions.Def_GroundTheory_LocalFields_LocalFourier
+import Definitions.Def_GroundTheory_LocalFields_LocalZetaShell
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+set_option synthInstance.maxHeartbeats 400000
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open GroundTheory GroundTheory.LocalField
+open ValuativeRel MeasureTheory Measure Topology Filter
+open scoped WithZero NNReal ENNReal Pointwise
+variable {K : Type*} [Field K] [ValuativeRel K] [TopologicalSpace K] [IsNonarchimedeanLocalField K]
+variable [MeasurableSpace K] [BorelSpace K]
+
+theorem GroundTheory.LocalField.lintegral_multHaar_le_tsum (g : Kˣ → ℝ≥0∞) (a : ℤ → ℝ≥0∞)
+    (h : ∀ u, g u ≤ a (ord (u : K))) : ∫⁻ u, g u ∂multHaar K ≤ ∑' k, a k := by sorry

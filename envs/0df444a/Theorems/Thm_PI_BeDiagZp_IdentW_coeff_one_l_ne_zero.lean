@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_IdentW_coeff_one_l_ne_zero
 -- name    : PI.BeDiagZp.IdentW.coeff_one_l_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:24:27.919699+00:00
 -- url     : https://prove2.me/theorems/372073c0-325a-4b0b-a366-738401e35371

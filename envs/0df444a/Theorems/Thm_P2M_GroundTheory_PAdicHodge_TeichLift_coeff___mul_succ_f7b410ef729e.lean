@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_PAdicHodge_TeichLift_coeff___mul_succ_f7b410ef729e
 -- name    : P2M_GroundTheory_PAdicHodge_TeichLift_coeff___mul_succ_f7b410ef729e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:34:46.495274+00:00
 -- url     : https://prove2.me/theorems/1ae8d825-a4ab-4f50-92fa-fcc9156d4722

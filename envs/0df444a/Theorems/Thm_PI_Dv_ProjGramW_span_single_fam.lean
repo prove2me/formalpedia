@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjGramW_span_single_fam
 -- name    : PI.Dv.ProjGramW.span_single_fam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:33.665009+00:00
 -- url     : https://prove2.me/theorems/56338168-4b4f-5a81-ad95-50e75c65d561

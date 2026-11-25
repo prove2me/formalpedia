@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_mem_O_of_pow
 -- name    : PI.Dv.TIW.mem_O_of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:28:20.39451+00:00
 -- url     : https://prove2.me/theorems/d394e799-2428-4d3e-b28c-66a6cb0124e4

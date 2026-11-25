@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMatBoundW_ggMatrixBound_of
 -- name    : PI.GGMatBoundW.ggMatrixBound_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:31:03.305523+00:00
 -- url     : https://prove2.me/theorems/c0a802c9-2443-48ad-a375-a2f048b67622

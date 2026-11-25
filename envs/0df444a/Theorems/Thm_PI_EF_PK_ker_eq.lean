@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_ker_eq
 -- name    : PI.EF.PK.ker_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:28:28.239368+00:00
 -- url     : https://prove2.me/theorems/62ae086d-819d-4a90-ac7e-d96bcb3a26e8

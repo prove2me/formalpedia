@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLP_intertw_zero
 -- name    : PI.Dv.GLP.intertw_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:27:40.125805+00:00
 -- url     : https://prove2.me/theorems/e09b439b-ed1d-4d93-a9a8-c08f8ec3e2eb

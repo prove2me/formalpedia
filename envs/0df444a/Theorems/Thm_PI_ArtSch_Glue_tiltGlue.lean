@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ArtSch_Glue_tiltGlue
 -- name    : PI.ArtSch.Glue.tiltGlue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:23:23.233802+00:00
 -- url     : https://prove2.me/theorems/e2349d59-f92f-5f85-b2d7-b903b208f465

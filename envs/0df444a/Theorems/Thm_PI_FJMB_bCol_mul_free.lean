@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMB_bCol_mul_free
 -- name    : PI.FJMB.bCol_mul_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:30.605282+00:00
 -- url     : https://prove2.me/theorems/64b5a847-44c2-4ac1-8bea-d0c9995d31cb

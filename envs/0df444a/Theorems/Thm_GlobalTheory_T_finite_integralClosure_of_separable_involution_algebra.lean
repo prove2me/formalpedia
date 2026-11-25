@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_integralClosure_of_separable_involution_algebra
 -- name    : GlobalTheory.T.finite_integralClosure_of_separable_involution_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:39:25.722368+00:00
 -- url     : https://prove2.me/theorems/146d4e43-9efa-4acb-92d7-9c4df4ed95e2

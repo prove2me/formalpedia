@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IdealLatticeWork_idealBasis
 -- name    : PI.IdealLatticeWork.idealBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:08:05.168194+00:00
 -- url     : https://prove2.me/theorems/29d0f453-b9f3-5f6f-9e09-5f61a8c2d1a6

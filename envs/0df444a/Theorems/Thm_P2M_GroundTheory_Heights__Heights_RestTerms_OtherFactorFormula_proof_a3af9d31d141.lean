@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_OtherFactorFormula_proof_a3af9d31d141
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_OtherFactorFormula_proof_a3af9d31d141
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:20:18.65059+00:00
 -- url     : https://prove2.me/theorems/2a55c40e-3c51-5dcd-925c-e8a0518eba2a

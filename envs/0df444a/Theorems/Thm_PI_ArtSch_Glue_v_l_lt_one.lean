@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ArtSch_Glue_v_l_lt_one
 -- name    : PI.ArtSch.Glue.v_l_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:23:43.176691+00:00
 -- url     : https://prove2.me/theorems/5fbf577a-9177-582d-b761-aec81db597a4

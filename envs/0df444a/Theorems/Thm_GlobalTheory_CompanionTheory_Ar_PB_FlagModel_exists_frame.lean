@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_FlagModel_exists_frame
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.FlagModel.exists_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:58:45.557803+00:00
 -- url     : https://prove2.me/theorems/ff7e1fd6-d992-54a4-acd2-42c1a390fe99

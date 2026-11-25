@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_root_pow_eq_one
 -- name    : PI.Dv.Tr.root_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:27:48.596652+00:00
 -- url     : https://prove2.me/theorems/11883b3c-afca-5819-a3f8-c38096af732a

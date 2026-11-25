@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_term_frames_congr_mod_theta_unitriangular
 -- name    : GlobalTheory.T.term_frames_congr_mod_theta_unitriangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:49:53.22643+00:00
 -- url     : https://prove2.me/theorems/14e2dc0c-14e7-5cd6-b5b2-3fa3d776b7cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_exists_coercive_of_posDef_51d8eb336b65
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_exists_coercive_of_posDef_51d8eb336b65
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:39:51.444716+00:00
 -- url     : https://prove2.me/theorems/a99dcf95-105f-49a1-ae84-fae787bdfb16

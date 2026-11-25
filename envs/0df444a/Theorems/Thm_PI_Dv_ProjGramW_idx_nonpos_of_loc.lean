@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjGramW_idx_nonpos_of_loc
 -- name    : PI.Dv.ProjGramW.idx_nonpos_of_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:28:26.20602+00:00
 -- url     : https://prove2.me/theorems/9aa60a0b-bc13-4541-b91b-a3cbc1dafbd3

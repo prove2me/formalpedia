@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_SymmFun_sum_esymm_mul_hsymm_065e66db55c6
 -- name    : P2M_GroundTheory_Heights__Theta_SymmFun_sum_esymm_mul_hsymm_065e66db55c6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:52:54.754861+00:00
 -- url     : https://prove2.me/theorems/fb7bd2f2-b762-55a7-9717-a1b6631c7cde

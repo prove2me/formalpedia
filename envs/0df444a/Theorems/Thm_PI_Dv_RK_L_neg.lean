@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_RK_L_neg
 -- name    : PI.Dv.RK.L_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:28:35.179542+00:00
 -- url     : https://prove2.me/theorems/4330eb22-5eb1-4d17-8b95-c662ade73762

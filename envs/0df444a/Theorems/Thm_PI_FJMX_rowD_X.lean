@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_rowD_X
 -- name    : PI.FJMX.rowD_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:32.334296+00:00
 -- url     : https://prove2.me/theorems/359fbe17-a9d7-4947-a451-e51809d52fa9

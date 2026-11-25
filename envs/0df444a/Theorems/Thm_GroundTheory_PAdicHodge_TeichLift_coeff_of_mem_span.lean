@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_coeff_of_mem_span
 -- name    : GroundTheory.PAdicHodge.TeichLift.coeff_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:35:48.73887+00:00
 -- url     : https://prove2.me/theorems/375f793e-84cb-4434-b418-fddb9d4fa865

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CutOffBoundaryBound_integrable_chartDens_a8487f280a6d
 -- name    : P2M_GroundTheory_Heights__Heights_CutOffBoundaryBound_integrable_chartDens_a8487f280a6d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:58:18.223004+00:00
 -- url     : https://prove2.me/theorems/963f8303-670d-4c47-aad6-99eeafe6aba9

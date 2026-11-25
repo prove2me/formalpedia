@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_exists_nbhd
 -- name    : PI.AlgValsFin.W.exists_nbhd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:23:08.061336+00:00
 -- url     : https://prove2.me/theorems/adb57f8f-bdfe-4f24-8836-dfab9e9b8b8f

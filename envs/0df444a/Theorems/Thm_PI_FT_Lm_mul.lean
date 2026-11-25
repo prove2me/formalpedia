@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FT_Lm_mul
 -- name    : PI.FT.Lm_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:45.250197+00:00
 -- url     : https://prove2.me/theorems/23100832-5558-431a-8bf6-981d34beddb0

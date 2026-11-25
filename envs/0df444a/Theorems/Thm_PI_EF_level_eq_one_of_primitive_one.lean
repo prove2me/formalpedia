@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_level_eq_one_of_primitive_one
 -- name    : PI.EF.level_eq_one_of_primitive_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:14.090145+00:00
 -- url     : https://prove2.me/theorems/9a1daa77-7ba5-534e-8c6e-1b1f2bd2596e

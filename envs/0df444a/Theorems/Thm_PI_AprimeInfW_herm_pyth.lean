@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_herm_pyth
 -- name    : PI.AprimeInfW.herm_pyth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:31:37.163537+00:00
 -- url     : https://prove2.me/theorems/40f47257-52b9-437e-a363-ed2956d243c4

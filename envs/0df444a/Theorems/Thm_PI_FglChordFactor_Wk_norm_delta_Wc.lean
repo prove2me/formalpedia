@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglChordFactor_Wk_norm_delta_Wc
 -- name    : PI.FglChordFactor.Wk.norm_delta_Wc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:30.206096+00:00
 -- url     : https://prove2.me/theorems/0b6e1362-dae2-479d-a0ef-b3a853d436d2

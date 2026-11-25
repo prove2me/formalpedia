@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_TraceNondeg_isNilpotent_of_trace_mul
 -- name    : GlobalTheory.UnitLemma.TraceNondeg.isNilpotent_of_trace_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:34:46.148157+00:00
 -- url     : https://prove2.me/theorems/e0debaa7-a508-405b-b171-50805ca1043b

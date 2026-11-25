@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjAW_lenAt_eq_zero
 -- name    : PI.Dv.ProjAW.lenAt_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:28:46.7008+00:00
 -- url     : https://prove2.me/theorems/4c8aff68-afeb-50d2-951b-5a0187f8c9f1

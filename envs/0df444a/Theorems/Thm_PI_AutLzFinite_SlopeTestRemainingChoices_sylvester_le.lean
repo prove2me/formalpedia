@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AutLzFinite_SlopeTestRemainingChoices_sylvester_le
 -- name    : PI.AutLzFinite.SlopeTestRemainingChoices.sylvester_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:23:50.246338+00:00
 -- url     : https://prove2.me/theorems/57346aed-6ee7-43c4-b4e5-f1c178f11f15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowHeightMul_full_8111df422348
 -- name    : P2M_GroundTheory_Heights__Heights_ChowHeightMul_full_8111df422348
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:50:24.541949+00:00
 -- url     : https://prove2.me/theorems/306f9bbf-3197-45da-b9bd-c48bfec4962e

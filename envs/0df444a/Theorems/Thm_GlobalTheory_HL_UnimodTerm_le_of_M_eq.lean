@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_UnimodTerm_le_of_M_eq
 -- name    : GlobalTheory.HL.UnimodTerm.le_of_M_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:37:05.933203+00:00
 -- url     : https://prove2.me/theorems/efd870a0-acdd-53a5-836f-79880b7360cf

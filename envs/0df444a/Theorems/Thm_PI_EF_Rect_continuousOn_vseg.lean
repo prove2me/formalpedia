@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Rect_continuousOn_vseg
 -- name    : PI.EF.Rect.continuousOn_vseg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:28:31.898832+00:00
 -- url     : https://prove2.me/theorems/5aab7c46-58ec-4ede-a4b1-3444447d9acf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_measurePreserving_toLp_5a69aa31999e
 -- name    : P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_measurePreserving_toLp_5a69aa31999e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:17:01.424015+00:00
 -- url     : https://prove2.me/theorems/14345876-c0e8-4d7e-a1ac-a85579f48c4f

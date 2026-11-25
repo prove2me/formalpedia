@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Loc_norm_refl_sphere
 -- name    : PI.EF.Loc.norm_refl_sphere
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:27:46.72488+00:00
 -- url     : https://prove2.me/theorems/219e5835-6a3f-4db2-ba47-0547c4ddd6c3

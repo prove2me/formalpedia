@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DatumBlockEigen_Main_phiU_zero
 -- name    : PI.DatumBlockEigen.Main.phiU_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:27:05.122344+00:00
 -- url     : https://prove2.me/theorems/2da5f68e-1d12-4aab-8c01-3feb70e3301c

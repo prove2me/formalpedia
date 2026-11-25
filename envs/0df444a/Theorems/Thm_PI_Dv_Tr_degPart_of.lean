@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_degPart_of
 -- name    : PI.Dv.Tr.degPart_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:28:30.294802+00:00
 -- url     : https://prove2.me/theorems/78141c20-f3fd-468d-8778-420f3d8d1a3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_RK_rep_apply
 -- name    : PI.Dv.RK.rep_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:28:16.390363+00:00
 -- url     : https://prove2.me/theorems/ae64d614-c679-4419-88c3-d090d0410373

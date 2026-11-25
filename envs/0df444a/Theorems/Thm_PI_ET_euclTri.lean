@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_euclTri
 -- name    : PI.ET.euclTri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:28:53.830456+00:00
 -- url     : https://prove2.me/theorems/1ce3866c-c5c1-47cd-8edc-d1b0d3ace5b1

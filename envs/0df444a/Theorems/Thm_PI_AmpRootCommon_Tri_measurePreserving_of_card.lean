@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AmpRootCommon_Tri_measurePreserving_of_card
 -- name    : PI.AmpRootCommon.Tri.measurePreserving_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:13:16.032519+00:00
 -- url     : https://prove2.me/theorems/9c043248-e814-41c6-beaf-0d2dbd24b015

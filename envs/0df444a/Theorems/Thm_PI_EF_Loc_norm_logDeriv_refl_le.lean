@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Loc_norm_logDeriv_refl_le
 -- name    : PI.EF.Loc.norm_logDeriv_refl_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:27:34.708046+00:00
 -- url     : https://prove2.me/theorems/d51ceee6-9782-5fd4-ac7e-e9ebebe4ee6a

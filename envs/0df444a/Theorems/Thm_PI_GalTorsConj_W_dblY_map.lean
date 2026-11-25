@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_dblY_map
 -- name    : PI.GalTorsConj.W.dblY_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:57:30.817444+00:00
 -- url     : https://prove2.me/theorems/02f792cc-516f-4c1d-9552-7d96e92da3a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Short_ChowClosing_SectionPerfect_chowFormExists_full
 -- name    : GlobalTheory.CompanionTheory.Ar.Short.ChowClosing.SectionPerfect.chowFormExists_full
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:12:09.059802+00:00
 -- url     : https://prove2.me/theorems/37ca92f7-6685-4cb6-9af1-b8baaa8fb49c

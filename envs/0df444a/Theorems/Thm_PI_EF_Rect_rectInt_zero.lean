@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Rect_rectInt_zero
 -- name    : PI.EF.Rect.rectInt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:47.91537+00:00
 -- url     : https://prove2.me/theorems/45656ebd-45e3-4d31-b69d-42ab3ced8400

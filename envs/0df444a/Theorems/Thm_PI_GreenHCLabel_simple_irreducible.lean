@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenHCLabel_simple_irreducible
 -- name    : PI.GreenHCLabel.simple_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:15.120937+00:00
 -- url     : https://prove2.me/theorems/5f281d94-3e0f-50a1-aff9-0c321ff223aa

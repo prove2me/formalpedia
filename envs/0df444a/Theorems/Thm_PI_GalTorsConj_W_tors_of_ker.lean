@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_tors_of_ker
 -- name    : PI.GalTorsConj.W.tors_of_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:31:44.598269+00:00
 -- url     : https://prove2.me/theorems/4186b247-baf5-4940-9af1-4ce6a6e8c77f

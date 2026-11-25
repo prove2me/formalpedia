@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_OriginCoordinatesAdd_chord_alg
 -- name    : PI.GalTorsConj.W.OriginCoordinatesAdd.chord_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:30:52.322994+00:00
 -- url     : https://prove2.me/theorems/f65f9c19-6304-4873-95da-db9c5e47ca5c

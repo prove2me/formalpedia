@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BiaddOfCubeWork_constantCoeff_subst_zero
 -- name    : PI.BiaddOfCubeWork.constantCoeff_subst_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:25:11.974967+00:00
 -- url     : https://prove2.me/theorems/9da919d0-9138-5f48-9478-34567f23fbdd

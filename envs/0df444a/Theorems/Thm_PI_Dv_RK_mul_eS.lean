@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_RK_mul_eS
 -- name    : PI.Dv.RK.mul_eS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:27:59.66051+00:00
 -- url     : https://prove2.me/theorems/f8462a0e-2608-48c3-98ec-bd9bed794686

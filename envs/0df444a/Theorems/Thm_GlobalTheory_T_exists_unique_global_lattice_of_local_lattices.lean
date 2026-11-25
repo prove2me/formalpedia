@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unique_global_lattice_of_local_lattices
 -- name    : GlobalTheory.T.exists_unique_global_lattice_of_local_lattices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:04:53.566104+00:00
 -- url     : https://prove2.me/theorems/b6118623-04df-42df-a445-3bf6348f03a5

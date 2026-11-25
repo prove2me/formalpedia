@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SRW_retraction_reduction
 -- name    : PI.SRW.retraction_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:40:20.968361+00:00
 -- url     : https://prove2.me/theorems/3cd9715b-1336-4475-b924-05065d8acc5b

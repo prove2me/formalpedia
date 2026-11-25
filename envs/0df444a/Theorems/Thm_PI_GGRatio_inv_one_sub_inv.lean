@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGRatio_inv_one_sub_inv
 -- name    : PI.GGRatio.inv_one_sub_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:30:52.344008+00:00
 -- url     : https://prove2.me/theorems/b0052344-261f-4e55-8e4c-c2282d672103

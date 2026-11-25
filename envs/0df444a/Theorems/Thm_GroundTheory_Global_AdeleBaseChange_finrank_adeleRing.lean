@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_AdeleBaseChange_finrank_adeleRing
 -- name    : GroundTheory.Global.AdeleBaseChange.finrank_adeleRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:22:01.857663+00:00
 -- url     : https://prove2.me/theorems/be1ac387-0a08-546b-8768-ccc2f667ec51

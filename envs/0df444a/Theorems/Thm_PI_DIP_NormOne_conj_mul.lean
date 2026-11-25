@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DIP_NormOne_conj_mul
 -- name    : PI.DIP.NormOne.conj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:26:29.724345+00:00
 -- url     : https://prove2.me/theorems/636b4457-5abb-5811-92ea-3f625e75dda7

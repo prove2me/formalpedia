@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_divisorSum_mul
 -- name    : GroundTheory.Global.divisorSum_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:49:21.216086+00:00
 -- url     : https://prove2.me/theorems/e608e092-f0f8-4212-b98b-18aea710e204

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMS_sw_neg_block
 -- name    : PI.FJMS.sw_neg_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:30:19.988147+00:00
 -- url     : https://prove2.me/theorems/f202ade1-c0d1-4795-b986-4b42bf0c36b8

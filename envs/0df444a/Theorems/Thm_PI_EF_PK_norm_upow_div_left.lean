@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_norm_upow_div_left
 -- name    : PI.EF.PK.norm_upow_div_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:53.22044+00:00
 -- url     : https://prove2.me/theorems/78d14d89-24e9-5e45-af26-17fb7a3ca8c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_global_unitriangular_of_local_congruence
 -- name    : GlobalTheory.T.exists_global_unitriangular_of_local_congruence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:50:17.982263+00:00
 -- url     : https://prove2.me/theorems/d680b18d-841c-4389-abc5-b7f26f8eb1a1

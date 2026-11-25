@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_first_character_sum_nonneg
 -- name    : PI.EF.first_character_sum_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:58.369366+00:00
 -- url     : https://prove2.me/theorems/d60dc8b6-b600-4391-8070-7d31d5a08f12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_alg_of_sq
 -- name    : PI.GalTorsConj.W.alg_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:30:56.751311+00:00
 -- url     : https://prove2.me/theorems/47235e9a-be1f-5821-9a25-27614d232abe

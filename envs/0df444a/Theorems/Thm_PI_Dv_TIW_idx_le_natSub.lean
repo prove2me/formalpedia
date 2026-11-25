@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_idx_le_natSub
 -- name    : PI.Dv.TIW.idx_le_natSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:28:26.271964+00:00
 -- url     : https://prove2.me/theorems/8091a75d-c780-4dc1-bd10-c7fd6f5b996c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_spanSingleton_mul_le
 -- name    : PI.IsoDetW.Loc.spanSingleton_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:09:18.255579+00:00
 -- url     : https://prove2.me/theorems/bba09cc3-0548-5de0-a057-89e450656bd2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExistsGaugeMeasureForEachRank_W_vol_arc
 -- name    : PI.ExistsGaugeMeasureForEachRank.W.vol_arc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:25:48.933928+00:00
 -- url     : https://prove2.me/theorems/e12125de-abf4-5c7b-b55e-a30f3073da3e

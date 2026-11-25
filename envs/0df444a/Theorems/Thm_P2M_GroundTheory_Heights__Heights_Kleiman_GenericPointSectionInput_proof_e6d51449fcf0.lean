@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_GenericPointSectionInput_proof_e6d51449fcf0
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_GenericPointSectionInput_proof_e6d51449fcf0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:08:49.769073+00:00
 -- url     : https://prove2.me/theorems/f76f53ae-fcca-4484-8e47-6b12926793dd

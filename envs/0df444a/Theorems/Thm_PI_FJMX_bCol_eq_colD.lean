@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_bCol_eq_colD
 -- name    : PI.FJMX.bCol_eq_colD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:30:37.933453+00:00
 -- url     : https://prove2.me/theorems/af03d0b8-5a62-40f9-8f43-d29ce0c818a3

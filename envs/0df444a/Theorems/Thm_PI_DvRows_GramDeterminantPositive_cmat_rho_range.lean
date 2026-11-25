@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_GramDeterminantPositive_cmat_rho_range
 -- name    : PI.DvRows.GramDeterminantPositive.cmat_rho_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:46.288213+00:00
 -- url     : https://prove2.me/theorems/8e73b17e-7e45-4c09-a6a4-583ec8fbed47

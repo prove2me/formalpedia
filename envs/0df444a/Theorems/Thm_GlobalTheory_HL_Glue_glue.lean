@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Glue_glue
 -- name    : GlobalTheory.HL.Glue.glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:01:44.687145+00:00
 -- url     : https://prove2.me/theorems/0cf36cad-0cab-42e5-9483-2bae6d1ec462

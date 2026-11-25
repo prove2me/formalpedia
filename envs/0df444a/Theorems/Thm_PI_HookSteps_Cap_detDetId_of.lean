@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_Cap_detDetId_of
 -- name    : PI.HookSteps.Cap.detDetId_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:07:42.782645+00:00
 -- url     : https://prove2.me/theorems/15871620-e69e-4e61-8402-bcbf0b7f7c9d

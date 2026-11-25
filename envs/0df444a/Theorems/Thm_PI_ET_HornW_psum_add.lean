@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_HornW_psum_add
 -- name    : PI.ET.HornW.psum_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:57.024181+00:00
 -- url     : https://prove2.me/theorems/f60ef5ec-3242-4d15-8e28-9471f2164060

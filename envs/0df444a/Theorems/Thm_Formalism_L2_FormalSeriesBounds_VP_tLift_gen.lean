@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_tLift_gen
 -- name    : Formalism.L2.FormalSeriesBounds.VP.tLift_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:49:00.628486+00:00
 -- url     : https://prove2.me/theorems/ef7b1d38-88b4-5689-925e-b9684e3f02b3

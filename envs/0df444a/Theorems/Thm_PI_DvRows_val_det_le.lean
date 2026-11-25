@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_val_det_le
 -- name    : PI.DvRows.val_det_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:28:28.171453+00:00
 -- url     : https://prove2.me/theorems/3f38498d-60c2-4b29-a5cd-f3ead65e254f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BlockRatReal_UnitaryGroupMassFormula_Odd_map_dualM
 -- name    : PI.BlockRatReal.UnitaryGroupMassFormula.Odd.map_dualM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:25:51.421451+00:00
 -- url     : https://prove2.me/theorems/6e412148-cf00-5b86-9da8-036b0473a7f5

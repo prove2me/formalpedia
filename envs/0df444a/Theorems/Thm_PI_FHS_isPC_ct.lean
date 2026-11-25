@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FHS_isPC_ct
 -- name    : PI.FHS.isPC_ct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:43.123946+00:00
 -- url     : https://prove2.me/theorems/a7028a25-2822-4bc6-a5b5-904fb712059d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_AdditiveFunction_g_units
 -- name    : GroundTheory.ProfCoh.AdditiveFunction.g_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:52:53.77623+00:00
 -- url     : https://prove2.me/theorems/064f68a8-c8e1-4c6c-8a4d-237e9e4e5c44

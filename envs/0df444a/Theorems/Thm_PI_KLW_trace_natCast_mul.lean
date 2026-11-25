@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_trace_natCast_mul
 -- name    : PI.KLW.trace_natCast_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:34:09.600806+00:00
 -- url     : https://prove2.me/theorems/75bc24d8-9ba8-5c5b-a1b2-e5288262af4b

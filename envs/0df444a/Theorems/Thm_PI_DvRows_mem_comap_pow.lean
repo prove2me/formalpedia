@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_mem_comap_pow
 -- name    : PI.DvRows.mem_comap_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:20.376978+00:00
 -- url     : https://prove2.me/theorems/2e01f891-6e04-4baf-8c7c-07e92bd0d92f

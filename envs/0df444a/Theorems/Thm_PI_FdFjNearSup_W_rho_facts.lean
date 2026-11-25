@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FdFjNearSup_W_rho_facts
 -- name    : PI.FdFjNearSup.W.rho_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:00.26341+00:00
 -- url     : https://prove2.me/theorems/d909a594-4993-45b4-9b33-47ce6c00a9fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinOrdRedOne_Bridge_intValuation_natCast
 -- name    : PI.FinOrdRedOne.Bridge.intValuation_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:58.64516+00:00
 -- url     : https://prove2.me/theorems/8dd28be2-134c-4263-8022-707dc5acd189

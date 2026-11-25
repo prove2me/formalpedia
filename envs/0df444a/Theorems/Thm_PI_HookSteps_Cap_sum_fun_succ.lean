@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_Cap_sum_fun_succ
 -- name    : PI.HookSteps.Cap.sum_fun_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:07:47.707384+00:00
 -- url     : https://prove2.me/theorems/ccdccf1d-dc32-4c20-9a22-4637a0e7ca87

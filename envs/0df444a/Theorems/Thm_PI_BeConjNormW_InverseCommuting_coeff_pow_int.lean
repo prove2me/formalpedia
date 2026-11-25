@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeConjNormW_InverseCommuting_coeff_pow_int
 -- name    : PI.BeConjNormW.InverseCommuting.coeff_pow_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:24:23.324478+00:00
 -- url     : https://prove2.me/theorems/534db809-d6f2-5c85-a4e7-d55135e2b1b7

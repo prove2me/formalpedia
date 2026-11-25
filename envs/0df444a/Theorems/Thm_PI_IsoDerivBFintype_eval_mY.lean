@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDerivBFintype_eval_mY
 -- name    : PI.IsoDerivBFintype.eval_mY
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:08:54.321554+00:00
 -- url     : https://prove2.me/theorems/6f562e2d-686c-4a3b-a82e-3a306e79c10f

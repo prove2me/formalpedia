@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_norm_gaussSum_le
 -- name    : PI.EF.norm_gaussSum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:49.404199+00:00
 -- url     : https://prove2.me/theorems/e5ab5bce-0656-5a16-baa4-601baaecdc60

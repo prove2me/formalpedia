@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_norm_sq_Gamma_half
 -- name    : PI.EF.norm_sq_Gamma_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:54.482177+00:00
 -- url     : https://prove2.me/theorems/d43c4bf3-101b-4d33-a225-3ceb68ad76d3

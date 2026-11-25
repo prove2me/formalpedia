@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DensSplitW_prod_factor
 -- name    : PI.DensSplitW.prod_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:26:30.957162+00:00
 -- url     : https://prove2.me/theorems/db44c760-41c5-5727-8f9e-35367764d352

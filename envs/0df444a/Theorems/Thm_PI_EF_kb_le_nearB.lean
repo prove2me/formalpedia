@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_kb_le_nearB
 -- name    : PI.EF.kb_le_nearB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:29:41.5748+00:00
 -- url     : https://prove2.me/theorems/328d3426-7275-4942-a893-49ec30682ac7

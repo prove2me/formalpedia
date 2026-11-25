@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjAW_span_imgE
 -- name    : PI.Dv.ProjAW.span_imgE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:28:05.075976+00:00
 -- url     : https://prove2.me/theorems/b9c0b07e-5b69-4f0a-b03b-59e9d9394001

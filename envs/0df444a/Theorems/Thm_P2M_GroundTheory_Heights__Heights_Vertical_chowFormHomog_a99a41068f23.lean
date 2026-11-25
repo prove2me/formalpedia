@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_chowFormHomog_a99a41068f23
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_chowFormHomog_a99a41068f23
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:21:29.370223+00:00
 -- url     : https://prove2.me/theorems/20816aaa-9f99-4798-8c24-05e3ef2facc2

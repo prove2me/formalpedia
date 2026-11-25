@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HtPlacesSumWork_plOf_e
 -- name    : PI.HtPlacesSumWork.plOf_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:07:22.095801+00:00
 -- url     : https://prove2.me/theorems/149d0686-774b-5681-be03-86faa639fd68

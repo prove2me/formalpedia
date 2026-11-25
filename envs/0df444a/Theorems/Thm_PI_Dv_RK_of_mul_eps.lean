@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_RK_of_mul_eps
 -- name    : PI.Dv.RK.of_mul_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:28:03.537925+00:00
 -- url     : https://prove2.me/theorems/e297f787-f15a-4b93-aa6d-0f8b62150d81

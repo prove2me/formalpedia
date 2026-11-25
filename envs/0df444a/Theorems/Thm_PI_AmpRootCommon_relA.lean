@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AmpRootCommon_relA
 -- name    : PI.AmpRootCommon.relA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:13:02.598373+00:00
 -- url     : https://prove2.me/theorems/00876b34-6f9f-45c7-8e42-16bc3a3eeda4

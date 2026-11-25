@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_conjW_conjW
 -- name    : PI.DvRows.conjW_conjW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:26.056262+00:00
 -- url     : https://prove2.me/theorems/0c74bd4e-b2d6-401f-b66c-df21752ca7c2

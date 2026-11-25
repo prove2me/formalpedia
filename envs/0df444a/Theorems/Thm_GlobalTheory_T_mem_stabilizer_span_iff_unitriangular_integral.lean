@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_stabilizer_span_iff_unitriangular_integral
 -- name    : GlobalTheory.T.mem_stabilizer_span_iff_unitriangular_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:19:11.663075+00:00
 -- url     : https://prove2.me/theorems/0409d185-177f-5160-a5fe-02eaf3e84ff7

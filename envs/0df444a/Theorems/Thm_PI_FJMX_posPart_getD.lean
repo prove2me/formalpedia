@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_posPart_getD
 -- name    : PI.FJMX.posPart_getD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:04.404696+00:00
 -- url     : https://prove2.me/theorems/af3e9c12-d3f3-496f-bb47-e1d5e7512b7d

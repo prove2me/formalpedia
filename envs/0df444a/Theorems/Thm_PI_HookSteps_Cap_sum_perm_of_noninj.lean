@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_Cap_sum_perm_of_noninj
 -- name    : PI.HookSteps.Cap.sum_perm_of_noninj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:08:12.379831+00:00
 -- url     : https://prove2.me/theorems/a3578f0f-4f88-41c8-952c-c337ae3ceae7

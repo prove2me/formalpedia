@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_sigma0
 -- name    : PI.Dv.Tr.sigma0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:10.29878+00:00
 -- url     : https://prove2.me/theorems/94b3c7d4-8806-4946-b713-54bf9c15329c

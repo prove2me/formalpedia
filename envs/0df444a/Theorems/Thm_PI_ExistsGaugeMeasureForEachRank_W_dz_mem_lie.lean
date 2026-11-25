@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExistsGaugeMeasureForEachRank_W_dz_mem_lie
 -- name    : PI.ExistsGaugeMeasureForEachRank.W.dz_mem_lie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:18:38.613218+00:00
 -- url     : https://prove2.me/theorems/e83b7038-b1d3-52c8-b1cc-2714171cc17d

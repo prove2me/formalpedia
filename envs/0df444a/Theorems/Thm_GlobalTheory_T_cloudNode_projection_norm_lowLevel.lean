@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cloudNode_projection_norm_lowLevel
 -- name    : GlobalTheory.T.cloudNode_projection_norm_lowLevel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:49:10.557656+00:00
 -- url     : https://prove2.me/theorems/473ade3f-0005-41cf-adbd-741d4701c0f3

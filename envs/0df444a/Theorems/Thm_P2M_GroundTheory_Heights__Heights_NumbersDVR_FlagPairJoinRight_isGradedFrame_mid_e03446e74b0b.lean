@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagPairJoinRight_isGradedFrame_mid_e03446e74b0b
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagPairJoinRight_isGradedFrame_mid_e03446e74b0b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:32:29.624692+00:00
 -- url     : https://prove2.me/theorems/eff86018-5bd9-545b-8910-cfbdc0fa4e53

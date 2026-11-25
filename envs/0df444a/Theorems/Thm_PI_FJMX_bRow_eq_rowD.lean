@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_bRow_eq_rowD
 -- name    : PI.FJMX.bRow_eq_rowD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:30:23.076126+00:00
 -- url     : https://prove2.me/theorems/c061a24c-7314-43ac-bc1e-973652ac9554

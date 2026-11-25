@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_rank_one_sandwich
 -- name    : PI.Dv.Tr.rank_one_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:47.945549+00:00
 -- url     : https://prove2.me/theorems/a58dca76-d246-57ba-8f1d-0fe58cc045eb

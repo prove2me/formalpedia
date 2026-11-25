@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_ChowFormSectionPerfect_chowFormExtend_full_5a854f339a7e
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_ChowFormSectionPerfect_chowFormExtend_full_5a854f339a7e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:07:27.408218+00:00
 -- url     : https://prove2.me/theorems/bec87b59-7c9d-4652-8630-11813ef90054

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMD_dd_eq_zero
 -- name    : PI.FJMD.dd_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:55.687133+00:00
 -- url     : https://prove2.me/theorems/dbd82e4a-e2fa-4181-b38c-b16d15486af7

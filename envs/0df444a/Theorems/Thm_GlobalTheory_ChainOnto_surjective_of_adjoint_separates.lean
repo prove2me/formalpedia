@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChainOnto_surjective_of_adjoint_separates
 -- name    : GlobalTheory.ChainOnto.surjective_of_adjoint_separates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:20:58.761457+00:00
 -- url     : https://prove2.me/theorems/f59ec969-7d42-4414-9b76-cd64189a81f1

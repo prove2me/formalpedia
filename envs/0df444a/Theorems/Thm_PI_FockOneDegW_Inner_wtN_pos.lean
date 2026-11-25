@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Inner_wtN_pos
 -- name    : PI.FockOneDegW.Inner.wtN_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:30:47.894983+00:00
 -- url     : https://prove2.me/theorems/30438290-89de-40f6-9b05-5068db6b45dd

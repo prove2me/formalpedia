@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfA_lintegral_mul_right_of_mem
 -- name    : PI.AprimeInfA.lintegral_mul_right_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:23:22.853812+00:00
 -- url     : https://prove2.me/theorems/a0456f33-3312-507a-b443-2aa33ddd4870

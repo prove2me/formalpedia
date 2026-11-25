@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Frames_amp_mass_eq_one_of_one_orbit
 -- name    : GlobalTheory.HL.Frames.amp_mass_eq_one_of_one_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:35:12.383718+00:00
 -- url     : https://prove2.me/theorems/a52a294e-07f7-4ab8-8fd2-41a742821bf0

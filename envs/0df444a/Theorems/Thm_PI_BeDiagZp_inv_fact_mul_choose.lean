@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_inv_fact_mul_choose
 -- name    : PI.BeDiagZp.inv_fact_mul_choose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:25:43.070733+00:00
 -- url     : https://prove2.me/theorems/08a405cc-95d9-4619-ae4c-a3ffe32aeab3

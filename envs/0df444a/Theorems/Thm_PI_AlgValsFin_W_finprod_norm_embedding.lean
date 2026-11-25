@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_finprod_norm_embedding
 -- name    : PI.AlgValsFin.W.finprod_norm_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:22:56.778584+00:00
 -- url     : https://prove2.me/theorems/576aa498-6b93-5260-b901-9229f9c58c28

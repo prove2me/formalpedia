@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMS_pos_of_sign
 -- name    : PI.FJMS.pos_of_sign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:58.702685+00:00
 -- url     : https://prove2.me/theorems/9e9e1d42-6e28-42a9-badc-a3a2952c9752

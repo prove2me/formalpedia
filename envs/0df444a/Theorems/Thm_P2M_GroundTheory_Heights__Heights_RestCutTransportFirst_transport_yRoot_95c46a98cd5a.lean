@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestCutTransportFirst_transport_yRoot_95c46a98cd5a
 -- name    : P2M_GroundTheory_Heights__Heights_RestCutTransportFirst_transport_yRoot_95c46a98cd5a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:56:33.391802+00:00
 -- url     : https://prove2.me/theorems/f54252b6-0ff1-4886-901f-18b91cd095ad

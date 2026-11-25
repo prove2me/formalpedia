@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quadric_character_leak_shares_finite
 -- name    : GlobalTheory.T.quadric_character_leak_shares_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:51:07.599802+00:00
 -- url     : https://prove2.me/theorems/dfb56ee8-e531-5ebf-8871-8dbd573a1192

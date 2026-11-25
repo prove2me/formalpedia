@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Centraliser_eq_zero_of_trace_mul
 -- name    : GlobalTheory.UnitLemma.Centraliser.eq_zero_of_trace_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:32:28.175144+00:00
 -- url     : https://prove2.me/theorems/5d1b4d6b-14bf-4a2d-9cd2-a1e1c6f54224

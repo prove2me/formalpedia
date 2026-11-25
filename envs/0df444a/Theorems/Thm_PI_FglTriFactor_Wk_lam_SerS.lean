@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglTriFactor_Wk_lam_SerS
 -- name    : PI.FglTriFactor.Wk.lam_SerS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:30:01.0173+00:00
 -- url     : https://prove2.me/theorems/51e1c3be-c59e-4c41-8521-a7add40df0c7

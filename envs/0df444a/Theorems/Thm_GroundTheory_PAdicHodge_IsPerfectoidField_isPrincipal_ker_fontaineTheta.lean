@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_isPrincipal_ker_fontaineTheta
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.isPrincipal_ker_fontaineTheta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:45:58.757915+00:00
 -- url     : https://prove2.me/theorems/2dfa09a3-3dc5-4798-bd22-1b552fe9ac07

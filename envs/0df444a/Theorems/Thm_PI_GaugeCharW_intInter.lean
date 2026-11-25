@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GaugeCharW_intInter
 -- name    : PI.GaugeCharW.intInter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:34.746382+00:00
 -- url     : https://prove2.me/theorems/4c543af4-87d0-4204-a820-b716db0198a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GaugeCharW_isOpen_intSub
 -- name    : PI.GaugeCharW.isOpen_intSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:35.446907+00:00
 -- url     : https://prove2.me/theorems/09b333b7-35f6-49c9-87f6-c2e54cd58abd

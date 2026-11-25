@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_factorial_mul_det
 -- name    : PI.ET.factorial_mul_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:12.394549+00:00
 -- url     : https://prove2.me/theorems/246a333f-4c91-5570-a204-db7665e3dd06

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTNum_degZ_eq
 -- name    : PI.GTNum.degZ_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:31:30.326275+00:00
 -- url     : https://prove2.me/theorems/ff5f1bb8-7f47-456b-86fd-6eb1a328bcb7

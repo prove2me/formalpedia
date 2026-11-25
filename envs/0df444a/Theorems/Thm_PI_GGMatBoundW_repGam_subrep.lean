@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMatBoundW_repGam_subrep
 -- name    : PI.GGMatBoundW.repGam_subrep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:32:06.261794+00:00
 -- url     : https://prove2.me/theorems/74fe87b8-e9d5-51d7-8444-999533694b7e

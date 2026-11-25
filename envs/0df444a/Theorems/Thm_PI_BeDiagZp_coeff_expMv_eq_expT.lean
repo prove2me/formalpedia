@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_coeff_expMv_eq_expT
 -- name    : PI.BeDiagZp.coeff_expMv_eq_expT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:25:04.977991+00:00
 -- url     : https://prove2.me/theorems/6cc99fb3-8095-5a1a-9dce-09978c7e8c54

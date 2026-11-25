@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_trace_algebraMap_mul
 -- name    : GroundTheory.LocalField.trace_algebraMap_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:21:43.457087+00:00
 -- url     : https://prove2.me/theorems/f65aa821-c630-5164-9e0a-37821b7b84e9

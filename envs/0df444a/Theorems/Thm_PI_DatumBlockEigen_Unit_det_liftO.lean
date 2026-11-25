@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DatumBlockEigen_Unit_det_liftO
 -- name    : PI.DatumBlockEigen.Unit.det_liftO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:26:56.396372+00:00
 -- url     : https://prove2.me/theorems/0872aa92-e81f-4c81-906c-71f0f8f918ef

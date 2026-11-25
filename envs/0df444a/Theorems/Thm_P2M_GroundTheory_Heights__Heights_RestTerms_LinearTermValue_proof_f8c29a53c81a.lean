@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_LinearTermValue_proof_f8c29a53c81a
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_LinearTermValue_proof_f8c29a53c81a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:20:46.744271+00:00
 -- url     : https://prove2.me/theorems/4510a01b-1cc6-4f2a-94c0-3b2f0fa9eb43

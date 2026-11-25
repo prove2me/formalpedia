@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_conductor_inv
 -- name    : PI.EF.conductor_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:29:14.285845+00:00
 -- url     : https://prove2.me/theorems/22caf9ae-56f8-5a3c-be1a-2f361562a2d2

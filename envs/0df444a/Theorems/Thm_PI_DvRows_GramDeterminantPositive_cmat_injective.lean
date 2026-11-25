@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_GramDeterminantPositive_cmat_injective
 -- name    : PI.DvRows.GramDeterminantPositive.cmat_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:32:11.427893+00:00
 -- url     : https://prove2.me/theorems/efc1b53d-f1aa-5b61-ba1e-5b4e021a4ac6

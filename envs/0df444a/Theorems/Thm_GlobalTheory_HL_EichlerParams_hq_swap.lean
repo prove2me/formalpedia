@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_EichlerParams_hq_swap
 -- name    : GlobalTheory.HL.EichlerParams.hq_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:58:16.233435+00:00
 -- url     : https://prove2.me/theorems/c66d34e3-25a0-5447-afdc-d817fc7c1600

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FGTFG_projective_reduction
 -- name    : PI.FGTFG.projective_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:51.18206+00:00
 -- url     : https://prove2.me/theorems/0270d920-5e77-4797-818f-e930a2e633ee

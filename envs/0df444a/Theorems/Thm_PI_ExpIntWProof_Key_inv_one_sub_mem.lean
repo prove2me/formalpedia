@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExpIntWProof_Key_inv_one_sub_mem
 -- name    : PI.ExpIntWProof.Key.inv_one_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:19.506869+00:00
 -- url     : https://prove2.me/theorems/7b8e8e08-fcd5-4da1-b2bb-3d10830f2c33

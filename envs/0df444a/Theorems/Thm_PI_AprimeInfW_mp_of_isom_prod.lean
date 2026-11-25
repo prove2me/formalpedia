@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_mp_of_isom_prod
 -- name    : PI.AprimeInfW.mp_of_isom_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:31:10.895572+00:00
 -- url     : https://prove2.me/theorems/200192a7-a325-46c3-ad94-9bd56a518ba2

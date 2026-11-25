@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMB_exists_support_of_killS
 -- name    : PI.FJMB.exists_support_of_killS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:31.9458+00:00
 -- url     : https://prove2.me/theorems/29b0a817-dd88-50a9-b777-bb27d60a71b1

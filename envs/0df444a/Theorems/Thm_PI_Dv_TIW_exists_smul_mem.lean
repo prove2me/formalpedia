@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_exists_smul_mem
 -- name    : PI.Dv.TIW.exists_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:24.607324+00:00
 -- url     : https://prove2.me/theorems/95c33c35-021f-493d-a645-4bc640c6e3b0

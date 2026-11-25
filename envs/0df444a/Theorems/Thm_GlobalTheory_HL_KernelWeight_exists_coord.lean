@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_KernelWeight_exists_coord
 -- name    : GlobalTheory.HL.KernelWeight.exists_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:05:28.07178+00:00
 -- url     : https://prove2.me/theorems/3700a03f-9c99-568a-94c4-996e35220a52

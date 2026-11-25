@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_chowHt_zero_groups_eq_zero_bd0a7654af41
 -- name    : P2M_GroundTheory_Heights__Heights_chowHt_zero_groups_eq_zero_bd0a7654af41
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:10:58.581172+00:00
 -- url     : https://prove2.me/theorems/0214b53f-ffa9-4f0c-8ea3-0e94022e3bb6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_prod_le_of_injective
 -- name    : PI.ET.prod_le_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:33.990708+00:00
 -- url     : https://prove2.me/theorems/1694d3bb-b44c-5291-802e-7d395c21ffcd

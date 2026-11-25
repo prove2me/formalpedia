@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CompDegEF_mem_integralClosure_iff_mem_ball
 -- name    : PI.CompDegEF.mem_integralClosure_iff_mem_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:26:31.332595+00:00
 -- url     : https://prove2.me/theorems/115a49cd-08ec-4241-9fd0-c6fd19679403

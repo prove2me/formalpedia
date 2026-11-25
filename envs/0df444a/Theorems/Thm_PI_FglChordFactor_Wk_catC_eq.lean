@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglChordFactor_Wk_catC_eq
 -- name    : PI.FglChordFactor.Wk.catC_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:33.422366+00:00
 -- url     : https://prove2.me/theorems/016f4411-1d65-4372-90aa-39a9cd44b9b6

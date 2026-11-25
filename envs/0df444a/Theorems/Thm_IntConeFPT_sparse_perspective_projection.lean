@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntConeFPT_sparse_perspective_projection
 -- name    : IntConeFPT.sparse_perspective_projection
--- status  : Open
+-- status  : Proved
 -- author  : @ohnesorgefelix
 -- created : 2026-11-25T08:44:38.838886+00:00
 -- url     : https://prove2.me/theorems/3ad814c4-8d66-4366-a49c-f82728f09088

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BlockRatReal_UnitaryGroupMassFormula_Odd_sgnK_map
 -- name    : PI.BlockRatReal.UnitaryGroupMassFormula.Odd.sgnK_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:26:27.163338+00:00
 -- url     : https://prove2.me/theorems/c8a3cea4-241f-5b5d-bdda-bf20fc43816d

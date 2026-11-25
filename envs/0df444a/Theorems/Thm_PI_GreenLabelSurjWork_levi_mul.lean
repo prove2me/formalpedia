@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelSurjWork_levi_mul
 -- name    : PI.GreenLabelSurjWork.levi_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:31:02.974009+00:00
 -- url     : https://prove2.me/theorems/5f8b572b-9fbb-4984-819d-1c538bc93c98

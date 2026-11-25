@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InLieN_smul
 -- name    : PI.InLieN.smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:07.721013+00:00
 -- url     : https://prove2.me/theorems/5dcd4c3c-7424-5731-90da-d79f7a3aba16

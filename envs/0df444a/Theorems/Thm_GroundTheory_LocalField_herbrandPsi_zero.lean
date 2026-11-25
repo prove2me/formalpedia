@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_herbrandPsi_zero
 -- name    : GroundTheory.LocalField.herbrandPsi_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:40:13.67719+00:00
 -- url     : https://prove2.me/theorems/9c684897-82b9-4c66-bcc4-80bb0edfcdc8

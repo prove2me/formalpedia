@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_txT_shift
 -- name    : GlobalTheory.Ex.txT_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:59:03.305805+00:00
 -- url     : https://prove2.me/theorems/10cbbebd-17c8-45b2-a065-86bb03d155e7

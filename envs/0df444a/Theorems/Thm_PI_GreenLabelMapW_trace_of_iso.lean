@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelMapW_trace_of_iso
 -- name    : PI.GreenLabelMapW.trace_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:56.437937+00:00
 -- url     : https://prove2.me/theorems/b9ee97fa-5f57-42d6-bf43-2890d8025d21

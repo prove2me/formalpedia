@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_combine
 -- name    : PI.EF.PK.combine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:28:17.21484+00:00
 -- url     : https://prove2.me/theorems/30ab006f-eaea-5543-95fb-22d92dd7e56a

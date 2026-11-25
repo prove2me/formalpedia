@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_chordCubic_var_one
 -- name    : PI.AddIntG.Wk.chordCubic_var_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:22:43.351672+00:00
 -- url     : https://prove2.me/theorems/7dafd7c4-1a5f-49ba-bcfe-ecadf3c16c5e

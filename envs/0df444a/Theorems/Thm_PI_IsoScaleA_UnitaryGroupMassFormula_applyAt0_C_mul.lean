@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoScaleA_UnitaryGroupMassFormula_applyAt0_C_mul
 -- name    : PI.IsoScaleA.UnitaryGroupMassFormula.applyAt0_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:08:45.486945+00:00
 -- url     : https://prove2.me/theorems/209d51d9-d23b-497d-98e0-2feb9676975e

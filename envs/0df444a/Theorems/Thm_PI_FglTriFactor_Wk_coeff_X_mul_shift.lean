@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglTriFactor_Wk_coeff_X_mul_shift
 -- name    : PI.FglTriFactor.Wk.coeff_X_mul_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:30:05.975854+00:00
 -- url     : https://prove2.me/theorems/21ffaef6-9d4a-4cfc-8a99-331c852c2d76

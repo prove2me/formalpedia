@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Rect_sides_integrable
 -- name    : PI.EF.Rect.sides_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:56.065637+00:00
 -- url     : https://prove2.me/theorems/7d7ba411-2ccc-40db-842a-6f7e76ddfa0b

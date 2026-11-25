@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvIdealIdxPiWork_idS_mono
 -- name    : PI.InvIdealIdxPiWork.idS_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:49.382811+00:00
 -- url     : https://prove2.me/theorems/0b7dc2d4-baf0-4a1b-abb1-ebf7aa2e1f5e

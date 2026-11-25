@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_seg_bound
 -- name    : PI.EF.PK.seg_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:28:05.867875+00:00
 -- url     : https://prove2.me/theorems/2a13df09-423e-48b6-b089-acbac50ef79f

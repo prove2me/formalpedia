@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarietySlabMeasure_fibreCount_le_39715b73d87b
 -- name    : P2M_GroundTheory_Heights__Heights_VarietySlabMeasure_fibreCount_le_39715b73d87b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:42:18.048792+00:00
 -- url     : https://prove2.me/theorems/5a0dedb3-8ed0-4be4-adc2-69b1a105f8c9

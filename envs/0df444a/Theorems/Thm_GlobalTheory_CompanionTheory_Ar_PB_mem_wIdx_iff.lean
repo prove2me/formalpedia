@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_mem_wIdx_iff
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.mem_wIdx_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:23:58.187507+00:00
 -- url     : https://prove2.me/theorems/b6e4a236-ed58-41fb-a3fa-437e0c361e26

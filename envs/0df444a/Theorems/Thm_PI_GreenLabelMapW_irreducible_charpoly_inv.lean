@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelMapW_irreducible_charpoly_inv
 -- name    : PI.GreenLabelMapW.irreducible_charpoly_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:31:03.165403+00:00
 -- url     : https://prove2.me/theorems/d007c648-fc23-42b6-8159-f21d29d682a6

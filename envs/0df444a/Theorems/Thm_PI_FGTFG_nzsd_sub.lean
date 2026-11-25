@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FGTFG_nzsd_sub
 -- name    : PI.FGTFG.nzsd_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:49.364555+00:00
 -- url     : https://prove2.me/theorems/5689d6a7-294f-52aa-b691-98e36bc4d8a0

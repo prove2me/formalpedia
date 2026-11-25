@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Ind_resL_apply
 -- name    : PI.KLW.Ind.resL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:32:35.319877+00:00
 -- url     : https://prove2.me/theorems/f99eb579-fded-58d4-9f4b-993814761f17

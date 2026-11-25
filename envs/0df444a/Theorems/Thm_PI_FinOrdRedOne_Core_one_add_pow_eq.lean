@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinOrdRedOne_Core_one_add_pow_eq
 -- name    : PI.FinOrdRedOne.Core.one_add_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:18.325115+00:00
 -- url     : https://prove2.me/theorems/4cf7de02-e843-4387-94e7-8020c81ff34d

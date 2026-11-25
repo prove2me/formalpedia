@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Low_eq_of_add_eq_expXY
 -- name    : PI.JetsPhW.Low.eq_of_add_eq_expXY
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:09:40.58979+00:00
 -- url     : https://prove2.me/theorems/7ef0ccca-d86e-5d5c-ba5d-a45b7e4bdc42

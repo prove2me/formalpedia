@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLP_isIntegral_trace_of_pow
 -- name    : PI.Dv.GLP.isIntegral_trace_of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:27:35.386269+00:00
 -- url     : https://prove2.me/theorems/7e7dce82-b41f-4df6-a580-25b6a7beec30

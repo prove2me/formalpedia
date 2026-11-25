@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_ex_rect_Fchi
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.ex_rect_Fchi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:35:29.057817+00:00
 -- url     : https://prove2.me/theorems/164d7b8f-d9e4-5c2e-a5e2-3534d219994a

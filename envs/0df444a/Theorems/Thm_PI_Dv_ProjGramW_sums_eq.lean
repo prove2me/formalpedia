@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjGramW_sums_eq
 -- name    : PI.Dv.ProjGramW.sums_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:28:58.824802+00:00
 -- url     : https://prove2.me/theorems/3f83f684-8f2e-48e9-811e-4d6e3eabcae2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookLower_weight_rowW_apply
 -- name    : PI.HookLower.weight_rowW_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:06:41.704435+00:00
 -- url     : https://prove2.me/theorems/183d31e3-2b49-4e23-8e27-885f383651cb

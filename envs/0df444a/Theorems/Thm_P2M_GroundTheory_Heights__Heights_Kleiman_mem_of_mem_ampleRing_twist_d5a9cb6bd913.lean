@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_mem_of_mem_ampleRing_twist_d5a9cb6bd913
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_mem_of_mem_ampleRing_twist_d5a9cb6bd913
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:01:41.046921+00:00
 -- url     : https://prove2.me/theorems/d5d785cb-9810-4832-9a92-45669c61eef0

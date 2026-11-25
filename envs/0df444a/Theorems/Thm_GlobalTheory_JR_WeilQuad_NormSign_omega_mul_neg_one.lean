@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_NormSign_omega_mul_neg_one
 -- name    : GlobalTheory.JR.WeilQuad.NormSign.omega_mul_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:40:21.542072+00:00
 -- url     : https://prove2.me/theorems/f4d330eb-4136-55d8-a6a9-c522442f6584

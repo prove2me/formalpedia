@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_IsGenericFlag_isUnit_det
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.IsGenericFlag.isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:06:40.344297+00:00
 -- url     : https://prove2.me/theorems/1342115e-9c52-59a9-a0e2-7d56c183cbc3

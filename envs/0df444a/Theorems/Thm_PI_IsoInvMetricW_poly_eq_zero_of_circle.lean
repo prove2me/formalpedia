@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoInvMetricW_poly_eq_zero_of_circle
 -- name    : PI.IsoInvMetricW.poly_eq_zero_of_circle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:08:55.144699+00:00
 -- url     : https://prove2.me/theorems/a997b984-b8e1-4bc0-97bc-d867daeb35cc

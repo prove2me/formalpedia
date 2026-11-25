@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gluingImage_card_pow_le_defectGroup_card
 -- name    : GlobalTheory.T.gluingImage_card_pow_le_defectGroup_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:47:06.802794+00:00
 -- url     : https://prove2.me/theorems/004e6910-8fbc-41c8-8d2b-5841874484bf

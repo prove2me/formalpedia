@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_sphereMeanLinear_a6c63502716d
 -- name    : P2M_GroundTheory_Heights__Heights_sphereMeanLinear_a6c63502716d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:37.986144+00:00
 -- url     : https://prove2.me/theorems/3aa7d368-5318-4753-beab-e4b5b12aadaa

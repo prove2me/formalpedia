@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ratAddCircleToReal_coe
 -- name    : GroundTheory.LocalField.ratAddCircleToReal_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:03:14.373578+00:00
 -- url     : https://prove2.me/theorems/39cd2107-e2c1-5159-870c-3987ff9aac6b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_norm_root_number_le_one
 -- name    : PI.EF.norm_root_number_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:51.666919+00:00
 -- url     : https://prove2.me/theorems/b7985be6-91cf-4112-9887-b93eca03c60d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveFacts_move_facts
 -- name    : GlobalTheory.HL.MoveFacts.move_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:35:55.45463+00:00
 -- url     : https://prove2.me/theorems/4ced4ebd-fe7a-4858-8655-792b2e09a3a8

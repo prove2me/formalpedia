@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HwUniqW_sqrtT_ne
 -- name    : PI.HwUniqW.sqrtT_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:56.264235+00:00
 -- url     : https://prove2.me/theorems/9ebf5493-8d62-460f-a5b8-51f5957e397e

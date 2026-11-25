@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglPhSplit_Wk_subst_zero_of
 -- name    : PI.FglPhSplit.Wk.subst_zero_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:30:10.761804+00:00
 -- url     : https://prove2.me/theorems/32f9a836-3862-4157-99d3-9909b12c7224

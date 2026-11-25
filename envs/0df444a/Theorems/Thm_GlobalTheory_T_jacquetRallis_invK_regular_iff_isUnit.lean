@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_jacquetRallis_invK_regular_iff_isUnit
 -- name    : GlobalTheory.T.jacquetRallis_invK_regular_iff_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:36:31.848006+00:00
 -- url     : https://prove2.me/theorems/e6dc91ed-af17-49f5-9d24-cdfa2442dcf3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjCW_locLe_map
 -- name    : PI.Dv.ProjCW.locLe_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:04.605231+00:00
 -- url     : https://prove2.me/theorems/a5f2b325-c631-4322-8bed-4978fce0d83e

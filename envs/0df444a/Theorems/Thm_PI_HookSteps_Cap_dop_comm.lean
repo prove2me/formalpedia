@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_Cap_dop_comm
 -- name    : PI.HookSteps.Cap.dop_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:07:30.115036+00:00
 -- url     : https://prove2.me/theorems/411c73e8-4360-46e1-80dd-aed3d528f89f

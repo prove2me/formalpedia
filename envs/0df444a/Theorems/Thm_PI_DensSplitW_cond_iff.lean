@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DensSplitW_cond_iff
 -- name    : PI.DensSplitW.cond_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:26:38.969857+00:00
 -- url     : https://prove2.me/theorems/1ac87f79-ad85-44c8-946d-7848a7c0a1b3

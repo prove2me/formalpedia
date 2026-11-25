@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_of_mul_eS
 -- name    : PI.Dv.Tr.of_mul_eS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:28:29.521583+00:00
 -- url     : https://prove2.me/theorems/16dddd0e-d24d-5333-81ff-46417d069a42

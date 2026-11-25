@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjBW_mem_range_iff
 -- name    : PI.Dv.ProjBW.mem_range_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:29:27.435874+00:00
 -- url     : https://prove2.me/theorems/de84bdbe-fb99-599c-9d4f-dd322591d0dc

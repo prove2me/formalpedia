@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_SAN_IntParam_finiteRing_sq_sub_mul_sq_eq_of_card
 -- name    : GlobalTheory.HL.SAN.IntParam.finiteRing_sq_sub_mul_sq_eq_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:47:55.482533+00:00
 -- url     : https://prove2.me/theorems/77f36bd6-2487-4154-a810-791ffc516e73

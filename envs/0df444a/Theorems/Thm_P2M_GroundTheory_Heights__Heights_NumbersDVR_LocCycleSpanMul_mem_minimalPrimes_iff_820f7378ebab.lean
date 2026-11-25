@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_LocCycleSpanMul_mem_minimalPrimes_iff_820f7378ebab
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_LocCycleSpanMul_mem_minimalPrimes_iff_820f7378ebab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:09:58.019036+00:00
 -- url     : https://prove2.me/theorems/f6905edc-f263-469c-a333-f166516e89e4

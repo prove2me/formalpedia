@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_mem_range_idem
 -- name    : PI.Dv.Tr.mem_range_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:21.238805+00:00
 -- url     : https://prove2.me/theorems/052f9070-3109-489c-acfb-3b4a8d6588b3

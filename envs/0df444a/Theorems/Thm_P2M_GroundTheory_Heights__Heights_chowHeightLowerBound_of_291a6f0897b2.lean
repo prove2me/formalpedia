@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_chowHeightLowerBound_of_291a6f0897b2
 -- name    : P2M_GroundTheory_Heights__Heights_chowHeightLowerBound_of_291a6f0897b2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:44:19.825844+00:00
 -- url     : https://prove2.me/theorems/c4b70267-8a44-4921-9eba-0627908e21ad

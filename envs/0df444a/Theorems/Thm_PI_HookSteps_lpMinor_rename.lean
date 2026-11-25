@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_lpMinor_rename
 -- name    : PI.HookSteps.lpMinor_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:07:27.823641+00:00
 -- url     : https://prove2.me/theorems/d4607205-0dc2-432b-95dc-78a1143e830f

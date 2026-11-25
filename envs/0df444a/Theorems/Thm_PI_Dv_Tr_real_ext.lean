@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_real_ext
 -- name    : PI.Dv.Tr.real_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:28:32.39547+00:00
 -- url     : https://prove2.me/theorems/a70807ae-75ff-479e-9bd5-fbc4ce2d4f0c

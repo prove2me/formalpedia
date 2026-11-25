@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_pTerm_nonneg
 -- name    : PI.EF.pTerm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:49.439668+00:00
 -- url     : https://prove2.me/theorems/b2965e2e-8307-41cd-982a-f82fbd8632f8

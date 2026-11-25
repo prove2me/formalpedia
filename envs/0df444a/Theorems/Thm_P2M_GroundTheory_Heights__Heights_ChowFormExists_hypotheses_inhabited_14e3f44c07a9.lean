@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormExists_hypotheses_inhabited_14e3f44c07a9
 -- name    : P2M_GroundTheory_Heights__Heights_ChowFormExists_hypotheses_inhabited_14e3f44c07a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:21:32.984849+00:00
 -- url     : https://prove2.me/theorems/cca43380-5e82-43b4-b911-df45b4885b25

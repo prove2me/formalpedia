@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_RK_L_zero
 -- name    : PI.Dv.RK.L_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:28:41.523423+00:00
 -- url     : https://prove2.me/theorems/11b41f20-dc91-4ae9-8133-6385a0a1a163

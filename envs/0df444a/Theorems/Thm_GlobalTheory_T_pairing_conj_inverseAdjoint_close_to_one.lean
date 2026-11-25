@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pairing_conj_inverseAdjoint_close_to_one
 -- name    : GlobalTheory.T.pairing_conj_inverseAdjoint_close_to_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:39:51.409175+00:00
 -- url     : https://prove2.me/theorems/31db5eb1-2988-5227-91c6-e030b4c0d175

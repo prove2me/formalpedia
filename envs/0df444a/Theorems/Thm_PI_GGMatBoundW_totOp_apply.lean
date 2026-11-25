@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMatBoundW_totOp_apply
 -- name    : PI.GGMatBoundW.totOp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:28.52382+00:00
 -- url     : https://prove2.me/theorems/97fe5cd5-5ab8-489e-a0b8-078a9c1faa0b

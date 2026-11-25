@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HermLatFin_UnitaryGroupMassFormula_hform_isSymm
 -- name    : PI.HermLatFin.UnitaryGroupMassFormula.hform_isSymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:05:54.06759+00:00
 -- url     : https://prove2.me/theorems/d5fb1378-e1f8-4772-8298-cf6bc1ae2857

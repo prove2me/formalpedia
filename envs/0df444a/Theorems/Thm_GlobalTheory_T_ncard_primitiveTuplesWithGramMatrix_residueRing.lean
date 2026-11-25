@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ncard_primitiveTuplesWithGramMatrix_residueRing
 -- name    : GlobalTheory.T.ncard_primitiveTuplesWithGramMatrix_residueRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:47:10.322667+00:00
 -- url     : https://prove2.me/theorems/4e6d6212-79e8-4dc3-abd4-cd71de208d97

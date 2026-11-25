@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CompDegEF_liesOver_of_mem
 -- name    : PI.CompDegEF.liesOver_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:26:14.857749+00:00
 -- url     : https://prove2.me/theorems/1147d9b6-351f-5b01-b72f-1a550df17d08

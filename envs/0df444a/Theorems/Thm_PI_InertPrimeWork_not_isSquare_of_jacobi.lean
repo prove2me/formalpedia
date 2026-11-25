@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InertPrimeWork_not_isSquare_of_jacobi
 -- name    : PI.InertPrimeWork.not_isSquare_of_jacobi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:11.066187+00:00
 -- url     : https://prove2.me/theorems/7b000c06-a562-5594-bc68-27f07c383a34

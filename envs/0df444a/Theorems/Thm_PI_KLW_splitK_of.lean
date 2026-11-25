@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_splitK_of
 -- name    : PI.KLW.splitK_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:33:09.02229+00:00
 -- url     : https://prove2.me/theorems/e46fe7b0-a49f-417a-9958-aafbc085ad3e

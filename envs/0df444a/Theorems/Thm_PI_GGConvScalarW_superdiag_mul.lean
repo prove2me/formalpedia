@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGConvScalarW_superdiag_mul
 -- name    : PI.GGConvScalarW.superdiag_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:54.724338+00:00
 -- url     : https://prove2.me/theorems/fadfa703-c618-5f5b-8260-99a3cdb3af35

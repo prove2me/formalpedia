@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_matV_transvection
 -- name    : PI.Dv.TIW.matV_transvection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:23.964402+00:00
 -- url     : https://prove2.me/theorems/71db9baf-8e45-49e3-bfa9-c93774f445da

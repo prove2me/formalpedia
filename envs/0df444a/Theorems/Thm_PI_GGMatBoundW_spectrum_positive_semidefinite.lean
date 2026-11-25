@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMatBoundW_spectrum_positive_semidefinite
 -- name    : PI.GGMatBoundW.spectrum_positive_semidefinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:31:24.716008+00:00
 -- url     : https://prove2.me/theorems/9f8898ff-1fa3-47da-84d8-b5b1e4d943fd

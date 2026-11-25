@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_shapeProd_der
 -- name    : PI.FJMX.shapeProd_der
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:31:05.734632+00:00
 -- url     : https://prove2.me/theorems/b15acf2e-76d2-56f3-a1a7-cd041b6b6f92

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_GermFibreKernels_toStd_append__4f00116c904a
 -- name    : P2M_Formalism_FourierDecayAlt_P_GermFibreKernels_toStd_append__4f00116c904a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:20:24.393442+00:00
 -- url     : https://prove2.me/theorems/b64d777a-af0d-50e1-be62-c5fc5b2a361c

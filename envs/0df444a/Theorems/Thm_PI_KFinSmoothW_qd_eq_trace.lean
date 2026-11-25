@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KFinSmoothW_qd_eq_trace
 -- name    : PI.KFinSmoothW.qd_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:32:42.566834+00:00
 -- url     : https://prove2.me/theorems/55bc2d0e-062e-4f31-aec0-d5286b7350b1

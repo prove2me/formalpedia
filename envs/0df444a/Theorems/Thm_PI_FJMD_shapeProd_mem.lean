@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMD_shapeProd_mem
 -- name    : PI.FJMD.shapeProd_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:52:05.554574+00:00
 -- url     : https://prove2.me/theorems/6b618e5e-7dfe-41d7-99e3-a8b4c64668b9

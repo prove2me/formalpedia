@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_HermitianFormEquivalence_form_eq_image
 -- name    : PI.Dv.HermitianFormEquivalence.form_eq_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:55.962958+00:00
 -- url     : https://prove2.me/theorems/9a516bd4-9b0a-40f0-a3b0-6642bac062d7

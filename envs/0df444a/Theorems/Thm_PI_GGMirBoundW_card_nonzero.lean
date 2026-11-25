@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMirBoundW_card_nonzero
 -- name    : PI.GGMirBoundW.card_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:34.729992+00:00
 -- url     : https://prove2.me/theorems/72139233-3d72-4cb5-b136-94eb70a65542

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_restrictNormal_eq_frobenius_zpow_iff
 -- name    : GroundTheory.LocalField.restrictNormal_eq_frobenius_zpow_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:04:42.586929+00:00
 -- url     : https://prove2.me/theorems/b981adda-a2d2-523f-a3c5-b8dbdfc9d940

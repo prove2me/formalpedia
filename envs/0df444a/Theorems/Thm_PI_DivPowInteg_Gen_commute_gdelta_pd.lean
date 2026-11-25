@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DivPowInteg_Gen_commute_gdelta_pd
 -- name    : PI.DivPowInteg.Gen.commute_gdelta_pd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:37:08.023384+00:00
 -- url     : https://prove2.me/theorems/60dd043a-3ecf-49af-9097-5c2f9c626605

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_tele
 -- name    : PI.FJMX.tele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:30:01.311582+00:00
 -- url     : https://prove2.me/theorems/c5ab9611-b1b5-495a-aaa4-4c51e067d5ca

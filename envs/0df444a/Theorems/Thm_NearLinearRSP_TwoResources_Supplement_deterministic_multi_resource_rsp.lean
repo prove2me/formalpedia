@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearLinearRSP_TwoResources_Supplement_deterministic_multi_resource_rsp
 -- name    : NearLinearRSP.TwoResources.Supplement.deterministic_multi_resource_rsp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T17:22:48.97122+00:00
 -- url     : https://prove2.me/theorems/2f48645d-1c01-4776-b273-0486110a17be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDualPair_UnitaryGroupMassFormula_cs
 -- name    : PI.IsoDualPair.UnitaryGroupMassFormula.cs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:09:05.08487+00:00
 -- url     : https://prove2.me/theorems/2e637317-9728-5d90-b396-ca2e8f3cfaa0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cloud_node_projection_norm
 -- name    : GlobalTheory.cloud_node_projection_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:49:48.816559+00:00
 -- url     : https://prove2.me/theorems/bef1b156-75d5-4408-b73e-5352f31afbf8

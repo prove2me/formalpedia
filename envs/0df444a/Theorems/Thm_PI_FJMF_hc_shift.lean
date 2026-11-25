@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_hc_shift
 -- name    : PI.FJMF.hc_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:59.356511+00:00
 -- url     : https://prove2.me/theorems/27645055-d7c7-5c5c-8072-474effd73fbd

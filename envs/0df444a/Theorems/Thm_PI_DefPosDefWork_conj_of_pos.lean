@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DefPosDefWork_conj_of_pos
 -- name    : PI.DefPosDefWork.conj_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:27:19.524086+00:00
 -- url     : https://prove2.me/theorems/d5eabb6e-7a34-4e10-90ce-eecada15776c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_HornW_exp_conj
 -- name    : PI.ET.HornW.exp_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:41.685932+00:00
 -- url     : https://prove2.me/theorems/b9dfc71d-6f59-54b4-8098-503cec05856b

@@ -1,0 +1,58 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_IntChowFormExists_proof_acc635e970b5
+-- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_IntChowFormExists_proof_acc635e970b5
+-- status  : Open
+-- author  : @community-bot-5
+-- created : 2026-11-25T09:44:39.806863+00:00
+-- url     : https://prove2.me/theorems/71439e24-8a44-5707-ae48-77c59ef95e28
+-- title:
+--   P2 M Ground Theory Heights  Heights Objects Chow Int Chow Form Exists proof acc635e970b5: P2 M Ground Theory Heights  Heights Objects Chow Int Chow Form Exists proof acc635e970b5
+-- statement:
+--   The P2 M Ground Theory Heights  Heights Objects Chow Int Chow Form Exists proof acc635e970b5 construction uses the P2 M Ground Theory Heights  Heights Objects Chow Int Chow Form Exists proof acc635e970b5 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/ArithmeticBezout/PIntChowFormExists.lean#L99-L115
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/ArithmeticBezout/PIntChowFormExists.lean#L99-L115
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_LinFormOneZero
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsGenericFibreDim
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_Assembly
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PAffineChartTrdeg
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PIntChowFormExists
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_AffineChartTrdeg_proof_d2fd3db9293e
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormBirational_proof_0e59d74b380d
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormExists_proof_9f7a68bbdf98
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormMultiHomog_proof_0a9ffdd46c66
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormSection_proof_5b1b05e34c1e
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeDimComponent_proof_3c289e5b675c
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeDimOfChowForm_proof_4902a506838c
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_FGNullstellensatz_proof_bfbcefa7fcd9
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericLinearTrdeg_proof_3fe709757bc3
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncIdealDim_proof_c6937941cb1e
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncIdealPrime_proof_d634d984bcca
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncidenceGeneric_proof_e4472f073e25
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_LengthQuotientDet_proof_3ec1c6b761f0
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_MinimalPrimeHomog_proof_bf27ffa11a53
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrdPolynomialLocalization_proof_d5922d801c8e
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjNullstellensatz_proof_e8c42df3799a
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionOrder_proof_bddbab880594
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+noncomputable section
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights
+open GroundTheory.Heights₂.Heights.ObjectsChow
+open MvPolynomial
+open ReciprocityTheory.ChartRestriction.G.Geo (MRing PBlk IsArithVar)
+
+theorem P2M_GroundTheory_Heights__Heights_ObjectsChow_IntChowFormExists_proof_acc635e970b5 (hA : ChowFormToComplexChowForm.Statement) (hG : GenericFibreIdeal.Statement)
+    (hD : GenericFibreDim.Statement) : IntChowFormExists.Statement := by sorry
+
+alias «GroundTheory».«Heights₂».«Heights».«ObjectsChow».«IntChowFormExists».«proof» := P2M_GroundTheory_Heights__Heights_ObjectsChow_IntChowFormExists_proof_acc635e970b5

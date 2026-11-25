@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_integral_exp_mul
 -- name    : PI.EF.PK.integral_exp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:28:12.255817+00:00
 -- url     : https://prove2.me/theorems/8e1c12e3-abd6-5580-b056-a8f7e421d090

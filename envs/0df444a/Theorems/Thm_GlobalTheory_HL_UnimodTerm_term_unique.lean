@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_UnimodTerm_term_unique
 -- name    : GlobalTheory.HL.UnimodTerm.term_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:59:12.28985+00:00
 -- url     : https://prove2.me/theorems/42791d3f-6934-40c5-815f-c2ad7e4c8e43

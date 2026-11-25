@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_continuous_ideleEmbedding
 -- name    : GroundTheory.Global.continuous_ideleEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:23:11.588545+00:00
 -- url     : https://prove2.me/theorems/0fa8e802-8893-4d05-9b4e-fd4e862b0e74

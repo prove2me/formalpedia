@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_side_split
 -- name    : PI.EF.PK.side_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:28:17.604387+00:00
 -- url     : https://prove2.me/theorems/31f82819-4915-455a-a2dd-3f3efbb0ae29

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinKW_LocTo_inclR_smul_mem
 -- name    : PI.FinKW.LocTo.inclR_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:34:21.946889+00:00
 -- url     : https://prove2.me/theorems/bda796a6-af91-532f-a01e-a2c4049f9eb0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_OpsW_substOps_holds
 -- name    : PI.BeDiagZp.OpsW.substOps_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:40:58.692539+00:00
 -- url     : https://prove2.me/theorems/333325eb-b4f6-490d-b990-09e1d7d3cd1b

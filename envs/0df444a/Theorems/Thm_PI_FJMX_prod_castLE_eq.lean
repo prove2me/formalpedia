@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_prod_castLE_eq
 -- name    : PI.FJMX.prod_castLE_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:30:22.624892+00:00
 -- url     : https://prove2.me/theorems/b627f849-ca1d-4b6b-9c19-4b88552c944d

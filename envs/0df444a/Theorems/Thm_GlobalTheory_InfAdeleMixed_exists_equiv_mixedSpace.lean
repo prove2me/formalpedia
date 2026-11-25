@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InfAdeleMixed_exists_equiv_mixedSpace
 -- name    : GlobalTheory.InfAdeleMixed.exists_equiv_mixedSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:20:32.351588+00:00
 -- url     : https://prove2.me/theorems/8eb2d9a0-508a-531c-a1be-ce052abcd37f

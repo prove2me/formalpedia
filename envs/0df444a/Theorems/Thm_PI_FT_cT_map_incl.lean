@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FT_cT_map_incl
 -- name    : PI.FT.cT_map_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:29:19.889799+00:00
 -- url     : https://prove2.me/theorems/16676301-4674-4c1a-b3b7-627f620b2265

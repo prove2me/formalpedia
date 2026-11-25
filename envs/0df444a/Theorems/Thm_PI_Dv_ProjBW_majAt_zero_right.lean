@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjBW_majAt_zero_right
 -- name    : PI.Dv.ProjBW.majAt_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:39.477252+00:00
 -- url     : https://prove2.me/theorems/8f788a1b-ad96-5c95-893c-34d0c0f9cac5

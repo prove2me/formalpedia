@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_sum_half
 -- name    : PI.FockOneDegW.sum_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:31:36.955091+00:00
 -- url     : https://prove2.me/theorems/1815d85c-8195-482f-83b6-980d39eee5ed

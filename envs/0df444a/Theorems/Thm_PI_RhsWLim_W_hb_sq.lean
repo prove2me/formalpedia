@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_hb_sq
 -- name    : PI.RhsWLim.W.hb_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:20:42.722807+00:00
 -- url     : https://prove2.me/theorems/e94a7c08-53c8-5cec-a14e-363d2cedc334

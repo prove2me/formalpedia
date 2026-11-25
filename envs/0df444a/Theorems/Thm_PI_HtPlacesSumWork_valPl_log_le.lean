@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HtPlacesSumWork_valPl_log_le
 -- name    : PI.HtPlacesSumWork.valPl_log_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:07:30.043405+00:00
 -- url     : https://prove2.me/theorems/4f452c62-278b-51bb-9532-6d038b2006e8

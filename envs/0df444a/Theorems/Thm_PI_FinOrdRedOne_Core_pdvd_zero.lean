@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinOrdRedOne_Core_pdvd_zero
 -- name    : PI.FinOrdRedOne.Core.pdvd_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:29.7238+00:00
 -- url     : https://prove2.me/theorems/aaf6d477-20bf-4206-a21a-35b422bd3f4a

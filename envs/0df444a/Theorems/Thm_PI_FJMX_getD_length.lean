@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_getD_length
 -- name    : PI.FJMX.getD_length
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:27.426316+00:00
 -- url     : https://prove2.me/theorems/25c846f5-3b37-4d46-9534-c90fe587dd90

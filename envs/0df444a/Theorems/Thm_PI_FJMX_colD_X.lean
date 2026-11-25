@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_colD_X
 -- name    : PI.FJMX.colD_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:05.30435+00:00
 -- url     : https://prove2.me/theorems/d4b2d679-19c5-4e1f-b5fd-02f838aa9d52

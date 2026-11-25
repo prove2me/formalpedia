@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesQuotGramLog_full_1c29f5d3742d
 -- name    : P2M_GroundTheory_Heights__Heights_LinesQuotGramLog_full_1c29f5d3742d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:26:03.291741+00:00
 -- url     : https://prove2.me/theorems/d6207b9d-8eea-4702-88e7-5f73654f387b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_matrix_entries_integral
 -- name    : PI.InvTopW.matrix_entries_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:08:07.339027+00:00
 -- url     : https://prove2.me/theorems/79698a9d-b715-4899-adff-3d4bbe3a73c6

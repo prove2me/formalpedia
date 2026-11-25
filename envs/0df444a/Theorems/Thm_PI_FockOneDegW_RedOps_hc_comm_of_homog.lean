@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_RedOps_hc_comm_of_homog
 -- name    : PI.FockOneDegW.RedOps.hc_comm_of_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:31:49.421167+00:00
 -- url     : https://prove2.me/theorems/27067154-437a-535d-92c5-897cc6eaf452

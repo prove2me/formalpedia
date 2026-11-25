@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_FlagModel_isPrime_alt
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.FlagModel.isPrime_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:03:33.304271+00:00
 -- url     : https://prove2.me/theorems/f247a832-0121-463e-af01-93233efdaef5

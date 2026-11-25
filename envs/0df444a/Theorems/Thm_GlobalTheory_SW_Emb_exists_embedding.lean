@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Emb_exists_embedding
 -- name    : GlobalTheory.SW.Emb.exists_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:39:28.741736+00:00
 -- url     : https://prove2.me/theorems/b9e1bf18-d7b1-465b-b0cf-0aa517c8d67f

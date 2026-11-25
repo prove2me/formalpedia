@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_Xsum_inter
 -- name    : GlobalTheory.TateDecomp.Xsum_inter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:01:41.852046+00:00
 -- url     : https://prove2.me/theorems/2daa5cd8-246a-58e3-99a8-59f5fcb8a6d8

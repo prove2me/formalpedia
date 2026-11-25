@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CompAtExist_muV_int_eq_one_iff
 -- name    : PI.CompAtExist.muV_int_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:26:41.805833+00:00
 -- url     : https://prove2.me/theorems/ff684817-fcb2-42be-9769-0ee5859c184b

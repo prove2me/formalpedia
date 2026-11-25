@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGCardUniWork_card_pairs
 -- name    : PI.GGCardUniWork.card_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:31:23.085424+00:00
 -- url     : https://prove2.me/theorems/2a0df54c-b721-4cd7-9ed1-0e3a1cdafc7b

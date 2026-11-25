@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_SubstW_coeff_expMv_eq
 -- name    : PI.BeDiagZp.SubstW.coeff_expMv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:24:59.556412+00:00
 -- url     : https://prove2.me/theorems/11e4582f-69da-53ed-930f-26ce669bb5d0

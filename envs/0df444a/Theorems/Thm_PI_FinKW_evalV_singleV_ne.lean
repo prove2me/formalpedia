@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinKW_evalV_singleV_ne
 -- name    : PI.FinKW.evalV_singleV_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:43.905638+00:00
 -- url     : https://prove2.me/theorems/1a7c4954-edd1-40f1-ac04-6eea1979ee09

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglTriFactor_Wk_prod_upd_zero
 -- name    : PI.FglTriFactor.Wk.prod_upd_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:29:58.656608+00:00
 -- url     : https://prove2.me/theorems/ae7cc475-55a0-4218-8c17-4ea69ea14a0d

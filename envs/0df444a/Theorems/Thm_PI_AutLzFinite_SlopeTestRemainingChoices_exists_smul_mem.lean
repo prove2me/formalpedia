@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AutLzFinite_SlopeTestRemainingChoices_exists_smul_mem
 -- name    : PI.AutLzFinite.SlopeTestRemainingChoices.exists_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:24:38.862065+00:00
 -- url     : https://prove2.me/theorems/2768aaa2-1220-4545-8306-ddd946918ce0

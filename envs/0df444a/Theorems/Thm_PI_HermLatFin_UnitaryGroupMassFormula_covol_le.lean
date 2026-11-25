@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HermLatFin_UnitaryGroupMassFormula_covol_le
 -- name    : PI.HermLatFin.UnitaryGroupMassFormula.covol_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:06:36.354804+00:00
 -- url     : https://prove2.me/theorems/12df8cfb-3246-4830-9948-f671deae472d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglChordFactor_Wk_wqc_isWq
 -- name    : PI.FglChordFactor.Wk.wqc_isWq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:38.942802+00:00
 -- url     : https://prove2.me/theorems/a6791174-b5cc-4a32-b7e3-9efbcf63207a

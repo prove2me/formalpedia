@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AmpRootJacW_shear_mp
 -- name    : PI.AmpRootJacW.shear_mp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:23:39.384157+00:00
 -- url     : https://prove2.me/theorems/a7bf451b-e07d-4d26-8616-ffac954c450b

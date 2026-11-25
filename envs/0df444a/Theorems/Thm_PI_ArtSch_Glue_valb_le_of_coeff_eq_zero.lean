@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ArtSch_Glue_valb_le_of_coeff_eq_zero
 -- name    : PI.ArtSch.Glue.valb_le_of_coeff_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:23:34.902297+00:00
 -- url     : https://prove2.me/theorems/013e67aa-980c-5995-8ef8-7e0e86193a10

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FixFrames_perp_spanTo_iff
 -- name    : GlobalTheory.HL.FixFrames.perp_spanTo_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:41:54.580826+00:00
 -- url     : https://prove2.me/theorems/a6ce5d5f-46f4-49cf-939a-1acdecc3a9d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RecQOfRecursion_integral_eq_857bb0c640d8
 -- name    : P2M_GroundTheory_Heights__Heights_RecQOfRecursion_integral_eq_857bb0c640d8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:07:10.752551+00:00
 -- url     : https://prove2.me/theorems/2a3d550a-cd94-456a-a1f1-11d0db60c7a2

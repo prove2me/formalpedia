@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_ZetaSevenHalvesBounds_tuple_injOn_e0a8cda4a4ec
 -- name    : P2M_GroundTheory_Heights__Theta_ZetaSevenHalvesBounds_tuple_injOn_e0a8cda4a4ec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:53:02.313415+00:00
 -- url     : https://prove2.me/theorems/8ecc533e-0888-42da-b46a-03184eac9db9

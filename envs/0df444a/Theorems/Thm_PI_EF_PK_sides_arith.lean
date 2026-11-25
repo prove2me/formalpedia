@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_sides_arith
 -- name    : PI.EF.PK.sides_arith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:28:28.7443+00:00
 -- url     : https://prove2.me/theorems/48d81616-005a-54d4-836c-e8fe19e0c7df

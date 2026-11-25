@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FHS_mixed1
 -- name    : PI.FHS.mixed1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:31:44.09632+00:00
 -- url     : https://prove2.me/theorems/79a5f620-88ed-57a1-8526-b8b10e192d7a

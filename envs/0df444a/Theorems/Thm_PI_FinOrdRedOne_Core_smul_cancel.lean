@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinOrdRedOne_Core_smul_cancel
 -- name    : PI.FinOrdRedOne.Core.smul_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:28.912976+00:00
 -- url     : https://prove2.me/theorems/c41e40a4-fa05-4f00-bc2a-9ad1a39563fb

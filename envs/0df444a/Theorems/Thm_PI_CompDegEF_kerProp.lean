@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CompDegEF_kerProp
 -- name    : PI.CompDegEF.kerProp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:29.267122+00:00
 -- url     : https://prove2.me/theorems/9169f3b3-36c7-4b2e-8367-209a71cff678

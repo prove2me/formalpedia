@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_RK_form_eq
 -- name    : PI.Dv.RK.form_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:28:05.497222+00:00
 -- url     : https://prove2.me/theorems/9d9a63a0-afd1-4c5f-9148-2bf01055701a

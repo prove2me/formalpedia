@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelSurjWork_exists_ne_zero_tensor
 -- name    : PI.GreenLabelSurjWork.exists_ne_zero_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:56.533799+00:00
 -- url     : https://prove2.me/theorems/446e3162-c4ff-4489-a381-99fd83b3e125

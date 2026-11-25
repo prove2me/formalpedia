@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinOrdRedOne_Core_isUnit_natCast_of_ne
 -- name    : PI.FinOrdRedOne.Core.isUnit_natCast_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:12.455622+00:00
 -- url     : https://prove2.me/theorems/f73c85c8-3975-49c9-9fef-bf8aab247e5b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MinimalPrimePlace_exists_maximal_ord_eq_1711457ea247
 -- name    : P2M_GroundTheory_Heights__Heights_MinimalPrimePlace_exists_maximal_ord_eq_1711457ea247
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:04:03.802904+00:00
 -- url     : https://prove2.me/theorems/da46f101-c8e7-41fc-9989-46cf838bce55

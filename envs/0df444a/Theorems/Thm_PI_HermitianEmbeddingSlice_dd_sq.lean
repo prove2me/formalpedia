@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HermitianEmbeddingSlice_dd_sq
 -- name    : PI.HermitianEmbeddingSlice.dd_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:06:36.593305+00:00
 -- url     : https://prove2.me/theorems/3726112b-c18c-4d6d-b853-79efc17e7c55

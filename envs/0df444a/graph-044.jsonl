@@ -1395,14 +1395,14 @@
 {"parent": "Formalism.CohomologicalDescent.ShortWeightBounds.rank_pos_of_hyp", "child": "Formalism_PieriBlockIdeals_PieriColumnMinors_RealLocalDeltaNabla", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.mem_ratSpan_of_isLattice_pi", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_ExistsIntGeneratorsCardEqOfIsLatticePi", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.mem_subfield_of_zpow_mem", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_MemSubfieldOfBilinFormBasisMonomials", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.morse_local", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LocalHolomorphicMorseInequalityUniform", "via": ["statement"]}
-{"parent": "GlobalTheory.morse_local", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ContinuousOnComplexHessianOfContDiffOnTwoStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.morse_local", "child": "ReciprocityTheory.L2DbarEstimates.Ck.re", "via": ["statement"]}
-{"parent": "GlobalTheory.morse_local", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ComplexHessianPosSemidefOfLeviFormNonnegStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.morse_local", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_NormSqMulIntegralBallLeOfCircleInvariantStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.morse_local", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_UniformTaylorBoundLeviPluriharmonicSplitStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.morse_local", "child": "ReciprocityTheory_L2DbarEstimates_IsLocalHomeomorph", "via": ["statement"]}
-{"parent": "GlobalTheory.morse_local", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_TruncatedGaussianIntegralUniformPosSemidefStatement", "via": ["statement"]}
+{"parent": "GlobalTheory.morse_local", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LocalHolomorphicMorseInequalityUniform", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.morse_local", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ContinuousOnComplexHessianOfContDiffOnTwoStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.morse_local", "child": "ReciprocityTheory.L2DbarEstimates.Ck.re", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.morse_local", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ComplexHessianPosSemidefOfLeviFormNonnegStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.morse_local", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_NormSqMulIntegralBallLeOfCircleInvariantStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.morse_local", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_UniformTaylorBoundLeviPluriharmonicSplitStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.morse_local", "child": "ReciprocityTheory_L2DbarEstimates_IsLocalHomeomorph", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.morse_local", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_TruncatedGaussianIntegralUniformPosSemidefStatement", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.bvPathJumpMeasureIntegralEqTsumV1", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.bvPathJumpMeasureIntegralEqTsumV1", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.bvPathJumpMeasureIntegralEqTsumV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
@@ -9435,8 +9435,8 @@
 {"parent": "GlobalTheory.HermFrame.conn_dual", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_LeTwoMulOfForallScale", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HermFrame.conn_dual", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_EventuallyDifferentiableAtOfContDiffAtTwo", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HermFrame.conn_dual", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_ExtFormAdjEqNegSecondForm", "via": ["solution", "statement"]}
-{"parent": "GroundTheory.LocalField.FormalGroup.existsUnique_fixedPoint", "child": "GroundTheory_LocalFields_FormalGroups_Truncation", "via": ["statement"]}
-{"parent": "GroundTheory.LocalField.FormalGroup.existsUnique_fixedPoint", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_ExistsUniqueFixedPoint", "via": ["statement"]}
+{"parent": "GroundTheory.LocalField.FormalGroup.existsUnique_fixedPoint", "child": "GroundTheory_LocalFields_FormalGroups_Truncation", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.LocalField.FormalGroup.existsUnique_fixedPoint", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_ExistsUniqueFixedPoint", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.finite_piece_of_polyGradedSMul", "child": "Development_AbelianVarietyTheory_Definitions_QuasicoherentCohomology_ExistsAwayFracOfMemHomLoc", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.finite_piece_of_polyGradedSMul", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_FinitePieceOfPolyGradedSMul", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.finite_piece_of_polyGradedSMul", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_XSmulMemWeightedHomogeneousSubmodule", "via": ["solution", "statement"]}
@@ -9500,9 +9500,9 @@
 {"parent": "GlobalTheory.PDiv.pow_digit_eq", "child": "Development_AbelianVarietyTheory_Definitions_ShimuraVarieties_MemPrimitiveTensorsIffIsPrimitiveElem", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.PDiv.pow_digit_eq", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_FinrankOfIsStandardSmoothOfRelativeDimension", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.LocalField.surjective_of_graded_surjective", "child": "GroundTheory_LocalFields_FilteredSurj", "via": ["solution", "statement"]}
-{"parent": "GroundTheory.PAdicHodge.IsPerfectoidField.isPrincipal_ker_fontaineTheta", "child": "GroundTheory_PAdicHodge_PerfectoidField", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.IsPerfectoidField.isPrincipal_ker_fontaineTheta", "child": "GroundTheory_PAdicHodge_KerTheta", "via": ["statement"]}
-{"parent": "GroundTheory.PAdicHodge.IsPerfectoidField.isPrincipal_ker_fontaineTheta", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_LeSpanSingletonOfForallMemEq", "via": ["statement"]}
+{"parent": "GroundTheory.PAdicHodge.IsPerfectoidField.isPrincipal_ker_fontaineTheta", "child": "GroundTheory_PAdicHodge_PerfectoidField", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.IsPerfectoidField.isPrincipal_ker_fontaineTheta", "child": "GroundTheory_PAdicHodge_KerTheta", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.PAdicHodge.IsPerfectoidField.isPrincipal_ker_fontaineTheta", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_LeSpanSingletonOfForallMemEq", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.PAdicHodge.inv_le_norm_natCast_padicAlgCl", "child": "GroundTheory_PAdicHodge_AxLemma", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.PAdicHodge.inv_le_norm_natCast_padicAlgCl", "child": "GroundTheory_PAdicHodge_GaloisOnCp", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.GLnLocal.isCompact_iwahori", "child": "GroundTheory_AutomorphicForms_AffineBruhat", "via": ["solution", "statement"]}
@@ -28097,9 +28097,9 @@
 {"parent": "GroundTheory_AutomorphicForms_HarishChandraRegularity_CartanBasis", "child": "GroundTheory.Automorphic.IsExpLieAlgebra.coe_rightTranslateEnd", "via": ["statement"]}
 {"parent": "GlobalTheory.algebraMap_trace_eq_sum_of_equiv_algHom", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_NatCardAlgHomEqFinrankOfIsReducedOfIsFractionRin", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.algebraMap_trace_eq_sum_of_equiv_algHom", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_LengthCommensurableSpanSpanOfDetNeZero", "via": ["solution", "statement"]}
-{"parent": "Formalism.L2.FormalSeriesBounds.van_hCol", "child": "Formalism_LocalToGlobal_CharacterGerms_RowTieAxes", "via": ["statement"]}
-{"parent": "Formalism.L2.FormalSeriesBounds.van_hCol", "child": "Formalism_LocalToGlobal_CharacterGerms_RowTieSelf", "via": ["statement"]}
-{"parent": "Formalism.L2.FormalSeriesBounds.van_hCol", "child": "Formalism_LocalToGlobal_CharacterGerms_RowTiePAxesSelfSt", "via": ["statement"]}
+{"parent": "Formalism.L2.FormalSeriesBounds.van_hCol", "child": "Formalism_LocalToGlobal_CharacterGerms_RowTieAxes", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.FormalSeriesBounds.van_hCol", "child": "Formalism_LocalToGlobal_CharacterGerms_RowTieSelf", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.FormalSeriesBounds.van_hCol", "child": "Formalism_LocalToGlobal_CharacterGerms_RowTiePAxesSelfSt", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_CubeComplexGradedModuleExactAtOfLargeDegreeStatement", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_CubeComplexGradedModuleExactAtOfLargeDegree", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_CubeComplexGradedModuleExactAtOfLargeDegreeStatement", "child": "Development_AbelianVarietyTheory_Definitions_QuasicoherentCohomology_ExistsAwayFracOfMemHomLoc", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ChartEnergyCocycleAlt_pairing_perm_a5b2a2ea873e", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PChartEnergyCocycle", "via": ["solution", "statement"]}
@@ -35548,9 +35548,9 @@
 {"parent": "GlobalTheory.section_eq_zero_of_forall_geometric_point", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.section_eq_zero_of_forall_geometric_point", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_GlobalSectionsRankAlgClosed", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.section_eq_zero_of_forall_geometric_point", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_PlaceDivisors_ThmASt", "via": ["solution", "statement"]}
-{"parent": "Formalism.L2.FormalSeriesBounds.FBChart.rawSelf_axis0", "child": "Formalism_LocalToGlobal_CharacterGerms_RowTieCartFB", "via": ["statement"]}
-{"parent": "Formalism.L2.FormalSeriesBounds.FBChart.rawSelf_axis0", "child": "Formalism_LocalToGlobal_CharacterGerms_RowTiePCartSelfSt", "via": ["statement"]}
-{"parent": "Formalism.L2.FormalSeriesBounds.FBChart.rawSelf_axis0", "child": "Formalism_LocalToGlobal_CharacterGerms_RowTiePAxesSelfSt", "via": ["statement"]}
+{"parent": "Formalism.L2.FormalSeriesBounds.FBChart.rawSelf_axis0", "child": "Formalism_LocalToGlobal_CharacterGerms_RowTieCartFB", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.FormalSeriesBounds.FBChart.rawSelf_axis0", "child": "Formalism_LocalToGlobal_CharacterGerms_RowTiePCartSelfSt", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.FormalSeriesBounds.FBChart.rawSelf_axis0", "child": "Formalism_LocalToGlobal_CharacterGerms_RowTiePAxesSelfSt", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Arith.Abelian.finrank_powField", "child": "GroundTheory_ArithmeticGeometry_AbelianVarieties_IsogenyFrobenius", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Arith.Abelian.finrank_powField", "child": "GroundTheory_ArithmeticGeometry_AbelianVarieties_Isogeny", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.FormalSeriesBounds.RF.rowShift_minor", "child": "Formalism_LocalToGlobal_CharacterGerms_BlockMembershipNormOne", "via": ["solution", "statement"]}
@@ -53710,8 +53710,8 @@
 {"parent": "GroundTheory.Automorphic.Reduction.eventually_norm_le_one", "child": "GroundTheory_GlobalFields_IdeleGroups_IdeleNorms", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Reduction.eventually_norm_le_one", "child": "GroundTheory_AutomorphicForms_AdelicGLn", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Reduction.eventually_norm_le_one", "child": "GroundTheory_AutomorphicForms_ReductionHeight", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.FD.DataX.LZ_periodic", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_MmatMulVec", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.FD.DataX.LZ_periodic", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_DiscrMulHermitianIntegral", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.FD.DataX.LZ_periodic", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_MmatMulVec", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.FD.DataX.LZ_periodic", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_DiscrMulHermitianIntegral", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_HeightProofs_AemeasurableFinsumSection", "child": "ReciprocityTheory_SemistableReduction_AlgAll", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_HeightProofs_AemeasurableFinsumSection", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_SacSuccAbove", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_HeightProofs_AemeasurableFinsumSection", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_AlgebraMapOLInjective", "via": ["statement"]}
@@ -55932,8 +55932,8 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_AlgebraicCurves_ExistsMulEqMapOfIsAlgebraic", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_NormOrderStatement", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AlgebraicCurves_ExistsMulEqMapOfIsAlgebraic", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_ValuationResidueLemmas", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AlgebraicCurves_ExistsMulEqMapOfIsAlgebraic", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_AlgebraMapOLInjective", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.FD.DataX.Mmat_cong", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_MmatMulVec", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.FD.DataX.Mmat_cong", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_DiscrMulHermitianIntegral", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.FD.DataX.Mmat_cong", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_MmatMulVec", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.FD.DataX.Mmat_cong", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_DiscrMulHermitianIntegral", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.LocalField.Abstract.frobeniusClosure_le", "child": "GroundTheory_LocalFields_AbstractLocalReciprocity_Valuation", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.LocalField.Abstract.frobeniusClosure_le", "child": "GroundTheory_LocalFields_AbstractLocalReciprocity_ExistsEqNsmulOfProjEqZero", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.LocalField.Abstract.frobeniusClosure_le", "child": "GroundTheory_LocalFields_AbstractLocalReciprocity_Frobenius", "via": ["solution", "statement"]}
@@ -89121,14 +89121,14 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PTwinJoinPointNumbers", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_ImportsTerFurther", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PTwinJoinPointNumbers", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_StatementsVerticalComponentFibre", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PTwinJoinPointNumbers", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_StatementsJoinVariety", "via": ["statement"]}
-{"parent": "GlobalTheory.T.first_functional_integral_smooth_compact", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_FirstFunctionalIntegralSmoothCompactStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.T.first_functional_integral_smooth_compact", "child": "GroundTheory_AutomorphicForms_HarishChandraRegularity_ExpHaar", "via": ["statement"]}
-{"parent": "GlobalTheory.T.first_functional_integral_smooth_compact", "child": "GroundTheory_AutomorphicForms_DixmierMalliavin", "via": ["statement"]}
-{"parent": "GlobalTheory.T.first_functional_integral_smooth_compact", "child": "GroundTheory_AutomorphicForms_HarishChandraInvariance_Compact", "via": ["statement"]}
-{"parent": "GlobalTheory.T.first_functional_integral_smooth_compact", "child": "GroundTheory_AutomorphicForms_GKModules_Casimir", "via": ["statement"]}
-{"parent": "GlobalTheory.T.first_functional_integral_smooth_compact", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_FirstFunctionalIntegralSmoothCompact", "via": ["statement"]}
-{"parent": "GlobalTheory.T.first_functional_integral_smooth_compact", "child": "GroundTheory_AutomorphicForms_GKModules_ParametricIntegral", "via": ["statement"]}
-{"parent": "GlobalTheory.T.first_functional_integral_smooth_compact", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_IsExpLieAlgebraComplexUnits", "via": ["statement"]}
+{"parent": "GlobalTheory.T.first_functional_integral_smooth_compact", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_FirstFunctionalIntegralSmoothCompactStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.first_functional_integral_smooth_compact", "child": "GroundTheory_AutomorphicForms_HarishChandraRegularity_ExpHaar", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.first_functional_integral_smooth_compact", "child": "GroundTheory_AutomorphicForms_DixmierMalliavin", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.first_functional_integral_smooth_compact", "child": "GroundTheory_AutomorphicForms_HarishChandraInvariance_Compact", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.first_functional_integral_smooth_compact", "child": "GroundTheory_AutomorphicForms_GKModules_Casimir", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.first_functional_integral_smooth_compact", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_FirstFunctionalIntegralSmoothCompact", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.first_functional_integral_smooth_compact", "child": "GroundTheory_AutomorphicForms_GKModules_ParametricIntegral", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.first_functional_integral_smooth_compact", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_IsExpLieAlgebraComplexUnits", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ChartCmp.JetDim.homAt_comp", "child": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.IsGrpPullback.comp", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ChartCmp.JetDim.homAt_comp", "child": "Development_AbelianVarietyTheory_Proofs_FormalGroupCharts_UniversalJetCoordinatesDimUnique", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ChartCmp.JetDim.homAt_comp", "child": "Development_AbelianVarietyTheory_Definitions_TwoChartAtlas_AdditionLawSecondIdentity", "via": ["solution", "statement"]}
@@ -89242,10 +89242,10 @@
 {"parent": "GlobalTheory.WachFree.free_of_regular", "child": "Formalism_SharpRestriction_LevelLetterCocycles_DataNLoc", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.WachFree.free_of_regular", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_DvrComplete", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.WachFree.free_of_regular", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_MemXSmulOfProjective", "via": ["solution", "statement"]}
-{"parent": "P2M_UpperTheory_Comparison__formB_6c7ebdcf2338", "child": "Development_AutomorphicArithmetic_PrimitiveCosets_CoreAtH", "via": ["statement"]}
-{"parent": "P2M_UpperTheory_Comparison__formB_6c7ebdcf2338", "child": "Development_AutomorphicArithmetic_PrimitiveCosets_LevelFamily", "via": ["statement"]}
-{"parent": "P2M_UpperTheory_Comparison__formB_6c7ebdcf2338", "child": "Development_AutomorphicArithmetic_PrimitiveCosets_Imports", "via": ["statement"]}
-{"parent": "P2M_UpperTheory_Comparison__formB_6c7ebdcf2338", "child": "Development_AutomorphicArithmetic_DedekindLFunctions_LandauTheorems_ZeroFreeOfRpowWindow", "via": ["statement"]}
+{"parent": "P2M_UpperTheory_Comparison__formB_6c7ebdcf2338", "child": "Development_AutomorphicArithmetic_PrimitiveCosets_CoreAtH", "via": ["solution", "statement"]}
+{"parent": "P2M_UpperTheory_Comparison__formB_6c7ebdcf2338", "child": "Development_AutomorphicArithmetic_PrimitiveCosets_LevelFamily", "via": ["solution", "statement"]}
+{"parent": "P2M_UpperTheory_Comparison__formB_6c7ebdcf2338", "child": "Development_AutomorphicArithmetic_PrimitiveCosets_Imports", "via": ["solution", "statement"]}
+{"parent": "P2M_UpperTheory_Comparison__formB_6c7ebdcf2338", "child": "Development_AutomorphicArithmetic_DedekindLFunctions_LandauTheorems_ZeroFreeOfRpowWindow", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.HermiteMinkowski.natAbs_discr_dvd", "child": "Development_AutomorphicSpectrum_Proofs_GlobalProofs_DifferentDvdRamifiedPrimePowerStatement", "via": ["statement"]}
 {"parent": "GlobalTheory.CompanionTheory.HermiteMinkowski.natAbs_discr_dvd", "child": "ReciprocityTheory_Hypotheses_GalCoh", "via": ["statement"]}
 {"parent": "GlobalTheory.CompanionTheory.HermiteMinkowski.natAbs_discr_dvd", "child": "GroundTheory_ProfiniteCohomology_RestrictedRamification_IsUnramifiedOutsideIffLeMaxUnramifiedOutside", "via": ["statement"]}
@@ -93432,13 +93432,13 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_weightedHomogeneousComponent_mem_map_aeval_ef7f27c20847", "child": "GroundTheory_HeightsAndTheta_Heights_Intersections_PProjBundleMultiHomogGrad", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Kleiman_KHCombContract_ext_zero_3c4d8f7b1f92", "child": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_KHCombContractSt", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Kleiman_KHCombContract_ext_zero_3c4d8f7b1f92", "child": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_PKHCombContract", "via": ["solution", "statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_volume_preserving_uncurry_665ed32e1d59", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PConeMapAreaOne", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_volume_preserving_uncurry_665ed32e1d59", "child": "ReciprocityTheory_AnalyticForms_AnalyticCharts_Osgood", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_volume_preserving_uncurry_665ed32e1d59", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_VolumePreservingUncurry", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_volume_preserving_uncurry_665ed32e1d59", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PFrameJacobianSum", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_volume_preserving_uncurry_665ed32e1d59", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsConeMapAreaOne", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_volume_preserving_uncurry_665ed32e1d59", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsAreaFormulaInj", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_volume_preserving_uncurry_665ed32e1d59", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PConeIntegralMass", "via": ["statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_volume_preserving_uncurry_665ed32e1d59", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PConeMapAreaOne", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_volume_preserving_uncurry_665ed32e1d59", "child": "ReciprocityTheory_AnalyticForms_AnalyticCharts_Osgood", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_volume_preserving_uncurry_665ed32e1d59", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_VolumePreservingUncurry", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_volume_preserving_uncurry_665ed32e1d59", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PFrameJacobianSum", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_volume_preserving_uncurry_665ed32e1d59", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsConeMapAreaOne", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_volume_preserving_uncurry_665ed32e1d59", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsAreaFormulaInj", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_volume_preserving_uncurry_665ed32e1d59", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PConeIntegralMass", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Sobolev.fourierInv_smulLeft_fourier_apply", "child": "GroundTheory_AutomorphicForms_PartialDifferential_SobolevRellich", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Sobolev.fourierInv_smulLeft_fourier_apply", "child": "GroundTheory_AutomorphicForms_HilbertSchmidtKernel", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Sobolev.fourierInv_smulLeft_fourier_apply", "child": "GroundTheory_AutomorphicForms_HilbertSchmidtCompact", "via": ["solution", "statement"]}
@@ -94425,13 +94425,13 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_injective_projHom_of_finite_5201a3ac092b", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_ImportsBis", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FiniteCoverPuncturedPolydisc_shift_shift_2a23487f67ac", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StFiniteCoverPuncturedPolydisc", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FiniteCoverPuncturedPolydisc_shift_shift_2a23487f67ac", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PFiniteCoverPuncturedPolydisc", "via": ["solution", "statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_measurePreserving_toLp_5a69aa31999e", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PConeMapAreaOne", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_measurePreserving_toLp_5a69aa31999e", "child": "ReciprocityTheory_AnalyticForms_AnalyticCharts_Osgood", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_measurePreserving_toLp_5a69aa31999e", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_VolumePreservingUncurry", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_measurePreserving_toLp_5a69aa31999e", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PFrameJacobianSum", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_measurePreserving_toLp_5a69aa31999e", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsConeMapAreaOne", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_measurePreserving_toLp_5a69aa31999e", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsAreaFormulaInj", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_measurePreserving_toLp_5a69aa31999e", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PConeIntegralMass", "via": ["statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_measurePreserving_toLp_5a69aa31999e", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PConeMapAreaOne", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_measurePreserving_toLp_5a69aa31999e", "child": "ReciprocityTheory_AnalyticForms_AnalyticCharts_Osgood", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_measurePreserving_toLp_5a69aa31999e", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_VolumePreservingUncurry", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_measurePreserving_toLp_5a69aa31999e", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PFrameJacobianSum", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_measurePreserving_toLp_5a69aa31999e", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsConeMapAreaOne", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_measurePreserving_toLp_5a69aa31999e", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsAreaFormulaInj", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_measurePreserving_toLp_5a69aa31999e", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PConeIntegralMass", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_HilbertSamuel_EventualPolynomial_listDiff_eq_mixedDiff_6117ca062b3f", "child": "GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_StatementsEventualPolynomial", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_HilbertSamuel_EventualPolynomial_listDiff_eq_mixedDiff_6117ca062b3f", "child": "GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_PEventualPolynomial", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_MCBounds_injective_of_rank_3ea88de2b0c7", "child": "GroundTheory_HeightsAndTheta_Heights_MatrixCharts_Bounds", "via": ["solution", "statement"]}
@@ -94593,8 +94593,8 @@
 {"parent": "GlobalTheory.SobolevRep.isSmoothFun_foldr", "child": "GroundTheory_AutomorphicForms_DixmierMalliavin", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SobolevRep.isSmoothFun_foldr", "child": "GroundTheory_AutomorphicForms_HarishChandraInvariance_Compact", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SobolevRep.isSmoothFun_foldr", "child": "GroundTheory_AutomorphicForms_GKModules_ParametricIntegral", "via": ["solution", "statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_FiniteCovolume_det_sq_eq_one_of_preserves_bilin_20369bfe13c4", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_DetSqEqOneOfPreservesBilin", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_FiniteCovolume_det_sq_eq_one_of_preserves_bilin_20369bfe13c4", "child": "GroundTheory_HeightsAndTheta_Heights_FiniteCovolume_PUnipotentModulusHaar", "via": ["statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_FiniteCovolume_det_sq_eq_one_of_preserves_bilin_20369bfe13c4", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_DetSqEqOneOfPreservesBilin", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_FiniteCovolume_det_sq_eq_one_of_preserves_bilin_20369bfe13c4", "child": "GroundTheory_HeightsAndTheta_Heights_FiniteCovolume_PUnipotentModulusHaar", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ChowlaSelberg_DeltaQExpansionIntegral_twelve_smul_cSeries_5b870115efe4", "child": "GroundTheory_HeightsAndTheta_Heights_ChowlaSelberg_DeltaQExpansionIntegral", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_KCoord_finMean_add_3fcf64c86f89", "child": "GroundTheory_HeightsAndTheta_Heights_KernelsMatrix", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_KCoord_finMean_add_3fcf64c86f89", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_CoordWeak", "via": ["solution", "statement"]}
@@ -94911,11 +94911,11 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_isSaturated_top_5352420a8723", "child": "GroundTheory_HeightsAndTheta_Heights_HeightsOfSets_IsSaturatedFirstCoordinateLine", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConstantsDescend_exists_primitive_9418c28bff33", "child": "GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_PConstantsDescend", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConstantsDescend_exists_primitive_9418c28bff33", "child": "GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_StatementsConstantsDescend", "via": ["solution", "statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialRootPredicateFactor_extended_factor_edafc28f6428", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PPolynomialRootPredicateFactor", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialRootPredicateFactor_extended_factor_edafc28f6428", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StPolynomialRootPredicateFactor", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialRootPredicateFactor_extended_factor_edafc28f6428", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PRiemannExtensionAnalytic", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialRootPredicateFactor_extended_factor_edafc28f6428", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PAnalyticRootBranch", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialRootPredicateFactor_extended_factor_edafc28f6428", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PManifoldZerosComplementConnected", "via": ["statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialRootPredicateFactor_extended_factor_edafc28f6428", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PPolynomialRootPredicateFactor", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialRootPredicateFactor_extended_factor_edafc28f6428", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StPolynomialRootPredicateFactor", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialRootPredicateFactor_extended_factor_edafc28f6428", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PRiemannExtensionAnalytic", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialRootPredicateFactor_extended_factor_edafc28f6428", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PAnalyticRootBranch", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialRootPredicateFactor_extended_factor_edafc28f6428", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PManifoldZerosComplementConnected", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Inter_log_card_locIdeal_mul_59a410201a68", "child": "GroundTheory_HeightsAndTheta_Heights_Intersections_XcNotMemOfIsRelevant", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Inter_log_card_locIdeal_mul_59a410201a68", "child": "GroundTheory_HeightsAndTheta_Heights_Intersections_LogCardLocIdealUnitMul", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Inter_log_card_locIdeal_mul_59a410201a68", "child": "GroundTheory_HeightsAndTheta_Heights_Intersections_ImportsTerFurther", "via": ["solution", "statement"]}
@@ -95855,14 +95855,14 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_mCoordIdeal_y_e947815fd601", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_IsSmoothPts", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.FormalSeriesBounds.RowTiePSplit.alg_mulVec1", "child": "Formalism_LocalToGlobal_CharacterGerms_RowTiePSplitLA", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.FormalSeriesBounds.RowTiePSplit.alg_mulVec1", "child": "Formalism_LocalToGlobal_CharacterGerms_RowTiePSplitDef", "via": ["solution", "statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpModel_full_8b291331d559", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PDimensionInequality", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpModel_full_8b291331d559", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PBlowUpModel", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpModel_full_8b291331d559", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PQuotientHeightAddOne", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpModel_full_8b291331d559", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PReesAlgebraDim", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpModel_full_8b291331d559", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_AssemblyDimensionInequality", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpModel_full_8b291331d559", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PDimensionInequalityOneGenerator", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpModel_full_8b291331d559", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PPolynomialDimensionInequality", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpModel_full_8b291331d559", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PPolynomialPrimeOverZeroHeight", "via": ["statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpModel_full_8b291331d559", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PDimensionInequality", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpModel_full_8b291331d559", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PBlowUpModel", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpModel_full_8b291331d559", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PQuotientHeightAddOne", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpModel_full_8b291331d559", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PReesAlgebraDim", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpModel_full_8b291331d559", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_AssemblyDimensionInequality", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpModel_full_8b291331d559", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PDimensionInequalityOneGenerator", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpModel_full_8b291331d559", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PPolynomialDimensionInequality", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpModel_full_8b291331d559", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PPolynomialPrimeOverZeroHeight", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_CoordinateConeArithVar_birational_7092d53bf062", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PCoordConeArithVar", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_CoordinateConeArithVar_birational_7092d53bf062", "child": "GroundTheory_HeightsAndTheta_Heights_HeightComparison_IsMultiHomogIdealIff", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_CoordinateConeArithVar_birational_7092d53bf062", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_StatementsGrassHeight", "via": ["solution", "statement"]}
@@ -97809,11 +97809,11 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_Kleiman_KHCombContract_ext_hh_5b992995b6b6", "child": "GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_PKHCombContract", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.WeierstrassCurve.isPullback_chartZ", "child": "Development_AbelianVarietyTheory_Definitions_ShimuraVarieties_OpensRangeChartYSupOpensRangeChartZ", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.WeierstrassCurve.isPullback_chartZ", "child": "Development_AbelianVarietyTheory_Definitions_ShimuraVarieties_AwayLiftCompFromZeroRingHom", "via": ["solution", "statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_eval_homogenize_c2c6fe846b43", "child": "GroundTheory_HeightsAndTheta_Heights_OrbitLimits_PGoodChartZeroSet", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_eval_homogenize_c2c6fe846b43", "child": "GroundTheory_HeightsAndTheta_Heights_OrbitLimits_StGoodChartZeroSet", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_eval_homogenize_c2c6fe846b43", "child": "GroundTheory_HeightsAndTheta_Heights_OrbitLimits_PSegreChartZeroSet", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_eval_homogenize_c2c6fe846b43", "child": "ReciprocityTheory.ChartRestriction.G.Geo.scaleBlock_mem_zeroLocus", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_eval_homogenize_c2c6fe846b43", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_EvalSmulOfIsHomogeneousAlt", "via": ["statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_eval_homogenize_c2c6fe846b43", "child": "GroundTheory_HeightsAndTheta_Heights_OrbitLimits_PGoodChartZeroSet", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_eval_homogenize_c2c6fe846b43", "child": "GroundTheory_HeightsAndTheta_Heights_OrbitLimits_StGoodChartZeroSet", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_eval_homogenize_c2c6fe846b43", "child": "GroundTheory_HeightsAndTheta_Heights_OrbitLimits_PSegreChartZeroSet", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_eval_homogenize_c2c6fe846b43", "child": "ReciprocityTheory.ChartRestriction.G.Geo.scaleBlock_mem_zeroLocus", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_eval_homogenize_c2c6fe846b43", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_EvalSmulOfIsHomogeneousAlt", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_exists_multiHomog_of_mem_88b7c3ef52b8", "child": "GroundTheory_HeightsAndTheta_Heights_FieldsOfNumbers_PPrimeFiltration", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_exists_multiHomog_of_mem_88b7c3ef52b8", "child": "GroundTheory_HeightsAndTheta_Heights_FieldsOfNumbers_Statements", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_charZero_fnField_2bb6fd8394c2", "child": "GroundTheory_HeightsAndTheta_Heights_Intersections_FlagBundleSt", "via": ["solution", "statement"]}
@@ -97973,10 +97973,10 @@
 {"parent": "GroundTheory.PAdicHodge.algebraMap_intermediateField_cp", "child": "GroundTheory_PAdicHodge_GaloisOnCp", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_LengthFiniteAlgebra_finsum_reindex_9a25be9a211b", "child": "GroundTheory_HeightsAndTheta_Heights_ChowForms_StatementsSectionOrder", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_LengthFiniteAlgebra_finsum_reindex_9a25be9a211b", "child": "GroundTheory_HeightsAndTheta_Heights_ChowForms_PLengthFiniteAlgebra", "via": ["solution", "statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HolomorphicZeroSetDimH_dimH_regular_zeros_le_092cf97b9ce1", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PAnalyticImplicitChart", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HolomorphicZeroSetDimH_dimH_regular_zeros_le_092cf97b9ce1", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PHolomorphicZeroSetDimH", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HolomorphicZeroSetDimH_dimH_regular_zeros_le_092cf97b9ce1", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StHolomorphicZeroSetDimH", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HolomorphicZeroSetDimH_dimH_regular_zeros_le_092cf97b9ce1", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PProperHolomorphicSurjective", "via": ["statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HolomorphicZeroSetDimH_dimH_regular_zeros_le_092cf97b9ce1", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PAnalyticImplicitChart", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HolomorphicZeroSetDimH_dimH_regular_zeros_le_092cf97b9ce1", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PHolomorphicZeroSetDimH", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HolomorphicZeroSetDimH_dimH_regular_zeros_le_092cf97b9ce1", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StHolomorphicZeroSetDimH", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HolomorphicZeroSetDimH_dimH_regular_zeros_le_092cf97b9ce1", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PProperHolomorphicSurjective", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.GroupCoh.cupH_eq_neg_one_pow_smul_map_braiding", "child": "GroundTheory_TateCohomology_CupGraded", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.GroupCoh.cupH_eq_neg_one_pow_smul_map_braiding", "child": "GroundTheory_TateCohomology_CupProduct", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.GroupCoh.cupH_eq_neg_one_pow_smul_map_braiding", "child": "GroundTheory_TateCohomology_CochainReverse", "via": ["solution", "statement"]}
@@ -98397,8 +98397,8 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_FrameImplicitGraph_hasStrictFDerivAt_phi_7970470bf85b", "child": "GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_StFrameImplicitGraph", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_FrameImplicitGraph_hasStrictFDerivAt_phi_7970470bf85b", "child": "GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PFrameImplicitGraph", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_FrameImplicitGraph_hasStrictFDerivAt_phi_7970470bf85b", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_HasStrictFDerivAtEval", "via": ["solution", "statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_FiniteCovolume_measurePreserving_of_preserves_bilin_08f4b31d0013", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_DetSqEqOneOfPreservesBilin", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_FiniteCovolume_measurePreserving_of_preserves_bilin_08f4b31d0013", "child": "GroundTheory_HeightsAndTheta_Heights_FiniteCovolume_PUnipotentModulusHaar", "via": ["statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_FiniteCovolume_measurePreserving_of_preserves_bilin_08f4b31d0013", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_DetSqEqOneOfPreservesBilin", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_FiniteCovolume_measurePreserving_of_preserves_bilin_08f4b31d0013", "child": "GroundTheory_HeightsAndTheta_Heights_FiniteCovolume_PUnipotentModulusHaar", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ChartKernel_proof_1e8f34be57ab", "child": "GroundTheory_HeightsAndTheta_Heights_ChowForms_ImportsBis", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ChartKernel_proof_1e8f34be57ab", "child": "GroundTheory_HeightsAndTheta_Heights_ChowForms_PChartKernel", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.GroupCoh.h2IntAddEquiv_symm_apply_eq_H2_class", "child": "GroundTheory_TateCohomology_UniquelyDivisible", "via": ["solution", "statement"]}
@@ -99381,11 +99381,11 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_HermitianExtension_linearIndependent_sumElim_5643d048166f", "child": "GroundTheory_HeightsAndTheta_Heights_ArithDegree", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_HermitianExtension_linearIndependent_sumElim_5643d048166f", "child": "GroundTheory_HeightsAndTheta_Heights_HeightsOfSets_Slopes", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ChangeOfVariablesDegree_hasFDerivAt_cofactorFn_a81428026681", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PChangeOfVariablesDegreePiola", "via": ["solution", "statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_fibre_coeffs_extend_fb862d39adb5", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StWeaklyHolomorphicIntegral", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_fibre_coeffs_extend_fb862d39adb5", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StLocalBranchedCovering", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_fibre_coeffs_extend_fb862d39adb5", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PWeaklyHolomorphicIntegral", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_fibre_coeffs_extend_fb862d39adb5", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StNormalZerosNowhereDense", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_fibre_coeffs_extend_fb862d39adb5", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PLocalTrace", "via": ["statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_fibre_coeffs_extend_fb862d39adb5", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StWeaklyHolomorphicIntegral", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_fibre_coeffs_extend_fb862d39adb5", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StLocalBranchedCovering", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_fibre_coeffs_extend_fb862d39adb5", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PWeaklyHolomorphicIntegral", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_fibre_coeffs_extend_fb862d39adb5", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StNormalZerosNowhereDense", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_fibre_coeffs_extend_fb862d39adb5", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PLocalTrace", "via": ["solution", "statement"]}
 {"parent": "PI.QmColExpWork.expFirst", "child": "Formalism_PeriodIntegrals_QmColExp", "via": ["solution", "statement"]}
 {"parent": "PI.QmColExpWork.expFirst", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorCommutatorQuantumDet", "via": ["solution", "statement"]}
 {"parent": "PI.QmColExpWork.expFirst", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ExponentialFirstColumn_FirstColumnSplitBijective", "via": ["solution", "statement"]}
@@ -99841,10 +99841,10 @@
 {"parent": "GlobalTheory.PointSup.mean_le", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_WeightFunctionOnFrames", "via": ["statement"]}
 {"parent": "GlobalTheory.PointSup.mean_le", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_InterpStatementPfH", "via": ["statement"]}
 {"parent": "GlobalTheory.PointSup.mean_le", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_OntoStatementPfE", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_HermitianExtension_gramDet_sumElim_ge_f0e57a6de51f", "child": "GroundTheory_HeightsAndTheta_Heights_HeightsOfSets_Extension", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_HermitianExtension_gramDet_sumElim_ge_f0e57a6de51f", "child": "GroundTheory_HeightsAndTheta_Heights_ArithDegreeIdeal", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_HermitianExtension_gramDet_sumElim_ge_f0e57a6de51f", "child": "GroundTheory_HeightsAndTheta_Heights_HeightsOfSets_LinearIndependentSumElimOfExact", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_HermitianExtension_gramDet_sumElim_ge_f0e57a6de51f", "child": "GroundTheory_HeightsAndTheta_Heights_HermitianDual", "via": ["statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_HermitianExtension_gramDet_sumElim_ge_f0e57a6de51f", "child": "GroundTheory_HeightsAndTheta_Heights_HeightsOfSets_Extension", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_HermitianExtension_gramDet_sumElim_ge_f0e57a6de51f", "child": "GroundTheory_HeightsAndTheta_Heights_ArithDegreeIdeal", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_HermitianExtension_gramDet_sumElim_ge_f0e57a6de51f", "child": "GroundTheory_HeightsAndTheta_Heights_HeightsOfSets_LinearIndependentSumElimOfExact", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_HermitianExtension_gramDet_sumElim_ge_f0e57a6de51f", "child": "GroundTheory_HeightsAndTheta_Heights_HermitianDual", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_smul_regular_mod_of_pow_le_b8f774898569", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PFlatLocalRegularElement", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_smul_regular_mod_of_pow_le_b8f774898569", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StFlatLocalRegularElement", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_HilbertSamuel_MixedTopAlgebra_sum_ge_39d70bd0cb3e", "child": "GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_StatementsPolyNonnegAtZero", "via": ["solution", "statement"]}

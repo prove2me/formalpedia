@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_sum_embeddings_restrict_5832e9921bd0
 -- name    : P2M_GroundTheory_Heights__Heights_sum_embeddings_restrict_5832e9921bd0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:04:24.553849+00:00
 -- url     : https://prove2.me/theorems/e917d5bd-da6b-4321-9674-f859728750c7

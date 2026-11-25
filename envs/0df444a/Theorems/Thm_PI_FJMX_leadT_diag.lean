@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_leadT_diag
 -- name    : PI.FJMX.leadT_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:31:43.641958+00:00
 -- url     : https://prove2.me/theorems/e6550c66-3836-40e3-ae0a-1fdc9071ed61

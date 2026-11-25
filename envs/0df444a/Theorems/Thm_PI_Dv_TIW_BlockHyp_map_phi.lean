@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_BlockHyp_map_phi
 -- name    : PI.Dv.TIW.BlockHyp.map_phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:04.44681+00:00
 -- url     : https://prove2.me/theorems/1b488cbf-3282-4acf-b249-1707f5128da5

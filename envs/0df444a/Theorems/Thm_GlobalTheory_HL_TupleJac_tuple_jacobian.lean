@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TupleJac_tuple_jacobian
 -- name    : GlobalTheory.HL.TupleJac.tuple_jacobian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:39:08.511309+00:00
 -- url     : https://prove2.me/theorems/a343a7c3-d923-5130-a225-01cd7128863b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosIso_exists_unitri
 -- name    : GlobalTheory.DegCnt.PosIso.exists_unitri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:24:38.87282+00:00
 -- url     : https://prove2.me/theorems/57f10159-693b-545c-8863-4cdd1af5060a

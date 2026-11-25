@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_HornW_compress_conj
 -- name    : PI.ET.HornW.compress_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:44.361547+00:00
 -- url     : https://prove2.me/theorems/ecfa7684-26c3-5680-a946-06c1a07344d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DIP_NormOne_map_mem_one
 -- name    : PI.DIP.NormOne.map_mem_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:26:44.912204+00:00
 -- url     : https://prove2.me/theorems/f0cd4191-9307-58c5-ab65-101560f52f7e

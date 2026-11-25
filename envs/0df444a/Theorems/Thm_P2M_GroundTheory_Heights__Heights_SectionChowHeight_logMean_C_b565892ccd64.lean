@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionChowHeight_logMean_C_b565892ccd64
 -- name    : P2M_GroundTheory_Heights__Heights_SectionChowHeight_logMean_C_b565892ccd64
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:38:22.812347+00:00
 -- url     : https://prove2.me/theorems/93fb4f6c-4c30-42ff-b8f2-0a8cf1e4724d

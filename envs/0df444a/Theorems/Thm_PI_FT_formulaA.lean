@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FT_formulaA
 -- name    : PI.FT.formulaA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:29:23.492142+00:00
 -- url     : https://prove2.me/theorems/9d135989-5b46-4c1f-b413-b4f21c4ecd65

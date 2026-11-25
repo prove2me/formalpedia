@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_zero_of_trace_mul_of_separable_generated
 -- name    : GlobalTheory.T.eq_zero_of_trace_mul_of_separable_generated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:37:28.161727+00:00
 -- url     : https://prove2.me/theorems/2a2e2140-c856-41dc-b9cc-5f0c1faf81f6

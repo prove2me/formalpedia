@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDerivBFintype_polD_eq_aeval
 -- name    : PI.IsoDerivBFintype.polD_eq_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:08:47.361874+00:00
 -- url     : https://prove2.me/theorems/e5eeb905-a997-4c8d-8f18-fc025b8cecc4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Rect_vint_of_hasDerivAt
 -- name    : PI.EF.Rect.vint_of_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:22:47.651163+00:00
 -- url     : https://prove2.me/theorems/e6685514-fefd-441e-93ad-3d859d93630c

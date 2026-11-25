@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Gamma_add_five
 -- name    : PI.EF.Gamma_add_five
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:27:57.659655+00:00
 -- url     : https://prove2.me/theorems/ed3becbb-f723-4fac-9fed-0f672845ba8e

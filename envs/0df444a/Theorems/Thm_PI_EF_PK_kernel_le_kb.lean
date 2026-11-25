@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_kernel_le_kb
 -- name    : PI.EF.PK.kernel_le_kb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:28:32.107797+00:00
 -- url     : https://prove2.me/theorems/d7b501d8-9f59-44f2-972d-fc11a46ce60e

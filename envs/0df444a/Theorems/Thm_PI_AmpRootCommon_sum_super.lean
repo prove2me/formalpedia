@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AmpRootCommon_sum_super
 -- name    : PI.AmpRootCommon.sum_super
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:08:19.876868+00:00
 -- url     : https://prove2.me/theorems/f26a86ba-1205-4e50-97e4-977c8170ebea

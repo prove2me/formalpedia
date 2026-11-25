@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_fock_operators_kernel
 -- name    : PI.FockOneDegW.fock_operators_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:06:53.889581+00:00
 -- url     : https://prove2.me/theorems/ec4006db-6b21-48f3-b7f1-3079e3efd60f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpModel_full_8b291331d559
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpModel_full_8b291331d559
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:30:03.275781+00:00
 -- url     : https://prove2.me/theorems/2c870319-5dcb-43c9-a008-2f47880c2071

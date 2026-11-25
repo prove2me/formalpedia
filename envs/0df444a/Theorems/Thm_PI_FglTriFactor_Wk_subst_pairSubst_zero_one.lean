@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglTriFactor_Wk_subst_pairSubst_zero_one
 -- name    : PI.FglTriFactor.Wk.subst_pairSubst_zero_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:30:57.212509+00:00
 -- url     : https://prove2.me/theorems/21d3cf4e-357a-490d-9824-c8dc4be7c5a3

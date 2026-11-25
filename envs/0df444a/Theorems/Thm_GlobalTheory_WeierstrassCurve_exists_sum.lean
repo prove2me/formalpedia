@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_exists_sum
 -- name    : GlobalTheory.WeierstrassCurve.exists_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:49:22.316852+00:00
 -- url     : https://prove2.me/theorems/3496f748-12a0-48c6-bfc1-b1219accad51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_omEmb_strictMono
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.omEmb_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:22:40.22309+00:00
 -- url     : https://prove2.me/theorems/854721e7-0d5b-535f-9e6a-9b5e6e77dcb2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_li_span_top
 -- name    : PI.Dv.TIW.li_span_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:56:03.770799+00:00
 -- url     : https://prove2.me/theorems/74c488df-be39-4883-87d0-8afa9416bee2

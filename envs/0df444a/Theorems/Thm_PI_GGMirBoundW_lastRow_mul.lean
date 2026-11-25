@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMirBoundW_lastRow_mul
 -- name    : PI.GGMirBoundW.lastRow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:31:15.522737+00:00
 -- url     : https://prove2.me/theorems/4c932e88-5b14-4e29-ba97-4e1488584fd4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualStdImageBot_proof_907804323a5a
 -- name    : P2M_GroundTheory_Heights__Heights_DualStdImageBot_proof_907804323a5a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:33:35.998555+00:00
 -- url     : https://prove2.me/theorems/509eb515-4de5-40a9-9841-ba7205f5c704

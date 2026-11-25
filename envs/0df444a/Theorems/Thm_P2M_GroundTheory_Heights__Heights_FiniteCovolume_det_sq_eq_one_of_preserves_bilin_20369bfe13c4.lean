@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_det_sq_eq_one_of_preserves_bilin_20369bfe13c4
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_det_sq_eq_one_of_preserves_bilin_20369bfe13c4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:18:00.833946+00:00
 -- url     : https://prove2.me/theorems/0565d68f-4fcd-40fe-89ce-922f265b4860

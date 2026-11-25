@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExistsGaugeMeasureForEachRank_W_dgl_apply_off
 -- name    : PI.ExistsGaugeMeasureForEachRank.W.dgl_apply_off
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:09:47.251379+00:00
 -- url     : https://prove2.me/theorems/a18e5d89-f4c4-4689-be01-dc6b2f754447

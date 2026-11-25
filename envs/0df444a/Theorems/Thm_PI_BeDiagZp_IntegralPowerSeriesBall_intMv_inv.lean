@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_IntegralPowerSeriesBall_intMv_inv
 -- name    : PI.BeDiagZp.IntegralPowerSeriesBall.intMv_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:24:34.80681+00:00
 -- url     : https://prove2.me/theorems/0608a4d1-fc2d-4bce-87b7-2eeaf7255e30

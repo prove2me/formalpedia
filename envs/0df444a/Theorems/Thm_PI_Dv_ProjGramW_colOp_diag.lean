@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjGramW_colOp_diag
 -- name    : PI.Dv.ProjGramW.colOp_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:29:40.9088+00:00
 -- url     : https://prove2.me/theorems/c76cd6dd-af97-41d7-adf5-172cac656825

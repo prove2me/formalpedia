@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_SubstW_coeff_expTr
 -- name    : PI.BeDiagZp.SubstW.coeff_expTr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:24:35.928443+00:00
 -- url     : https://prove2.me/theorems/0f24e010-e455-5fe0-96ec-aaf014ece130

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoInvMetricW_emb_ge
 -- name    : PI.IsoInvMetricW.emb_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:14:09.275128+00:00
 -- url     : https://prove2.me/theorems/77e2abce-b3fd-4fd0-9cd0-00ac8b64b84f

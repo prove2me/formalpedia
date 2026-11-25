@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_absNorm_conj
 -- name    : PI.DvRows.absNorm_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:15.618999+00:00
 -- url     : https://prove2.me/theorems/60300bca-36f2-4be7-a97d-a9f3f1a7e0f7

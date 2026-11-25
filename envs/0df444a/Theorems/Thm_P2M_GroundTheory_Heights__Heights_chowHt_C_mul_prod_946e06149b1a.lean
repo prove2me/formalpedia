@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_chowHt_C_mul_prod_946e06149b1a
 -- name    : P2M_GroundTheory_Heights__Heights_chowHt_C_mul_prod_946e06149b1a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:10:58.853446+00:00
 -- url     : https://prove2.me/theorems/3e0afab0-9d83-4f4a-aa7f-580d0bd17f14

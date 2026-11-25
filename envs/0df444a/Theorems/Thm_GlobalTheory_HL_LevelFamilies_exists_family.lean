@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LevelFamilies_exists_family
 -- name    : GlobalTheory.HL.LevelFamilies.exists_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:32:26.764908+00:00
 -- url     : https://prove2.me/theorems/e8124848-0842-4a1c-8438-f76c68e86a19

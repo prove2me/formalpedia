@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMP_coeff_diag
 -- name    : PI.FJMP.coeff_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:30:03.074124+00:00
 -- url     : https://prove2.me/theorems/6528df6e-8003-4662-bcb9-7435c8eccb9f

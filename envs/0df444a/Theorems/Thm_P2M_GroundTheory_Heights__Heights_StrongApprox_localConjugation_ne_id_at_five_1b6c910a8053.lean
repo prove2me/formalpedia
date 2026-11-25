@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_localConjugation_ne_id_at_five_1b6c910a8053
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_localConjugation_ne_id_at_five_1b6c910a8053
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:40:58.215182+00:00
 -- url     : https://prove2.me/theorems/0aa486a4-4738-4bc3-8db7-f92d2d2bb7f3

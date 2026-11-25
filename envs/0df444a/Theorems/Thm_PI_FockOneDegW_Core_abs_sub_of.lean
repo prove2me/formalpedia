@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Core_abs_sub_of
 -- name    : PI.FockOneDegW.Core.abs_sub_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:32:48.112172+00:00
 -- url     : https://prove2.me/theorems/f346f935-50a9-5ac6-95ab-f2167431f899

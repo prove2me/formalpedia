@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_primitive_gram_count
 -- name    : GlobalTheory.GramCount.primitive_gram_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:32:36.588925+00:00
 -- url     : https://prove2.me/theorems/08184da4-ce7b-486f-b2b3-7f61b6b74673

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FdFjNearSup_W_spread_nonneg
 -- name    : PI.FdFjNearSup.W.spread_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:04.350656+00:00
 -- url     : https://prove2.me/theorems/ae81f248-f55d-4d38-88ae-f6ad6536b376

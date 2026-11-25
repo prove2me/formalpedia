@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_sameBlock_linePos_second
 -- name    : PI.FJMF.sameBlock_linePos_second
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:30:37.526899+00:00
 -- url     : https://prove2.me/theorems/67f95b72-09d4-5240-b064-75091d9785ff

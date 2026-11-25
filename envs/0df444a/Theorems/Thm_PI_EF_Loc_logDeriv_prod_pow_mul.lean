@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Loc_logDeriv_prod_pow_mul
 -- name    : PI.EF.Loc.logDeriv_prod_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:27:43.367118+00:00
 -- url     : https://prove2.me/theorems/79e1d1ae-60fe-4900-9572-b3fe655ea945

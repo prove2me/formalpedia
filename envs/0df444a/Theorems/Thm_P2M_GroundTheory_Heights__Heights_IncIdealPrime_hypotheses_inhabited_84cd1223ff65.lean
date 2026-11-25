@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncIdealPrime_hypotheses_inhabited_84cd1223ff65
 -- name    : P2M_GroundTheory_Heights__Heights_IncIdealPrime_hypotheses_inhabited_84cd1223ff65
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:21:41.425839+00:00
 -- url     : https://prove2.me/theorems/cf05b9a9-d95d-4b40-9602-ce4982948044

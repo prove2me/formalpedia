@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BlockRatReal_UnitaryGroupMassFormula_nuOf_antitone
 -- name    : PI.BlockRatReal.UnitaryGroupMassFormula.nuOf_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:25:48.931006+00:00
 -- url     : https://prove2.me/theorems/08acd035-3868-5e18-867d-75c1020b2d41

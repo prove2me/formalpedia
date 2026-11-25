@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ComplexConjugateDerivative_contDiff_vel
 -- name    : PI.ComplexConjugateDerivative.contDiff_vel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:27:06.645171+00:00
 -- url     : https://prove2.me/theorems/b17a9c93-2af4-4ab1-92d9-244858d2d9e3

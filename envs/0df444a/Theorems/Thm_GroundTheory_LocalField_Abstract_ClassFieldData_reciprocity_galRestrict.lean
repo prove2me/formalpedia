@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_reciprocity_galRestrict
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.reciprocity_galRestrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:50:16.920483+00:00
 -- url     : https://prove2.me/theorems/42cfa4e1-2a8b-4c4f-b601-1c0ace3a46a4

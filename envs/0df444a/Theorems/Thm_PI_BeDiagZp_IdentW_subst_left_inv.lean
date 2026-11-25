@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_IdentW_subst_left_inv
 -- name    : PI.BeDiagZp.IdentW.subst_left_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:24:43.168845+00:00
 -- url     : https://prove2.me/theorems/576ec528-2d2a-488b-84c9-d2fabd98d56e

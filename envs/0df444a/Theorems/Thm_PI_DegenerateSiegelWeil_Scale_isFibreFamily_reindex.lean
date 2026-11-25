@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DegenerateSiegelWeil_Scale_isFibreFamily_reindex
 -- name    : PI.DegenerateSiegelWeil.Scale.isFibreFamily_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:07:47.58271+00:00
 -- url     : https://prove2.me/theorems/7e2319e6-f9fc-4b28-b5a9-6dfeb9d61dfe

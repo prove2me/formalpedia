@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CompDegEF_mem_span_l_iff
 -- name    : PI.CompDegEF.mem_span_l_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:27:39.490794+00:00
 -- url     : https://prove2.me/theorems/74c811f1-6902-408a-a9b2-98aa38701116

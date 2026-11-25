@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_proof_337a19539709
 -- name    : P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_proof_337a19539709
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:17:44.365956+00:00
 -- url     : https://prove2.me/theorems/4390c8d2-44d4-454b-ab16-a8493ab83679

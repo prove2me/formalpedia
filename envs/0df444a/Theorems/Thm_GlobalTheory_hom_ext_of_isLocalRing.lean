@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hom_ext_of_isLocalRing
 -- name    : GlobalTheory.hom_ext_of_isLocalRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:42:41.852973+00:00
 -- url     : https://prove2.me/theorems/b320d342-fdfb-48f8-b626-81417bedadd3

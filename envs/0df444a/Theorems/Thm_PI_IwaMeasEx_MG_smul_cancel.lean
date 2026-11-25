@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IwaMeasEx_MG_smul_cancel
 -- name    : PI.IwaMeasEx.MG.smul_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:10:13.121971+00:00
 -- url     : https://prove2.me/theorems/a750e8c2-10f7-4dd9-9654-4b4ebe6642ea

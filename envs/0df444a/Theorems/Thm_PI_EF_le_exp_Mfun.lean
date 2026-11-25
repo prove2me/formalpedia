@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_le_exp_Mfun
 -- name    : PI.EF.le_exp_Mfun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:28:56.585847+00:00
 -- url     : https://prove2.me/theorems/8a473fa1-6444-4d57-b75e-ae29d3fc105d

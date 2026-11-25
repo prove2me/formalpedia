@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_pTerm_le_far
 -- name    : PI.EF.pTerm_le_far
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:03.068361+00:00
 -- url     : https://prove2.me/theorems/603fc97c-2dbc-4339-837f-fa9261077f5e

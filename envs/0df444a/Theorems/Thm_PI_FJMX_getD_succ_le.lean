@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_getD_succ_le
 -- name    : PI.FJMX.getD_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:24.212789+00:00
 -- url     : https://prove2.me/theorems/ec86dadc-2c65-4e3c-81c3-95e07a1b7fd9

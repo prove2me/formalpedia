@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_FBChart_rawSelf_axis0
 -- name    : Formalism.L2.FormalSeriesBounds.FBChart.rawSelf_axis0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:47:09.714804+00:00
 -- url     : https://prove2.me/theorems/5963a454-49a3-4dcf-a2ff-c7bd2d9de274

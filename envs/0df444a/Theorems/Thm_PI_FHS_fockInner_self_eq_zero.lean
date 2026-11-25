@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FHS_fockInner_self_eq_zero
 -- name    : PI.FHS.fockInner_self_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:20:15.066654+00:00
 -- url     : https://prove2.me/theorems/b10bdccc-233d-4e27-b91e-8af883c2732d

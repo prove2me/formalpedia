@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglShared_eq_one_add_X_of_deriv
 -- name    : PI.FglShared.eq_one_add_X_of_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:29:57.509211+00:00
 -- url     : https://prove2.me/theorems/6c2556de-f87b-5cb4-b5a9-6e68d9861a33

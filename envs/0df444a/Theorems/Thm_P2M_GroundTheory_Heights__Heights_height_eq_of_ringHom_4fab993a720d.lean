@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_height_eq_of_ringHom_4fab993a720d
 -- name    : P2M_GroundTheory_Heights__Heights_height_eq_of_ringHom_4fab993a720d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:47:54.775373+00:00
 -- url     : https://prove2.me/theorems/4be40baa-35a8-45a0-8259-bde3bf870a84

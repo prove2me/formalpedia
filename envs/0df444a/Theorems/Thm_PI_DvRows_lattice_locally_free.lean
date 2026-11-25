@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_lattice_locally_free
 -- name    : PI.DvRows.lattice_locally_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:58.166257+00:00
 -- url     : https://prove2.me/theorems/f0663d2c-d09f-5ac7-ae56-40bca3e0b86a

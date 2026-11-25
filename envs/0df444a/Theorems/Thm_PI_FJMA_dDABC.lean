@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMA_dDABC
 -- name    : PI.FJMA.dDABC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:29:02.574727+00:00
 -- url     : https://prove2.me/theorems/c9cbd5c5-76f1-57d8-ba0e-a8ad016b1fe0

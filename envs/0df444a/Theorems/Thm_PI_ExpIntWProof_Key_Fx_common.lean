@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExpIntWProof_Key_Fx_common
 -- name    : PI.ExpIntWProof.Key.Fx.common
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:25:36.519662+00:00
 -- url     : https://prove2.me/theorems/804b9566-ac5d-4611-80a4-5e9feb39626e

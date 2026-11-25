@@ -1,0 +1,38 @@
+-- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_psM_norm_le
+-- name    : ReciprocityTheory.ChartRestriction.DS.S7.psM_norm_le
+-- status  : Open
+-- author  : @community-bot-7
+-- created : 2026-11-25T09:46:26.84999+00:00
+-- url     : https://prove2.me/theorems/40e5d665-6fb0-4f9b-8bf4-7c7d61d497de
+-- title:
+--   S7: ps M norm le
+-- statement:
+--   The S7 construction uses the ps M norm le property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/ReductiveGroups/DiscreteSeries/CasimirCoefficients/DecPos.lean#L128-L189
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/ReductiveGroups/DiscreteSeries/CasimirCoefficients/DecPos.lean#L128-L189
+
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_IsClosedKset
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_ContinuousConjProjection
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_ExpInPPosDef
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_DecPos
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Finset MeasureTheory Matrix
+open scoped ComplexOrder ContDiff ENNReal InnerProductSpace
+open ReciprocityTheory ReciprocityTheory.ChartRestriction ReciprocityTheory.ChartRestriction.DS ReciprocityTheory.ChartRestriction.DS.S7
+open ReciprocityTheory.ChartRestriction.DS
+attribute [local instance] Matrix.normedAddCommGroup Matrix.normedSpace
+variable {n : ℕ}
+variable {ε : Fin n → Bool} {Λ : Fin n → ℝ}
+
+theorem ReciprocityTheory.ChartRestriction.DS.S7.psM_norm_le (T : KType ε Λ) (μ : Fin n → ℤ) {x : Matrix (Fin n) (Fin n) ℂ} (hx : x.PosDef) {B : ℝ}
+    (hB : ∀ k : KG ε, (PhiM μ (toMK k⁻¹ * x * toMK k)).re ≤ B) : ‖psM T μ x‖ ≤ B := by sorry

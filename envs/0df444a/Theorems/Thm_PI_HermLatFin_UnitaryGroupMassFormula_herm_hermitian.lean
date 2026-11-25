@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HermLatFin_UnitaryGroupMassFormula_herm_hermitian
 -- name    : PI.HermLatFin.UnitaryGroupMassFormula.herm_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:06:11.66169+00:00
 -- url     : https://prove2.me/theorems/d79ee41f-71dc-4342-9b1c-4edf70a68db4

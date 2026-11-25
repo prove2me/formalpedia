@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_half_le_norm_Lent_ctr
 -- name    : PI.EF.half_le_norm_Lent_ctr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:22:56.899836+00:00
 -- url     : https://prove2.me/theorems/f2cfbd3b-9c1a-4495-97b6-c945af972ab5

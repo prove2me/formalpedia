@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BridgeMaxCptWork_kf_iff
 -- name    : PI.BridgeMaxCptWork.kf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:25:44.927749+00:00
 -- url     : https://prove2.me/theorems/56794d05-3f8a-5fee-a3cd-1e41fbbf477c

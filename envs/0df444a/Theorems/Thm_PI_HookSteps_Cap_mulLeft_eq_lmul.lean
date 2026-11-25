@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_Cap_mulLeft_eq_lmul
 -- name    : PI.HookSteps.Cap.mulLeft_eq_lmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:07:16.509827+00:00
 -- url     : https://prove2.me/theorems/6cef5041-447a-51ef-81d9-91e2ebb5e7ad

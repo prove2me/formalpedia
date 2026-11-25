@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_Cap_xw_xo
 -- name    : PI.HookSteps.Cap.xw_xo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:08:56.11308+00:00
 -- url     : https://prove2.me/theorems/cb296ab6-0c36-49e9-9c69-f6a1daaf807a

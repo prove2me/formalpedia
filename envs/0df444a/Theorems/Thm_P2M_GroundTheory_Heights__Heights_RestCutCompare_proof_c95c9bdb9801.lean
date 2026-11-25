@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestCutCompare_proof_c95c9bdb9801
 -- name    : P2M_GroundTheory_Heights__Heights_RestCutCompare_proof_c95c9bdb9801
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:03:04.789709+00:00
 -- url     : https://prove2.me/theorems/a1fe49a9-2919-4b64-9bbd-5accbb453bf5

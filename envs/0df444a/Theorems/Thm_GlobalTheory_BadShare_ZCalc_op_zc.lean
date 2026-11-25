@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_ZCalc_op_zc
 -- name    : GlobalTheory.BadShare.ZCalc.op_zc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:59:45.719799+00:00
 -- url     : https://prove2.me/theorems/4646305e-3dbf-446a-aa71-05ed5a937aa2

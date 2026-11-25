@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjGramW_span_famC
 -- name    : PI.Dv.ProjGramW.span_famC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:28:42.930926+00:00
 -- url     : https://prove2.me/theorems/a34db4c8-bc80-4b4c-9573-f8f88696133a

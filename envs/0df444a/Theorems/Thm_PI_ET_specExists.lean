@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_specExists
 -- name    : PI.ET.specExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:35.516007+00:00
 -- url     : https://prove2.me/theorems/c839e890-6740-4d4c-add7-fa3e2af44b81

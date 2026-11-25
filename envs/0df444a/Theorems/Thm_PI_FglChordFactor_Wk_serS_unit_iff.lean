@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglChordFactor_Wk_serS_unit_iff
 -- name    : PI.FglChordFactor.Wk.serS_unit_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:25.154645+00:00
 -- url     : https://prove2.me/theorems/42befab8-8f49-4b32-ad8a-dc04352c5031

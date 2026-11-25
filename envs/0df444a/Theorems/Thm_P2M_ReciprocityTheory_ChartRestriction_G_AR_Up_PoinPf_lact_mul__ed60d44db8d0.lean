@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_PoinPf_lact_mul__ed60d44db8d0
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_PoinPf_lact_mul__ed60d44db8d0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:14:30.338501+00:00
 -- url     : https://prove2.me/theorems/7d903f34-74db-455f-858a-ff5ff4627bad

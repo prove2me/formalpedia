@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMatBoundW_irreducible_of_minimal
 -- name    : PI.GGMatBoundW.irreducible_of_minimal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:58:00.714793+00:00
 -- url     : https://prove2.me/theorems/1b409f73-a165-4c91-88c3-149d7944fb2c

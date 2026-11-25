@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerDetFinW_det_mem_of_entries
 -- name    : PI.KerDetFinW.det_mem_of_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:33:25.182907+00:00
 -- url     : https://prove2.me/theorems/f75bd3e5-7228-4589-915c-2a17ecba0772

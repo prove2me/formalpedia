@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_theta_zero
 -- name    : PI.Dv.TIW.theta_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:32:19.984969+00:00
 -- url     : https://prove2.me/theorems/bd0195b3-88cd-5467-b37d-a96a3ae4c8fc

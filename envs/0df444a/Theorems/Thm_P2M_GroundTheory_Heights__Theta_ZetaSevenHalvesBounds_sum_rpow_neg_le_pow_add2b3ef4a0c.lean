@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_ZetaSevenHalvesBounds_sum_rpow_neg_le_pow_add2b3ef4a0c
 -- name    : P2M_GroundTheory_Heights__Theta_ZetaSevenHalvesBounds_sum_rpow_neg_le_pow_add2b3ef4a0c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:34:14.522367+00:00
 -- url     : https://prove2.me/theorems/3580b8e9-60af-440b-ae4c-d9772ec74961

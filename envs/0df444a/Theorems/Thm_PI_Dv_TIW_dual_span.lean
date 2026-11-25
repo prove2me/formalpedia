@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_dual_span
 -- name    : PI.Dv.TIW.dual_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:28:37.405153+00:00
 -- url     : https://prove2.me/theorems/5d18ba83-a89c-4965-9c1f-d4229cde2860

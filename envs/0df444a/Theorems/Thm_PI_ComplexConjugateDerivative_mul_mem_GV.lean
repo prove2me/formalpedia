@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ComplexConjugateDerivative_mul_mem_GV
 -- name    : PI.ComplexConjugateDerivative.mul_mem_GV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:26:52.157279+00:00
 -- url     : https://prove2.me/theorems/29a3cb22-e98f-49cd-b5b8-daab50812669

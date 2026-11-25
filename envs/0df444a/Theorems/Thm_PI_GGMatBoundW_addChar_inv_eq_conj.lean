@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMatBoundW_addChar_inv_eq_conj
 -- name    : PI.GGMatBoundW.addChar_inv_eq_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:31:23.92603+00:00
 -- url     : https://prove2.me/theorems/30b47735-fb0b-594b-8e4e-8ce2a2b89ab2

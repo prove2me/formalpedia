@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_differentiableOn_det_of
 -- name    : ReciprocityTheory.MultiplicativeHeights.differentiableOn_det_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:03.045809+00:00
 -- url     : https://prove2.me/theorems/b51a7dc5-267b-4ad4-a14c-eb24fc87e8b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_horiz_bound
 -- name    : PI.EF.PK.horiz_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:23:39.532068+00:00
 -- url     : https://prove2.me/theorems/ef46bdad-d9c8-452b-a7fd-710fd7726432

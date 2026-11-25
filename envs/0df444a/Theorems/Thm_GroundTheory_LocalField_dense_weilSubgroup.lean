@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_dense_weilSubgroup
 -- name    : GroundTheory.LocalField.dense_weilSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:59:39.487801+00:00
 -- url     : https://prove2.me/theorems/5ca34d60-19ec-5c20-891f-b2bf0b9179fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_ContPf_cc_subst
 -- name    : PI.BeDiagZp.ContPf.cc_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:40:41.284872+00:00
 -- url     : https://prove2.me/theorems/35271d1c-fa8d-4a27-a5c0-7fbe10e1eead

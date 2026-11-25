@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CntNotPosW_hT_map
 -- name    : PI.CntNotPosW.hT_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:26:28.124995+00:00
 -- url     : https://prove2.me/theorems/8053bcd5-d428-4927-933d-f0d83a88ba87

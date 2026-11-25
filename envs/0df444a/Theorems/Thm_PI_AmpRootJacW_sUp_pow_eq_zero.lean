@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AmpRootJacW_sUp_pow_eq_zero
 -- name    : PI.AmpRootJacW.sUp_pow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:23:45.959785+00:00
 -- url     : https://prove2.me/theorems/c605f895-b628-4773-836b-bc582f91e3ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_coeff_pow_eq_zero_of_lt
 -- name    : PI.BeDiagZp.coeff_pow_eq_zero_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:25:10.743838+00:00
 -- url     : https://prove2.me/theorems/e584e00c-5a73-5880-8e14-a801940dfcc4

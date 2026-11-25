@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_localFourier_localFourier_selfDual
 -- name    : GroundTheory.LocalField.localFourier_localFourier_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:03:58.931845+00:00
 -- url     : https://prove2.me/theorems/b73c6036-3572-5c28-9ec8-40b33bd68924

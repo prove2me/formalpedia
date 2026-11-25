@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_divisorSum_nonneg
 -- name    : GroundTheory.Global.divisorSum_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:42:27.61684+00:00
 -- url     : https://prove2.me/theorems/e1d14d02-d10e-4771-94f7-bce4a615b766

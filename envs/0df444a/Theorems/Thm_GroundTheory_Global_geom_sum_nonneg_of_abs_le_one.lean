@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_geom_sum_nonneg_of_abs_le_one
 -- name    : GroundTheory.Global.geom_sum_nonneg_of_abs_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:41:25.9248+00:00
 -- url     : https://prove2.me/theorems/102cca9d-d7e2-516f-83d2-40017029fd69

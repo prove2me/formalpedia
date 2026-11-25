@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CMT_isTr_mul_conj_of_mem
 -- name    : PI.CMT.isTr_mul_conj_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:26:16.682802+00:00
 -- url     : https://prove2.me/theorems/dd54ff8c-228b-4940-8b0a-510053956198

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KFinSmoothW_Gard_Lsm_apply
 -- name    : PI.KFinSmoothW.Gard.Lsm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:33:55.924653+00:00
 -- url     : https://prove2.me/theorems/a5cbf689-7650-43b6-be38-0e23f4c24630

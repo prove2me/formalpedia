@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMP_noVar_pderiv
 -- name    : PI.FJMP.noVar_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:16.213439+00:00
 -- url     : https://prove2.me/theorems/4b571433-3e89-4595-9675-877baf356863

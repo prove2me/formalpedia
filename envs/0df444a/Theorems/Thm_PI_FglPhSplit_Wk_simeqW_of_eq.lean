@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglPhSplit_Wk_simeqW_of_eq
 -- name    : PI.FglPhSplit.Wk.simeqW_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:29:56.18583+00:00
 -- url     : https://prove2.me/theorems/2bd76604-dbb6-403e-ac2e-a828663617f1

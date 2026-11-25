@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HwUniqW_fix_row
 -- name    : PI.HwUniqW.fix_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:09:44.887876+00:00
 -- url     : https://prove2.me/theorems/6780ea47-ee22-432d-b36f-519b68965093

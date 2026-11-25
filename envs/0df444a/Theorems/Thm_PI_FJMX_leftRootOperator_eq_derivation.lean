@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_leftRootOperator_eq_derivation
 -- name    : PI.FJMX.leftRootOperator_eq_derivation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:40.745801+00:00
 -- url     : https://prove2.me/theorems/c3401842-5c5b-498d-ac19-1d6cc5273b8d

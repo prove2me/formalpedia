@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_GramDeterminantPositive_mulVec_injective_of_ker
 -- name    : PI.DvRows.GramDeterminantPositive.mulVec_injective_of_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:31:09.935472+00:00
 -- url     : https://prove2.me/theorems/50d8d3c0-7cc9-5cb5-b2f5-de27e68b7f14

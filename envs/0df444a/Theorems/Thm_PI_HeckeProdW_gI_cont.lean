@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HeckeProdW_gI_cont
 -- name    : PI.HeckeProdW.gI_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:30:57.587725+00:00
 -- url     : https://prove2.me/theorems/21d0faf2-dc14-4ee0-b365-6ab4ccc9c30c

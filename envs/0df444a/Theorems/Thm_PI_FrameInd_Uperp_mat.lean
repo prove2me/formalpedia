@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_Uperp_mat
 -- name    : PI.FrameInd.Uperp_mat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:43.687931+00:00
 -- url     : https://prove2.me/theorems/6b92fd1d-d78b-4164-a0e3-a050b11b706f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_EAux_cc_theta
 -- name    : Formalism.L2.Th1.D.EAux.cc_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:26:25.057166+00:00
 -- url     : https://prove2.me/theorems/a4a02f36-f7e3-538c-a82d-c7b210171399

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CntNotPosW_card_le_of_negFamily
 -- name    : PI.CntNotPosW.card_le_of_negFamily
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:23:13.434394+00:00
 -- url     : https://prove2.me/theorems/fecae175-6f74-46cb-9b3c-30bdd41a5e0f

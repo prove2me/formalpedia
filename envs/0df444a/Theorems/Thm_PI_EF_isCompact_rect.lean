@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_isCompact_rect
 -- name    : PI.EF.isCompact_rect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:29:00.965297+00:00
 -- url     : https://prove2.me/theorems/54f38171-e52d-4d65-841e-462741d85739

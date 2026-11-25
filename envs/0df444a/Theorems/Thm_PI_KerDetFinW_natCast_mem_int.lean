@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerDetFinW_natCast_mem_int
 -- name    : PI.KerDetFinW.natCast_mem_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:32:24.880369+00:00
 -- url     : https://prove2.me/theorems/306ec8cd-a189-43c1-8470-dfe37d4a163f

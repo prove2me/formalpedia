@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTNum_determinantWeight_nonneg
 -- name    : PI.GTNum.determinantWeight_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:31:02.528904+00:00
 -- url     : https://prove2.me/theorems/1b094055-7a10-47e3-b927-5af6d3b75dd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DegenerateSiegelWeil_Scale_gramH_mulTup_of
 -- name    : PI.DegenerateSiegelWeil.Scale.gramH_mulTup_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:16:25.472473+00:00
 -- url     : https://prove2.me/theorems/653aa634-fb80-427f-9a6c-bb8556429caa

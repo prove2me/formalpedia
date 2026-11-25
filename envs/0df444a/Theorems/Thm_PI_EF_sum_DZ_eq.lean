@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_sum_DZ_eq
 -- name    : PI.EF.sum_DZ_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:54.829932+00:00
 -- url     : https://prove2.me/theorems/7e8af640-695d-5b02-9925-65f7bb87857d

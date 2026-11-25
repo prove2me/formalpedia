@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_pNeg
 -- name    : PI.GalTorsConj.W.pNeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:57:22.696906+00:00
 -- url     : https://prove2.me/theorems/55e06a11-0fb5-4c5f-ac5c-7c841aba81e4

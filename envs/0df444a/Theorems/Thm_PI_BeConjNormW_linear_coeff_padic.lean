@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeConjNormW_linear_coeff_padic
 -- name    : PI.BeConjNormW.linear_coeff_padic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:25:20.756103+00:00
 -- url     : https://prove2.me/theorems/0095d1b8-ac26-443b-9719-64f0d6d65e52

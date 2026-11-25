@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_IntegralPowerSeriesBall_coeff_expT
 -- name    : PI.BeDiagZp.IntegralPowerSeriesBall.coeff_expT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:24:44.620447+00:00
 -- url     : https://prove2.me/theorems/cf45bca3-581a-5f70-ac0d-bec76a332b64

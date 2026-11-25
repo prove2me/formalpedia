@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Acris_exists_eq_add
 -- name    : Reformulated.AutPerF.Acris.exists_eq_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:20:43.808434+00:00
 -- url     : https://prove2.me/theorems/f25530a3-bda0-533c-944e-6345bc609804

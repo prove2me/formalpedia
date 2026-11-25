@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_leftAction_diagonal_of
 -- name    : PI.FJMX.leftAction_diagonal_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:32.373882+00:00
 -- url     : https://prove2.me/theorems/d5b96232-88fc-4736-a283-c959a66f705e

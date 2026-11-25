@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CombCfAtStair_proof_531b508e8840
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CombCfAtStair_proof_531b508e8840
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:30:41.824197+00:00
 -- url     : https://prove2.me/theorems/2aa22f27-c4eb-5927-85a5-ef849d69677e

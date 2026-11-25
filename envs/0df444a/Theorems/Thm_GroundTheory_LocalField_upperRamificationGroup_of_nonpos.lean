@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_upperRamificationGroup_of_nonpos
 -- name    : GroundTheory.LocalField.upperRamificationGroup_of_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:47:43.477155+00:00
 -- url     : https://prove2.me/theorems/7c23fbe6-aed9-53f7-b379-9a84842b7cd4

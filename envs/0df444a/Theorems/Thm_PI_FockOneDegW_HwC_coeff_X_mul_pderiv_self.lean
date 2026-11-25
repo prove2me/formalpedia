@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_HwC_coeff_X_mul_pderiv_self
 -- name    : PI.FockOneDegW.HwC.coeff_X_mul_pderiv_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:32:35.310293+00:00
 -- url     : https://prove2.me/theorems/ecbe3615-6d24-534e-8e9d-33843504eab8

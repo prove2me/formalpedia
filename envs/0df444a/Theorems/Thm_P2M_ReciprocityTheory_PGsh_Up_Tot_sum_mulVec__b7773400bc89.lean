@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_PGsh_Up_Tot_sum_mulVec__b7773400bc89
 -- name    : P2M_ReciprocityTheory_PGsh_Up_Tot_sum_mulVec__b7773400bc89
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:18:45.728545+00:00
 -- url     : https://prove2.me/theorems/6d55db5e-6e3c-5f2b-9c80-e30f99ce70e6

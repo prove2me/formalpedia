@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_FormalGroup_existsUnique_fixedPoint
 -- name    : GroundTheory.LocalField.FormalGroup.existsUnique_fixedPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:44:05.910809+00:00
 -- url     : https://prove2.me/theorems/2d63b5a4-7907-4c9f-99be-8ec53941c3d3

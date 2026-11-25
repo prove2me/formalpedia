@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_regAtZero_of
 -- name    : PI.EF.regAtZero_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:31.391723+00:00
 -- url     : https://prove2.me/theorems/ae7cc9be-7eb2-43be-916f-063825974e42

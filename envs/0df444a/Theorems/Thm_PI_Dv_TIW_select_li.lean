@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_select_li
 -- name    : PI.Dv.TIW.select_li
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:28:21.968777+00:00
 -- url     : https://prove2.me/theorems/93e6a0ae-2b50-4ab7-a37b-a7ade8ef3dc3

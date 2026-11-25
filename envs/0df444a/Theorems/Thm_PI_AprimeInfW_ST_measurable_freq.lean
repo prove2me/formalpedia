@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_ST_measurable_freq
 -- name    : PI.AprimeInfW.ST.measurable_freq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:13:03.753483+00:00
 -- url     : https://prove2.me/theorems/d14aa880-1be0-4446-8c88-5bd7c3d8425f

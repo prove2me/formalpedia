@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FT_inclR_injective
 -- name    : PI.FT.inclR_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:29:18.893462+00:00
 -- url     : https://prove2.me/theorems/39462d09-7f8c-44d1-88aa-2cc260213da7

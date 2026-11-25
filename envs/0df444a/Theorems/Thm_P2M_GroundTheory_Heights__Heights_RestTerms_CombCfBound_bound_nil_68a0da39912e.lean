@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CombCfBound_bound_nil_68a0da39912e
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CombCfBound_bound_nil_68a0da39912e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:04:51.440322+00:00
 -- url     : https://prove2.me/theorems/c04492a0-40fc-5033-a8cc-4db999a9cedb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFine_chi_add
 -- name    : GlobalTheory.MoveFine.chi_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:42:20.047829+00:00
 -- url     : https://prove2.me/theorems/902ab256-99bd-4bcd-b2f1-fb95f48ab15d

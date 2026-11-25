@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Ind_card_ne_sub
 -- name    : PI.KLW.Ind.card_ne_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:33:23.569671+00:00
 -- url     : https://prove2.me/theorems/130783eb-8a2d-528f-8026-aa9d23bd632e

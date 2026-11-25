@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BlockRatReal_UnitaryGroupMassFormula_evenStep
 -- name    : PI.BlockRatReal.UnitaryGroupMassFormula.evenStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:25:32.6818+00:00
 -- url     : https://prove2.me/theorems/16ba98bd-06a4-4ddf-a735-a1c99a45ac56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_RK_tau_eps_ne
 -- name    : PI.Dv.RK.tau_eps_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:10.960407+00:00
 -- url     : https://prove2.me/theorems/57e60577-d590-5c30-b3b5-9d3e7c8afaca

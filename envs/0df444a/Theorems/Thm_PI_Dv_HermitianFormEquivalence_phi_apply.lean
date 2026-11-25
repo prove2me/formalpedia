@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_HermitianFormEquivalence_phi_apply
 -- name    : PI.Dv.HermitianFormEquivalence.phi_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:58.710654+00:00
 -- url     : https://prove2.me/theorems/d0ac91ad-18b0-5edb-9eb3-488f0ae16aaa

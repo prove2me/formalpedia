@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMP_pure_gen
 -- name    : PI.FJMP.pure_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:40.812918+00:00
 -- url     : https://prove2.me/theorems/64b97a80-ad91-4657-8dad-7440a8360477

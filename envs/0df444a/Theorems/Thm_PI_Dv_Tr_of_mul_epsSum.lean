@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_of_mul_epsSum
 -- name    : PI.Dv.Tr.of_mul_epsSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:28:17.995336+00:00
 -- url     : https://prove2.me/theorems/3dffaccb-a7df-4f50-87fe-a54f319d9bac

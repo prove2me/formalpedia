@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLatHermW_isCM_zero
 -- name    : PI.Dv.GLatHermW.isCM_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:46.084918+00:00
 -- url     : https://prove2.me/theorems/65b57df2-4469-513c-b9df-4e69b8e49393

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DivPowInteg_Gen_eq_zero_of_mem_lowDeg_zero
 -- name    : PI.DivPowInteg.Gen.eq_zero_of_mem_lowDeg_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:04.041824+00:00
 -- url     : https://prove2.me/theorems/7a74edb4-5332-425e-8563-7310ee1753a7

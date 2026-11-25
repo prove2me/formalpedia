@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMatBoundW_gam_one_real
 -- name    : PI.GGMatBoundW.gam_one_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:57:22.032185+00:00
 -- url     : https://prove2.me/theorems/ade19853-c806-44fe-86e0-18909a5247e1

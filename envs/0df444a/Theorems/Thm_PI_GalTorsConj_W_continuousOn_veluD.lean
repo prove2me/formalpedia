@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_continuousOn_veluD
 -- name    : PI.GalTorsConj.W.continuousOn_veluD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:58:13.558992+00:00
 -- url     : https://prove2.me/theorems/fdbeac33-7431-4a5e-83eb-e3f2fc3e1f68

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_length_quot_pow
 -- name    : PI.IsoDetW.Loc.length_quot_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:07:50.927294+00:00
 -- url     : https://prove2.me/theorems/f5fa1f18-9cc5-5dfc-ab89-d3007d6e4c68

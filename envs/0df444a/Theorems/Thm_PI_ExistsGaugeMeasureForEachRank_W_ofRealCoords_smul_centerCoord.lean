@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExistsGaugeMeasureForEachRank_W_ofRealCoords_smul_centerCoord
 -- name    : PI.ExistsGaugeMeasureForEachRank.W.ofRealCoords_smul_centerCoord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:18:14.7248+00:00
 -- url     : https://prove2.me/theorems/59d5a565-5604-5cfa-ba56-867a8b3caa4e

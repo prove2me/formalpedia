@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjGramW_exists_rep
 -- name    : PI.Dv.ProjGramW.exists_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:40.312762+00:00
 -- url     : https://prove2.me/theorems/0624279d-d291-5295-840d-14f1afce8dd5

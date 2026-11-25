@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_root_rel
 -- name    : PI.AddIntG.Wk.root_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:22:25.956286+00:00
 -- url     : https://prove2.me/theorems/9c53713c-7b84-5c8f-9b7c-684d372d6366

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_unzero_toAdd
 -- name    : PI.Dv.TIW.unzero_toAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:28:25.237578+00:00
 -- url     : https://prove2.me/theorems/248ea2d9-b975-4695-926d-aae480dc637c

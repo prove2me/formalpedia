@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ArtSch_RootWork_exists_root_OC
 -- name    : PI.ArtSch.RootWork.exists_root_OC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:23:40.320602+00:00
 -- url     : https://prove2.me/theorems/f05a6190-5e4c-4fe2-8e4b-5f35d06528ce

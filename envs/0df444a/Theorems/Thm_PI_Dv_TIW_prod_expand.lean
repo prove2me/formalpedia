@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_prod_expand
 -- name    : PI.Dv.TIW.prod_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:13.34684+00:00
 -- url     : https://prove2.me/theorems/2e2cfdd7-46da-45e2-bf91-309feb9026ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_tmul_mem_IntAf
 -- name    : PI.InvTopW.tmul_mem_IntAf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:10:26.166284+00:00
 -- url     : https://prove2.me/theorems/295fc0dc-8fe1-47ed-b4c4-8728d2737e86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CharIdemW_idempotent_mul_comm
 -- name    : PI.CharIdemW.idempotent_mul_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:26:03.987344+00:00
 -- url     : https://prove2.me/theorems/c5b83287-c4f8-4dee-b99a-1b0a1f4952fa

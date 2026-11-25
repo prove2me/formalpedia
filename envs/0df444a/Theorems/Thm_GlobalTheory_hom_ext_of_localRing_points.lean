@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hom_ext_of_localRing_points
 -- name    : GlobalTheory.hom_ext_of_localRing_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:52:51.529645+00:00
 -- url     : https://prove2.me/theorems/9922c892-e942-5785-9418-164addcab78c

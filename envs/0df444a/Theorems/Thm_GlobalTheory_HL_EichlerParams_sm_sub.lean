@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_EichlerParams_sm_sub
 -- name    : GlobalTheory.HL.EichlerParams.sm_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:55:13.107353+00:00
 -- url     : https://prove2.me/theorems/16139a48-2f4a-4439-99ee-b6ff262c799e

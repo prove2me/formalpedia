@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ClassCount_sumCls_le_encard
 -- name    : GlobalTheory.HL.ClassCount.sumCls_le_encard
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:33:03.154637+00:00
 -- url     : https://prove2.me/theorems/fc5eb544-08c2-4e84-861a-9e45b3006708

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_HwC_coeff_X_mul_pderiv_ne
 -- name    : PI.FockOneDegW.HwC.coeff_X_mul_pderiv_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:33:16.811936+00:00
 -- url     : https://prove2.me/theorems/de1b7ace-10d4-5e3e-9522-89814c55e9a0

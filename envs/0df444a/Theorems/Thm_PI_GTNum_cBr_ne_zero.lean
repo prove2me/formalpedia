@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTNum_cBr_ne_zero
 -- name    : PI.GTNum.cBr_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:31:23.69779+00:00
 -- url     : https://prove2.me/theorems/3ce9793d-5b8e-4371-90c8-bfe7e4c8ad93

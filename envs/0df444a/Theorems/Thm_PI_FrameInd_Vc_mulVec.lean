@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_Vc_mulVec
 -- name    : PI.FrameInd.Vc_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:52.960709+00:00
 -- url     : https://prove2.me/theorems/ff85097e-dc4d-4930-ac24-bdccf7cc7901

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_AdditiveFunction_g_logLattice_add_one
 -- name    : GroundTheory.ProfCoh.AdditiveFunction.g_logLattice_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:51:45.850645+00:00
 -- url     : https://prove2.me/theorems/6fd3805c-5b34-5971-832b-481c8a2d748d

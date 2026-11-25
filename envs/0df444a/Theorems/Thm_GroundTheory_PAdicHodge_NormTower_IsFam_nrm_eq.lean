@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_NormTower_IsFam_nrm_eq
 -- name    : GroundTheory.PAdicHodge.NormTower.IsFam.nrm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:21:15.179803+00:00
 -- url     : https://prove2.me/theorems/38a7fdee-c7f7-5a76-8068-b857dbd09fcf

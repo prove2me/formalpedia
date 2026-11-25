@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CharIdemW_act_charIdem_eq_smul
 -- name    : PI.CharIdemW.act_charIdem_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:25:48.718902+00:00
 -- url     : https://prove2.me/theorems/08cb45c0-d3ac-5684-a0bb-ca8f605acd12

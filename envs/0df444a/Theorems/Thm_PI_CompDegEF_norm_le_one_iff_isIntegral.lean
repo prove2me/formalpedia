@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CompDegEF_norm_le_one_iff_isIntegral
 -- name    : PI.CompDegEF.norm_le_one_iff_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:26:26.228239+00:00
 -- url     : https://prove2.me/theorems/b4e85de4-693d-52bc-bcf2-e77d42d9e1be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BiaddZpLinW_t2
 -- name    : PI.BiaddZpLinW.t2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:25:46.975352+00:00
 -- url     : https://prove2.me/theorems/cff56aa0-5bca-4ee4-872f-54c1f79f8568

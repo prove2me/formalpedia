@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Rect_log_neg_sub_log_of_im_neg
 -- name    : PI.EF.Rect.log_neg_sub_log_of_im_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:42.679112+00:00
 -- url     : https://prove2.me/theorems/a09d5ad5-80a3-44a0-85b1-df6d96e35bea

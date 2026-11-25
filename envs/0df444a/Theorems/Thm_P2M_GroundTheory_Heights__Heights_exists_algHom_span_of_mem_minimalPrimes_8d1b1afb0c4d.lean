@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_algHom_span_of_mem_minimalPrimes_8d1b1afb0c4d
 -- name    : P2M_GroundTheory_Heights__Heights_exists_algHom_span_of_mem_minimalPrimes_8d1b1afb0c4d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:09:15.03367+00:00
 -- url     : https://prove2.me/theorems/0d010fac-235e-5c66-8734-25aabc0fb725

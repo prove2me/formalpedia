@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_highest_weight_harmonic
 -- name    : PI.FockOneDegW.highest_weight_harmonic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:31:07.447885+00:00
 -- url     : https://prove2.me/theorems/a2889c2f-3e57-51a8-bea0-e6a89eeef299

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_intR_zero
 -- name    : PI.Dv.TIW.intR_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:28:32.295787+00:00
 -- url     : https://prove2.me/theorems/935fda3c-2d1c-4271-bfa4-758d76019845

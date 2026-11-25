@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_perronTrunc_of
 -- name    : PI.EF.PK.perronTrunc_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:53.538134+00:00
 -- url     : https://prove2.me/theorems/f9ce20df-d29f-4551-b331-718a837dedc7

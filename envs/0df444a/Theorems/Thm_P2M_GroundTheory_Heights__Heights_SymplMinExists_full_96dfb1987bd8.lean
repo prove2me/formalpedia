@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplMinExists_full_96dfb1987bd8
 -- name    : P2M_GroundTheory_Heights__Heights_SymplMinExists_full_96dfb1987bd8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:31:07.206255+00:00
 -- url     : https://prove2.me/theorems/941ded36-5687-4854-9187-f9106dd4d0f7

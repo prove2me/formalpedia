@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_GramDeterminantPositive_piv_involutive
 -- name    : PI.DvRows.GramDeterminantPositive.piv_involutive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:04.441129+00:00
 -- url     : https://prove2.me/theorems/c6a6337c-a990-49fd-862f-7193b88256b2

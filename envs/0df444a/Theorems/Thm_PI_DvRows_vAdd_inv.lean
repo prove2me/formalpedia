@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_vAdd_inv
 -- name    : PI.DvRows.vAdd_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:35.348809+00:00
 -- url     : https://prove2.me/theorems/c7305773-8e5e-4022-a077-b8ea5158f2dc

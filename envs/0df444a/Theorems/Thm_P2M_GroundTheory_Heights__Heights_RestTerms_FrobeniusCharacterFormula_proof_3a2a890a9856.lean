@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FrobeniusCharacterFormula_proof_3a2a890a9856
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FrobeniusCharacterFormula_proof_3a2a890a9856
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:01:47.388534+00:00
 -- url     : https://prove2.me/theorems/4545501c-7bac-4368-bd05-b8f5f46887a8

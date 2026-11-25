@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTNum_mem_R_bounds_top
 -- name    : PI.GTNum.mem_R_bounds_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:31:43.58695+00:00
 -- url     : https://prove2.me/theorems/1b93a10d-cb2b-4353-8894-2d79f810d168

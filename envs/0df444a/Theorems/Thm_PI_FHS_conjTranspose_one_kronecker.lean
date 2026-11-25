@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FHS_conjTranspose_one_kronecker
 -- name    : PI.FHS.conjTranspose_one_kronecker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:14.214743+00:00
 -- url     : https://prove2.me/theorems/42c5224c-b12a-4514-8b22-5c8b416e9eea

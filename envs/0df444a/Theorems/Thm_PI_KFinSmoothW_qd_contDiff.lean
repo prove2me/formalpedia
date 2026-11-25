@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KFinSmoothW_qd_contDiff
 -- name    : PI.KFinSmoothW.qd_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:32:40.070902+00:00
 -- url     : https://prove2.me/theorems/42136a2c-5fc9-5537-be51-6ef69727f293

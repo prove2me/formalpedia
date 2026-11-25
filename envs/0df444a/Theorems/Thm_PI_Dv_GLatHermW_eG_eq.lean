@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLatHermW_eG_eq
 -- name    : PI.Dv.GLatHermW.eG_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:16.147362+00:00
 -- url     : https://prove2.me/theorems/4395a142-d8a5-57d3-8f96-a1c297b4cb8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KFinSmoothW_qd_one
 -- name    : PI.KFinSmoothW.qd_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:32:40.811443+00:00
 -- url     : https://prove2.me/theorems/6e0e5318-ed27-48fb-9068-52a7bc2fcc23

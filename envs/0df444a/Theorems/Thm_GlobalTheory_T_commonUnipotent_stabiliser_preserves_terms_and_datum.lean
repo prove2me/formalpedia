@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_commonUnipotent_stabiliser_preserves_terms_and_datum
 -- name    : GlobalTheory.T.commonUnipotent_stabiliser_preserves_terms_and_datum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:01:58.321514+00:00
 -- url     : https://prove2.me/theorems/34f2cb85-e848-4280-88a7-47272a32f419

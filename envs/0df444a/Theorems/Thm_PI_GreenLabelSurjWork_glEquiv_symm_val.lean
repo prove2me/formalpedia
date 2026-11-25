@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelSurjWork_glEquiv_symm_val
 -- name    : PI.GreenLabelSurjWork.glEquiv_symm_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:54.704713+00:00
 -- url     : https://prove2.me/theorems/bc97f976-a683-4d7b-92c3-0d8a8fabac52

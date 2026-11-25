@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_bRow_adj
 -- name    : PI.FJMF.bRow_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:39.488403+00:00
 -- url     : https://prove2.me/theorems/a9884865-78f8-414a-8f4b-7b283012dc91

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpanValuationBound_span_valuation_le
 -- name    : GlobalTheory.SpanValuationBound.span_valuation_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:20:48.674362+00:00
 -- url     : https://prove2.me/theorems/fc48b1e7-3edc-41fd-b3da-cb9f23a0d11a

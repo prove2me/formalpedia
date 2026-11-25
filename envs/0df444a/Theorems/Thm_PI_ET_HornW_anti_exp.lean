@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_HornW_anti_exp
 -- name    : PI.ET.HornW.anti_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:21.182584+00:00
 -- url     : https://prove2.me/theorems/a6248d51-308a-43b8-9a14-6b83d17a522e

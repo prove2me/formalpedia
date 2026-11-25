@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_torsUnits_of_nbhd
 -- name    : PI.AlgValsFin.W.torsUnits_of_nbhd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:24:02.303262+00:00
 -- url     : https://prove2.me/theorems/4a9cc6b4-71d1-474e-9473-d914796aaf43

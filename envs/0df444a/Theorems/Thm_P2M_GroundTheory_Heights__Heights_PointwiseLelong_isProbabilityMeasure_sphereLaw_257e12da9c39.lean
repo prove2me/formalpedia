@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointwiseLelong_isProbabilityMeasure_sphereLaw_257e12da9c39
 -- name    : P2M_GroundTheory_Heights__Heights_PointwiseLelong_isProbabilityMeasure_sphereLaw_257e12da9c39
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:14:43.330405+00:00
 -- url     : https://prove2.me/theorems/021a58ee-5a57-5dec-9abf-c101aed7801e

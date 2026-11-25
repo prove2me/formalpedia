@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HwUniqW_mul_Hpk_apply
 -- name    : PI.HwUniqW.mul_Hpk_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:09:22.393605+00:00
 -- url     : https://prove2.me/theorems/66363977-4ec9-56e6-8cee-5593af510be7

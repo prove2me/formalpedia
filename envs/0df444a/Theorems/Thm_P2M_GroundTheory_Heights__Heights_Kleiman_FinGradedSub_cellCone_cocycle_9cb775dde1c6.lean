@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_FinGradedSub_cellCone_cocycle_9cb775dde1c6
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_FinGradedSub_cellCone_cocycle_9cb775dde1c6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:53:25.171598+00:00
 -- url     : https://prove2.me/theorems/7d950034-9fca-5fec-abcb-a0c110b801ce

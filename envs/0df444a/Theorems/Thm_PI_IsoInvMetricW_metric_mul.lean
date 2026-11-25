@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoInvMetricW_metric_mul
 -- name    : PI.IsoInvMetricW.metric_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:08:58.599075+00:00
 -- url     : https://prove2.me/theorems/26fc120c-7776-449a-9011-ac02d9cff563

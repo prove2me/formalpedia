@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_one_of_le
 -- name    : PI.RhsWLim.W.one_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:21:30.486416+00:00
 -- url     : https://prove2.me/theorems/d4e86aa7-5bcd-4f14-a0b3-8c0920fa8d36

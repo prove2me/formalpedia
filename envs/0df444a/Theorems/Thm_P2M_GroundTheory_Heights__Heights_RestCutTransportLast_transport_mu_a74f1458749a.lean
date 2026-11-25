@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestCutTransportLast_transport_mu_a74f1458749a
 -- name    : P2M_GroundTheory_Heights__Heights_RestCutTransportLast_transport_mu_a74f1458749a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:57:00.566674+00:00
 -- url     : https://prove2.me/theorems/4e7e32b6-d84f-4255-98e4-a10ed5aa1961

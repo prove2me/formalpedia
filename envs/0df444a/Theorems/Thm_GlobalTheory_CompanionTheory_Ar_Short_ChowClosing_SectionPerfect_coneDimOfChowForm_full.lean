@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Short_ChowClosing_SectionPerfect_coneDimOfChowForm_full
 -- name    : GlobalTheory.CompanionTheory.Ar.Short.ChowClosing.SectionPerfect.coneDimOfChowForm_full
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:14:13.330477+00:00
 -- url     : https://prove2.me/theorems/ec5c67d2-ac3b-4aa3-b0af-d8c0bb401925

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_logDeriv_local
 -- name    : PI.EF.logDeriv_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:08.232606+00:00
 -- url     : https://prove2.me/theorems/a4a306d1-41e6-5f16-a309-abf1927a9d8e

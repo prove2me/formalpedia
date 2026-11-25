@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_continuous_orbV_inc
 -- name    : PI.RhsWLim.W.RI.continuous_orbV_inc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:20:20.01747+00:00
 -- url     : https://prove2.me/theorems/367ce541-0964-594b-8b56-cc1e174214e8

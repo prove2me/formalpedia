@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DatumConjInvWork_firstRows_blockDiag_mul
 -- name    : PI.DatumConjInvWork.firstRows_blockDiag_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:26:51.074105+00:00
 -- url     : https://prove2.me/theorems/00a49ddb-c246-4739-a85b-ae01bf0fc443

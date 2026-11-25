@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BlockRatReal_reM_rfl
 -- name    : PI.BlockRatReal.reM_rfl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:25:33.211796+00:00
 -- url     : https://prove2.me/theorems/a4823759-a94c-528e-a57a-0f7e05022309

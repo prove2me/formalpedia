@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonzeroSmulMemIntegralSpan_exists_ne_zero_smul_mem
 -- name    : GlobalTheory.NonzeroSmulMemIntegralSpan.exists_ne_zero_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:20:38.655894+00:00
 -- url     : https://prove2.me/theorems/05677e73-4ba6-557f-9e7a-e9165dd7aabe

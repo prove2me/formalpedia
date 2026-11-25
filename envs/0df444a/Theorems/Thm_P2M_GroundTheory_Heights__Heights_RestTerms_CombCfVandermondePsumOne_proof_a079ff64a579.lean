@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CombCfVandermondePsumOne_proof_a079ff64a579
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CombCfVandermondePsumOne_proof_a079ff64a579
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:31:16.620008+00:00
 -- url     : https://prove2.me/theorems/d79c2ab3-5f65-431d-91cd-177c51f90a3a

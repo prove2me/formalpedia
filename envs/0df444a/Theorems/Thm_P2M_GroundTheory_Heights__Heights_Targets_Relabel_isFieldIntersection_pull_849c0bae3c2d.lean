@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_Relabel_isFieldIntersection_pull_849c0bae3c2d
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_Relabel_isFieldIntersection_pull_849c0bae3c2d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:41:44.182011+00:00
 -- url     : https://prove2.me/theorems/fa288c49-f06e-449c-840d-f8bbf6756e04

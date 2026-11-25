@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_ker_fontaineTheta_eq_span_xi
 -- name    : GroundTheory.PAdicHodge.AInf.ker_fontaineTheta_eq_span_xi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:36.274707+00:00
 -- url     : https://prove2.me/theorems/922cb15c-b6ca-4b7a-ade9-c7c5c6ae1730

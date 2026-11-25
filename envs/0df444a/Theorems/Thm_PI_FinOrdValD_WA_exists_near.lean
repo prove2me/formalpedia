@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinOrdValD_WA_exists_near
 -- name    : PI.FinOrdValD.WA.exists_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:41.006631+00:00
 -- url     : https://prove2.me/theorems/28115afd-8aa0-4a94-8a05-a5d8a37d85fd

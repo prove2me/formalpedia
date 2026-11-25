@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DivPowInteg_Gen_pderiv_comm
 -- name    : PI.DivPowInteg.Gen.pderiv_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:26:50.296246+00:00
 -- url     : https://prove2.me/theorems/8cac6c8f-d461-5f93-95a1-94eda4268d4d

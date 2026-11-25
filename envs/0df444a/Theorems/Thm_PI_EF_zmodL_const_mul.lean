@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_zmodL_const_mul
 -- name    : PI.EF.zmodL_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:19.32956+00:00
 -- url     : https://prove2.me/theorems/016a0fa9-b602-46a4-a367-d54866f2c7ca

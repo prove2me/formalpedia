@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinOrdRedOne_Core_pdvd_pow_smul
 -- name    : PI.FinOrdRedOne.Core.pdvd_pow_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:36.040236+00:00
 -- url     : https://prove2.me/theorems/39ea29aa-91f5-43ff-9a85-40adc2af7c70

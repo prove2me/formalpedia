@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_summable_absNorm_rpow_inv
 -- name    : GroundTheory.Global.summable_absNorm_rpow_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:13:15.926816+00:00
 -- url     : https://prove2.me/theorems/a628cd14-bc20-4bc8-a295-0bbdf26849c0

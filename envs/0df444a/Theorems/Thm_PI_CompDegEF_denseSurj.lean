@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CompDegEF_denseSurj
 -- name    : PI.CompDegEF.denseSurj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:26:48.870592+00:00
 -- url     : https://prove2.me/theorems/96c697cd-fd11-4834-8b18-b58fc53a326c

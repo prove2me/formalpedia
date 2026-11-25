@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_kb_le_div
 -- name    : PI.EF.kb_le_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:29:06.702944+00:00
 -- url     : https://prove2.me/theorems/38ee149b-ee11-44e4-bab5-fd4ba4e7e020

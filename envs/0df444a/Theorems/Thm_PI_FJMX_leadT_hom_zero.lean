@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_leadT_hom_zero
 -- name    : PI.FJMX.leadT_hom_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:04.591308+00:00
 -- url     : https://prove2.me/theorems/d80c7126-b612-5a64-983a-eadceedbe86e

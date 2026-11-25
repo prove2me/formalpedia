@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DensSplitW_exp_eq
 -- name    : PI.DensSplitW.exp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:26:24.342598+00:00
 -- url     : https://prove2.me/theorems/b6ad19d3-fa33-5f1b-9096-66c0092a11f4

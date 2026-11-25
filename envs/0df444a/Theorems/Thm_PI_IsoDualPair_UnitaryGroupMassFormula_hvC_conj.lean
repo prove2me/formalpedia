@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDualPair_UnitaryGroupMassFormula_hvC_conj
 -- name    : PI.IsoDualPair.UnitaryGroupMassFormula.hvC_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:09:11.475876+00:00
 -- url     : https://prove2.me/theorems/df20dba4-d535-58d4-87c7-f1693e19d3ef

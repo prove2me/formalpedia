@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestCutFlagKillsIdeal_proof_a2f68c015675
 -- name    : P2M_GroundTheory_Heights__Heights_RestCutFlagKillsIdeal_proof_a2f68c015675
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:57:30.391776+00:00
 -- url     : https://prove2.me/theorems/1c760677-6018-547f-89f0-cebce623b5c2

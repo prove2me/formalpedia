@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DegenerateSiegelWeil_Scale_hermMap_one
 -- name    : PI.DegenerateSiegelWeil.Scale.hermMap_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:17:08.447286+00:00
 -- url     : https://prove2.me/theorems/8a71b178-009c-447a-b40c-3e0d5c974204

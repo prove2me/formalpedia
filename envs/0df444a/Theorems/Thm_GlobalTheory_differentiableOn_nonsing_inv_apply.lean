@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiableOn_nonsing_inv_apply
 -- name    : GlobalTheory.differentiableOn_nonsing_inv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:15:55.474537+00:00
 -- url     : https://prove2.me/theorems/a9e70132-6749-4de4-affe-09377cc85304

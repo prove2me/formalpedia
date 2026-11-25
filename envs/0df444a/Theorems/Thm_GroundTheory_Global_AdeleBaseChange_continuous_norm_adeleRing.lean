@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_AdeleBaseChange_continuous_norm_adeleRing
 -- name    : GroundTheory.Global.AdeleBaseChange.continuous_norm_adeleRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:23:43.196731+00:00
 -- url     : https://prove2.me/theorems/0987d439-6793-4a6b-8bc7-05a932dfd4de

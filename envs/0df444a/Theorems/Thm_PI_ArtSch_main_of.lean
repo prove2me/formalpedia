@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ArtSch_main_of
 -- name    : PI.ArtSch.main_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:23:30.305973+00:00
 -- url     : https://prove2.me/theorems/615e1ddb-d4f6-4bed-a0bd-b8a13ab09547

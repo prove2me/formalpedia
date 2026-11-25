@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMD_det_vars_ne_zero
 -- name    : PI.FJMD.det_vars_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:28.566849+00:00
 -- url     : https://prove2.me/theorems/8fd19391-7210-4cda-ada7-2a0eff64a116

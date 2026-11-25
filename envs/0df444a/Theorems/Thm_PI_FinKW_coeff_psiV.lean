@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinKW_coeff_psiV
 -- name    : PI.FinKW.coeff_psiV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:31:10.005255+00:00
 -- url     : https://prove2.me/theorems/28b0e9e3-3cc2-4e41-b9cf-a9640bdab7aa

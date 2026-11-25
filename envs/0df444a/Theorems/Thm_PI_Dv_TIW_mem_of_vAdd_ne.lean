@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_mem_of_vAdd_ne
 -- name    : PI.Dv.TIW.mem_of_vAdd_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:28:07.016043+00:00
 -- url     : https://prove2.me/theorems/d3e03053-2eb9-429c-93f3-31d80e416144

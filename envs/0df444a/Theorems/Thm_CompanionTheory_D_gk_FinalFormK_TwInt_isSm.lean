@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_FinalFormK_TwInt_isSm
 -- name    : CompanionTheory.D.gk.FinalFormK.TwInt.isSm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:57:00.029191+00:00
 -- url     : https://prove2.me/theorems/49046184-819d-4dfc-92a7-75b9f00ce1f2

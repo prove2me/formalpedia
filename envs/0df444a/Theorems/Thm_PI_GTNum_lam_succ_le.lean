@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTNum_lam_succ_le
 -- name    : PI.GTNum.lam_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:31:11.872382+00:00
 -- url     : https://prove2.me/theorems/646edac3-e6d2-467a-bc24-5e01e2f17a95

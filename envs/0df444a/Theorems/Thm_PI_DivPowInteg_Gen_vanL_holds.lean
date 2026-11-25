@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DivPowInteg_Gen_vanL_holds
 -- name    : PI.DivPowInteg.Gen.vanL_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:27:09.354049+00:00
 -- url     : https://prove2.me/theorems/3774bee3-f4d3-4bbf-b445-50bf3236cf3f

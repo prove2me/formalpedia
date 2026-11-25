@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_RK_eG_mem
 -- name    : PI.Dv.RK.eG_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:27:42.142406+00:00
 -- url     : https://prove2.me/theorems/4f4397a7-9f10-4149-b40a-322303ab1723

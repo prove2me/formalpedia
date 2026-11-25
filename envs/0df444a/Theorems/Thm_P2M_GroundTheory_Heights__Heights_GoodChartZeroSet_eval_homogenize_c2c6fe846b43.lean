@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_eval_homogenize_c2c6fe846b43
 -- name    : P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_eval_homogenize_c2c6fe846b43
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:18:56.801557+00:00
 -- url     : https://prove2.me/theorems/74721a62-89fa-4ed8-be77-6d4de0907182

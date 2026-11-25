@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DivPowInteg_Top_dpow_C_succ
 -- name    : PI.DivPowInteg.Top.dpow_C_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:27:19.980545+00:00
 -- url     : https://prove2.me/theorems/f0029a4d-e4b9-4d7e-ba20-e6140b3162cb

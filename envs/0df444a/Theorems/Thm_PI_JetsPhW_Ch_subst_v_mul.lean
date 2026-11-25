@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Ch_subst_v_mul
 -- name    : PI.JetsPhW.Ch.subst_v_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:12:31.775141+00:00
 -- url     : https://prove2.me/theorems/b8f93074-e3ed-5b78-974d-bd53ba8bccfe

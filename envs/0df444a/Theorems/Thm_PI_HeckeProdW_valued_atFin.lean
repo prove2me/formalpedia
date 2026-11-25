@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HeckeProdW_valued_atFin
 -- name    : PI.HeckeProdW.valued_atFin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:06:44.531281+00:00
 -- url     : https://prove2.me/theorems/60ca363d-a640-473d-8e11-1994bd39f7d6

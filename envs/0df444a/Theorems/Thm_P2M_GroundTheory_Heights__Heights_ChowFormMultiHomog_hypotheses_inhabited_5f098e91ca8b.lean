@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormMultiHomog_hypotheses_inhabited_5f098e91ca8b
 -- name    : P2M_GroundTheory_Heights__Heights_ChowFormMultiHomog_hypotheses_inhabited_5f098e91ca8b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:21:03.323868+00:00
 -- url     : https://prove2.me/theorems/cb4946d0-346e-5867-85d5-7eacd6a2c2fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_ComplementArchCocompact_exists_zsmul_mem_b836dd55284f
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_ComplementArchCocompact_exists_zsmul_mem_b836dd55284f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:56:57.390154+00:00
 -- url     : https://prove2.me/theorems/dce164f5-e1d6-45cd-a7c4-89127fb6317f

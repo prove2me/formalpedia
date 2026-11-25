@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Core_SS_swap
 -- name    : PI.FockOneDegW.Core.SS_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:31:01.475738+00:00
 -- url     : https://prove2.me/theorems/eb3fbdb8-1980-556a-99d2-66ed060a72b3

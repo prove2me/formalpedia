@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NefOnFibresRelabel_proof_2c46a00adf28
 -- name    : P2M_GroundTheory_Heights__Heights_NefOnFibresRelabel_proof_2c46a00adf28
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:30:56.249819+00:00
 -- url     : https://prove2.me/theorems/2e1277fb-30df-451b-a0c8-43cb0a49f087

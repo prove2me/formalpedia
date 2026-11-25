@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_arsinh_le
 -- name    : PI.EF.PK.arsinh_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:28:24.113345+00:00
 -- url     : https://prove2.me/theorems/2d75cb34-0ceb-4230-809d-78887492754c

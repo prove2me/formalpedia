@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelMapW_hasCuspLabel_of_trace
 -- name    : PI.GreenLabelMapW.hasCuspLabel_of_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:43.813812+00:00
 -- url     : https://prove2.me/theorems/d4e692c5-e5f2-4320-83df-565c6956d8a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Ch_pderiv_subst_coe
 -- name    : PI.JetsPhW.Ch.pderiv_subst_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:13:07.1967+00:00
 -- url     : https://prove2.me/theorems/cc39cd51-aecc-4c0e-92ad-71663490599e

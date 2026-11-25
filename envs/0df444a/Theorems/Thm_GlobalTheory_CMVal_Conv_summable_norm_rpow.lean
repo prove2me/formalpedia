@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Conv_summable_norm_rpow
 -- name    : GlobalTheory.CMVal.Conv.summable_norm_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:07:17.971628+00:00
 -- url     : https://prove2.me/theorems/3e2f337b-352a-467a-a5b1-31f5c7431fc4

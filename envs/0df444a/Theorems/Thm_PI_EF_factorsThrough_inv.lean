@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_factorsThrough_inv
 -- name    : PI.EF.factorsThrough_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:46.524821+00:00
 -- url     : https://prove2.me/theorems/f14ee63c-9eab-4d9e-9f59-7843208bf2ae

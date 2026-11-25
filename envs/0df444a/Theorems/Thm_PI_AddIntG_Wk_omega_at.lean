@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_omega_at
 -- name    : PI.AddIntG.Wk.omega_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:22:19.898801+00:00
 -- url     : https://prove2.me/theorems/bdc20b56-0437-5542-95ad-924bdb5b09fc

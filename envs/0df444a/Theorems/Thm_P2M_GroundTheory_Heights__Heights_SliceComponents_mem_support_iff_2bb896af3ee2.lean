@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceComponents_mem_support_iff_2bb896af3ee2
 -- name    : P2M_GroundTheory_Heights__Heights_SliceComponents_mem_support_iff_2bb896af3ee2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:38:52.978327+00:00
 -- url     : https://prove2.me/theorems/e23f822d-c31f-4e9b-83c5-83a624191704

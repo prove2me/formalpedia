@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_CountsW_blockA_re
 -- name    : PI.FrameInd.CountsW.blockA_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:46.464866+00:00
 -- url     : https://prove2.me/theorems/0de8c4f5-aeb6-5169-8c9b-06da9363a73b

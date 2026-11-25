@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglPhSplit_Wk_coeff_expMv_eq_expT
 -- name    : PI.FglPhSplit.Wk.coeff_expMv_eq_expT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:03.454138+00:00
 -- url     : https://prove2.me/theorems/8e923838-229f-427b-8b41-c401254bdf4f

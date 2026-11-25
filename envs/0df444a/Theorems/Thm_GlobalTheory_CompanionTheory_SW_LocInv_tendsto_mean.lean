@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LocInv_tendsto_mean
 -- name    : GlobalTheory.CompanionTheory.SW.LocInv.tendsto_mean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:05:22.475667+00:00
 -- url     : https://prove2.me/theorems/1cf4dbff-83a8-4118-a158-b25d1c22aafa

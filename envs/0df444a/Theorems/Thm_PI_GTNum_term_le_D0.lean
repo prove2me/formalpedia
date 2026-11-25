@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTNum_term_le_D0
 -- name    : PI.GTNum.term_le_D0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:30:55.166612+00:00
 -- url     : https://prove2.me/theorems/354d503e-e76b-4336-a4ff-77ad154936dc

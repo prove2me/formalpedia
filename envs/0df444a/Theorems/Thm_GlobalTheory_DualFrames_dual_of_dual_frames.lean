@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFrames_dual_of_dual_frames
 -- name    : GlobalTheory.DualFrames.dual_of_dual_frames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:19:07.115035+00:00
 -- url     : https://prove2.me/theorems/ded29c5e-fab9-427a-a066-c596b67e0e70

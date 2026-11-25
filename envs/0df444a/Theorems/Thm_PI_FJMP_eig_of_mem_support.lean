@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMP_eig_of_mem_support
 -- name    : PI.FJMP.eig_of_mem_support
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:45:48.990193+00:00
 -- url     : https://prove2.me/theorems/29247682-fc47-46a5-8281-7a41963cff63

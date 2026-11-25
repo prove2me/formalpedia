@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGConvScalarW_idempotent_trace_formula
 -- name    : PI.GGConvScalarW.idempotent_trace_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:34.557988+00:00
 -- url     : https://prove2.me/theorems/fca75192-4f04-49f0-8f93-365e54485159

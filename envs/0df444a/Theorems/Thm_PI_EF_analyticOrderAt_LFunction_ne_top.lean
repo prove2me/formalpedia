@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_analyticOrderAt_LFunction_ne_top
 -- name    : PI.EF.analyticOrderAt_LFunction_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:48.683629+00:00
 -- url     : https://prove2.me/theorems/7777adf6-1285-4190-9f9a-8d71d02ac9b8

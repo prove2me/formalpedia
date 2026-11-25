@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_explicitFormula_of_perron_shift
 -- name    : PI.EF.explicitFormula_of_perron_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:22:56.371985+00:00
 -- url     : https://prove2.me/theorems/788a8c8e-9709-49ba-bc0c-38ed5b950394

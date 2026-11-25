@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_exists_regular_part
 -- name    : PI.EF.exists_regular_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:39.451273+00:00
 -- url     : https://prove2.me/theorems/8362793c-bd68-442b-8a6d-91d27ca048e3

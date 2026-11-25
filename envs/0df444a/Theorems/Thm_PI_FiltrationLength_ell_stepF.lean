@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FiltrationLength_ell_stepF
 -- name    : PI.FiltrationLength.ell_stepF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:26.659621+00:00
 -- url     : https://prove2.me/theorems/e28ccb46-e4eb-4582-8d36-b59b08d5719d

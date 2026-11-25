@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_det_placeScale_7f893252c050
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_det_placeScale_7f893252c050
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:22:03.749037+00:00
 -- url     : https://prove2.me/theorems/7ba97c3d-6c2a-51cc-8de7-3d90718f1c41

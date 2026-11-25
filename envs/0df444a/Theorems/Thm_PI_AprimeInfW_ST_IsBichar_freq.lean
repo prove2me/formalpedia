@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_ST_IsBichar_freq
 -- name    : PI.AprimeInfW.ST.IsBichar.freq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:13:08.399066+00:00
 -- url     : https://prove2.me/theorems/a08e2338-79d1-42b4-b5e7-4f340098ac45

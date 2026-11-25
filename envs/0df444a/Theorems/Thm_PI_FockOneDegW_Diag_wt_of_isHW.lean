@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Diag_wt_of_isHW
 -- name    : PI.FockOneDegW.Diag.wt_of_isHW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:48.535122+00:00
 -- url     : https://prove2.me/theorems/1dd2d500-f9e6-4d3f-848d-4897a84e0def

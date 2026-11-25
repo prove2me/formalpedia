@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMA_exists_support_mul
 -- name    : PI.FJMA.exists_support_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:13:21.567797+00:00
 -- url     : https://prove2.me/theorems/a4de5e79-c3ce-4467-aa91-f25b90a25ccc

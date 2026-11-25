@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_mem_valBall_neg_one_notMem_valBall_zero
 -- name    : GroundTheory.LocalField.exists_mem_valBall_neg_one_notMem_valBall_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:03:55.946607+00:00
 -- url     : https://prove2.me/theorems/3462f676-a5ee-49ff-84b2-2c7ba1eccb95

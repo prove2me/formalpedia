@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DegenerateSiegelWeil_Scale_conjT_one
 -- name    : PI.DegenerateSiegelWeil.Scale.conjT_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:16:36.766369+00:00
 -- url     : https://prove2.me/theorems/63ea236b-c56f-46bf-ba4c-500f39ec607b

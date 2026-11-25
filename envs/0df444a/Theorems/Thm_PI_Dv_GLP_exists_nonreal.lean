@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLP_exists_nonreal
 -- name    : PI.Dv.GLP.exists_nonreal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:28:00.835982+00:00
 -- url     : https://prove2.me/theorems/34c5e343-f3a6-4dfb-b156-d26a77025f77

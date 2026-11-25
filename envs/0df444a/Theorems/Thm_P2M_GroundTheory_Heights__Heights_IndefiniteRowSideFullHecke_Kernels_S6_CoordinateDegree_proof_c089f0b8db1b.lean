@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_S6_CoordinateDegree_proof_c089f0b8db1b
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_S6_CoordinateDegree_proof_c089f0b8db1b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:28:47.674344+00:00
 -- url     : https://prove2.me/theorems/5478575d-c9e2-5fba-8f7a-303ab70da9ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_keyIdOf
 -- name    : PI.AlgValsFin.W.keyIdOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:23:08.409662+00:00
 -- url     : https://prove2.me/theorems/e652bfe7-e38b-5f8a-a12f-11e8678bb1eb

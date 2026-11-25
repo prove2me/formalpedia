@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_ChowFormSectionPerfect_coneDimOfChowForm_full_5094174294c9
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_ChowFormSectionPerfect_coneDimOfChowForm_full_5094174294c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:07:47.726359+00:00
 -- url     : https://prove2.me/theorems/086d1f3d-d39e-433f-9e61-ddb2efe3b503

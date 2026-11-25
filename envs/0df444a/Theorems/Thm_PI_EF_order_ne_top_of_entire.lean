@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_order_ne_top_of_entire
 -- name    : PI.EF.order_ne_top_of_entire
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:28:52.672643+00:00
 -- url     : https://prove2.me/theorems/14be3cd8-99ce-5b97-8b52-236a55181fd8

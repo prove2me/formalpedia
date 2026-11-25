@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjAW_idx_eq_len
 -- name    : PI.Dv.ProjAW.idx_eq_len
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:16.7737+00:00
 -- url     : https://prove2.me/theorems/2cf08346-9e66-4df3-a7ad-d6da4de1e698

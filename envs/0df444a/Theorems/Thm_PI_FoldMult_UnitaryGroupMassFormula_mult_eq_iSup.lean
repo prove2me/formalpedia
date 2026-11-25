@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FoldMult_UnitaryGroupMassFormula_mult_eq_iSup
 -- name    : PI.FoldMult.UnitaryGroupMassFormula.mult_eq_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:31:12.815805+00:00
 -- url     : https://prove2.me/theorems/56c1df2e-0466-5849-952c-cf270d77febb

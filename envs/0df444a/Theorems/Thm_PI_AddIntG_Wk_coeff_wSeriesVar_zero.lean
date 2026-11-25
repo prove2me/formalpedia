@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_coeff_wSeriesVar_zero
 -- name    : PI.AddIntG.Wk.coeff_wSeriesVar_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:15:06.730409+00:00
 -- url     : https://prove2.me/theorems/71561d74-c316-4125-bf43-1070fa61a0bb

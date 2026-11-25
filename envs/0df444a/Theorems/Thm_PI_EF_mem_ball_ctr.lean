@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_mem_ball_ctr
 -- name    : PI.EF.mem_ball_ctr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:52.704174+00:00
 -- url     : https://prove2.me/theorems/ba6e2314-87c9-4b5b-a136-c348864bfa24

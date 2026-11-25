@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookLower_diagHom_monomial
 -- name    : PI.HookLower.diagHom_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:06:17.437414+00:00
 -- url     : https://prove2.me/theorems/9b93e93d-f871-5c0f-88e0-8bbb9b9447c0

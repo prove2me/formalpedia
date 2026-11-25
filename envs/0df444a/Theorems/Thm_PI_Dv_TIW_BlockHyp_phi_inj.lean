@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_BlockHyp_phi_inj
 -- name    : PI.Dv.TIW.BlockHyp.phi_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:18:55.934771+00:00
 -- url     : https://prove2.me/theorems/607623c5-51e1-486a-b51e-df1f65d1b4af

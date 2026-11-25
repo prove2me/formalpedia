@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Swap_rename_raiB
 -- name    : PI.FockOneDegW.Swap.rename_raiB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:30:50.033881+00:00
 -- url     : https://prove2.me/theorems/44f86e86-9e9a-55d9-aff0-f21a49fde09d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HtPlacesSumWork_gauss_clear
 -- name    : PI.HtPlacesSumWork.gauss_clear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:07:00.694248+00:00
 -- url     : https://prove2.me/theorems/f2ee2eb4-4d01-4961-8d31-922ea56a7db7

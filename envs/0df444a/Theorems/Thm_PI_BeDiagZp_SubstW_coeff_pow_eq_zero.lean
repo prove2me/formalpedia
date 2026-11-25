@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_SubstW_coeff_pow_eq_zero
 -- name    : PI.BeDiagZp.SubstW.coeff_pow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:24:49.333108+00:00
 -- url     : https://prove2.me/theorems/1798ecc2-3196-40e0-8874-6c3ec0458fd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_SgnProd_det_trace_ne_zero
 -- name    : GlobalTheory.UnitLemma.SgnProd.det_trace_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:34:17.33293+00:00
 -- url     : https://prove2.me/theorems/4c296a44-7631-410e-834c-a6a54ffba346

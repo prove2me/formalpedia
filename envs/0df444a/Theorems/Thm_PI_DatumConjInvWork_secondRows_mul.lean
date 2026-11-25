@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DatumConjInvWork_secondRows_mul
 -- name    : PI.DatumConjInvWork.secondRows_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:26:46.999394+00:00
 -- url     : https://prove2.me/theorems/70e274b3-8346-4dc6-8dd2-573c86700064

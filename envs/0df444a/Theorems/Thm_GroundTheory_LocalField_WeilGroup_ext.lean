@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_WeilGroup_ext
 -- name    : GroundTheory.LocalField.WeilGroup.ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:04:42.47136+00:00
 -- url     : https://prove2.me/theorems/49a40856-7094-54a0-9ecf-c63982ab0fe9

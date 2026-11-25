@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CompDegEF_card_quot_l
 -- name    : PI.CompDegEF.card_quot_l
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:27:11.014969+00:00
 -- url     : https://prove2.me/theorems/c18728b4-6554-4742-8515-cb2e09879e37

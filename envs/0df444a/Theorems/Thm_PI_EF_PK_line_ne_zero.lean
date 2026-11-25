@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_line_ne_zero
 -- name    : PI.EF.PK.line_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:43.205914+00:00
 -- url     : https://prove2.me/theorems/dd417a85-daad-4551-97bb-217a6bbaf0cb

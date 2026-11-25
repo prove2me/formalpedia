@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BaseChangeLogBound_hypotheses_inhabited_f0fbc206d3f2
 -- name    : P2M_GroundTheory_Heights__Heights_BaseChangeLogBound_hypotheses_inhabited_f0fbc206d3f2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:20:16.143163+00:00
 -- url     : https://prove2.me/theorems/1e440c13-8f06-58a7-83f6-e704d6e8715b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExpIntWProof_inv_mem_of_norm_sub_lt
 -- name    : PI.ExpIntWProof.inv_mem_of_norm_sub_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:53.714241+00:00
 -- url     : https://prove2.me/theorems/aac86b27-84ec-4842-b4ca-892064fda049

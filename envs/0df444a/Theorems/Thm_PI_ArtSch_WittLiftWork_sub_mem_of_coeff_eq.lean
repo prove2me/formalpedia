@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ArtSch_WittLiftWork_sub_mem_of_coeff_eq
 -- name    : PI.ArtSch.WittLiftWork.sub_mem_of_coeff_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:23:43.272198+00:00
 -- url     : https://prove2.me/theorems/92ac9037-ab19-4c1c-8da5-6668a3f14fd2

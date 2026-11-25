@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_GramDeterminantPositive_hmat_rho
 -- name    : PI.DvRows.GramDeterminantPositive.hmat_rho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:28:23.415196+00:00
 -- url     : https://prove2.me/theorems/fabbc411-d517-4c29-a0a7-cd8fab04bc20

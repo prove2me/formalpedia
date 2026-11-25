@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMB_diagonal_image_block_free
 -- name    : PI.FJMB.diagonal_image_block_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:06.93703+00:00
 -- url     : https://prove2.me/theorems/b11c042c-fbe3-4d97-8788-540f08f6dcc0

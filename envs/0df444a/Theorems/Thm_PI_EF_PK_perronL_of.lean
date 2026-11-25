@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_perronL_of
 -- name    : PI.EF.PK.perronL_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:49.891726+00:00
 -- url     : https://prove2.me/theorems/8ad42d18-d2ea-4d6d-842b-72a0d89f1f89

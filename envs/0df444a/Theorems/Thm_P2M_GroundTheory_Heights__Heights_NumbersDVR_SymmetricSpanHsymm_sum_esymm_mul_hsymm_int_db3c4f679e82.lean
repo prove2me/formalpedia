@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SymmetricSpanHsymm_sum_esymm_mul_hsymm_int_db3c4f679e82
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_SymmetricSpanHsymm_sum_esymm_mul_hsymm_int_db3c4f679e82
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:16:50.221853+00:00
 -- url     : https://prove2.me/theorems/44586791-598d-5ccf-828d-53c168bf5e24

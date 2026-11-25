@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_eq_zero_of_orth
 -- name    : PI.DvRows.eq_zero_of_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:58.630294+00:00
 -- url     : https://prove2.me/theorems/6829f0cd-5316-4461-b23f-d798f3ed992a

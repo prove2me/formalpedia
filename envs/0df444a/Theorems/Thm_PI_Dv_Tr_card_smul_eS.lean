@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_card_smul_eS
 -- name    : PI.Dv.Tr.card_smul_eS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:28:43.242744+00:00
 -- url     : https://prove2.me/theorems/c79d956a-f284-4f62-8259-956fd64df291

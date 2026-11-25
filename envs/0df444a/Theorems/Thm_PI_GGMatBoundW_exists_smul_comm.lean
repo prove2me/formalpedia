@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMatBoundW_exists_smul_comm
 -- name    : PI.GGMatBoundW.exists_smul_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:37.977274+00:00
 -- url     : https://prove2.me/theorems/47f6eb57-3b99-5c73-88ec-41bb5a51ae91

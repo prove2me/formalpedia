@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_area_formula_neg_comb
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.area_formula_neg_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:39:51.803673+00:00
 -- url     : https://prove2.me/theorems/4f1d888b-0e51-4d21-b3a6-a1e8d9f7e7de

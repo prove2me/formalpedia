@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FdFjNearSup_W_nfac_pos
 -- name    : PI.FdFjNearSup.W.nfac_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:35:25.272459+00:00
 -- url     : https://prove2.me/theorems/41e93f84-91b9-4103-9828-3fae67b9e5e6

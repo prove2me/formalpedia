@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExpIntWProof_inv_natCast_mem_wittIntegers
 -- name    : PI.ExpIntWProof.inv_natCast_mem_wittIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:39.9448+00:00
 -- url     : https://prove2.me/theorems/7852dc20-be1d-5223-9069-f5a4991c26e1

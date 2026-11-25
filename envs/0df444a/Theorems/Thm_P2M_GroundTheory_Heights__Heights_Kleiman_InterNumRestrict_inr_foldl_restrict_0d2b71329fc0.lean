@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_InterNumRestrict_inr_foldl_restrict_0d2b71329fc0
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_InterNumRestrict_inr_foldl_restrict_0d2b71329fc0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:56:44.672425+00:00
 -- url     : https://prove2.me/theorems/37ce6b76-deef-42b8-bd74-08f97655360b

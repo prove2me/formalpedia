@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoScaleA_UnitaryGroupMassFormula_card_eq_sum_colLen
 -- name    : PI.IsoScaleA.UnitaryGroupMassFormula.card_eq_sum_colLen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:08:48.811226+00:00
 -- url     : https://prove2.me/theorems/e0225419-b410-512d-905e-3d907a0494ed

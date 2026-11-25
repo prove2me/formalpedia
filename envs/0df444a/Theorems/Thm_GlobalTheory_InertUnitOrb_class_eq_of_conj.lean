@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertUnitOrb_class_eq_of_conj
 -- name    : GlobalTheory.InertUnitOrb.class_eq_of_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:15:44.706414+00:00
 -- url     : https://prove2.me/theorems/70b4114d-afea-4a09-98cc-861bd7daf9a7

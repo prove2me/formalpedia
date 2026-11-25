@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_LeadingCoeffPos_proof_of_cut_01f9dffe56d0
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_LeadingCoeffPos_proof_of_cut_01f9dffe56d0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:00:33.224062+00:00
 -- url     : https://prove2.me/theorems/f7738976-7c9f-54c8-876f-952f75a1631e

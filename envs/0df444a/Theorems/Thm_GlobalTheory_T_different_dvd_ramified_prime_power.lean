@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_different_dvd_ramified_prime_power
 -- name    : GlobalTheory.T.different_dvd_ramified_prime_power
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:31:38.14624+00:00
 -- url     : https://prove2.me/theorems/2b0ee1cf-091b-490a-a071-51a9594b4421

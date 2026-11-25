@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntConeFPT_lemma_15
 -- name    : IntConeFPT.lemma_15
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T00:43:29.442648+00:00
 -- url     : https://prove2.me/theorems/f235eb40-c6c0-4af8-b100-ce78be9c9271

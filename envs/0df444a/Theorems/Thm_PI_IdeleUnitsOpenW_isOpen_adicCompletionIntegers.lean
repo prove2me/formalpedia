@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IdeleUnitsOpenW_isOpen_adicCompletionIntegers
 -- name    : PI.IdeleUnitsOpenW.isOpen_adicCompletionIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:07:10.341598+00:00
 -- url     : https://prove2.me/theorems/5e5d52ea-387a-4e8d-854f-e3cfcdf97d1d

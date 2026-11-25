@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_pad_getD
 -- name    : PI.FJMX.pad_getD
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:39.734008+00:00
 -- url     : https://prove2.me/theorems/5bd80f0a-5c6c-41e6-92a6-80dc04cd485b

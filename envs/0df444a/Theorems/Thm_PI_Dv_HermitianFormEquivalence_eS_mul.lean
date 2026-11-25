@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_HermitianFormEquivalence_eS_mul
 -- name    : PI.Dv.HermitianFormEquivalence.eS_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:19.606846+00:00
 -- url     : https://prove2.me/theorems/4c9a641f-0f5f-4bd2-a2cf-fc8f2c3dadb5

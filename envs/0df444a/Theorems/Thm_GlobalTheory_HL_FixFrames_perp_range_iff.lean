@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FixFrames_perp_range_iff
 -- name    : GlobalTheory.HL.FixFrames.perp_range_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:41:38.557598+00:00
 -- url     : https://prove2.me/theorems/1e266460-a2a1-40a9-b2a6-f8004f342ee8

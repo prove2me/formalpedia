@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_orbit_mass_eq_inv_stabilizer_volume
 -- name    : GlobalTheory.T.orbit_mass_eq_inv_stabilizer_volume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:45:36.602797+00:00
 -- url     : https://prove2.me/theorems/618fd819-4ac3-4448-9376-0c32be6a559b

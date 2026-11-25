@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExpIntWProof_expIntW_of_steps
 -- name    : PI.ExpIntWProof.expIntW_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:30.503427+00:00
 -- url     : https://prove2.me/theorems/f14c38f9-a955-457b-9d49-b15dad95cfe9

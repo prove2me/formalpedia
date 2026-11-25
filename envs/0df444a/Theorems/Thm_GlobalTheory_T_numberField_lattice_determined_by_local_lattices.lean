@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_numberField_lattice_determined_by_local_lattices
 -- name    : GlobalTheory.T.numberField_lattice_determined_by_local_lattices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:50:28.298924+00:00
 -- url     : https://prove2.me/theorems/7c6e5d96-ff11-5f52-8183-1896a04c0c37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_range_algebraMap_of_conj_fixed
 -- name    : GlobalTheory.mem_range_algebraMap_of_conj_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:21:04.071941+00:00
 -- url     : https://prove2.me/theorems/6915b306-3fae-4a8a-acc5-86cfe65fa294

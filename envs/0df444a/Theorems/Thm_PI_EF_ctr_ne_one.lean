@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_ctr_ne_one
 -- name    : PI.EF.ctr_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:48.810836+00:00
 -- url     : https://prove2.me/theorems/71c0b1e3-5fe3-42d6-9b82-2a2d56675497

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HermLatFin_UnitaryGroupMassFormula_isUJ_of_isom
 -- name    : PI.HermLatFin.UnitaryGroupMassFormula.isUJ_of_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:06:03.453726+00:00
 -- url     : https://prove2.me/theorems/440575b6-bc46-4ff3-b56d-6db7f76c6964

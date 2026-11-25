@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_LineNormalForm_exists_den_of_fg_b9c8a444fbec
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_LineNormalForm_exists_den_of_fg_b9c8a444fbec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:35:45.390622+00:00
 -- url     : https://prove2.me/theorems/96d9213f-3a47-5966-bbe5-2a4444094a2a

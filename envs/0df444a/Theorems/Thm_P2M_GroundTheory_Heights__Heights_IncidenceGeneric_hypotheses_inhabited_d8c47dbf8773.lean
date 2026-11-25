@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncidenceGeneric_hypotheses_inhabited_d8c47dbf8773
 -- name    : P2M_GroundTheory_Heights__Heights_IncidenceGeneric_hypotheses_inhabited_d8c47dbf8773
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:21:06.513837+00:00
 -- url     : https://prove2.me/theorems/b8a7b12e-9cfa-5b8c-b630-78296dd70108

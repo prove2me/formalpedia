@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeMassOfFibre_proof_e2b8f0be35c4
 -- name    : P2M_GroundTheory_Heights__Heights_ConeMassOfFibre_proof_e2b8f0be35c4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:29:06.578384+00:00
 -- url     : https://prove2.me/theorems/e50982d3-135c-4467-8f06-eda979ac838f

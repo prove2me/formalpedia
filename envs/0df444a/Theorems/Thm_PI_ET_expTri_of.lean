@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_expTri_of
 -- name    : PI.ET.expTri_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:04.048774+00:00
 -- url     : https://prove2.me/theorems/e2975326-5e22-44af-85a3-6e0e625f4771

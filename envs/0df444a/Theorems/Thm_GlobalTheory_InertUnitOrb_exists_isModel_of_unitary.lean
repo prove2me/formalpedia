@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertUnitOrb_exists_isModel_of_unitary
 -- name    : GlobalTheory.InertUnitOrb.exists_isModel_of_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:16:13.592718+00:00
 -- url     : https://prove2.me/theorems/10939166-5de6-45b5-948b-52fe00a1bc39

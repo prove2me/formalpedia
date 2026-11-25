@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GluingKernels_tauRel_sum
 -- name    : GlobalTheory.HL.GluingKernels.tauRel_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:46:44.777503+00:00
 -- url     : https://prove2.me/theorems/225fb6a2-0c35-564b-b018-3f56fc1538aa

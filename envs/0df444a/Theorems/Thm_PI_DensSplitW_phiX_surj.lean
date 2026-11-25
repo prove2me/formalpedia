@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DensSplitW_phiX_surj
 -- name    : PI.DensSplitW.phiX_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:26:34.403738+00:00
 -- url     : https://prove2.me/theorems/f96b5c10-f297-5c75-8ea1-987a206c2abf

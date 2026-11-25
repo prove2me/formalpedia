@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_cLine_le_three
 -- name    : PI.EF.cLine_le_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:29:04.725021+00:00
 -- url     : https://prove2.me/theorems/3361b120-954b-480f-b169-c2e6b627801f

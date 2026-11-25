@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_IsBlockDiag_eq_fromBlocks
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.IsBlockDiag.eq_fromBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:23:41.869793+00:00
 -- url     : https://prove2.me/theorems/d5a7743a-2df0-5be5-aa31-21c5d2359332

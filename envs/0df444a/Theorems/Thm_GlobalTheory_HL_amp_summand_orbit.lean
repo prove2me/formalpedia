@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_amp_summand_orbit
 -- name    : GlobalTheory.HL.amp_summand_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:25:43.422724+00:00
 -- url     : https://prove2.me/theorems/2abc6f5a-c807-564f-b465-703f70f9c061

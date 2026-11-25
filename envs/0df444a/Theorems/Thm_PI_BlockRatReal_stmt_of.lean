@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BlockRatReal_stmt_of
 -- name    : PI.BlockRatReal.stmt_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:25:33.796206+00:00
 -- url     : https://prove2.me/theorems/ae5b1ac1-976a-42cd-a7a5-e73593553e73

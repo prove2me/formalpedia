@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_exists_den
 -- name    : PI.Dv.Tr.exists_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:28:49.095643+00:00
 -- url     : https://prove2.me/theorems/bf64655c-4cf1-49cb-84d6-21ae5adc8c9e

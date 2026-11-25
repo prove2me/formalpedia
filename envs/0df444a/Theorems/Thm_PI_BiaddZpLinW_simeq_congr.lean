@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BiaddZpLinW_simeq_congr
 -- name    : PI.BiaddZpLinW.simeq_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:25:41.179312+00:00
 -- url     : https://prove2.me/theorems/9da5b830-df45-4aef-9ad6-2ee7efd5203c

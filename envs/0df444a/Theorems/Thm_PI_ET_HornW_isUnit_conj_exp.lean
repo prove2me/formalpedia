@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_HornW_isUnit_conj_exp
 -- name    : PI.ET.HornW.isUnit_conj_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:47.190105+00:00
 -- url     : https://prove2.me/theorems/e87aa5e7-2198-5ea1-a1e3-22f230703f16

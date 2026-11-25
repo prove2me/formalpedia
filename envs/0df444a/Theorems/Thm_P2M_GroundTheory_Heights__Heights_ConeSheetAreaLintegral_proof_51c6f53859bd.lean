@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeSheetAreaLintegral_proof_51c6f53859bd
 -- name    : P2M_GroundTheory_Heights__Heights_ConeSheetAreaLintegral_proof_51c6f53859bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:35:11.346544+00:00
 -- url     : https://prove2.me/theorems/23a4d4fc-49fd-484b-80f8-97f39f405214

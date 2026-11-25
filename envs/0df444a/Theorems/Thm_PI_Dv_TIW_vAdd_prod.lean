@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_vAdd_prod
 -- name    : PI.Dv.TIW.vAdd_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:28:13.856257+00:00
 -- url     : https://prove2.me/theorems/306d02b0-8ed1-4cdf-9e96-399fdd1470c4

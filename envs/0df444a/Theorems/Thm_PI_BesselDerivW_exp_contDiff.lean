@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BesselDerivW_exp_contDiff
 -- name    : PI.BesselDerivW.exp_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:25:19.110143+00:00
 -- url     : https://prove2.me/theorems/bbd4903e-9789-5a23-a19a-0f31bb55076d

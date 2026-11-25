@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_map_thetaT_eq_self_258ed7b78331
 -- name    : P2M_GroundTheory_Variant__N1_map_thetaT_eq_self_258ed7b78331
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:55:42.068459+00:00
 -- url     : https://prove2.me/theorems/38790fb0-1058-45ac-ae5a-c3df2402ee63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_norm_chiT_le
 -- name    : PI.Dv.TIW.norm_chiT_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:31:05.311613+00:00
 -- url     : https://prove2.me/theorems/264294a0-d337-55f6-b610-284e69aa02d8

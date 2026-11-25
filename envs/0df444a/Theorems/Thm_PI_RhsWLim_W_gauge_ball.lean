@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_gauge_ball
 -- name    : PI.RhsWLim.W.gauge_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:20:38.651777+00:00
 -- url     : https://prove2.me/theorems/a39f9e40-2aed-519a-865a-5b66ff7a55af

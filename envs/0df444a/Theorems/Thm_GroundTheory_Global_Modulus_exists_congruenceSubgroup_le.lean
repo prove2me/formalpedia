@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Modulus_exists_congruenceSubgroup_le
 -- name    : GroundTheory.Global.Modulus.exists_congruenceSubgroup_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:23:36.778462+00:00
 -- url     : https://prove2.me/theorems/a658bd8f-644c-49cc-b2d3-102652173f1d

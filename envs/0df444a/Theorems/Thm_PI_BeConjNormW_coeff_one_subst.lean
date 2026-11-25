@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeConjNormW_coeff_one_subst
 -- name    : PI.BeConjNormW.coeff_one_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:24:27.424268+00:00
 -- url     : https://prove2.me/theorems/31415dbd-d66b-5cb2-bfbe-89ad61923f1a

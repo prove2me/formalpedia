@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ArtSch_Glue_exists_small
 -- name    : PI.ArtSch.Glue.exists_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:23:28.758073+00:00
 -- url     : https://prove2.me/theorems/d1f463c5-e593-508e-9987-6df89a72cc91

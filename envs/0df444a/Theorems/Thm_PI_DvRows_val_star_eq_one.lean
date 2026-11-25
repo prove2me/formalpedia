@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_val_star_eq_one
 -- name    : PI.DvRows.val_star_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:28:05.819746+00:00
 -- url     : https://prove2.me/theorems/88c03e70-5a6a-4443-aeb0-1402d0e5d7c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesQuotIndexLog_full_349909a2722b
 -- name    : P2M_GroundTheory_Heights__Heights_LinesQuotIndexLog_full_349909a2722b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:26:19.285427+00:00
 -- url     : https://prove2.me/theorems/366427b7-d86f-4efa-8a3e-59286371cab3

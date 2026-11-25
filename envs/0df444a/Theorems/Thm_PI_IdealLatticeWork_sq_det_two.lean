@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IdealLatticeWork_sq_det_two
 -- name    : PI.IdealLatticeWork.sq_det_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:07:18.994773+00:00
 -- url     : https://prove2.me/theorems/bdb03cfb-3e5f-4604-bff0-e5fba947a630

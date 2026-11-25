@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FoldDCUnfold_W_pointwise_of
 -- name    : PI.FoldDCUnfold.W.pointwise_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:35.573596+00:00
 -- url     : https://prove2.me/theorems/912cf4ce-6d3c-5c06-98ac-d18a76841b3e

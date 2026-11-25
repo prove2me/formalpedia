@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HermLatFin_UnitaryGroupMassFormula_hform_trace_pos
 -- name    : PI.HermLatFin.UnitaryGroupMassFormula.hform_trace_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:05:53.620839+00:00
 -- url     : https://prove2.me/theorems/df66fdcf-5820-443b-b1cb-f92b3be868a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_mul_eS
 -- name    : PI.Dv.TIW.mul_eS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:53:21.273768+00:00
 -- url     : https://prove2.me/theorems/c690146b-4446-4228-b490-c8be7451aa07

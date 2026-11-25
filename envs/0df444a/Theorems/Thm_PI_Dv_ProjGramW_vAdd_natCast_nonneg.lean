@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjGramW_vAdd_natCast_nonneg
 -- name    : PI.Dv.ProjGramW.vAdd_natCast_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:28:32.687795+00:00
 -- url     : https://prove2.me/theorems/dd0d8871-4fbe-4f3c-8a43-de37c2907c0b

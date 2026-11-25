@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_term_mul_kernel
 -- name    : PI.EF.PK.term_mul_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:28:26.311371+00:00
 -- url     : https://prove2.me/theorems/0e82449b-6470-4435-879a-86d5bc50cad5

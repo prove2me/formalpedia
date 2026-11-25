@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ComplexConjugateDerivative_rw_eq_ev
 -- name    : PI.ComplexConjugateDerivative.rw_eq_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:27:10.03512+00:00
 -- url     : https://prove2.me/theorems/ce8e3888-f5e5-493e-ad00-fc1b8fa9b717

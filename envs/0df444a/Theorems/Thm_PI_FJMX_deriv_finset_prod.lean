@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_deriv_finset_prod
 -- name    : PI.FJMX.deriv_finset_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:25.605102+00:00
 -- url     : https://prove2.me/theorems/ecb83f92-6288-4b71-9f69-4f2711d702db

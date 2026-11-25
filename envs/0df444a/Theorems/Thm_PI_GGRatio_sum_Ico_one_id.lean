@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGRatio_sum_Ico_one_id
 -- name    : PI.GGRatio.sum_Ico_one_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:31:12.246411+00:00
 -- url     : https://prove2.me/theorems/0e57787f-2168-4932-b224-1c62010f5572

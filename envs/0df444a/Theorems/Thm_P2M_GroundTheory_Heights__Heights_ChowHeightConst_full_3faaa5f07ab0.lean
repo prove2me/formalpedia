@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowHeightConst_full_3faaa5f07ab0
 -- name    : P2M_GroundTheory_Heights__Heights_ChowHeightConst_full_3faaa5f07ab0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:51:01.736044+00:00
 -- url     : https://prove2.me/theorems/84a27911-2c9e-451e-bc70-179b7d2e78fa

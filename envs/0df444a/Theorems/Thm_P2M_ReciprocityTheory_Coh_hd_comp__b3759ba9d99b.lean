@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_Coh_hd_comp__b3759ba9d99b
 -- name    : P2M_ReciprocityTheory_Coh_hd_comp__b3759ba9d99b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:17:09.236732+00:00
 -- url     : https://prove2.me/theorems/c25886b2-3fd6-5a7b-ab12-372a37dcc4c4

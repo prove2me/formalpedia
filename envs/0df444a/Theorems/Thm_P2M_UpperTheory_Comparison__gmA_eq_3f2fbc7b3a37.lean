@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Comparison__gmA_eq_3f2fbc7b3a37
 -- name    : P2M_UpperTheory_Comparison__gmA_eq_3f2fbc7b3a37
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:21:16.362672+00:00
 -- url     : https://prove2.me/theorems/49e6e1c0-a632-5076-8374-ed2a73655ff7

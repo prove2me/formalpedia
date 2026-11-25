@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_mulXAdj
 -- name    : PI.HookSteps.mulXAdj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:06:44.232855+00:00
 -- url     : https://prove2.me/theorems/1826205e-e3d6-5631-b40e-3402a1d39d30

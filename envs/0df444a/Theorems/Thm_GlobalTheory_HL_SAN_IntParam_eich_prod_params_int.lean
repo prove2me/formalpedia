@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_SAN_IntParam_eich_prod_params_int
 -- name    : GlobalTheory.HL.SAN.IntParam.eich_prod_params_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:48:26.666778+00:00
 -- url     : https://prove2.me/theorems/51402b9b-d13a-57b2-bdb5-6c747831de79

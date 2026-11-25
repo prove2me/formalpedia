@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DatumBlockEigen_Main_good_mul
 -- name    : PI.DatumBlockEigen.Main.good_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:26:59.11378+00:00
 -- url     : https://prove2.me/theorems/6d21f10c-caa1-44e3-a0ff-cc0f7de0cf8e

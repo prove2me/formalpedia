@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DatumBlockEigen_Unit_isInt_inv_of_unit
 -- name    : PI.DatumBlockEigen.Unit.isInt_inv_of_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:26:24.532175+00:00
 -- url     : https://prove2.me/theorems/7603c184-2210-400b-83a9-fc3526bd34af

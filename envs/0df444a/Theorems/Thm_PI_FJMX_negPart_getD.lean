@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_negPart_getD
 -- name    : PI.FJMX.negPart_getD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:01.578131+00:00
 -- url     : https://prove2.me/theorems/7413b56b-f651-49da-bbb6-68ffc8ee7864

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_height_eq_of_le_ddd9ed9a76c6
 -- name    : P2M_GroundTheory_Heights__Heights_height_eq_of_le_ddd9ed9a76c6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:04:17.294925+00:00
 -- url     : https://prove2.me/theorems/826e2a7c-29d7-4ad4-9a91-5658010d1bc6

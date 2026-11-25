@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_finite_integralClosure_of_isReduced_6bb7a4513dbe
 -- name    : P2M_GroundTheory_Heights__Heights_finite_integralClosure_of_isReduced_6bb7a4513dbe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:09:21.853115+00:00
 -- url     : https://prove2.me/theorems/e72d5125-b23d-563e-944e-dc46a39e7d8a

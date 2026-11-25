@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_beDiagZp_of
 -- name    : PI.BeDiagZp.beDiagZp_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:25:13.057285+00:00
 -- url     : https://prove2.me/theorems/48e5c938-3642-48a7-a12d-abfe0b15c216

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DivPowInteg_Top_gdelta_C
 -- name    : PI.DivPowInteg.Top.gdelta_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:27:36.920306+00:00
 -- url     : https://prove2.me/theorems/bdd77a1f-2863-5a09-9f83-5dff2d998d9b

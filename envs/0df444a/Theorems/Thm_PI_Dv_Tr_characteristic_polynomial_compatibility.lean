@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_characteristic_polynomial_compatibility
 -- name    : PI.Dv.Tr.characteristic_polynomial_compatibility
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:54.356393+00:00
 -- url     : https://prove2.me/theorems/86426191-c07e-4951-b874-e48e15f04319

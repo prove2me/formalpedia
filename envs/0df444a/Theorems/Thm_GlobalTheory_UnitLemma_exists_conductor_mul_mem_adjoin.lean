@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_exists_conductor_mul_mem_adjoin
 -- name    : GlobalTheory.UnitLemma.exists_conductor_mul_mem_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:38:18.786032+00:00
 -- url     : https://prove2.me/theorems/c86caa25-d5a6-43f6-ba6f-07768c9089e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Acris_ker_eval
 -- name    : Reformulated.AutPerF.Acris.ker_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:21:20.916711+00:00
 -- url     : https://prove2.me/theorems/ba3d27ed-52c8-5715-b6d2-de92039bfaa1

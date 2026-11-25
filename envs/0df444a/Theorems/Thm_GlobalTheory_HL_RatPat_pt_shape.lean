@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_RatPat_pt_shape
 -- name    : GlobalTheory.HL.RatPat.pt_shape
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:41:22.41429+00:00
 -- url     : https://prove2.me/theorems/b263ca29-dd96-5f71-9a83-dd10394651f2

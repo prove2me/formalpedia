@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_common_denominator_for_hermitian_lattice_data
 -- name    : GlobalTheory.T.exists_common_denominator_for_hermitian_lattice_data
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:43:35.401609+00:00
 -- url     : https://prove2.me/theorems/b364b39e-0ef1-5ae4-840d-c5fb93ae2940

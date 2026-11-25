@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AmpRootJacW_mp_unitConj
 -- name    : PI.AmpRootJacW.mp_unitConj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:23:29.25544+00:00
 -- url     : https://prove2.me/theorems/ec03101a-d433-590f-a04f-24cbce47edc0

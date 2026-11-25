@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockWtDegWork_exists_monomial_weight
 -- name    : PI.FockWtDegWork.exists_monomial_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:34.609829+00:00
 -- url     : https://prove2.me/theorems/f3155841-ee46-4c9c-99ea-0972f2baecf0

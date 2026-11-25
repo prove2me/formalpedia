@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AreaLatWork_im_integral
 -- name    : PI.AreaLatWork.im_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:23:35.457839+00:00
 -- url     : https://prove2.me/theorems/40c72639-af3d-4c27-a72d-bb682fa14da9

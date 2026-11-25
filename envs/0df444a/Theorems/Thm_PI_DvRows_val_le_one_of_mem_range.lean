@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_val_le_one_of_mem_range
 -- name    : PI.DvRows.val_le_one_of_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:45.596337+00:00
 -- url     : https://prove2.me/theorems/d1e036e6-6a67-461f-b5d4-336ec94cbfb8

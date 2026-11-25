@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveTotal_triple
 -- name    : GlobalTheory.HL.MoveTotal.triple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:38:43.133822+00:00
 -- url     : https://prove2.me/theorems/8970529f-71ff-4a3c-92a9-6d6677d7d0af

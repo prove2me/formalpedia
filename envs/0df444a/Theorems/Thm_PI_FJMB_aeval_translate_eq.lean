@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMB_aeval_translate_eq
 -- name    : PI.FJMB.aeval_translate_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:29:42.099147+00:00
 -- url     : https://prove2.me/theorems/4ccc8b32-e01f-5526-a0d4-1c58c7716c95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_inclE_mem_int
 -- name    : PI.InvTopW.inclE_mem_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:51.853011+00:00
 -- url     : https://prove2.me/theorems/6e0ce088-f284-59e8-9b33-b81c0c56f5a9

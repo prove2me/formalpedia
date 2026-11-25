@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FixFrames_f_mem
 -- name    : GlobalTheory.HL.FixFrames.f_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:39:57.144034+00:00
 -- url     : https://prove2.me/theorems/7f25d9de-69ba-5b2d-b67e-d23eb451d82f

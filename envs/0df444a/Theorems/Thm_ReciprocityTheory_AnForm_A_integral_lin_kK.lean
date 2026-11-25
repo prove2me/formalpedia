@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_integral_lin_kK
 -- name    : ReciprocityTheory.AnForm.A.integral_lin_kK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:01:05.013953+00:00
 -- url     : https://prove2.me/theorems/31b0b6a6-469e-4554-91c5-d91d44f7b129

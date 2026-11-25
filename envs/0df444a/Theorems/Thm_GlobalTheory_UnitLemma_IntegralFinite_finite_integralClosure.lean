@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_IntegralFinite_finite_integralClosure
 -- name    : GlobalTheory.UnitLemma.IntegralFinite.finite_integralClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:27:36.465373+00:00
 -- url     : https://prove2.me/theorems/77225179-68e6-422e-996c-a88637fbbc4a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ArtSch_WittLiftWork_I_anti
 -- name    : PI.ArtSch.WittLiftWork.I_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:23:44.655405+00:00
 -- url     : https://prove2.me/theorems/b7f4a212-4541-563d-ab98-f1fdb4fc75b2

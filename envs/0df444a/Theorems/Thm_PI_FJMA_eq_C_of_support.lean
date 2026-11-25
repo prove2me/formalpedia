@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMA_eq_C_of_support
 -- name    : PI.FJMA.eq_C_of_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:29:40.872003+00:00
 -- url     : https://prove2.me/theorems/44929aeb-b04e-442e-b8d6-ff47411ee2d8

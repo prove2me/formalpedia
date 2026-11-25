@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HatAffineFullTheorem_no_extends_of_affineRealizes
 -- name    : HatAffineFullTheorem.no_extends_of_affineRealizes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:13:34.099884+00:00
 -- url     : https://prove2.me/theorems/39dc4798-9f5c-5b55-b620-df7b4538cf3c

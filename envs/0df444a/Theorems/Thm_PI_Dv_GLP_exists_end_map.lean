@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLP_exists_end_map
 -- name    : PI.Dv.GLP.exists_end_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:27:15.361262+00:00
 -- url     : https://prove2.me/theorems/08105f22-d9af-44e8-bde0-ba31c6bb5a4b

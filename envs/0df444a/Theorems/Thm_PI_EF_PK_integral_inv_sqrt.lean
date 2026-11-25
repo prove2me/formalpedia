@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_integral_inv_sqrt
 -- name    : PI.EF.PK.integral_inv_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:28:19.043179+00:00
 -- url     : https://prove2.me/theorems/351d081c-282c-40ef-aea8-16dc9fe0d2a1

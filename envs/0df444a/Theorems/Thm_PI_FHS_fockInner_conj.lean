@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FHS_fockInner_conj
 -- name    : PI.FHS.fockInner_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:20:41.447595+00:00
 -- url     : https://prove2.me/theorems/086c206e-81a0-4f0a-969f-493902b58105

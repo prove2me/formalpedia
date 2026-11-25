@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_ideleEmbedding_injective
 -- name    : GroundTheory.Global.ideleEmbedding_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:21:06.517339+00:00
 -- url     : https://prove2.me/theorems/8f6eff3d-97c5-5f1c-bc02-3951de1e2335

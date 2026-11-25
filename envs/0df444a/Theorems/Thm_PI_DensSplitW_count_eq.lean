@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DensSplitW_count_eq
 -- name    : PI.DensSplitW.count_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:26:21.809107+00:00
 -- url     : https://prove2.me/theorems/05d3bf14-ec39-5dba-b768-ac4bc236f94e

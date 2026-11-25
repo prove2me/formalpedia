@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_ST_testEx_bichar
 -- name    : PI.AprimeInfW.ST.testEx_bichar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:12:56.550259+00:00
 -- url     : https://prove2.me/theorems/4e495a60-541e-571c-9d7e-95a5de6c5fac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglPhSplit_Wk_coeff_pow_mul_pow_eq_zero
 -- name    : PI.FglPhSplit.Wk.coeff_pow_mul_pow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:35.978199+00:00
 -- url     : https://prove2.me/theorems/678bbdb3-f584-5a34-8464-abe3218a161a

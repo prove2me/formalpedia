@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ArtSch_WittLiftWork_seq_stable
 -- name    : PI.ArtSch.WittLiftWork.seq_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:23:57.365332+00:00
 -- url     : https://prove2.me/theorems/ddb21940-600e-450f-a2f1-2b762999268b

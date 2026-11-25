@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FHS_wt_pos_nat
 -- name    : PI.FHS.wt_pos_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:46.222108+00:00
 -- url     : https://prove2.me/theorems/65bbdace-652f-48a7-a7b9-5519225ef688

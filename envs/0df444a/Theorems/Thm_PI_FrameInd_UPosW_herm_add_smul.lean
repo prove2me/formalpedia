@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_UPosW_herm_add_smul
 -- name    : PI.FrameInd.UPosW.herm_add_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:17.351181+00:00
 -- url     : https://prove2.me/theorems/f98d5ece-d108-5b47-b44a-1bc498fb0145

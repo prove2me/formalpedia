@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_trace_formula_of_rank_degree
 -- name    : PI.Dv.Tr.trace_formula_of_rank_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:31:15.671367+00:00
 -- url     : https://prove2.me/theorems/a97f4200-d817-5677-8df0-31544b5de58d

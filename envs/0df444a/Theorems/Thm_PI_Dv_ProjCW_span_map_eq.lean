@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjCW_span_map_eq
 -- name    : PI.Dv.ProjCW.span_map_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:14.528713+00:00
 -- url     : https://prove2.me/theorems/2378a0c3-ce5b-52f0-a981-9753edb06c8c

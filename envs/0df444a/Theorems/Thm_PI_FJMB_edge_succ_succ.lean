@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMB_edge_succ_succ
 -- name    : PI.FJMB.edge_succ_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:33.217519+00:00
 -- url     : https://prove2.me/theorems/3cf3cb79-d74a-4d85-9d4c-7c3b40ab89a0

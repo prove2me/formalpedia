@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockWtDegWork_coeff_of_diag
 -- name    : PI.FockWtDegWork.coeff_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:31:16.849036+00:00
 -- url     : https://prove2.me/theorems/9136cf6e-f044-4c9b-94b0-b4d072574612

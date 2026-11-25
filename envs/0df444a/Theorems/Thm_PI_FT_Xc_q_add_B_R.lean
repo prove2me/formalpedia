@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FT_Xc_q_add_B_R
 -- name    : PI.FT.Xc_q_add_B_R
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:28:54.831136+00:00
 -- url     : https://prove2.me/theorems/f987227f-3fef-5b69-8972-0e0c5d584900

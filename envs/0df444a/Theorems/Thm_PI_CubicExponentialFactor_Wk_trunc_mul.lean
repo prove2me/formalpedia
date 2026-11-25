@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CubicExponentialFactor_Wk_trunc_mul
 -- name    : PI.CubicExponentialFactor.Wk.trunc_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:27:17.779897+00:00
 -- url     : https://prove2.me/theorems/0b05a42f-2e29-57e3-bed5-17d81d059c21

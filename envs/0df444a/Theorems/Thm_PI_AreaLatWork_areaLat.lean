@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AreaLatWork_areaLat
 -- name    : PI.AreaLatWork.areaLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:23:39.08584+00:00
 -- url     : https://prove2.me/theorems/bb651b53-a06b-4bc0-978c-5e8400bc6631

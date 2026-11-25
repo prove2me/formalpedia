@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_txT_mul_qTriv
 -- name    : GlobalTheory.Ex.NumD.txT_mul_qTriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:06:53.507297+00:00
 -- url     : https://prove2.me/theorems/42a8af8c-a2c7-412b-a558-0ea6ecbfc5a2

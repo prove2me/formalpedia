@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DivPowInteg_Top_good_X_mul
 -- name    : PI.DivPowInteg.Top.good_X_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:27:20.254881+00:00
 -- url     : https://prove2.me/theorems/690ab40c-653f-4fed-82b5-220d88839147

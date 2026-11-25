@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameClose_loc_close
 -- name    : GlobalTheory.HL.FrameClose.loc_close
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:50:55.63481+00:00
 -- url     : https://prove2.me/theorems/e78108c4-a7dc-4e4e-8946-b652f73cbb63

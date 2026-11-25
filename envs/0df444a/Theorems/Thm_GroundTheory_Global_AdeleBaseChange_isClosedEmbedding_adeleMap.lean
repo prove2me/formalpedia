@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_AdeleBaseChange_isClosedEmbedding_adeleMap
 -- name    : GroundTheory.Global.AdeleBaseChange.isClosedEmbedding_adeleMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:25:32.996441+00:00
 -- url     : https://prove2.me/theorems/40fadbe8-2c72-5160-9582-3c3d08e42daa

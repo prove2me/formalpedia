@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Diag_sum_diag_of
 -- name    : PI.FockOneDegW.Diag.sum_diag_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:31:43.486294+00:00
 -- url     : https://prove2.me/theorems/3ab1875f-1908-42e7-9854-1a095829479b

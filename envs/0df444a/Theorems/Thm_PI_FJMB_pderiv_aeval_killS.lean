@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMB_pderiv_aeval_killS
 -- name    : PI.FJMB.pderiv_aeval_killS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:37.602619+00:00
 -- url     : https://prove2.me/theorems/b0ff7ae1-8ace-495e-b0e9-f47414c30b2d

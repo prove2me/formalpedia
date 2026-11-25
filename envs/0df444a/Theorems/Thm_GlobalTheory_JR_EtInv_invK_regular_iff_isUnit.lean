@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtInv_invK_regular_iff_isUnit
 -- name    : GlobalTheory.JR.EtInv.invK_regular_iff_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:32:42.179762+00:00
 -- url     : https://prove2.me/theorems/ea0fb6fa-f569-4f41-85ec-e113388306d3

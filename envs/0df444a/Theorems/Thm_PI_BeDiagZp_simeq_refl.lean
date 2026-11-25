@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_simeq_refl
 -- name    : PI.BeDiagZp.simeq_refl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:15:40.135775+00:00
 -- url     : https://prove2.me/theorems/10b1da83-ba15-4556-83c7-dd0e08ce771e

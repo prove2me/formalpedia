@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_norm_character_correction_le
 -- name    : PI.EF.norm_character_correction_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:38.834697+00:00
 -- url     : https://prove2.me/theorems/cb81ccf1-b5f1-43e9-8c35-b3cbc4890695

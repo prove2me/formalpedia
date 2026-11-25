@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_euler_row
 -- name    : PI.FJMF.euler_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:26.065443+00:00
 -- url     : https://prove2.me/theorems/5d9a2faf-25ce-553e-b758-4a0e0bcd3284

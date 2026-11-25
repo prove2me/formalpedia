@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Core_coeff_zero_of_dd
 -- name    : PI.FockOneDegW.Core.coeff_zero_of_dd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:31:13.145227+00:00
 -- url     : https://prove2.me/theorems/dcab0702-c9da-5e63-a9ca-f3dfff92ce14

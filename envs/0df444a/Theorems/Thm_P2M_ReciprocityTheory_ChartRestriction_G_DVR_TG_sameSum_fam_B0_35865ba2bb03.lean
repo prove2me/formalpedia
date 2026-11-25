@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_DVR_TG_sameSum_fam_B0_35865ba2bb03
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_DVR_TG_sameSum_fam_B0_35865ba2bb03
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:14:41.831882+00:00
 -- url     : https://prove2.me/theorems/b4b23c8b-b406-469f-8fbe-4e87bc5006b1

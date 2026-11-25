@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GaugeCharW_openInt
 -- name    : PI.GaugeCharW.openInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:49.114592+00:00
 -- url     : https://prove2.me/theorems/d4fbf35f-a4e5-49ca-a748-5ed004f7ba2b

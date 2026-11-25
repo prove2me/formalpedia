@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Unimod_delta_indep
 -- name    : GlobalTheory.HL.Unimod.delta_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:34:29.614011+00:00
 -- url     : https://prove2.me/theorems/31ebfc76-5d62-493f-aad2-4b4274e29148

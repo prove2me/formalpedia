@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_measurePreserving_splitE_5c13f987f480
 -- name    : P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_measurePreserving_splitE_5c13f987f480
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:38:48.823361+00:00
 -- url     : https://prove2.me/theorems/d3dfdf3e-6397-4089-91c7-17c5647a79ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_complexHessian_posSemidef_of_leviForm_nonneg
 -- name    : GlobalTheory.T.complexHessian_posSemidef_of_leviForm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:32:45.762643+00:00
 -- url     : https://prove2.me/theorems/986d5e5f-356d-4a05-8743-90ae0fab441b

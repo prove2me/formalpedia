@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_det_mul_rect
 -- name    : PI.ET.det_mul_rect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:00.332096+00:00
 -- url     : https://prove2.me/theorems/09c42625-929f-4d72-926e-e21659869e09

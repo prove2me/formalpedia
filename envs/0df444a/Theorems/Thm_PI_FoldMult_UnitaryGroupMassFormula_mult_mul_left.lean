@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FoldMult_UnitaryGroupMassFormula_mult_mul_left
 -- name    : PI.FoldMult.UnitaryGroupMassFormula.mult_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:48.874436+00:00
 -- url     : https://prove2.me/theorems/18249c02-b878-4f6c-a4f6-a4176b98ce15

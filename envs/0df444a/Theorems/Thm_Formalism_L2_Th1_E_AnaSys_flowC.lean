@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_AnaSys_flowC
 -- name    : Formalism.L2.Th1.E.AnaSys.flowC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:22:59.494949+00:00
 -- url     : https://prove2.me/theorems/3266c189-e4c2-598f-95fb-1fc82a9d626c

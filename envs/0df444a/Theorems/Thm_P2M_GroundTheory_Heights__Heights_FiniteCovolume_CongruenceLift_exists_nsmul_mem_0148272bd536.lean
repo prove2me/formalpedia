@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_CongruenceLift_exists_nsmul_mem_0148272bd536
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_CongruenceLift_exists_nsmul_mem_0148272bd536
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:59:15.705075+00:00
 -- url     : https://prove2.me/theorems/5b253bca-106f-40c8-99e4-677f15ccecc7

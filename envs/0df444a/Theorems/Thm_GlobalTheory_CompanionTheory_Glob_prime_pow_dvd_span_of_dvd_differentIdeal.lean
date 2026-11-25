@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Glob_prime_pow_dvd_span_of_dvd_differentIdeal
 -- name    : GlobalTheory.CompanionTheory.Glob.prime_pow_dvd_span_of_dvd_differentIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:44:21.711992+00:00
 -- url     : https://prove2.me/theorems/321355b7-b57d-4c20-a158-9367c8d7a4e4

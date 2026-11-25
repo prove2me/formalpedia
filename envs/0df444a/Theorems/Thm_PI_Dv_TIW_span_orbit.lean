@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_span_orbit
 -- name    : PI.Dv.TIW.span_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:19:12.503038+00:00
 -- url     : https://prove2.me/theorems/f2ca0d80-2121-4135-a1d8-f262c226fcce

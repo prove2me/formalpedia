@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMB_aeval_killS_free
 -- name    : PI.FJMB.aeval_killS_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:59.749802+00:00
 -- url     : https://prove2.me/theorems/c4ced9f6-4745-44ba-8716-c977b765c9cf

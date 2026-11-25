@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_HornW_emb_isom
 -- name    : PI.ET.HornW.emb_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:00.751982+00:00
 -- url     : https://prove2.me/theorems/5b5775cb-3456-458f-bba5-eeae983a3aa0

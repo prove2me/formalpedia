@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_fractionFieldToGenericStalk_algebraMap_eq
 -- name    : PI.EF.fractionFieldToGenericStalk_algebraMap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:54.445737+00:00
 -- url     : https://prove2.me/theorems/ed9dcbec-e0bf-4519-83e3-482317872806

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DegenerateSiegelWeil_Scale_linIndep_mulTup
 -- name    : PI.DegenerateSiegelWeil.Scale.linIndep_mulTup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:16:13.576804+00:00
 -- url     : https://prove2.me/theorems/71932483-600f-51ce-b062-8113a9600d77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_nonGenericDatum_lattice_eq_perpQuotientImage_term
 -- name    : GlobalTheory.T.nonGenericDatum_lattice_eq_perpQuotientImage_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:19:06.727783+00:00
 -- url     : https://prove2.me/theorems/845e6245-fe39-56ba-b153-43bb2c925d1c

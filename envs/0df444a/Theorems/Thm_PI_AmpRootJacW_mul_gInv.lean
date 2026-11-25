@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AmpRootJacW_mul_gInv
 -- name    : PI.AmpRootJacW.mul_gInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:23:33.576055+00:00
 -- url     : https://prove2.me/theorems/b04f62d1-8243-515c-a281-5271cbe2834b

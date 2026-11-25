@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagIntegralProportional_intersectionNumber_baseChange_171f006c2d43
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagIntegralProportional_intersectionNumber_baseChange_171f006c2d43
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:47:03.749411+00:00
 -- url     : https://prove2.me/theorems/56b2dcd4-180e-5486-a4dd-12ef66df7933

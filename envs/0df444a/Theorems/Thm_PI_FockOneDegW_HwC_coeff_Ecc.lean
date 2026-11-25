@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_HwC_coeff_Ecc
 -- name    : PI.FockOneDegW.HwC.coeff_Ecc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:10.724543+00:00
 -- url     : https://prove2.me/theorems/9ce417dd-4db4-40a0-a622-69c425f156c5

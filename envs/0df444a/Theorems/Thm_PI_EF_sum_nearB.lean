@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_sum_nearB
 -- name    : PI.EF.sum_nearB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:53.408803+00:00
 -- url     : https://prove2.me/theorems/d39b33e3-09c0-4fa3-9fd7-375634e0315b

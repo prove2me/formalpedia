@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FoldMult_UnitaryGroupMassFormula_isClosed_hitSet
 -- name    : PI.FoldMult.UnitaryGroupMassFormula.isClosed_hitSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:31:00.458288+00:00
 -- url     : https://prove2.me/theorems/49f3a72d-09ed-50dc-bd61-aa104b97ba71

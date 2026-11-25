@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExistsGaugeMeasureForEachRank_W_smul_dz
 -- name    : PI.ExistsGaugeMeasureForEachRank.W.smul_dz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:18:13.362109+00:00
 -- url     : https://prove2.me/theorems/fae0bc61-cb0a-5cd2-a337-f7486897d024

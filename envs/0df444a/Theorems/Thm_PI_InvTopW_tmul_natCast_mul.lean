@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_tmul_natCast_mul
 -- name    : PI.InvTopW.tmul_natCast_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:08:53.423603+00:00
 -- url     : https://prove2.me/theorems/26e25020-6d01-4441-b57d-903aa6c9494f

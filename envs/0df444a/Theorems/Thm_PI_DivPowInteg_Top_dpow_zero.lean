@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DivPowInteg_Top_dpow_zero
 -- name    : PI.DivPowInteg.Top.dpow_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:27:13.958654+00:00
 -- url     : https://prove2.me/theorems/5aa967c5-f65f-4e24-98c3-27a557ee548e

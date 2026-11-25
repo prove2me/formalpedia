@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_exists_end_map
 -- name    : PI.Dv.TIW.exists_end_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:28:04.252978+00:00
 -- url     : https://prove2.me/theorems/19e4d698-18c1-4a90-b6e6-57c31dcc6fa8

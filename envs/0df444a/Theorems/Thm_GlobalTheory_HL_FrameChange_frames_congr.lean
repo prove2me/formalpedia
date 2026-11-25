@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameChange_frames_congr
 -- name    : GlobalTheory.HL.FrameChange.frames_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:33:20.286268+00:00
 -- url     : https://prove2.me/theorems/aa543241-0a58-5d98-a209-83b83154792d

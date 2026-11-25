@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerIso_DetOrdW_val_natCast_eq_one
 -- name    : PI.KerIso.DetOrdW.val_natCast_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:33:16.496811+00:00
 -- url     : https://prove2.me/theorems/f6ea5023-1571-47da-92c7-8aee6a380ca8

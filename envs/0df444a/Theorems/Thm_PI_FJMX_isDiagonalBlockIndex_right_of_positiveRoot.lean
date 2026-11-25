@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_isDiagonalBlockIndex_right_of_positiveRoot
 -- name    : PI.FJMX.isDiagonalBlockIndex_right_of_positiveRoot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:35.048886+00:00
 -- url     : https://prove2.me/theorems/cd208719-b5b8-47d6-94e0-b971934800e9

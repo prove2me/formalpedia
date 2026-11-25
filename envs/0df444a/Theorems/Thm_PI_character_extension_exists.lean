@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_character_extension_exists
 -- name    : PI.character_extension_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:59:17.445694+00:00
 -- url     : https://prove2.me/theorems/54f3d8d2-d8ed-44af-96be-4d33c9c6653e

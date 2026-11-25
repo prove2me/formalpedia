@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_projectiveLineClassData_tsum_psi_f565265bd92d
 -- name    : P2M_GroundTheory_Heights__Theta_projectiveLineClassData_tsum_psi_f565265bd92d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:54:43.547863+00:00
 -- url     : https://prove2.me/theorems/279887f1-20ec-4080-bc6d-b9ca3524aa5b

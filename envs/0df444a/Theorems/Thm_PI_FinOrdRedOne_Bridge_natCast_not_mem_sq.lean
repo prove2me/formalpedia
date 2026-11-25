@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinOrdRedOne_Bridge_natCast_not_mem_sq
 -- name    : PI.FinOrdRedOne.Bridge.natCast_not_mem_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:52.222885+00:00
 -- url     : https://prove2.me/theorems/565f98a1-e304-5c66-bb84-f6896ed3d117

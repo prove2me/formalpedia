@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_continuous_of_isTrivialOn
 -- name    : GroundTheory.LocalField.continuous_of_isTrivialOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:03:04.944473+00:00
 -- url     : https://prove2.me/theorems/f797cfd3-2094-5dbe-b8a5-739a62057be1

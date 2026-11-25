@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_norm_embedding_eq_zpow
 -- name    : PI.DvRows.norm_embedding_eq_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:32:41.115134+00:00
 -- url     : https://prove2.me/theorems/af61119f-a458-5334-b9cd-f1fa1312d399

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cech_kuenneth
 -- name    : GlobalTheory.cech_kuenneth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:48:03.537713+00:00
 -- url     : https://prove2.me/theorems/13475a75-31a1-4604-8f3c-5adfb39d7d97

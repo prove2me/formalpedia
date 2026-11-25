@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtInv_eq_zero_of_trace_mul
 -- name    : GlobalTheory.JR.EtInv.eq_zero_of_trace_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:23:08.788565+00:00
 -- url     : https://prove2.me/theorems/a2678854-c3dd-47fc-a0f2-14c0c8c2d41a

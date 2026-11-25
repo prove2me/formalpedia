@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_DataX_exists_gamma
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.DataX.exists_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:47:57.538792+00:00
 -- url     : https://prove2.me/theorems/bb626e70-39c7-4bee-999c-d97e954146b6

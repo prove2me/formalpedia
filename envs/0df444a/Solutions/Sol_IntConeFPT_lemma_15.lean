@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for IntConeFPT.lemma_15
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @ohnesorgefelix
 -- created : 2026-11-25T08:44:52.900845+00:00
 -- url     : https://prove2.me/submissions/8c186d6a-8b28-462d-a540-ab8d7fddea19
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_IntConeFPT_short_recession_step
 import Theorems.Thm_IntConeFPT_sparse_perspective_projection

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_orbit_mass_eq_of_finite_double_cosets
 -- name    : GlobalTheory.T.orbit_mass_eq_of_finite_double_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:50:01.156113+00:00
 -- url     : https://prove2.me/theorems/e7fcd2ce-bf77-5aa0-85bd-50258f920ca0

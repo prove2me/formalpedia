@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_thirdRoot_mem_coeffSubring
 -- name    : PI.AddIntG.Wk.thirdRoot_mem_coeffSubring
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:54:53.088937+00:00
 -- url     : https://prove2.me/theorems/7f358a74-9085-4ed1-8544-a9396778595a

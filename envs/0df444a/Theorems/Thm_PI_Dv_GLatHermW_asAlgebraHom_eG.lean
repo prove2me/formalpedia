@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLatHermW_asAlgebraHom_eG
 -- name    : PI.Dv.GLatHermW.asAlgebraHom_eG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:17:22.491192+00:00
 -- url     : https://prove2.me/theorems/b927fdc8-7389-4df8-8e93-480f7d9f2ea5

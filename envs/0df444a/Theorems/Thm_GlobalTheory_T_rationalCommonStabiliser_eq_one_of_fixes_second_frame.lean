@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rationalCommonStabiliser_eq_one_of_fixes_second_frame
 -- name    : GlobalTheory.T.rationalCommonStabiliser_eq_one_of_fixes_second_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:59:46.399322+00:00
 -- url     : https://prove2.me/theorems/e049197d-d527-468d-9490-1b5fb6ffbab2

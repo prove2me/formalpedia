@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_RK_end_simple
 -- name    : PI.Dv.RK.end_simple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:27:50.649987+00:00
 -- url     : https://prove2.me/theorems/9fa19bcb-42f3-4581-b278-2d12607e7b86

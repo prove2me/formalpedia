@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HypChartPf_opE_subset
 -- name    : GlobalTheory.HypChartPf.opE_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:51:25.614864+00:00
 -- url     : https://prove2.me/theorems/c50eb07c-2090-47f2-b589-14278731773a

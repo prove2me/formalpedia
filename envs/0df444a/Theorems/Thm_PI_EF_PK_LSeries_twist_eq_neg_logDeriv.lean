@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_LSeries_twist_eq_neg_logDeriv
 -- name    : PI.EF.PK.LSeries_twist_eq_neg_logDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:28:34.506806+00:00
 -- url     : https://prove2.me/theorems/e4ea68b8-e06c-4bea-beec-781716018a42

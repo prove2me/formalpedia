@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_Cap_alt_contract
 -- name    : PI.HookSteps.Cap.alt_contract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:07:44.644863+00:00
 -- url     : https://prove2.me/theorems/e80f3666-59b5-5319-9707-7439acfd9c94

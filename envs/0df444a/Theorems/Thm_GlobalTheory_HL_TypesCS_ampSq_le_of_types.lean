@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TypesCS_ampSq_le_of_types
 -- name    : GlobalTheory.HL.TypesCS.ampSq_le_of_types
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:54:00.504504+00:00
 -- url     : https://prove2.me/theorems/0afbae02-dfcd-5ecc-bc83-809fed88008a

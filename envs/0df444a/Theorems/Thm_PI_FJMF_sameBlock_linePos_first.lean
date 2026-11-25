@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_sameBlock_linePos_first
 -- name    : PI.FJMF.sameBlock_linePos_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:15.838321+00:00
 -- url     : https://prove2.me/theorems/c347689c-23e2-42dd-a26f-749558d45b4a

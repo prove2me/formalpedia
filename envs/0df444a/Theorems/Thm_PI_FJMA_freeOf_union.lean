@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMA_freeOf_union
 -- name    : PI.FJMA.freeOf_union
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:29:51.972453+00:00
 -- url     : https://prove2.me/theorems/8540991b-1951-4431-ad50-fb3b59cc47f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InA_pow
 -- name    : PI.InA.pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:32.143488+00:00
 -- url     : https://prove2.me/theorems/9db15503-2444-49be-9b7b-ece068ed0f57

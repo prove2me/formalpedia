@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_frame_value_daf6e30e5d32
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_frame_value_daf6e30e5d32
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:45:01.932576+00:00
 -- url     : https://prove2.me/theorems/c3b3fe7d-4d10-5d51-adf0-934fdda204a2

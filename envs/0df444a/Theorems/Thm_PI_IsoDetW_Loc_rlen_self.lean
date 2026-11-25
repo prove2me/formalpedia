@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_rlen_self
 -- name    : PI.IsoDetW.Loc.rlen_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:08:04.909823+00:00
 -- url     : https://prove2.me/theorems/1f7079a2-22f5-4ee4-85d2-de5a2bfb9c3e

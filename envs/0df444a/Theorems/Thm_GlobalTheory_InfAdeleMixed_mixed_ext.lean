@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InfAdeleMixed_mixed_ext
 -- name    : GlobalTheory.InfAdeleMixed.mixed_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:20:36.601559+00:00
 -- url     : https://prove2.me/theorems/2290c27d-d32a-50d9-a6f6-953b73d81ae0

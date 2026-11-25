@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FHS_fockInner_self_re_nonneg
 -- name    : PI.FHS.fockInner_self_re_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:25.203995+00:00
 -- url     : https://prove2.me/theorems/002117f9-7e5e-4f0d-9e8a-11b149221512

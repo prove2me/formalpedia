@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Diag_omE_diag_monomial
 -- name    : PI.FockOneDegW.Diag.omE_diag_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:57.857056+00:00
 -- url     : https://prove2.me/theorems/fffa14c1-527b-4551-be16-b8835fc8efff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelSurjWork_blockUT_reindex
 -- name    : PI.GreenLabelSurjWork.blockUT_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:46.605115+00:00
 -- url     : https://prove2.me/theorems/5394179c-c623-4f96-8c54-c5006dc57c62

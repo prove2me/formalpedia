@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DensSplitW_sub_factor
 -- name    : PI.DensSplitW.sub_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:26:41.899932+00:00
 -- url     : https://prove2.me/theorems/ea2365f9-bb8a-4af4-a918-174cba8e3137

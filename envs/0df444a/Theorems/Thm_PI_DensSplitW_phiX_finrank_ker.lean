@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DensSplitW_phiX_finrank_ker
 -- name    : PI.DensSplitW.phiX_finrank_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:26:43.101447+00:00
 -- url     : https://prove2.me/theorems/1bfa2bea-6537-4d41-9095-a626ecc83f15

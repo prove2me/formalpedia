@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_stabH_closed
 -- name    : PI.RhsWLim.W.RI.stabH_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:20:27.47926+00:00
 -- url     : https://prove2.me/theorems/0a9d396d-8e5c-51c6-96ea-029ea9586da1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjCW_ker_one_sub
 -- name    : PI.Dv.ProjCW.ker_one_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:02.951305+00:00
 -- url     : https://prove2.me/theorems/04218ec7-8d4c-44d8-b29c-6b1ed826ae7d

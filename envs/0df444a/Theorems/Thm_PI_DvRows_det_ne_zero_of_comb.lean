@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_det_ne_zero_of_comb
 -- name    : PI.DvRows.det_ne_zero_of_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:33:25.894878+00:00
 -- url     : https://prove2.me/theorems/6f04532e-73fd-5031-a3d5-2eeb2c80779a

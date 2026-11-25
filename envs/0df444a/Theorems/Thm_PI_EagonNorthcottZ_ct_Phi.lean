@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EagonNorthcottZ_ct_Phi
 -- name    : PI.EagonNorthcottZ.ct_Phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:19.942057+00:00
 -- url     : https://prove2.me/theorems/3e61f4a4-acbb-4822-ac86-4f0acc174f24

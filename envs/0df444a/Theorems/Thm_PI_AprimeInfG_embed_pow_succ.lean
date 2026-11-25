@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfG_embed_pow_succ
 -- name    : PI.AprimeInfG.embed_pow_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:05:50.279858+00:00
 -- url     : https://prove2.me/theorems/d4c2afdf-f1a7-5078-a90c-43fa88bebd76

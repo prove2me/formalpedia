@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_W_coeff_pow_eq_zero
 -- name    : PI.JetsPhW.W.coeff_pow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:33:54.56987+00:00
 -- url     : https://prove2.me/theorems/848925bc-1f5c-4a93-b7b9-2d3d6815f1f7

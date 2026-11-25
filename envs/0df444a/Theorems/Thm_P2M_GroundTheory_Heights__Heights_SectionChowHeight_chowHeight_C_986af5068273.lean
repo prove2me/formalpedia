@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionChowHeight_chowHeight_C_986af5068273
 -- name    : P2M_GroundTheory_Heights__Heights_SectionChowHeight_chowHeight_C_986af5068273
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:38:10.41078+00:00
 -- url     : https://prove2.me/theorems/d06e3540-d6a7-4e8d-b749-0d44f7809e33

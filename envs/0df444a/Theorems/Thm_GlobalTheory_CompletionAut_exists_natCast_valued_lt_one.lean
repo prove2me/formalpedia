@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletionAut_exists_natCast_valued_lt_one
 -- name    : GlobalTheory.CompletionAut.exists_natCast_valued_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:21:52.076907+00:00
 -- url     : https://prove2.me/theorems/a9368925-49c5-4d99-b7f8-fccecc7d93c7

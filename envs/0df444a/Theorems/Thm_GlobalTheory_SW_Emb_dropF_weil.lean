@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Emb_dropF_weil
 -- name    : GlobalTheory.SW.Emb.dropF_weil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:39:04.253421+00:00
 -- url     : https://prove2.me/theorems/a143941d-e561-468e-8baf-f1581a7779ab

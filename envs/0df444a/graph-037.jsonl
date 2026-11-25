@@ -99967,7 +99967,7 @@
 {"parent": "Formalism.FourierDecayAlt.P.S3x9.cornerCount", "child": "Formalism_HermitianCurvature_MemParahoricTimesPrincipalCongruenceIff", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.S3x9.cornerCount", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_Minors", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.S3x9.cornerCount", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_Block32EqZeroOfUnipotent", "via": ["solution", "statement"]}
-{"parent": "PI.EF.Rect.rectInt_add", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ExplicitFormula_RectIntEqZeroOfDifferentiableOn", "via": ["statement"]}
+{"parent": "PI.EF.Rect.rectInt_add", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ExplicitFormula_RectIntEqZeroOfDifferentiableOn", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.S3x3.block23_mul", "child": "Formalism_HermitianCurvature_MemParahoricTimesPrincipalCongruenceIff", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.S3x3.block23_mul", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_MemIntegralGlOfMiddleBlock", "via": ["solution", "statement"]}
 {"parent": "Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_USideB", "child": "Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_VeluIntegral", "via": ["statement"]}

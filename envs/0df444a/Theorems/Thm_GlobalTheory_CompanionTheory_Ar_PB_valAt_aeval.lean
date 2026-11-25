@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_valAt_aeval
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.valAt_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:22:37.518217+00:00
 -- url     : https://prove2.me/theorems/f03da8d0-b98c-565a-a1b5-40d5ab5db338

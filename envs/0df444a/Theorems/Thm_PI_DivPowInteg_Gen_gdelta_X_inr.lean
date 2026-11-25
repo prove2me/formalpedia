@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DivPowInteg_Gen_gdelta_X_inr
 -- name    : PI.DivPowInteg.Gen.gdelta_X_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:26:41.049832+00:00
 -- url     : https://prove2.me/theorems/ce90bf49-a50f-5a62-bffe-690407bef331

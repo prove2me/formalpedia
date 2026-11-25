@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMB_cd_mono_factor
 -- name    : PI.FJMB.cd_mono_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:43.072677+00:00
 -- url     : https://prove2.me/theorems/0eb6205d-0a4a-5d63-b6b1-06a6c731cec3

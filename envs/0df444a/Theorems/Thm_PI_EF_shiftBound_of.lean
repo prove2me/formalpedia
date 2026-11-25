@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_shiftBound_of
 -- name    : PI.EF.shiftBound_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:38.663834+00:00
 -- url     : https://prove2.me/theorems/f118c1a3-0ca5-45cf-b9af-359001fd3d5f

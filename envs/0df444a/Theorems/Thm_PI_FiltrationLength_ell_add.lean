@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FiltrationLength_ell_add
 -- name    : PI.FiltrationLength.ell_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:06.408628+00:00
 -- url     : https://prove2.me/theorems/13686f02-4f88-5558-abce-2e57bfc71bf1

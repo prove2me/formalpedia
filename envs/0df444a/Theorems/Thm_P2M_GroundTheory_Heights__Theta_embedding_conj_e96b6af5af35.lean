@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_embedding_conj_e96b6af5af35
 -- name    : P2M_GroundTheory_Heights__Theta_embedding_conj_e96b6af5af35
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:32:28.82889+00:00
 -- url     : https://prove2.me/theorems/1b7ffe67-7988-4c7f-93b0-36ef104260ef

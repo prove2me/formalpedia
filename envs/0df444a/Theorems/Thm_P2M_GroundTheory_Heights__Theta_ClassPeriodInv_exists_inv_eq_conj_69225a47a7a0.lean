@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_ClassPeriodInv_exists_inv_eq_conj_69225a47a7a0
 -- name    : P2M_GroundTheory_Heights__Theta_ClassPeriodInv_exists_inv_eq_conj_69225a47a7a0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:51:38.092041+00:00
 -- url     : https://prove2.me/theorems/5a4d4ec9-ef74-4051-98e6-aaf93accf65d

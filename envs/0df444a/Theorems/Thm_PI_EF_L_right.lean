@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_L_right
 -- name    : PI.EF.L_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:28:33.742793+00:00
 -- url     : https://prove2.me/theorems/73b09981-6f6e-4223-a2fb-794123280763

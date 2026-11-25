@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeConjNormW_inverse_integral_padic
 -- name    : PI.BeConjNormW.inverse_integral_padic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:24:38.818832+00:00
 -- url     : https://prove2.me/theorems/40abd091-3d1e-596c-9263-ee718c3103a2

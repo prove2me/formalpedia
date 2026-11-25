@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frameMovesKernel_commonStabilizer_smul_eq
 -- name    : GlobalTheory.T.frameMovesKernel_commonStabilizer_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:50:36.662699+00:00
 -- url     : https://prove2.me/theorems/5d64af0b-5f8f-5dc6-97b6-2c7fd984cd6d

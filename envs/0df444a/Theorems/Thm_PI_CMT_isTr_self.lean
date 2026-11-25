@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CMT_isTr_self
 -- name    : PI.CMT.isTr_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:26:03.135872+00:00
 -- url     : https://prove2.me/theorems/90f1c3ce-8c15-4222-b34f-4697269c0d12

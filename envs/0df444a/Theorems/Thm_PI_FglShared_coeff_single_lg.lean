@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglShared_coeff_single_lg
 -- name    : PI.FglShared.coeff_single_lg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:30:12.208545+00:00
 -- url     : https://prove2.me/theorems/bba6348a-e31e-4114-9199-00fd47925e8b

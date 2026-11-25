@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ComplexConjugateDerivative_vel_sum
 -- name    : PI.ComplexConjugateDerivative.vel_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:27:17.700519+00:00
 -- url     : https://prove2.me/theorems/a284570d-a3e4-5a32-8941-3d752c1c2fc6

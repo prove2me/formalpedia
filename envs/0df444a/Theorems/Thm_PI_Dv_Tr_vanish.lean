@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_vanish
 -- name    : PI.Dv.Tr.vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:38.234529+00:00
 -- url     : https://prove2.me/theorems/ebafca9a-9701-48ed-ad75-93d690fa7924

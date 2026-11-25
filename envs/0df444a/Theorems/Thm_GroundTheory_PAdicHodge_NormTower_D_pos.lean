@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_NormTower_D_pos
 -- name    : GroundTheory.PAdicHodge.NormTower.D_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:22:40.687461+00:00
 -- url     : https://prove2.me/theorems/0c82cf7d-c8fa-49e0-a7e9-d8690301610f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LocInv_measureReal_dual_mul
 -- name    : GlobalTheory.CompanionTheory.SW.LocInv.measureReal_dual_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:03:49.852814+00:00
 -- url     : https://prove2.me/theorems/16f9359b-97a4-57cd-97d6-d3aad87c6fb8

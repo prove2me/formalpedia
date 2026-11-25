@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_form_mem_mCoordIdeal_iff
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.form_mem_mCoordIdeal_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:22:29.514835+00:00
 -- url     : https://prove2.me/theorems/a6461488-189f-53c5-a4f0-a1301bac0db1

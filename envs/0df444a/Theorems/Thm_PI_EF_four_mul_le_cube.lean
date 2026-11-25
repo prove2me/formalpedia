@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_four_mul_le_cube
 -- name    : PI.EF.four_mul_le_cube
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:41.958996+00:00
 -- url     : https://prove2.me/theorems/c11a1d2f-598f-508e-b226-26bc5ed58600

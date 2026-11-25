@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletionAut_map_mem
 -- name    : GlobalTheory.CompletionAut.map_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:22:57.023013+00:00
 -- url     : https://prove2.me/theorems/0cf9cbb0-d0f6-4137-83eb-3df2083bd683

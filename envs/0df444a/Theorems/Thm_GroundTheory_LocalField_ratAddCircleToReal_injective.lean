@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ratAddCircleToReal_injective
 -- name    : GroundTheory.LocalField.ratAddCircleToReal_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:05:11.598797+00:00
 -- url     : https://prove2.me/theorems/75cfe3bf-f337-422d-9a5c-f7bcc7461849

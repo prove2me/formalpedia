@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CompAtExist_val_eq_of_le_one_iff
 -- name    : PI.CompAtExist.val_eq_of_le_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:27:00.225807+00:00
 -- url     : https://prove2.me/theorems/fc46afe0-3acd-4f80-9b96-3025519e4a84

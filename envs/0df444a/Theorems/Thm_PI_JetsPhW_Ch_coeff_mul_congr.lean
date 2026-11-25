@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Ch_coeff_mul_congr
 -- name    : PI.JetsPhW.Ch.coeff_mul_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:09:58.779793+00:00
 -- url     : https://prove2.me/theorems/d230e3af-e88f-570c-ad64-437fa731ee58

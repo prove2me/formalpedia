@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IdealLatticeWork_im_comb
 -- name    : PI.IdealLatticeWork.im_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:07:30.084889+00:00
 -- url     : https://prove2.me/theorems/773a7087-960b-4ebd-9d25-41be503e11cb

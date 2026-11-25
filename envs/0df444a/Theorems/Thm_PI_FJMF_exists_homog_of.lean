@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_exists_homog_of
 -- name    : PI.FJMF.exists_homog_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:47.692518+00:00
 -- url     : https://prove2.me/theorems/88ad1dff-63ad-4eb5-bbcc-df2ce25356d6

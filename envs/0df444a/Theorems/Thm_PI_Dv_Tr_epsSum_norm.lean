@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_epsSum_norm
 -- name    : PI.Dv.Tr.epsSum_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:32:03.582846+00:00
 -- url     : https://prove2.me/theorems/4f1af541-1496-504a-b5d9-1c1778ccc0d7

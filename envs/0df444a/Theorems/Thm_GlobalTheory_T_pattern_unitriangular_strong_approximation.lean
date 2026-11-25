@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pattern_unitriangular_strong_approximation
 -- name    : GlobalTheory.T.pattern_unitriangular_strong_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:18:26.186378+00:00
 -- url     : https://prove2.me/theorems/4e682572-f35c-427b-b23d-f8a54934c410

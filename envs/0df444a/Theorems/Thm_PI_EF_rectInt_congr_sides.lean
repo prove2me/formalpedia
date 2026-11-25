@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_rectInt_congr_sides
 -- name    : PI.EF.rectInt_congr_sides
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:22.410874+00:00
 -- url     : https://prove2.me/theorems/65daa1ce-6ddb-46ad-83b6-bb2fd24001c1

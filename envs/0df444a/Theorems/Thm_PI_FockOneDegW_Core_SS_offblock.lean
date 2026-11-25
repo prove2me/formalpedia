@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Core_SS_offblock
 -- name    : PI.FockOneDegW.Core.SS_offblock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:19.207981+00:00
 -- url     : https://prove2.me/theorems/628ab368-745d-4bb6-ad54-aae17537fb1d

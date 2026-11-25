@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_one_le_mult
 -- name    : PI.EF.one_le_mult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:07.712356+00:00
 -- url     : https://prove2.me/theorems/93480970-5f65-48db-baca-4b43704269ad

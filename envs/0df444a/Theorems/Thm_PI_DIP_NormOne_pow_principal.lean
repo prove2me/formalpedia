@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DIP_NormOne_pow_principal
 -- name    : PI.DIP.NormOne.pow_principal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:26:36.156631+00:00
 -- url     : https://prove2.me/theorems/185eb1b9-f295-5d62-888b-45c2a10b4f96

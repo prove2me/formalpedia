@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelSurjWork_exists_simple_constituent
 -- name    : PI.GreenLabelSurjWork.exists_simple_constituent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:59.594366+00:00
 -- url     : https://prove2.me/theorems/0ddea35d-eebc-4b5f-90f8-0b2d68f10edc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IdealLatticeWork_ne_conj
 -- name    : PI.IdealLatticeWork.ne_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:07:04.891982+00:00
 -- url     : https://prove2.me/theorems/d99894cd-ae96-564f-8e37-1125f57a10b4

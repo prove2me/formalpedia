@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CMT_trIdeal_eq_top
 -- name    : PI.CMT.trIdeal_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:25:55.74324+00:00
 -- url     : https://prove2.me/theorems/c5cbb899-da70-5cb4-803c-3ae0068b1b87

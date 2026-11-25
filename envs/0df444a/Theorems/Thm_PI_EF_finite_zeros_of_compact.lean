@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_finite_zeros_of_compact
 -- name    : PI.EF.finite_zeros_of_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:41.009701+00:00
 -- url     : https://prove2.me/theorems/9543beea-56a4-5db5-a575-aea7ce0c8296

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EagonNorthcottZ_mu_inx
 -- name    : PI.EagonNorthcottZ.mu_inx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:36.4028+00:00
 -- url     : https://prove2.me/theorems/d84cab2a-eb00-4a67-bd1e-2d175c8bf888

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HeckeProdW_Phi_single
 -- name    : PI.HeckeProdW.Phi_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:31:29.552793+00:00
 -- url     : https://prove2.me/theorems/61d45e57-049b-4811-a1f9-1826a1c3970e

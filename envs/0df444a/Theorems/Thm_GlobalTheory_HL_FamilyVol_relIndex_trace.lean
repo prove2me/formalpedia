@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FamilyVol_relIndex_trace
 -- name    : GlobalTheory.HL.FamilyVol.relIndex_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:30:03.450144+00:00
 -- url     : https://prove2.me/theorems/a1352667-e517-5aba-aab6-ab32e8299e88

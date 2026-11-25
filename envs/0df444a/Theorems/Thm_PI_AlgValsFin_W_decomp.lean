@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_decomp
 -- name    : PI.AlgValsFin.W.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:04:49.418211+00:00
 -- url     : https://prove2.me/theorems/7f05ea11-5a17-413d-86b7-f50f19c0f179

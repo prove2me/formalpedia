@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Rect_continuousOn_div_sub_sq
 -- name    : PI.EF.Rect.continuousOn_div_sub_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:28:29.755461+00:00
 -- url     : https://prove2.me/theorems/0a37f3e4-2161-4720-aa9c-7c1de35b6df2

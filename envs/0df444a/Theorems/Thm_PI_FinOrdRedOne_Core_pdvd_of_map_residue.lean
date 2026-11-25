@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinOrdRedOne_Core_pdvd_of_map_residue
 -- name    : PI.FinOrdRedOne.Core.pdvd_of_map_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:32.525066+00:00
 -- url     : https://prove2.me/theorems/0bc642d7-0f1f-4afd-9261-90823d764b24

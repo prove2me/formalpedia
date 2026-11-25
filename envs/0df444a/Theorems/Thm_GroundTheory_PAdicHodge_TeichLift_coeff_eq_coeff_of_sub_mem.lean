@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_coeff_eq_coeff_of_sub_mem
 -- name    : GroundTheory.PAdicHodge.TeichLift.coeff_eq_coeff_of_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:34:56.78716+00:00
 -- url     : https://prove2.me/theorems/61cbb96c-d3f4-4d86-a551-7f0f3a5d7905

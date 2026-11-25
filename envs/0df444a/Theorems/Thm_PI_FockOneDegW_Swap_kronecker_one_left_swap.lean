@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Swap_kronecker_one_left_swap
 -- name    : PI.FockOneDegW.Swap.kronecker_one_left_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:33:10.917988+00:00
 -- url     : https://prove2.me/theorems/843a875a-9e1b-52f2-9d10-faab9550239e

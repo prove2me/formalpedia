@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Acris_hom_ext
 -- name    : Reformulated.AutPerF.Acris.hom_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:21:31.426311+00:00
 -- url     : https://prove2.me/theorems/92b5f864-7188-537f-8e37-803cd22ee54b

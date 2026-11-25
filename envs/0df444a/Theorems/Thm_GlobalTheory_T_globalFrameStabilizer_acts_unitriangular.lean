@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_globalFrameStabilizer_acts_unitriangular
 -- name    : GlobalTheory.T.globalFrameStabilizer_acts_unitriangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:59:32.281834+00:00
 -- url     : https://prove2.me/theorems/4cab6312-6de5-40da-b3b6-293587b1b073

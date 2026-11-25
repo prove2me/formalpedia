@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CharIdemW_trace_act_charIdem
 -- name    : PI.CharIdemW.trace_act_charIdem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:25:57.00615+00:00
 -- url     : https://prove2.me/theorems/c2b02cbd-cb88-482d-aae5-d1ce9d184764

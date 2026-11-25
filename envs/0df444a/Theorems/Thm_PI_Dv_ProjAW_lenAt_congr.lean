@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjAW_lenAt_congr
 -- name    : PI.Dv.ProjAW.lenAt_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:28:05.424007+00:00
 -- url     : https://prove2.me/theorems/8955e61a-2541-453f-9de8-fc5f37b54f20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_heisH_laws
 -- name    : GlobalTheory.SW.heisH_laws
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:21.589025+00:00
 -- url     : https://prove2.me/theorems/73507277-adf2-458d-b688-95adf74c9290

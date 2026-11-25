@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExistsGaugeMeasureForEachRank_W_conjT_mul_H
 -- name    : PI.ExistsGaugeMeasureForEachRank.W.conjT_mul_H
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:09:48.240429+00:00
 -- url     : https://prove2.me/theorems/593156dd-fbae-41d2-a54c-59124063fb7b

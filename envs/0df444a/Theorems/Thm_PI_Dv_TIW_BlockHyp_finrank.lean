@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_BlockHyp_finrank
 -- name    : PI.Dv.TIW.BlockHyp.finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:17.685854+00:00
 -- url     : https://prove2.me/theorems/b2aefa31-d517-46fd-aab8-37cf0c994951

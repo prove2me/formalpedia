@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_CountsW_extZ_eq_zero
 -- name    : PI.FrameInd.CountsW.extZ_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:32:27.555686+00:00
 -- url     : https://prove2.me/theorems/b7329c9e-a6e9-49ef-8a5c-a88504e4af29

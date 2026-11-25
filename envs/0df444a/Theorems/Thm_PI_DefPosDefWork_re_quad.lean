@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DefPosDefWork_re_quad
 -- name    : PI.DefPosDefWork.re_quad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:27:08.13374+00:00
 -- url     : https://prove2.me/theorems/947bfc74-a6c1-5bd2-a738-f0c280aedfc6

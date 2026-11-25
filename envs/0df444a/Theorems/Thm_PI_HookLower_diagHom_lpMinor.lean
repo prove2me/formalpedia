@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookLower_diagHom_lpMinor
 -- name    : PI.HookLower.diagHom_lpMinor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:06:28.370008+00:00
 -- url     : https://prove2.me/theorems/1002ec91-bcec-55f1-8ef6-a2775f17f494

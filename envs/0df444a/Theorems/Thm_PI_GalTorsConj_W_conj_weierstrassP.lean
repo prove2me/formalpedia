@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_conj_weierstrassP
 -- name    : PI.GalTorsConj.W.conj_weierstrassP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:31:34.665847+00:00
 -- url     : https://prove2.me/theorems/7829f6f9-c64e-417b-b13e-ace5497e59f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CombDetDescFactorial_proof_dffc140025e7
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CombDetDescFactorial_proof_dffc140025e7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:30:57.143442+00:00
 -- url     : https://prove2.me/theorems/ed68640c-b157-5a0f-a5e0-dfbe1a482a89

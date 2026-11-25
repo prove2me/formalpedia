@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_abelSq
 -- name    : PI.ET.abelSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:28:52.461142+00:00
 -- url     : https://prove2.me/theorems/9ff9c365-0a0d-41c1-ad20-c4264021996a

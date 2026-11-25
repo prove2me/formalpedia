@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Short_ChowClosing_SectionPerfect_specFirst_C_mul_prod
 -- name    : GlobalTheory.CompanionTheory.Ar.Short.ChowClosing.SectionPerfect.specFirst_C_mul_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:06:05.06774+00:00
 -- url     : https://prove2.me/theorems/6e8f4ce8-e059-54ea-b584-577d270af5b7

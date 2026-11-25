@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CharIdemW_mulEq_of
 -- name    : PI.CharIdemW.mulEq_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:26:09.666992+00:00
 -- url     : https://prove2.me/theorems/336f2d56-e7e2-435b-ac66-fd5155959c4f

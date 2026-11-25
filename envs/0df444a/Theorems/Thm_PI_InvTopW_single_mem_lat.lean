@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_single_mem_lat
 -- name    : PI.InvTopW.single_mem_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:08:17.517848+00:00
 -- url     : https://prove2.me/theorems/e932678e-f21b-54cc-b7a7-163c32f6abc9

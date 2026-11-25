@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BaseChangeLogBound_proof_d1598fdd0006
 -- name    : P2M_GroundTheory_Heights__Heights_BaseChangeLogBound_proof_d1598fdd0006
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:46:35.193466+00:00
 -- url     : https://prove2.me/theorems/ae41f62e-3244-42a3-86f7-c07a990345b5

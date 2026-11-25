@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_degDualBound_of
 -- name    : PI.DvRows.degDualBound_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:30:05.585223+00:00
 -- url     : https://prove2.me/theorems/30f1ae5a-466d-4ab9-ae3e-eefb9613dd3d

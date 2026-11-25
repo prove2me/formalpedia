@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_Multilin_of_found_d47ebe16c976
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_Multilin_of_found_d47ebe16c976
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:42:03.223897+00:00
 -- url     : https://prove2.me/theorems/7c323810-48de-5229-b367-93e842d35a7e

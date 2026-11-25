@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGConvScalarW_convScalar_of
 -- name    : PI.GGConvScalarW.convScalar_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:31:14.436946+00:00
 -- url     : https://prove2.me/theorems/989a91d1-c4a2-4ff6-af25-9f6fcccf223d

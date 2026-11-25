@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_PK_line_bound_small
 -- name    : PI.EF.PK.line_bound_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:28:55.089399+00:00
 -- url     : https://prove2.me/theorems/5f641abc-2925-47a1-bba0-83498c53cd43

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_modularJ_surjective
 -- name    : GroundTheory.Global.Elliptic.modularJ_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:49:18.545776+00:00
 -- url     : https://prove2.me/theorems/338ef494-0357-426f-bab4-d6a4597e8b13

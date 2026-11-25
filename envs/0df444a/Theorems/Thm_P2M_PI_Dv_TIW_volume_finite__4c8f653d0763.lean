@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Dv_TIW_volume_finite__4c8f653d0763
 -- name    : P2M_PI_Dv_TIW_volume_finite__4c8f653d0763
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:12:18.177696+00:00
 -- url     : https://prove2.me/theorems/3f4a0cf5-0d08-4923-b121-f456a200e788

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_shift_emb
 -- name    : PI.GalTorsConj.W.shift_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:31:50.331037+00:00
 -- url     : https://prove2.me/theorems/94b49785-e07c-499a-8df9-ad85aa3ddf85

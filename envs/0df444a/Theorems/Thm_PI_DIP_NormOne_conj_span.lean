@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DIP_NormOne_conj_span
 -- name    : PI.DIP.NormOne.conj_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:27:05.500065+00:00
 -- url     : https://prove2.me/theorems/30a3ba4a-c3d5-4514-bdc4-1a8d2a7bc33e

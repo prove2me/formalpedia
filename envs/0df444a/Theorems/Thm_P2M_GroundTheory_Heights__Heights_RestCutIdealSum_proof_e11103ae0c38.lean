@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestCutIdealSum_proof_e11103ae0c38
 -- name    : P2M_GroundTheory_Heights__Heights_RestCutIdealSum_proof_e11103ae0c38
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:56:46.681031+00:00
 -- url     : https://prove2.me/theorems/6bc279c7-f915-4386-9eff-28d79290bd27

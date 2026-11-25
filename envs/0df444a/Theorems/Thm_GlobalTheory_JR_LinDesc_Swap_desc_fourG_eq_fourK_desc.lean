@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_Swap_desc_fourG_eq_fourK_desc
 -- name    : GlobalTheory.JR.LinDesc.Swap.desc_fourG_eq_fourK_desc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:34:07.429204+00:00
 -- url     : https://prove2.me/theorems/e9434112-dc70-4dcd-967f-5e18d108a69f

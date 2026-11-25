@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IdeleUnitsOpenW_unitIdeles_eq
 -- name    : PI.IdeleUnitsOpenW.unitIdeles_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:25.063792+00:00
 -- url     : https://prove2.me/theorems/a35f86e0-6efa-44cd-af99-e1111819987e

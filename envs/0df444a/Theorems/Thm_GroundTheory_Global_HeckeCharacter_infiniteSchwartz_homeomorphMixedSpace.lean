@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_HeckeCharacter_infiniteSchwartz_homeomorphMixedSpace
 -- name    : GroundTheory.Global.HeckeCharacter.infiniteSchwartz_homeomorphMixedSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:48:33.847233+00:00
 -- url     : https://prove2.me/theorems/0349a693-f3a9-5b43-a2cf-c7bdbfbd7224

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DivPowInteg_Gen_pow_apply_eq_zero_of_lowDeg
 -- name    : PI.DivPowInteg.Gen.pow_apply_eq_zero_of_lowDeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:37:21.594704+00:00
 -- url     : https://prove2.me/theorems/898a8931-f803-432a-85f2-e38c10fa3d48

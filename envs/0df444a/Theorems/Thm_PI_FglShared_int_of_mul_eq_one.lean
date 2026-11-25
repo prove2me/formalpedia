@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglShared_int_of_mul_eq_one
 -- name    : PI.FglShared.int_of_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:30:35.545486+00:00
 -- url     : https://prove2.me/theorems/7a8bb994-e793-4f13-8d4b-111287457388

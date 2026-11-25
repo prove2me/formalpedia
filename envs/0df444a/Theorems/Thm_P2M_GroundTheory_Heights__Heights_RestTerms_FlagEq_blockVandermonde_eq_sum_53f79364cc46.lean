@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_blockVandermonde_eq_sum_53f79364cc46
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_blockVandermonde_eq_sum_53f79364cc46
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:19:32.227783+00:00
 -- url     : https://prove2.me/theorems/e904c444-9d31-45f7-a00b-5f12abe65713

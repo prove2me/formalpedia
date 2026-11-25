@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJM_jointMult_of
 -- name    : PI.FJM.jointMult_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:54.121611+00:00
 -- url     : https://prove2.me/theorems/13cc5d36-0657-4f49-aab7-1296623bb531

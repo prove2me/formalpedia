@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Ch_degree_le_of_le
 -- name    : PI.JetsPhW.Ch.degree_le_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:10:15.123855+00:00
 -- url     : https://prove2.me/theorems/b4e60fc9-113f-4724-9926-782ab4d7ff70

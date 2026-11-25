@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Rect_hint_of_hasDerivAt
 -- name    : PI.EF.Rect.hint_of_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:22:44.134248+00:00
 -- url     : https://prove2.me/theorems/85a78d74-7f7a-49e1-9eaa-f77c059fe5cf

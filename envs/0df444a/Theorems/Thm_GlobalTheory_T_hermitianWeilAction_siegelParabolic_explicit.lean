@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianWeilAction_siegelParabolic_explicit
 -- name    : GlobalTheory.T.hermitianWeilAction_siegelParabolic_explicit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:52.601177+00:00
 -- url     : https://prove2.me/theorems/0a902ad2-3bab-406e-b03c-6cb3b36a4d3e

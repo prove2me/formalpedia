@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoFunVW_det_mul_eq_sum_fun
 -- name    : PI.IsoFunVW.det_mul_eq_sum_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:10:20.360843+00:00
 -- url     : https://prove2.me/theorems/6a4420fd-d153-4c4e-8962-20cc40fd5e20

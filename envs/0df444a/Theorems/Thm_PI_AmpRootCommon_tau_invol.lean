@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AmpRootCommon_tau_invol
 -- name    : PI.AmpRootCommon.tau_invol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:23:09.011555+00:00
 -- url     : https://prove2.me/theorems/344b2065-fdfa-5af4-ba42-03a65fc2a4e9

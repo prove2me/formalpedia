@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AmpRootCommon_inv_upper
 -- name    : PI.AmpRootCommon.inv_upper
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:13:08.825104+00:00
 -- url     : https://prove2.me/theorems/093a8627-bafb-4e7d-8e86-aaffb371bb19

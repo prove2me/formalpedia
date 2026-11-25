@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirabolicIndex__mirabIndex_f365ed63d8b2
 -- name    : P2M_PI_MirabolicIndex__mirabIndex_f365ed63d8b2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:56:58.61892+00:00
 -- url     : https://prove2.me/theorems/4c809a11-bdd9-4f4b-bc25-c4105e1c7e39

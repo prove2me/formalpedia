@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_inner_sum_left
 -- name    : PI.FJMF.inner_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:16.93792+00:00
 -- url     : https://prove2.me/theorems/9d21651c-0378-5bea-8564-4e0d1e0dc727

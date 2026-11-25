@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjCW_span_pow_smul
 -- name    : PI.Dv.ProjCW.span_pow_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:19.500589+00:00
 -- url     : https://prove2.me/theorems/5e3372aa-38ad-5969-853f-cb7eac274e76

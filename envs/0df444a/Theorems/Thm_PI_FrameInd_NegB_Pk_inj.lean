@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_NegB_Pk_inj
 -- name    : PI.FrameInd.NegB.Pk_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:44.454943+00:00
 -- url     : https://prove2.me/theorems/d71e9648-a2ca-4e01-9495-1498ce76c0cf

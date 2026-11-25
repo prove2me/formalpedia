@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DIP_Loc_common_denom
 -- name    : PI.DIP.Loc.common_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:26:16.346691+00:00
 -- url     : https://prove2.me/theorems/0df5de06-56c8-4d8d-b187-a71547178f19

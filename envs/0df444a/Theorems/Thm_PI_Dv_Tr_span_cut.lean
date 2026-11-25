@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_span_cut
 -- name    : PI.Dv.Tr.span_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:23:04.908091+00:00
 -- url     : https://prove2.me/theorems/704c0378-5cf2-4176-a87c-45805b3e20d5

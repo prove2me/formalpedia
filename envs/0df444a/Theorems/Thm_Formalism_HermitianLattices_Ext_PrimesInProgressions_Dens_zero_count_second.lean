@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_zero_count_second
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.zero_count_second
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:49:10.721046+00:00
 -- url     : https://prove2.me/theorems/05521214-d3e8-50ca-b8f4-1e160e600d7e

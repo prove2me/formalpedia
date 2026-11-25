@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DivPowInteg_Top_nat_mul_factorial_bound
 -- name    : PI.DivPowInteg.Top.nat_mul_factorial_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:27:15.448539+00:00
 -- url     : https://prove2.me/theorems/38655461-5168-5a24-b030-6a856884d002

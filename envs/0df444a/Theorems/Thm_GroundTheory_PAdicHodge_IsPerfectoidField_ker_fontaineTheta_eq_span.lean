@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_ker_fontaineTheta_eq_span
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.ker_fontaineTheta_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:53.281887+00:00
 -- url     : https://prove2.me/theorems/8897ca1a-9a63-4af0-9ea1-8ecdfa85e422

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_analyticAt_LFunction
 -- name    : PI.EF.analyticAt_LFunction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:49.183789+00:00
 -- url     : https://prove2.me/theorems/69112193-a14d-496f-9e17-4b23ebe130eb

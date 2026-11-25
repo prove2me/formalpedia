@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_re_det_gram_proj_le_38a1cfc3754e
 -- name    : P2M_GroundTheory_Heights__Heights_re_det_gram_proj_le_38a1cfc3754e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:49:44.773874+00:00
 -- url     : https://prove2.me/theorems/b79d350c-d2dc-45d6-b451-18b3814566d9

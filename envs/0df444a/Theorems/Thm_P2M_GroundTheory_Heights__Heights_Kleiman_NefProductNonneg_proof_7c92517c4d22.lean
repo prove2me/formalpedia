@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_NefProductNonneg_proof_7c92517c4d22
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_NefProductNonneg_proof_7c92517c4d22
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:35:56.695055+00:00
 -- url     : https://prove2.me/theorems/99c8c2d7-1830-4d23-bebf-dbe8c1811680

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLatHermW_isCM_mul
 -- name    : PI.Dv.GLatHermW.isCM_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:58.75069+00:00
 -- url     : https://prove2.me/theorems/289c5b59-da53-4773-bd90-0ab2fefb5e29

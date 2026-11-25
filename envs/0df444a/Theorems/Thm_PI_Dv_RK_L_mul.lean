@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_RK_L_mul
 -- name    : PI.Dv.RK.L_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:16.964241+00:00
 -- url     : https://prove2.me/theorems/4201188b-beef-4238-8b57-b203b6cf2f77

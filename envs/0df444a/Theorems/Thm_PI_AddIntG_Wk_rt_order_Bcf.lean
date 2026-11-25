@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_rt_order_Bcf
 -- name    : PI.AddIntG.Wk.rt_order_Bcf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:12:58.755261+00:00
 -- url     : https://prove2.me/theorems/3e53b14c-d418-4d06-97db-1e2792a3d4eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMA_bRow_mul
 -- name    : PI.FJMA.bRow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:29:15.499226+00:00
 -- url     : https://prove2.me/theorems/b9f93685-86b1-4aa2-a158-1d3676bbcf2d

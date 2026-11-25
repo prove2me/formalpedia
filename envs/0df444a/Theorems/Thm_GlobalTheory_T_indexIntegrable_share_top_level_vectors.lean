@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_indexIntegrable_share_top_level_vectors
 -- name    : GlobalTheory.T.indexIntegrable_share_top_level_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:50:35.890611+00:00
 -- url     : https://prove2.me/theorems/696d0623-feb1-5eb0-845b-f2c8cb7d8209

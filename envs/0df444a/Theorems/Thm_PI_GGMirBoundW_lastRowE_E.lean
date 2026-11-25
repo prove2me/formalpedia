@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMirBoundW_lastRowE_E
 -- name    : PI.GGMirBoundW.lastRowE_E
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:31:41.943501+00:00
 -- url     : https://prove2.me/theorems/8a4df1b8-57f4-540e-968a-6709405e93d2

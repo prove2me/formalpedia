@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletionAut_mem_of_pow_eq
 -- name    : GlobalTheory.CompletionAut.mem_of_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:21:32.405982+00:00
 -- url     : https://prove2.me/theorems/af33acc2-a05c-5702-9073-880ac7345215

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CharIdemW_coeff_mul_charIdem
 -- name    : PI.CharIdemW.coeff_mul_charIdem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:26:22.94793+00:00
 -- url     : https://prove2.me/theorems/27ba2795-6147-4ec7-ad76-e7b94a2b57a7

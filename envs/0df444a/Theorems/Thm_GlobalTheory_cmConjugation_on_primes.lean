@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cmConjugation_on_primes
 -- name    : GlobalTheory.cmConjugation_on_primes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:20:46.261654+00:00
 -- url     : https://prove2.me/theorems/c602bb9d-73c0-5b14-b2d0-b49ada5e13bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_genLow_blockDiag
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.genLow_blockDiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:58:39.324001+00:00
 -- url     : https://prove2.me/theorems/16597efe-fd4f-51cd-bbc0-abe2df1182e9

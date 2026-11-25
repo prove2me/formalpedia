@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Lent_bound_ne
 -- name    : PI.EF.Lent_bound_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:28:46.899603+00:00
 -- url     : https://prove2.me/theorems/816c63b4-2cf5-4f9d-8d82-ed5b75e9aa0e

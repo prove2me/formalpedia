@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_WeilGroup_inertia_eq_comap
 -- name    : GroundTheory.LocalField.WeilGroup.inertia_eq_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:00:15.01792+00:00
 -- url     : https://prove2.me/theorems/1acc4f07-8482-555f-93bf-5f708848f9de

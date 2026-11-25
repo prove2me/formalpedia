@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_exists_embedding
 -- name    : PI.Dv.TIW.exists_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:28:21.155813+00:00
 -- url     : https://prove2.me/theorems/23a6a34a-9222-401a-b6ab-0c5d04a2e8de

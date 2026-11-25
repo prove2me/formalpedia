@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjGramW_colOp_col
 -- name    : PI.Dv.ProjGramW.colOp_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:26.574608+00:00
 -- url     : https://prove2.me/theorems/437ec0ae-a86c-4f74-b52c-a4c50f8a14f8

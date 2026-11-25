@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Key_Chi_jAut_isUnit
 -- name    : ReciprocityTheory.ChartRestriction.G.Key.Chi.jAut_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:35:56.480805+00:00
 -- url     : https://prove2.me/theorems/77002f41-760b-4fa9-9235-966a13529053

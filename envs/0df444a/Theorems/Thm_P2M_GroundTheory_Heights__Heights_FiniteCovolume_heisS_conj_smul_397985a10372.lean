@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_heisS_conj_smul_397985a10372
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_heisS_conj_smul_397985a10372
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:05:49.925268+00:00
 -- url     : https://prove2.me/theorems/d5190115-4c48-48be-91a5-84807eaa6b0e

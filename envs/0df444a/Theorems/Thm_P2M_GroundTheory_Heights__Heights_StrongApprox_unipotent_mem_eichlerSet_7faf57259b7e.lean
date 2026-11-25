@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_unipotent_mem_eichlerSet_7faf57259b7e
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_unipotent_mem_eichlerSet_7faf57259b7e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:39:42.047689+00:00
 -- url     : https://prove2.me/theorems/5a46a92d-87b2-4ef0-adec-486f87c51ec5

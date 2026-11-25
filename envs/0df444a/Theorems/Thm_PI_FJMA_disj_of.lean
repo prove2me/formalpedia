@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMA_disj_of
 -- name    : PI.FJMA.disj_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:12.611832+00:00
 -- url     : https://prove2.me/theorems/ea0c849a-e357-4822-a76f-cd187f626a8f

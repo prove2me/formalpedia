@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Swap_ofType_map
 -- name    : PI.FockOneDegW.Swap.ofType_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:31:01.086259+00:00
 -- url     : https://prove2.me/theorems/0093c12c-b78f-44ad-a01b-d9c49dd598c4

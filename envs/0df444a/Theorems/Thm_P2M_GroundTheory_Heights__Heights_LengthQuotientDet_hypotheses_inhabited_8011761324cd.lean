@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LengthQuotientDet_hypotheses_inhabited_8011761324cd
 -- name    : P2M_GroundTheory_Heights__Heights_LengthQuotientDet_hypotheses_inhabited_8011761324cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:20:21.609377+00:00
 -- url     : https://prove2.me/theorems/1f5cd817-ab18-5792-a2b0-88b6b59f7c7d

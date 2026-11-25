@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Global_Elliptic_G_eq_of_g__g__73f0116ddc71
 -- name    : P2M_GroundTheory_Global_Elliptic_G_eq_of_g__g__73f0116ddc71
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:52:17.175292+00:00
 -- url     : https://prove2.me/theorems/9129a46c-974d-4113-a199-8df5210a5e47

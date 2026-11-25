@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_basisE_apply
 -- name    : PI.InvTopW.basisE_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:58.172687+00:00
 -- url     : https://prove2.me/theorems/014587d0-8a4f-5772-b60f-aa251d87060b

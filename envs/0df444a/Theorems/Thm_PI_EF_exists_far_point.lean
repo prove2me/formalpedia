@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_exists_far_point
 -- name    : PI.EF.exists_far_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:46.387579+00:00
 -- url     : https://prove2.me/theorems/996f21da-2c48-4e87-97c9-d243333e0ac1

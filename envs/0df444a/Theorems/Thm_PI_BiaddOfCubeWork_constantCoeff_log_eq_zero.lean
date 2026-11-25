@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BiaddOfCubeWork_constantCoeff_log_eq_zero
 -- name    : PI.BiaddOfCubeWork.constantCoeff_log_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:25:26.521072+00:00
 -- url     : https://prove2.me/theorems/64b370f6-1434-4ef6-90a9-f6757dbd98cd

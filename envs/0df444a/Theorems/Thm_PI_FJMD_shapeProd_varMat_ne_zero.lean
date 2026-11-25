@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMD_shapeProd_varMat_ne_zero
 -- name    : PI.FJMD.shapeProd_varMat_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:28:52.60648+00:00
 -- url     : https://prove2.me/theorems/62ec5220-246c-53aa-bcb8-d4a2445a3e0d

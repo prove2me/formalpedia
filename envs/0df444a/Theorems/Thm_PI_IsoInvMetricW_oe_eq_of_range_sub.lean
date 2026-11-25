@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoInvMetricW_oe_eq_of_range_sub
 -- name    : PI.IsoInvMetricW.oe_eq_of_range_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:08:57.583951+00:00
 -- url     : https://prove2.me/theorems/73a5b818-9d78-54ab-9fca-958845c97380

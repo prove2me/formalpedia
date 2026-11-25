@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_DataX_LZ_periodic
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.DataX.LZ_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:27:58.484979+00:00
 -- url     : https://prove2.me/theorems/2911edf1-ee4f-44d6-bdd9-a89ca3049a27

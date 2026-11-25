@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_rpow_cLine
 -- name    : PI.EF.rpow_cLine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:35.269506+00:00
 -- url     : https://prove2.me/theorems/c2982bd8-bcad-4890-b388-bd3900580294

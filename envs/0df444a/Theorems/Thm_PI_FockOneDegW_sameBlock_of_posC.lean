@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_sameBlock_of_posC
 -- name    : PI.FockOneDegW.sameBlock_of_posC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:31:37.788413+00:00
 -- url     : https://prove2.me/theorems/f983ff36-0eb9-5b88-955d-953e2ec665f4

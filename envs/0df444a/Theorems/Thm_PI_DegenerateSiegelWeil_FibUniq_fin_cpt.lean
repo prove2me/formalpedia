@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DegenerateSiegelWeil_FibUniq_fin_cpt
 -- name    : PI.DegenerateSiegelWeil.FibUniq.fin_cpt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:07:27.479693+00:00
 -- url     : https://prove2.me/theorems/add1787d-5e74-4d11-b42c-33964e75cc90

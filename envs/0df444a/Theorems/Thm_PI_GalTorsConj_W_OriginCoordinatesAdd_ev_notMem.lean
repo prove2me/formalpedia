@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_OriginCoordinatesAdd_ev_notMem
 -- name    : PI.GalTorsConj.W.OriginCoordinatesAdd.ev_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:30:39.968091+00:00
 -- url     : https://prove2.me/theorems/dc91ca35-fe7c-59d2-98e8-e9cc131034b3

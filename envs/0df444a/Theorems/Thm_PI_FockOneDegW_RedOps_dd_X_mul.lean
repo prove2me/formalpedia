@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_RedOps_dd_X_mul
 -- name    : PI.FockOneDegW.RedOps.dd_X_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:31:10.005142+00:00
 -- url     : https://prove2.me/theorems/bb98435b-750b-40cb-9805-59b6231f02b3

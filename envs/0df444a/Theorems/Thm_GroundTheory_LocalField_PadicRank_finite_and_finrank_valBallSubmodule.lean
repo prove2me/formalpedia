@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_PadicRank_finite_and_finrank_valBallSubmodule
 -- name    : GroundTheory.LocalField.PadicRank.finite_and_finrank_valBallSubmodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:48:42.554005+00:00
 -- url     : https://prove2.me/theorems/897c46f9-be00-57a4-80a2-c367fd95a7cc

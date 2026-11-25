@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfA_modChar_eq_one
 -- name    : PI.AprimeInfA.modChar_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:23:26.640806+00:00
 -- url     : https://prove2.me/theorems/fcfac505-d83e-4eb6-b380-c3ee2230f11b

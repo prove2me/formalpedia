@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjAW_one_sub_idem
 -- name    : PI.Dv.ProjAW.one_sub_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:28:22.79819+00:00
 -- url     : https://prove2.me/theorems/dd1899d8-0c5b-42b9-8e0e-ec70d1840cf0

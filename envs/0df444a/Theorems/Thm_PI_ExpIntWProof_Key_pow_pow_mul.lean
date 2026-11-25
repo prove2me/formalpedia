@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExpIntWProof_Key_pow_pow_mul
 -- name    : PI.ExpIntWProof.Key.pow_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:32.309609+00:00
 -- url     : https://prove2.me/theorems/77648490-0bc3-4254-a6a1-e0370c25a1a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StTri_stab_unitriangular
 -- name    : GlobalTheory.HL.StTri.stab_unitriangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:51:48.453701+00:00
 -- url     : https://prove2.me/theorems/0d838ef1-6979-4061-bdd5-c8ebabfc980d

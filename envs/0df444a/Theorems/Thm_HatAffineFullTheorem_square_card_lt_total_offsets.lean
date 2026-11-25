@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HatAffineFullTheorem_square_card_lt_total_offsets
 -- name    : HatAffineFullTheorem.square_card_lt_total_offsets
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:13:50.549561+00:00
 -- url     : https://prove2.me/theorems/5bcce806-5c42-4200-b405-4dba1341bb3f

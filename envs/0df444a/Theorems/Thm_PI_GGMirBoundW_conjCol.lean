@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMirBoundW_conjCol
 -- name    : PI.GGMirBoundW.conjCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:31:02.306317+00:00
 -- url     : https://prove2.me/theorems/473f4588-d812-4a30-a7f5-bb1f8b1a05c1

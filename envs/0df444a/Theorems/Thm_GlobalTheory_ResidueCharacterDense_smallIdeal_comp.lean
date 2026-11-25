@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueCharacterDense_smallIdeal_comp
 -- name    : GlobalTheory.ResidueCharacterDense.smallIdeal_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:31:24.828474+00:00
 -- url     : https://prove2.me/theorems/68c944de-dc31-4f37-b690-14746bc1a747

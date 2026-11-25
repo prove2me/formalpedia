@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_deriv_det
 -- name    : PI.FJMX.deriv_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:14.745845+00:00
 -- url     : https://prove2.me/theorems/d9b3f8c6-6229-4f61-be4b-af5c8763a877

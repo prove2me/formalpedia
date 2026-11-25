@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_rt_constantCoeff_nu
 -- name    : PI.AddIntG.Wk.rt_constantCoeff_nu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:22:14.432958+00:00
 -- url     : https://prove2.me/theorems/4944e568-42e4-567e-955d-45d7763dc2e6

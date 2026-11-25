@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Swap_rename_lowB
 -- name    : PI.FockOneDegW.Swap.rename_lowB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:30:56.911004+00:00
 -- url     : https://prove2.me/theorems/fbe718b5-6a6c-41d4-b787-818d51ff4d39

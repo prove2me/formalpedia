@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_pd_X_mul
 -- name    : PI.FJMF.pd_X_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:17.03399+00:00
 -- url     : https://prove2.me/theorems/1de45e8e-1418-4df0-bf3c-b4526ed2d029

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_AnaSys_prod_notMem
 -- name    : Formalism.L2.Th1.E.AnaSys.prod_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:37:58.892634+00:00
 -- url     : https://prove2.me/theorems/a1611fd8-5662-51dc-874c-24cad06f9c85

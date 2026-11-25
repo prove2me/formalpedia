@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_commonStabilizer_stabilizers_commensurable_volume
 -- name    : GlobalTheory.T.commonStabilizer_stabilizers_commensurable_volume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:58:38.835977+00:00
 -- url     : https://prove2.me/theorems/74ddbdbb-c9ae-46ec-84b2-df0e48b6a1a4

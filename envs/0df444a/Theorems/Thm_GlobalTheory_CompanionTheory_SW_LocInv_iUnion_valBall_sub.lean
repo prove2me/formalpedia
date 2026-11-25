@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LocInv_iUnion_valBall_sub
 -- name    : GlobalTheory.CompanionTheory.SW.LocInv.iUnion_valBall_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:05:15.999091+00:00
 -- url     : https://prove2.me/theorems/d3aa6a5b-f022-473f-b5aa-95b16e6c8b3f

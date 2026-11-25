@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirrorSection__split_unique_901b42c7598e
 -- name    : P2M_PI_MirrorSection__split_unique_901b42c7598e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:57:02.082805+00:00
 -- url     : https://prove2.me/theorems/713bf2e7-3f65-5e2e-b08f-75edbf37fb42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_sum_ite_row
 -- name    : PI.FJMF.sum_ite_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:45.852741+00:00
 -- url     : https://prove2.me/theorems/1701cb5a-abb8-49e1-86ae-ed90bb9a1984

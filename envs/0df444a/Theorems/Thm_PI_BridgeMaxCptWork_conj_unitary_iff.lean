@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BridgeMaxCptWork_conj_unitary_iff
 -- name    : PI.BridgeMaxCptWork.conj_unitary_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:25:44.613558+00:00
 -- url     : https://prove2.me/theorems/92b873a1-1989-4b5c-bf31-f636854afc0c

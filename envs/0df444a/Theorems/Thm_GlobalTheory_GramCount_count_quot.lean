@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_count_quot
 -- name    : GlobalTheory.GramCount.count_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:31:54.721073+00:00
 -- url     : https://prove2.me/theorems/95dafb1f-3a8e-51be-a65c-68a64161d26c

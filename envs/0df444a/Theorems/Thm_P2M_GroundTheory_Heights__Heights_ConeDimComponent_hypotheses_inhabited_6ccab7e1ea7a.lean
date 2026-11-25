@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeDimComponent_hypotheses_inhabited_6ccab7e1ea7a
 -- name    : P2M_GroundTheory_Heights__Heights_ConeDimComponent_hypotheses_inhabited_6ccab7e1ea7a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:21:51.610642+00:00
 -- url     : https://prove2.me/theorems/e0f03759-8962-41e9-83f7-fe1d795c3466

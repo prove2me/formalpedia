@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_HornW_norm_det_diag_exp
 -- name    : PI.ET.HornW.norm_det_diag_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:48.446296+00:00
 -- url     : https://prove2.me/theorems/def881a9-0cc2-4fb6-baf8-bf28417c9920

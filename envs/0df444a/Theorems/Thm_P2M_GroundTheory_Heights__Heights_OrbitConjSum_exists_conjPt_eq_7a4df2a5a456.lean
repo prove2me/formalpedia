@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitConjSum_exists_conjPt_eq_7a4df2a5a456
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitConjSum_exists_conjPt_eq_7a4df2a5a456
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:14:02.490243+00:00
 -- url     : https://prove2.me/theorems/3ca5fc68-902e-449d-bb8f-8e927513bc03

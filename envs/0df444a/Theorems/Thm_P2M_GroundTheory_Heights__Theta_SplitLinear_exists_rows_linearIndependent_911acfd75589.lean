@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_SplitLinear_exists_rows_linearIndependent_911acfd75589
 -- name    : P2M_GroundTheory_Heights__Theta_SplitLinear_exists_rows_linearIndependent_911acfd75589
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:52:55.170396+00:00
 -- url     : https://prove2.me/theorems/b2b7a7b0-1e13-4ec3-97a7-7ae0382685f7

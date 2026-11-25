@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoInvMetricW_ipl_zero_left
 -- name    : PI.IsoInvMetricW.ipl_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:09:15.611294+00:00
 -- url     : https://prove2.me/theorems/4b04d216-a113-5068-8a22-862bd76a7ba3

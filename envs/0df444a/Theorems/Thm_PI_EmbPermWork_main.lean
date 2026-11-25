@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EmbPermWork_main
 -- name    : PI.EmbPermWork.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:09.104164+00:00
 -- url     : https://prove2.me/theorems/d8faf866-1ab1-4091-b078-0b3952046b9d

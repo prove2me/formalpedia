@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_oneDeg_of_halves
 -- name    : PI.FockOneDegW.oneDeg_of_halves
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:30:30.685965+00:00
 -- url     : https://prove2.me/theorems/fafc7a02-a332-4675-9e06-e1db34e78655

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoFunVW_finite_oe
 -- name    : PI.IsoFunVW.finite_oe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:10:00.432688+00:00
 -- url     : https://prove2.me/theorems/a4a644ba-acda-4fbe-b026-78cd1e6393e2

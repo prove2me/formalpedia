@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FdFjNearSup_W_ab_facts
 -- name    : PI.FdFjNearSup.W.ab_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:29:28.553485+00:00
 -- url     : https://prove2.me/theorems/f345e0fe-f343-44fe-a85b-2cbc35b2ef81

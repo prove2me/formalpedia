@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_weil_comp_unitary
 -- name    : GlobalTheory.SW.weil_comp_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:45:50.874798+00:00
 -- url     : https://prove2.me/theorems/1138d419-4822-487f-9764-c5f001eb5136

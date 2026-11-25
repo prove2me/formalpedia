@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_exists_single_mem
 -- name    : PI.InvTopW.exists_single_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:38.594651+00:00
 -- url     : https://prove2.me/theorems/d3b41f9e-ae99-51e7-9508-e01b832c1d5e

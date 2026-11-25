@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_KernSym_sOf_flip
 -- name    : GlobalTheory.HL.KernSym.sOf_flip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:05:09.640137+00:00
 -- url     : https://prove2.me/theorems/4c9c69d9-1e37-49da-87a9-4240e384cea9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AutLzFinite_SlopeTestRemainingChoices_mj_add_right
 -- name    : PI.AutLzFinite.SlopeTestRemainingChoices.mj_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:24:35.364625+00:00
 -- url     : https://prove2.me/theorems/0b3fca61-48c8-4111-96ba-0b131afbad0f

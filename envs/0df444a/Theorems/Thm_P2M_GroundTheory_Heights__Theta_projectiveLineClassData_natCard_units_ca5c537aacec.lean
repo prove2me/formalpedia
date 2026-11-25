@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_projectiveLineClassData_natCard_units_ca5c537aacec
 -- name    : P2M_GroundTheory_Heights__Theta_projectiveLineClassData_natCard_units_ca5c537aacec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:54:09.052254+00:00
 -- url     : https://prove2.me/theorems/9399aca6-846f-4ea5-883d-f1be269dfede

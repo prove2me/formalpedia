@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_norm_near_sum_le
 -- name    : PI.EF.norm_near_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:41.131359+00:00
 -- url     : https://prove2.me/theorems/190556e2-d783-448a-b74f-395b49a5bd59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_length_map_inj
 -- name    : PI.DvRows.length_map_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:07.996406+00:00
 -- url     : https://prove2.me/theorems/0b554541-39a4-4d5b-b069-9083a0691ed3

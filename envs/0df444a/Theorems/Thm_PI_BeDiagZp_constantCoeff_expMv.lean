@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_constantCoeff_expMv
 -- name    : PI.BeDiagZp.constantCoeff_expMv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:25:10.170929+00:00
 -- url     : https://prove2.me/theorems/d65e4b1c-8b17-48c4-801e-dcb083dbe7d5

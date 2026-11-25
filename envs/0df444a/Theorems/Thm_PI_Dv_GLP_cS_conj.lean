@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLP_cS_conj
 -- name    : PI.Dv.GLP.cS_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:27:04.774022+00:00
 -- url     : https://prove2.me/theorems/df197248-93c0-538c-96a7-1114ed32a07e

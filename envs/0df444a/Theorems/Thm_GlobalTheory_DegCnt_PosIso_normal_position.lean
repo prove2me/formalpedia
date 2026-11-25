@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosIso_normal_position
 -- name    : GlobalTheory.DegCnt.PosIso.normal_position
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:25:12.402158+00:00
 -- url     : https://prove2.me/theorems/af68b551-ba35-43c5-97b2-383a3d812f2a

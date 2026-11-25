@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_HornW_prod_exp_eq
 -- name    : PI.ET.HornW.prod_exp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:50.159733+00:00
 -- url     : https://prove2.me/theorems/612cf244-a5de-57de-88a5-d0b58fe545ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_localization_eq_of_le_localization
 -- name    : PI.DvRows.localization_eq_of_le_localization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:20.588125+00:00
 -- url     : https://prove2.me/theorems/be30efda-deb6-4092-97d4-8206ea5439f2

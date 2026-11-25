@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_log_window_le
 -- name    : PI.EF.log_window_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:45.448285+00:00
 -- url     : https://prove2.me/theorems/1ffb3f6b-b7bf-5612-b022-ce60f9d248df

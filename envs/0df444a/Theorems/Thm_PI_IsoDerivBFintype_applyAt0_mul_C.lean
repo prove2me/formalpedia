@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDerivBFintype_applyAt0_mul_C
 -- name    : PI.IsoDerivBFintype.applyAt0_mul_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:09:07.57826+00:00
 -- url     : https://prove2.me/theorems/ea77de07-a237-5040-a8b4-4993af2e698f

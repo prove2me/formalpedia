@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchAltPartitionExpansion_proof_59ba19b8d7d5
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchAltPartitionExpansion_proof_59ba19b8d7d5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:01:42.352111+00:00
 -- url     : https://prove2.me/theorems/8b55f426-219b-46ce-a7ef-c38a1296902b

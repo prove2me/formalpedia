@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mul_setIntegral_eq_of_lintegral_5f5cb8ed0534
 -- name    : P2M_GroundTheory_Heights__Heights_mul_setIntegral_eq_of_lintegral_5f5cb8ed0534
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:51:50.451797+00:00
 -- url     : https://prove2.me/theorems/eb6d2514-8f1a-4526-9317-36b6b12b8539

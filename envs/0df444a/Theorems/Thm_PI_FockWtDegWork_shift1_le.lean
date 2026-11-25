@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockWtDegWork_shift1_le
 -- name    : PI.FockWtDegWork.shift1_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:33:28.407105+00:00
 -- url     : https://prove2.me/theorems/bcf9fdd9-cb8e-5e72-be30-e37e629b95b5

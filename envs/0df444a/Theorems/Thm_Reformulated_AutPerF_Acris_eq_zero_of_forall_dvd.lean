@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Acris_eq_zero_of_forall_dvd
 -- name    : Reformulated.AutPerF.Acris.eq_zero_of_forall_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:21:37.69061+00:00
 -- url     : https://prove2.me/theorems/e35dbefd-a1b4-4598-9c58-3c6795042448

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Lent_one_ne_zero
 -- name    : PI.EF.Lent_one_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:28:35.252713+00:00
 -- url     : https://prove2.me/theorems/e6bf7b90-6719-4159-ae83-6e1684d5cea1

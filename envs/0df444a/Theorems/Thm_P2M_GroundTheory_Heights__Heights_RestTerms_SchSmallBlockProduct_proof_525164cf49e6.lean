@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchSmallBlockProduct_proof_525164cf49e6
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchSmallBlockProduct_proof_525164cf49e6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:01:26.990012+00:00
 -- url     : https://prove2.me/theorems/4ca7678c-eb91-4eba-b2c6-0b960d8c24e7

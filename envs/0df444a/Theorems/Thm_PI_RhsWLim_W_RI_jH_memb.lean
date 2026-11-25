@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_jH_memb
 -- name    : PI.RhsWLim.W.RI.jH_memb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:21:22.949727+00:00
 -- url     : https://prove2.me/theorems/3f56fbd6-2d29-48f2-8235-7d7350befe91

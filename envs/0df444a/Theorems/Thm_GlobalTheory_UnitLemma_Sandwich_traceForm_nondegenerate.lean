@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Sandwich_traceForm_nondegenerate
 -- name    : GlobalTheory.UnitLemma.Sandwich.traceForm_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:18:14.129795+00:00
 -- url     : https://prove2.me/theorems/d9678a69-59e8-45d2-aba0-187d24ee08cd

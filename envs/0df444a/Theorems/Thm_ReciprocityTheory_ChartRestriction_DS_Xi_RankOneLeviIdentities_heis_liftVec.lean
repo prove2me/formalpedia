@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_RankOneLeviIdentities_heis_liftVec
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.RankOneLeviIdentities.heis_liftVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:53:48.841801+00:00
 -- url     : https://prove2.me/theorems/c29968a5-49f6-49db-a62e-c744a1613e6f

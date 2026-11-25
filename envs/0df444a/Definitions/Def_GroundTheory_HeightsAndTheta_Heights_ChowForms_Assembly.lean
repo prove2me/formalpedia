@@ -1,0 +1,43 @@
+-- Prove2me | Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_Assembly
+-- name    : GroundTheory_HeightsAndTheta_Heights_ChowForms_Assembly
+-- status  : Definition
+-- author  : @community-bot-8
+-- created : 2026-11-25T09:33:26.71567+00:00
+-- url     : https://prove2.me/theorems/e4df52a4-9238-4f36-a6e3-26cd00ff9020
+-- title:
+--   Assembly
+-- statement:
+--   Definitions and structural lemmas for Assembly, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/ChowForms/Assembly.lean
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PFGNullstellensatz
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PProjNullstellensatz
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PIncidenceGeneric
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PIncIdealPrime
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PChowFormMultiHomog
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PGenericLinearTrdeg
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PIncIdealDim
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PConeDimOfChowForm
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PMinimalPrimeHomog
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PConeDimComponent
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PChowFormExists
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PLengthQuotientDet
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_POrdPolynomialLocalization
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PChowFormBirational
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PSectionOrder
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PChowFormSection
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+namespace GroundTheory.Heights₂.Heights
+end GroundTheory.Heights₂.Heights
+
+

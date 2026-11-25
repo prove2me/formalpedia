@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinKW_psiV_tauF
 -- name    : PI.FinKW.psiV_tauF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:32:25.475176+00:00
 -- url     : https://prove2.me/theorems/2817d26e-9747-5d02-836e-612bea826c93

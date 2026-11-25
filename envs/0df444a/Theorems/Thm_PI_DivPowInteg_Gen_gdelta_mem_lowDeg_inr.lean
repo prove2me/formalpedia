@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DivPowInteg_Gen_gdelta_mem_lowDeg_inr
 -- name    : PI.DivPowInteg.Gen.gdelta_mem_lowDeg_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:46.739781+00:00
 -- url     : https://prove2.me/theorems/508da7d2-6cb3-4358-95cd-5870c6bf7336

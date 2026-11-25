@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_exists_variableChange_eq_weierstrassCurve_latticeOfTau
 -- name    : GroundTheory.Global.Elliptic.exists_variableChange_eq_weierstrassCurve_latticeOfTau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:48:13.155276+00:00
 -- url     : https://prove2.me/theorems/4f75535f-ca3e-5e15-b829-8d8af8c012b4

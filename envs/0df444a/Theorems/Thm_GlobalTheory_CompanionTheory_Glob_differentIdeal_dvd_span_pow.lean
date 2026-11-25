@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Glob_differentIdeal_dvd_span_pow
 -- name    : GlobalTheory.CompanionTheory.Glob.differentIdeal_dvd_span_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:35:24.159176+00:00
 -- url     : https://prove2.me/theorems/9c507180-da38-4530-a69f-124b20f3a35f

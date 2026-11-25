@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_sum_inv_le
 -- name    : PI.EF.sum_inv_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:30:06.020539+00:00
 -- url     : https://prove2.me/theorems/2082617d-768b-4991-a55a-2e3c3c491f7b

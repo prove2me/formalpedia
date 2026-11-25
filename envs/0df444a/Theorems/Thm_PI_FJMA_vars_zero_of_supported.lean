@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMA_vars_zero_of_supported
 -- name    : PI.FJMA.vars_zero_of_supported
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:11.091212+00:00
 -- url     : https://prove2.me/theorems/b6018cf4-1870-5bf8-a102-4c242f857714

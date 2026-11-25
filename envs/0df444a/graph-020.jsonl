@@ -88356,7 +88356,7 @@
 {"parent": "IntConeFPT.lemma_11", "child": "OnlineCRS_Combine_encVec", "via": ["statement"]}
 {"parent": "IntConeFPT.lemma_11", "child": "IntConeFPT_Problem", "via": ["statement"]}
 {"parent": "IntConeFPT.lemma_11", "child": "OnlineCRS_Combine_Sym", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_11", "child": "IntConeFPT_Formulation", "via": ["statement"]}
+{"parent": "IntConeFPT.lemma_11", "child": "IntConeFPT_Formulation", "via": ["solution", "statement"]}
 {"parent": "IntConeFPT.lemma_11", "child": "OnlineCRS_Combine_encRat", "via": ["statement"]}
 {"parent": "IntConeFPT.lemma_11", "child": "IntConeFPT_Instance", "via": ["statement"]}
 {"parent": "IntConeFPT.lemma_11", "child": "IntConeFPT_Residue", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_upperRamificationGroup_zero
 -- name    : GroundTheory.LocalField.upperRamificationGroup_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:41:03.45726+00:00
 -- url     : https://prove2.me/theorems/d8729755-e366-4ab8-8a3c-c49f81760866

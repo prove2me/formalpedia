@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMS_sw_pos_block
 -- name    : PI.FJMS.sw_pos_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:30:42.134873+00:00
 -- url     : https://prove2.me/theorems/3cefc12e-d944-42e6-ba73-8c24565cb6ae

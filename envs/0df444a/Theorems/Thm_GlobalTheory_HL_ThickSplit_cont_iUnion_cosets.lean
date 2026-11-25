@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ThickSplit_cont_iUnion_cosets
 -- name    : GlobalTheory.HL.ThickSplit.cont_iUnion_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:34:54.420203+00:00
 -- url     : https://prove2.me/theorems/2b5c185e-92a7-48c8-90cc-ffb7aa1b0704

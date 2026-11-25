@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_abs_log_div_ge_far
 -- name    : PI.EF.abs_log_div_ge_far
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:28:54.453814+00:00
 -- url     : https://prove2.me/theorems/336daefa-e47b-41bd-8f7b-aa23f5bdd12a

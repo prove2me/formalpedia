@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CharIdemW_act_charIdem
 -- name    : PI.CharIdemW.act_charIdem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:54:57.413344+00:00
 -- url     : https://prove2.me/theorems/e6ac71f3-4a03-4bac-beb9-df6ca3a72250

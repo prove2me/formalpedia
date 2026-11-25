@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMD_det_mem_subalgebra
 -- name    : PI.FJMD.det_mem_subalgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:31:20.226209+00:00
 -- url     : https://prove2.me/theorems/3a448152-7f2f-4731-b493-6dcb7b16fa8c

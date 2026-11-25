@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_trace_finite_order
 -- name    : PI.Dv.TIW.trace_finite_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:27:37.046616+00:00
 -- url     : https://prove2.me/theorems/77810aba-1f92-401a-9366-f7f7d4a11f00

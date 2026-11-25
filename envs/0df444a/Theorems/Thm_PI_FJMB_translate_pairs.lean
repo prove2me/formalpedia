@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMB_translate_pairs
 -- name    : PI.FJMB.translate_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:02.223381+00:00
 -- url     : https://prove2.me/theorems/f619ff15-19b3-471a-8ceb-fc1927cb4850

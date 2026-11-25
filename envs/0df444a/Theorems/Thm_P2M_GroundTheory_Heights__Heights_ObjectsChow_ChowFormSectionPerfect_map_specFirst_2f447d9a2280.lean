@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_ChowFormSectionPerfect_map_specFirst_2f447d9a2280
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_ChowFormSectionPerfect_map_specFirst_2f447d9a2280
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:07:53.925798+00:00
 -- url     : https://prove2.me/theorems/31ff3371-fc3d-49bf-9659-cd2da5cbbd39

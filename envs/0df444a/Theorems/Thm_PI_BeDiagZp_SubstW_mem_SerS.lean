@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_SubstW_mem_SerS
 -- name    : PI.BeDiagZp.SubstW.mem_SerS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:24:54.991298+00:00
 -- url     : https://prove2.me/theorems/0c8b5309-961c-43d6-9205-c65cdfd1a068

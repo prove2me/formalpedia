@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GermFibreKernels_betaU_eq
 -- name    : Formalism.FourierDecayAlt.P.GermFibreKernels.betaU_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:23:34.279141+00:00
 -- url     : https://prove2.me/theorems/de2f509e-5d63-45a9-8ffc-0e2c659af668

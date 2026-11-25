@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DegenerateSiegelWeil_Scale_isFibreFamily_smul
 -- name    : PI.DegenerateSiegelWeil.Scale.isFibreFamily_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:06:52.199026+00:00
 -- url     : https://prove2.me/theorems/f557db3e-d7af-4f47-8597-67b86fa550f3

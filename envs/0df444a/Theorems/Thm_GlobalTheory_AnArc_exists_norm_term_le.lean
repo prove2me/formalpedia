@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_exists_norm_term_le
 -- name    : GlobalTheory.AnArc.exists_norm_term_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:57:21.59188+00:00
 -- url     : https://prove2.me/theorems/c9f55a8e-1501-45b5-b4e8-0b9922374164

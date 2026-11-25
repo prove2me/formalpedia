@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_RatPat_entry_ne_zero_iff
 -- name    : GlobalTheory.HL.RatPat.entry_ne_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:48:31.43929+00:00
 -- url     : https://prove2.me/theorems/9a0622b3-f12c-4417-a539-e4b03ae06be4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ET_sum_eq_range
 -- name    : PI.ET.sum_eq_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:53.485513+00:00
 -- url     : https://prove2.me/theorems/86e24a26-9a1d-4eb7-87cb-943b5f50516c

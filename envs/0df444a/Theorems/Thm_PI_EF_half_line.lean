@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_half_line
 -- name    : PI.EF.half_line
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:22:54.739295+00:00
 -- url     : https://prove2.me/theorems/cd4c8b54-1ec1-4fb5-9e7c-291be18ad59d

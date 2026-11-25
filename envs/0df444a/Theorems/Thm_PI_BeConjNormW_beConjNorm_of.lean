@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeConjNormW_beConjNorm_of
 -- name    : PI.BeConjNormW.beConjNorm_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:24:55.491548+00:00
 -- url     : https://prove2.me/theorems/9b9b5527-1597-4cf0-86e6-76d1f8a8dec6

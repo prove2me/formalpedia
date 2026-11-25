@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HenselValuation_val_le_one
 -- name    : PI.HenselValuation.val_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:06:02.604011+00:00
 -- url     : https://prove2.me/theorems/65e8f7a6-9f90-55f6-a9af-8ab9dc544981

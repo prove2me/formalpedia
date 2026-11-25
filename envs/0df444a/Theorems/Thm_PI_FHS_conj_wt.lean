@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FHS_conj_wt
 -- name    : PI.FHS.conj_wt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:02.73796+00:00
 -- url     : https://prove2.me/theorems/87532410-3852-40cc-98b4-e7aa117c56a4

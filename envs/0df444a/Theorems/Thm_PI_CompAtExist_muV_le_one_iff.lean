@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CompAtExist_muV_le_one_iff
 -- name    : PI.CompAtExist.muV_le_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:26:54.427798+00:00
 -- url     : https://prove2.me/theorems/4c3fc51b-0d05-4a14-b90d-d7133750f9c1

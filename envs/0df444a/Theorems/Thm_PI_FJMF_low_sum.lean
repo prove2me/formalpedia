@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_low_sum
 -- name    : PI.FJMF.low_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:24.221386+00:00
 -- url     : https://prove2.me/theorems/6339f6eb-8615-4409-b21c-8ad3b8e3552a

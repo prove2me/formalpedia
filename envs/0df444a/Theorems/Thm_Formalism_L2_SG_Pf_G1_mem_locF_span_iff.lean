@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G1_mem_locF_span_iff
 -- name    : Formalism.L2.SG.Pf.G1.mem_locF_span_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:18:35.97153+00:00
 -- url     : https://prove2.me/theorems/c7035cbb-57de-4e67-bfe2-2c553c79104a

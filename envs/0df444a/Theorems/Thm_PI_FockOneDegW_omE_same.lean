@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_omE_same
 -- name    : PI.FockOneDegW.omE_same
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:31:25.726318+00:00
 -- url     : https://prove2.me/theorems/c1bb1bca-75b7-5c8d-be8b-eac754ebacde

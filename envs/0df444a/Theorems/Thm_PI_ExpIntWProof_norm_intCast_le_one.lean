@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExpIntWProof_norm_intCast_le_one
 -- name    : PI.ExpIntWProof.norm_intCast_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:34.459468+00:00
 -- url     : https://prove2.me/theorems/d7155e7e-25b3-59b2-845a-03b161eecc8f

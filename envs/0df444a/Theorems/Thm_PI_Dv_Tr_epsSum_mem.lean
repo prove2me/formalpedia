@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_epsSum_mem
 -- name    : PI.Dv.Tr.epsSum_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:16.316233+00:00
 -- url     : https://prove2.me/theorems/aba3402e-90bc-4346-a84a-d9ef6e178e55

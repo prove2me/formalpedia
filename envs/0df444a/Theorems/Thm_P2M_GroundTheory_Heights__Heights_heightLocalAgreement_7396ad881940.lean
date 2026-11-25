@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_heightLocalAgreement_7396ad881940
 -- name    : P2M_GroundTheory_Heights__Heights_heightLocalAgreement_7396ad881940
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:46:58.526805+00:00
 -- url     : https://prove2.me/theorems/0e44b7b4-95f5-4684-be8c-10c3a3820744

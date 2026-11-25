@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Conv_exists_denominator
 -- name    : GlobalTheory.CMVal.Conv.exists_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:58:06.492086+00:00
 -- url     : https://prove2.me/theorems/1e2a1ad4-2026-40af-bebd-c502f002884a

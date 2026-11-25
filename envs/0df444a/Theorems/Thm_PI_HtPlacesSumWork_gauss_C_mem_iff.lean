@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HtPlacesSumWork_gauss_C_mem_iff
 -- name    : PI.HtPlacesSumWork.gauss_C_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:06:53.502986+00:00
 -- url     : https://prove2.me/theorems/cb61d6db-737b-5ba1-86f6-3ee992979348

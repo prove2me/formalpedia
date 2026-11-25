@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DefPosDefWork_hform_single
 -- name    : PI.DefPosDefWork.hform_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:27:14.995148+00:00
 -- url     : https://prove2.me/theorems/bb8ef8c2-565e-42e1-9fc0-b01d9fa79591

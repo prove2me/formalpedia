@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CharExtendWork_charExtend_main
 -- name    : PI.CharExtendWork.charExtend_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:25:57.00569+00:00
 -- url     : https://prove2.me/theorems/43031017-9029-5cb3-a98c-74e337a7a33c

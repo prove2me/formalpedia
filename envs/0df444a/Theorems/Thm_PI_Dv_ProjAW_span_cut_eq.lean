@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjAW_span_cut_eq
 -- name    : PI.Dv.ProjAW.span_cut_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:28:54.539234+00:00
 -- url     : https://prove2.me/theorems/86f18ca3-5cb4-48f1-a59c-2331b5a0cee9

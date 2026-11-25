@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTNum_abs_factor_le
 -- name    : PI.GTNum.abs_factor_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:30:55.300798+00:00
 -- url     : https://prove2.me/theorems/385416f9-3ae3-4b5b-8dd3-6f0afd3ebb58

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeFibreDegree_hypotheses_inhabited_7d66142c3999
 -- name    : P2M_GroundTheory_Heights__Heights_ConeFibreDegree_hypotheses_inhabited_7d66142c3999
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:20:31.560637+00:00
 -- url     : https://prove2.me/theorems/8c1fbaeb-d771-54a1-b0b0-07a2d58e5518

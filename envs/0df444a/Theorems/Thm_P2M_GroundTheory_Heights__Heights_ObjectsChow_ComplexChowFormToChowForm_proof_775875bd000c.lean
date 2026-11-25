@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_ComplexChowFormToChowForm_proof_775875bd000c
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_ComplexChowFormToChowForm_proof_775875bd000c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:21:55.414225+00:00
 -- url     : https://prove2.me/theorems/782d6b49-03e5-4180-9fa1-52176e2e52cd

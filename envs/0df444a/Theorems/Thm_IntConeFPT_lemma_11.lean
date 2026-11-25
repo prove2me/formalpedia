@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntConeFPT_lemma_11
 -- name    : IntConeFPT.lemma_11
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T00:43:57.725259+00:00
 -- url     : https://prove2.me/theorems/62712295-03ee-4142-8ac8-19b8d44f9673

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Core_sum_gg
 -- name    : PI.FockOneDegW.Core.sum_gg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:31:07.888832+00:00
 -- url     : https://prove2.me/theorems/55195cec-6c12-4bd9-bd0e-1acab08ed910

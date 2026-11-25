@@ -1,0 +1,78 @@
+-- Prove2me | solution 1 for GroundTheory.Global.geom_sum_nonneg_of_abs_le_one
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T09:32:14.977867+00:00
+-- url     : https://prove2.me/submissions/aa4c6ad4-3d65-4def-a8af-962cdd5667c0
+
+import Mathlib
+import Definitions.Def_GroundTheory_GlobalFields_TateThesis_HeckeLFunction
+import Definitions.Def_GroundTheory_GlobalFields_TateThesis_NonvanishingDivisorSum
+import Theorems.Thm_GroundTheory_Global_idealDivisors_bot
+import Theorems.Thm_GroundTheory_Global_divisorSum_bot
+import Theorems.Thm_GroundTheory_Global_HeckeCharacter_coeffTerm_bot
+import Theorems.Thm_GroundTheory_Global_HeckeCharacter_toIdele_diagonal
+import Theorems.Thm_GroundTheory_Global_IdeleGroup_coe_finiteComponent
+import Theorems.Thm_GroundTheory_Global_IdeleGroup_coe_finiteEmbedding
+import Theorems.Thm_GroundTheory_Global_IdeleGroup_coe_finiteProj
+import Theorems.Thm_GroundTheory_Global_IdeleGroup_coe_finiteProj_diagonal
+import Theorems.Thm_GroundTheory_Global_IdeleGroup_coe_infiniteEmbedding
+import Theorems.Thm_GroundTheory_Global_IdeleGroup_coe_infiniteProj
+import Theorems.Thm_GroundTheory_Global_IdeleGroup_coe_infiniteProj_diagonal
+import Theorems.Thm_GroundTheory_Global_IdeleGroup_finiteAdeleSingle_apply_self
+import Theorems.Thm_GroundTheory_Global_IdeleGroup_finiteComponent_finiteUnitsSingle
+import Theorems.Thm_GroundTheory_Global_IdeleGroup_finiteProj_finiteEmbedding
+import Theorems.Thm_GroundTheory_Global_IdeleGroup_finiteUnitsEquiv_apply
+import Theorems.Thm_GroundTheory_Global_IdeleGroup_infiniteProj_infiniteEmbedding
+import Theorems.Thm_GroundTheory_Global_IdeleGroup_prodRestrictedEquiv_apply_fst
+import Theorems.Thm_GroundTheory_Global_IdeleGroup_prodRestrictedEquiv_apply_snd
+import Theorems.Thm_GroundTheory_Global_IdeleGroup_toFinite_ofFinite
+import Theorems.Thm_GroundTheory_Global_IdeleGroup_toInfinite_ofFinite
+import Theorems.Thm_GroundTheory_Global_RestrictedProduct_continuousUnitsEquiv_apply
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+set_option synthInstance.maxHeartbeats 400000
+-- END pinned source Lake options
+attribute [local simp] GroundTheory.Global.HeckeCharacter.coeffTerm_bot
+attribute [local simp] GroundTheory.Global.HeckeCharacter.toIdele_diagonal
+attribute [local simp] GroundTheory.Global.IdeleGroup.coe_finiteComponent
+attribute [local simp] GroundTheory.Global.IdeleGroup.coe_finiteEmbedding
+attribute [local simp] GroundTheory.Global.IdeleGroup.coe_finiteProj
+attribute [local simp] GroundTheory.Global.IdeleGroup.coe_finiteProj_diagonal
+attribute [local simp] GroundTheory.Global.IdeleGroup.coe_infiniteEmbedding
+attribute [local simp] GroundTheory.Global.IdeleGroup.coe_infiniteProj
+attribute [local simp] GroundTheory.Global.IdeleGroup.coe_infiniteProj_diagonal
+attribute [local simp] GroundTheory.Global.IdeleGroup.finiteAdeleSingle_apply_self
+attribute [local simp] GroundTheory.Global.IdeleGroup.finiteComponent_finiteUnitsSingle
+attribute [local simp] GroundTheory.Global.IdeleGroup.finiteProj_finiteEmbedding
+attribute [local simp] GroundTheory.Global.IdeleGroup.finiteUnitsEquiv_apply
+attribute [local simp] GroundTheory.Global.IdeleGroup.infiniteProj_infiniteEmbedding
+attribute [local simp] GroundTheory.Global.IdeleGroup.prodRestrictedEquiv_apply_fst
+attribute [local simp] GroundTheory.Global.IdeleGroup.prodRestrictedEquiv_apply_snd
+attribute [local simp] GroundTheory.Global.IdeleGroup.toFinite_ofFinite
+attribute [local simp] GroundTheory.Global.IdeleGroup.toInfinite_ofFinite
+attribute [local simp] GroundTheory.Global.RestrictedProduct.continuousUnitsEquiv_apply
+
+
+attribute [local simp] GroundTheory.Global.idealDivisors_bot
+attribute [local simp] GroundTheory.Global.divisorSum_bot
+
+set_option autoImplicit false
+open NumberField Ideal Complex Filter Topology
+open GroundTheory GroundTheory.Global
+noncomputable section
+variable {K : Type*} [Field K] [NumberField K]
+namespace GroundTheory.Global
+theorem _root_.solution {x : ℝ} (hx : |x| ≤ 1) (n : ℕ) :
+    0 ≤ ∑ j ∈ Finset.range n, x ^ j := by
+  rcases eq_or_ne x 1 with rfl | h1
+  · simp
+  have hlt : x < 1 := lt_of_le_of_ne (le_of_abs_le hx) h1
+  rw [geom_sum_eq h1]
+  refine div_nonneg_of_nonpos ?_ (by linarith)
+  have : x ^ n ≤ 1 := (le_abs_self _).trans (by rw [abs_pow]; exact pow_le_one₀ (abs_nonneg x) hx)
+  linarith
+end GroundTheory.Global

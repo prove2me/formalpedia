@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_sum_logTerm_le
 -- name    : PI.EF.sum_logTerm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:30:21.697165+00:00
 -- url     : https://prove2.me/theorems/bede5790-18ea-4e24-90ae-4cb79317aaad

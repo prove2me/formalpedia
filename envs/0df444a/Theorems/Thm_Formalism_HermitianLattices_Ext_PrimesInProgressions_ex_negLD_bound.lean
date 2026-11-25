@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_ex_negLD_bound
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.ex_negLD_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:53:58.300463+00:00
 -- url     : https://prove2.me/theorems/58123b47-b610-41e5-833d-8ebcd45e2ff7

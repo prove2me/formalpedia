@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EmbPermWork_cj_eq
 -- name    : PI.EmbPermWork.cj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:20.24679+00:00
 -- url     : https://prove2.me/theorems/19c98aef-79a3-4dc2-b3d5-3bfa84c8f12f

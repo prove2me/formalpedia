@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_generic_block_matrix_map
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.generic_block_matrix_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:03:23.237958+00:00
 -- url     : https://prove2.me/theorems/a2c69041-897e-4269-906b-daa0a67977ee

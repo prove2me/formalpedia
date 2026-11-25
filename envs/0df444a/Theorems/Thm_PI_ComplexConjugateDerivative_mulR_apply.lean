@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ComplexConjugateDerivative_mulR_apply
 -- name    : PI.ComplexConjugateDerivative.mulR_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:26:48.349838+00:00
 -- url     : https://prove2.me/theorems/e29b6c18-dabb-4697-a940-62e6dccf0478

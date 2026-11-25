@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMB_aeval_killS_union
 -- name    : PI.FJMB.aeval_killS_union
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:06.165721+00:00
 -- url     : https://prove2.me/theorems/8cff3dbf-bd6e-4868-a2e8-9e98f1ef6f0e
