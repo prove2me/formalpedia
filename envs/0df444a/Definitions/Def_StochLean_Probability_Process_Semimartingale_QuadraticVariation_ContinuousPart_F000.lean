@@ -1,0 +1,44 @@
+-- Prove2me | Definitions.Def_StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000
+-- name    : StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000
+-- status  : Definition
+-- author  : @WillR
+-- created : 2026-11-25T21:01:33.730019+00:00
+-- url     : https://prove2.me/theorems/9fd3fa0f-b8a1-44e6-b0d5-654969159e54
+-- title:
+--   StochLean: Probability.Process.Semimartingale.QuadraticVariation.ContinuousPart F000
+
+import Definitions.Def_StochLean_Analysis_PathVariation_StieltjesContinuousPart_F000
+import Definitions.Def_StochLean_Probability_Process_Semimartingale_QuadraticCovariation_StieltjesRealization_F001
+import Definitions.Def_SourceProof_4c53178c24a5f39c8484090d
+
+/-
+Copyright (c) 2026 StochLean contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: StochLean contributors
+-/
+
+/-! # The continuous component of the unique raw quadratic variation
+
+The definition removes the point atoms of a genuine Stieltjes version of the
+already constructed raw bracket. It is not a second quadratic-variation
+construction. Its exact decomposition uses the squared jumps of the original
+semimartingale, with the initial square separate and summability proved.
+-/
+
+@[expose] public section
+
+open MeasureTheory StochLean Set Filter
+open scoped NNReal
+
+namespace ProbabilityTheory
+
+variable {Ω : Type*} {mΩ : MeasurableSpace Ω} {P : Measure Ω} [IsFiniteMeasure P]
+  {F : Filtration ℝ≥0 mΩ} {X : ℝ≥0 → Ω → ℝ}
+
+noncomputable def IsSemimartingale.continuousQuadraticVariation
+    (hX : IsSemimartingale X F P) (hF : F.IsUsual P) : ℝ≥0 → Ω → ℝ :=
+  fun t ω ↦ stieltjesContinuousPart
+    ((Classical.choice ((_root_.Prove2MeSourceProof.h_4c53178c24a5f39c8484090d hX) hX hF)).left ω) t
+end ProbabilityTheory
+
+

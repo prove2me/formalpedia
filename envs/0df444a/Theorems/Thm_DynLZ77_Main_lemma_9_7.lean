@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynLZ77_Main_lemma_9_7
 -- name    : DynLZ77.Main.lemma_9_7
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T21:21:43.547538+00:00
 -- url     : https://prove2.me/theorems/af238c63-eedb-4d00-a7ed-4248b91cfb40

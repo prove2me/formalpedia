@@ -860,7 +860,7 @@
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0232", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_142", "child": "RealPinwheel_FiveSixths_CertificateP9", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_142", "child": "RealPinwheel_FiveSixths_Witness", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.stationaryWorkload_positiveTrafficLimit", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.stationaryWorkload_positiveTrafficLimit", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "LevyStochCalc_Probability_AugmentationMeasurable_F000", "child": "LevyStochCalc_Probability_Augmentation_F000", "via": ["statement"]}
 {"parent": "LevyStochCalc_Probability_AugmentationMeasurable_F000", "child": "LevyStochCalc_Probability_SubSigmaLimit_F000", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1030", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}

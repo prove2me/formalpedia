@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2210_02565_muller_sie_formulation
 -- name    : Arxiv2210_02565.muller_sie_formulation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T12:54:48.009335+00:00
 -- url     : https://prove2.me/theorems/1e07cfda-c979-46fd-8193-162009bc31d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1810_02867_operator_eigendecomposition
 -- name    : Arxiv1810_02867.operator_eigendecomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T05:25:01.578137+00:00
 -- url     : https://prove2.me/theorems/3210a8f7-e977-4827-932a-1a221a5712ec

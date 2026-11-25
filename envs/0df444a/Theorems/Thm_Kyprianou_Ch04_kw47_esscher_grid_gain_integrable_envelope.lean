@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_esscher_grid_gain_integrable_envelope
 -- name    : Kyprianou.Ch04.kw47_esscher_grid_gain_integrable_envelope
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T20:19:03.501027+00:00
 -- url     : https://prove2.me/theorems/1fc4b723-995c-535b-989e-84f24c02c3b7

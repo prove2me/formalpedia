@@ -7027,7 +7027,7 @@
 {"parent": "OAILP_PriceGame_ControlWireCombined", "child": "OAILP_PriceGame_ControlCampaignDriver", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_ControlWireCombined", "child": "OAILP_PriceGame_ControlWireState", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_ControlWireCombined", "child": "OAILP_PriceGame_ControlWireCampaign", "via": ["statement"]}
-{"parent": "SteklovTriangles.stretch_div", "child": "SteklovTriangles_Reformulation", "via": ["statement"]}
+{"parent": "SteklovTriangles.stretch_div", "child": "SteklovTriangles_Reformulation", "via": ["solution", "statement"]}
 {"parent": "OAILP_Geometry_OracleBounds", "child": "OAILP_Geometry_OracleConcreteBounds", "via": ["statement"]}
 {"parent": "SourceProof_e13a0eab52f1bb428249d827", "child": "SourceProof_e35ea9d784c55ace5a2412fd", "via": ["statement"]}
 {"parent": "SourceProof_e13a0eab52f1bb428249d827", "child": "StochLean_Probability_InfinitelyDivisible_NonnegativeLevyKhintchine_F001", "via": ["statement"]}
@@ -8036,7 +8036,7 @@
 {"parent": "SourceProof_3bbaad58387c4561f0731fe5", "child": "SourceProof_a307e422895411519841ce97", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_ControlTrialUniform", "child": "OAILP_PriceGame_ControlTrialLiveParts", "via": ["statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.Recovery.MaskedDecision.body_run", "child": "OAILP_Recovery_MaskedDecisionBody", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.kw47_esscher_grid_gain_integrable_envelope", "child": "Kyprianou.Ch04.kw47_universal_exp_runningSup_integrable", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.kw47_esscher_grid_gain_integrable_envelope", "child": "Kyprianou.Ch04.kw47_universal_exp_runningSup_integrable", "via": ["solution", "statement"]}
 {"parent": "collatz_residual_fifteen_mod_sixteen_after_all_second_iterate_visitors", "child": "collatzStepMap", "via": ["statement"]}
 {"parent": "collatz_residual_fifteen_mod_sixteen_after_all_second_iterate_visitors", "child": "collatzMinPreimage", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_ControlCampaignDriver", "child": "OAILP_PriceGame_ControlTrialMachine", "via": ["statement"]}
@@ -8115,7 +8115,7 @@
 {"parent": "OAILP_Geometry_SealedSignRecovery", "child": "OAILP_Geometry_WireEpoch", "via": ["statement"]}
 {"parent": "Kyprianou.Ch04.exercise_4_5_iv_goalV3", "child": "Kyprianou_Ch04_Exercise4_5CertificationV3", "via": ["statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.Lattice.Bit.packedSweep_eq_native", "child": "OAILP_Lattice_LLLBitSweepNative", "via": ["solution", "statement"]}
-{"parent": "Poly1305Debian.internalOk_poly1305_finish_of_blocks_whole", "child": "Poly1305Debian_Spec", "via": ["statement"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_finish_of_blocks_whole", "child": "Poly1305Debian_Spec", "via": ["solution", "statement"]}
 {"parent": "OAILP_PriceGame_LearningGenerationCostOrdering", "child": "OAILP_PriceGame_LearningGenerationCostHistorical", "via": ["statement"]}
 {"parent": "RPLib_FX_EtPBC_071", "child": "RPLib_FX_EtPBC_053", "via": ["statement"]}
 {"parent": "RPLib_FX_EtPBC_071", "child": "RPLib_FX_EtPBC_062", "via": ["statement"]}
@@ -8255,7 +8255,7 @@
 {"parent": "SourceProof_8e0613e9c6d4fca4e5d3181f", "child": "StochLean_Probability_Process_Semimartingale_SimplePredictable_FirstExitTruncation_F000", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_FixedSharePopulationWire", "child": "OAILP_PriceGame_ControlEncodingPopulation", "via": ["statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.Recovery.RowIndex.program_spec", "child": "OAILP_Recovery_RowIndex", "via": ["solution", "statement"]}
-{"parent": "ManyServerQED.Scheduling.scp_joint_state_measurable", "child": "ManyServerQED_Scheduling_Policy", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.scp_joint_state_measurable", "child": "ManyServerQED_Scheduling_Policy", "via": ["solution", "statement"]}
 {"parent": "collatz_residual_fifteen_mod_sixteen_after_variable_dyadic_relay", "child": "collatzStepMap", "via": ["statement"]}
 {"parent": "collatz_residual_fifteen_mod_sixteen_after_variable_dyadic_relay", "child": "collatzMinPreimage", "via": ["statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.Recovery.WitnessTable.program_run", "child": "OAILP_RAM_CallableRawTapes", "via": ["solution", "statement"]}
@@ -8551,7 +8551,7 @@
 {"parent": "SourceProof_4f959de634195da08dfdbf83", "child": "SourceProof_29d33b95cf42be6716ddb60d", "via": ["statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.Recovery.kernelRows_span", "child": "OAILP_Recovery_ConstraintBases", "via": ["solution", "statement"]}
 {"parent": "OAILP_PriceGame_TrialLogDepth", "child": "OAILP_PriceGame_TrialExecutionSize", "via": ["statement"]}
-{"parent": "SteklovTriangles.X_eq_rho_Y", "child": "SteklovTriangles_Reformulation", "via": ["statement"]}
+{"parent": "SteklovTriangles.X_eq_rho_Y", "child": "SteklovTriangles_Reformulation", "via": ["solution", "statement"]}
 {"parent": "ManyServerQED.Scheduling.unit_interval_coupling_lift", "child": "Reiman84_QueueLength_Paths", "via": ["solution", "statement"]}
 {"parent": "ManyServerQED.Scheduling.unit_interval_coupling_lift", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["solution", "statement"]}
 {"parent": "OAILP_PriceGame_ControlPhaseMachine", "child": "OAILP_PriceGame_ControlWireCombined", "via": ["statement"]}
@@ -8891,7 +8891,7 @@
 {"parent": "OAILP_PriceGame_MarketSolverBounds", "child": "OAILP_PriceGame_MarketExistence", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_MarketSolverBounds", "child": "OAILP_PriceGame_MarketAugmentSolver", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_MarketSolverBounds", "child": "OAILP_PriceGame_MarketNumberBounds", "via": ["statement"]}
-{"parent": "SteklovTriangles.G_spec", "child": "SteklovTriangles_Reformulation", "via": ["statement"]}
+{"parent": "SteklovTriangles.G_spec", "child": "SteklovTriangles_Reformulation", "via": ["solution", "statement"]}
 {"parent": "OAILP_Recovery_PairBuilderLayout", "child": "OAILP_RAM_Code", "via": ["statement"]}
 {"parent": "FiniteEnergyPlane.exists_rescaled_limit_of_tendsto_trivialCylinder", "child": "FiniteEnergyPlane_SpanningDisk", "via": ["statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.Compression.RequestTable.Dialogue.session_of_probe_runs", "child": "OAILP_Compression_RequestProbeSession", "via": ["solution", "statement"]}
@@ -9058,7 +9058,7 @@
 {"parent": "OAI.Optimization.LinearProgramming.Compression.ServiceDecision.run", "child": "OAILP_Compat_Core", "via": ["solution", "statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.Compression.ServiceDecision.run", "child": "OAILP_Compression_ServicePrepare", "via": ["solution", "statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.Compression.ServiceDecision.run", "child": "OAILP_Compression_PhysicalRestart", "via": ["solution", "statement"]}
-{"parent": "SteklovTriangles.stretch_sq2", "child": "SteklovTriangles_Reformulation", "via": ["statement"]}
+{"parent": "SteklovTriangles.stretch_sq2", "child": "SteklovTriangles_Reformulation", "via": ["solution", "statement"]}
 {"parent": "RandomCNFDeficiency.LowerBound.partial_assignment_of_clause_matching", "child": "RandomCNFDeficiency_LowerBound_DeficiencyClosure", "via": ["solution", "statement"]}
 {"parent": "OAILP_Lattice_BitRoundCodes", "child": "OAILP_Lattice_BitRoundState", "via": ["statement"]}
 {"parent": "OAILP_Lattice_BitRoundCodes", "child": "OAILP_Lattice_BitProbeCodes", "via": ["statement"]}
@@ -9111,7 +9111,7 @@
 {"parent": "SourceProof_79b70fbdac96840530cd88fc", "child": "SourceProof_34df0ff9749e9285f8ed730b", "via": ["statement"]}
 {"parent": "SourceProof_79b70fbdac96840530cd88fc", "child": "SourceProof_470edda0db5866af621dc0b9", "via": ["statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.Recovery.PairBuilder.first_export", "child": "OAILP_Recovery_PairBuilderExport", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.stationaryWorkloadGeometricMeasureExists", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.stationaryWorkloadGeometricMeasureExists", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "SourceProof_5be316bda063706d2135fb14", "child": "StochLean_Probability_Process_Semimartingale_Basic_F001", "via": ["statement"]}
 {"parent": "SourceProof_5be316bda063706d2135fb14", "child": "StochLean_Probability_Process_Filtration_Usual_F001", "via": ["statement"]}
 {"parent": "SourceProof_5be316bda063706d2135fb14", "child": "SourceProof_96c0d23ed76988d7c3d3ef45", "via": ["statement"]}
@@ -9719,7 +9719,7 @@
 {"parent": "OAILP_PriceGame_TrialWireBound", "child": "OAILP_PriceGame_TrialPathGrid", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_TrialWireBound", "child": "OAILP_PriceGame_CatalogueGrid", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_TrialWireBound", "child": "OAILP_PriceGame_StatesCommunication", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise_4_5_completeV3", "child": "Kyprianou_Ch04_Exercise4_5CertificationV3", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise_4_5_completeV3", "child": "Kyprianou_Ch04_Exercise4_5CertificationV3", "via": ["solution", "statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.PrimalDual.dotPass", "child": "OAILP_PrimalDual_PassesRAM", "via": ["solution", "statement"]}
 {"parent": "SourceProof_c597cf6ac1143ac927f99acf", "child": "SourceProof_61527dde036c91b88ebdd404", "via": ["statement"]}
 {"parent": "SourceProof_c597cf6ac1143ac927f99acf", "child": "SourceProof_c3e069bf138852082f57b309", "via": ["statement"]}
@@ -11323,3 +11323,248 @@
 {"parent": "OAI.Optimization.LinearProgramming.Lattice.Bit.passFrame_fits", "child": "OAI.Optimization.LinearProgramming.Lattice.Bit.packedSweep_length", "via": ["solution"]}
 {"parent": "OAI.Optimization.LinearProgramming.Recovery.WitnessSolve.program_run", "child": "OAI.Optimization.LinearProgramming.Recovery.WitnessExport.program_run_values", "via": ["solution"]}
 {"parent": "OAI.Optimization.LinearProgramming.Recovery.WitnessSolve.program_run", "child": "OAI.Optimization.LinearProgramming.Recovery.WitnessSolve.call_run", "via": ["solution"]}
+{"parent": "collatz_smaller_mergers_through_second_odd_run_exit_exact", "child": "collatzStepMap", "via": ["solution", "statement"]}
+{"parent": "OAI.Optimization.LinearProgramming.NormalSubspace.normal_decision_of_primitives", "child": "OAILP_NormalSubspace_Main", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.P_monic", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.P_monic", "child": "AllOnesLab_Defs", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.allOnes_coeff_eq", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.allOnes_coeff_eq", "child": "AllOnesLab_Defs", "via": ["solution", "statement"]}
+{"parent": "SteklovTriangles.stretch_sq1", "child": "SteklovTriangles_Reformulation", "via": ["solution", "statement"]}
+{"parent": "SteklovTriangles.amgm3_eq", "child": "SteklovTriangles_AreaCorollary", "via": ["solution", "statement"]}
+{"parent": "SteklovTriangles.triangle_isoperimetric_heron", "child": "SteklovTriangles_AreaCorollary", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.irreducible_comp_P", "child": "AllOnesLab_Hard", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.irreducible_comp_P", "child": "AllOnesLab_Trace", "via": ["solution", "statement"]}
+{"parent": "SteklovTriangles.int_cos_sq", "child": "SteklovTriangles_CosBound", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise46RandomWeakPassageTransformV1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise46RandomWeakPassageTransformV1", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "SteklovTriangles.area_corollary", "child": "SteklovTriangles_AreaCorollary", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.stationaryWorkloadGeometricMeasureAtom", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "collatz_mergers_lift_from_two_binary_representatives", "child": "collatzStepMap", "via": ["solution", "statement"]}
+{"parent": "collatz_residual_fifteen_mod_sixteen_after_binary_merger_lifts", "child": "collatzMinPreimage", "via": ["statement"]}
+{"parent": "collatz_residual_fifteen_mod_sixteen_after_binary_merger_lifts", "child": "collatzStepMap", "via": ["statement"]}
+{"parent": "collatz_residual_fifteen_mod_sixteen_after_all_second_run_exit_visitors", "child": "collatzMinPreimage", "via": ["statement"]}
+{"parent": "collatz_residual_fifteen_mod_sixteen_after_all_second_run_exit_visitors", "child": "collatzStepMap", "via": ["statement"]}
+{"parent": "AllOnesLab.A071642_terms_ge_two", "child": "AllOnesLab_Main", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.A071642_terms_ge_two", "child": "AllOnesLab_Hard", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.trace_root_allOnes", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.trace_root_allOnes", "child": "AllOnesLab_Trace", "via": ["solution", "statement"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_update_of_blocks_whole", "child": "Poly1305Debian_Spec", "via": ["statement"]}
+{"parent": "AllOnesLab.allOnes_nextCoeff", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.allOnes_nextCoeff", "child": "AllOnesLab_Defs", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.allOnes_coeff", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.allOnes_coeff", "child": "AllOnesLab_Defs", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.allOnesP_eq_comp", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.allOnesP_eq_comp", "child": "AllOnesLab_Defs", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.asPoly_eval", "child": "AllOnesLab_Hard", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.asPoly_eval", "child": "AllOnesLab_Trace", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.finiteCutoffWindowStepsV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.finiteCutoffWindowStepsV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
+{"parent": "AllOnesLab.trace_one_allOnes", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.trace_one_allOnes", "child": "AllOnesLab_Trace", "via": ["solution", "statement"]}
+{"parent": "AllOnesGallardo.boundary_one", "child": "AllOnesLab", "via": ["solution", "statement"]}
+{"parent": "AllOnesGallardo.boundary_one", "child": "AllOnesComparator_Solution", "via": ["solution", "statement"]}
+{"parent": "AllOnesGallardo.boundary_one", "child": "AllOnesLab.boundary_one", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.allOnes_natDegree", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.allOnes_natDegree", "child": "AllOnesLab_Defs", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab", "child": "AllOnesLab_Basic", "via": ["statement"]}
+{"parent": "AllOnesLab", "child": "AllOnesLab_Defs", "via": ["statement"]}
+{"parent": "AllOnesLab", "child": "AllOnesLab_Hard", "via": ["statement"]}
+{"parent": "AllOnesLab", "child": "AllOnesLab_Trace", "via": ["statement"]}
+{"parent": "AllOnesLab", "child": "AllOnesLab_Main", "via": ["statement"]}
+{"parent": "SourceProof_b28a2172c9a8685639607df3", "child": "SourceProof_2cbb2ed1687ae3057f41e0d2", "via": ["statement"]}
+{"parent": "SourceProof_b28a2172c9a8685639607df3", "child": "SourceProof_925a6c152cedf8b9c9d6d57e", "via": ["statement"]}
+{"parent": "SourceProof_b28a2172c9a8685639607df3", "child": "SourceProof_dff15d58aea8e47b608598ba", "via": ["statement"]}
+{"parent": "SourceProof_b28a2172c9a8685639607df3", "child": "SourceProof_2d0886ee2025f07cabb3dec2", "via": ["statement"]}
+{"parent": "SourceProof_b28a2172c9a8685639607df3", "child": "StochLean_Probability_Process_Semimartingale_QuadraticCovariation_F000", "via": ["statement"]}
+{"parent": "SourceProof_b28a2172c9a8685639607df3", "child": "SourceProof_60b183cce884b1ffa7a599f8", "via": ["statement"]}
+{"parent": "AllOnesLab.P_natDegree", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.P_natDegree", "child": "AllOnesLab_Defs", "via": ["solution", "statement"]}
+{"parent": "collatz_residual_fifteen_mod_sixteen_after_late_merger_classes", "child": "collatzMinPreimage", "via": ["statement"]}
+{"parent": "collatz_residual_fifteen_mod_sixteen_after_late_merger_classes", "child": "collatzStepMap", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_069", "child": "RPLib_FX_EtPBC_040", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_069", "child": "RPLib_FX_EtPBC_045", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_069", "child": "RPLib_FX_EtPBC_060", "via": ["statement"]}
+{"parent": "OAI.Optimization.LinearProgramming.strongly_polynomial_feasibility", "child": "OAILP_PriceGame_ControlDispatchMachine", "via": ["statement"]}
+{"parent": "OAI.Optimization.LinearProgramming.strongly_polynomial_feasibility", "child": "OAILP_NormalSubspace_Main", "via": ["statement"]}
+{"parent": "OAI.Optimization.LinearProgramming.strongly_polynomial_feasibility", "child": "OAILP_Recovery_PrincipalProgram", "via": ["statement"]}
+{"parent": "OAI.Optimization.LinearProgramming.strongly_polynomial_feasibility", "child": "OAILP_Compression_NumericMinorROM", "via": ["statement"]}
+{"parent": "OAI.Optimization.LinearProgramming.strongly_polynomial_feasibility", "child": "OAILP_Compression_ServiceImplementation", "via": ["statement"]}
+{"parent": "OAI.Optimization.LinearProgramming.strongly_polynomial_feasibility", "child": "OAILP_PriceGame_ControlEndpoint", "via": ["statement"]}
+{"parent": "SteklovTriangles.int_cos", "child": "SteklovTriangles_CosBound", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.allOnes_coeff_of_lt", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.allOnes_coeff_of_lt", "child": "AllOnesLab_Defs", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.poisson_integer_grid_donsker", "child": "DurrettProbability_Donsker", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.poisson_integer_grid_donsker", "child": "ManyServerQED_Scheduling_Model", "via": ["statement"]}
+{"parent": "AllOnesComparator_Solution", "child": "AllOnesLab", "via": ["statement"]}
+{"parent": "AllOnesGallardo.main", "child": "AllOnesLab", "via": ["solution", "statement"]}
+{"parent": "AllOnesGallardo.main", "child": "AllOnesComparator_Solution", "via": ["solution", "statement"]}
+{"parent": "AllOnesGallardo.main", "child": "AllOnesLab.main", "via": ["solution", "statement"]}
+{"parent": "SteklovTriangles", "child": "SteklovTriangles_AreaCorollary", "via": ["statement"]}
+{"parent": "SteklovTriangles", "child": "SteklovTriangles_Reformulation", "via": ["statement"]}
+{"parent": "SteklovTriangles", "child": "SteklovTriangles_CosBound", "via": ["statement"]}
+{"parent": "AllOnesGallardo.A071642_terms_ge_two", "child": "AllOnesLab", "via": ["solution", "statement"]}
+{"parent": "AllOnesGallardo.A071642_terms_ge_two", "child": "AllOnesLab.A071642_terms_ge_two", "via": ["solution", "statement"]}
+{"parent": "AllOnesGallardo.A071642_terms_ge_two", "child": "AllOnesComparator_Solution", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.aeval_P", "child": "AllOnesLab_Hard", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.aeval_P", "child": "AllOnesLab_Trace", "via": ["solution", "statement"]}
+{"parent": "RPLib_FX_EtPBC_045", "child": "RPLib_FX_EtPBC_037", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_045", "child": "RPLib_FX_EtPBC_034", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.smallJumpQuadraticTailV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.asPoly_natDegree", "child": "AllOnesLab_Hard", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.asPoly_natDegree", "child": "AllOnesLab_Trace", "via": ["solution", "statement"]}
+{"parent": "SteklovTriangles.triangle_isoperimetric_heron_eq", "child": "SteklovTriangles_AreaCorollary", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.irreducible_allOnes_of_irreducible_allOnesP", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.irreducible_allOnes_of_irreducible_allOnesP", "child": "AllOnesLab_Defs", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.even_of_irreducible_allOnes", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.even_of_irreducible_allOnes", "child": "AllOnesLab_Defs", "via": ["solution", "statement"]}
+{"parent": "RPLib_FX_EtPBC_034", "child": "RPLib_FX_EtPBC_028", "via": ["statement"]}
+{"parent": "StochLean_Probability_Process_Semimartingale_QuadraticCovariation_ContinuousPart_F000", "child": "SourceProof_31d0de13ef1656df97c05a7d", "via": ["statement"]}
+{"parent": "StochLean_Probability_Process_Semimartingale_QuadraticCovariation_ContinuousPart_F000", "child": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "via": ["statement"]}
+{"parent": "AllOnesLab_Hard", "child": "AllOnesLab_Trace", "via": ["statement"]}
+{"parent": "P2M_AllOnesLab_boundary_one__d72b5fb3d4b1", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
+{"parent": "P2M_AllOnesLab_boundary_one__d72b5fb3d4b1", "child": "AllOnesLab_Defs", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.asPoly_monic", "child": "AllOnesLab_Hard", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.asPoly_monic", "child": "AllOnesLab_Trace", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab_Trace", "child": "AllOnesLab_Basic", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.stationaryWorkloadGeometricMeasureConvergence", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "collatz_late_mergers_after_first_odd_run_residue_classes", "child": "collatzStepMap", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.trace_sq_add_self_eq_zero", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.trace_sq_add_self_eq_zero", "child": "AllOnesLab_Trace", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.allOnes_eval_one", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.allOnes_eval_one", "child": "AllOnesLab_Defs", "via": ["solution", "statement"]}
+{"parent": "SteklovTriangles.area_corollary_strict", "child": "SteklovTriangles_AreaCorollary", "via": ["solution", "statement"]}
+{"parent": "ManyServerQED.Scheduling.continuous_path_laws_yield_unit_coupling", "child": "Reiman84_QueueLength_Paths", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.continuous_path_laws_yield_unit_coupling", "child": "DurrettProbability_Donsker", "via": ["statement"]}
+{"parent": "AllOnesLab_Main", "child": "AllOnesLab_Hard", "via": ["statement"]}
+{"parent": "AllOnesLab.asPoly_irreducible", "child": "AllOnesLab_Hard", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.asPoly_irreducible", "child": "AllOnesLab_Trace", "via": ["solution", "statement"]}
+{"parent": "RPLib_FX_EtPBC_087", "child": "RPLib_FX_EtPBC_076", "via": ["statement"]}
+{"parent": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "child": "SourceProof_4c53178c24a5f39c8484090d", "via": ["statement"]}
+{"parent": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "child": "StochLean_Probability_Process_Semimartingale_QuadraticCovariation_StieltjesRealization_F001", "via": ["statement"]}
+{"parent": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "child": "StochLean_Analysis_PathVariation_StieltjesContinuousPart_F000", "via": ["statement"]}
+{"parent": "AllOnesLab.allOnesP_monic", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.allOnesP_monic", "child": "AllOnesLab_Defs", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.boundary_one", "child": "AllOnesLab_Main", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.boundary_one", "child": "AllOnesLab_Hard", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab_Basic", "child": "AllOnesLab_Defs", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_080", "child": "RPLib_FX_EtPBC_071", "via": ["statement"]}
+{"parent": "AllOnesLab.allOnes_monic", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.allOnes_monic", "child": "AllOnesLab_Defs", "via": ["solution", "statement"]}
+{"parent": "SteklovTriangles.int_x_sin_sq", "child": "SteklovTriangles_CosBound", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.irreducible_allOnesP_of_irreducible_allOnes", "child": "AllOnesLab_Hard", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.irreducible_allOnesP_of_irreducible_allOnes", "child": "AllOnesLab_Trace", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.klsWindowIntegerValuedV1", "child": "LevyStochCalc_Probability_IntegerValuedMeasure_F003", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.klsWindowIntegerValuedV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.klsWindowIntegerValuedV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.klsWindowIntegerValuedV1", "child": "SourceProof_adf2db00933ba5955625daf4", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.klsWindowIntegerValuedV1", "child": "LevyStochCalc_Probability_IntegerValuedMeasure_F002", "via": ["statement"]}
+{"parent": "AllOnesLab.allOnesP_natDegree", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.allOnesP_natDegree", "child": "AllOnesLab_Defs", "via": ["solution", "statement"]}
+{"parent": "RPLib_FX_EtPBC_224", "child": "RPLib_FX_EtPBC_046", "via": ["statement"]}
+{"parent": "AllOnesLab.aeval_asPoly", "child": "AllOnesLab_Hard", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.aeval_asPoly", "child": "AllOnesLab_Trace", "via": ["solution", "statement"]}
+{"parent": "SourceProof_9a15eada3555a513322a1de0", "child": "SourceProof_7cf7a410d6e0dc72e8d3a915", "via": ["statement"]}
+{"parent": "SourceProof_9a15eada3555a513322a1de0", "child": "SourceProof_ac8568c988f1a24f506610b2", "via": ["statement"]}
+{"parent": "SourceProof_9a15eada3555a513322a1de0", "child": "SourceProof_00a8a291a5ec377d57feab0f", "via": ["statement"]}
+{"parent": "SourceProof_9a15eada3555a513322a1de0", "child": "SourceProof_0f6a1de2f7189d335c4ff9a7", "via": ["statement"]}
+{"parent": "AllOnesLab.main", "child": "AllOnesLab_Main", "via": ["solution", "statement"]}
+{"parent": "AllOnesLab.main", "child": "AllOnesLab_Hard", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_contact_exp_integral_one", "child": "AvramDividend.Classical.runningSup_monotone_and_path_le", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_contact_exp_integral_one", "child": "Kyprianou.Ch04.kw47_runningSup_contact_measure", "via": ["solution", "statement"]}
+{"parent": "SteklovTriangles.amgm3", "child": "SteklovTriangles_AreaCorollary", "via": ["solution", "statement"]}
+{"parent": "RPLib_FX_EtPBC_061", "child": "RPLib_FX_EtPBC_224", "via": ["statement"]}
+{"parent": "BauerleRiederMDP.Stopping.corollary_10_2_6", "child": "MDPFinance.OptimalStopping.theorem_10_1_3", "via": ["solution"]}
+{"parent": "BauerleRiederMDP.Stopping.corollary_10_2_6", "child": "MDPFinance.OptimalStopping.theorem_10_2_2", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.stationaryWorkload_positiveTrafficLimit", "child": "Kyprianou.Ch04.stationaryWorkloadGeometricMeasureExists", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.stationaryWorkload_positiveTrafficLimit", "child": "Kyprianou.Ch04.stationaryWorkloadGeometricMeasureConvergence", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.stationaryWorkload_positiveTrafficLimit", "child": "Kyprianou.Ch04.stationaryWorkloadGeometricMeasureAtom", "via": ["solution"]}
+{"parent": "DynLZ77.Main.lemma_1_2_per", "child": "DynLZ77.Main.claim_8_12", "via": ["solution"]}
+{"parent": "DynLZ77.Main.lemma_1_2_per", "child": "DynLZ77.Main.lemma_8_5", "via": ["solution"]}
+{"parent": "DynLZ77.Main.lemma_1_2_per", "child": "DynLZ77.Main.lemma_2_2", "via": ["solution"]}
+{"parent": "DynLZ77.Main.lemma_1_2_per", "child": "DynLZ77_Main_ExtensionPoints", "via": ["solution"]}
+{"parent": "DynLZ77.Main.lemma_1_2_per", "child": "DynLZ77.Main.claim_8_11", "via": ["solution"]}
+{"parent": "DynLZ77.Main.lemma_1_2_per", "child": "DynLZ77_KK_SyncConstruction", "via": ["solution"]}
+{"parent": "DynLZ77.Main.lemma_1_2_per", "child": "DynLZ77.Main.fact_8_9", "via": ["solution"]}
+{"parent": "DynLZ77.Main.lemma_1_2_per", "child": "DynLZ77.Main.claim_8_10", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_finish", "child": "Poly1305Libsodium_Spec", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_finish", "child": "Poly1305Debian_PlacedObj", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_finish", "child": "Poly1305Debian.internalOk_poly1305_finish_of_blocks_whole", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_update", "child": "Poly1305Debian.internalOk_poly1305_update_of_blocks_whole", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_update", "child": "Poly1305Libsodium_Spec", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_update", "child": "Poly1305Debian_PlacedObj", "via": ["solution"]}
+{"parent": "DynLZ77.Main.lemma_8_5", "child": "DynLZ77_KK_SyncConstruction", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_finish_of_blocks_whole", "child": "Link_LinkOk", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_finish_of_blocks_whole", "child": "Arm64Facts.steps_codeLoaded_v2", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_finish_of_blocks_whole", "child": "Poly1305Debian_PlacedObj", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.scp_joint_state_measurable", "child": "AvramDividend.Classical.rightContinuous_measurable_sections_joint_evaluation", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.stationaryWorkloadGeometricMeasureExists", "child": "Kyprianou.Ch04.convolutionPowerPreservesProbability", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.stationaryWorkloadGeometricMeasureExists", "child": "Kyprianou.Ch04.trafficIntegratedNegativeTailProbability", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.stationaryWorkloadGeometricMeasureExists", "child": "Kyprianou.Ch04.geometricMixtureOfProbabilityMeasures", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequential_balance", "child": "ManyServerQED.Scheduling.scp_joint_state_measurable", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequential_balance", "child": "ManyServerQED.Scheduling.queue_discounted_cost_tails", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.queue_hjb_subsequential_balance", "child": "ManyServerQED.Scheduling.queue_hjb_finite_horizon_balance", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.queue_discounted_cost_tails", "child": "ManyServerQED.Scheduling.lemma_3", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise_4_5_completeV3", "child": "Kyprianou.Ch04.exercise_4_5_ii_goalV3", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise_4_5_completeV3", "child": "Kyprianou.Ch04.exercise_4_5_iii_goalV3", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise_4_5_completeV3", "child": "Kyprianou.Ch04.exercise_4_5_i_goalV3", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise_4_5_completeV3", "child": "Kyprianou.Ch04.exercise_4_5_iv_goalV3", "via": ["solution"]}
+{"parent": "collatz_residual_fifteen_mod_sixteen_after_all_first_run_exit_visitors", "child": "collatz_residual_fifteen_mod_sixteen_after_late_merger_classes", "via": ["solution"]}
+{"parent": "collatz_residual_fifteen_mod_sixteen_after_all_first_run_exit_visitors", "child": "collatz_late_mergers_after_first_odd_run_residue_classes", "via": ["solution"]}
+{"parent": "OAI.Optimization.LinearProgramming.NormalSubspace.normal_decision_of_primitives", "child": "OAI.Optimization.LinearProgramming.Recovery.PackedPCG.learnerBound_spec", "via": ["solution"]}
+{"parent": "SteklovTriangles.triangle_isoperimetric_heron", "child": "SteklovTriangles.amgm3", "via": ["solution"]}
+{"parent": "AllOnesLab.irreducible_comp_P", "child": "AllOnesLab.asPoly_monic", "via": ["solution"]}
+{"parent": "AllOnesLab.irreducible_comp_P", "child": "AllOnesLab.asPoly_natDegree", "via": ["solution"]}
+{"parent": "AllOnesLab.irreducible_comp_P", "child": "AllOnesLab.aeval_P", "via": ["solution"]}
+{"parent": "AllOnesLab.irreducible_comp_P", "child": "AllOnesLab.asPoly_irreducible", "via": ["solution"]}
+{"parent": "AllOnesLab.irreducible_comp_P", "child": "AllOnesLab.aeval_asPoly", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.stationaryWorkloadGeometricMeasureAtom", "child": "Kyprianou.Ch04.convolutionPowerPreservesProbability", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.stationaryWorkloadGeometricMeasureAtom", "child": "Kyprianou.Ch04.trafficIntegratedNegativeTailProbability", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.stationaryWorkloadGeometricMeasureAtom", "child": "AvramDividend.Classical.geometric_renewal_positive_convolution_powers_no_atom", "via": ["solution"]}
+{"parent": "collatz_residual_fifteen_mod_sixteen_after_all_second_run_exit_visitors", "child": "collatz_mergers_lift_from_two_binary_representatives", "via": ["solution"]}
+{"parent": "collatz_residual_fifteen_mod_sixteen_after_all_second_run_exit_visitors", "child": "collatz_residual_fifteen_mod_sixteen_after_binary_merger_lifts", "via": ["solution"]}
+{"parent": "AllOnesLab.A071642_terms_ge_two", "child": "AllOnesLab.main", "via": ["solution"]}
+{"parent": "AllOnesLab.trace_root_allOnes", "child": "AllOnesLab.allOnes_nextCoeff", "via": ["solution"]}
+{"parent": "AllOnesLab.trace_root_allOnes", "child": "AllOnesLab.allOnes_monic", "via": ["solution"]}
+{"parent": "AllOnesLab.trace_root_allOnes", "child": "AllOnesLab.allOnes_natDegree", "via": ["solution"]}
+{"parent": "AllOnesLab.allOnes_nextCoeff", "child": "AllOnesLab.allOnes_natDegree", "via": ["solution"]}
+{"parent": "AllOnesLab.allOnes_nextCoeff", "child": "AllOnesLab.allOnes_coeff", "via": ["solution"]}
+{"parent": "AllOnesLab.allOnes_coeff", "child": "AllOnesLab.allOnes_coeff_eq", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.kw47_right_grid_integral_convergence", "child": "Kyprianou.Ch04.kw47_grid_cell_exists_unique", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.kw47_right_grid_integral_convergence", "child": "Kyprianou.Ch04.kw47_grid_step_integral_exact", "via": ["solution"]}
+{"parent": "AllOnesLab.trace_one_allOnes", "child": "AllOnesLab.allOnes_monic", "via": ["solution"]}
+{"parent": "AllOnesLab.trace_one_allOnes", "child": "AllOnesLab.allOnes_natDegree", "via": ["solution"]}
+{"parent": "AllOnesLab.allOnes_natDegree", "child": "AllOnesLab.allOnes_coeff_of_lt", "via": ["solution"]}
+{"parent": "AllOnesLab.allOnes_natDegree", "child": "AllOnesLab.allOnes_coeff", "via": ["solution"]}
+{"parent": "collatz_residual_fifteen_mod_sixteen_after_late_merger_classes", "child": "collatz_smaller_mergers_through_second_odd_run_exit_exact", "via": ["solution"]}
+{"parent": "collatz_residual_fifteen_mod_sixteen_after_late_merger_classes", "child": "collatz_residual_fifteen_mod_sixteen_after_all_second_run_exit_visitors", "via": ["solution"]}
+{"parent": "AllOnesLab.allOnes_coeff_of_lt", "child": "AllOnesLab.allOnes_coeff_eq", "via": ["solution"]}
+{"parent": "SteklovTriangles.triangle_isoperimetric_heron_eq", "child": "SteklovTriangles.amgm3_eq", "via": ["solution"]}
+{"parent": "AllOnesLab.irreducible_allOnes_of_irreducible_allOnesP", "child": "AllOnesLab.P_natDegree", "via": ["solution"]}
+{"parent": "AllOnesLab.irreducible_allOnes_of_irreducible_allOnesP", "child": "AllOnesLab.allOnes_natDegree", "via": ["solution"]}
+{"parent": "AllOnesLab.irreducible_allOnes_of_irreducible_allOnesP", "child": "AllOnesLab.allOnesP_eq_comp", "via": ["solution"]}
+{"parent": "AllOnesLab.even_of_irreducible_allOnes", "child": "AllOnesLab.allOnes_eval_one", "via": ["solution"]}
+{"parent": "AllOnesLab.even_of_irreducible_allOnes", "child": "AllOnesLab.allOnes_natDegree", "via": ["solution"]}
+{"parent": "AllOnesLab.asPoly_irreducible", "child": "AllOnesLab.trace_sq_add_self_eq_zero", "via": ["solution"]}
+{"parent": "AllOnesLab.asPoly_irreducible", "child": "AllOnesLab.asPoly_eval", "via": ["solution"]}
+{"parent": "AllOnesLab.asPoly_irreducible", "child": "AllOnesLab.asPoly_natDegree", "via": ["solution"]}
+{"parent": "AllOnesLab.allOnesP_monic", "child": "AllOnesLab.P_monic", "via": ["solution"]}
+{"parent": "AllOnesLab.allOnesP_monic", "child": "AllOnesLab.allOnes_monic", "via": ["solution"]}
+{"parent": "AllOnesLab.allOnesP_monic", "child": "AllOnesLab.P_natDegree", "via": ["solution"]}
+{"parent": "AllOnesLab.allOnesP_monic", "child": "AllOnesLab.allOnesP_eq_comp", "via": ["solution"]}
+{"parent": "AllOnesLab.boundary_one", "child": "P2M_AllOnesLab_boundary_one__d72b5fb3d4b1", "via": ["solution"]}
+{"parent": "AllOnesLab.allOnes_monic", "child": "AllOnesLab.allOnes_natDegree", "via": ["solution"]}
+{"parent": "AllOnesLab.allOnes_monic", "child": "AllOnesLab.allOnes_coeff", "via": ["solution"]}
+{"parent": "AllOnesLab.irreducible_allOnesP_of_irreducible_allOnes", "child": "AllOnesLab.allOnesP_monic", "via": ["solution"]}
+{"parent": "AllOnesLab.irreducible_allOnesP_of_irreducible_allOnes", "child": "AllOnesLab.allOnesP_natDegree", "via": ["solution"]}
+{"parent": "AllOnesLab.irreducible_allOnesP_of_irreducible_allOnes", "child": "AllOnesLab.even_of_irreducible_allOnes", "via": ["solution"]}
+{"parent": "AllOnesLab.irreducible_allOnesP_of_irreducible_allOnes", "child": "AllOnesLab.trace_one_allOnes", "via": ["solution"]}
+{"parent": "AllOnesLab.irreducible_allOnesP_of_irreducible_allOnes", "child": "AllOnesLab.allOnesP_eq_comp", "via": ["solution"]}
+{"parent": "AllOnesLab.irreducible_allOnesP_of_irreducible_allOnes", "child": "AllOnesLab.allOnes_monic", "via": ["solution"]}
+{"parent": "AllOnesLab.irreducible_allOnesP_of_irreducible_allOnes", "child": "AllOnesLab.trace_root_allOnes", "via": ["solution"]}
+{"parent": "AllOnesLab.irreducible_allOnesP_of_irreducible_allOnes", "child": "AllOnesLab.allOnes_natDegree", "via": ["solution"]}
+{"parent": "AllOnesLab.irreducible_allOnesP_of_irreducible_allOnes", "child": "AllOnesLab.irreducible_comp_P", "via": ["solution"]}
+{"parent": "AllOnesLab.allOnesP_natDegree", "child": "AllOnesLab.P_natDegree", "via": ["solution"]}
+{"parent": "AllOnesLab.allOnesP_natDegree", "child": "AllOnesLab.allOnes_natDegree", "via": ["solution"]}
+{"parent": "AllOnesLab.allOnesP_natDegree", "child": "AllOnesLab.allOnesP_eq_comp", "via": ["solution"]}
+{"parent": "AllOnesLab.main", "child": "AllOnesLab.irreducible_allOnes_of_irreducible_allOnesP", "via": ["solution"]}
+{"parent": "AllOnesLab.main", "child": "AllOnesLab.irreducible_allOnesP_of_irreducible_allOnes", "via": ["solution"]}

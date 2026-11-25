@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305Debian_internalOk_poly1305_finish_of_blocks_whole
 -- name    : Poly1305Debian.internalOk_poly1305_finish_of_blocks_whole
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-25T20:44:20.111905+00:00
 -- url     : https://prove2.me/theorems/60c71392-d346-512b-99ea-314e04c2b803

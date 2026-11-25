@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BauerleRiederMDP_Stopping_corollary_10_2_6
 -- name    : BauerleRiederMDP.Stopping.corollary_10_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:30:23.982008+00:00
 -- url     : https://prove2.me/theorems/27e573e5-6afa-4386-8192-c994d623c6dc

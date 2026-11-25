@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynLZ77_Main_lemma_1_2_per
 -- name    : DynLZ77.Main.lemma_1_2_per
--- status  : Open
+-- status  : Proved
 -- author  : @shaygo
 -- created : 2026-11-25T09:05:55.977084+00:00
 -- url     : https://prove2.me/theorems/c590b792-8b15-5912-b157-718eb1d58f23

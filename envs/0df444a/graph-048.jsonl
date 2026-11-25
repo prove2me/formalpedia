@@ -9750,7 +9750,7 @@
 {"parent": "GlobalTheory.CoordToExt.coordUnit_trans", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_IsAbelianSchemeThick", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CoordToExt.coordUnit_trans", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_DataRigidTorsionOfDataRigid", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CoordToExt.coordUnit_trans", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_CubeVal", "via": ["solution", "statement"]}
-{"parent": "Arxiv1809_10262.generator_loss_as_regularized_inversion", "child": "Arxiv1809_10262_Basic", "via": ["statement"]}
+{"parent": "Arxiv1809_10262.generator_loss_as_regularized_inversion", "child": "Arxiv1809_10262_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CoordToExt.prod_O", "child": "Development_AbelianVarietyTheory_Proofs_ThetaShiftProofs_ThickenedPointToTorusExtensionGenerator", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CoordToExt.prod_O", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_IsAffineOpenAndBijectiveOfWeightUnits", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CoordToExt.prod_O", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_IsAbelianSchemeThick", "via": ["solution", "statement"]}
@@ -39773,7 +39773,7 @@
 {"parent": "GlobalTheory.EpsIso.ker_fst_eq_span", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ThetaUnifAV", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.EpsIso.ker_fst_eq_span", "child": "Development_AbelianVarietyTheory_Definitions_ModuliSpaces_IsInvDer", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.EpsIso.ker_fst_eq_span", "child": "Development_AbelianVarietyTheory_Proofs_UniformizationProofs_KerAppEqMapAppLEOfIsPullback", "via": ["solution", "statement"]}
-{"parent": "Poly1305Debian.internalOk_poly1305_finish", "child": "Poly1305Debian_Spec", "via": ["statement"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_finish", "child": "Poly1305Debian_Spec", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.TorsionIntegral.exists_restricts", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_UnifUniqSt", "via": ["statement"]}
 {"parent": "GlobalTheory.TorsionIntegral.exists_restricts", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ExistsZeroGt", "via": ["statement"]}
 {"parent": "GlobalTheory.TorsionIntegral.exists_restricts", "child": "Development_AbelianVarietyTheory_Definitions_Uniformization_ExistsUniqueSamePt", "via": ["statement"]}
@@ -44319,7 +44319,7 @@
 {"parent": "GlobalTheory.NormGlue.exists_coord", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_BCTools", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.pt_lower", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_CSandwichStD", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.pt_lower", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_CSandwichStE", "via": ["statement"]}
-{"parent": "Poly1305Debian.internalOk_poly1305_update", "child": "Poly1305Debian_Spec", "via": ["statement"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_update", "child": "Poly1305Debian_Spec", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CechCmp.cap_single", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_RestrictCapFBijective", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CechCmp.cap_single", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_ComparisonMemCechHodgeFiltration", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CechCmp.cap_single", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CechPullOneBijectiveLatticeCover", "via": ["solution", "statement"]}
@@ -49014,8 +49014,8 @@
 {"parent": "SourceProof_8510e2a398f823aff8350c3b", "child": "SourceProof_ebaf9e73dbb24b573c624591", "via": ["statement"]}
 {"parent": "SourceProof_8510e2a398f823aff8350c3b", "child": "SourceProof_d14c6a5c22923c1d07f1756e", "via": ["statement"]}
 {"parent": "SourceProof_8510e2a398f823aff8350c3b", "child": "StochLean_Probability_Process_Semimartingale_SimplePredictable_Stopping_F000", "via": ["statement"]}
-{"parent": "DynLZ77.Main.lemma_8_5", "child": "DynLZ77_Main_Structure", "via": ["statement"]}
-{"parent": "DynLZ77.Main.lemma_8_5", "child": "DynLZ77_Main_Strings", "via": ["statement"]}
+{"parent": "DynLZ77.Main.lemma_8_5", "child": "DynLZ77_Main_Structure", "via": ["solution", "statement"]}
+{"parent": "DynLZ77.Main.lemma_8_5", "child": "DynLZ77_Main_Strings", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.AbCoh.AxesPull.pH1_comp", "child": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_Divisors__AbelianHodgeDeRham_0e03413a4fcf6a02", "via": ["statement"]}
 {"parent": "GlobalTheory.AbCoh.AxesPull.pH1_comp", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_GrpObjPullbackAxesCohomologyProjections", "via": ["statement"]}
 {"parent": "GlobalTheory.AbCoh.AxesPull.pH1_comp", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CommAlgFunctorCohomologyTwoEqZeroOfIsInitial", "via": ["statement"]}

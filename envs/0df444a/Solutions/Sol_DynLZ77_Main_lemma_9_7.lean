@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for DynLZ77.Main.lemma_9_7
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @shaygo
 -- created : 2026-11-22T05:32:10.376637+00:00
 -- url     : https://prove2.me/submissions/a9b85f48-40dd-4234-a5a1-1d6a5ecff053
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.SpecialFunctions.Log.Base
 import Theorems.Thm_DynLZ77_Main_lemma_1_2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_convolutionPowerPreservesProbability
 -- name    : Kyprianou.Ch04.convolutionPowerPreservesProbability
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T20:14:32.840176+00:00
 -- url     : https://prove2.me/theorems/c4a652c2-602f-429a-bd00-42f5aa22b2af

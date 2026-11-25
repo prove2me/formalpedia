@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1705_08274_exp_reflection_identity
 -- name    : Arxiv1705_08274.exp_reflection_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T02:10:02.82809+00:00
 -- url     : https://prove2.me/theorems/bfc8176e-dd1b-5d74-a654-e0358751167b

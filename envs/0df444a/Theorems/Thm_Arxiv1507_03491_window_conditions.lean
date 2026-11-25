@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1507_03491_window_conditions
 -- name    : Arxiv1507_03491.window_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T16:15:51.259727+00:00
 -- url     : https://prove2.me/theorems/b7115558-65cc-424b-aa52-b272865803c3

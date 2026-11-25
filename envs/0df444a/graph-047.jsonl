@@ -67194,7 +67194,7 @@
 {"parent": "GroundTheory.LocalField.Abstract.range_norm_le_range_norm", "child": "GroundTheory_LocalFields_AbstractLocalReciprocity_ExistsOpenSubgroupMemFixedModule", "via": ["statement"]}
 {"parent": "GroundTheory.LocalField.Abstract.range_norm_le_range_norm", "child": "GroundTheory_LocalFields_AbstractLocalReciprocity_UniqueQuotientSubgroupOfSelf", "via": ["statement"]}
 {"parent": "GroundTheory.Automorphic.GL2Classical.mem_of_sum_mem_of_eigen", "child": "GroundTheory_AutomorphicForms_GL2Classical_WeightOperators", "via": ["statement"]}
-{"parent": "Arxiv2210_02565.muller_sie_formulation", "child": "Arxiv2210_02565_Basic", "via": ["statement"]}
+{"parent": "Arxiv2210_02565.muller_sie_formulation", "child": "Arxiv2210_02565_Basic", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Brauer_CrossedProduct_isMulCocycle__mul_59f558ca0817", "child": "GroundTheory_Brauer_CrossedProductInj", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Brauer_CrossedProduct_isMulCocycle__mul_59f558ca0817", "child": "GroundTheory_Brauer_CrossedProduct", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Brauer_CrossedProduct_isMulCocycle__mul_59f558ca0817", "child": "GroundTheory_Brauer_BaseChangeCSA", "via": ["statement"]}

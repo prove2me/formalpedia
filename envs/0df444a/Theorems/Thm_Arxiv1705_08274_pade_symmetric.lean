@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1705_08274_pade_symmetric
 -- name    : Arxiv1705_08274.pade_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T03:27:26.58084+00:00
 -- url     : https://prove2.me/theorems/2ece7de4-dc8f-4b2a-a86c-c99c394a5116

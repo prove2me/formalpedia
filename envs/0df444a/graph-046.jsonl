@@ -56045,8 +56045,8 @@
 {"parent": "ReciprocityTheory.AnForm.A.integral_coord_kK", "child": "ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_IsPshLocallyIntegrableStatement", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.A.integral_coord_kK", "child": "ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_ContinuousTmaxShift", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.BcB.CG.continuous_splitY_left", "child": "Development_WeilBound_RepresentationTheoryGL_ArchimedeanBaseChange_ArchimedeanBaseChangeProof_HeckeFubiniCompatibility_PActPi", "via": ["solution", "statement"]}
-{"parent": "DynLZ77.Main.lemma_1_2_per", "child": "DynLZ77_Main_Strings", "via": ["statement"]}
-{"parent": "DynLZ77.Main.lemma_1_2_per", "child": "DynLZ77_Main_Structure", "via": ["statement"]}
+{"parent": "DynLZ77.Main.lemma_1_2_per", "child": "DynLZ77_Main_Strings", "via": ["solution", "statement"]}
+{"parent": "DynLZ77.Main.lemma_1_2_per", "child": "DynLZ77_Main_Structure", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HL.StrongSt.bc_sum", "child": "Formalism_SharpRestriction_CuspSpanNormBounds_PsiEDef", "via": ["statement"]}
 {"parent": "GlobalTheory.HL.StrongSt.bc_sum", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_PatternUnitriangularStrongApproximationStatement", "via": ["statement"]}
 {"parent": "GlobalTheory.HL.StrongSt.bc_sum", "child": "GlobalTheory.HL.LatClose.bc_sum", "via": ["statement"]}

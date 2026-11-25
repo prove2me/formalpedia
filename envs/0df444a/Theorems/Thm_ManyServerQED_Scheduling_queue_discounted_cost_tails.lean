@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_queue_discounted_cost_tails
 -- name    : ManyServerQED.Scheduling.queue_discounted_cost_tails
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-25T20:48:47.953984+00:00
 -- url     : https://prove2.me/theorems/e188495f-b698-58cf-8abd-f12d15186cd2

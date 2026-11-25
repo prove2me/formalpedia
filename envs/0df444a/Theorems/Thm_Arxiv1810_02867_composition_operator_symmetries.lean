@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1810_02867_composition_operator_symmetries
 -- name    : Arxiv1810_02867.composition_operator_symmetries
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T05:25:42.903321+00:00
 -- url     : https://prove2.me/theorems/f3ed4a5f-d075-41a8-a845-49323a223bb9

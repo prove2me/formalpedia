@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1810_02867_slowness_domain_operator
 -- name    : Arxiv1810_02867.slowness_domain_operator
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T05:24:28.148625+00:00
 -- url     : https://prove2.me/theorems/4ba48305-898f-5fe6-819a-ec2b8769a0ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_stationaryWorkloadGeometricMeasureExists
 -- name    : Kyprianou.Ch04.stationaryWorkloadGeometricMeasureExists
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T20:20:28.308143+00:00
 -- url     : https://prove2.me/theorems/6d58ce5b-9a9c-44fd-ba09-77f3e5d7480d

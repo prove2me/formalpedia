@@ -22522,8 +22522,8 @@
 {"parent": "PaddedDescent.F.Mark.Val.length_st", "child": "StepMachines_Math_SatNet", "via": ["solution", "statement"]}
 {"parent": "PaddedDescent.F.Mark.Val.length_st", "child": "PaddedDescent_F_MarkVal", "via": ["solution", "statement"]}
 {"parent": "PaddedDescent.F.Mark.Val.length_st", "child": "PaddedDescent_F_Interfaces", "via": ["solution", "statement"]}
-{"parent": "BauerleRiederMDP.Stopping.corollary_10_2_6", "child": "BauerleRiederMDP_Stopping_AssumptionBLim", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.Stopping.corollary_10_2_6", "child": "MDPFinance_OptimalStopping_Stationary", "via": ["statement"]}
+{"parent": "BauerleRiederMDP.Stopping.corollary_10_2_6", "child": "BauerleRiederMDP_Stopping_AssumptionBLim", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.Stopping.corollary_10_2_6", "child": "MDPFinance_OptimalStopping_Stationary", "via": ["solution", "statement"]}
 {"parent": "UniformInK.Correct.brute_eq", "child": "Groundwork.PolyT.filter", "via": ["solution", "statement"]}
 {"parent": "UniformInK.Correct.brute_eq", "child": "ClauseBound_ParityChecks_TopOL", "via": ["solution", "statement"]}
 {"parent": "UniformInK.Correct.brute_eq", "child": "CountKSatRate_Leaf", "via": ["solution", "statement"]}

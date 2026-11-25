@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2610_39302_next_token_prediction_margin_limit
 -- name    : Arxiv2610_39302.next_token_prediction_margin_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T03:06:48.200859+00:00
 -- url     : https://prove2.me/theorems/b892a417-a088-474f-a2ae-3ab1ec1f8871

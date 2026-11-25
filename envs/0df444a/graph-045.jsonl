@@ -40218,7 +40218,7 @@
 {"parent": "PI.Dv.Tr.eG_mul_eS", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_IdempotentTransfer_TraceFormulaOfRankDegree", "via": ["solution", "statement"]}
 {"parent": "PI.Dv.Tr.eG_mul_eS", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_IdempotentTransfer_DegGeOfInj", "via": ["solution", "statement"]}
 {"parent": "PI.Dv.Tr.eG_mul_eS", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_IdempotentTransfer_DegTop", "via": ["solution", "statement"]}
-{"parent": "Arxiv1810_02867.operator_eigendecomposition", "child": "Arxiv1810_02867_Basic", "via": ["statement"]}
+{"parent": "Arxiv1810_02867.operator_eigendecomposition", "child": "Arxiv1810_02867_Basic", "via": ["solution", "statement"]}
 {"parent": "PI.AlgValsFin.W.evI_localIdele", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AlgebraicValuesFinite_EvFLocalIdeleSelf", "via": ["solution", "statement"]}
 {"parent": "PI.AlgValsFin.W.evI_localIdele", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AlgebraicValuesFinite_ValuedAtFin", "via": ["solution", "statement"]}
 {"parent": "PI.DivPowInteg.Gen.dL_apply", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_DividedPowerIntegrals_GenPow", "via": ["solution", "statement"]}
@@ -41223,7 +41223,7 @@
 {"parent": "PI.AlgValsFin.W.algValsFin_of_tors", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AlgebraicValuesFinite_OrdFEqOfClassOf", "via": ["solution", "statement"]}
 {"parent": "PI.AlgValsFin.W.algValsFin_of_tors", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AlgebraicValuesFinite_AlgValsFinOfTors", "via": ["solution", "statement"]}
 {"parent": "PI.AlgValsFin.W.algValsFin_of_tors", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AlgebraicValuesFinite_IsIntegralOfMemCompo", "via": ["solution", "statement"]}
-{"parent": "Arxiv1810_02867.slowness_domain_operator", "child": "Arxiv1810_02867_Basic", "via": ["statement"]}
+{"parent": "Arxiv1810_02867.slowness_domain_operator", "child": "Arxiv1810_02867_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HCXi.ConeZero.exists_coneMeasure", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_LintegralGaussianHyperboloidFiberStatement", "via": ["statement"]}
 {"parent": "GlobalTheory.HCXi.ConeZero.exists_coneMeasure", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_IsKMeas", "via": ["statement"]}
 {"parent": "GlobalTheory.HCXi.ConeZero.exists_coneMeasure", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_ExistsConeMeasure", "via": ["statement"]}
@@ -43971,7 +43971,7 @@
 {"parent": "PI.AlgValsFin.W.eq_of_key", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AlgebraicValuesFinite_IsIntegralOfMemCompo", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Sobolev.parametrixSymbol_mul_inverseSymbol", "child": "GroundTheory_AutomorphicForms_PartialDifferential_EllipticLocal", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Sobolev.parametrixSymbol_mul_inverseSymbol", "child": "GroundTheory_AutomorphicForms_PartialDifferential_EllipticOperators", "via": ["solution", "statement"]}
-{"parent": "Arxiv1810_02867.composition_operator_symmetries", "child": "Arxiv1810_02867_Basic", "via": ["statement"]}
+{"parent": "Arxiv1810_02867.composition_operator_symmetries", "child": "Arxiv1810_02867_Basic", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_JetHarmonics_SplitCasimirEigenspaceIrreducibleStandard", "child": "Formalism_RealPlaceAnalysis_ThirdArithmeticHolds", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_JetHarmonics_SplitCasimirEigenspaceIrreducibleStandard", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_IrreducibleCapelliModules", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_JetHarmonics_SplitCasimirEigenspaceIrreducibleStandard", "child": "Development_AbelianVarietyTheory_Proofs_JetHarmonics_HighestWeightTensorStandard", "via": ["statement"]}

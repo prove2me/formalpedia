@@ -73394,7 +73394,7 @@
 {"parent": "GlobalTheory.ChartCmp.CoordLaw.hom_comp", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_ExpChartJet", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Sobolev.smulLeftCLM_eq_zero_of_isVanishingOn", "child": "GroundTheory_AutomorphicForms_PartialDifferential_EllipticOperators", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Sobolev.smulLeftCLM_eq_zero_of_isVanishingOn", "child": "GroundTheory_AutomorphicForms_PartialDifferential_SobolevMultiplication", "via": ["solution", "statement"]}
-{"parent": "Arxiv1705_08274.exp_reflection_identity", "child": "Arxiv1705_08274_Basic", "via": ["statement"]}
+{"parent": "Arxiv1705_08274.exp_reflection_identity", "child": "Arxiv1705_08274_Basic", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Sobolev.IsLocal.sum", "child": "GroundTheory_AutomorphicForms_PartialDifferential_EllipticOperators", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Sobolev.IsLocal.sum", "child": "GroundTheory_AutomorphicForms_PartialDifferential_SobolevMultiplication", "via": ["solution", "statement"]}
 {"parent": "Newton.adjointAd.smul", "child": "Newton_Gauge_LieAlgebra", "via": ["solution", "statement"]}
@@ -76665,7 +76665,7 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalModel_ringKrullDim_eq_f992c3ae4c72", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PLeadIdealDim", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalModel_ringKrullDim_eq_f992c3ae4c72", "child": "GroundTheory_ArithmeticGeometry_ToricVarieties_Dimension", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalModel_ringKrullDim_eq_f992c3ae4c72", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StInjectiveHolomorphicOpen", "via": ["solution", "statement"]}
-{"parent": "Arxiv1705_08274.adding_extra_relations_as_proved", "child": "Arxiv1705_08274_Basic", "via": ["statement"]}
+{"parent": "Arxiv1705_08274.adding_extra_relations_as_proved", "child": "Arxiv1705_08274_Basic", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_SquarefreeLabelTorusMassDivisorBound", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_SamePartIffOfNeZero", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_SquarefreeLabelTorusMassDivisorBound", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_MassDegTypeLeCycleTypeStatement", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_CoordCurveDegree_blockDeg_le_totalDegree_f38221eff11e", "child": "GroundTheory_HeightsAndTheta_Heights_HeightsOfSets_PCoordCurveAlgebraic", "via": ["solution", "statement"]}
@@ -77118,7 +77118,7 @@
 {"parent": "GroundTheory.LocalField.indFun_theta_mem_spanA", "child": "GroundTheory_LocalFields_BrauerInductionLocal", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.LocalField.indFun_theta_mem_spanA", "child": "GroundTheory_LocalFields_BrauerInductionPrime", "via": ["solution", "statement"]}
 {"parent": "CompanionTheory_HarishChandraModules_BesselParameterIntegrals_CoePolarExpHomeomorphComplexApply", "child": "CompanionTheory_HarishChandraModules_BesselParameterIntegrals_ContDiffOnExpPartialHomeomorphSymm", "via": ["statement"]}
-{"parent": "Arxiv1705_08274.adding_recurrence", "child": "Arxiv1705_08274_Basic", "via": ["statement"]}
+{"parent": "Arxiv1705_08274.adding_recurrence", "child": "Arxiv1705_08274_Basic", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_FdegScale", "child": "Formalism_PeriodIntegrals_HCFdeg", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_FdegScale", "child": "Formalism_PeriodIntegrals_UpqRep", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.Cell.exists_near_representation", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CongrPIffInI", "via": ["solution", "statement"]}
@@ -89072,7 +89072,7 @@
 {"parent": "Formalism.FourierDecayAlt.P.PBK.map_mul_volume", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RootPushforwardDensity", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.PBK.map_mul_volume", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LastBlockDecay", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_JetHarmonics_WtNearLeOfAddDistLe", "child": "Development_AbelianVarietyTheory_Definitions_Jets_SumIoPr", "via": ["statement"]}
-{"parent": "Arxiv2610_39302.next_token_prediction_margin_limit", "child": "Arxiv2610_39302_Basic", "via": ["statement"]}
+{"parent": "Arxiv2610_39302.next_token_prediction_margin_limit", "child": "Arxiv2610_39302_Basic", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_BasicNotions_LocAinf___eq_8b20937612a8", "child": "Formalism_SharpRestriction_LevelLetterCocycles_DataNLoc", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_BasicNotions_LocAinf___eq_8b20937612a8", "child": "Formalism_WeaklyAdmissibleFiltrations_Statement", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_BasicNotions_LocAinf___eq_8b20937612a8", "child": "Formalism_WeaklyAdmissibleFiltrations_StatementPC", "via": ["solution", "statement"]}
@@ -96472,7 +96472,7 @@
 {"parent": "GroundTheory.Automorphic.exists_mul_norm_add_mul_norm_eq", "child": "GroundTheory_LocalFields_HerbrandLocal", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.exists_mul_norm_add_mul_norm_eq", "child": "GroundTheory_AutomorphicForms_HermitianWittExtension", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_FiniteCovolume_eq_of_mulVec_partner_ab8825d1922e", "child": "GroundTheory_HeightsAndTheta_Heights_FiniteCovolume_PUnipotentModulusMatrix", "via": ["solution", "statement"]}
-{"parent": "Arxiv1705_08274.pade_symmetric", "child": "Arxiv1705_08274_Basic", "via": ["statement"]}
+{"parent": "Arxiv1705_08274.pade_symmetric", "child": "Arxiv1705_08274_Basic", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsEllipticWeakSolOfPolynomialLaplacianZeroStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsEllipticWeakSolOfPolynomialLaplacianZero", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsEllipticWeakSolOfPolynomialLaplacianZeroStatement", "child": "GroundTheory_AutomorphicForms_GKModules_Casimir", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsEllipticWeakSolOfPolynomialLaplacianZeroStatement", "child": "GroundTheory_AutomorphicForms_HarishChandraRegularity_ExpHaar", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_scp_joint_state_measurable
 -- name    : ManyServerQED.Scheduling.scp_joint_state_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @Jie Luo
 -- created : 2026-11-25T20:49:00.232515+00:00
 -- url     : https://prove2.me/theorems/a1d23ee8-3247-4dce-9db7-5a058e2856cc

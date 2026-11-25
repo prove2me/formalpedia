@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1705_08274_adding_extra_relations_as_proved
 -- name    : Arxiv1705_08274.adding_extra_relations_as_proved
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T02:16:20.910889+00:00
 -- url     : https://prove2.me/theorems/54878346-f4cb-47e6-b6a5-bff48c2fafa8
