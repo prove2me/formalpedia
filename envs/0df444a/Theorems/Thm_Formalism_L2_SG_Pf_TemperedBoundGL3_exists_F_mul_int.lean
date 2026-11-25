@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_TemperedBoundGL3_exists_F_mul_int
 -- name    : Formalism.L2.SG.Pf.TemperedBoundGL3.exists_F_mul_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:01:41.201435+00:00
 -- url     : https://prove2.me/theorems/179212ba-4901-5638-8779-39dafaf24592

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CB_factors_bound
 -- name    : PI.PolynomialProperness.CB.factors_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:36:53.139806+00:00
 -- url     : https://prove2.me/theorems/db266016-6696-45c2-8329-2944b527faeb

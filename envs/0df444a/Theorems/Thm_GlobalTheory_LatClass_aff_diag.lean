@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_aff_diag
 -- name    : GlobalTheory.LatClass.aff_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:55:13.4273+00:00
 -- url     : https://prove2.me/theorems/c1f8104a-c167-4bbd-9f9d-3ff36fc8d081

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZW_log_mul_abs_add_two_nonneg
 -- name    : PI.ZW.log_mul_abs_add_two_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:46:33.015742+00:00
 -- url     : https://prove2.me/theorems/eb4d8974-8464-59d5-8442-a71bb01d65f0

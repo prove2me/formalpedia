@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovHat2W_GG_eq
 -- name    : PI.QnCovHat2W.GG_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:38:43.639991+00:00
 -- url     : https://prove2.me/theorems/4d446bf8-657c-4d8b-89fa-cf146948725c

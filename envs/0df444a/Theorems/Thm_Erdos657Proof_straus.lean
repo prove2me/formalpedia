@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos657Proof_straus
 -- name    : Erdos657Proof.straus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:23:37.234671+00:00
 -- url     : https://prove2.me/theorems/faf1c521-8afd-4ae5-a20d-4288c9dfbf99

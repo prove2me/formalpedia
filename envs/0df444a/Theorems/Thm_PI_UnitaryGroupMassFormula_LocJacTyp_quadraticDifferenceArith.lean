@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_quadraticDifferenceArith
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.quadraticDifferenceArith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:32:41.269945+00:00
 -- url     : https://prove2.me/theorems/02c09c3f-b82b-41a3-8f60-5ac49a195c5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTB_bidet_std
 -- name    : PI.WGL.LTB.bidet_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:47:05.497794+00:00
 -- url     : https://prove2.me/theorems/c1f2e33e-2063-4e36-ac62-2beace87008f

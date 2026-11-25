@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTE_prod_memZ
 -- name    : PI.WGL.LTE.prod_memZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:46:20.893853+00:00
 -- url     : https://prove2.me/theorems/a7fceea6-4fca-462a-bb08-6090a4e60355

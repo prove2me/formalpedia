@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_comp_gen
 -- name    : PI.WGL.comp_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:45:20.946006+00:00
 -- url     : https://prove2.me/theorems/e7e6d176-f6dd-43a3-b33d-50665767b8a3

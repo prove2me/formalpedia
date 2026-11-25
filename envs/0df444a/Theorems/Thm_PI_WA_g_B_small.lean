@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WA_g_B_small
 -- name    : PI.WA.g_B_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:43:57.842793+00:00
 -- url     : https://prove2.me/theorems/4a732a6e-078b-413d-811a-ef2a50b5d883

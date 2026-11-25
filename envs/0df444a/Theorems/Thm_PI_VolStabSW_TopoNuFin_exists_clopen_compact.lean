@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_TopoNuFin_exists_clopen_compact
 -- name    : PI.VolStabSW.TopoNuFin.exists_clopen_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:44:10.416774+00:00
 -- url     : https://prove2.me/theorems/932bdff4-09da-4cf1-90c1-f98e8ce20583

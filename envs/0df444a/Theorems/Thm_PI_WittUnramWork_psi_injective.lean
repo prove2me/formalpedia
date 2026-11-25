@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WittUnramWork_psi_injective
 -- name    : PI.WittUnramWork.psi_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:45:53.027591+00:00
 -- url     : https://prove2.me/theorems/7004cdfc-7174-4d5c-9e75-d6a5b4d72c96

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiU_normSq_sum_eq
 -- name    : PI.WGL.XiU.normSq_sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:45:31.765579+00:00
 -- url     : https://prove2.me/theorems/f9bac834-7fa9-4b3f-9f29-caed63214631

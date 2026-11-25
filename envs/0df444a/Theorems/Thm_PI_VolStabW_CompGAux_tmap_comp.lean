@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_CompGAux_tmap_comp
 -- name    : PI.VolStabW.CompGAux.tmap_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:44:41.357727+00:00
 -- url     : https://prove2.me/theorems/888e0f62-1306-4532-9a1a-17613bcd41c5

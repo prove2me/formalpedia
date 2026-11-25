@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_HostPrimeFacts_cj_smul_P
 -- name    : PI.UnitaryGroupMassFormula.HostPrimeFacts.cj_smul_P
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:39:09.983932+00:00
 -- url     : https://prove2.me/theorems/d23e0895-03f1-4514-b70f-0afd76f633ea

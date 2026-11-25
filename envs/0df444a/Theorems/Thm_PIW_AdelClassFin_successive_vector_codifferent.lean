@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_successive_vector_codifferent
 -- name    : PIW.AdelClassFin.successive_vector_codifferent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:54.258803+00:00
 -- url     : https://prove2.me/theorems/9505379f-7697-4f7d-9f57-8f27e0257809

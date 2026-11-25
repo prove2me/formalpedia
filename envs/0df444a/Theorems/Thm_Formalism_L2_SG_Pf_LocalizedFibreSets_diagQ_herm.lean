@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LocalizedFibreSets_diagQ_herm
 -- name    : Formalism.L2.SG.Pf.LocalizedFibreSets.diagQ_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:39:34.791806+00:00
 -- url     : https://prove2.me/theorems/80cba759-3803-5e43-a4d8-5b3646eeb42d

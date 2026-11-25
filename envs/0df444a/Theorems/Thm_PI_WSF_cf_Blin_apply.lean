@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_cf_Blin_apply
 -- name    : PI.WSF.cf_Blin_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:57:38.608658+00:00
 -- url     : https://prove2.me/theorems/10485e9c-5467-598e-b0bc-1696cdd9faa8

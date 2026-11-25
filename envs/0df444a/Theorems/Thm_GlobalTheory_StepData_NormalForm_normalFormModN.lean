@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_NormalForm_normalFormModN
 -- name    : GlobalTheory.StepData.NormalForm.normalFormModN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:01:04.357301+00:00
 -- url     : https://prove2.me/theorems/0b30bee0-b8ba-535d-9e83-8368cec12fbd

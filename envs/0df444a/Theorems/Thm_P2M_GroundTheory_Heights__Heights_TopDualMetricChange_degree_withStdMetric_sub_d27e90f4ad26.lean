@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TopDualMetricChange_degree_withStdMetric_sub_d27e90f4ad26
 -- name    : P2M_GroundTheory_Heights__Heights_TopDualMetricChange_degree_withStdMetric_sub_d27e90f4ad26
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:50:10.994188+00:00
 -- url     : https://prove2.me/theorems/da90f9dc-8d58-5a33-9e29-64dfddc0060e

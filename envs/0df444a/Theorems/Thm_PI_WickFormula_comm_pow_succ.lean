@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_comm_pow_succ
 -- name    : PI.WickFormula.comm_pow_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:47:22.635039+00:00
 -- url     : https://prove2.me/theorems/eb133388-4f81-43b7-85ad-69f9ee76694b

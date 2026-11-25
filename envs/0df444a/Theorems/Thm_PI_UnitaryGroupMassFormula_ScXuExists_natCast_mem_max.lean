@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_natCast_mem_max
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.natCast_mem_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:31:32.99096+00:00
 -- url     : https://prove2.me/theorems/176bab57-1726-43b5-a52f-bae0462aac0a

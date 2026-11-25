@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_QuantumMinorCommutation_minorCov_gen
 -- name    : Formalism.FourierDecayAlt.P.QuantumMinorCommutation.minorCov_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:07:54.017899+00:00
 -- url     : https://prove2.me/theorems/0e22821b-6086-40a1-80de-2bbc55d81bac

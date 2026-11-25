@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdUniqW_annAt_of_dual
 -- name    : PI.VolStabW.SdUniqW.annAt_of_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:38:29.499322+00:00
 -- url     : https://prove2.me/theorems/f58c23bc-fbe3-4447-93cd-f1651715c785

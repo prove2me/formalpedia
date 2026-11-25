@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6RotationSupport_interval_commonInc_supportUnion_disjoint
 -- name    : F6RotationSupport.interval_commonInc_supportUnion_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:25:20.665627+00:00
 -- url     : https://prove2.me/theorems/369fac1a-0b11-4b58-b115-458c44db9d28

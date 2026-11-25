@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_isUnit_det_of_mem_GV
 -- name    : PI.StabPairsW.isUnit_det_of_mem_GV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:28:43.431161+00:00
 -- url     : https://prove2.me/theorems/ab6ed4ee-aed9-4f3c-bb32-6da53a8a6533

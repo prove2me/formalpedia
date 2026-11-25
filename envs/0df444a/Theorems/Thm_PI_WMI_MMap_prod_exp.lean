@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_MMap_prod_exp
 -- name    : PI.WMI.MMap.prod_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:01:35.848095+00:00
 -- url     : https://prove2.me/theorems/d4eb6d26-7384-5bc5-9920-e2513a07ddd2

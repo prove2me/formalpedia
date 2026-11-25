@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sierpinski_exists_eq_univ_of_nat_closed_partition
 -- name    : Sierpinski.exists_eq_univ_of_nat_closed_partition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:53:41.677891+00:00
 -- url     : https://prove2.me/theorems/46617a47-6dde-51e9-8099-731473616689

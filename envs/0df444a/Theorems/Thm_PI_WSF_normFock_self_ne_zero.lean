@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_normFock_self_ne_zero
 -- name    : PI.WSF.normFock_self_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:45:48.091501+00:00
 -- url     : https://prove2.me/theorems/c1332193-4f75-4243-b218-204e72d8a948

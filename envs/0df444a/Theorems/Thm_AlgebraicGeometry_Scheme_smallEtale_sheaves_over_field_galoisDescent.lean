@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_smallEtale_sheaves_over_field_galoisDescent
 -- name    : AlgebraicGeometry.Scheme.smallEtale_sheaves_over_field_galoisDescent
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-25T10:52:36.273149+00:00
 -- url     : https://prove2.me/theorems/63c9b384-cad9-5d8c-9439-ecaff8a44a1e

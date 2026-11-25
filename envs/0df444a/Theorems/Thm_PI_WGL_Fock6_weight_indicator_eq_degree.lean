@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Fock6_weight_indicator_eq_degree
 -- name    : PI.WGL.Fock6.weight_indicator_eq_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:46:34.196324+00:00
 -- url     : https://prove2.me/theorems/08dfc2f5-0f6d-4efc-b0bf-356c8cbc540d

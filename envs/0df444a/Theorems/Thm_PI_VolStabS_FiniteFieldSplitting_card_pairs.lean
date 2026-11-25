@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FiniteFieldSplitting_card_pairs
 -- name    : PI.VolStabS.FiniteFieldSplitting.card_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:36:19.669591+00:00
 -- url     : https://prove2.me/theorems/7ab9cd3a-e115-4a3a-9a2f-ba3b0a114ed7

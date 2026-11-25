@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_n15_large_triple_arithmetic
 -- name    : F6ConvexWindow.n15_large_triple_arithmetic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:22:25.531313+00:00
 -- url     : https://prove2.me/theorems/3c69e627-5fe8-48ca-9bdc-a0cf2b22d902

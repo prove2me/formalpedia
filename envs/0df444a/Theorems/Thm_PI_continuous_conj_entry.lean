@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_continuous_conj_entry
 -- name    : PI.continuous_conj_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:46:45.887885+00:00
 -- url     : https://prove2.me/theorems/e47a35e9-bc5c-4ce6-91f7-f445b6c27e32

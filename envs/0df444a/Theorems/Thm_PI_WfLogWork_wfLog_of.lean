@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WfLogWork_wfLog_of
 -- name    : PI.WfLogWork.wfLog_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:06:57.479647+00:00
 -- url     : https://prove2.me/theorems/7a0907d4-bdc0-4038-9851-434ec0908877

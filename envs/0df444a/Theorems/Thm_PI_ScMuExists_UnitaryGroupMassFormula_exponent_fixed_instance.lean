@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_exponent_fixed_instance
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.exponent_fixed_instance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:38:01.960054+00:00
 -- url     : https://prove2.me/theorems/802c0dce-9683-4484-8770-733a56097aff

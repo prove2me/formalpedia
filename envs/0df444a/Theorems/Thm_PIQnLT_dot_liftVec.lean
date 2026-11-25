@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_dot_liftVec
 -- name    : PIQnLT.dot_liftVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:47:58.532312+00:00
 -- url     : https://prove2.me/theorems/7234663f-24e5-4fb7-abd3-5d6b908d944c

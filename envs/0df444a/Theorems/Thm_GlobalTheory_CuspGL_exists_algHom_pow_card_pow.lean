@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_exists_algHom_pow_card_pow
 -- name    : GlobalTheory.CuspGL.exists_algHom_pow_card_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:08:33.655081+00:00
 -- url     : https://prove2.me/theorems/55989e8e-afb5-4337-bd56-0fec984fe627

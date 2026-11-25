@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LocalizedFibreSets_card_U_diag
 -- name    : Formalism.L2.SG.Pf.LocalizedFibreSets.card_U_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:44:57.094804+00:00
 -- url     : https://prove2.me/theorems/2ae23a81-c20d-5974-84d7-3388c50a8aba

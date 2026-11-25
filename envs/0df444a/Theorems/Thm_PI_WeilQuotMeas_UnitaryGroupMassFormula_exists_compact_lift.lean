@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeilQuotMeas_UnitaryGroupMassFormula_exists_compact_lift
 -- name    : PI.WeilQuotMeas.UnitaryGroupMassFormula.exists_compact_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:44:56.513254+00:00
 -- url     : https://prove2.me/theorems/dc9e9e15-916e-456d-9e9c-9862bf702a71

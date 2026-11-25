@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_RestrProdA_hasProd_compl_of_ne_zero
 -- name    : PI.VolStabW.RestrProdA.hasProd_compl_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:38:06.760472+00:00
 -- url     : https://prove2.me/theorems/61349282-0243-4490-a04a-7331105668db

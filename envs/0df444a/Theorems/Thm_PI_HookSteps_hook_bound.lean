@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_hook_bound
 -- name    : PI.HookSteps.hook_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:09:08.021434+00:00
 -- url     : https://prove2.me/theorems/62f3b975-1e2b-4f66-88e3-b2e85c261680

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_linDens_holds
 -- name    : PI.VolStabSW.linDens_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:50:57.46043+00:00
 -- url     : https://prove2.me/theorems/e3a60770-b5a9-5cc8-9509-e10ff05414b8

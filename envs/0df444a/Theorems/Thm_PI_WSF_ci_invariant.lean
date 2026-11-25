@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_ci_invariant
 -- name    : PI.WSF.ci_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:46:40.840459+00:00
 -- url     : https://prove2.me/theorems/1593b236-9e5a-449d-85d5-09f9ce9046a8

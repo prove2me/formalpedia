@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_LatFactsW_isCompact_hermO
 -- name    : PI.VolStabSW.LatFactsW.isCompact_hermO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:43:37.143675+00:00
 -- url     : https://prove2.me/theorems/47631447-c2d3-547a-af23-40076e4f252b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_Cpt_isCompact_Bx
 -- name    : PI.WAU.Cpt.isCompact_Bx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:56:44.171995+00:00
 -- url     : https://prove2.me/theorems/11fd0036-c001-5a20-8ccf-391bc49a2955

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZW_divisor_eq_order
 -- name    : PI.ZW.divisor_eq_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:46:11.745713+00:00
 -- url     : https://prove2.me/theorems/dbd18623-4517-56c9-880e-0dcf62faad52

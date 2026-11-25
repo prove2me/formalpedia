@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_InterNumEventual_mixed_eval_ec46f79ca513
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_InterNumEventual_mixed_eval_ec46f79ca513
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:31:04.753699+00:00
 -- url     : https://prove2.me/theorems/37ce4e85-8ca8-5f28-9947-5662ce838d57

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_FiniteThetaCoordinates_continuous_piW_inf
 -- name    : PI.VolStabSW.FiniteThetaCoordinates.continuous_piW_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:38:32.258365+00:00
 -- url     : https://prove2.me/theorems/7fad5d82-41c8-4ed9-abe1-ecf29d033839

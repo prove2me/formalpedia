@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HyperboloidPolar_hypAmb_inv
 -- name    : GlobalTheory.HyperboloidPolar.hypAmb_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:38:33.088799+00:00
 -- url     : https://prove2.me/theorems/591deb44-5d5c-45f9-b6fc-2217b4cbc8c4

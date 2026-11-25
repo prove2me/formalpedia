@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_VolAAW_psiV_nsmul
 -- name    : PI.VolStabW.VolAAW.psiV_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:41:08.076813+00:00
 -- url     : https://prove2.me/theorems/e6c19a56-3b42-429d-88b7-79ce5caae37f

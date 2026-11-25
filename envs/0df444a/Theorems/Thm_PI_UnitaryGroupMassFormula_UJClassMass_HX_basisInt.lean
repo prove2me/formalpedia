@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_HX_basisInt
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.HX.basisInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:42:58.992793+00:00
 -- url     : https://prove2.me/theorems/fd105313-6387-43aa-8c68-edd01f0e2072

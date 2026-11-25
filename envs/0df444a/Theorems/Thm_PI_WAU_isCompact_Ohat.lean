@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_isCompact_Ohat
 -- name    : PI.WAU.isCompact_Ohat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:42:16.769905+00:00
 -- url     : https://prove2.me/theorems/097b0cc6-8bcd-4791-ba04-98005bdc1d2a

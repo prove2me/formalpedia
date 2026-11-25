@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_cfL_apply
 -- name    : PIW.HCFdeg.cfL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:48:28.25247+00:00
 -- url     : https://prove2.me/theorems/aaa3d0ae-0747-424d-8d71-d37faaad367b

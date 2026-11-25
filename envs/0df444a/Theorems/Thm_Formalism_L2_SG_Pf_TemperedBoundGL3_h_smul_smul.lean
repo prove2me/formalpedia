@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_TemperedBoundGL3_h_smul_smul
 -- name    : Formalism.L2.SG.Pf.TemperedBoundGL3.h_smul_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:53:48.146273+00:00
 -- url     : https://prove2.me/theorems/fb5af45d-758b-5e68-97ba-c9b121fa223d

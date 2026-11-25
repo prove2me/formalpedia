@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Witt_enlarge_step
 -- name    : PI.Witt.enlarge_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:45:13.90605+00:00
 -- url     : https://prove2.me/theorems/24efdfda-9437-5e31-a1f1-b2dcd0406129

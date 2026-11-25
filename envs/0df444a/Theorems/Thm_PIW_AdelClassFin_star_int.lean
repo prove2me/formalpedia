@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_star_int
 -- name    : PIW.AdelClassFin.star_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:49:17.735498+00:00
 -- url     : https://prove2.me/theorems/5b8e060c-eac6-4972-b2ec-8856a3926a53

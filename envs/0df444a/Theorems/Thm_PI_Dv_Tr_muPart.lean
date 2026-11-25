@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_muPart
 -- name    : PI.Dv.Tr.muPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:33:55.315392+00:00
 -- url     : https://prove2.me/theorems/b703557d-9255-5b85-81b9-02f8561e4bb5

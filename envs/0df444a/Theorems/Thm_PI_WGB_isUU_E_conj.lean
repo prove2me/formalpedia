@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_isUU_E_conj
 -- name    : PI.WGB.isUU_E_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:44:57.745175+00:00
 -- url     : https://prove2.me/theorems/525bbbee-fc2b-405c-a45c-1e3452c2a8cf

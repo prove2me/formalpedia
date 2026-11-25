@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G9_sum_eq_of_min
 -- name    : Formalism.L2.SG.Pf.G9.sum_eq_of_min
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:51:04.139085+00:00
 -- url     : https://prove2.me/theorems/f2b200dc-ebf0-4640-894e-a3486be7e539

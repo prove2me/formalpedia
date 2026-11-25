@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_WF_dual_LA
 -- name    : PI.ScRefExists.WF.dual_LA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:37:46.51991+00:00
 -- url     : https://prove2.me/theorems/d692612c-2cd4-4423-a135-4bd5ff28a9e0

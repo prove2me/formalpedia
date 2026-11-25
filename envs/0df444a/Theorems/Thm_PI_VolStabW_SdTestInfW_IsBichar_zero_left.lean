@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdTestInfW_IsBichar_zero_left
 -- name    : PI.VolStabW.SdTestInfW.IsBichar.zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:40:59.58781+00:00
 -- url     : https://prove2.me/theorems/0f4442a7-6066-43f5-b50b-fe13fb1a5213

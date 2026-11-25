@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTF_bidet_rowW
 -- name    : PI.WGL.LTF.bidet_rowW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:46:17.134153+00:00
 -- url     : https://prove2.me/theorems/f3cb78c3-05a5-4b4e-b85e-16e7547130b9

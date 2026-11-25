@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_isCOBasis_scaled
 -- name    : PI.VolStabW.isCOBasis_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:45:28.150928+00:00
 -- url     : https://prove2.me/theorems/9c5de99d-5f1e-421d-972a-788806f2f830

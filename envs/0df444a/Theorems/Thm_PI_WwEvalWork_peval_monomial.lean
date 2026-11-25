@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwEvalWork_peval_monomial
 -- name    : PI.WwEvalWork.peval_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:45:53.058117+00:00
 -- url     : https://prove2.me/theorems/3c217a54-6e8c-5282-bc7a-8629e9d70d47

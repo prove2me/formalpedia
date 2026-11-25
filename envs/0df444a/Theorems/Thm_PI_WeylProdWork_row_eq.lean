@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylProdWork_row_eq
 -- name    : PI.WeylProdWork.row_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:44:17.760958+00:00
 -- url     : https://prove2.me/theorems/a334b107-74e8-443a-9115-43fc96fc343f

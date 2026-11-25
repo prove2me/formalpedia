@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LowUniSplit_mem_LPg_iff
 -- name    : PI.LowUniSplit.mem_LPg_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:34:51.781797+00:00
 -- url     : https://prove2.me/theorems/da22c1a0-c597-46bd-8018-681b81a8f3ed

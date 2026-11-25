@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_ev_int
 -- name    : PI.VolStabSW.ev_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:46:12.051038+00:00
 -- url     : https://prove2.me/theorems/2fe66c93-cfdb-4b9a-a48a-e11682bbd75e

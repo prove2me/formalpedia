@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_lowerInv_conj_e
 -- name    : PI.WMI.lowerInv_conj_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:47:19.348996+00:00
 -- url     : https://prove2.me/theorems/ff716c67-3f19-4364-988b-0c6b971a445e

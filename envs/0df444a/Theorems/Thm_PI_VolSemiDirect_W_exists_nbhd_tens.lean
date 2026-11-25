@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_exists_nbhd_tens
 -- name    : PI.VolSemiDirect.W.exists_nbhd_tens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:36:47.857365+00:00
 -- url     : https://prove2.me/theorems/d4557081-c26b-426e-bd56-67eea7c61752

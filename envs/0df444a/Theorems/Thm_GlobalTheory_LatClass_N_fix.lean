@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_N_fix
 -- name    : GlobalTheory.LatClass.N_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:45:42.255255+00:00
 -- url     : https://prove2.me/theorems/21063fa1-20af-55f4-be91-5d35b690f018

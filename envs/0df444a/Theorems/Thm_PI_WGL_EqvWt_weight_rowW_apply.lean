@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_EqvWt_weight_rowW_apply
 -- name    : PI.WGL.EqvWt.weight_rowW_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:59:59.126316+00:00
 -- url     : https://prove2.me/theorems/3ab185b4-ac21-58ff-b3ac-0fb3800271eb

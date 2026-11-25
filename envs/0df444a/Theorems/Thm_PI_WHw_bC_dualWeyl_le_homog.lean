@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WHw_bC_dualWeyl_le_homog
 -- name    : PI.WHw.bC_dualWeyl_le_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:46:38.650813+00:00
 -- url     : https://prove2.me/theorems/5978bcc9-5ec0-484a-9c35-09565bd240bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCompose_hasDerivAt_sv
 -- name    : PI.UnitaryGroupMassFormula.UsCompose.hasDerivAt_sv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:42:39.513577+00:00
 -- url     : https://prove2.me/theorems/d6f2b504-3e1d-4957-a2c5-6d9579803d47

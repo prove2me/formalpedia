@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Lc_tensor_adele_topology_holds
 -- name    : PI.VolSemiDirect.W.Lc.tensor_adele_topology_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:01:33.341207+00:00
 -- url     : https://prove2.me/theorems/c353bae7-e608-4c3b-84df-c49c9fbbfcba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_S6_QuotDegree_proof_9f64677a504a
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_S6_QuotDegree_proof_9f64677a504a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:43:36.807506+00:00
 -- url     : https://prove2.me/theorems/09942925-259b-4881-a39a-70dd7f589323

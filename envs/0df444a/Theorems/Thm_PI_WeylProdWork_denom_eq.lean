@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylProdWork_denom_eq
 -- name    : PI.WeylProdWork.denom_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:43:56.490625+00:00
 -- url     : https://prove2.me/theorems/ef98281c-65cc-5e85-975c-e8d2ed2f9db0

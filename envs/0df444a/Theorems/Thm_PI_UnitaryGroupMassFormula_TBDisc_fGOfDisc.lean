@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_TBDisc_fGOfDisc
 -- name    : PI.UnitaryGroupMassFormula.TBDisc.fGOfDisc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:12.608799+00:00
 -- url     : https://prove2.me/theorems/0a1d5a2a-e764-4a1e-aaf5-b54fecb426ef

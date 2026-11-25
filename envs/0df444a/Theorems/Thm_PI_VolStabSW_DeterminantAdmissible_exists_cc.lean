@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_DeterminantAdmissible_exists_cc
 -- name    : PI.VolStabSW.DeterminantAdmissible.exists_cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:44:06.868022+00:00
 -- url     : https://prove2.me/theorems/09163963-a599-4d60-b6f3-65a97a3b98b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_gnFacts
 -- name    : PI.PolynomialProperness.gnFacts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:17:40.006316+00:00
 -- url     : https://prove2.me/theorems/0878a391-779f-439b-8ddd-d82612ccc6f5

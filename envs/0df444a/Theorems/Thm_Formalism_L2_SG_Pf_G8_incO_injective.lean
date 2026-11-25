@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G8_incO_injective
 -- name    : Formalism.L2.SG.Pf.G8.incO_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:46:37.765797+00:00
 -- url     : https://prove2.me/theorems/34bf4595-950a-5353-9400-9067d83cd3e4

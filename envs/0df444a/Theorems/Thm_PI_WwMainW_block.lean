@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwMainW_block
 -- name    : PI.WwMainW.block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:46:00.666273+00:00
 -- url     : https://prove2.me/theorems/1d76ea62-283e-5c8f-9a81-9253ee1ad24d

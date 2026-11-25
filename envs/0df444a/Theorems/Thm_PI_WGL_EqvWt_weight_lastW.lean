@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_EqvWt_weight_lastW
 -- name    : PI.WGL.EqvWt.weight_lastW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:47:40.86506+00:00
 -- url     : https://prove2.me/theorems/b09a77d3-d9c7-4e96-ad39-ad395a1583eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_io_natW_cast
 -- name    : PI.WGL.io_natW_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:04:10.040618+00:00
 -- url     : https://prove2.me/theorems/75561668-9fea-4a97-a873-d01527ccc9bd

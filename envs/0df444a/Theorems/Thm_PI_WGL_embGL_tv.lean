@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_embGL_tv
 -- name    : PI.WGL.embGL_tv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:43:52.674484+00:00
 -- url     : https://prove2.me/theorems/47d80885-cd8c-575d-986c-a1e687d3fff9

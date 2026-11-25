@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_embGL_gStarB
 -- name    : PI.WGB.embGL_gStarB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:46:48.40172+00:00
 -- url     : https://prove2.me/theorems/8aba520d-5f8d-4de5-baba-7bbd4c61ef52

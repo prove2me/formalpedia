@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_elemGL_apply_A
 -- name    : PI.WGB.elemGL_apply_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:58:35.46367+00:00
 -- url     : https://prove2.me/theorems/6fc455cf-be6c-5ef8-b7e8-06a99d05ec77

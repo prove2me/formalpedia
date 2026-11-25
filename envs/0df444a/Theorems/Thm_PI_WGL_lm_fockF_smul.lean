@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_lm_fockF_smul
 -- name    : PI.WGL.lm_fockF_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:02:30.42707+00:00
 -- url     : https://prove2.me/theorems/f7418599-8dcc-523e-ab16-8643e02fbf8e

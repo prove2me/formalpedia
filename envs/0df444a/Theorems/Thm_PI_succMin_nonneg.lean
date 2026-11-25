@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_succMin_nonneg
 -- name    : PI.succMin_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:46:33.828016+00:00
 -- url     : https://prove2.me/theorems/d5bef231-8a99-4779-9b98-68845dd93faf

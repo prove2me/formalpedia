@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_nablaSq_le_of_gen
 -- name    : PI.WGL.nablaSq_le_of_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:47:16.667847+00:00
 -- url     : https://prove2.me/theorems/34dbfaa2-6c8e-4bf4-9106-5ce81118fb8b

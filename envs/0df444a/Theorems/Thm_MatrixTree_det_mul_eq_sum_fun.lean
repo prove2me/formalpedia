@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTree_det_mul_eq_sum_fun
 -- name    : MatrixTree.det_mul_eq_sum_fun
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T11:01:02.963087+00:00
 -- url     : https://prove2.me/theorems/dfd3c3f0-69ed-54db-ad13-184b512c983d

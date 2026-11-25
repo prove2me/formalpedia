@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Gen_eq_zero_of_mem_lowDeg_zero
 -- name    : PI.WickFormula.Gen.eq_zero_of_mem_lowDeg_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:45:21.227621+00:00
 -- url     : https://prove2.me/theorems/781d09d6-01ce-5ff8-a2e1-f802dcc69c20

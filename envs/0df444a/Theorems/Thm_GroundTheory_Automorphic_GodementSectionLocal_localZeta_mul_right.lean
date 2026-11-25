@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_localZeta_mul_right
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.localZeta_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:51:54.507187+00:00
 -- url     : https://prove2.me/theorems/bccbaa12-66ba-59c7-bbaa-bb9e1767e34d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_iotaC_one
 -- name    : PI.WGB.iotaC_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:45:22.624884+00:00
 -- url     : https://prove2.me/theorems/e09f9642-b29d-45c9-b4b8-180eb808420e

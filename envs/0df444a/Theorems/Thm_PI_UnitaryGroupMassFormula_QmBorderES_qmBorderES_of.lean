@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmBorderES_qmBorderES_of
 -- name    : PI.UnitaryGroupMassFormula.QmBorderES.qmBorderES_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:40:06.193488+00:00
 -- url     : https://prove2.me/theorems/6c9e041c-932c-59e7-9933-657103dbdf8c

@@ -1,0 +1,41 @@
+-- Prove2me | solution 1 for unitary_approximation_finite
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-25T11:10:55.132867+00:00
+-- url     : https://prove2.me/submissions/b2eea8c9-fccd-4938-be84-a176a42f6d19
+
+import Mathlib
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryApprox
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryApproxFin
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryApproximation_TopStep
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryApproximation_Assembly
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryApproximation_ApproxE
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryApproximation_WeakApproximationFiniteUnitary
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryApproximation_BoundedRationalUnitary
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryApproximation_UnitaryScalars
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryApproximation_EigenvalueAvoidance
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_UnitaryApproxFin
+import Theorems.Thm_PI_UnitaryApproxFinWork_approxEStep
+import Theorems.Thm_PI_UnitaryApproxFinWork_bounded_rational_unitary
+import Theorems.Thm_PI_UnitaryApproxFinWork_cayleyStep
+import Theorems.Thm_PI_UnitaryApproxFinWork_eigenvalue_avoidance
+import Theorems.Thm_PI_UnitaryApproxFinWork_topStep
+import Theorems.Thm_PI_UnitaryApproxFinWork_unitaryApproxFin_of
+import Theorems.Thm_PI_UnitaryApproxFinWork_unitary_scalars
+import Theorems.Thm_PI_UnitaryApproxFinWork_weak_approximation_finite_unitary
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+
+theorem _root_.solution : PI.UnitaryApproxFin.UnitaryApproxFin :=
+  PI.UnitaryApproxFinWork.unitaryApproxFin_of PI.UnitaryApproxFinWork.topStep
+    PI.UnitaryApproxFinWork.cayleyStep PI.UnitaryApproxFinWork.approxEStep
+    PI.UnitaryApproxFinWork.weak_approximation_finite_unitary PI.UnitaryApproxFinWork.bounded_rational_unitary
+    PI.UnitaryApproxFinWork.unitary_scalars PI.UnitaryApproxFinWork.eigenvalue_avoidance

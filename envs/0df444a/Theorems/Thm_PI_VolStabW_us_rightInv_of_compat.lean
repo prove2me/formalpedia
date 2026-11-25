@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_us_rightInv_of_compat
 -- name    : PI.VolStabW.us_rightInv_of_compat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:55:57.245204+00:00
 -- url     : https://prove2.me/theorems/42344b88-3550-5401-8fbc-313015cf2903

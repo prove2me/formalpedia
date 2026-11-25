@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Adj_embGL_gStar
 -- name    : PI.WGL.Adj.embGL_gStar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:47:01.694278+00:00
 -- url     : https://prove2.me/theorems/18a7e199-568b-4e5a-9326-67fddf3eda51

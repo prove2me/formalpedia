@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_GrothendieckCommutativity_lie_wR
 -- name    : PI.UnitaryGroupMassFormula.UsCost.GrothendieckCommutativity.lie_wR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:04:51.807327+00:00
 -- url     : https://prove2.me/theorems/a7ebec05-f0fb-41bf-b0ad-a0cdbda5c823

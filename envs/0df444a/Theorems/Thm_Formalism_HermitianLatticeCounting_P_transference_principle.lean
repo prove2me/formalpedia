@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_transference_principle
 -- name    : Formalism.HermitianLatticeCounting.P.transference_principle
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:44.78929+00:00
 -- url     : https://prove2.me/theorems/ab96069b-19ca-43af-acae-62ef95db1b7c

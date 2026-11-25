@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_Cpt_intC_single
 -- name    : PI.WAU.Cpt.intC_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:45:33.919684+00:00
 -- url     : https://prove2.me/theorems/aa442bb7-fe9c-48ea-9503-f1a0a7bfb2f1

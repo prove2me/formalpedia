@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiB_initMinor_ne
 -- name    : PI.WGL.XiB.initMinor_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:45:49.374823+00:00
 -- url     : https://prove2.me/theorems/2ebe22f8-784d-414f-9bff-8cab8103703e

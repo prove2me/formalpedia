@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_exists_coord_sub
 -- name    : PI.VolStabW.exists_coord_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:43:10.051306+00:00
 -- url     : https://prove2.me/theorems/cc119863-afa5-4541-ab0b-8986860a49e7

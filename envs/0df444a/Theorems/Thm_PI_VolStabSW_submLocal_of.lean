@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_submLocal_of
 -- name    : PI.VolStabSW.submLocal_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:38:19.712186+00:00
 -- url     : https://prove2.me/theorems/d916ebb6-95d1-5ce7-a8e6-e38ee000ae5a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_exists_sub_osc
 -- name    : PI.VolStabW.exists_sub_osc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:44:50.047049+00:00
 -- url     : https://prove2.me/theorems/03a896d1-ff9f-443b-b351-9e4797088385

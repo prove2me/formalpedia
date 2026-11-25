@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_glRel_shift
 -- name    : PI.WGL.glRel_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:54:57.110896+00:00
 -- url     : https://prove2.me/theorems/af2ea658-7107-5540-bf42-1d6f74c8a3ef

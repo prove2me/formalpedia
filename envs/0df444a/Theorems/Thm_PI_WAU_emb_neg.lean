@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_emb_neg
 -- name    : PI.WAU.emb_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:44:56.726651+00:00
 -- url     : https://prove2.me/theorems/ae2d7e11-06f2-592a-8513-58a71239c453

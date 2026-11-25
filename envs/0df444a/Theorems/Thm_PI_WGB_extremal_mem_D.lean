@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_extremal_mem_D
 -- name    : PI.WGB.extremal_mem_D
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:57:46.139998+00:00
 -- url     : https://prove2.me/theorems/c7f5be91-3efe-40da-a16d-414c4eee7aad

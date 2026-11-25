@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DeterminantAdmissible_isSB_locBox
 -- name    : PI.VolStabW.DeterminantAdmissible.isSB_locBox
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:44:13.186853+00:00
 -- url     : https://prove2.me/theorems/bd4e92e9-81c1-4721-bd92-b52a21ec756c

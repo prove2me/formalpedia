@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_hmk_int
 -- name    : PIW.AdelClassFin.hmk_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:48:12.668902+00:00
 -- url     : https://prove2.me/theorems/88af7ce6-5bfb-4b31-849d-37da33e6fe5b

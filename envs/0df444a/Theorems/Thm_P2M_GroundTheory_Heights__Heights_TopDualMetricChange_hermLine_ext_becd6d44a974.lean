@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TopDualMetricChange_hermLine_ext_becd6d44a974
 -- name    : P2M_GroundTheory_Heights__Heights_TopDualMetricChange_hermLine_ext_becd6d44a974
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:57:46.744803+00:00
 -- url     : https://prove2.me/theorems/40cade6d-3e9f-5da6-b148-82e303e3a32e

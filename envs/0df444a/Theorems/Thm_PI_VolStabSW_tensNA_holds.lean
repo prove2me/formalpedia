@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_tensNA_holds
 -- name    : PI.VolStabSW.tensNA_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:52:03.015589+00:00
 -- url     : https://prove2.me/theorems/76aec47c-fc29-4806-9ad7-9743dbc73204

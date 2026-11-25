@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NMeasInv_UnitaryGroupMassFormula_isCompact_Cmat
 -- name    : PI.NMeasInv.UnitaryGroupMassFormula.isCompact_Cmat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:03:38.001635+00:00
 -- url     : https://prove2.me/theorems/9644cbcf-80b5-49fd-8aea-052370195a56

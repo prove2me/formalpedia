@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_add_pow_smul
 -- name    : PI.WickFormula.add_pow_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:47:05.015859+00:00
 -- url     : https://prove2.me/theorems/69acee4f-c972-41d3-8410-f462f1399fa4

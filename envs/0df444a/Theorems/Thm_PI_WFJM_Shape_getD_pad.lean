@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_Shape_getD_pad
 -- name    : PI.WFJM.Shape.getD_pad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:44:04.940383+00:00
 -- url     : https://prove2.me/theorems/110d8a58-302c-47d8-8c90-0551c977b6b5

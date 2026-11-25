@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_toM_mkU
 -- name    : PIW.HCFdeg.toM_mkU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:48:00.83228+00:00
 -- url     : https://prove2.me/theorems/b88c7354-0407-410e-914b-e8f575a22eeb

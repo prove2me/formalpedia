@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiT_semi_gen
 -- name    : PI.LevelKSplit.W.SemiT.semi_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:09:18.928111+00:00
 -- url     : https://prove2.me/theorems/1ed611aa-7c31-4911-8098-4bf86858e678

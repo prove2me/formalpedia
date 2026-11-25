@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictGen_natCast_cancel
 -- name    : PIW.AdelClassFin.DictGen.natCast_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:50:30.489814+00:00
 -- url     : https://prove2.me/theorems/422ad011-c63f-500b-9792-6e42e7eb7c92

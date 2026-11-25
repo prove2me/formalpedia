@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_primesOver_finite
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.primesOver_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:42:54.277314+00:00
 -- url     : https://prove2.me/theorems/b265c8e1-2d67-4da4-a4b1-45ba9bad4b7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_EqvWt_rowAct_diagonal
 -- name    : PI.WGL.EqvWt.rowAct_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:45:20.317185+00:00
 -- url     : https://prove2.me/theorems/e7496d85-57ea-438b-9d50-11d71af2954a

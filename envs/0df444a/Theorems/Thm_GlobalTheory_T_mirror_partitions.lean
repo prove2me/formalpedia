@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mirror_partitions
 -- name    : GlobalTheory.T.mirror_partitions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:53:00.896973+00:00
 -- url     : https://prove2.me/theorems/25786723-38ea-41ac-a6ef-f987ca2c9b42

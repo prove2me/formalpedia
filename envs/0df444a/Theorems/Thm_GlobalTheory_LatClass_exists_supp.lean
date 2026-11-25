@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_exists_supp
 -- name    : GlobalTheory.LatClass.exists_supp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:01:41.158819+00:00
 -- url     : https://prove2.me/theorems/d2e2f508-9d08-41c7-be48-4cb02ee08af9

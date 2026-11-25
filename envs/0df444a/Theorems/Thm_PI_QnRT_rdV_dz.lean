@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_rdV_dz
 -- name    : PI.QnRT.rdV_dz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:20:06.454659+00:00
 -- url     : https://prove2.me/theorems/2f47ee24-50cf-4ac6-9128-55829a4ad9ab

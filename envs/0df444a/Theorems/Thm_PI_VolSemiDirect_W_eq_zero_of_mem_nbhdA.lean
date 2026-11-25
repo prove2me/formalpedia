@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_eq_zero_of_mem_nbhdA
 -- name    : PI.VolSemiDirect.W.eq_zero_of_mem_nbhdA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:36:34.796401+00:00
 -- url     : https://prove2.me/theorems/a1d26781-ec1b-4f66-82d5-29756ed113ab

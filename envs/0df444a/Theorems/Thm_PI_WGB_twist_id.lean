@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_twist_id
 -- name    : PI.WGB.twist_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:46:58.031259+00:00
 -- url     : https://prove2.me/theorems/dcdcc54e-6e2b-426f-ae5d-38fcd5638c53

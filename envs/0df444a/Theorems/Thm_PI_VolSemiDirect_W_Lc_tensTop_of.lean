@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Lc_tensTop_of
 -- name    : PI.VolSemiDirect.W.Lc.tensTop_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:36:11.691749+00:00
 -- url     : https://prove2.me/theorems/c6b366d3-0f46-4cb5-8336-66e72a6d174a

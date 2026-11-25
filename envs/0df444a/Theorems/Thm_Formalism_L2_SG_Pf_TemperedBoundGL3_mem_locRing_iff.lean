@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_TemperedBoundGL3_mem_locRing_iff
 -- name    : Formalism.L2.SG.Pf.TemperedBoundGL3.mem_locRing_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:49:17.737181+00:00
 -- url     : https://prove2.me/theorems/2b943fb1-4e31-455d-b8d0-f7f8ebc9a2a6

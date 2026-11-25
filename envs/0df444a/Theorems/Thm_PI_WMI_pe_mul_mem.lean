@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_pe_mul_mem
 -- name    : PI.WMI.pe_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:48:08.615805+00:00
 -- url     : https://prove2.me/theorems/cb20b2ff-68c7-4f9c-8aed-e9a8e86ad984

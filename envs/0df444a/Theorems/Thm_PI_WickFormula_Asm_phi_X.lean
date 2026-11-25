@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Asm_phi_X
 -- name    : PI.WickFormula.Asm.phi_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:43:54.428906+00:00
 -- url     : https://prove2.me/theorems/428f8731-7ebc-535b-b3d0-7d2d77a481b6

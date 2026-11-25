@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_dw_scale
 -- name    : PI.UnitaryGroupMassFormula.UsCost.dw_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:51:38.088597+00:00
 -- url     : https://prove2.me/theorems/a6a1dae1-2745-590d-8c7f-ba08d4e1ea6e

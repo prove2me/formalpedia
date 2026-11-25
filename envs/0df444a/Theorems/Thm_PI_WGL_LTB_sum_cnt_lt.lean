@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTB_sum_cnt_lt
 -- name    : PI.WGL.LTB.sum_cnt_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:44:14.54779+00:00
 -- url     : https://prove2.me/theorems/1e656d18-d4ef-4bc4-a86b-a6ce69d096b5

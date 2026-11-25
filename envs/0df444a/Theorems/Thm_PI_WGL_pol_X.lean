@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_pol_X
 -- name    : PI.WGL.pol_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:47:14.42631+00:00
 -- url     : https://prove2.me/theorems/97b83c90-9e35-4ba5-b6dd-11b8907b027b

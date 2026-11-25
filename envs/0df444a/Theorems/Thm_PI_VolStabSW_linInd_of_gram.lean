@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_linInd_of_gram
 -- name    : PI.VolStabSW.linInd_of_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:45:01.241991+00:00
 -- url     : https://prove2.me/theorems/37d8d902-c2da-42e1-8995-15dcb4e09d79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Adj_nf_self_im
 -- name    : PI.WGL.Adj.nf_self_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:48:56.510414+00:00
 -- url     : https://prove2.me/theorems/d077fd2d-7bf1-425e-a31c-10d0506490f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_VolAAW_pairA_nsmul0
 -- name    : PI.VolStabSW.VolAAW.pairA_nsmul0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:04:57.901829+00:00
 -- url     : https://prove2.me/theorems/3ae1c08c-77f6-46f4-88f0-7fabf954088a

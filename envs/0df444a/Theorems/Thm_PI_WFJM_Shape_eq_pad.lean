@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_Shape_eq_pad
 -- name    : PI.WFJM.Shape.eq_pad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:44:15.275791+00:00
 -- url     : https://prove2.me/theorems/bf28efa2-57b1-4ea4-b8d2-c55d2227f607

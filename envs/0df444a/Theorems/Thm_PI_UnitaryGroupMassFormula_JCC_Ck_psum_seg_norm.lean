@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_JCC_Ck_psum_seg_norm
 -- name    : PI.UnitaryGroupMassFormula.JCC.Ck.psum_seg_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:11:37.163021+00:00
 -- url     : https://prove2.me/theorems/f567547c-ce80-5710-abc5-0dce897d3e0a

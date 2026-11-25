@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_inR_pow
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.inR_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:48:54.223901+00:00
 -- url     : https://prove2.me/theorems/e5258300-37dc-4c2a-8121-c8935ee1b039

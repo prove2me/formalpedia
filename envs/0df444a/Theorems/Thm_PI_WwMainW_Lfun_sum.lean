@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwMainW_Lfun_sum
 -- name    : PI.WwMainW.Lfun_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:45:52.727819+00:00
 -- url     : https://prove2.me/theorems/75dfdbaa-9a44-49bf-93d6-579447046495

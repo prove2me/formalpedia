@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelicOrbitU_local_sum
 -- name    : PIW.AdelicOrbitU.local_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:49:04.993814+00:00
 -- url     : https://prove2.me/theorems/a120b463-5398-4abb-839e-3656aca2b1d0

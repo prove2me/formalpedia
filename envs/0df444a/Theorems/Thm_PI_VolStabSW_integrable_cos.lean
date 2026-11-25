@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_integrable_cos
 -- name    : PI.VolStabSW.integrable_cos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:42:12.588823+00:00
 -- url     : https://prove2.me/theorems/abb34cfa-8755-40bf-b34f-7ed9f6823273

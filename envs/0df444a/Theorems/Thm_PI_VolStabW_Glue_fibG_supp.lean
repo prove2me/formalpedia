@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_Glue_fibG_supp
 -- name    : PI.VolStabW.Glue.fibG_supp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:44:06.320872+00:00
 -- url     : https://prove2.me/theorems/98ab1f95-9ffd-4ec6-9d8a-30348b833cbb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ENSpec_gmap_surjective
 -- name    : PIW.ENSpec.gmap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:01.442687+00:00
 -- url     : https://prove2.me/theorems/4b1abef2-f449-417d-9db5-27d77711fe78

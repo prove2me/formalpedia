@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_pol_mul
 -- name    : PI.WGL.pol_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:46:52.623511+00:00
 -- url     : https://prove2.me/theorems/2d00d4fd-0062-4775-bc99-3265cd5c660d

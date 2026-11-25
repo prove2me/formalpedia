@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WfSubstProof_coeff_map_mem
 -- name    : PI.WfSubstProof.coeff_map_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:59:03.580979+00:00
 -- url     : https://prove2.me/theorems/dab5bf6d-3db2-5c51-97f6-7c98c115529e

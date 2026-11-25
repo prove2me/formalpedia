@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G9_gmap_cutW
 -- name    : Formalism.L2.SG.Pf.G9.gmap_cutW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:26:37.708622+00:00
 -- url     : https://prove2.me/theorems/5b71faa3-fdf6-578b-b269-e31eb0e60d98

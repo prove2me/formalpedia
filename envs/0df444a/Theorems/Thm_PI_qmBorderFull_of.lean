@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_qmBorderFull_of
 -- name    : PI.qmBorderFull_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:47:42.589589+00:00
 -- url     : https://prove2.me/theorems/fa927f04-d4f2-4d8c-a6cb-ba360ff7e572

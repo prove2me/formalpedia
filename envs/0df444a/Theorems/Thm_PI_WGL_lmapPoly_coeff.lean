@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_lmapPoly_coeff
 -- name    : PI.WGL.lmapPoly_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:46:55.605023+00:00
 -- url     : https://prove2.me/theorems/3635c686-29c7-41a9-8d5b-f640b9013091

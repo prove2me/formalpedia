@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_cr_rowAct_one
 -- name    : PI.WSF.cr_rowAct_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:50:25.168796+00:00
 -- url     : https://prove2.me/theorems/2a93b80e-f806-51a6-ac58-dff8218cde94

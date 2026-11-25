@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_Glue_extZ_restr
 -- name    : PI.VolStabSW.Glue.extZ_restr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:38:49.488975+00:00
 -- url     : https://prove2.me/theorems/6a1b5b63-54c9-546f-8770-f0aceb4fe289

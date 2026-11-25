@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6SmallBlockTokenCapacity_TokenRun_initial_rank_lt_after
 -- name    : F6SmallBlockTokenCapacity.TokenRun.initial_rank_lt_after
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:28:06.305341+00:00
 -- url     : https://prove2.me/theorems/63e6fd21-a5f5-591d-aef4-f35bcdeda41d

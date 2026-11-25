@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_stepA_apply
 -- name    : PI.WGB.stepA_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:45:05.268468+00:00
 -- url     : https://prove2.me/theorems/ba10634f-5a93-475b-a770-1a0e077e9a4b

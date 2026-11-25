@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_VolAAW_vol_one_of_ann
 -- name    : PI.VolStabW.VolAAW.vol_one_of_ann
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:54:03.584045+00:00
 -- url     : https://prove2.me/theorems/36a9b8a3-bf8a-544c-a878-13ef332d590b

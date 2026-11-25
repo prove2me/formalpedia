@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_minusPart1_expand
 -- name    : PI.WFJM.minusPart1_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:44:22.247646+00:00
 -- url     : https://prove2.me/theorems/4d7f4b25-5638-42f8-9619-fe16b9467067

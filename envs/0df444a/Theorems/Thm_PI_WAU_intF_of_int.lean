@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_intF_of_int
 -- name    : PI.WAU.intF_of_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:42:29.767394+00:00
 -- url     : https://prove2.me/theorems/769ed755-3813-5136-b3d5-b0c888afc702

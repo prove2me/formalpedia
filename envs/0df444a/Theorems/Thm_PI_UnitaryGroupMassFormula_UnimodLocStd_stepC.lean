@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_stepC
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.stepC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:41:07.172798+00:00
 -- url     : https://prove2.me/theorems/7d4bc046-98bd-4fcc-ad4b-ccada17f4d03

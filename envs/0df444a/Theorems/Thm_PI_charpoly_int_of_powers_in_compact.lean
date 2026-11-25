@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_charpoly_int_of_powers_in_compact
 -- name    : PI.charpoly_int_of_powers_in_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:46:44.721167+00:00
 -- url     : https://prove2.me/theorems/69594063-9d1c-4cf0-8508-d4881722b550

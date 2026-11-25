@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdTestInfW_testEx_kernel
 -- name    : PI.VolStabW.SdTestInfW.testEx_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:40:32.450275+00:00
 -- url     : https://prove2.me/theorems/75ee27dd-f3f0-4585-8ad3-6c7d81e0936f

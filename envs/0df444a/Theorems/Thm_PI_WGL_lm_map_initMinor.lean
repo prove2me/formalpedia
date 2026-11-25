@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_lm_map_initMinor
 -- name    : PI.WGL.lm_map_initMinor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:55:28.406809+00:00
 -- url     : https://prove2.me/theorems/c35ac08a-2fd4-597d-a5d4-fed55ca11096

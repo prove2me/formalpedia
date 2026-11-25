@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_intA_zero
 -- name    : PI.VolStabW.intA_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:46:50.799666+00:00
 -- url     : https://prove2.me/theorems/1d410819-0b78-474c-8937-355a754f23b7

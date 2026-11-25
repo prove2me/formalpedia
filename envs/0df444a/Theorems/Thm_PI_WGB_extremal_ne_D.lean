@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_extremal_ne_D
 -- name    : PI.WGB.extremal_ne_D
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:45:40.365474+00:00
 -- url     : https://prove2.me/theorems/71b06135-24c5-4454-96d8-15888e9fa679

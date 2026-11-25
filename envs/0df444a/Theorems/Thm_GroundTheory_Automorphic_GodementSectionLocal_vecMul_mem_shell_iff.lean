@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_vecMul_mem_shell_iff
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.vecMul_mem_shell_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:34:55.232281+00:00
 -- url     : https://prove2.me/theorems/15404c1d-978d-5380-a564-e54dce2affb6

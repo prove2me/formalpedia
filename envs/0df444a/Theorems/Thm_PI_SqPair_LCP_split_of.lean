@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_split_of
 -- name    : PI.SqPair.LCP.split_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:31:27.97293+00:00
 -- url     : https://prove2.me/theorems/26ab7539-b9e8-4bb0-8cec-612003ebd0fc

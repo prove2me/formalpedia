@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DeterminantAdmissible_open_eq_sUnion
 -- name    : PI.VolStabW.DeterminantAdmissible.open_eq_sUnion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:43:34.941956+00:00
 -- url     : https://prove2.me/theorems/90fd4049-e5f1-4c9b-90d7-0770f85d53e8

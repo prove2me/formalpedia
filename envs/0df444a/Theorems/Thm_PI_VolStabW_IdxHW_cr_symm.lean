@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_IdxHW_cr_symm
 -- name    : PI.VolStabW.IdxHW.cr_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:55:01.744276+00:00
 -- url     : https://prove2.me/theorems/c227d839-4b0d-52a7-8686-72d8993f4895

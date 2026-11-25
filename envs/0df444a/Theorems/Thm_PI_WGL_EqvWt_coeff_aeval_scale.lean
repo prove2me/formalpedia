@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_EqvWt_coeff_aeval_scale
 -- name    : PI.WGL.EqvWt.coeff_aeval_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:46:52.8758+00:00
 -- url     : https://prove2.me/theorems/843bcbef-417b-4d81-aca1-34ef1458096e

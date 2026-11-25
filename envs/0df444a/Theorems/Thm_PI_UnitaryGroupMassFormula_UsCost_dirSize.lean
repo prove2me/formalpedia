@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_dirSize
 -- name    : PI.UnitaryGroupMassFormula.UsCost.dirSize
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:43:48.240957+00:00
 -- url     : https://prove2.me/theorems/9f4b7399-6061-512e-9efe-bec061d3bbea

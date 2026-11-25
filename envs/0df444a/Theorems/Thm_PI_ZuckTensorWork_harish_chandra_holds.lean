@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_harish_chandra_holds
 -- name    : PI.ZuckTensorWork.harish_chandra_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:47:33.289894+00:00
 -- url     : https://prove2.me/theorems/2bfe59f4-f2c6-5a24-814c-5d2edb0ad168

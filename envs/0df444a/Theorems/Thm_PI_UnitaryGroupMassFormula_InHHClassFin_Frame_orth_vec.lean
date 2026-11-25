@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_InHHClassFin_Frame_orth_vec
 -- name    : PI.UnitaryGroupMassFormula.InHHClassFin.Frame.orth_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:05:56.353981+00:00
 -- url     : https://prove2.me/theorems/98b9702f-35b1-4e76-babe-f2cd2545c442

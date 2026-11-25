@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_InHHClassFin_fr_real_emb
 -- name    : PI.UnitaryGroupMassFormula.InHHClassFin.fr_real_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:41:43.994168+00:00
 -- url     : https://prove2.me/theorems/a8122414-5ec3-4129-851f-4498edf5cfea

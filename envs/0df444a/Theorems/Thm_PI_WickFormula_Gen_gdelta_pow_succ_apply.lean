@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Gen_gdelta_pow_succ_apply
 -- name    : PI.WickFormula.Gen.gdelta_pow_succ_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:45:14.188482+00:00
 -- url     : https://prove2.me/theorems/48564541-721b-5b94-9ee3-a47671470c82

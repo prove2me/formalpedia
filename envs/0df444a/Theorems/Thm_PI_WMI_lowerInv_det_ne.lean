@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_lowerInv_det_ne
 -- name    : PI.WMI.lowerInv_det_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:48:48.988566+00:00
 -- url     : https://prove2.me/theorems/07dc41d5-e0af-4613-8741-68de25305fc0

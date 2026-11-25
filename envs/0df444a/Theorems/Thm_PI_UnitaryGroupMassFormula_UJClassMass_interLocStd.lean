@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_interLocStd
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.interLocStd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:43:07.755067+00:00
 -- url     : https://prove2.me/theorems/757e37aa-1de5-428d-a8f2-570d923d9bc6

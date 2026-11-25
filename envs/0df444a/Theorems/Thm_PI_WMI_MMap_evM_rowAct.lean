@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_MMap_evM_rowAct
 -- name    : PI.WMI.MMap.evM_rowAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:11.961793+00:00
 -- url     : https://prove2.me/theorems/528edcd2-93e5-4d9c-9203-c842cd235f14

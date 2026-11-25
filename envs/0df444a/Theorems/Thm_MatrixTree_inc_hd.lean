@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTree_inc_hd
 -- name    : MatrixTree.inc_hd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:56:14.481696+00:00
 -- url     : https://prove2.me/theorems/160fcede-35ee-4728-95e9-8b8e75832f4b

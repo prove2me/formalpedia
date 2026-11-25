@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeilQuotMeas_UnitaryGroupMassFormula_stepInvInv
 -- name    : PI.WeilQuotMeas.UnitaryGroupMassFormula.stepInvInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:44:47.065977+00:00
 -- url     : https://prove2.me/theorems/44862ff5-f10c-5ec3-aca9-4725748a1a56

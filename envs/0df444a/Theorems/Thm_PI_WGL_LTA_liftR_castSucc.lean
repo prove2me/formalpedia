@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTA_liftR_castSucc
 -- name    : PI.WGL.LTA.liftR_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:46:09.18617+00:00
 -- url     : https://prove2.me/theorems/db698da3-9915-4911-b62f-144857d6bff0

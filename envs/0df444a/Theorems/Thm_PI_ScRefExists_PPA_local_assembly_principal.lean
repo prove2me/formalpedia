@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_PPA_local_assembly_principal
 -- name    : PI.ScRefExists.PPA.local_assembly_principal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:25:49.254616+00:00
 -- url     : https://prove2.me/theorems/05a8568b-e3a7-5ede-a171-1ef7607e3cb5

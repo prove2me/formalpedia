@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_cz_diag_unitary
 -- name    : PI.WSF.cz_diag_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:45:34.162571+00:00
 -- url     : https://prove2.me/theorems/3c64d6c4-e4a0-50cd-9701-95eab4c9d967

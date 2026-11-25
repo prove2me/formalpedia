@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DeterminantAdmissible_mem_upd
 -- name    : PI.VolStabW.DeterminantAdmissible.mem_upd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:46:48.521078+00:00
 -- url     : https://prove2.me/theorems/44cde79f-90e4-45ff-86b1-d800608a908d

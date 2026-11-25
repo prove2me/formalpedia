@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_DiaFixDim_Main_fixedDim
 -- name    : PI.UnitaryGroupMassFormula.DiaFixDim.Main.fixedDim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:38:49.641615+00:00
 -- url     : https://prove2.me/theorems/bfb4dee7-2250-483e-afd3-cd25afffe5e5

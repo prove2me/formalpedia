@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdDualW_pairHerm_iota
 -- name    : PI.VolStabW.SdDualW.pairHerm_iota
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:53:34.810081+00:00
 -- url     : https://prove2.me/theorems/35107360-843b-483f-b022-9bf1724d78c0

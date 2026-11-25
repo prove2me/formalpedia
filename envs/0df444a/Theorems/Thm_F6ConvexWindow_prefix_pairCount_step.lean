@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_prefix_pairCount_step
 -- name    : F6ConvexWindow.prefix_pairCount_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:21:31.939906+00:00
 -- url     : https://prove2.me/theorems/d8d5b2f3-60a7-5874-9796-3c1da118358f

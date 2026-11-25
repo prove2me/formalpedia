@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_EigenSumRepresentation_mem_nc_swap
 -- name    : PositivityTheory.CW.EigenSumRepresentation.mem_nc_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:50:03.690332+00:00
 -- url     : https://prove2.me/theorems/6caca32f-842f-418d-b794-59f522b9e804

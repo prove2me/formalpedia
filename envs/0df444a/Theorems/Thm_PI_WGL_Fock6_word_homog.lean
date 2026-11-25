@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Fock6_word_homog
 -- name    : PI.WGL.Fock6.word_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:58:12.496719+00:00
 -- url     : https://prove2.me/theorems/190e5210-1229-540c-b7e5-a1a12fed31a6

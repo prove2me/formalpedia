@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_letterSize
 -- name    : PI.UnitaryGroupMassFormula.UsCost.letterSize
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:36:08.861213+00:00
 -- url     : https://prove2.me/theorems/1e20e933-20c3-5906-bbf4-8d3201ea241c

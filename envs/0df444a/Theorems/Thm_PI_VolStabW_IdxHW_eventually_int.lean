@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_IdxHW_eventually_int
 -- name    : PI.VolStabW.IdxHW.eventually_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:46:56.299886+00:00
 -- url     : https://prove2.me/theorems/48c76b22-34e9-40c1-8a15-85919b30a3ca

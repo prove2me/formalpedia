@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_emb_add
 -- name    : PI.WAU.emb_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:44:15.034214+00:00
 -- url     : https://prove2.me/theorems/bb94cd19-f2f0-4e59-9b4c-cd2691705cfb

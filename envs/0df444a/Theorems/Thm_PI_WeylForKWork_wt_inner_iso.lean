@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_wt_inner_iso
 -- name    : PI.WeylForKWork.wt_inner_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:45:37.066997+00:00
 -- url     : https://prove2.me/theorems/9e60e1ef-1628-4060-803a-627025861f8f

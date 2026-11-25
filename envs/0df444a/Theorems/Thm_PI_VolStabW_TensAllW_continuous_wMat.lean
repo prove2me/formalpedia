@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_TensAllW_continuous_wMat
 -- name    : PI.VolStabW.TensAllW.continuous_wMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:40:53.09959+00:00
 -- url     : https://prove2.me/theorems/c8174c41-1a2c-4092-aabc-fe7cee29feed

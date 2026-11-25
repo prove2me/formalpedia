@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZW_gammaFactor_ne_zero_of_re_pos
 -- name    : PI.ZW.gammaFactor_ne_zero_of_re_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:46:25.150833+00:00
 -- url     : https://prove2.me/theorems/48dc6825-07e0-4a2d-a454-38da49604f47

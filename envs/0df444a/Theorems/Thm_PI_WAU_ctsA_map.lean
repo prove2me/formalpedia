@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_ctsA_map
 -- name    : PI.WAU.ctsA_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:42:31.3138+00:00
 -- url     : https://prove2.me/theorems/b4494804-e931-41dd-a509-7dcaa8de2d22

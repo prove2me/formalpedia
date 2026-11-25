@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnitDetRoot_stdLat_le_dual
 -- name    : PI.UnitaryGroupMassFormula.UnitDetRoot.stdLat_le_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:41:04.158544+00:00
 -- url     : https://prove2.me/theorems/abc8d4a2-085f-43da-aa23-3622a3f4b86c

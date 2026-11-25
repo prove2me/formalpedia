@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6RotationSupport_interval_orderConvex
 -- name    : F6RotationSupport.interval_orderConvex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:24:16.456474+00:00
 -- url     : https://prove2.me/theorems/8ac2108c-bbc7-5706-af2a-2adf1f203396

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_eval_lpMinor_top
 -- name    : PI.WGB.eval_lpMinor_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:45:42.150821+00:00
 -- url     : https://prove2.me/theorems/e0109abb-e177-433a-be50-2601562bae8f

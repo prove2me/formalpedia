@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_DeterminantAdmissible_isClopen_translate
 -- name    : PI.VolStabSW.DeterminantAdmissible.isClopen_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:45:17.962116+00:00
 -- url     : https://prove2.me/theorems/5b664cc2-8344-4691-99bc-1c3a253398cb

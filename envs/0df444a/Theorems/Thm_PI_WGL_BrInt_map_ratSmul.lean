@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_BrInt_map_ratSmul
 -- name    : PI.WGL.BrInt.map_ratSmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:02.515367+00:00
 -- url     : https://prove2.me/theorems/38aea49e-4d27-4007-b80c-e20c0382fdc7

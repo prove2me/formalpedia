@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HcInf_tau_derivative
 -- name    : HcInf.tau_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:19:33.581619+00:00
 -- url     : https://prove2.me/theorems/4969e5a7-7e1f-5fc6-a969-b1c578bc9353

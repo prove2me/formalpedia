@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_TopoNuFin_zero_mem_latV
 -- name    : PI.VolStabW.TopoNuFin.zero_mem_latV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:43:18.116114+00:00
 -- url     : https://prove2.me/theorems/d740aca5-ce54-5475-93a1-aaee63fefaa9

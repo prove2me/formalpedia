@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BallQuotLen_exists_unit_ord
 -- name    : PI.UnitaryGroupMassFormula.BallQuotLen.exists_unit_ord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:38:51.353397+00:00
 -- url     : https://prove2.me/theorems/84b91a1d-59ee-4aeb-b85c-1baac1bff97a

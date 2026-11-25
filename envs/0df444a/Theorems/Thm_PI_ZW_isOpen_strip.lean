@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZW_isOpen_strip
 -- name    : PI.ZW.isOpen_strip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:46:11.347803+00:00
 -- url     : https://prove2.me/theorems/dbf86f84-730f-53de-97b4-bf8a044969b0

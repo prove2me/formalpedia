@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_lattice_is_discrete_group
 -- name    : PI.UnitaryGroupMassFormula.LCG.lattice_is_discrete_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:50:21.066842+00:00
 -- url     : https://prove2.me/theorems/14ea889a-3651-585a-8e63-152e509449e1

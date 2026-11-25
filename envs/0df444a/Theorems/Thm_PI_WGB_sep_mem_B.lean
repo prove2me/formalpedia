@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_sep_mem_B
 -- name    : PI.WGB.sep_mem_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:45:37.93662+00:00
 -- url     : https://prove2.me/theorems/f7403d0b-e97a-4c32-87e9-ca257653ef12

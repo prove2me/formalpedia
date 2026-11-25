@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_um_D_subset
 -- name    : PI.VolStabSW.um_D_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:37:25.789916+00:00
 -- url     : https://prove2.me/theorems/3aefad9f-79d6-4fc9-900f-3b4715294b29

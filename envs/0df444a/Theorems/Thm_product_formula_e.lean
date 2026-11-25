@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_product_formula_e
 -- name    : product_formula_e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:24:47.667035+00:00
 -- url     : https://prove2.me/theorems/47d1b6f7-d211-4257-b904-8280d768674f

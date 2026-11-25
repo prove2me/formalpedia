@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6RotationSupport_support_subset_supportUnion
 -- name    : F6RotationSupport.support_subset_supportUnion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:22:36.80192+00:00
 -- url     : https://prove2.me/theorems/1caa40b3-6a96-5a91-9312-6482d516f736

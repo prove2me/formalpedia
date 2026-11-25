@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_SqInt_phiE_cont
 -- name    : PI.ZuckTensorWork.SqInt.phiE_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:46:56.30173+00:00
 -- url     : https://prove2.me/theorems/63735d4c-0089-4279-bfb1-2aa72153c04e

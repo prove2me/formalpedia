@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_chiB_zero
 -- name    : PI.WGB.chiB_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:52:12.28596+00:00
 -- url     : https://prove2.me/theorems/91756dcf-0a59-5829-94e8-cbe7c7febb0e

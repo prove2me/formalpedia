@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_ratMat_emb
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.ratMat_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:02:41.116603+00:00
 -- url     : https://prove2.me/theorems/8a07d7d0-915d-567a-b27d-7b67b6db10d4

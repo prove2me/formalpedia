@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_toTildeH_surjective_da8a6cc05bed
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_toTildeH_surjective_da8a6cc05bed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:35:52.719427+00:00
 -- url     : https://prove2.me/theorems/6917d5ea-b94c-5685-8d5e-deb8d51200ed

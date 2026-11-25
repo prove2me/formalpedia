@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ENSpec_free_homog
 -- name    : PIW.ENSpec.free_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:29.428601+00:00
 -- url     : https://prove2.me/theorems/d2c79893-f3bd-4cbb-9f22-d0597c1fca31

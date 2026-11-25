@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_numbers_dominant_large
 -- name    : PI.WGL.numbers_dominant_large
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:47:08.531804+00:00
 -- url     : https://prove2.me/theorems/3427c06a-025a-4008-b77b-adcbb63b6949

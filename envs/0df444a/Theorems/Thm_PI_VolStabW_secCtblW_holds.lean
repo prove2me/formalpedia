@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_secCtblW_holds
 -- name    : PI.VolStabW.secCtblW_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:44:11.61983+00:00
 -- url     : https://prove2.me/theorems/9c31b119-e2f4-4753-8c29-fee339192364

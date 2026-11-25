@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_OrbR_reflection_mulVec
 -- name    : PI.VolStabW.OrbR.reflection_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:37:59.060568+00:00
 -- url     : https://prove2.me/theorems/68f78f04-1552-4b1d-be36-aef1ad7be5c2

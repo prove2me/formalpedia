@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_RPA_hasProd_ind
 -- name    : PI.VolStabW.RPA.hasProd_ind
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:52:49.781801+00:00
 -- url     : https://prove2.me/theorems/ffe31b9f-9e9e-4874-907c-83cb6c2a4112

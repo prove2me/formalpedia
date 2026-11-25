@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_GrothendieckCommutativity_fderiv_apply_lin
 -- name    : PI.UnitaryGroupMassFormula.UsCost.GrothendieckCommutativity.fderiv_apply_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:04:02.316169+00:00
 -- url     : https://prove2.me/theorems/46637838-77d4-4418-a405-5371c3670f61

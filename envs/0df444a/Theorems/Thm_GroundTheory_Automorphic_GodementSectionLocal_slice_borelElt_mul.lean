@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_slice_borelElt_mul
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.slice_borelElt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:43:14.496797+00:00
 -- url     : https://prove2.me/theorems/271e8e68-4537-43f1-b6af-d1a69f39a5df

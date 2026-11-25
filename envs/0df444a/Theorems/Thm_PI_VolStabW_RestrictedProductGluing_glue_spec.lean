@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_RestrictedProductGluing_glue_spec
 -- name    : PI.VolStabW.RestrictedProductGluing.glue_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:49:06.846724+00:00
 -- url     : https://prove2.me/theorems/9aedae53-4a29-5115-9f8d-7c9c2dafefdd

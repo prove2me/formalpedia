@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTB_lif_std
 -- name    : PI.WGL.LTB.lif_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:46:47.269015+00:00
 -- url     : https://prove2.me/theorems/f5467ec1-ae8c-4b54-89bd-3e1f852f4887

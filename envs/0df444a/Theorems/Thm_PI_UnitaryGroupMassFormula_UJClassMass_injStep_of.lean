@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_injStep_of
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.injStep_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:04:40.000695+00:00
 -- url     : https://prove2.me/theorems/9f6c083a-ad6c-5d17-8ca2-71b09b5f69eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_MMap_aeval_scale_monomial
 -- name    : PI.WMI.MMap.aeval_scale_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:14.074483+00:00
 -- url     : https://prove2.me/theorems/3bdc8761-d59a-4f02-8887-e256ad1e00c0

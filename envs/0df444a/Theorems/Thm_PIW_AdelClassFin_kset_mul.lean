@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_kset_mul
 -- name    : PIW.AdelClassFin.kset_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:49:03.486721+00:00
 -- url     : https://prove2.me/theorems/a53d0736-f25c-4bc0-9b13-d1a35178c359

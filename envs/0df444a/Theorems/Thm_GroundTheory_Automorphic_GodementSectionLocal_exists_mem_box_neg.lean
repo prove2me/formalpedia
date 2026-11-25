@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_exists_mem_box_neg
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.exists_mem_box_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:51:51.050731+00:00
 -- url     : https://prove2.me/theorems/13bac128-30c7-4f01-bce1-b2068306595d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_nsmul_cancel
 -- name    : PI.WAU.B.nsmul_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:47:20.385174+00:00
 -- url     : https://prove2.me/theorems/54dfd42f-fd3b-4b79-ac74-409e22b70622

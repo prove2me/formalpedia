@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTree_det_submatrix_eq_zero_of_not_injective
 -- name    : MatrixTree.det_submatrix_eq_zero_of_not_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T11:01:14.913795+00:00
 -- url     : https://prove2.me/theorems/bc94f2fe-9b82-4e5e-bb9f-fc5d05d3787c

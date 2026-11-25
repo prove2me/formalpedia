@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_typeFrame_conj_symm_rowE_apply
 -- name    : GlobalTheory.typeFrame_conj_symm_rowE_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:09:04.386387+00:00
 -- url     : https://prove2.me/theorems/ea58e368-1ec5-4153-be3e-5f1a3f94fe4b

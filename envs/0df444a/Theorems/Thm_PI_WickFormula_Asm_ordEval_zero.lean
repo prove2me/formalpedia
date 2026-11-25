@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Asm_ordEval_zero
 -- name    : PI.WickFormula.Asm.ordEval_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:44:35.733102+00:00
 -- url     : https://prove2.me/theorems/98745611-2d64-4b2c-970e-30f2c00bf96f

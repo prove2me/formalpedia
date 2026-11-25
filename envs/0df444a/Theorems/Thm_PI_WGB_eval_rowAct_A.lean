@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_eval_rowAct_A
 -- name    : PI.WGB.eval_rowAct_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:46:09.657849+00:00
 -- url     : https://prove2.me/theorems/b1cd70b6-c5b8-4357-86f8-a54393755ee5

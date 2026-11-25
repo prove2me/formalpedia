@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTree_fromEdgeSet_adj_tl_hd
 -- name    : MatrixTree.fromEdgeSet_adj_tl_hd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:56:01.342138+00:00
 -- url     : https://prove2.me/theorems/c141b664-2c9a-5bb9-b5fb-d147466a3551

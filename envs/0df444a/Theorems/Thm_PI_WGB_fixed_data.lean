@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_fixed_data
 -- name    : PI.WGB.fixed_data
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:45:59.216712+00:00
 -- url     : https://prove2.me/theorems/2917ab2f-5e65-433e-8f72-7400f125c0b4

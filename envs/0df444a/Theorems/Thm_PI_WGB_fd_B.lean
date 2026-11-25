@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_fd_B
 -- name    : PI.WGB.fd_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:45:20.193137+00:00
 -- url     : https://prove2.me/theorems/d6df31a4-83a3-422c-9c84-3fc4b59deef4

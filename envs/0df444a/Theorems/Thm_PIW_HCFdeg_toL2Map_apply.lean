@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_toL2Map_apply
 -- name    : PIW.HCFdeg.toL2Map_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:47:20.990808+00:00
 -- url     : https://prove2.me/theorems/6be978fa-6503-437b-b81c-9a69bd6c3c23

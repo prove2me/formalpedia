@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Asm_factorial_smul
 -- name    : PI.WickFormula.Asm.factorial_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:44:19.499871+00:00
 -- url     : https://prove2.me/theorems/fff063c1-a363-4eb6-a4bb-97085d5f3cb8

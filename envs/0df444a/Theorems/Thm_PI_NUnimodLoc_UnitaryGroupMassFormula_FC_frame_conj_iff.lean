@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NUnimodLoc_UnitaryGroupMassFormula_FC_frame_conj_iff
 -- name    : PI.NUnimodLoc.UnitaryGroupMassFormula.FC.frame_conj_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:34:39.021189+00:00
 -- url     : https://prove2.me/theorems/582fec44-4786-45a0-95f1-e39fb7f7eb2d

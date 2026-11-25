@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryGroupMassFormula_TayInvPow_main__b5d589cc85a4
 -- name    : P2M_PI_UnitaryGroupMassFormula_TayInvPow_main__b5d589cc85a4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:12:24.574196+00:00
 -- url     : https://prove2.me/theorems/b1327740-56f3-43ad-b2bd-5319b1e66b87

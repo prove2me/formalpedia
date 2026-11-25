@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevZeroUp_simpleSum_upZero
 -- name    : GlobalTheory.LevZeroUp.simpleSum_upZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:24:27.16772+00:00
 -- url     : https://prove2.me/theorems/11e64f70-a142-5c92-928d-5e7d62779639

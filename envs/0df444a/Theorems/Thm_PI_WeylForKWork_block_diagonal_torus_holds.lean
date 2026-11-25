@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_block_diagonal_torus_holds
 -- name    : PI.WeylForKWork.block_diagonal_torus_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:50:33.299744+00:00
 -- url     : https://prove2.me/theorems/37f5621b-3885-46df-9711-932eef1c4aef

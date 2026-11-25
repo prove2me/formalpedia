@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_schurFock_of_steps
 -- name    : PI.WSF.schurFock_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:51:20.748826+00:00
 -- url     : https://prove2.me/theorems/8a62ae1d-9e2d-5e84-a622-8d7f5eeaa9c8

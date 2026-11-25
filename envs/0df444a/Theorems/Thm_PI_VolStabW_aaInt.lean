@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_aaInt
 -- name    : PI.VolStabW.aaInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:46:15.184216+00:00
 -- url     : https://prove2.me/theorems/032b4431-30a5-48a0-93dc-86a217d8fa8e

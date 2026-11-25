@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WHw_bC_rowGen_C
 -- name    : PI.WHw.bC_rowGen_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:47:12.606318+00:00
 -- url     : https://prove2.me/theorems/19f891b3-8e6b-49ed-afc2-3d99aaaa018f

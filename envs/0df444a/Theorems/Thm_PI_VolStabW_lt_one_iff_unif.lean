@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_lt_one_iff_unif
 -- name    : PI.VolStabW.lt_one_iff_unif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:44:47.643501+00:00
 -- url     : https://prove2.me/theorems/4a985f3e-7ca8-4a0c-858b-99dd45d3e0f9

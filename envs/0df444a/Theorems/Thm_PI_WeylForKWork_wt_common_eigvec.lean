@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_wt_common_eigvec
 -- name    : PI.WeylForKWork.wt_common_eigvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:47:30.969059+00:00
 -- url     : https://prove2.me/theorems/ede0f80f-35c2-542c-86e5-ad736fbd1e32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_TBDisc_fg_of_unifDiscrete
 -- name    : PI.UnitaryGroupMassFormula.TBDisc.fg_of_unifDiscrete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:16:28.138077+00:00
 -- url     : https://prove2.me/theorems/ea1d7b53-53ba-4437-bd84-e04fbc31ee32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CoreW_coef_bound
 -- name    : PI.PolynomialProperness.CoreW.coef_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:38:36.357564+00:00
 -- url     : https://prove2.me/theorems/2c4494ce-afd1-4c6c-8738-9589d4628318

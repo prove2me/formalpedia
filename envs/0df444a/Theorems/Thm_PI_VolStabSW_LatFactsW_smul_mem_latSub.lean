@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_LatFactsW_smul_mem_latSub
 -- name    : PI.VolStabSW.LatFactsW.smul_mem_latSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:43:24.134423+00:00
 -- url     : https://prove2.me/theorems/2e8a3a25-3a84-45bc-8d34-a01b4b46e910

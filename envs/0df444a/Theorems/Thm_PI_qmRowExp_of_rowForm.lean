@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_qmRowExp_of_rowForm
 -- name    : PI.qmRowExp_of_rowForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:47:30.294024+00:00
 -- url     : https://prove2.me/theorems/10042809-879f-4fb1-9a56-bce5ebb956fd

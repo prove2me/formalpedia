@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdTestInfW_freq_unique
 -- name    : PI.VolStabW.SdTestInfW.freq_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:46:12.236614+00:00
 -- url     : https://prove2.me/theorems/0733a466-36f8-53ef-b7c2-2472de315f22

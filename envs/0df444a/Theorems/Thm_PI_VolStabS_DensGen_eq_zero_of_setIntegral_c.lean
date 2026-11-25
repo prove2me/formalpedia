@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_DensGen_eq_zero_of_setIntegral_c
 -- name    : PI.VolStabS.DensGen.eq_zero_of_setIntegral_c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:37:57.943076+00:00
 -- url     : https://prove2.me/theorems/a02e5dd6-84a6-57ad-a2b2-f387363db86c

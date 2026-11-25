@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_triple_union_counts
 -- name    : F6ConvexWindow.triple_union_counts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:21:53.670052+00:00
 -- url     : https://prove2.me/theorems/bed88c85-31db-52e8-a252-843909c16054

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_cover_of
 -- name    : PI.WAU.B.cover_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:44:20.186519+00:00
 -- url     : https://prove2.me/theorems/b6cea313-7441-4287-b14a-1b38813162aa

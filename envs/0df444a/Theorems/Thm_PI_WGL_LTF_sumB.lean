@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTF_sumB
 -- name    : PI.WGL.LTF.sumB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:46:12.719833+00:00
 -- url     : https://prove2.me/theorems/b42a3d51-24c8-4764-891c-d463432bb53f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_locSplitP_dec
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.locSplitP_dec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:07:17.460488+00:00
 -- url     : https://prove2.me/theorems/a13b962d-5cf2-5dfc-b4ad-38108edfdff0

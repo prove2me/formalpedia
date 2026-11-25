@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Asm_dL_monomial_support
 -- name    : PI.WickFormula.Asm.dL_monomial_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:43:47.792863+00:00
 -- url     : https://prove2.me/theorems/17b03450-a161-5f27-87f4-12ac8b069569

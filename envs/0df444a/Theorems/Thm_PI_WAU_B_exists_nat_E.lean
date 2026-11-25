@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_exists_nat_E
 -- name    : PI.WAU.B.exists_nat_E
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:45:42.821879+00:00
 -- url     : https://prove2.me/theorems/7a12615d-caa0-43cc-80ff-2441bcb407cb

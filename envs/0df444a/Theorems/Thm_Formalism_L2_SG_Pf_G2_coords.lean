@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G2_coords
 -- name    : Formalism.L2.SG.Pf.G2.coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:31:53.414919+00:00
 -- url     : https://prove2.me/theorems/220213e6-5d49-5832-a649-c61d750b57c4

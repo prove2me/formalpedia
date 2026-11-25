@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_q_reflection_generation
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.q_reflection_generation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:39:41.553575+00:00
 -- url     : https://prove2.me/theorems/04d77d81-c026-420e-b2b5-e431a6c0b7cd

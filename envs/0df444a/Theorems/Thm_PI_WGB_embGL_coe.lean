@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_embGL_coe
 -- name    : PI.WGB.embGL_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:44:58.170798+00:00
 -- url     : https://prove2.me/theorems/9fc1ac4c-eb34-41a3-867f-2d23f64126af

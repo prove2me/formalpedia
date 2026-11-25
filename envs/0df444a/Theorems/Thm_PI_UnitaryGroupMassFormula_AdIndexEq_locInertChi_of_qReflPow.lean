@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_locInertChi_of_qReflPow
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.locInertChi_of_qReflPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:38:29.893394+00:00
 -- url     : https://prove2.me/theorems/6ec0c008-f377-47ee-a181-00c37a8b9390

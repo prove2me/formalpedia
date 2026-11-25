@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_MMap_evM_scale
 -- name    : PI.WMI.MMap.evM_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:49.26756+00:00
 -- url     : https://prove2.me/theorems/9c8a2400-225d-45d9-818b-40e44ead4e54

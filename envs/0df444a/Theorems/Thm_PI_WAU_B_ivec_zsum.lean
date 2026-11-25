@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_ivec_zsum
 -- name    : PI.WAU.B.ivec_zsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:57:37.642562+00:00
 -- url     : https://prove2.me/theorems/06153d99-f6f5-58de-8fc9-df7e994093a8

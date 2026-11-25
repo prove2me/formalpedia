@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_TopoMeas_measurable_adm
 -- name    : PI.VolStabW.TopoMeas.measurable_adm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:13:36.566408+00:00
 -- url     : https://prove2.me/theorems/f48a041e-168c-4124-8ab8-db0109bf6411

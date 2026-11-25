@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_cd_haar_scaling
 -- name    : cd_haar_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:52:53.685984+00:00
 -- url     : https://prove2.me/theorems/123ec4bb-0e1b-4fd6-bff0-77b3072df848

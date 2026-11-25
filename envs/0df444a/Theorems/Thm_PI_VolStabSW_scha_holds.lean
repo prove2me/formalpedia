@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_scha_holds
 -- name    : PI.VolStabSW.scha_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:46:07.008508+00:00
 -- url     : https://prove2.me/theorems/7df0cf2f-73b7-44a2-84e0-93eb3687fca5

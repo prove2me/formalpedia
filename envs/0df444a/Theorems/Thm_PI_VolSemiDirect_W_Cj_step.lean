@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Cj_step
 -- name    : PI.VolSemiDirect.W.Cj.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:36:21.754196+00:00
 -- url     : https://prove2.me/theorems/184d055b-da04-4442-937e-ca048c50483d

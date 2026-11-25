@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_fockF_rowAct_right
 -- name    : PI.WGB.fockF_rowAct_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:44:52.393515+00:00
 -- url     : https://prove2.me/theorems/543f3aab-a55f-4471-95a5-6887b491cc37

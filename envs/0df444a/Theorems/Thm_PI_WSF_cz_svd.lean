@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_cz_svd
 -- name    : PI.WSF.cz_svd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:44:12.129802+00:00
 -- url     : https://prove2.me/theorems/a39cbdb9-f0c0-4dc3-b9ba-2863cbf58b2e

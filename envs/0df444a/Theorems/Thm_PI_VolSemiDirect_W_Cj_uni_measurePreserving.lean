@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Cj_uni_measurePreserving
 -- name    : PI.VolSemiDirect.W.Cj.uni_measurePreserving
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:45:57.70974+00:00
 -- url     : https://prove2.me/theorems/eadf8484-11ea-5386-ad6d-68ecece7d9ab

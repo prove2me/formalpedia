@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_lt_one_iff_le_expm1
 -- name    : PI.VolStabSW.lt_one_iff_le_expm1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:39:52.45127+00:00
 -- url     : https://prove2.me/theorems/2bed1a1f-8b7d-5055-9c7f-a58e483b0f1a

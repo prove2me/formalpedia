@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_RestrictedProductFiber_finite_on_compacts
 -- name    : PI.VolStabW.RestrictedProductFiber.finite_on_compacts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:41:51.693743+00:00
 -- url     : https://prove2.me/theorems/797a51a9-7b13-5f15-aefd-967b4d685630

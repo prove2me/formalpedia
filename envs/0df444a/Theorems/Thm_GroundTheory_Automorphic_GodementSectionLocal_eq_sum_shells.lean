@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_eq_sum_shells
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.eq_sum_shells
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:35:31.15044+00:00
 -- url     : https://prove2.me/theorems/98e465ec-ed9d-54b2-b0be-659049fd22d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WHw_natW_antitone
 -- name    : PI.WHw.natW_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:46:45.379408+00:00
 -- url     : https://prove2.me/theorems/d8c06766-c9a2-40ed-8137-1d3972d788a7

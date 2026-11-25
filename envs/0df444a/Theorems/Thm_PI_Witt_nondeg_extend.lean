@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Witt_nondeg_extend
 -- name    : PI.Witt.nondeg_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:45:22.331263+00:00
 -- url     : https://prove2.me/theorems/d9d622ec-0d83-4464-b55a-ac9f7eac8347

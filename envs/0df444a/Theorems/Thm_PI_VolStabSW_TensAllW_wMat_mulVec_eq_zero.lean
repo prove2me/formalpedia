@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_TensAllW_wMat_mulVec_eq_zero
 -- name    : PI.VolStabSW.TensAllW.wMat_mulVec_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:42:12.714496+00:00
 -- url     : https://prove2.me/theorems/cbb8b15f-2750-4af8-bfff-ae4b6754e52f

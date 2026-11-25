@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WA_g_B_bigj
 -- name    : PI.WA.g_B_bigj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:43:56.994429+00:00
 -- url     : https://prove2.me/theorems/90fb4397-77eb-433e-abb3-fc5be3b04aed

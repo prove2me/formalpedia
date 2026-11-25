@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_hasCOSub_of_lat
 -- name    : PI.VolStabW.hasCOSub_of_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:46:32.920407+00:00
 -- url     : https://prove2.me/theorems/e245a2b9-7f5e-4520-89d9-462a2fd6a9e1

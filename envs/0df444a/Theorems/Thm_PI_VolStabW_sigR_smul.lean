@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_sigR_smul
 -- name    : PI.VolStabW.sigR_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:45:40.161823+00:00
 -- url     : https://prove2.me/theorems/f6f1882a-bb66-4e36-a9ec-b3e5edf05090

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTB_lif_not_inj
 -- name    : PI.WGL.LTB.lif_not_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:46:16.663795+00:00
 -- url     : https://prove2.me/theorems/f81474bf-6e38-4d41-95ef-f5227def97d4

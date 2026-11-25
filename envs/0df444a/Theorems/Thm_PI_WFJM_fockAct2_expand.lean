@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_fockAct2_expand
 -- name    : PI.WFJM.fockAct2_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:44:08.660911+00:00
 -- url     : https://prove2.me/theorems/5499c830-6978-5560-95ba-b355d7babdb1

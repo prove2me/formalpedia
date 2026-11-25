@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_bessel_levi_formula
 -- name    : bessel_levi_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:08:46.037595+00:00
 -- url     : https://prove2.me/theorems/e8ccda3f-7089-5afa-b817-57a61ad34381

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_lm_fockF_add
 -- name    : PI.WGL.lm_fockF_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:58:49.844177+00:00
 -- url     : https://prove2.me/theorems/bbabad55-08cb-569a-aced-88ed864192ad

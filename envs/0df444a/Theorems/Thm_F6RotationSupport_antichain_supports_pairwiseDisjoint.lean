@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6RotationSupport_antichain_supports_pairwiseDisjoint
 -- name    : F6RotationSupport.antichain_supports_pairwiseDisjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:23:06.532787+00:00
 -- url     : https://prove2.me/theorems/f9948f0a-70a5-43d8-9dd0-ce96d39ecd84

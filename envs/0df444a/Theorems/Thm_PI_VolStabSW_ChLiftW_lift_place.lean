@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_ChLiftW_lift_place
 -- name    : PI.VolStabSW.ChLiftW.lift_place
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:36:18.6227+00:00
 -- url     : https://prove2.me/theorems/f159e5b9-4de0-570d-9584-8fa66b8413bf

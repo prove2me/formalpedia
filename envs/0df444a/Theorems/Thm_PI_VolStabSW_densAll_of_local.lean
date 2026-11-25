@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_densAll_of_local
 -- name    : PI.VolStabSW.densAll_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:42:22.540473+00:00
 -- url     : https://prove2.me/theorems/b7b5bb4d-2599-4674-bc58-9ac172cdccdd

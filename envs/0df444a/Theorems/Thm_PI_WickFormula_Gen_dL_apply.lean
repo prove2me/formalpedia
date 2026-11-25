@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Gen_dL_apply
 -- name    : PI.WickFormula.Gen.dL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:45:41.799896+00:00
 -- url     : https://prove2.me/theorems/403fa3d3-65e2-45b2-b492-46c6cac99eed

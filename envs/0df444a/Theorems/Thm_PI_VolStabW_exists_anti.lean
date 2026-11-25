@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_exists_anti
 -- name    : PI.VolStabW.exists_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:18.816395+00:00
 -- url     : https://prove2.me/theorems/1b718195-791a-48e9-ad9e-8fbaba0ffb05

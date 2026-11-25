@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_ord_det_eq_zero
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.ord_det_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:34:08.115185+00:00
 -- url     : https://prove2.me/theorems/cb3fc040-4f40-56ba-8c3f-280c104c9959

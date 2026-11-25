@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_cf_ee
 -- name    : PI.WSF.cf_ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:45:40.547832+00:00
 -- url     : https://prove2.me/theorems/be096554-1454-45fa-acbc-e0de99b2b562

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_evA_weight_rowW
 -- name    : PI.WSF.evA_weight_rowW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:47:04.249461+00:00
 -- url     : https://prove2.me/theorems/9fba9125-64ba-4ab6-8a72-4a9a180b25a4

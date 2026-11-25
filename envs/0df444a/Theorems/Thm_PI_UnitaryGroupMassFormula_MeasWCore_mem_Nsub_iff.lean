@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_MeasWCore_mem_Nsub_iff
 -- name    : PI.UnitaryGroupMassFormula.MeasWCore.mem_Nsub_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:44:34.23047+00:00
 -- url     : https://prove2.me/theorems/9b209fef-fd77-4b1b-a235-270e8624e332

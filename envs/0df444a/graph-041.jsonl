@@ -15043,8 +15043,8 @@
 {"parent": "Formalism.InvariantFactorPaths.ColumnFamilies.ql_ps_equiv", "child": "Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_SumIndicesEqSumColumns", "via": ["solution", "statement"]}
 {"parent": "Formalism.IndefR.LatticeTransfer.Lat.exists_smul_mem", "child": "Formalism_LocalToGlobal_IndefiniteReal_AllPartsTransfer", "via": ["solution", "statement"]}
 {"parent": "Formalism.IndefR.LatticeTransfer.Lat.exists_smul_mem", "child": "Formalism_LocalToGlobal_IndefiniteReal_MemSpanOfSmulMem", "via": ["solution", "statement"]}
-{"parent": "PI.SlopeSteps.gram_matrix_duality", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StandardSlopeBound_GramMatrixDuality", "via": ["statement"]}
-{"parent": "PI.SlopeSteps.gram_matrix_duality", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StandardSlopeBound_NablaBasis", "via": ["statement"]}
+{"parent": "PI.SlopeSteps.gram_matrix_duality", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StandardSlopeBound_GramMatrixDuality", "via": ["solution", "statement"]}
+{"parent": "PI.SlopeSteps.gram_matrix_duality", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StandardSlopeBound_NablaBasis", "via": ["solution", "statement"]}
 {"parent": "Registry_P080_Solution", "child": "proofs_PhosphorylationSharpness_Resolution", "via": ["statement"]}
 {"parent": "Formalism.InvariantFactorPaths.ColumnFamilies.qc_evGL_map", "child": "Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_QcEvGLDetUZpow", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.ColumnFamilies.qc_evGL_map", "child": "Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_QcEvGLGenPtInt", "via": ["solution", "statement"]}
@@ -15647,8 +15647,8 @@
 {"parent": "GlobalTheory.Mem.GelfCheck.rowE_apply", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_GelfA", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Mem.GelfCheck.rowE_apply", "child": "Formalism_RealPlaceAnalysis_StatementB", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Mem.GelfCheck.rowE_apply", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_TracePowApply", "via": ["solution", "statement"]}
-{"parent": "PI.SlopeSteps.linIndep_Q", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StandardSlopeBound_GramMatrixDuality", "via": ["statement"]}
-{"parent": "PI.SlopeSteps.linIndep_Q", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StandardSlopeBound_NablaBasis", "via": ["statement"]}
+{"parent": "PI.SlopeSteps.linIndep_Q", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StandardSlopeBound_GramMatrixDuality", "via": ["solution", "statement"]}
+{"parent": "PI.SlopeSteps.linIndep_Q", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StandardSlopeBound_NablaBasis", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.ColumnFamilies.qr_ext_surj", "child": "Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_HighestWeightSpaceFinite", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.ColumnFamilies.qr_ext_surj", "child": "Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_QcColHSuccLe", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.G7.CoboundarySeries.suppOK_sub", "child": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FrobeniusLiftNorms_TopsChoicePartA", "via": ["solution", "statement"]}
@@ -16571,15 +16571,15 @@
 {"parent": "RHX1000000.Run.E66.blk8", "child": "RHX_RunSplit", "via": ["statement"]}
 {"parent": "Formalism.InvariantFactorPaths.BranchingDimensions.TTyp.sum_lat", "child": "Formalism_ThetaLogCoordinates_ResidueClassEstimates_StatementT", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.BranchingDimensions.TTyp.sum_lat", "child": "Formalism_ThetaLogCoordinates_ResidueClassEstimates_VandermondeRankEstimates_AtypicalWeightBoundOf", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.P.transference_principle", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_TransferenceCover", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.P.transference_principle", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_SumComplexEmbeddingsEqSumInfinitePlace", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.P.transference_principle", "child": "Formalism_FlagUnipotentLattices_SubmoduleGeneratorsBound", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.P.transference_principle", "child": "Formalism_FlagUnipotentLattices_CoveringRadius2", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.P.transference_principle", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_Residue", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.P.transference_principle", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_TransferenceCoveringDivisor", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.P.transference_principle", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_CoveringOfTransferenceVariant", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.P.transference_principle", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_LatticeSumTupleOfLatticeSumTuple", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.P.transference_principle", "child": "Formalism_FlagUnipotentLattices_CardSubmodulesAndLinearEquivBounds", "via": ["statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.P.transference_principle", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_TransferenceCover", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.P.transference_principle", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_SumComplexEmbeddingsEqSumInfinitePlace", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.P.transference_principle", "child": "Formalism_FlagUnipotentLattices_SubmoduleGeneratorsBound", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.P.transference_principle", "child": "Formalism_FlagUnipotentLattices_CoveringRadius2", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.P.transference_principle", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_Residue", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.P.transference_principle", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_TransferenceCoveringDivisor", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.P.transference_principle", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_CoveringOfTransferenceVariant", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.P.transference_principle", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_LatticeSumTupleOfLatticeSumTuple", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.P.transference_principle", "child": "Formalism_FlagUnipotentLattices_CardSubmodulesAndLinearEquivBounds", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.G7.CoboundarySeries.norm_add_le_one", "child": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FrobeniusLiftNorms_TopsChoicePartA", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.G7.CoboundarySeries.norm_add_le_one", "child": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FrobeniusLiftNorms_ConstantCoeffFirstTwoOfThree", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.G7.CoboundarySeries.norm_add_le_one", "child": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FirstDeriv", "via": ["solution", "statement"]}
@@ -94093,9 +94093,9 @@
 {"parent": "GlobalTheory.RowLev.Inhab.ker_eq_extId", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsGlob", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RowLev.Inhab.ker_eq_extId", "child": "Formalism_SharpRestriction_CuspSpanNormBounds_GlobAut", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RowLev.Inhab.ker_eq_extId", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsApprox", "via": ["solution", "statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.InHHClassFin.lvA_key", "child": "Formalism_SharpRestriction_CuspSpanNormBounds_GlobAut", "via": ["statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.InHHClassFin.lvA_key", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HermitianClassFiniteness_LevelA", "via": ["statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.InHHClassFin.lvA_key", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Levelaf", "via": ["statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.InHHClassFin.lvA_key", "child": "Formalism_SharpRestriction_CuspSpanNormBounds_GlobAut", "via": ["solution", "statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.InHHClassFin.lvA_key", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HermitianClassFiniteness_LevelA", "via": ["solution", "statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.InHHClassFin.lvA_key", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Levelaf", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DetClass.det_swap", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ProdClassGroupMk0EqOfLinearEquivPi", "via": ["solution", "statement"]}
 {"parent": "FunctorialResolution.Blowup.chartRingHom_mem_nonZeroDivisors", "child": "Development_ResolutionOfSingularities_Foundations_Blowup_AffineBlowup", "via": ["solution", "statement"]}
 {"parent": "FunctorialResolution.Blowup.chartRingHom_mem_nonZeroDivisors", "child": "Development_ResolutionOfSingularities_Foundations_Blowup_ReesGrading", "via": ["solution", "statement"]}
@@ -98623,9 +98623,9 @@
 {"parent": "Formalism.TwoAdicCyclotomicDecomposition.range_eq_GG", "child": "Formalism_TameInertiaTowers_CentralOrderTwo_TwoAdic", "via": ["solution", "statement"]}
 {"parent": "Formalism.TwoAdicCyclotomicDecomposition.range_eq_GG", "child": "Formalism_TameInertiaTowers_StatementGroup", "via": ["solution", "statement"]}
 {"parent": "Formalism.TwoAdicCyclotomicDecomposition.range_eq_GG", "child": "Formalism_TameInertiaTowers_CentralOrderTwo_NegOneNeOneUnitsZmodFour", "via": ["solution", "statement"]}
-{"parent": "cd_haar_scaling", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HaarScaling_MapEqSelfOfIterate", "via": ["statement"]}
-{"parent": "cd_haar_scaling", "child": "Formalism_PeriodIntegrals_CdHaarScale", "via": ["statement"]}
-{"parent": "cd_haar_scaling", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_CdHaarScale", "via": ["statement"]}
+{"parent": "cd_haar_scaling", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HaarScaling_MapEqSelfOfIterate", "via": ["solution", "statement"]}
+{"parent": "cd_haar_scaling", "child": "Formalism_PeriodIntegrals_CdHaarScale", "via": ["solution", "statement"]}
+{"parent": "cd_haar_scaling", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_CdHaarScale", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr3.zc", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RuleSS", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr3.zc", "child": "Formalism_YangianSpanCharacter_YangianRelationFirst", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr3.zc", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_QuasiDeterminantFromEntries", "via": ["solution", "statement"]}

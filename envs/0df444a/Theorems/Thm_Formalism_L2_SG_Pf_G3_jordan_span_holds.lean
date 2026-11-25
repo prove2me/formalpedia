@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G3_jordan_span_holds
 -- name    : Formalism.L2.SG.Pf.G3.jordan_span_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:44:50.694941+00:00
 -- url     : https://prove2.me/theorems/2b34f649-f514-50ca-ac48-8ad98813425e

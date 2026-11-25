@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_FiniteThetaCoordinates_le_triple_sum_of_nonneg
 -- name    : PI.VolStabSW.FiniteThetaCoordinates.le_triple_sum_of_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:42:33.243709+00:00
 -- url     : https://prove2.me/theorems/21d02f66-a646-56d4-83cd-7242705a7f77

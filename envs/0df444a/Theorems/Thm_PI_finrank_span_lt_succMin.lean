@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_finrank_span_lt_succMin
 -- name    : PI.finrank_span_lt_succMin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:46:53.306296+00:00
 -- url     : https://prove2.me/theorems/591d8178-2be0-4865-b378-a243f72b0e62

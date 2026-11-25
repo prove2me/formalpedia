@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_idem_kill
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.idem_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:42:53.091472+00:00
 -- url     : https://prove2.me/theorems/ba5eebe7-946b-400b-9bd6-36baba381b32

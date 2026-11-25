@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Cj_reduce
 -- name    : PI.VolSemiDirect.W.Cj.reduce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:36:16.090798+00:00
 -- url     : https://prove2.me/theorems/c4efe8ff-1833-510d-aed2-8d34d916ca92

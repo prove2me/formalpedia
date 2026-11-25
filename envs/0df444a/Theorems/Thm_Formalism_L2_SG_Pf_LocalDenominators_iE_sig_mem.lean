@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LocalDenominators_iE_sig_mem
 -- name    : Formalism.L2.SG.Pf.LocalDenominators.iE_sig_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:43:02.81513+00:00
 -- url     : https://prove2.me/theorems/b5f626db-8c94-5aa9-b7d9-9688d98e62ce

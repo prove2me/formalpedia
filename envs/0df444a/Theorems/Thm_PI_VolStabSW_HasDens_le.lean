@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_HasDens_le
 -- name    : PI.VolStabSW.HasDens.le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:06:06.530818+00:00
 -- url     : https://prove2.me/theorems/6ce2a3b8-cf16-416c-9acb-659273d2cb0b

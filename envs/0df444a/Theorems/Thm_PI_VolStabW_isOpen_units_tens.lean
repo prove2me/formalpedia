@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_isOpen_units_tens
 -- name    : PI.VolStabW.isOpen_units_tens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:45:47.034186+00:00
 -- url     : https://prove2.me/theorems/22a6014c-7050-470d-aa46-5da48e3e1f1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G7_eq_of_locF
 -- name    : Formalism.L2.SG.Pf.G7.eq_of_locF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:39:23.037422+00:00
 -- url     : https://prove2.me/theorems/6f4eb9e1-8422-5623-8893-65a201a6c020

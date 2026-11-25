@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_SimeqPdInt_pderiv_expMv
 -- name    : PI.UnitaryGroupMassFormula.SimeqPdInt.pderiv_expMv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:28.502251+00:00
 -- url     : https://prove2.me/theorems/d73c8d58-166b-4303-9beb-fab05efc5e53

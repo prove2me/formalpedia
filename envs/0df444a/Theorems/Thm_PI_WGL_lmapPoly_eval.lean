@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_lmapPoly_eval
 -- name    : PI.WGL.lmapPoly_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:47:24.167912+00:00
 -- url     : https://prove2.me/theorems/67e5a6c8-a9c4-4b5f-9bfd-9bb0665a13d1

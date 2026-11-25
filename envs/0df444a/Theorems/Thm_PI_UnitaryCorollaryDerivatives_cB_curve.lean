@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_cB_curve
 -- name    : PI.UnitaryCorollaryDerivatives.cB_curve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:43:08.475533+00:00
 -- url     : https://prove2.me/theorems/2bcdbf91-53b6-56bc-9113-0f097609faea

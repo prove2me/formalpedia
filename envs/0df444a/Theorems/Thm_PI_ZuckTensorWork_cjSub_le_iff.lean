@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_cjSub_le_iff
 -- name    : PI.ZuckTensorWork.cjSub_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:47:41.542457+00:00
 -- url     : https://prove2.me/theorems/d69493bf-1587-4db7-92f0-9421c139ecc5

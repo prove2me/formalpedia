@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_kset_mulVec_mem
 -- name    : PIW.AdelClassFin.kset_mulVec_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:49:16.145593+00:00
 -- url     : https://prove2.me/theorems/de718709-ba9f-45cf-83ff-6f82478b8914

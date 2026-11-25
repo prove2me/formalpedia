@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_cos_inter_eq
 -- name    : PI.VolStabW.cos_inter_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:55:16.00015+00:00
 -- url     : https://prove2.me/theorems/83aae540-4934-530e-9062-936d9ce5908d

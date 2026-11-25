@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_DeterminantAdmissible_isCompact_translate
 -- name    : PI.VolStabSW.DeterminantAdmissible.isCompact_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:36:55.655447+00:00
 -- url     : https://prove2.me/theorems/b4e06f9a-0b0a-47fa-b643-f61800355499

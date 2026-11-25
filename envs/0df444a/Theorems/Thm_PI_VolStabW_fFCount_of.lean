@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_fFCount_of
 -- name    : PI.VolStabW.fFCount_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:39:51.77069+00:00
 -- url     : https://prove2.me/theorems/bcefaa24-f740-408c-a5bd-58899ac74cd8

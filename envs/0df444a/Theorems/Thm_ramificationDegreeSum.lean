@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ramificationDegreeSum
 -- name    : ramificationDegreeSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:46:12.028983+00:00
 -- url     : https://prove2.me/theorems/aae062dc-c2a4-4c71-9a5e-3ad19ce5eca0

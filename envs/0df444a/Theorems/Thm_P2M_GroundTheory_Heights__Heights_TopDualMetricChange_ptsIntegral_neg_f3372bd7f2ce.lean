@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TopDualMetricChange_ptsIntegral_neg_f3372bd7f2ce
 -- name    : P2M_GroundTheory_Heights__Heights_TopDualMetricChange_ptsIntegral_neg_f3372bd7f2ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:06:13.212089+00:00
 -- url     : https://prove2.me/theorems/c588e910-33a7-5b7c-b8cd-21fd31965c4c

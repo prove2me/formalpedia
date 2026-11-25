@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_left_mem
 -- name    : PI.WAU.B.left_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:46:00.302049+00:00
 -- url     : https://prove2.me/theorems/b14a7660-4ef5-40da-9288-73aaa91bd073

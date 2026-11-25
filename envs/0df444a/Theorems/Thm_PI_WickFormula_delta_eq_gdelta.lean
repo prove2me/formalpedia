@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_delta_eq_gdelta
 -- name    : PI.WickFormula.delta_eq_gdelta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:46:59.697168+00:00
 -- url     : https://prove2.me/theorems/d2ba71c1-13c5-4030-b2cb-bfa0d2a95c87

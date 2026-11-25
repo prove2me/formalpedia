@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCompose_bd_steps
 -- name    : PI.UnitaryGroupMassFormula.UsCompose.bd_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:42:50.658797+00:00
 -- url     : https://prove2.me/theorems/11d73cee-8186-4742-809f-c3b86bd94fba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_units_mod_sq
 -- name    : PIW.AdelClassFin.units_mod_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:48:05.160247+00:00
 -- url     : https://prove2.me/theorems/59f3fe2f-3b40-4555-a098-bdb8f7704cd9

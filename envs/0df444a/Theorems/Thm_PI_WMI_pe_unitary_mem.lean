@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_pe_unitary_mem
 -- name    : PI.WMI.pe_unitary_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:48:27.189584+00:00
 -- url     : https://prove2.me/theorems/e0141dbf-6813-43cd-a2a5-3e79893318c0

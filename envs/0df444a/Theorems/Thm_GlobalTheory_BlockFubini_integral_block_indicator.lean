@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BlockFubini_integral_block_indicator
 -- name    : GlobalTheory.BlockFubini.integral_block_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:07:38.459986+00:00
 -- url     : https://prove2.me/theorems/c0e7d9be-a134-458a-8ce4-42c02a6a9931

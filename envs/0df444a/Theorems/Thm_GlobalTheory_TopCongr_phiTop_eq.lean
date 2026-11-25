@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopCongr_phiTop_eq
 -- name    : GlobalTheory.TopCongr.phiTop_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:09:20.474529+00:00
 -- url     : https://prove2.me/theorems/2561ad70-1cc9-53bc-b40a-d1a3474d4ce5

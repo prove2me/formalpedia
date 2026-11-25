@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_sign_blockEquiv_inl
 -- name    : PI.WeylForKWork.sign_blockEquiv_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:44:22.564849+00:00
 -- url     : https://prove2.me/theorems/ec0513b1-3456-4203-a81f-b707481bfcfc

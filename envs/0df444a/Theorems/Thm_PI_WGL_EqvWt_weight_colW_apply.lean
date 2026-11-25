@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_EqvWt_weight_colW_apply
 -- name    : PI.WGL.EqvWt.weight_colW_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:46:02.718323+00:00
 -- url     : https://prove2.me/theorems/d9d93cc3-e782-407a-878a-b0ff8f0595b9

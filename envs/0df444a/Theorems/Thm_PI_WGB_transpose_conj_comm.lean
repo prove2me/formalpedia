@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_transpose_conj_comm
 -- name    : PI.WGB.transpose_conj_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:16.786629+00:00
 -- url     : https://prove2.me/theorems/ec606d27-88aa-4583-82b5-9a77ced4ce67

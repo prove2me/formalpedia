@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_antitone_of_succ_B
 -- name    : PI.WGB.antitone_of_succ_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:45:36.141231+00:00
 -- url     : https://prove2.me/theorems/0bbc4cdb-6e5c-4489-9c5e-e7674b58f376

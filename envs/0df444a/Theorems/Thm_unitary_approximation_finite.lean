@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_unitary_approximation_finite
 -- name    : unitary_approximation_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:24:40.737665+00:00
 -- url     : https://prove2.me/theorems/145d664a-92fa-44b1-b688-1e689fb09c1f

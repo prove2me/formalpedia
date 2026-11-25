@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Fock6_eqv_word
 -- name    : PI.WGL.Fock6.eqv_word
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:46:56.908848+00:00
 -- url     : https://prove2.me/theorems/dfbb6ebc-40e5-48ad-8dbc-dc8766c996f8

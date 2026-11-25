@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Fock6_transposeWord_liftWord
 -- name    : PI.WGL.Fock6.transposeWord_liftWord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:46:35.608152+00:00
 -- url     : https://prove2.me/theorems/fac976ce-f139-4acd-927b-11194c0ab625

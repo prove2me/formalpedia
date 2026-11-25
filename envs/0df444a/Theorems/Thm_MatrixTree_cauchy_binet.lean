@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTree_cauchy_binet
 -- name    : MatrixTree.cauchy_binet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:56:03.832251+00:00
 -- url     : https://prove2.me/theorems/6246d8a5-4001-50ff-90a3-cb6ef65efe43

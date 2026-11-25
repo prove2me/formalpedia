@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTE_lam_natW_val
 -- name    : PI.WGL.LTE.lam_natW_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:45:29.238602+00:00
 -- url     : https://prove2.me/theorems/fbfbd5fa-ef53-4493-8f9c-06ddf94b6ac2

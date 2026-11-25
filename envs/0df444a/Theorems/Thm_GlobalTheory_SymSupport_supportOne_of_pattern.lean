@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymSupport_supportOne_of_pattern
 -- name    : GlobalTheory.SymSupport.supportOne_of_pattern
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:39:34.323531+00:00
 -- url     : https://prove2.me/theorems/9d269b2a-d3bc-4779-a62d-b8fbb6f0a932

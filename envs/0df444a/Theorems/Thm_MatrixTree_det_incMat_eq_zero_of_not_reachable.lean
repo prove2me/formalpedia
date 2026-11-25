@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTree_det_incMat_eq_zero_of_not_reachable
 -- name    : MatrixTree.det_incMat_eq_zero_of_not_reachable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T11:06:27.748896+00:00
 -- url     : https://prove2.me/theorems/eb406893-3830-4ffe-abbe-369ecfaae132

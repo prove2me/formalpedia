@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_sat_norm
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.sat_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:41:51.897425+00:00
 -- url     : https://prove2.me/theorems/ea684621-9ec4-4341-ade3-02eb735fc1f1

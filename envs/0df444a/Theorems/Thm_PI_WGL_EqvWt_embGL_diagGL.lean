@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_EqvWt_embGL_diagGL
 -- name    : PI.WGL.EqvWt.embGL_diagGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:45:51.130881+00:00
 -- url     : https://prove2.me/theorems/8f3bf089-9c49-474d-8b80-3b7e205b4a7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_czFam_eval
 -- name    : PI.WSF.czFam_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:44:38.251605+00:00
 -- url     : https://prove2.me/theorems/bfc821c7-e511-4036-826c-74994e58e9cd

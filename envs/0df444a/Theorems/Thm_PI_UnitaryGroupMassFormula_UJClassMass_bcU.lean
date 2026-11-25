@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_bcU
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.bcU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:23:45.7968+00:00
 -- url     : https://prove2.me/theorems/abf7015c-aa9f-4bab-a34d-7dc5b65e56b2

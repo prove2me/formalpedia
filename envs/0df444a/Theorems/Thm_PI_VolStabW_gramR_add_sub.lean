@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_gramR_add_sub
 -- name    : PI.VolStabW.gramR_add_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:43:52.041333+00:00
 -- url     : https://prove2.me/theorems/981e8363-d41c-4930-b992-01ebd832d827

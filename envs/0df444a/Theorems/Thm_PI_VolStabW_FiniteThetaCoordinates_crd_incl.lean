@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_FiniteThetaCoordinates_crd_incl
 -- name    : PI.VolStabW.FiniteThetaCoordinates.crd_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:42:30.038512+00:00
 -- url     : https://prove2.me/theorems/7951ba2c-9712-4e52-82c2-c60cfe253de4

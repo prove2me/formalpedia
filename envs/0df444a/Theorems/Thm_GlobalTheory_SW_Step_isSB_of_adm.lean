@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Step_isSB_of_adm
 -- name    : GlobalTheory.SW.Step.isSB_of_adm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:49:46.261771+00:00
 -- url     : https://prove2.me/theorems/8c996d57-5814-5126-8bc2-5d3527dfac99

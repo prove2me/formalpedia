@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_BrA_adaptedProjection_psiV_mem_integers_of_mem_intAf
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.BrA.adaptedProjection_psiV_mem_integers_of_mem_intAf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:35:39.107851+00:00
 -- url     : https://prove2.me/theorems/9c940fd4-0426-5535-8309-5ce681f2392a

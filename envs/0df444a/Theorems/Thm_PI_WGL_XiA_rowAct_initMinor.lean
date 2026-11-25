@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiA_rowAct_initMinor
 -- name    : PI.WGL.XiA.rowAct_initMinor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:20.733048+00:00
 -- url     : https://prove2.me/theorems/c88405bb-82d9-48ea-b813-2e239995ab3e

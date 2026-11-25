@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_pe_right
 -- name    : PI.WMI.pe_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:47:16.674226+00:00
 -- url     : https://prove2.me/theorems/3eb568fe-299d-4c78-87dc-3d3b01f9e0f3

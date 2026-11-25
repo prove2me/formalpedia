@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_leftDiagonalActionFormula
 -- name    : PI.WFJM.leftDiagonalActionFormula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:02.859797+00:00
 -- url     : https://prove2.me/theorems/b9ac0872-1ed8-45cb-8be6-27fac7bf410b

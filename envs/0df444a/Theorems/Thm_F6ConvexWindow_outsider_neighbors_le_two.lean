@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_outsider_neighbors_le_two
 -- name    : F6ConvexWindow.outsider_neighbors_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:20:01.487884+00:00
 -- url     : https://prove2.me/theorems/7ac1e129-5a9d-5af2-bd44-da90a16c1f63

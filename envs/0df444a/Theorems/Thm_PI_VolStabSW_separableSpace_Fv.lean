@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_separableSpace_Fv
 -- name    : PI.VolStabSW.separableSpace_Fv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:37:47.572798+00:00
 -- url     : https://prove2.me/theorems/c493b319-116d-4e88-91b5-dfcd5ca0b8bb

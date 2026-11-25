@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelicOrbitU_sigR_algebraMap
 -- name    : PIW.AdelicOrbitU.sigR_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:47:52.806682+00:00
 -- url     : https://prove2.me/theorems/b978f2bf-35e5-4fb5-bb9f-8b3fd7ef9c61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSection_awayImageS_apply
 -- name    : GroundTheory.Automorphic.GodementSection.awayImageS_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:49:02.20329+00:00
 -- url     : https://prove2.me/theorems/9d538e47-5e41-437e-b144-dd3c9dd3ed7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_isClopen_box
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.isClopen_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:40:35.04842+00:00
 -- url     : https://prove2.me/theorems/6b996765-f56c-4858-bfd6-11987c786270

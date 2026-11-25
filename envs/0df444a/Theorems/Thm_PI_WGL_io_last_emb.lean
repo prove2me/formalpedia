@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_io_last_emb
 -- name    : PI.WGL.io_last_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:46:26.764301+00:00
 -- url     : https://prove2.me/theorems/04d4b2e9-ff3d-4246-93c9-2c9af22bedc9

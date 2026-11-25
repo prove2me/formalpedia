@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WfEndProof_coprime_sq_sub_one
 -- name    : PI.WfEndProof.coprime_sq_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:44:07.566902+00:00
 -- url     : https://prove2.me/theorems/96d63f4b-ef5c-574b-aa3c-c82a2c1d5319

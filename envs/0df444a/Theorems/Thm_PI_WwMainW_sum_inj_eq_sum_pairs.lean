@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwMainW_sum_inj_eq_sum_pairs
 -- name    : PI.WwMainW.sum_inj_eq_sum_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:46:27.160284+00:00
 -- url     : https://prove2.me/theorems/5ba5872f-426d-4f3d-ba72-a7f8dd65396c

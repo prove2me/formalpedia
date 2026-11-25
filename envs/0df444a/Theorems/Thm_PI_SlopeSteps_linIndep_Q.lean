@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SlopeSteps_linIndep_Q
 -- name    : PI.SlopeSteps.linIndep_Q
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:01.9958+00:00
 -- url     : https://prove2.me/theorems/4efa8a7f-87d4-433e-ba65-8e04188c03c2

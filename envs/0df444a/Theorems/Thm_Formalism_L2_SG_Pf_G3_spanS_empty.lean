@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G3_spanS_empty
 -- name    : Formalism.L2.SG.Pf.G3.spanS_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:51:19.836321+00:00
 -- url     : https://prove2.me/theorems/0d7a7826-f8ff-5567-a850-40561e2e6475

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Witt_oneVector_generic
 -- name    : PI.Witt.oneVector_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:45:28.484513+00:00
 -- url     : https://prove2.me/theorems/c1b6231a-f8e2-4b59-bed0-0546817fd2e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmBorderFull_Four_bfCross_of
 -- name    : PI.UnitaryGroupMassFormula.QmBorderFull.Four.bfCross_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:40:55.757291+00:00
 -- url     : https://prove2.me/theorems/8428193a-ed7e-56cf-a50f-8146c4fa9838

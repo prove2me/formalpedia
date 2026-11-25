@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_hform_mul_left
 -- name    : PI.VolStabW.hform_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:46:08.403523+00:00
 -- url     : https://prove2.me/theorems/f73f4ff0-aee2-438b-9e4f-b3c902346912

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_measure_count
 -- name    : PI.VolStabW.measure_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:47:03.426773+00:00
 -- url     : https://prove2.me/theorems/e3318b87-2847-469d-a78f-96a794149e07

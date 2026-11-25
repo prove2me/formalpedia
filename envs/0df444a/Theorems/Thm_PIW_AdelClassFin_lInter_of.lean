@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_lInter_of
 -- name    : PIW.AdelClassFin.lInter_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:48:07.894738+00:00
 -- url     : https://prove2.me/theorems/bc729445-496e-4490-bc08-04d74ef34b74

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_ApP_principal_ideal_ring_at_prime
 -- name    : PI.ScRefExists.ApP.principal_ideal_ring_at_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:22:29.741188+00:00
 -- url     : https://prove2.me/theorems/51f03528-312e-40ed-941e-598fe86308e7

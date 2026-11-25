@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_adCpctDen
 -- name    : PI.adCpctDen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:46:56.280782+00:00
 -- url     : https://prove2.me/theorems/f59de156-5ee0-4992-88d4-05e53a86d01c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DiscreteGroups_approx
 -- name    : PI.VolStabW.DiscreteGroups.approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:45:05.384805+00:00
 -- url     : https://prove2.me/theorems/8a9b7336-8996-4c7e-804a-1a613be7a58c

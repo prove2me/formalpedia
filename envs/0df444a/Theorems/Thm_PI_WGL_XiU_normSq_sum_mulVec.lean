@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiU_normSq_sum_mulVec
 -- name    : PI.WGL.XiU.normSq_sum_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:45:34.153212+00:00
 -- url     : https://prove2.me/theorems/20fd799c-0d7a-5b76-aa69-04b662f6d093

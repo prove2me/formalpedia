@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_lm_natW_anti
 -- name    : PI.WGL.lm_natW_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:57:27.36992+00:00
 -- url     : https://prove2.me/theorems/24646679-9164-54e6-8706-d62672828cd2

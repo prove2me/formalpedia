@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_svR_conj
 -- name    : PIW.AdelClassFin.svR_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:56.601802+00:00
 -- url     : https://prove2.me/theorems/8c59b2bb-8945-429e-86f2-d969e78adb23

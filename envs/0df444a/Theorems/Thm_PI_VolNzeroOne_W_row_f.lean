@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolNzeroOne_W_row_f
 -- name    : PI.VolNzeroOne.W.row_f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:35:21.04127+00:00
 -- url     : https://prove2.me/theorems/be4a0f04-c458-4cc2-9559-920c05c65625

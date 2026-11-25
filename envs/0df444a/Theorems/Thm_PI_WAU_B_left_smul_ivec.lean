@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_left_smul_ivec
 -- name    : PI.WAU.B.left_smul_ivec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:43:58.128655+00:00
 -- url     : https://prove2.me/theorems/2e14d886-d438-483b-8315-a813420d92d3

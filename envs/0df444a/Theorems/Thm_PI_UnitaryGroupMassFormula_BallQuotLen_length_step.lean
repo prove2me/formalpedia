@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BallQuotLen_length_step
 -- name    : PI.UnitaryGroupMassFormula.BallQuotLen.length_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:39:01.537742+00:00
 -- url     : https://prove2.me/theorems/7a60c19a-4429-4042-9ec8-ea4e1b72b237

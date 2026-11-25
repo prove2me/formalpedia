@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_FdPA_chart_zero_eq_alt
 -- name    : PIW.FdPA.chart_zero_eq_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:24.875798+00:00
 -- url     : https://prove2.me/theorems/e1cdc5a9-a087-4e36-818e-54a8bc360c31

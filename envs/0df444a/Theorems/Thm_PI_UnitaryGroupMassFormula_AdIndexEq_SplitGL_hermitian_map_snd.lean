@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_SplitGL_hermitian_map_snd
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.SplitGL.hermitian_map_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:34.827349+00:00
 -- url     : https://prove2.me/theorems/228cfd1c-e4ee-4d2f-914d-cce1b89f139e

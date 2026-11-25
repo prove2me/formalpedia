@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_WF_hG_nondeg
 -- name    : PI.ScRefExists.WF.hG_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:42:52.417323+00:00
 -- url     : https://prove2.me/theorems/1b593c36-f944-503a-9ab6-f521fabd46b2

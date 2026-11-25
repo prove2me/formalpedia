@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_norm_sub_1728_eq_one_of_norm_lt_one
 -- name    : ReciprocityTheory.ChartRestriction.L1.norm_sub_1728_eq_one_of_norm_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:46:22.36948+00:00
 -- url     : https://prove2.me/theorems/92069af8-2d42-5ccc-8751-c47e7019dac1

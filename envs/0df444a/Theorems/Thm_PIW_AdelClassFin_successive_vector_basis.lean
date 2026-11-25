@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_successive_vector_basis
 -- name    : PIW.AdelClassFin.successive_vector_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:49:17.312578+00:00
 -- url     : https://prove2.me/theorems/f93eb8f5-62df-4d47-9e9a-4662654bd0a4

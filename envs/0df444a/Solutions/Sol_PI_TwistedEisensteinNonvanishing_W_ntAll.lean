@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for PI.TwistedEisensteinNonvanishing.W.ntAll
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T11:12:26.536181+00:00
+-- url     : https://prove2.me/submissions/d2b8bb85-42c9-4aaf-b43c-a54137878501
+
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_TwistedEisensteinCoset_TwistedEisensteinOfHypotheses
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_TwistedEisensteinCoset_ChangeVariablesDeterminantOne
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_TwistedEisensteinCoset_JacobianTransformationLaw
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_TwistedEisensteinCoset_IntegralApproximationByInteger
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_TwistedEisensteinCoset_UnfoldingMatrixFreeCoordinate
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_TwistedEisensteinCoset_FreeCoordinateAffineInvertible
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_TwistedEisensteinCoset_TwistedEisensteinOfRemaining
+import Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_element_eq_prime_power_mul_unit
+import Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_integer_integral_iff_dvd
+import Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_integral_approximation_by_integer
+import Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_unit_congruent_to_integer
+import Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_valuation_exponent_unique
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open PI PI.TwistedEisensteinNonvanishing PI.TwistedEisensteinNonvanishing.W
+namespace PI.TwistedEisensteinNonvanishing.W
+theorem _root_.solution : NTAll := ⟨integer_integral_iff_dvd, integral_approximation_by_integer, element_eq_prime_power_mul_unit, valuation_exponent_unique, unit_congruent_to_integer⟩
+end PI.TwistedEisensteinNonvanishing.W

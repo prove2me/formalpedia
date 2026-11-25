@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_measure_eq_of_cos
 -- name    : PI.VolStabW.measure_eq_of_cos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:43:39.700722+00:00
 -- url     : https://prove2.me/theorems/4d274e75-8932-4986-ab83-443285b24509

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_continuous_sizeTup
 -- name    : PI.VolStabSW.continuous_sizeTup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:42:16.925249+00:00
 -- url     : https://prove2.me/theorems/b2811161-df70-47fb-8bd7-996ac1e58102

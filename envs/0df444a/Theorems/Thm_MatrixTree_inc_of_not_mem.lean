@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTree_inc_of_not_mem
 -- name    : MatrixTree.inc_of_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:55:55.08133+00:00
 -- url     : https://prove2.me/theorems/04f69987-8fc5-52ac-8c95-a1ce84b43017

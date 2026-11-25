@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZW_ne_one_or_of_isPrimitive
 -- name    : PI.ZW.ne_one_or_of_isPrimitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:46:32.459792+00:00
 -- url     : https://prove2.me/theorems/1337d96d-e879-5468-8919-69b1d9eaae32

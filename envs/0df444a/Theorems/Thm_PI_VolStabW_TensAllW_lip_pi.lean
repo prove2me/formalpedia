@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_TensAllW_lip_pi
 -- name    : PI.VolStabW.TensAllW.lip_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:43:23.670907+00:00
 -- url     : https://prove2.me/theorems/b0f9e14b-0098-5d8f-9e3a-1d0cd674baed

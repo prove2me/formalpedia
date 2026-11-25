@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_locGmapStep
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.locGmapStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:34:56.772424+00:00
 -- url     : https://prove2.me/theorems/210808f2-b6a0-48c9-a1d5-24c125130055

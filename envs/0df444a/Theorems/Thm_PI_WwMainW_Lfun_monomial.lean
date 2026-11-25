@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwMainW_Lfun_monomial
 -- name    : PI.WwMainW.Lfun_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:46:44.617799+00:00
 -- url     : https://prove2.me/theorems/11234cb0-63ad-519f-b601-4117f02e9bde

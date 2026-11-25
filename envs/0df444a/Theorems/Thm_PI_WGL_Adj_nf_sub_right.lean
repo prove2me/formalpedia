@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Adj_nf_sub_right
 -- name    : PI.WGL.Adj.nf_sub_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:46:30.2439+00:00
 -- url     : https://prove2.me/theorems/f9f6b881-b749-40ad-9533-5ba250fed243

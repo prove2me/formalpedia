@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_ordLin_holds
 -- name    : PI.WickFormula.ordLin_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:47:22.703804+00:00
 -- url     : https://prove2.me/theorems/48ac7dfe-d6c8-4e4b-9b5b-dd2d92bd3619

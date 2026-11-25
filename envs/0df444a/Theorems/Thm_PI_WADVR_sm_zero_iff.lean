@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WADVR_sm_zero_iff
 -- name    : PI.WADVR.sm_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:43:15.238835+00:00
 -- url     : https://prove2.me/theorems/0dbe0914-9cf5-4756-ba19-cbd03fbfd766

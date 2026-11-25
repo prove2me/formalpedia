@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_iv_add_smul
 -- name    : PIW.AdelClassFin.iv_add_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:47:37.847805+00:00
 -- url     : https://prove2.me/theorems/390669ca-aaac-416f-8723-4785b2c5c692

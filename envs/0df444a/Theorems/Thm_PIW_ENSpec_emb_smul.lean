@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ENSpec_emb_smul
 -- name    : PIW.ENSpec.emb_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:01.762992+00:00
 -- url     : https://prove2.me/theorems/16c31511-7f63-40c8-ab4a-447896ea38e5

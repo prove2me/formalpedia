@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_ksub_coe
 -- name    : PI.WAU.ksub_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:43:12.085679+00:00
 -- url     : https://prove2.me/theorems/08297375-53b5-4ba6-9a7d-c3d76c02a447

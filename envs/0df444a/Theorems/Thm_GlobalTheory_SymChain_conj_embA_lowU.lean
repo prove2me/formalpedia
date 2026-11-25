@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_conj_embA_lowU
 -- name    : GlobalTheory.SymChain.conj_embA_lowU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:08:43.844534+00:00
 -- url     : https://prove2.me/theorems/d512702c-5b23-40e9-8561-f2a4441607c4

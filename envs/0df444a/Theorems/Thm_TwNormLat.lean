@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwNormLat
 -- name    : TwNormLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:21:35.000195+00:00
 -- url     : https://prove2.me/theorems/11a2ee44-5148-46be-b3e0-324ece6f294f

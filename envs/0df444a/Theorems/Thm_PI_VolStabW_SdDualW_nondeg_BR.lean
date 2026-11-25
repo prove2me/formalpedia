@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdDualW_nondeg_BR
 -- name    : PI.VolStabW.SdDualW.nondeg_BR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:29:31.640262+00:00
 -- url     : https://prove2.me/theorems/3955d0a4-38eb-4fcf-bfd4-9de0e928b2bb

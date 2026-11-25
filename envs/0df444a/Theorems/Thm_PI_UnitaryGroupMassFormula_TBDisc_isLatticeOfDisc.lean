@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_TBDisc_isLatticeOfDisc
 -- name    : PI.UnitaryGroupMassFormula.TBDisc.isLatticeOfDisc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:18.038186+00:00
 -- url     : https://prove2.me/theorems/8d40b784-3ff3-4201-a9ba-f48d721c3318

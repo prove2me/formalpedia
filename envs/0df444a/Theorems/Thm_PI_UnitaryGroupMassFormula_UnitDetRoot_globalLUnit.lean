@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnitDetRoot_globalLUnit
 -- name    : PI.UnitaryGroupMassFormula.UnitDetRoot.globalLUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:34:18.21184+00:00
 -- url     : https://prove2.me/theorems/58c6281d-a410-4d6f-9282-006663769e2e

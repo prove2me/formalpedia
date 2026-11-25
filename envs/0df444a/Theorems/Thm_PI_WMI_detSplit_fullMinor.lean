@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_detSplit_fullMinor
 -- name    : PI.WMI.detSplit_fullMinor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:01:46.782286+00:00
 -- url     : https://prove2.me/theorems/af62636e-a230-5d38-bda4-8ee95f167f7c

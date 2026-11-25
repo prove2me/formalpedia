@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_zpow_two_inj_A
 -- name    : PI.WGB.zpow_two_inj_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:46:58.027657+00:00
 -- url     : https://prove2.me/theorems/7e98dd81-c475-45e6-824c-d0d5ee0886e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_FixW_uOf_UW
 -- name    : PI.StabSplit.FixW.uOf_UW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:38:47.533847+00:00
 -- url     : https://prove2.me/theorems/f10d2f5b-6953-43e1-9607-e080b77b0012

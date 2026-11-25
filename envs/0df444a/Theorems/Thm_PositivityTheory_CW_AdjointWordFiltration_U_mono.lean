@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_AdjointWordFiltration_U_mono
 -- name    : PositivityTheory.CW.AdjointWordFiltration.U_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:48:14.337339+00:00
 -- url     : https://prove2.me/theorems/67fbb464-7340-43df-b9cb-333b76bb6f86

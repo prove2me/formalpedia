@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_GoodB_smul
 -- name    : PI.WGB.GoodB_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:46:11.897693+00:00
 -- url     : https://prove2.me/theorems/95a2209e-cbc7-4c52-a7bf-52a11d5a41b9

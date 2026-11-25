@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6SmallBlockTokenCapacity_TokenRun_three_membership_sum
 -- name    : F6SmallBlockTokenCapacity.TokenRun.three_membership_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:30:39.884681+00:00
 -- url     : https://prove2.me/theorems/9d7088e2-7cdc-5198-b3f9-e91e505bf693

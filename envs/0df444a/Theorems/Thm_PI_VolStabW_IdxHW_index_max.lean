@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_IdxHW_index_max
 -- name    : PI.VolStabW.IdxHW.index_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:42:06.033958+00:00
 -- url     : https://prove2.me/theorems/31967e3e-894d-47d1-929a-fa708b5e189a

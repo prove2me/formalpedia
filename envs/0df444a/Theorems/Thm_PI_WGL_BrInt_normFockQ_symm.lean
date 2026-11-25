@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_BrInt_normFockQ_symm
 -- name    : PI.WGL.BrInt.normFockQ_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:14.870702+00:00
 -- url     : https://prove2.me/theorems/e0ad3b56-6444-4272-8b9a-5133a9d50439

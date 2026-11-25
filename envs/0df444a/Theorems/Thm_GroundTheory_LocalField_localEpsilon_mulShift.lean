@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_localEpsilon_mulShift
 -- name    : GroundTheory.LocalField.localEpsilon_mulShift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:25:19.059803+00:00
 -- url     : https://prove2.me/theorems/1b50646f-239f-5aba-b46c-2be761396a57

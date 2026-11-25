@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelicOrbitU_decomp
 -- name    : PIW.AdelicOrbitU.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:54:59.88081+00:00
 -- url     : https://prove2.me/theorems/e6934ef1-bcad-5864-a243-42300dc7b334

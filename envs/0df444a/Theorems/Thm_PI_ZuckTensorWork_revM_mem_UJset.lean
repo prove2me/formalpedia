@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_revM_mem_UJset
 -- name    : PI.ZuckTensorWork.revM_mem_UJset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:47:11.893174+00:00
 -- url     : https://prove2.me/theorems/5c4fc41c-3a37-5a50-a5e7-32bdce14b196

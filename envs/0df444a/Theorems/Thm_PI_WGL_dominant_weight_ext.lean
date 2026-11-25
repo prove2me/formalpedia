@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_dominant_weight_ext
 -- name    : PI.WGL.dominant_weight_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:45:31.041052+00:00
 -- url     : https://prove2.me/theorems/0b3c9195-d02d-5e9b-ab3a-64b0532776a3

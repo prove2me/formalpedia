@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_aff_low
 -- name    : GlobalTheory.LatClass.aff_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:07:41.978268+00:00
 -- url     : https://prove2.me/theorems/1456f34b-e5c6-4361-9c3e-f5d5117a019c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_cosDens_holds
 -- name    : PI.VolStabSW.cosDens_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:39:33.320316+00:00
 -- url     : https://prove2.me/theorems/a7896a70-9424-43df-a04b-7225afe63073

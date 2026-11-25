@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_AdmissibleCompactSupport_eventually_mem_latV
 -- name    : PI.VolStabW.AdmissibleCompactSupport.eventually_mem_latV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:39:53.994001+00:00
 -- url     : https://prove2.me/theorems/40422887-5515-54e2-b2c3-b9248d13ef09

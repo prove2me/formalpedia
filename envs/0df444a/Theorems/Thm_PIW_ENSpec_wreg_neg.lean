@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ENSpec_wreg_neg
 -- name    : PIW.ENSpec.wreg_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:06.706019+00:00
 -- url     : https://prove2.me/theorems/fc05cf01-5250-4301-a669-890cf6abae90

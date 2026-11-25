@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_ci_herm
 -- name    : PI.WSF.ci_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:47:16.72203+00:00
 -- url     : https://prove2.me/theorems/bbbf7d1c-5a32-4113-96b7-5351376dd0f9

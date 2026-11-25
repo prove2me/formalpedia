@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_exists_capelliPolynomial_ne
 -- name    : PI.WGL.exists_capelliPolynomial_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:00:13.381794+00:00
 -- url     : https://prove2.me/theorems/92054589-cb08-5dfa-86fd-230f55833447

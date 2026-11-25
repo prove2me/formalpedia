@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_RPA_kap_ae
 -- name    : PI.VolStabW.RPA.kap_ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:41:33.819628+00:00
 -- url     : https://prove2.me/theorems/3453fcad-e513-5798-b128-f4e31490b4d8

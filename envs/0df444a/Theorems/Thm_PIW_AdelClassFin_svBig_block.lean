@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_svBig_block
 -- name    : PIW.AdelClassFin.svBig_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:48.212752+00:00
 -- url     : https://prove2.me/theorems/2b75de1a-8ebe-4ce9-bf99-a92105d93046

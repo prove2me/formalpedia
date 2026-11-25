@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_BrInt_mapZC
 -- name    : PI.WGL.BrInt.mapZC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:38.702796+00:00
 -- url     : https://prove2.me/theorems/d43bd44c-4f3d-4707-a673-69505d4f830f

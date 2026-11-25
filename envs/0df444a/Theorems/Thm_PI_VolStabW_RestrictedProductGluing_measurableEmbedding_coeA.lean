@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_RestrictedProductGluing_measurableEmbedding_coeA
 -- name    : PI.VolStabW.RestrictedProductGluing.measurableEmbedding_coeA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:45:42.352642+00:00
 -- url     : https://prove2.me/theorems/2c0cf06b-0a50-4f0c-9cc0-040b73e79e82

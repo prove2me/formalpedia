@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Adj_nf_sum_smul_right
 -- name    : PI.WGL.Adj.nf_sum_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:58:20.020805+00:00
 -- url     : https://prove2.me/theorems/bb67243a-b0cf-5f0f-bc84-167e086af04d

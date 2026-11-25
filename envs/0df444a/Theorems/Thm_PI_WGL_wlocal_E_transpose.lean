@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_wlocal_E_transpose
 -- name    : PI.WGL.wlocal_E_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:46:47.648639+00:00
 -- url     : https://prove2.me/theorems/73bfe97b-978d-48b0-818d-98f4717bb66c

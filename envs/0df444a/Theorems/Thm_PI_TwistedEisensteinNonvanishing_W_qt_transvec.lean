@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_qt_transvec
 -- name    : PI.TwistedEisensteinNonvanishing.W.qt_transvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:31:08.023597+00:00
 -- url     : https://prove2.me/theorems/3aadbbec-1525-40ca-aa05-f2e9a7bf0fce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WfSubstProof_exists_lift
 -- name    : PI.WfSubstProof.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:59:41.729253+00:00
 -- url     : https://prove2.me/theorems/2b3da657-28cb-4756-a080-480a5a66528a

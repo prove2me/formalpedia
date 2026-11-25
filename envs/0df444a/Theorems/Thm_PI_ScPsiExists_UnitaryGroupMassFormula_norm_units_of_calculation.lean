@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPsiExists_UnitaryGroupMassFormula_norm_units_of_calculation
 -- name    : PI.ScPsiExists.UnitaryGroupMassFormula.norm_units_of_calculation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:21:48.764476+00:00
 -- url     : https://prove2.me/theorems/d6a59f39-d392-488a-980d-38b67cb60ffe

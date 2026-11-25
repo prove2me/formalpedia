@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_list_scalar
 -- name    : PI.WGL.list_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:49:50.900038+00:00
 -- url     : https://prove2.me/theorems/abae2005-7750-5d80-896a-2c61107ad5db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WittUnramWork_psi_step
 -- name    : PI.WittUnramWork.psi_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:45:53.643839+00:00
 -- url     : https://prove2.me/theorems/b458028a-6949-4b8f-b7b7-02aa1bb7b524

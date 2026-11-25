@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_lint_fibre
 -- name    : PI.VolStabS.lint_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:36:46.052188+00:00
 -- url     : https://prove2.me/theorems/90c1c674-145f-4942-a661-3d078b0aa446

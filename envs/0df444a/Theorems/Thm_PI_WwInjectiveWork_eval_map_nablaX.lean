@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwInjectiveWork_eval_map_nablaX
 -- name    : PI.WwInjectiveWork.eval_map_nablaX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:45:55.632563+00:00
 -- url     : https://prove2.me/theorems/027285f9-b665-51e7-a85d-f890b3aa1517

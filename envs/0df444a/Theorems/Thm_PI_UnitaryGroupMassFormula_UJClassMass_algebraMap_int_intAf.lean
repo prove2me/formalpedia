@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_algebraMap_int_intAf
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.algebraMap_int_intAf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:42:53.51316+00:00
 -- url     : https://prove2.me/theorems/0c65d435-779d-467e-b6dd-2f09edd251ca

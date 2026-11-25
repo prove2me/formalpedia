@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmLocU_CntFF_card_norm2
 -- name    : PI.OmLocU.CntFF.card_norm2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:15:47.145679+00:00
 -- url     : https://prove2.me/theorems/39f38904-1839-52fa-8114-c5755a482e6a

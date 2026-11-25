@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_BrInt_normFock_swap
 -- name    : PI.WGL.BrInt.normFock_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:46:29.627432+00:00
 -- url     : https://prove2.me/theorems/0a85e89e-a1e4-4164-bc46-081dd38139fa

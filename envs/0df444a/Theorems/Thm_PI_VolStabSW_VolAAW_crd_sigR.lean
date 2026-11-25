@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_VolAAW_crd_sigR
 -- name    : PI.VolStabSW.VolAAW.crd_sigR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:44:33.543599+00:00
 -- url     : https://prove2.me/theorems/6239bc39-4f95-42e5-9202-f3d6d7e4dde1

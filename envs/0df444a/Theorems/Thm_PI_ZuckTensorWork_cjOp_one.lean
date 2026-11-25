@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_cjOp_one
 -- name    : PI.ZuckTensorWork.cjOp_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:46:53.578229+00:00
 -- url     : https://prove2.me/theorems/484a9c39-d51d-50ac-b210-3011175be420

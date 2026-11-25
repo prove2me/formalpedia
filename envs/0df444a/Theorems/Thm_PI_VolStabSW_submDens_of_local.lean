@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_submDens_of_local
 -- name    : PI.VolStabSW.submDens_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:39:38.567904+00:00
 -- url     : https://prove2.me/theorems/c79e4b42-2aef-4649-998d-16b268845ce4

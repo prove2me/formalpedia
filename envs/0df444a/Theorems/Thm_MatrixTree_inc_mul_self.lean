@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTree_inc_mul_self
 -- name    : MatrixTree.inc_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T11:01:27.930561+00:00
 -- url     : https://prove2.me/theorems/4e2958a8-2334-4d84-8a03-7e9af73f2910

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwEvalWork_Lsum_zero
 -- name    : PI.WwEvalWork.Lsum_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:45:25.707897+00:00
 -- url     : https://prove2.me/theorems/0f538602-f02d-5e12-8008-89a60bd0dbd5

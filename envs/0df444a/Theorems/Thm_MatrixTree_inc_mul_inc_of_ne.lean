@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTree_inc_mul_inc_of_ne
 -- name    : MatrixTree.inc_mul_inc_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T11:05:42.410814+00:00
 -- url     : https://prove2.me/theorems/f1b7ed51-700d-5087-8303-6ea3e1441243

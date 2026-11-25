@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6SmallBlockTokenCapacity_TokenRun_previous_holder_mem
 -- name    : F6SmallBlockTokenCapacity.TokenRun.previous_holder_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:29:34.643199+00:00
 -- url     : https://prove2.me/theorems/c36937f8-57a3-5b9e-8f49-a1287deddb3f

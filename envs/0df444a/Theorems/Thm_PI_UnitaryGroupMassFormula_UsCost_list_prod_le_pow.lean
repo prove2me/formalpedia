@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_list_prod_le_pow
 -- name    : PI.UnitaryGroupMassFormula.UsCost.list_prod_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:43:29.256607+00:00
 -- url     : https://prove2.me/theorems/a1eb3a9a-3a96-5439-ba8c-e31e3e231c89

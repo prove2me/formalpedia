@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_isClosed_eqA
 -- name    : PI.WAU.isClosed_eqA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:42:41.471065+00:00
 -- url     : https://prove2.me/theorems/af99ff1d-9ab5-5adc-b566-5703e13895e6

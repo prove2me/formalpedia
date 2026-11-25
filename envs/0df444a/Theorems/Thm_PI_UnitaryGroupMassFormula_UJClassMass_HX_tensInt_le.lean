@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_HX_tensInt_le
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.HX.tensInt_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:44:59.621666+00:00
 -- url     : https://prove2.me/theorems/95ce0cca-f918-4bad-afb9-fc544fbdccc5

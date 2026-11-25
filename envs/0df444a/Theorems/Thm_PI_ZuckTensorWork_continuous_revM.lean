@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_continuous_revM
 -- name    : PI.ZuckTensorWork.continuous_revM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:47:43.157853+00:00
 -- url     : https://prove2.me/theorems/447d3b2e-67ed-4635-98ec-d729fb46ba43

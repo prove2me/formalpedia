@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_RestrProdA_latCofin_holds
 -- name    : PI.VolStabW.RestrProdA.latCofin_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:58:02.148611+00:00
 -- url     : https://prove2.me/theorems/e78572a4-50d4-460f-8b10-48fdbbf77079

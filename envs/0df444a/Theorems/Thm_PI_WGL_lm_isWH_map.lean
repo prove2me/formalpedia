@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_lm_isWH_map
 -- name    : PI.WGL.lm_isWH_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:57:45.467887+00:00
 -- url     : https://prove2.me/theorems/f1a47a15-6b36-5fe9-ba23-7550cce2402f

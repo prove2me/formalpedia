@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LocalizedFibreSets_map_phiQ
 -- name    : Formalism.L2.SG.Pf.LocalizedFibreSets.map_phiQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:36:13.054735+00:00
 -- url     : https://prove2.me/theorems/4f3cffe3-1d22-5a93-8925-80fe26bf39d5

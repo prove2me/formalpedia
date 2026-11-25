@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_cf_adj
 -- name    : PI.WSF.cf_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:45:41.538472+00:00
 -- url     : https://prove2.me/theorems/ad3b4658-5c32-4587-a7c1-ca4632d2931a

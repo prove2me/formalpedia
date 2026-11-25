@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_MMap_real_eq_of_exp
 -- name    : PI.WMI.MMap.real_eq_of_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:13.859427+00:00
 -- url     : https://prove2.me/theorems/8ce3675b-376f-41bc-9dbf-7bb1ad76d8b5

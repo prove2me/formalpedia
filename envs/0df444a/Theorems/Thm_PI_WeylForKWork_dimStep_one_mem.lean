@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_dimStep_one_mem
 -- name    : PI.WeylForKWork.dimStep_one_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:46:01.996607+00:00
 -- url     : https://prove2.me/theorems/15f34c7b-d13a-4a74-b95b-c0797c596f97

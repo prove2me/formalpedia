@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Adj_cU_zpow_val
 -- name    : PI.WGL.Adj.cU_zpow_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:48:48.639303+00:00
 -- url     : https://prove2.me/theorems/d8724a24-e4c3-4c3a-858a-271951b4b36d

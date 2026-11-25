@@ -57860,8 +57860,8 @@
 {"parent": "GroundTheory.GroupCoh.exists_sum_eq_of_basis", "child": "GroundTheory_TateCohomology_CohTrivialBasic", "via": ["solution", "statement"]}
 {"parent": "Newton.dual_candidate_pairing_eq", "child": "Newton_MeasureTheory_Integral_Holder", "via": ["solution", "statement"]}
 {"parent": "Newton.dual_candidate_pairing_eq", "child": "Newton_MeasureTheory_Function_LpSpace_Duality", "via": ["solution", "statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.TBDisc.fg_of_unifDiscrete", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_UniformDiscreteness_FgOfUnifDiscrete", "via": ["statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.TBDisc.fg_of_unifDiscrete", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_RatIntUnifDiscrete", "via": ["statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.TBDisc.fg_of_unifDiscrete", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_UniformDiscreteness_FgOfUnifDiscrete", "via": ["solution", "statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.TBDisc.fg_of_unifDiscrete", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_RatIntUnifDiscrete", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.GenericSection.polyImg_succAbove", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_LaTIsPrime", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.GenericSection.polyImg_succAbove", "child": "Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_PolyImgSuccAbove", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_ArakelovInstances_LeviFinsetSum", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_ArakelovInstances_DetSubMapConj", "via": ["statement"]}
@@ -65768,9 +65768,9 @@
 {"parent": "Formalism.LFunctionChainParameters.LBr2.dirChar_zero", "child": "Formalism_SizeWindowBrackets_ChainSlopeWindows_PrimeCongruenceConditions", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_MemSymmetricCocyclesOfPullbackMulPStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_MemSymmetricCocyclesOfPullbackMulP", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_MemSymmetricCocyclesOfPullbackMulPStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_RigOfOmegaInjectiveOfEqZero", "via": ["statement"]}
-{"parent": "ramificationDegreeSum", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_EfRankSum", "via": ["statement"]}
-{"parent": "ramificationDegreeSum", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_RamificationRankSum_EfRankSumMain", "via": ["statement"]}
-{"parent": "ramificationDegreeSum", "child": "Formalism_PeriodIntegrals_EfRankSum", "via": ["statement"]}
+{"parent": "ramificationDegreeSum", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_EfRankSum", "via": ["solution", "statement"]}
+{"parent": "ramificationDegreeSum", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_RamificationRankSum_EfRankSumMain", "via": ["solution", "statement"]}
+{"parent": "ramificationDegreeSum", "child": "Formalism_PeriodIntegrals_EfRankSum", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CuspFormPullbackIsBoundedSectionStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CuspFormPullbackIsBoundedSection", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CuspFormPullbackIsBoundedSectionStatement", "child": "Development_AbelianVarietyTheory_BlockTheory_PoincareCuspForms_TwoLevelLogarithm", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CuspFormPullbackIsBoundedSectionStatement", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_ExistsLevelBlockOfEq", "via": ["statement"]}
@@ -77108,9 +77108,9 @@
 {"parent": "SZ.mk_nat_arrow_bool", "child": "SZ_SqrtThree", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_IsCrysLatOfTrivial", "child": "Development_AbelianVarietyTheory_BlockTheory_NonGaloisCusps_KernelDictionary", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_IsCrysLatOfTrivial", "child": "Development_AbelianVarietyTheory_Counterexamples_NonGaloisSurvey_CrystallineCyclotomic", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.bessel_ne_zero_of_cyclic_orbit", "child": "Formalism_HermitianCurvature_BesselNonvanishingReduction", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.bessel_ne_zero_of_cyclic_orbit", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BesselNeZeroOfCyclicOrbit", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.bessel_ne_zero_of_cyclic_orbit", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LowerSmoothStability_ExistsFinStableOfMemSSup", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.bessel_ne_zero_of_cyclic_orbit", "child": "Formalism_HermitianCurvature_BesselNonvanishingReduction", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.bessel_ne_zero_of_cyclic_orbit", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_BesselNeZeroOfCyclicOrbit", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.bessel_ne_zero_of_cyclic_orbit", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LowerSmoothStability_ExistsFinStableOfMemSSup", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.CapelliCoordinates.rz_linear", "child": "Formalism_HermitianCurvature_FrameMinor", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.CapelliCoordinates.rz_linear", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OperatorRepresentations", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.CapelliCoordinates.rz_linear", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CapelliCoordinates", "via": ["solution", "statement"]}
@@ -90109,9 +90109,9 @@
 {"parent": "GlobalTheory.T.maximal_compact_subgroup_properties", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_MaximalCompactSubgroupPropertiesStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.maximal_compact_subgroup_properties", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_IsKMeas", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.exists_smooth_step_sharp_slope", "child": "Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_ExistsSmoothStepSharpSlope", "via": ["solution", "statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.UsCost.conj_letter", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCost_ContinuousBlockDiagEmbedRingHom", "via": ["statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.UsCost.conj_letter", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DirectionsInParabolic", "via": ["statement"]}
-{"parent": "PI.UnitaryGroupMassFormula.UsCost.conj_letter", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCost_LetterSize", "via": ["statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.UsCost.conj_letter", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCost_ContinuousBlockDiagEmbedRingHom", "via": ["solution", "statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.UsCost.conj_letter", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DirectionsInParabolic", "via": ["solution", "statement"]}
+{"parent": "PI.UnitaryGroupMassFormula.UsCost.conj_letter", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCost_LetterSize", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.PBK.continuous_integral_psi", "child": "Formalism_HermitianCurvature_StatementG", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.PBK.continuous_integral_psi", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_TendstoIntegralPsiMoving", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.mem_span_iff_finrank_option_eq", "child": "Development_AbelianVarietyTheory_Proofs_CuspFormEvaluations_LinearIndependentRingHomCompIff", "via": ["solution", "statement"]}
@@ -93535,9 +93535,9 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_FlagTypings_cycEval_finsupp_62d89a5ee931", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_TrivBundleIsTwistedForms", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_FlagTypings_cycEval_finsupp_62d89a5ee931", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_BundleObjects", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_FlagTypings_cycEval_finsupp_62d89a5ee931", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_IsVerticalDivOfIsVerticalDivisor", "via": ["solution", "statement"]}
-{"parent": "PI.PolynomialProperness.GN.polynomial_normInv", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_GBasic", "via": ["statement"]}
-{"parent": "PI.PolynomialProperness.GN.polynomial_normInv", "child": "Formalism_HermitianCurvature_FiniteOrderIntersectionInSmooth", "via": ["statement"]}
-{"parent": "PI.PolynomialProperness.GN.polynomial_normInv", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialProperness_ZhatNormLinearBound", "via": ["statement"]}
+{"parent": "PI.PolynomialProperness.GN.polynomial_normInv", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_GBasic", "via": ["solution", "statement"]}
+{"parent": "PI.PolynomialProperness.GN.polynomial_normInv", "child": "Formalism_HermitianCurvature_FiniteOrderIntersectionInSmooth", "via": ["solution", "statement"]}
+{"parent": "PI.PolynomialProperness.GN.polynomial_normInv", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialProperness_ZhatNormLinearBound", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DegCnt.RatNormal.exists_reframe", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_ChartGen", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DegCnt.RatNormal.exists_reframe", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_FlagPairDefinitePartLattice", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DegCnt.RatNormal.exists_reframe", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_NormalFormDualOrthogonalLast", "via": ["solution", "statement"]}

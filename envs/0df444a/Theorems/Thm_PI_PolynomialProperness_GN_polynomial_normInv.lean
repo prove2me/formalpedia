@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_GN_polynomial_normInv
 -- name    : PI.PolynomialProperness.GN.polynomial_normInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:24:19.451253+00:00
 -- url     : https://prove2.me/theorems/50c4a6cd-f6dd-4ac5-baae-3dbc79edebe0

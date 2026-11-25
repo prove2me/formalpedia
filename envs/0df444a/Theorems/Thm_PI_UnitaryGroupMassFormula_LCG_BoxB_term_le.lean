@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_BoxB_term_le
 -- name    : PI.UnitaryGroupMassFormula.LCG.BoxB.term_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:49:36.437978+00:00
 -- url     : https://prove2.me/theorems/6462f3a4-ce9e-5d7c-99de-fa1e46c5e0b5

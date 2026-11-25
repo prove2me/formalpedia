@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_compact_dominant_holds
 -- name    : PI.ZuckTensorWork.compact_dominant_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:47:47.839811+00:00
 -- url     : https://prove2.me/theorems/88493caf-a26f-4e60-a423-ebb00570bc3b

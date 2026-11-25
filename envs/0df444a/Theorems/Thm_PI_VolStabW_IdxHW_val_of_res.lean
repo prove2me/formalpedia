@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_IdxHW_val_of_res
 -- name    : PI.VolStabW.IdxHW.val_of_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:40:23.552081+00:00
 -- url     : https://prove2.me/theorems/3a33c36e-6813-57bc-823f-e0a1a8bd375d

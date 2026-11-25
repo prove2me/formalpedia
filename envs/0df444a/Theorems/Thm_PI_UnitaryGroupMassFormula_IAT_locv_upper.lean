@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_IAT_locv_upper
 -- name    : PI.UnitaryGroupMassFormula.IAT.locv_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:38:54.982575+00:00
 -- url     : https://prove2.me/theorems/350538df-750b-488e-9021-8057b0b1cf5a

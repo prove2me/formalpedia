@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_intC_neg
 -- name    : PI.WAU.intC_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:55:22.804402+00:00
 -- url     : https://prove2.me/theorems/96adcac6-07d3-4de1-965e-0735c383282d

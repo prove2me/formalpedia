@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_coord_map
 -- name    : PI.WAU.coord_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:44:01.036507+00:00
 -- url     : https://prove2.me/theorems/5229c05f-25b6-4e22-9c5a-9a27083cf47b

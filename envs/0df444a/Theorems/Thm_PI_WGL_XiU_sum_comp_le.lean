@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiU_sum_comp_le
 -- name    : PI.WGL.XiU.sum_comp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:45:52.073831+00:00
 -- url     : https://prove2.me/theorems/87f66be2-0df3-448b-940c-cf510b3d64d6

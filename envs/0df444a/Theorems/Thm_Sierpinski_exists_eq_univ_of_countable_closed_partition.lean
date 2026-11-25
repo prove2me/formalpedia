@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sierpinski_exists_eq_univ_of_countable_closed_partition
 -- name    : Sierpinski.exists_eq_univ_of_countable_closed_partition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:53:51.152075+00:00
 -- url     : https://prove2.me/theorems/59674fb7-2bf6-5d6e-8809-8ab70cf3c6ab

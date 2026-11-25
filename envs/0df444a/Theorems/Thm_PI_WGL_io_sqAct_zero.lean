@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_io_sqAct_zero
 -- name    : PI.WGL.io_sqAct_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:49:17.443963+00:00
 -- url     : https://prove2.me/theorems/250c7dcc-111a-5f2b-b548-1f7641f568a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualLineIndexAlt_genIndex_span_eq_finprod_082c844d81d2
 -- name    : P2M_GroundTheory_Heights__Heights_DualLineIndexAlt_genIndex_span_eq_finprod_082c844d81d2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:42:09.025208+00:00
 -- url     : https://prove2.me/theorems/560bc0db-df7d-49a7-af48-37a09e69520c

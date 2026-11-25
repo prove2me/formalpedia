@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_X_mem_FiltB
 -- name    : PI.WGB.X_mem_FiltB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:01:19.018398+00:00
 -- url     : https://prove2.me/theorems/ed3f60df-40eb-5c73-a641-429c556447e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_revM_eq_one_iff
 -- name    : PI.ZuckTensorWork.revM_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:47:02.673179+00:00
 -- url     : https://prove2.me/theorems/dc6d11b9-d151-4783-8bd3-239348c49207

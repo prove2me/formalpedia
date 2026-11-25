@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_RestrictedProductGluing_crd_glue
 -- name    : PI.VolStabW.RestrictedProductGluing.crd_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:40:13.219361+00:00
 -- url     : https://prove2.me/theorems/a313d122-ddae-58da-b576-4148f76b887b

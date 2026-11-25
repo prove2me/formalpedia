@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_isGalois_untiltField
 -- name    : GroundTheory.PAdicHodge.isGalois_untiltField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:07:54.963768+00:00
 -- url     : https://prove2.me/theorems/9aa3705c-83d6-5b85-97c5-e833fdfa306c

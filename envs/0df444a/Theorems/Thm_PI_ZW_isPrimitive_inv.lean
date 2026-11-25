@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZW_isPrimitive_inv
 -- name    : PI.ZW.isPrimitive_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:46:45.04505+00:00
 -- url     : https://prove2.me/theorems/184a1f23-2ab6-4096-bc12-777075c5a346

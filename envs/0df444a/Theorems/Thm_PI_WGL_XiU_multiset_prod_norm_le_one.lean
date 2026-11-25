@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiU_multiset_prod_norm_le_one
 -- name    : PI.WGL.XiU.multiset_prod_norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:45:38.071606+00:00
 -- url     : https://prove2.me/theorems/79866ba0-cec6-4ec7-be1b-ce5a3e1ee1d7

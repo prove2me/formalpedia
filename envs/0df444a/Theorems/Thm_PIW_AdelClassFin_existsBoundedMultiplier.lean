@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_existsBoundedMultiplier
 -- name    : PIW.AdelClassFin.existsBoundedMultiplier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:47:35.151344+00:00
 -- url     : https://prove2.me/theorems/980d252e-23b1-4695-8694-475c8fdc9f10

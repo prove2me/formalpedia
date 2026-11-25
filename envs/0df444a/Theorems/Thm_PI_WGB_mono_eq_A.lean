@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_mono_eq_A
 -- name    : PI.WGB.mono_eq_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:46:03.338815+00:00
 -- url     : https://prove2.me/theorems/01aada72-bf6c-46d2-b259-b0cba1dfe8e9

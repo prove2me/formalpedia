@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_BrInt_normFock_map
 -- name    : PI.WGL.BrInt.normFock_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:59:32.793627+00:00
 -- url     : https://prove2.me/theorems/75c04a37-0550-5fac-bb2f-b53d6503f32e

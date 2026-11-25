@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_psi_le_B
 -- name    : PI.WGB.psi_le_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:46:09.059404+00:00
 -- url     : https://prove2.me/theorems/f5f405e5-77b8-41fb-b026-e78aa92ecb35

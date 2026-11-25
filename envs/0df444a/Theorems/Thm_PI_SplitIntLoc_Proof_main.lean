@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SplitIntLoc_Proof_main
 -- name    : PI.SplitIntLoc.Proof.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:25:13.171292+00:00
 -- url     : https://prove2.me/theorems/7d8868a4-ccc5-4d41-be7e-e88603a8c725

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_iInf_fil
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.iInf_fil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:01:59.525704+00:00
 -- url     : https://prove2.me/theorems/10341600-da91-44ce-8f28-78be51c26f06

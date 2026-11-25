@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_omE_self_monomial
 -- name    : PI.WFJM.omE_self_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:20.26617+00:00
 -- url     : https://prove2.me/theorems/b6585c06-fdd5-4d3b-895f-81cfd58a1413

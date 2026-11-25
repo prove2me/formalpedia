@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_hasDerivAt_polyG
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.hasDerivAt_polyG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:34:09.117461+00:00
 -- url     : https://prove2.me/theorems/fcc1a454-b764-45a3-ad0d-17f885bc08bc

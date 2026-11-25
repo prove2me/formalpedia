@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WADVR_Sm_sum
 -- name    : PI.WADVR.Sm.sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:44:14.352088+00:00
 -- url     : https://prove2.me/theorems/a66c1ebc-e103-490b-80ad-60b4b8c3cb68

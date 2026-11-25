@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTE_sg_detShift
 -- name    : PI.WGL.LTE.sg_detShift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:22.720808+00:00
 -- url     : https://prove2.me/theorems/65d28c2e-a537-49f6-b3ce-eebee1de5500

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_IdxHW_sigma_ne_id
 -- name    : PI.VolStabW.IdxHW.sigma_ne_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:40:03.718723+00:00
 -- url     : https://prove2.me/theorems/3df9fd04-f6fd-4f41-9b51-08d63859118f

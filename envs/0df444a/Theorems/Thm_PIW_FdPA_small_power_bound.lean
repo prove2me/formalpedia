@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_FdPA_small_power_bound
 -- name    : PIW.FdPA.small_power_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:48:42.429888+00:00
 -- url     : https://prove2.me/theorems/bca4e316-3440-4680-8009-22729aaebc24

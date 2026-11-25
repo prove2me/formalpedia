@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_RestrictedProductFiber_fib_props
 -- name    : PI.VolStabW.RestrictedProductFiber.fib_props
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:45:45.142796+00:00
 -- url     : https://prove2.me/theorems/68510fa4-7bf5-4866-b1d5-6311c39523d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_coord_incl
 -- name    : PI.WAU.coord_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:44:00.387739+00:00
 -- url     : https://prove2.me/theorems/4498ebbc-6db9-4fb5-9666-4953fc2555d4

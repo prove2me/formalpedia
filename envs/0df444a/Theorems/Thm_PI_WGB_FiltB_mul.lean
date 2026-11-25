@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_FiltB_mul
 -- name    : PI.WGB.FiltB_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:44:57.232589+00:00
 -- url     : https://prove2.me/theorems/a356c5f8-71d6-41ee-893c-ce66f6f74d82

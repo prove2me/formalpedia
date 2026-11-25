@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdUniqW_continuous_psiV
 -- name    : PI.VolStabW.SdUniqW.continuous_psiV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:38:25.183415+00:00
 -- url     : https://prove2.me/theorems/2340499d-e03b-41aa-b25d-9bbea310036f

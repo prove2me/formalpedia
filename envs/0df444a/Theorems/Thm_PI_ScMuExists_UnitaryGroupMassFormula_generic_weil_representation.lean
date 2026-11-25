@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_generic_weil_representation
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.generic_weil_representation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:40:40.485474+00:00
 -- url     : https://prove2.me/theorems/69684f62-bac6-5293-a624-57502fe7d45e

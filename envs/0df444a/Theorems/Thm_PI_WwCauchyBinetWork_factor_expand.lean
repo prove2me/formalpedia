@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwCauchyBinetWork_factor_expand
 -- name    : PI.WwCauchyBinetWork.factor_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:45:38.332474+00:00
 -- url     : https://prove2.me/theorems/7043fc8e-2a93-41a4-b712-8335672a982f

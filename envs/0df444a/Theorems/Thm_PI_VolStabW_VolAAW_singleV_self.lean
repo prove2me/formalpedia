@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_VolAAW_singleV_self
 -- name    : PI.VolStabW.VolAAW.singleV_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:57:32.464491+00:00
 -- url     : https://prove2.me/theorems/8034e2f7-609b-52b4-b57c-e449955efe96

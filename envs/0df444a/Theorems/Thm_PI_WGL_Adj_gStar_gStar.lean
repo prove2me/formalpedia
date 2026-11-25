@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Adj_gStar_gStar
 -- name    : PI.WGL.Adj.gStar_gStar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:00:20.069695+00:00
 -- url     : https://prove2.me/theorems/8a0ee6e4-1d57-5d05-82e5-8b8a60d003ca

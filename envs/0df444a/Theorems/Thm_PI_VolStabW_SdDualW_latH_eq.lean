@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdDualW_latH_eq
 -- name    : PI.VolStabW.SdDualW.latH_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:38:42.576645+00:00
 -- url     : https://prove2.me/theorems/b2d54f83-90dd-4e8a-be7b-a82f1bc07e98

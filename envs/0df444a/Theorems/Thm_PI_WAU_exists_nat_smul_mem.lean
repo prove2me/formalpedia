@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_exists_nat_smul_mem
 -- name    : PI.WAU.exists_nat_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:43:45.926826+00:00
 -- url     : https://prove2.me/theorems/2a311b10-f16e-4cb9-ac81-ee8a74f68420

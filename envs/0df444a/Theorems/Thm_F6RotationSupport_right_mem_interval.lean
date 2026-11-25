@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6RotationSupport_right_mem_interval
 -- name    : F6RotationSupport.right_mem_interval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:25:40.191641+00:00
 -- url     : https://prove2.me/theorems/bac504d0-457c-51cf-bdbb-ad56b4d7b20d

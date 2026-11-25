@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_TemperedBoundGL3_notMem_zero
 -- name    : Formalism.L2.SG.Pf.TemperedBoundGL3.notMem_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:55:45.279813+00:00
 -- url     : https://prove2.me/theorems/24c3a304-b9bd-5bf3-a303-0533fb81c106

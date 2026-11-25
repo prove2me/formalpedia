@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_zpow_mul_mem_pow
 -- name    : GlobalTheory.LatClass.zpow_mul_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:46:11.80542+00:00
 -- url     : https://prove2.me/theorems/d7fe4260-aca1-4e8a-9268-e9a9ae22aa95

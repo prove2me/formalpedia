@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_HilbertSchmidtNorm_L2
 -- name    : PositivityTheory.CW.HilbertSchmidtNorm.L2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:50:34.402939+00:00
 -- url     : https://prove2.me/theorems/784aa7c2-3b2b-4210-8f7f-79c42dfa7e44

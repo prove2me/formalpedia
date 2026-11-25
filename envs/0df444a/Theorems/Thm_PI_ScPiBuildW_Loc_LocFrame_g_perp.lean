@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Loc_LocFrame_g_perp
 -- name    : PI.ScPiBuildW.Loc.LocFrame.g_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:54:20.338452+00:00
 -- url     : https://prove2.me/theorems/9491c8b1-6c32-4b16-b797-6f26837847e6

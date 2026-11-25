@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_existsLatticeAutomorphismApprox
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.existsLatticeAutomorphismApprox
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:40:41.247887+00:00
 -- url     : https://prove2.me/theorems/78d20a79-d10b-4e9b-8900-ba562a85d476

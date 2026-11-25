@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_oneIndex_of_oneClass_of_supportOne
 -- name    : GlobalTheory.SymChain.oneIndex_of_oneClass_of_supportOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:39:06.554324+00:00
 -- url     : https://prove2.me/theorems/8a02e2f1-d4e4-5944-b4aa-6c2b059b67ae

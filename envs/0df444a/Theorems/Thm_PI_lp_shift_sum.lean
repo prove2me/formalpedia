@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_lp_shift_sum
 -- name    : PI.lp_shift_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:46:56.150029+00:00
 -- url     : https://prove2.me/theorems/09089d00-dafd-547b-b40e-e2a35c5fed7e

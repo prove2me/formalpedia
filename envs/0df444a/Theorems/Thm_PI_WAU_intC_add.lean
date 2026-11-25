@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_intC_add
 -- name    : PI.WAU.intC_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:44:23.894807+00:00
 -- url     : https://prove2.me/theorems/dc152bc1-cd4f-54b4-be3a-f3111ce028b4

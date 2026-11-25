@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_minorA_RInv
 -- name    : PI.WGB.minorA_RInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:46:09.211663+00:00
 -- url     : https://prove2.me/theorems/988f6709-b5fc-558f-a668-59fd080d809f

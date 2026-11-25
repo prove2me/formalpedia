@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_degree_sub_det_shift_nonneg
 -- name    : PI.WGL.degree_sub_det_shift_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:45:29.631392+00:00
 -- url     : https://prove2.me/theorems/8cf38aa6-1a25-4e6f-bceb-c81c21c68909

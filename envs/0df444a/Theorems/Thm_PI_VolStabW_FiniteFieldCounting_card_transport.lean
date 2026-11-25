@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_FiniteFieldCounting_card_transport
 -- name    : PI.VolStabW.FiniteFieldCounting.card_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:37:04.346553+00:00
 -- url     : https://prove2.me/theorems/f1de3ad4-a954-5e61-8e21-9a25aa238929

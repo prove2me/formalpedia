@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_bessel_ne_zero_of_cyclic_orbit
 -- name    : Formalism.FourierDecayAlt.P.bessel_ne_zero_of_cyclic_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:29:57.039218+00:00
 -- url     : https://prove2.me/theorems/1fe9ce1e-fea7-5fa3-aa08-1145dad2514f

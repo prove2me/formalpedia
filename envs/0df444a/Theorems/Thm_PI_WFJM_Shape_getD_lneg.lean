@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_Shape_getD_lneg
 -- name    : PI.WFJM.Shape.getD_lneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:44:05.485627+00:00
 -- url     : https://prove2.me/theorems/8c500e5f-9fe5-4286-a16e-317ce10ea7f4

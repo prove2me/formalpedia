@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_omon_lower
 -- name    : PI.WickFormula.omon_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:46:56.289597+00:00
 -- url     : https://prove2.me/theorems/89f33dca-5243-4bf6-ba49-7095ddcaf4e2

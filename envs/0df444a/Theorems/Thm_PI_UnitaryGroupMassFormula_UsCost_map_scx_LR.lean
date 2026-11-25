@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_map_scx_LR
 -- name    : PI.UnitaryGroupMassFormula.UsCost.map_scx_LR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:37:00.653618+00:00
 -- url     : https://prove2.me/theorems/0bacc78d-de73-53f3-b049-59fe33039afd

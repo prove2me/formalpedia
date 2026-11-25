@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwMainW_applyQ_eq
 -- name    : PI.WwMainW.applyQ_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:45:50.792471+00:00
 -- url     : https://prove2.me/theorems/a81cf7f6-ea3c-5943-a230-2175d9f43f15

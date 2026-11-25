@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_spDen
 -- name    : PIW.AdelClassFin.spDen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:50:36.213798+00:00
 -- url     : https://prove2.me/theorems/6d182e63-de36-54e2-bf89-2250881245bf

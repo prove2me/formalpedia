@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiFrameW_gs_step
 -- name    : PI.ScPiFrameW.gs_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:24:32.214027+00:00
 -- url     : https://prove2.me/theorems/afec437e-28ce-56da-96d9-26e1ebeb3ee6

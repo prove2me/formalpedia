@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_IdxHW_crd_sigR
 -- name    : PI.VolStabW.IdxHW.crd_sigR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:39:21.4838+00:00
 -- url     : https://prove2.me/theorems/689579e0-5991-433f-84ba-9304861b0b08

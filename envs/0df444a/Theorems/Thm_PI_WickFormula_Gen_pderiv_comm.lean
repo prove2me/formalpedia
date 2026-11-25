@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Gen_pderiv_comm
 -- name    : PI.WickFormula.Gen.pderiv_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:46:36.143408+00:00
 -- url     : https://prove2.me/theorems/c3ca8455-4c90-4940-8a02-8994c5e73b14

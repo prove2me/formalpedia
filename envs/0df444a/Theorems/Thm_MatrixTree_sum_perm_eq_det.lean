@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTree_sum_perm_eq_det
 -- name    : MatrixTree.sum_perm_eq_det
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T11:01:31.731204+00:00
 -- url     : https://prove2.me/theorems/fd218d51-efd2-456d-8520-e53c1308aa29

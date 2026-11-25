@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DeterminantAdmissible_isCompact_finite_adele_box
 -- name    : PI.VolStabW.DeterminantAdmissible.isCompact_finite_adele_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:43:39.747411+00:00
 -- url     : https://prove2.me/theorems/197fb17e-615b-47ee-ad7c-e79f35956ec4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_DensGen_densGen
 -- name    : PI.VolStabSW.DensGen.densGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:39:16.517131+00:00
 -- url     : https://prove2.me/theorems/22bccecf-ae5d-4fab-8c97-817720327495

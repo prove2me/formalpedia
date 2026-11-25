@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_appr_spec
 -- name    : PI.VolStabSW.appr_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:58:23.126364+00:00
 -- url     : https://prove2.me/theorems/f31a84fe-9e7e-5dbf-97ca-894380e92560

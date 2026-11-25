@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_lowerInv_torus_mul
 -- name    : PI.WMI.lowerInv_torus_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:48:41.158926+00:00
 -- url     : https://prove2.me/theorems/cc443432-9e06-4a42-9626-59415b41b361

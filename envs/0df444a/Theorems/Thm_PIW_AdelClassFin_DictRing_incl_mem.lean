@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictRing_incl_mem
 -- name    : PIW.AdelClassFin.DictRing.incl_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:50:58.193739+00:00
 -- url     : https://prove2.me/theorems/6b60c579-b5a7-5521-876f-55a118e82033

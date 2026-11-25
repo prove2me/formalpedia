@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTD_card_eq_sz
 -- name    : PI.WGL.LTD.card_eq_sz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:44:14.9107+00:00
 -- url     : https://prove2.me/theorems/51f7c279-9b41-4216-b44a-c7919866f783

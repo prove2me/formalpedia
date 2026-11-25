@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WittUnramWork_sigW_lift
 -- name    : PI.WittUnramWork.sigW_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:45:20.787202+00:00
 -- url     : https://prove2.me/theorems/fea48cb6-b034-5d9e-9c0a-749273f167b4

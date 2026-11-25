@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_qV_eq
 -- name    : PI.VolStabW.qV_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:44:56.233712+00:00
 -- url     : https://prove2.me/theorems/fdb2b2ab-5aa1-4475-9481-72b9564d76b4

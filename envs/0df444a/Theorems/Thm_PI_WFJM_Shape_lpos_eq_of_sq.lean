@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_Shape_lpos_eq_of_sq
 -- name    : PI.WFJM.Shape.lpos_eq_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:44:16.440698+00:00
 -- url     : https://prove2.me/theorems/05cbf7fd-4477-4941-af91-16f6d06e6a85

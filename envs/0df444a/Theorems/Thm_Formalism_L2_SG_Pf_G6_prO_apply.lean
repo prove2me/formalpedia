@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G6_prO_apply
 -- name    : Formalism.L2.SG.Pf.G6.prO_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:28:41.599661+00:00
 -- url     : https://prove2.me/theorems/1eddcc7b-de34-5541-9adb-60d64cf11bc8

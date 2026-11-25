@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_Oh_smul_latHat
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.Oh_smul_latHat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:43:12.261292+00:00
 -- url     : https://prove2.me/theorems/7a7b5b41-b663-4da5-8fcd-77fdcc51f7e9

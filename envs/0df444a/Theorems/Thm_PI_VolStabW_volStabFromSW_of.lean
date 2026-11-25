@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_volStabFromSW_of
 -- name    : PI.VolStabW.volStabFromSW_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:48:35.620801+00:00
 -- url     : https://prove2.me/theorems/21b56c94-0960-4235-845d-419d852a4514

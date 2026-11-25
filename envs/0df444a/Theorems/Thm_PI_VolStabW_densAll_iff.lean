@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_densAll_iff
 -- name    : PI.VolStabW.densAll_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:43:24.890947+00:00
 -- url     : https://prove2.me/theorems/da6bd69f-7f33-434c-9ae1-60c2628ceefe

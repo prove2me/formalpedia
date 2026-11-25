@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiA_pow_mem
 -- name    : PI.WGL.XiA.pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:46:38.828692+00:00
 -- url     : https://prove2.me/theorems/9820b751-322b-4add-99a3-e5103dd00289

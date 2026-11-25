@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WHw_stable_subspace_closed
 -- name    : PI.WHw.stable_subspace_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:47:52.314003+00:00
 -- url     : https://prove2.me/theorems/0bd8c778-6698-445e-9444-32d3b79e81cc

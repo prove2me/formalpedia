@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_mem_Floc_self
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.mem_Floc_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:47:35.275098+00:00
 -- url     : https://prove2.me/theorems/110b0403-ca6d-5841-8377-85ede85d8155

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_apply_eq_one_of_isUnramified
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.apply_eq_one_of_isUnramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:39:23.909395+00:00
 -- url     : https://prove2.me/theorems/5c932bd8-c08f-5fa1-ade0-384f8a1c80aa

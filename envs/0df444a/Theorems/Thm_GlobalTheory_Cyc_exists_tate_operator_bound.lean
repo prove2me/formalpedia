@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_exists_tate_operator_bound
 -- name    : GlobalTheory.Cyc.exists_tate_operator_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:26:50.831516+00:00
 -- url     : https://prove2.me/theorems/b6324731-7604-4cd8-bf21-5cb0257db5e2

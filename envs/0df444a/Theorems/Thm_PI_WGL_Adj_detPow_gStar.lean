@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Adj_detPow_gStar
 -- name    : PI.WGL.Adj.detPow_gStar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:48:16.217157+00:00
 -- url     : https://prove2.me/theorems/bbb71c99-51be-4a8e-a00f-963383de0bb7

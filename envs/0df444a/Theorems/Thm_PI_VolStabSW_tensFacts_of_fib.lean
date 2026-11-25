@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_tensFacts_of_fib
 -- name    : PI.VolStabSW.tensFacts_of_fib
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:40:06.835376+00:00
 -- url     : https://prove2.me/theorems/39914b50-1d38-4f15-a5b1-48ec5de25a80

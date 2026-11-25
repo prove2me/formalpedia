@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_det_ne_zero_of_mem_K
 -- name    : PI.WMI.det_ne_zero_of_mem_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:27.9038+00:00
 -- url     : https://prove2.me/theorems/d429bae6-6531-4782-8920-6bd49422a8b9

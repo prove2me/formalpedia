@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForUWork_denom_range
 -- name    : PI.WeylForUWork.denom_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:51:18.719805+00:00
 -- url     : https://prove2.me/theorems/798c4347-efab-5c68-aa16-d9bcdd46f659

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictLat_iv_single
 -- name    : PIW.AdelClassFin.DictLat.iv_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:49:07.028233+00:00
 -- url     : https://prove2.me/theorems/62b5e2a7-cb80-45da-87a8-10475b5f8688

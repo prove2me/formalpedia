@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Fock6_offDiag_transpose
 -- name    : PI.WGL.Fock6.offDiag_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:47:12.713984+00:00
 -- url     : https://prove2.me/theorems/474625f5-e4c8-45df-a76f-d7e47c0f3143

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_dimStep_stab
 -- name    : PI.WeylForKWork.dimStep_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:45:59.929443+00:00
 -- url     : https://prove2.me/theorems/061a7ea7-e63d-5e6a-bdc1-649b23b50db7

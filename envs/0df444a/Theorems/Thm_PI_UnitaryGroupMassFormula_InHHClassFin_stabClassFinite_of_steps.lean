@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_InHHClassFin_stabClassFinite_of_steps
 -- name    : PI.UnitaryGroupMassFormula.InHHClassFin.stabClassFinite_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:41:53.0038+00:00
 -- url     : https://prove2.me/theorems/9db65799-dfb6-44a1-a472-f40162561d94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTF_cardL
 -- name    : PI.WGL.LTF.cardL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:46:04.932229+00:00
 -- url     : https://prove2.me/theorems/91dfdc5b-8cb6-4c65-b16f-5408ce1e3795

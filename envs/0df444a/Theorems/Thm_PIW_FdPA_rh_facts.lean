@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_FdPA_rh_facts
 -- name    : PIW.FdPA.rh_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:48:54.803431+00:00
 -- url     : https://prove2.me/theorems/953b892f-6e28-471d-a04b-93a6ddb1633e

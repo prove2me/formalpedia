@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_WF_hG_LA
 -- name    : PI.ScRefExists.WF.hG_LA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:20:09.217578+00:00
 -- url     : https://prove2.me/theorems/a6bfcb87-fd6d-4745-b59b-0dc4fc604f34

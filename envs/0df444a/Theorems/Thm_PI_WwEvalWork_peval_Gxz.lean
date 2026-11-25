@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwEvalWork_peval_Gxz
 -- name    : PI.WwEvalWork.peval_Gxz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:46:10.748225+00:00
 -- url     : https://prove2.me/theorems/119b8aae-7d86-4914-8f4c-f79f20f072ca

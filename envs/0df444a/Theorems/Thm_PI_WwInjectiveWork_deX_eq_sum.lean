@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WwInjectiveWork_deX_eq_sum
 -- name    : PI.WwInjectiveWork.deX_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:45:57.418991+00:00
 -- url     : https://prove2.me/theorems/7c4d8dd2-b055-5ae9-8188-b24da9613a1f

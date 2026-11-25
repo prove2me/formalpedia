@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_adjoint_rep
 -- name    : PIW.HCFdeg.adjoint_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:48:27.627176+00:00
 -- url     : https://prove2.me/theorems/0ffc9f36-ad28-5e5f-9507-fe400290695e

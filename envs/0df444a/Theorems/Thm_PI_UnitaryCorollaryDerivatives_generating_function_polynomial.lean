@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_generating_function_polynomial
 -- name    : PI.UnitaryCorollaryDerivatives.generating_function_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:32:26.621987+00:00
 -- url     : https://prove2.me/theorems/f90228bc-8d8c-5b51-a781-663a6e5004f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DeterminantAdmissible_isOpen_boxS
 -- name    : PI.VolStabW.DeterminantAdmissible.isOpen_boxS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:43:51.827072+00:00
 -- url     : https://prove2.me/theorems/aa3a0796-9d95-4ba1-9524-c76b3f689944

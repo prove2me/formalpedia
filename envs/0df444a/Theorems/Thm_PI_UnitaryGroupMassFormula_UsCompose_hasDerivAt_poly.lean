@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCompose_hasDerivAt_poly
 -- name    : PI.UnitaryGroupMassFormula.UsCompose.hasDerivAt_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:24:38.445074+00:00
 -- url     : https://prove2.me/theorems/0a711305-a168-400a-8b6d-2e9720366f28

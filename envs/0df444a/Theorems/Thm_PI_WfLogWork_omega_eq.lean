@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WfLogWork_omega_eq
 -- name    : PI.WfLogWork.omega_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:05:53.070103+00:00
 -- url     : https://prove2.me/theorems/332a38ee-5f64-52c0-91f6-13bfa9e7510c

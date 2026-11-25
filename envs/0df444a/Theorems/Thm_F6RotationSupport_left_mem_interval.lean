@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6RotationSupport_left_mem_interval
 -- name    : F6RotationSupport.left_mem_interval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:25:41.071882+00:00
 -- url     : https://prove2.me/theorems/7a2c0d4a-be62-4d40-8f3a-bbab7c99913c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiA_prod_mem
 -- name    : PI.WGL.XiA.prod_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:46:37.736003+00:00
 -- url     : https://prove2.me/theorems/5bcbbc18-1ee5-4014-80fe-5f3ea8834ce1

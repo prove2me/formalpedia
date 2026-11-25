@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_spectral_gap_holds
 -- name    : PI.ZuckTensorWork.spectral_gap_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:46:28.820328+00:00
 -- url     : https://prove2.me/theorems/72d0c0b1-8166-591d-a8b5-1f8686fb8b45

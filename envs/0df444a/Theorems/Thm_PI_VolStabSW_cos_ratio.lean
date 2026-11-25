@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_cos_ratio
 -- name    : PI.VolStabSW.cos_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:58:15.382518+00:00
 -- url     : https://prove2.me/theorems/2815fcaa-3ae3-4cf8-8bd6-569b7898b2aa

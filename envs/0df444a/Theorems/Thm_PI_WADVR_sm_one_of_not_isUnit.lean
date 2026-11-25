@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WADVR_sm_one_of_not_isUnit
 -- name    : PI.WADVR.sm_one_of_not_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:58:53.019649+00:00
 -- url     : https://prove2.me/theorems/f4681513-0742-48fb-86ac-f091b5dd8e5f

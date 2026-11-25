@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_FiniteFieldSplitting_fFSplit_nat
 -- name    : PI.VolStabSW.FiniteFieldSplitting.fFSplit_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:41:31.24165+00:00
 -- url     : https://prove2.me/theorems/5c4de143-9920-4b51-bb83-0d021b6b113f

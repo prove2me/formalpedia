@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_latCountAll_of
 -- name    : PI.UnitaryGroupMassFormula.LCG.latCountAll_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:40:08.570942+00:00
 -- url     : https://prove2.me/theorems/086a16bc-be89-4634-8561-5c6a147cd171

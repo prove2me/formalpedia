@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_BrInt_fockF_ext_ne
 -- name    : PI.WGL.BrInt.fockF_ext_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:46:31.296582+00:00
 -- url     : https://prove2.me/theorems/26d05534-8d8a-425a-93ec-13547fe1b6d8

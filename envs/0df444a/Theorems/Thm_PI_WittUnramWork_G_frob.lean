@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WittUnramWork_G_frob
 -- name    : PI.WittUnramWork.G_frob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:45:33.486229+00:00
 -- url     : https://prove2.me/theorems/d68413f3-4af0-40ef-b3c3-7cb6f1153574

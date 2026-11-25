@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6SmallBlockTokenCapacity_TokenRun_pair_of_card_two_mem
 -- name    : F6SmallBlockTokenCapacity.TokenRun.pair_of_card_two_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:30:05.05196+00:00
 -- url     : https://prove2.me/theorems/4fd25fe4-c281-422c-a8c4-af3cc03765e0

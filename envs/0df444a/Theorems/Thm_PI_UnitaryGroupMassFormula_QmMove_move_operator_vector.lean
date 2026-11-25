@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmMove_move_operator_vector
 -- name    : PI.UnitaryGroupMassFormula.QmMove.move_operator_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:39:55.41307+00:00
 -- url     : https://prove2.me/theorems/a8b13b39-f8ea-4596-b3ff-7032a2505e4d

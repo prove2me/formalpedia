@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_DB_coef_sum
 -- name    : PI.UnitaryGroupMassFormula.UsCost.DB.coef_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:04:36.706985+00:00
 -- url     : https://prove2.me/theorems/83130378-dd5c-4dbb-bab4-19681d81d352

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_ext_toM
 -- name    : PIW.HCFdeg.ext_toM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:48:35.905387+00:00
 -- url     : https://prove2.me/theorems/7ad2a25f-eb8d-5183-9d77-31494f8a2dbc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_lattice_indexOf
 -- name    : PI.UnitaryGroupMassFormula.LCG.lattice_indexOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:40:46.601782+00:00
 -- url     : https://prove2.me/theorems/51319c91-12e4-451e-8ce2-fafe9efbf9d7

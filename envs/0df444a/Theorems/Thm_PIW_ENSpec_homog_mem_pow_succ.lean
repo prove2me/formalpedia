@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ENSpec_homog_mem_pow_succ
 -- name    : PIW.ENSpec.homog_mem_pow_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:27.709663+00:00
 -- url     : https://prove2.me/theorems/1de03103-0699-4be0-9d89-68a70fe80211

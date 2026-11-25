@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BeckFialaMatrix_exists_rounding_preserving_integral
 -- name    : BeckFialaMatrix.exists_rounding_preserving_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:55:25.962196+00:00
 -- url     : https://prove2.me/theorems/14f4b5d6-af2c-4da9-b906-25f6ebc5be52

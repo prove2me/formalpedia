@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_signatureMatrix_allPos_eq_one
 -- name    : PI.WeylForKWork.signatureMatrix_allPos_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:55:21.24689+00:00
 -- url     : https://prove2.me/theorems/c5c9dc9e-57cf-54c9-817f-890fa78b14ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTree_mem_of_inc_ne_zero
 -- name    : MatrixTree.mem_of_inc_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T11:01:07.260881+00:00
 -- url     : https://prove2.me/theorems/0304a4b5-8d93-5608-8879-1564ad2a4ac9

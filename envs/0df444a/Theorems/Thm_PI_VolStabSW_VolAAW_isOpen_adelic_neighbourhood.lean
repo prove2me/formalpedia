@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_VolAAW_isOpen_adelic_neighbourhood
 -- name    : PI.VolStabSW.VolAAW.isOpen_adelic_neighbourhood
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:21:02.656285+00:00
 -- url     : https://prove2.me/theorems/d6a09c0c-4921-5459-af81-41fda90c0076

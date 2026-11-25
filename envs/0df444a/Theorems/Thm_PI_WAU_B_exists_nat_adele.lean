@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_exists_nat_adele
 -- name    : PI.WAU.B.exists_nat_adele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:43:49.022191+00:00
 -- url     : https://prove2.me/theorems/e0128b7a-9c04-47e6-afec-1a91ed4db45b

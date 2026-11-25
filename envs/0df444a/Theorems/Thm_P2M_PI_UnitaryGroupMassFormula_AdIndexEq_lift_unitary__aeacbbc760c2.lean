@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryGroupMassFormula_AdIndexEq_lift_unitary__aeacbbc760c2
 -- name    : P2M_PI_UnitaryGroupMassFormula_AdIndexEq_lift_unitary__aeacbbc760c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:30:16.500857+00:00
 -- url     : https://prove2.me/theorems/628d243e-60aa-45c4-9f7c-00a48e1531e6

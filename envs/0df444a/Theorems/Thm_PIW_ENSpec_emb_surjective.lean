@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ENSpec_emb_surjective
 -- name    : PIW.ENSpec.emb_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:02.268641+00:00
 -- url     : https://prove2.me/theorems/962720be-fa56-48ac-9237-4e79a32112e3

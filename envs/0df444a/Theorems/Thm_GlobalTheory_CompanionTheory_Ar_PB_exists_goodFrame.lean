@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_exists_goodFrame
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.exists_goodFrame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:36:52.62025+00:00
 -- url     : https://prove2.me/theorems/d7ac9d6a-620b-5603-867e-c6251c4a0ae9

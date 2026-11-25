@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_io_sqAct_smul
 -- name    : PI.WGL.io_sqAct_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:51:32.034735+00:00
 -- url     : https://prove2.me/theorems/d463dff6-b28f-50d9-8b86-7c431b3ef1e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_lat_bas
 -- name    : GlobalTheory.LatClass.lat_bas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:09:03.845836+00:00
 -- url     : https://prove2.me/theorems/45d358be-6221-4650-8722-f34e5643e9ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_countable_cls
 -- name    : PI.WAU.B.countable_cls
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:43:30.346031+00:00
 -- url     : https://prove2.me/theorems/6bc82145-f179-475e-8e0c-ae631ba2b07a

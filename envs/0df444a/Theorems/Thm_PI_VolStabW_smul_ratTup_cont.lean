@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_smul_ratTup_cont
 -- name    : PI.VolStabW.smul_ratTup_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:54:35.251803+00:00
 -- url     : https://prove2.me/theorems/37ad834f-d012-531f-b091-f9c4cfebf420

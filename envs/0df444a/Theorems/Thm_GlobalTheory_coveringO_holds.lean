@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coveringO_holds
 -- name    : GlobalTheory.coveringO_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:38:34.126099+00:00
 -- url     : https://prove2.me/theorems/362bcab5-5725-5cbf-8f6d-046f7406385f

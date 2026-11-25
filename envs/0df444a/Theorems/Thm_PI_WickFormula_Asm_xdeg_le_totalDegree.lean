@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Asm_xdeg_le_totalDegree
 -- name    : PI.WickFormula.Asm.xdeg_le_totalDegree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:44:18.909149+00:00
 -- url     : https://prove2.me/theorems/65fe5574-299a-57f2-b826-0c17c4223405

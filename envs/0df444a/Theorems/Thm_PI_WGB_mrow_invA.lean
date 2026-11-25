@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_mrow_invA
 -- name    : PI.WGB.mrow_invA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:44:52.599877+00:00
 -- url     : https://prove2.me/theorems/508acbd0-802c-430e-8b6e-f5e4cd918840

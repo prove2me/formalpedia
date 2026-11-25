@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G9_nondegOn_U
 -- name    : Formalism.L2.SG.Pf.G9.nondegOn_U
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:32:34.173284+00:00
 -- url     : https://prove2.me/theorems/0be2868c-1698-54df-82b8-e89d2c348b1d

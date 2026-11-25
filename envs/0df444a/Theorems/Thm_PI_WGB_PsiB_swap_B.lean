@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_PsiB_swap_B
 -- name    : PI.WGB.PsiB_swap_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:57.327476+00:00
 -- url     : https://prove2.me/theorems/a280e948-cb26-4858-b1df-3af46801d539

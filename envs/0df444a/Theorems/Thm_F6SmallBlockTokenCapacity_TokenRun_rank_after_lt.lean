@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6SmallBlockTokenCapacity_TokenRun_rank_after_lt
 -- name    : F6SmallBlockTokenCapacity.TokenRun.rank_after_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:27:51.579881+00:00
 -- url     : https://prove2.me/theorems/2aca4dd2-8897-5738-8811-167ee1005703

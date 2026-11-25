@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Asm_xdeg_add
 -- name    : PI.WickFormula.Asm.xdeg_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:44:42.583564+00:00
 -- url     : https://prove2.me/theorems/e2d7dffa-6244-4efb-8d18-005b189e2a0c

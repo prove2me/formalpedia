@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCompose_continuous_DjU
 -- name    : PI.UnitaryGroupMassFormula.UsCompose.continuous_DjU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:04:54.039937+00:00
 -- url     : https://prove2.me/theorems/9ace9349-cdc7-4cc2-aaec-622c058b1894

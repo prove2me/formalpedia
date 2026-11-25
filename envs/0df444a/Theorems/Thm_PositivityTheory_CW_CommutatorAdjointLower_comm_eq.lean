@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_CommutatorAdjointLower_comm_eq
 -- name    : PositivityTheory.CW.CommutatorAdjointLower.comm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:49:51.94691+00:00
 -- url     : https://prove2.me/theorems/9be87dd8-4c14-4d9b-be9a-9b8a6bf916e4

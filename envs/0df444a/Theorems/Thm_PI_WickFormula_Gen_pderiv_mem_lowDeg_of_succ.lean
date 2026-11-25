@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Gen_pderiv_mem_lowDeg_of_succ
 -- name    : PI.WickFormula.Gen.pderiv_mem_lowDeg_of_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:46:35.175491+00:00
 -- url     : https://prove2.me/theorems/182e3711-c711-5cc3-8cce-929c87c470af

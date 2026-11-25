@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_isLocalization_away_bDeRham
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.isLocalization_away_bDeRham
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:53:44.926517+00:00
 -- url     : https://prove2.me/theorems/f13908c4-7200-5a7a-b7e8-f22c093f6d64

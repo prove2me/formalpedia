@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_eq_completedUnramifiedAlgEquiv
 -- name    : GroundTheory.LocalField.eq_completedUnramifiedAlgEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:10:26.137925+00:00
 -- url     : https://prove2.me/theorems/925e06e1-0de1-5509-a2b8-02a93a6201ed

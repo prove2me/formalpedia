@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PolyCoef_sep_of_mem
 -- name    : PI.UnitaryGroupMassFormula.PolyCoef.sep_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:32:38.213521+00:00
 -- url     : https://prove2.me/theorems/602a7203-917f-4c1b-a927-d67ef3e0e623

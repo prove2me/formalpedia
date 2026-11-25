@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Loc_LocFrame_M_N
 -- name    : PI.ScPiBuildW.Loc.LocFrame.M_N
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:37:18.367996+00:00
 -- url     : https://prove2.me/theorems/8836b610-208e-4b6b-b073-a1fcf3b2d1c1

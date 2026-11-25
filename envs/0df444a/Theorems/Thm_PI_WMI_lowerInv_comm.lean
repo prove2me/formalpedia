@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_lowerInv_comm
 -- name    : PI.WMI.lowerInv_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:00:00.265517+00:00
 -- url     : https://prove2.me/theorems/fb25b98d-4d3f-554e-be94-1309507c4b8d

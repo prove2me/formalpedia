@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_mcF_diag
 -- name    : PI.WGB.mcF_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:45:27.587373+00:00
 -- url     : https://prove2.me/theorems/f8d0f87c-fb69-441c-ab95-48c9818adcfb

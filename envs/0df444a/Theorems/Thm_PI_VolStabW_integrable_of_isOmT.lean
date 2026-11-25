@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_integrable_of_isOmT
 -- name    : PI.VolStabW.integrable_of_isOmT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:44:51.09282+00:00
 -- url     : https://prove2.me/theorems/d3e84113-5acd-4876-ba97-2972d1a63baf

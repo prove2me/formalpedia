@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_lm_liftWt_inj
 -- name    : PI.WGL.lm_liftWt_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:03:11.210602+00:00
 -- url     : https://prove2.me/theorems/e0ef6423-26fe-57a1-ae3a-cf91d5e797e8

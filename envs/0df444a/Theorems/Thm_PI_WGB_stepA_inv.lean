@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_stepA_inv
 -- name    : PI.WGB.stepA_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:44:59.610956+00:00
 -- url     : https://prove2.me/theorems/804588b8-3889-4067-9daf-49af6ce8f6ed

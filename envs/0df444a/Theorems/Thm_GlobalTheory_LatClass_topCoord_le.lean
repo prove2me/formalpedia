@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_topCoord_le
 -- name    : GlobalTheory.LatClass.topCoord_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:46:22.122748+00:00
 -- url     : https://prove2.me/theorems/5f894b1b-2f7f-4978-8828-c96662f07717

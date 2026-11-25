@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTF_G_rowW
 -- name    : PI.WGL.LTF.G_rowW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:46:26.841476+00:00
 -- url     : https://prove2.me/theorems/736940b0-dc3e-4278-accb-74ab552e3cce

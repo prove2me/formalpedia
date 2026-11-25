@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_OrbR_step
 -- name    : PI.VolStabSW.OrbR.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:37:33.433239+00:00
 -- url     : https://prove2.me/theorems/ae7a603a-a248-453b-81cd-2bb44af1156c

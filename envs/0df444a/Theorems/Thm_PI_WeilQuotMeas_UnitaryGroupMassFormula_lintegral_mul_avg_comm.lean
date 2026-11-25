@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeilQuotMeas_UnitaryGroupMassFormula_lintegral_mul_avg_comm
 -- name    : PI.WeilQuotMeas.UnitaryGroupMassFormula.lintegral_mul_avg_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:44:59.442804+00:00
 -- url     : https://prove2.me/theorems/a5886f68-3ca6-4dfe-aff0-2d6179abf2e6

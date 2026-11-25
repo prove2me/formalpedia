@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6RotationSupport_interval_commonInc_incomparable
 -- name    : F6RotationSupport.interval_commonInc_incomparable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:25:05.522837+00:00
 -- url     : https://prove2.me/theorems/973c63a8-9deb-4508-b71e-fb6ddfa05bff

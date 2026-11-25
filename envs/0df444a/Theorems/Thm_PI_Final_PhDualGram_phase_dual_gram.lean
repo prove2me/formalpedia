@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Final_PhDualGram_phase_dual_gram
 -- name    : PI.Final.PhDualGram.phase_dual_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:31:26.059185+00:00
 -- url     : https://prove2.me/theorems/9bd0db98-df7d-44c9-bdd3-a969ea93b50e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_det_sub_one_mem_valBall
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.det_sub_one_mem_valBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:39:29.676871+00:00
 -- url     : https://prove2.me/theorems/58d77380-5252-5b6a-8269-956501412525

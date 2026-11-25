@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_orb_inj
 -- name    : PI.VolStabW.orb_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:44:54.56142+00:00
 -- url     : https://prove2.me/theorems/233bf187-10b1-4748-a16b-c88824380186

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WittUnramWork_sigW_spec
 -- name    : PI.WittUnramWork.sigW_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:45:21.514802+00:00
 -- url     : https://prove2.me/theorems/d56e1ff6-da4d-58d9-b32d-ff627b073c6c

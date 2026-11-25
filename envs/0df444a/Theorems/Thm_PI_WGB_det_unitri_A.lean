@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_det_unitri_A
 -- name    : PI.WGB.det_unitri_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:49:29.473805+00:00
 -- url     : https://prove2.me/theorems/95a34235-89e6-5f62-b3a8-6e9e62048848

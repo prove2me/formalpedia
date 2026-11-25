@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_wlocal_E_eq_tv
 -- name    : PI.WGL.wlocal_E_eq_tv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:48:54.643968+00:00
 -- url     : https://prove2.me/theorems/b9500301-786d-402d-96e1-e74f949b69dd

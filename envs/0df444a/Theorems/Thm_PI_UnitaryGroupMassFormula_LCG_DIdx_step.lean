@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_DIdx_step
 -- name    : PI.UnitaryGroupMassFormula.LCG.DIdx.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:16.378402+00:00
 -- url     : https://prove2.me/theorems/7cd33ae9-ee09-46f1-9706-831c0dc66bc2

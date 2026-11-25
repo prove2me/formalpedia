@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_FdPA_normFactor_pos_alt
 -- name    : PIW.FdPA.normFactor_pos_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:48:27.734563+00:00
 -- url     : https://prove2.me/theorems/9b2ed1f2-56fe-58a3-968e-52448b7d4d0f

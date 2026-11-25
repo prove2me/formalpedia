@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_Fock6_rowGen_diag_X
 -- name    : PI.WGL.Fock6.rowGen_diag_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:47:11.112344+00:00
 -- url     : https://prove2.me/theorems/deb7a547-baa8-4beb-9ba5-10a87db80a6a

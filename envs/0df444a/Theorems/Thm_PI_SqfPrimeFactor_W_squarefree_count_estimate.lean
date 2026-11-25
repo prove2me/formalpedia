@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfPrimeFactor_W_squarefree_count_estimate
 -- name    : PI.SqfPrimeFactor.W.squarefree_count_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:26:13.540728+00:00
 -- url     : https://prove2.me/theorems/02592deb-dad9-5b1b-a5b7-9df7eebfc768

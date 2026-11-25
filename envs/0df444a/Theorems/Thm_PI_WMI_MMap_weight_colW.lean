@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_MMap_weight_colW
 -- name    : PI.WMI.MMap.weight_colW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:47:30.189797+00:00
 -- url     : https://prove2.me/theorems/c9239f27-2faf-4657-a3e1-33fcb6496377

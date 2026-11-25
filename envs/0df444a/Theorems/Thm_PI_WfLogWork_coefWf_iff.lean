@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WfLogWork_coefWf_iff
 -- name    : PI.WfLogWork.coefWf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:01:19.286487+00:00
 -- url     : https://prove2.me/theorems/d9f7a4ce-321c-41cc-9332-e2ae11d8f876

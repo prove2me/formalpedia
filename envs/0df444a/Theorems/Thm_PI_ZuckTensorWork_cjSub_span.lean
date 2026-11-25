@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_cjSub_span
 -- name    : PI.ZuckTensorWork.cjSub_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:47:41.469064+00:00
 -- url     : https://prove2.me/theorems/1a6fd27c-2f5f-45cc-8c32-1a6fdfd008eb

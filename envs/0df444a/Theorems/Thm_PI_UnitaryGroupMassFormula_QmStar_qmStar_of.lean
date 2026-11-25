@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmStar_qmStar_of
 -- name    : PI.UnitaryGroupMassFormula.QmStar.qmStar_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:46:19.569599+00:00
 -- url     : https://prove2.me/theorems/e20cfbc0-2090-4653-8729-0ccecd3d7f4f

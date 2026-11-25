@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_hform_exists_ne
 -- name    : PIW.AdelClassFin.hform_exists_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:48:46.779884+00:00
 -- url     : https://prove2.me/theorems/4e6d2c7b-6370-4882-a0be-0a23bf015ff6

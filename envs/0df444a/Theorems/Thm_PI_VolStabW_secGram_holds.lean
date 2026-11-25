@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_secGram_holds
 -- name    : PI.VolStabW.secGram_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:56:32.68881+00:00
 -- url     : https://prove2.me/theorems/fd82a4ba-1acf-4586-89ea-144dc63d9b23

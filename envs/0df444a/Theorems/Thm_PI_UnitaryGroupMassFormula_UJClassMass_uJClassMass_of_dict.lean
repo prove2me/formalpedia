@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_uJClassMass_of_dict
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.uJClassMass_of_dict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:34:03.682654+00:00
 -- url     : https://prove2.me/theorems/1580e563-3b0e-455f-9697-8b2fa545f1ef

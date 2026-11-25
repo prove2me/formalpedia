@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_lowerInv_evM_affine
 -- name    : PI.WMI.lowerInv_evM_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:47:35.530603+00:00
 -- url     : https://prove2.me/theorems/6122ac3b-c1e6-416c-82fe-365e75e31def

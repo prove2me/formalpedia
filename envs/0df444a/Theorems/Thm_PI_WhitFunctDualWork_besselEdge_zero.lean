@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WhitFunctDualWork_besselEdge_zero
 -- name    : PI.WhitFunctDualWork.besselEdge_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:50:12.660549+00:00
 -- url     : https://prove2.me/theorems/8f823a91-515e-5709-816d-9c3e707c82fd

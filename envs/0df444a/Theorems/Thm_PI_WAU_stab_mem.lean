@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_stab_mem
 -- name    : PI.WAU.stab_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:46:06.036276+00:00
 -- url     : https://prove2.me/theorems/b93d7216-7f4b-4157-a44d-a8bb774cdde7

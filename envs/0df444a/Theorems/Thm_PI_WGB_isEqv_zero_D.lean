@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_isEqv_zero_D
 -- name    : PI.WGB.isEqv_zero_D
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:45:57.297652+00:00
 -- url     : https://prove2.me/theorems/af4950ae-ca72-4a8c-b4a6-b866959ef910

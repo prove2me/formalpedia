@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_ioSqActL_apply
 -- name    : PI.WGL.ioSqActL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:51:39.315578+00:00
 -- url     : https://prove2.me/theorems/6075aad8-f6fd-549d-9770-208dc9718526

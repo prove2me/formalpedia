@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_adapted_basis_instance
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.adapted_basis_instance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:38:31.740967+00:00
 -- url     : https://prove2.me/theorems/19e98276-c650-47ec-b6d6-1575455d6844

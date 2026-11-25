@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_stabilizer_fixes_frame_span
 -- name    : PI.VolSemiDirect.W.stabilizer_fixes_frame_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:36:39.684347+00:00
 -- url     : https://prove2.me/theorems/928a965f-0c66-5384-b4d6-814c4b706f3a

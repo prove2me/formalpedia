@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_capF_scalar
 -- name    : PI.WGL.capF_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:48:34.606825+00:00
 -- url     : https://prove2.me/theorems/8d5267e1-565c-56a2-a926-884cbbbcc575

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTree_isUnit_inc
 -- name    : MatrixTree.isUnit_inc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T11:01:22.755887+00:00
 -- url     : https://prove2.me/theorems/841f1a81-d093-446b-b321-671023689bbe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WittUnramWork_sHom_apply
 -- name    : PI.WittUnramWork.sHom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:45:43.221575+00:00
 -- url     : https://prove2.me/theorems/29a3e1a5-52e4-4293-b415-bd834216ffea

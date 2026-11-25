@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_meas_smul_q
 -- name    : PI.VolStabW.meas_smul_q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:44:10.825847+00:00
 -- url     : https://prove2.me/theorems/e4061035-edd3-4efa-aabf-c47bb0d6e72a

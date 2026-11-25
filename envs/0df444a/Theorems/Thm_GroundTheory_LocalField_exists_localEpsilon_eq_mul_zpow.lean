@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_localEpsilon_eq_mul_zpow
 -- name    : GroundTheory.LocalField.exists_localEpsilon_eq_mul_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:25:20.542887+00:00
 -- url     : https://prove2.me/theorems/3e51c22b-e0aa-5b8a-ad43-bbe773b6f73a

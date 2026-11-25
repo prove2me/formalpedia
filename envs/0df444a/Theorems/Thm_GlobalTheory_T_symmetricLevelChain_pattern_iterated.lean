@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_symmetricLevelChain_pattern_iterated
 -- name    : GlobalTheory.T.symmetricLevelChain_pattern_iterated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:09:42.25295+00:00
 -- url     : https://prove2.me/theorems/eff592b2-0c5c-4261-934e-53e434c1f8de

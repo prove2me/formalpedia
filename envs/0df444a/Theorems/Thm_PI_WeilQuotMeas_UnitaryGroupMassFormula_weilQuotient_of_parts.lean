@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeilQuotMeas_UnitaryGroupMassFormula_weilQuotient_of_parts
 -- name    : PI.WeilQuotMeas.UnitaryGroupMassFormula.weilQuotient_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:45:14.514489+00:00
 -- url     : https://prove2.me/theorems/dacb0c8c-948f-47e8-8cc5-c78dc400211c

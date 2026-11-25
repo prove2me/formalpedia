@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_gaXi_mem_of
 -- name    : PI.UnitaryGroupMassFormula.UsCost.gaXi_mem_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:35:15.898465+00:00
 -- url     : https://prove2.me/theorems/bf05f353-d4af-4791-b5ab-e88b1421724a

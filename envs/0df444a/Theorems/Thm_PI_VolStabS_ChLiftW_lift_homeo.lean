@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_ChLiftW_lift_homeo
 -- name    : PI.VolStabS.ChLiftW.lift_homeo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:36:01.79498+00:00
 -- url     : https://prove2.me/theorems/134b9373-db5a-4dd5-8585-dc5522c11d6e

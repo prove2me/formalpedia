@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_eq_zero_of_hc
 -- name    : PI.WFJM.eq_zero_of_hc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:44:16.849131+00:00
 -- url     : https://prove2.me/theorems/9e3d6460-dc72-4710-b323-faaaa2ea8826

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_HX_coordBound
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.HX.coordBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:53:15.235802+00:00
 -- url     : https://prove2.me/theorems/63b7aa5e-37ff-5489-b8a0-ceb654db97e7
