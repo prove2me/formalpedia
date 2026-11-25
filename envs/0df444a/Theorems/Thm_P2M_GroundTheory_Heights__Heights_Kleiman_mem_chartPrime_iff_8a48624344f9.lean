@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_mem_chartPrime_iff_8a48624344f9
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_mem_chartPrime_iff_8a48624344f9
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:29.341394+00:00
 -- url     : https://prove2.me/theorems/46be5f60-eaa1-468a-825b-cf1e9c2c6f81

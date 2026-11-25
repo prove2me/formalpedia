@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StandardModelDualRank_w_ne_zero_51eba0bb76b5
 -- name    : P2M_GroundTheory_Heights__Heights_StandardModelDualRank_w_ne_zero_51eba0bb76b5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:42:49.095812+00:00
 -- url     : https://prove2.me/theorems/6aa507c9-a4c3-57af-aba0-33aa5b88fa90

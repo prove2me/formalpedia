@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndexProd_relIndex_eq_inf_mul_sup
 -- name    : GlobalTheory.IndexProd.relIndex_eq_inf_mul_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:01:31.401072+00:00
 -- url     : https://prove2.me/theorems/10f69b82-0a9e-4261-a109-575cbe018de8

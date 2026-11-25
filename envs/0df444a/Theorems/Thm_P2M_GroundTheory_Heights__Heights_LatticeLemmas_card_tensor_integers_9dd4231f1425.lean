@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLemmas_card_tensor_integers_9dd4231f1425
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLemmas_card_tensor_integers_9dd4231f1425
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:27:40.757742+00:00
 -- url     : https://prove2.me/theorems/f5ebd1ff-7131-55c2-8662-a9606e525251

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarietySlabMeasure_isFiniteLinProj_of_362c0b4f6550
 -- name    : P2M_GroundTheory_Heights__Heights_VarietySlabMeasure_isFiniteLinProj_of_362c0b4f6550
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:42:11.552201+00:00
 -- url     : https://prove2.me/theorems/46c243e5-4529-4dfb-a580-5e3cb673155f

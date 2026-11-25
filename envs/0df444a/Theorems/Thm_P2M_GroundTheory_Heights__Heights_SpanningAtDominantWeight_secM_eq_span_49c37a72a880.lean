@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SpanningAtDominantWeight_secM_eq_span_49c37a72a880
 -- name    : P2M_GroundTheory_Heights__Heights_SpanningAtDominantWeight_secM_eq_span_49c37a72a880
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:38:24.850444+00:00
 -- url     : https://prove2.me/theorems/b25999ca-b6bc-430d-bf44-f1bf57a2c4d9

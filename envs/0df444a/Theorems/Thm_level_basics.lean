@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_level_basics
 -- name    : level_basics
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:55:53.83967+00:00
 -- url     : https://prove2.me/theorems/f78e0aa8-8947-42ed-9b2a-70d24e716d05

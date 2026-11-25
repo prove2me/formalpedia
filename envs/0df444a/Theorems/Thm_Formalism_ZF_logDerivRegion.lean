@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_logDerivRegion
 -- name    : Formalism.ZF.logDerivRegion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:36:20.422427+00:00
 -- url     : https://prove2.me/theorems/cb7be04a-806a-4889-919b-79012393e340

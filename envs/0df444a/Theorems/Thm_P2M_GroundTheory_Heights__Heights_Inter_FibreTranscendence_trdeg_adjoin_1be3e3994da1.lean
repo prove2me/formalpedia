@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_FibreTranscendence_trdeg_adjoin_1be3e3994da1
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_FibreTranscendence_trdeg_adjoin_1be3e3994da1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:05:11.0102+00:00
 -- url     : https://prove2.me/theorems/06f6f387-3bbd-4e88-9489-d559369aa9d8

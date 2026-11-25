@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_exists_triangular_system_hilbert
 -- name    : SNumbers.exists_triangular_system_hilbert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:28:20.046806+00:00
 -- url     : https://prove2.me/theorems/3bc1cd6e-70f1-450b-8e8c-9752969c061c

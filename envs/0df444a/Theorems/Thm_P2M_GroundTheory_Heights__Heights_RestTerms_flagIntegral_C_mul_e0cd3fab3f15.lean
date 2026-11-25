@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_flagIntegral_C_mul_e0cd3fab3f15
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_flagIntegral_C_mul_e0cd3fab3f15
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:35:53.237124+00:00
 -- url     : https://prove2.me/theorems/5d09c414-b407-473b-9297-7aafba718e2d

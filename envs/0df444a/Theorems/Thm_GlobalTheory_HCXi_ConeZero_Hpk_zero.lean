@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeZero_Hpk_zero
 -- name    : GlobalTheory.HCXi.ConeZero.Hpk_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:34:23.842191+00:00
 -- url     : https://prove2.me/theorems/ea151ba8-9642-5dd5-9e67-26b7d402f4f7

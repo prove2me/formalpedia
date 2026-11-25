@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_vertComps_finite_caa4eaa24ca7
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_vertComps_finite_caa4eaa24ca7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:44:08.024801+00:00
 -- url     : https://prove2.me/theorems/12a7acc7-b30c-4e21-a33e-28f3fa96df44

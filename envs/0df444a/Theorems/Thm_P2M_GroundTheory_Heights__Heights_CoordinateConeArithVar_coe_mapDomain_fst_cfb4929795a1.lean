@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CoordinateConeArithVar_coe_mapDomain_fst_cfb4929795a1
 -- name    : P2M_GroundTheory_Heights__Heights_CoordinateConeArithVar_coe_mapDomain_fst_cfb4929795a1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:56:34.206874+00:00
 -- url     : https://prove2.me/theorems/ac75b6dc-94e5-5551-b967-f7258d2b275f

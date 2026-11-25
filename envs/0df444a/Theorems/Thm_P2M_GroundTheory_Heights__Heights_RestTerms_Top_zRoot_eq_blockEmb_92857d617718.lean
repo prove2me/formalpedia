@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_zRoot_eq_blockEmb_92857d617718
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_zRoot_eq_blockEmb_92857d617718
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:36:09.288574+00:00
 -- url     : https://prove2.me/theorems/def9726c-9b9b-4b50-9dc9-c29b9432130b

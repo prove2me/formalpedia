@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceFormLelongCompact_integrable_chartDens_daacb8db24dc
 -- name    : P2M_GroundTheory_Heights__Heights_SliceFormLelongCompact_integrable_chartDens_daacb8db24dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:38:37.61088+00:00
 -- url     : https://prove2.me/theorems/05b37115-8f32-445a-acf7-8a9c4cb9aef7

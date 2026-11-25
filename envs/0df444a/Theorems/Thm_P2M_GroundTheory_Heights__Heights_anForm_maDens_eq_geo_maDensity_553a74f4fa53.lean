@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_anForm_maDens_eq_geo_maDensity_553a74f4fa53
 -- name    : P2M_GroundTheory_Heights__Heights_anForm_maDens_eq_geo_maDensity_553a74f4fa53
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:47:34.747574+00:00
 -- url     : https://prove2.me/theorems/4dbbfd97-ec87-5d0f-9d2a-debd38d243c5

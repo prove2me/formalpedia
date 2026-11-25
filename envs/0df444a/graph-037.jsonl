@@ -78473,8 +78473,8 @@
 {"parent": "Formalism.GrowthSums.Top.nextEvenTop", "child": "Formalism_GrowthSums_FactorialBaseGrowth_Segment", "via": ["solution", "statement"]}
 {"parent": "Formalism.GrowthSums.Top.nextEvenTop", "child": "Formalism_GrowthSums_FactorialBaseGrowth_LogCoef", "via": ["solution", "statement"]}
 {"parent": "Formalism.GrowthSums.Top.nextEvenTop", "child": "Formalism_GrowthSums_FactorialBaseGrowth_Harmonic", "via": ["solution", "statement"]}
-{"parent": "PI.QuotSetU.UnitaryGroupMassFormula.SW.inv_mul_UH", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryQuotientCompactness_SBasic", "via": ["statement"]}
-{"parent": "PI.QuotSetU.UnitaryGroupMassFormula.SW.inv_mul_UH", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryQuotientCompactness_SsetGroup", "via": ["statement"]}
+{"parent": "PI.QuotSetU.UnitaryGroupMassFormula.SW.inv_mul_UH", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryQuotientCompactness_SBasic", "via": ["solution", "statement"]}
+{"parent": "PI.QuotSetU.UnitaryGroupMassFormula.SW.inv_mul_UH", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryQuotientCompactness_SsetGroup", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_MainNotions_PlaneGram_integral_monomial__f1d6e36a6b91", "child": "Formalism_SharpRestriction_GrowthBounds_MonomialOrderSegments_IntegralMonomial", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_MainNotions_PlaneGram_integral_monomial__f1d6e36a6b91", "child": "Formalism_SharpRestriction_GrowthBounds_MonomialOrderSegments_ExistsMonomialOrder", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_MainNotions_PlaneGram_integral_monomial__f1d6e36a6b91", "child": "Formalism_SharpRestriction_GrowthBounds_MonomialOrderSegments_DigitPartMonomial", "via": ["solution", "statement"]}
@@ -79904,20 +79904,20 @@
 {"parent": "Formalism.HermitianLattices.Ext.L3.idealPowerSpanBounds.conjO_mem_pow", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsSqAbsNormOfInert", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.idealPowerSpanBounds.conjO_mem_pow", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_StarAlgebraMap", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.idealPowerSpanBounds.conjO_mem_pow", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExtPPowLeSpanSup", "via": ["solution", "statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LGrowth", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LocalZeroExpansionWithMultiplicity", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_Positivity", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_NoZeroComplex", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LRight", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_ZFRDirichletOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_ZeroFreeRegion_FinalZFR", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_NoZeroComplexOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_TrivReal", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LocalZerosOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_TwoRealOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_RealLargeTOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_RealSmallTOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_TrivLogDeriv", "via": ["statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LGrowth", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LocalZeroExpansionWithMultiplicity", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_Positivity", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_NoZeroComplex", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LRight", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_ZFRDirichletOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_ZeroFreeRegion_FinalZFR", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_NoZeroComplexOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_TrivReal", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LocalZerosOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_TwoRealOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_RealLargeTOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_RealSmallTOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.zFRDirichlet", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_TrivLogDeriv", "via": ["solution", "statement"]}
 {"parent": "Formalism.CyclotomicNorms.CycleTypeFiniteOrder.blocks_disjoint", "child": "Lemmata_GeneralBFactSecondBis_Imports", "via": ["solution", "statement"]}
 {"parent": "Formalism.CyclotomicNorms.CycleTypeFiniteOrder.blocks_disjoint", "child": "Formalism_GaloisIrreducibility_NoSolvableTransitive", "via": ["solution", "statement"]}
 {"parent": "Formalism.CyclotomicNorms.CycleTypeFiniteOrder.blocks_disjoint", "child": "Formalism_CyclotomicNorms_StatementT", "via": ["solution", "statement"]}
@@ -82539,20 +82539,20 @@
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqMain", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqPairs", "via": ["statement"]}
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqMain", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqDiagB", "via": ["statement"]}
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqMain", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqJac", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LogDerivRegionChiOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_ZeroFreeRegion_LogDerivRegion", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_FinalSiegel", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SmoothChiOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_SiegelWalfiszAPOfSiegelLower", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LDerivNearOne", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelWalfiszAPOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_ExcBoundOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PsiChiBoundOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelWalfiszOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LandauLocal3", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PerronChi", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_RectShiftChi", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_NoZeroComplex", "via": ["statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LogDerivRegionChiOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_ZeroFreeRegion_LogDerivRegion", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_FinalSiegel", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SmoothChiOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_SiegelWalfiszAPOfSiegelLower", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LDerivNearOne", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelWalfiszAPOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_ExcBoundOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PsiChiBoundOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelWalfiszOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LandauLocal3", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PerronChi", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_RectShiftChi", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.excBound", "child": "Formalism_LandauZeroFreeBounds_NoZeroComplex", "via": ["solution", "statement"]}
 {"parent": "Formalism.DivisionValues.ReductionFirst.cO_coe", "child": "Formalism_QuotientMetricDivisors_ProdFormula", "via": ["solution", "statement"]}
 {"parent": "Formalism.DivisionValues.ReductionFirst.cO_coe", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_SelectionLemmas", "via": ["solution", "statement"]}
 {"parent": "Formalism.DivisionValues.ReductionFirst.cO_coe", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ReductionLemmaFirst", "via": ["solution", "statement"]}

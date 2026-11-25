@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_len_invApply_of_mem_stab_df8b20b14c39
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_len_invApply_of_mem_stab_df8b20b14c39
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:35:43.804404+00:00
 -- url     : https://prove2.me/theorems/00da3184-9509-504f-8d38-aade511f8a62

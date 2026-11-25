@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_exists_unit_of_ringMultiples_eq_66cc3fabdd18
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_exists_unit_of_ringMultiples_eq_66cc3fabdd18
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:05:53.631138+00:00
 -- url     : https://prove2.me/theorems/84104025-3239-4629-a9a4-d90b7e4aecab

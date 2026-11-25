@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionSmall_mkF_eq_of_mem_c6a1a6b1f6e0
 -- name    : P2M_GroundTheory_Heights__Heights_SectionSmall_mkF_eq_of_mem_c6a1a6b1f6e0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:38:05.877336+00:00
 -- url     : https://prove2.me/theorems/d993d304-03d6-4751-95e1-13d224b56867

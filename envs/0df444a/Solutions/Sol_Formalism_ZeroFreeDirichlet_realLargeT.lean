@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for Formalism.ZeroFreeDirichlet.realLargeT
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T05:24:07.604625+00:00
+-- url     : https://prove2.me/submissions/d8c2b9ea-b518-417c-b332-58834d83ac45
+
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LocalZeroExpansionWithMultiplicity
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LGrowth
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LRight
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_Positivity
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_TrivLogDeriv
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_TrivReal
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LocalZerosOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_NoZeroComplexOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_RealLargeTOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_RealSmallTOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_TwoRealOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_ZFRDirichletOf
+import Definitions.Def_Formalism_ZeroFreeRegion_FinalZFR
+import Definitions.Def_Formalism_LandauZeroFreeBounds_NoZeroComplex
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_localZeros
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_l_log_deriv_right
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_negLogDerivPositivity
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_realCharZeroFreeLargeHeightOfBounds
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_trivial_log_deriv_bound
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.ZeroFreeDirichlet
+namespace Formalism.ZeroFreeDirichlet
+theorem _root_.solution : RealLargeT :=
+  realCharZeroFreeLargeHeightOfBounds localZeros l_log_deriv_right negLogDerivPositivity trivial_log_deriv_bound
+end Formalism.ZeroFreeDirichlet

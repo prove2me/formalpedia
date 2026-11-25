@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_BinomialValue_hP_eq
 -- name    : GlobalTheory.OddBlock.BinomialValue.hP_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:33:36.505287+00:00
 -- url     : https://prove2.me/theorems/ef6f7585-1f21-5338-9637-c353b5b527fa

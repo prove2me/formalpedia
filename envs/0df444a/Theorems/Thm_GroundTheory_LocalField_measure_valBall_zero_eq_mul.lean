@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_measure_valBall_zero_eq_mul
 -- name    : GroundTheory.LocalField.measure_valBall_zero_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:32:14.079694+00:00
 -- url     : https://prove2.me/theorems/eb8abd4b-12c4-42f8-8488-8d36196e7e47

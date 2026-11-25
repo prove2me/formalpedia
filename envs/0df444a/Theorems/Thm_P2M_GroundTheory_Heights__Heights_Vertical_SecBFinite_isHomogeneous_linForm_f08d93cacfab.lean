@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_isHomogeneous_linForm_f08d93cacfab
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_isHomogeneous_linForm_f08d93cacfab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:44:23.823641+00:00
 -- url     : https://prove2.me/theorems/74bce961-cfac-5fec-acc7-9086c7ca751c

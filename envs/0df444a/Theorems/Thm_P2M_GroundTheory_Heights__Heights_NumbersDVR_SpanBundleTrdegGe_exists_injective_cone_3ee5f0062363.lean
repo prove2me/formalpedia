@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SpanBundleTrdegGe_exists_injective_cone_3ee5f0062363
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_SpanBundleTrdegGe_exists_injective_cone_3ee5f0062363
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:08:46.866317+00:00
 -- url     : https://prove2.me/theorems/1832a082-735f-42b1-8d83-7919616e7a63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_continuous_paramMap_6320bfd9b0ab
 -- name    : P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_continuous_paramMap_6320bfd9b0ab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:43:46.756504+00:00
 -- url     : https://prove2.me/theorems/897e8d7e-1506-4af7-8a75-c48e2c7d234e

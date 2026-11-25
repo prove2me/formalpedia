@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_GenChowIrreducible_constantCoeff_specRest_439e19de31d5
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_GenChowIrreducible_constantCoeff_specRest_439e19de31d5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:42:02.763791+00:00
 -- url     : https://prove2.me/theorems/e5a156fc-ab6d-4cb4-8546-926e936727f8

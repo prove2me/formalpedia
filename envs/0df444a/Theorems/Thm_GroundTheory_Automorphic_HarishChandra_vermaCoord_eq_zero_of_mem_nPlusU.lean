@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_vermaCoord_eq_zero_of_mem_nPlusU
 -- name    : GroundTheory.Automorphic.HarishChandra.vermaCoord_eq_zero_of_mem_nPlusU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:55:59.163879+00:00
 -- url     : https://prove2.me/theorems/2922ac3d-3b2c-4025-bd3a-83cfe0822bee

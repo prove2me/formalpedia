@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_sUnits_sup_locNorm_ne_top
 -- name    : GlobalTheory.QNorm.sUnits_sup_locNorm_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:46:48.494253+00:00
 -- url     : https://prove2.me/theorems/49206c52-e0fd-41cc-a68a-f9349234823a

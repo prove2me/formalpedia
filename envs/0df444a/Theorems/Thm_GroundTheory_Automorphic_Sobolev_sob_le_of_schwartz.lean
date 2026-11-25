@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_sob_le_of_schwartz
 -- name    : GroundTheory.Automorphic.Sobolev.sob_le_of_schwartz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:50:28.939812+00:00
 -- url     : https://prove2.me/theorems/29deeb3b-44fd-48a5-bca7-a1efb5c4588b

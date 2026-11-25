@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_normSq_nonneg_5767a13ad4c0
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_normSq_nonneg_5767a13ad4c0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:45:25.834603+00:00
 -- url     : https://prove2.me/theorems/05476150-bdf8-5c5b-8132-b96448ef758b

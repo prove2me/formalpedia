@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_piLp_norm_le_of_exponent_ge
 -- name    : SNumbers.piLp_norm_le_of_exponent_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:12:49.375057+00:00
 -- url     : https://prove2.me/theorems/d75f30da-ca18-4721-ae6e-1a240c3415ed

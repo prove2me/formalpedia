@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_exists_C_mul_mem_4f0656e53394
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_exists_C_mul_mem_4f0656e53394
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:42:37.915797+00:00
 -- url     : https://prove2.me/theorems/048c1fbe-68a5-4f8f-94cd-ecc21fd3976b

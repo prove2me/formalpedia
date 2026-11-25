@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxI_foldr_max_le_iff
 -- name    : Formalism.FourierDecayAlt.P.JFxI.foldr_max_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:33:52.548814+00:00
 -- url     : https://prove2.me/theorems/428fa556-3283-578d-b905-31172b57ba3f

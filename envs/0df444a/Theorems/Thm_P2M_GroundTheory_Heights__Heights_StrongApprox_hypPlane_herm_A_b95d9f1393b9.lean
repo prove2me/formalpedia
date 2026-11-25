@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_hypPlane_herm_A_b95d9f1393b9
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_hypPlane_herm_A_b95d9f1393b9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:40:52.712959+00:00
 -- url     : https://prove2.me/theorems/dd989ad5-5692-4a3c-81c6-5f04e9b84ce7

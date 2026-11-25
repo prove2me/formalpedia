@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_YoungDiagramCombinatorics_card_monotone_equiv_congr_f5634ff25944
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_YoungDiagramCombinatorics_card_monotone_equiv_congr_f5634ff25944
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:36:05.045843+00:00
 -- url     : https://prove2.me/theorems/8c65c2dd-411f-4dfa-a2b8-42d8c12d831d

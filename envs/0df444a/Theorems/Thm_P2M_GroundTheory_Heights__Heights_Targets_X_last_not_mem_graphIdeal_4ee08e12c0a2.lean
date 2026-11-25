@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_X_last_not_mem_graphIdeal_4ee08e12c0a2
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_X_last_not_mem_graphIdeal_4ee08e12c0a2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:40:31.200799+00:00
 -- url     : https://prove2.me/theorems/2e1ae7d3-fa52-4f55-8115-952e4512fd3e

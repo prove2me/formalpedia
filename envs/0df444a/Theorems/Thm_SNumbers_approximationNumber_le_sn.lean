@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_le_sn
 -- name    : SNumbers.approximationNumber_le_sn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:08:00.2058+00:00
 -- url     : https://prove2.me/theorems/7eed67fa-ea01-4311-a242-badbd953f666

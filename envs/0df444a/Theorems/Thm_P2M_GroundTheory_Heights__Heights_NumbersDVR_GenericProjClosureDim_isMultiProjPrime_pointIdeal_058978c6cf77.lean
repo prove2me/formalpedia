@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericProjClosureDim_isMultiProjPrime_pointIdeal_058978c6cf77
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericProjClosureDim_isMultiProjPrime_pointIdeal_058978c6cf77
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:11:21.118219+00:00
 -- url     : https://prove2.me/theorems/1ef008c3-a3e4-4cb7-bd92-46e2d7d149b0

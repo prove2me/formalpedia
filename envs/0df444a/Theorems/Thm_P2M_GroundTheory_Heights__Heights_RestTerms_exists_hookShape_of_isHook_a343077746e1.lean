@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_exists_hookShape_of_isHook_a343077746e1
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_exists_hookShape_of_isHook_a343077746e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:35:43.764006+00:00
 -- url     : https://prove2.me/theorems/88ef22af-7cd4-56ff-af10-28dd39b5af19

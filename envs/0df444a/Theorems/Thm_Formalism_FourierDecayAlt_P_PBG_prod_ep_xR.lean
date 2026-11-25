@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_prod_ep_xR
 -- name    : Formalism.FourierDecayAlt.P.PBG.prod_ep_xR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:34:39.301545+00:00
 -- url     : https://prove2.me/theorems/e7aaca2d-e7b0-538f-8708-2530abba059e

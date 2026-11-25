@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_YPlusSupSmall_evalCone_unflatCone_cbfa18dac529
 -- name    : P2M_GroundTheory_Heights__Heights_YPlusSupSmall_evalCone_unflatCone_cbfa18dac529
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:43:51.163935+00:00
 -- url     : https://prove2.me/theorems/1ab9c05e-13a9-41e6-b9a6-b9d75d16fec8

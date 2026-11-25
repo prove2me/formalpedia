@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionNorm_evalCone_liftOld_79e2f292e4c3
 -- name    : P2M_GroundTheory_Heights__Heights_SectionNorm_evalCone_liftOld_79e2f292e4c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:37:14.744795+00:00
 -- url     : https://prove2.me/theorems/a3018e46-1df6-4aeb-808e-8274f749dbdc

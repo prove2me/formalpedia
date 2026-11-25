@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereLawFirstCoord_lintegral_scale_ed656ae4f52c
 -- name    : P2M_GroundTheory_Heights__Heights_SphereLawFirstCoord_lintegral_scale_ed656ae4f52c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:39:16.340555+00:00
 -- url     : https://prove2.me/theorems/d4af4632-1a8f-46b7-8e7c-d05068056561

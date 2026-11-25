@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_Relabel_isMultiHomog_map_ac9cb8581cea
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_Relabel_isMultiHomog_map_ac9cb8581cea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:41:34.56944+00:00
 -- url     : https://prove2.me/theorems/e7d77dd8-696d-402c-9bb1-b7c8d7e1689a

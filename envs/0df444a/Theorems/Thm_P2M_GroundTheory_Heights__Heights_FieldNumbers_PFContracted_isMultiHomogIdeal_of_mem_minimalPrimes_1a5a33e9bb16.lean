@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_isMultiHomogIdeal_of_mem_minimalPrimes_1a5a33e9bb16
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_isMultiHomogIdeal_of_mem_minimalPrimes_1a5a33e9bb16
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:20:32.087877+00:00
 -- url     : https://prove2.me/theorems/1d62dc42-87b5-4c9a-ab17-f08ceed4f4f3

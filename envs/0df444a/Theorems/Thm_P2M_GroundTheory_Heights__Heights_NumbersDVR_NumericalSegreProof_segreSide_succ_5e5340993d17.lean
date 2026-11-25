@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_NumericalSegreProof_segreSide_succ_5e5340993d17
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_NumericalSegreProof_segreSide_succ_5e5340993d17
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:08:59.788801+00:00
 -- url     : https://prove2.me/theorems/b08232c2-9cd8-497e-a362-bbc7e9f769d0

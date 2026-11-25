@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HopfSys_pj_qiso
 -- name    : GlobalTheory.CompanionTheory.HopfSys.pj_qiso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:37:16.582507+00:00
 -- url     : https://prove2.me/theorems/739c6906-aaf6-4528-a595-70e1be891fec

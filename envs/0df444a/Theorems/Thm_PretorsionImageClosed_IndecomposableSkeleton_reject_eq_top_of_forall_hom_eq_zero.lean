@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_reject_eq_top_of_forall_hom_eq_zero
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.reject_eq_top_of_forall_hom_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:01:17.801815+00:00
 -- url     : https://prove2.me/theorems/5fb4f142-1ac7-5cc2-8ed1-01175feb4534

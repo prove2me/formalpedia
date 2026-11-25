@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_exists_relComps_of_mem_incidence_field_506d0f3a1809
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_exists_relComps_of_mem_incidence_field_506d0f3a1809
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:43:09.685817+00:00
 -- url     : https://prove2.me/theorems/819a3d12-b48b-4c18-b014-b4c62938aec1

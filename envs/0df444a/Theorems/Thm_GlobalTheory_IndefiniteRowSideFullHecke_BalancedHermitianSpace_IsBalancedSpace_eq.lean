@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_BalancedHermitianSpace_IsBalancedSpace_eq
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.BalancedHermitianSpace.IsBalancedSpace.eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:37:40.446385+00:00
 -- url     : https://prove2.me/theorems/0dd27c74-127f-43f3-b8cb-4624eb6f7282

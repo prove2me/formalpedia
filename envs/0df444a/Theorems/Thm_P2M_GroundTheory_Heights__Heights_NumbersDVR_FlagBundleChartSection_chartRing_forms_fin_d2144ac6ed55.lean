@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundleChartSection_chartRing_forms_fin_d2144ac6ed55
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundleChartSection_chartRing_forms_fin_d2144ac6ed55
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:33:15.112164+00:00
 -- url     : https://prove2.me/theorems/39f6eaa7-1cd2-40d5-8ffa-49627af467df

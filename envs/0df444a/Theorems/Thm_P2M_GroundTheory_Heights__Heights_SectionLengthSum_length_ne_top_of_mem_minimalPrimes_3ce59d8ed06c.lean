@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionLengthSum_length_ne_top_of_mem_minimalPrimes_3ce59d8ed06c
 -- name    : P2M_GroundTheory_Heights__Heights_SectionLengthSum_length_ne_top_of_mem_minimalPrimes_3ce59d8ed06c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:37:09.653595+00:00
 -- url     : https://prove2.me/theorems/6ce5d010-44f1-48dc-a1f9-24c8a1cf47f5

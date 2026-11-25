@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_allSNumbers_eq_on_HilbertSpace
 -- name    : SNumbers.allSNumbers_eq_on_HilbertSpace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:07:19.836067+00:00
 -- url     : https://prove2.me/theorems/9f6bc7d3-1e25-4cc2-a592-261976adfdf7

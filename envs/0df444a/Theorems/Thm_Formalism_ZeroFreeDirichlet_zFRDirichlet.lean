@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_zFRDirichlet
 -- name    : Formalism.ZeroFreeDirichlet.zFRDirichlet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:42:35.552061+00:00
 -- url     : https://prove2.me/theorems/50f541b6-5df0-406f-b6dd-78982cfac6a1

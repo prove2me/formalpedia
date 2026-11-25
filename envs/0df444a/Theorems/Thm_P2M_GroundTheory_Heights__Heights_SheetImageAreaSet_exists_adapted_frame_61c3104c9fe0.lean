@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SheetImageAreaSet_exists_adapted_frame_61c3104c9fe0
 -- name    : P2M_GroundTheory_Heights__Heights_SheetImageAreaSet_exists_adapted_frame_61c3104c9fe0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:37:36.502381+00:00
 -- url     : https://prove2.me/theorems/0b38c1c2-d1ae-4383-b723-117053766572

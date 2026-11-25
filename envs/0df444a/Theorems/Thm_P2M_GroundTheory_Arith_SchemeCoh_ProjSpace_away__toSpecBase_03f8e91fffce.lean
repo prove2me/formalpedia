@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Arith_SchemeCoh_ProjSpace_away__toSpecBase_03f8e91fffce
 -- name    : P2M_GroundTheory_Arith_SchemeCoh_ProjSpace_away__toSpecBase_03f8e91fffce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:35:21.509561+00:00
 -- url     : https://prove2.me/theorems/8bea78ba-baf8-5295-83df-cb09155b9b49

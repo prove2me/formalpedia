@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_continuous_aut_604fb98ffbcf
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_continuous_aut_604fb98ffbcf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:36:03.337919+00:00
 -- url     : https://prove2.me/theorems/b3d4e8f7-d0da-40e8-bd35-b013a1921dd6

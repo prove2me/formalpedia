@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_gaussNormOf_rename_9e948dcb4a17
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_gaussNormOf_rename_9e948dcb4a17
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:43:08.227847+00:00
 -- url     : https://prove2.me/theorems/7f034c59-8bd8-4374-b9ba-a16b99879855

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootAnchorNonzeroAlt_rootCoord_isIntegral_77b0fc8c9165
 -- name    : P2M_GroundTheory_Heights__Heights_RootAnchorNonzeroAlt_rootCoord_isIntegral_77b0fc8c9165
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:37:04.192499+00:00
 -- url     : https://prove2.me/theorems/01451549-d5e2-42c2-b4c3-2c27f9f101f7

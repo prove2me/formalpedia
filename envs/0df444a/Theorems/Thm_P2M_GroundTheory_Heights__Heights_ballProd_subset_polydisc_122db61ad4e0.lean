@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ballProd_subset_polydisc_122db61ad4e0
 -- name    : P2M_GroundTheory_Heights__Heights_ballProd_subset_polydisc_122db61ad4e0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:48:10.155867+00:00
 -- url     : https://prove2.me/theorems/9bb925b1-5b29-5d69-9c5f-f6f0356cd562

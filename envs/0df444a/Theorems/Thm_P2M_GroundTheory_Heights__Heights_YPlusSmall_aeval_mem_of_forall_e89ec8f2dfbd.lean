@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_YPlusSmall_aeval_mem_of_forall_e89ec8f2dfbd
 -- name    : P2M_GroundTheory_Heights__Heights_YPlusSmall_aeval_mem_of_forall_e89ec8f2dfbd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:45:26.173963+00:00
 -- url     : https://prove2.me/theorems/a8836ce0-dcd8-43e5-b8f6-53b8015168f4

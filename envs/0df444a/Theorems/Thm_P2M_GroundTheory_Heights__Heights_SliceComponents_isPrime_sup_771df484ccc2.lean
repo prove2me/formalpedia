@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceComponents_isPrime_sup_771df484ccc2
 -- name    : P2M_GroundTheory_Heights__Heights_SliceComponents_isPrime_sup_771df484ccc2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:38:31.412821+00:00
 -- url     : https://prove2.me/theorems/8babf08f-6216-44d2-a472-cc615d3fc5aa

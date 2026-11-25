@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_orbMass_eq_orbSum_fibre
 -- name    : GlobalTheory.Mass.orbMass_eq_orbSum_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:33:40.47344+00:00
 -- url     : https://prove2.me/theorems/2327f9db-252b-518e-95dc-58386207929f

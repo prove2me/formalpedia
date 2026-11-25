@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_count_primeFrac_of_ne_3fc751f299b5
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_count_primeFrac_of_ne_3fc751f299b5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:04:37.106818+00:00
 -- url     : https://prove2.me/theorems/1f692269-9360-50f9-a1be-7f4fd7eaab27

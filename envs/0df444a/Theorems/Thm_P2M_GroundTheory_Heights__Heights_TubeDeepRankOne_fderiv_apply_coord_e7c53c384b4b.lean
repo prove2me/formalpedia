@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeDeepRankOne_fderiv_apply_coord_e7c53c384b4b
 -- name    : P2M_GroundTheory_Heights__Heights_TubeDeepRankOne_fderiv_apply_coord_e7c53c384b4b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:46:10.516289+00:00
 -- url     : https://prove2.me/theorems/ff654f76-2267-5d7f-9306-6affd6c29521

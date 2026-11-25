@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_intNum_comp_perm_d3826893cbaa
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_intNum_comp_perm_d3826893cbaa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:45:56.861904+00:00
 -- url     : https://prove2.me/theorems/3121b0bb-fd57-5079-9042-eb3ddb58e78a

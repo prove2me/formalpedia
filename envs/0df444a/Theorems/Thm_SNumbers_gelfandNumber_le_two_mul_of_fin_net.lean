@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_gelfandNumber_le_two_mul_of_fin_net
 -- name    : SNumbers.gelfandNumber_le_two_mul_of_fin_net
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:46:47.738861+00:00
 -- url     : https://prove2.me/theorems/aba70866-41d3-4a20-9d0a-e06d7819f176

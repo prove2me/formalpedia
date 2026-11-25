@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinVerticalDivisorLeft_weight_mapDomain_assocVar_fbb47b8e3207
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinVerticalDivisorLeft_weight_mapDomain_assocVar_fbb47b8e3207
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:08:44.637442+00:00
 -- url     : https://prove2.me/theorems/4a58a73f-373d-40db-be95-f6858b744557

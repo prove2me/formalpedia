@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_abs_lowK_sub_le
 -- name    : GlobalTheory.abs_lowK_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:02:10.360414+00:00
 -- url     : https://prove2.me/theorems/46402d96-c2e7-4aa8-a5e4-38417c519745

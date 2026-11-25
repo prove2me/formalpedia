@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionLengthSum_prime_between_99e0417cad09
 -- name    : P2M_GroundTheory_Heights__Heights_SectionLengthSum_prime_between_99e0417cad09
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:37:13.492546+00:00
 -- url     : https://prove2.me/theorems/675df559-c1ac-4798-923a-51e421a85c50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeSlice_continuous_pt
 -- name    : GlobalTheory.HCXi.ConeSlice.continuous_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:27:55.937497+00:00
 -- url     : https://prove2.me/theorems/37c77882-59a7-41a2-97e6-fe58e03af237

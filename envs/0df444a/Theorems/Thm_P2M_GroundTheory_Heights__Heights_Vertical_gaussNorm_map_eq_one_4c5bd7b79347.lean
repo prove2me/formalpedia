@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_gaussNorm_map_eq_one_4c5bd7b79347
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_gaussNorm_map_eq_one_4c5bd7b79347
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:45:44.33774+00:00
 -- url     : https://prove2.me/theorems/5fc862fa-a092-5df3-bce4-13fc9ce441c1

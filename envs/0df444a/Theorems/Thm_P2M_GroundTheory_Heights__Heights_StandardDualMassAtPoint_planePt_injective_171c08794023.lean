@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StandardDualMassAtPoint_planePt_injective_171c08794023
 -- name    : P2M_GroundTheory_Heights__Heights_StandardDualMassAtPoint_planePt_injective_171c08794023
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:40:01.208558+00:00
 -- url     : https://prove2.me/theorems/a9ed2c24-9c98-5246-b16e-9988b301fd03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_irreducible_algebraMap_C_dcd27d7eec3d
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_irreducible_algebraMap_C_dcd27d7eec3d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:43:35.203956+00:00
 -- url     : https://prove2.me/theorems/cdebfdf5-744a-4be2-b9cb-d08e7130b01c

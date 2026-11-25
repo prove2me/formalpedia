@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DegCnt_NFGeom_z__eq_1a1eccca2614
 -- name    : P2M_GlobalTheory_DegCnt_NFGeom_z__eq_1a1eccca2614
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:45:19.651262+00:00
 -- url     : https://prove2.me/theorems/1f07b015-c30d-49c3-9e9b-54a2a2b8a459

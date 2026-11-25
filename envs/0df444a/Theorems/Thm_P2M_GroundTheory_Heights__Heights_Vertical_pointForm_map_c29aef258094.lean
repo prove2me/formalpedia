@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_pointForm_map_c29aef258094
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_pointForm_map_c29aef258094
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:45:49.698189+00:00
 -- url     : https://prove2.me/theorems/50c7ef65-e765-5ed8-a73e-7553faa6b60d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_EventualPolynomial_newton_2741b236fc44
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_EventualPolynomial_newton_2741b236fc44
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:19:28.237372+00:00
 -- url     : https://prove2.me/theorems/d55841ec-fe68-4a2c-bc31-9b9e3532d992

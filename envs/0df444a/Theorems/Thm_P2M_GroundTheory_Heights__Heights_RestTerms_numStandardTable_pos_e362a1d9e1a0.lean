@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_numStandardTable_pos_e362a1d9e1a0
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_numStandardTable_pos_e362a1d9e1a0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:36:26.563794+00:00
 -- url     : https://prove2.me/theorems/776b54d6-12da-4f28-a121-266940075876

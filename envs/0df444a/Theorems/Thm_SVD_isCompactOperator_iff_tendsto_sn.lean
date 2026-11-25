@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SVD_isCompactOperator_iff_tendsto_sn
 -- name    : SVD.isCompactOperator_iff_tendsto_sn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:51:38.605864+00:00
 -- url     : https://prove2.me/theorems/4f39f83e-8f45-47b0-a8d9-613993e04805

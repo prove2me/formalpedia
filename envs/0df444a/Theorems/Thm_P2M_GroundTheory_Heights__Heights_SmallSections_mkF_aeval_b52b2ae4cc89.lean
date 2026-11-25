@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SmallSections_mkF_aeval_b52b2ae4cc89
 -- name    : P2M_GroundTheory_Heights__Heights_SmallSections_mkF_aeval_b52b2ae4cc89
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:39:31.179632+00:00
 -- url     : https://prove2.me/theorems/50eb1c08-66d7-5d60-9273-17157b2fb94c

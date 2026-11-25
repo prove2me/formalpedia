@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_snoc_comp_ff079f75d740
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_snoc_comp_ff079f75d740
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:44:02.39686+00:00
 -- url     : https://prove2.me/theorems/3e260542-5a57-5f75-8f08-274b2ce12198

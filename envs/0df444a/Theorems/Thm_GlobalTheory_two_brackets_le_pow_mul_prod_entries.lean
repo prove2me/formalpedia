@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_two_brackets_le_pow_mul_prod_entries
 -- name    : GlobalTheory.two_brackets_le_pow_mul_prod_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:34:35.910018+00:00
 -- url     : https://prove2.me/theorems/577c630d-636e-5b37-8b15-7d30ddd18214

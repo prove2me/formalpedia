@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_continuous_gramForm_934aa4e46504
 -- name    : P2M_GroundTheory_Heights__Heights_continuous_gramForm_934aa4e46504
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:46:40.143495+00:00
 -- url     : https://prove2.me/theorems/ee4cf4e2-420a-49b1-b3c7-70758c32fd79

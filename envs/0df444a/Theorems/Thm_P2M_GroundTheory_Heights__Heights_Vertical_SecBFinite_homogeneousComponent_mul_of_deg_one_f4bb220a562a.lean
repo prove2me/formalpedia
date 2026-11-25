@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_homogeneousComponent_mul_of_deg_one_f4bb220a562a
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_homogeneousComponent_mul_of_deg_one_f4bb220a562a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:43:49.068024+00:00
 -- url     : https://prove2.me/theorems/f09735d2-c3b8-52d5-b3d4-22ea6d344ad3

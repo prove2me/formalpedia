@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_of_wild_of_pow_mem_open_normal
 -- name    : GlobalTheory.mem_of_wild_of_pow_mem_open_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:54:49.833252+00:00
 -- url     : https://prove2.me/theorems/fbed0cbe-9148-4cbb-b5f7-4138c117723d

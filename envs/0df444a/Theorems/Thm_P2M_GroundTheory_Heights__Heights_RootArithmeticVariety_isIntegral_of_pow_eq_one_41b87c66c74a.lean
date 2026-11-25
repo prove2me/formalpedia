@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootArithmeticVariety_isIntegral_of_pow_eq_one_41b87c66c74a
 -- name    : P2M_GroundTheory_Heights__Heights_RootArithmeticVariety_isIntegral_of_pow_eq_one_41b87c66c74a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:36:47.114408+00:00
 -- url     : https://prove2.me/theorems/fa9ddb81-a710-4308-8ef3-4caa97deba85

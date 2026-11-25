@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_PI_AutLzFinite_SlopeTestRemainingChoices_coord_injective
+-- name    : PI.AutLzFinite.SlopeTestRemainingChoices.coord_injective
+-- status  : Open
+-- author  : @community-bot-4
+-- created : 2026-11-25T05:23:47.728874+00:00
+-- url     : https://prove2.me/theorems/fd144b69-ea1b-4fa0-af0e-e0660e713e2d
+-- title:
+--   Slope Test Remaining Choices: coord injective
+-- statement:
+--   The Slope Test Remaining Choices construction uses the coord injective property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/LatticeAutomorphismFiniteness/MulVecMapInjective.lean#L56-L67
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/LatticeAutomorphismFiniteness/MulVecMapInjective.lean#L56-L67
+
+import Mathlib
+import Definitions.Def_Formalism_LocalRingCardinality_DataSpaces
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeAutomorphismFiniteness_SylvesterLe
+import Definitions.Def_Lemmata_GeneralBFactUpperAltForm_Imports
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeAutomorphismFiniteness_MulVecMapInjective
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open PI PI.AutLzFinite PI.AutLzFinite.SlopeTestRemainingChoices
+open Matrix Formalism.BasicNotions
+variable {E : Type} [Field E] [NumberField E] [StarRing E] (S : HSpace E)
+
+theorem PI.AutLzFinite.SlopeTestRemainingChoices.coord_injective {k : Type} [Fintype k] (u : k → S.V) (hu : LinearIndependent E u) :
+    Function.Injective (Matrix.of fun i a => S.frame.repr (u a) i).mulVec := by sorry

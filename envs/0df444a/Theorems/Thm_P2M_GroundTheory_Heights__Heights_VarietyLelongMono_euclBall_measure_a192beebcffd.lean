@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarietyLelongMono_euclBall_measure_a192beebcffd
 -- name    : P2M_GroundTheory_Heights__Heights_VarietyLelongMono_euclBall_measure_a192beebcffd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:41:45.708109+00:00
 -- url     : https://prove2.me/theorems/2138d237-0800-483a-8fca-67b877843340

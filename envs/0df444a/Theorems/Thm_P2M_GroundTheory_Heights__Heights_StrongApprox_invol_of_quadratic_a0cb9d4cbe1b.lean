@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_invol_of_quadratic_a0cb9d4cbe1b
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_invol_of_quadratic_a0cb9d4cbe1b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:40:35.387803+00:00
 -- url     : https://prove2.me/theorems/cb893aea-242f-584a-8667-fbf8ccb8de15

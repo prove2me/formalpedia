@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_splitCasimir_eigenvalue_dual
 -- name    : GlobalTheory.splitCasimir_eigenvalue_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:36:55.56374+00:00
 -- url     : https://prove2.me/theorems/c0ceca54-b3f7-5260-95f3-f4efc648d3ce

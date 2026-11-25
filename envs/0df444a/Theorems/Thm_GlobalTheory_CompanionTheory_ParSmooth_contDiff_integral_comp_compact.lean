@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ParSmooth_contDiff_integral_comp_compact
 -- name    : GlobalTheory.CompanionTheory.ParSmooth.contDiff_integral_comp_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:58:10.351545+00:00
 -- url     : https://prove2.me/theorems/e9b3362e-0bc7-4c58-ba9b-1bdb453c3be4

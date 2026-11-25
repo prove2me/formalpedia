@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_contDiff_evalC_435b0b7923c5
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_contDiff_evalC_435b0b7923c5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:41:28.453459+00:00
 -- url     : https://prove2.me/theorems/2f555b94-5b00-42ec-8519-95779fa69ce5

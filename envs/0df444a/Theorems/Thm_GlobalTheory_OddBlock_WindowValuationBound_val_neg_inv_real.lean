@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_WindowValuationBound_val_neg_inv_real
 -- name    : GlobalTheory.OddBlock.WindowValuationBound.val_neg_inv_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:35:09.556157+00:00
 -- url     : https://prove2.me/theorems/8f8b0a95-f20c-4398-9341-c96517ddf98a

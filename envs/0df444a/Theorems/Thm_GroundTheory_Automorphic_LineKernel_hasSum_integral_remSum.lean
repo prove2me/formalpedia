@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_hasSum_integral_remSum
 -- name    : GroundTheory.Automorphic.LineKernel.hasSum_integral_remSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:04:38.524793+00:00
 -- url     : https://prove2.me/theorems/8ce5c130-3cd1-4294-91a7-967a9bffca93

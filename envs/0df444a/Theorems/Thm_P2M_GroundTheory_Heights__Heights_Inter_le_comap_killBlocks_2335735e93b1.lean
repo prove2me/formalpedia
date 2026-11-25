@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_le_comap_killBlocks_2335735e93b1
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_le_comap_killBlocks_2335735e93b1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:21:39.969696+00:00
 -- url     : https://prove2.me/theorems/e88dbc6c-0a5e-4a4f-a8ce-1a0d2c175e33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_OmgEquiv_fix_fvec
 -- name    : GlobalTheory.WigSh.OmgEquiv.fix_fvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:33:13.196047+00:00
 -- url     : https://prove2.me/theorems/48bf1ee4-021c-472b-abf6-e4f176a0b832

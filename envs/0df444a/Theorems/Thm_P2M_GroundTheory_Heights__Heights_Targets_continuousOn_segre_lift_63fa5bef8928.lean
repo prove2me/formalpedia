@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_continuousOn_segre_lift_63fa5bef8928
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_continuousOn_segre_lift_63fa5bef8928
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:40:29.093349+00:00
 -- url     : https://prove2.me/theorems/26d93e72-2d11-5fab-88ef-6f0d59fff56c

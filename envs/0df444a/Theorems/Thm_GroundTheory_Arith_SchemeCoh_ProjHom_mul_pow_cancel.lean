@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjHom_mul_pow_cancel
 -- name    : GroundTheory.Arith.SchemeCoh.ProjHom.mul_pow_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:34:53.93263+00:00
 -- url     : https://prove2.me/theorems/4d3fa465-9eb4-572c-8be3-aa434b97d061

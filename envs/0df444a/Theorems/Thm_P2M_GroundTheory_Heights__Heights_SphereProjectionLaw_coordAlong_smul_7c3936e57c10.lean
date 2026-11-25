@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereProjectionLaw_coordAlong_smul_7c3936e57c10
 -- name    : P2M_GroundTheory_Heights__Heights_SphereProjectionLaw_coordAlong_smul_7c3936e57c10
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:38:55.891125+00:00
 -- url     : https://prove2.me/theorems/7ed6137b-4c42-42cd-84aa-2d30b9a41580

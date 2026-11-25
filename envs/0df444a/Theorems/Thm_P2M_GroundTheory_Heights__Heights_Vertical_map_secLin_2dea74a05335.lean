@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_map_secLin_2dea74a05335
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_map_secLin_2dea74a05335
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:43:52.402673+00:00
 -- url     : https://prove2.me/theorems/c165dd88-0c98-4db0-a0bd-b14779bf4c67

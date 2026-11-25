@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StandardDualModelTranscendence_scale_alt_3dfd9be9352d
 -- name    : P2M_GroundTheory_Heights__Heights_StandardDualModelTranscendence_scale_alt_3dfd9be9352d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:39:29.041801+00:00
 -- url     : https://prove2.me/theorems/e2ebf59d-8a96-407c-908a-fc233bccfb45

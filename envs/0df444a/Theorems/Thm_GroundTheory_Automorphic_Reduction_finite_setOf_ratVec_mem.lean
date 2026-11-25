@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_finite_setOf_ratVec_mem
 -- name    : GroundTheory.Automorphic.Reduction.finite_setOf_ratVec_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:06:08.650985+00:00
 -- url     : https://prove2.me/theorems/fe4a6362-71b1-4a39-a887-2cf13bace87e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_graphIdeal_isPrime_99ea8f7d95b2
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_graphIdeal_isPrime_99ea8f7d95b2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:40:40.682859+00:00
 -- url     : https://prove2.me/theorems/6902e1d8-0a49-51f6-8440-caf419b3bebc

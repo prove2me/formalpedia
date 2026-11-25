@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_vandermondeOf_add_const_a9760dbf9300
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_vandermondeOf_add_const_a9760dbf9300
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:36:38.83562+00:00
 -- url     : https://prove2.me/theorems/bdb91ef0-c22c-54e4-8d12-527b884f53c6

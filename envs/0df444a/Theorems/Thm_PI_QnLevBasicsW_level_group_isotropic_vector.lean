@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnLevBasicsW_level_group_isotropic_vector
 -- name    : PI.QnLevBasicsW.level_group_isotropic_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:27:36.911817+00:00
 -- url     : https://prove2.me/theorems/821935c5-f224-468c-af9f-f2cb7ab08fd4

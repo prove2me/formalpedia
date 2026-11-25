@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RepUniq_exists_spMap
 -- name    : GlobalTheory.RepUniq.exists_spMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:30:30.365716+00:00
 -- url     : https://prove2.me/theorems/17ad9e71-fe5a-5874-96cb-cfc7b262c2e9

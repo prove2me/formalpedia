@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_half_le_entropyNumber_id_of_not_finiteDimensional
 -- name    : SNumbers.half_le_entropyNumber_id_of_not_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:05:36.768705+00:00
 -- url     : https://prove2.me/theorems/dc6967fb-bed2-5aaa-8be6-e42798a75ac5

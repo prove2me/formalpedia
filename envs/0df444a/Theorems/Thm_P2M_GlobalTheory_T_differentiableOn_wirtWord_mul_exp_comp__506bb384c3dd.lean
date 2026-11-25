@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_differentiableOn_wirtWord_mul_exp_comp__506bb384c3dd
 -- name    : P2M_GlobalTheory_T_differentiableOn_wirtWord_mul_exp_comp__506bb384c3dd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:10:12.881713+00:00
 -- url     : https://prove2.me/theorems/87686d95-5ffa-4546-b6a9-10b40902f6a0

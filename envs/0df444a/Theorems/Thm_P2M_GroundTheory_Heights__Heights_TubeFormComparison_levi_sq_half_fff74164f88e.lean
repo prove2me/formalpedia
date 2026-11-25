@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeFormComparison_levi_sq_half_fff74164f88e
 -- name    : P2M_GroundTheory_Heights__Heights_TubeFormComparison_levi_sq_half_fff74164f88e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:46:17.846839+00:00
 -- url     : https://prove2.me/theorems/c967bf12-eda3-5bb7-8d81-75dbe0316e8a

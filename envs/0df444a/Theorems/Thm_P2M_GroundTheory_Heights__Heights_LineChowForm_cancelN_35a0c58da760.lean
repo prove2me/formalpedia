@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LineChowForm_cancelN_35a0c58da760
 -- name    : P2M_GroundTheory_Heights__Heights_LineChowForm_cancelN_35a0c58da760
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:27:43.471474+00:00
 -- url     : https://prove2.me/theorems/89c0f265-4735-4dff-ab6f-9cf41a1779fd

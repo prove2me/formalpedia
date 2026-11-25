@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_coneBall_hausdorff_lt_top_a8bd40dcd9c3
 -- name    : P2M_GroundTheory_Heights__Heights_coneBall_hausdorff_lt_top_a8bd40dcd9c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:45:40.278723+00:00
 -- url     : https://prove2.me/theorems/3d27d970-64d3-4c2f-93e9-4b51a8663fbf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootAnchorNonzeroAlt_anchorMinor_eq_one_42e8acc3f4cd
 -- name    : P2M_GroundTheory_Heights__Heights_RootAnchorNonzeroAlt_anchorMinor_eq_one_42e8acc3f4cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:36:45.040471+00:00
 -- url     : https://prove2.me/theorems/2abfb2e5-8564-417e-a487-f216708e0a9a

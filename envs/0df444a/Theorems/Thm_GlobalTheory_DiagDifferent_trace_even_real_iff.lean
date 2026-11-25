@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagDifferent_trace_even_real_iff
 -- name    : GlobalTheory.DiagDifferent.trace_even_real_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:19:53.359905+00:00
 -- url     : https://prove2.me/theorems/0558b495-2c39-4d08-8eff-91a43b91ba37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootsOfUnityDenseAlt_rootsOfUnity_infinite_fb3881bcacd7
 -- name    : P2M_GroundTheory_Heights__Heights_RootsOfUnityDenseAlt_rootsOfUnity_infinite_fb3881bcacd7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:36:43.33924+00:00
 -- url     : https://prove2.me/theorems/ac8ca840-bf0c-4298-b3ac-8b64253a29c6

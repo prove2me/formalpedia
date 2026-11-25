@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_IntermediateRingQuotLength_length_quot_smul_le_04805538deda
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_IntermediateRingQuotLength_length_quot_smul_le_04805538deda
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:06:32.417865+00:00
 -- url     : https://prove2.me/theorems/b1dcde3a-daa0-4348-9817-757e7cc0a260

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Realis_nonempty_base
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Realis.nonempty_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:18:52.552273+00:00
 -- url     : https://prove2.me/theorems/c033fe0d-b839-4d59-918e-0b752eae9c9e

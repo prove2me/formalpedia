@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x8_forcing
 -- name    : Formalism.FourierDecayAlt.P.S3x8.forcing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:07:43.247848+00:00
 -- url     : https://prove2.me/theorems/697ada85-1ff2-456e-8fe1-f88251aa4de3

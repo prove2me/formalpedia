@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConstantsDescend_algebraMap_surjective_46fcacb94b77
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConstantsDescend_algebraMap_surjective_46fcacb94b77
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:18:52.137829+00:00
 -- url     : https://prove2.me/theorems/42b80bae-cb0e-4172-9ae3-39a474906ce6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceCut_monotone_56c5f6097949
 -- name    : P2M_GroundTheory_Heights__Heights_SliceCut_monotone_56c5f6097949
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:37:45.669905+00:00
 -- url     : https://prove2.me/theorems/77fb58e5-5f3c-54ed-834a-ba8376bc0d99

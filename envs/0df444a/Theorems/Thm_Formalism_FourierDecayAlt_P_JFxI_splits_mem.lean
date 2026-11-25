@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxI_splits_mem
 -- name    : Formalism.FourierDecayAlt.P.JFxI.splits_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:35:52.356816+00:00
 -- url     : https://prove2.me/theorems/b1add211-5427-4ec6-ae83-f8017a084d7d

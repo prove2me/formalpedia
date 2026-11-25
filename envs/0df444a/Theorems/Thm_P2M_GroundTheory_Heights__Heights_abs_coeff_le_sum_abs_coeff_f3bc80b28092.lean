@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_abs_coeff_le_sum_abs_coeff_f3bc80b28092
 -- name    : P2M_GroundTheory_Heights__Heights_abs_coeff_le_sum_abs_coeff_f3bc80b28092
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:43:46.027798+00:00
 -- url     : https://prove2.me/theorems/55dc1774-5083-491b-9b73-c538589e8bb8

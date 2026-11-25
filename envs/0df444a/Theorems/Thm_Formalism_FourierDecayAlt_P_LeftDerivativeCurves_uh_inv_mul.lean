@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LeftDerivativeCurves_uh_inv_mul
 -- name    : Formalism.FourierDecayAlt.P.LeftDerivativeCurves.uh_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:30:10.135223+00:00
 -- url     : https://prove2.me/theorems/43e1f68f-7135-5850-8afe-bfbc8e4b8643

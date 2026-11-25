@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_analyticAt_evalCone_comp_5cc3e96f85a5
 -- name    : P2M_GroundTheory_Heights__Heights_analyticAt_evalCone_comp_5cc3e96f85a5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:44:16.279185+00:00
 -- url     : https://prove2.me/theorems/69f3475f-3b94-4d27-b691-ba601401c6dd

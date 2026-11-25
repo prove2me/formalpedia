@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_abs_finsum_mem_le_finsum_mem_abs_db8835e7e74d
 -- name    : P2M_GroundTheory_Heights__Heights_abs_finsum_mem_le_finsum_mem_abs_db8835e7e74d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:44:39.34631+00:00
 -- url     : https://prove2.me/theorems/482b2ef9-9221-46b4-b3df-4760a5edbe7f

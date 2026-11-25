@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_QrD_ld_left
 -- name    : Formalism.FourierDecayAlt.P.QrD.ld_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:55:51.007525+00:00
 -- url     : https://prove2.me/theorems/edc3cbf5-b788-4a9a-8e93-b666dcb6be81

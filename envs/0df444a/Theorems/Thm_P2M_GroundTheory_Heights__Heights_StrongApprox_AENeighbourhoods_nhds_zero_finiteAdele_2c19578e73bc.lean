@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_AENeighbourhoods_nhds_zero_finiteAdele_2c19578e73bc
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_AENeighbourhoods_nhds_zero_finiteAdele_2c19578e73bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:39:00.482395+00:00
 -- url     : https://prove2.me/theorems/43701042-14a2-41c8-8e0a-32c8e8ab8a07

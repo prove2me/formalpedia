@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_continuous_splitCoord_be4ce8002feb
 -- name    : P2M_GroundTheory_Heights__Heights_continuous_splitCoord_be4ce8002feb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:45:58.590874+00:00
 -- url     : https://prove2.me/theorems/32a3eecc-f511-4259-bb60-8089285fd859

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_I_snoc_triv_8bf95163c347
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_I_snoc_triv_8bf95163c347
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:28:03.127809+00:00
 -- url     : https://prove2.me/theorems/ac2e3889-4864-4c35-bafe-1739b8ed9401

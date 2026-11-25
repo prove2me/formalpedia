@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionInjectivity_metric_eq_bad708170f1e
 -- name    : P2M_GroundTheory_Heights__Heights_SectionInjectivity_metric_eq_bad708170f1e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:38:46.40021+00:00
 -- url     : https://prove2.me/theorems/55d8b9a4-6764-5885-9f14-c5b45b856d57

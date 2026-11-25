@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MonomialMapNorm_form_div_mem_df5c07c6a0e3
 -- name    : P2M_GroundTheory_Heights__Heights_MonomialMapNorm_form_div_mem_df5c07c6a0e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:51:50.061391+00:00
 -- url     : https://prove2.me/theorems/14705d8e-05ff-5cf3-9efe-feb0a18dd39e

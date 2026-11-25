@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_WindowValuationBound_one_le_window
 -- name    : GlobalTheory.OddBlock.WindowValuationBound.one_le_window
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:34:40.994021+00:00
 -- url     : https://prove2.me/theorems/f0c1697c-7534-4e81-b2f4-5eaee8e7ed24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_ExtensionProof_inv_smul_mem_b33911982ebf
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_ExtensionProof_inv_smul_mem_b33911982ebf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:37.935803+00:00
 -- url     : https://prove2.me/theorems/f37404da-c937-4a55-9303-8376946c2662

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_tendsto_kolmogorovNumber_of_isCompactOperator
 -- name    : SNumbers.tendsto_kolmogorovNumber_of_isCompactOperator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:08:43.87427+00:00
 -- url     : https://prove2.me/theorems/4b0c2e3e-12bd-5dc3-9449-c906d553e926

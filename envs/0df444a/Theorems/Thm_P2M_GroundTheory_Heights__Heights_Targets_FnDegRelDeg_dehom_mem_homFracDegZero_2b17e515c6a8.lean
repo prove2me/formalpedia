@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_FnDegRelDeg_dehom_mem_homFracDegZero_2b17e515c6a8
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_FnDegRelDeg_dehom_mem_homFracDegZero_2b17e515c6a8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:40:33.918477+00:00
 -- url     : https://prove2.me/theorems/692898f1-26f8-497a-be31-a25cc3b0cab3

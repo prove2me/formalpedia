@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EabClass_eh_class
 -- name    : GlobalTheory.EabClass.eh_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:59:55.028276+00:00
 -- url     : https://prove2.me/theorems/82aebbc4-804e-46f4-b1e3-d73245ad54cb

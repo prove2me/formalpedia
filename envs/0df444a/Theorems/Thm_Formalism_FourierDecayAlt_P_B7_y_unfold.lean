@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_y_unfold
 -- name    : Formalism.FourierDecayAlt.P.B7.y_unfold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:11:28.112611+00:00
 -- url     : https://prove2.me/theorems/5672e679-6ab9-49c1-8b26-d6b36e8da2e0

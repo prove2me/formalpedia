@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_isFrobLike_one_f2b818bede79
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_isFrobLike_one_f2b818bede79
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:41:26.232859+00:00
 -- url     : https://prove2.me/theorems/be5be6f9-43db-4f54-b77a-241245f94cae

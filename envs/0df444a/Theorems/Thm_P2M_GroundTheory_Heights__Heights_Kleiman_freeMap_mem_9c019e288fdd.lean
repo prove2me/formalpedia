@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_freeMap_mem_9c019e288fdd
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_freeMap_mem_9c019e288fdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:28:41.634408+00:00
 -- url     : https://prove2.me/theorems/d179e1c0-a603-4d0e-9128-6db67e8594b0

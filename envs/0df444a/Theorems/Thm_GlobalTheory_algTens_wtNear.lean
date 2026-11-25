@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algTens_wtNear
 -- name    : GlobalTheory.algTens_wtNear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:53:32.888425+00:00
 -- url     : https://prove2.me/theorems/60a6c03d-e45d-4938-9ddf-fb669a91a21b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_leadingMinorInvariant
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.leadingMinorInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:37:38.43415+00:00
 -- url     : https://prove2.me/theorems/c0cc6786-ecf7-436f-8d6d-80b97cf6753f

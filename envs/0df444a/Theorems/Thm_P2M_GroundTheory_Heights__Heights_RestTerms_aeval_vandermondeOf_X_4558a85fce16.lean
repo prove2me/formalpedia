@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_aeval_vandermondeOf_X_4558a85fce16
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_aeval_vandermondeOf_X_4558a85fce16
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:36:13.410585+00:00
 -- url     : https://prove2.me/theorems/45e3324f-68a7-5d83-a841-6006784b7ce2

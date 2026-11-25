@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_coneTangent_eq_comap_4e9c06d4baf9
 -- name    : P2M_GroundTheory_Heights__Heights_coneTangent_eq_comap_4e9c06d4baf9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:46:11.601823+00:00
 -- url     : https://prove2.me/theorems/cf18070d-2f16-4b56-8270-46ed290d4169

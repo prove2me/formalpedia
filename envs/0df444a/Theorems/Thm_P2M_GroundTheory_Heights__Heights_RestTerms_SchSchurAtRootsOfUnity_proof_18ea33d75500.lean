@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchSchurAtRootsOfUnity_proof_18ea33d75500
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchSchurAtRootsOfUnity_proof_18ea33d75500
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:01:13.426889+00:00
 -- url     : https://prove2.me/theorems/7bd94e1a-e55b-4b89-a4f8-00e8ee6d7bed

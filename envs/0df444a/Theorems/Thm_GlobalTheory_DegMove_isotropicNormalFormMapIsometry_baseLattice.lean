@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegMove_isotropicNormalFormMapIsometry_baseLattice
 -- name    : GlobalTheory.DegMove.isotropicNormalFormMapIsometry_baseLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:00:41.250094+00:00
 -- url     : https://prove2.me/theorems/d306da7d-8c37-4d09-ae58-b04bc77209ab

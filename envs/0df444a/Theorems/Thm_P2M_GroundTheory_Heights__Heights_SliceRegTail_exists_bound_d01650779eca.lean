@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceRegTail_exists_bound_d01650779eca
 -- name    : P2M_GroundTheory_Heights__Heights_SliceRegTail_exists_bound_d01650779eca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:38:32.828797+00:00
 -- url     : https://prove2.me/theorems/3bc92b5f-9540-4418-b703-6b199249794f

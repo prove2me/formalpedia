@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isTraceClass_and_trace_eq_of_conj
 -- name    : GroundTheory.Automorphic.isTraceClass_and_trace_eq_of_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:07:44.278394+00:00
 -- url     : https://prove2.me/theorems/26d433f8-3099-4a15-a855-d6ce314bb929

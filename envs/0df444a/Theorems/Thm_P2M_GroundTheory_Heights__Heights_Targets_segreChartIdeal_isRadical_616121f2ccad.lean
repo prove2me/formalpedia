@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_segreChartIdeal_isRadical_616121f2ccad
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_segreChartIdeal_isRadical_616121f2ccad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:42:09.449855+00:00
 -- url     : https://prove2.me/theorems/873c6d1e-941b-432e-a90d-52c61bd2c447

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_YPlusSmall_eval_map_int_f9e852c2cdf5
 -- name    : P2M_GroundTheory_Heights__Heights_YPlusSmall_eval_map_int_f9e852c2cdf5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:43:58.00582+00:00
 -- url     : https://prove2.me/theorems/7adab7fb-ebb4-47f0-8e5f-37bdfbc2cef3

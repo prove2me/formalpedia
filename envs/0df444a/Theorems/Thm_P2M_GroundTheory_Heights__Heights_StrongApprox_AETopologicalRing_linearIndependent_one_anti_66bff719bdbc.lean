@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_AETopologicalRing_linearIndependent_one_anti_66bff719bdbc
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_AETopologicalRing_linearIndependent_one_anti_66bff719bdbc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:39:08.792126+00:00
 -- url     : https://prove2.me/theorems/2adf2460-8e4c-4bfe-96a8-79113b8b406e

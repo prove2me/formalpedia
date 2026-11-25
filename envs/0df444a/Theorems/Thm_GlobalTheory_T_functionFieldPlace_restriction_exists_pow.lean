@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_functionFieldPlace_restriction_exists_pow
 -- name    : GlobalTheory.T.functionFieldPlace_restriction_exists_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:09:51.161498+00:00
 -- url     : https://prove2.me/theorems/945017cf-a06a-401b-a85c-18d11c560160

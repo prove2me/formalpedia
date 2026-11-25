@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_isMinimalGenerator_iff_no_proper_subset
 -- name    : PretorsionImageClosed.SetClosure.isMinimalGenerator_iff_no_proper_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:47:02.783813+00:00
 -- url     : https://prove2.me/theorems/fac458ab-4ace-4a59-9146-04c22ecf0f4a

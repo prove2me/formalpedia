@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_excBound
 -- name    : Formalism.ZeroFreeDirichlet.excBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:53:08.956977+00:00
 -- url     : https://prove2.me/theorems/1705145d-78f1-40b0-93c4-cfcc8c0247ba

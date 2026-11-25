@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_inv_sq_le_wignerCoeffSqLowering
 -- name    : GlobalTheory.T.inv_sq_le_wignerCoeffSqLowering
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:35:14.449801+00:00
 -- url     : https://prove2.me/theorems/42cbf705-0824-476a-9314-c12eef982782

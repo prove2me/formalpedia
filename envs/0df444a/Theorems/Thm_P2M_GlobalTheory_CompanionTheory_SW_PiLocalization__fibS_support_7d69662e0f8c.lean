@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__fibS_support_7d69662e0f8c
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__fibS_support_7d69662e0f8c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:05:40.637053+00:00
 -- url     : https://prove2.me/theorems/aaa6268c-f311-4ce2-87e8-2e50d40d1b6a

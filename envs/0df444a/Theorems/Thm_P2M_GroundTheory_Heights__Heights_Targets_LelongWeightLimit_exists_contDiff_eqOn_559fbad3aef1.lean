@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_LelongWeightLimit_exists_contDiff_eqOn_559fbad3aef1
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_LelongWeightLimit_exists_contDiff_eqOn_559fbad3aef1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:42:10.126546+00:00
 -- url     : https://prove2.me/theorems/7fad807a-6c61-5efe-93cc-ea4fe59bf143

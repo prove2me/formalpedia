@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_norm_comp_le_norm_mul_deviationFromSubspace
 -- name    : SNumbers.norm_comp_le_norm_mul_deviationFromSubspace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:29:52.221074+00:00
 -- url     : https://prove2.me/theorems/b63f7570-3cc9-5534-a770-e520edecd845

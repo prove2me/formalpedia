@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceFormLelongCompact_exists_contDiff_eqOn_8ff75c6608ef
 -- name    : P2M_GroundTheory_Heights__Heights_SliceFormLelongCompact_exists_contDiff_eqOn_8ff75c6608ef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:38:56.117505+00:00
 -- url     : https://prove2.me/theorems/c30ca2e9-d579-41ec-b832-8ba71a52ede4

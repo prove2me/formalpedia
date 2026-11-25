@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalModelFibre_eventually_mem_of_fibre_subset_5bca31cfcf03
 -- name    : P2M_GroundTheory_Heights__Heights_NormalModelFibre_eventually_mem_of_fibre_subset_5bca31cfcf03
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:04:33.900863+00:00
 -- url     : https://prove2.me/theorems/fd91afed-fa93-5d46-8d9b-c0275ca89259

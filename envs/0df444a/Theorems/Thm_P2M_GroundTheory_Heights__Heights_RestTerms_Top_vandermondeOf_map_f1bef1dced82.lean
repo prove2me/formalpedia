@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_vandermondeOf_map_f1bef1dced82
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_vandermondeOf_map_f1bef1dced82
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:35:56.48181+00:00
 -- url     : https://prove2.me/theorems/fa7faaa4-54ec-416b-b7a7-315df147a615

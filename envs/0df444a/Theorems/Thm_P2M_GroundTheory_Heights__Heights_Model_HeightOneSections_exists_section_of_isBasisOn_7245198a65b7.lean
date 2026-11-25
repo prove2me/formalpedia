@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_HeightOneSections_exists_section_of_isBasisOn_7245198a65b7
 -- name    : P2M_GroundTheory_Heights__Heights_Model_HeightOneSections_exists_section_of_isBasisOn_7245198a65b7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:30:25.9358+00:00
 -- url     : https://prove2.me/theorems/999d6133-fb8f-4035-9cb6-cb8041f9a23e

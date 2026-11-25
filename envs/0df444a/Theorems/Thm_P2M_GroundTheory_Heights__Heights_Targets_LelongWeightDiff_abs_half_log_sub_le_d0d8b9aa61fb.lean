@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_LelongWeightDiff_abs_half_log_sub_le_d0d8b9aa61fb
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_LelongWeightDiff_abs_half_log_sub_le_d0d8b9aa61fb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:42:37.739429+00:00
 -- url     : https://prove2.me/theorems/75740c2d-8779-4fc0-8a96-98b2a5a9fa24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_gzPNT
 -- name    : Formalism.ZF.gzPNT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:36:20.929803+00:00
 -- url     : https://prove2.me/theorems/72c2d1fd-958e-4f72-b176-ea4c43f072f5

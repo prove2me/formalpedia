@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain6_words_of_count
 -- name    : Formalism.LFunctionChainParameters.LChain6.words_of_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:20:57.16626+00:00
 -- url     : https://prove2.me/theorems/2f576f33-4882-5211-ba12-90d2b2676b6b

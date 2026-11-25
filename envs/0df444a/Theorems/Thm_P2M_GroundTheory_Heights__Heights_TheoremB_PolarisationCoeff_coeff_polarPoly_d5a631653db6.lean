@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_PolarisationCoeff_coeff_polarPoly_d5a631653db6
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_PolarisationCoeff_coeff_polarPoly_d5a631653db6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:40:39.304499+00:00
 -- url     : https://prove2.me/theorems/3ae6df66-88fd-5f94-802b-22895e13d8db

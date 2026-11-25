@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_BirationalCoordinates_isSmallH_iff_342c06808d8c
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_BirationalCoordinates_isSmallH_iff_342c06808d8c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:21:00.316831+00:00
 -- url     : https://prove2.me/theorems/1cf6a0cd-b026-5efc-aee4-b1762906e6f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_sigma_mk_fiberElt_f73258b59765
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_sigma_mk_fiberElt_f73258b59765
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:42:35.213009+00:00
 -- url     : https://prove2.me/theorems/d73bcef5-df3c-4bb4-aa12-aa3a0bff71b6

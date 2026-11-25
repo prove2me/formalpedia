@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_BinomialValue_subst_exp
 -- name    : GlobalTheory.OddBlock.BinomialValue.subst_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:33:55.407219+00:00
 -- url     : https://prove2.me/theorems/ddc930a9-435f-4881-949b-4eea0e8b7a27

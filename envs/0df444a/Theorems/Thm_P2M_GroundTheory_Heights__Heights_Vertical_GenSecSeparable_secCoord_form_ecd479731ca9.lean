@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_GenSecSeparable_secCoord_form_ecd479731ca9
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_GenSecSeparable_secCoord_form_ecd479731ca9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:42:43.448601+00:00
 -- url     : https://prove2.me/theorems/07e111e7-6226-5d32-9aba-016727e3c82a

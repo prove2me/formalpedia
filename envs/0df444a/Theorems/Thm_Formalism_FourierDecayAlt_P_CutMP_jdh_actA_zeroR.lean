@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_jdh_actA_zeroR
 -- name    : Formalism.FourierDecayAlt.P.CutMP.jdh_actA_zeroR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:33:36.071472+00:00
 -- url     : https://prove2.me/theorems/3e242973-678e-41cf-ba35-473a8239b580

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbAddBlock_finrank_gradedPiece_348cd7d65ded
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbAddBlock_finrank_gradedPiece_348cd7d65ded
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:56:51.863444+00:00
 -- url     : https://prove2.me/theorems/42f8e36e-03be-4525-9699-a6789c50c06a

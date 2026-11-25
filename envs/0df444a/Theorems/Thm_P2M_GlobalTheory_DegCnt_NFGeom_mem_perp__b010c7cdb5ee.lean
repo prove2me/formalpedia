@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DegCnt_NFGeom_mem_perp__b010c7cdb5ee
 -- name    : P2M_GlobalTheory_DegCnt_NFGeom_mem_perp__b010c7cdb5ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:45:26.422096+00:00
 -- url     : https://prove2.me/theorems/6701ed49-3237-40c7-be6f-c84aa391d013

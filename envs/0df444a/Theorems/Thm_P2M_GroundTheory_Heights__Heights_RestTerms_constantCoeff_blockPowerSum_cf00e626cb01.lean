@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_constantCoeff_blockPowerSum_cf00e626cb01
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_constantCoeff_blockPowerSum_cf00e626cb01
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:35:43.743683+00:00
 -- url     : https://prove2.me/theorems/e4c01ff4-da54-4daf-a018-e82e56af1f7c

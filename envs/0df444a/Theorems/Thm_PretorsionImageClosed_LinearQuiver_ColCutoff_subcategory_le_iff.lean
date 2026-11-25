@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_ColCutoff_subcategory_le_iff
 -- name    : PretorsionImageClosed.LinearQuiver.ColCutoff.subcategory_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:05:31.255449+00:00
 -- url     : https://prove2.me/theorems/5b557b2f-3070-4578-992b-96120d700f34

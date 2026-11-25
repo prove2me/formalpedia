@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_rootRingToReal_isHomogeneous_iff_1053195a886d
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_rootRingToReal_isHomogeneous_iff_1053195a886d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:36:58.746576+00:00
 -- url     : https://prove2.me/theorems/057bfd21-7626-56c3-ae30-5c3251b80931

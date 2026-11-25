@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_constantCoeff_eq_zero_of_isHomogIdeal_ccff6c17f035
 -- name    : P2M_GroundTheory_Heights__Heights_constantCoeff_eq_zero_of_isHomogIdeal_ccff6c17f035
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:45:25.473289+00:00
 -- url     : https://prove2.me/theorems/0af2e3f2-69f0-45dc-875f-a614edba0b27

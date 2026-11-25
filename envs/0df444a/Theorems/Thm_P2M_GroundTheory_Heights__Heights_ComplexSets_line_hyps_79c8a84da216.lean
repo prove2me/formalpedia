@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_line_hyps_79c8a84da216
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_line_hyps_79c8a84da216
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:50:13.486048+00:00
 -- url     : https://prove2.me/theorems/2dc7ef3b-cad3-4942-a6bb-faa6b1146fbc

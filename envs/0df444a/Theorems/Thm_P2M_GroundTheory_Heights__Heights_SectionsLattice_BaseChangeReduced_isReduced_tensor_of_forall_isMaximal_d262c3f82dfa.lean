@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionsLattice_BaseChangeReduced_isReduced_tensor_of_forall_isMaximal_d262c3f82dfa
 -- name    : P2M_GroundTheory_Heights__Heights_SectionsLattice_BaseChangeReduced_isReduced_tensor_of_forall_isMaximal_d262c3f82dfa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:37:19.057829+00:00
 -- url     : https://prove2.me/theorems/5768509a-67a2-4f5e-ac9b-cabfb709e3d1

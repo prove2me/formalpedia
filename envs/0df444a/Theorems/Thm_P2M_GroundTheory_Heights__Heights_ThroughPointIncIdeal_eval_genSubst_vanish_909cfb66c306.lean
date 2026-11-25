@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ThroughPointIncIdeal_eval_genSubst_vanish_909cfb66c306
 -- name    : P2M_GroundTheory_Heights__Heights_ThroughPointIncIdeal_eval_genSubst_vanish_909cfb66c306
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:41:07.654074+00:00
 -- url     : https://prove2.me/theorems/14da079f-d3b7-573e-a0a3-94c3a5a30cbd

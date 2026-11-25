@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMean_ballSet_subset_closedBall_a60a8a60db99
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMean_ballSet_subset_closedBall_a60a8a60db99
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:38:16.261695+00:00
 -- url     : https://prove2.me/theorems/cbcc0772-f687-4f8d-9706-fbc035f86a99

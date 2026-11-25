@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_le_sqrt_mul_deviationFromSubspace
 -- name    : SNumbers.approximationNumber_le_sqrt_mul_deviationFromSubspace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:55:13.209132+00:00
 -- url     : https://prove2.me/theorems/d7f09aca-5189-4d8e-8ed9-e2631d53272b

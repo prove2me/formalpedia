@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_antisymmetrize_C_mul_9a5d169b441b
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_antisymmetrize_C_mul_9a5d169b441b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:35:49.396798+00:00
 -- url     : https://prove2.me/theorems/78eec8fd-ae7a-4bd4-a100-b1a14293df48

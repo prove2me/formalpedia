@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecBGeneric_map_linForm_46cd1ec73ef2
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecBGeneric_map_linForm_46cd1ec73ef2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:44:18.460643+00:00
 -- url     : https://prove2.me/theorems/fe0096b2-a589-5d32-b059-f59ec24fcbcd

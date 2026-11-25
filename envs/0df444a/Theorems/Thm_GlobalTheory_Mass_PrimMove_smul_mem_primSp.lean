@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_PrimMove_smul_mem_primSp
 -- name    : GlobalTheory.Mass.PrimMove.smul_mem_primSp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:00:21.492903+00:00
 -- url     : https://prove2.me/theorems/a0b55123-6508-4c0a-9c8a-b4d3dec23a63

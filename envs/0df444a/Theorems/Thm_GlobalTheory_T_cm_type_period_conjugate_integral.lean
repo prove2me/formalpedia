@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cm_type_period_conjugate_integral
 -- name    : GlobalTheory.T.cm_type_period_conjugate_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:29:06.712556+00:00
 -- url     : https://prove2.me/theorems/bbd88ac2-d660-4345-aba5-71ac6e9124d8

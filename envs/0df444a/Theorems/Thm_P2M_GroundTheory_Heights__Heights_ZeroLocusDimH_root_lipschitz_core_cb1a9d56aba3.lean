@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_root_lipschitz_core_cb1a9d56aba3
 -- name    : P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_root_lipschitz_core_cb1a9d56aba3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:43:35.429663+00:00
 -- url     : https://prove2.me/theorems/ce9cff1e-2c1a-460e-96a1-ed5ce75823ce

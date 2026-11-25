@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootAnchorNonzeroAlt_eval_homForm_698e79acdc72
 -- name    : P2M_GroundTheory_Heights__Heights_RootAnchorNonzeroAlt_eval_homForm_698e79acdc72
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:36:48.710731+00:00
 -- url     : https://prove2.me/theorems/7f87c0d9-f200-4cda-9954-040896dcd822

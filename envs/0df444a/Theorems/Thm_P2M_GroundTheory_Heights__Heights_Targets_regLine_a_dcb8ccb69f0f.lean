@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_regLine_a_dcb8ccb69f0f
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_regLine_a_dcb8ccb69f0f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:45:33.292796+00:00
 -- url     : https://prove2.me/theorems/fa367f0a-eb62-58c8-bc97-e132d6ee5747

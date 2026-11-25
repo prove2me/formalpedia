@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_YPlusSec_mapDomain_newEmb_some_d6e9fc69ab69
 -- name    : P2M_GroundTheory_Heights__Heights_YPlusSec_mapDomain_newEmb_some_d6e9fc69ab69
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:43:56.390311+00:00
 -- url     : https://prove2.me/theorems/cd210059-c1de-4a56-b2e2-2624ace39617

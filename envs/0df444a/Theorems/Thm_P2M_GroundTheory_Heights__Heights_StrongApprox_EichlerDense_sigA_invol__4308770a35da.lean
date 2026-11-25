@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_EichlerDense_sigA_invol__4308770a35da
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_EichlerDense_sigA_invol__4308770a35da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:39:40.883748+00:00
 -- url     : https://prove2.me/theorems/41531e23-593d-4637-b143-49c1b22840b7

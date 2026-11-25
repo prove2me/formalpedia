@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_eval_coneMap_ad771fde0cea
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_eval_coneMap_ad771fde0cea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:19:58.296257+00:00
 -- url     : https://prove2.me/theorems/e23aa47c-5bb3-4c55-9c37-8bbdc64fd7e3

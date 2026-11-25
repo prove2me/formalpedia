@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_WeakMatrixArithmetic_intersectionNumber_baseChange_49a51a11ea52
 -- name    : P2M_GroundTheory_Heights__Heights_WeakMatrixArithmetic_intersectionNumber_baseChange_49a51a11ea52
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:43:46.412999+00:00
 -- url     : https://prove2.me/theorems/fa37dfdb-3c81-4bfa-a419-fc6445665930

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualArithVar_proof_4a52428ded73
 -- name    : P2M_GroundTheory_Heights__Heights_DualArithVar_proof_4a52428ded73
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:09:25.714669+00:00
 -- url     : https://prove2.me/theorems/66912978-ad95-42f4-a143-bf03a43dd47c

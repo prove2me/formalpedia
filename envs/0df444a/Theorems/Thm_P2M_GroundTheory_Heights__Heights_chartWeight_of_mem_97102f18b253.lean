@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_chartWeight_of_mem_97102f18b253
 -- name    : P2M_GroundTheory_Heights__Heights_chartWeight_of_mem_97102f18b253
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:44:54.960095+00:00
 -- url     : https://prove2.me/theorems/f7e6bd4c-1c06-4cf5-85b8-1a875fad27ff

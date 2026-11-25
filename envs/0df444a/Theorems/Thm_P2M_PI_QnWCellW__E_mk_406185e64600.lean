@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_QnWCellW__E_mk_406185e64600
 -- name    : P2M_PI_QnWCellW__E_mk_406185e64600
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:58:39.904932+00:00
 -- url     : https://prove2.me/theorems/a767a103-9313-40a8-bb5e-984dab5be8da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_siegelLower
 -- name    : Formalism.ZeroFreeDirichlet.siegelLower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:38:37.494671+00:00
 -- url     : https://prove2.me/theorems/b03487a5-b8f9-48a1-b826-4724e693a8df

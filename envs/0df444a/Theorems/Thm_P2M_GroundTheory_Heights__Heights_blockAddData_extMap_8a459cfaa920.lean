@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_blockAddData_extMap_8a459cfaa920
 -- name    : P2M_GroundTheory_Heights__Heights_blockAddData_extMap_8a459cfaa920
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:45:13.749843+00:00
 -- url     : https://prove2.me/theorems/33909f48-4534-48b2-bc40-b942a56c5987

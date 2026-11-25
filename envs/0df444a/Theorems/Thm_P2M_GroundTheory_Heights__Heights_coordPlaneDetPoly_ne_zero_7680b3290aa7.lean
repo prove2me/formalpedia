@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_coordPlaneDetPoly_ne_zero_7680b3290aa7
 -- name    : P2M_GroundTheory_Heights__Heights_coordPlaneDetPoly_ne_zero_7680b3290aa7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:45:28.94019+00:00
 -- url     : https://prove2.me/theorems/1aafb0c5-f3f9-4d56-80eb-e03a5eac37f2

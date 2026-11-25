@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecIdealOfPrime_secAlg_of_ratFunc_ed8075505960
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecIdealOfPrime_secAlg_of_ratFunc_ed8075505960
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:44:13.489802+00:00
 -- url     : https://prove2.me/theorems/2c50cb84-575c-4264-a166-0472991473c7

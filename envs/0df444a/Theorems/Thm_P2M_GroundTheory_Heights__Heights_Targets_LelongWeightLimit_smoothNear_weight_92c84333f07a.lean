@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_LelongWeightLimit_smoothNear_weight_92c84333f07a
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_LelongWeightLimit_smoothNear_weight_92c84333f07a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:42:17.407015+00:00
 -- url     : https://prove2.me/theorems/db4d8f3f-4672-5eae-ae22-51b2413edaef

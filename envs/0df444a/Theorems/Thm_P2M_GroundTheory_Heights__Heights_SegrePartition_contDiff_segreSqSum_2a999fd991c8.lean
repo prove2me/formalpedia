@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SegrePartition_contDiff_segreSqSum_2a999fd991c8
 -- name    : P2M_GroundTheory_Heights__Heights_SegrePartition_contDiff_segreSqSum_2a999fd991c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:37:24.079207+00:00
 -- url     : https://prove2.me/theorems/df3857a7-8041-5d8c-b133-ce8d3bbbcba5

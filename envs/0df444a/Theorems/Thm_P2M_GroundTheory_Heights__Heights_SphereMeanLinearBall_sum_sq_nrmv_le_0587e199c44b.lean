@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMeanLinearBall_sum_sq_nrmv_le_0587e199c44b
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMeanLinearBall_sum_sq_nrmv_le_0587e199c44b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:39:02.59495+00:00
 -- url     : https://prove2.me/theorems/2f659526-98bf-4aa4-9f68-9f4696e28582

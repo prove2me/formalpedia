@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Dict_face_one_mk3
 -- name    : GlobalTheory.CompanionTheory.Dict.face_one_mk3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:35:49.496788+00:00
 -- url     : https://prove2.me/theorems/421b1a87-14b7-4bf1-b3c3-51bcc9dd5bfc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_aeval_mul_homogeneousComponent_881901500cda
 -- name    : P2M_GroundTheory_Heights__Heights_aeval_mul_homogeneousComponent_881901500cda
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:46:31.492915+00:00
 -- url     : https://prove2.me/theorems/38ae4ad7-cd00-5eab-bd2b-27aba27a2710

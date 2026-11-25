@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_GenSecKer_genPar_algIndep_175e337cdc44
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_GenSecKer_genPar_algIndep_175e337cdc44
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:42:36.430848+00:00
 -- url     : https://prove2.me/theorems/a9b53934-d0eb-4609-8357-bdcbe58333f1

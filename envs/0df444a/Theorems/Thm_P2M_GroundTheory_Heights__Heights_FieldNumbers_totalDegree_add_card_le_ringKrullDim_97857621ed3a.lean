@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_totalDegree_add_card_le_ringKrullDim_97857621ed3a
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_totalDegree_add_card_le_ringKrullDim_97857621ed3a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:25.463869+00:00
 -- url     : https://prove2.me/theorems/ba8876b8-0e76-56ac-90f6-e9905586be18

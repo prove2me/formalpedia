@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_chartLoc_adjoin_eq_top_09cffd6c90ce
 -- name    : P2M_GroundTheory_Heights__Heights_chartLoc_adjoin_eq_top_09cffd6c90ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:44:35.483853+00:00
 -- url     : https://prove2.me/theorems/be75bdde-4747-40b4-ba9e-ba7f7ba32a19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchNonHookResidues_proof_0bc095509050
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchNonHookResidues_proof_0bc095509050
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:01:34.907013+00:00
 -- url     : https://prove2.me/theorems/db0818c9-12e3-4529-962a-55ea19a8ce66

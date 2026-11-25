@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeFormComparison_hessC_neg_f4567154ff3b
 -- name    : P2M_GroundTheory_Heights__Heights_TubeFormComparison_hessC_neg_f4567154ff3b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:42:04.074013+00:00
 -- url     : https://prove2.me/theorems/28a9847b-f23a-401a-a718-905738511cc0

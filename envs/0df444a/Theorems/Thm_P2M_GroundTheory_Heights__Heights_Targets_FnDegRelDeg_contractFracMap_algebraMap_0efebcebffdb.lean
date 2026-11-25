@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_FnDegRelDeg_contractFracMap_algebraMap_0efebcebffdb
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_FnDegRelDeg_contractFracMap_algebraMap_0efebcebffdb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:41:17.11416+00:00
 -- url     : https://prove2.me/theorems/570ded5f-0548-4858-beff-b1b679525938

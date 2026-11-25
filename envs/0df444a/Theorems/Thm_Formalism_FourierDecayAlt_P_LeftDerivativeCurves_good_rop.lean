@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LeftDerivativeCurves_good_rop
 -- name    : Formalism.FourierDecayAlt.P.LeftDerivativeCurves.good_rop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:00:24.736083+00:00
 -- url     : https://prove2.me/theorems/b9b9f280-73b0-5a0d-a6db-20977f3b60fa

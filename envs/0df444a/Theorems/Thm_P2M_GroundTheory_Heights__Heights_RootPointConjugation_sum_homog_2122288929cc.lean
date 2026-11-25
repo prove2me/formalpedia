@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootPointConjugation_sum_homog_2122288929cc
 -- name    : P2M_GroundTheory_Heights__Heights_RootPointConjugation_sum_homog_2122288929cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:36:59.128651+00:00
 -- url     : https://prove2.me/theorems/d8478b3f-8ec9-4e3a-9462-ada7cc585646

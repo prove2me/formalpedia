@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootPointsFiniteAlt_isIntegral_of_pow_eq_one_2609fb7d6df2
 -- name    : P2M_GroundTheory_Heights__Heights_RootPointsFiniteAlt_isIntegral_of_pow_eq_one_2609fb7d6df2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:37:58.221851+00:00
 -- url     : https://prove2.me/theorems/861a2c8d-7fcb-5b04-b68a-814b2a74aad8

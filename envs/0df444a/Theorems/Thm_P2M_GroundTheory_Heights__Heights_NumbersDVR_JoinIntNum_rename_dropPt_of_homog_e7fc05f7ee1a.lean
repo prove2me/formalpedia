@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinIntNum_rename_dropPt_of_homog_e7fc05f7ee1a
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinIntNum_rename_dropPt_of_homog_e7fc05f7ee1a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:07:00.392188+00:00
 -- url     : https://prove2.me/theorems/9487e493-a93a-4cdc-a6f2-a0b819cedc76

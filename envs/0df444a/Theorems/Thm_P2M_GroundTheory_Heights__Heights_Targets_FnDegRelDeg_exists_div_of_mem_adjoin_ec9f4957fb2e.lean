@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_FnDegRelDeg_exists_div_of_mem_adjoin_ec9f4957fb2e
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_FnDegRelDeg_exists_div_of_mem_adjoin_ec9f4957fb2e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:40:28.03271+00:00
 -- url     : https://prove2.me/theorems/128c3767-41f3-4416-bba3-05dc6b70e468

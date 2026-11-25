@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_invForms_le_homogeneous_72bab69dee43
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_invForms_le_homogeneous_72bab69dee43
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:40:22.132971+00:00
 -- url     : https://prove2.me/theorems/d16867c3-e1d5-52c5-8189-5955058a5eae

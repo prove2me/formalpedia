@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_TransvG_det_gram
 -- name    : GlobalTheory.SA.TransvG.det_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:46:24.757721+00:00
 -- url     : https://prove2.me/theorems/209625f0-533c-4bac-9a6c-ced822ad77b5

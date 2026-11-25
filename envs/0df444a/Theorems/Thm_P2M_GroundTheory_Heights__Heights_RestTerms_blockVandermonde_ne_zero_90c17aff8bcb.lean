@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_blockVandermonde_ne_zero_90c17aff8bcb
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_blockVandermonde_ne_zero_90c17aff8bcb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:36:03.006792+00:00
 -- url     : https://prove2.me/theorems/c1585087-e3b8-48e3-99df-2177ac1c5d52

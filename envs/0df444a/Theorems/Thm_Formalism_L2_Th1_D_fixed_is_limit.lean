@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_fixed_is_limit
 -- name    : Formalism.L2.Th1.D.fixed_is_limit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:45:24.727166+00:00
 -- url     : https://prove2.me/theorems/d98741d5-1bb2-48ce-bba7-f630a8956c0c

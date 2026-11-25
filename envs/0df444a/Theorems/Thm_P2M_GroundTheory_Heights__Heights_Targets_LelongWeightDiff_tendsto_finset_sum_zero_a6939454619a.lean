@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_LelongWeightDiff_tendsto_finset_sum_zero_a6939454619a
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_LelongWeightDiff_tendsto_finset_sum_zero_a6939454619a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:41:28.21077+00:00
 -- url     : https://prove2.me/theorems/7d8bf088-505f-490d-8935-15ebb35017a7

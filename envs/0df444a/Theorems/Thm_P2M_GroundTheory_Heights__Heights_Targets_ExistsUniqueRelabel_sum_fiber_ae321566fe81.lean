@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_sum_fiber_ae321566fe81
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_sum_fiber_ae321566fe81
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:42:33.9082+00:00
 -- url     : https://prove2.me/theorems/11fcfad7-96b9-4c59-b7b3-7c24b0731cba

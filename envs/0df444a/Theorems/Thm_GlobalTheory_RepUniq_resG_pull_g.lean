@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RepUniq_resG_pull_g
 -- name    : GlobalTheory.RepUniq.resG_pull_g
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:34:23.116796+00:00
 -- url     : https://prove2.me/theorems/01fa9f8a-0052-4aa9-8df1-b8ccc043e566

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMeanLinearBall_sum_sq_pos_4baf91b15745
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMeanLinearBall_sum_sq_pos_4baf91b15745
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:39:22.662837+00:00
 -- url     : https://prove2.me/theorems/8275336c-1c3a-566c-8bb6-26201aca3d3e

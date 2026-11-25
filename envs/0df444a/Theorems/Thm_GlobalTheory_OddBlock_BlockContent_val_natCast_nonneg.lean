@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_BlockContent_val_natCast_nonneg
 -- name    : GlobalTheory.OddBlock.BlockContent.val_natCast_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:33:12.207434+00:00
 -- url     : https://prove2.me/theorems/14162496-c4e2-54e8-b835-faa474309688

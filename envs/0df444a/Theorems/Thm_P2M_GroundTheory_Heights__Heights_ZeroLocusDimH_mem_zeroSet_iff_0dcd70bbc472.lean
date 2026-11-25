@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_mem_zeroSet_iff_0dcd70bbc472
 -- name    : P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_mem_zeroSet_iff_0dcd70bbc472
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:43:48.569588+00:00
 -- url     : https://prove2.me/theorems/d1dc3551-1006-45d9-81a8-2e48a60496f1

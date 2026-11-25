@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_VandermondeOfHomogeneous_sum_card_Ioi_77f69092f923
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_VandermondeOfHomogeneous_sum_card_Ioi_77f69092f923
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:35:59.445127+00:00
 -- url     : https://prove2.me/theorems/795f845a-0f6e-4a28-807f-66b04c9a234f

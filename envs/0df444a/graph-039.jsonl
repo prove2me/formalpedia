@@ -36436,8 +36436,8 @@
 {"parent": "ReciprocityTheory.AnForm.A.ae_coord_ne_zero", "child": "ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_HessCRestrictThm", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.A.ae_coord_ne_zero", "child": "ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_ContDiffOfContDiffOnZeroOff", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.A.ae_coord_ne_zero", "child": "ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_GreenOfPoincareLelongHyperplane", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.RealWeil.exists_factor", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_IteratedLineDerivMemWeylAlg", "via": ["statement"]}
-{"parent": "GlobalTheory.RealWeil.exists_factor", "child": "Development_AbelianVarietyTheory_PublishedTheorems_TwistedTraceFormula_RealMetaplecticRepresentation", "via": ["statement"]}
+{"parent": "GlobalTheory.RealWeil.exists_factor", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_IteratedLineDerivMemWeylAlg", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.RealWeil.exists_factor", "child": "Development_AbelianVarietyTheory_PublishedTheorems_TwistedTraceFormula_RealMetaplecticRepresentation", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.A.PshLap.contOn_G", "child": "ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_PshLap", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsBasicOpenCoverAffineOpenSpec", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_IsCombIn", "via": ["statement"]}
 {"parent": "Formalism_WachLatticeTwists_Statement", "child": "Formalism_CharacterColumnKernels_Statement", "via": ["statement"]}
@@ -39154,9 +39154,9 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_IsValueAtEqUnitMul", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_ExistsUniqueSecEqMulGen", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_IsValueAtEqUnitMul", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_PreirreducibleSpaceFibreHypersurfaceSpectrumIffStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_PreirreducibleSpaceFibreHypersurfaceSpectrumIff", "via": ["statement"]}
-{"parent": "CompanionTheory.ThKF.E.Impl.continuous", "child": "CompanionTheory_ThickeningEstimates_InnerProductFactorization_EqOfInner", "via": ["statement"]}
-{"parent": "CompanionTheory.ThKF.E.Impl.continuous", "child": "Development_AbelianVarietyTheory_PublishedTheorems_TwistedTraceFormula_MetaplecticRepresentation", "via": ["statement"]}
-{"parent": "CompanionTheory.ThKF.E.Impl.continuous", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_IteratedLineDerivMemWeylAlg", "via": ["statement"]}
+{"parent": "CompanionTheory.ThKF.E.Impl.continuous", "child": "CompanionTheory_ThickeningEstimates_InnerProductFactorization_EqOfInner", "via": ["solution", "statement"]}
+{"parent": "CompanionTheory.ThKF.E.Impl.continuous", "child": "Development_AbelianVarietyTheory_PublishedTheorems_TwistedTraceFormula_MetaplecticRepresentation", "via": ["solution", "statement"]}
+{"parent": "CompanionTheory.ThKF.E.Impl.continuous", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_IteratedLineDerivMemWeylAlg", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.FunctionField.Place.eq_of_le", "child": "GroundTheory_FunctionField_PlaceDefs", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.FunctionField.Place.eq_of_le", "child": "GroundTheory_FunctionField_PlaceBasic", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.R.isDomain_of_isRegularLocalRing", "child": "ReciprocityTheory_CommutativeAlgebra_MaximalIdealSquares_RingKrullDimQuotientSpanSingletonAddOne", "via": ["solution", "statement"]}
@@ -42723,8 +42723,8 @@
 {"parent": "GlobalTheory.HeckeCompare.ev_pow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_HeckeKer", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HeckeCompare.ev_pow", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_ExistsUnimodDiv", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HeckeCompare.ev_pow", "child": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_NatCastMemConj", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.T.preimage_section_connectedComponentIn_of_isPullback", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SectionComponentsPreimageOfIsPullbackStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.T.preimage_section_connectedComponentIn_of_isPullback", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SectionComponentsPreimageOfIsPullback", "via": ["statement"]}
+{"parent": "GlobalTheory.T.preimage_section_connectedComponentIn_of_isPullback", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SectionComponentsPreimageOfIsPullbackStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.preimage_section_connectedComponentIn_of_isPullback", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_SectionComponentsPreimageOfIsPullback", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_HeckeRelationAdmissibleFamilyPointwiseStatement", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_GCauchyStatement", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_HeckeRelationAdmissibleFamilyPointwiseStatement", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_HeckeRelationAdmissibleFamilyPointwise", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_HeckeRelationAdmissibleFamilyPointwiseStatement", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_IsHeatZero", "via": ["statement"]}

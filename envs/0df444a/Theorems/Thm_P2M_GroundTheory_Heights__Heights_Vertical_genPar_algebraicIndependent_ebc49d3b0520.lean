@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_genPar_algebraicIndependent_ebc49d3b0520
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_genPar_algebraicIndependent_ebc49d3b0520
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:44:40.797279+00:00
 -- url     : https://prove2.me/theorems/20ebf7e3-97ec-4967-86cd-4c52ea79a168

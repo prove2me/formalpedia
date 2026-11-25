@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMean_integral_disc_weight_9841087968d4
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMean_integral_disc_weight_9841087968d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:38:26.705808+00:00
 -- url     : https://prove2.me/theorems/92ddf55c-09fb-4f4c-8b0a-156cbd124f3f

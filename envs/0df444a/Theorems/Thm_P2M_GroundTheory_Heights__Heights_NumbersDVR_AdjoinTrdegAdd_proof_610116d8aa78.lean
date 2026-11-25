@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_AdjoinTrdegAdd_proof_610116d8aa78
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_AdjoinTrdegAdd_proof_610116d8aa78
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:45:05.178461+00:00
 -- url     : https://prove2.me/theorems/b848f06a-e34f-488a-8f8a-db3166848379

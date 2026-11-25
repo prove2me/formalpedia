@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_scale_gramDet
 -- name    : GlobalTheory.ArchMetric.scale_gramDet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:57:20.671604+00:00
 -- url     : https://prove2.me/theorems/7ad8b41e-0cf3-4365-9ebe-5fdfed33db1b

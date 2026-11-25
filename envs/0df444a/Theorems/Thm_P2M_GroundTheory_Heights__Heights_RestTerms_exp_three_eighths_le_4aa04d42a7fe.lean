@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_exp_three_eighths_le_4aa04d42a7fe
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_exp_three_eighths_le_4aa04d42a7fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:35:49.312584+00:00
 -- url     : https://prove2.me/theorems/5198a311-3af5-418b-b216-8fdb6387776c

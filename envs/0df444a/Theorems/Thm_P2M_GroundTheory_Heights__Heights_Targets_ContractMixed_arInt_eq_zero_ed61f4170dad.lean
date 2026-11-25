@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ContractMixed_arInt_eq_zero_ed61f4170dad
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ContractMixed_arInt_eq_zero_ed61f4170dad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:43:22.174876+00:00
 -- url     : https://prove2.me/theorems/d2b7d21e-03ff-5027-b445-45c175cb4975

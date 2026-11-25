@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Hodge_LiftO_class_zero
 -- name    : GlobalTheory.CompanionTheory.Hodge.LiftO.class_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:09:36.325831+00:00
 -- url     : https://prove2.me/theorems/fd9353dc-3c2c-5bce-bdb5-514dd355b7c4

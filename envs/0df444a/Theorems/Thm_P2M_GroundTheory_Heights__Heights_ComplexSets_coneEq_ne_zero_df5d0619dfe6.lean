@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_coneEq_ne_zero_df5d0619dfe6
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_coneEq_ne_zero_df5d0619dfe6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:45:25.73081+00:00
 -- url     : https://prove2.me/theorems/22e62273-c822-48f6-beef-dd81319b2616

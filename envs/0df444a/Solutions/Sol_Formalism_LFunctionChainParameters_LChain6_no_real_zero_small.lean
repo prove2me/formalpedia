@@ -1,0 +1,43 @@
+-- Prove2me | solution 1 for Formalism.LFunctionChainParameters.LChain6.no_real_zero_small
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-25T05:11:00.58568+00:00
+-- url     : https://prove2.me/submissions/244c4976-4fef-4443-b78a-b8595e5bb1a1
+
+import Definitions.Def_Formalism_SizeWindowBrackets_SlopesFromSizeAndCount
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_ChainLatticeSizesModelEventually
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_PrimeCongruenceConditions
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_PBrDiv
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_SecondPriceSumWeightsUncovered
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_ExistsOrthonormalFrameComplement
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_DisplayedInequalitySharpHalf
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_PSmall
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_LocalizationStructureHolds
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_ZetaNegReal
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_ChiEightNoRealZeroHypothesis
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_AnalyticFirstToLatticeDiscriminant
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_zeta_negative_real_axis
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Module NumberField Matrix IsDedekindDomain
+open Formalism.HN
+noncomputable section
+open Formalism Formalism.LFunctionChainParameters Formalism.LFunctionChainParameters.LChain6
+open Formalism Formalism.D5 Formalism.RankGapBounds.WeightedMeanData Formalism.LFunctionChainParameters.WeightedSlopeBounds Formalism.LFunctionChainParameters.characterSumData Formalism.LFunctionChainParameters.ThickSetMeanBounds Formalism.LFunctionChainParameters.LErr Formalism.LFunctionChainParameters.LChain
+  Formalism.LFunctionChainParameters.LChain2 Formalism.LFunctionChainParameters.LHost Formalism.LFunctionChainParameters.LBr2 Formalism.LFunctionChainParameters.LBrDiv Formalism.LFunctionChainParameters.SectionsFourToSixTransfer
+namespace Formalism.LFunctionChainParameters.LChain6
+theorem _root_.solution : Chi8NoRealZero → NoRealZeroSmall := by
+  intro h
+  refine ⟨fun σ h0 h1 hz => ?_, h⟩
+  have := (Formalism.ZeroFreeDirichlet.zeta_negative_real_axis σ h0 h1).2
+  rw [hz] at this
+  simp at this
+end Formalism.LFunctionChainParameters.LChain6

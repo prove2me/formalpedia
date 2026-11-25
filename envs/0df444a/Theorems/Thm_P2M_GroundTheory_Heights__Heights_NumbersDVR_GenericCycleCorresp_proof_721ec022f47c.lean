@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericCycleCorresp_proof_721ec022f47c
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericCycleCorresp_proof_721ec022f47c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:53:26.181243+00:00
 -- url     : https://prove2.me/theorems/882defa5-d13f-469a-9826-d0e550c2a05b

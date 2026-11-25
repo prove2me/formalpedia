@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StokesOffDiscriminant_window_of_sheet_fd294589a3b3
 -- name    : P2M_GroundTheory_Heights__Heights_StokesOffDiscriminant_window_of_sheet_fd294589a3b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:39:10.360358+00:00
 -- url     : https://prove2.me/theorems/baf4e98e-068a-430e-b0db-fbd9654421c9

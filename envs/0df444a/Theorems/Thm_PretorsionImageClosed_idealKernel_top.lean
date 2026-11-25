@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_idealKernel_top
 -- name    : PretorsionImageClosed.idealKernel_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:06:06.906751+00:00
 -- url     : https://prove2.me/theorems/ae5f8f24-7685-551f-9a52-2056c4dbdd37

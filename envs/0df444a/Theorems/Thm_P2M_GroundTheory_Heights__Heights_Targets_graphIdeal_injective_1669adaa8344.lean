@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_graphIdeal_injective_1669adaa8344
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_graphIdeal_injective_1669adaa8344
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:41:28.78065+00:00
 -- url     : https://prove2.me/theorems/5107f390-b75e-5cda-8764-188405a9dd57

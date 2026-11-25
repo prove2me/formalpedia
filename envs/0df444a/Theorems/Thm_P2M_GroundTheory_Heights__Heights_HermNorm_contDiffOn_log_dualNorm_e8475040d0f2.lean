@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermNorm_contDiffOn_log_dualNorm_e8475040d0f2
 -- name    : P2M_GroundTheory_Heights__Heights_HermNorm_contDiffOn_log_dualNorm_e8475040d0f2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:18:49.068074+00:00
 -- url     : https://prove2.me/theorems/e3852d85-4d23-5405-960c-7a97f9163989

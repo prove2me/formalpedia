@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_fibre_two_index_bound
 -- name    : GlobalTheory.sum_fibre_two_index_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:34:41.88517+00:00
 -- url     : https://prove2.me/theorems/ba3712b8-ab20-5eb1-8be2-87bf9b410c7d

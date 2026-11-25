@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SpanningAtDominantWeight_exists_le_sum_eq_60ecb16347c3
 -- name    : P2M_GroundTheory_Heights__Heights_SpanningAtDominantWeight_exists_le_sum_eq_60ecb16347c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:39:02.079031+00:00
 -- url     : https://prove2.me/theorems/37fe9a35-8195-4a39-8085-9c20b135ca33

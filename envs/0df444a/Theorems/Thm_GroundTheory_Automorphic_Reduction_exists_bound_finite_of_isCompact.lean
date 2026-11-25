@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_exists_bound_finite_of_isCompact
 -- name    : GroundTheory.Automorphic.Reduction.exists_bound_finite_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:04:55.700169+00:00
 -- url     : https://prove2.me/theorems/88d993d3-44fe-4a87-9123-2adfcf60543e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_PolarisationCoeff_prod_X_pow_eq_monomial_one_4f6397c18364
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_PolarisationCoeff_prod_X_pow_eq_monomial_one_4f6397c18364
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:40:45.02486+00:00
 -- url     : https://prove2.me/theorems/109d2e9e-4b97-52cd-87fd-eab033787a8b

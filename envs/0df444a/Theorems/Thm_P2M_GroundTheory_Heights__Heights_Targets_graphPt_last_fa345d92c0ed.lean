@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_graphPt_last_fa345d92c0ed
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_graphPt_last_fa345d92c0ed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:40:24.687576+00:00
 -- url     : https://prove2.me/theorems/3f2b9ecf-d796-41e1-bb4b-e973b81dedcb

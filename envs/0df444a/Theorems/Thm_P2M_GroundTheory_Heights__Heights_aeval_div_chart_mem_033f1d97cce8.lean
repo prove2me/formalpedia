@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_aeval_div_chart_mem_033f1d97cce8
 -- name    : P2M_GroundTheory_Heights__Heights_aeval_div_chart_mem_033f1d97cce8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:44:01.444149+00:00
 -- url     : https://prove2.me/theorems/a493a2c4-a90f-4835-b8de-6df6faaadfc0

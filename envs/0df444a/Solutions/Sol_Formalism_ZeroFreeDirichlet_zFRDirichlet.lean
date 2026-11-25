@@ -1,0 +1,42 @@
+-- Prove2me | solution 1 for Formalism.ZeroFreeDirichlet.zFRDirichlet
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T05:26:04.119521+00:00
+-- url     : https://prove2.me/submissions/dc410790-89e3-4dc0-8551-9d184621a0f5
+
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LocalZeroExpansionWithMultiplicity
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LGrowth
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LRight
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_Positivity
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_TrivLogDeriv
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_TrivReal
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LocalZerosOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_NoZeroComplexOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_RealLargeTOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_RealSmallTOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_TwoRealOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_ZFRDirichletOf
+import Definitions.Def_Formalism_ZeroFreeRegion_FinalZFR
+import Definitions.Def_Formalism_LandauZeroFreeBounds_NoZeroComplex
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_noZeroComplex
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_realLargeT
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_realSmallT
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_twoReal
+import Theorems.Thm_Formalism_ZF_zeroFreeRegion
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_trivialCharZerosOfZeta
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_zeroFreeRegionExceptionalZeroOfBounds
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.ZeroFreeDirichlet
+namespace Formalism.ZeroFreeDirichlet
+theorem _root_.solution : ZFRDirichlet :=
+  zeroFreeRegionExceptionalZeroOfBounds Formalism.ZF.zeroFreeRegion trivialCharZerosOfZeta noZeroComplex realLargeT realSmallT twoReal
+end Formalism.ZeroFreeDirichlet

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_latticeMap_linear_b60498b1849d
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_latticeMap_linear_b60498b1849d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:35:14.517092+00:00
 -- url     : https://prove2.me/theorems/31d846d3-150f-4980-a310-4e22f693d31b

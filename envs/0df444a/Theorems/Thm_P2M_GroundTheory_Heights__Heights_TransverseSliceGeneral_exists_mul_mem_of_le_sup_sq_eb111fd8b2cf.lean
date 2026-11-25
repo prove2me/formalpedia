@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TransverseSliceGeneral_exists_mul_mem_of_le_sup_sq_eb111fd8b2cf
 -- name    : P2M_GroundTheory_Heights__Heights_TransverseSliceGeneral_exists_mul_mem_of_le_sup_sq_eb111fd8b2cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:43:17.182802+00:00
 -- url     : https://prove2.me/theorems/4b47c996-9a19-4e0e-9324-bf2fee618420

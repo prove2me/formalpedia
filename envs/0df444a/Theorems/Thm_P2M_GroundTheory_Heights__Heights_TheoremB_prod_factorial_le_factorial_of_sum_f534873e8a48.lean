@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_prod_factorial_le_factorial_of_sum_f534873e8a48
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_prod_factorial_le_factorial_of_sum_f534873e8a48
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:41:11.684474+00:00
 -- url     : https://prove2.me/theorems/e74b36b7-5bc6-51d2-8299-70ea1b406ce0

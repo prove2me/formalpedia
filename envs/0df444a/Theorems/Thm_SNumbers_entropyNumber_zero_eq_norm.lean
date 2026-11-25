@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_entropyNumber_zero_eq_norm
 -- name    : SNumbers.entropyNumber_zero_eq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:04:12.892191+00:00
 -- url     : https://prove2.me/theorems/fc6d9c4c-18e7-589c-8e0d-f6b222127a46

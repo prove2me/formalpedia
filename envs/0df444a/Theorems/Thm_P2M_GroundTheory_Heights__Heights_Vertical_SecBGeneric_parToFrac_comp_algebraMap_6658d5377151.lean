@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecBGeneric_parToFrac_comp_algebraMap_6658d5377151
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecBGeneric_parToFrac_comp_algebraMap_6658d5377151
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:44:33.67543+00:00
 -- url     : https://prove2.me/theorems/0e07adf5-2b9b-4bcd-9b2c-8452da863c03

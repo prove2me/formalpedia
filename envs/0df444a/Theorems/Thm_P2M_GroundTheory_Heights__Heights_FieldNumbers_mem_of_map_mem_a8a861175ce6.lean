@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_mem_of_map_mem_a8a861175ce6
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_mem_of_map_mem_a8a861175ce6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:01:51.893117+00:00
 -- url     : https://prove2.me/theorems/67415a91-4ac7-4ffd-953a-a14d36d4cb09

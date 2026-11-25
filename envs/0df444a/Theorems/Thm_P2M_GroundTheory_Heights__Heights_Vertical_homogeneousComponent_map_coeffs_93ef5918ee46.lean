@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_homogeneousComponent_map_coeffs_93ef5918ee46
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_homogeneousComponent_map_coeffs_93ef5918ee46
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:45:53.815794+00:00
 -- url     : https://prove2.me/theorems/59685e29-dfde-4111-a127-5a35e8d20da7

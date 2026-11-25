@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_evalAt_singleF_ne_097e515f57f0
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_evalAt_singleF_ne_097e515f57f0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:39:19.814988+00:00
 -- url     : https://prove2.me/theorems/0317063f-d53d-4186-ad9c-d9a0e373bf92

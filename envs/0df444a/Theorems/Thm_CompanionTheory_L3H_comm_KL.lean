@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_L3H_comm_KL
 -- name    : CompanionTheory.L3H.comm_KL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:36:00.307814+00:00
 -- url     : https://prove2.me/theorems/913ec7b8-a8c1-5861-8ca8-65e85ad31048

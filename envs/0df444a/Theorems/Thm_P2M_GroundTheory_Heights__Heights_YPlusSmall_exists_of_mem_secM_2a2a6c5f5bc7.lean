@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_YPlusSmall_exists_of_mem_secM_2a2a6c5f5bc7
 -- name    : P2M_GroundTheory_Heights__Heights_YPlusSmall_exists_of_mem_secM_2a2a6c5f5bc7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:43:54.42878+00:00
 -- url     : https://prove2.me/theorems/a7de9c59-d4d9-4568-99ef-a1689e2961c1

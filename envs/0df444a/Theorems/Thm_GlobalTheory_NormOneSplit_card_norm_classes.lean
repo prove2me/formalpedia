@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormOneSplit_card_norm_classes
 -- name    : GlobalTheory.NormOneSplit.card_norm_classes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:37:43.669778+00:00
 -- url     : https://prove2.me/theorems/5a233bc7-426f-4459-be52-f90f4a92fb3f

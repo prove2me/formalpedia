@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_SerreGraded_torsion_bound_7e4614d2b7b2
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_SerreGraded_torsion_bound_7e4614d2b7b2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:18:50.633543+00:00
 -- url     : https://prove2.me/theorems/4ca8754c-c16c-4896-a172-f6f5a3d70eda

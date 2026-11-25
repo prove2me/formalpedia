@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionInjectivity_evalCone_chartMonomial_ne_zero_af6a06a6bc14
 -- name    : P2M_GroundTheory_Heights__Heights_SectionInjectivity_evalCone_chartMonomial_ne_zero_af6a06a6bc14
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:37:15.049864+00:00
 -- url     : https://prove2.me/theorems/a4b428fd-fd40-48cd-9b79-1d5bb5d22563

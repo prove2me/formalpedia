@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_tateIndIso___d5ad9d49d683
 -- name    : P2M_GroundTheory_GroupCoh_tateIndIso___d5ad9d49d683
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:39:12.497902+00:00
 -- url     : https://prove2.me/theorems/020df37a-0c6d-4209-893a-88abdd155e0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_exists_complement_of_le_976f1511e062
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_exists_complement_of_le_976f1511e062
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:40:44.972245+00:00
 -- url     : https://prove2.me/theorems/57cbb1b2-dac3-5b51-a097-58151c6f51c4

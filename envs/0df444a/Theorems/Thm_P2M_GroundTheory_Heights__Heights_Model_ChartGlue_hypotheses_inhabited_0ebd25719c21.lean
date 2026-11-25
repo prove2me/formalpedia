@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_ChartGlue_hypotheses_inhabited_0ebd25719c21
 -- name    : P2M_GroundTheory_Heights__Heights_Model_ChartGlue_hypotheses_inhabited_0ebd25719c21
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:48:48.91714+00:00
 -- url     : https://prove2.me/theorems/7c84988f-3d80-4cc6-aa78-b183d52ceb87

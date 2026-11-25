@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_PairConeAlg_expand_a34becc742ac
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_PairConeAlg_expand_a34becc742ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:08:34.541896+00:00
 -- url     : https://prove2.me/theorems/c426e24d-31c4-48c4-b95b-59f40c06bd16

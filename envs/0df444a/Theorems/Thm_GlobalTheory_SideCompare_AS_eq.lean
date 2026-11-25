@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SideCompare_AS_eq
 -- name    : GlobalTheory.SideCompare.AS_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:00:50.914678+00:00
 -- url     : https://prove2.me/theorems/5ed572e1-f13b-5089-ad80-78937a160fa0

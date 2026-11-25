@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_degLT_succ_growth_natPow_86a645ae5dec
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_degLT_succ_growth_natPow_86a645ae5dec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:50.045784+00:00
 -- url     : https://prove2.me/theorems/b3d3bc70-28ad-4295-bfcd-3e3af7abc1ee

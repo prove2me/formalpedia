@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TangentGraphLowerDensity_inPart_eq_toLp_833bbaba1b13
 -- name    : P2M_GroundTheory_Heights__Heights_TangentGraphLowerDensity_inPart_eq_toLp_833bbaba1b13
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:39:40.721468+00:00
 -- url     : https://prove2.me/theorems/85e22bf5-816f-440b-9d30-1825b4afd1f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_bijective_iff_det_ne_zero_9bac468e1b7a
 -- name    : P2M_GroundTheory_Heights__Heights_bijective_iff_det_ne_zero_9bac468e1b7a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:44:47.241095+00:00
 -- url     : https://prove2.me/theorems/d77ddeb5-035f-48bd-aec7-02bdfb1c68ea

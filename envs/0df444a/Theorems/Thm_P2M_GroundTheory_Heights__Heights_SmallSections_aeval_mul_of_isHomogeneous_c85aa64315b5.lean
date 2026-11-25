@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SmallSections_aeval_mul_of_isHomogeneous_c85aa64315b5
 -- name    : P2M_GroundTheory_Heights__Heights_SmallSections_aeval_mul_of_isHomogeneous_c85aa64315b5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:38:05.816382+00:00
 -- url     : https://prove2.me/theorems/341daa0f-1d38-4b3a-9afe-779c4b241d74

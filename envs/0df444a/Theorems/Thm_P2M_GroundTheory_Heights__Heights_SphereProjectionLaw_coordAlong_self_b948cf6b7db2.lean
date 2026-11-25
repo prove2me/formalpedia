@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereProjectionLaw_coordAlong_self_b948cf6b7db2
 -- name    : P2M_GroundTheory_Heights__Heights_SphereProjectionLaw_coordAlong_self_b948cf6b7db2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:38:32.781553+00:00
 -- url     : https://prove2.me/theorems/4410355b-80c0-425a-828e-31721023107d

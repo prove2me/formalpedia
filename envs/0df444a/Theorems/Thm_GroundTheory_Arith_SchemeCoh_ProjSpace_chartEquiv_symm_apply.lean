@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_chartEquiv_symm_apply
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.chartEquiv_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:35:49.503214+00:00
 -- url     : https://prove2.me/theorems/940754be-5ef0-48ce-95e0-a9a9cf304375

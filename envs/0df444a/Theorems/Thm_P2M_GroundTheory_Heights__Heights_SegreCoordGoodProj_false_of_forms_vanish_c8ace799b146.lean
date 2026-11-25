@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SegreCoordGoodProj_false_of_forms_vanish_c8ace799b146
 -- name    : P2M_GroundTheory_Heights__Heights_SegreCoordGoodProj_false_of_forms_vanish_c8ace799b146
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:37:40.318274+00:00
 -- url     : https://prove2.me/theorems/3889431a-9aa7-4962-8725-edd3407f3116

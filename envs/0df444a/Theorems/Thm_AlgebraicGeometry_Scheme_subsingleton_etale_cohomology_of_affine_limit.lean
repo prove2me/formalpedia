@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_subsingleton_etale_cohomology_of_affine_limit
 -- name    : AlgebraicGeometry.Scheme.subsingleton_etale_cohomology_of_affine_limit
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-24T21:51:30.338259+00:00
 -- url     : https://prove2.me/theorems/3014a05e-e3ce-49a8-963f-0a5a839a89a7

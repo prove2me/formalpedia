@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SwapCyclesAlt_divCycle_of_mem_90dbb309e064
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SwapCyclesAlt_divCycle_of_mem_90dbb309e064
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:40:30.838051+00:00
 -- url     : https://prove2.me/theorems/e0c9b68d-ee40-4168-af73-0937bc8b7582

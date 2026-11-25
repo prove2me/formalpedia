@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_AAop_loc
 -- name    : Formalism.FourierDecayAlt.P.PBG.AAop_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:00:25.395928+00:00
 -- url     : https://prove2.me/theorems/746e06b4-ef84-46e9-b764-de00fc5392c8

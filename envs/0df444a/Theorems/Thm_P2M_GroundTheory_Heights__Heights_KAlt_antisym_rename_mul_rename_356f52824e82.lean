@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KAlt_antisym_rename_mul_rename_356f52824e82
 -- name    : P2M_GroundTheory_Heights__Heights_KAlt_antisym_rename_mul_rename_356f52824e82
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:11:21.203225+00:00
 -- url     : https://prove2.me/theorems/c1f774ba-1144-4541-b007-a0cf0504e19b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_isAddTorsionFree_of_module_706dda8260c2
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_isAddTorsionFree_of_module_706dda8260c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:39:51.156058+00:00
 -- url     : https://prove2.me/theorems/27496634-65c3-4cb2-8224-e34908dec94d

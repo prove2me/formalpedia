@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_not_mem_regMaxAt_iff_e86bcbf427f0
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_not_mem_regMaxAt_iff_e86bcbf427f0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:58.175999+00:00
 -- url     : https://prove2.me/theorems/f8d0dfd6-9db0-4878-accb-07d49bd0206d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_length_quot_map_of_flat_44aaab1f2176
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_length_quot_map_of_flat_44aaab1f2176
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:43:53.655118+00:00
 -- url     : https://prove2.me/theorems/96814c9f-51f8-4b76-9c4d-15eb7c582a90

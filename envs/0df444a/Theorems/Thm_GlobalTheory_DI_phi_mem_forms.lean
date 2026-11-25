@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_phi_mem_forms
 -- name    : GlobalTheory.DI.phi_mem_forms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:36:28.526234+00:00
 -- url     : https://prove2.me/theorems/d012303e-982f-4c1a-a67b-8b0628e2049d

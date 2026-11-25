@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveIndexLinearAlt_zpow_mem_of_9a48d073fbd3
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveIndexLinearAlt_zpow_mem_of_9a48d073fbd3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:40:57.0045+00:00
 -- url     : https://prove2.me/theorems/28d9d806-1693-4c25-9f5d-22af28b5dd1f

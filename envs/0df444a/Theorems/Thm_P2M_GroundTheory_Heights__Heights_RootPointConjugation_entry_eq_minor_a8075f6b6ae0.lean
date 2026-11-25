@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootPointConjugation_entry_eq_minor_a8075f6b6ae0
 -- name    : P2M_GroundTheory_Heights__Heights_RootPointConjugation_entry_eq_minor_a8075f6b6ae0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:36:59.192824+00:00
 -- url     : https://prove2.me/theorems/1022f2ca-94e8-4527-944b-099efa7119c4

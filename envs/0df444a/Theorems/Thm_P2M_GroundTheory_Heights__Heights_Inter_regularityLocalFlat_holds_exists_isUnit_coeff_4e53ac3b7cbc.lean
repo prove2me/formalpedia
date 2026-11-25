@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regularityLocalFlat_holds_exists_isUnit_coeff_4e53ac3b7cbc
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regularityLocalFlat_holds_exists_isUnit_coeff_4e53ac3b7cbc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:27:10.00228+00:00
 -- url     : https://prove2.me/theorems/ac5fa3de-691b-4afc-b303-7f87fd53c63f

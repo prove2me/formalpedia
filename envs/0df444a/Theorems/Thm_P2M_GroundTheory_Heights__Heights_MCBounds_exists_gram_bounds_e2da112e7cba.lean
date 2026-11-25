@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCBounds_exists_gram_bounds_e2da112e7cba
 -- name    : P2M_GroundTheory_Heights__Heights_MCBounds_exists_gram_bounds_e2da112e7cba
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:59.536121+00:00
 -- url     : https://prove2.me/theorems/51e51311-6008-4e1c-8274-4168b876dae4

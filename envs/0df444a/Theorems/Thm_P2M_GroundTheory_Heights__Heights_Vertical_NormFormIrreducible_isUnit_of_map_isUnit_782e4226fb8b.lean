@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_NormFormIrreducible_isUnit_of_map_isUnit_782e4226fb8b
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_NormFormIrreducible_isUnit_of_map_isUnit_782e4226fb8b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:44:18.798159+00:00
 -- url     : https://prove2.me/theorems/e60ea2f9-2b2b-42b8-96fb-9d58ec3fc79f

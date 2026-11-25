@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_GenSecKer_coeff_mem_of_sum_a9b6b01ae01d
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_GenSecKer_coeff_mem_of_sum_a9b6b01ae01d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:44:55.013153+00:00
 -- url     : https://prove2.me/theorems/7f32f344-c983-59fe-9e3a-ddda987c9e33

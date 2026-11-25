@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarBranch_dimH_image_le_two_99601624bb5f
 -- name    : P2M_GroundTheory_Heights__Heights_VarBranch_dimH_image_le_two_99601624bb5f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:43:10.027929+00:00
 -- url     : https://prove2.me/theorems/8f37d0b5-0705-47e0-9ab7-0c78be80f364

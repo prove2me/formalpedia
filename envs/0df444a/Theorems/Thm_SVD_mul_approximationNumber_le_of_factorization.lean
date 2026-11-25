@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SVD_mul_approximationNumber_le_of_factorization
 -- name    : SVD.mul_approximationNumber_le_of_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:12:19.839782+00:00
 -- url     : https://prove2.me/theorems/a170d4a5-4882-4dff-ae66-847abb54e649

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxI_splits_full
 -- name    : Formalism.FourierDecayAlt.P.JFxI.splits_full
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:33:36.440087+00:00
 -- url     : https://prove2.me/theorems/b2f9220c-755f-5c72-9ea4-39b220558a11

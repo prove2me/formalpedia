@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FrobeniusRectangleBound_intersectionNumber_baseChange_3a98f7db5654
 -- name    : P2M_GroundTheory_Heights__Heights_FrobeniusRectangleBound_intersectionNumber_baseChange_3a98f7db5654
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:26:54.270849+00:00
 -- url     : https://prove2.me/theorems/20addb3d-56ab-4251-80b1-3fa058b2c1ff

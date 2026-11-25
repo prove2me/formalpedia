@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eta_gramDet_eq_one_of_selfDual_lattice
 -- name    : GlobalTheory.T.eta_gramDet_eq_one_of_selfDual_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:35:25.164096+00:00
 -- url     : https://prove2.me/theorems/2b1f2f5c-ef2d-43f5-ac05-fa49c8a75bc8

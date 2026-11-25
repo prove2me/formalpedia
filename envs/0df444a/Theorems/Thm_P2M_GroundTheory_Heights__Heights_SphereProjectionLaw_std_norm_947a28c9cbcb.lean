@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereProjectionLaw_std_norm_947a28c9cbcb
 -- name    : P2M_GroundTheory_Heights__Heights_SphereProjectionLaw_std_norm_947a28c9cbcb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:39:09.207811+00:00
 -- url     : https://prove2.me/theorems/53350a9e-e550-4d5c-945b-1ad73b8b410c

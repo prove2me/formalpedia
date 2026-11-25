@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_Witt_exists_isom_finset
 -- name    : GlobalTheory.Mass.Witt.exists_isom_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:59:56.156839+00:00
 -- url     : https://prove2.me/theorems/1976e5ad-3f11-461a-9a2d-c58e38ce663d

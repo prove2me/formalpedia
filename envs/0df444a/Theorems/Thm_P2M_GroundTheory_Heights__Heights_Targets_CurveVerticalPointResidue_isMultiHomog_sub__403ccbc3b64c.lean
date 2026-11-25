@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveVerticalPointResidue_isMultiHomog_sub__403ccbc3b64c
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveVerticalPointResidue_isMultiHomog_sub__403ccbc3b64c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:41:51.921217+00:00
 -- url     : https://prove2.me/theorems/225edcfa-befb-4697-aa14-b640bd61d1d6

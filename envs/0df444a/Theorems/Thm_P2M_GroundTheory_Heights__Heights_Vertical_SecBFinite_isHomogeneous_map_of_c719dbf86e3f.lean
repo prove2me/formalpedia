@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_isHomogeneous_map_of_c719dbf86e3f
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_isHomogeneous_map_of_c719dbf86e3f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:43:17.066909+00:00
 -- url     : https://prove2.me/theorems/a22793b0-0549-4f4c-bf94-d03e9d2ddee9

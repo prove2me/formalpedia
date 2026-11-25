@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_eval_map_derivative_eq_sum_2fd815c9f283
 -- name    : P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_eval_map_derivative_eq_sum_2fd815c9f283
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:43:50.16683+00:00
 -- url     : https://prove2.me/theorems/4eba192c-c7c2-4002-87c3-cbc60de4e04b

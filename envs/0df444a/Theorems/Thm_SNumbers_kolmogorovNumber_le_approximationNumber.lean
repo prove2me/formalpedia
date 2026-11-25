@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_kolmogorovNumber_le_approximationNumber
 -- name    : SNumbers.kolmogorovNumber_le_approximationNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:02:36.194006+00:00
 -- url     : https://prove2.me/theorems/87fe5eb7-f56a-53df-aee9-8b2920ded8a9

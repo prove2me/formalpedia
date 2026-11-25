@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeDeepRankOne_dz_logAbsSq_95cbc1eb4958
 -- name    : P2M_GroundTheory_Heights__Heights_TubeDeepRankOne_dz_logAbsSq_95cbc1eb4958
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:41:12.069019+00:00
 -- url     : https://prove2.me/theorems/cf9dc99c-1f1a-495f-a403-0d94860fa421

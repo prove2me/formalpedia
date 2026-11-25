@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_WeightedDegree_charZero_fractionRing_351d615b3fd8
 -- name    : P2M_GroundTheory_Heights__Heights_WeightedDegree_charZero_fractionRing_351d615b3fd8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:44:23.068084+00:00
 -- url     : https://prove2.me/theorems/d0ed2842-5bb4-4d01-b6d2-8894350bae2a

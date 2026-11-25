@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_eucl_comp_comp_le_mul_hilbertNumber
 -- name    : SNumbers.approximationNumber_eucl_comp_comp_le_mul_hilbertNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:56:37.27056+00:00
 -- url     : https://prove2.me/theorems/3f558859-29fc-5d4c-86a8-e6551a515774

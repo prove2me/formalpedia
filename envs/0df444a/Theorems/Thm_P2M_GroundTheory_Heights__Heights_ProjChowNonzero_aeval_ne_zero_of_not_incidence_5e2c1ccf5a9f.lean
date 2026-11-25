@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjChowNonzero_aeval_ne_zero_of_not_incidence_5e2c1ccf5a9f
 -- name    : P2M_GroundTheory_Heights__Heights_ProjChowNonzero_aeval_ne_zero_of_not_incidence_5e2c1ccf5a9f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:15:57.083672+00:00
 -- url     : https://prove2.me/theorems/095ffb40-e866-4a2f-a637-4c5edcb6b1cd

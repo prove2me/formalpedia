@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_InvertibleProductRep_mem_of_local_baee30457324
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_InvertibleProductRep_mem_of_local_baee30457324
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:40:24.804629+00:00
 -- url     : https://prove2.me/theorems/319642c9-c904-4d10-9278-41aaeb9b8e7d

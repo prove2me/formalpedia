@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_zeta_neg_log_deriv_re_bound
 -- name    : Formalism.ZeroFreeDirichlet.zeta_neg_log_deriv_re_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:44:21.74573+00:00
 -- url     : https://prove2.me/theorems/220f70dc-52c7-43df-8d3e-8d009050dbfa

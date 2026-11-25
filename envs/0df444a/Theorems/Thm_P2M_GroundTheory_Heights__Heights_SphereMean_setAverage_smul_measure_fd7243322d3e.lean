@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMean_setAverage_smul_measure_fd7243322d3e
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMean_setAverage_smul_measure_fd7243322d3e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:39:27.655784+00:00
 -- url     : https://prove2.me/theorems/58b5690d-408f-487e-a07d-12fb438adef7

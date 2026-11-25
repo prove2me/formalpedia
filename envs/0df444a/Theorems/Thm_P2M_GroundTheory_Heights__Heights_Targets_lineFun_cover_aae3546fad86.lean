@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_lineFun_cover_aae3546fad86
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_lineFun_cover_aae3546fad86
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:45:49.517808+00:00
 -- url     : https://prove2.me/theorems/434a1827-a96e-5e17-89c0-4535338944b4

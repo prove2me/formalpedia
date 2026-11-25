@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_uSample_regular_15946a1b914b
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_uSample_regular_15946a1b914b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:41:32.074416+00:00
 -- url     : https://prove2.me/theorems/5acc458b-c1a4-4274-baed-3a92cb763b40

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_PointIdealMultiProj_coneMap_component_2a817bc13b72
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_PointIdealMultiProj_coneMap_component_2a817bc13b72
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:08:35.470163+00:00
 -- url     : https://prove2.me/theorems/f87c6b2f-9dfb-4d87-968c-32bad4bf0298

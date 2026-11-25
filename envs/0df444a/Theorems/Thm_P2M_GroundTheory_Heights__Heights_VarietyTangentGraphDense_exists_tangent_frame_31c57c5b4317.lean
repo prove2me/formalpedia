@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarietyTangentGraphDense_exists_tangent_frame_31c57c5b4317
 -- name    : P2M_GroundTheory_Heights__Heights_VarietyTangentGraphDense_exists_tangent_frame_31c57c5b4317
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:47:15.509431+00:00
 -- url     : https://prove2.me/theorems/dde620e0-e623-5273-ab77-7149a5918118

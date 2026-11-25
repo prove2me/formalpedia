@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_extend_ae_linear_of_local_sq_bound_dense
 -- name    : GlobalTheory.T.extend_ae_linear_of_local_sq_bound_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:41:35.279048+00:00
 -- url     : https://prove2.me/theorems/0696cb65-7145-4724-9c67-b072673f9316

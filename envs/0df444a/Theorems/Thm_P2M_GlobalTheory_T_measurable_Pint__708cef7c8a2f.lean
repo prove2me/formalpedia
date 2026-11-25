@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_measurable_Pint__708cef7c8a2f
 -- name    : P2M_GlobalTheory_T_measurable_Pint__708cef7c8a2f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:10:23.665646+00:00
 -- url     : https://prove2.me/theorems/4043cb55-1f0a-4048-a22e-6d6bdec56856

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_foldr_pull_f207d38574a0
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_foldr_pull_f207d38574a0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:21:28.456996+00:00
 -- url     : https://prove2.me/theorems/72c23214-7db6-42ba-af28-4ae3ad5bf7c8

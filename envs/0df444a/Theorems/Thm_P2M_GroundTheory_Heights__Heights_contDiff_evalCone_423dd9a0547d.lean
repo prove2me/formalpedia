@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_contDiff_evalCone_423dd9a0547d
 -- name    : P2M_GroundTheory_Heights__Heights_contDiff_evalCone_423dd9a0547d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:45:57.11506+00:00
 -- url     : https://prove2.me/theorems/22c690f8-e379-4a6d-a203-5ab1c34e7610

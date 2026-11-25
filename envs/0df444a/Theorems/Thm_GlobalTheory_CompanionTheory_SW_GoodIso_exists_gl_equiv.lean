@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GoodIso_exists_gl_equiv
 -- name    : GlobalTheory.CompanionTheory.SW.GoodIso.exists_gl_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:03:04.713892+00:00
 -- url     : https://prove2.me/theorems/e6468f38-2215-4fe4-b95b-231297c5411d

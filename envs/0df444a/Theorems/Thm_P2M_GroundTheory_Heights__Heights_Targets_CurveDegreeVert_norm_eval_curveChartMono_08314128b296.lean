@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveDegreeVert_norm_eval_curveChartMono_08314128b296
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveDegreeVert_norm_eval_curveChartMono_08314128b296
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:40:54.949798+00:00
 -- url     : https://prove2.me/theorems/bfcc08f9-86ea-4867-9c9b-806fa15e0dc6

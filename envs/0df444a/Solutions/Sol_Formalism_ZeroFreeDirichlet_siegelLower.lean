@@ -1,0 +1,41 @@
+-- Prove2me | solution 1 for Formalism.ZeroFreeDirichlet.siegelLower
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T05:14:34.505736+00:00
+-- url     : https://prove2.me/submissions/5f276ab1-769c-4b1c-b36c-6ddb29bf3a21
+
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_CharExists
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_BqCoeff
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_BqEntire
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_BqGrowth
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LFunctionOneUpperBound
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_BqKeyOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_ZetaNegReal
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LRealPos
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SameCharacterLFunctionOne
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_FinalSiegel
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_bqKey
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_exists_product_character
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_exists_real_nontrivial_character
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_lfunction_one_same_character
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_lfunction_one_upper_bound
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_real_lfunction_real_on_reals
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_siegel_theorem_of
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_zeta_negative_real_axis
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.ZeroFreeDirichlet
+namespace Formalism.ZeroFreeDirichlet
+theorem _root_.solution : SiegelLower :=
+  siegel_theorem_of exists_product_character exists_real_nontrivial_character bqKey lfunction_one_upper_bound zeta_negative_real_axis
+    real_lfunction_real_on_reals lfunction_one_same_character
+end Formalism.ZeroFreeDirichlet

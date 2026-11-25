@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionInjectivity_isLive_of_mem_points_9bcc7614fe08
 -- name    : P2M_GroundTheory_Heights__Heights_SectionInjectivity_isLive_of_mem_points_9bcc7614fe08
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:37:32.325413+00:00
 -- url     : https://prove2.me/theorems/0c2951e4-a1c6-4406-9c36-40a753f427ff

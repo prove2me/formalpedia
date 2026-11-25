@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumAssoc_proof_dc97b3a45d1b
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumAssoc_proof_dc97b3a45d1b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:29:41.346741+00:00
 -- url     : https://prove2.me/theorems/5ee85658-acb0-46a2-b50c-a9643ee4481d

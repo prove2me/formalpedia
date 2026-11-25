@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_funFieldEquiv_toFun_1ac65f6dd72f
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_funFieldEquiv_toFun_1ac65f6dd72f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:20:33.515357+00:00
 -- url     : https://prove2.me/theorems/47f9f1d2-e3a2-4bcd-a980-5e477a4b77c9

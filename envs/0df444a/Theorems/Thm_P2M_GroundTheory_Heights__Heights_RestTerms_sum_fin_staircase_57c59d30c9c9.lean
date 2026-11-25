@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_sum_fin_staircase_57c59d30c9c9
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_sum_fin_staircase_57c59d30c9c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:36:32.181307+00:00
 -- url     : https://prove2.me/theorems/e1ab3a73-7e99-42b1-969e-a2c753c6d425

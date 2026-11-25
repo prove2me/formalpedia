@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SchurDetBound_qf_reindex_eeb67ca4aecd
 -- name    : P2M_GroundTheory_Heights__Heights_SchurDetBound_qf_reindex_eeb67ca4aecd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:36:49.814105+00:00
 -- url     : https://prove2.me/theorems/89c6b4d6-c80b-4d83-bc9b-2a7c0a1aa384

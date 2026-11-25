@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowStab_gen_comp_gen_neg
 -- name    : GlobalTheory.RowStab.gen_comp_gen_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:45:11.551396+00:00
 -- url     : https://prove2.me/theorems/ada6ad80-92cc-5328-88c5-737be9d9294e

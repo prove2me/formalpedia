@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_fam_update_lamLine_f39d8c36c733
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_fam_update_lamLine_f39d8c36c733
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:25:17.461654+00:00
 -- url     : https://prove2.me/theorems/927ab323-5e9e-4d18-809d-15d2be5e4c8d

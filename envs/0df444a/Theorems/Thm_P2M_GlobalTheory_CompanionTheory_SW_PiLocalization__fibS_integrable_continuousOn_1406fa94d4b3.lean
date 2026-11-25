@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__fibS_integrable_continuousOn_1406fa94d4b3
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__fibS_integrable_continuousOn_1406fa94d4b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:04:50.138812+00:00
 -- url     : https://prove2.me/theorems/bf94527c-77c9-4d67-b9ce-8b1c3edd3087

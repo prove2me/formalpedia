@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_GenChowIrreducible_specRest_X_7e3344781ad6
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_GenChowIrreducible_specRest_X_7e3344781ad6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:42:24.077424+00:00
 -- url     : https://prove2.me/theorems/e071bc82-6482-5172-9582-8e53503de593

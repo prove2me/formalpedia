@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_sum_Icc_one_eq_sum_fin_6fc36c803c22
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_sum_Icc_one_eq_sum_fin_6fc36c803c22
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:37:00.637806+00:00
 -- url     : https://prove2.me/theorems/274da960-ba57-5fa3-8893-86d899f6f89e

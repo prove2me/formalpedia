@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_ContractRelevant_isMultiProjPrime_comap_rename_bb5f689a2f30
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_ContractRelevant_isMultiProjPrime_comap_rename_bb5f689a2f30
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:05:50.533584+00:00
 -- url     : https://prove2.me/theorems/89eb5de7-4dbd-45ce-aca2-0d52a1ef043c

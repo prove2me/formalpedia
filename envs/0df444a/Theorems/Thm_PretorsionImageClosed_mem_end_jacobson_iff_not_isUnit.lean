@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_mem_end_jacobson_iff_not_isUnit
 -- name    : PretorsionImageClosed.mem_end_jacobson_iff_not_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:07:44.331568+00:00
 -- url     : https://prove2.me/theorems/d20a32f8-9e60-5679-8ba1-f425d2bec68d

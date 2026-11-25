@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_not_lt_of_mem_minimalPrimes_sup_span_cd90bad77275
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_not_lt_of_mem_minimalPrimes_sup_span_cd90bad77275
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:43:42.245799+00:00
 -- url     : https://prove2.me/theorems/f4e77ca2-df2f-48d5-9293-063c39b08dd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootDenseAlt_aeval_comp_ringHom_12c3103e84a8
 -- name    : P2M_GroundTheory_Heights__Heights_RootDenseAlt_aeval_comp_ringHom_12c3103e84a8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:37:32.675651+00:00
 -- url     : https://prove2.me/theorems/647d4c65-e8a3-5e3f-b88e-77f4a9bc3fd5

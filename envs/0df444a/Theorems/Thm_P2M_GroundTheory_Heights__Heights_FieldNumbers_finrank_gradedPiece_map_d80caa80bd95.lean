@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_finrank_gradedPiece_map_d80caa80bd95
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_finrank_gradedPiece_map_d80caa80bd95
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:17:21.175984+00:00
 -- url     : https://prove2.me/theorems/91655f52-6ea6-4c78-bea9-fb658520d77d

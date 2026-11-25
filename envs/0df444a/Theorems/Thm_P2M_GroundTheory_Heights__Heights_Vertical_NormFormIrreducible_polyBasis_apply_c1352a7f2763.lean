@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_NormFormIrreducible_polyBasis_apply_c1352a7f2763
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_NormFormIrreducible_polyBasis_apply_c1352a7f2763
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:43:24.819127+00:00
 -- url     : https://prove2.me/theorems/9c5c1e32-dfd4-4c6b-8093-04f845c8b8f7

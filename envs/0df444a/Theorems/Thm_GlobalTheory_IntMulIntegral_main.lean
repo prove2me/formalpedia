@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntMulIntegral_main
 -- name    : GlobalTheory.IntMulIntegral.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:08:04.347909+00:00
 -- url     : https://prove2.me/theorems/0d330a57-93b1-56ed-a33c-0b01dab64322

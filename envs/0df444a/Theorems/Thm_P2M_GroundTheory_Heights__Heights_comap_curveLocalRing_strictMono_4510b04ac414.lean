@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_comap_curveLocalRing_strictMono_4510b04ac414
 -- name    : P2M_GroundTheory_Heights__Heights_comap_curveLocalRing_strictMono_4510b04ac414
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:44:56.643879+00:00
 -- url     : https://prove2.me/theorems/50634998-d3cf-4429-b187-2b03909e2398

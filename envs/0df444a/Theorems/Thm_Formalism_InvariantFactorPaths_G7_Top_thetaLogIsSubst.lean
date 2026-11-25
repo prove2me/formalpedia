@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_thetaLogIsSubst
 -- name    : Formalism.InvariantFactorPaths.G7.Top.thetaLogIsSubst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:33:03.883845+00:00
 -- url     : https://prove2.me/theorems/c75f0b4c-6760-574f-81b7-7e9893931221

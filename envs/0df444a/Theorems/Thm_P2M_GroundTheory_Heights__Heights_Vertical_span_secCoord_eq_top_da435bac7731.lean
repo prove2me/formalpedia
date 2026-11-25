@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_span_secCoord_eq_top_da435bac7731
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_span_secCoord_eq_top_da435bac7731
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:44:34.569853+00:00
 -- url     : https://prove2.me/theorems/9eee7306-df57-4449-ad46-00283c1ceb4e

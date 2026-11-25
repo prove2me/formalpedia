@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_ProjBundleFibreLine_proof_30e309f4ee5f
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_ProjBundleFibreLine_proof_30e309f4ee5f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:26:08.729568+00:00
 -- url     : https://prove2.me/theorems/c087506e-96db-49c3-9a55-307c06fbe9cd

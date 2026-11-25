@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_card_eq_card_residueField_pow_length_9f7daccf84b2
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_card_eq_card_residueField_pow_length_9f7daccf84b2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:20:38.444713+00:00
 -- url     : https://prove2.me/theorems/ace4c7a3-e1d7-4ada-a867-a361f6596173

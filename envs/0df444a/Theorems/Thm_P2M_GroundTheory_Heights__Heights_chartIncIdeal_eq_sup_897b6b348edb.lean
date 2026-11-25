@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_chartIncIdeal_eq_sup_897b6b348edb
 -- name    : P2M_GroundTheory_Heights__Heights_chartIncIdeal_eq_sup_897b6b348edb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:44:48.373191+00:00
 -- url     : https://prove2.me/theorems/40c3cb0c-4306-4aaf-a303-dbb94cad7195

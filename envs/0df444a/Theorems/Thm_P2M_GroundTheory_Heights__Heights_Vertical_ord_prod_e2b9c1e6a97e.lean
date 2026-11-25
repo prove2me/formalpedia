@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_ord_prod_e2b9c1e6a97e
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_ord_prod_e2b9c1e6a97e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:43:31.451028+00:00
 -- url     : https://prove2.me/theorems/8cd01a6c-3c03-47bd-ab06-17747273e7a4

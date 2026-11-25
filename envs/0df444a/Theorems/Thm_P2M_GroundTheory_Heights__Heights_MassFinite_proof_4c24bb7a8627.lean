@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MassFinite_proof_4c24bb7a8627
 -- name    : P2M_GroundTheory_Heights__Heights_MassFinite_proof_4c24bb7a8627
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:56:38.962242+00:00
 -- url     : https://prove2.me/theorems/3bc49b6d-3eef-4982-a518-112b4d52b5a7

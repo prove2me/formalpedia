@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StokesOffDiscriminant_continuousAt_sheet_0a0c684fe6fd
 -- name    : P2M_GroundTheory_Heights__Heights_StokesOffDiscriminant_continuousAt_sheet_0a0c684fe6fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:39:45.502842+00:00
 -- url     : https://prove2.me/theorems/b560f71f-7af7-59bb-8b43-0673c75a5805

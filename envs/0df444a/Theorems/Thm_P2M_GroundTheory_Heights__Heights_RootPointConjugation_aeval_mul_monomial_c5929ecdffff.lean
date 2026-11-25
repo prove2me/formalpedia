@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootPointConjugation_aeval_mul_monomial_c5929ecdffff
 -- name    : P2M_GroundTheory_Heights__Heights_RootPointConjugation_aeval_mul_monomial_c5929ecdffff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:36:55.566143+00:00
 -- url     : https://prove2.me/theorems/7889595e-0c6d-480e-9245-2c2ebd70cfad

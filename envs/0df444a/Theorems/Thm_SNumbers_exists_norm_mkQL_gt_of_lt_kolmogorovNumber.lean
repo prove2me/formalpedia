@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_exists_norm_mkQL_gt_of_lt_kolmogorovNumber
 -- name    : SNumbers.exists_norm_mkQL_gt_of_lt_kolmogorovNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:58:14.555865+00:00
 -- url     : https://prove2.me/theorems/cd06474c-d4d6-4269-b123-3993cf3b605d

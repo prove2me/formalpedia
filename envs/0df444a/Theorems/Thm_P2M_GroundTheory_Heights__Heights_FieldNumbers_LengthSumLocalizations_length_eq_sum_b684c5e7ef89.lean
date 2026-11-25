@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_LengthSumLocalizations_length_eq_sum_b684c5e7ef89
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_LengthSumLocalizations_length_eq_sum_b684c5e7ef89
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:16:49.823987+00:00
 -- url     : https://prove2.me/theorems/1c32459d-f7ed-441e-ad5e-afcf806e576d

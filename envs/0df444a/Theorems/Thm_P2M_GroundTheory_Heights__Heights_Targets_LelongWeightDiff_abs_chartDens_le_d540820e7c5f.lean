@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_LelongWeightDiff_abs_chartDens_le_d540820e7c5f
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_LelongWeightDiff_abs_chartDens_le_d540820e7c5f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:40:53.928871+00:00
 -- url     : https://prove2.me/theorems/248e4df7-9918-4f5f-8a2f-66022e4b2526

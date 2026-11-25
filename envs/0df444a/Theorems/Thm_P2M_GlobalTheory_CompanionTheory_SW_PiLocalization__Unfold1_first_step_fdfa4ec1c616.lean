@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold1_first_step_fdfa4ec1c616
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold1_first_step_fdfa4ec1c616
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:06:56.779796+00:00
 -- url     : https://prove2.me/theorems/6b460027-263a-43c3-97aa-ddcb7190e2ff

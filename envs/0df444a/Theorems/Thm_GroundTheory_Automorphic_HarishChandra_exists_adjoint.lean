@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_exists_adjoint
 -- name    : GroundTheory.Automorphic.HarishChandra.exists_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:03:48.253903+00:00
 -- url     : https://prove2.me/theorems/ae2614f0-6234-474a-9347-5f871c24ecdd

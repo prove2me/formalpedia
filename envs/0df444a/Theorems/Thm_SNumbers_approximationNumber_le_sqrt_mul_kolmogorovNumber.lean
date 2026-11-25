@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_le_sqrt_mul_kolmogorovNumber
 -- name    : SNumbers.approximationNumber_le_sqrt_mul_kolmogorovNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:55:58.815283+00:00
 -- url     : https://prove2.me/theorems/75db2f54-afe6-42fb-8c7b-1312596365b9

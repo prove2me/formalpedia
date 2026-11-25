@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckCasSplit_left_factor_action_mul
 -- name    : GlobalTheory.CompanionTheory.ZuckCasSplit.left_factor_action_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:27:59.38549+00:00
 -- url     : https://prove2.me/theorems/00a84f06-b83f-5c68-bc84-628659e6b276

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ArithIntersectionSystem_multilin_of_isFamily_a3118908cb91
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ArithIntersectionSystem_multilin_of_isFamily_a3118908cb91
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:43:00.13961+00:00
 -- url     : https://prove2.me/theorems/3e82c46c-9cef-5b3b-9e39-b15106855855

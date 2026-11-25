@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_CutRational_proof_c27e72dcc134
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_CutRational_proof_c27e72dcc134
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:40:20.701084+00:00
 -- url     : https://prove2.me/theorems/4514402f-5fc6-45f1-8630-6749162ef2f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootDenseAlt_aeval_grassPolyCoord_77d812565e5a
 -- name    : P2M_GroundTheory_Heights__Heights_RootDenseAlt_aeval_grassPolyCoord_77d812565e5a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:37:04.524324+00:00
 -- url     : https://prove2.me/theorems/f030046d-1d03-4f9d-a7aa-02c647f578a3

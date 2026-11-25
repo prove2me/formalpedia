@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_YPlusSmall_mConeMap_of_homog_a542b2f68532
 -- name    : P2M_GroundTheory_Heights__Heights_YPlusSmall_mConeMap_of_homog_a542b2f68532
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:43:52.556066+00:00
 -- url     : https://prove2.me/theorems/dcd08be0-a9ac-47ad-b145-1b03a0364def

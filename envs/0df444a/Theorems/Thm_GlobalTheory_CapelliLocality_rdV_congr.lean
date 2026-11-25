@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CapelliLocality_rdV_congr
 -- name    : GlobalTheory.CapelliLocality.rdV_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:29:18.34608+00:00
 -- url     : https://prove2.me/theorems/8c364e0c-d2f9-442b-9cdc-75272d633caa

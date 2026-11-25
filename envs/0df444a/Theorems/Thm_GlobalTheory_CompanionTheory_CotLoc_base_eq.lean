@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotLoc_base_eq
 -- name    : GlobalTheory.CompanionTheory.CotLoc.base_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:53:53.617649+00:00
 -- url     : https://prove2.me/theorems/2a8846b2-9543-49d1-8a51-f9f0cd8285cc

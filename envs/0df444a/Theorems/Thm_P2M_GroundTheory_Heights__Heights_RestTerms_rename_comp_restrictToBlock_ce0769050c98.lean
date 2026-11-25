@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_rename_comp_restrictToBlock_ce0769050c98
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_rename_comp_restrictToBlock_ce0769050c98
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:35:53.878804+00:00
 -- url     : https://prove2.me/theorems/6736d417-a698-5c07-bd62-71fabd28d223

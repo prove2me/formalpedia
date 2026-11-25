@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_Relabel_ringEquiv_symm_apply_adf9a25eb4eb
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_Relabel_ringEquiv_symm_apply_adf9a25eb4eb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:41:31.955736+00:00
 -- url     : https://prove2.me/theorems/7f390efb-8b95-4a1e-ac82-cf4e43804b64

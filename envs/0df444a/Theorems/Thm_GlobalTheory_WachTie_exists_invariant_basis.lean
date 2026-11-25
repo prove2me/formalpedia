@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WachTie_exists_invariant_basis
 -- name    : GlobalTheory.WachTie.exists_invariant_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:35:41.077811+00:00
 -- url     : https://prove2.me/theorems/3e8e0479-2c03-4c62-ae17-35bbd1f8d32a

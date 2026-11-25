@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsIrrCharacter_exists_eq_indFun_inertia
 -- name    : GroundTheory.LocalField.IsIrrCharacter.exists_eq_indFun_inertia
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:35:14.135426+00:00
 -- url     : https://prove2.me/theorems/b1f08144-b8ce-4a66-9b43-d8f91ab148dc

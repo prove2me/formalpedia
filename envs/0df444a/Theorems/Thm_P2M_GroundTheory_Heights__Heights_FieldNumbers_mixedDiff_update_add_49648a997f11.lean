@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_mixedDiff_update_add_49648a997f11
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_mixedDiff_update_add_49648a997f11
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:00.236348+00:00
 -- url     : https://prove2.me/theorems/52b23509-9983-436c-b4fc-9e8190a6ce5d

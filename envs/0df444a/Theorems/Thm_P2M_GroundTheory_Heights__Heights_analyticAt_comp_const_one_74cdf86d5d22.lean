@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_analyticAt_comp_const_one_74cdf86d5d22
 -- name    : P2M_GroundTheory_Heights__Heights_analyticAt_comp_const_one_74cdf86d5d22
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:45:01.750081+00:00
 -- url     : https://prove2.me/theorems/5f50232e-5032-4d35-8f4e-6ea56d274530

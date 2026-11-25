@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DeRhamCompare_finite_Dcris
 -- name    : GlobalTheory.DeRhamCompare.finite_Dcris
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:00:21.437465+00:00
 -- url     : https://prove2.me/theorems/252d888d-1366-41e9-8927-dbd17924a2cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StandardDualImageBottom_aeval_genPt_injective_334eaaac816a
 -- name    : P2M_GroundTheory_Heights__Heights_StandardDualImageBottom_aeval_genPt_injective_334eaaac816a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:39:46.085658+00:00
 -- url     : https://prove2.me/theorems/e0da4e95-d4ae-5c80-982f-267a5046320a

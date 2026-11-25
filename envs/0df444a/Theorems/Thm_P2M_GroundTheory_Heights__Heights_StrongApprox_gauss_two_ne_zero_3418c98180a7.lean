@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_gauss_two_ne_zero_3418c98180a7
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_gauss_two_ne_zero_3418c98180a7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:40:29.819935+00:00
 -- url     : https://prove2.me/theorems/d829ea48-ccfb-4949-9dcf-49a6049e4b6e

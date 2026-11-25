@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_eval_parYF_comp_d035261d91d5
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_eval_parYF_comp_d035261d91d5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:44:59.485328+00:00
 -- url     : https://prove2.me/theorems/53977da4-3f58-49db-8a15-0ec7f56e525d

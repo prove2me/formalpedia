@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_homogeneousComponent_mem_integralModel_b60d90841886
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_homogeneousComponent_mem_integralModel_b60d90841886
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:42:50.064341+00:00
 -- url     : https://prove2.me/theorems/0b993aa5-1201-4527-b63a-367f77a02e4b

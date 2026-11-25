@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_totallyBounded_of_tendsto_kolmogorovNumber
 -- name    : SNumbers.totallyBounded_of_tendsto_kolmogorovNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:49:55.514796+00:00
 -- url     : https://prove2.me/theorems/89283611-763a-4484-a232-f3505e2c4f2b

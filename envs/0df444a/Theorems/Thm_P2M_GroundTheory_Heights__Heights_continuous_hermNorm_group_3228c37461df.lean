@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_continuous_hermNorm_group_3228c37461df
 -- name    : P2M_GroundTheory_Heights__Heights_continuous_hermNorm_group_3228c37461df
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:45:26.754802+00:00
 -- url     : https://prove2.me/theorems/1eb6ac3e-411d-47ef-97f2-6f25358d2223

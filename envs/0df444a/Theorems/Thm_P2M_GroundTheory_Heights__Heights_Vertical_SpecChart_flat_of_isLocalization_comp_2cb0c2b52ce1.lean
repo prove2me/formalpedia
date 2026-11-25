@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SpecChart_flat_of_isLocalization_comp_2cb0c2b52ce1
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SpecChart_flat_of_isLocalization_comp_2cb0c2b52ce1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:43:12.038388+00:00
 -- url     : https://prove2.me/theorems/888fbfb7-8326-4f9c-85b4-aaa39166e1c9

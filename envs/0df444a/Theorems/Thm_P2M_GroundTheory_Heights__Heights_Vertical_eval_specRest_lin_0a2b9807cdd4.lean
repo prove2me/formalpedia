@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_eval_specRest_lin_0a2b9807cdd4
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_eval_specRest_lin_0a2b9807cdd4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:43:33.868468+00:00
 -- url     : https://prove2.me/theorems/29e164d9-8ec6-4f44-81cd-365f1f0ec022

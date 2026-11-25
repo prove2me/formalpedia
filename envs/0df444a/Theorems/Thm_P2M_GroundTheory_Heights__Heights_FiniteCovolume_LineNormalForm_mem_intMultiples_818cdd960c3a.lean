@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_LineNormalForm_mem_intMultiples_818cdd960c3a
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_LineNormalForm_mem_intMultiples_818cdd960c3a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:36:41.999192+00:00
 -- url     : https://prove2.me/theorems/c3595d72-ce27-49fe-8c49-961dae9e486f

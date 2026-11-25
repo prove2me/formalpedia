@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericProjClosureDivisor_chart_forms_uniform_bdb7ff8351a1
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericProjClosureDivisor_chart_forms_uniform_bdb7ff8351a1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:30:14.385494+00:00
 -- url     : https://prove2.me/theorems/ef0da627-1808-4897-8c0d-abea61d06f0b

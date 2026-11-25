@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegConeLimit_abs_fsLogReg_pointOf_le_cc18305be98c
 -- name    : P2M_GroundTheory_Heights__Heights_RegConeLimit_abs_fsLogReg_pointOf_le_cc18305be98c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:15:59.561352+00:00
 -- url     : https://prove2.me/theorems/e1c7cd50-974e-42e2-9d42-a8490da183d6

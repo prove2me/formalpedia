@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_anchor_homog_32008f5c06f9
 -- name    : P2M_GroundTheory_Heights__Heights_anchor_homog_32008f5c06f9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:44:13.088425+00:00
 -- url     : https://prove2.me/theorems/f12f85b8-0461-49b4-84e1-c79445d864f0

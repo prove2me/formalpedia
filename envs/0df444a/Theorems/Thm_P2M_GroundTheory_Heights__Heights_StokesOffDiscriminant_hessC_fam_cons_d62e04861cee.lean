@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StokesOffDiscriminant_hessC_fam_cons_d62e04861cee
 -- name    : P2M_GroundTheory_Heights__Heights_StokesOffDiscriminant_hessC_fam_cons_d62e04861cee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:39:59.97546+00:00
 -- url     : https://prove2.me/theorems/4acff846-75d7-57cd-bd79-4467201fef1c

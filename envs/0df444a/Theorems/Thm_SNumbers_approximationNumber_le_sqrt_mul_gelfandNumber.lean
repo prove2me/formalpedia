@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_le_sqrt_mul_gelfandNumber
 -- name    : SNumbers.approximationNumber_le_sqrt_mul_gelfandNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:54:48.223596+00:00
 -- url     : https://prove2.me/theorems/1bc68fe1-c09a-484c-83ed-a492749433a1

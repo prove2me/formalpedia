@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_algebraicWeight_polyMatrix_multiplicative
 -- name    : GlobalTheory.T.algebraicWeight_polyMatrix_multiplicative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:26:19.879586+00:00
 -- url     : https://prove2.me/theorems/2e73f87c-f1ab-4813-9d1a-f697bcba560c

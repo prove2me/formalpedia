@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_coneFibreAverage_of_lt_6291d9b63762
 -- name    : P2M_GroundTheory_Heights__Heights_coneFibreAverage_of_lt_6291d9b63762
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:45:22.904699+00:00
 -- url     : https://prove2.me/theorems/145d0186-1965-4b0c-80f8-8e1857642111

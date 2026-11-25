@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisSiegel_term_tendsto_zero
 -- name    : GlobalTheory.SW.EisSiegel.term_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:55:16.617476+00:00
 -- url     : https://prove2.me/theorems/32e7e7e1-312e-47c3-a745-7b4a28e16bf8

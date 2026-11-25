@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnLevBasicsW_level_group_unitary_weyl
 -- name    : PI.QnLevBasicsW.level_group_unitary_weyl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:26:14.181733+00:00
 -- url     : https://prove2.me/theorems/0c691d05-cb95-47e9-9037-79e870a12ac0

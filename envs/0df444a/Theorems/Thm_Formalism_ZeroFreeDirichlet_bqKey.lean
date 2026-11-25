@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_bqKey
 -- name    : Formalism.ZeroFreeDirichlet.bqKey
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:44:18.611143+00:00
 -- url     : https://prove2.me/theorems/248824d9-a75b-4bda-97eb-dfb6333b9b26

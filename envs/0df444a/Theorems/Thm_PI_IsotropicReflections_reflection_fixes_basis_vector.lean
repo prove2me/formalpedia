@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsotropicReflections_reflection_fixes_basis_vector
 -- name    : PI.IsotropicReflections.reflection_fixes_basis_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:55:36.87487+00:00
 -- url     : https://prove2.me/theorems/3bf83098-932d-4e4d-a10f-c9e93fdd7cd7

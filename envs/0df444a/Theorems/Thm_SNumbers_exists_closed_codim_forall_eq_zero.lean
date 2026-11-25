@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_exists_closed_codim_forall_eq_zero
 -- name    : SNumbers.exists_closed_codim_forall_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:27:54.70117+00:00
 -- url     : https://prove2.me/theorems/2dad86ab-cccf-5d6c-a31c-2413e9db7c67

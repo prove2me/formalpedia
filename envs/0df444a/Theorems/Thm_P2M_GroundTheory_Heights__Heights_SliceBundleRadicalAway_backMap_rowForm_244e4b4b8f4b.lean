@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceBundleRadicalAway_backMap_rowForm_244e4b4b8f4b
 -- name    : P2M_GroundTheory_Heights__Heights_SliceBundleRadicalAway_backMap_rowForm_244e4b4b8f4b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:38:13.583371+00:00
 -- url     : https://prove2.me/theorems/577b4a69-b4b0-4f9c-8ba8-0a9498a1f202

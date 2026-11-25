@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_trivial_log_deriv_bound
 -- name    : Formalism.ZeroFreeDirichlet.trivial_log_deriv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:44:53.281802+00:00
 -- url     : https://prove2.me/theorems/078924f9-8a83-43e7-acbc-928ee422360e

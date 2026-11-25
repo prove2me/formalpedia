@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_continuous_omS_prod
 -- name    : GlobalTheory.RealWeil.continuous_omS_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:16:53.262804+00:00
 -- url     : https://prove2.me/theorems/833e7694-71d7-4582-81d7-bf27b1b56e27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_PairConeLinesIndep_proof_57688b9c57e8
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_PairConeLinesIndep_proof_57688b9c57e8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:02:05.79363+00:00
 -- url     : https://prove2.me/theorems/dd1921e7-27ad-4439-850a-63afd3ac8971

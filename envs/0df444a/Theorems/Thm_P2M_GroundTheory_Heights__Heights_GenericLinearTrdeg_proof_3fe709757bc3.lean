@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericLinearTrdeg_proof_3fe709757bc3
 -- name    : P2M_GroundTheory_Heights__Heights_GenericLinearTrdeg_proof_3fe709757bc3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:41:26.40505+00:00
 -- url     : https://prove2.me/theorems/e9d21588-e477-4875-87d7-b73887e1ed7a

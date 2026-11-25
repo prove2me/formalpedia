@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_chart_sum_eq_one_0a97e722f90e
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_chart_sum_eq_one_0a97e722f90e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:45:16.33492+00:00
 -- url     : https://prove2.me/theorems/eff51fba-6efc-56b4-8a71-cf03817b86c4

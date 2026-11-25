@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_exists_prime_mem_heightOneSpectrum_c3aeab300187
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_exists_prime_mem_heightOneSpectrum_c3aeab300187
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:04:39.396532+00:00
 -- url     : https://prove2.me/theorems/95588d57-d854-42af-9160-66d727270ac5

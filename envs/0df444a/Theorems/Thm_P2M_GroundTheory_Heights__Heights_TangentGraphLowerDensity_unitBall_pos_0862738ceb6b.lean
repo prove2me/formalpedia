@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TangentGraphLowerDensity_unitBall_pos_0862738ceb6b
 -- name    : P2M_GroundTheory_Heights__Heights_TangentGraphLowerDensity_unitBall_pos_0862738ceb6b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:39:32.417794+00:00
 -- url     : https://prove2.me/theorems/663e1652-5c63-4734-aefe-82ca0b905e95

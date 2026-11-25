@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_orbital_integral_ae_convergence_continuity
 -- name    : Formalism.FourierDecayAlt.P.orbital_integral_ae_convergence_continuity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:24:29.30303+00:00
 -- url     : https://prove2.me/theorems/287df3e9-199f-4d8b-b1c1-8ab5c5aac03a

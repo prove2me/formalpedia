@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Split_ALint_eq
 -- name    : CompanionTheory.Split.ALint_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:15:11.737191+00:00
 -- url     : https://prove2.me/theorems/35d08ed7-fc72-5ee9-9b16-d68b54928f2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ContractMixed_PrefixPull_init_d69c9fa2d685
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ContractMixed_PrefixPull_init_d69c9fa2d685
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:40:20.428841+00:00
 -- url     : https://prove2.me/theorems/c243a7e8-527a-447a-b5bd-ab47b2decdcc

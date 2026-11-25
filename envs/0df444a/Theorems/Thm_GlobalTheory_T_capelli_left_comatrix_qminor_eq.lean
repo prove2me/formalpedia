@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_capelli_left_comatrix_qminor_eq
 -- name    : GlobalTheory.T.capelli_left_comatrix_qminor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:30:32.80739+00:00
 -- url     : https://prove2.me/theorems/df313d28-e175-560c-85a4-9079f61d42ea

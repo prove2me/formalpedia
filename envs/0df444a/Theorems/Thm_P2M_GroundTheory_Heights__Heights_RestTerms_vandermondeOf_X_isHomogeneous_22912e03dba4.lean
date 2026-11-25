@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_vandermondeOf_X_isHomogeneous_22912e03dba4
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_vandermondeOf_X_isHomogeneous_22912e03dba4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:36:51.214263+00:00
 -- url     : https://prove2.me/theorems/7338d14e-067b-46c5-a00d-ced46cfa25c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_CCle_congr
 -- name    : Formalism.FourierDecayAlt.P.Qx8.CCle_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:28:10.393851+00:00
 -- url     : https://prove2.me/theorems/3daaa0e9-6927-4f06-898a-f16f06bec3c1

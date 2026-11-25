@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_charOf_map_relabel_ff9c6d4a87db
 -- name    : P2M_GroundTheory_Heights__Heights_charOf_map_relabel_ff9c6d4a87db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:45:30.655909+00:00
 -- url     : https://prove2.me/theorems/846d8e44-07fc-54f9-975f-1bcf3d2108c1

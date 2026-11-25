@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_canon_mul_e_diag_of_not_hasUpper
 -- name    : GroundTheory.Automorphic.HarishChandra.canon_mul_e_diag_of_not_hasUpper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:02:51.358181+00:00
 -- url     : https://prove2.me/theorems/8b36cbe2-bf6a-41b8-9266-79262eb73c01

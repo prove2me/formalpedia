@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SegrePartition_rho_eq_zero_f7e1fc5f243f
 -- name    : P2M_GroundTheory_Heights__Heights_SegrePartition_rho_eq_zero_f7e1fc5f243f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:38:10.30052+00:00
 -- url     : https://prove2.me/theorems/929245dd-cc1d-416e-85c3-5babf1460770

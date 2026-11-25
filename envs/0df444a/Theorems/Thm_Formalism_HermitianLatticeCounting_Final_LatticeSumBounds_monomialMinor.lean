@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_monomialMinor
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.monomialMinor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:39:48.302001+00:00
 -- url     : https://prove2.me/theorems/d6ba9423-295a-4c8c-ac5e-2409d05694a3

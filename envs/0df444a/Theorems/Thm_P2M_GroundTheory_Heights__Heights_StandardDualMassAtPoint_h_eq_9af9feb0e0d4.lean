@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StandardDualMassAtPoint_h_eq_9af9feb0e0d4
 -- name    : P2M_GroundTheory_Heights__Heights_StandardDualMassAtPoint_h_eq_9af9feb0e0d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:39:54.966819+00:00
 -- url     : https://prove2.me/theorems/1b0286de-474c-5366-b197-96a1fac436b3

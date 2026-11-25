@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_isIndecomposableModule_iff_nontrivial_and_forall_isCompl
 -- name    : PretorsionImageClosed.isIndecomposableModule_iff_nontrivial_and_forall_isCompl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:51:14.463971+00:00
 -- url     : https://prove2.me/theorems/4648aac8-3556-5808-8b4d-79546f7163a6

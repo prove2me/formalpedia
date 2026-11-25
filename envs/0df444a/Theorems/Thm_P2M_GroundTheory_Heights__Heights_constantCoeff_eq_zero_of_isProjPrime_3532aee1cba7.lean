@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_constantCoeff_eq_zero_of_isProjPrime_3532aee1cba7
 -- name    : P2M_GroundTheory_Heights__Heights_constantCoeff_eq_zero_of_isProjPrime_3532aee1cba7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:45:06.740414+00:00
 -- url     : https://prove2.me/theorems/31258130-c57b-4f4f-8b05-4dfdc13ccc80

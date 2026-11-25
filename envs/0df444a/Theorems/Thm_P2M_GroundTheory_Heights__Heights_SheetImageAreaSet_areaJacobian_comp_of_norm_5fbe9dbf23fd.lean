@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SheetImageAreaSet_areaJacobian_comp_of_norm_5fbe9dbf23fd
 -- name    : P2M_GroundTheory_Heights__Heights_SheetImageAreaSet_areaJacobian_comp_of_norm_5fbe9dbf23fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:37:24.090331+00:00
 -- url     : https://prove2.me/theorems/9db643a0-b62c-49e0-8972-9bf91d4826e8

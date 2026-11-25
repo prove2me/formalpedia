@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TransverseSliceGeneral_gradAt_linPoly_sub_044988d6fb10
 -- name    : P2M_GroundTheory_Heights__Heights_TransverseSliceGeneral_gradAt_linPoly_sub_044988d6fb10
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:42:04.431555+00:00
 -- url     : https://prove2.me/theorems/93ac53ae-ed29-4f40-ae82-f2165f48df8f

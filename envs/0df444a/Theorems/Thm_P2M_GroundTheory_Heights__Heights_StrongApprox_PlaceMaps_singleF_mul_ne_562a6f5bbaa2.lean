@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_PlaceMaps_singleF_mul_ne_562a6f5bbaa2
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_PlaceMaps_singleF_mul_ne_562a6f5bbaa2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:40:25.183138+00:00
 -- url     : https://prove2.me/theorems/69285532-d75b-58d7-8a24-2f910e9df5b4

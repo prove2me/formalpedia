@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_rootRingToReal_degreePolynomial_first_99821be0665a
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_rootRingToReal_degreePolynomial_first_99821be0665a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:36:06.799573+00:00
 -- url     : https://prove2.me/theorems/34d71a4d-d491-4af0-9f61-028c892ac02e

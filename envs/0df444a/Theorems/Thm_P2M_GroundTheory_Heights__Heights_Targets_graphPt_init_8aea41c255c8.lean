@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_graphPt_init_8aea41c255c8
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_graphPt_init_8aea41c255c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:40:24.690266+00:00
 -- url     : https://prove2.me/theorems/3bd99c4c-2a73-49e9-9a8c-1573b0374c49

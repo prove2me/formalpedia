@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_commute_mkP
 -- name    : Formalism.FourierDecayAlt.P5.commute_mkP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:59:11.529969+00:00
 -- url     : https://prove2.me/theorems/42dd732a-e270-5794-8532-d3732d4f5508

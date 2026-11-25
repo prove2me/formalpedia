@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionLine_linearForm_coeffX1_cac9564c5601
 -- name    : P2M_GroundTheory_Heights__Heights_SectionLine_linearForm_coeffX1_cac9564c5601
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:36:56.977677+00:00
 -- url     : https://prove2.me/theorems/4893778e-30df-405e-9a21-ee7f6cd3df07

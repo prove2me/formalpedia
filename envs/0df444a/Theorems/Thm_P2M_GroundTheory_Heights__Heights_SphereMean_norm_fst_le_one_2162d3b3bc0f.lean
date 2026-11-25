@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMean_norm_fst_le_one_2162d3b3bc0f
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMean_norm_fst_le_one_2162d3b3bc0f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:38:35.632114+00:00
 -- url     : https://prove2.me/theorems/ddb767ac-e1a9-4a4d-8a2f-17d49cc700da

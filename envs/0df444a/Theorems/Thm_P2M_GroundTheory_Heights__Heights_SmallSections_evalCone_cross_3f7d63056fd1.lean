@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SmallSections_evalCone_cross_3f7d63056fd1
 -- name    : P2M_GroundTheory_Heights__Heights_SmallSections_evalCone_cross_3f7d63056fd1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:39:30.027628+00:00
 -- url     : https://prove2.me/theorems/ae03d2f0-857d-55e8-9c7d-91c69dc6c29d

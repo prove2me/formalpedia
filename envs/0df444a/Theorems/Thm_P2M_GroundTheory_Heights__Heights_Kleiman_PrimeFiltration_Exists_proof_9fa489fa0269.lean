@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_PrimeFiltration_Exists_proof_9fa489fa0269
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_PrimeFiltration_Exists_proof_9fa489fa0269
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:31:41.072019+00:00
 -- url     : https://prove2.me/theorems/077a30f6-8d0d-43c5-aa50-1f0aef11df97

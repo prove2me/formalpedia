@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_adelicNorm_le_of_local
 -- name    : GroundTheory.Automorphic.Reduction.adelicNorm_le_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:53:11.155564+00:00
 -- url     : https://prove2.me/theorems/999736d0-e3b2-4296-8816-1a5ec0f5944f

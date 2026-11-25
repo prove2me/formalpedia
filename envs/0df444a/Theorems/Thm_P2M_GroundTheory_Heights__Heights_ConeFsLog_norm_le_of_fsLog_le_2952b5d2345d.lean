@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeFsLog_norm_le_of_fsLog_le_2952b5d2345d
 -- name    : P2M_GroundTheory_Heights__Heights_ConeFsLog_norm_le_of_fsLog_le_2952b5d2345d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:16:34.95638+00:00
 -- url     : https://prove2.me/theorems/71e7dd29-74b5-4a70-b994-c0656a9cfbef

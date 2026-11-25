@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_SAHolds_of_neighbourhoods_truncation_7c2c028ab7e1
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_SAHolds_of_neighbourhoods_truncation_7c2c028ab7e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:39:33.653423+00:00
 -- url     : https://prove2.me/theorems/92241cae-e252-45b0-a8ce-b1dbdd66f84b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SVD_svd_sigma_le_mul_of_factorization
 -- name    : SVD.svd_sigma_le_mul_of_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:07:52.965797+00:00
 -- url     : https://prove2.me/theorems/d165e036-9bd4-401b-a7df-c1a143d89689

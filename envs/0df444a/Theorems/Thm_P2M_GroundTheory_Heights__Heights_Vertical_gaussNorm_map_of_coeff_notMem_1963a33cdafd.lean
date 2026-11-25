@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_gaussNorm_map_of_coeff_notMem_1963a33cdafd
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_gaussNorm_map_of_coeff_notMem_1963a33cdafd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:43:28.281816+00:00
 -- url     : https://prove2.me/theorems/0ad5eec5-8961-4be3-8d19-7b8e0055f15d

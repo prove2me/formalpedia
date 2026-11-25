@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PIQnLT__Lev_out_d130fdfe3a24
 -- name    : P2M_PIQnLT__Lev_out_d130fdfe3a24
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:55:21.816934+00:00
 -- url     : https://prove2.me/theorems/2296af55-a7fb-442b-affe-7487c41d8265

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ptsIntegral_comp_perm_91c7c4e989fe
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ptsIntegral_comp_perm_91c7c4e989fe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:21.342867+00:00
 -- url     : https://prove2.me/theorems/c69fe13c-98a2-4219-927c-b5d309bd47f7

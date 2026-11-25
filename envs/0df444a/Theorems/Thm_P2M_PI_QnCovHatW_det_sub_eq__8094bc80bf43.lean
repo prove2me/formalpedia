@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_QnCovHatW_det_sub_eq__8094bc80bf43
 -- name    : P2M_PI_QnCovHatW_det_sub_eq__8094bc80bf43
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:59:09.066342+00:00
 -- url     : https://prove2.me/theorems/51d5ebb0-5458-47d8-9823-0be0a3c935a8

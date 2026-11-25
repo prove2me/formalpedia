@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TangentJacComp_real_inner_eq_re_595de423dd88
 -- name    : P2M_GroundTheory_Heights__Heights_TangentJacComp_real_inner_eq_re_595de423dd88
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:40:09.235901+00:00
 -- url     : https://prove2.me/theorems/26580841-c31a-5091-bd66-5bb29d478f95

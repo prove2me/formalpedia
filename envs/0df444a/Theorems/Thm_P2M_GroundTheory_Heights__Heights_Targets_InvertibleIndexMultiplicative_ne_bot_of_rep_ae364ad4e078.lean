@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_InvertibleIndexMultiplicative_ne_bot_of_rep_ae364ad4e078
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_InvertibleIndexMultiplicative_ne_bot_of_rep_ae364ad4e078
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:41:05.13009+00:00
 -- url     : https://prove2.me/theorems/6ec598eb-0aa7-5ae1-807a-069e4f55aad0

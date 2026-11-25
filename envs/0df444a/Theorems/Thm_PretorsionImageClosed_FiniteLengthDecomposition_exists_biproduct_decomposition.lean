@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_FiniteLengthDecomposition_exists_biproduct_decomposition
 -- name    : PretorsionImageClosed.FiniteLengthDecomposition.exists_biproduct_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:38:15.128248+00:00
 -- url     : https://prove2.me/theorems/7683ad74-bd24-5df6-ad20-6d424dc87e53

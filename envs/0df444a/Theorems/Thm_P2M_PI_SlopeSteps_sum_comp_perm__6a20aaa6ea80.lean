@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_SlopeSteps_sum_comp_perm__6a20aaa6ea80
 -- name    : P2M_PI_SlopeSteps_sum_comp_perm__6a20aaa6ea80
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:00:21.293727+00:00
 -- url     : https://prove2.me/theorems/509dcc72-5460-4bfa-bb06-e61ced36ac75

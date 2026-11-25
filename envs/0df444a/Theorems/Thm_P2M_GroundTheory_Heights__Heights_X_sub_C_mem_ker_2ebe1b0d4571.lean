@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_X_sub_C_mem_ker_2ebe1b0d4571
 -- name    : P2M_GroundTheory_Heights__Heights_X_sub_C_mem_ker_2ebe1b0d4571
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:44:10.292151+00:00
 -- url     : https://prove2.me/theorems/f26601f2-8a6d-4eda-95f1-cfd7dce260a9

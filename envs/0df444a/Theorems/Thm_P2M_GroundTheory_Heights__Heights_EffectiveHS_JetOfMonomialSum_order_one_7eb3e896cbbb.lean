@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_EffectiveHS_JetOfMonomialSum_order_one_7eb3e896cbbb
 -- name    : P2M_GroundTheory_Heights__Heights_EffectiveHS_JetOfMonomialSum_order_one_7eb3e896cbbb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:17:18.816037+00:00
 -- url     : https://prove2.me/theorems/2fec5b93-fe19-4caf-bc80-f8f8f32b5660

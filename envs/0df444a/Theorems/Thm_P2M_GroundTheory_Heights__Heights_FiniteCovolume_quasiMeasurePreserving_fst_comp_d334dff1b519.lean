@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_quasiMeasurePreserving_fst_comp_d334dff1b519
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_quasiMeasurePreserving_fst_comp_d334dff1b519
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:09:13.661582+00:00
 -- url     : https://prove2.me/theorems/c96bebe4-4fd8-421f-83fc-643258ea3da0

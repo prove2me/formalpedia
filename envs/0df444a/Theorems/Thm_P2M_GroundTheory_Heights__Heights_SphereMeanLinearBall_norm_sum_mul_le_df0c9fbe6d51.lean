@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMeanLinearBall_norm_sum_mul_le_df0c9fbe6d51
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMeanLinearBall_norm_sum_mul_le_df0c9fbe6d51
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:39:26.815873+00:00
 -- url     : https://prove2.me/theorems/943eb5ec-759c-4d2b-b038-e57775be4dbf

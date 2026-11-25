@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalFormDivisor_wwCoord_eq_51b851e8e365
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalFormDivisor_wwCoord_eq_51b851e8e365
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:04:22.404977+00:00
 -- url     : https://prove2.me/theorems/efd734bf-8be0-5f62-a88b-90b6d29c8f1a

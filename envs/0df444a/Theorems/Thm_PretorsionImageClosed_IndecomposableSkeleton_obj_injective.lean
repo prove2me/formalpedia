@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_obj_injective
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.obj_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:58:45.280481+00:00
 -- url     : https://prove2.me/theorems/3100e513-e675-4bad-a94d-c92bfb011549

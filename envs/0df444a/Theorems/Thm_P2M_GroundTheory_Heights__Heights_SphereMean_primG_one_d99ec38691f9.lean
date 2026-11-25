@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMean_primG_one_d99ec38691f9
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMean_primG_one_d99ec38691f9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:38:20.767464+00:00
 -- url     : https://prove2.me/theorems/1aa1c839-3d45-40df-a45f-a02d71f2799f

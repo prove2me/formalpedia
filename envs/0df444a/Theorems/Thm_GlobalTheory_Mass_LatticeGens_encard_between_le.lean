@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_LatticeGens_encard_between_le
 -- name    : GlobalTheory.Mass.LatticeGens.encard_between_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:59:15.150921+00:00
 -- url     : https://prove2.me/theorems/6c489c63-3b1d-56d9-884d-08ada2cad811

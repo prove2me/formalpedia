@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceCut_norm_coord_le_bd62cc5d91a9
 -- name    : P2M_GroundTheory_Heights__Heights_SliceCut_norm_coord_le_bd62cc5d91a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:38:23.360121+00:00
 -- url     : https://prove2.me/theorems/7d7cc72b-c2e3-4062-91c0-42ec7841e227

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_chart_ne_zero_of_mem_mcPts_304d751cd0f7
 -- name    : P2M_GroundTheory_Heights__Heights_chart_ne_zero_of_mem_mcPts_304d751cd0f7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:45:23.059284+00:00
 -- url     : https://prove2.me/theorems/9eafe477-82cf-4674-ac67-c39ccd1687c4

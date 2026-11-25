@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_analyticAt_eval_of_analyticAt_zero_79fc8297a2cb
 -- name    : P2M_GroundTheory_Heights__Heights_analyticAt_eval_of_analyticAt_zero_79fc8297a2cb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:44:03.972804+00:00
 -- url     : https://prove2.me/theorems/3d71739e-e370-4727-8318-cc6774345a12

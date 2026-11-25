@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_linEval_single_last_358238134de1
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_linEval_single_last_358238134de1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:41:05.457811+00:00
 -- url     : https://prove2.me/theorems/320ca5a3-fa9e-41c9-b5dd-4d1cdfd993b3

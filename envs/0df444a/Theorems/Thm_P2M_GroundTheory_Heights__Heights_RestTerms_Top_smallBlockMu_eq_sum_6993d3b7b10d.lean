@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_smallBlockMu_eq_sum_6993d3b7b10d
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_smallBlockMu_eq_sum_6993d3b7b10d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:35:36.078421+00:00
 -- url     : https://prove2.me/theorems/7ee403d1-ac78-4b20-9aaa-e4e3c5ae9092

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_psiChiBound
 -- name    : Formalism.ZeroFreeDirichlet.psiChiBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:56:51.548502+00:00
 -- url     : https://prove2.me/theorems/73e60de5-f40c-4569-ae81-08955feaf510

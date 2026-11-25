@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_map_integralModel_07d238438554
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_map_integralModel_07d238438554
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:42:57.040906+00:00
 -- url     : https://prove2.me/theorems/ed8a2a7c-8fa3-4c52-a4ba-f5cfe6ea5786

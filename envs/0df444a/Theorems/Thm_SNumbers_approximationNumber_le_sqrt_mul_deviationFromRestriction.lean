@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_le_sqrt_mul_deviationFromRestriction
 -- name    : SNumbers.approximationNumber_le_sqrt_mul_deviationFromRestriction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:54:35.685069+00:00
 -- url     : https://prove2.me/theorems/38fa5696-ad7a-46ce-a282-3b2e527c30a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceComponents_isHomogIdeal_sup_linForm_478a4eaaa94c
 -- name    : P2M_GroundTheory_Heights__Heights_SliceComponents_isHomogIdeal_sup_linForm_478a4eaaa94c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:38:25.730057+00:00
 -- url     : https://prove2.me/theorems/3fc8d06a-5fab-59e0-b5f8-3011cf0afa92

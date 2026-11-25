@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_isImageClosed_iff_intersectionClosed
 -- name    : PretorsionImageClosed.LinearQuiver.isImageClosed_iff_intersectionClosed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:22:47.301407+00:00
 -- url     : https://prove2.me/theorems/351abbd9-b720-5d8f-90d4-e69e661f7ea8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionCycle_divCycle_eq_zero_84a12a66bfd1
 -- name    : P2M_GroundTheory_Heights__Heights_SectionCycle_divCycle_eq_zero_84a12a66bfd1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:36:50.829834+00:00
 -- url     : https://prove2.me/theorems/1513d949-0557-43e0-af98-b9d58eb48769

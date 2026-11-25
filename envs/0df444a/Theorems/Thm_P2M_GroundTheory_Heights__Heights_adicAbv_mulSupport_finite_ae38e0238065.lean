@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_adicAbv_mulSupport_finite_ae38e0238065
 -- name    : P2M_GroundTheory_Heights__Heights_adicAbv_mulSupport_finite_ae38e0238065
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:46:56.114162+00:00
 -- url     : https://prove2.me/theorems/55fb6f6f-0e11-5103-a84d-5a264ebe9c0b

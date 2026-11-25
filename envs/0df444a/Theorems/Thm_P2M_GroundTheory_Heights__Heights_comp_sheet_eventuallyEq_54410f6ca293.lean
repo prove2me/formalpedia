@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_comp_sheet_eventuallyEq_54410f6ca293
 -- name    : P2M_GroundTheory_Heights__Heights_comp_sheet_eventuallyEq_54410f6ca293
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:45:31.574012+00:00
 -- url     : https://prove2.me/theorems/7e149578-d2cc-4d3b-a75c-bf32f0eb14a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_segre_of_sameOrbit_2b78d385d421
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_segre_of_sameOrbit_2b78d385d421
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:44:59.604878+00:00
 -- url     : https://prove2.me/theorems/ccdeeeeb-b83d-53a3-a623-5d0ec5dab82a

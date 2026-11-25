@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_lemmaP
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.lemmaP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:37:51.158783+00:00
 -- url     : https://prove2.me/theorems/e7ac1193-5ebd-419f-ba0f-b6c12dfdaadc

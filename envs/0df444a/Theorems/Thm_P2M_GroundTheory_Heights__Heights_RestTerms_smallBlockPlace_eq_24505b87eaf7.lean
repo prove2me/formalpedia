@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_smallBlockPlace_eq_24505b87eaf7
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_smallBlockPlace_eq_24505b87eaf7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:36:44.635329+00:00
 -- url     : https://prove2.me/theorems/86f2bbad-61a0-48a5-8c76-4a903a7da6b0

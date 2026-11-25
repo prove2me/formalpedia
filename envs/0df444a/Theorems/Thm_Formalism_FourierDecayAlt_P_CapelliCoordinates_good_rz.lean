@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliCoordinates_good_rz
 -- name    : Formalism.FourierDecayAlt.P.CapelliCoordinates.good_rz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:39:50.332799+00:00
 -- url     : https://prove2.me/theorems/7be7c373-7915-47ad-b2f1-cd1c56d551d0

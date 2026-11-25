@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LWide_logDeriv_LFunction_strip
 -- name    : GlobalTheory.LWide.logDeriv_LFunction_strip
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:03:16.895795+00:00
 -- url     : https://prove2.me/theorems/0d9357c8-a559-4280-91d2-469051f53c7c

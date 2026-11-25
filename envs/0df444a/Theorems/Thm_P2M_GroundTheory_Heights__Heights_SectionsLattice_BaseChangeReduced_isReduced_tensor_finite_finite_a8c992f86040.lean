@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionsLattice_BaseChangeReduced_isReduced_tensor_finite_finite_a8c992f86040
 -- name    : P2M_GroundTheory_Heights__Heights_SectionsLattice_BaseChangeReduced_isReduced_tensor_finite_finite_a8c992f86040
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:37:13.095041+00:00
 -- url     : https://prove2.me/theorems/4ab1340c-802e-5c2e-b99d-dd870f846b8c

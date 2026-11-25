@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_qminor_commute_of_commute_columns
 -- name    : GlobalTheory.T.qminor_commute_of_commute_columns
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:36:45.306736+00:00
 -- url     : https://prove2.me/theorems/82398e2e-4528-5c6e-9ade-43a36bc8558c

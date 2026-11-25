@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_IsTrivial_biprod_lift
 -- name    : PretorsionImageClosed.Statement.IsTrivial.biprod_lift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:02:05.486023+00:00
 -- url     : https://prove2.me/theorems/9aed0fef-3dd5-55c9-bb2c-1bdef3cbbe1d

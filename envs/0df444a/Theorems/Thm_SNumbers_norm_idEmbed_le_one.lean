@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_norm_idEmbed_le_one
 -- name    : SNumbers.norm_idEmbed_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:03:00.933409+00:00
 -- url     : https://prove2.me/theorems/2cb5141e-75a9-5a50-9dc0-2f7652408b33

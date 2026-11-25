@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_NormFormIrreducible_exists_comp_eq_b7eb0fc85b9b
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_NormFormIrreducible_exists_comp_eq_b7eb0fc85b9b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:44:04.793836+00:00
 -- url     : https://prove2.me/theorems/e4febd6c-09db-5962-9087-8d4803ed1f21

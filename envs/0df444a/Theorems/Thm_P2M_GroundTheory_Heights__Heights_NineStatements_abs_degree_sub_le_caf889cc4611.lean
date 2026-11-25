@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_abs_degree_sub_le_caf889cc4611
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_abs_degree_sub_le_caf889cc4611
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:04:30.990054+00:00
 -- url     : https://prove2.me/theorems/5abb6a99-47b3-5716-9e9a-7894a8609691

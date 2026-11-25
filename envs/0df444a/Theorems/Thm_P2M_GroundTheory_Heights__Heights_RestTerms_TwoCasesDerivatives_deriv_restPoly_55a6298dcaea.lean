@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_TwoCasesDerivatives_deriv_restPoly_55a6298dcaea
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_TwoCasesDerivatives_deriv_restPoly_55a6298dcaea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:36:13.48803+00:00
 -- url     : https://prove2.me/theorems/63f576b1-1a11-4056-94c3-93456f74efeb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SegreChartZeroSet_eval_liftPoly_7a6b03adb6c3
 -- name    : P2M_GroundTheory_Heights__Heights_SegreChartZeroSet_eval_liftPoly_7a6b03adb6c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:37:47.35682+00:00
 -- url     : https://prove2.me/theorems/44100518-408c-4003-9d4c-b6cd1ee6ddd7

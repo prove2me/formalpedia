@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_prod_box_erase_zero
 -- name    : GlobalTheory.sum_prod_box_erase_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:34:40.031124+00:00
 -- url     : https://prove2.me/theorems/c6688c96-6276-4224-a63d-e87a9ddf312c

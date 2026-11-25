@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TangentGraphLowerDensity_norm_sq_split_85435cb7ec5f
 -- name    : P2M_GroundTheory_Heights__Heights_TangentGraphLowerDensity_norm_sq_split_85435cb7ec5f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:39:39.548362+00:00
 -- url     : https://prove2.me/theorems/bea738f3-4f7a-464d-86e8-5830d2f58f88

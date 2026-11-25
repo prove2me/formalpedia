@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_comp_mem_end_jacobson
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.comp_mem_end_jacobson
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:10:06.202619+00:00
 -- url     : https://prove2.me/theorems/2148557c-68f6-4700-a238-6d8dd797c754

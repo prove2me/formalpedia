@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionCycle_length_localized_eq_9df2ed0bc3a3
 -- name    : P2M_GroundTheory_Heights__Heights_SectionCycle_length_localized_eq_9df2ed0bc3a3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:37:15.45092+00:00
 -- url     : https://prove2.me/theorems/0484825a-22a9-421a-b51a-13bb9ed04f68

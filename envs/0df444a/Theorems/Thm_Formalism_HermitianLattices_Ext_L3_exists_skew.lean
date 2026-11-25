@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_exists_skew
 -- name    : Formalism.HermitianLattices.Ext.L3.exists_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:37:31.726802+00:00
 -- url     : https://prove2.me/theorems/de9dc082-4bdc-5679-b6b7-d94b8a352455

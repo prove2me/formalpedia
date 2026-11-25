@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_schur_rowOne_94c2ce3effa1
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_schur_rowOne_94c2ce3effa1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:35:38.064801+00:00
 -- url     : https://prove2.me/theorems/e7d43a11-3689-5a2a-a9ff-4f61bded6d7f

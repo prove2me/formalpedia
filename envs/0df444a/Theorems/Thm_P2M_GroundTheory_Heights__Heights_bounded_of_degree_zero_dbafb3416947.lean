@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_bounded_of_degree_zero_dbafb3416947
 -- name    : P2M_GroundTheory_Heights__Heights_bounded_of_degree_zero_dbafb3416947
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:45:00.44366+00:00
 -- url     : https://prove2.me/theorems/3a609c50-d6b3-42e6-8290-b2bc4f683643

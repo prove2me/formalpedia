@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveDegreeVert_sameOrbit_refl_a2f42243f46b
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveDegreeVert_sameOrbit_refl_a2f42243f46b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:42:39.389096+00:00
 -- url     : https://prove2.me/theorems/2ddfa60b-30bb-44a0-9bb4-da5f6037d221

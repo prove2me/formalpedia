@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LelongRegularise_norm_chartDens_le_7e34c9bb0f45
 -- name    : P2M_GroundTheory_Heights__Heights_LelongRegularise_norm_chartDens_le_7e34c9bb0f45
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:34.1062+00:00
 -- url     : https://prove2.me/theorems/89f2fbdc-5e13-4eb8-8124-4618370af6ae

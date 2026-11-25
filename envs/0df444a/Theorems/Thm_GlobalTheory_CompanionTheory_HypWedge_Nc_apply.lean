@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HypWedge_Nc_apply
 -- name    : GlobalTheory.CompanionTheory.HypWedge.Nc_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:59:47.730884+00:00
 -- url     : https://prove2.me/theorems/3499a02f-a7ef-5404-9657-ed86c5bb2bc8

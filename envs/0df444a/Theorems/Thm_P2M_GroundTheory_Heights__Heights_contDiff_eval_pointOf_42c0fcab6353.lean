@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_contDiff_eval_pointOf_42c0fcab6353
 -- name    : P2M_GroundTheory_Heights__Heights_contDiff_eval_pointOf_42c0fcab6353
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:48:50.49624+00:00
 -- url     : https://prove2.me/theorems/f2507575-3ea4-5b5d-a7c2-f0516cd126b9

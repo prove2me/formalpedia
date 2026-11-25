@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumPoint_mk_chartMonomial_b7a9a7dc5d3e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumPoint_mk_chartMonomial_b7a9a7dc5d3e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:06:45.294053+00:00
 -- url     : https://prove2.me/theorems/55c7d004-83c1-465f-8dcb-0e6ab72d813f

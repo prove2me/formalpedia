@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TelescopingSum_comp_swap_1fad1a80f92e
 -- name    : P2M_GroundTheory_Heights__Heights_TelescopingSum_comp_swap_1fad1a80f92e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:41:00.011298+00:00
 -- url     : https://prove2.me/theorems/f5c64e3d-fb67-49ac-a65b-bfd132ef05bc

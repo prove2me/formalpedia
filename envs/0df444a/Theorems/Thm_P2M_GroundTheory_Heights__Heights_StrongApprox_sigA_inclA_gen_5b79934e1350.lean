@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_sigA_inclA_gen_5b79934e1350
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_sigA_inclA_gen_5b79934e1350
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:40:58.706221+00:00
 -- url     : https://prove2.me/theorems/6a01eeaa-7284-4f93-8f34-d2946533fa50

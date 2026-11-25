@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocalGraphMass_mass_piece_387f19b7a495
 -- name    : P2M_GroundTheory_Heights__Heights_LocalGraphMass_mass_piece_387f19b7a495
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:28:32.805891+00:00
 -- url     : https://prove2.me/theorems/dcf3776d-804d-41e7-ace6-4bf6b42e0f69

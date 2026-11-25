@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_coe_evalCone_coordVec_1ad214d3b804
 -- name    : P2M_GroundTheory_Heights__Heights_coe_evalCone_coordVec_1ad214d3b804
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:45:31.248476+00:00
 -- url     : https://prove2.me/theorems/18cc0f1d-40c4-4d4e-bc29-c4a2608fbe3d

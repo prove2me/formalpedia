@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_exists_gelfand_flag
 -- name    : SNumbers.exists_gelfand_flag
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:09:16.445581+00:00
 -- url     : https://prove2.me/theorems/da3ebdb5-605d-5af0-a4ae-314d20d19426

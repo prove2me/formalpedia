@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_iso_resHomComplex_adj_iso
 -- name    : GroundTheory.GroupCoh.iso_resHomComplex_adj_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:35:46.58092+00:00
 -- url     : https://prove2.me/theorems/caef8c08-1245-460e-98a4-152d7c53c058

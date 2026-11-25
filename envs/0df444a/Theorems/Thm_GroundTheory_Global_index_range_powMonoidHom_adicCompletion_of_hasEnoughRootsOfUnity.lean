@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_index_range_powMonoidHom_adicCompletion_of_hasEnoughRootsOfUnity
 -- name    : GroundTheory.Global.index_range_powMonoidHom_adicCompletion_of_hasEnoughRootsOfUnity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:42:02.782993+00:00
 -- url     : https://prove2.me/theorems/32b3ecff-829a-4ddb-85ad-9cb999e0690b

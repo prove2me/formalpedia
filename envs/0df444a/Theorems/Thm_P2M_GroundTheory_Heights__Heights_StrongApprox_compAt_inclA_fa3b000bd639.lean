@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_compAt_inclA_fa3b000bd639
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_compAt_inclA_fa3b000bd639
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:39:37.97795+00:00
 -- url     : https://prove2.me/theorems/a8f44054-e503-5c54-9b02-1b6abff7f52c

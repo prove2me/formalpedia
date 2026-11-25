@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_isIndecomposableModule_iff_nontrivial_and_isLocalRing_end
 -- name    : PretorsionImageClosed.isIndecomposableModule_iff_nontrivial_and_isLocalRing_end
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:56:42.580566+00:00
 -- url     : https://prove2.me/theorems/8e5d9b18-7c2f-5609-8ea0-7ae4bca833c4

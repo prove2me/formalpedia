@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_frobenius_sub_pow_mem_maximalIdeal
 -- name    : GroundTheory.LocalField.frobenius_sub_pow_mem_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:16:28.100914+00:00
 -- url     : https://prove2.me/theorems/a6f457f2-3cd9-455b-a57f-99d0358f1405

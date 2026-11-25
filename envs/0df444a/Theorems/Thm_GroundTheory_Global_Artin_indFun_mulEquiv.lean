@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_indFun_mulEquiv
 -- name    : GroundTheory.Global.Artin.indFun_mulEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:36:47.046721+00:00
 -- url     : https://prove2.me/theorems/3965ba41-81a6-4b4f-8856-fe662b91c81d

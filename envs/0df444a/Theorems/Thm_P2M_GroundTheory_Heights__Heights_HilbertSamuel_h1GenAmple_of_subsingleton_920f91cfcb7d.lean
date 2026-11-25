@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_h1GenAmple_of_subsingleton_920f91cfcb7d
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_h1GenAmple_of_subsingleton_920f91cfcb7d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:14.056472+00:00
 -- url     : https://prove2.me/theorems/6e2cab7a-d9c8-4ff0-a19e-d9cc4d4ac044

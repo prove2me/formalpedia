@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PretorsionImageClosed_Statement_geomSum_succ__6058193f0c58
 -- name    : P2M_PretorsionImageClosed_Statement_geomSum_succ__6058193f0c58
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:04:03.15938+00:00
 -- url     : https://prove2.me/theorems/6d658741-f359-58be-a383-f1c4a3fe62cb

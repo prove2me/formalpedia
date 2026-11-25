@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_WindowValuationBound_capNat_ne_zero
 -- name    : GlobalTheory.OddBlock.WindowValuationBound.capNat_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:33:42.676475+00:00
 -- url     : https://prove2.me/theorems/e3b1cecf-253e-5cb9-8270-d8d3781b5df6

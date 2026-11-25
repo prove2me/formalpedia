@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_logDeriv_riemannZeta_local_zero_sum
 -- name    : GlobalTheory.T.logDeriv_riemannZeta_local_zero_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:52:51.931911+00:00
 -- url     : https://prove2.me/theorems/bc5cd80a-1216-49dd-86de-f3d31a24ddb5

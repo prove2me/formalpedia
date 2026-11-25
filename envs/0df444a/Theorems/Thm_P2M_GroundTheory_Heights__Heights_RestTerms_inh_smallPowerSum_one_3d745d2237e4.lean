@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_inh_smallPowerSum_one_3d745d2237e4
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_inh_smallPowerSum_one_3d745d2237e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:36:22.479156+00:00
 -- url     : https://prove2.me/theorems/25e67b28-3b29-49db-9c18-8c0cb39fd99e

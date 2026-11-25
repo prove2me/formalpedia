@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regularityLocalResidue_holds_exists_rep_569c3fcb9a3c
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regularityLocalResidue_holds_exists_rep_569c3fcb9a3c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:57:42.930805+00:00
 -- url     : https://prove2.me/theorems/67b19539-37cd-4230-8641-088d5db5c3c5

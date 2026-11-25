@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_list_prod_one_add_67ee7372c84e
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_list_prod_one_add_67ee7372c84e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:41:31.09167+00:00
 -- url     : https://prove2.me/theorems/777db0bd-fdb9-4c55-9784-7dfa8f65e2d8

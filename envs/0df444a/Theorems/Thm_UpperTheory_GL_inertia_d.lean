@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_GL_inertia_d
 -- name    : UpperTheory.GL.inertia_d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:51:28.105211+00:00
 -- url     : https://prove2.me/theorems/17f953f9-345a-4e87-9da0-041546338494

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_areaJacobian_eq_abs_det_comp_3690b9c621c2
 -- name    : P2M_GroundTheory_Heights__Heights_areaJacobian_eq_abs_det_comp_3690b9c621c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:44:28.636159+00:00
 -- url     : https://prove2.me/theorems/e4c96691-467a-42c7-9a56-f6ac9fb9fcf9

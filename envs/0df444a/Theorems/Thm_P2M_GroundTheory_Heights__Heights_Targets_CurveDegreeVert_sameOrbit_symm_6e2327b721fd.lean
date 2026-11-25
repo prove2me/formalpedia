@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveDegreeVert_sameOrbit_symm_6e2327b721fd
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveDegreeVert_sameOrbit_symm_6e2327b721fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:41:22.209967+00:00
 -- url     : https://prove2.me/theorems/17089e71-e821-4317-a09e-890de5ffc2b6

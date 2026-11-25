@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_schurAtRoots_place_lt_5e36909355b5
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_schurAtRoots_place_lt_5e36909355b5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:37:09.419967+00:00
 -- url     : https://prove2.me/theorems/4702e7f5-2033-54ac-a2a5-f7bbb743d093

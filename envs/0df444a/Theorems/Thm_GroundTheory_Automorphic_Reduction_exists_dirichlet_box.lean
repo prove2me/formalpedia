@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_exists_dirichlet_box
 -- name    : GroundTheory.Automorphic.Reduction.exists_dirichlet_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:03:40.630877+00:00
 -- url     : https://prove2.me/theorems/f72e09c1-a0c0-5498-98ba-5d67d19021de

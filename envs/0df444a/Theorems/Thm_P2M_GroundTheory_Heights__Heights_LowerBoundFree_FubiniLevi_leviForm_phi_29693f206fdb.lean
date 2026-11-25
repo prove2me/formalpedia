@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_FubiniLevi_leviForm_phi_29693f206fdb
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_FubiniLevi_leviForm_phi_29693f206fdb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:45.717336+00:00
 -- url     : https://prove2.me/theorems/6d1aaeac-5973-4c8b-8cdd-002968ec101f

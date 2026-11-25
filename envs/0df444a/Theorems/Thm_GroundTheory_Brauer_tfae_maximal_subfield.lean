@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_tfae_maximal_subfield
 -- name    : GroundTheory.Brauer.tfae_maximal_subfield
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:29:08.679656+00:00
 -- url     : https://prove2.me/theorems/440ca309-7bcb-5d99-9655-2b30de8f70db

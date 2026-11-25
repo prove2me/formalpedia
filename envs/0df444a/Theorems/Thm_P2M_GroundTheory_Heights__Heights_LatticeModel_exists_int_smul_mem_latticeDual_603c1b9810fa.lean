@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_exists_int_smul_mem_latticeDual_603c1b9810fa
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_exists_int_smul_mem_latticeDual_603c1b9810fa
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:30.110995+00:00
 -- url     : https://prove2.me/theorems/d9627252-6163-4672-ac21-a1e04b0d746a

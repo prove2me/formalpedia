@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_blockPowerSum_isHomogeneous_c5d784bee3b6
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_blockPowerSum_isHomogeneous_c5d784bee3b6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:35:58.085344+00:00
 -- url     : https://prove2.me/theorems/da73c10b-9686-4b45-a06d-519b8ae64c2c

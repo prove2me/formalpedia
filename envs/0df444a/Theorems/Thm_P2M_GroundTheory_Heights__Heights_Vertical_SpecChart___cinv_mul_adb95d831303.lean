@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SpecChart___cinv_mul_adb95d831303
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SpecChart___cinv_mul_adb95d831303
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:44:18.183824+00:00
 -- url     : https://prove2.me/theorems/85dc2a88-02bd-4c63-8175-9514dcbef386

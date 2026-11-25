@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FrameEntries_capLft_smul
 -- name    : Formalism.FourierDecayAlt.P.FrameEntries.capLft_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:41:21.44728+00:00
 -- url     : https://prove2.me/theorems/33ad83af-0ac0-425e-97eb-04d08cded448

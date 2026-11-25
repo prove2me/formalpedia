@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_HilbertIncrement_quotPiece_natCast_c8e9aee8bbc8
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_HilbertIncrement_quotPiece_natCast_c8e9aee8bbc8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:23:29.918856+00:00
 -- url     : https://prove2.me/theorems/47614dc7-a8a0-504d-b9de-8c29baf53be3

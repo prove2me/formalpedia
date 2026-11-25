@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckStdD_reH_add_imH
 -- name    : GlobalTheory.CompanionTheory.ZuckStdD.reH_add_imH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:32:34.301955+00:00
 -- url     : https://prove2.me/theorems/098e9804-5f54-5c16-81fc-724a17cf096a

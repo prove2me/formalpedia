@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_GenSecDomain_sT_ne_zero_d0219b53b8a9
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_GenSecDomain_sT_ne_zero_d0219b53b8a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:42:58.025865+00:00
 -- url     : https://prove2.me/theorems/34b061a0-73f0-4286-b7d8-76daf1ca0ee0

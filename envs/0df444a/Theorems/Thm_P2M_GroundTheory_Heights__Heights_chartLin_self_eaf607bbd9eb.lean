@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_chartLin_self_eaf607bbd9eb
 -- name    : P2M_GroundTheory_Heights__Heights_chartLin_self_eaf607bbd9eb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:44:22.808496+00:00
 -- url     : https://prove2.me/theorems/03b307b7-84f0-41f9-8013-1cc8fd7512b6

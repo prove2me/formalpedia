@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMean_hasDerivAt_polyR_1a5b2ce114a0
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMean_hasDerivAt_polyR_1a5b2ce114a0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:39:28.880542+00:00
 -- url     : https://prove2.me/theorems/1826d795-46be-5558-93de-c00b214e3565

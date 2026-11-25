@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_aeval_derivative_minpoly_ne_zero_2c82d18c6b29
 -- name    : P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_aeval_derivative_minpoly_ne_zero_2c82d18c6b29
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:43:40.042079+00:00
 -- url     : https://prove2.me/theorems/fe52e5b9-fc75-5483-90f8-9b2e9fd0c173

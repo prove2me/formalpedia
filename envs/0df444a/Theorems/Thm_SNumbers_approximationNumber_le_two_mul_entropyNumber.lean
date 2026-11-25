@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_le_two_mul_entropyNumber
 -- name    : SNumbers.approximationNumber_le_two_mul_entropyNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:09:46.436897+00:00
 -- url     : https://prove2.me/theorems/1ec53236-afa7-5dbe-b907-b95e5af48374

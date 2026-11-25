@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarMassNearSmall_volume_eq_zero_of_hausdorff_35f2df55c12f
 -- name    : P2M_GroundTheory_Heights__Heights_VarMassNearSmall_volume_eq_zero_of_hausdorff_35f2df55c12f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:42:04.468456+00:00
 -- url     : https://prove2.me/theorems/a382466f-4fc4-49a8-bf05-5a081cf412dc

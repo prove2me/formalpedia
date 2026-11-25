@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCBounds_abs_quad_le_949e60e6298d
 -- name    : P2M_GroundTheory_Heights__Heights_MCBounds_abs_quad_le_949e60e6298d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:28:50.439827+00:00
 -- url     : https://prove2.me/theorems/63d2fb3e-d37f-4a0b-910d-42ba52b99cb9

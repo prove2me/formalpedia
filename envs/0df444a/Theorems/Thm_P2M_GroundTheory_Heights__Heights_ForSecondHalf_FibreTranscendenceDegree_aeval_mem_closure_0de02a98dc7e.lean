@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ForSecondHalf_FibreTranscendenceDegree_aeval_mem_closure_0de02a98dc7e
 -- name    : P2M_GroundTheory_Heights__Heights_ForSecondHalf_FibreTranscendenceDegree_aeval_mem_closure_0de02a98dc7e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:20:20.753327+00:00
 -- url     : https://prove2.me/theorems/dc2e60af-abd1-4d89-ba29-dba0e73193c1

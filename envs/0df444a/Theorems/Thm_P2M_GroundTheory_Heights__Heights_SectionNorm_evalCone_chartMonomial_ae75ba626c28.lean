@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionNorm_evalCone_chartMonomial_ae75ba626c28
 -- name    : P2M_GroundTheory_Heights__Heights_SectionNorm_evalCone_chartMonomial_ae75ba626c28
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:38:32.147306+00:00
 -- url     : https://prove2.me/theorems/74cf9bfa-3e52-5051-b55a-81223c20e6f1

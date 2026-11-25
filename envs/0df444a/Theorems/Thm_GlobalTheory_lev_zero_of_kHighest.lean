@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lev_zero_of_kHighest
 -- name    : GlobalTheory.lev_zero_of_kHighest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:37:44.806803+00:00
 -- url     : https://prove2.me/theorems/faefcbdb-58af-4dca-ba88-0f6048e20928

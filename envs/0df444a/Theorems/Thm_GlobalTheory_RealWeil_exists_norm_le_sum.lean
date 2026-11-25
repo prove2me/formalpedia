@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_exists_norm_le_sum
 -- name    : GlobalTheory.RealWeil.exists_norm_le_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:16:42.89938+00:00
 -- url     : https://prove2.me/theorems/09039911-6ac3-43d6-8a1f-9f334e2369b4

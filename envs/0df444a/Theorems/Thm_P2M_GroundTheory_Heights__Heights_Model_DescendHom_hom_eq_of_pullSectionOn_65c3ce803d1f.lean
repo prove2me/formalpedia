@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_DescendHom_hom_eq_of_pullSectionOn_65c3ce803d1f
 -- name    : P2M_GroundTheory_Heights__Heights_Model_DescendHom_hom_eq_of_pullSectionOn_65c3ce803d1f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:49:21.805259+00:00
 -- url     : https://prove2.me/theorems/3321c385-52bf-4fd8-9035-a97f7ab373bd

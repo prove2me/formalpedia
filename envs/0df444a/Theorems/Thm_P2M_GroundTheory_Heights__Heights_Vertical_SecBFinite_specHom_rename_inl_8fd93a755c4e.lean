@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_specHom_rename_inl_8fd93a755c4e
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_specHom_rename_inl_8fd93a755c4e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:43:02.330921+00:00
 -- url     : https://prove2.me/theorems/73d3eee3-114b-4a6a-ac65-2211cc3490c8

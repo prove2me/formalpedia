@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TopDualBound_dim_lines_429b83e413a0
 -- name    : P2M_GroundTheory_Heights__Heights_TopDualBound_dim_lines_429b83e413a0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:45:10.742664+00:00
 -- url     : https://prove2.me/theorems/4cb7d8ab-5ded-55cd-aa74-e51e3f756cea

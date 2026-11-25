@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_IdealPow_ipow_zero
 -- name    : GlobalTheory.DegCnt.IdealPow.ipow_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:45:37.067351+00:00
 -- url     : https://prove2.me/theorems/0f0c8869-f152-4c2e-a5a2-c3636111de0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundleChartSection_eval_trunc_eq_zero_eec4abf02011
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundleChartSection_eval_trunc_eq_zero_eec4abf02011
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:07:53.224035+00:00
 -- url     : https://prove2.me/theorems/c34c55ab-936d-424f-80d6-523dfe966477

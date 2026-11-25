@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveIndexLinearAlt_uniform_denom_9c3df70fe533
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveIndexLinearAlt_uniform_denom_9c3df70fe533
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:41:50.425378+00:00
 -- url     : https://prove2.me/theorems/b8f9fe5d-afc1-4799-bc1e-a51c63996660

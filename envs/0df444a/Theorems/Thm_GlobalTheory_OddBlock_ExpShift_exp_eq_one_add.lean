@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpShift_exp_eq_one_add
 -- name    : GlobalTheory.OddBlock.ExpShift.exp_eq_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:35:18.383797+00:00
 -- url     : https://prove2.me/theorems/c7c598a9-266c-4491-bccf-e1f15c7a1ade

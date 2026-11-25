@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NabCol_dofN_inCol
 -- name    : GlobalTheory.NabCol.dofN_inCol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:06:35.006116+00:00
 -- url     : https://prove2.me/theorems/2da42668-6279-4781-9b6a-6b85a7c64e10

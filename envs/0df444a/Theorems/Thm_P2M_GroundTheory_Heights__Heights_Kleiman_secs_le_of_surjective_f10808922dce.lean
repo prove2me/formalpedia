@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_secs_le_of_surjective_f10808922dce
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_secs_le_of_surjective_f10808922dce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:28:44.076913+00:00
 -- url     : https://prove2.me/theorems/d3ec3e79-4df8-4772-a555-b7f88cf1760f

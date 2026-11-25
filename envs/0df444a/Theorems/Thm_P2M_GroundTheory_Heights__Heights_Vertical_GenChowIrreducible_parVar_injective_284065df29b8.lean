@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_GenChowIrreducible_parVar_injective_284065df29b8
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_GenChowIrreducible_parVar_injective_284065df29b8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:42:17.13753+00:00
 -- url     : https://prove2.me/theorems/de399fa9-801a-5352-adae-748f442552e9

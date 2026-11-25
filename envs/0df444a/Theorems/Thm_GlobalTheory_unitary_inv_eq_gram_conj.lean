@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unitary_inv_eq_gram_conj
 -- name    : GlobalTheory.unitary_inv_eq_gram_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:35:50.699748+00:00
 -- url     : https://prove2.me/theorems/ec95be7a-ee2d-4800-b8db-a07004844575

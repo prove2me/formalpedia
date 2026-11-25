@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SheetImageAreaSet_areaJacobian_comp_endo_d99b721ff66c
 -- name    : P2M_GroundTheory_Heights__Heights_SheetImageAreaSet_areaJacobian_comp_endo_d99b721ff66c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:37:45.955229+00:00
 -- url     : https://prove2.me/theorems/cc0d392c-56b6-415e-a93c-7321a0702aca

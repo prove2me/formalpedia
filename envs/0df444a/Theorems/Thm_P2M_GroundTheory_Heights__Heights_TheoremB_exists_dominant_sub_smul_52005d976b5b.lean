@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_exists_dominant_sub_smul_52005d976b5b
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_exists_dominant_sub_smul_52005d976b5b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:41:01.474818+00:00
 -- url     : https://prove2.me/theorems/31d7cbe6-7a8e-55b3-8209-bb1287d32097

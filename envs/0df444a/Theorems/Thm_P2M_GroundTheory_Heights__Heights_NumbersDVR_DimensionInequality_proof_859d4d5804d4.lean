@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_DimensionInequality_proof_859d4d5804d4
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_DimensionInequality_proof_859d4d5804d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:04:16.043818+00:00
 -- url     : https://prove2.me/theorems/4a84af61-0967-4c8a-9074-5783609b90f7

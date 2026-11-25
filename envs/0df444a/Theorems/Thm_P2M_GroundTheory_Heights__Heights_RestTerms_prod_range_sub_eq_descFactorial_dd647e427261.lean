@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_prod_range_sub_eq_descFactorial_dd647e427261
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_prod_range_sub_eq_descFactorial_dd647e427261
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:36:16.998354+00:00
 -- url     : https://prove2.me/theorems/7572ad10-23b6-4394-9b18-2deeeba5a087

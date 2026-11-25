@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_circle_lemma_47d6614ef985
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_circle_lemma_47d6614ef985
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:19.970642+00:00
 -- url     : https://prove2.me/theorems/3154db3c-f42f-4c77-8ef8-dcd469f7a9dd

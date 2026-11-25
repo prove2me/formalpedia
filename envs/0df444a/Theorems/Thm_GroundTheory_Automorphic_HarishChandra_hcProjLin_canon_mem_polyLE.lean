@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_hcProjLin_canon_mem_polyLE
 -- name    : GroundTheory.Automorphic.HarishChandra.hcProjLin_canon_mem_polyLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:05:43.747671+00:00
 -- url     : https://prove2.me/theorems/ed297060-2148-4a43-bd69-b9daa674f408

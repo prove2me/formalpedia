@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_prop_cokernel_top_arrow
 -- name    : PretorsionImageClosed.LinearQuiver.prop_cokernel_top_arrow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:42:20.606841+00:00
 -- url     : https://prove2.me/theorems/5b5d4345-3b30-4066-9fc7-4d0995041658

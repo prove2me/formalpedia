@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_NormFormIrreducible_embForm_ne_C_ab4f1ef91293
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_NormFormIrreducible_embForm_ne_C_ab4f1ef91293
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:43:25.057808+00:00
 -- url     : https://prove2.me/theorems/14be9c99-978c-52dc-83c1-f19edc1a1d68

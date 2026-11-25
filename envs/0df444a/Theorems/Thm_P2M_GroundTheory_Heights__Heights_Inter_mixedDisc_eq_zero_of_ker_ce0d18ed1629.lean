@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_mixedDisc_eq_zero_of_ker_ce0d18ed1629
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_mixedDisc_eq_zero_of_ker_ce0d18ed1629
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:23:42.535848+00:00
 -- url     : https://prove2.me/theorems/b4574084-9505-4afc-a689-7cd2b1e63f3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_blockSum_nonneg_b0b5b7ed1f1e
 -- name    : P2M_GroundTheory_Heights__Heights_blockSum_nonneg_b0b5b7ed1f1e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:44:31.795585+00:00
 -- url     : https://prove2.me/theorems/a3719336-3f74-494d-9437-e806d869138f

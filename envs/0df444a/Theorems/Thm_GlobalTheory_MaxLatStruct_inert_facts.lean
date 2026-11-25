@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxLatStruct_inert_facts
 -- name    : GlobalTheory.MaxLatStruct.inert_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:00:12.981994+00:00
 -- url     : https://prove2.me/theorems/4ab52a7a-2b12-48da-9ae8-37e6b7bae939

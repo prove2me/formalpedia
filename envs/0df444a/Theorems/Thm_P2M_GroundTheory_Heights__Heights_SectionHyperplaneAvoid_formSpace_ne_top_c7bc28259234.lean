@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionHyperplaneAvoid_formSpace_ne_top_c7bc28259234
 -- name    : P2M_GroundTheory_Heights__Heights_SectionHyperplaneAvoid_formSpace_ne_top_c7bc28259234
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:36:59.698851+00:00
 -- url     : https://prove2.me/theorems/f8389263-040f-4626-8019-737cad87e2d2

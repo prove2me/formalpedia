@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootDivisorSupportEmpty_isIntegral_of_pow_eq_one_3c57744b4f6a
 -- name    : P2M_GroundTheory_Heights__Heights_RootDivisorSupportEmpty_isIntegral_of_pow_eq_one_3c57744b4f6a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:36:54.921414+00:00
 -- url     : https://prove2.me/theorems/de2a28d0-66c9-4229-bdb0-16e371271b08

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKF_E_Impl_continuous
 -- name    : CompanionTheory.ThKF.E.Impl.continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:18:08.213118+00:00
 -- url     : https://prove2.me/theorems/5b0a5005-7b28-4c04-b14b-a21b06c7422f

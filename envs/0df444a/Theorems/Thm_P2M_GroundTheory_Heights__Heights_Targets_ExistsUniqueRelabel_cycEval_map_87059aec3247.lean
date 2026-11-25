@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_cycEval_map_87059aec3247
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_cycEval_map_87059aec3247
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:42:41.540285+00:00
 -- url     : https://prove2.me/theorems/c7d052eb-e24c-463b-aa5a-3bc5295971db

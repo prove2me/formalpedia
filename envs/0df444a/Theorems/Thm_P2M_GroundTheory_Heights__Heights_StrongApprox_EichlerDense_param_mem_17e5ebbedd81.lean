@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_EichlerDense_param_mem_17e5ebbedd81
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_EichlerDense_param_mem_17e5ebbedd81
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:40:05.205828+00:00
 -- url     : https://prove2.me/theorems/75c15712-cdd0-5dc0-afc4-88c456145e2a

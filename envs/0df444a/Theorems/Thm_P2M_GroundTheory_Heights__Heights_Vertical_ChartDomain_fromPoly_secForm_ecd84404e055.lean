@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_ChartDomain_fromPoly_secForm_ecd84404e055
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_ChartDomain_fromPoly_secForm_ecd84404e055
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:43:00.566262+00:00
 -- url     : https://prove2.me/theorems/82df865e-a51f-440a-a9f8-8e045970fef5

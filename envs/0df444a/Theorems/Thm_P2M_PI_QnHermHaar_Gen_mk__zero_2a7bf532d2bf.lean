@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_QnHermHaar_Gen_mk__zero_2a7bf532d2bf
 -- name    : P2M_PI_QnHermHaar_Gen_mk__zero_2a7bf532d2bf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:57:05.004034+00:00
 -- url     : https://prove2.me/theorems/5a77e3c2-780c-49ca-98b6-f25e1ed03830

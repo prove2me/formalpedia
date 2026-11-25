@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_gelfandNumber_le_approximationNumber
 -- name    : SNumbers.gelfandNumber_le_approximationNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:05:41.478807+00:00
 -- url     : https://prove2.me/theorems/3f5e7431-ea9a-5f26-a89c-dc2760ce4d63

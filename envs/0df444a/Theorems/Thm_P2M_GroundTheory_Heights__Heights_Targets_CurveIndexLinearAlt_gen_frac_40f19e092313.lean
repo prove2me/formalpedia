@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveIndexLinearAlt_gen_frac_40f19e092313
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveIndexLinearAlt_gen_frac_40f19e092313
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:40:59.33085+00:00
 -- url     : https://prove2.me/theorems/3490e437-6d3d-4af8-b333-7b16fd8b81be

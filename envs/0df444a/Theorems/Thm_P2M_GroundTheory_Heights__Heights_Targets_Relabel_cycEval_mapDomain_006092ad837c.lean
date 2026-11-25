@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_Relabel_cycEval_mapDomain_006092ad837c
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_Relabel_cycEval_mapDomain_006092ad837c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:41:46.523519+00:00
 -- url     : https://prove2.me/theorems/ef10cbf9-3d45-4f40-ba53-e29e8d211116

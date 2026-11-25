@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_chartSection_supNormLE_aa7598e7119d
 -- name    : P2M_GroundTheory_Heights__Heights_chartSection_supNormLE_aa7598e7119d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:44:19.508878+00:00
 -- url     : https://prove2.me/theorems/ca5d5d9b-297e-46ad-830d-825292482689

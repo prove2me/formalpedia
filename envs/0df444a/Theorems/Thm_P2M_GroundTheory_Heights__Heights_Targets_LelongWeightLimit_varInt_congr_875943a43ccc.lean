@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_LelongWeightLimit_varInt_congr_875943a43ccc
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_LelongWeightLimit_varInt_congr_875943a43ccc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:41:19.94918+00:00
 -- url     : https://prove2.me/theorems/a6c91b19-aaaa-4565-82ab-a1711f45f9bb

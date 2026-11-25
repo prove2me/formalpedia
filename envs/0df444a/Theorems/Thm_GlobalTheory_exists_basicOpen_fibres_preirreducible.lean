@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_basicOpen_fibres_preirreducible
 -- name    : GlobalTheory.exists_basicOpen_fibres_preirreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:31:33.380696+00:00
 -- url     : https://prove2.me/theorems/d8bd7b02-4687-4578-bfca-5a36178bd1ef

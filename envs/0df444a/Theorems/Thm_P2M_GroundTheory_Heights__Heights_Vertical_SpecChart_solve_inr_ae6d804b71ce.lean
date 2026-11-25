@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SpecChart_solve_inr_ae6d804b71ce
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SpecChart_solve_inr_ae6d804b71ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:45:28.349817+00:00
 -- url     : https://prove2.me/theorems/27b0d784-3c7c-5f6e-b330-55478fd3d3c8

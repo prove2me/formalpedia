@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_GenSecDomain_eval__mul_of_isHomogeneous_9f11237f1c08
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_GenSecDomain_eval__mul_of_isHomogeneous_9f11237f1c08
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:43:11.110836+00:00
 -- url     : https://prove2.me/theorems/6468cd99-9c31-55db-b583-e66b81a2a171

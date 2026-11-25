@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecAlgField_genPar_algebraicIndependent_e5b691f6d8b9
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecAlgField_genPar_algebraicIndependent_e5b691f6d8b9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:43:25.673902+00:00
 -- url     : https://prove2.me/theorems/06ad677b-a173-4c7c-9d3f-4487efaa8de8

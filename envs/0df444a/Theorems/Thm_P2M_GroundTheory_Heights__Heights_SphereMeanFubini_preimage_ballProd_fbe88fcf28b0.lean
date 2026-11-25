@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMeanFubini_preimage_ballProd_fbe88fcf28b0
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMeanFubini_preimage_ballProd_fbe88fcf28b0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:38:12.712641+00:00
 -- url     : https://prove2.me/theorems/1b4aeb27-b67d-449e-931c-25be421c107e

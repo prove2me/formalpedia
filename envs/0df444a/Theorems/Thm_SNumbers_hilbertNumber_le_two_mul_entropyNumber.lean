@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_hilbertNumber_le_two_mul_entropyNumber
 -- name    : SNumbers.hilbertNumber_le_two_mul_entropyNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:09:51.800629+00:00
 -- url     : https://prove2.me/theorems/340d9376-b452-452b-8984-46eab7a3186f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMeanFubini_measurePreserving_consEquiv_fe40b3b8d4c3
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMeanFubini_measurePreserving_consEquiv_fe40b3b8d4c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:38:48.386892+00:00
 -- url     : https://prove2.me/theorems/61f7681b-6c96-46c2-86bb-b2a1ef68d3f1

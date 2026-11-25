@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_logDeriv_dirichletLFunction_local_zero_sum
 -- name    : GlobalTheory.T.logDeriv_dirichletLFunction_local_zero_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:52:45.459805+00:00
 -- url     : https://prove2.me/theorems/281e68c2-6baa-48a9-9684-e622f7aea979

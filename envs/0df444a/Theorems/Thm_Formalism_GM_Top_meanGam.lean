@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_Top_meanGam
 -- name    : Formalism.GM.Top.meanGam
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:22:51.772479+00:00
 -- url     : https://prove2.me/theorems/161c059e-7a88-439c-b1d8-fa38d39b405a

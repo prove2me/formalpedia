@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_ChartTorsion_baseToLoc_toBase_7faf5b7bd565
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_ChartTorsion_baseToLoc_toBase_7faf5b7bd565
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:42:19.143463+00:00
 -- url     : https://prove2.me/theorems/bffb6290-5d3b-4c0e-bdc8-bab6ff28722f

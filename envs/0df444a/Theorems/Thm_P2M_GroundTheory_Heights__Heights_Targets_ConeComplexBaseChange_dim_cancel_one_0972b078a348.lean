@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ConeComplexBaseChange_dim_cancel_one_0972b078a348
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ConeComplexBaseChange_dim_cancel_one_0972b078a348
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:39:56.237817+00:00
 -- url     : https://prove2.me/theorems/57dc6a45-7bd1-4c36-87c9-9bf1f687a182

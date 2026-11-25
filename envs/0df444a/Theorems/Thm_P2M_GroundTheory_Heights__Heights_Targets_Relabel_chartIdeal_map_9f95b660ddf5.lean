@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_Relabel_chartIdeal_map_9f95b660ddf5
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_Relabel_chartIdeal_map_9f95b660ddf5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:41:11.103633+00:00
 -- url     : https://prove2.me/theorems/dca6aae6-53bc-4372-b7cb-617e5bac384a

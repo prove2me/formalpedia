@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_FourierDecayAlt_WaveGridLiftGrid_cloud_pair_factor
 -- name    : GroundTheory.BlockD.FourierDecayAlt.WaveGridLiftGrid.cloud_pair_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:35:15.769661+00:00
 -- url     : https://prove2.me/theorems/62180188-3f59-41e2-9279-e9905841d2f4

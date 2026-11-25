@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_comp_cancel_of_isos
 -- name    : GroundTheory.GroupCoh.comp_cancel_of_isos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:34:51.445618+00:00
 -- url     : https://prove2.me/theorems/4b03cc1c-5106-599c-a88a-43f0af9cdecc

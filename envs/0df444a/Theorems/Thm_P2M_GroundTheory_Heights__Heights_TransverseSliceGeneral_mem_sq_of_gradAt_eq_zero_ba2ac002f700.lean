@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TransverseSliceGeneral_mem_sq_of_gradAt_eq_zero_ba2ac002f700
 -- name    : P2M_GroundTheory_Heights__Heights_TransverseSliceGeneral_mem_sq_of_gradAt_eq_zero_ba2ac002f700
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:46:53.433868+00:00
 -- url     : https://prove2.me/theorems/c309f160-bcce-58c5-adc9-dbd5e069f355

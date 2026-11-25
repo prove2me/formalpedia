@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZeroFreePrincipal_zero_free
 -- name    : GlobalTheory.ZeroFreePrincipal.zero_free
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:18:49.887813+00:00
 -- url     : https://prove2.me/theorems/0fb8e7e8-f810-4d11-8867-be5cf9996f78

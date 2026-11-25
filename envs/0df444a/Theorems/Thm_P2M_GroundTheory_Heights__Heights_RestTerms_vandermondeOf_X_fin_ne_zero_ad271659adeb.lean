@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_vandermondeOf_X_fin_ne_zero_ad271659adeb
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_vandermondeOf_X_fin_ne_zero_ad271659adeb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:36:52.479693+00:00
 -- url     : https://prove2.me/theorems/a117e1f6-ef8e-5e08-b85b-81b378d90c02

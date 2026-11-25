@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionSmall_den_mul_sub_mem_b5370e9419ff
 -- name    : P2M_GroundTheory_Heights__Heights_SectionSmall_den_mul_sub_mem_b5370e9419ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:37:15.30007+00:00
 -- url     : https://prove2.me/theorems/9ed7e96d-3353-4837-887d-3d28c03f18c8

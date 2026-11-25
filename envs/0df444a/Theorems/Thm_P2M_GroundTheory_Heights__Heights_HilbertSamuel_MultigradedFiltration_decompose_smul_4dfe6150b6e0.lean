@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_MultigradedFiltration_decompose_smul_4dfe6150b6e0
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_MultigradedFiltration_decompose_smul_4dfe6150b6e0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:10:19.512112+00:00
 -- url     : https://prove2.me/theorems/97a45f9e-fd59-4628-aa0d-78149f761311

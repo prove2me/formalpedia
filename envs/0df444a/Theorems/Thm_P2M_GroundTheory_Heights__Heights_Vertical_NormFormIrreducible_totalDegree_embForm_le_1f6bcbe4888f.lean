@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_NormFormIrreducible_totalDegree_embForm_le_1f6bcbe4888f
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_NormFormIrreducible_totalDegree_embForm_le_1f6bcbe4888f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:43:05.789942+00:00
 -- url     : https://prove2.me/theorems/6d5814b5-d1ab-45f8-a29c-a2c0437178d6

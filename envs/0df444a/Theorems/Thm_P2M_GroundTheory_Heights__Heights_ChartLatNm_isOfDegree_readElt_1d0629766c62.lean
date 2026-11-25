@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartLatNm_isOfDegree_readElt_1d0629766c62
 -- name    : P2M_GroundTheory_Heights__Heights_ChartLatNm_isOfDegree_readElt_1d0629766c62
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:16:14.063387+00:00
 -- url     : https://prove2.me/theorems/d44a6658-3438-4673-9c67-929a6a4798eb

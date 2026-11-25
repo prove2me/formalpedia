@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_antisymDelta_rankTwo_527d49b2cc68
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_antisymDelta_rankTwo_527d49b2cc68
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:41:15.892715+00:00
 -- url     : https://prove2.me/theorems/f1146b8b-f49d-41a9-968a-9c59d981843f

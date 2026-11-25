@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralRepresentation_exists_lowerBound_subspace
 -- name    : SpectralRepresentation.exists_lowerBound_subspace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:18:19.925691+00:00
 -- url     : https://prove2.me/theorems/3b636b56-d32c-4012-984e-d415de020c41

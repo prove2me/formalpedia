@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_jdh_kap_mem
 -- name    : Formalism.FourierDecayAlt.P.CutMP.jdh_kap_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:29:08.922886+00:00
 -- url     : https://prove2.me/theorems/b1d71c1d-5b31-5d15-8fe4-1f378e475b26

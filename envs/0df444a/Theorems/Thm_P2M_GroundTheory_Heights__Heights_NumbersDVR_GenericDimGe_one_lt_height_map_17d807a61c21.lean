@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericDimGe_one_lt_height_map_17d807a61c21
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericDimGe_one_lt_height_map_17d807a61c21
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:07:52.49633+00:00
 -- url     : https://prove2.me/theorems/e6e70701-8de3-456f-af9b-b4e28804a155

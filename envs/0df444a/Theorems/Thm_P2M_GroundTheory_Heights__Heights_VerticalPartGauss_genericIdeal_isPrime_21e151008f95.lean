@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VerticalPartGauss_genericIdeal_isPrime_21e151008f95
 -- name    : P2M_GroundTheory_Heights__Heights_VerticalPartGauss_genericIdeal_isPrime_21e151008f95
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:42:24.739358+00:00
 -- url     : https://prove2.me/theorems/fcc9c846-a6f8-43e7-bbfd-11d668d5d904

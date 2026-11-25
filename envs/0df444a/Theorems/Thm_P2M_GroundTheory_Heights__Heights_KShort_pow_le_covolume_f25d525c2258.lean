@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KShort_pow_le_covolume_f25d525c2258
 -- name    : P2M_GroundTheory_Heights__Heights_KShort_pow_le_covolume_f25d525c2258
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:26:58.446421+00:00
 -- url     : https://prove2.me/theorems/e79bb8e8-ddab-4564-8e13-47add7cb5fdd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SheetLift_segre_bsmul_9046691c99e7
 -- name    : P2M_GroundTheory_Heights__Heights_SheetLift_segre_bsmul_9046691c99e7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:38:22.733029+00:00
 -- url     : https://prove2.me/theorems/0f1f0f11-6ee9-4115-83e9-7486e062a542

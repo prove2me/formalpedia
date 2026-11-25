@@ -1,0 +1,37 @@
+-- Prove2me | solution 1 for Formalism.ZeroFreeDirichlet.bqKey
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-25T05:07:04.138666+00:00
+-- url     : https://prove2.me/submissions/9d45b7c4-04d6-4f44-9f98-363d076e959b
+
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_CharExists
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_BqCoeff
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_BqEntire
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_BqGrowth
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LFunctionOneUpperBound
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_BqKeyOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_ZetaNegReal
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LRealPos
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SameCharacterLFunctionOne
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_FinalSiegel
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_dirichlet_product_coefficients
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_dirichlet_product_entire
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_lfunction_one_upper_bound
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_product_lfunction_growth_bound
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_product_lfunction_key_inequality
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.ZeroFreeDirichlet
+namespace Formalism.ZeroFreeDirichlet
+theorem _root_.solution : BqKey :=
+  product_lfunction_key_inequality dirichlet_product_coefficients dirichlet_product_entire product_lfunction_growth_bound lfunction_one_upper_bound
+end Formalism.ZeroFreeDirichlet

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SmallSections_exists_mul_pow_eq_mkF_840b0bae13e0
 -- name    : P2M_GroundTheory_Heights__Heights_SmallSections_exists_mul_pow_eq_mkF_840b0bae13e0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:38:04.056693+00:00
 -- url     : https://prove2.me/theorems/e2a8c377-07f6-42b0-af8a-f723f84b8bf6

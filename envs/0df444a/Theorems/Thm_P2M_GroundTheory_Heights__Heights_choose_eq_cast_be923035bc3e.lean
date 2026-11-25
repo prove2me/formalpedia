@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_choose_eq_cast_be923035bc3e
 -- name    : P2M_GroundTheory_Heights__Heights_choose_eq_cast_be923035bc3e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:44:49.825278+00:00
 -- url     : https://prove2.me/theorems/0579f547-3660-4bc6-a565-7142130ee7f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_singleF_mul_of_ne_afa740079f10
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_singleF_mul_of_ne_afa740079f10
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:39:36.234081+00:00
 -- url     : https://prove2.me/theorems/02cb2779-307b-4d13-b069-68c4a5d3092a

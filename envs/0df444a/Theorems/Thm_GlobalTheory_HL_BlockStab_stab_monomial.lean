@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_BlockStab_stab_monomial
 -- name    : GlobalTheory.HL.BlockStab.stab_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:59:08.168255+00:00
 -- url     : https://prove2.me/theorems/9b39aade-dcd0-446d-83d8-2846ac506177

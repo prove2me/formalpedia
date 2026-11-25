@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_InvertibleIndexCharP_finite_subring_fb0d73c5f47f
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_InvertibleIndexCharP_finite_subring_fb0d73c5f47f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:40:34.822272+00:00
 -- url     : https://prove2.me/theorems/528b33f0-d7d9-427d-9731-c62ca8885a9e

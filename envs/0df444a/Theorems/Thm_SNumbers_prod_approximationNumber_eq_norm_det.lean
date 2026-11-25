@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_prod_approximationNumber_eq_norm_det
 -- name    : SNumbers.prod_approximationNumber_eq_norm_det
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:28:27.794445+00:00
 -- url     : https://prove2.me/theorems/2dd7b583-cd75-4bf8-a229-6e3fca1cc8a8

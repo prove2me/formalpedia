@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartEnergyCocycleAlt_pairing_perm_a5b2a2ea873e
 -- name    : P2M_GroundTheory_Heights__Heights_ChartEnergyCocycleAlt_pairing_perm_a5b2a2ea873e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:18:59.525749+00:00
 -- url     : https://prove2.me/theorems/1b1e4b8b-e780-4218-baf3-10fa6e69d477

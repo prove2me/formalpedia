@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagPairCharacterisation_linearIndependent_gen_14b256204798
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagPairCharacterisation_linearIndependent_gen_14b256204798
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:06:27.62655+00:00
 -- url     : https://prove2.me/theorems/e0c527e6-eea0-417a-89f4-4e0d14ffa53d

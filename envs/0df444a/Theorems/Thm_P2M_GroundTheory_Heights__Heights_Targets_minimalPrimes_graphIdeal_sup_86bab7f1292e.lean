@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_minimalPrimes_graphIdeal_sup_86bab7f1292e
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_minimalPrimes_graphIdeal_sup_86bab7f1292e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:41:17.376291+00:00
 -- url     : https://prove2.me/theorems/261f46e0-088e-5495-8076-aeaf226f9b19

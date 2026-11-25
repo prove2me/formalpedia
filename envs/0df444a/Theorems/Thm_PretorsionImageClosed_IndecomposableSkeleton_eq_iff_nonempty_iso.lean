@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_eq_iff_nonempty_iso
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.eq_iff_nonempty_iso
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:57:58.716697+00:00
 -- url     : https://prove2.me/theorems/5c9f4113-a801-4eeb-aaba-985610d6fed5

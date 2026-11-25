@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_eventuallyPoly_projectiveLine_0301a47d8f6f
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_eventuallyPoly_projectiveLine_0301a47d8f6f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:31:49.505053+00:00
 -- url     : https://prove2.me/theorems/47810cac-e1b7-4180-a42f-afdd53e2d6f9

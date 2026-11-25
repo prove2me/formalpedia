@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_branchOrder_ne_top_of_not_mem_d78f2ff783ec
 -- name    : P2M_GroundTheory_Heights__Heights_branchOrder_ne_top_of_not_mem_d78f2ff783ec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:44:53.028088+00:00
 -- url     : https://prove2.me/theorems/927cf348-3a15-43ec-9aef-f2f73c3d301a

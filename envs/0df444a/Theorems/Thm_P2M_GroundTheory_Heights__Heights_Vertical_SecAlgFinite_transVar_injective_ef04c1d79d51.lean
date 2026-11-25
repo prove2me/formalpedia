@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecAlgFinite_transVar_injective_ef04c1d79d51
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecAlgFinite_transVar_injective_ef04c1d79d51
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:42:36.864621+00:00
 -- url     : https://prove2.me/theorems/012833ba-9236-4830-b11c-6c94ecee626a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjHom_transfer
 -- name    : GroundTheory.Arith.SchemeCoh.ProjHom.transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:39:20.945815+00:00
 -- url     : https://prove2.me/theorems/01424957-599a-4043-b143-0a03f47fd276

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_isChar_of_isPrimitiveRoot
 -- name    : GlobalTheory.BI.isChar_of_isPrimitiveRoot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:02:24.414137+00:00
 -- url     : https://prove2.me/theorems/573f8057-6db0-4cd1-a003-e58c3d4ac90e

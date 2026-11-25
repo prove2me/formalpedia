@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeDeepRankOne_mdisc_cons_sum_a97f8b68dabd
 -- name    : P2M_GroundTheory_Heights__Heights_TubeDeepRankOne_mdisc_cons_sum_a97f8b68dabd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:42:29.695187+00:00
 -- url     : https://prove2.me/theorems/98cfed39-4935-4e9b-81ce-87fc6763ee55

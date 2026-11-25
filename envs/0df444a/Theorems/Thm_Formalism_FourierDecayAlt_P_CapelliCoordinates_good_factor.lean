@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliCoordinates_good_factor
 -- name    : Formalism.FourierDecayAlt.P.CapelliCoordinates.good_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:25:03.379596+00:00
 -- url     : https://prove2.me/theorems/e9cde2f5-a592-54ec-a02e-e4a703225a90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_wpNumDen
 -- name    : Formalism.L2.Th1.F.wpNumDen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:53:40.990929+00:00
 -- url     : https://prove2.me/theorems/994e724a-fc46-45e4-b067-775c333d7956

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StandardModelDualRank_psi_X_d961fe179bbd
 -- name    : P2M_GroundTheory_Heights__Heights_StandardModelDualRank_psi_X_d961fe179bbd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:39:46.10483+00:00
 -- url     : https://prove2.me/theorems/64308313-dfb2-4129-b9ac-e4e08c5f99bd

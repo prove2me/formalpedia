@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularityValuationCentre_ker_isMultiHomogIdeal_9d702971f25a
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularityValuationCentre_ker_isMultiHomogIdeal_9d702971f25a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:14.956318+00:00
 -- url     : https://prove2.me/theorems/3454e195-7986-4bb9-a59f-651e3d96006f

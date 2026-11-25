@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_detNumber_zero
 -- name    : SNumbers.detNumber_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:06:05.608671+00:00
 -- url     : https://prove2.me/theorems/22ef0166-ff2a-5c4c-9081-de857f4e1779

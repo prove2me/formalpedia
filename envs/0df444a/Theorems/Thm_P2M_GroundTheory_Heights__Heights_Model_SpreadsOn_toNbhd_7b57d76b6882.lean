@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_SpreadsOn_toNbhd_7b57d76b6882
 -- name    : P2M_GroundTheory_Heights__Heights_Model_SpreadsOn_toNbhd_7b57d76b6882
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:29:19.923076+00:00
 -- url     : https://prove2.me/theorems/7ec3efc6-440e-4da2-845e-ee06924049f9

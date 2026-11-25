@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeFormComparison_norm_sq_le_sum_655fe36f7161
 -- name    : P2M_GroundTheory_Heights__Heights_TubeFormComparison_norm_sq_le_sum_655fe36f7161
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:41:44.341642+00:00
 -- url     : https://prove2.me/theorems/04acbf4b-eb55-4e0c-9f1b-4618bd85413b

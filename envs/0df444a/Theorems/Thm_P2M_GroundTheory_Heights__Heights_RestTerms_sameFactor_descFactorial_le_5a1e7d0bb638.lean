@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_sameFactor_descFactorial_le_5a1e7d0bb638
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_sameFactor_descFactorial_le_5a1e7d0bb638
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:36:40.970806+00:00
 -- url     : https://prove2.me/theorems/fb081d2a-9062-43cc-8e64-fa0ce5b44209

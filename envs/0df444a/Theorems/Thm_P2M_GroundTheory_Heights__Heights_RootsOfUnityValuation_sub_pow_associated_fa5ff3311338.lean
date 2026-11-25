@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootsOfUnityValuation_sub_pow_associated_fa5ff3311338
 -- name    : P2M_GroundTheory_Heights__Heights_RootsOfUnityValuation_sub_pow_associated_fa5ff3311338
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:36:52.8988+00:00
 -- url     : https://prove2.me/theorems/d057017e-3927-4720-b591-aab43e50cf6d

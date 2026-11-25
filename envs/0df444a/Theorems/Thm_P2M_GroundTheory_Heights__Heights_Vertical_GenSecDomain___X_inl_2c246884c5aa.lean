@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_GenSecDomain___X_inl_2c246884c5aa
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_GenSecDomain___X_inl_2c246884c5aa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:41:59.758378+00:00
 -- url     : https://prove2.me/theorems/474915c9-f5f9-594e-9fa7-b864d99d1751

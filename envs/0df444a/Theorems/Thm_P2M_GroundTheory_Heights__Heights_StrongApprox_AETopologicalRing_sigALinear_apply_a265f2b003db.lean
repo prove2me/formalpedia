@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_AETopologicalRing_sigALinear_apply_a265f2b003db
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_AETopologicalRing_sigALinear_apply_a265f2b003db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:39:01.631877+00:00
 -- url     : https://prove2.me/theorems/0e83f709-8b32-5dba-a093-47760a27055c

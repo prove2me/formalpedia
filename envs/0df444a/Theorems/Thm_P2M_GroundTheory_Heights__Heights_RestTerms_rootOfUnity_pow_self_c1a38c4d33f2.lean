@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_rootOfUnity_pow_self_c1a38c4d33f2
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_rootOfUnity_pow_self_c1a38c4d33f2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:36:37.946731+00:00
 -- url     : https://prove2.me/theorems/ad676215-b732-43e2-a502-d5dffebe25f7

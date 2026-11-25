@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCPsh_le_circleAverage_of_minorant_4e512974bc58
 -- name    : P2M_GroundTheory_Heights__Heights_MCPsh_le_circleAverage_of_minorant_4e512974bc58
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:47:53.360256+00:00
 -- url     : https://prove2.me/theorems/58da1f0b-bc7d-4a5a-b6c6-02d9e7b2bb2f

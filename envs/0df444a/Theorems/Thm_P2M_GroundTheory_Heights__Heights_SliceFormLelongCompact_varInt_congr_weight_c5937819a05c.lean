@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceFormLelongCompact_varInt_congr_weight_c5937819a05c
 -- name    : P2M_GroundTheory_Heights__Heights_SliceFormLelongCompact_varInt_congr_weight_c5937819a05c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:38:16.009801+00:00
 -- url     : https://prove2.me/theorems/433b7f0e-6acb-4275-80ff-291745278e12

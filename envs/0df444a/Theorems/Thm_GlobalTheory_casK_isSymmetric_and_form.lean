@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_casK_isSymmetric_and_form
 -- name    : GlobalTheory.casK_isSymmetric_and_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:02:02.112265+00:00
 -- url     : https://prove2.me/theorems/eb1477b3-26f8-4000-8c57-43d0bf76c3ae

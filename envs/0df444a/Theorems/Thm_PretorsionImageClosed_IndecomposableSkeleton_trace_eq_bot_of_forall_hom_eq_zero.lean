@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_trace_eq_bot_of_forall_hom_eq_zero
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.trace_eq_bot_of_forall_hom_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:01:32.537647+00:00
 -- url     : https://prove2.me/theorems/c59fcefe-520a-4fc4-864e-1b84a4ced7c7

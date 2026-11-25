@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionInjectivity_chartForm_mul_pow_64b836c95b94
 -- name    : P2M_GroundTheory_Heights__Heights_SectionInjectivity_chartForm_mul_pow_64b836c95b94
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:37:11.862823+00:00
 -- url     : https://prove2.me/theorems/8728be70-24bd-4f7a-838f-9c6fa90252f3

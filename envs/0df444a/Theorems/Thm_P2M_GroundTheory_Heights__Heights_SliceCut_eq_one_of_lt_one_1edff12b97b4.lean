@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceCut_eq_one_of_lt_one_1edff12b97b4
 -- name    : P2M_GroundTheory_Heights__Heights_SliceCut_eq_one_of_lt_one_1edff12b97b4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:37:40.18502+00:00
 -- url     : https://prove2.me/theorems/893d893d-de48-4d5c-b61a-35b9624537dc

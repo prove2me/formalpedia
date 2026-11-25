@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_NormFormIrreducible_isUnit_of_totalDegree_eq_zero_85561495d956
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_NormFormIrreducible_isUnit_of_totalDegree_eq_zero_85561495d956
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:43:37.73465+00:00
 -- url     : https://prove2.me/theorems/5a01b1fd-de6e-5c63-840d-cad18fa29a59

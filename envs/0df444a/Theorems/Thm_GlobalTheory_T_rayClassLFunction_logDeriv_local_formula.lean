@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rayClassLFunction_logDeriv_local_formula
 -- name    : GlobalTheory.T.rayClassLFunction_logDeriv_local_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:12:47.905248+00:00
 -- url     : https://prove2.me/theorems/b8c2e954-0ea3-4998-99d9-7637a0e3e28c

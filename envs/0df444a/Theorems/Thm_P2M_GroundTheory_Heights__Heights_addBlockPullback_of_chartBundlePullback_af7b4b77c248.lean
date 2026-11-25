@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_addBlockPullback_of_chartBundlePullback_af7b4b77c248
 -- name    : P2M_GroundTheory_Heights__Heights_addBlockPullback_of_chartBundlePullback_af7b4b77c248
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:44:29.186598+00:00
 -- url     : https://prove2.me/theorems/4634a96b-9b7b-4e05-8828-3e062bccd3a7

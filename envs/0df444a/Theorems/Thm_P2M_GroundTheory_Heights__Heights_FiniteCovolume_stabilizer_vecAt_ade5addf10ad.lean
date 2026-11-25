@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_stabilizer_vecAt_ade5addf10ad
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_stabilizer_vecAt_ade5addf10ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:39:26.082421+00:00
 -- url     : https://prove2.me/theorems/9f621f63-8858-5c3b-b52f-e0b5c982bc49

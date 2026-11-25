@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__chi_at_fibre_18b5986ab2f3
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__chi_at_fibre_18b5986ab2f3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:04:37.169307+00:00
 -- url     : https://prove2.me/theorems/09b0bcfa-31e9-4d1f-a7aa-8fc5b36526a6

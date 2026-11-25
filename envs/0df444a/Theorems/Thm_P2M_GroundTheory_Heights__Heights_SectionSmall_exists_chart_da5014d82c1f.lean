@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionSmall_exists_chart_da5014d82c1f
 -- name    : P2M_GroundTheory_Heights__Heights_SectionSmall_exists_chart_da5014d82c1f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:37:58.725567+00:00
 -- url     : https://prove2.me/theorems/69d07ada-617c-408f-8d6a-c3a1eed1b32c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaWide_main
 -- name    : GlobalTheory.ZetaWide.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:35:51.288878+00:00
 -- url     : https://prove2.me/theorems/76309348-6304-5ef0-901a-ec5bd5bca3f3

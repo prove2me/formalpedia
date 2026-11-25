@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_norm_le_of_mem_entropySet_zero
 -- name    : SNumbers.norm_le_of_mem_entropySet_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:06:51.957153+00:00
 -- url     : https://prove2.me/theorems/a5ada2c3-a98f-5629-9ca4-13f7aab1b7fb

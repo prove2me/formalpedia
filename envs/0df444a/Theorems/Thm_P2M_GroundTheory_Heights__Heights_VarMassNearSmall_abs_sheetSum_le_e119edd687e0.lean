@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarMassNearSmall_abs_sheetSum_le_e119edd687e0
 -- name    : P2M_GroundTheory_Heights__Heights_VarMassNearSmall_abs_sheetSum_le_e119edd687e0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:41:47.270157+00:00
 -- url     : https://prove2.me/theorems/4d2eadd3-1837-489c-9557-9acccf14ae97

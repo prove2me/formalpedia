@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_X_zero_one_dvd_sub_substZeroOne_0e2e6d7fe4f3
 -- name    : P2M_GroundTheory_Heights__Heights_X_zero_one_dvd_sub_substZeroOne_0e2e6d7fe4f3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:45:34.178486+00:00
 -- url     : https://prove2.me/theorems/dece986a-dcf5-48dc-a096-ba3f9791c3f7

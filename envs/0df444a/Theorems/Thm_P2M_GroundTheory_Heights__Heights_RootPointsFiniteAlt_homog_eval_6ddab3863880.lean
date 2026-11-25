@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootPointsFiniteAlt_homog_eval_6ddab3863880
 -- name    : P2M_GroundTheory_Heights__Heights_RootPointsFiniteAlt_homog_eval_6ddab3863880
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:37:18.397808+00:00
 -- url     : https://prove2.me/theorems/ce364cb4-7b61-44e7-aa84-8b500efb8403

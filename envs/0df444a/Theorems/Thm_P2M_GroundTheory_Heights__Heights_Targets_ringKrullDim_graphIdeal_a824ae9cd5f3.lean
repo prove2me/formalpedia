@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ringKrullDim_graphIdeal_a824ae9cd5f3
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ringKrullDim_graphIdeal_a824ae9cd5f3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:41:22.934807+00:00
 -- url     : https://prove2.me/theorems/28ebb497-1a0b-5eb8-ac9f-02986276f45b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_FibreCurve_pt_ne_9a7e5debe7da
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_FibreCurve_pt_ne_9a7e5debe7da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:44:21.234482+00:00
 -- url     : https://prove2.me/theorems/3351be8a-5ef4-5cab-a9d4-01cc822577f1

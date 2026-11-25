@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_unipotentReduce
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.unipotentReduce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:37:36.705658+00:00
 -- url     : https://prove2.me/theorems/9bb2e19d-433b-59ea-835e-363e945c4b7d

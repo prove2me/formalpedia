@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalisationModelLocalization_locToFrac_injective_a51db807acbc
 -- name    : P2M_GroundTheory_Heights__Heights_NormalisationModelLocalization_locToFrac_injective_a51db807acbc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:33:20.755241+00:00
 -- url     : https://prove2.me/theorems/48054d35-d47c-4a4e-885e-d0e0e52ec5f4

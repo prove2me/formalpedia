@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_QnHermHaar_chatAlin__903b24350a7d
 -- name    : P2M_PI_QnHermHaar_chatAlin__903b24350a7d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:57:51.637868+00:00
 -- url     : https://prove2.me/theorems/87656306-a796-4017-b947-ac2abff53a13

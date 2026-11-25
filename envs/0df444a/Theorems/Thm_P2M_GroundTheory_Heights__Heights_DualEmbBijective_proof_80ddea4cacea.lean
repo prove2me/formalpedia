@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualEmbBijective_proof_80ddea4cacea
 -- name    : P2M_GroundTheory_Heights__Heights_DualEmbBijective_proof_80ddea4cacea
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:07:52.153119+00:00
 -- url     : https://prove2.me/theorems/adc25795-1855-487e-ad59-7701e2b2543c

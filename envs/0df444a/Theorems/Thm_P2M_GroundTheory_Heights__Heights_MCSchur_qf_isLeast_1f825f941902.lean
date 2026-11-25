@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCSchur_qf_isLeast_1f825f941902
 -- name    : P2M_GroundTheory_Heights__Heights_MCSchur_qf_isLeast_1f825f941902
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:47:46.277748+00:00
 -- url     : https://prove2.me/theorems/46ed7084-5bcd-40bf-8860-06ac1778cd65

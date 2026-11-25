@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_restrictToBlock_blockEmb_d48514eb86a8
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_restrictToBlock_blockEmb_d48514eb86a8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:35:48.836217+00:00
 -- url     : https://prove2.me/theorems/1a085b30-4fd9-435f-ba17-c1b9507d5073

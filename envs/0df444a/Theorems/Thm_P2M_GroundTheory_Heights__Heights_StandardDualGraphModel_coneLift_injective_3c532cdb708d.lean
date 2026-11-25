@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StandardDualGraphModel_coneLift_injective_3c532cdb708d
 -- name    : P2M_GroundTheory_Heights__Heights_StandardDualGraphModel_coneLift_injective_3c532cdb708d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:40:18.578175+00:00
 -- url     : https://prove2.me/theorems/2cdc9ad1-fc75-40c3-a848-6133a871ecad

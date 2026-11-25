@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionCycle_mem_minimalPrimes_iff_5f70c654c603
 -- name    : P2M_GroundTheory_Heights__Heights_SectionCycle_mem_minimalPrimes_iff_5f70c654c603
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:37:28.824803+00:00
 -- url     : https://prove2.me/theorems/3ad1074b-605b-4e78-93b7-8ec9674b0f1d

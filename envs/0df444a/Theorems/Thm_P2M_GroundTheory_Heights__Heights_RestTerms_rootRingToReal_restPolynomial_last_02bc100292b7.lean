@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_rootRingToReal_restPolynomial_last_02bc100292b7
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_rootRingToReal_restPolynomial_last_02bc100292b7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:36:32.713403+00:00
 -- url     : https://prove2.me/theorems/d51edc13-f432-441c-8839-12de7a698279

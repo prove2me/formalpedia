@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SmallSections_isWeightedHomogeneous_aeval_85f3de089ad9
 -- name    : P2M_GroundTheory_Heights__Heights_SmallSections_isWeightedHomogeneous_aeval_85f3de089ad9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:38:08.655376+00:00
 -- url     : https://prove2.me/theorems/67afcf8e-1544-4421-a4de-9b4020bcdab7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveRingFiniteAlt_mem_integer_of_mem_chartRingZ_c3014f939b0b
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveRingFiniteAlt_mem_integer_of_mem_chartRingZ_c3014f939b0b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:43:55.338988+00:00
 -- url     : https://prove2.me/theorems/e66a2754-d3e4-51aa-8317-8bc4ce3613f3

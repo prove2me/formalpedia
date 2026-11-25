@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_DerivSpanTrdeg_derivation_eq_zero_of_isSeparable_d3b7ef088867
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_DerivSpanTrdeg_derivation_eq_zero_of_isSeparable_d3b7ef088867
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:42:06.511332+00:00
 -- url     : https://prove2.me/theorems/74e6ce94-1781-4969-b561-db66fb0552ca

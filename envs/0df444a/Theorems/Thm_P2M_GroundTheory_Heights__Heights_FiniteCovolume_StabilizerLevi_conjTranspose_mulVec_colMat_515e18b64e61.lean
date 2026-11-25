@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_StabilizerLevi_conjTranspose_mulVec_colMat_515e18b64e61
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_StabilizerLevi_conjTranspose_mulVec_colMat_515e18b64e61
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:36:47.05829+00:00
 -- url     : https://prove2.me/theorems/565bbd37-dba0-5c89-a1d7-594b0a199638

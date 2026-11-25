@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_polyBasis_apply_ba9b92bb4178
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_polyBasis_apply_ba9b92bb4178
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:46:01.030427+00:00
 -- url     : https://prove2.me/theorems/e38b048d-c443-54fe-b0d5-44ec3f7c41ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_dyadic_shell_index
 -- name    : GlobalTheory.exists_dyadic_shell_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:35:15.585378+00:00
 -- url     : https://prove2.me/theorems/5dbd8620-ad18-4b7a-a719-f70528933e55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SVD_exists_scalar_factorisation
 -- name    : SVD.exists_scalar_factorisation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:04:06.214638+00:00
 -- url     : https://prove2.me/theorems/1bc67da9-34f4-524b-9761-93df7e34c799

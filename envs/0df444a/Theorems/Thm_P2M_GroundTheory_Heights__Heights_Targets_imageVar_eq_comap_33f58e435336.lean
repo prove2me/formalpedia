@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_imageVar_eq_comap_33f58e435336
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_imageVar_eq_comap_33f58e435336
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:42:16.605803+00:00
 -- url     : https://prove2.me/theorems/52f3ae91-c273-559a-a809-fd03ca3abce2

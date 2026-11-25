@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_jdh_SSn_mem
 -- name    : Formalism.FourierDecayAlt.P.CutMP.jdh_SSn_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:31:36.997698+00:00
 -- url     : https://prove2.me/theorems/c6eb197e-75ac-5bf3-bf23-69a57b48cf16

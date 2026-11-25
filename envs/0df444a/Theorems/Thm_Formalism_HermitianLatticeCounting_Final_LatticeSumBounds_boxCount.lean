@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_boxCount
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.boxCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:37:37.936951+00:00
 -- url     : https://prove2.me/theorems/bdec2e92-a0e4-4a0d-82dc-eee4650b9765

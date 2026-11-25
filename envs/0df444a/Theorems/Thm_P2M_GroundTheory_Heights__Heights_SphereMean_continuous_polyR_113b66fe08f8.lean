@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMean_continuous_polyR_113b66fe08f8
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMean_continuous_polyR_113b66fe08f8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:37:56.800669+00:00
 -- url     : https://prove2.me/theorems/19f77348-b812-42e1-bb9d-aff0d3c491cd

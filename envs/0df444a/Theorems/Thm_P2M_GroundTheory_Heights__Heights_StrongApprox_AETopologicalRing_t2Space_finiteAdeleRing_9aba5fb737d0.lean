@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_AETopologicalRing_t2Space_finiteAdeleRing_9aba5fb737d0
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_AETopologicalRing_t2Space_finiteAdeleRing_9aba5fb737d0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:39:07.03369+00:00
 -- url     : https://prove2.me/theorems/12508b69-f79e-5686-aebe-f650c2e2d2b5

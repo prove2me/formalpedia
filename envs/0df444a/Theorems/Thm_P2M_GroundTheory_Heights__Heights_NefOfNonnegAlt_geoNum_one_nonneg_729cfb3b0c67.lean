@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NefOfNonnegAlt_geoNum_one_nonneg_729cfb3b0c67
 -- name    : P2M_GroundTheory_Heights__Heights_NefOfNonnegAlt_geoNum_one_nonneg_729cfb3b0c67
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:04:19.944667+00:00
 -- url     : https://prove2.me/theorems/0b3782cb-f15c-45f7-ac12-9eee9dd90661

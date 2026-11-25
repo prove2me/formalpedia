@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionCycle_exists_clear_denom_13403b1d4dce
 -- name    : P2M_GroundTheory_Heights__Heights_SectionCycle_exists_clear_denom_13403b1d4dce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:37:11.660469+00:00
 -- url     : https://prove2.me/theorems/fff619f9-595a-460e-b9dd-149d1b2a81db

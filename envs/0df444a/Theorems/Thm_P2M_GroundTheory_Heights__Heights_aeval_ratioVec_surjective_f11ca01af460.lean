@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_aeval_ratioVec_surjective_f11ca01af460
 -- name    : P2M_GroundTheory_Heights__Heights_aeval_ratioVec_surjective_f11ca01af460
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:45:04.326832+00:00
 -- url     : https://prove2.me/theorems/a6e71a6b-0f64-4ceb-94d3-ee6d314c99f7

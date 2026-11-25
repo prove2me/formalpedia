@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_CohTrivial_of_shortExact_X__518f55910066
 -- name    : P2M_GroundTheory_GroupCoh_CohTrivial_of_shortExact_X__518f55910066
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:27:27.975464+00:00
 -- url     : https://prove2.me/theorems/baee5f44-83cc-4159-9915-cf79b47bffc9

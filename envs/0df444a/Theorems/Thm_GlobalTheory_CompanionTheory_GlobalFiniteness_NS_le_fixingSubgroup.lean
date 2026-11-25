@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GlobalFiniteness_NS_le_fixingSubgroup
 -- name    : GlobalTheory.CompanionTheory.GlobalFiniteness.NS_le_fixingSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:52:39.312225+00:00
 -- url     : https://prove2.me/theorems/b64b79c3-3e72-4688-96d3-b6a06e4ba998

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_generalLinearGroupCardComplex_finiteField_ne_zero
 -- name    : GlobalTheory.CuspGL.generalLinearGroupCardComplex_finiteField_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:30:21.159801+00:00
 -- url     : https://prove2.me/theorems/e68eb08a-b82e-535d-bdfd-0e4d7cf560e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_ratios_isAlgebraic_ffea12827701
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_ratios_isAlgebraic_ffea12827701
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:28:57.510364+00:00
 -- url     : https://prove2.me/theorems/d1d6e9bb-3691-406a-96fb-a2185fdd3940

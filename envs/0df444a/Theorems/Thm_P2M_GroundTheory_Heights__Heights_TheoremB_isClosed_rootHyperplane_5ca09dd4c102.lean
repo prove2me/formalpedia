@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_isClosed_rootHyperplane_5ca09dd4c102
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_isClosed_rootHyperplane_5ca09dd4c102
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:40:28.94157+00:00
 -- url     : https://prove2.me/theorems/fb6516b4-f185-55df-bd51-474b0da9da2a

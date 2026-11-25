@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_Top_gamLead
 -- name    : Formalism.GM.Top.gamLead
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:48:10.133977+00:00
 -- url     : https://prove2.me/theorems/6f230cb5-e175-45ef-aaaa-e9af5b2317ae

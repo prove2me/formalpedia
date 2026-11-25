@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_factorial_nsmul_mem_of_mem_dual_793087957248
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_factorial_nsmul_mem_of_mem_dual_793087957248
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:37:27.709426+00:00
 -- url     : https://prove2.me/theorems/0d56e53c-b487-4497-841a-159e412a864c

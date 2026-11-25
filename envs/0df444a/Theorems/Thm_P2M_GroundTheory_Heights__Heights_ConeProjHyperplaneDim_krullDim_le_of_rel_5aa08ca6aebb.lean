@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeProjHyperplaneDim_krullDim_le_of_rel_5aa08ca6aebb
 -- name    : P2M_GroundTheory_Heights__Heights_ConeProjHyperplaneDim_krullDim_le_of_rel_5aa08ca6aebb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:39:40.198661+00:00
 -- url     : https://prove2.me/theorems/aee6aec1-a739-4ca4-a998-3d5118250354

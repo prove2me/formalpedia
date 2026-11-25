@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_eLpNorm_le_of_le_conv
 -- name    : GroundTheory.Automorphic.Sobolev.eLpNorm_le_of_le_conv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:50:21.450196+00:00
 -- url     : https://prove2.me/theorems/fac50129-d466-56d2-bd8b-bd2d741578be

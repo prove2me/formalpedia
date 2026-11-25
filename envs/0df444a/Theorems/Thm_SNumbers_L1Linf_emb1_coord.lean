@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_emb1_coord
 -- name    : SNumbers.L1Linf.emb1_coord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:53:17.884514+00:00
 -- url     : https://prove2.me/theorems/b9928a0e-e8de-46d6-820e-1703fb20c22b

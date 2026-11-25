@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_norm_le_pow_1bb8f3f89542
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_norm_le_pow_1bb8f3f89542
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:35:58.815069+00:00
 -- url     : https://prove2.me/theorems/fe105bca-6e1d-4880-b98f-952d267ad99a

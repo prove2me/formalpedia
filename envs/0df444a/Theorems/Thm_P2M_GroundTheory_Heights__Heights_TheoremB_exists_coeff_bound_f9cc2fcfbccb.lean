@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_exists_coeff_bound_f9cc2fcfbccb
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_exists_coeff_bound_f9cc2fcfbccb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:40:38.5421+00:00
 -- url     : https://prove2.me/theorems/3a1a4e7a-5c75-53e4-a21c-eda9b4c5c3d3

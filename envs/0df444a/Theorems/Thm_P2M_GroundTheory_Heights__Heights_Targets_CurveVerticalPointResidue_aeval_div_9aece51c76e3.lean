@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveVerticalPointResidue_aeval_div_9aece51c76e3
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveVerticalPointResidue_aeval_div_9aece51c76e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:41:34.503672+00:00
 -- url     : https://prove2.me/theorems/6d61f28d-8502-4ec7-9347-82318c31c8df

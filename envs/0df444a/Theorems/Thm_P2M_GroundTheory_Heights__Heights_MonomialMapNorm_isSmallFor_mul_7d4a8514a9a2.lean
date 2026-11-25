@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MonomialMapNorm_isSmallFor_mul_7d4a8514a9a2
 -- name    : P2M_GroundTheory_Heights__Heights_MonomialMapNorm_isSmallFor_mul_7d4a8514a9a2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:49:46.298878+00:00
 -- url     : https://prove2.me/theorems/70ce7ab1-722c-48eb-8756-8c5920d8fbf3

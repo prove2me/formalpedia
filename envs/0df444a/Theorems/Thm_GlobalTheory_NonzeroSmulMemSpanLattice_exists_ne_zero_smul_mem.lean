@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonzeroSmulMemSpanLattice_exists_ne_zero_smul_mem
 -- name    : GlobalTheory.NonzeroSmulMemSpanLattice.exists_ne_zero_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:41:15.925775+00:00
 -- url     : https://prove2.me/theorems/1528e06a-7821-46b0-8db2-30ff9e83b6f0

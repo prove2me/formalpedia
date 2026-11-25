@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceFormLelongCompact_zeroSet_anti_4ef2e4a5f717
 -- name    : P2M_GroundTheory_Heights__Heights_SliceFormLelongCompact_zeroSet_anti_4ef2e4a5f717
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:39:07.584226+00:00
 -- url     : https://prove2.me/theorems/1aec560f-77c6-4c09-b892-2e0e36170e03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_aeval_chartHomogQ_field_7f5667ad45c9
 -- name    : P2M_GroundTheory_Heights__Heights_aeval_chartHomogQ_field_7f5667ad45c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:44:37.098881+00:00
 -- url     : https://prove2.me/theorems/04b595f3-27b3-4344-b025-e506318a2976

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_inh_van_eq_517663f47d01
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_inh_van_eq_517663f47d01
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:36:25.089586+00:00
 -- url     : https://prove2.me/theorems/e6fe3f29-cd6d-541d-84df-3e87aaaafbcd

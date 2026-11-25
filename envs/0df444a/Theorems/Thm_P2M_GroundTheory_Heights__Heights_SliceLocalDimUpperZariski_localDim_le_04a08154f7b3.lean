@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceLocalDimUpperZariski_localDim_le_04a08154f7b3
 -- name    : P2M_GroundTheory_Heights__Heights_SliceLocalDimUpperZariski_localDim_le_04a08154f7b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:38:22.887794+00:00
 -- url     : https://prove2.me/theorems/72e0f1ce-645c-4c07-93fe-63570a33fb70

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_L3H_dosetInd_mem
 -- name    : CompanionTheory.L3H.dosetInd_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:56:32.715095+00:00
 -- url     : https://prove2.me/theorems/5e27ffe7-f262-5ad8-9760-db7647935ab6

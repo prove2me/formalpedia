@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regularityLocalFlat_holds_mem_of_clear_mem_f30bf8927550
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regularityLocalFlat_holds_mem_of_clear_mem_f30bf8927550
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:44.32449+00:00
 -- url     : https://prove2.me/theorems/f4cdc677-4346-4679-aebe-20cb88b4766c

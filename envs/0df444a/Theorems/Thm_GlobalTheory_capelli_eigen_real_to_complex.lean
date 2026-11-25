@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_capelli_eigen_real_to_complex
 -- name    : GlobalTheory.capelli_eigen_real_to_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:02:33.894196+00:00
 -- url     : https://prove2.me/theorems/16cf0c1a-cf62-4a1d-83fb-7712d054c966

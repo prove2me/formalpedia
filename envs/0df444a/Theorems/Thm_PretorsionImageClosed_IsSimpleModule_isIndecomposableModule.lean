@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IsSimpleModule_isIndecomposableModule
 -- name    : PretorsionImageClosed.IsSimpleModule.isIndecomposableModule
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:55:40.804783+00:00
 -- url     : https://prove2.me/theorems/66db060c-1682-43f9-9887-ff3854716859

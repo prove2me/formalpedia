@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_mem_maximalIdeal_of_mem_489a7b394ad8
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_mem_maximalIdeal_of_mem_489a7b394ad8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:45:47.647857+00:00
 -- url     : https://prove2.me/theorems/9ab5e45a-a67e-5b1e-b595-492789dab2c8

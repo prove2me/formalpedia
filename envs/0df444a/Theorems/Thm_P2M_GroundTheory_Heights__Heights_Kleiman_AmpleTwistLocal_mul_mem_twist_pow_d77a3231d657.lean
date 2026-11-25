@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_AmpleTwistLocal_mul_mem_twist_pow_d77a3231d657
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_AmpleTwistLocal_mul_mem_twist_pow_d77a3231d657
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:05.964245+00:00
 -- url     : https://prove2.me/theorems/603aaec4-99dc-46b9-b671-6f47b5439430

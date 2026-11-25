@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_continuous_graphJac_e29ede2893b7
 -- name    : P2M_GroundTheory_Heights__Heights_continuous_graphJac_e29ede2893b7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:45:17.074822+00:00
 -- url     : https://prove2.me/theorems/7b4eb48a-83df-5302-bc08-c0c5cecc6927

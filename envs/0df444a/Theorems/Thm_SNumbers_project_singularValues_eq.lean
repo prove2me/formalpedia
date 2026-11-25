@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_project_singularValues_eq
 -- name    : SNumbers.project_singularValues_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:13:57.242601+00:00
 -- url     : https://prove2.me/theorems/a4a91c19-b182-4470-9437-a92bb37156cd

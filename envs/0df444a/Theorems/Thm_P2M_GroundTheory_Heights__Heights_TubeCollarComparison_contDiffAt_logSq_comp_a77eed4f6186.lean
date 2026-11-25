@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeCollarComparison_contDiffAt_logSq_comp_a77eed4f6186
 -- name    : P2M_GroundTheory_Heights__Heights_TubeCollarComparison_contDiffAt_logSq_comp_a77eed4f6186
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:41:57.363443+00:00
 -- url     : https://prove2.me/theorems/a2a220fd-86f2-43c1-91a4-585925b16641

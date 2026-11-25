@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_BaseChangeMin_height_eq_of_mem_minimalPrimes_map_b3f5ffc662ee
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_BaseChangeMin_height_eq_of_mem_minimalPrimes_map_b3f5ffc662ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:39:30.440872+00:00
 -- url     : https://prove2.me/theorems/088c45a6-1f53-5984-87d6-724c9d327810

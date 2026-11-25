@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxI_hasDerivAt_list_sum
 -- name    : Formalism.FourierDecayAlt.P.JFxI.hasDerivAt_list_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:34:11.323085+00:00
 -- url     : https://prove2.me/theorems/5f95627a-facd-520e-a2d2-270d2ff301e0

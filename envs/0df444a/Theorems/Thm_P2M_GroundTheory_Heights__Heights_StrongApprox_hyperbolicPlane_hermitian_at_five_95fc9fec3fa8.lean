@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_hyperbolicPlane_hermitian_at_five_95fc9fec3fa8
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_hyperbolicPlane_hermitian_at_five_95fc9fec3fa8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:40:29.126543+00:00
 -- url     : https://prove2.me/theorems/a165cdb9-edb7-4a48-a8f2-e77efe2659b5

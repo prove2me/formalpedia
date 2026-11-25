@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_SplitRelDeg_proof_9b289c5f4e63
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_SplitRelDeg_proof_9b289c5f4e63
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:43:17.816047+00:00
 -- url     : https://prove2.me/theorems/a9b5775c-1294-4875-b375-fe6fb62374da

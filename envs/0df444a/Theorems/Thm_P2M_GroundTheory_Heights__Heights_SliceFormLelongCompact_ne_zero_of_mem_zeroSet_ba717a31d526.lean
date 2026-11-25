@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceFormLelongCompact_ne_zero_of_mem_zeroSet_ba717a31d526
 -- name    : P2M_GroundTheory_Heights__Heights_SliceFormLelongCompact_ne_zero_of_mem_zeroSet_ba717a31d526
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:39:08.377103+00:00
 -- url     : https://prove2.me/theorems/6e39f00e-e54f-4eca-8ec3-c9274df42c02

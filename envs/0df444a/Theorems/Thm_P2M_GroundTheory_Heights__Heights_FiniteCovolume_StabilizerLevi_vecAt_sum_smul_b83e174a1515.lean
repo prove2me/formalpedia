@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_StabilizerLevi_vecAt_sum_smul_b83e174a1515
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_StabilizerLevi_vecAt_sum_smul_b83e174a1515
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:37:37.686453+00:00
 -- url     : https://prove2.me/theorems/9b3089d2-cac9-495d-bd03-62c271d2d261

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SideCompare_muS_ne_zero
 -- name    : GlobalTheory.SideCompare.muS_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:39:43.751796+00:00
 -- url     : https://prove2.me/theorems/eb42187a-cf51-4991-8e94-1e8f10ad0073

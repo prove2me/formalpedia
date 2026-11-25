@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_setIntegral_mul_weight_eq_d36808fe1b39
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_setIntegral_mul_weight_eq_d36808fe1b39
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:17.325905+00:00
 -- url     : https://prove2.me/theorems/e5045689-2ab5-4e2e-89e6-4b9389c435a4

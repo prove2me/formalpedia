@@ -7717,11 +7717,11 @@
 {"parent": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_TransInvLat", "child": "Formalism_PeriodIntegrals_TransInvLat", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_TransInvLat", "child": "Formalism_PeriodIntegrals_LatDefs", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_TransInvLat", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_TranslationInvariantLattice_TransInvLatMain", "via": ["statement"]}
-{"parent": "Formalism.GM.Top.gamLead", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_GamInt", "via": ["statement"]}
-{"parent": "Formalism.GM.Top.gamLead", "child": "Formalism_MahlerMeasure_GamLead", "via": ["statement"]}
-{"parent": "Formalism.GM.Top.gamLead", "child": "Formalism_MahlerMeasure_FinalM", "via": ["statement"]}
-{"parent": "Formalism.GM.Top.gamLead", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_GamLead", "via": ["statement"]}
-{"parent": "Formalism.GM.Top.gamLead", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_GamDeg", "via": ["statement"]}
+{"parent": "Formalism.GM.Top.gamLead", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_GamInt", "via": ["solution", "statement"]}
+{"parent": "Formalism.GM.Top.gamLead", "child": "Formalism_MahlerMeasure_GamLead", "via": ["solution", "statement"]}
+{"parent": "Formalism.GM.Top.gamLead", "child": "Formalism_MahlerMeasure_FinalM", "via": ["solution", "statement"]}
+{"parent": "Formalism.GM.Top.gamLead", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_GamLead", "via": ["solution", "statement"]}
+{"parent": "Formalism.GM.Top.gamLead", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_GamDeg", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Sz5.v_nonneg", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SumInvSqLeSub", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Sz5.v_nonneg", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CriticalThresholdLowerBound", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Sz5.v_nonneg", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CorollaryAOfPropositionA", "via": ["solution", "statement"]}
@@ -31070,10 +31070,10 @@
 {"parent": "Formalism.QuantumDeterminants.BruhatBigCell.row_hi", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_BFCell", "via": ["solution", "statement"]}
 {"parent": "Formalism.QuantumDeterminants.BruhatBigCell.row_hi", "child": "Formalism_FormalDegreeBessel_StatementBF", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicArithmetic_MeanSquareBounds_IndUnique", "child": "Development_AutomorphicArithmetic_MeanSquareBounds_PrimeSetTwoBounds", "via": ["statement"]}
-{"parent": "GlobalTheory.LWide.logDeriv_LFunction_strip", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_TsumOneDivRpowLe", "via": ["statement"]}
-{"parent": "GlobalTheory.LWide.logDeriv_LFunction_strip", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_SummableNinePowMulInvSqSucc", "via": ["statement"]}
-{"parent": "GlobalTheory.LWide.logDeriv_LFunction_strip", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_NormOneSubConjMul", "via": ["statement"]}
-{"parent": "GlobalTheory.LWide.logDeriv_LFunction_strip", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_LogDerivLFunctionStrip", "via": ["statement"]}
+{"parent": "GlobalTheory.LWide.logDeriv_LFunction_strip", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_TsumOneDivRpowLe", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.LWide.logDeriv_LFunction_strip", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_SummableNinePowMulInvSqSucc", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.LWide.logDeriv_LFunction_strip", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_NormOneSubConjMul", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.LWide.logDeriv_LFunction_strip", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_LogDerivLFunctionStrip", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LocalQuad.HermClass.Congr.trans", "child": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_AdelicLattices__AlgebraMapNormOfBasisOneSqrt_07cf76d090f2548e", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LocalQuad.HermClass.Congr.trans", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_PosIndexMapEqCardOfCongrDiagonal", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LocalQuad.HermClass.Congr.trans", "child": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_ExistsZeroCoordNeZero", "via": ["solution", "statement"]}
@@ -31363,20 +31363,20 @@
 {"parent": "ReciprocityTheory.CA.IsCMMod.associatedPrimes_eq_minimalPrimes", "child": "ReciprocityTheory_CommutativeAlgebra_CohenMacaulay_Unmixed", "via": ["statement"]}
 {"parent": "Formalism.QuantumDeterminants.unitary_conjugation_holds", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_GBasic", "via": ["solution", "statement"]}
 {"parent": "Formalism.QuantumDeterminants.unitary_conjugation_holds", "child": "Formalism_FormalDegreeBessel_StatementG", "via": ["solution", "statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelWalfiszOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PerronChi", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LDerivNearOne", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_ExcBoundOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelWalfiszAPOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_NoZeroComplex", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SmoothChiOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LandauLocal3", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LogDerivRegionChiOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_RectShiftChi", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PsiChiBoundOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_ZeroFreeRegion_LogDerivRegion", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_SiegelWalfiszAPOfSiegelLower", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_FinalSiegel", "via": ["statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelWalfiszOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PerronChi", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LDerivNearOne", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_ExcBoundOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelWalfiszAPOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_NoZeroComplex", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SmoothChiOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LandauLocal3", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LogDerivRegionChiOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_RectShiftChi", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PsiChiBoundOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_ZeroFreeRegion_LogDerivRegion", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_SiegelWalfiszAPOfSiegelLower", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.psiChiBound", "child": "Formalism_LandauZeroFreeBounds_FinalSiegel", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LogDerivZeros.main", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_NormOneSubConjMul", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LogDerivZeros.main", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_ExistsFactorOrder", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicArithmetic_ShortNorms_normPrimesN", "child": "Development_AutomorphicArithmetic_ShortNorms_ShortNorm", "via": ["statement"]}
@@ -32053,9 +32053,9 @@
 {"parent": "RH1E6S14.part_041_3", "child": "ArdaRH65K_RS_Fold", "via": ["statement"]}
 {"parent": "RH1E6S14.part_041_3", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
 {"parent": "RH1E6S14.part_041_3", "child": "ArdaRS_Band", "via": ["statement"]}
-{"parent": "GlobalTheory.Inertia.posIndex_fromBlocks", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["statement"]}
-{"parent": "GlobalTheory.Inertia.posIndex_fromBlocks", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_PosIndexMapEqCardOfCongrDiagonal", "via": ["statement"]}
-{"parent": "GlobalTheory.Inertia.posIndex_fromBlocks", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_ExistsOrthogonalBasisDotProductApplyEq", "via": ["statement"]}
+{"parent": "GlobalTheory.Inertia.posIndex_fromBlocks", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Inertia.posIndex_fromBlocks", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_PosIndexMapEqCardOfCongrDiagonal", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Inertia.posIndex_fromBlocks", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_ExistsOrthogonalBasisDotProductApplyEq", "via": ["solution", "statement"]}
 {"parent": "Formalism.QuantumDeterminants.BruhatBigCell.dmin_diag", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_GroupFactorizationHolds", "via": ["solution", "statement"]}
 {"parent": "Formalism.QuantumDeterminants.BruhatBigCell.dmin_diag", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_GBasic", "via": ["solution", "statement"]}
 {"parent": "Formalism.QuantumDeterminants.BruhatBigCell.dmin_diag", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_BFCell", "via": ["solution", "statement"]}
@@ -34253,9 +34253,9 @@
 {"parent": "Formalism.UG.P.exists_spherical_function", "child": "Formalism_SatakeDualWeyl_StatementE", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.exists_spherical_function", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Spherical", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.exists_spherical_function", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_SphericalA", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.ZeroFreePrincipal.zero_free", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_LogDerivativeBound", "via": ["statement"]}
-{"parent": "GlobalTheory.ZeroFreePrincipal.zero_free", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_ZeroFreePrincipal", "via": ["statement"]}
-{"parent": "GlobalTheory.ZeroFreePrincipal.zero_free", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_LogDerivRiemannZetaLocalZeroSumStatement", "via": ["statement"]}
+{"parent": "GlobalTheory.ZeroFreePrincipal.zero_free", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_LogDerivativeBound", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ZeroFreePrincipal.zero_free", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_ZeroFreePrincipal", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ZeroFreePrincipal.zero_free", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_LogDerivRiemannZetaLocalZeroSumStatement", "via": ["solution", "statement"]}
 {"parent": "RH1E6S14_D052_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Formalism.UG.P.wlocal_eval_rowGen", "child": "Formalism_GradedWeylDivisibility_DualWeylDominanceOf", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.wlocal_eval_rowGen", "child": "Formalism_SatakeDualWeyl_StatementW", "via": ["solution", "statement"]}
@@ -34669,9 +34669,9 @@
 {"parent": "GroundTheory_GlobalFields_TateThesis_ArchCharsUnitary", "child": "GroundTheory_GlobalFields_TateThesis_ArchChars", "via": ["statement"]}
 {"parent": "GroundTheory_GlobalFields_TateThesis_ArchCharsUnitary", "child": "GroundTheory_GlobalFields_TateThesis_ArchCharsUnits", "via": ["statement"]}
 {"parent": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_HermitianMatricesLocallyCompactBorel", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_IsEulerProd", "via": ["statement"]}
-{"parent": "GlobalTheory.T.rayClassLFunction_logDeriv_local_formula", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionLogDerivLocalFormula", "via": ["statement"]}
-{"parent": "GlobalTheory.T.rayClassLFunction_logDeriv_local_formula", "child": "Development_AbelianVarietyTheory_Definitions_GlobalTwisting_LamIdealOfNotPrimePow", "via": ["statement"]}
-{"parent": "GlobalTheory.T.rayClassLFunction_logDeriv_local_formula", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionLogDerivLocalFormulaStatement", "via": ["statement"]}
+{"parent": "GlobalTheory.T.rayClassLFunction_logDeriv_local_formula", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionLogDerivLocalFormula", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.rayClassLFunction_logDeriv_local_formula", "child": "Development_AbelianVarietyTheory_Definitions_GlobalTwisting_LamIdealOfNotPrimePow", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.rayClassLFunction_logDeriv_local_formula", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_RayClassLFunctionLogDerivLocalFormulaStatement", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.csScale_hform_add_left", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Bridge", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.csScale_hform_add_left", "child": "Formalism_SatakeDualWeyl_DefsCS", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.csScale_hform_add_left", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsScale", "via": ["solution", "statement"]}
@@ -36605,17 +36605,17 @@
 {"parent": "ReciprocityTheory_AnalyticForms_RegularLocalRings_IsOpenAlt", "child": "ReciprocityTheory_AnalyticForms_RegularLocalRings_JacChart", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_IsTestRep", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_FourierMatch", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_HaarDisintegrationAveragedFibreMeasures", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_FibOfZero", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LFunctionOneUpperBound", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LRealPos", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_BqCoeff", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_BqGrowth", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_BqEntire", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SameCharacterLFunctionOne", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_BqKeyOf", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_FinalSiegel", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_CharExists", "via": ["statement"]}
-{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_ZetaNegReal", "via": ["statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LFunctionOneUpperBound", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LRealPos", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_BqCoeff", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_BqGrowth", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_BqEntire", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SameCharacterLFunctionOne", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_BqKeyOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_FinalSiegel", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_CharExists", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZeroFreeDirichlet.siegelLower", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_ZetaNegReal", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_ProdCastLESucc", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_UMatUpper", "via": ["statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_ProdCastLESucc", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_LminorSubmatrixCastSucc", "via": ["statement"]}
 {"parent": "ReciprocityTheory_L2DbarEstimates_LeviForms_OfRealNormSqSumMul", "child": "ReciprocityTheory_L2DbarEstimates_LeviForms_EventuallyDifferentiableAtOfContDiffAt", "via": ["statement"]}
@@ -36636,15 +36636,15 @@
 {"parent": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_ExistsNormOneUnitShift", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicUnitaryOrbits_StLamOf", "via": ["statement"]}
 {"parent": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_ExistsNormOneUnitShift", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicUnitaryOrbits_InclRAlgebraMap", "via": ["statement"]}
 {"parent": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_ExistsNormOneUnitShift", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_IsEulerProd", "via": ["statement"]}
-{"parent": "Formalism.ZF.gzPNT", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_RectShiftOf", "via": ["statement"]}
-{"parent": "Formalism.ZF.gzPNT", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_GzPNTOf", "via": ["statement"]}
-{"parent": "Formalism.ZF.gzPNT", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_LogDerivRegionOf", "via": ["statement"]}
-{"parent": "Formalism.ZF.gzPNT", "child": "Formalism_ZeroFreeRegion_FinalZFR", "via": ["statement"]}
-{"parent": "Formalism.ZF.gzPNT", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_SmallHeightLogDeriv", "via": ["statement"]}
-{"parent": "Formalism.ZF.gzPNT", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_LaurentAtOne", "via": ["statement"]}
-{"parent": "Formalism.ZF.gzPNT", "child": "Formalism_ZeroFreeRegion_LogDerivRegion", "via": ["statement"]}
-{"parent": "Formalism.ZF.gzPNT", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_Perron", "via": ["statement"]}
-{"parent": "Formalism.ZF.gzPNT", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_RectDoublePole", "via": ["statement"]}
+{"parent": "Formalism.ZF.gzPNT", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_RectShiftOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.gzPNT", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_GzPNTOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.gzPNT", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_LogDerivRegionOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.gzPNT", "child": "Formalism_ZeroFreeRegion_FinalZFR", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.gzPNT", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_SmallHeightLogDeriv", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.gzPNT", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_LaurentAtOne", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.gzPNT", "child": "Formalism_ZeroFreeRegion_LogDerivRegion", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.gzPNT", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_Perron", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.gzPNT", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_RectDoublePole", "via": ["solution", "statement"]}
 {"parent": "Formalism.YangianSpanCharacter.P.left_cancel", "child": "Formalism_YangianSpanCharacter_YangianRTTProofs_DiagonalEntryEqOfModularRelation", "via": ["solution", "statement"]}
 {"parent": "Formalism.YangianSpanCharacter.P.left_cancel", "child": "Formalism_YangianSpanCharacter_StatementY", "via": ["solution", "statement"]}
 {"parent": "FiniteTD.Markov.Supplement.lemma_17", "child": "FiniteTD_Markov_Setting", "via": ["statement"]}
@@ -37498,15 +37498,15 @@
 {"parent": "Formalism.ZeroFreeDirichlet.exists_localZeroExpansion_of_bound", "child": "Formalism_LandauZeroFreeBounds_NoZeroComplexOf", "via": ["solution", "statement"]}
 {"parent": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_GramFiberMeasuresTransitivityStatement", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_GramFiberMeasuresTransitivity", "via": ["statement"]}
 {"parent": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_GramFiberMeasuresTransitivityStatement", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_IsEulerProd", "via": ["statement"]}
-{"parent": "Formalism.ZF.logDerivRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_RectShiftOf", "via": ["statement"]}
-{"parent": "Formalism.ZF.logDerivRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_GzPNTOf", "via": ["statement"]}
-{"parent": "Formalism.ZF.logDerivRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_LogDerivRegionOf", "via": ["statement"]}
-{"parent": "Formalism.ZF.logDerivRegion", "child": "Formalism_ZeroFreeRegion_FinalZFR", "via": ["statement"]}
-{"parent": "Formalism.ZF.logDerivRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_SmallHeightLogDeriv", "via": ["statement"]}
-{"parent": "Formalism.ZF.logDerivRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_LaurentAtOne", "via": ["statement"]}
-{"parent": "Formalism.ZF.logDerivRegion", "child": "Formalism_ZeroFreeRegion_LogDerivRegion", "via": ["statement"]}
-{"parent": "Formalism.ZF.logDerivRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_Perron", "via": ["statement"]}
-{"parent": "Formalism.ZF.logDerivRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_RectDoublePole", "via": ["statement"]}
+{"parent": "Formalism.ZF.logDerivRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_RectShiftOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.logDerivRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_GzPNTOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.logDerivRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_LogDerivRegionOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.logDerivRegion", "child": "Formalism_ZeroFreeRegion_FinalZFR", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.logDerivRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_SmallHeightLogDeriv", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.logDerivRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_LaurentAtOne", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.logDerivRegion", "child": "Formalism_ZeroFreeRegion_LogDerivRegion", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.logDerivRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_Perron", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.logDerivRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_RectDoublePole", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.L2DbarEstimates.C.rotAbout_sub", "child": "ReciprocityTheory_L2DbarEstimates_WeakHolomorphy_MeasurableEmbeddingRotAbout", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.L2DbarEstimates.C.rotAbout_sub", "child": "ReciprocityTheory_L2DbarEstimates_WeakHolomorphy_Circle", "via": ["solution", "statement"]}
 {"parent": "Formalism.ZeroFreeDirichlet.dirichlet_character_lseries_eq", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_BqCoeff", "via": ["solution", "statement"]}
@@ -60339,11 +60339,11 @@
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.InfKA.continuous_P", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_IsClosedKset", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.InfKA.continuous_P", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_DerivGA", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.InfKA.continuous_P", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_ContinuousOnFderivPhiM", "via": ["solution", "statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_FiniteCovolume_quasiMeasurePreserving_fst_comp_d334dff1b519", "child": "GroundTheory_HeightsAndTheta_Heights_FiniteCovolume_StatementsDoubleCoset", "via": ["statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_FiniteCovolume_quasiMeasurePreserving_fst_comp_d334dff1b519", "child": "GroundTheory_HeightsAndTheta_Heights_FiniteCovolume_PDoubleCosetCovolume", "via": ["statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_FiniteCovolume_quasiMeasurePreserving_fst_comp_d334dff1b519", "child": "GroundTheory_HeightsAndTheta_Heights_FiniteCovolume_StatementsDoubleCoset", "via": ["solution", "statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_FiniteCovolume_quasiMeasurePreserving_fst_comp_d334dff1b519", "child": "GroundTheory_HeightsAndTheta_Heights_FiniteCovolume_PDoubleCosetCovolume", "via": ["solution", "statement"]}
 {"parent": "RH1E6S15_D004_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "GroundTheory.Global.mellin_exp_neg_mul_sq", "child": "GroundTheory_GlobalFields_TateThesis_Gaussian", "via": ["solution", "statement"]}
-{"parent": "P2M_GroundTheory_Heights__Heights_FiniteCovolume_heisMat_unitary_b973147ebfea", "child": "GroundTheory_HeightsAndTheta_Heights_FiniteCovolume_PUnipotentModulusMatrix", "via": ["statement"]}
+{"parent": "P2M_GroundTheory_Heights__Heights_FiniteCovolume_heisMat_unitary_b973147ebfea", "child": "GroundTheory_HeightsAndTheta_Heights_FiniteCovolume_PUnipotentModulusMatrix", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_BasicNotions_Examples__NZ_commute_of_single_11fa7f76e614", "child": "Formalism_LocalRingCardinality_SpanPowerMembership_NZTypeD", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_cubeFaceSequence___eq_2f890e00cceb", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_CubeComplexAcyclicIffQuasiIsoCechAug", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_cubeFaceSequence___eq_2f890e00cceb", "child": "Development_AbelianVarietyTheory_Definitions_QuasicoherentCohomology_IsIsoTermComparisonRestrictScalars", "via": ["solution", "statement"]}
@@ -63936,8 +63936,8 @@
 {"parent": "GlobalTheory.HeckeOne.isContAtOne_of_isHeckeL", "child": "Development_AbelianVarietyTheory_BlockTheory_AdelicCMFields_UnitaryHeckeCharacterIdele", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.IsSymplecticFamily.linearIndependent", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_DualRestrictSurjectiveOfIsTorsionFreeQuotient", "via": ["solution", "statement"]}
 {"parent": "OnlineMaxWeightMatch.Approx.Supplement.lemma_3_5", "child": "OnlineMaxWeightMatch_Approx_Supplement_Gadget", "via": ["statement"]}
-{"parent": "PI.HwUniqW.Hpk_mul_self", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HighestWeightUniqueness_HpkMulMulHpkApply", "via": ["statement"]}
-{"parent": "PI.HwUniqW.Hpk_mul_self", "child": "Formalism_PeriodIntegrals_IsLowUnitH", "via": ["statement"]}
+{"parent": "PI.HwUniqW.Hpk_mul_self", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HighestWeightUniqueness_HpkMulMulHpkApply", "via": ["solution", "statement"]}
+{"parent": "PI.HwUniqW.Hpk_mul_self", "child": "Formalism_PeriodIntegrals_IsLowUnitH", "via": ["solution", "statement"]}
 {"parent": "PI.EF.half_line", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ExplicitFormula_LGrowthGamma", "via": ["statement"]}
 {"parent": "PI.DvRows.lidx_span_act", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ProjectionRows_Pieces", "via": ["statement"]}
 {"parent": "PI.DvRows.lidx_span_act", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ProjectionRows_LatticeFinitelyGenerated", "via": ["statement"]}

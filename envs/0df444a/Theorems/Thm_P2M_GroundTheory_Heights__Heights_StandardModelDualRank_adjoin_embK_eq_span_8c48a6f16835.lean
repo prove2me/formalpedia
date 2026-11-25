@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StandardModelDualRank_adjoin_embK_eq_span_8c48a6f16835
 -- name    : P2M_GroundTheory_Heights__Heights_StandardModelDualRank_adjoin_embK_eq_span_8c48a6f16835
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:40:38.056655+00:00
 -- url     : https://prove2.me/theorems/f06bf7c7-7b5c-41a2-b7f6-0dda170c4a13

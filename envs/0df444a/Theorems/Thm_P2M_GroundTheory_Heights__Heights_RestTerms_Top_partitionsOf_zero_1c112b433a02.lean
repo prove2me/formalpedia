@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_partitionsOf_zero_1c112b433a02
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_partitionsOf_zero_1c112b433a02
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:35:41.701988+00:00
 -- url     : https://prove2.me/theorems/242f2539-eaeb-4eac-9289-f2fb86148588

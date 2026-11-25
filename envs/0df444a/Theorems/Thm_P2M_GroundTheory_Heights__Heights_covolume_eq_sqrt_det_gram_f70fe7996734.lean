@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_covolume_eq_sqrt_det_gram_f70fe7996734
 -- name    : P2M_GroundTheory_Heights__Heights_covolume_eq_sqrt_det_gram_f70fe7996734
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:45:35.953964+00:00
 -- url     : https://prove2.me/theorems/d432d901-c459-42e1-9fb8-36b9b07df4c5

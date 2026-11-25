@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereLawFirstCoord_volume_annulus_c7db0dfdc2da
 -- name    : P2M_GroundTheory_Heights__Heights_SphereLawFirstCoord_volume_annulus_c7db0dfdc2da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:38:49.745089+00:00
 -- url     : https://prove2.me/theorems/9170ed21-05be-41c6-b10e-3e2a2b46c1f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_exists_finite_forall_mem_integralGL
 -- name    : GroundTheory.Automorphic.Reduction.exists_finite_forall_mem_integralGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:53:22.463856+00:00
 -- url     : https://prove2.me/theorems/3dfa23e1-8651-426f-a97f-a41983626717

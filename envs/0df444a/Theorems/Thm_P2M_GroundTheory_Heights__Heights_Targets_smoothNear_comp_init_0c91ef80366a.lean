@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_smoothNear_comp_init_0c91ef80366a
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_smoothNear_comp_init_0c91ef80366a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:41:40.932351+00:00
 -- url     : https://prove2.me/theorems/421f619e-ace5-5e69-9e1d-5e13203b4e9e

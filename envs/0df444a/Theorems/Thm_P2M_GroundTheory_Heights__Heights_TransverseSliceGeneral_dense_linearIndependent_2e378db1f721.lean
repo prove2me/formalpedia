@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TransverseSliceGeneral_dense_linearIndependent_2e378db1f721
 -- name    : P2M_GroundTheory_Heights__Heights_TransverseSliceGeneral_dense_linearIndependent_2e378db1f721
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:46:46.146806+00:00
 -- url     : https://prove2.me/theorems/914178c2-5304-5613-a615-a917a180c082

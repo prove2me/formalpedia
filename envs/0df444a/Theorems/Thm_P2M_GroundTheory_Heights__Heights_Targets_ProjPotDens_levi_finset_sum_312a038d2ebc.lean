@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjPotDens_levi_finset_sum_312a038d2ebc
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjPotDens_levi_finset_sum_312a038d2ebc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:41:02.741076+00:00
 -- url     : https://prove2.me/theorems/084cc481-5158-4b52-b957-852722872504

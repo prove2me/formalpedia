@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_parIdx_injective_fcb9d9eec217
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_parIdx_injective_fcb9d9eec217
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:42:46.534805+00:00
 -- url     : https://prove2.me/theorems/ef4cc7ff-d8bd-43b3-8248-49411409068c

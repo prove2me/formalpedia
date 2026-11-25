@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumOfFiltration_proof_3beeaac7352f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumOfFiltration_proof_3beeaac7352f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:27:58.185081+00:00
 -- url     : https://prove2.me/theorems/5e886339-6663-4790-b784-c975fa0210c8

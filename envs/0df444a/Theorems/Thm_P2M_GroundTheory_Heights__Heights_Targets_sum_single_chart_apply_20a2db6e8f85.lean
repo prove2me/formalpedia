@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_sum_single_chart_apply_20a2db6e8f85
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_sum_single_chart_apply_20a2db6e8f85
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:46:23.012269+00:00
 -- url     : https://prove2.me/theorems/8c8e8734-c6d7-5d29-90c6-2d6b6f1a2a16

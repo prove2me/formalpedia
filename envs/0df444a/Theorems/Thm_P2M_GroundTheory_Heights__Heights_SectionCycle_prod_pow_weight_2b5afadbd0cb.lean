@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionCycle_prod_pow_weight_2b5afadbd0cb
 -- name    : P2M_GroundTheory_Heights__Heights_SectionCycle_prod_pow_weight_2b5afadbd0cb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:37:12.619937+00:00
 -- url     : https://prove2.me/theorems/31d09d0d-8074-4af6-bcb1-e41eb3126eba

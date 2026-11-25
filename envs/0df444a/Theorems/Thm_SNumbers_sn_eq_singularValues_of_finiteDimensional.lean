@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_sn_eq_singularValues_of_finiteDimensional
 -- name    : SNumbers.sn_eq_singularValues_of_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:14:29.201157+00:00
 -- url     : https://prove2.me/theorems/0cf2e591-bff1-4423-ad3c-89c370dd7944

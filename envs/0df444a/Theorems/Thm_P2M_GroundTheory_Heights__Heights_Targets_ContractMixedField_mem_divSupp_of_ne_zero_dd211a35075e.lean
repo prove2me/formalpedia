@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ContractMixedField_mem_divSupp_of_ne_zero_dd211a35075e
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ContractMixedField_mem_divSupp_of_ne_zero_dd211a35075e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:41:11.568903+00:00
 -- url     : https://prove2.me/theorems/ccc64380-6c2c-4cab-8d03-cb871c75fad5

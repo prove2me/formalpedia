@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_LengthDecomp_length_localizedModule_quotient_79d7d8dcab70
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_LengthDecomp_length_localizedModule_quotient_79d7d8dcab70
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:42:37.459798+00:00
 -- url     : https://prove2.me/theorems/f831eb69-2c56-4184-acae-68d6dd658ed2

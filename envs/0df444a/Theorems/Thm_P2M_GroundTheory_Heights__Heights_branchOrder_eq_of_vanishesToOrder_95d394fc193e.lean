@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_branchOrder_eq_of_vanishesToOrder_95d394fc193e
 -- name    : P2M_GroundTheory_Heights__Heights_branchOrder_eq_of_vanishesToOrder_95d394fc193e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:44:30.626822+00:00
 -- url     : https://prove2.me/theorems/0e6465aa-10d3-4474-9080-6a91cd0673ca

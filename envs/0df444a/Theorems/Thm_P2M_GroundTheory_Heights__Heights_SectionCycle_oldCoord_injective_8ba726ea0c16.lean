@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionCycle_oldCoord_injective_8ba726ea0c16
 -- name    : P2M_GroundTheory_Heights__Heights_SectionCycle_oldCoord_injective_8ba726ea0c16
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:38:19.600271+00:00
 -- url     : https://prove2.me/theorems/78d02a4d-c290-5bec-acf5-8e6f501d6dfe

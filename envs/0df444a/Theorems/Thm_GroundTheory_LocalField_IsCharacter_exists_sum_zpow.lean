@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsCharacter_exists_sum_zpow
 -- name    : GroundTheory.LocalField.IsCharacter.exists_sum_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:35:01.963409+00:00
 -- url     : https://prove2.me/theorems/ae6e32be-8111-47c6-a998-8c4c774fa4ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_exists_idele_norm_eq
 -- name    : GroundTheory.Automorphic.Reduction.exists_idele_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:05:59.802352+00:00
 -- url     : https://prove2.me/theorems/c11bcf19-01af-48b3-9209-b64918b8a762

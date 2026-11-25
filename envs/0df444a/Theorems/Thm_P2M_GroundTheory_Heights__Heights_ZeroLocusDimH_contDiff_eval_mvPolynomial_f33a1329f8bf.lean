@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_contDiff_eval_mvPolynomial_f33a1329f8bf
 -- name    : P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_contDiff_eval_mvPolynomial_f33a1329f8bf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:44:00.7558+00:00
 -- url     : https://prove2.me/theorems/c294c24c-a4a5-4ff4-add1-662ced0ff8ba

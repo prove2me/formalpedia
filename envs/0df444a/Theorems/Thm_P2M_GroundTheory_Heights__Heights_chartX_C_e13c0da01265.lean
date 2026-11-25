@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_chartX_C_e13c0da01265
 -- name    : P2M_GroundTheory_Heights__Heights_chartX_C_e13c0da01265
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:44:54.737941+00:00
 -- url     : https://prove2.me/theorems/d8352920-d494-4744-a86f-fea01785783b

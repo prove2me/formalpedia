@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MultiHomogMemCoordinate_cone_monomial_1e7c61cf30d8
 -- name    : P2M_GroundTheory_Heights__Heights_MultiHomogMemCoordinate_cone_monomial_1e7c61cf30d8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:06:42.492384+00:00
 -- url     : https://prove2.me/theorems/800fa3aa-a001-5cac-8c3c-d4fbf4fe24b3

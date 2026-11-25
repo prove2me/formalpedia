@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SiegelCoordinates_intersectionNumber_baseChange_d57c933b7cb8
 -- name    : P2M_GroundTheory_Heights__Heights_SiegelCoordinates_intersectionNumber_baseChange_d57c933b7cb8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:37:49.943097+00:00
 -- url     : https://prove2.me/theorems/1c390282-24d2-4257-ad12-5dc9b4c912e8

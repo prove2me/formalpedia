@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_NormTower_N_zero
 -- name    : GroundTheory.PAdicHodge.NormTower.N_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:05:47.196691+00:00
 -- url     : https://prove2.me/theorems/4ea82469-e256-4cab-a574-ddbea1201008

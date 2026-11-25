@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecAlgFieldChange_map_linForm_d91fc01bde95
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecAlgFieldChange_map_linForm_d91fc01bde95
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:43:16.519975+00:00
 -- url     : https://prove2.me/theorems/e090575f-65d6-5405-b433-afe228e75653

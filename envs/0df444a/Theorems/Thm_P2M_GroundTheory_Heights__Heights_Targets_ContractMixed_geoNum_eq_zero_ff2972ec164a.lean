@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ContractMixed_geoNum_eq_zero_ff2972ec164a
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ContractMixed_geoNum_eq_zero_ff2972ec164a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:40:54.106579+00:00
 -- url     : https://prove2.me/theorems/6d8f6403-df67-4ed4-9e4e-952e91b123c8

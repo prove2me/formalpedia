@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_sup_span_map_de41977b3b32
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_sup_span_map_de41977b3b32
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:41:13.756222+00:00
 -- url     : https://prove2.me/theorems/e259e744-e8c5-4d1c-9de3-38c823b617be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_star_mem_cenW
 -- name    : Formalism.FourierDecayAlt.P5.star_mem_cenW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:59:06.6278+00:00
 -- url     : https://prove2.me/theorems/42c22c06-0944-514d-ac15-7ef5830cafd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_eq_zero_of_intCast_mul_eq_zero_44d637363897
 -- name    : P2M_GroundTheory_Heights__Heights_Model_eq_zero_of_intCast_mul_eq_zero_44d637363897
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:30:12.76819+00:00
 -- url     : https://prove2.me/theorems/7360e739-5719-4f4c-b317-cdb2647da03a

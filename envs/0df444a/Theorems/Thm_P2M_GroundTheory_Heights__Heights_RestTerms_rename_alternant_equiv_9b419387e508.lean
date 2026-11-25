@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_rename_alternant_equiv_9b419387e508
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_rename_alternant_equiv_9b419387e508
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:35:52.526323+00:00
 -- url     : https://prove2.me/theorems/e1d3a564-4dd8-572e-963b-a903358e8d0d

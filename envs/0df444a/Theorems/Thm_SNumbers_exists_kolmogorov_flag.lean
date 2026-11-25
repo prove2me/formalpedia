@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_exists_kolmogorov_flag
 -- name    : SNumbers.exists_kolmogorov_flag
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:05:53.606037+00:00
 -- url     : https://prove2.me/theorems/c091c5b9-174b-4942-997d-7ddf1d71ea64

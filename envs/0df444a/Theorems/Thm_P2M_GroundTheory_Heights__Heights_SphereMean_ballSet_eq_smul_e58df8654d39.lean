@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMean_ballSet_eq_smul_e58df8654d39
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMean_ballSet_eq_smul_e58df8654d39
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:38:17.854936+00:00
 -- url     : https://prove2.me/theorems/d723003e-ec07-412c-a7bc-cda10c9a0b0c

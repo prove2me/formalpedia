@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMean_integrable_disc_log_pow_84557c7391f7
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMean_integrable_disc_log_pow_84557c7391f7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:38:52.752283+00:00
 -- url     : https://prove2.me/theorems/401e9b01-0c3e-42bf-8b6b-c7b3ee52bfdb

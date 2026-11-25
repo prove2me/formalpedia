@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereLawBasic_firstRow_eq_zero_e778849ddfbb
 -- name    : P2M_GroundTheory_Heights__Heights_SphereLawBasic_firstRow_eq_zero_e778849ddfbb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:38:20.571074+00:00
 -- url     : https://prove2.me/theorems/a551185a-8654-4b2b-aa9f-e3ba24a53cdc

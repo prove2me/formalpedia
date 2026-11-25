@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TopDualBound_grassConst_lines_9d63eb767f82
 -- name    : P2M_GroundTheory_Heights__Heights_TopDualBound_grassConst_lines_9d63eb767f82
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:41:05.100562+00:00
 -- url     : https://prove2.me/theorems/07d8688e-2856-4740-bd9f-f845879e7355

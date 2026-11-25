@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_muMax_sq_le_coe_iff
 -- name    : GlobalTheory.ArchMetric.muMax_sq_le_coe_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:56:37.952739+00:00
 -- url     : https://prove2.me/theorems/0360a336-5b70-5517-b6f6-f8f1c1394bb2

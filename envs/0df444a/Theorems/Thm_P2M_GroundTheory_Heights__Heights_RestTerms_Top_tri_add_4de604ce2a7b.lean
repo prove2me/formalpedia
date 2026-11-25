@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_tri_add_4de604ce2a7b
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_tri_add_4de604ce2a7b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:35:52.982356+00:00
 -- url     : https://prove2.me/theorems/4999b661-66f1-4619-9a71-e7bac98ece7e

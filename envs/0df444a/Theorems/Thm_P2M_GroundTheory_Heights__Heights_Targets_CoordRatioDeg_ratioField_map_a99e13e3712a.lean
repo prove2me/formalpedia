@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CoordRatioDeg_ratioField_map_a99e13e3712a
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CoordRatioDeg_ratioField_map_a99e13e3712a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:40:43.140535+00:00
 -- url     : https://prove2.me/theorems/ede32667-c1b2-4abe-a75f-13b1f333ed81

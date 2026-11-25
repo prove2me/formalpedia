@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_PairedSquareConstantCoefficients_constantCoeff_inBlock
 -- name    : Formalism.L2.Th1.G.PairedSquareConstantCoefficients.constantCoeff_inBlock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:56:41.619368+00:00
 -- url     : https://prove2.me/theorems/a213d3f9-c56a-50fc-b1b2-d7614aff6acf

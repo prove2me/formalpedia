@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Mult1_S0_OB_lift_iM
 -- name    : ReciprocityTheory.ChartRestriction.DS.Mult1.S0.OB.lift_iM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:59:59.344893+00:00
 -- url     : https://prove2.me/theorems/8d66d9a3-97d6-57e0-814b-fddc74028b86

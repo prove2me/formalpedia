@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_eval_eval__aeval_a391fac762a4
 -- name    : P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_eval_eval__aeval_a391fac762a4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:44:20.792588+00:00
 -- url     : https://prove2.me/theorems/b5f94a36-0f46-4cb3-bfb1-067eedb20639

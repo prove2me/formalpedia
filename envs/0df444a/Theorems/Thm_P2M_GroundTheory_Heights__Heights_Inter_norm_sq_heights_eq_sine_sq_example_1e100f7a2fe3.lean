@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_norm_sq_heights_eq_sine_sq_example_1e100f7a2fe3
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_norm_sq_heights_eq_sine_sq_example_1e100f7a2fe3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:24:44.250817+00:00
 -- url     : https://prove2.me/theorems/223c9cee-4de2-4af5-a2ef-4a73b1a27fa5

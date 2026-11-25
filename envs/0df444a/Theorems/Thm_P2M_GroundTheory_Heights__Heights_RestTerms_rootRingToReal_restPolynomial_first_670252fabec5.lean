@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_rootRingToReal_restPolynomial_first_670252fabec5
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_rootRingToReal_restPolynomial_first_670252fabec5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:36:44.378803+00:00
 -- url     : https://prove2.me/theorems/19986c41-4380-4dcf-b38a-90d965ec6226

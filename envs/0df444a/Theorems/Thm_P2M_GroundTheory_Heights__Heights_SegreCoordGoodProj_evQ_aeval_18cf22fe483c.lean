@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SegreCoordGoodProj_evQ_aeval_18cf22fe483c
 -- name    : P2M_GroundTheory_Heights__Heights_SegreCoordGoodProj_evQ_aeval_18cf22fe483c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:39:05.479342+00:00
 -- url     : https://prove2.me/theorems/0ba8af0b-4a2b-5ed8-a93d-12122203ce93

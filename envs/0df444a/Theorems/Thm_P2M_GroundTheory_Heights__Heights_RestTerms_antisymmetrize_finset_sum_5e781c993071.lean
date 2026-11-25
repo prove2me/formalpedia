@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_antisymmetrize_finset_sum_5e781c993071
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_antisymmetrize_finset_sum_5e781c993071
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:35:50.570148+00:00
 -- url     : https://prove2.me/theorems/7c62c062-9432-47f8-9aec-53954084d984

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_totPos_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.totPos_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:37:52.92688+00:00
 -- url     : https://prove2.me/theorems/cc1ac9c4-2db5-4bcb-8c06-3bdf7f7b7d85

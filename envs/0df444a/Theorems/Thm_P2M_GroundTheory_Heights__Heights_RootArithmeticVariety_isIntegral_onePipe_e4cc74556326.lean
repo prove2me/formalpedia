@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootArithmeticVariety_isIntegral_onePipe_e4cc74556326
 -- name    : P2M_GroundTheory_Heights__Heights_RootArithmeticVariety_isIntegral_onePipe_e4cc74556326
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:36:41.841876+00:00
 -- url     : https://prove2.me/theorems/e30d8716-8246-53cb-99a2-cb062bfbb55c
