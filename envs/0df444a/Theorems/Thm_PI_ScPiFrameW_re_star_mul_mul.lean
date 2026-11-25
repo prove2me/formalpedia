@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiFrameW_re_star_mul_mul
 -- name    : PI.ScPiFrameW.re_star_mul_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:21:27.907629+00:00
 -- url     : https://prove2.me/theorems/e09c12ac-d50e-4cbe-a716-38ad88c311f6

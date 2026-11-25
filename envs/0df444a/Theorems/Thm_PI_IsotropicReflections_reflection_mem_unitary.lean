@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsotropicReflections_reflection_mem_unitary
 -- name    : PI.IsotropicReflections.reflection_mem_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:15:28.264727+00:00
 -- url     : https://prove2.me/theorems/56d2ec2e-7321-483e-a376-70c96b18e3f7

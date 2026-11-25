@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiFrameW_exists_perp
 -- name    : PI.ScPiFrameW.exists_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:22:49.289803+00:00
 -- url     : https://prove2.me/theorems/4d2ec62e-93c6-420b-824a-7578cf5df840

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootShift_W_claim_of
 -- name    : PI.SqfRootShift.W.claim_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:26:20.700209+00:00
 -- url     : https://prove2.me/theorems/6452258d-565c-4722-8508-559048e702e0

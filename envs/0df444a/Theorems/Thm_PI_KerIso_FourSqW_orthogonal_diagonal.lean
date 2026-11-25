@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerIso_FourSqW_orthogonal_diagonal
 -- name    : PI.KerIso.FourSqW.orthogonal_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:37.583797+00:00
 -- url     : https://prove2.me/theorems/d105ad3b-bace-5241-a39e-7e447e3e3e75

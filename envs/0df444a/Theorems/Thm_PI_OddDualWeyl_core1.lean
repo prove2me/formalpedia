@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_core1
 -- name    : PI.OddDualWeyl.core1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:14:57.593305+00:00
 -- url     : https://prove2.me/theorems/87d611e5-955f-4cc0-8489-38a69e9de24b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_th_zero
 -- name    : PI.SSE.th_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:21:28.12299+00:00
 -- url     : https://prove2.me/theorems/7ff44bc8-f5ae-46c2-a91b-cf026f012b5c

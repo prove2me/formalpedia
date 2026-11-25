@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_fmul_apply
 -- name    : PI.PolynomialProperness.fmul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:19:02.633522+00:00
 -- url     : https://prove2.me/theorems/042b193c-dbd6-50a6-819f-5a31a5045a61

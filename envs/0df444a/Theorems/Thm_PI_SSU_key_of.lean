@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSU_key_of
 -- name    : PI.SSU.key_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:21:39.706233+00:00
 -- url     : https://prove2.me/theorems/f435f90a-55fb-4ea5-af3b-662339b4d954

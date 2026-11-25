@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovDetW_intCast_mul_eq_smul
 -- name    : PI.QnCovDetW.intCast_mul_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:18:59.914802+00:00
 -- url     : https://prove2.me/theorems/5e41b714-26ed-4484-8d50-d52dc50b9ff5

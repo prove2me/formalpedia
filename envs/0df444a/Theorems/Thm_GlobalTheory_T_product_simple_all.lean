@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_product_simple_all
 -- name    : GlobalTheory.T.product_simple_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:54:45.440217+00:00
 -- url     : https://prove2.me/theorems/e666f514-4bbf-4787-a3d8-4fa553d6dec4

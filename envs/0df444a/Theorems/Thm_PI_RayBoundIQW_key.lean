@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RayBoundIQW_key
 -- name    : PI.RayBoundIQW.key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:11:08.96502+00:00
 -- url     : https://prove2.me/theorems/5fb30e8b-8c83-4189-8e60-338f007806c2

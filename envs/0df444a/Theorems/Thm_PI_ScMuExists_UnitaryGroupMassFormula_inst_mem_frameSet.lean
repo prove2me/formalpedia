@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_inst_mem_frameSet
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.inst_mem_frameSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:05:39.410668+00:00
 -- url     : https://prove2.me/theorems/fc59df48-425a-5c83-9575-6b51472077bc

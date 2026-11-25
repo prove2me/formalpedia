@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_lidx_frac
 -- name    : PI.IsoDetW.Loc.lidx_frac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:07:58.947432+00:00
 -- url     : https://prove2.me/theorems/5fedc3c5-72fa-549d-826d-2eb104897419

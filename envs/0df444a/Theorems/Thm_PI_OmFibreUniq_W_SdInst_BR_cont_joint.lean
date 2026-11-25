@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_SdInst_BR_cont_joint
 -- name    : PI.OmFibreUniq.W.SdInst.BR_cont_joint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:37:28.975176+00:00
 -- url     : https://prove2.me/theorems/9b7504ad-bcfa-4fd6-b326-8f34ba437bc0

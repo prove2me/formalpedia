@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CA_finish_bound
 -- name    : PI.PolynomialProperness.CA.finish_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:36:59.171886+00:00
 -- url     : https://prove2.me/theorems/b4800765-98b3-4064-8947-7bc32bdf94b3

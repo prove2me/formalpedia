@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_GlueA_natCast_eq
 -- name    : PI.ScRefExists.GlueA.natCast_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:25:09.684263+00:00
 -- url     : https://prove2.me/theorems/a1e67dc5-f4f3-5878-9fab-9bb9aef47f05

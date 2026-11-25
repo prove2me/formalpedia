@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Hom_applyWord_tot
 -- name    : PI.OddDualWeyl.Hom.applyWord_tot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:34:56.009274+00:00
 -- url     : https://prove2.me/theorems/0713723e-2af9-56a6-94c1-5f322dcbc7ea

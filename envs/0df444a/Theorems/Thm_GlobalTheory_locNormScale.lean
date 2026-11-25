@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_locNormScale
 -- name    : GlobalTheory.locNormScale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:50:25.039393+00:00
 -- url     : https://prove2.me/theorems/3e33223f-98b9-420d-a80e-3adc64124777

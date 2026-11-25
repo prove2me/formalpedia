@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GlobalOrbits_lrel_equivalence
 -- name    : GlobalTheory.HL.GlobalOrbits.lrel_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:54:04.146135+00:00
 -- url     : https://prove2.me/theorems/7c04514b-e0d2-5389-860c-7d74eb8d6363

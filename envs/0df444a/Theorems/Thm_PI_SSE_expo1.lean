@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_expo1
 -- name    : PI.SSE.expo1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:20:02.166986+00:00
 -- url     : https://prove2.me/theorems/90bf9feb-61a6-586c-b056-85681898fdeb

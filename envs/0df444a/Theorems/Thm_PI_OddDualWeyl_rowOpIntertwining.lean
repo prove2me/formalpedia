@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_rowOpIntertwining
 -- name    : PI.OddDualWeyl.rowOpIntertwining
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:50:26.131748+00:00
 -- url     : https://prove2.me/theorems/f3b4eb30-3eb0-4ec0-bb31-4a3a5eb418f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_intAt_of_divAt_zero
 -- name    : PI.SqPairLocal.intAt_of_divAt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:24:40.600918+00:00
 -- url     : https://prove2.me/theorems/4dad2fcc-2959-5a9a-a687-57dc0c1291e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_SdAbs_B_sum_left
 -- name    : PI.OmFibreUniq.W.SdAbs.B_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:38:30.332799+00:00
 -- url     : https://prove2.me/theorems/1f96a89c-42bb-55a1-8c03-0c64ab10fbc7

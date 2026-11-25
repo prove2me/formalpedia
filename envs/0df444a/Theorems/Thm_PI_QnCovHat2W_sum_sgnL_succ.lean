@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovHat2W_sum_sgnL_succ
 -- name    : PI.QnCovHat2W.sum_sgnL_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:04:01.437666+00:00
 -- url     : https://prove2.me/theorems/9f9dd487-f2cd-50e2-ab52-cbe0d84be2a1

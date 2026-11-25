@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualLoc_W_sigInt
 -- name    : PI.SelfDualLoc.W.sigInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:24:05.274573+00:00
 -- url     : https://prove2.me/theorems/66744939-f5a0-4d1b-879a-6e9f0b1c0704

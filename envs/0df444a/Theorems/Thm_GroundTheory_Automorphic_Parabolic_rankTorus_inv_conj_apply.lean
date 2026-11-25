@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_rankTorus_inv_conj_apply
 -- name    : GroundTheory.Automorphic.Parabolic.rankTorus_inv_conj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:07:40.87698+00:00
 -- url     : https://prove2.me/theorems/7c323cf3-902d-5f0a-9c87-704f07e1afec

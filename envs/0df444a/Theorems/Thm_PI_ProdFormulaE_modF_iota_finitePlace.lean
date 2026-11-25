@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_modF_iota_finitePlace
 -- name    : PI.ProdFormulaE.modF_iota_finitePlace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:21:22.726473+00:00
 -- url     : https://prove2.me/theorems/9424000f-9838-5b6e-986d-a496d44f0e0f

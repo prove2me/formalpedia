@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_conj_lieOf
 -- name    : PI.RhsWLim.W.conj_lieOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:39:32.719429+00:00
 -- url     : https://prove2.me/theorems/2868e552-a33c-47dd-9286-52b930c82708

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PrimeLogOverPWork_log_factorial_ge
 -- name    : PI.PrimeLogOverPWork.log_factorial_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:17:48.326871+00:00
 -- url     : https://prove2.me/theorems/2ab0e63e-f13e-41e0-aff5-fba3f9d098f1

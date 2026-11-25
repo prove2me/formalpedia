@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_trace_tau_mem
 -- name    : PI.Dv.TIW.trace_tau_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:19:31.110143+00:00
 -- url     : https://prove2.me/theorems/238715ea-0d02-4eca-b746-3164ef898fa9

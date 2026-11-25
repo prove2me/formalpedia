@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_real_sq_bound
 -- name    : PI.PolynomialProperness.real_sq_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:58:29.121043+00:00
 -- url     : https://prove2.me/theorems/bd819c46-55dd-427c-a51a-74053f3b0a68

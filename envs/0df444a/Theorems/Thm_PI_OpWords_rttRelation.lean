@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_rttRelation
 -- name    : PI.OpWords.rttRelation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:49.821193+00:00
 -- url     : https://prove2.me/theorems/100fe5b6-19ac-4ba6-898a-93b04fb45f87

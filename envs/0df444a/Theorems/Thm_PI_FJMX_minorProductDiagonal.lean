@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_minorProductDiagonal
 -- name    : PI.FJMX.minorProductDiagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:38.119541+00:00
 -- url     : https://prove2.me/theorems/c1c0a3f7-9d1d-5581-b627-95514f114f8d

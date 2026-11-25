@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_borel_eq_generateFrom_smallCosets
 -- name    : GroundTheory.Automorphic.Measures.borel_eq_generateFrom_smallCosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:08:07.130356+00:00
 -- url     : https://prove2.me/theorems/f03de20c-4533-50c0-9788-4ea17be6d9a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_tst_Z_fix
 -- name    : PI.QnHermHaar.tst_Z_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:17:55.505425+00:00
 -- url     : https://prove2.me/theorems/e7143a45-b311-4f36-b2a2-8b8d5491d681

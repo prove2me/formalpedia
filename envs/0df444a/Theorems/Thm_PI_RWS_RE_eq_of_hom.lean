@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RWS_RE_eq_of_hom
 -- name    : PI.RWS.RE_eq_of_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:19:14.440473+00:00
 -- url     : https://prove2.me/theorems/c72f4110-66af-445f-b799-ae20018ece12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_idealSetSum
 -- name    : PI.Residue.idealSetSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:19:44.158942+00:00
 -- url     : https://prove2.me/theorems/45a1c79b-6539-5232-881f-44805eb8fdda

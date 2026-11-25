@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_isUnit_revInv
 -- name    : PI.OddDualWeyl.isUnit_revInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:15:04.581504+00:00
 -- url     : https://prove2.me/theorems/86444a90-1e6c-4ecf-8ba9-c9b1bde63148

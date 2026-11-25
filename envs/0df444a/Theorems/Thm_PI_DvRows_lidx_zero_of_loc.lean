@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_lidx_zero_of_loc
 -- name    : PI.DvRows.lidx_zero_of_loc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:22:51.585568+00:00
 -- url     : https://prove2.me/theorems/b7a37328-7b64-4a90-bfa8-263e1ab350f6

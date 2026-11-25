@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cartan_decomposition_gl_nonarchimedean
 -- name    : GlobalTheory.T.cartan_decomposition_gl_nonarchimedean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:51:54.4671+00:00
 -- url     : https://prove2.me/theorems/2ba7b076-cb46-4cd4-b856-fb093416da49

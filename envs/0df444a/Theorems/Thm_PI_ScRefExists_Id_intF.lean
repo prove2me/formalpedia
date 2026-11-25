@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_Id_intF
 -- name    : PI.ScRefExists.Id.intF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:47.59456+00:00
 -- url     : https://prove2.me/theorems/0359d58f-f6bb-4694-8d2f-5cf0f69972a9

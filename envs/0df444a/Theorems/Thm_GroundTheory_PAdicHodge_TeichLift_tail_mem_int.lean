@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_tail_mem_int
 -- name    : GroundTheory.PAdicHodge.TeichLift.tail_mem_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:45:52.679578+00:00
 -- url     : https://prove2.me/theorems/b1e112ae-77c0-4438-b614-b3613a16902e

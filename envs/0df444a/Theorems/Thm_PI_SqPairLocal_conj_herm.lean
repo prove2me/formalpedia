@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_conj_herm
 -- name    : PI.SqPairLocal.conj_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:26:05.209188+00:00
 -- url     : https://prove2.me/theorems/86d20f12-2416-4398-a16d-7062f9b0be61

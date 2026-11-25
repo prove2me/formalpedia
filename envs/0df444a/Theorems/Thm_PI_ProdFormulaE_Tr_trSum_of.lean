@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Tr_trSum_of
 -- name    : PI.ProdFormulaE.Tr.trSum_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:50.815741+00:00
 -- url     : https://prove2.me/theorems/40326896-7a09-4257-97e8-f992b4a86af1

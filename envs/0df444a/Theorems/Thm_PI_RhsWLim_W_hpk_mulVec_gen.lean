@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_hpk_mulVec_gen
 -- name    : PI.RhsWLim.W.hpk_mulVec_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:42:07.051795+00:00
 -- url     : https://prove2.me/theorems/2af9cddb-50b9-5d80-95d4-141ad823933c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootShift_W_card_ppRoots_le
 -- name    : PI.SqfRootShift.W.card_ppRoots_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:26:47.293855+00:00
 -- url     : https://prove2.me/theorems/17f6e31f-c842-484c-b4cc-c4d4f7fb6c68

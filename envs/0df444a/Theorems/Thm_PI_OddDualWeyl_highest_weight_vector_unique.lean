@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_highest_weight_vector_unique
 -- name    : PI.OddDualWeyl.highest_weight_vector_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:14:34.402937+00:00
 -- url     : https://prove2.me/theorems/1ab650da-62ea-5233-9922-05945efd666f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Core_SS_nonneg
 -- name    : PI.FockOneDegW.Core.SS_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:31:22.807421+00:00
 -- url     : https://prove2.me/theorems/2067da04-4c95-4e3b-9761-b17d93922712

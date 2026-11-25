@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_dyadic
 -- name    : PI.PC.dyadic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:35:59.853007+00:00
 -- url     : https://prove2.me/theorems/b37072c8-1168-4235-94ce-9e9967c05cef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_TM_mX_esI
 -- name    : PI.PolynomialProperness.TM.mX_esI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:37:11.905869+00:00
 -- url     : https://prove2.me/theorems/40f6a5ab-e3b6-42fc-a68b-87079ff46b4b

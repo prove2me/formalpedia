@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Cont_continuous_phiV
 -- name    : PI.LevelKSplit.W.Cont.continuous_phiV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:34:48.55781+00:00
 -- url     : https://prove2.me/theorems/017318d6-130f-5b78-bc64-c9b77b36b9e3

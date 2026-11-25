@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_homogeneous_component_raise_second
 -- name    : PI.FJMF.homogeneous_component_raise_second
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:30:24.693601+00:00
 -- url     : https://prove2.me/theorems/9a585cb1-4a46-46b3-942f-04a34abeb3b6

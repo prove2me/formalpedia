@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RL_W_REder_X
 -- name    : PI.RL.W.REder_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:19:25.47787+00:00
 -- url     : https://prove2.me/theorems/d9c96e5f-e354-4c26-87a3-2abf264a848c

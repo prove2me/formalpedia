@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMatBoundW_local_place_bound
 -- name    : PI.GGMatBoundW.local_place_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:31:03.453507+00:00
 -- url     : https://prove2.me/theorems/6e619611-b214-41ce-aca5-2dd514183b56

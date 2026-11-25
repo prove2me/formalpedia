@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RayBoundIQW_gen_coprime
 -- name    : PI.RayBoundIQW.gen_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:19:21.159302+00:00
 -- url     : https://prove2.me/theorems/0a211fd9-5991-4a17-9a4a-bf7b50e46289

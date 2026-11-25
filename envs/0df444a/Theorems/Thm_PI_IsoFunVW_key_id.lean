@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoFunVW_key_id
 -- name    : PI.IsoFunVW.key_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:03:01.09808+00:00
 -- url     : https://prove2.me/theorems/97bdab58-6853-4a62-986b-6342abd1b01d

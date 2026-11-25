@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ParahoricIdxZ_W_param_injective
 -- name    : PI.ParahoricIdxZ.W.param_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:35:48.799543+00:00
 -- url     : https://prove2.me/theorems/f79052db-4fd9-511a-9ba3-d91db6cc04ef

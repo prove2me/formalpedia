@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PhiCubeOfFactor_Wk_main
 -- name    : PI.PhiCubeOfFactor.Wk.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:42.152209+00:00
 -- url     : https://prove2.me/theorems/d05409b7-590a-57f5-9a4e-da2bc39a156a

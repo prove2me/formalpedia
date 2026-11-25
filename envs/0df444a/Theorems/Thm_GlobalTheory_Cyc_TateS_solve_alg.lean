@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_TateS_solve_alg
 -- name    : GlobalTheory.Cyc.TateS.solve_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:11:48.858979+00:00
 -- url     : https://prove2.me/theorems/f6a6acac-bfc0-5dcd-9350-0400ca28a75f

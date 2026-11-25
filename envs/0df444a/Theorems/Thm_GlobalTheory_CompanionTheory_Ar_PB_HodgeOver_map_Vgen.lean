@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_HodgeOver_map_Vgen
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.HodgeOver.map_Vgen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:39:50.571456+00:00
 -- url     : https://prove2.me/theorems/c522f2da-69a6-4241-81d4-62eed9795bb3

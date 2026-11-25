@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_GE_haarOn_smul
 -- name    : PI.RhsWLim.W.GE.haarOn_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:39:59.513879+00:00
 -- url     : https://prove2.me/theorems/3afd87d6-fe3c-4ebe-8f0e-ffaabd2233ed

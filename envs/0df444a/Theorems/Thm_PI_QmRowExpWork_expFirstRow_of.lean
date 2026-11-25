@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QmRowExpWork_expFirstRow_of
 -- name    : PI.QmRowExpWork.expFirstRow_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:38:50.441508+00:00
 -- url     : https://prove2.me/theorems/48dbf87f-8b87-4680-ab32-fa135686fa16

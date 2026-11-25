@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_ResCharP_eq_iff_mem_asIdeal
 -- name    : PI.ProdFormulaE.ResCharP.eq_iff_mem_asIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:36:47.599085+00:00
 -- url     : https://prove2.me/theorems/81548a6f-92ca-5215-a7bc-13dd565ec4f4

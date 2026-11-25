@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_exists_isPrimitive_map_eq_C_mul_830b3b67ea86
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_exists_isPrimitive_map_eq_C_mul_830b3b67ea86
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:43:15.546408+00:00
 -- url     : https://prove2.me/theorems/d36127b3-fb55-48c6-9f11-28f00f5618df

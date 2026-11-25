@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMatBoundW_joint_eigenvector_exists
 -- name    : PI.GGMatBoundW.joint_eigenvector_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:49.193648+00:00
 -- url     : https://prove2.me/theorems/a70bb9d4-383a-5815-a729-8d062b73163c

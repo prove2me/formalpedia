@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_vecRaise2
 -- name    : PI.FJMX.vecRaise2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:29:52.070349+00:00
 -- url     : https://prove2.me/theorems/a0222e3c-951f-4f54-8253-8d77b7bf6cfb

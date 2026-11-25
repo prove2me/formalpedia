@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotMeasUniqW_measurable_smul_quot
 -- name    : PI.QuotMeasUniqW.measurable_smul_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:18:47.597818+00:00
 -- url     : https://prove2.me/theorems/45eff2bb-31df-4814-853a-cb8e6f6a6cb4

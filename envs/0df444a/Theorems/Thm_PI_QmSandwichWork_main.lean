@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QmSandwichWork_main
 -- name    : PI.QmSandwichWork.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:32:48.489085+00:00
 -- url     : https://prove2.me/theorems/01dee6d5-c6fe-43ff-8aa6-36fab75da3b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_Gen_repOn_intCast
 -- name    : PI.QnHermHaar.Gen.repOn_intCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:55.189882+00:00
 -- url     : https://prove2.me/theorems/420c7b87-5c8a-5fb9-823a-6ae3ebdd79cc

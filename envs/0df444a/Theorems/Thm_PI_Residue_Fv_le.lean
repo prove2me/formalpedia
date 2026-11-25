@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_Fv_le
 -- name    : PI.Residue.Fv_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:28:01.256596+00:00
 -- url     : https://prove2.me/theorems/20ab3406-6b77-4ca4-b67f-267017517867

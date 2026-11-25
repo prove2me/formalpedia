@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianFlagUnipotent_normalForm_rescaled
 -- name    : GlobalTheory.T.hermitianFlagUnipotent_normalForm_rescaled
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:56:51.744881+00:00
 -- url     : https://prove2.me/theorems/0a05a5b7-334e-420a-9470-61e6a7b21751

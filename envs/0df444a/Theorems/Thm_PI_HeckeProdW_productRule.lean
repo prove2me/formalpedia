@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HeckeProdW_productRule
 -- name    : PI.HeckeProdW.productRule
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:31:29.029943+00:00
 -- url     : https://prove2.me/theorems/ff8cd8fc-ee15-408d-8cb5-f2f018a72c6b

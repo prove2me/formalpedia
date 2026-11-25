@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Pair_near_one
 -- name    : PI.KLW.Pair.near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:32:22.682126+00:00
 -- url     : https://prove2.me/theorems/aca7b76c-ceae-597d-8357-a443a214c65c

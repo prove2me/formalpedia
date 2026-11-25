@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotMeasUniqW_hAvg_mul_mem
 -- name    : PI.QuotMeasUniqW.hAvg_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:18:12.933135+00:00
 -- url     : https://prove2.me/theorems/7f966d87-1b51-510c-ac90-7d63fa4bfd77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_uwset_inv
 -- name    : PI.RhsWLim.W.RI.uwset_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:53:16.446997+00:00
 -- url     : https://prove2.me/theorems/2ad47416-ed63-5c49-9506-cb1406a66f45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_rmul_scale
 -- name    : PI.RhsWLim.W.rmul_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:20:38.63665+00:00
 -- url     : https://prove2.me/theorems/2fc2b674-2126-5f81-a674-d99ac334d36d

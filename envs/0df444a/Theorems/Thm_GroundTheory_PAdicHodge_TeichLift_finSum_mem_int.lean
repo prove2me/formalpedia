@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_finSum_mem_int
 -- name    : GroundTheory.PAdicHodge.TeichLift.finSum_mem_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:35:39.517467+00:00
 -- url     : https://prove2.me/theorems/6b62c6ff-6e36-4aea-be68-06f8739d35d3

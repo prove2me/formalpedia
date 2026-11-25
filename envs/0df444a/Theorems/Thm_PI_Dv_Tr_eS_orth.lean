@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_eS_orth
 -- name    : PI.Dv.Tr.eS_orth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:02:26.771088+00:00
 -- url     : https://prove2.me/theorems/f94e772d-5cdd-4e03-803e-c573a12378b7

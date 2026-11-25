@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_twisted_eq
 -- name    : GlobalTheory.MatchTerm.twisted_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:21:33.385119+00:00
 -- url     : https://prove2.me/theorems/892f4e65-5de8-4e3a-b0a0-5aa06ed5dd2f

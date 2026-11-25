@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_hq_periodic
 -- name    : PI.RhsWLim.W.hq_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:59:50.060033+00:00
 -- url     : https://prove2.me/theorems/231152a7-3db7-5fb3-abc7-5436bff66507

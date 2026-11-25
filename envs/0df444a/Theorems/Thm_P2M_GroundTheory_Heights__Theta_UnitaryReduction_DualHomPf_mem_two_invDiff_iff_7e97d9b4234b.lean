@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_UnitaryReduction_DualHomPf_mem_two_invDiff_iff_7e97d9b4234b
 -- name    : P2M_GroundTheory_Heights__Theta_UnitaryReduction_DualHomPf_mem_two_invDiff_iff_7e97d9b4234b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:08:02.646833+00:00
 -- url     : https://prove2.me/theorems/325f40d6-84ff-4dff-81f5-b987b2cc4e8c

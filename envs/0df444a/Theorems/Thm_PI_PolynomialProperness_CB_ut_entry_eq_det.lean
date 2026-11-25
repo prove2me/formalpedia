@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CB_ut_entry_eq_det
 -- name    : PI.PolynomialProperness.CB.ut_entry_eq_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:07.409414+00:00
 -- url     : https://prove2.me/theorems/d8434bea-929c-544d-88c6-975a2c829807

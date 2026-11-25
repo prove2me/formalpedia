@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_signStep_of
 -- name    : PI.FrameInd.signStep_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:31:57.588152+00:00
 -- url     : https://prove2.me/theorems/08c8a385-fa9e-4bf0-9879-23d1b5df8398

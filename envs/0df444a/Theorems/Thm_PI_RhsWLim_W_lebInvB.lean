@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_lebInvB
 -- name    : PI.RhsWLim.W.lebInvB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:34:24.448814+00:00
 -- url     : https://prove2.me/theorems/8712d9ce-e6b5-4e58-b655-b788fcc6a712

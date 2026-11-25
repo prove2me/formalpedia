@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CoreW_herm_smul_right
 -- name    : PI.PolynomialProperness.CoreW.herm_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:36:11.573262+00:00
 -- url     : https://prove2.me/theorems/bb6096e2-91a5-559b-acf2-e2844f8e8758

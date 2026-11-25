@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PhNormUnits_UnitaryGroupMassFormula_zc_inv_of
 -- name    : PI.PhNormUnits.UnitaryGroupMassFormula.zc_inv_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:36:50.7506+00:00
 -- url     : https://prove2.me/theorems/4a8db410-73b7-4978-829f-a09942215f80

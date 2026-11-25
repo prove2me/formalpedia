@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QmIndepW_indepC
 -- name    : PI.QmIndepW.indepC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:17:02.56545+00:00
 -- url     : https://prove2.me/theorems/78b50bb9-e9c1-53d3-8066-7336ddd1cb40

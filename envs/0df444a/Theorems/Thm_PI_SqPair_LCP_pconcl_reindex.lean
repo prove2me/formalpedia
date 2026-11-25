@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_pconcl_reindex
 -- name    : PI.SqPair.LCP.pconcl_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:26:46.363271+00:00
 -- url     : https://prove2.me/theorems/1aa2160e-9a1f-5a3d-82bf-0de53853a42f

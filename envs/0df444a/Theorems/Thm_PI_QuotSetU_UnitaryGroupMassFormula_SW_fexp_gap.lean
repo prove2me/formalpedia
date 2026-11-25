@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_SW_fexp_gap
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.SW.fexp_gap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:18:40.896401+00:00
 -- url     : https://prove2.me/theorems/ccd5c5ca-c713-4ec5-9ca5-1399417ef6ba

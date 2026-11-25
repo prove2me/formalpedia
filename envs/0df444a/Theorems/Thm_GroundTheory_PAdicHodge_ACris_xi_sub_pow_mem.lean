@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_xi_sub_pow_mem
 -- name    : GroundTheory.PAdicHodge.ACris.xi_sub_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:07:48.993582+00:00
 -- url     : https://prove2.me/theorems/7109101c-22d5-5bea-911c-c057d5cbec07

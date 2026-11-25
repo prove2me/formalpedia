@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_meas_Gf
 -- name    : PI.RhsWLim.W.RI.meas_Gf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:58:30.453087+00:00
 -- url     : https://prove2.me/theorems/5cf7346e-8447-4d47-bc5d-0a9432ef5449

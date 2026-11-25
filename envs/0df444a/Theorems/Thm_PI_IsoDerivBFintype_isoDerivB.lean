@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDerivBFintype_isoDerivB
 -- name    : PI.IsoDerivBFintype.isoDerivB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:08:23.093871+00:00
 -- url     : https://prove2.me/theorems/b2712e20-ba32-41af-9ebf-5161a24488e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Padic_ord_p
 -- name    : GroundTheory.LocalField.Padic.ord_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:36:28.254338+00:00
 -- url     : https://prove2.me/theorems/c4a909cf-fdc1-4bcc-8d66-fdf0184f6727

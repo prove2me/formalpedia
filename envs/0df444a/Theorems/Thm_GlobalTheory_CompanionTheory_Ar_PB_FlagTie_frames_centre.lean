@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_FlagTie_frames_centre
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.FlagTie.frames_centre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:34:11.938666+00:00
 -- url     : https://prove2.me/theorems/270fb3ef-01ae-5936-9b99-87efcaaed7bb

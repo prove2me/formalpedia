@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_SW_mem_S_iff
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.SW.mem_S_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:20:26.910799+00:00
 -- url     : https://prove2.me/theorems/0577a1ed-e755-5091-9bec-a71ade14a4bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtIsom_vec_li
 -- name    : GlobalTheory.EtIsom.vec_li
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:12:49.443234+00:00
 -- url     : https://prove2.me/theorems/d5fc3071-0cdf-450f-93f0-aad4146aa4bc

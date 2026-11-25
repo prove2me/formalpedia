@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_vanish_at
 -- name    : PI.OpWords.vanish_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:16:55.745255+00:00
 -- url     : https://prove2.me/theorems/75331b3d-71bf-48be-8a78-d65565575e3f

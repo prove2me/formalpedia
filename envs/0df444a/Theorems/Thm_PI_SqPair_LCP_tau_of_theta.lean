@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_tau_of_theta
 -- name    : PI.SqPair.LCP.tau_of_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:24:18.027193+00:00
 -- url     : https://prove2.me/theorems/21a6e34e-3c3e-5936-8294-db24997838b8

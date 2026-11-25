@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_move_range
 -- name    : PI.Dv.Tr.move_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:33:49.401801+00:00
 -- url     : https://prove2.me/theorems/32b4b0c3-442f-5f3f-8048-f9bb7d0cd880

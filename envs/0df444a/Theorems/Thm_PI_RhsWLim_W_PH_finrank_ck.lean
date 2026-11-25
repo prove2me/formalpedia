@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_PH_finrank_ck
 -- name    : PI.RhsWLim.W.PH.finrank_ck
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:27:07.029478+00:00
 -- url     : https://prove2.me/theorems/8b76279d-ed79-4e9a-ae68-4fdebd624ed0

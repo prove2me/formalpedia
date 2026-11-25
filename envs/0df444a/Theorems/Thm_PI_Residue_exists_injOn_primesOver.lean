@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_exists_injOn_primesOver
 -- name    : PI.Residue.exists_injOn_primesOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:19:34.694137+00:00
 -- url     : https://prove2.me/theorems/bfe48cfd-1987-43e8-afd8-14393c7af870

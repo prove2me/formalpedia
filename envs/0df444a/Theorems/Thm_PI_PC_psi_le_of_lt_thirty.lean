@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_psi_le_of_lt_thirty
 -- name    : PI.PC.psi_le_of_lt_thirty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:49.404651+00:00
 -- url     : https://prove2.me/theorems/1ba77ff4-4cb3-4545-9b69-96eb711e08c5

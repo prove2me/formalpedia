@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExistsGaugeMeasureForEachRank_W_isHaar
 -- name    : PI.ExistsGaugeMeasureForEachRank.W.isHaar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:26:35.365948+00:00
 -- url     : https://prove2.me/theorems/47ff1d66-e468-4292-a820-8a7f4b880241

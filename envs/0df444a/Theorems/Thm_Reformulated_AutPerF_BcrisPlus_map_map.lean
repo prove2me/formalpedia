@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_BcrisPlus_map_map
 -- name    : Reformulated.AutPerF.BcrisPlus.map_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:51:30.670125+00:00
 -- url     : https://prove2.me/theorems/0ec437ee-462f-48e5-9599-9e0a43af3645

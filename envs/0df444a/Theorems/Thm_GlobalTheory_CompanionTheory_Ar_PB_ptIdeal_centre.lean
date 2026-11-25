@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_ptIdeal_centre
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.ptIdeal_centre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:22:22.186498+00:00
 -- url     : https://prove2.me/theorems/154568aa-0eee-5db1-91f2-3436d63675d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_C2_claim2
 -- name    : PI.OneCosetSharp.W.C2.claim2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:15:34.353093+00:00
 -- url     : https://prove2.me/theorems/4d3c36d9-fbf4-5419-aa16-ac0a706a0eb1

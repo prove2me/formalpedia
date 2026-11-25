@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Pair_half
 -- name    : PI.KLW.Pair.half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:27:22.790208+00:00
 -- url     : https://prove2.me/theorems/b0078740-37a7-4d01-899f-e953fc47d613

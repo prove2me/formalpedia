@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairs_ConvAlg_rhoOf_unitary
 -- name    : PI.StabPairs.ConvAlg.rhoOf_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:27:00.627891+00:00
 -- url     : https://prove2.me/theorems/24dabf5e-4243-5d18-ac9f-222e5d2cc3ac

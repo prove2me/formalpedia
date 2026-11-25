@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PrimeLogOverPWork_log_factorial_eq
 -- name    : PI.PrimeLogOverPWork.log_factorial_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:17:42.257405+00:00
 -- url     : https://prove2.me/theorems/b34f251f-120a-5bdc-b8e1-627e56dc645d

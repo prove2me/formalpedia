@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_map_ker_fontaineThetaInvertP
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.map_ker_fontaineThetaInvertP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:04:05.515525+00:00
 -- url     : https://prove2.me/theorems/c2ac2e4a-064a-4ef8-bf4a-b53527c95fc7

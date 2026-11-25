@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermiteMinkowski_finite_unramified_bounded_degree
 -- name    : GlobalTheory.CompanionTheory.HermiteMinkowski.finite_unramified_bounded_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:00:06.639627+00:00
 -- url     : https://prove2.me/theorems/4277aefa-4893-53b9-ba80-e97407ddbe44

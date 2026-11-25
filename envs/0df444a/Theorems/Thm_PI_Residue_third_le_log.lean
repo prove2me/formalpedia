@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_third_le_log
 -- name    : PI.Residue.third_le_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:19:57.994225+00:00
 -- url     : https://prove2.me/theorems/edd63890-a516-4fca-8d6d-3a99195e8f25

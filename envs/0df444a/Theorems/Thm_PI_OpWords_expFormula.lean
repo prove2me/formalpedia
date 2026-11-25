@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_expFormula
 -- name    : PI.OpWords.expFormula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:17:09.915449+00:00
 -- url     : https://prove2.me/theorems/1ae70de9-03c8-47b4-8f02-b48ee14a39a4

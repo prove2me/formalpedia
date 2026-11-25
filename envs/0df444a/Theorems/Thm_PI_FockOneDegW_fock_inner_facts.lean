@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_fock_inner_facts
 -- name    : PI.FockOneDegW.fock_inner_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:30:21.644997+00:00
 -- url     : https://prove2.me/theorems/58e5e447-da98-442f-b308-9e09d6dcbdbe

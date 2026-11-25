@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_smoothed_explicit_formula
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.smoothed_explicit_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:27:51.870915+00:00
 -- url     : https://prove2.me/theorems/56f8eb2a-3637-44f7-a983-a0edd29eb1b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NglqJacSplitW_linModulus_of
 -- name    : PI.NglqJacSplitW.linModulus_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:34:38.643012+00:00
 -- url     : https://prove2.me/theorems/53b1399b-26bf-4e11-b8cd-3a4fcd830db6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualLoc_W_intOE_map
 -- name    : PI.SelfDualLoc.W.intOE_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:23:35.8909+00:00
 -- url     : https://prove2.me/theorems/69dce127-c9ef-5953-b01d-fccd5021f72c

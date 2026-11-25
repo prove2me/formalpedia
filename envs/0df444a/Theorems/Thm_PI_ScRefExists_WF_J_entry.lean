@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_WF_J_entry
 -- name    : PI.ScRefExists.WF.J_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:37:51.995814+00:00
 -- url     : https://prove2.me/theorems/a19c62a0-ac2e-44b3-b04e-e9f054a64b84

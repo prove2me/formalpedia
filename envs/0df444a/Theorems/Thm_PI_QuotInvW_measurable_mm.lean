@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotInvW_measurable_mm
 -- name    : PI.QuotInvW.measurable_mm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:29:34.880146+00:00
 -- url     : https://prove2.me/theorems/9dad08e4-91be-4d0b-b1f9-eccf4a656a51

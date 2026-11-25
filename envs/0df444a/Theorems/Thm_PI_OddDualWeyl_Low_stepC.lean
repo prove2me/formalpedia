@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Low_stepC
 -- name    : PI.OddDualWeyl.Low.stepC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:14:20.684111+00:00
 -- url     : https://prove2.me/theorems/12a83d74-669d-5a08-af27-12e64e5c0407

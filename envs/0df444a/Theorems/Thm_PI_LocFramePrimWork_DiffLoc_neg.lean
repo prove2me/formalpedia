@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_DiffLoc_neg
 -- name    : PI.LocFramePrimWork.DiffLoc_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:13:56.745113+00:00
 -- url     : https://prove2.me/theorems/86988dfe-b568-4a22-b9cd-28e269571c8a

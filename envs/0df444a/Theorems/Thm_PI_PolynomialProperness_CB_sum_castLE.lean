@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CB_sum_castLE
 -- name    : PI.PolynomialProperness.CB.sum_castLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:38:11.899875+00:00
 -- url     : https://prove2.me/theorems/8796f867-9a1f-4f14-a8d2-0902b9ab61d9

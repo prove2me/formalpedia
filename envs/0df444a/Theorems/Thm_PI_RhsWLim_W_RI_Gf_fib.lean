@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_Gf_fib
 -- name    : PI.RhsWLim.W.RI.Gf_fib
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:58:51.023254+00:00
 -- url     : https://prove2.me/theorems/79b2a675-250a-4f1c-9082-7e1599aed103

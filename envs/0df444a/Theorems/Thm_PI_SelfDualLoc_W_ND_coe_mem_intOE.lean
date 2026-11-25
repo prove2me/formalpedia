@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualLoc_W_ND_coe_mem_intOE
 -- name    : PI.SelfDualLoc.W.ND.coe_mem_intOE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:37:01.421776+00:00
 -- url     : https://prove2.me/theorems/f2c06e5d-d88d-414c-8e09-da1c1a9b7299

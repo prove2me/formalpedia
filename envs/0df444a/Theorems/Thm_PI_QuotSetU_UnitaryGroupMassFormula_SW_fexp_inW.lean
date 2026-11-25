@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_SW_fexp_inW
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.SW.fexp_inW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:18:41.97584+00:00
 -- url     : https://prove2.me/theorems/c73e8056-3758-410d-9d2f-ed3b469c53a1

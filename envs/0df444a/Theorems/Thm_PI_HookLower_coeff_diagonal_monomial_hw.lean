@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookLower_coeff_diagonal_monomial_hw
 -- name    : PI.HookLower.coeff_diagonal_monomial_hw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:22.571923+00:00
 -- url     : https://prove2.me/theorems/58ebe85d-b0c7-4f5d-949c-516a77aff54e

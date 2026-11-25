@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrderIdealIndexExtension_proof_8d47388f535b
 -- name    : P2M_GroundTheory_Heights__Heights_OrderIdealIndexExtension_proof_8d47388f535b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:05:47.583257+00:00
 -- url     : https://prove2.me/theorems/7937be46-5cae-586a-85dc-4a3bd7dab20a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_HaarBox_toLin_mem_box
 -- name    : PI.ProdFormulaE.HaarBox.toLin_mem_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:36:37.913264+00:00
 -- url     : https://prove2.me/theorems/87a245e4-07a8-4f24-be03-70969edbe8d3

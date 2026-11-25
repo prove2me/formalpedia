@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_mem_untiltField
 -- name    : GroundTheory.PAdicHodge.exists_mem_untiltField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:42:44.955007+00:00
 -- url     : https://prove2.me/theorems/55fba047-b456-4421-b4ff-1a67f53703c2

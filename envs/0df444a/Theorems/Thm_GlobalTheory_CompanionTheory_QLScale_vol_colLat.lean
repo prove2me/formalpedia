@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLScale_vol_colLat
 -- name    : GlobalTheory.CompanionTheory.QLScale.vol_colLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:03:56.655838+00:00
 -- url     : https://prove2.me/theorems/31e50cf6-a10f-5515-a2f6-d06f8d9457f8

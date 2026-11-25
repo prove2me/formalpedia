@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_kernel_harmonic
 -- name    : PI.FockOneDegW.kernel_harmonic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:31:34.628396+00:00
 -- url     : https://prove2.me/theorems/ea215b93-1f27-4839-87f2-79f11e6016f4

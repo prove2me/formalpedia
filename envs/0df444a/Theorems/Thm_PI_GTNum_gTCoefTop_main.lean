@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTNum_gTCoefTop_main
 -- name    : PI.GTNum.gTCoefTop_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:31:39.162329+00:00
 -- url     : https://prove2.me/theorems/def4db4a-c9b2-42cc-9b96-270adf3486df

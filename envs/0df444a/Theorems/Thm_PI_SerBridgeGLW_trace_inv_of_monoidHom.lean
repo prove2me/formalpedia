@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SerBridgeGLW_trace_inv_of_monoidHom
 -- name    : PI.SerBridgeGLW.trace_inv_of_monoidHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:37:03.213705+00:00
 -- url     : https://prove2.me/theorems/3bc8af1a-41a2-5f5a-a41d-3683bf6a1244

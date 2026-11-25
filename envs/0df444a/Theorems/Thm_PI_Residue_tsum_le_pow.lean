@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_tsum_le_pow
 -- name    : PI.Residue.tsum_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:19:51.064901+00:00
 -- url     : https://prove2.me/theorems/39e24fcf-4242-4dbb-80f5-bb724e390366

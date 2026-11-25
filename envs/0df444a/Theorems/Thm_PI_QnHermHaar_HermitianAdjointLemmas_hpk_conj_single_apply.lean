@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_HermitianAdjointLemmas_hpk_conj_single_apply
 -- name    : PI.QnHermHaar.HermitianAdjointLemmas.hpk_conj_single_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:00:17.202569+00:00
 -- url     : https://prove2.me/theorems/8e83ad34-8be6-4aeb-a5c1-431ad34e79bf

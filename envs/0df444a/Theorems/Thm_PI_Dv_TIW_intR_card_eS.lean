@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_intR_card_eS
 -- name    : PI.Dv.TIW.intR_card_eS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:28:31.976281+00:00
 -- url     : https://prove2.me/theorems/70acecd0-5ba4-49c7-baa2-0b492d5c35bb

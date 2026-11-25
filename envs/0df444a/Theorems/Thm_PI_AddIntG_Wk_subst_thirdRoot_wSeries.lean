@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_subst_thirdRoot_wSeries
 -- name    : PI.AddIntG.Wk.subst_thirdRoot_wSeries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:13:00.280628+00:00
 -- url     : https://prove2.me/theorems/1e206558-a487-487b-94a3-aa00d3ce9126

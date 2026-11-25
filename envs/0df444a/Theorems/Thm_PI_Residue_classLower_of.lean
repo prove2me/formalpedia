@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_classLower_of
 -- name    : PI.Residue.classLower_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:19:28.500808+00:00
 -- url     : https://prove2.me/theorems/64f0ca96-856c-456f-abea-e78511fb43a5

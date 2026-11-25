@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFinJacquet_jacquetAll
 -- name    : GlobalTheory.CompanionTheory.TyFinJacquet.jacquetAll
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:18:52.852836+00:00
 -- url     : https://prove2.me/theorems/13d64368-fad4-45ca-a074-63c54c48be29

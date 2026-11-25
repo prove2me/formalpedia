@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_NO_normOne_of_pair
 -- name    : PI.KLW.NO.normOne_of_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:00.42782+00:00
 -- url     : https://prove2.me/theorems/5addda8f-efd3-5f17-afd8-03c1b8c6192d

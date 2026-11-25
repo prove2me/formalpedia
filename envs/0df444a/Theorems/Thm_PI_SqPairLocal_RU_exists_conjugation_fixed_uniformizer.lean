@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_RU_exists_conjugation_fixed_uniformizer
 -- name    : PI.SqPairLocal.RU.exists_conjugation_fixed_uniformizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:25:45.866386+00:00
 -- url     : https://prove2.me/theorems/ed23fa99-1318-5927-a1d1-547a52354356

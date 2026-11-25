@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_chatAlina
 -- name    : PI.QnHermHaar.chatAlina
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:37:09.237993+00:00
 -- url     : https://prove2.me/theorems/68ade9cd-c403-4ded-8408-dc966fe63d0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_HaarBox_isCompact_ball
 -- name    : PI.ProdFormulaE.HaarBox.isCompact_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:36:25.593872+00:00
 -- url     : https://prove2.me/theorems/bcaaa5ba-7baf-416c-8c9b-75f6eada06b5

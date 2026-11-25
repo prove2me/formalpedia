@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SplitIntLoc_Proof_mem_max_iff
 -- name    : PI.SplitIntLoc.Proof.mem_max_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:24:13.531077+00:00
 -- url     : https://prove2.me/theorems/55c8dd92-de43-563f-889e-6469c186ed88

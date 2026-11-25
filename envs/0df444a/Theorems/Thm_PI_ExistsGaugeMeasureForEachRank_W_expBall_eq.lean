@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExistsGaugeMeasureForEachRank_W_expBall_eq
 -- name    : PI.ExistsGaugeMeasureForEachRank.W.expBall_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:26:41.511034+00:00
 -- url     : https://prove2.me/theorems/66fc1de4-8a1f-479c-8fa3-fe695622ce14

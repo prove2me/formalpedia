@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Tr_toPi_injective
 -- name    : PI.ProdFormulaE.Tr.toPi_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:37.841963+00:00
 -- url     : https://prove2.me/theorems/15d7df89-5e0f-5102-857c-b5702dba5ac2

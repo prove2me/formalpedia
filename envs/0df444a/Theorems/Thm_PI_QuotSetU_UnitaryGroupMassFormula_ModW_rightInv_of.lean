@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_ModW_rightInv_of
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.ModW.rightInv_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:18:23.196634+00:00
 -- url     : https://prove2.me/theorems/65d3ab60-48c6-5032-9601-ed3e0972f3a0

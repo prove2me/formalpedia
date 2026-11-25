@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_td_of_inj
 -- name    : PI.OmFibreUniq.W.td_of_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:16:39.694299+00:00
 -- url     : https://prove2.me/theorems/f62f2220-8d8d-42ab-a135-16b0c5ac7391

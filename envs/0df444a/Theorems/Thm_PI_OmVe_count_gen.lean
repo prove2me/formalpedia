@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmVe_count_gen
 -- name    : PI.OmVe.count_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:29:03.578407+00:00
 -- url     : https://prove2.me/theorems/11085c42-b615-461f-9bb3-c564148c83d6

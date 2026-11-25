@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_Sk_target_of_steps
 -- name    : PI.ScRefExists.Sk.target_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:23:17.823985+00:00
 -- url     : https://prove2.me/theorems/7508f22b-7e68-44a2-a90c-532f6f36a0c4

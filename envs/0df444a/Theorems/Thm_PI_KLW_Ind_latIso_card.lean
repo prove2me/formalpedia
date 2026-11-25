@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Ind_latIso_card
 -- name    : PI.KLW.Ind.latIso_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:33:07.087805+00:00
 -- url     : https://prove2.me/theorems/f8fca66a-da81-4035-a6ef-af787e68e41e

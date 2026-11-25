@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_nestedNonnegativeIntegralToReal
 -- name    : Kyprianou.Ch04.nestedNonnegativeIntegralToReal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:27:13.782362+00:00
 -- url     : https://prove2.me/theorems/d8fbc7a0-564d-44af-a841-cde314267e7a

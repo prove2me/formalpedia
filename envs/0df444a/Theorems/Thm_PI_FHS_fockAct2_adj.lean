@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FHS_fockAct2_adj
 -- name    : PI.FHS.fockAct2_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:24.130166+00:00
 -- url     : https://prove2.me/theorems/87e3a39c-d70a-4bbb-a59d-da34387849a9

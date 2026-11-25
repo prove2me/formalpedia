@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_star_transfer_diagonal_zero
 -- name    : PI.QnHermHaar.star_transfer_diagonal_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:11.129333+00:00
 -- url     : https://prove2.me/theorems/d2daed7a-ce23-4051-b416-d09e76f71438

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_modF_iota
 -- name    : PI.ProdFormulaE.modF_iota
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:38:52.206461+00:00
 -- url     : https://prove2.me/theorems/052d2e5f-199a-4a35-9161-b6bd5b416c7e

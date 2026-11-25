@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_trueMartingale_deterministicLocalisation
 -- name    : Kyprianou.Ch04.kw47_trueMartingale_deterministicLocalisation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T08:30:47.689449+00:00
 -- url     : https://prove2.me/theorems/c1700d9e-2c87-44bf-acb9-27e49a0dcad2

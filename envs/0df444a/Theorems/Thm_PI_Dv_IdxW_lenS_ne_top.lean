@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_IdxW_lenS_ne_top
 -- name    : PI.Dv.IdxW.lenS_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:40:02.447313+00:00
 -- url     : https://prove2.me/theorems/4e022d1c-7970-5063-ab29-fec9c9f0e490

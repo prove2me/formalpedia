@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_Proj_prj_sq
 -- name    : PI.StabSplit.Proj.prj_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:27.569472+00:00
 -- url     : https://prove2.me/theorems/94beed48-3298-4775-aa53-0ec9a1711b4e

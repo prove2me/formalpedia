@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_smul_mem_lat
 -- name    : PI.Residue.smul_mem_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:19:55.15101+00:00
 -- url     : https://prove2.me/theorems/4be97368-a3ba-4e8a-9d24-2048153487c4

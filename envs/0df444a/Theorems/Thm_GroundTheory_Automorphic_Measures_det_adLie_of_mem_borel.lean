@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_det_adLie_of_mem_borel
 -- name    : GroundTheory.Automorphic.Measures.det_adLie_of_mem_borel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:01:32.410091+00:00
 -- url     : https://prove2.me/theorems/d4d69fef-c92c-422a-aae0-5336634166d0

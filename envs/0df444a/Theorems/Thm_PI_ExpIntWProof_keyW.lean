@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ExpIntWProof_keyW
 -- name    : PI.ExpIntWProof.keyW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:25:31.119284+00:00
 -- url     : https://prove2.me/theorems/0f55bb29-9b4b-40de-9af9-9e13b487c116

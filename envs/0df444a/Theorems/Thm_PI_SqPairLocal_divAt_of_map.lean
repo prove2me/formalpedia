@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_divAt_of_map
 -- name    : PI.SqPairLocal.divAt_of_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:26:16.043712+00:00
 -- url     : https://prove2.me/theorems/40cf4810-894c-4ad4-890e-9893bb43ab92

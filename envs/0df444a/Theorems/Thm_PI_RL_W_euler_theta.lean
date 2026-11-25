@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RL_W_euler_theta
 -- name    : PI.RL.W.euler_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:18:59.246533+00:00
 -- url     : https://prove2.me/theorems/01c53408-145a-5ee7-a3cd-7cc0a2363a6e

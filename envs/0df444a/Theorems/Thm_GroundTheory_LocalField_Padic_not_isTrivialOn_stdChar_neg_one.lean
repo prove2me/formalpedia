@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Padic_not_isTrivialOn_stdChar_neg_one
 -- name    : GroundTheory.LocalField.Padic.not_isTrivialOn_stdChar_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:36:48.077858+00:00
 -- url     : https://prove2.me/theorems/b2bd3ae3-3c1b-4397-b45b-12943f3bd444

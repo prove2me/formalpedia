@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_vfac_ne_top
 -- name    : PI.Residue.vfac_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:20:43.44213+00:00
 -- url     : https://prove2.me/theorems/d74f68c7-2dcc-4d8e-8e6a-72c0edc00fb0

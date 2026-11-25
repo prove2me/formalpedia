@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLP_coef_mul
 -- name    : PI.Dv.GLP.coef_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:27:28.006006+00:00
 -- url     : https://prove2.me/theorems/23416f84-bf82-44a9-bbf2-796f71b805d6

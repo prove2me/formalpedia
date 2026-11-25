@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSU_normF_one
 -- name    : PI.SSU.normF_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:21:49.694958+00:00
 -- url     : https://prove2.me/theorems/67ed371c-f0a4-4171-8d21-80a46a8b4802

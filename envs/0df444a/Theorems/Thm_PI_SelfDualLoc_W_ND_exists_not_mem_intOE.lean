@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualLoc_W_ND_exists_not_mem_intOE
 -- name    : PI.SelfDualLoc.W.ND.exists_not_mem_intOE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:37:25.619557+00:00
 -- url     : https://prove2.me/theorems/13f8effc-d988-4dc8-b34d-3c7f62179411

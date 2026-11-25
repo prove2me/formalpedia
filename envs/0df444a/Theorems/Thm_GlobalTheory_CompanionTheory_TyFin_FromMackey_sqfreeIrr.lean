@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_FromMackey_sqfreeIrr
 -- name    : GlobalTheory.CompanionTheory.TyFin.FromMackey.sqfreeIrr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:10:29.222614+00:00
 -- url     : https://prove2.me/theorems/6611f841-ecfe-4154-83e8-fe55d6dc7d27

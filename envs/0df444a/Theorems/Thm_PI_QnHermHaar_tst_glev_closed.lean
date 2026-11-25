@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_tst_glev_closed
 -- name    : PI.QnHermHaar.tst_glev_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:18:16.465468+00:00
 -- url     : https://prove2.me/theorems/fabaa0a4-345b-5b41-b5e3-9de65528feaa

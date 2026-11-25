@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoFunVW_AOp_hv
 -- name    : PI.IsoFunVW.AOp_hv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:02:39.047867+00:00
 -- url     : https://prove2.me/theorems/e0dd0fbc-a99a-4d24-b7a3-e0cf3f8b749b

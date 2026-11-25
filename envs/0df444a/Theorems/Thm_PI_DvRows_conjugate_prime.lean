@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_conjugate_prime
 -- name    : PI.DvRows.conjugate_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:32:34.062149+00:00
 -- url     : https://prove2.me/theorems/8fab3966-8f16-5c06-b694-5905dba2567d

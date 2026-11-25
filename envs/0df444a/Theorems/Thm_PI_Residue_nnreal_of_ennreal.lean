@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_nnreal_of_ennreal
 -- name    : PI.Residue.nnreal_of_ennreal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:20:39.173464+00:00
 -- url     : https://prove2.me/theorems/c4bf6d78-b035-4941-bc7d-008846ff1ce2

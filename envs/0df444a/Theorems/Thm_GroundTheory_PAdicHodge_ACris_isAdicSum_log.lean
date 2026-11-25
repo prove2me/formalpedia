@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_isAdicSum_log
 -- name    : GroundTheory.PAdicHodge.ACris.isAdicSum_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:08:41.718347+00:00
 -- url     : https://prove2.me/theorems/1bc3904c-0607-40ea-96ef-6bdf0ba0ec53

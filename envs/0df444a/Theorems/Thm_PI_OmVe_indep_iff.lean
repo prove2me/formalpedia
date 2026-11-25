@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmVe_indep_iff
 -- name    : PI.OmVe.indep_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:15:37.474216+00:00
 -- url     : https://prove2.me/theorems/9d59c76c-7b08-49d8-a893-e37acd2c3326

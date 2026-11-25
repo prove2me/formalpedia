@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Mk_good_of_dvd
 -- name    : PI.Mk.good_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:16.409295+00:00
 -- url     : https://prove2.me/theorems/d3e1c3c4-f8fc-494a-a7d4-e98d1c96e5cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_SW_trivS_of
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.SW.trivS_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:19:34.42624+00:00
 -- url     : https://prove2.me/theorems/16ae3c80-b83f-4104-a6da-f34fd996ae1b

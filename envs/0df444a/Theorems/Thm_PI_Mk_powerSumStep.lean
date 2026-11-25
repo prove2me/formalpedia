@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Mk_powerSumStep
 -- name    : PI.Mk.powerSumStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:34:32.029023+00:00
 -- url     : https://prove2.me/theorems/2c0221fd-2b4a-47cf-be44-48e3cc0f7583

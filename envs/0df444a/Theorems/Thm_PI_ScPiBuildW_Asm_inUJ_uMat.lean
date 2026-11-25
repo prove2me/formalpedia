@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Asm_inUJ_uMat
 -- name    : PI.ScPiBuildW.Asm.inUJ_uMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:37:42.437826+00:00
 -- url     : https://prove2.me/theorems/11f2a020-e0c2-409e-94d4-ad1a333e4194

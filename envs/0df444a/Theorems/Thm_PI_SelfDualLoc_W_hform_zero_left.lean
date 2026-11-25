@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualLoc_W_hform_zero_left
 -- name    : PI.SelfDualLoc.W.hform_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:23:20.039969+00:00
 -- url     : https://prove2.me/theorems/f89f7698-6b9c-44d4-8b96-8d0708af4a92

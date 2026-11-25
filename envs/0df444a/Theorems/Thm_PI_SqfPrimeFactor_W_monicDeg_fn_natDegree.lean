@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfPrimeFactor_W_monicDeg_fn_natDegree
 -- name    : PI.SqfPrimeFactor.W.monicDeg_fn_natDegree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:26:31.239716+00:00
 -- url     : https://prove2.me/theorems/c8e71ad2-69de-42bd-823b-c52bc4aae528

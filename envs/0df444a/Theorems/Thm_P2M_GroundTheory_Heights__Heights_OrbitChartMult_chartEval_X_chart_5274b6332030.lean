@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitChartMult_chartEval_X_chart_5274b6332030
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitChartMult_chartEval_X_chart_5274b6332030
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:23:23.191801+00:00
 -- url     : https://prove2.me/theorems/83b878f7-dbe5-4d3b-8071-7bc1b8b02c1a

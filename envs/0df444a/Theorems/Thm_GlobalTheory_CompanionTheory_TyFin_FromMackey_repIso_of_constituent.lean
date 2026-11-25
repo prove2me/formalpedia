@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_FromMackey_repIso_of_constituent
 -- name    : GlobalTheory.CompanionTheory.TyFin.FromMackey.repIso_of_constituent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:18:13.083257+00:00
 -- url     : https://prove2.me/theorems/cf0e443f-f0d2-448a-8d3a-a359234138fa

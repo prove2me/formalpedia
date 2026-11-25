@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_GWG_crt_ge
 -- name    : PI.ScRefExists.GWG.crt_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:22:14.360854+00:00
 -- url     : https://prove2.me/theorems/aca956fd-9f7d-4bc2-97d5-eeafc27bde43

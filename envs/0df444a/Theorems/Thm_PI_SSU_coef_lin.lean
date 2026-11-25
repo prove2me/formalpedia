@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSU_coef_lin
 -- name    : PI.SSU.coef_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:21:40.901142+00:00
 -- url     : https://prove2.me/theorems/c130ae36-eace-4006-a092-8b958a0c0e0e

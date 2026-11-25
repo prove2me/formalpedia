@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OkpW_exists_inv_mod
 -- name    : PI.OkpW.exists_inv_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:16:28.294619+00:00
 -- url     : https://prove2.me/theorems/e1cc6272-f81b-464f-bca2-856ea94d997a

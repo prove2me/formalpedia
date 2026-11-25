@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_GoodPt_zero
 -- name    : Formalism.L2.FormalSeriesBounds.VP.GoodPt.zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:59:47.643866+00:00
 -- url     : https://prove2.me/theorems/996e2506-9d81-57ce-ba49-ecff34b769b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_vfac_eq
 -- name    : PI.Residue.vfac_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:20:08.830494+00:00
 -- url     : https://prove2.me/theorems/f588b981-977b-4fb7-b189-6bb6c1e40439

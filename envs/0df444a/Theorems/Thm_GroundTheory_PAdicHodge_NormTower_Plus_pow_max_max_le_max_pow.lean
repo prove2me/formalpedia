@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_NormTower_Plus_pow_max_max_le_max_pow
 -- name    : GroundTheory.PAdicHodge.NormTower.Plus.pow_max_max_le_max_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:53:51.058802+00:00
 -- url     : https://prove2.me/theorems/831835fe-c443-4e6f-bd2a-dc2a3a7ffbba

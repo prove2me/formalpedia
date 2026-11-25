@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_eq_zero_of_forall_mem_maximalIdeal_pow
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.eq_zero_of_forall_mem_maximalIdeal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:09:03.190904+00:00
 -- url     : https://prove2.me/theorems/18ce6da3-efdb-4d40-addd-1c0ab35ef79e

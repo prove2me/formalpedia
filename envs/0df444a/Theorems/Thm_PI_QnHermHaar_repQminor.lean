@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_repQminor
 -- name    : PI.QnHermHaar.repQminor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:05:44.158972+00:00
 -- url     : https://prove2.me/theorems/e7eb39e3-4483-4e92-8073-8268e577a3f2

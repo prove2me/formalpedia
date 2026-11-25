@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_star_coe
 -- name    : PI.SqPairLocal.star_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:25:21.248606+00:00
 -- url     : https://prove2.me/theorems/80410c8c-5f05-5e00-9bc1-f8517f633562

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Tens_span_tensU
 -- name    : PI.ScPiBuildW.Tens.span_tensU
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:31:23.454834+00:00
 -- url     : https://prove2.me/theorems/ebe8d6d1-ed61-4d59-8ce2-c799e4f2e7c1

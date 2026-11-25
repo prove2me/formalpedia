@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Split_stab_of
 -- name    : PI.LevelKSplit.W.Split.stab_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:38.094676+00:00
 -- url     : https://prove2.me/theorems/bb3c3a84-3acb-4073-a332-e5fd13de5bbf

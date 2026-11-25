@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LocCartanPairW_cmp_map_mulVec
 -- name    : PI.SqPair.LocCartanPairW.cmp_map_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:32:04.919712+00:00
 -- url     : https://prove2.me/theorems/b2d3f838-1706-4aaf-a61c-1038bb2ee8fc

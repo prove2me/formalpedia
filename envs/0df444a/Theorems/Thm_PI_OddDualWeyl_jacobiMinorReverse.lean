@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_jacobiMinorReverse
 -- name    : PI.OddDualWeyl.jacobiMinorReverse
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:50:37.788672+00:00
 -- url     : https://prove2.me/theorems/62e0d6ab-b458-43f2-ba7b-a91bf0afd63f

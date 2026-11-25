@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RayBoundIQW_HData_le
 -- name    : PI.RayBoundIQW.HData.le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:40:16.49928+00:00
 -- url     : https://prove2.me/theorems/008efd04-d023-490f-b23b-08331c091c23

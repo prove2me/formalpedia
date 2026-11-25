@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_I_eq
 -- name    : PI.SSE.I_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:20:29.000921+00:00
 -- url     : https://prove2.me/theorems/4cc11912-83fd-4563-8af9-a1ea4e430177

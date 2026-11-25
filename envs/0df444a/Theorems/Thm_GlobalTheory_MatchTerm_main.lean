@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_main
 -- name    : GlobalTheory.MatchTerm.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:23:05.406477+00:00
 -- url     : https://prove2.me/theorems/e98af8f4-746c-4976-968e-6e01b393f1c7

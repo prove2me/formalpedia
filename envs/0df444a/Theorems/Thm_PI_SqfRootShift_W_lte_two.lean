@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootShift_W_lte_two
 -- name    : PI.SqfRootShift.W.lte_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:27:16.726933+00:00
 -- url     : https://prove2.me/theorems/fb1e7c69-1169-5aa4-832e-9dd637276a49

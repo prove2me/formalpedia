@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_logTermZero_eq_mul_of_lt
 -- name    : GroundTheory.PAdicHodge.ACris.logTermZero_eq_mul_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:09:40.461543+00:00
 -- url     : https://prove2.me/theorems/d1d9a1ef-692d-4065-b02a-c07c96be61df

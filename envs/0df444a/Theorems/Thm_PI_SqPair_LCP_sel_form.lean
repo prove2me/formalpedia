@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_sel_form
 -- name    : PI.SqPair.LCP.sel_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:23:27.585231+00:00
 -- url     : https://prove2.me/theorems/2bea8942-ab51-5456-9754-eac3d2022f86

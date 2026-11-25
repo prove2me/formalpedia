@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_measure_ext_of_compactOpen
 -- name    : PI.OmFibreUniq.W.measure_ext_of_compactOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:16:41.653258+00:00
 -- url     : https://prove2.me/theorems/e2a13015-5777-52e3-9697-b08d0e513cb8

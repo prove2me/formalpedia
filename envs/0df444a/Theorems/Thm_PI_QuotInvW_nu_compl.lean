@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotInvW_nu_compl
 -- name    : PI.QuotInvW.nu_compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:18:26.309227+00:00
 -- url     : https://prove2.me/theorems/42043eed-7c1b-4310-9630-e10f8b3def89

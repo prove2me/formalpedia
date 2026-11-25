@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_lattice_from_norm_one
 -- name    : PI.KLW.lattice_from_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:32:41.380986+00:00
 -- url     : https://prove2.me/theorems/e1b518d7-156b-56a1-ae56-f18dc64627e7

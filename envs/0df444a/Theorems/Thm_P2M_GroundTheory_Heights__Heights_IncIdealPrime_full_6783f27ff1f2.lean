@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncIdealPrime_full_6783f27ff1f2
 -- name    : P2M_GroundTheory_Heights__Heights_IncIdealPrime_full_6783f27ff1f2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:37:45.118526+00:00
 -- url     : https://prove2.me/theorems/49d62da5-0d10-5fd9-9736-e4bd32d3125d

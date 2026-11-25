@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_GlueB_mem_mL
 -- name    : PI.ScRefExists.GlueB.mem_mL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:22:34.590826+00:00
 -- url     : https://prove2.me/theorems/c8098939-6a21-4615-950e-075ddf4c889e

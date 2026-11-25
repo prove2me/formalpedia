@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovHat2W_skip_two_of_lt
 -- name    : PI.QnCovHat2W.skip_two_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:31.417645+00:00
 -- url     : https://prove2.me/theorems/206cc818-81b6-49e7-b89b-dfc01017dbe6

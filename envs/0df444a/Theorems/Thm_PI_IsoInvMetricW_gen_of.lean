@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoInvMetricW_gen_of
 -- name    : PI.IsoInvMetricW.gen_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:13:42.833476+00:00
 -- url     : https://prove2.me/theorems/59061bef-cb21-458f-87f9-cc5a4a58a961

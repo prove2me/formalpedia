@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnZeroLevelWork_quad_sum
 -- name    : PI.QnZeroLevelWork.quad_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:20:49.518022+00:00
 -- url     : https://prove2.me/theorems/51c18f48-3d7f-5d86-9452-90921199d301

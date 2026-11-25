@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_IdxW_idx_via
 -- name    : PI.Dv.IdxW.idx_via
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:39:07.188827+00:00
 -- url     : https://prove2.me/theorems/7e75cbdf-9c8e-49dc-b51e-17e386207dd0

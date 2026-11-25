@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoFunVW_mem_Vnu_poly
 -- name    : PI.IsoFunVW.mem_Vnu_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:02:13.749141+00:00
 -- url     : https://prove2.me/theorems/626b7bdd-8688-5bc4-bdf1-7f59a97e7cfd

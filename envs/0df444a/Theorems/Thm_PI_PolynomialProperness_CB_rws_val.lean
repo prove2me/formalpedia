@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CB_rws_val
 -- name    : PI.PolynomialProperness.CB.rws_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:53.09316+00:00
 -- url     : https://prove2.me/theorems/8a6e0241-17eb-47bc-896c-2a37597482bc

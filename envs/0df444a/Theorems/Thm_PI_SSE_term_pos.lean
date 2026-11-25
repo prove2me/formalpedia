@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_term_pos
 -- name    : PI.SSE.term_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:20:16.510061+00:00
 -- url     : https://prove2.me/theorems/39f3e429-eab4-4b7c-b9f9-82cb67e4e731

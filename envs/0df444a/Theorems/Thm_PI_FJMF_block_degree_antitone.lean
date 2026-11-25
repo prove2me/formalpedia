@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_block_degree_antitone
 -- name    : PI.FJMF.block_degree_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:39.973175+00:00
 -- url     : https://prove2.me/theorems/4b7a4efd-bac0-478f-821a-cebdb528c11d

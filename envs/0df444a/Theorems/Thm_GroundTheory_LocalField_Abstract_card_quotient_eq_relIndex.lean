@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_card_quotient_eq_relIndex
 -- name    : GroundTheory.LocalField.Abstract.card_quotient_eq_relIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:56:02.831513+00:00
 -- url     : https://prove2.me/theorems/9e99423c-7782-56cc-937a-8f1ffcefe24f

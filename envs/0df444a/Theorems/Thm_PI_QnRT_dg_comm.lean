@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_dg_comm
 -- name    : PI.QnRT.dg_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:21:41.226443+00:00
 -- url     : https://prove2.me/theorems/d7b21c41-2776-5179-8c79-52b43f17e306

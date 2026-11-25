@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_exp_int_pi
 -- name    : PI.SSE.exp_int_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:20:13.441803+00:00
 -- url     : https://prove2.me/theorems/9b7e359c-bbfb-4f7f-801c-129027d3cdc2

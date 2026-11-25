@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_prod_factorial_le
 -- name    : PI.HookSteps.prod_factorial_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:17:17.573937+00:00
 -- url     : https://prove2.me/theorems/6b19b812-916e-4e89-befe-dec9327bb2de

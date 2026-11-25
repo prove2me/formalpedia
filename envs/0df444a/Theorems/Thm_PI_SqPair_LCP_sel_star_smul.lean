@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_sel_star_smul
 -- name    : PI.SqPair.LCP.sel_star_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:23:34.942993+00:00
 -- url     : https://prove2.me/theorems/306db8a7-4a63-54aa-88e4-245bec400fca

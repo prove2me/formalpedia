@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_content_thickenedTupleOrbit_normalSubgroup
 -- name    : GlobalTheory.T.content_thickenedTupleOrbit_normalSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:48:31.140145+00:00
 -- url     : https://prove2.me/theorems/c215ea8a-f26a-4945-b821-c5db3be9642c

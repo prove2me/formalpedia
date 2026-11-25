@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_symbolMapOne
 -- name    : PI.OpWords.symbolMapOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:16:34.43737+00:00
 -- url     : https://prove2.me/theorems/a3211b63-a973-5108-bd6c-733d013c517f

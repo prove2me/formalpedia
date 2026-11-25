@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_SW_nc_mul
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.SW.nc_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:18:59.946661+00:00
 -- url     : https://prove2.me/theorems/9b571492-e533-5314-b63d-55abd81e3239

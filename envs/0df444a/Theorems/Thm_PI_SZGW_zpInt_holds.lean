@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SZGW_zpInt_holds
 -- name    : PI.SZGW.zpInt_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:36:46.645078+00:00
 -- url     : https://prove2.me/theorems/1f786f38-f1a5-5d01-8fcc-33f3313bf2c9

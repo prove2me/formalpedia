@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OkpW_isMaximal_span_p
 -- name    : PI.OkpW.isMaximal_span_p
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:35:38.937188+00:00
 -- url     : https://prove2.me/theorems/e8007ba1-7d05-485e-872e-b07a99331af9

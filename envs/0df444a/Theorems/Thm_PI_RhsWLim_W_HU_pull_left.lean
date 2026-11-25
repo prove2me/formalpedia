@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_HU_pull_left
 -- name    : PI.RhsWLim.W.HU.pull_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:26:45.8968+00:00
 -- url     : https://prove2.me/theorems/ca8a8ad0-5884-4386-bbfd-643cdaf69952

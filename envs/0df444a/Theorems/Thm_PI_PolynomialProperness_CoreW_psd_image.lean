@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CoreW_psd_image
 -- name    : PI.PolynomialProperness.CoreW.psd_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:30:56.190612+00:00
 -- url     : https://prove2.me/theorems/639dcf47-c920-43a0-984a-9151ad3a043d

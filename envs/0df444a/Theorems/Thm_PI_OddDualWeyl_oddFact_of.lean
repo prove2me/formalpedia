@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_oddFact_of
 -- name    : PI.OddDualWeyl.oddFact_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:14:41.642553+00:00
 -- url     : https://prove2.me/theorems/3426633b-57ae-570d-ae07-96ab9ebc23f6

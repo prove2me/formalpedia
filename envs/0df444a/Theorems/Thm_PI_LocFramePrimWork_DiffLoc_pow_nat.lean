@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocFramePrimWork_DiffLoc_pow_nat
 -- name    : PI.LocFramePrimWork.DiffLoc_pow_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:13:50.950707+00:00
 -- url     : https://prove2.me/theorems/4e2c92ee-1810-43a0-96bb-0fa299998ffa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_latLocGlob
 -- name    : latLocGlob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:48:26.286515+00:00
 -- url     : https://prove2.me/theorems/f596bf28-e805-4794-b40d-9724e868aeed

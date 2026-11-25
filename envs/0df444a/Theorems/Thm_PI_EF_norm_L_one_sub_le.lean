@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_norm_L_one_sub_le
 -- name    : PI.EF.norm_L_one_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:24:20.285869+00:00
 -- url     : https://prove2.me/theorems/ac96acce-ea65-4458-a8ab-9c8d2b365b4c

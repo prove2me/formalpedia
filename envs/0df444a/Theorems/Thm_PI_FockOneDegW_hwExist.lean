@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_hwExist
 -- name    : PI.FockOneDegW.hwExist
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:50:00.047924+00:00
 -- url     : https://prove2.me/theorems/c27af328-ed7d-497d-8d6c-cd5275f43969

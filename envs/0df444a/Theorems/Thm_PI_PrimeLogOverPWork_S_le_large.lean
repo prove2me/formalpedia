@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PrimeLogOverPWork_S_le_large
 -- name    : PI.PrimeLogOverPWork.S_le_large
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:17:48.255355+00:00
 -- url     : https://prove2.me/theorems/70733564-2e15-412c-8267-e7ab0aea4f3f

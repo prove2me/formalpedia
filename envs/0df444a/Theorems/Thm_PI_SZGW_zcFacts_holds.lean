@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SZGW_zcFacts_holds
 -- name    : PI.SZGW.zcFacts_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:36:43.462808+00:00
 -- url     : https://prove2.me/theorems/3cb9bd55-aaae-54ae-9b73-ca49e6c6c557

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_Mdl_tau_tau
 -- name    : PI.SqPairLocal.Mdl.tau_tau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:26:45.45371+00:00
 -- url     : https://prove2.me/theorems/0b3d84fb-4b74-46ca-bb67-44ac5fa17233

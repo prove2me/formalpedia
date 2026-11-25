@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_lattice_span_comm
 -- name    : PI.SSE.lattice_span_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:21:32.829982+00:00
 -- url     : https://prove2.me/theorems/ac243175-62b2-4706-a4fc-43a0d8534533

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_irreducible_wittToBDeRhamPlus
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.irreducible_wittToBDeRhamPlus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:54:19.297264+00:00
 -- url     : https://prove2.me/theorems/9870ca9f-8064-5997-9f9a-e44ff3a72d79

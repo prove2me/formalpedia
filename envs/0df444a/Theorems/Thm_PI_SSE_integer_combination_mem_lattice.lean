@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_integer_combination_mem_lattice
 -- name    : PI.SSE.integer_combination_mem_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:20:14.520723+00:00
 -- url     : https://prove2.me/theorems/d3402dca-a04d-420f-a126-7d3459ffd6ed

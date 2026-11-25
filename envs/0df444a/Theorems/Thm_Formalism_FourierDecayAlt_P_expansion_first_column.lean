@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_expansion_first_column
 -- name    : Formalism.FourierDecayAlt.P.expansion_first_column
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:51:46.154379+00:00
 -- url     : https://prove2.me/theorems/6259dd7a-348c-4f84-93ec-94cd5f2fb880

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualLoc_W_fwdDir_of
 -- name    : PI.SelfDualLoc.W.fwdDir_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:23:30.054404+00:00
 -- url     : https://prove2.me/theorems/045ac686-f9c8-5627-bb19-9b375006745e

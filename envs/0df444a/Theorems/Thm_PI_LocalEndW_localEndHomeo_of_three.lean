@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocalEndW_localEndHomeo_of_three
 -- name    : PI.LocalEndW.localEndHomeo_of_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:13.260659+00:00
 -- url     : https://prove2.me/theorems/d166d558-3419-5b77-8b62-a97b334c9151

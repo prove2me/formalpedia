@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_lfLower
 -- name    : PI.PC.lfLower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:36:03.611802+00:00
 -- url     : https://prove2.me/theorems/21b4321f-ee0e-4650-a7e7-24d749b35d07

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnWCellW_Wm_mul_apply
 -- name    : PI.QnWCellW.Wm_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:19:22.660965+00:00
 -- url     : https://prove2.me/theorems/d5acb423-ca2c-5459-b0c7-f0fcb4b9c683

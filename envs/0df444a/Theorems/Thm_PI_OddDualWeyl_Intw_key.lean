@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Intw_key
 -- name    : PI.OddDualWeyl.Intw.key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:14:08.989838+00:00
 -- url     : https://prove2.me/theorems/1a842c92-b55f-4f2e-80b8-37586796842d

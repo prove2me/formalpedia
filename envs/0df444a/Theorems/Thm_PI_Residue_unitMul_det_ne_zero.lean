@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_unitMul_det_ne_zero
 -- name    : PI.Residue.unitMul_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:19:55.331791+00:00
 -- url     : https://prove2.me/theorems/8a78cfe5-a35b-4212-8422-f8d68de0e708

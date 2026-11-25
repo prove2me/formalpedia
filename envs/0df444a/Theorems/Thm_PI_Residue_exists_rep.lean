@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_exists_rep
 -- name    : PI.Residue.exists_rep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:13:28.903828+00:00
 -- url     : https://prove2.me/theorems/32ffd0bc-3df4-469c-bd57-2726a8228d00

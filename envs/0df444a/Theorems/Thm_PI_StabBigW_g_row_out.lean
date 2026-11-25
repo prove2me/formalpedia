@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabBigW_g_row_out
 -- name    : PI.StabBigW.g_row_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:37:21.818365+00:00
 -- url     : https://prove2.me/theorems/bdc6add4-4eff-4b98-b0a2-d30e8b80b833

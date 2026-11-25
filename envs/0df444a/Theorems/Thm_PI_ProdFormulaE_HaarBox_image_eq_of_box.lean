@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_HaarBox_image_eq_of_box
 -- name    : PI.ProdFormulaE.HaarBox.image_eq_of_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:36:18.003873+00:00
 -- url     : https://prove2.me/theorems/903df70d-e44f-471a-b5ea-bf78557a3169

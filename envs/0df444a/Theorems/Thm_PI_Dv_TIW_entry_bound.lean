@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_entry_bound
 -- name    : PI.Dv.TIW.entry_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:09.435156+00:00
 -- url     : https://prove2.me/theorems/6c9deb1a-087a-4df8-b408-259ec5b2899a

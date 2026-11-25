@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_FixD_root_unique
 -- name    : PI.SqPairLocal.FixD.root_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:28:46.121466+00:00
 -- url     : https://prove2.me/theorems/95e7fd12-b806-5ab6-a9df-77896c8ecdd7

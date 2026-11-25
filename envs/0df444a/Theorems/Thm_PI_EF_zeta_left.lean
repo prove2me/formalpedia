@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_zeta_left
 -- name    : PI.EF.zeta_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:14.438798+00:00
 -- url     : https://prove2.me/theorems/cc84098e-7538-5e2a-8090-037ef60e2630

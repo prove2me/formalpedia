@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerTens_W_key
 -- name    : PI.KerTens.W.key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:05:16.310323+00:00
 -- url     : https://prove2.me/theorems/8ee61718-dbd7-4f06-9c55-1161c3dcb91b

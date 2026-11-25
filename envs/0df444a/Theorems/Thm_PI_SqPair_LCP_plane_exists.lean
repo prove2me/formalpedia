@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_plane_exists
 -- name    : PI.SqPair.LCP.plane_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:24:06.990059+00:00
 -- url     : https://prove2.me/theorems/7dcbd7e7-c30f-5854-b12f-dc6668eed566

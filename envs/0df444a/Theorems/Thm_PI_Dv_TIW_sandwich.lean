@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_sandwich
 -- name    : PI.Dv.TIW.sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:23.341804+00:00
 -- url     : https://prove2.me/theorems/bd25cf84-a9b0-4999-a048-ef3949dac62b

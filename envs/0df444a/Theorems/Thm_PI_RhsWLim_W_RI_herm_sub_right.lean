@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_herm_sub_right
 -- name    : PI.RhsWLim.W.RI.herm_sub_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:02:40.789832+00:00
 -- url     : https://prove2.me/theorems/a54ad1df-07f3-4a7f-bdf4-44a9ea81d890

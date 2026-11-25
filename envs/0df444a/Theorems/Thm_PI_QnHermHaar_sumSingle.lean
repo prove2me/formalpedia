@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_sumSingle
 -- name    : PI.QnHermHaar.sumSingle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:37:17.9264+00:00
 -- url     : https://prove2.me/theorems/56c35d94-9049-4998-8c3d-6155c9dc01c4

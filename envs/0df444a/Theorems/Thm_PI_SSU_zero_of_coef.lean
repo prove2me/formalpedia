@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSU_zero_of_coef
 -- name    : PI.SSU.zero_of_coef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:37:06.332564+00:00
 -- url     : https://prove2.me/theorems/5d57d8d9-31ee-422f-ba97-eaf932163673

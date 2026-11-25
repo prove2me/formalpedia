@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_wt_eq_mul_nu__44594a671204
 -- name    : P2M_GlobalTheory_T_exists_wt_eq_mul_nu__44594a671204
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:58:03.292808+00:00
 -- url     : https://prove2.me/theorems/ad4b46bd-250e-5a3b-9b2f-aeb8a19d8f4e

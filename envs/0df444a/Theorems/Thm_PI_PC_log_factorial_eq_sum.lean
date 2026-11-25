@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_log_factorial_eq_sum
 -- name    : PI.PC.log_factorial_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:35:48.709619+00:00
 -- url     : https://prove2.me/theorems/912de708-7b5d-4d4c-b8f2-65eea9a6ff14

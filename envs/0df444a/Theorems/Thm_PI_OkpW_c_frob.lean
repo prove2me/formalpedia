@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OkpW_c_frob
 -- name    : PI.OkpW.c_frob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:14:31.345322+00:00
 -- url     : https://prove2.me/theorems/89e135b4-dae3-503d-b365-32e7a30642f8

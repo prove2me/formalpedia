@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootShift_W_monic_ext
 -- name    : PI.SqfRootShift.W.monic_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:27:19.305746+00:00
 -- url     : https://prove2.me/theorems/bc14f87e-4904-548e-ac88-0494ca312c33

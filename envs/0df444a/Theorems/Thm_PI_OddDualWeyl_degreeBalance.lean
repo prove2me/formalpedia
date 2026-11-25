@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_degreeBalance
 -- name    : PI.OddDualWeyl.degreeBalance
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:50:21.542911+00:00
 -- url     : https://prove2.me/theorems/eb8e65ef-d92a-4ee4-969a-413687e7c090

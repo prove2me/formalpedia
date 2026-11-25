@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagIntegralKillsPowerSums_intersectionNumber_baseChange_c9e02b906a68
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagIntegralKillsPowerSums_intersectionNumber_baseChange_c9e02b906a68
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:47:26.322911+00:00
 -- url     : https://prove2.me/theorems/b536f19c-537b-45b2-8c75-951552bd2827

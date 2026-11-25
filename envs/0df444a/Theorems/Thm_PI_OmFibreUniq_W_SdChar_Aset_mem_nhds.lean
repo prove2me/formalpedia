@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_SdChar_Aset_mem_nhds
 -- name    : PI.OmFibreUniq.W.SdChar.Aset_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:36:56.437802+00:00
 -- url     : https://prove2.me/theorems/fb02d87d-c135-4380-86ea-2a8cc12ea30b

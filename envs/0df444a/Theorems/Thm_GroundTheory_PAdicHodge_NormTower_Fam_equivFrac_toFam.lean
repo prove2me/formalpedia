@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_NormTower_Fam_equivFrac_toFam
 -- name    : GroundTheory.PAdicHodge.NormTower.Fam.equivFrac_toFam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:51:36.242544+00:00
 -- url     : https://prove2.me/theorems/08d63758-d2cb-4f36-a37b-a51816004cfd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_transfer_commutator_one_one
 -- name    : PI.QnHermHaar.transfer_commutator_one_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:04:49.803445+00:00
 -- url     : https://prove2.me/theorems/0438e1bc-c988-5176-b047-da4bc85a1b32

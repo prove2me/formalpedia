@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_differentiable_qpow
 -- name    : GroundTheory.LocalField.differentiable_qpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:06:27.068569+00:00
 -- url     : https://prove2.me/theorems/c8702257-55bb-5fd6-9a6a-5a4fa7b73e62

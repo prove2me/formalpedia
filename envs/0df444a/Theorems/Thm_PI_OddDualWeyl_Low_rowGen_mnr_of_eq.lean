@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Low_rowGen_mnr_of_eq
 -- name    : PI.OddDualWeyl.Low.rowGen_mnr_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:48.81483+00:00
 -- url     : https://prove2.me/theorems/774c34c5-4e55-4911-aadf-918981fef6a3

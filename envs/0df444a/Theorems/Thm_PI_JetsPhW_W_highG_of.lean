@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_W_highG_of
 -- name    : PI.JetsPhW.W.highG_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:33:02.845908+00:00
 -- url     : https://prove2.me/theorems/90f24c42-78a2-468d-9c40-dea3b2058711

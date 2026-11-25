@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_SdCore_selfDual_of_pairs
 -- name    : PI.OmFibreUniq.W.SdCore.selfDual_of_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:34:56.507681+00:00
 -- url     : https://prove2.me/theorems/74823557-7620-4e87-8b9d-7155ebc7850c

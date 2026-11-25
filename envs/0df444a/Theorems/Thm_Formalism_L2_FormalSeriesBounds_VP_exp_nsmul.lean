@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_exp_nsmul
 -- name    : Formalism.L2.FormalSeriesBounds.VP.exp_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:41:47.030865+00:00
 -- url     : https://prove2.me/theorems/05fdc533-3836-4ae5-9ac8-9ba23fe4510b

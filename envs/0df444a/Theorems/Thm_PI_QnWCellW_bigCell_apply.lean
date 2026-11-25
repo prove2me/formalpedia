@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnWCellW_bigCell_apply
 -- name    : PI.QnWCellW.bigCell_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:44:56.74181+00:00
 -- url     : https://prove2.me/theorems/b9f9d489-c17d-48fb-9070-578bf178efaf

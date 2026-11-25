@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocLatEq_W_coreP_of_unitP_avoidP_intP
 -- name    : PI.LocLatEq.W.coreP_of_unitP_avoidP_intP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:17:49.141789+00:00
 -- url     : https://prove2.me/theorems/6e44f71b-1c7e-5514-921e-ce6288698e5f

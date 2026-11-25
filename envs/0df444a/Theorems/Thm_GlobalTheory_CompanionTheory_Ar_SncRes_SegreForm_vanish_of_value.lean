@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SncRes_SegreForm_vanish_of_value
 -- name    : GlobalTheory.CompanionTheory.Ar.SncRes.SegreForm.vanish_of_value
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:40:28.791235+00:00
 -- url     : https://prove2.me/theorems/03623dc0-7571-5520-b922-308e99048798

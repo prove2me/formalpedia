@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_sigmaStarEx_of
 -- name    : PI.SSE.sigmaStarEx_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:20:07.912442+00:00
 -- url     : https://prove2.me/theorems/fea69237-e496-4158-af61-84e559d3858e

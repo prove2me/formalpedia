@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_h_le
 -- name    : PI.PC.h_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:02.910824+00:00
 -- url     : https://prove2.me/theorems/10d9d3ea-0da5-4f43-9974-ef33be8a6717

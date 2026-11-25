@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_PPA_natCast_mem_Ap
 -- name    : PI.ScRefExists.PPA.natCast_mem_Ap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:23:54.113595+00:00
 -- url     : https://prove2.me/theorems/66344a1d-b7b4-4332-9bc3-03e8b7d7c800

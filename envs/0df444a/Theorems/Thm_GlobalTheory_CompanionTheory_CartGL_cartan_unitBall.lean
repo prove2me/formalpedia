@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_cartan_unitBall
 -- name    : GlobalTheory.CompanionTheory.CartGL.cartan_unitBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:43:28.925837+00:00
 -- url     : https://prove2.me/theorems/9a880b63-0399-505a-b164-a052bd7a3329

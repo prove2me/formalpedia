@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_NCH_sL_uni
 -- name    : PI.LevelKSplit.W.NCH.sL_uni
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:36:27.614809+00:00
 -- url     : https://prove2.me/theorems/a39bf0c9-6a10-5fac-b0be-23b48039a669

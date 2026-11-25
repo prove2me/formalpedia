@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QuotMass_relIndex_symm
 -- name    : GlobalTheory.HL.QuotMass.relIndex_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:51:07.283005+00:00
 -- url     : https://prove2.me/theorems/70994a63-5b5d-46b2-8f4b-d157b8b7c31e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_th_diff
 -- name    : PI.SSE.th_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:21:21.525814+00:00
 -- url     : https://prove2.me/theorems/59bb3e60-767d-426c-be83-4cd0864c80d5

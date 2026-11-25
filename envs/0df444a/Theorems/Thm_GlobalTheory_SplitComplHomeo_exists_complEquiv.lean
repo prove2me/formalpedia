@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitComplHomeo_exists_complEquiv
 -- name    : GlobalTheory.SplitComplHomeo.exists_complEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:20:46.7968+00:00
 -- url     : https://prove2.me/theorems/0ed2da77-6390-42cd-bc52-ec4e94b9eb21

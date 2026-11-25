@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_lidx_span_act
 -- name    : PI.DvRows.lidx_span_act
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:22:25.810795+00:00
 -- url     : https://prove2.me/theorems/de404290-7f9a-4e43-b391-76d979eb47df

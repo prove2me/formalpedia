@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_symbolMapBihomogeneous
 -- name    : PI.OpWords.symbolMapBihomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:36:00.676531+00:00
 -- url     : https://prove2.me/theorems/10adf650-46b2-5d99-9f36-11b436cf1daa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiFrameW_hJ_sum_smul_left
 -- name    : PI.ScPiFrameW.hJ_sum_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:21:19.976292+00:00
 -- url     : https://prove2.me/theorems/c8b2a205-bd20-4366-9ca0-b1c80139d27e

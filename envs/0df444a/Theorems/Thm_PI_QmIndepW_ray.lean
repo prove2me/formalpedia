@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QmIndepW_ray
 -- name    : PI.QmIndepW.ray
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:17:14.548114+00:00
 -- url     : https://prove2.me/theorems/009fd934-d239-5ad7-b3ac-e46eb61de8f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_exp_diag2
 -- name    : PI.QnRT.exp_diag2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:21:46.996877+00:00
 -- url     : https://prove2.me/theorems/07c77f3d-cf18-52e7-b6f3-06a830670afb

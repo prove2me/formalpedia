@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_modF_locAt
 -- name    : PI.ProdFormulaE.modF_locAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:17:36.449415+00:00
 -- url     : https://prove2.me/theorems/67bf5506-4d86-4cb0-a102-5ecb54f77a63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RL_W_derivation_finset_prod
 -- name    : PI.RL.W.derivation_finset_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:19:08.502847+00:00
 -- url     : https://prove2.me/theorems/9b7e58f0-ed15-461c-81ab-1bb4e9d80a46

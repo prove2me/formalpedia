@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoInvMetricW_isoInvMetric_of_hw
 -- name    : PI.IsoInvMetricW.isoInvMetric_of_hw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:09:44.567378+00:00
 -- url     : https://prove2.me/theorems/a28af1da-4cd7-5fb8-a94b-3c82d188c997

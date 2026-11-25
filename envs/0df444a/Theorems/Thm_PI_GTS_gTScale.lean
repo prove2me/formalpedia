@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTS_gTScale
 -- name    : PI.GTS.gTScale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:31:23.72423+00:00
 -- url     : https://prove2.me/theorems/f30b7db3-57fe-5a43-9f28-d6513e89981f

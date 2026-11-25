@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_beta_re_im
 -- name    : PI.RhsWLim.W.beta_re_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:50:47.534184+00:00
 -- url     : https://prove2.me/theorems/83dacf9d-fbca-51a9-8512-5b2bf41ab513

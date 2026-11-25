@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovLinW_ofFn_prod_sum
 -- name    : PI.QnCovLinW.ofFn_prod_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:37:45.510742+00:00
 -- url     : https://prove2.me/theorems/59401d4a-e5c1-4eee-8734-ab57f1335c85

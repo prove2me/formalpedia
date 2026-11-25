@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OkpW_pow_q_sub
 -- name    : PI.OkpW.pow_q_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:16:05.256892+00:00
 -- url     : https://prove2.me/theorems/bc38f2a8-e6e4-521f-9e3a-31ff95153e14

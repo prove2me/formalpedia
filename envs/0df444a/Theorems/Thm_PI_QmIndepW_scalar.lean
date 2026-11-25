@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QmIndepW_scalar
 -- name    : PI.QmIndepW.scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:29:21.687944+00:00
 -- url     : https://prove2.me/theorems/f4c96b44-6a25-57fc-99a3-f6e2789b7e66

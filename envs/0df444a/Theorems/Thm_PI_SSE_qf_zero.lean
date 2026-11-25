@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_qf_zero
 -- name    : PI.SSE.qf_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:21:38.686801+00:00
 -- url     : https://prove2.me/theorems/5083a3e3-eb54-4890-a54d-be619d557557

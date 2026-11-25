@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_smallAt_neg
 -- name    : PI.SqPairLocal.smallAt_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:25:31.51939+00:00
 -- url     : https://prove2.me/theorems/5e7d92d6-6e4a-4229-8aa3-8c095cbead6d

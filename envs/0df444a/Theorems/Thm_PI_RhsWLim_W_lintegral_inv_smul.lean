@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_lintegral_inv_smul
 -- name    : PI.RhsWLim.W.lintegral_inv_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:36:42.223935+00:00
 -- url     : https://prove2.me/theorems/0ce3dba3-afe9-4f50-9dfa-8546082e8677

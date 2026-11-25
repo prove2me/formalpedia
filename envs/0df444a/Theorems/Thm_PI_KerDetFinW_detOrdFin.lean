@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerDetFinW_detOrdFin
 -- name    : PI.KerDetFinW.detOrdFin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:33:33.05995+00:00
 -- url     : https://prove2.me/theorems/c63dbb0c-55d5-442a-b3e4-acc4eebf11f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfDivDeg_W_decomp2
 -- name    : PI.SqfDivDeg.W.decomp2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:25:07.376916+00:00
 -- url     : https://prove2.me/theorems/de329413-8663-4699-bac7-739f13739ec5

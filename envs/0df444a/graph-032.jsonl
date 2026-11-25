@@ -55248,7 +55248,7 @@
 {"parent": "GreedyRegionGrowing_Layouts_Supplement_Routing", "child": "GreedyRegionGrowing_Layouts_Foundation", "via": ["statement"]}
 {"parent": "TermCycDich_Supplement_Society", "child": "TermCycDich_Supplement_Rendition", "via": ["statement"]}
 {"parent": "TermCycDich_Supplement_Society", "child": "GMSTFramework_LocalStructure_Graphs", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise_4_8_ii_goalV2", "child": "Kyprianou_Ch04_Exercise4_8CertificationV2", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise_4_8_ii_goalV2", "child": "Kyprianou_Ch04_Exercise4_8CertificationV2", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.classicalRenewalTheorem", "child": "AvramDividend.Classical.avram_p4_f6_renewal_cdf_monotone", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch05.classicalRenewalTheorem", "child": "Kyprianou_Ch05_RenewalMeasure", "via": ["solution", "statement"]}
 {"parent": "MoneyBurningTrade_IndependentSurplus_Supplement_ExponentialLaws", "child": "SecondBestBT_Mechanism", "via": ["statement"]}

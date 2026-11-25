@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_opBase_last
 -- name    : PI.RhsWLim.W.opBase_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:51:43.544324+00:00
 -- url     : https://prove2.me/theorems/27c1db31-3791-4bed-9451-53e1369d43c6

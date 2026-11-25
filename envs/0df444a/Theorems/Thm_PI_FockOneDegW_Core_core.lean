@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Core_core
 -- name    : PI.FockOneDegW.Core.core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:03:20.065794+00:00
 -- url     : https://prove2.me/theorems/ac210886-a8c4-4851-b906-7b33958d3d53

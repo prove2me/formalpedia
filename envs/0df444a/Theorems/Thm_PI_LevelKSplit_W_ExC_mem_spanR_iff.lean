@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_ExC_mem_spanR_iff
 -- name    : PI.LevelKSplit.W.ExC.mem_spanR_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:34:43.104512+00:00
 -- url     : https://prove2.me/theorems/68743d21-c812-4875-95ac-67f618ffc044

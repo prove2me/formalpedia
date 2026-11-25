@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_FinGradedSub_embedH_injective_3c4c852e48a6
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_FinGradedSub_embedH_injective_3c4c852e48a6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:40:21.008809+00:00
 -- url     : https://prove2.me/theorems/7456f853-4121-5f59-8997-3c6cfd04a621

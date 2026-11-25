@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ProdFormulaE_Base_trace__E_ac10b5a1a0e1
 -- name    : P2M_PI_ProdFormulaE_Base_trace__E_ac10b5a1a0e1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:58:02.942448+00:00
 -- url     : https://prove2.me/theorems/b08018f3-b70f-42a8-915a-2ade899dfc70

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RL_W_Nv_false_eq
 -- name    : PI.RL.W.Nv_false_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:19:25.16905+00:00
 -- url     : https://prove2.me/theorems/f71bd872-141d-4645-a5a6-41b66b72b379

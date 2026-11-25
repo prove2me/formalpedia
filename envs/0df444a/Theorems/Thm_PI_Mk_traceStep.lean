@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Mk_traceStep
 -- name    : PI.Mk.traceStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:34:54.18769+00:00
 -- url     : https://prove2.me/theorems/12f9d162-2eb1-4b8a-b0d4-0f7157776155

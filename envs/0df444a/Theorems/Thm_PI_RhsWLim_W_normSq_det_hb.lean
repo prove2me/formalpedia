@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_normSq_det_hb
 -- name    : PI.RhsWLim.W.normSq_det_hb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:32:44.008068+00:00
 -- url     : https://prove2.me/theorems/efff5eb5-cf77-5870-ae18-540381d4dece

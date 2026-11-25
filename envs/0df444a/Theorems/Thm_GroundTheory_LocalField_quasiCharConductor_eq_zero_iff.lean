@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_quasiCharConductor_eq_zero_iff
 -- name    : GroundTheory.LocalField.quasiCharConductor_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:43:55.165366+00:00
 -- url     : https://prove2.me/theorems/4fc7e30e-c86e-4692-887c-bc18c6afaa77

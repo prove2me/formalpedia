@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_FromMackey_supportUnique
 -- name    : GlobalTheory.CompanionTheory.TyFin.FromMackey.supportUnique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:19:18.599277+00:00
 -- url     : https://prove2.me/theorems/313e68cd-2f6e-4572-a895-d29a01bcf9c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_term_neg
 -- name    : PI.SSE.term_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:20:17.267795+00:00
 -- url     : https://prove2.me/theorems/22fd6453-1fd7-4b90-a1f1-8f4619535c4b

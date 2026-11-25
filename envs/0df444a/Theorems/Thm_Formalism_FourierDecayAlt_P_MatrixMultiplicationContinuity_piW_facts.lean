@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MatrixMultiplicationContinuity_piW_facts
 -- name    : Formalism.FourierDecayAlt.P.MatrixMultiplicationContinuity.piW_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:49:29.941144+00:00
 -- url     : https://prove2.me/theorems/4d21d985-82ab-4be1-ba18-3f6c3b30006a

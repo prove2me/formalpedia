@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_Alg_unitK
 -- name    : PI.StabSplit.Alg.unitK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:37:26.020245+00:00
 -- url     : https://prove2.me/theorems/6399e00f-720f-4ef2-a2ba-c524a740fea4

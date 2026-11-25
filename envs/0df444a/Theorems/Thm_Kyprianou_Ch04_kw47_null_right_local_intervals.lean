@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_null_right_local_intervals
 -- name    : Kyprianou.Ch04.kw47_null_right_local_intervals
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T08:39:51.795864+00:00
 -- url     : https://prove2.me/theorems/e457cb42-79c2-450c-8862-002544a6420f

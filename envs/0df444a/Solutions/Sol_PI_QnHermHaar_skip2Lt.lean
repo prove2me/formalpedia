@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for PI.QnHermHaar.skip2Lt
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T10:09:15.929851+00:00
+-- url     : https://prove2.me/submissions/b1418723-b988-4f13-a76c-2730316cefbd
+
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HermitianHaarMeasure_Development
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HermitianHaarMeasure_NestedMinorExpansionOneZero
+import Theorems.Thm_PI_QnHermHaar_valSuccAbove
+import Theorems.Thm_PI_QnHermHaar_valSkip2
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix Finset
+noncomputable section
+open PI PI.QnHermHaar
+open Formalism.REAL Formalism.FourierDecayAlt.Q
+namespace PI.QnHermHaar
+theorem _root_.solution {t : ℕ} (i' : Fin (t + 2)) (k : Fin (t + 1)) (h : (k : ℕ) < (i' : ℕ)) :
+    (skip2 (i'.succAbove k) i' : Fin t → Fin (t + 2)) = i'.succAbove ∘ k.succAbove := by
+  funext x
+  apply Fin.ext
+  have hx := x.isLt
+  simp only [Function.comp, valSuccAbove, valSkip2]
+  split_ifs <;> omega
+end PI.QnHermHaar

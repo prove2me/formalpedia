@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_ModW_map_onG
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.ModW.map_onG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:29:10.653183+00:00
 -- url     : https://prove2.me/theorems/e17cae5c-2b0d-4946-b115-cd89446431ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_shellVolume
 -- name    : PI.Residue.shellVolume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:19:39.082303+00:00
 -- url     : https://prove2.me/theorems/1822755c-70bc-5e61-b3c0-126021d99da4

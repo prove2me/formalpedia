@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_TauN_star_H_dot
 -- name    : PI.PolynomialProperness.TauN.star_H_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:19:25.016813+00:00
 -- url     : https://prove2.me/theorems/a1b93a85-afa6-5c47-84ef-8f0f746ff5f5

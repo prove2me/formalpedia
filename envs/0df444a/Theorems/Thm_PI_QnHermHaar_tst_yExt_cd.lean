@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_tst_yExt_cd
 -- name    : PI.QnHermHaar.tst_yExt_cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:18:53.668862+00:00
 -- url     : https://prove2.me/theorems/81b0fe25-82a5-4bed-8ffa-2a14b890df1c

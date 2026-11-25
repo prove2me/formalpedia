@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RL_W_rowLetter_of
 -- name    : PI.RL.W.rowLetter_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:19:23.86955+00:00
 -- url     : https://prove2.me/theorems/946e298a-58cc-402a-a5bc-9a83551beb6c

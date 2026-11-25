@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleNorm_glue_fst
 -- name    : GroundTheory.Global.IdeleNorm.glue_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:51:25.937511+00:00
 -- url     : https://prove2.me/theorems/30e10bcd-7675-5329-b593-acf43977bb58

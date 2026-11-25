@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_Id_evA_apply
 -- name    : PI.ScRefExists.Id.evA_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:23:56.613068+00:00
 -- url     : https://prove2.me/theorems/56087873-f2bd-5391-a919-b284c4cd9d8b

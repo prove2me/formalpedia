@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_MB_mul_EmT_out
 -- name    : PI.RhsWLim.W.MB.mul_EmT_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:27:04.956423+00:00
 -- url     : https://prove2.me/theorems/40ae134b-e648-48f7-9c42-42845eee9b46

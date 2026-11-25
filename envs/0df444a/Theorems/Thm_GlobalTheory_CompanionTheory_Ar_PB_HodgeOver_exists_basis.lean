@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_HodgeOver_exists_basis
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.HodgeOver.exists_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:37:41.106398+00:00
 -- url     : https://prove2.me/theorems/9c8983cc-9b6c-5164-b947-8dcdf1fc4799

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotInvW_continuous_mm
 -- name    : PI.QuotInvW.continuous_mm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:18:18.114924+00:00
 -- url     : https://prove2.me/theorems/5f897ae5-f040-53a7-b593-161cea80682c

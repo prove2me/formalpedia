@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_eS_in_ideal
 -- name    : PI.Dv.Tr.eS_in_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:56.664538+00:00
 -- url     : https://prove2.me/theorems/29776954-1753-464c-88bd-0d574135b7a8

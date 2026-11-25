@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_continuous_coords
 -- name    : PI.RhsWLim.W.continuous_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:42:18.323354+00:00
 -- url     : https://prove2.me/theorems/a26fcbcf-06d6-49ca-8b5c-1de34097901f

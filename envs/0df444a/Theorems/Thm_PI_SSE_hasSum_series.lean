@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_hasSum_series
 -- name    : PI.SSE.hasSum_series
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:20:12.465999+00:00
 -- url     : https://prove2.me/theorems/9dd5d75f-9985-47a1-9b31-5b5a605139a7

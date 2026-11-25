@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CubicExponentialFactor_Wk_expMv_addC
 -- name    : PI.CubicExponentialFactor.Wk.expMv_addC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:27:03.823086+00:00
 -- url     : https://prove2.me/theorems/71843f5d-b866-5413-bdd0-142fa1226a34

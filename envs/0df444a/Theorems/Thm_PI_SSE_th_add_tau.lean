@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_th_add_tau
 -- name    : PI.SSE.th_add_tau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:20:04.733647+00:00
 -- url     : https://prove2.me/theorems/a1b61802-b025-47c4-8e87-e1d574bface2

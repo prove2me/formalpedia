@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovDetW_sum_sign_prod_right
 -- name    : PI.QnCovDetW.sum_sign_prod_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:18:10.493714+00:00
 -- url     : https://prove2.me/theorems/a30f9aeb-614f-52ae-bf90-e1826039ed09

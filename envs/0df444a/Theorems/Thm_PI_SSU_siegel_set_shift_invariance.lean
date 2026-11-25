@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSU_siegel_set_shift_invariance
 -- name    : PI.SSU.siegel_set_shift_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:36:25.175841+00:00
 -- url     : https://prove2.me/theorems/2276b360-12a5-5d79-97ae-26c8cd8f75a4

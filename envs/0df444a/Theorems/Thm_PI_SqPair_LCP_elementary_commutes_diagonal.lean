@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_elementary_commutes_diagonal
 -- name    : PI.SqPair.LCP.elementary_commutes_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:24:14.707+00:00
 -- url     : https://prove2.me/theorems/8fccc469-3c2b-5aac-bc64-23f3186d6237

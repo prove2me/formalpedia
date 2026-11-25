@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_MB_sandwich
 -- name    : PI.RhsWLim.W.MB.sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:26:36.571807+00:00
 -- url     : https://prove2.me/theorems/7d69682b-b374-472b-8209-5a6c0272057e

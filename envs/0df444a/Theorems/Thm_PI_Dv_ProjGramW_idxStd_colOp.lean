@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjGramW_idxStd_colOp
 -- name    : PI.Dv.ProjGramW.idxStd_colOp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:18:37.967505+00:00
 -- url     : https://prove2.me/theorems/f6477ebf-4628-439e-a95f-958f5926c703

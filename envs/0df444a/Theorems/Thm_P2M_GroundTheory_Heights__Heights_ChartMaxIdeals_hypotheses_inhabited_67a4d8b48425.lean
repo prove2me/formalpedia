@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMaxIdeals_hypotheses_inhabited_67a4d8b48425
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMaxIdeals_hypotheses_inhabited_67a4d8b48425
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:03:57.418543+00:00
 -- url     : https://prove2.me/theorems/d92b179b-16aa-4a8b-88d6-ee3960d96b20

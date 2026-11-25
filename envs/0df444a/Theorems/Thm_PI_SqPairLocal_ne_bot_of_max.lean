@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_ne_bot_of_max
 -- name    : PI.SqPairLocal.ne_bot_of_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:31:37.565229+00:00
 -- url     : https://prove2.me/theorems/503d2732-1745-4669-bad1-d708541f01a4

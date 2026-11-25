@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_lGrowth_of
 -- name    : PI.EF.lGrowth_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:23:27.899606+00:00
 -- url     : https://prove2.me/theorems/481e11bb-da62-432a-9e38-eef69c1c014f

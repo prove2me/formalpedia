@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGConvScalarW_sumPsi_mul_pi
 -- name    : PI.GGConvScalarW.sumPsi_mul_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:31:15.75267+00:00
 -- url     : https://prove2.me/theorems/98fb1b79-e738-4950-a3ab-df0e4adcc931

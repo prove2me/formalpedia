@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_coneSh_eq
 -- name    : PI.RhsWLim.W.coneSh_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:05:00.646261+00:00
 -- url     : https://prove2.me/theorems/a6912b3d-93e4-5816-80ba-e2eb279ef03c

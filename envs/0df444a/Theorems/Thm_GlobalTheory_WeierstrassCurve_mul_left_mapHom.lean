@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_mul_left_mapHom
 -- name    : GlobalTheory.WeierstrassCurve.mul_left_mapHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:05:04.509126+00:00
 -- url     : https://prove2.me/theorems/89c6d93c-165f-40cd-8b89-5be11a19936e

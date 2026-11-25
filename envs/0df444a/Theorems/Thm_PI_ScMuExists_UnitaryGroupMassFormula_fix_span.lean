@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_fix_span
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.fix_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:41:13.062894+00:00
 -- url     : https://prove2.me/theorems/61b3ea91-aa10-521d-9b1d-ed4d9b0938ed

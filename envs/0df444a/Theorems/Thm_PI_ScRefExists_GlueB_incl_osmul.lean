@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_GlueB_incl_osmul
 -- name    : PI.ScRefExists.GlueB.incl_osmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:23:10.61287+00:00
 -- url     : https://prove2.me/theorems/7756a2dc-c697-4ca1-ba19-882fafc230f9

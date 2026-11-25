@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_symbolMapMulRight
 -- name    : PI.OpWords.symbolMapMulRight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:16:56.785249+00:00
 -- url     : https://prove2.me/theorems/94cfd5f0-6159-49f7-9829-33daf4b791c8

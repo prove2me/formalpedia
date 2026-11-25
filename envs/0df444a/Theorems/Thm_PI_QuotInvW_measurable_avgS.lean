@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotInvW_measurable_avgS
 -- name    : PI.QuotInvW.measurable_avgS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:44:53.875008+00:00
 -- url     : https://prove2.me/theorems/f39951a7-7457-4c9d-962a-3ef11c5b647f

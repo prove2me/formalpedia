@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_SW_star_epsI
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.SW.star_epsI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:19:31.631871+00:00
 -- url     : https://prove2.me/theorems/74be03ff-1cd4-422a-8b5f-0b24ccb460ba

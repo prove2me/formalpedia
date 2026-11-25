@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QmRowExpWork_firstColumnSplit_bijective
 -- name    : PI.QmRowExpWork.firstColumnSplit_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:17:31.921858+00:00
 -- url     : https://prove2.me/theorems/04ecfdc1-1634-474e-aeb4-aad45d7cae7e

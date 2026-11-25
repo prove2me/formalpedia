@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleNorm_infiniteLocalNorm_mulSingle
 -- name    : GroundTheory.Global.IdeleNorm.infiniteLocalNorm_mulSingle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:05:52.592418+00:00
 -- url     : https://prove2.me/theorems/41a377fd-ccd3-5208-a4f7-e4f6708bde93

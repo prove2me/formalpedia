@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Tens_tensU_basis
 -- name    : PI.ScPiBuildW.Tens.tensU_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:21:55.056017+00:00
 -- url     : https://prove2.me/theorems/a149f5ff-7aea-4868-a9b9-d5935b541136

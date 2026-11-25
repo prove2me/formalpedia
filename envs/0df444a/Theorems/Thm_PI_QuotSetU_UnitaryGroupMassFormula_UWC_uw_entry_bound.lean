@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_UWC_uw_entry_bound
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.UWC.uw_entry_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:19:09.110112+00:00
 -- url     : https://prove2.me/theorems/5029558a-586d-5870-aeb9-97eead6e6843

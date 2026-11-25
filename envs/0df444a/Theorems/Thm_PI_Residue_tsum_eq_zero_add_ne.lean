@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_tsum_eq_zero_add_ne
 -- name    : PI.Residue.tsum_eq_zero_add_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:20:03.333837+00:00
 -- url     : https://prove2.me/theorems/55de9ed4-a2b0-4ca0-a26b-46d257c8c311

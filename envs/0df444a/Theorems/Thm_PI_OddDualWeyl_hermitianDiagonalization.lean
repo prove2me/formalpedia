@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_hermitianDiagonalization
 -- name    : PI.OddDualWeyl.hermitianDiagonalization
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:50:01.916635+00:00
 -- url     : https://prove2.me/theorems/863b3056-21e6-490b-a036-af1cf22f04b7

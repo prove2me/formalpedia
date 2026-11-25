@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_WeightedHomogeneousPolynomialDifferentialWords_chi_monomial
 -- name    : PI.OpWords.WeightedHomogeneousPolynomialDifferentialWords.chi_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:16:40.700188+00:00
 -- url     : https://prove2.me/theorems/45a29eff-47c5-4217-b8fc-e23f5dce68b9

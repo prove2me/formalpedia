@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CoreW_key_ineq
 -- name    : PI.PolynomialProperness.CoreW.key_ineq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:14:24.475008+00:00
 -- url     : https://prove2.me/theorems/56cfbf1c-6297-566a-a0f8-6628a1e7249f

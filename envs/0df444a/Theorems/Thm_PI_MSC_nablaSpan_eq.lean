@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_MSC_nablaSpan_eq
 -- name    : PI.MSC.nablaSpan_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:35:36.744553+00:00
 -- url     : https://prove2.me/theorems/48626760-9f4e-5211-af73-6f4e5b45db3f

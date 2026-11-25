@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_preimage_box
 -- name    : PI.Residue.preimage_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:19:43.073808+00:00
 -- url     : https://prove2.me/theorems/12f6d61e-d2a6-4202-b881-ad41c788ce3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_blk_unimod
 -- name    : PI.SqPair.LCP.blk_unimod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:24:02.686426+00:00
 -- url     : https://prove2.me/theorems/70b40dde-a275-51fc-98a5-9109e0da738c

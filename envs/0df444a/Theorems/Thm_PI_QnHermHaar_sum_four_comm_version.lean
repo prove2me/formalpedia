@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_sum_four_comm_version
 -- name    : PI.QnHermHaar.sum_four_comm_version
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:39:13.277151+00:00
 -- url     : https://prove2.me/theorems/e03ef8d4-ee42-4ebb-a7a9-3cd6e96e5755

@@ -1,0 +1,58 @@
+-- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_ChowFormBirational_hypotheses_inhabited_e364b4f4f589
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T10:13:04.788332+00:00
+-- url     : https://prove2.me/submissions/dff50058-36ec-4f0c-b2e4-9c9911636319
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_Statements
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_Imports
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericLinearTrdeg_hypotheses_inhabited_9c9f063d7484
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncIdealDim_hypotheses_inhabited_7986e28bcc3e
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormExists_hypotheses_inhabited_14e3f44c07a9
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormMultiHomog_hypotheses_inhabited_5f098e91ca8b
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormSectionVertical_hypotheses_inhabited_25f0794614ab
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormSection_hypotheses_inhabited_b7e6b352f62b
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormSwap_hypotheses_inhabited_286c010aa601
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowHeightLowerBound_hypotheses_inhabited_32f5e648d58c
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowHeightMul_hypotheses_inhabited_0cc03fe7f1d0
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowHeightRecursion_hypotheses_inhabited_a59b12a05d49
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeDimComponent_hypotheses_inhabited_6ccab7e1ea7a
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeDimOfChowForm_hypotheses_inhabited_5ea052711d29
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_FGNullstellensatz_hypotheses_inhabited_7f04cfac262e
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncIdealPrime_hypotheses_inhabited_84cd1223ff65
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncidenceGeneric_hypotheses_inhabited_d8c47dbf8773
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_LengthQuotientDet_hypotheses_inhabited_8011761324cd
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_MahlerMul_hypotheses_inhabited_95e2ae5d82a5
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_MahlerSection_hypotheses_inhabited_066629c10381
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_MinimalPrimeHomog_hypotheses_inhabited_0ebf35365ba4
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrdPolynomialLocalization_hypotheses_inhabited_9d39a36238cc
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjNullstellensatz_hypotheses_inhabited_a6fca8640d3a
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionOrder_hypotheses_inhabited_cb85664a66ad
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMeanLinear_hypotheses_inhabited_1fdf021d66be
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_isChowForm_point_62847896aaea
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_isProjPrime_point_e4b734f59300
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights
+open MvPolynomial
+noncomputable section
+namespace GroundTheory.Heights₂.Heights
+namespace ChowFormBirational
+theorem _root_.solution :
+    IsProjPrime (⊥ : Ideal (MvPolynomial (Fin 1) ℚ)) ∧
+      IsChowForm (⊥ : Ideal (MvPolynomial (Fin 1) ℚ)) (0 + 1) (X (0, 0)) ∧
+      ∑ j, (fun _ => (genPt (⊥ : Ideal (MvPolynomial (Fin 1) ℚ)) 0)⁻¹) j *
+        genPt (⊥ : Ideal (MvPolynomial (Fin 1) ℚ)) j = 1 :=
+  ⟨isProjPrime_point ℚ, isChowForm_point ℚ, IncidenceGeneric.hypotheses_inhabited.2⟩
+end ChowFormBirational
+end GroundTheory.Heights₂.Heights

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_PPA_isInt_coe
 -- name    : PI.ScRefExists.PPA.isInt_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:23:31.706353+00:00
 -- url     : https://prove2.me/theorems/2b3e5ce7-51b3-46b1-8d8e-c196d41db664

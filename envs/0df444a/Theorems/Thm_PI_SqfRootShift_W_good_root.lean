@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootShift_W_good_root
 -- name    : PI.SqfRootShift.W.good_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:27:19.836987+00:00
 -- url     : https://prove2.me/theorems/452ffc3e-3c0f-5ac4-adbd-a97461728c3d

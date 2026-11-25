@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfDivDeg_W_fibre_nonempty
 -- name    : PI.SqfDivDeg.W.fibre_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:25:17.836359+00:00
 -- url     : https://prove2.me/theorems/205f5c79-f729-43e2-b227-db37bb69120e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_tst_exp_hasSum_linfty
 -- name    : PI.QnHermHaar.tst_exp_hasSum_linfty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:18:10.581128+00:00
 -- url     : https://prove2.me/theorems/be15e819-2882-41d2-8b89-5677cf7282f3

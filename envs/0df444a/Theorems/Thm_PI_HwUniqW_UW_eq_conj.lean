@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HwUniqW_UW_eq_conj
 -- name    : PI.HwUniqW.UW_eq_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:37:47.627783+00:00
 -- url     : https://prove2.me/theorems/102e3b8d-0233-4938-ac29-39ef59ac9c1d

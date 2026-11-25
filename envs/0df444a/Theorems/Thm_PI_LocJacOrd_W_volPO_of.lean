@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocJacOrd_W_volPO_of
 -- name    : PI.LocJacOrd.W.volPO_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:15:31.444131+00:00
 -- url     : https://prove2.me/theorems/a8197267-123b-5404-b451-ff5acfcdebff

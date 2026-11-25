@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_LatticeLemmas_LocalChange_kleimanNef_field_of_alt_620a843bea6f
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_LatticeLemmas_LocalChange_kleimanNef_field_of_alt_620a843bea6f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:44:33.474933+00:00
 -- url     : https://prove2.me/theorems/4cc43d7f-f7c9-571f-be61-b77835391644

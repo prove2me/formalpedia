@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_uniformizer_ne_zero
 -- name    : GroundTheory.Automorphic.Parabolic.uniformizer_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:08:04.259877+00:00
 -- url     : https://prove2.me/theorems/3c4b976c-370f-4598-8c39-9790a9d7f845

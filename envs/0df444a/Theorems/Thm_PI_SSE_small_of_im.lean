@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_small_of_im
 -- name    : PI.SSE.small_of_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:20:34.500824+00:00
 -- url     : https://prove2.me/theorems/26d8e239-d88e-4de7-84ca-6c2932791708

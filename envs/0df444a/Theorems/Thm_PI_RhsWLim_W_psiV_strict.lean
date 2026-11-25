@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_psiV_strict
 -- name    : PI.RhsWLim.W.psiV_strict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:50:49.375573+00:00
 -- url     : https://prove2.me/theorems/477debd6-911c-5eae-9ca5-2a47035eafaa

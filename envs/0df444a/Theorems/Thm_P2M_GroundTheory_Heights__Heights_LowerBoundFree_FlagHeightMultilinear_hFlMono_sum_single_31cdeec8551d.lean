@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_FlagHeightMultilinear_hFlMono_sum_single_31cdeec8551d
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_FlagHeightMultilinear_hFlMono_sum_single_31cdeec8551d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:34:05.770979+00:00
 -- url     : https://prove2.me/theorems/08c723a9-e804-51d9-8716-d4eb4961b143

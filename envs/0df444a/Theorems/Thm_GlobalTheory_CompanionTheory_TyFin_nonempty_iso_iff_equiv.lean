@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_nonempty_iso_iff_equiv
 -- name    : GlobalTheory.CompanionTheory.TyFin.nonempty_iso_iff_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:19:08.432772+00:00
 -- url     : https://prove2.me/theorems/356c36c8-fec5-499c-ac7e-0497322b4523

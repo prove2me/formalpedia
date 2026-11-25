@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairW_stdHG_eq_dot
 -- name    : PI.SqPairW.stdHG_eq_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:26:13.493183+00:00
 -- url     : https://prove2.me/theorems/71d552c0-2403-44e8-a5e8-84dc40472eba

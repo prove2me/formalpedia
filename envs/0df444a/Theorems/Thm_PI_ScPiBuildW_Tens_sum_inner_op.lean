@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Tens_sum_inner_op
 -- name    : PI.ScPiBuildW.Tens.sum_inner_op
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:21:55.87187+00:00
 -- url     : https://prove2.me/theorems/eda956c5-e9f9-4ee3-a3af-74f1ab73fe19

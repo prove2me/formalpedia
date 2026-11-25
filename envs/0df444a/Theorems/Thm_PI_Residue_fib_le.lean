@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_fib_le
 -- name    : PI.Residue.fib_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:19:39.203839+00:00
 -- url     : https://prove2.me/theorems/c071614a-27fa-42de-be61-5b74f012c274

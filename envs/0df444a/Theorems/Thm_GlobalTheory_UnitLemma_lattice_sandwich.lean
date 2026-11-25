@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_lattice_sandwich
 -- name    : GlobalTheory.UnitLemma.lattice_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:38:05.178249+00:00
 -- url     : https://prove2.me/theorems/27c07e6a-9884-4c96-9285-013dfe9ba939

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_FlagHeightMultilinear_I_fsHerm_sum_c920ea789a43
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_FlagHeightMultilinear_I_fsHerm_sum_c920ea789a43
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:34:35.840854+00:00
 -- url     : https://prove2.me/theorems/29d50962-eed0-5d58-a2ce-c0f2c410f7b7

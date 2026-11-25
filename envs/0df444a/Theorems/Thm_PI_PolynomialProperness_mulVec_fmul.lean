@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_mulVec_fmul
 -- name    : PI.PolynomialProperness.mulVec_fmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:21:08.787532+00:00
 -- url     : https://prove2.me/theorems/553268e4-e2d5-40fc-8697-bd951bfb7a4e

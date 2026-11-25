@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_polish_of_lcsc
 -- name    : PI.RhsWLim.W.RI.polish_of_lcsc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:59:58.39626+00:00
 -- url     : https://prove2.me/theorems/8e449963-c0de-47d4-9682-9f510f30d5a9

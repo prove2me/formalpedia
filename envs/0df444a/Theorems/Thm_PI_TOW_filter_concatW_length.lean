@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_filter_concatW_length
 -- name    : PI.TOW.filter_concatW_length
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:37:49.88486+00:00
 -- url     : https://prove2.me/theorems/d63c6468-c0fc-4b52-a1b5-1b71c20da34e

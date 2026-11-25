@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Pair_epsSplit
 -- name    : PI.KLW.Pair.epsSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:32:37.414275+00:00
 -- url     : https://prove2.me/theorems/1968c65d-3ab3-4f8f-95d2-e785f7dfeada

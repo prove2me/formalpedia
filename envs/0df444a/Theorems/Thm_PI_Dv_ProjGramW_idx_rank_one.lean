@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjGramW_idx_rank_one
 -- name    : PI.Dv.ProjGramW.idx_rank_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:28:43.412404+00:00
 -- url     : https://prove2.me/theorems/c59da9df-f2cd-4251-bd07-df79f88e1b54

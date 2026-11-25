@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Tr_LocFam_linearIndependent
 -- name    : PI.ProdFormulaE.Tr.LocFam.linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:07.954211+00:00
 -- url     : https://prove2.me/theorems/ae6c963e-46d0-5afe-9dc2-47db4ba4b925

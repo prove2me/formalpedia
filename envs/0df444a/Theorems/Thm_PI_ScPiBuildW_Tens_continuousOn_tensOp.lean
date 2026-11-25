@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Tens_continuousOn_tensOp
 -- name    : PI.ScPiBuildW.Tens.continuousOn_tensOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:21:36.249921+00:00
 -- url     : https://prove2.me/theorems/805256d3-14a6-4178-ab85-30f9d9140c6c

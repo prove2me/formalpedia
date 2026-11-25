@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_W_pderiv_subst_ne
 -- name    : PI.JetsPhW.W.pderiv_subst_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:34:09.146272+00:00
 -- url     : https://prove2.me/theorems/c6a1f6e9-a1a8-48b5-9dc2-89fee5d2aad8

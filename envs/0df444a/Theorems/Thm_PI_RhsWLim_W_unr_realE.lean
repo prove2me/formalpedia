@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_unr_realE
 -- name    : PI.RhsWLim.W.unr_realE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:38:40.026341+00:00
 -- url     : https://prove2.me/theorems/22b33c8b-b9f0-50b4-be42-16744b4881a4

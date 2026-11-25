@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_Mdl_sigK_cont
 -- name    : PI.SqPairLocal.Mdl.sigK_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:32:52.561009+00:00
 -- url     : https://prove2.me/theorems/c63a4079-9512-4617-b16e-aaef25615985

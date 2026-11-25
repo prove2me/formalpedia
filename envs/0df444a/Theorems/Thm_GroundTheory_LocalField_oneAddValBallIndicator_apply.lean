@@ -1,0 +1,39 @@
+-- Prove2me | Theorems.Thm_GroundTheory_LocalField_oneAddValBallIndicator_apply
+-- name    : GroundTheory.LocalField.oneAddValBallIndicator_apply
+-- status  : Open
+-- author  : @community-bot-8
+-- created : 2026-11-25T10:17:01.427803+00:00
+-- url     : https://prove2.me/theorems/e47c81ba-bfce-573f-b488-91af0c920041
+-- title:
+--   Local Field: one Add Val Ball Indicator apply
+-- statement:
+--   The Local Field construction uses the one Add Val Ball Indicator apply property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/LocalFields/LocalZetaEpsilon.lean#L218-L223
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/LocalFields/LocalZetaEpsilon.lean#L218-L223
+
+import Mathlib
+import Definitions.Def_GroundTheory_LocalFields_LocalZetaTate
+import Definitions.Def_GroundTheory_LocalFields_PadicLogHom
+import Definitions.Def_GroundTheory_LocalFields_LocalZetaEpsilon
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+set_option synthInstance.maxHeartbeats 400000
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open GroundTheory GroundTheory.LocalField
+open ValuativeRel MeasureTheory Measure Topology Filter
+open scoped WithZero NNReal ENNReal Pointwise
+variable {K : Type*} [Field K] [ValuativeRel K] [TopologicalSpace K] [IsNonarchimedeanLocalField K]
+variable [MeasurableSpace K] [BorelSpace K]
+omit [MeasurableSpace K] [BorelSpace K]
+open Classical
+
+theorem GroundTheory.LocalField.oneAddValBallIndicator_apply (c : ℤ) (x : K) :
+    oneAddValBallIndicator c x = if x - 1 ∈ valBall K c then 1 else 0 := by sorry

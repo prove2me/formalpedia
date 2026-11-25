@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_mem_hit_of_mem_sub
 -- name    : PI.Residue.mem_hit_of_mem_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:20:20.716609+00:00
 -- url     : https://prove2.me/theorems/327a036c-9649-4837-8aa1-f4eda06489f0

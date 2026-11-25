@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_MVA_continuous_psiE_symm
 -- name    : PI.LevelKSplit.W.MVA.continuous_psiE_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:34:59.577672+00:00
 -- url     : https://prove2.me/theorems/ab2785fc-45dd-4597-878d-0ba0a937dafe

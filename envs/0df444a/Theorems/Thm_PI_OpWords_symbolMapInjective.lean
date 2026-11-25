@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_symbolMapInjective
 -- name    : PI.OpWords.symbolMapInjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:43.856542+00:00
 -- url     : https://prove2.me/theorems/17b7a8fb-bf8b-5569-8f05-1699d6d4ba68

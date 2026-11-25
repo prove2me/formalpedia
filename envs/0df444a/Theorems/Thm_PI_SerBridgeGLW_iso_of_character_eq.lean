@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SerBridgeGLW_iso_of_character_eq
 -- name    : PI.SerBridgeGLW.iso_of_character_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:59.665617+00:00
 -- url     : https://prove2.me/theorems/0c812171-8fd2-4ba1-a0bf-59f3dfe720e1

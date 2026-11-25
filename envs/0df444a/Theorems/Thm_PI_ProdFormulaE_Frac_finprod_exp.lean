@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Frac_finprod_exp
 -- name    : PI.ProdFormulaE.Frac.finprod_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:36:24.564131+00:00
 -- url     : https://prove2.me/theorems/b40ddbd6-267b-5640-bc38-474bc0533c8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Low_rowGen_mnr_of_not
 -- name    : PI.OddDualWeyl.Low.rowGen_mnr_of_not
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:14:13.844074+00:00
 -- url     : https://prove2.me/theorems/7071896d-1aa1-4352-bef9-5c3d60679c17

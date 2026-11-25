@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HcInf_cayleyLoc_of
 -- name    : HcInf.cayleyLoc_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:57:06.491826+00:00
 -- url     : https://prove2.me/theorems/ecf8a0e7-0781-48c2-a262-81ce4e6e7d0c

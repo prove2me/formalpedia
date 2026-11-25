@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HeckeProdW_chi_unit
 -- name    : PI.HeckeProdW.chi_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:31:22.81905+00:00
 -- url     : https://prove2.me/theorems/35397d97-e704-48ce-9848-774b01de1f65

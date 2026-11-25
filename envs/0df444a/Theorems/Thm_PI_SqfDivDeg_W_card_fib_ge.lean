@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfDivDeg_W_card_fib_ge
 -- name    : PI.SqfDivDeg.W.card_fib_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:24:56.106748+00:00
 -- url     : https://prove2.me/theorems/5459ebf7-2c21-4bbb-9c97-a0edf1e0524f

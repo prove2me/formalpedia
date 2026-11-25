@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RL_W_RE_add
 -- name    : PI.RL.W.RE_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:19:33.841958+00:00
 -- url     : https://prove2.me/theorems/60500b68-a86e-475d-ac9c-255d277f8ed7

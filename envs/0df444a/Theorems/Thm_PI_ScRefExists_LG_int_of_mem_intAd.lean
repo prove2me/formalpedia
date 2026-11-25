@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_LG_int_of_mem_intAd
 -- name    : PI.ScRefExists.LG.int_of_mem_intAd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:38:31.774729+00:00
 -- url     : https://prove2.me/theorems/e6fced19-df73-413d-92fc-26a7870259b4

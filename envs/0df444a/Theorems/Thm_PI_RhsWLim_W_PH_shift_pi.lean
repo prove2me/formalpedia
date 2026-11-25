@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_PH_shift_pi
 -- name    : PI.RhsWLim.W.PH.shift_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:27:02.298027+00:00
 -- url     : https://prove2.me/theorems/a4bf04cc-8a98-5f74-a768-73da46921682

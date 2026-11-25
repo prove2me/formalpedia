@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovHatW_qminor_skip
 -- name    : PI.QnCovHatW.qminor_skip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:36:18.018453+00:00
 -- url     : https://prove2.me/theorems/82d15873-2eed-50de-9f85-5ed8fcfc9eac

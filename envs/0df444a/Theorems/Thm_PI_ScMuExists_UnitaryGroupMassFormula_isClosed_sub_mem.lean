@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_isClosed_sub_mem
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.isClosed_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:37:59.894343+00:00
 -- url     : https://prove2.me/theorems/fb753ccb-774f-41bd-a0df-25253d6eb497

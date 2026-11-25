@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FHS_harmSplit
 -- name    : PI.FHS.harmSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:08:15.792856+00:00
 -- url     : https://prove2.me/theorems/50c433cc-508b-5014-86fc-0a446ba9efe7

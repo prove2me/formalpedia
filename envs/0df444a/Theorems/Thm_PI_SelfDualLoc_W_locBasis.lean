@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualLoc_W_locBasis
 -- name    : PI.SelfDualLoc.W.locBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:23:35.86794+00:00
 -- url     : https://prove2.me/theorems/a7ee2ef7-0dbc-4070-a3d7-2feb003d6f38

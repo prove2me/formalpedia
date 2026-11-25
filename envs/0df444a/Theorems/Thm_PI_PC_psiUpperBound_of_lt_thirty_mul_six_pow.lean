@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_psiUpperBound_of_lt_thirty_mul_six_pow
 -- name    : PI.PC.psiUpperBound_of_lt_thirty_mul_six_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:55.200434+00:00
 -- url     : https://prove2.me/theorems/7e686bcf-1b12-5539-b3ef-320f0b3dfc9b

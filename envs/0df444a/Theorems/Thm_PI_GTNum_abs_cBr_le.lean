@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTNum_abs_cBr_le
 -- name    : PI.GTNum.abs_cBr_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:33:38.910182+00:00
 -- url     : https://prove2.me/theorems/1d9c4042-dba8-5998-96d6-2e0889054971

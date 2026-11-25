@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiFrameW_star_sg
 -- name    : PI.ScPiFrameW.star_sg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:29:55.0878+00:00
 -- url     : https://prove2.me/theorems/5d18e7ab-d95d-4e7b-91e9-a5fae95c06cc

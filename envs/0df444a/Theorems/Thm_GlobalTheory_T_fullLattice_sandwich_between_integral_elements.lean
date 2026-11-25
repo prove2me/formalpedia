@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fullLattice_sandwich_between_integral_elements
 -- name    : GlobalTheory.T.fullLattice_sandwich_between_integral_elements
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:40:54.674801+00:00
 -- url     : https://prove2.me/theorems/6a467396-a653-483a-bb30-efc91f4c4ec9

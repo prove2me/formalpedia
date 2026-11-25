@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RL_W_keyCov
 -- name    : PI.RL.W.keyCov
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:19:56.674226+00:00
 -- url     : https://prove2.me/theorems/4b359f92-6cf2-448d-9974-17de4f137414

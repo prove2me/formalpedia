@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfDivDeg_W_card_Rt_eq
 -- name    : PI.SqfDivDeg.W.card_Rt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:26:42.27284+00:00
 -- url     : https://prove2.me/theorems/db75569c-3fa6-5102-9230-14d9871d6464

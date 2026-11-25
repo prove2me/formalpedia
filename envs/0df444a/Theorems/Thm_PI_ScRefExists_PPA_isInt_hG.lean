@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_PPA_isInt_hG
 -- name    : PI.ScRefExists.PPA.isInt_hG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:24:09.901811+00:00
 -- url     : https://prove2.me/theorems/87128702-ac07-4378-b65d-d1821a83fc57

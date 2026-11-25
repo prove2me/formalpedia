@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotMeasUniqW_qmuWeight
 -- name    : PI.QuotMeasUniqW.qmuWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:18:37.167935+00:00
 -- url     : https://prove2.me/theorems/c16017a4-c726-5408-82be-c7cd4e34500e

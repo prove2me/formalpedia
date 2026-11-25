@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnZeroLevelWork_pair_sum
 -- name    : PI.QnZeroLevelWork.pair_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:20:09.645293+00:00
 -- url     : https://prove2.me/theorems/8100cca9-ebec-5234-ab15-62db8904c521

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_shell_eq
 -- name    : PI.Residue.shell_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:20:13.640776+00:00
 -- url     : https://prove2.me/theorems/91992c0c-1c67-4920-986c-e1d56a3a6866

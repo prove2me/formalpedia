@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_measurableSet_hit
 -- name    : PI.Residue.measurableSet_hit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:20:17.232217+00:00
 -- url     : https://prove2.me/theorems/cf8bb378-c262-55c7-8fa2-354237dbb674

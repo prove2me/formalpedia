@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_constVal_of
 -- name    : PI.RhsWLim.W.constVal_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:35:11.47293+00:00
 -- url     : https://prove2.me/theorems/059f5168-7a7d-4ae4-946c-1990c17f11cb

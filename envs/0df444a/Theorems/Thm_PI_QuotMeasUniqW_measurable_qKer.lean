@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotMeasUniqW_measurable_qKer
 -- name    : PI.QuotMeasUniqW.measurable_qKer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:18:33.784912+00:00
 -- url     : https://prove2.me/theorems/62a9d5f7-ba28-41ec-8180-b3111ec4a456

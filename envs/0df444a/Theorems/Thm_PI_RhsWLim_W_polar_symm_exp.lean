@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_polar_symm_exp
 -- name    : PI.RhsWLim.W.polar_symm_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:35:25.456012+00:00
 -- url     : https://prove2.me/theorems/2c4c7645-ff65-5a40-87ad-120dacb4c489

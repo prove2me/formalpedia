@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_SdAbs_isOpen_dual_integral_module
 -- name    : PI.OmFibreUniq.W.SdAbs.isOpen_dual_integral_module
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:40:41.92867+00:00
 -- url     : https://prove2.me/theorems/e27d98d2-0cb5-4331-9767-1b64dede9a27

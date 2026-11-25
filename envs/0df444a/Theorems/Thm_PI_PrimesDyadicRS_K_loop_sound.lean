@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PrimesDyadicRS_K_loop_sound
 -- name    : PI.PrimesDyadicRS.K.loop_sound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:37:00.404063+00:00
 -- url     : https://prove2.me/theorems/32618ed5-a0cb-4167-b4da-df3fd9b1b0af

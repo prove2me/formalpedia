@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RL_W_hdHom
 -- name    : PI.RL.W.hdHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:19:15.59354+00:00
 -- url     : https://prove2.me/theorems/29bb3e7a-aa49-40ac-b765-222986e04159

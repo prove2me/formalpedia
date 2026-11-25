@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_acrisZero_eq_adjoin
 -- name    : GroundTheory.PAdicHodge.ACris.acrisZero_eq_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:02:59.935569+00:00
 -- url     : https://prove2.me/theorems/56ef4ee3-c64d-4ec7-b3aa-9b042aa3fbbf

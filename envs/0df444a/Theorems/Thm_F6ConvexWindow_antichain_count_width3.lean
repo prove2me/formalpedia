@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_antichain_count_width3
 -- name    : F6ConvexWindow.antichain_count_width3
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:33:27.893947+00:00
 -- url     : https://prove2.me/theorems/55e5ca3a-0d79-4bc7-b955-59bb085e5bcf

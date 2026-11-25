@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_PhNormUnits_UnitaryGroupMassFormula_add_zero___2ca64d39d994
 -- name    : P2M_PI_PhNormUnits_UnitaryGroupMassFormula_add_zero___2ca64d39d994
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:56:57.056523+00:00
 -- url     : https://prove2.me/theorems/920abce4-5b15-4584-bc8f-1aa3f55b8b2c

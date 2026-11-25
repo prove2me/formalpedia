@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Frac_den_sub_sum_eq_one
 -- name    : PI.ProdFormulaE.Frac.den_sub_sum_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:36:19.221991+00:00
 -- url     : https://prove2.me/theorems/e32ff746-bf94-599a-8001-af2cc60b5310

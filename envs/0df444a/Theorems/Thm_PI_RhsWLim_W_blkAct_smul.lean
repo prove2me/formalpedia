@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_blkAct_smul
 -- name    : PI.RhsWLim.W.blkAct_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:52:28.994203+00:00
 -- url     : https://prove2.me/theorems/94f0649b-e7f3-4e1c-963b-24b55f02b46d

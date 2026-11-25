@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Mirrors_cuspIso_iff_transp
 -- name    : GlobalTheory.CompanionTheory.TyFin.Mirrors.cuspIso_iff_transp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:10:46.724623+00:00
 -- url     : https://prove2.me/theorems/06fe7dba-d2f3-478a-ba70-84773acd986a

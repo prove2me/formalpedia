@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_EpG_quadraticSelfDual
 -- name    : PI.LocDualGen.EpG.quadraticSelfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:11.737039+00:00
 -- url     : https://prove2.me/theorems/2e47a018-56a9-4044-a5cf-59db022bed5a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsotropicReflections_reflection_mem_Glev_castSucc
 -- name    : PI.IsotropicReflections.reflection_mem_Glev_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:15:10.206106+00:00
 -- url     : https://prove2.me/theorems/f4889678-b22c-4b33-9aca-3dac50b658f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_jointNestedNonnegIntegralsMeasurable
 -- name    : Kyprianou.Ch04.jointNestedNonnegIntegralsMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:27:16.832819+00:00
 -- url     : https://prove2.me/theorems/768e48aa-aa82-48bc-b5f4-5f2e3df24dc7

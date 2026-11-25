@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_int_tail
 -- name    : PI.PC.int_tail
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:55.196326+00:00
 -- url     : https://prove2.me/theorems/afea99e9-13ff-4726-812a-c7e2b1878dfe

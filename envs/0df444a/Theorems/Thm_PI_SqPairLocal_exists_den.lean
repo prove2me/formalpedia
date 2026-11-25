@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_exists_den
 -- name    : PI.SqPairLocal.exists_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:25:10.017513+00:00
 -- url     : https://prove2.me/theorems/b8e45e2d-3765-492e-96c1-25bedcaa808e

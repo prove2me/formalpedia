@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocGlobInclWork_main
 -- name    : PI.LocGlobInclWork.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:58:29.678819+00:00
 -- url     : https://prove2.me/theorems/00f7c000-cef8-4bc1-955f-802a1247fbcc

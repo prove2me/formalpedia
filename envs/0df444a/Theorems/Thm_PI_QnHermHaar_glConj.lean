@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_glConj
 -- name    : PI.QnHermHaar.glConj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:00:49.986606+00:00
 -- url     : https://prove2.me/theorems/0ce176f7-af19-4b1a-b532-92ba1f17bf14

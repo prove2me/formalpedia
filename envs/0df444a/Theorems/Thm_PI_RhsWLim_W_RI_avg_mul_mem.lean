@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_avg_mul_mem
 -- name    : PI.RhsWLim.W.RI.avg_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:59:25.575572+00:00
 -- url     : https://prove2.me/theorems/a3b9a220-272f-5412-9f38-b3bff7b3e7ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_inst_fix_sum
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.inst_fix_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:00.415233+00:00
 -- url     : https://prove2.me/theorems/92b290cc-0bd2-417b-87c3-c0fb0fc2ff26

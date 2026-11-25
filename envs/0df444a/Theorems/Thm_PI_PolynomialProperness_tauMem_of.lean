@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_tauMem_of
 -- name    : PI.PolynomialProperness.tauMem_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:53:18.672443+00:00
 -- url     : https://prove2.me/theorems/ac5ee2b0-dd67-44db-bcc1-6699ebec379c

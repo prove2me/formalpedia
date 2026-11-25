@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tate_decomposition_completed_cyclotomic_integers
 -- name    : GlobalTheory.T.tate_decomposition_completed_cyclotomic_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:29:22.285431+00:00
 -- url     : https://prove2.me/theorems/3b7947a7-f7a4-59fc-9aa7-60ae98d3e78e

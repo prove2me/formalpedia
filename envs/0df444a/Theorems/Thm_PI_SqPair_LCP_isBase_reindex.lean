@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_isBase_reindex
 -- name    : PI.SqPair.LCP.isBase_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:23:54.678142+00:00
 -- url     : https://prove2.me/theorems/508199a5-aa01-4a2b-a9c4-a9110452fd33

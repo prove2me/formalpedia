@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_determinant_shift_norm
 -- name    : PI.HookSteps.determinant_shift_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:08:36.473832+00:00
 -- url     : https://prove2.me/theorems/9a5e4b5b-e754-54c3-aa34-07b950ae71c6

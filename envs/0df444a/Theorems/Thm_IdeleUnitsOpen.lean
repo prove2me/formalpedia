@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IdeleUnitsOpen
 -- name    : IdeleUnitsOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:12:49.334817+00:00
 -- url     : https://prove2.me/theorems/d0b27028-8567-456b-9e5c-c43bae7a114e

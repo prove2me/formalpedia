@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSU_normF_tau
 -- name    : PI.SSU.normF_tau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:21:49.170843+00:00
 -- url     : https://prove2.me/theorems/a8668692-87fa-4a05-9cdf-b52c093ef8b1

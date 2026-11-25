@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_factorization_position
 -- name    : PI.Residue.factorization_position
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:19:17.893116+00:00
 -- url     : https://prove2.me/theorems/16fe8484-ee97-57f0-9b37-6aa504b5c15b

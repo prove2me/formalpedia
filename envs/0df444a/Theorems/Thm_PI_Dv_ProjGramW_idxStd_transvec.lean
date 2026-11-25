@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjGramW_idxStd_transvec
 -- name    : PI.Dv.ProjGramW.idxStd_transvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:29:23.092666+00:00
 -- url     : https://prove2.me/theorems/7a4dc0d9-a156-4238-8a80-acc3041965a8

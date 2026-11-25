@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SerBridgeGLW_eOf_eq_zIdem
 -- name    : PI.SerBridgeGLW.eOf_eq_zIdem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:23:35.783811+00:00
 -- url     : https://prove2.me/theorems/ce9029ca-76e5-576f-b0e3-fae6067f907d

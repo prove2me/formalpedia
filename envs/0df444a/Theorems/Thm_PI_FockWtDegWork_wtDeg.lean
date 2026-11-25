@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockWtDegWork_wtDeg
 -- name    : PI.FockWtDegWork.wtDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:05.17414+00:00
 -- url     : https://prove2.me/theorems/6c380539-13b4-4ab8-aebb-38a2a2ab9709

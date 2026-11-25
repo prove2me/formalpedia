@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_plane_core
 -- name    : PI.SqPair.LCP.plane_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:24:00.932302+00:00
 -- url     : https://prove2.me/theorems/edcf272c-1db3-511b-943f-15e63e867b04

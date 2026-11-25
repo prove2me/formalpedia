@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ParahoricIdxZ_W_cardStep
 -- name    : PI.ParahoricIdxZ.W.cardStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:35:40.013797+00:00
 -- url     : https://prove2.me/theorems/9bc95e3e-09db-48d9-8132-8a2378ec28dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_mem_span_xi_pow_of_forall_mem_sup
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.mem_span_xi_pow_of_forall_mem_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:01:43.340792+00:00
 -- url     : https://prove2.me/theorems/9cb88cff-9d71-4277-a4df-52ef992ba401

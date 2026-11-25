@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_SW_nilpotent_subgroup
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.SW.nilpotent_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:18:36.538862+00:00
 -- url     : https://prove2.me/theorems/5e7eb630-d89a-405b-ac7c-19494d0d1c8e

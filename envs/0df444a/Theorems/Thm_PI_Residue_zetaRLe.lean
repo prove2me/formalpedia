@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_zetaRLe
 -- name    : PI.Residue.zetaRLe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:20:16.24003+00:00
 -- url     : https://prove2.me/theorems/8526cd4c-4829-4cfd-b958-f36a237c3dd9

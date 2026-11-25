@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PhNormUnits_UnitaryGroupMassFormula_mulBy_add
 -- name    : PI.PhNormUnits.UnitaryGroupMassFormula.mulBy_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:35:50.333911+00:00
 -- url     : https://prove2.me/theorems/0d524011-273d-4a39-b96e-6f05f6c76505

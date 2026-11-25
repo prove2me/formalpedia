@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SZGW_isClosed_int
 -- name    : PI.SZGW.isClosed_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:37:17.51256+00:00
 -- url     : https://prove2.me/theorems/9d6b9e35-d57c-455c-8d48-f9d43a4237b4

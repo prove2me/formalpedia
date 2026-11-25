@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_null_left_endpoints_fixed_right
 -- name    : Kyprianou.Ch04.kw47_null_left_endpoints_fixed_right
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T08:39:52.721833+00:00
 -- url     : https://prove2.me/theorems/4b7fc236-b6d4-47bc-b06a-3b402371c6b6

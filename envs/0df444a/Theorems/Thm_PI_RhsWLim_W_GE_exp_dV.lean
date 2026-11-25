@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_GE_exp_dV
 -- name    : PI.RhsWLim.W.GE.exp_dV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:45:54.399822+00:00
 -- url     : https://prove2.me/theorems/425995f1-a344-50b4-9135-774628c59375

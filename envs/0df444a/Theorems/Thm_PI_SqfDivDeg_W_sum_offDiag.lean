@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfDivDeg_W_sum_offDiag
 -- name    : PI.SqfDivDeg.W.sum_offDiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:26:36.497204+00:00
 -- url     : https://prove2.me/theorems/85e99830-baac-4ce7-ab54-b4db8fe1a926

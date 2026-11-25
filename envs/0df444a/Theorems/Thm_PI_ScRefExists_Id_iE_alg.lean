@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_Id_iE_alg
 -- name    : PI.ScRefExists.Id.iE_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:26:45.140983+00:00
 -- url     : https://prove2.me/theorems/94ff941e-8dd0-57b4-ad8d-c3071a7a8339

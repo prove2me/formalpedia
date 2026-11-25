@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OrbShared_Tri_coeff_subst_tri
 -- name    : PI.OrbShared.Tri.coeff_subst_tri
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:35:41.05919+00:00
 -- url     : https://prove2.me/theorems/05cb2867-d38c-469b-af45-41420ef1d30f

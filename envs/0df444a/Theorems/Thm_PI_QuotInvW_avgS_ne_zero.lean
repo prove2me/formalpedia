@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotInvW_avgS_ne_zero
 -- name    : PI.QuotInvW.avgS_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:39:27.542515+00:00
 -- url     : https://prove2.me/theorems/dd91182b-4e44-42f5-a8b9-55e12069d4d9

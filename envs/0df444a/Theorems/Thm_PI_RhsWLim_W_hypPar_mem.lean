@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_hypPar_mem
 -- name    : PI.RhsWLim.W.hypPar_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:33:22.891535+00:00
 -- url     : https://prove2.me/theorems/7c25e20d-100f-5f13-8d83-e8bbb51035ec

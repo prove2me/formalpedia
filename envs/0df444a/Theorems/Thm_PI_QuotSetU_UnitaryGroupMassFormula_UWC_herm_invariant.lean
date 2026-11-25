@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_UWC_herm_invariant
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.UWC.herm_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:19:11.544069+00:00
 -- url     : https://prove2.me/theorems/98e6a162-d5f4-557d-ad80-6e1583430624

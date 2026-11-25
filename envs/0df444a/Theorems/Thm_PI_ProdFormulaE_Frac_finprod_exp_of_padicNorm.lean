@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Frac_finprod_exp_of_padicNorm
 -- name    : PI.ProdFormulaE.Frac.finprod_exp_of_padicNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:36:34.568461+00:00
 -- url     : https://prove2.me/theorems/4ee9dc9c-1bdb-49ed-afb6-acf53ed20f18

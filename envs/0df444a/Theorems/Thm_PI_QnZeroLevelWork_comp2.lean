@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnZeroLevelWork_comp2
 -- name    : PI.QnZeroLevelWork.comp2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:20:06.97567+00:00
 -- url     : https://prove2.me/theorems/d82c4b45-8c08-4600-bbe6-f41d7db213c5

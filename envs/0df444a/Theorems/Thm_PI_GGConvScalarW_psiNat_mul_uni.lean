@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGConvScalarW_psiNat_mul_uni
 -- name    : PI.GGConvScalarW.psiNat_mul_uni
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:44.022128+00:00
 -- url     : https://prove2.me/theorems/059e0f96-4b25-41bb-ba48-4e4a28c737eb

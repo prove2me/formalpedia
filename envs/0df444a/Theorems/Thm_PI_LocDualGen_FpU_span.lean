@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_FpU_span
 -- name    : PI.LocDualGen.FpU.span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:58:41.820585+00:00
 -- url     : https://prove2.me/theorems/c645a94c-cae5-4810-954f-351958916d54

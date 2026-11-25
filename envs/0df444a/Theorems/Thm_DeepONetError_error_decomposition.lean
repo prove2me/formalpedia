@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeepONetError_error_decomposition
 -- name    : DeepONetError.error_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T05:30:09.3476+00:00
 -- url     : https://prove2.me/theorems/58cc6b15-68a8-4d5c-b24a-bc5e58640e10

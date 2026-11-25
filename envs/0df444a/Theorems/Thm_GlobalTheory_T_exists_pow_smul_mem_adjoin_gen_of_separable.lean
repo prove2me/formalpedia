@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_pow_smul_mem_adjoin_gen_of_separable
 -- name    : GlobalTheory.T.exists_pow_smul_mem_adjoin_gen_of_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:37:50.912822+00:00
 -- url     : https://prove2.me/theorems/def8e5ba-4f80-40cb-b37d-e7387c1907ac

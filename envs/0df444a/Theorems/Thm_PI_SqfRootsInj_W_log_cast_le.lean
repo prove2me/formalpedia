@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootsInj_W_log_cast_le
 -- name    : PI.SqfRootsInj.W.log_cast_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:28:16.293134+00:00
 -- url     : https://prove2.me/theorems/58ccfb31-f6b1-5912-88c4-0781c81d6357

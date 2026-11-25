@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_unitMul_comp
 -- name    : PI.Residue.unitMul_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:19:58.072975+00:00
 -- url     : https://prove2.me/theorems/4054d7df-edfe-49f1-94d0-e1e302e82e14

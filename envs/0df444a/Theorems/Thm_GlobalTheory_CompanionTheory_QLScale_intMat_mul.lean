@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLScale_intMat_mul
 -- name    : GlobalTheory.CompanionTheory.QLScale.intMat_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:05:41.68056+00:00
 -- url     : https://prove2.me/theorems/6c3fdb97-552c-4c99-b659-15dad01258eb

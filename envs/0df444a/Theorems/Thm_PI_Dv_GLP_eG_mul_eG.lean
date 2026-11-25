@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLP_eG_mul_eG
 -- name    : PI.Dv.GLP.eG_mul_eG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:27:12.20731+00:00
 -- url     : https://prove2.me/theorems/7902ead3-5090-4439-9e48-91fa1269eaf3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_box_eq_convexBodyLT
 -- name    : PI.Residue.box_eq_convexBodyLT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:19:21.088813+00:00
 -- url     : https://prove2.me/theorems/0dbaecb5-48ef-5640-a43e-5e0e79ece534

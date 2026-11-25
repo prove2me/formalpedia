@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_chebyshevConstantNumeric
 -- name    : PI.PC.chebyshevConstantNumeric
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:36:17.724822+00:00
 -- url     : https://prove2.me/theorems/c63258db-5148-42ae-8754-c726f0d01514

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_exists_bruhat_left
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.exists_bruhat_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:59:54.46139+00:00
 -- url     : https://prove2.me/theorems/486244c3-b123-4910-8776-0562cdca40b7

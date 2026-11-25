@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PrimeLogOverPWork_sum_E_ge
 -- name    : PI.PrimeLogOverPWork.sum_E_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:17:50.056637+00:00
 -- url     : https://prove2.me/theorems/efa3b9d0-9b8f-44d6-a4f4-4716b15ee82d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_Id_fixInt
 -- name    : PI.ScRefExists.Id.fixInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:22:53.734746+00:00
 -- url     : https://prove2.me/theorems/d716904d-42d5-46ea-8db5-e61a9d6f47ff

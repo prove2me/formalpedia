@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_UPosW_uPos_of
 -- name    : PI.FrameInd.UPosW.uPos_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:10:01.493897+00:00
 -- url     : https://prove2.me/theorems/df6e724d-6c84-4bd0-87e1-06ba8241da2c

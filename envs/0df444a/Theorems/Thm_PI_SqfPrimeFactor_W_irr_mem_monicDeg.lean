@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfPrimeFactor_W_irr_mem_monicDeg
 -- name    : PI.SqfPrimeFactor.W.irr_mem_monicDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:26:13.853011+00:00
 -- url     : https://prove2.me/theorems/0f32f34a-5129-494f-93c7-e86a779dd4c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_sum_ne_zero_le
 -- name    : PI.Residue.sum_ne_zero_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:20:21.657232+00:00
 -- url     : https://prove2.me/theorems/28636264-6898-4118-8e2a-39e9db4e4509

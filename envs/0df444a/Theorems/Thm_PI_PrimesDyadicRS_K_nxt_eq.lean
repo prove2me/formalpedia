@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PrimesDyadicRS_K_nxt_eq
 -- name    : PI.PrimesDyadicRS.K.nxt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:36:35.096159+00:00
 -- url     : https://prove2.me/theorems/308cbe03-1519-5e7e-b9c9-a1d36c07ad05

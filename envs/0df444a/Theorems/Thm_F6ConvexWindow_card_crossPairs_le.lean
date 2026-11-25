@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_card_crossPairs_le
 -- name    : F6ConvexWindow.card_crossPairs_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:38:14.064422+00:00
 -- url     : https://prove2.me/theorems/c747467b-1cee-521d-8eae-7bbfdf914005

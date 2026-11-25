@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_inner_r
 -- name    : PI.RhsWLim.W.RI.inner_r
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:53:21.154352+00:00
 -- url     : https://prove2.me/theorems/a7302db5-921b-5241-8fef-a6b3f9e8c800

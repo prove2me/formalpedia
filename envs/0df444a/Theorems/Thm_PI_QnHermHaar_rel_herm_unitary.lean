@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_rel_herm_unitary
 -- name    : PI.QnHermHaar.rel_herm_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:39:34.721507+00:00
 -- url     : https://prove2.me/theorems/032312ff-c459-46a4-880a-f27fb734fae9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NMeasInv_UnitaryGroupMassFormula_span_facts
 -- name    : PI.NMeasInv.UnitaryGroupMassFormula.span_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:33:11.01213+00:00
 -- url     : https://prove2.me/theorems/afcdab95-1f76-5055-bc1d-6d5f9152a0f8

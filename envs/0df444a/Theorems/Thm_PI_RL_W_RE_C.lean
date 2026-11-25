@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RL_W_RE_C
 -- name    : PI.RL.W.RE_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:19:10.574365+00:00
 -- url     : https://prove2.me/theorems/46da4626-5281-556c-8e49-ca2999e64d3f

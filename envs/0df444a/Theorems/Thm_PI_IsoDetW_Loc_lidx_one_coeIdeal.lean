@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_lidx_one_coeIdeal
 -- name    : PI.IsoDetW.Loc.lidx_one_coeIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:08:02.545654+00:00
 -- url     : https://prove2.me/theorems/772ccc15-182c-5cd7-a749-10f06e515872

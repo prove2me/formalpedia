@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_GlueB_hG_nsmul_right
 -- name    : PI.ScRefExists.GlueB.hG_nsmul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:22:51.156322+00:00
 -- url     : https://prove2.me/theorems/c5c8dc35-f365-40da-b89c-3b72bdc7ad63

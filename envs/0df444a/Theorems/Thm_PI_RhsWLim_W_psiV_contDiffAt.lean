@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_psiV_contDiffAt
 -- name    : PI.RhsWLim.W.psiV_contDiffAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:51:07.359321+00:00
 -- url     : https://prove2.me/theorems/144aa1d7-7111-480e-8d5e-ad6d4abc9bc3

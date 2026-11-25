@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Core_hwHarmDeg_of
 -- name    : PI.FockOneDegW.Core.hwHarmDeg_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:55:44.998692+00:00
 -- url     : https://prove2.me/theorems/c029dac0-288f-4e9c-8530-e77336295707

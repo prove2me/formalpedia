@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_UWC_norm_H_bvec_le
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.UWC.norm_H_bvec_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:19:30.413614+00:00
 -- url     : https://prove2.me/theorems/c99afccd-1a70-4f2e-8287-f502a37f2e3f

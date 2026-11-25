@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootsInj_W_caseB_PB
 -- name    : PI.SqfRootsInj.W.caseB_PB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:27:43.969992+00:00
 -- url     : https://prove2.me/theorems/20c70779-4679-509d-9405-8397fb8e3c47

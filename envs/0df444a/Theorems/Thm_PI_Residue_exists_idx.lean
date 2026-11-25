@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_exists_idx
 -- name    : PI.Residue.exists_idx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:19:25.941722+00:00
 -- url     : https://prove2.me/theorems/d299bec3-cca4-5903-9b94-750d1ac4931a

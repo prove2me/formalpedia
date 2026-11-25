@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_witt_ring_structure
 -- name    : witt_ring_structure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:01:26.977812+00:00
 -- url     : https://prove2.me/theorems/046e6362-9719-4681-8d89-4d6634354de3

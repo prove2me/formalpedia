@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_boxVolume
 -- name    : PI.Residue.boxVolume
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:40:05.098845+00:00
 -- url     : https://prove2.me/theorems/16886f91-9261-41a5-b360-47e6b6978866

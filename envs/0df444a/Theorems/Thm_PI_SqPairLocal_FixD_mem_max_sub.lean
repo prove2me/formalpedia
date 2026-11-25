@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_FixD_mem_max_sub
 -- name    : PI.SqPairLocal.FixD.mem_max_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:28:14.78154+00:00
 -- url     : https://prove2.me/theorems/48cb7e3b-205e-598b-a384-e794d021db26

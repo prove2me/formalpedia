@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_mem_maximalIdeal_pow_of_forall_sub_mem
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.mem_maximalIdeal_pow_of_forall_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:00:56.1248+00:00
 -- url     : https://prove2.me/theorems/5420d531-7997-5c81-8d27-259ae984333f

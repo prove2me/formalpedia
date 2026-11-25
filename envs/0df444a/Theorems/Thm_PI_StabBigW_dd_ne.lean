@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabBigW_dd_ne
 -- name    : PI.StabBigW.dd_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:27:14.963836+00:00
 -- url     : https://prove2.me/theorems/863f4f05-e814-425f-8536-01476c8f3e5d

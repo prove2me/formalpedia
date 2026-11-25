@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_w_decomp
 -- name    : PI.QnRT.w_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:20:36.763002+00:00
 -- url     : https://prove2.me/theorems/37f98e87-279e-5ab4-8448-429ad7888d29

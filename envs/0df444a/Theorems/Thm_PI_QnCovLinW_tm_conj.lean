@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovLinW_tm_conj
 -- name    : PI.QnCovLinW.tm_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:37:03.943817+00:00
 -- url     : https://prove2.me/theorems/ba688d15-f233-5455-a434-e200c411961e

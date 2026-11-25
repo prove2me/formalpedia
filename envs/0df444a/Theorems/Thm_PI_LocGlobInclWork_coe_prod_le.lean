@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocGlobInclWork_coe_prod_le
 -- name    : PI.LocGlobInclWork.coe_prod_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:35:14.846338+00:00
 -- url     : https://prove2.me/theorems/44951016-973e-46c1-b954-801bf6006957

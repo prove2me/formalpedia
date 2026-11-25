@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianFrameClasses_total_weight_le
 -- name    : GlobalTheory.T.hermitianFrameClasses_total_weight_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:34:09.844424+00:00
 -- url     : https://prove2.me/theorems/dcaa7e79-7172-5491-ad41-77cffb515cba

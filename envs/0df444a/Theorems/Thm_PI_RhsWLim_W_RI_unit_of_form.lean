@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_unit_of_form
 -- name    : PI.RhsWLim.W.RI.unit_of_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:01:20.198335+00:00
 -- url     : https://prove2.me/theorems/87be3c12-dfb5-5550-b696-2423a56e229e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_sg_hf_star
 -- name    : PI.SqPair.LCP.sg_hf_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:27:11.68272+00:00
 -- url     : https://prove2.me/theorems/7ac21d43-c459-508a-8448-9d2076106633

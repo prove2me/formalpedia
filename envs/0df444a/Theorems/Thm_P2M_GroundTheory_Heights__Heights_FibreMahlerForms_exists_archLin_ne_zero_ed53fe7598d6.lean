@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FibreMahlerForms_exists_archLin_ne_zero_ed53fe7598d6
 -- name    : P2M_GroundTheory_Heights__Heights_FibreMahlerForms_exists_archLin_ne_zero_ed53fe7598d6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:39:23.164627+00:00
 -- url     : https://prove2.me/theorems/adec56fe-66e1-5559-95dd-5e93b59badf0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_OnW_Gen_proof_7b03b661c17e
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_OnW_Gen_proof_7b03b661c17e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:45:33.523837+00:00
 -- url     : https://prove2.me/theorems/edd72c5a-9009-57ee-9dea-8eaa50af14bb

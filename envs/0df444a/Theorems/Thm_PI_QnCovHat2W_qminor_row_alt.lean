@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovHat2W_qminor_row_alt
 -- name    : PI.QnCovHat2W.qminor_row_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:58.374371+00:00
 -- url     : https://prove2.me/theorems/22cf961a-51df-401b-a434-a97200675ae9

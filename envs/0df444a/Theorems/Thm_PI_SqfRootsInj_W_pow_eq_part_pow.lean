@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootsInj_W_pow_eq_part_pow
 -- name    : PI.SqfRootsInj.W.pow_eq_part_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:28:24.204774+00:00
 -- url     : https://prove2.me/theorems/76a6a487-7a62-5a52-aa10-5e481923e39a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_chD_eq_sum
 -- name    : PI.PC.chD_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:35:56.090566+00:00
 -- url     : https://prove2.me/theorems/35ccb6df-0448-499e-a6d8-430f1487d1c3

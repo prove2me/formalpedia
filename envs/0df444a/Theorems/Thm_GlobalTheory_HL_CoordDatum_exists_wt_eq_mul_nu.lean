@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordDatum_exists_wt_eq_mul_nu
 -- name    : GlobalTheory.HL.CoordDatum.exists_wt_eq_mul_nu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:29:08.4087+00:00
 -- url     : https://prove2.me/theorems/237e9c4c-a764-535f-92ba-17ccd532b81c

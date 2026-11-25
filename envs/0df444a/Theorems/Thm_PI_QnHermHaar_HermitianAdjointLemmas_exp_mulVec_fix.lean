@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_HermitianAdjointLemmas_exp_mulVec_fix
 -- name    : PI.QnHermHaar.HermitianAdjointLemmas.exp_mulVec_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:04:07.685533+00:00
 -- url     : https://prove2.me/theorems/3b56085d-ead9-5817-a596-35b4c4a767bb

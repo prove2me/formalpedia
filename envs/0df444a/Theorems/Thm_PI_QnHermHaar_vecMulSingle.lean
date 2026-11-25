@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_vecMulSingle
 -- name    : PI.QnHermHaar.vecMulSingle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:21:56.334673+00:00
 -- url     : https://prove2.me/theorems/f711112b-2a4c-4bfa-8686-fcd32327cee4

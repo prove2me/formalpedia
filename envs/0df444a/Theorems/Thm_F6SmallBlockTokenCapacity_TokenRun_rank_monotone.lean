@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6SmallBlockTokenCapacity_TokenRun_rank_monotone
 -- name    : F6SmallBlockTokenCapacity.TokenRun.rank_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:41:25.53781+00:00
 -- url     : https://prove2.me/theorems/9bb1b28a-e8d6-5a7b-a10c-9a7b8c416f9f

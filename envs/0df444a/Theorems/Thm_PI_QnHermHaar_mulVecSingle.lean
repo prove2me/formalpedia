@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_mulVecSingle
 -- name    : PI.QnHermHaar.mulVecSingle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:00:39.338426+00:00
 -- url     : https://prove2.me/theorems/bdd50c58-a50b-44a6-b8d3-8e6d842496f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_sum_index_formula
 -- name    : PI.Dv.TIW.sum_index_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:30.473603+00:00
 -- url     : https://prove2.me/theorems/6ca00207-e9a2-4e39-94de-ab03c6c4013f

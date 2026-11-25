@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_zeta_one_sub_le
 -- name    : PI.EF.zeta_one_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:37.494893+00:00
 -- url     : https://prove2.me/theorems/3d6897ff-9668-4f19-86e2-412bbd56feab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_ideleNorm_fst
 -- name    : GroundTheory.Global.ideleNorm_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:36:08.038885+00:00
 -- url     : https://prove2.me/theorems/f75dc5a0-2c66-40a5-abd9-1cb01a7cb670

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_oneCosetSharp_of_patClosed
 -- name    : PI.OneCosetSharp.W.oneCosetSharp_of_patClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:16:26.376291+00:00
 -- url     : https://prove2.me/theorems/613fe130-98e4-4d9e-a5be-19879f19153d

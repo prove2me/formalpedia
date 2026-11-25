@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_col_unitary
 -- name    : PI.RhsWLim.W.col_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:42:14.336346+00:00
 -- url     : https://prove2.me/theorems/9486641b-d83b-552c-acc8-93d1fb76e3c8

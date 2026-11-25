@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HypOrbitUnique_pull_compact
 -- name    : GlobalTheory.HypOrbitUnique.pull_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:53:16.975803+00:00
 -- url     : https://prove2.me/theorems/93108641-697c-4028-ae37-8a1d1df55683

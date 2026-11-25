@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_unitPreserving
 -- name    : PI.Residue.unitPreserving
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:20:29.368158+00:00
 -- url     : https://prove2.me/theorems/a775b25a-a683-48e4-af58-df34cf0ea443

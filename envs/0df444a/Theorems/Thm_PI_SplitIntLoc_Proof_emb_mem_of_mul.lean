@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SplitIntLoc_Proof_emb_mem_of_mul
 -- name    : PI.SplitIntLoc.Proof.emb_mem_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:24:53.925427+00:00
 -- url     : https://prove2.me/theorems/1f9ed287-4b4c-51a8-9301-c41f00354d0f

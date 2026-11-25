@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncidenceGeneric_full_2ed6f60b95ac
 -- name    : P2M_GroundTheory_Heights__Heights_IncidenceGeneric_full_2ed6f60b95ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:37:26.213383+00:00
 -- url     : https://prove2.me/theorems/45c7722d-65f5-4c0b-9eb1-8f30e9ff4368

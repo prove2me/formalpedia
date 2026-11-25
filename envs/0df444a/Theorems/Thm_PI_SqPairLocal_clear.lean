@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_clear
 -- name    : PI.SqPairLocal.clear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:24:42.320588+00:00
 -- url     : https://prove2.me/theorems/a9ee24f8-7610-5ed1-ab02-c7dec6e814dc

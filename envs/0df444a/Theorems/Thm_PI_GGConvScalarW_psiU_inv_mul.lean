@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGConvScalarW_psiU_inv_mul
 -- name    : PI.GGConvScalarW.psiU_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:30:39.542481+00:00
 -- url     : https://prove2.me/theorems/ab8c8435-61b2-40bc-a252-aa08cba75ac3

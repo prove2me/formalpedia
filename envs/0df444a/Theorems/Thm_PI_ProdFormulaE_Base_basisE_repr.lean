@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Base_basisE_repr
 -- name    : PI.ProdFormulaE.Base.basisE_repr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:36:47.696136+00:00
 -- url     : https://prove2.me/theorems/f069c95f-172f-4e3b-98a2-a5b561f4125e

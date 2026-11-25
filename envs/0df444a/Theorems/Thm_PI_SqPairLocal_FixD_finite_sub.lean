@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_FixD_finite_sub
 -- name    : PI.SqPairLocal.FixD.finite_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:28:27.728944+00:00
 -- url     : https://prove2.me/theorems/8cb58e5e-5e90-56dc-8857-7ba38b0e2082

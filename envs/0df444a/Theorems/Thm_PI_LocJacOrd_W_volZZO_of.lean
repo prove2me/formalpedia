@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocJacOrd_W_volZZO_of
 -- name    : PI.LocJacOrd.W.volZZO_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:15:25.72242+00:00
 -- url     : https://prove2.me/theorems/b6b9541c-effd-5a7b-bea8-955f4e66a432

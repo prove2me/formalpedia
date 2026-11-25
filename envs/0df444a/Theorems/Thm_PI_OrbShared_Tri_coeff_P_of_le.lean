@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OrbShared_Tri_coeff_P_of_le
 -- name    : PI.OrbShared.Tri.coeff_P_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:16:29.936336+00:00
 -- url     : https://prove2.me/theorems/1c02c696-ddb3-5f27-9a84-941281c5468e

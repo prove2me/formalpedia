@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_coeff_kappa
 -- name    : PI.OpWords.coeff_kappa
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:15:42.899749+00:00
 -- url     : https://prove2.me/theorems/f85681a8-3a8c-4930-aed2-9c571dfb2033

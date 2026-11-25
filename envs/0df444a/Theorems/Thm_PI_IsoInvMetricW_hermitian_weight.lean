@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoInvMetricW_hermitian_weight
 -- name    : PI.IsoInvMetricW.hermitian_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:13:06.446137+00:00
 -- url     : https://prove2.me/theorems/cdad53e4-e316-5c86-a9cc-4d277ae37eee

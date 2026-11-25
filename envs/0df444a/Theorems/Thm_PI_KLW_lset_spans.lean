@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_lset_spans
 -- name    : PI.KLW.lset_spans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:33:04.256649+00:00
 -- url     : https://prove2.me/theorems/1c03491e-3ed1-5a11-a76a-b453e73da840

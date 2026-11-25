@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Glob_ratV_mem_span
 -- name    : PI.LevelKSplit.W.Glob.ratV_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:34:22.733312+00:00
 -- url     : https://prove2.me/theorems/429e267d-b9c2-5bdd-a619-d7b041f1af7e

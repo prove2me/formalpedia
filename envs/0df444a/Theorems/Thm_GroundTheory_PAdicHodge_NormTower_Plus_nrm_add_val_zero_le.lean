@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_NormTower_Plus_nrm_add_val_zero_le
 -- name    : GroundTheory.PAdicHodge.NormTower.Plus.nrm_add_val_zero_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:56:28.723229+00:00
 -- url     : https://prove2.me/theorems/787384b2-f52b-5af5-b2d2-705ccb6d8a47

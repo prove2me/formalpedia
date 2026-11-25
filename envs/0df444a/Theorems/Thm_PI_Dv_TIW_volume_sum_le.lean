@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_volume_sum_le
 -- name    : PI.Dv.TIW.volume_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:28:07.407796+00:00
 -- url     : https://prove2.me/theorems/e91bdb1c-aeb1-4520-a934-0f71171658ec

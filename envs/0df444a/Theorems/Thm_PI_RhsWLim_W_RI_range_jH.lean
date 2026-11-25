@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_range_jH
 -- name    : PI.RhsWLim.W.RI.range_jH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:20:13.390285+00:00
 -- url     : https://prove2.me/theorems/c6b10362-795d-54ac-96bb-b8b2ad16fcd4

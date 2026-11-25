@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualLoc_W_unitLoc
 -- name    : PI.SelfDualLoc.W.unitLoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:23:25.063526+00:00
 -- url     : https://prove2.me/theorems/3d7018c9-d010-4e93-982e-9f0faec8ef74

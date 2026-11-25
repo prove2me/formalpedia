@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglChordFactor_Wk_negsub
 -- name    : PI.FglChordFactor.Wk.negsub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:43:17.723001+00:00
 -- url     : https://prove2.me/theorems/331429d2-b0a5-51f0-83e1-515f4699e645

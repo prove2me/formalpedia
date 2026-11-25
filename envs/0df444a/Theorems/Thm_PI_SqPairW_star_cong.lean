@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairW_star_cong
 -- name    : PI.SqPairW.star_cong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:26:04.951901+00:00
 -- url     : https://prove2.me/theorems/4493310a-e911-4283-9201-b1152fffcda4

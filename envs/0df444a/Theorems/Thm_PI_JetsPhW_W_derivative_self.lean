@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_W_derivative_self
 -- name    : PI.JetsPhW.W.derivative_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:33:25.952274+00:00
 -- url     : https://prove2.me/theorems/46b895f1-8930-4344-949e-b14985fbaae6

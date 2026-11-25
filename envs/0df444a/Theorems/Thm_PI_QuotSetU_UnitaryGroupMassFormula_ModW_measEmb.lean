@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_ModW_measEmb
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.ModW.measEmb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:29:34.232364+00:00
 -- url     : https://prove2.me/theorems/aa92a9e7-ca47-4e63-84bb-1f6a4a7a8420

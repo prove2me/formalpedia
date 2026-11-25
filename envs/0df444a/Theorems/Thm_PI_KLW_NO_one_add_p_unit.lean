@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_NO_one_add_p_unit
 -- name    : PI.KLW.NO.one_add_p_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:43:21.714373+00:00
 -- url     : https://prove2.me/theorems/8a046682-7ec8-4f20-a846-86cd0b33d254

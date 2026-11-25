@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SplitIntLoc_Proof_emb_apply
 -- name    : PI.SplitIntLoc.Proof.emb_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:24:51.095933+00:00
 -- url     : https://prove2.me/theorems/d7bac196-fe3d-49ff-99fb-721d8b9b7909

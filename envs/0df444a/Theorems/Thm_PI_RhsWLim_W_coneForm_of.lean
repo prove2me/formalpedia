@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_coneForm_of
 -- name    : PI.RhsWLim.W.coneForm_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:56:21.45601+00:00
 -- url     : https://prove2.me/theorems/31d4f651-3d52-5fd5-9559-8fb8ddc7808a

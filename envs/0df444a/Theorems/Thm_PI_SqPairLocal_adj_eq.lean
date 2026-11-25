@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_adj_eq
 -- name    : PI.SqPairLocal.adj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:24:18.981928+00:00
 -- url     : https://prove2.me/theorems/6602917e-ab68-5066-869b-cb0045a490d2

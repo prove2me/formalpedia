@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinKW_local_vector_lift
 -- name    : PI.FinKW.local_vector_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:50:57.061354+00:00
 -- url     : https://prove2.me/theorems/283cd70f-4015-4bd0-ba7b-8b605eecd2ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_highest_weight_divisibility
 -- name    : PI.OddDualWeyl.highest_weight_divisibility
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:50:38.233107+00:00
 -- url     : https://prove2.me/theorems/5c86d2aa-bc0f-40bd-a3d4-1d9552eca932

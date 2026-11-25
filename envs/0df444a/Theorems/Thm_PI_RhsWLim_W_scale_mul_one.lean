@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_scale_mul_one
 -- name    : PI.RhsWLim.W.scale_mul_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:34:24.050419+00:00
 -- url     : https://prove2.me/theorems/cc6be695-2813-4024-a796-f5b7e142d319

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_maximalIdeal_bDeRhamPlus_eq_span
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.maximalIdeal_bDeRhamPlus_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:54:11.985295+00:00
 -- url     : https://prove2.me/theorems/5644f5fd-ecb5-50ca-aaeb-0aff157585ff

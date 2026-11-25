@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_norm_succ_le
 -- name    : PI.SSE.norm_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:23:11.541312+00:00
 -- url     : https://prove2.me/theorems/06ed2824-1588-55ba-b4cb-34da403ed4fb

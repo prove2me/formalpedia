@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_later_exclusive_above
 -- name    : F6ConvexWindow.later_exclusive_above
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:37:52.786854+00:00
 -- url     : https://prove2.me/theorems/da5ca760-7398-5ee7-9b3f-19c713e45c5b

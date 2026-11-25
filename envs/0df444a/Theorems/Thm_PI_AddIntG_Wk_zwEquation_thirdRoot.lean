@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_zwEquation_thirdRoot
 -- name    : PI.AddIntG.Wk.zwEquation_thirdRoot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:12:59.451803+00:00
 -- url     : https://prove2.me/theorems/5a70f1e8-e28a-482e-879b-1d4183e92bcd

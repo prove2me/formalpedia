@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleNorm_infiniteProj_ideleNorm
 -- name    : GroundTheory.Global.IdeleNorm.infiniteProj_ideleNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:50:42.274672+00:00
 -- url     : https://prove2.me/theorems/9baa29e9-f5b0-5eaa-9ba9-a6868279e5fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_UWC_tz_eq
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.UWC.tz_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:19:23.322408+00:00
 -- url     : https://prove2.me/theorems/e2a1d7fa-0927-4fe4-a872-8ac1631850bd

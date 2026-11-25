@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_degMu_line_b30aabb74c70
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_degMu_line_b30aabb74c70
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:44:18.341995+00:00
 -- url     : https://prove2.me/theorems/53760d73-5032-51ee-8f5c-3639f0ab7627

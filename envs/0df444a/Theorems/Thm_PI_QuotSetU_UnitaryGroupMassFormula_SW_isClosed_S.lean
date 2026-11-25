@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_SW_isClosed_S
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.SW.isClosed_S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:55:08.551992+00:00
 -- url     : https://prove2.me/theorems/aac5f9e0-10de-4b52-b11c-c2ed887c7a52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnWCellW_reflection_mul_weyl_cell
 -- name    : PI.QnWCellW.reflection_mul_weyl_cell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:19:51.955494+00:00
 -- url     : https://prove2.me/theorems/45aaca11-c70e-5de4-9e3d-3ecb6909cf7b

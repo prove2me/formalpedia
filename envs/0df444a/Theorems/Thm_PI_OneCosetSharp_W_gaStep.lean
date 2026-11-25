@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_gaStep
 -- name    : PI.OneCosetSharp.W.gaStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:21:07.467577+00:00
 -- url     : https://prove2.me/theorems/d185c2f6-c87e-473b-ad98-c258f2b6bb2c

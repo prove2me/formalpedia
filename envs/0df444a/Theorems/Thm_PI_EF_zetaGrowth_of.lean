@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_zetaGrowth_of
 -- name    : PI.EF.zetaGrowth_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:25:32.463486+00:00
 -- url     : https://prove2.me/theorems/2aaf0e75-0820-458e-bfdf-3e86b9f270d7

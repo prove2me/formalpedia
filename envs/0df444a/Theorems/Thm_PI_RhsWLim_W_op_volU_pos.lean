@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_op_volU_pos
 -- name    : PI.RhsWLim.W.op_volU_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:27:31.744909+00:00
 -- url     : https://prove2.me/theorems/a446e993-55a2-4ac4-91b0-045959d9f42a

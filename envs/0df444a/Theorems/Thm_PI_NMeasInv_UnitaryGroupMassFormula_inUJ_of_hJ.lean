@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NMeasInv_UnitaryGroupMassFormula_inUJ_of_hJ
 -- name    : PI.NMeasInv.UnitaryGroupMassFormula.inUJ_of_hJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:13:59.895353+00:00
 -- url     : https://prove2.me/theorems/33afcb87-e4ab-408b-b0a4-d8e2fd8ae6b7

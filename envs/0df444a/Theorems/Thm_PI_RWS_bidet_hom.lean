@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RWS_bidet_hom
 -- name    : PI.RWS.bidet_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:19:02.145121+00:00
 -- url     : https://prove2.me/theorems/7e070de8-7ba7-565c-9fe1-2fbe3dcd6006

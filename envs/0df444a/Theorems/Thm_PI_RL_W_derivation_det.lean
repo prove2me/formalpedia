@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RL_W_derivation_det
 -- name    : PI.RL.W.derivation_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:19:01.712866+00:00
 -- url     : https://prove2.me/theorems/0c9836ec-07c1-56eb-985e-8671faa7e4be

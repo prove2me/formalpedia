@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_plane_isUnit_of_sub_one_mem
 -- name    : PI.SqPair.LCP.plane_isUnit_of_sub_one_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:24:12.311513+00:00
 -- url     : https://prove2.me/theorems/1b404565-8d9b-5d77-b3e9-209227413871

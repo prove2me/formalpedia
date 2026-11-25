@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtIsom_detH
 -- name    : GlobalTheory.EtIsom.detH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:13:12.891+00:00
 -- url     : https://prove2.me/theorems/93045512-bd26-42b1-9dfd-2d9b9d8b27f5

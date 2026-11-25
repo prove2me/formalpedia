@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_rel_hpk_off_right
 -- name    : PI.QnHermHaar.rel_hpk_off_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:01:28.526043+00:00
 -- url     : https://prove2.me/theorems/4e3ebb92-03b5-4081-8482-8a7661144d50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocGlobInclWork_exists_unit_at
 -- name    : PI.LocGlobInclWork.exists_unit_at
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:39:05.606879+00:00
 -- url     : https://prove2.me/theorems/9f3cb0a7-ff48-4de9-9702-4ea7c6a49290

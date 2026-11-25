@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjGramW_idx_reduce
 -- name    : PI.Dv.ProjGramW.idx_reduce
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:18:30.981853+00:00
 -- url     : https://prove2.me/theorems/a8b2a345-52e3-46c5-9e5b-8e7460d43b68

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnZeroLevelWork_uC_eq
 -- name    : PI.QnZeroLevelWork.uC_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:18:43.463117+00:00
 -- url     : https://prove2.me/theorems/b163e9de-d34c-4e30-992d-904821a587f5

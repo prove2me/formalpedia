@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerIso_FourSqW_exists_orth
 -- name    : PI.KerIso.FourSqW.exists_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:33:20.574707+00:00
 -- url     : https://prove2.me/theorems/33952358-56e8-44b2-9653-231002a707c2

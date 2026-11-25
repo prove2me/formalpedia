@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinRep_sepIrr
 -- name    : GlobalTheory.CompanionTheory.FinRep.sepIrr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:41:24.283134+00:00
 -- url     : https://prove2.me/theorems/2d5dbcba-8501-4ee8-970e-e530090a39ee

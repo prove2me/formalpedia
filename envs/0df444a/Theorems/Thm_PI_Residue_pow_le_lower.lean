@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_pow_le_lower
 -- name    : PI.Residue.pow_le_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:19:17.364802+00:00
 -- url     : https://prove2.me/theorems/a290c9c0-5c5e-43d1-b83e-2d28f5a60316

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_unipotent_fixes_frame_vector
 -- name    : PI.PolynomialProperness.unipotent_fixes_frame_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:37:09.159242+00:00
 -- url     : https://prove2.me/theorems/680732f6-b39c-5e53-93b7-c86924fe1e15

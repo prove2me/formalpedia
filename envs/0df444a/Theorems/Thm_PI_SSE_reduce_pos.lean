@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_reduce_pos
 -- name    : PI.SSE.reduce_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:21:15.31582+00:00
 -- url     : https://prove2.me/theorems/155b11af-73fa-55a9-bd9f-e73bba97e4cd

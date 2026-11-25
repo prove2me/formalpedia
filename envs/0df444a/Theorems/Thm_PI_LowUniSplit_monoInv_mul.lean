@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LowUniSplit_monoInv_mul
 -- name    : PI.LowUniSplit.monoInv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:34:52.775856+00:00
 -- url     : https://prove2.me/theorems/d824a776-1476-5479-a999-4629d15e0d18

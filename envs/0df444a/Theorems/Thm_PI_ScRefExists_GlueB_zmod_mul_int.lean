@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_GlueB_zmod_mul_int
 -- name    : PI.ScRefExists.GlueB.zmod_mul_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:23:12.691606+00:00
 -- url     : https://prove2.me/theorems/a4b872d2-5865-54de-aef6-b2edb005f85f

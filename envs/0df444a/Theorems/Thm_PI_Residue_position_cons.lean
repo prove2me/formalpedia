@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_position_cons
 -- name    : PI.Residue.position_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:19:14.392797+00:00
 -- url     : https://prove2.me/theorems/d37d4d12-2f0d-5729-8d22-f6639e8aa536

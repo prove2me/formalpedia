@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_Cap_Lw_succ
 -- name    : PI.HookSteps.Cap.Lw_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:07:35.017523+00:00
 -- url     : https://prove2.me/theorems/02a95981-782b-4585-9dc2-275d6e6bf110

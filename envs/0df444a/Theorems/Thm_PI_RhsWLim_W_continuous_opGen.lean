@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_continuous_opGen
 -- name    : PI.RhsWLim.W.continuous_opGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:33:34.918717+00:00
 -- url     : https://prove2.me/theorems/9da1faf4-40ec-400e-841d-0f818ba937da

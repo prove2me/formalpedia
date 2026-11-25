@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_psiV_zero
 -- name    : PI.RhsWLim.W.psiV_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:50:49.36286+00:00
 -- url     : https://prove2.me/theorems/dfb753de-341f-5d6a-abfc-48dc0fe13167

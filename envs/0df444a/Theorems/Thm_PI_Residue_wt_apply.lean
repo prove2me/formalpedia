@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_wt_apply
 -- name    : PI.Residue.wt_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:20:36.096712+00:00
 -- url     : https://prove2.me/theorems/1821f094-5818-4d4d-a637-338b993395fc

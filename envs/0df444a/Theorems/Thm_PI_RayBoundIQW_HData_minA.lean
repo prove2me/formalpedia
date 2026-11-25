@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RayBoundIQW_HData_minA
 -- name    : PI.RayBoundIQW.HData.minA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:19:07.426831+00:00
 -- url     : https://prove2.me/theorems/4f0aa497-a554-4795-9068-bb7e81b5c9df

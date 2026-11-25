@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HyperboloidPolar_hypAmb_sigmaFinite
 -- name    : GlobalTheory.HyperboloidPolar.hypAmb_sigmaFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:37:50.534278+00:00
 -- url     : https://prove2.me/theorems/2af4c8b0-63f8-4904-878c-03b5cafbc909

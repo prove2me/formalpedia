@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_tst_ybv_eq
 -- name    : PI.QnHermHaar.tst_ybv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:18:40.570536+00:00
 -- url     : https://prove2.me/theorems/2dcd2f04-0743-5c3c-a460-b68198f1b2a4

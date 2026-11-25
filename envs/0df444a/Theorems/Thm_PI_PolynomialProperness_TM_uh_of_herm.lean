@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_TM_uh_of_herm
 -- name    : PI.PolynomialProperness.TM.uh_of_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:17:38.086426+00:00
 -- url     : https://prove2.me/theorems/a2969a71-22ad-5525-9cf0-b52a4326b1aa

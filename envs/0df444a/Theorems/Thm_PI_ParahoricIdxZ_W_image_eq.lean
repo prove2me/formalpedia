@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ParahoricIdxZ_W_image_eq
 -- name    : PI.ParahoricIdxZ.W.image_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:36:13.823818+00:00
 -- url     : https://prove2.me/theorems/238ddd28-b15d-4c7f-aa62-1f1a196e7797

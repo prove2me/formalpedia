@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_UnitaryReduction_DualHomPf_linearForm_eq_zero_of_integers_3b55e49a38f2
 -- name    : P2M_GroundTheory_Heights__Theta_UnitaryReduction_DualHomPf_linearForm_eq_zero_of_integers_3b55e49a38f2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:05:20.548713+00:00
 -- url     : https://prove2.me/theorems/d1391d0d-265b-5f19-89d1-1c15a59a3f49

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_lset_unimod
 -- name    : PI.KLW.lset_unimod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:32:49.133702+00:00
 -- url     : https://prove2.me/theorems/b10c0dec-cb0b-456e-8197-7b908ed909ee

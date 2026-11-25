@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_finiteAdeleIdempotentOfF_mul_self
 -- name    : PI.SqPair.LCP.finiteAdeleIdempotentOfF_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:24:43.066535+00:00
 -- url     : https://prove2.me/theorems/48a8f738-8b35-406d-8851-a36285f2c7dc

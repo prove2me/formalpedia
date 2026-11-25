@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SlopeSteps_multinomial_le_pow
 -- name    : PI.SlopeSteps.multinomial_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:01:28.120415+00:00
 -- url     : https://prove2.me/theorems/fd89ac29-3a19-4912-9583-6910afecd92d

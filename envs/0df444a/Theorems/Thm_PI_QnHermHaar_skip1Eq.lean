@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_skip1Eq
 -- name    : PI.QnHermHaar.skip1Eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:00:42.019147+00:00
 -- url     : https://prove2.me/theorems/714ffb8e-c45a-4d45-8031-4c7f3fe2e6c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OrbShared_ExpSum_eS_sum
 -- name    : PI.OrbShared.ExpSum.eS_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:35:54.015484+00:00
 -- url     : https://prove2.me/theorems/360842d2-d23b-49d0-94d4-91239cb5ba64

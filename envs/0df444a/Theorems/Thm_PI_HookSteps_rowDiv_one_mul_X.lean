@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_rowDiv_one_mul_X
 -- name    : PI.HookSteps.rowDiv_one_mul_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:08:47.830378+00:00
 -- url     : https://prove2.me/theorems/7b9baa75-dae8-5125-a2ce-e2c4d6fabb53

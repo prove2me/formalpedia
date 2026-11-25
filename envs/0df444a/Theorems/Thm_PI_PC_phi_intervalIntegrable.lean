@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_phi_intervalIntegrable
 -- name    : PI.PC.phi_intervalIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:35:20.047991+00:00
 -- url     : https://prove2.me/theorems/589b2c6c-4497-487f-9c83-cdf81760d221

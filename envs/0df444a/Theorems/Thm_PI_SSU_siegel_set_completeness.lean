@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSU_siegel_set_completeness
 -- name    : PI.SSU.siegel_set_completeness
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:59:48.467841+00:00
 -- url     : https://prove2.me/theorems/8d60c13d-ae69-4f13-b42f-e02b51395066

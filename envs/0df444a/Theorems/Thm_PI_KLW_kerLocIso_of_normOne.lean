@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_kerLocIso_of_normOne
 -- name    : PI.KLW.kerLocIso_of_normOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:32:46.703235+00:00
 -- url     : https://prove2.me/theorems/f964aa4e-5eb0-45e6-84ee-b998d4c02652

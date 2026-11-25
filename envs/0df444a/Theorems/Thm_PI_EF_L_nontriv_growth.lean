@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_L_nontriv_growth
 -- name    : PI.EF.L_nontriv_growth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:29:12.709792+00:00
 -- url     : https://prove2.me/theorems/ded39e02-173e-436e-975c-37af6c0f0dd6

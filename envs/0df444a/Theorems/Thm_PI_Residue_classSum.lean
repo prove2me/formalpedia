@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_classSum
 -- name    : PI.Residue.classSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:19:18.035191+00:00
 -- url     : https://prove2.me/theorems/39d71da4-2fd0-5963-98c3-837cf61152ba

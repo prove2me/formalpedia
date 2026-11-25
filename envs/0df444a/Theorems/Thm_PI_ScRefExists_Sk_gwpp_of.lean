@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_Sk_gwpp_of
 -- name    : PI.ScRefExists.Sk.gwpp_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:23:29.015051+00:00
 -- url     : https://prove2.me/theorems/4abed555-a2b2-43c4-86e2-46350f4677f4

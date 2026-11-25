@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_trace_mem_of_intR
 -- name    : PI.Dv.TIW.trace_mem_of_intR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:28:56.25273+00:00
 -- url     : https://prove2.me/theorems/d5b2b9f2-f7ff-44e3-81c4-694e0d9b3a21

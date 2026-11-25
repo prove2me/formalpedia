@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovHatW_det_sub_eq
 -- name    : PI.QnCovHatW.det_sub_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:38:12.186169+00:00
 -- url     : https://prove2.me/theorems/7a3c2c62-1e8a-54d3-83dd-a9005130ff1f

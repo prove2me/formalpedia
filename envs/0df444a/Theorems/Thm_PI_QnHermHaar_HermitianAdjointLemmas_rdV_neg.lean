@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_HermitianAdjointLemmas_rdV_neg
 -- name    : PI.QnHermHaar.HermitianAdjointLemmas.rdV_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:36:43.334576+00:00
 -- url     : https://prove2.me/theorems/873599ab-487a-56bf-8e8d-57475c167e69

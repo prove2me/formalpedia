@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_triplesDescending_toFinset
 -- name    : F6ConvexWindow.triplesDescending_toFinset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:40:36.493294+00:00
 -- url     : https://prove2.me/theorems/170a3646-820b-5c3a-9e00-3aa371528af6

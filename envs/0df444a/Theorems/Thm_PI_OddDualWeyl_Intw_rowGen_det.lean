@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Intw_rowGen_det
 -- name    : PI.OddDualWeyl.Intw.rowGen_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:14:42.103567+00:00
 -- url     : https://prove2.me/theorems/f404db86-e9cd-4cbb-b1c0-d85bb803bfe2

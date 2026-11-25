@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_qIso_measurePreserving
 -- name    : PI.RhsWLim.W.qIso_measurePreserving
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:35:01.906261+00:00
 -- url     : https://prove2.me/theorems/246ef856-3736-5c45-a9e9-9b78b1ea35b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Tr_LocFam_denseDiag
 -- name    : PI.ProdFormulaE.Tr.LocFam.denseDiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:23.235557+00:00
 -- url     : https://prove2.me/theorems/5ca9c6e4-3df4-5478-9106-e4684e2c94e0

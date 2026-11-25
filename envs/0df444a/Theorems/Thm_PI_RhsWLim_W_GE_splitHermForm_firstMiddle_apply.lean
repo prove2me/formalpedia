@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_GE_splitHermForm_firstMiddle_apply
 -- name    : PI.RhsWLim.W.GE.splitHermForm_firstMiddle_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:39:29.247497+00:00
 -- url     : https://prove2.me/theorems/61088b0b-82ff-5317-8bb3-377ec28106ca

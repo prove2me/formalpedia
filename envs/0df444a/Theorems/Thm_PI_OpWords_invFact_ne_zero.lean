@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_invFact_ne_zero
 -- name    : PI.OpWords.invFact_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:24:54.789145+00:00
 -- url     : https://prove2.me/theorems/582fa325-d3b4-4324-8706-a63b95794df9

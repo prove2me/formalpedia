@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_polynomial_eq_divisibility
 -- name    : PI.HookSteps.polynomial_eq_divisibility
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:07:32.743012+00:00
 -- url     : https://prove2.me/theorems/db632622-7c63-550a-bc04-585c6b6940bc

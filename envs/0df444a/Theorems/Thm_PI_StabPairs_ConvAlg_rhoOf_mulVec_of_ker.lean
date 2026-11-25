@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairs_ConvAlg_rhoOf_mulVec_of_ker
 -- name    : PI.StabPairs.ConvAlg.rhoOf_mulVec_of_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:27:11.598794+00:00
 -- url     : https://prove2.me/theorems/6bd0cd92-53f8-4181-9bd4-f4c4031e554d

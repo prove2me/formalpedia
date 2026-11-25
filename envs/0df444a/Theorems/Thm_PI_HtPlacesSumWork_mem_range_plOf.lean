@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HtPlacesSumWork_mem_range_plOf
 -- name    : PI.HtPlacesSumWork.mem_range_plOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:07:40.145682+00:00
 -- url     : https://prove2.me/theorems/d5326c15-1169-44d1-83e1-2cd8922ad19e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SplitIntLoc_Proof_mem_P
 -- name    : PI.SplitIntLoc.Proof.mem_P
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:24:08.084444+00:00
 -- url     : https://prove2.me/theorems/7ce1edcc-1701-5440-8228-9dab7f41ae13

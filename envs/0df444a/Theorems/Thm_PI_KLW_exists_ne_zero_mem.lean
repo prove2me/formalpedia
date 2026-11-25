@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_exists_ne_zero_mem
 -- name    : PI.KLW.exists_ne_zero_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:34:15.905144+00:00
 -- url     : https://prove2.me/theorems/3931e9a8-0b9d-581e-90e0-795d670f72de

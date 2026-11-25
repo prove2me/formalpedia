@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HcInf_cayley_inverse_measurable
 -- name    : HcInf.cayley_inverse_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:02:15.725681+00:00
 -- url     : https://prove2.me/theorems/93fce5e2-5942-52a2-82d9-97cae1cf14db

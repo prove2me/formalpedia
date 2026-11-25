@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLatHermW_isCM_cf
 -- name    : PI.Dv.GLatHermW.isCM_cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:45.24549+00:00
 -- url     : https://prove2.me/theorems/48432a1d-cac4-4e34-8bac-d73ea90bd4ea

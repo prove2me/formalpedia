@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_log_factorial_eq_sum_of_le
 -- name    : PI.PC.log_factorial_eq_sum_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:33.332312+00:00
 -- url     : https://prove2.me/theorems/703baf9a-ce4a-4df7-9f14-ae5a3ba1de3a

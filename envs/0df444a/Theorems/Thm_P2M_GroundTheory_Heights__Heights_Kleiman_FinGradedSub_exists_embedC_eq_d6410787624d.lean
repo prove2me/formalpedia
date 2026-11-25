@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_FinGradedSub_exists_embedC_eq_d6410787624d
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_FinGradedSub_exists_embedC_eq_d6410787624d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:41:36.082989+00:00
 -- url     : https://prove2.me/theorems/36166ea2-6963-423c-b9b2-fae449dd4341

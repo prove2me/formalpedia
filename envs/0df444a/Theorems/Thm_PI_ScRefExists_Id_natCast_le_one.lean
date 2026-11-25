@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_Id_natCast_le_one
 -- name    : PI.ScRefExists.Id.natCast_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:39:20.491272+00:00
 -- url     : https://prove2.me/theorems/86ea549f-8e2b-4984-ab41-01d7c78c36e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_sgn_es
 -- name    : PI.QnRT.sgn_es
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:20:31.143228+00:00
 -- url     : https://prove2.me/theorems/e22fdfe5-3b7f-51b2-8cf8-7d09036fda41

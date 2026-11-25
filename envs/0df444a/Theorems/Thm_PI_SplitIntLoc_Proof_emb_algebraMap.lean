@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SplitIntLoc_Proof_emb_algebraMap
 -- name    : PI.SplitIntLoc.Proof.emb_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:40:52.561628+00:00
 -- url     : https://prove2.me/theorems/9f463a5b-b552-4833-9bcf-1d0e0f236be9

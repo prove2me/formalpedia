@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_modulus_mul_card_quotient
 -- name    : PI.ProdFormulaE.modulus_mul_card_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:38:44.870572+00:00
 -- url     : https://prove2.me/theorems/b8ce519f-9872-4174-bb66-4050baa802b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_PPA_QA_mul
 -- name    : PI.ScRefExists.PPA.QA_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:44.156182+00:00
 -- url     : https://prove2.me/theorems/02566f60-cde1-42f3-b3e2-2b8341654ef8

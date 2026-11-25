@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_HermitianAdjointLemmas_posL_surj
 -- name    : PI.QnHermHaar.HermitianAdjointLemmas.posL_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:36:55.61245+00:00
 -- url     : https://prove2.me/theorems/856d1733-1219-43d5-b40f-15276e7a5f66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualBridge_W_continuous_reTup
 -- name    : PI.SelfDualBridge.W.continuous_reTup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:24:09.897811+00:00
 -- url     : https://prove2.me/theorems/fb8ddbc4-0a72-4aca-9f2b-c9a1762abe06

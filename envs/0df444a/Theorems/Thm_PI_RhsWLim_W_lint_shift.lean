@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_lint_shift
 -- name    : PI.RhsWLim.W.lint_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:01:03.497806+00:00
 -- url     : https://prove2.me/theorems/c4bd0c22-c417-49a4-94ec-2918da3fea0c

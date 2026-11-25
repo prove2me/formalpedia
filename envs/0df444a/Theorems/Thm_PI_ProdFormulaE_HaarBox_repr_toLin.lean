@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_HaarBox_repr_toLin
 -- name    : PI.ProdFormulaE.HaarBox.repr_toLin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:36:07.964499+00:00
 -- url     : https://prove2.me/theorems/24fa4066-168c-58aa-b31d-328a044d85b6

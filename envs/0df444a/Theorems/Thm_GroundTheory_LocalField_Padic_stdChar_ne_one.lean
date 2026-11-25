@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Padic_stdChar_ne_one
 -- name    : GroundTheory.LocalField.Padic.stdChar_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:36:13.506158+00:00
 -- url     : https://prove2.me/theorems/489aa96c-3869-5fe2-8d2a-96c2658c1120

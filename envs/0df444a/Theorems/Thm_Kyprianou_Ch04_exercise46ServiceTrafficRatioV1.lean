@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46ServiceTrafficRatioV1
 -- name    : Kyprianou.Ch04.exercise46ServiceTrafficRatioV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T09:55:02.633671+00:00
 -- url     : https://prove2.me/theorems/83861abb-d2c9-5502-8f4c-34eb3372dac5

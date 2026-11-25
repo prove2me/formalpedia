@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_modularCharacter_eq_one_of_mem_integralGL
 -- name    : GroundTheory.Automorphic.Measures.modularCharacter_eq_one_of_mem_integralGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:00:56.804875+00:00
 -- url     : https://prove2.me/theorems/459c2a68-3c2f-5b93-8330-607c078fa049

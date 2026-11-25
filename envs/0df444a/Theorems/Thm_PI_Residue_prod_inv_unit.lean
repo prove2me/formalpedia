@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_prod_inv_unit
 -- name    : PI.Residue.prod_inv_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:19:29.835423+00:00
 -- url     : https://prove2.me/theorems/72ef28f7-047a-44d2-974c-1787c9a425c2

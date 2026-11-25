@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SplitIntLoc_Proof_coe_phi
 -- name    : PI.SplitIntLoc.Proof.coe_phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:24:50.738798+00:00
 -- url     : https://prove2.me/theorems/89eaaa35-62e1-4b02-96f2-f537694203d8

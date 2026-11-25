@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_distribHaarChar_det_adUnipotent_of_mem_integralGL
 -- name    : GroundTheory.Automorphic.Measures.distribHaarChar_det_adUnipotent_of_mem_integralGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:00:40.80071+00:00
 -- url     : https://prove2.me/theorems/c397f556-b75b-52dd-9386-cb8f3d1e4397

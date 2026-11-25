@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotMeasUniqW_measurable_hAvg
 -- name    : PI.QuotMeasUniqW.measurable_hAvg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:18:26.922046+00:00
 -- url     : https://prove2.me/theorems/f1ca9685-846f-57cf-afd7-083a5d355587

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Cont_continuous_at_place
 -- name    : PI.LevelKSplit.W.Cont.continuous_at_place
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:34:04.658889+00:00
 -- url     : https://prove2.me/theorems/1a6f0d9d-c0d4-4b88-bc2c-c6eaf7093f07

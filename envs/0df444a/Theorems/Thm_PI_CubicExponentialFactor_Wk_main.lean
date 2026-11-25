@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CubicExponentialFactor_Wk_main
 -- name    : PI.CubicExponentialFactor.Wk.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:27:11.336907+00:00
 -- url     : https://prove2.me/theorems/09c990e1-7560-5b17-a751-083e8927d0bf

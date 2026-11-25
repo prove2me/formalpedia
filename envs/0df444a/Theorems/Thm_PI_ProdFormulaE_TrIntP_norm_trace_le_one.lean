@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_TrIntP_norm_trace_le_one
 -- name    : PI.ProdFormulaE.TrIntP.norm_trace_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:17:36.69071+00:00
 -- url     : https://prove2.me/theorems/2ddcd80e-aa45-479f-9578-e9a1e76e10b3

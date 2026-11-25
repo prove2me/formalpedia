@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_PH_lintegral_norm_ck
 -- name    : PI.RhsWLim.W.PH.lintegral_norm_ck
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:27:13.618908+00:00
 -- url     : https://prove2.me/theorems/169d41cf-25c6-4651-bf66-7dd5329fe690

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_chUpper_of
 -- name    : PI.PC.chUpper_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:00.400084+00:00
 -- url     : https://prove2.me/theorems/2e0af985-a58b-4289-a573-2ee266569220

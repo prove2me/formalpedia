@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_count_pointwise
 -- name    : PI.Residue.count_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:19:33.057984+00:00
 -- url     : https://prove2.me/theorems/bb2f75ed-fb61-47e3-b11e-0aacf9c9bb5a

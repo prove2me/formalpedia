@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabBigW_adj_apply
 -- name    : PI.StabBigW.adj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:27:27.298037+00:00
 -- url     : https://prove2.me/theorems/13ee4041-ceb9-4922-8455-1784c7b796a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_gauge_of_lim
 -- name    : PI.RhsWLim.W.gauge_of_lim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:34:58.02833+00:00
 -- url     : https://prove2.me/theorems/84a1db32-9bc8-4801-abad-1659ad1875a5

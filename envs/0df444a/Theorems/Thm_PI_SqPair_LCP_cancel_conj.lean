@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_cancel_conj
 -- name    : PI.SqPair.LCP.cancel_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:24:08.533496+00:00
 -- url     : https://prove2.me/theorems/d5ea5b63-0388-51c6-9625-83d713bfb804

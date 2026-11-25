@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_hasSum_int_of_shift
 -- name    : GroundTheory.LocalField.hasSum_int_of_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:10:04.999647+00:00
 -- url     : https://prove2.me/theorems/3476a6a9-cbe2-4360-b361-0353ceb07da6

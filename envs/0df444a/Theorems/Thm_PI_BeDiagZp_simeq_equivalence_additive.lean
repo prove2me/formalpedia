@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BeDiagZp_simeq_equivalence_additive
 -- name    : PI.BeDiagZp.simeq_equivalence_additive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:16:05.416282+00:00
 -- url     : https://prove2.me/theorems/913b1a6f-98cf-4aef-a685-65da49bee972

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_ThmBHecke_adeleMap_snd_of_isPlaceIdem
 -- name    : GroundTheory.BlockD.ThmBHecke.adeleMap_snd_of_isPlaceIdem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:44:27.985719+00:00
 -- url     : https://prove2.me/theorems/8c3aa0f6-a9b1-437f-a973-2fa81caad225

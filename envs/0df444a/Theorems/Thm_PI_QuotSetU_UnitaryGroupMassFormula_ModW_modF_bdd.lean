@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_ModW_modF_bdd
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.ModW.modF_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:18:39.544723+00:00
 -- url     : https://prove2.me/theorems/707c63cc-613b-4fc8-afa9-8b2d8d68b1a8

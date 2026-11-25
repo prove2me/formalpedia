@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_det_adUnipotent_of_mem_borel
 -- name    : GroundTheory.Automorphic.Measures.det_adUnipotent_of_mem_borel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:07:13.272637+00:00
 -- url     : https://prove2.me/theorems/9f4f6d43-0ea5-4f33-8237-accb8a25d86c

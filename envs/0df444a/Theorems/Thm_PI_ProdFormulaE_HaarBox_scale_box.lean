@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_HaarBox_scale_box
 -- name    : PI.ProdFormulaE.HaarBox.scale_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:36:21.047801+00:00
 -- url     : https://prove2.me/theorems/482eec36-82c7-4de4-8a8c-091d4eff9be0

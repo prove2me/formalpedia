@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCharCheck_isCuspChar_of_hom
 -- name    : GlobalTheory.CuspCharCheck.isCuspChar_of_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:30:54.600743+00:00
 -- url     : https://prove2.me/theorems/496dddc8-f4c3-49b9-a1df-556c474528ef

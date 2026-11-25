@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HypChartPf_hypM_eq_kapT
 -- name    : GlobalTheory.HypChartPf.hypM_eq_kapT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:50:34.391805+00:00
 -- url     : https://prove2.me/theorems/1bc50921-b6f7-5972-b4a9-75be5f32ed55

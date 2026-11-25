@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootsInj_W_card_roots_X_pow_sub_X_le
 -- name    : PI.SqfRootsInj.W.card_roots_X_pow_sub_X_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:27:29.96606+00:00
 -- url     : https://prove2.me/theorems/cd25600e-1d24-49ff-ba70-328653378ede

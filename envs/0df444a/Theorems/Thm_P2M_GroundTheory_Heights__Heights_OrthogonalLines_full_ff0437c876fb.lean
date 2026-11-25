@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrthogonalLines_full_ff0437c876fb
 -- name    : P2M_GroundTheory_Heights__Heights_OrthogonalLines_full_ff0437c876fb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:35:38.997045+00:00
 -- url     : https://prove2.me/theorems/a683d131-1766-4c02-9ecb-126a34e21b12

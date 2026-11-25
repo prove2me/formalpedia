@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ProdFormulaE_Base_leftMulMatrix__E_0df6e8c83048
 -- name    : P2M_PI_ProdFormulaE_Base_leftMulMatrix__E_0df6e8c83048
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:11:56.052981+00:00
 -- url     : https://prove2.me/theorems/62fbf6b1-f0c3-4da9-ba57-7f99aa4adc97

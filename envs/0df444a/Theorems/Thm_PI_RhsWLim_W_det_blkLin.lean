@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_det_blkLin
 -- name    : PI.RhsWLim.W.det_blkLin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:34:11.665158+00:00
 -- url     : https://prove2.me/theorems/df6dd353-9cd1-4cf1-ba63-4bc9e74ac327

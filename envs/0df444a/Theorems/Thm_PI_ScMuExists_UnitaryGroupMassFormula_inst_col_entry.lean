@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_inst_col_entry
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.inst_col_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:41:35.67512+00:00
 -- url     : https://prove2.me/theorems/9c486a4c-2f11-53e3-8f80-6e98622955ec

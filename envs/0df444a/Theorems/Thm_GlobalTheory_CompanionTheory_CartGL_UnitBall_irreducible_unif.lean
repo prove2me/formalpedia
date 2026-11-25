@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_UnitBall_irreducible_unif
 -- name    : GlobalTheory.CompanionTheory.CartGL.UnitBall.irreducible_unif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:43:22.535575+00:00
 -- url     : https://prove2.me/theorems/de694dd7-ff6f-5037-8002-4a492777b0ac

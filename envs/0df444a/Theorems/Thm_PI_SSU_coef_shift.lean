@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSU_coef_shift
 -- name    : PI.SSU.coef_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:21:45.701024+00:00
 -- url     : https://prove2.me/theorems/0f3bbf94-5249-4368-8693-04ac6f748def

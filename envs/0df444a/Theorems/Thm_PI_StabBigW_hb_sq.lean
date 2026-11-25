@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabBigW_hb_sq
 -- name    : PI.StabBigW.hb_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:37:29.645825+00:00
 -- url     : https://prove2.me/theorems/4ed9a17c-561f-40bd-9f0a-516c63f35626

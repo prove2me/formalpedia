@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_inert_isLocalRing
 -- name    : PI.SqPair.LCP.inert_isLocalRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:24:16.312988+00:00
 -- url     : https://prove2.me/theorems/abd6a661-3a01-42ca-b9a3-cff65fe688f9

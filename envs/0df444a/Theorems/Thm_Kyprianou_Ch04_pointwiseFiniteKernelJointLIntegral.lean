@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_pointwiseFiniteKernelJointLIntegral
 -- name    : Kyprianou.Ch04.pointwiseFiniteKernelJointLIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:27:08.733802+00:00
 -- url     : https://prove2.me/theorems/937d399f-6d77-483f-8d99-7f51b1cd4af5

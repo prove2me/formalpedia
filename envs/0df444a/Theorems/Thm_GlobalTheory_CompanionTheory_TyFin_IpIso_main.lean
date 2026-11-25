@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_IpIso_main
 -- name    : GlobalTheory.CompanionTheory.TyFin.IpIso.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:26:56.474096+00:00
 -- url     : https://prove2.me/theorems/ac2528af-054a-4fde-8787-8cef8c0859e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovHat2W_skip_two_of_ge
 -- name    : PI.QnCovHat2W.skip_two_of_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:59.053333+00:00
 -- url     : https://prove2.me/theorems/95ddc5ab-123e-46af-817a-e5dd8c0838d4

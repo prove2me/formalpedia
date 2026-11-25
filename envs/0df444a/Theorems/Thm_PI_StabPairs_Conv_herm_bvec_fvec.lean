@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairs_Conv_herm_bvec_fvec
 -- name    : PI.StabPairs.Conv.herm_bvec_fvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:39:01.232404+00:00
 -- url     : https://prove2.me/theorems/f745d048-c202-52dc-b33b-2e2f1997e5d0

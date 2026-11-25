@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_map_rmul_one
 -- name    : PI.RhsWLim.W.map_rmul_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:33:26.27509+00:00
 -- url     : https://prove2.me/theorems/25eb34ae-4f07-413c-8e42-aaec82ddf2ef

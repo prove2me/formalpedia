@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookSteps_Cap_capelli_relation
 -- name    : PI.HookSteps.Cap.capelli_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:08:10.764744+00:00
 -- url     : https://prove2.me/theorems/04e96290-a28e-586d-b4f6-933d8d889013

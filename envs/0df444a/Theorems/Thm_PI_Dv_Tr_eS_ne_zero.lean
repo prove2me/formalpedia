@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_eS_ne_zero
 -- name    : PI.Dv.Tr.eS_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:19:14.306455+00:00
 -- url     : https://prove2.me/theorems/f913c040-b54a-41db-83dd-cbc5f15c3976

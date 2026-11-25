@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Tr_toPi_surjective
 -- name    : PI.ProdFormulaE.Tr.toPi_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:52.621707+00:00
 -- url     : https://prove2.me/theorems/8175cb03-05ae-4bee-b4dd-ed4671bec8e7

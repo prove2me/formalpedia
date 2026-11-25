@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootsInj_W_two_pow_card_primeFactors_le
 -- name    : PI.SqfRootsInj.W.two_pow_card_primeFactors_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:28:08.072379+00:00
 -- url     : https://prove2.me/theorems/f98ec9b7-690a-5a80-ab22-faee38668c7f

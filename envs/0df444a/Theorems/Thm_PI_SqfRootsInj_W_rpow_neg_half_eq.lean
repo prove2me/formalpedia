@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootsInj_W_rpow_neg_half_eq
 -- name    : PI.SqfRootsInj.W.rpow_neg_half_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:29:09.791112+00:00
 -- url     : https://prove2.me/theorems/1babb329-583f-4522-b47e-bfe3bcc62a10

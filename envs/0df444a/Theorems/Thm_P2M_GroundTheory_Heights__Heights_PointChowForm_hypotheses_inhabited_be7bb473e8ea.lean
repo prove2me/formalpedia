@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointChowForm_hypotheses_inhabited_be7bb473e8ea
 -- name    : P2M_GroundTheory_Heights__Heights_PointChowForm_hypotheses_inhabited_be7bb473e8ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:07:15.776551+00:00
 -- url     : https://prove2.me/theorems/b64661b5-74f6-4016-9d15-7dc296d68c14

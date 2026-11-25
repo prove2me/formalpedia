@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NMeasInv_UnitaryGroupMassFormula_haarOn_unique
 -- name    : PI.NMeasInv.UnitaryGroupMassFormula.haarOn_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:09:48.434807+00:00
 -- url     : https://prove2.me/theorems/95031655-e340-4373-ad81-49762d4a96df

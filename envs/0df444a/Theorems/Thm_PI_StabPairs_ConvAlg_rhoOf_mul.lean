@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairs_ConvAlg_rhoOf_mul
 -- name    : PI.StabPairs.ConvAlg.rhoOf_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:27:16.654812+00:00
 -- url     : https://prove2.me/theorems/19aa3a99-a361-45e9-aa1a-a2efcbfbd2c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_dUpper
 -- name    : PI.PC.dUpper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:12.705963+00:00
 -- url     : https://prove2.me/theorems/6dc12b54-44b9-4a26-9a27-a2f12f9c01ba

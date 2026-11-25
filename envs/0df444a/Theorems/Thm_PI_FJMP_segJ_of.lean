@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMP_segJ_of
 -- name    : PI.FJMP.segJ_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:31:50.615015+00:00
 -- url     : https://prove2.me/theorems/1bdaecaa-f31a-5280-ab56-fb516e87fad5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_dpsi_apply
 -- name    : PI.RhsWLim.W.dpsi_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:51:13.677441+00:00
 -- url     : https://prove2.me/theorems/ba55ad49-eaf7-4640-8d66-c8852037ce1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_measurableSet_shell
 -- name    : PI.Residue.measurableSet_shell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:20:20.718578+00:00
 -- url     : https://prove2.me/theorems/e2bd8e2f-a89e-450f-8159-d40969d15f6a

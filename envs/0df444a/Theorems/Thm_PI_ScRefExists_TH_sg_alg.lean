@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_TH_sg_alg
 -- name    : PI.ScRefExists.TH.sg_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:23:20.869002+00:00
 -- url     : https://prove2.me/theorems/168cb3cc-d8f7-4e4a-948a-92a40a99fb04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_MB_sand_inj
 -- name    : PI.RhsWLim.W.MB.sand_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:26:59.180897+00:00
 -- url     : https://prove2.me/theorems/bd92171d-cacf-5bf8-906a-b55b8ef116e1

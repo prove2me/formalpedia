@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_PPA_isInt_sub
 -- name    : PI.ScRefExists.PPA.isInt_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:23:23.665631+00:00
 -- url     : https://prove2.me/theorems/093f8f72-8a21-4940-bba7-8a416f48f22d

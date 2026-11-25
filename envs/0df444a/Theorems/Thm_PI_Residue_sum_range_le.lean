@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_sum_range_le
 -- name    : PI.Residue.sum_range_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:19:57.678814+00:00
 -- url     : https://prove2.me/theorems/c05aa191-e56d-481c-a29a-6cd2a9ac8b26

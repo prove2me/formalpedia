@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_ut_mul_inv
 -- name    : PI.PolynomialProperness.ut_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:58:43.387661+00:00
 -- url     : https://prove2.me/theorems/d36306ac-147e-4826-954a-b04e9eac180d

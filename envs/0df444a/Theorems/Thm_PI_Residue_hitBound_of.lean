@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_hitBound_of
 -- name    : PI.Residue.hitBound_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:19:23.836166+00:00
 -- url     : https://prove2.me/theorems/17e602e1-e3e9-5c72-a5ed-6b7430fa8438

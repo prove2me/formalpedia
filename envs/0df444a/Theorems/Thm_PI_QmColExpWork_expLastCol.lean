@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QmColExpWork_expLastCol
 -- name    : PI.QmColExpWork.expLastCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:17:17.147434+00:00
 -- url     : https://prove2.me/theorems/68045ccd-6789-4d00-adef-bd2bfa31fbd5

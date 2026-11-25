@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise_4_8_ii_goalV2
 -- name    : Kyprianou.Ch04.exercise_4_8_ii_goalV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T10:26:27.710048+00:00
 -- url     : https://prove2.me/theorems/6e201cd8-09d4-4a96-9788-2e3e47fdc8cc

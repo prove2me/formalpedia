@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_MSC_phi_inj
 -- name    : PI.MSC.phi_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:36:06.899886+00:00
 -- url     : https://prove2.me/theorems/efdeac87-9946-4925-9e7c-505b193732b0

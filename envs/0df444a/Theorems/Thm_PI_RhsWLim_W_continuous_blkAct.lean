@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_continuous_blkAct
 -- name    : PI.RhsWLim.W.continuous_blkAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:52:42.269494+00:00
 -- url     : https://prove2.me/theorems/54b766ec-e073-4f0b-b47e-47c581d5a8b3

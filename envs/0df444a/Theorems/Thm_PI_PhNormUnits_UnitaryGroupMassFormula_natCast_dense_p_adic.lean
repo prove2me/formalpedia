@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PhNormUnits_UnitaryGroupMassFormula_natCast_dense_p_adic
 -- name    : PI.PhNormUnits.UnitaryGroupMassFormula.natCast_dense_p_adic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:50:45.566138+00:00
 -- url     : https://prove2.me/theorems/07497391-bb88-49c3-80e1-f05c880cefa7

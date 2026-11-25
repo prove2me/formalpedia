@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnWCellW_swp_swp
 -- name    : PI.QnWCellW.swp_swp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:19:42.267252+00:00
 -- url     : https://prove2.me/theorems/213a6b08-c2f5-441e-b434-bcbe1bb12786

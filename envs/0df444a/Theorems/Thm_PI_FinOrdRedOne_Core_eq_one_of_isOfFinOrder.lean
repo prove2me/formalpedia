@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FinOrdRedOne_Core_eq_one_of_isOfFinOrder
 -- name    : PI.FinOrdRedOne.Core.eq_one_of_isOfFinOrder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:31:06.967412+00:00
 -- url     : https://prove2.me/theorems/5dbbf292-02b7-4d35-a1ac-0afa36baa657

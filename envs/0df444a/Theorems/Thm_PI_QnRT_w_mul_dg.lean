@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_w_mul_dg
 -- name    : PI.QnRT.w_mul_dg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:19:59.606157+00:00
 -- url     : https://prove2.me/theorems/e56912c0-b094-5497-a165-8eca0675d8c3

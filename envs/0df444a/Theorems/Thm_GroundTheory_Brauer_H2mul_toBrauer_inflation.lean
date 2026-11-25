@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_H2mul_toBrauer_inflation
 -- name    : GroundTheory.Brauer.H2mul.toBrauer_inflation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:44:04.250444+00:00
 -- url     : https://prove2.me/theorems/7152c7b1-9b34-51cd-a71e-408b3db5f015

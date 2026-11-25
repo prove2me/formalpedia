@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_locGlob
 -- name    : PI.SqPairLocal.locGlob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:25:27.069285+00:00
 -- url     : https://prove2.me/theorems/2c72abae-d204-5159-8017-6f14f16171f1

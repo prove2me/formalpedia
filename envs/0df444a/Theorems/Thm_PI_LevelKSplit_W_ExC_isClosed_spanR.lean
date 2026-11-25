@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_ExC_isClosed_spanR
 -- name    : PI.LevelKSplit.W.ExC.isClosed_spanR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:29:15.156127+00:00
 -- url     : https://prove2.me/theorems/62f6b34a-6331-4c0c-83ab-e4ac1a2c92fd

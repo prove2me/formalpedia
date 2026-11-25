@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglChordFactor_Wk_P_at_inverse
 -- name    : PI.FglChordFactor.Wk.P_at_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:44:05.270536+00:00
 -- url     : https://prove2.me/theorems/d1ce4096-0207-59a2-bdeb-4daa71a97fa3

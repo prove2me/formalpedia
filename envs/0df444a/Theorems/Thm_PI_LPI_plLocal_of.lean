@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LPI_plLocal_of
 -- name    : PI.LPI.plLocal_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:34:09.17362+00:00
 -- url     : https://prove2.me/theorems/17170a06-9315-49ee-8035-eed51551895d

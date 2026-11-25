@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocLatSat_UnitaryGroupMassFormula_locLatSat
 -- name    : PI.LocLatSat.UnitaryGroupMassFormula.locLatSat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:42.268548+00:00
 -- url     : https://prove2.me/theorems/8db2b041-9dcd-4389-a694-08ffc6a11598

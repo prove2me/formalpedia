@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_divAt_one_of_int
 -- name    : PI.SqPairLocal.divAt_one_of_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:26:37.602639+00:00
 -- url     : https://prove2.me/theorems/3f8d8db4-cace-45f5-94f6-0b571b8547ce

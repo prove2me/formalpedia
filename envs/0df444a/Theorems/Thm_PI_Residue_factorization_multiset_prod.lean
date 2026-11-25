@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_factorization_multiset_prod
 -- name    : PI.Residue.factorization_multiset_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:19:51.244792+00:00
 -- url     : https://prove2.me/theorems/c16e29ca-0798-4203-b95b-5474b9ffa666

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGRatio_genericRatioOfBound
 -- name    : PI.GGRatio.genericRatioOfBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:57:44.732512+00:00
 -- url     : https://prove2.me/theorems/6cfe9b0e-d51c-5f55-8e7d-c0688a1697e1

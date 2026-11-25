@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLemmas_LocalLatticeIndex_index_eq_det_dd433643ef40
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLemmas_LocalLatticeIndex_index_eq_det_dd433643ef40
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:43:25.719884+00:00
 -- url     : https://prove2.me/theorems/1adaaed7-db4c-4862-8fc3-a029a443c865

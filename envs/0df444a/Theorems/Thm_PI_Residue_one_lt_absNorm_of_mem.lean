@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_one_lt_absNorm_of_mem
 -- name    : PI.Residue.one_lt_absNorm_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:20:50.705367+00:00
 -- url     : https://prove2.me/theorems/1447280b-484a-5138-a638-22a057fb6cd2

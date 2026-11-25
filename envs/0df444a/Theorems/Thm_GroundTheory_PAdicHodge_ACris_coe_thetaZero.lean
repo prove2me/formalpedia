@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_coe_thetaZero
 -- name    : GroundTheory.PAdicHodge.ACris.coe_thetaZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:03:13.634861+00:00
 -- url     : https://prove2.me/theorems/2c6221bd-7276-4715-89e0-c351ce523b44

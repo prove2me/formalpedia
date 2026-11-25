@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovDetW_sum_fun_eq_sum_perm
 -- name    : PI.QnCovDetW.sum_fun_eq_sum_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:26:47.970428+00:00
 -- url     : https://prove2.me/theorems/9a1ba40b-b94d-4fd6-8efb-fb1eb3736181

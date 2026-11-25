@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitChartMult_chartCone_eq_zero_iff_f230138033b2
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitChartMult_chartCone_eq_zero_iff_f230138033b2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:23:07.897867+00:00
 -- url     : https://prove2.me/theorems/497d7a8d-6ead-59a6-8e48-786298e448ec

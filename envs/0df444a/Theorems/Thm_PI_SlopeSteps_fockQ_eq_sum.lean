@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SlopeSteps_fockQ_eq_sum
 -- name    : PI.SlopeSteps.fockQ_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:39:20.782821+00:00
 -- url     : https://prove2.me/theorems/d4b93ae7-8be0-47cf-a3ea-e85efecd3e06

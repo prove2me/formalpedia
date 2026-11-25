@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RayBoundIQW_gen_ne_zero
 -- name    : PI.RayBoundIQW.gen_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:19:11.098925+00:00
 -- url     : https://prove2.me/theorems/1f02c453-3c55-50b4-b4b5-bf300a0f995d

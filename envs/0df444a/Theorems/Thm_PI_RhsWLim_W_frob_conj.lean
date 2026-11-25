@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_frob_conj
 -- name    : PI.RhsWLim.W.frob_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:39:33.4665+00:00
 -- url     : https://prove2.me/theorems/b2adb379-63ae-4a23-a81d-6a59b96c67cc

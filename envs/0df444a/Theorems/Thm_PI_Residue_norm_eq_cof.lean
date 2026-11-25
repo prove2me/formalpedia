@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_norm_eq_cof
 -- name    : PI.Residue.norm_eq_cof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:21:17.589679+00:00
 -- url     : https://prove2.me/theorems/d4c0d62d-f71c-4908-a7f4-5c4013485a4d

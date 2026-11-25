@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocDualGen_Of_locDualGen_of
 -- name    : PI.LocDualGen.Of.locDualGen_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:35:42.716595+00:00
 -- url     : https://prove2.me/theorems/6cbb84f6-ad94-5413-b28f-7cf08fb38086

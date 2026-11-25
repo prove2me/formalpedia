@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmVe_ffH_sum_right
 -- name    : PI.OmVe.ffH_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:00:45.530797+00:00
 -- url     : https://prove2.me/theorems/100858bb-915a-4e07-a3a1-f4e9f8c0bd26

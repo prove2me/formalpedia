@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_hJ_mulVec_gen
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.hJ_mulVec_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:59:59.320416+00:00
 -- url     : https://prove2.me/theorems/c448f43c-6f3e-4487-b309-928dd412bf9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_summable_term
 -- name    : GlobalTheory.AnArc.summable_term
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:26:33.645476+00:00
 -- url     : https://prove2.me/theorems/340ead86-470f-46fa-aeff-0e1a9a50d4a2

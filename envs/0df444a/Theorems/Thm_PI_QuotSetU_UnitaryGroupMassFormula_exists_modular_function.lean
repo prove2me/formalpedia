@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_exists_modular_function
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.exists_modular_function
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:39:41.802403+00:00
 -- url     : https://prove2.me/theorems/a260ca0d-8917-4a23-a9d9-d7eb63a7451d

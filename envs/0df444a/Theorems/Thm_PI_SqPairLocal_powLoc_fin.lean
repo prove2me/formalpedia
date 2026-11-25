@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_powLoc_fin
 -- name    : PI.SqPairLocal.powLoc_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:26:12.340805+00:00
 -- url     : https://prove2.me/theorems/304b21ce-b3e8-4f7e-8625-18b56e4bf42f

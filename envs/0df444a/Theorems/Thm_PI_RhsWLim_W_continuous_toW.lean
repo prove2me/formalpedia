@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_continuous_toW
 -- name    : PI.RhsWLim.W.continuous_toW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:51:53.193547+00:00
 -- url     : https://prove2.me/theorems/0bc97292-77c1-5e64-acca-f3200a83ce45

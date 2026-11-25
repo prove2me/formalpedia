@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_circle_null
 -- name    : PI.RhsWLim.W.circle_null
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:47:12.967458+00:00
 -- url     : https://prove2.me/theorems/0f8c3948-8a85-5d3d-82ad-f73be3dc5861

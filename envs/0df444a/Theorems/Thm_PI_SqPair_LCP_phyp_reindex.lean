@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_phyp_reindex
 -- name    : PI.SqPair.LCP.phyp_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:27:46.973505+00:00
 -- url     : https://prove2.me/theorems/26a4c1e6-b694-5ea4-9f1a-1dd711848fc0

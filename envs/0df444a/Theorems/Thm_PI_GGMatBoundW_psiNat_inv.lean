@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMatBoundW_psiNat_inv
 -- name    : PI.GGMatBoundW.psiNat_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:31:17.762813+00:00
 -- url     : https://prove2.me/theorems/0f7aca6d-6205-405c-929c-082ac78a5cc7

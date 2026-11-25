@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLemmas_ChainSum_deg_sub_top_8f7be36c5b52
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLemmas_ChainSum_deg_sub_top_8f7be36c5b52
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:44:17.406497+00:00
 -- url     : https://prove2.me/theorems/f6b184d4-87df-4125-b483-efee1dad4d4d

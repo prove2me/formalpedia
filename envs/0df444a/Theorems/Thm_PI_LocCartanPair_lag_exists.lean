@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocCartanPair_lag_exists
 -- name    : PI.LocCartanPair.lag_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:10:08.847056+00:00
 -- url     : https://prove2.me/theorems/fb1ef877-5933-4820-b7a0-865ccbab86df

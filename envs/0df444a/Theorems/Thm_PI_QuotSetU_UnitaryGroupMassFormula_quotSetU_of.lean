@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_quotSetU_of
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.quotSetU_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:19:19.261614+00:00
 -- url     : https://prove2.me/theorems/c227a874-5d27-49ed-9ccd-301f8587a4ca

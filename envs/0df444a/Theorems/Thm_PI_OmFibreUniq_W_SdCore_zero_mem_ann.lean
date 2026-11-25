@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_SdCore_zero_mem_ann
 -- name    : PI.OmFibreUniq.W.SdCore.zero_mem_ann
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:38:37.34043+00:00
 -- url     : https://prove2.me/theorems/7032d123-0ccb-5693-86d5-8cd5c1b8f7fd

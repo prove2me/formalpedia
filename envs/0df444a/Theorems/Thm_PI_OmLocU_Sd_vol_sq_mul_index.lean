@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmLocU_Sd_vol_sq_mul_index
 -- name    : PI.OmLocU.Sd.vol_sq_mul_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:08:24.150892+00:00
 -- url     : https://prove2.me/theorems/aa55b321-0d6c-4555-b879-71fc8d42a08a

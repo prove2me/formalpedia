@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_RU_cj_cj
 -- name    : PI.SqPairLocal.RU.cj_cj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:24:55.087315+00:00
 -- url     : https://prove2.me/theorems/63220a19-895d-5d4b-8804-bc47fa65192d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_norm_iterate_frobeniusEquiv_symm_le_one
 -- name    : GroundTheory.PAdicHodge.TeichLift.norm_iterate_frobeniusEquiv_symm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:35:46.738656+00:00
 -- url     : https://prove2.me/theorems/bd1ae5c7-a48f-4c44-87e7-4c0bbeff0cb7

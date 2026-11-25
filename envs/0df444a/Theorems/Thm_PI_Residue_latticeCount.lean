@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_latticeCount
 -- name    : PI.Residue.latticeCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:19:32.868196+00:00
 -- url     : https://prove2.me/theorems/3a1f1d36-355e-4e3d-ac1a-796b91d9cfa8

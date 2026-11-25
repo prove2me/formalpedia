@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KFinSmoothW_garding_vectors_smooth
 -- name    : PI.KFinSmoothW.garding_vectors_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:46:27.066974+00:00
 -- url     : https://prove2.me/theorems/28df1576-7086-487f-a757-fd9f4abbaf62

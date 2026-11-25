@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_setIntegral_ordShell_quasiChar
 -- name    : GroundTheory.LocalField.setIntegral_ordShell_quasiChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:43:13.844787+00:00
 -- url     : https://prove2.me/theorems/b2066466-21ec-4891-b10a-97d8a2196506

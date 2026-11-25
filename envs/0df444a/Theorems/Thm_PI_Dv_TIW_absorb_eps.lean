@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_absorb_eps
 -- name    : PI.Dv.TIW.absorb_eps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:18:53.420539+00:00
 -- url     : https://prove2.me/theorems/b41852d7-ba2b-4216-a57f-212139a4285b

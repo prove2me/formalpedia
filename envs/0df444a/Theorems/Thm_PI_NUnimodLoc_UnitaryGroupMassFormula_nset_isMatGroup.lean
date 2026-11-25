@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NUnimodLoc_UnitaryGroupMassFormula_nset_isMatGroup
 -- name    : PI.NUnimodLoc.UnitaryGroupMassFormula.nset_isMatGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:42.38108+00:00
 -- url     : https://prove2.me/theorems/606c4fd7-236d-4bd8-9a96-d27a58db1be4

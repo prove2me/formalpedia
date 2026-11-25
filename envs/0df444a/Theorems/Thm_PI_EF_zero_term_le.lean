@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_zero_term_le
 -- name    : PI.EF.zero_term_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:29:35.21116+00:00
 -- url     : https://prove2.me/theorems/07f8f5f2-6411-5dc3-aa04-64836076b2ca

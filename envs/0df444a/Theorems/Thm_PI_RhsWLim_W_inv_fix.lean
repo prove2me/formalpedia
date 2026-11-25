@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_inv_fix
 -- name    : PI.RhsWLim.W.inv_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:47:02.141219+00:00
 -- url     : https://prove2.me/theorems/ef699c36-23d3-4e98-94ed-da8871c13492

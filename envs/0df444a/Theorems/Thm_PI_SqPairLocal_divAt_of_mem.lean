@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_divAt_of_mem
 -- name    : PI.SqPairLocal.divAt_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:26:02.047066+00:00
 -- url     : https://prove2.me/theorems/e0aa25de-2103-4b06-be9e-57972c7b42c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_GN_hs_nonneg
 -- name    : PI.PolynomialProperness.GN.hs_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:37:45.504793+00:00
 -- url     : https://prove2.me/theorems/6dfc319e-a797-41f2-b198-9877a7f50bb2

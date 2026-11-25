@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotInvW_ae_mem_G
 -- name    : PI.QuotInvW.ae_mem_G
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:18:13.13174+00:00
 -- url     : https://prove2.me/theorems/773a1f48-b0d5-5bec-9981-8adf29f9fb9f

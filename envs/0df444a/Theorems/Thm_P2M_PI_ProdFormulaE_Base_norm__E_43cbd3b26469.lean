@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ProdFormulaE_Base_norm__E_43cbd3b26469
 -- name    : P2M_PI_ProdFormulaE_Base_norm__E_43cbd3b26469
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:57:12.724096+00:00
 -- url     : https://prove2.me/theorems/c4ae9ab9-cd29-4cb4-90ba-be8562a0f64b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_isReebTrajectory
 -- name    : FiniteEnergyPlane.exists_isReebTrajectory
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-25T10:09:07.224234+00:00
 -- url     : https://prove2.me/theorems/e5f02405-fa41-4ef5-9951-4ed1f7db3d9a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PhNormUnits_UnitaryGroupMassFormula_PAdicPowerSeriesCoefficients_tendsto_coeff_pow
 -- name    : PI.PhNormUnits.UnitaryGroupMassFormula.PAdicPowerSeriesCoefficients.tendsto_coeff_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:36:06.193408+00:00
 -- url     : https://prove2.me/theorems/3a97c8f9-9b88-44db-b29b-0baeca547ecd

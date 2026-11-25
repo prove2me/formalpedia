@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_ideleNorm_ideleEmbedding
 -- name    : GroundTheory.Global.ideleNorm_ideleEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:33:19.512038+00:00
 -- url     : https://prove2.me/theorems/f94ab0be-e5a6-52e8-90d2-ef2417bcbc9a

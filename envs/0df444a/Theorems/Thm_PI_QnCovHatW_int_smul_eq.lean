@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovHatW_int_smul_eq
 -- name    : PI.QnCovHatW.int_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:36:05.035909+00:00
 -- url     : https://prove2.me/theorems/0602010c-8aac-5296-b5dc-2c9102c137f1

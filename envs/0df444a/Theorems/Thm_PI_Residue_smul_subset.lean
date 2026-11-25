@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_smul_subset
 -- name    : PI.Residue.smul_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:20:01.322484+00:00
 -- url     : https://prove2.me/theorems/a8821c44-9f75-54ca-8772-f365299adfe2

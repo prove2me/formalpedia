@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RayBoundIQW_HData_minC
 -- name    : PI.RayBoundIQW.HData.minC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:19:20.563838+00:00
 -- url     : https://prove2.me/theorems/96de8ad2-005a-4ee1-af26-5b0a16f91867

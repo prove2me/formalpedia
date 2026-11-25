@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_GE_dg_uh
 -- name    : PI.RhsWLim.W.GE.dg_uh
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:39:38.363849+00:00
 -- url     : https://prove2.me/theorems/31338784-e8db-5280-a387-c10d16358317

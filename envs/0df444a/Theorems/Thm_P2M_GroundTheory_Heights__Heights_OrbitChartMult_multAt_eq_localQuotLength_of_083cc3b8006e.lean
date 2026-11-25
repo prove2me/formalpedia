@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitChartMult_multAt_eq_localQuotLength_of_083cc3b8006e
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitChartMult_multAt_eq_localQuotLength_of_083cc3b8006e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:41:41.136862+00:00
 -- url     : https://prove2.me/theorems/647d86a4-3df9-556c-8fe7-4605c24bf6b8

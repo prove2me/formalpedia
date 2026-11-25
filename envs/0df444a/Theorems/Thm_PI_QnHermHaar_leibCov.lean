@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_leibCov
 -- name    : PI.QnHermHaar.leibCov
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:39:17.622475+00:00
 -- url     : https://prove2.me/theorems/7cd77ed6-4501-44ec-af7b-37999733071b

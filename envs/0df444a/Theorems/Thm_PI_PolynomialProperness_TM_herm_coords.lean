@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_TM_herm_coords
 -- name    : PI.PolynomialProperness.TM.herm_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:37:21.546268+00:00
 -- url     : https://prove2.me/theorems/54b364ae-01e2-596e-9500-31c59554eb34

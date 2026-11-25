@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RL_W_vecX
 -- name    : PI.RL.W.vecX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:19:28.043359+00:00
 -- url     : https://prove2.me/theorems/eb8a72a4-450d-43cf-ae04-dc17775221ad

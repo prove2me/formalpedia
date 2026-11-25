@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_pairCount_triple
 -- name    : F6ConvexWindow.pairCount_triple
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:38:27.512255+00:00
 -- url     : https://prove2.me/theorems/f56c0df2-42d4-43c7-9c30-8944ab67bba5

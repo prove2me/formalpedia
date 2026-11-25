@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotMeasUniqW_wqUnique_of
 -- name    : PI.QuotMeasUniqW.wqUnique_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:18:26.494371+00:00
 -- url     : https://prove2.me/theorems/0b715393-0e34-449b-a9b6-ca37a2866646

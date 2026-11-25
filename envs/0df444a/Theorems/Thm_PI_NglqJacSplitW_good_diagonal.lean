@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NglqJacSplitW_good_diagonal
 -- name    : PI.NglqJacSplitW.good_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:34:40.556956+00:00
 -- url     : https://prove2.me/theorems/baebd3cc-c19d-5b7f-8220-c396b0ef07e4

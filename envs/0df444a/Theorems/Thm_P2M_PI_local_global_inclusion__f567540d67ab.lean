@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_local_global_inclusion__f567540d67ab
 -- name    : P2M_PI_local_global_inclusion__f567540d67ab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:03:37.530232+00:00
 -- url     : https://prove2.me/theorems/c46dbfb0-a982-4cc9-9980-2bd5b9a78ac4

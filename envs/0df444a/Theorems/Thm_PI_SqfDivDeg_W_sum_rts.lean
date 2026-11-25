@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfDivDeg_W_sum_rts
 -- name    : PI.SqfDivDeg.W.sum_rts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:26:50.354366+00:00
 -- url     : https://prove2.me/theorems/a5791837-e52e-57ea-8528-941041e102ac

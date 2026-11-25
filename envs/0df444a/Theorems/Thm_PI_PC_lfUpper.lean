@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_lfUpper
 -- name    : PI.PC.lfUpper
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:36:03.417845+00:00
 -- url     : https://prove2.me/theorems/02f5e3fd-3000-4c64-9d9c-16f654b177ba

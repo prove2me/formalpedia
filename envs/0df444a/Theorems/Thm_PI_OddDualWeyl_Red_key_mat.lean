@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Red_key_mat
 -- name    : PI.OddDualWeyl.Red.key_mat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:13:32.815802+00:00
 -- url     : https://prove2.me/theorems/a8f1ca41-ba70-53b2-b096-0f0999224413

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_antichain_iff_dilworth
 -- name    : F6ConvexWindow.antichain_iff_dilworth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:38:04.050256+00:00
 -- url     : https://prove2.me/theorems/9448e7b6-1c11-40e8-9bfb-4bd3d7db09b5

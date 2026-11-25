@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_GN_hs_conjTranspose
 -- name    : PI.PolynomialProperness.GN.hs_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:36:54.336275+00:00
 -- url     : https://prove2.me/theorems/1bb29728-3bde-404d-a5db-2c993f949715

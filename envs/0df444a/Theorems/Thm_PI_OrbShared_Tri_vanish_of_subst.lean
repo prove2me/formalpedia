@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OrbShared_Tri_vanish_of_subst
 -- name    : PI.OrbShared.Tri.vanish_of_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:35:35.625119+00:00
 -- url     : https://prove2.me/theorems/8ba9941b-1a41-4337-a1d7-5d12c1f600ec

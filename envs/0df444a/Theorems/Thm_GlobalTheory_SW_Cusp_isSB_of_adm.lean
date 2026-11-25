@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Cusp_isSB_of_adm
 -- name    : GlobalTheory.SW.Cusp.isSB_of_adm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:48:45.651801+00:00
 -- url     : https://prove2.me/theorems/ef6c195f-736d-4a08-b816-a4af4fa8c707

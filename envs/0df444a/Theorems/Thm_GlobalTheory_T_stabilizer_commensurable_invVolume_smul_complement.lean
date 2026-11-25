@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_stabilizer_commensurable_invVolume_smul_complement
 -- name    : GlobalTheory.T.stabilizer_commensurable_invVolume_smul_complement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:57:37.436341+00:00
 -- url     : https://prove2.me/theorems/4a41732d-ba01-4a42-a758-45aac8dfb1ad

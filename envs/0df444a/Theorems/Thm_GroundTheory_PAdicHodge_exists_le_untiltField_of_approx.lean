@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_le_untiltField_of_approx
 -- name    : GroundTheory.PAdicHodge.exists_le_untiltField_of_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:36:25.735872+00:00
 -- url     : https://prove2.me/theorems/5580d720-5ba8-5c65-b65d-9ea44110ec4e

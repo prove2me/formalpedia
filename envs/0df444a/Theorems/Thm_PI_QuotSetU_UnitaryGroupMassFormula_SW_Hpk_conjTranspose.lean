@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_SW_Hpk_conjTranspose
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.SW.Hpk_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:20:20.847733+00:00
 -- url     : https://prove2.me/theorems/f53b55f8-6f7c-46e6-beab-049efb3f02dc

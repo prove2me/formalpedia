@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KerTens_W_tensSpans
 -- name    : PI.KerTens.W.tensSpans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:34:56.799464+00:00
 -- url     : https://prove2.me/theorems/dbaa4669-1ced-446c-8703-1cb0ed231ce7

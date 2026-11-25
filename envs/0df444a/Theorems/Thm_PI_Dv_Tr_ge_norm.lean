@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_ge_norm
 -- name    : PI.Dv.Tr.ge_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:30:36.706657+00:00
 -- url     : https://prove2.me/theorems/78cddc18-5616-4661-86fc-243933cc1cbb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_compose_one_action_eq_actAt
 -- name    : Formalism.L2.FormalSeriesBounds.VP.compose_one_action_eq_actAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:35:50.606353+00:00
 -- url     : https://prove2.me/theorems/492cd883-b58b-54f4-bbe9-78ca0b467309

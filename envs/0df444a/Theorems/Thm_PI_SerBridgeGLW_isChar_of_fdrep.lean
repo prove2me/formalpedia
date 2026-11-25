@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SerBridgeGLW_isChar_of_fdrep
 -- name    : PI.SerBridgeGLW.isChar_of_fdrep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:23:48.541932+00:00
 -- url     : https://prove2.me/theorems/698c58ef-4b3d-496b-9765-5673e8901ed9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_frame_induction_of
 -- name    : PI.FrameInd.frame_induction_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:31:29.563099+00:00
 -- url     : https://prove2.me/theorems/1ad76f30-5ea0-4225-9ea6-6566c5c39b48

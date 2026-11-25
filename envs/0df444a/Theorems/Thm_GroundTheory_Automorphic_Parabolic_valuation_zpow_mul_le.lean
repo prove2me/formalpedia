@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_valuation_zpow_mul_le
 -- name    : GroundTheory.Automorphic.Parabolic.valuation_zpow_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:09:59.631871+00:00
 -- url     : https://prove2.me/theorems/4a35796c-3bd0-4603-9da7-e39e05b82c10

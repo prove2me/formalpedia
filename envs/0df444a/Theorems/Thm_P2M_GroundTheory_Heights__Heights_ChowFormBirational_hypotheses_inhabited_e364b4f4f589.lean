@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormBirational_hypotheses_inhabited_e364b4f4f589
 -- name    : P2M_GroundTheory_Heights__Heights_ChowFormBirational_hypotheses_inhabited_e364b4f4f589
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:53:02.141429+00:00
 -- url     : https://prove2.me/theorems/8b56fb0d-1e57-5d15-b792-b0516bb89f9a

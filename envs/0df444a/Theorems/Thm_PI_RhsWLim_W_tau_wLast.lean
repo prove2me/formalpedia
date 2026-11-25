@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_tau_wLast
 -- name    : PI.RhsWLim.W.tau_wLast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:41:55.090083+00:00
 -- url     : https://prove2.me/theorems/f387017c-ea0e-5670-9c02-8cd4b3daa05f

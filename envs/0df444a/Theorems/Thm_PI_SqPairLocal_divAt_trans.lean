@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_divAt_trans
 -- name    : PI.SqPairLocal.divAt_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:25:51.823857+00:00
 -- url     : https://prove2.me/theorems/2d61b332-5d87-50fb-a08b-29c4c049e81f

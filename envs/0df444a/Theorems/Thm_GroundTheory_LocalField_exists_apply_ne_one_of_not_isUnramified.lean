@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_apply_ne_one_of_not_isUnramified
 -- name    : GroundTheory.LocalField.exists_apply_ne_one_of_not_isUnramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:44:55.068801+00:00
 -- url     : https://prove2.me/theorems/fdffab4e-5e91-47cb-9af3-cb159d40e67d

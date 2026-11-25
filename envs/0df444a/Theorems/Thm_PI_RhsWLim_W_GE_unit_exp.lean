@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_GE_unit_exp
 -- name    : PI.RhsWLim.W.GE.unit_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:40:12.531071+00:00
 -- url     : https://prove2.me/theorems/becd7d8c-306c-483d-a9a5-c84b338df35a

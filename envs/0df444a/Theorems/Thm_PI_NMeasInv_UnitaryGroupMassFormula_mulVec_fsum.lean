@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NMeasInv_UnitaryGroupMassFormula_mulVec_fsum
 -- name    : PI.NMeasInv.UnitaryGroupMassFormula.mulVec_fsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:14:26.804944+00:00
 -- url     : https://prove2.me/theorems/9eae6ec0-5735-4420-82db-c50450581348

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitChartMult_mem_orbitIdeal_of_chartEval_eq_zero_9b806fb3fb56
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitChartMult_mem_orbitIdeal_of_chartEval_eq_zero_9b806fb3fb56
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:38:36.268384+00:00
 -- url     : https://prove2.me/theorems/9c56762e-1e2c-4eca-8dd7-9c3f0aaa4482

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_ProjBW_projB
 -- name    : PI.Dv.ProjBW.projB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:29:08.504835+00:00
 -- url     : https://prove2.me/theorems/1a054944-ddd1-4e54-9a3e-2c2023d430c9

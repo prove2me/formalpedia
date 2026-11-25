@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_w_fix
 -- name    : PI.QnRT.w_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:26:55.09792+00:00
 -- url     : https://prove2.me/theorems/67d5d40e-b678-4e24-ba09-f5f2862f7feb

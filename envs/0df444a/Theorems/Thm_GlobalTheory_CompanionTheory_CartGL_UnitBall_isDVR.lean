@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_UnitBall_isDVR
 -- name    : GlobalTheory.CompanionTheory.CartGL.UnitBall.isDVR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:43:04.91835+00:00
 -- url     : https://prove2.me/theorems/752bf81e-b87b-5f8b-b6b4-822152143d7b

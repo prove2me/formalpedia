@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_UnitaryReduction_DualHomPf_exists_dualBasis_51edd028661f
 -- name    : P2M_GroundTheory_Heights__Theta_UnitaryReduction_DualHomPf_exists_dualBasis_51edd028661f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:06:36.853205+00:00
 -- url     : https://prove2.me/theorems/c1cbe946-30eb-44af-9132-28545534b067

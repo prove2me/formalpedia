@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Hom_rowDiv_tot
 -- name    : PI.OddDualWeyl.Hom.rowDiv_tot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:14:07.046346+00:00
 -- url     : https://prove2.me/theorems/94820bb5-b2f8-554e-8ffe-0134d2867e88

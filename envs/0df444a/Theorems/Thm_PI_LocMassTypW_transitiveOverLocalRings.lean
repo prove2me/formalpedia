@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocMassTypW_transitiveOverLocalRings
 -- name    : PI.LocMassTypW.transitiveOverLocalRings
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:33:58.204644+00:00
 -- url     : https://prove2.me/theorems/df86062a-55fb-4413-a572-91d6aa20aee5

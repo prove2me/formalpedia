@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CoreW_nsq_H
 -- name    : PI.PolynomialProperness.CoreW.nsq_H
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:13:08.351409+00:00
 -- url     : https://prove2.me/theorems/0c3af3c8-6a56-51d7-9ec2-8470a74c2f93

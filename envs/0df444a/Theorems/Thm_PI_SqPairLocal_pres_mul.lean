@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_pres_mul
 -- name    : PI.SqPairLocal.pres_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:26:04.817904+00:00
 -- url     : https://prove2.me/theorems/07b9372c-8aa9-4f4d-9fc9-581133595d90

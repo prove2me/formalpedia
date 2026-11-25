@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_Mdl_alg_int_mem
 -- name    : PI.SqPairLocal.Mdl.alg_int_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:33:50.791811+00:00
 -- url     : https://prove2.me/theorems/4b401fbe-58b0-4845-bc70-27e9a17d2616

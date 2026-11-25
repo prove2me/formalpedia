@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_op_fix_dual
 -- name    : PI.RhsWLim.W.op_fix_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:51:55.805811+00:00
 -- url     : https://prove2.me/theorems/a816898b-623e-535d-9c3d-89164e86430f

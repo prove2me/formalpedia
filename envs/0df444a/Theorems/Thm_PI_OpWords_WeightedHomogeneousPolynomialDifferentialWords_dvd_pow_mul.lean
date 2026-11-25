@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_WeightedHomogeneousPolynomialDifferentialWords_dvd_pow_mul
 -- name    : PI.OpWords.WeightedHomogeneousPolynomialDifferentialWords.dvd_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:16:50.385556+00:00
 -- url     : https://prove2.me/theorems/e3a7d769-b6f5-4b63-bc18-74832d213e20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_UWC_norm_epsI
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.UWC.norm_epsI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:19:28.928695+00:00
 -- url     : https://prove2.me/theorems/e7012e2e-f0dd-41eb-8a82-be8dbc011838

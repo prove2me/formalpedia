@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglTriFactor_Wk_liftedThirdRoot_sub_X_one_ne_zero
 -- name    : PI.FglTriFactor.Wk.liftedThirdRoot_sub_X_one_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:30:51.56753+00:00
 -- url     : https://prove2.me/theorems/f38a0583-8109-4950-b3e9-ee87e6ddb3fb

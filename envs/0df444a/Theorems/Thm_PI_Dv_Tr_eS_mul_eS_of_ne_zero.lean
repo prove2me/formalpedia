@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_eS_mul_eS_of_ne_zero
 -- name    : PI.Dv.Tr.eS_mul_eS_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:29:07.054557+00:00
 -- url     : https://prove2.me/theorems/a8d8f05e-b320-5c43-91bd-2a9181fd0f54

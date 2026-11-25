@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_GlueB_zmod_add
 -- name    : PI.ScRefExists.GlueB.zmod_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:23:07.486441+00:00
 -- url     : https://prove2.me/theorems/15edb914-1827-534b-8005-fdceacd16ff4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_TauN_hermitian_xi_orthogonal
 -- name    : PI.PolynomialProperness.TauN.hermitian_xi_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:17:42.471253+00:00
 -- url     : https://prove2.me/theorems/5fcb8f49-ce14-464c-895a-42522e4ae5c9

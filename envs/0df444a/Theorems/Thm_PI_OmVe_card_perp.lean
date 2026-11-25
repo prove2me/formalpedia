@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmVe_card_perp
 -- name    : PI.OmVe.card_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:15:27.070497+00:00
 -- url     : https://prove2.me/theorems/ab78dfaf-af1e-5c96-9e3e-9dabb312cf30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_relIndex_fixedOpen
 -- name    : GroundTheory.LocalField.Abstract.relIndex_fixedOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:50:14.110442+00:00
 -- url     : https://prove2.me/theorems/644afa24-bdc0-5883-88b3-69526b3bde4a

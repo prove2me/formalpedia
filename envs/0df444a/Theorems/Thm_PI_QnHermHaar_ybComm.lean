@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_ybComm
 -- name    : PI.QnHermHaar.ybComm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:21:30.887534+00:00
 -- url     : https://prove2.me/theorems/0dc48834-6936-5bd9-9cca-bb321ea51fa0

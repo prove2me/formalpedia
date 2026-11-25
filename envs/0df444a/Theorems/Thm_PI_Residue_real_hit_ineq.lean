@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_real_hit_ineq
 -- name    : PI.Residue.real_hit_ineq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:19:37.922651+00:00
 -- url     : https://prove2.me/theorems/72f5d860-3985-4a0e-b518-aec48ca1b7c3

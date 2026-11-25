@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SerBridgeGLW_mem_inv_linHom_iff
 -- name    : PI.SerBridgeGLW.mem_inv_linHom_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:37:33.517082+00:00
 -- url     : https://prove2.me/theorems/03e8d201-50a0-4350-bf25-6b9a72cc59a7

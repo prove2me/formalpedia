@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotInvW_weil_inv
 -- name    : PI.QuotInvW.weil_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:39:18.78289+00:00
 -- url     : https://prove2.me/theorems/cd35d9b7-5039-4f73-97e3-563dd6f91628

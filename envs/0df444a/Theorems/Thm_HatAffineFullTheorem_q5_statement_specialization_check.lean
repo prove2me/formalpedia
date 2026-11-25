@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HatAffineFullTheorem_q5_statement_specialization_check
 -- name    : HatAffineFullTheorem.q5_statement_specialization_check
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:22:04.661735+00:00
 -- url     : https://prove2.me/theorems/2ddfea50-806d-4dcc-9b67-43befea67d0e

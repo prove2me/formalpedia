@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_KAK_cartan
 -- name    : GlobalTheory.CompanionTheory.QL.KAK.cartan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:52:16.362528+00:00
 -- url     : https://prove2.me/theorems/e3a8f297-b970-5200-9b34-52e21d869064
