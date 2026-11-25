@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_height_mul_maxCompact
 -- name    : GroundTheory.Automorphic.Reduction.height_mul_maxCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:57:50.923362+00:00
 -- url     : https://prove2.me/theorems/04dd45b0-e846-5df8-96a5-9aa244c40d4d

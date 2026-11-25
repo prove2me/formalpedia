@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_generic_points_dense
 -- name    : GlobalTheory.generic_points_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:54:30.774675+00:00
 -- url     : https://prove2.me/theorems/519f09e8-5622-47b7-97d9-e4618251e2e0

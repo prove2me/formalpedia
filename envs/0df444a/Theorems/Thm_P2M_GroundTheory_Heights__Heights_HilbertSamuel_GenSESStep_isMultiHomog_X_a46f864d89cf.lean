@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_GenSESStep_isMultiHomog_X_a46f864d89cf
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_GenSESStep_isMultiHomog_X_a46f864d89cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:18:56.53548+00:00
 -- url     : https://prove2.me/theorems/20321597-fa02-4bee-a49c-ccf9a529fcea

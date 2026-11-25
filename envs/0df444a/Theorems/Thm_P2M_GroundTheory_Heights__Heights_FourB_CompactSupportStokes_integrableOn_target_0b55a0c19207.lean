@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_CompactSupportStokes_integrableOn_target_0b55a0c19207
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_CompactSupportStokes_integrableOn_target_0b55a0c19207
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:06.046374+00:00
 -- url     : https://prove2.me/theorems/40559019-1371-4900-81c2-1d87c0a74a0e

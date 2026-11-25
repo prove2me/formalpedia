@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_val_monoidHom_units_eq_one
 -- name    : GlobalTheory.norm_val_monoidHom_units_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:55:58.029416+00:00
 -- url     : https://prove2.me/theorems/c99a05a5-71ef-4b67-9da9-5218fde01004

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowlaSelberg_intSeriesConv_mul_8992812ba236
 -- name    : P2M_GroundTheory_Heights__Heights_ChowlaSelberg_intSeriesConv_mul_8992812ba236
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:15:59.722368+00:00
 -- url     : https://prove2.me/theorems/b6bd50ed-1a0b-5a30-8d5f-f7a271cc6cc3

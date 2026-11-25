@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_theta_eq
 -- name    : PretorsionImageClosed.Statement.theta_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:12:31.650205+00:00
 -- url     : https://prove2.me/theorems/976cb629-4638-406b-a533-5b99361aca15

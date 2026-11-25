@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_isSemisimpleModule_prod
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.isSemisimpleModule_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:57:23.591722+00:00
 -- url     : https://prove2.me/theorems/1f89349f-59b1-4ded-98da-fa253f0b9c54

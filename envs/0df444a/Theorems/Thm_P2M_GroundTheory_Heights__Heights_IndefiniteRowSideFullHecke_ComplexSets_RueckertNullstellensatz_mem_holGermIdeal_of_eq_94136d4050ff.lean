@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_RueckertNullstellensatz_mem_holGermIdeal_of_eq_94136d4050ff
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_RueckertNullstellensatz_mem_holGermIdeal_of_eq_94136d4050ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:20:41.126306+00:00
 -- url     : https://prove2.me/theorems/26c335ec-c355-486c-ae22-719d2155668e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_addChar_apply
 -- name    : GlobalTheory.isIntegral_addChar_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:56:00.617827+00:00
 -- url     : https://prove2.me/theorems/11ccc70a-8365-5af0-b9bd-d77e9dcf271c

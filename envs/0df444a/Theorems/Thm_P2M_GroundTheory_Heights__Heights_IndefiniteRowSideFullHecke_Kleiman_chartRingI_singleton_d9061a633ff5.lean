@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kleiman_chartRingI_singleton_d9061a633ff5
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kleiman_chartRingI_singleton_d9061a633ff5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:21:55.091059+00:00
 -- url     : https://prove2.me/theorems/46db6f69-9002-4ac7-875a-f91974b2c4ea

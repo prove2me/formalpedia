@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_isClosed_pointClosure_sdiff_singleton
 -- name    : PretorsionImageClosed.SetClosure.isClosed_pointClosure_sdiff_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:12:40.822494+00:00
 -- url     : https://prove2.me/theorems/54e37592-1b9b-4315-a195-841b9425097a

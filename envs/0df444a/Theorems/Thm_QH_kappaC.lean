@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QH_kappaC
 -- name    : QH.kappaC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:13:41.543659+00:00
 -- url     : https://prove2.me/theorems/5492b473-3689-4c85-b813-0aa6833c0c3f

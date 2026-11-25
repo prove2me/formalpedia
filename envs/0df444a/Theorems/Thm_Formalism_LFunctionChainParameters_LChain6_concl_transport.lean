@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain6_concl_transport
 -- name    : Formalism.LFunctionChainParameters.LChain6.concl_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:11:04.972154+00:00
 -- url     : https://prove2.me/theorems/f7d044ea-9e4b-5ee7-b8f1-d49ca65a904c

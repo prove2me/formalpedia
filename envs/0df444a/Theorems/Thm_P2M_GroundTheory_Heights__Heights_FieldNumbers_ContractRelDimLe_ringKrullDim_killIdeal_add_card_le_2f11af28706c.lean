@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_ContractRelDimLe_ringKrullDim_killIdeal_add_card_le_2f11af28706c
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_ContractRelDimLe_ringKrullDim_killIdeal_add_card_le_2f11af28706c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:17:18.886316+00:00
 -- url     : https://prove2.me/theorems/2399c467-f9a1-4f3d-9728-5ffa96975fbb

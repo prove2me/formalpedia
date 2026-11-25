@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_LogDetDerivative_hasDerivAt_det_93e893f6ccc3
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_LogDetDerivative_hasDerivAt_det_93e893f6ccc3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:18:51.778567+00:00
 -- url     : https://prove2.me/theorems/6547b11c-10fa-482c-b23a-cf4b6c49e4c6

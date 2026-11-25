@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspFlow_exists_linear
 -- name    : GlobalTheory.CuspFlow.exists_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:40:53.62974+00:00
 -- url     : https://prove2.me/theorems/8ef2c60f-8196-41d8-a140-bfa2f26d414e

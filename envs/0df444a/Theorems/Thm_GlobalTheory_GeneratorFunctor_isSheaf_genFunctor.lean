@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeneratorFunctor_isSheaf_genFunctor
 -- name    : GlobalTheory.GeneratorFunctor.isSheaf_genFunctor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:54:36.361318+00:00
 -- url     : https://prove2.me/theorems/e3fda3eb-4f42-4d8f-b68a-3de79252680c

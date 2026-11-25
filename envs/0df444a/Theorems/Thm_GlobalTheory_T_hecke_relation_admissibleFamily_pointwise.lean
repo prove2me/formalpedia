@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hecke_relation_admissibleFamily_pointwise
 -- name    : GlobalTheory.T.hecke_relation_admissibleFamily_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:46:26.420799+00:00
 -- url     : https://prove2.me/theorems/ffbc234e-248b-4725-8ff9-99c896103422

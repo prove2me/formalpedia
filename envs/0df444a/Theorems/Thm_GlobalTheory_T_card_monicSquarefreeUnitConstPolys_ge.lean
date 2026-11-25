@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_monicSquarefreeUnitConstPolys_ge
 -- name    : GlobalTheory.T.card_monicSquarefreeUnitConstPolys_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:59:50.474114+00:00
 -- url     : https://prove2.me/theorems/f81c25c5-beb5-529c-81cd-89b978abe029

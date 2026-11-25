@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ThmIUnique_coordMonomial_not_mem_f731ea15fea9
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ThmIUnique_coordMonomial_not_mem_f731ea15fea9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:23:57.826841+00:00
 -- url     : https://prove2.me/theorems/f34718cd-ba00-414a-860a-910753630798

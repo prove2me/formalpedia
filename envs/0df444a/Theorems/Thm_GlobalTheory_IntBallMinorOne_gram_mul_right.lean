@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBallMinorOne_gram_mul_right
 -- name    : GlobalTheory.IntBallMinorOne.gram_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:45:40.899884+00:00
 -- url     : https://prove2.me/theorems/0e749566-3d5c-4928-b773-bcbf0f46c1f1

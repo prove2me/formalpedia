@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_continuum_le_mk_witnesses_sqrtThree
 -- name    : SZ.continuum_le_mk_witnesses_sqrtThree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:02:43.084284+00:00
 -- url     : https://prove2.me/theorems/db8a42ad-3492-4af8-8174-5ea37ea87cd4

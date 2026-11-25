@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DominantPrimitiveFibres_exists_lift_of_isIntegral_7e7da0323e6d
 -- name    : P2M_GroundTheory_Heights__Heights_DominantPrimitiveFibres_exists_lift_of_isIntegral_7e7da0323e6d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:17:36.753803+00:00
 -- url     : https://prove2.me/theorems/87ff9daa-d92c-4f04-a4f4-d2b462e262c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_exists_interval_of_mono
 -- name    : PretorsionImageClosed.LinearQuiver.exists_interval_of_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:10:56.049159+00:00
 -- url     : https://prove2.me/theorems/adade1f3-39ee-482e-ba4d-8d308489b297

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtMeas_isSES
 -- name    : GlobalTheory.JR.EtMeas.isSES
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:23:15.839428+00:00
 -- url     : https://prove2.me/theorems/f04b794b-7c10-4500-83bb-9475e78828b9

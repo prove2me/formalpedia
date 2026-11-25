@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_wd_affine
 -- name    : GlobalTheory.TwoLines.wd_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:54:39.604022+00:00
 -- url     : https://prove2.me/theorems/a56e4caf-d3f0-54a0-a8e5-44e46836a0d9

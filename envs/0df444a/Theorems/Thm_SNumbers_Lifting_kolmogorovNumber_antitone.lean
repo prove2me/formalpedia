@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_Lifting_kolmogorovNumber_antitone
 -- name    : SNumbers.Lifting.kolmogorovNumber_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:11:40.260431+00:00
 -- url     : https://prove2.me/theorems/4faad2c5-baa4-48ba-a1d1-c87c50257f47

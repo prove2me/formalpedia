@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_RankOfSections_bound_of_eventually_613d97591c0c
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_RankOfSections_bound_of_eventually_613d97591c0c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:18:50.388943+00:00
 -- url     : https://prove2.me/theorems/49e2ecd8-6472-4b47-adf3-33303bfad75e

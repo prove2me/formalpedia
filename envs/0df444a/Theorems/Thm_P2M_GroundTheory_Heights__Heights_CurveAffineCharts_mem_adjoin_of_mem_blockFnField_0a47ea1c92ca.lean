@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CurveAffineCharts_mem_adjoin_of_mem_blockFnField_0a47ea1c92ca
 -- name    : P2M_GroundTheory_Heights__Heights_CurveAffineCharts_mem_adjoin_of_mem_blockFnField_0a47ea1c92ca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:26.672884+00:00
 -- url     : https://prove2.me/theorems/55d28c1b-1179-5016-a633-0bac8d4f03cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHCombContract_cond_ins_9efaac490a1c
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHCombContract_cond_ins_9efaac490a1c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:26:58.690558+00:00
 -- url     : https://prove2.me/theorems/53826545-a7c0-43f6-ab83-a6c418cb4493

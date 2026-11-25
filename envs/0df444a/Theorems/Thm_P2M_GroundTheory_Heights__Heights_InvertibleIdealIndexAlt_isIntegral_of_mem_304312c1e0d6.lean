@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_InvertibleIdealIndexAlt_isIntegral_of_mem_304312c1e0d6
 -- name    : P2M_GroundTheory_Heights__Heights_InvertibleIdealIndexAlt_isIntegral_of_mem_304312c1e0d6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:27:17.315112+00:00
 -- url     : https://prove2.me/theorems/fd6ec7c7-ccb3-5152-a646-11d80306e606

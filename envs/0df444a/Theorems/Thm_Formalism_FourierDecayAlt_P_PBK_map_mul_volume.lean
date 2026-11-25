@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_map_mul_volume
 -- name    : Formalism.FourierDecayAlt.P.PBK.map_mul_volume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:07:34.821976+00:00
 -- url     : https://prove2.me/theorems/89b7f880-3c73-5685-8561-eea4a5762b50

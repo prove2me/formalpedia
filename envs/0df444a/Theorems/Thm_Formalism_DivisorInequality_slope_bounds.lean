@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisorInequality_slope_bounds
 -- name    : Formalism.DivisorInequality.slope_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:51:15.56925+00:00
 -- url     : https://prove2.me/theorems/07505366-47eb-4f95-b6bc-4d61f7209e07

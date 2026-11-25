@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_cotMap_injective_of_sq
 -- name    : GlobalTheory.PDiv.cotMap_injective_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:59:42.159646+00:00
 -- url     : https://prove2.me/theorems/8ab801e6-a39c-4cda-8f32-101614ea44e6

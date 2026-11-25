@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_PieceRootProductPolynomial_coeff_monic_of_coeffs_c20b2a3a7093
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_PieceRootProductPolynomial_coeff_monic_of_coeffs_c20b2a3a7093
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:53.125216+00:00
 -- url     : https://prove2.me/theorems/093e0e6d-79cd-5b9d-99c0-491c9a74a9c6

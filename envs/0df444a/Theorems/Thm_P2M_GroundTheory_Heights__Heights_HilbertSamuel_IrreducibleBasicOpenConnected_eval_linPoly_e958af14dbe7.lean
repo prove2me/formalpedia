@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_IrreducibleBasicOpenConnected_eval_linPoly_e958af14dbe7
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_IrreducibleBasicOpenConnected_eval_linPoly_e958af14dbe7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:18:36.248969+00:00
 -- url     : https://prove2.me/theorems/7d4bd3cf-b719-49b6-a499-661fac46ed58

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_not_isIso
 -- name    : GlobalTheory.TwoLines.not_isIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:13:23.401975+00:00
 -- url     : https://prove2.me/theorems/f027e4bb-4765-42d0-bf46-ad1aefb005a3

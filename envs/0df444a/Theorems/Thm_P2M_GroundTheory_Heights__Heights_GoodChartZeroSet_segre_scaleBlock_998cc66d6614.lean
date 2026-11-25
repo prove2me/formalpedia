@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_segre_scaleBlock_998cc66d6614
 -- name    : P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_segre_scaleBlock_998cc66d6614
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:21:01.669634+00:00
 -- url     : https://prove2.me/theorems/39e3970a-71ae-4a70-ab7a-7353caa60a67

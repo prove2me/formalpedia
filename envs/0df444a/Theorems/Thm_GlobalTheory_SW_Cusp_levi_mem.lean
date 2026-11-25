@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Cusp_levi_mem
 -- name    : GlobalTheory.SW.Cusp.levi_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:14:14.480984+00:00
 -- url     : https://prove2.me/theorems/f1703f6b-3ff4-49c1-929a-2a4c2939ebac

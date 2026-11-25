@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_off_diagonal_lift_bound_of_places
 -- name    : Formalism.FourierDecayAlt.P.off_diagonal_lift_bound_of_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:45:55.508699+00:00
 -- url     : https://prove2.me/theorems/000399e5-9249-4bd4-a789-f57eccc7aa90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGroupFrame_thetaGrp_in_frame
 -- name    : GlobalTheory.ThetaGroupFrame.thetaGrp_in_frame
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:23:41.051553+00:00
 -- url     : https://prove2.me/theorems/3ed5e126-c68b-4da1-a629-0f27b4adc0ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_exists_adicCompletion_surjection_of_surjective_bd96116c27fb
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_exists_adicCompletion_surjection_of_surjective_bd96116c27fb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:21:17.635898+00:00
 -- url     : https://prove2.me/theorems/9d10c3e7-b18b-4b91-8418-4412f26e818e

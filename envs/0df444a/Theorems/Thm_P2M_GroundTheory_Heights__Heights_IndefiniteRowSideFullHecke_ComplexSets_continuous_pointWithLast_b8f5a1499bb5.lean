@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_continuous_pointWithLast_b8f5a1499bb5
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_continuous_pointWithLast_b8f5a1499bb5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:21:39.972655+00:00
 -- url     : https://prove2.me/theorems/2789dbc6-a228-40c8-af51-9d3ee8c5b4e6

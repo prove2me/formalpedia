@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_isNormalScheme_specInt_f10714e7ae74
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_isNormalScheme_specInt_f10714e7ae74
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:22:40.965434+00:00
 -- url     : https://prove2.me/theorems/b35ce22c-0078-46bc-b091-47e3d3171230

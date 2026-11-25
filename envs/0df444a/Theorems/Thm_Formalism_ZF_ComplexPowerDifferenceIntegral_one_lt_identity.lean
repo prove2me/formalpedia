@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_ComplexPowerDifferenceIntegral_one_lt_identity
 -- name    : Formalism.ZF.ComplexPowerDifferenceIntegral.one_lt_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:41:42.166008+00:00
 -- url     : https://prove2.me/theorems/f7febd66-8a67-410d-b21a-856dc4646266

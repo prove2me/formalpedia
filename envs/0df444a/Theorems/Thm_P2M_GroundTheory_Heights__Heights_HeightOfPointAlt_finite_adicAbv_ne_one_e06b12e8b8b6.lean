@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HeightOfPointAlt_finite_adicAbv_ne_one_e06b12e8b8b6
 -- name    : P2M_GroundTheory_Heights__Heights_HeightOfPointAlt_finite_adicAbv_ne_one_e06b12e8b8b6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:19:07.514426+00:00
 -- url     : https://prove2.me/theorems/6b745329-a0d5-4ab4-a4ab-40dcee0b9e65

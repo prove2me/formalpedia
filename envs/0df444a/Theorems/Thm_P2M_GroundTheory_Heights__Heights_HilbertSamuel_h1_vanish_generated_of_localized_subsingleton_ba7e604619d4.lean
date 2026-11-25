@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_h1_vanish_generated_of_localized_subsingleton_ba7e604619d4
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_h1_vanish_generated_of_localized_subsingleton_ba7e604619d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:49.405479+00:00
 -- url     : https://prove2.me/theorems/c760a97b-6b24-4f7a-a705-6f712bad8087

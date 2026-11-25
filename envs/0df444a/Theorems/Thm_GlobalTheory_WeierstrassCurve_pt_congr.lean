@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_pt_congr
 -- name    : GlobalTheory.WeierstrassCurve.pt_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:00:05.522924+00:00
 -- url     : https://prove2.me/theorems/cd14652d-3337-4b21-b6ae-17f3d2a02ead

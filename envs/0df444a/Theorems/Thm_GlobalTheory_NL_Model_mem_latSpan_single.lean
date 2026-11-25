@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_mem_latSpan_single
 -- name    : GlobalTheory.NL.Model.mem_latSpan_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:46:54.789703+00:00
 -- url     : https://prove2.me/theorems/ae81b19e-02e4-4c72-bcd8-d0413b07583a

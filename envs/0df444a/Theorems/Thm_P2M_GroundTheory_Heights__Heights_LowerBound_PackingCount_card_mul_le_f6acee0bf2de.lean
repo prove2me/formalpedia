@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBound_PackingCount_card_mul_le_f6acee0bf2de
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBound_PackingCount_card_mul_le_f6acee0bf2de
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:28:43.627033+00:00
 -- url     : https://prove2.me/theorems/b50ba900-2c7b-4283-9ea4-a6bc9ac5bf54

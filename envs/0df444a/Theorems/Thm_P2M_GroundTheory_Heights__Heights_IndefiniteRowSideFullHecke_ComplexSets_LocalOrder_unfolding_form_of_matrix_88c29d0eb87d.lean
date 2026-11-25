@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_LocalOrder_unfolding_form_of_matrix_88c29d0eb87d
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_LocalOrder_unfolding_form_of_matrix_88c29d0eb87d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:20:47.472937+00:00
 -- url     : https://prove2.me/theorems/3feec752-6963-50b3-bab3-5c2f6c836077

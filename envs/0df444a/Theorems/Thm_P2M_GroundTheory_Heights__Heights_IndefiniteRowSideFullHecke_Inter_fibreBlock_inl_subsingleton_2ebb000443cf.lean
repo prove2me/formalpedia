@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_fibreBlock_inl_subsingleton_2ebb000443cf
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_fibreBlock_inl_subsingleton_2ebb000443cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:23:45.68617+00:00
 -- url     : https://prove2.me/theorems/04aa1368-8ef2-4894-aa19-097eec2db892

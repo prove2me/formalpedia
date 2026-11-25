@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericFibreModelTransport_quotient_lift_injective_e78c2adbb3ac
 -- name    : P2M_GroundTheory_Heights__Heights_GenericFibreModelTransport_quotient_lift_injective_e78c2adbb3ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:17:51.136543+00:00
 -- url     : https://prove2.me/theorems/3c2b1afb-5917-485b-9675-8fd522256b8a

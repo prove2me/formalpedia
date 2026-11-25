@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_entropyNumber_nonneg
 -- name    : SNumbers.entropyNumber_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:51:45.147619+00:00
 -- url     : https://prove2.me/theorems/d27fb59d-8896-41aa-b772-9c3688b5ce9e

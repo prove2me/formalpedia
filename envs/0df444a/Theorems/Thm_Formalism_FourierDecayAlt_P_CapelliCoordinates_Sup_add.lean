@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliCoordinates_Sup_add
 -- name    : Formalism.FourierDecayAlt.P.CapelliCoordinates.Sup.add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:16:10.188785+00:00
 -- url     : https://prove2.me/theorems/3cc9ceda-cae5-5282-b7bf-dfc28226230b

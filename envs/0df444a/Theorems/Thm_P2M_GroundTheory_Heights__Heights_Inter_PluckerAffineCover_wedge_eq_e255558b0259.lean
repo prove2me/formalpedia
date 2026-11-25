@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PluckerAffineCover_wedge_eq_e255558b0259
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PluckerAffineCover_wedge_eq_e255558b0259
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:24:13.514292+00:00
 -- url     : https://prove2.me/theorems/cd7a25bc-a0c8-4fe2-ad93-f88cbedc5a3b

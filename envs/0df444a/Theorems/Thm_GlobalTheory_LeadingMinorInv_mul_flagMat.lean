@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeadingMinorInv_mul_flagMat
 -- name    : GlobalTheory.LeadingMinorInv.mul_flagMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:20:30.822108+00:00
 -- url     : https://prove2.me/theorems/047f2655-ee9d-48a8-97b4-a78ed43679d0

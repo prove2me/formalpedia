@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CuspCoordinateBound_coord_sq_le_6e27dd9a7003
 -- name    : P2M_GroundTheory_Heights__Heights_CuspCoordinateBound_coord_sq_le_6e27dd9a7003
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:04.382241+00:00
 -- url     : https://prove2.me/theorems/848a024c-72fd-471c-9aa6-b71f0e4217ac

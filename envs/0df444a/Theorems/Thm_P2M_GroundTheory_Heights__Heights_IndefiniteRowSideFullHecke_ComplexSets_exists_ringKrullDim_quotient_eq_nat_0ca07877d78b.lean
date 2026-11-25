@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_exists_ringKrullDim_quotient_eq_nat_0ca07877d78b
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_exists_ringKrullDim_quotient_eq_nat_0ca07877d78b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:21:54.450795+00:00
 -- url     : https://prove2.me/theorems/63207108-4737-5ea7-ba1f-31e4ca393b1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FrameEntries_regular_smooth
 -- name    : Formalism.FourierDecayAlt.P.FrameEntries.regular_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:31:16.963743+00:00
 -- url     : https://prove2.me/theorems/269a9b9b-e6fe-4644-9b27-bede923c135a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeLocalSheets_lift_injective_4da4e73bfd03
 -- name    : P2M_GroundTheory_Heights__Heights_ConeLocalSheets_lift_injective_4da4e73bfd03
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:17:56.242961+00:00
 -- url     : https://prove2.me/theorems/bb7ab32f-ec17-4e19-91fb-6718f8fe8e6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_MatchNotIm_hasInv_liftH
 -- name    : GlobalTheory.JR.Step.MatchNotIm.hasInv_liftH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:36:46.968126+00:00
 -- url     : https://prove2.me/theorems/fdb323fa-7ca5-4837-ac94-2eb9bb30fc23

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dpEval_two
 -- name    : GlobalTheory.dpEval_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:16:57.861617+00:00
 -- url     : https://prove2.me/theorems/f154495c-aa21-4924-9aa2-f998f863d201

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_CurveDivVertical_isHomogeneous_sup_a11a066662f4
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_CurveDivVertical_isHomogeneous_sup_a11a066662f4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:27:48.058551+00:00
 -- url     : https://prove2.me/theorems/cdc5e955-6dbd-51e7-a091-427dea7d436d

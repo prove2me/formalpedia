@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_MixedNumberPolynomial_low_mono_bed7d4e772fa
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_MixedNumberPolynomial_low_mono_bed7d4e772fa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:18:42.349939+00:00
 -- url     : https://prove2.me/theorems/10150d77-4788-4fd7-88b7-bc9a82ac2c28

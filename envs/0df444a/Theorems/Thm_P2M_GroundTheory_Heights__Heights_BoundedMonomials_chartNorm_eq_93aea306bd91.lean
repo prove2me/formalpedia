@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BoundedMonomials_chartNorm_eq_93aea306bd91
 -- name    : P2M_GroundTheory_Heights__Heights_BoundedMonomials_chartNorm_eq_93aea306bd91
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:50:16.014194+00:00
 -- url     : https://prove2.me/theorems/f0cfaf3d-7d3f-4aa2-a53f-43358db1e235

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PrimitiveFormMinimalFactorPoints_eval__eq_zero_of_dvd_aea6d61b0052
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PrimitiveFormMinimalFactorPoints_eval__eq_zero_of_dvd_aea6d61b0052
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:20:30.422393+00:00
 -- url     : https://prove2.me/theorems/a5b1226e-bcc6-409c-b424-647b1ee435f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocalSectionLengthSum_length_pi_quot_smul_top_eq_cc6eec9c5118
 -- name    : P2M_GroundTheory_Heights__Heights_LocalSectionLengthSum_length_pi_quot_smul_top_eq_cc6eec9c5118
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:27:57.065992+00:00
 -- url     : https://prove2.me/theorems/d6f42e48-c406-46bd-a27d-323fa5a07840

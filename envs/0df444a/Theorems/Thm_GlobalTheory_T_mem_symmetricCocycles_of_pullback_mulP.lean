@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_symmetricCocycles_of_pullback_mulP
 -- name    : GlobalTheory.T.mem_symmetricCocycles_of_pullback_mulP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:54:42.054715+00:00
 -- url     : https://prove2.me/theorems/c2a4abf1-3aa0-5d19-b7cc-20aefcfe7aca

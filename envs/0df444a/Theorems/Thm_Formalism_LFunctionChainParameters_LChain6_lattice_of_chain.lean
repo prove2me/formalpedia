@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain6_lattice_of_chain
 -- name    : Formalism.LFunctionChainParameters.LChain6.lattice_of_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:57:41.40526+00:00
 -- url     : https://prove2.me/theorems/53282c63-a6a1-4bc3-9657-5af95caa5e94

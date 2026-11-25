@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IdealIndexPlaces_absNorm_eq_index_aad97d015a0a
 -- name    : P2M_GroundTheory_Heights__Heights_IdealIndexPlaces_absNorm_eq_index_aad97d015a0a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:20:18.651904+00:00
 -- url     : https://prove2.me/theorems/8f0ded09-b0f3-4b06-ac91-fe7da17a1229

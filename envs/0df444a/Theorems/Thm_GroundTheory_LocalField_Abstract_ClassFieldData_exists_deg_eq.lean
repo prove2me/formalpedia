@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_exists_deg_eq
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.exists_deg_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:00:24.705833+00:00
 -- url     : https://prove2.me/theorems/f6090f35-1873-4421-9860-0d96cd328a14

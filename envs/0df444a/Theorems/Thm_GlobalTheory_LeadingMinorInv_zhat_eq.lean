@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeadingMinorInv_zhat_eq
 -- name    : GlobalTheory.LeadingMinorInv.zhat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:16:23.236097+00:00
 -- url     : https://prove2.me/theorems/27c4712a-a935-4e18-810d-c7c8b66088bb

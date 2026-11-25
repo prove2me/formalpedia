@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PullBdd_castFrame_rmul
 -- name    : GlobalTheory.PullBdd.castFrame_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:01:31.962058+00:00
 -- url     : https://prove2.me/theorems/296f455b-a1d1-4787-bee3-af5533339b3f

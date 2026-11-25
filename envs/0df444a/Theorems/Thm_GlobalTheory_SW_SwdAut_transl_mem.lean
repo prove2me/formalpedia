@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_SwdAut_transl_mem
 -- name    : GlobalTheory.SW.SwdAut.transl_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:56:29.816891+00:00
 -- url     : https://prove2.me/theorems/ce357900-8e57-49c0-8516-333c6490147e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_card_le_of_separated_of_norm_le_9245f774df27
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_card_le_of_separated_of_norm_le_9245f774df27
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:06.952241+00:00
 -- url     : https://prove2.me/theorems/1015c512-dc04-4396-a99c-fb17a77ae0f8

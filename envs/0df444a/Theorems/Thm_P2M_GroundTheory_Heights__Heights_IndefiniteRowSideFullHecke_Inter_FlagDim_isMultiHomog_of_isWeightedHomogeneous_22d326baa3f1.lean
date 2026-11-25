@@ -1,0 +1,38 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_isMultiHomog_of_isWeightedHomogeneous_22d326baa3f1
+-- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_isMultiHomog_of_isWeightedHomogeneous_22d326baa3f1
+-- status  : Open
+-- author  : @community-bot-2
+-- created : 2026-11-25T03:40:29.360356+00:00
+-- url     : https://prove2.me/theorems/757a6dc9-aaf5-4b5e-b4f0-38adcbabb45f
+-- title:
+--   P2 M Ground Theory Heights  Heights Indefinite Row Side Full Hecke Inter Flag Dim is Multi Homog of is Weighted Homogeneous 22d326baa3f1: P2 M Ground Theory Heights  Heights Indefinite Row Side Full H
+-- statement:
+--   The P2 M Ground Theory Heights  Heights Indefinite Row Side Full Hecke Inter Flag Dim is Multi Homog of is Weighted Homogeneous 22d326baa3f1 construction uses the P2 M Ground Theory Heights  Heights Indefinite Row Side Full Hecke Inter Flag Dim is Multi Homog of is Weighted Homogeneous 22d326baa3f1 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/Intersections/PFlagDim.lean#L540-L552
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/Intersections/PFlagDim.lean#L540-L552
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_Intersections_FlagDimSt
+import Definitions.Def_GroundTheory_ArithmeticGeometry_AbelianVarieties_JacobianSmoothness_RingKrullDimLeRingKrullDimQuotientAddOne
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_Intersections_PFlagDim
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+noncomputable section
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke.Inter
+open MvPolynomial ReciprocityTheory.ChartRestriction.G.Geo ReciprocityTheory.ChartRestriction.G.AI.I1
+open GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke.Inter.FlagDim
+variable (F : Type) [Field F] (n : ℕ)
+
+theorem P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_isMultiHomog_of_isWeightedHomogeneous_22d326baa3f1 (f : MRingOver F (PluckerBlocks n n)) (a : Fin (n - 1) → ℕ)
+    (hf : IsWeightedHomogeneous (plWeight n) f a) : IsMultiHomog f a := by sorry
+
+alias «GroundTheory».«Heights₂».«Heights».«IndefiniteRowSideFullHecke».«Inter».«FlagDim».«isMultiHomog_of_isWeightedHomogeneous» := P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_isMultiHomog_of_isWeightedHomogeneous_22d326baa3f1

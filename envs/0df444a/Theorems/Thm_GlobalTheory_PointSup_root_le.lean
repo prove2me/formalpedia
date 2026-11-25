@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointSup_root_le
 -- name    : GlobalTheory.PointSup.root_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:00:49.296401+00:00
 -- url     : https://prove2.me/theorems/e7ed766b-c185-5147-bf2b-a514dea31d15

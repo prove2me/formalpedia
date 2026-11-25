@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VerticalGauss_nonneg_of_isIntegral
 -- name    : GlobalTheory.VerticalGauss.nonneg_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:13:54.746123+00:00
 -- url     : https://prove2.me/theorems/96557449-3b08-432a-a6a4-44f3f91c7e30

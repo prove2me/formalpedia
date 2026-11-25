@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialRootPredicateFactor_analyticAt_monicEval_d05bf81c2488
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialRootPredicateFactor_analyticAt_monicEval_d05bf81c2488
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:20:26.484578+00:00
 -- url     : https://prove2.me/theorems/73db4956-6f16-4c90-80ea-a34401d3c205

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericNoetherNormalisation_sum_r_mul_ne_98623272d7f8
 -- name    : P2M_GroundTheory_Heights__Heights_GenericNoetherNormalisation_sum_r_mul_ne_98623272d7f8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:18:30.607397+00:00
 -- url     : https://prove2.me/theorems/88444d98-c0a8-4fc0-9397-1856cddd2b77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_MultigradedFiltration_degZ_add_18174cc39b3c
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_MultigradedFiltration_degZ_add_18174cc39b3c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:19:27.026364+00:00
 -- url     : https://prove2.me/theorems/01aa1523-8712-4b69-b242-e2c0f0f20a01

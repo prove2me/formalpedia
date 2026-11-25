@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMetric_scale_alg_9e8d282e6431
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMetric_scale_alg_9e8d282e6431
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:15:21.293965+00:00
 -- url     : https://prove2.me/theorems/d0a522ba-b246-5e3c-9f6c-6e60cada5ca7

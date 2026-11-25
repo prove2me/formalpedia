@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_vanishingIdeal_zeroLocus_diff_of_nonempty_54cb262b4ccf
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_vanishingIdeal_zeroLocus_diff_of_nonempty_54cb262b4ccf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:25.390078+00:00
 -- url     : https://prove2.me/theorems/5493c1f4-7801-42b5-835c-ff4d833d24c3

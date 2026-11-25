@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericNoetherNormalisation_degreeOf_zero_nagata_af52885d2172
 -- name    : P2M_GroundTheory_Heights__Heights_GenericNoetherNormalisation_degreeOf_zero_nagata_af52885d2172
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:18:08.18061+00:00
 -- url     : https://prove2.me/theorems/221d1469-fea3-4058-b6e6-a48ff74e06b6

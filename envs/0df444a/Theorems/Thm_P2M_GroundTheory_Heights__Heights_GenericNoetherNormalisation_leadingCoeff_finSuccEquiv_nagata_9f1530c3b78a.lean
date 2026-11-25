@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericNoetherNormalisation_leadingCoeff_finSuccEquiv_nagata_9f1530c3b78a
 -- name    : P2M_GroundTheory_Heights__Heights_GenericNoetherNormalisation_leadingCoeff_finSuccEquiv_nagata_9f1530c3b78a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:18:11.073814+00:00
 -- url     : https://prove2.me/theorems/9697c135-3cf0-4a84-a4d5-c2fa41b022b2

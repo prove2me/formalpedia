@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_inv_mul_mul_mem_of_normal
 -- name    : GroundTheory.Global.Artin.inv_mul_mul_mem_of_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:13:37.71412+00:00
 -- url     : https://prove2.me/theorems/03913e3f-cf7d-5ea8-b3dd-dde4abd10169

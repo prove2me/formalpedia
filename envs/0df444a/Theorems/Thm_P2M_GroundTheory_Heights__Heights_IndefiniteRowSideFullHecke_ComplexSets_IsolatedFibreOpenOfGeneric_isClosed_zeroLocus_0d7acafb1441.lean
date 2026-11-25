@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_IsolatedFibreOpenOfGeneric_isClosed_zeroLocus_0d7acafb1441
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_IsolatedFibreOpenOfGeneric_isClosed_zeroLocus_0d7acafb1441
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:21:48.31401+00:00
 -- url     : https://prove2.me/theorems/d1b8a75e-ed8a-4492-8407-06ddc35231f4

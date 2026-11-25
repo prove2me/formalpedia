@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecLift_exists_sec_lift
 -- name    : GlobalTheory.SecLift.exists_sec_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:50:40.946308+00:00
 -- url     : https://prove2.me/theorems/e1d8fcf6-fd26-4bb5-a27c-d6d4b56131d9

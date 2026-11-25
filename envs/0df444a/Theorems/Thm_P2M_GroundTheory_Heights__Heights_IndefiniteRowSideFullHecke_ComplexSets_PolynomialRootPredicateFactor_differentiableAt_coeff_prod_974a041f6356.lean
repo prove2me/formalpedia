@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialRootPredicateFactor_differentiableAt_coeff_prod_974a041f6356
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialRootPredicateFactor_differentiableAt_coeff_prod_974a041f6356
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:21:06.333501+00:00
 -- url     : https://prove2.me/theorems/e896abd0-785e-4a79-8077-cac03f80f816

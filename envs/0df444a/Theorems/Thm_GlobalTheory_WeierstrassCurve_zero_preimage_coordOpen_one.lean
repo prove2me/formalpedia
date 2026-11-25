@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_zero_preimage_coordOpen_one
 -- name    : GlobalTheory.WeierstrassCurve.zero_preimage_coordOpen_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:00:41.638894+00:00
 -- url     : https://prove2.me/theorems/ef991fd5-7fe1-488c-b577-b118e258d8b9

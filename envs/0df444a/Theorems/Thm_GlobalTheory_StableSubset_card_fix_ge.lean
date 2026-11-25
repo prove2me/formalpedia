@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StableSubset_card_fix_ge
 -- name    : GlobalTheory.StableSubset.card_fix_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:52:25.344798+00:00
 -- url     : https://prove2.me/theorems/eeeb2978-a1cf-49de-820e-36fe23299bbc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHPrimeFilt_image_fin_lt_3e118475c124
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHPrimeFilt_image_fin_lt_3e118475c124
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:27:02.049678+00:00
 -- url     : https://prove2.me/theorems/02c981b6-fd37-458c-a882-e101ef6a9497

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_Lifting_kolmogorovNumber_zero_eq_norm
 -- name    : SNumbers.Lifting.kolmogorovNumber_zero_eq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:11:41.782319+00:00
 -- url     : https://prove2.me/theorems/8dec7bf7-5d55-47fd-9f89-42847bfeb884

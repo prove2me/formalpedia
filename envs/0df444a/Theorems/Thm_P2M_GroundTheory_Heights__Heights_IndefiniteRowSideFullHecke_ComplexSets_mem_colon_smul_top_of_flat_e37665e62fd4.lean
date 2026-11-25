@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_mem_colon_smul_top_of_flat_e37665e62fd4
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_mem_colon_smul_top_of_flat_e37665e62fd4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:21:34.116271+00:00
 -- url     : https://prove2.me/theorems/ede9285f-1b50-4adc-8373-aa9de5143bc3

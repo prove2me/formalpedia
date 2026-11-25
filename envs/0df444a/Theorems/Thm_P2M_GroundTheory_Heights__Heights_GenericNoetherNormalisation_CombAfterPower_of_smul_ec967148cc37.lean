@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericNoetherNormalisation_CombAfterPower_of_smul_ec967148cc37
 -- name    : P2M_GroundTheory_Heights__Heights_GenericNoetherNormalisation_CombAfterPower_of_smul_ec967148cc37
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:18:02.725248+00:00
 -- url     : https://prove2.me/theorems/478575c4-b4d9-4c74-9efd-4c096858434b

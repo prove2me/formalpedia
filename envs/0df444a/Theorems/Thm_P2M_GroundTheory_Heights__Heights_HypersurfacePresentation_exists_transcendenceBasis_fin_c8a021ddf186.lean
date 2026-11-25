@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HypersurfacePresentation_exists_transcendenceBasis_fin_c8a021ddf186
 -- name    : P2M_GroundTheory_Heights__Heights_HypersurfacePresentation_exists_transcendenceBasis_fin_c8a021ddf186
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:33.991617+00:00
 -- url     : https://prove2.me/theorems/c2f5f059-efd4-50fb-bd08-f30c084ec05f

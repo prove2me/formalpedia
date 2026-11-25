@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelChart_exists_chart_with_parameters
 -- name    : GlobalTheory.RelChart.exists_chart_with_parameters
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:20:05.920087+00:00
 -- url     : https://prove2.me/theorems/454a9fea-f69a-44b6-9e86-1718d500e71c

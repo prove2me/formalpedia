@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagGram_key
 -- name    : GlobalTheory.FlagGram.key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:44:12.711226+00:00
 -- url     : https://prove2.me/theorems/e634abb3-8091-5821-9a69-30eb1be4cc75

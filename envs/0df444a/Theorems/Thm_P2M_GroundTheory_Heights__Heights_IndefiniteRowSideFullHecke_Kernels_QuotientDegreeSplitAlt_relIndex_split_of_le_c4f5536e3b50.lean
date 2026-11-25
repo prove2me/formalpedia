@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_QuotientDegreeSplitAlt_relIndex_split_of_le_c4f5536e3b50
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_QuotientDegreeSplitAlt_relIndex_split_of_le_c4f5536e3b50
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:23:03.617659+00:00
 -- url     : https://prove2.me/theorems/2e0fcc1d-a7b8-4243-92d7-7dc72106fcb9

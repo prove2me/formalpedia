@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_FiniteProjectionCluster_isClosed_zeroSet_64df82fb2a22
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_FiniteProjectionCluster_isClosed_zeroSet_64df82fb2a22
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:16:22.225553+00:00
 -- url     : https://prove2.me/theorems/ecdd65b2-3758-55e5-9ef9-84f7a5592230

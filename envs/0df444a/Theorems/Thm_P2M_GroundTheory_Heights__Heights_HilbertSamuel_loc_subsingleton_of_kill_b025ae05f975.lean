@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_loc_subsingleton_of_kill_b025ae05f975
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_loc_subsingleton_of_kill_b025ae05f975
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:19:57.402667+00:00
 -- url     : https://prove2.me/theorems/33372f52-7cb3-4d11-ab41-f46c67d22256

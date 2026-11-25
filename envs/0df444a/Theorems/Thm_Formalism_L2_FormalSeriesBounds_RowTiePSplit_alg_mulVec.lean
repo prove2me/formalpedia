@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RowTiePSplit_alg_mulVec
 -- name    : Formalism.L2.FormalSeriesBounds.RowTiePSplit.alg_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:20:19.006275+00:00
 -- url     : https://prove2.me/theorems/65fc856a-2ef1-5b9f-964c-4c2b51ca8953

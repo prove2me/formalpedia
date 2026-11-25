@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_exists_monic_shift_coeff_68841b6d0120
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_exists_monic_shift_coeff_68841b6d0120
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:21:18.164689+00:00
 -- url     : https://prove2.me/theorems/87c8ddad-6013-45ac-ae65-866dc8bff45e

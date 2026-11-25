@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_lagCo_ne_zero
 -- name    : Formalism.FourierDecayAlt.P.PBD.lagCo_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:10:43.834062+00:00
 -- url     : https://prove2.me/theorems/2694949d-f7ad-471d-90f8-43e1426bfee2

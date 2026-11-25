@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHPrimeFilt_isGradedSub_bot_92731b6e8486
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHPrimeFilt_isGradedSub_bot_92731b6e8486
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:28:21.50245+00:00
 -- url     : https://prove2.me/theorems/315060f0-e5cc-4891-b2c9-eb4d010cf4a3

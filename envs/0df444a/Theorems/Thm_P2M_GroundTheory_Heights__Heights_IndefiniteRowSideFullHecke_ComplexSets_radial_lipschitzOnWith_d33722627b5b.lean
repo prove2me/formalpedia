@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_radial_lipschitzOnWith_d33722627b5b
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_radial_lipschitzOnWith_d33722627b5b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:21:35.261834+00:00
 -- url     : https://prove2.me/theorems/04592533-2969-4bb7-99e8-0ff2560b6bba

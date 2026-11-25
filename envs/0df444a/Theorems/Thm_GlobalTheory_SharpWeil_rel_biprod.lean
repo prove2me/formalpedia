@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpWeil_rel_biprod
 -- name    : GlobalTheory.SharpWeil.rel_biprod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:11:36.686806+00:00
 -- url     : https://prove2.me/theorems/fae37084-600c-47e0-86e4-2a84458d9e21

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HolomorphicImplicitGraph_exists_coordSplitting_e16b4bef2921
 -- name    : P2M_GroundTheory_Heights__Heights_HolomorphicImplicitGraph_exists_coordSplitting_e16b4bef2921
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:20:57.079722+00:00
 -- url     : https://prove2.me/theorems/7a5e7c7a-16b8-5179-ac36-4aa7097f82f7

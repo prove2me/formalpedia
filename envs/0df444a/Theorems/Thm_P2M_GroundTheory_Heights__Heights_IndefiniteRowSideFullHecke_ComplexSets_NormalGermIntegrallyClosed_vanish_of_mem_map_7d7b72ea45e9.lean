@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalGermIntegrallyClosed_vanish_of_mem_map_7d7b72ea45e9
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalGermIntegrallyClosed_vanish_of_mem_map_7d7b72ea45e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:20:20.999688+00:00
 -- url     : https://prove2.me/theorems/99888ba7-e8d7-43e3-b398-fd543717b7dc

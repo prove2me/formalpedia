@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateTest_fst_eq
 -- name    : GlobalTheory.HodgeTateTest.fst_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:55:13.97231+00:00
 -- url     : https://prove2.me/theorems/bb1b0be9-38ec-4b9a-ad31-90a799ccf1d4

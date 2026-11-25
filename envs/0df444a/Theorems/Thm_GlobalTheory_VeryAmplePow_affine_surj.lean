@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VeryAmplePow_affine_surj
 -- name    : GlobalTheory.VeryAmplePow.affine_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:04:25.256798+00:00
 -- url     : https://prove2.me/theorems/c978deeb-a93e-4d57-8519-cb3bf5705691

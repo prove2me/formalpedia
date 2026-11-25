@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_inert
 -- name    : Formalism.UG.P.satake_inert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:34:44.667806+00:00
 -- url     : https://prove2.me/theorems/833b6f33-44ee-47f9-98db-0b4df0b49d77

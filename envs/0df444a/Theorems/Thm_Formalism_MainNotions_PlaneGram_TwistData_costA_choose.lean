@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_costA_choose
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.costA_choose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:47:03.357927+00:00
 -- url     : https://prove2.me/theorems/be04e162-539a-5c8a-b494-1633bbd4be64

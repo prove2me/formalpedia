@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FlagSectionAction_isFlagSec_coefFn
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FlagSectionAction.isFlagSec_coefFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:45:05.855088+00:00
 -- url     : https://prove2.me/theorems/b4839fef-9435-4839-8a38-a517a05d228f

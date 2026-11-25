@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_exists_forall_ne_zero_of_isOpen_fc98376a5123
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_exists_forall_ne_zero_of_isOpen_fc98376a5123
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:20:53.303957+00:00
 -- url     : https://prove2.me/theorems/9286ac1f-c0f0-401c-b738-273bfa7b0ae9

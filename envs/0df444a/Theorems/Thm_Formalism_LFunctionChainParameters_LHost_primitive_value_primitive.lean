@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_primitive_value_primitive
 -- name    : Formalism.LFunctionChainParameters.LHost.primitive_value_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:23:51.080609+00:00
 -- url     : https://prove2.me/theorems/efa58957-d44b-4f99-8f41-562d35d9af25

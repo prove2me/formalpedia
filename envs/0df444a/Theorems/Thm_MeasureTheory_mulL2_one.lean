@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_mulL2_one
 -- name    : MeasureTheory.mulL2_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:11:02.986722+00:00
 -- url     : https://prove2.me/theorems/a057fc1f-e1df-5c66-9db1-5a75fcbf4e5f

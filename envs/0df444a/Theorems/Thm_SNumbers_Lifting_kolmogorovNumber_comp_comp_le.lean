@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_Lifting_kolmogorovNumber_comp_comp_le
 -- name    : SNumbers.Lifting.kolmogorovNumber_comp_comp_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:12:45.384829+00:00
 -- url     : https://prove2.me/theorems/48ae0a6b-b6fd-4552-bb32-5dd3bda23ead

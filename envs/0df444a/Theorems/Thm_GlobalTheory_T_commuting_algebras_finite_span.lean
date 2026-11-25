@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_commuting_algebras_finite_span
 -- name    : GlobalTheory.T.commuting_algebras_finite_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:29:44.462708+00:00
 -- url     : https://prove2.me/theorems/da7c56dc-da4f-4608-a874-cf6019e2569f

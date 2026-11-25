@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CentredIntegralEquation_exists_monic_map_eq_X_pow_d6b90c590648
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CentredIntegralEquation_exists_monic_map_eq_X_pow_d6b90c590648
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:07.894827+00:00
 -- url     : https://prove2.me/theorems/9f163577-2697-5b87-8a68-db6b03b38698

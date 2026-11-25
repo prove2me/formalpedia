@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBound_max_zero_add_le_of_nonneg_b2974e2bf39a
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBound_max_zero_add_le_of_nonneg_b2974e2bf39a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:28:56.417006+00:00
 -- url     : https://prove2.me/theorems/e6014810-2a18-4bdd-9b2e-b8f9e505ade3

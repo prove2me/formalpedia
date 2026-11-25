@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointQuot_exists_grpObj_constObj
 -- name    : GlobalTheory.PointQuot.exists_grpObj_constObj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:49:11.664294+00:00
 -- url     : https://prove2.me/theorems/c642528f-7e27-4de8-b233-5d6ee5721565

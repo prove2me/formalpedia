@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_ofIntervals_prop_interval
 -- name    : PretorsionImageClosed.LinearQuiver.ofIntervals_prop_interval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:14:56.183819+00:00
 -- url     : https://prove2.me/theorems/14549d77-fc0e-532b-9f3d-84cf7663f96b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_WeierstrassPolynomialDivision_norm_pointWithLast_lt_b59f5ce14d21
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_WeierstrassPolynomialDivision_norm_pointWithLast_lt_b59f5ce14d21
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:21:02.143878+00:00
 -- url     : https://prove2.me/theorems/d7b229ae-78d7-4029-90a7-7db971872e3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lintegral_update_sub_shear
 -- name    : GlobalTheory.lintegral_update_sub_shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:57:01.023423+00:00
 -- url     : https://prove2.me/theorems/c3f9feff-b765-4065-9982-b645d87f6356

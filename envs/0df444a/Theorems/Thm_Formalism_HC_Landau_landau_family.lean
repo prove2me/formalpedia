@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Landau_landau_family
 -- name    : Formalism.HC.Landau.landau_family
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:36.664991+00:00
 -- url     : https://prove2.me/theorems/c2eb9560-005a-403e-9df2-f4719982d443

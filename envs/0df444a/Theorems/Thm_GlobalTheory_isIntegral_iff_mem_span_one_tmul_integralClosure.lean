@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_iff_mem_span_one_tmul_integralClosure
 -- name    : GlobalTheory.isIntegral_iff_mem_span_one_tmul_integralClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:58:50.553354+00:00
 -- url     : https://prove2.me/theorems/4355e706-1905-4be7-a2d6-571a05656149

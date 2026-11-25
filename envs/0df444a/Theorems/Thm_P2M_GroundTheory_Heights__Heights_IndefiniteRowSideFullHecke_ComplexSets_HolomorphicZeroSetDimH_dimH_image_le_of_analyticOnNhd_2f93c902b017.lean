@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HolomorphicZeroSetDimH_dimH_image_le_of_analyticOnNhd_2f93c902b017
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HolomorphicZeroSetDimH_dimH_image_le_of_analyticOnNhd_2f93c902b017
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:20:19.067957+00:00
 -- url     : https://prove2.me/theorems/84823d34-c6b3-5bca-8253-b1b53d490a7d

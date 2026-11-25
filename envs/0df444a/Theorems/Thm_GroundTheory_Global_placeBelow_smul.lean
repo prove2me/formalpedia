@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_placeBelow_smul
 -- name    : GroundTheory.Global.placeBelow_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:14:46.964139+00:00
 -- url     : https://prove2.me/theorems/c3f23740-843a-521b-979d-6c738fcf6ccc

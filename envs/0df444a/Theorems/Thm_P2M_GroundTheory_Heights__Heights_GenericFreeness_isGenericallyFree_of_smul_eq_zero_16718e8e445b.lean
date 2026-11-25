@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericFreeness_isGenericallyFree_of_smul_eq_zero_16718e8e445b
 -- name    : P2M_GroundTheory_Heights__Heights_GenericFreeness_isGenericallyFree_of_smul_eq_zero_16718e8e445b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:17:25.901929+00:00
 -- url     : https://prove2.me/theorems/ba63c02d-4232-4ad1-9dfc-ba85bfbfad7a

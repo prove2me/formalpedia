@@ -1,0 +1,54 @@
+-- Prove2me | solution 1 for Formalism.LFunctionChainParameters.LChain2.std_orth
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-25T03:37:38.051438+00:00
+-- url     : https://prove2.me/submissions/df70693c-6c62-42b2-89b8-1e0af0eb6fe2
+
+import Definitions.Def_Formalism_SizeWindowBrackets_Chain2aCoreNoAnalytic
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_PChain
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_SlopeInequalityOfLattices
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_GaloisMapComplexConjugation
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_AdmissibleSchurLemma
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_OneLeThresholdMulPowers
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_StronglyIrreducible
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_ProjectiveLines
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_SlopeIneqMean
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_HtGram
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_PolygonSlopeSum
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_SizeMu
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_ChainLatticeSizesModelEventually
+import Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_std_T_supp
+import Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_std_real_zero
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Module NumberField Matrix
+open Formalism.HN
+noncomputable section
+open Formalism Formalism.LFunctionChainParameters Formalism.LFunctionChainParameters.LChain2
+open Formalism Formalism.D5 Formalism.RankGapBounds.WeightedMeanData Formalism.LFunctionChainParameters.WeightedSlopeBounds Formalism.LFunctionChainParameters.characterSumData Formalism.LFunctionChainParameters.ThickSetMeanBounds Formalism.LFunctionChainParameters.LErr Formalism.LFunctionChainParameters.LChain
+open Formalism.LFunctionChainParameters.ProjectiveLineModels (stdLat)
+variable (K : Type) [Field K] [NumberField K] [StarRing K] [IsTotallyComplex K]
+  (n : Type) [Fintype n] [DecidableEq n]
+variable {K n}
+namespace Formalism.LFunctionChainParameters.LChain2
+theorem _root_.solution {s : Finset n} {a : n} (ha : a ∉ s) {x y : n → K} (hx : x ∈ standardSpanAlt K n {a})
+    (hy : y ∈ standardSpanAlt K n s) :
+    inner ℝ (Formalism.HermitianLatticesTheory.realize (Pi.basisFun K n) (fun _ => (1 : Matrix n n ℂ)) x)
+      (Formalism.HermitianLatticesTheory.realize (Pi.basisFun K n) (fun _ => (1 : Matrix n n ℂ)) y) = 0 := by
+  rw [PiLp.inner_apply]
+  refine Finset.sum_eq_zero fun p _ => ?_
+  obtain ⟨v, k, e⟩ := p
+  by_cases hk : k = a
+  · subst hk
+    rw [std_real_zero (std_T_supp hy ha) v e]
+    simp
+  · rw [std_real_zero (std_T_supp hx (by simpa using hk)) v e]
+    simp
+end Formalism.LFunctionChainParameters.LChain2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DimChart_trdeg_int_eq_of_ringEquiv
 -- name    : GlobalTheory.CompanionTheory.DimChart.trdeg_int_eq_of_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:00:49.881688+00:00
 -- url     : https://prove2.me/theorems/82e93487-ae66-40d0-93e6-2b979ba49788

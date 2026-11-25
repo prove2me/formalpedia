@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_leading_term_alt
 -- name    : Formalism.FourierDecayAlt.P.leading_term_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:15:51.565612+00:00
 -- url     : https://prove2.me/theorems/fae99d9d-d179-4102-bf39-3732ed7a7bf9

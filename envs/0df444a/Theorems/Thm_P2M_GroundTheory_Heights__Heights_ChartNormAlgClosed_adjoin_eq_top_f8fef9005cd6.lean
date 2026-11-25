@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartNormAlgClosed_adjoin_eq_top_f8fef9005cd6
 -- name    : P2M_GroundTheory_Heights__Heights_ChartNormAlgClosed_adjoin_eq_top_f8fef9005cd6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:16:12.508003+00:00
 -- url     : https://prove2.me/theorems/327b55d5-c6e2-547b-9403-278d56a5562e

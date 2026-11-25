@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PullBdd_castFrame_mem_GG
 -- name    : GlobalTheory.PullBdd.castFrame_mem_GG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:01:48.097452+00:00
 -- url     : https://prove2.me/theorems/c5a2d041-f989-461f-8c32-4d2c75cb7be4

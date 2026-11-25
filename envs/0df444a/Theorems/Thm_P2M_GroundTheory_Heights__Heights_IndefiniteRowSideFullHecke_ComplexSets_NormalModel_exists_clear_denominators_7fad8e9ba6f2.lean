@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalModel_exists_clear_denominators_7fad8e9ba6f2
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalModel_exists_clear_denominators_7fad8e9ba6f2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:19:55.159474+00:00
 -- url     : https://prove2.me/theorems/6df20daa-a789-4d0d-9c6c-30e0d5a3efaa

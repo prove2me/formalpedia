@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_flat_toSpecZ_specInt_9921ba1da842
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_flat_toSpecZ_specInt_9921ba1da842
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:25:56.92438+00:00
 -- url     : https://prove2.me/theorems/b0abcef8-6990-5640-8f27-2e62f54f52da

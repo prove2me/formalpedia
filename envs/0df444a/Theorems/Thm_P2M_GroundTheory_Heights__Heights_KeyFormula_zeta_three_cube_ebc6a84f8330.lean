@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_zeta_three_cube_ebc6a84f8330
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_zeta_three_cube_ebc6a84f8330
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:26:47.622174+00:00
 -- url     : https://prove2.me/theorems/44c89445-7efe-4ec9-a448-db2ce6231c39

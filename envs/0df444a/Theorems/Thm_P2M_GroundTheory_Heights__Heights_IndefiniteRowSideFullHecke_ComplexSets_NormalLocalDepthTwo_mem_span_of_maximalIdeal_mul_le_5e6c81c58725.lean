@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalLocalDepthTwo_mem_span_of_maximalIdeal_mul_le_5e6c81c58725
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalLocalDepthTwo_mem_span_of_maximalIdeal_mul_le_5e6c81c58725
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:20:20.837438+00:00
 -- url     : https://prove2.me/theorems/5d04dd09-2934-46ae-af52-27d4934478d9

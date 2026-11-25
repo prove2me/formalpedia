@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_BrouwerFixedPoint_smooth_of_changeOfVariablesDegree_1b6ab2a0e304
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_BrouwerFixedPoint_smooth_of_changeOfVariablesDegree_1b6ab2a0e304
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:07.127533+00:00
 -- url     : https://prove2.me/theorems/e9f949bf-482e-5b1d-abdb-810426c4e21d

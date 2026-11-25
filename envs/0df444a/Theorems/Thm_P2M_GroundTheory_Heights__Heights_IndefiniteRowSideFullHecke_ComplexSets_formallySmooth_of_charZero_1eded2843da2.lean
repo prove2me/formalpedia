@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_formallySmooth_of_charZero_1eded2843da2
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_formallySmooth_of_charZero_1eded2843da2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:21:13.286252+00:00
 -- url     : https://prove2.me/theorems/fa467cd9-3ce0-4808-afba-031045113f88

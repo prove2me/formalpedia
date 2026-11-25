@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_NearCount_line_cyclic
 -- name    : GlobalTheory.DegCnt.NearCount.line_cyclic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:26:24.789694+00:00
 -- url     : https://prove2.me/theorems/14a8bc3e-a942-4630-8e7d-18a94e963666

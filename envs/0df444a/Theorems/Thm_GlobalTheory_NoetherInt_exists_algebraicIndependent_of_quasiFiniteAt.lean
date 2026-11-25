@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoetherInt_exists_algebraicIndependent_of_quasiFiniteAt
 -- name    : GlobalTheory.NoetherInt.exists_algebraicIndependent_of_quasiFiniteAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:34:46.514267+00:00
 -- url     : https://prove2.me/theorems/a5c091fc-d693-42bf-9f25-24eb373f0699

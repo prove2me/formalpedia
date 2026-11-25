@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceRealPartConjugateSum_sum_re_add_conj
 -- name    : GlobalTheory.TraceRealPartConjugateSum.sum_re_add_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:54:33.177618+00:00
 -- url     : https://prove2.me/theorems/472dabfb-f435-4eae-aa81-61e5e6de7cf5

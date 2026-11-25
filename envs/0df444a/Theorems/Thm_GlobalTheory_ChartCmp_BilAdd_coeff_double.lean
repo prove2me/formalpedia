@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_BilAdd_coeff_double
 -- name    : GlobalTheory.ChartCmp.BilAdd.coeff_double
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:38:18.338895+00:00
 -- url     : https://prove2.me/theorems/94e440c1-94e4-452a-89cb-6e88913610ea

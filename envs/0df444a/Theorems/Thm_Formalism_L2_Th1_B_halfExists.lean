@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_halfExists
 -- name    : Formalism.L2.Th1.B.halfExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:49:14.776205+00:00
 -- url     : https://prove2.me/theorems/2730f1b9-cb82-48a8-96af-c270b3e1aea5

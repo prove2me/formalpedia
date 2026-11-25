@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagDomain_dmin_sign_of_definite
 -- name    : GlobalTheory.FlagDomain.dmin_sign_of_definite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:42:18.028356+00:00
 -- url     : https://prove2.me/theorems/6211d010-ca8a-4edd-99e5-331ce6e44ab4

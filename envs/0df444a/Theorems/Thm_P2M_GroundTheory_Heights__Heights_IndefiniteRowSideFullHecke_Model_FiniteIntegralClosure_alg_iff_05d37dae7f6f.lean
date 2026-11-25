@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_FiniteIntegralClosure_alg_iff_05d37dae7f6f
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_FiniteIntegralClosure_alg_iff_05d37dae7f6f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:22:48.354023+00:00
 -- url     : https://prove2.me/theorems/b4169c1e-ae0c-4194-89c2-b0aebb0fa76c

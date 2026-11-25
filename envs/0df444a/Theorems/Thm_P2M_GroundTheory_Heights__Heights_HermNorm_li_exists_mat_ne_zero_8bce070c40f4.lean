@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermNorm_li_exists_mat_ne_zero_8bce070c40f4
 -- name    : P2M_GroundTheory_Heights__Heights_HermNorm_li_exists_mat_ne_zero_8bce070c40f4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:18:19.246274+00:00
 -- url     : https://prove2.me/theorems/51eae781-19fd-4e8c-8bb9-7e4242c33088

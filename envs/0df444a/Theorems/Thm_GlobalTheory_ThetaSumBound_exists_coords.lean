@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaSumBound_exists_coords
 -- name    : GlobalTheory.ThetaSumBound.exists_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:01:30.687382+00:00
 -- url     : https://prove2.me/theorems/377beaf9-cb43-4342-84e8-b7c395a38201

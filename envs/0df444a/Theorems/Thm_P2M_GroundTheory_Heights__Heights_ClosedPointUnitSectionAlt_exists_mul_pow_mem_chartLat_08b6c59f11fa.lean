@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ClosedPointUnitSectionAlt_exists_mul_pow_mem_chartLat_08b6c59f11fa
 -- name    : P2M_GroundTheory_Heights__Heights_ClosedPointUnitSectionAlt_exists_mul_pow_mem_chartLat_08b6c59f11fa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:20:25.145454+00:00
 -- url     : https://prove2.me/theorems/7f346da4-0220-4dd0-926b-a771b28c8ddf

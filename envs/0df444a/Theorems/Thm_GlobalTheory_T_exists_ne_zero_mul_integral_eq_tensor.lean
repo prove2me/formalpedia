@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_ne_zero_mul_integral_eq_tensor
 -- name    : GlobalTheory.T.exists_ne_zero_mul_integral_eq_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:36:58.552454+00:00
 -- url     : https://prove2.me/theorems/b2081e93-e705-44d7-9aeb-daf487ee1a49

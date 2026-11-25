@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SepRing_exists_complete_local_geomDomain
 -- name    : GlobalTheory.SepRing.exists_complete_local_geomDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:06:23.298934+00:00
 -- url     : https://prove2.me/theorems/923a8a42-ca66-4d07-825f-1644dbb396ce

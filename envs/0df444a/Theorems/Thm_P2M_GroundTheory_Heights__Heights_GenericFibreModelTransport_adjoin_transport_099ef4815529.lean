@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericFibreModelTransport_adjoin_transport_099ef4815529
 -- name    : P2M_GroundTheory_Heights__Heights_GenericFibreModelTransport_adjoin_transport_099ef4815529
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:17:48.564284+00:00
 -- url     : https://prove2.me/theorems/fd6bee72-8f15-491f-a1a0-c8363a297378

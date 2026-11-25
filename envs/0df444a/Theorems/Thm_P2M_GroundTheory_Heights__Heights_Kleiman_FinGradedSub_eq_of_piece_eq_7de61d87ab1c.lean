@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_FinGradedSub_eq_of_piece_eq_7de61d87ab1c
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_FinGradedSub_eq_of_piece_eq_7de61d87ab1c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:28:00.911844+00:00
 -- url     : https://prove2.me/theorems/79958787-b03f-4406-9437-e5d41e40ca64

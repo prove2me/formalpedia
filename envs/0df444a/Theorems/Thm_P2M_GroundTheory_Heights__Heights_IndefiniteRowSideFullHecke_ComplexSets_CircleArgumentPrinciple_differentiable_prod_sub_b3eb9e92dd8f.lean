@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CircleArgumentPrinciple_differentiable_prod_sub_b3eb9e92dd8f
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CircleArgumentPrinciple_differentiable_prod_sub_b3eb9e92dd8f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:47.986973+00:00
 -- url     : https://prove2.me/theorems/86ddef97-05a0-42e2-b700-c10c31460afc

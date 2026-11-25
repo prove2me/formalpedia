@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FrameImplicitGraph_polyDeriv_apply_12bd4a73affc
 -- name    : P2M_GroundTheory_Heights__Heights_FrameImplicitGraph_polyDeriv_apply_12bd4a73affc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:12.127414+00:00
 -- url     : https://prove2.me/theorems/1b167606-57f4-4838-a2ab-9b790c797810

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HeightOfCycle_gaussNorm_eq_iSup_6f64d070639a
 -- name    : P2M_GroundTheory_Heights__Heights_HeightOfCycle_gaussNorm_eq_iSup_6f64d070639a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:19:56.497391+00:00
 -- url     : https://prove2.me/theorems/2eae1fdf-753d-4e8d-8f3f-ff11bfe04bbe

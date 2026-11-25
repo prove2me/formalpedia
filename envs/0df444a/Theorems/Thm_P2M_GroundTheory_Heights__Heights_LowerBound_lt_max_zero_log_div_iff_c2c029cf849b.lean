@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBound_lt_max_zero_log_div_iff_c2c029cf849b
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBound_lt_max_zero_log_div_iff_c2c029cf849b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:28:50.19156+00:00
 -- url     : https://prove2.me/theorems/32dd9ac8-f554-4a42-9a11-8c7efc81efe6

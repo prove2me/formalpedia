@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_residue_valuationSubring_ne_zero_iff
 -- name    : GlobalTheory.residue_valuationSubring_ne_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:55:22.757075+00:00
 -- url     : https://prove2.me/theorems/b47c0766-11c0-47ec-bd17-cc9eb24467d3

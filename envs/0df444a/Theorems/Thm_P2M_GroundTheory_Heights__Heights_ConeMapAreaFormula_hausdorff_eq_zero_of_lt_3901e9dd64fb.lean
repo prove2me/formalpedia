@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_hausdorff_eq_zero_of_lt_3901e9dd64fb
 -- name    : P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_hausdorff_eq_zero_of_lt_3901e9dd64fb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:17:10.096345+00:00
 -- url     : https://prove2.me/theorems/6e088f23-610e-546a-b751-f4024693f64d

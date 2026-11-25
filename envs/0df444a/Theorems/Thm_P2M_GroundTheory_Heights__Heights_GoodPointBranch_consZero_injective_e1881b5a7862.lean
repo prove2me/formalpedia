@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GoodPointBranch_consZero_injective_e1881b5a7862
 -- name    : P2M_GroundTheory_Heights__Heights_GoodPointBranch_consZero_injective_e1881b5a7862
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:19:04.194901+00:00
 -- url     : https://prove2.me/theorems/c7379f0b-baaa-41c9-a484-dc0183e92646

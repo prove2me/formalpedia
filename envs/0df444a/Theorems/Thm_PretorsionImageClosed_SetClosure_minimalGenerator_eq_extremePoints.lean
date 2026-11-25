@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_minimalGenerator_eq_extremePoints
 -- name    : PretorsionImageClosed.SetClosure.minimalGenerator_eq_extremePoints
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:15:29.451437+00:00
 -- url     : https://prove2.me/theorems/617603bf-c1e8-4400-b663-7874ddc39f38

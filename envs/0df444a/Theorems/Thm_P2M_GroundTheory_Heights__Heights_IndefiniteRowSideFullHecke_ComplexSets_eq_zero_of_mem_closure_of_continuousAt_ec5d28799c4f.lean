@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_eq_zero_of_mem_closure_of_continuousAt_ec5d28799c4f
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_eq_zero_of_mem_closure_of_continuousAt_ec5d28799c4f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:21:55.867647+00:00
 -- url     : https://prove2.me/theorems/8f2a6dcc-0b9f-451a-a2d0-6897d1d6d39f

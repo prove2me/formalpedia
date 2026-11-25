@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuous_leftTranslate_boundedDerivFunctional
 -- name    : GlobalTheory.T.continuous_leftTranslate_boundedDerivFunctional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:11:46.963367+00:00
 -- url     : https://prove2.me/theorems/ae284eb0-a739-411f-9769-6401a46fbfe8

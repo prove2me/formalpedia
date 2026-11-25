@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PluckerRelations_homog_add_744f9eecfdc9
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PluckerRelations_homog_add_744f9eecfdc9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:25:17.836954+00:00
 -- url     : https://prove2.me/theorems/3e821792-5dac-4342-b097-c93bd96bddb4

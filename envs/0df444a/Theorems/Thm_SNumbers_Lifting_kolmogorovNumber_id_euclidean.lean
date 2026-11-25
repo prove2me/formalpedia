@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_Lifting_kolmogorovNumber_id_euclidean
 -- name    : SNumbers.Lifting.kolmogorovNumber_id_euclidean
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:13:04.449065+00:00
 -- url     : https://prove2.me/theorems/d327bcf7-3f08-405a-9f80-cca8e34663b0

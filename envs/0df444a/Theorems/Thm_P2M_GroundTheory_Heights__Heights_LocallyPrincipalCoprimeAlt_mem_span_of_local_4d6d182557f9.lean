@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocallyPrincipalCoprimeAlt_mem_span_of_local_4d6d182557f9
 -- name    : P2M_GroundTheory_Heights__Heights_LocallyPrincipalCoprimeAlt_mem_span_of_local_4d6d182557f9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:28:02.345494+00:00
 -- url     : https://prove2.me/theorems/18e13a7d-a64e-4ec3-b2a3-f13efef9ce75

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_span_iff_finrank_option_eq
 -- name    : GlobalTheory.mem_span_iff_finrank_option_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:55:24.070173+00:00
 -- url     : https://prove2.me/theorems/da53c807-835a-4d76-b1c9-fb0c73bf105a

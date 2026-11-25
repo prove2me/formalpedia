@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Cocycles_isOpen_cocycleKer
 -- name    : GlobalTheory.CompanionTheory.Cocycles.isOpen_cocycleKer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:59:46.468819+00:00
 -- url     : https://prove2.me/theorems/451b437a-535a-5f1a-a0ad-8629c95a3749

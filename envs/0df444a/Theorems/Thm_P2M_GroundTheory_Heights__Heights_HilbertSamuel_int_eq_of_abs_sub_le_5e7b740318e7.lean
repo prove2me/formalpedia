@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_int_eq_of_abs_sub_le_5e7b740318e7
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_int_eq_of_abs_sub_le_5e7b740318e7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:02.510578+00:00
 -- url     : https://prove2.me/theorems/a60462b6-55dd-4106-9f91-7aca98fc1586

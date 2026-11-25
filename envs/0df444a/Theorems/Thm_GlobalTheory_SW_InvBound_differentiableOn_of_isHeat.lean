@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_InvBound_differentiableOn_of_isHeat
 -- name    : GlobalTheory.SW.InvBound.differentiableOn_of_isHeat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:11:28.745892+00:00
 -- url     : https://prove2.me/theorems/778932ff-0e96-5747-900c-93ef349c0365

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_primeSubfield_exists_div_aa375bf4250e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_primeSubfield_exists_div_aa375bf4250e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:26:26.815921+00:00
 -- url     : https://prove2.me/theorems/a1859f98-3709-4ad4-8ce6-7cdb560928cf

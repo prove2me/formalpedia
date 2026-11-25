@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LengthCutGlobal_length_localized_quot_233b154d609a
 -- name    : P2M_GroundTheory_Heights__Heights_LengthCutGlobal_length_localized_quot_233b154d609a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:27:48.768874+00:00
 -- url     : https://prove2.me/theorems/c52b8817-a15f-5131-9644-10112374a77a

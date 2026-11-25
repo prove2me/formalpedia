@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finite_model_ringOfIntegers
 -- name    : GlobalTheory.exists_finite_model_ringOfIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:31:47.234882+00:00
 -- url     : https://prove2.me/theorems/ecd2101f-7f2b-48cc-a90f-39fe7981223a

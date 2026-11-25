@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GoodPointBranch_tail_mem_ball_2a892ce3fe7b
 -- name    : P2M_GroundTheory_Heights__Heights_GoodPointBranch_tail_mem_ball_2a892ce3fe7b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:18:18.857571+00:00
 -- url     : https://prove2.me/theorems/f4f0c569-6f34-4380-8e27-b6e78c0584ab

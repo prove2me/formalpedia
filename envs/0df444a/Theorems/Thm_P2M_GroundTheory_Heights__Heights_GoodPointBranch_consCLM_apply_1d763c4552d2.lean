@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GoodPointBranch_consCLM_apply_1d763c4552d2
 -- name    : P2M_GroundTheory_Heights__Heights_GoodPointBranch_consCLM_apply_1d763c4552d2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:24:18.753917+00:00
 -- url     : https://prove2.me/theorems/e22d331f-ceb8-52f4-9704-cccba5b5c9fc

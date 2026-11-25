@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_lTensor_transl_sub_cobOne
 -- name    : GlobalTheory.PDivGroup.lTensor_transl_sub_cobOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:51:25.517938+00:00
 -- url     : https://prove2.me/theorems/85417650-6e8a-4f09-a642-f08abf40af58

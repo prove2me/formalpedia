@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartNormAlgClosed_chartLin_self_072b523c4f30
 -- name    : P2M_GroundTheory_Heights__Heights_ChartNormAlgClosed_chartLin_self_072b523c4f30
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:15:12.573466+00:00
 -- url     : https://prove2.me/theorems/498c7ef8-f928-42f7-8b68-e479e996e4bb

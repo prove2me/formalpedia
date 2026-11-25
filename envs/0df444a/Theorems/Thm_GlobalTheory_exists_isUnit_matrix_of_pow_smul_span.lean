@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isUnit_matrix_of_pow_smul_span
 -- name    : GlobalTheory.exists_isUnit_matrix_of_pow_smul_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:55:05.084378+00:00
 -- url     : https://prove2.me/theorems/01725206-626f-5095-82f4-4ee8307183c5

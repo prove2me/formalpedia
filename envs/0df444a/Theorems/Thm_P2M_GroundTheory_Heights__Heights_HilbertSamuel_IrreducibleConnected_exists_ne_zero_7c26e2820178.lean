@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_IrreducibleConnected_exists_ne_zero_7c26e2820178
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_IrreducibleConnected_exists_ne_zero_7c26e2820178
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:18:41.285076+00:00
 -- url     : https://prove2.me/theorems/629e897d-5a45-4830-87e7-666990a06238

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_SecCalc_sec_calc
 -- name    : GlobalTheory.Frames.SecCalc.sec_calc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:34:49.850818+00:00
 -- url     : https://prove2.me/theorems/5554b756-8c46-4f2a-bc90-613d1a85122f

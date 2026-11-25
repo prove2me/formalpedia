@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GKTensor_range_fixedEnd
 -- name    : GroundTheory.Automorphic.GKTensor.range_fixedEnd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:59:40.440852+00:00
 -- url     : https://prove2.me/theorems/b0d7f525-2306-41ff-a96a-f20ec6b2201e

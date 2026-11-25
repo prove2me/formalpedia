@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_matrixGaussSum_mul_unit
 -- name    : GlobalTheory.matrixGaussSum_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:55:13.650305+00:00
 -- url     : https://prove2.me/theorems/20af9767-8a52-4c59-9870-5667b796cad9

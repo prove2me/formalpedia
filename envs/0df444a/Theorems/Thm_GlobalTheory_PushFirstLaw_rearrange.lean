@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushFirstLaw_rearrange
 -- name    : GlobalTheory.PushFirstLaw.rearrange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:00:57.509833+00:00
 -- url     : https://prove2.me/theorems/2ecb5d5e-67f0-565d-9dde-dffb855ed290

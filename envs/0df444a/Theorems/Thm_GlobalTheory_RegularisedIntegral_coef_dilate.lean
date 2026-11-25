@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularisedIntegral_coef_dilate
 -- name    : GlobalTheory.RegularisedIntegral.coef_dilate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:47:36.506881+00:00
 -- url     : https://prove2.me/theorems/28bf71a0-5727-46d7-8e63-7934463a1ada

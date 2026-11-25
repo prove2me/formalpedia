@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolyGermPointPow_bigOIdeal_mul_le_727201fc9b70
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolyGermPointPow_bigOIdeal_mul_le_727201fc9b70
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:20:39.248136+00:00
 -- url     : https://prove2.me/theorems/446aaeb5-6e3b-40d7-a252-6ab1f782f00e

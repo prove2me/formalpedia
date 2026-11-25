@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LLcv_covolume_ideal
 -- name    : Formalism.LFunctionChainParameters.LLcv.covolume_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:28:17.342767+00:00
 -- url     : https://prove2.me/theorems/72920247-20f1-465e-af28-7f150b1e7455

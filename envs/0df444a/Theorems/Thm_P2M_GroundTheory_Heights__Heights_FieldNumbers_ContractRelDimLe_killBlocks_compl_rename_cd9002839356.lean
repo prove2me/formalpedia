@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_ContractRelDimLe_killBlocks_compl_rename_cd9002839356
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_ContractRelDimLe_killBlocks_compl_rename_cd9002839356
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:17:04.366649+00:00
 -- url     : https://prove2.me/theorems/04943f74-5924-4490-8905-7538da31b342

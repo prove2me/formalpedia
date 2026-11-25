@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_coeff_finset_prod_differentiableAt_085abbefa066
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_coeff_finset_prod_differentiableAt_085abbefa066
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:18:59.625704+00:00
 -- url     : https://prove2.me/theorems/18f67e3e-6771-589e-853c-7d5442db0009

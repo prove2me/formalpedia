@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_MixedNumberPolynomial_dPoly_mul_b634b238dade
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_MixedNumberPolynomial_dPoly_mul_b634b238dade
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:12.568331+00:00
 -- url     : https://prove2.me/theorems/3a496179-2ae4-45c7-9a8d-cebf56661ced

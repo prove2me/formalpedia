@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_finite_integralClosure_mvPolynomial_of_isSeparable_f40b322046a9
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_finite_integralClosure_mvPolynomial_of_isSeparable_f40b322046a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:17:20.633073+00:00
 -- url     : https://prove2.me/theorems/66a812be-d466-466e-a6c5-51cf0576ee98

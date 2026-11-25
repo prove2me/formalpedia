@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_fibreVec_lineCoef_72af0e9a7beb
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_fibreVec_lineCoef_72af0e9a7beb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:24:26.13822+00:00
 -- url     : https://prove2.me/theorems/b5fcf76a-bf0a-4c14-a13a-36599845e7da

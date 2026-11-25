@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_InvertibleIdealIndexAlt_card_one_eq_zero_894d9c562d28
 -- name    : P2M_GroundTheory_Heights__Heights_InvertibleIdealIndexAlt_card_one_eq_zero_894d9c562d28
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:28:04.8405+00:00
 -- url     : https://prove2.me/theorems/dbea94f9-3e1a-4e46-b706-7d0d5a4a752c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Smoothening_smoothening
 -- name    : GlobalTheory.SS.Smoothening.smoothening
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:37:28.914781+00:00
 -- url     : https://prove2.me/theorems/a1f89a68-cc62-40fc-bd8d-efa1ecd270cf

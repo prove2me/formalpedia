@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimUnif_exists_unif_of_prim
 -- name    : GlobalTheory.PrimUnif.exists_unif_of_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:54:35.445293+00:00
 -- url     : https://prove2.me/theorems/c1fb7c27-0ce2-4cf8-a207-c8a0cc0d18f6

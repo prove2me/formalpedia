@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHCombContract_cell_card_eq_one_of_degree_zero_fbc2cedc2648
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHCombContract_cell_card_eq_one_of_degree_zero_fbc2cedc2648
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:26:38.54042+00:00
 -- url     : https://prove2.me/theorems/2b7f6640-aa5d-4cfb-acee-42a77287eb56

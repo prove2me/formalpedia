@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_exists_linearIndependent_one_910a61c0c012
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_exists_linearIndependent_one_910a61c0c012
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:20:01.859492+00:00
 -- url     : https://prove2.me/theorems/01013fd3-fadb-4ac3-bee4-c2709e8a1bfd

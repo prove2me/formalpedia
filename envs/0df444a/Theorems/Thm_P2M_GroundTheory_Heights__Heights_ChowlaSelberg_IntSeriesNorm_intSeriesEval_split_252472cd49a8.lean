@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowlaSelberg_IntSeriesNorm_intSeriesEval_split_252472cd49a8
 -- name    : P2M_GroundTheory_Heights__Heights_ChowlaSelberg_IntSeriesNorm_intSeriesEval_split_252472cd49a8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:15:24.523492+00:00
 -- url     : https://prove2.me/theorems/43edaa05-2a8b-5a4c-844c-a4f2dd4d7c5e

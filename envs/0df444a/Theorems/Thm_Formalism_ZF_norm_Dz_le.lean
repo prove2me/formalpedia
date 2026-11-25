@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_norm_Dz_le
 -- name    : Formalism.ZF.norm_Dz_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:41:57.24801+00:00
 -- url     : https://prove2.me/theorems/e5545707-a69b-4325-9670-fcab7f63b92d

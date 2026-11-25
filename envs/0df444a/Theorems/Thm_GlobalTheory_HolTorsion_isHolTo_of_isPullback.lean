@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolTorsion_isHolTo_of_isPullback
 -- name    : GlobalTheory.HolTorsion.isHolTo_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:42:02.269395+00:00
 -- url     : https://prove2.me/theorems/42325469-c9d6-409e-a6eb-c8489f3fd17a

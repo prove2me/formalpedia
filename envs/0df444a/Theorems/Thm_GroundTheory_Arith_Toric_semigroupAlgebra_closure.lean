@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_semigroupAlgebra_closure
 -- name    : GroundTheory.Arith.Toric.semigroupAlgebra_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:55:12.571726+00:00
 -- url     : https://prove2.me/theorems/9238b3c3-ecf2-5811-9c2c-ea9b502e9726

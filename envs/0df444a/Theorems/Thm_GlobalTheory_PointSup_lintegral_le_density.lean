@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointSup_lintegral_le_density
 -- name    : GlobalTheory.PointSup.lintegral_le_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:02:36.549657+00:00
 -- url     : https://prove2.me/theorems/7b5da129-e71c-4254-86c5-f6a7c9f15909

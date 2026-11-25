@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SobolevRep_continuous_of_isSmoothFun
 -- name    : GlobalTheory.SobolevRep.continuous_of_isSmoothFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:55:18.099055+00:00
 -- url     : https://prove2.me/theorems/8eabc053-5548-4509-b432-6e2ea3e51858

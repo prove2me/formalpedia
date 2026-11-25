@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_GoodSub_step
 -- name    : CompanionTheory.D.Upq.Sm.GoodSub.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:42:35.631543+00:00
 -- url     : https://prove2.me/theorems/8cec2a49-bffb-50ac-bb25-06a3c1ea170f

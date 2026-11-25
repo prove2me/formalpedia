@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisSiegel_dropZ_pushZ
 -- name    : GlobalTheory.SW.EisSiegel.dropZ_pushZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:02:26.061118+00:00
 -- url     : https://prove2.me/theorems/62f6d51c-4813-44bc-abf4-4aef1b7c4af3

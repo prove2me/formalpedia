@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GramPivotProduct_castLE_succ_eq_3838f665d5b2
 -- name    : P2M_GroundTheory_Heights__Heights_GramPivotProduct_castLE_succ_eq_3838f665d5b2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:18:21.830542+00:00
 -- url     : https://prove2.me/theorems/2278c8c0-896e-4a9c-8187-a9233f4fe33c

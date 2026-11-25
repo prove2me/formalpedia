@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_eval_const_of_lineDiagonalMap_eq_zero_2be97c4d1be3
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_eval_const_of_lineDiagonalMap_eq_zero_2be97c4d1be3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:20:17.153685+00:00
 -- url     : https://prove2.me/theorems/5e530725-e1be-4ebd-bfaa-181cad0c854f

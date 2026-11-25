@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_powerSeries_eq_C_of_subst_eq_self
 -- name    : GlobalTheory.powerSeries_eq_C_of_subst_eq_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:55:52.259456+00:00
 -- url     : https://prove2.me/theorems/617006f3-f69f-44c3-83f2-3b8cb929c079

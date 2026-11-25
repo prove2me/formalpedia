@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_IPLemma_of
 -- name    : Formalism.L2.Th1.D.IPLemma_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:58.705832+00:00
 -- url     : https://prove2.me/theorems/9b44f7e7-8528-4da7-a00f-773c9e466629

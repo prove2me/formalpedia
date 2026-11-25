@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_analyticAtGerm_surjective_5cdac204dd5e
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_analyticAtGerm_surjective_5cdac204dd5e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:20:07.217522+00:00
 -- url     : https://prove2.me/theorems/806be87e-2952-49fa-9a8b-b9c4e64097cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_BranchContainsNormalPoint_proof_4acde3e9b889
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_BranchContainsNormalPoint_proof_4acde3e9b889
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:20:41.227866+00:00
 -- url     : https://prove2.me/theorems/ae4aa640-8b90-4460-a52b-72a6891dab73

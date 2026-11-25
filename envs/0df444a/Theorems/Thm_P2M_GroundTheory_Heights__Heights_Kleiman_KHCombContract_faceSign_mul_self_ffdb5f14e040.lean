@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHCombContract_faceSign_mul_self_ffdb5f14e040
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHCombContract_faceSign_mul_self_ffdb5f14e040
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:26:37.060652+00:00
 -- url     : https://prove2.me/theorems/2d974d54-544b-4f39-ade4-b7401624f48b

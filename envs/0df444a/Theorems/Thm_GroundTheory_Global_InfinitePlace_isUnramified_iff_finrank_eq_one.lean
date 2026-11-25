@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_InfinitePlace_isUnramified_iff_finrank_eq_one
 -- name    : GroundTheory.Global.InfinitePlace.isUnramified_iff_finrank_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:14:51.384854+00:00
 -- url     : https://prove2.me/theorems/74c82ace-d5c5-4610-8570-9bf371d12886

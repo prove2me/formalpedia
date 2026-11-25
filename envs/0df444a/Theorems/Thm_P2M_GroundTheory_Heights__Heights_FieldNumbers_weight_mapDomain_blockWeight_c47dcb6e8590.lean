@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_weight_mapDomain_blockWeight_c47dcb6e8590
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_weight_mapDomain_blockWeight_c47dcb6e8590
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:18:02.511149+00:00
 -- url     : https://prove2.me/theorems/e540a340-e17a-418d-ac25-d5e1b3f5f9f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_mem_of_projection_germ_injective_54b9f095253d
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_mem_of_projection_germ_injective_54b9f095253d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:21:17.635196+00:00
 -- url     : https://prove2.me/theorems/f61c3ce0-ebce-51d6-80dc-c30804ac8cb3

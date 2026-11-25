@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_delta_lift_ne
 -- name    : GlobalTheory.JR.Step.delta_lift_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:35:46.44491+00:00
 -- url     : https://prove2.me/theorems/a93e57ea-9437-4c12-8b7e-ae37c8729756

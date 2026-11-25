@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisHeat_deriv_two
 -- name    : GlobalTheory.SW.EisHeat.deriv_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:00:55.347714+00:00
 -- url     : https://prove2.me/theorems/cb0e6e60-4334-5036-b73d-9811e69885b7

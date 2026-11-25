@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CuspLeadingMinima_single_linearIndependent_7ac4c2702ca9
 -- name    : P2M_GroundTheory_Heights__Heights_CuspLeadingMinima_single_linearIndependent_7ac4c2702ca9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:16.49985+00:00
 -- url     : https://prove2.me/theorems/416f56ef-5ae0-4288-b552-e6254aeb72d8

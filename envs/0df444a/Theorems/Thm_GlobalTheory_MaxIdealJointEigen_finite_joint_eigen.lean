@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxIdealJointEigen_finite_joint_eigen
 -- name    : GlobalTheory.MaxIdealJointEigen.finite_joint_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:47:35.588031+00:00
 -- url     : https://prove2.me/theorems/38487e09-b1ee-576c-81ea-8ddad6b91ba0

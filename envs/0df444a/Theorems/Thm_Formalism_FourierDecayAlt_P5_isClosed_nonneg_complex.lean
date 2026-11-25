@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_isClosed_nonneg_complex
 -- name    : Formalism.FourierDecayAlt.P5.isClosed_nonneg_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:10:22.398409+00:00
 -- url     : https://prove2.me/theorems/89406fb9-d1b8-47be-b90d-904718de1d9a

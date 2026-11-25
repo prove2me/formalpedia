@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermSign_signature_of_model
 -- name    : GlobalTheory.HermSign.signature_of_model
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:07:42.414084+00:00
 -- url     : https://prove2.me/theorems/83af57f7-5bc0-4a16-9ec5-6b52347f8ab9

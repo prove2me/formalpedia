@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpGradient_det_conj
 -- name    : GlobalTheory.SharpGradient.det_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:55:02.077711+00:00
 -- url     : https://prove2.me/theorems/d60a746d-2657-5804-a471-a5e0f25c5f0e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Dyadic_piece_bound
 -- name    : GlobalTheory.Dyadic.piece_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:26:48.510833+00:00
 -- url     : https://prove2.me/theorems/7a1f15e1-7a44-4f2b-a2fb-284147e92c71

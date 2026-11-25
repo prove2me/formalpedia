@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_isOrth_idF
 -- name    : GlobalTheory.TwoLines.isOrth_idF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:55:18.18561+00:00
 -- url     : https://prove2.me/theorems/973d9cb0-26ff-570f-b826-8ea0aa4c1427

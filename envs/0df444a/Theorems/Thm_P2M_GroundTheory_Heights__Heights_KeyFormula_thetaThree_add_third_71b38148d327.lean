@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_thetaThree_add_third_71b38148d327
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_thetaThree_add_third_71b38148d327
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:26:40.802454+00:00
 -- url     : https://prove2.me/theorems/e80bdafe-9485-4ba2-afe4-ef3b8f996766

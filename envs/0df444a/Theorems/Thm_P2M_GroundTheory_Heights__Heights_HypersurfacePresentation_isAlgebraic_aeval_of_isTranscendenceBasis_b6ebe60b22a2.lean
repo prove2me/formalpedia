@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HypersurfacePresentation_isAlgebraic_aeval_of_isTranscendenceBasis_b6ebe60b22a2
 -- name    : P2M_GroundTheory_Heights__Heights_HypersurfacePresentation_isAlgebraic_aeval_of_isTranscendenceBasis_b6ebe60b22a2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:51.311054+00:00
 -- url     : https://prove2.me/theorems/df1c738d-f776-453a-b18b-2975e74bc99b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_iSup_span_secZ_eq_dc1f599cdd89
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_iSup_span_secZ_eq_dc1f599cdd89
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:28:09.919522+00:00
 -- url     : https://prove2.me/theorems/6f175619-b625-4b5e-aa8d-c05383b36dc4

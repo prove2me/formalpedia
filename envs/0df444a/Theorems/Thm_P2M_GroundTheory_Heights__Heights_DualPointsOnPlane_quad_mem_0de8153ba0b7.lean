@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualPointsOnPlane_quad_mem_0de8153ba0b7
 -- name    : P2M_GroundTheory_Heights__Heights_DualPointsOnPlane_quad_mem_0de8153ba0b7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:17:35.629805+00:00
 -- url     : https://prove2.me/theorems/2437ada0-3cfd-4b95-b631-7afdea896dcf

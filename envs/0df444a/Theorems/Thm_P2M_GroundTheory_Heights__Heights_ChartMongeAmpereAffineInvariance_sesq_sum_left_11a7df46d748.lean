@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMongeAmpereAffineInvariance_sesq_sum_left_11a7df46d748
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMongeAmpereAffineInvariance_sesq_sum_left_11a7df46d748
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:15:56.302171+00:00
 -- url     : https://prove2.me/theorems/5cb422e3-385b-5a0e-9dcb-337ce46701c6

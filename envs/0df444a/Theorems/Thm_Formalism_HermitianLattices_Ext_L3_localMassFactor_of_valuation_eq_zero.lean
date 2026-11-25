@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_localMassFactor_of_valuation_eq_zero
 -- name    : Formalism.HermitianLattices.Ext.L3.localMassFactor_of_valuation_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:24.629581+00:00
 -- url     : https://prove2.me/theorems/dd702e34-a098-4833-91c3-8c940a078194

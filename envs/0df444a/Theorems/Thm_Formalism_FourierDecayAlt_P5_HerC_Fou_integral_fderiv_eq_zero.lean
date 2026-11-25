@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_HerC_Fou_integral_fderiv_eq_zero
 -- name    : Formalism.FourierDecayAlt.P5.HerC.Fou.integral_fderiv_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:24:14.381671+00:00
 -- url     : https://prove2.me/theorems/d6eb8b21-3931-4dd2-b247-44cbf1220bdc

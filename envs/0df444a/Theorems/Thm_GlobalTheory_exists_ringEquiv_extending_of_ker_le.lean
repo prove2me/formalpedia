@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_ringEquiv_extending_of_ker_le
 -- name    : GlobalTheory.exists_ringEquiv_extending_of_ker_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:55:35.248869+00:00
 -- url     : https://prove2.me/theorems/b4dc4ba6-7dab-4d8d-ba62-9601bc105d4d

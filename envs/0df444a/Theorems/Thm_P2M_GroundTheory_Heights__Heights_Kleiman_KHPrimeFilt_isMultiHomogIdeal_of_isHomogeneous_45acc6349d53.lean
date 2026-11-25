@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHPrimeFilt_isMultiHomogIdeal_of_isHomogeneous_45acc6349d53
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHPrimeFilt_isMultiHomogIdeal_of_isHomogeneous_45acc6349d53
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:28:13.234601+00:00
 -- url     : https://prove2.me/theorems/9fc6c817-97fa-4d1a-b0e6-36452320315b

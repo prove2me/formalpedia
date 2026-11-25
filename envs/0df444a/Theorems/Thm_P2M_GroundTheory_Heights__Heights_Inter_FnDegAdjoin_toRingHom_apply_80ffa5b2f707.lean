@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_FnDegAdjoin_toRingHom_apply_80ffa5b2f707
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_FnDegAdjoin_toRingHom_apply_80ffa5b2f707
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:23:14.937805+00:00
 -- url     : https://prove2.me/theorems/d45ef24e-0ec4-47ad-b04d-1f2549f0b4a5

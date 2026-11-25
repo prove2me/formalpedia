@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_card_quot_span_mul_90d58191fb18
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_card_quot_span_mul_90d58191fb18
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:25:11.457833+00:00
 -- url     : https://prove2.me/theorems/cd9ebd75-ffaf-4fc7-921e-2f76c0e74019

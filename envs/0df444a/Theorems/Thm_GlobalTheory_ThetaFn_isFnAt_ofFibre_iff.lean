@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_isFnAt_ofFibre_iff
 -- name    : GlobalTheory.ThetaFn.isFnAt_ofFibre_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:06:11.183407+00:00
 -- url     : https://prove2.me/theorems/b28563b4-fef6-43bc-a904-731aa3909574

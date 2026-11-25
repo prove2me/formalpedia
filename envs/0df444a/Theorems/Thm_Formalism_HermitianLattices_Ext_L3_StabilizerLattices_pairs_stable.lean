@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_StabilizerLattices_pairs_stable
 -- name    : Formalism.HermitianLattices.Ext.L3.StabilizerLattices.pairs_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:55:26.830411+00:00
 -- url     : https://prove2.me/theorems/0f2be2d2-0748-5bda-a947-aba0c5f27843

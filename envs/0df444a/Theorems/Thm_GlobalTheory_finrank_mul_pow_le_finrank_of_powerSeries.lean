@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_mul_pow_le_finrank_of_powerSeries
 -- name    : GlobalTheory.finrank_mul_pow_le_finrank_of_powerSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:50:36.974089+00:00
 -- url     : https://prove2.me/theorems/33254993-1db6-4b2d-a045-fee11780a1e6

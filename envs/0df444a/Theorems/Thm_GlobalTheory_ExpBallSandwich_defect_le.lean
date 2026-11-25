@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpBallSandwich_defect_le
 -- name    : GlobalTheory.ExpBallSandwich.defect_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:13:05.063405+00:00
 -- url     : https://prove2.me/theorems/085f0e8c-0ec0-5943-9aa3-621e5b5e6656

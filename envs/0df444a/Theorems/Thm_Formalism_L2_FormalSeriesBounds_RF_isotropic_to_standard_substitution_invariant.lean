@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_isotropic_to_standard_substitution_invariant
 -- name    : Formalism.L2.FormalSeriesBounds.RF.isotropic_to_standard_substitution_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:01:55.331309+00:00
 -- url     : https://prove2.me/theorems/088cd11d-8668-4c3a-9665-47cb59dc71af

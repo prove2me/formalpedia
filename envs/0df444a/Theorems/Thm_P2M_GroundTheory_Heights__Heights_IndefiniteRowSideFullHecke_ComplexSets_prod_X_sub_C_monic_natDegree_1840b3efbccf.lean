@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_prod_X_sub_C_monic_natDegree_1840b3efbccf
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_prod_X_sub_C_monic_natDegree_1840b3efbccf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:21:44.788133+00:00
 -- url     : https://prove2.me/theorems/0f7886a1-baa4-4324-be60-63c808e7c7aa

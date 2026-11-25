@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FubiniStudyLeviForm_levi_sum_nonneg_cfff48a7513c
 -- name    : P2M_GroundTheory_Heights__Heights_FubiniStudyLeviForm_levi_sum_nonneg_cfff48a7513c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:18:43.075546+00:00
 -- url     : https://prove2.me/theorems/9ea0769e-245a-446a-92ad-6f3d61c4536b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_omega_baseChange_bijective
 -- name    : GlobalTheory.PDivGroup.omega_baseChange_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:02:05.221657+00:00
 -- url     : https://prove2.me/theorems/c2016a42-7216-4bf8-94dc-46ab38104802

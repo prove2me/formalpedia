@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ClosedPointUnitSectionAlt_finite_centres_5a68fbf492f8
 -- name    : P2M_GroundTheory_Heights__Heights_ClosedPointUnitSectionAlt_finite_centres_5a68fbf492f8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:36.821381+00:00
 -- url     : https://prove2.me/theorems/af265002-2451-48a2-b0fa-a0c6bfe14a94

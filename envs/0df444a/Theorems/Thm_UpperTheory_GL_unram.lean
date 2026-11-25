@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_GL_unram
 -- name    : UpperTheory.GL.unram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:05:56.481798+00:00
 -- url     : https://prove2.me/theorems/2552f558-d10f-4132-9a4b-6f9315e3fba9

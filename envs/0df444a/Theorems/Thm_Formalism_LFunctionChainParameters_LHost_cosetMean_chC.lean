@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_cosetMean_chC
 -- name    : Formalism.LFunctionChainParameters.LHost.cosetMean_chC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:49:23.002278+00:00
 -- url     : https://prove2.me/theorems/39a21f32-6341-56de-adb5-750b37f3e355

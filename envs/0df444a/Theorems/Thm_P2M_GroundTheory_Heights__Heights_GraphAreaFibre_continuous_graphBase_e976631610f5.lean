@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GraphAreaFibre_continuous_graphBase_e976631610f5
 -- name    : P2M_GroundTheory_Heights__Heights_GraphAreaFibre_continuous_graphBase_e976631610f5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:18:38.950075+00:00
 -- url     : https://prove2.me/theorems/0946374b-28c3-4bc8-baf9-c5f234d617a1

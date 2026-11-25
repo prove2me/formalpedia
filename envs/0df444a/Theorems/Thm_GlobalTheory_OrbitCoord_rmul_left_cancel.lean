@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitCoord_rmul_left_cancel
 -- name    : GlobalTheory.OrbitCoord.rmul_left_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:01:35.06462+00:00
 -- url     : https://prove2.me/theorems/b4ce53c5-d6bb-5a79-ba04-83151dfa4a1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ChangeOfVariablesDegree_hasFDerivAt_cofactorFn_a81428026681
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ChangeOfVariablesDegree_hasFDerivAt_cofactorFn_a81428026681
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:26.529969+00:00
 -- url     : https://prove2.me/theorems/aa8764b5-b30b-59d4-a9ce-068e8260ee04

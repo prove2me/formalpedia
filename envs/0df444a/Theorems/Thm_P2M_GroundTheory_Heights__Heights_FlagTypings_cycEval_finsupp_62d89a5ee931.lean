@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FlagTypings_cycEval_finsupp_62d89a5ee931
 -- name    : P2M_GroundTheory_Heights__Heights_FlagTypings_cycEval_finsupp_62d89a5ee931
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:20:33.191374+00:00
 -- url     : https://prove2.me/theorems/30ae3e44-7d88-531b-8b1b-c46c4bd5fe4f

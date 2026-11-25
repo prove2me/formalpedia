@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralRepresentation_isSymmetric_of_tendsto
 -- name    : SpectralRepresentation.isSymmetric_of_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:34:51.635575+00:00
 -- url     : https://prove2.me/theorems/76bfd981-5af9-4f0f-acd1-5117a81350e8

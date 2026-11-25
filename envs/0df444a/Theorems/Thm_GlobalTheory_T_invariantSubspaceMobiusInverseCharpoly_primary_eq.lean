@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invariantSubspaceMobiusInverseCharpoly_primary_eq
 -- name    : GlobalTheory.T.invariantSubspaceMobiusInverseCharpoly_primary_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:47:57.140018+00:00
 -- url     : https://prove2.me/theorems/93ce5bf7-180a-43cc-8c54-2aeafa7a42cd

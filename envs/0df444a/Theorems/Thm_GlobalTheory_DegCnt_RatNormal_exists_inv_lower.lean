@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_RatNormal_exists_inv_lower
 -- name    : GlobalTheory.DegCnt.RatNormal.exists_inv_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:26:15.06144+00:00
 -- url     : https://prove2.me/theorems/e892a251-2d82-41e1-bf40-e058a91a2ba2

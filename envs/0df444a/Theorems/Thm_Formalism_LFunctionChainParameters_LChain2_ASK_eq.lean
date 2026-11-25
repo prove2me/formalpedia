@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_ASK_eq
 -- name    : Formalism.LFunctionChainParameters.LChain2.ASK_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:42:55.879515+00:00
 -- url     : https://prove2.me/theorems/ddbd5069-3995-47f1-92e2-5690ba642135

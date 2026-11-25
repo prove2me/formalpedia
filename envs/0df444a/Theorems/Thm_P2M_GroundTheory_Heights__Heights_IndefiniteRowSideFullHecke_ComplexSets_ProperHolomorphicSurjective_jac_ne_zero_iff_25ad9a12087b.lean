@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ProperHolomorphicSurjective_jac_ne_zero_iff_25ad9a12087b
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ProperHolomorphicSurjective_jac_ne_zero_iff_25ad9a12087b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:20:26.238237+00:00
 -- url     : https://prove2.me/theorems/e90754af-1010-49b3-b8e3-3f2b59f834c4

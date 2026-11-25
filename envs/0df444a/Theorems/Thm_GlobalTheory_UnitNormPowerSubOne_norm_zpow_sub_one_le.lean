@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitNormPowerSubOne_norm_zpow_sub_one_le
 -- name    : GlobalTheory.UnitNormPowerSubOne.norm_zpow_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:52:21.159416+00:00
 -- url     : https://prove2.me/theorems/d5146e84-b8e7-4695-96d2-8fc61b02b242

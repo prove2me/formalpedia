@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_FiniteProjectionCluster_exists_bound_bdfa0b8c26e4
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_FiniteProjectionCluster_exists_bound_bdfa0b8c26e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:16:32.984584+00:00
 -- url     : https://prove2.me/theorems/985d4d66-a039-453c-92ee-c346d8f74d5e

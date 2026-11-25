@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperImmersionPoint_pnorm_contOn
 -- name    : GlobalTheory.ProperImmersionPoint.pnorm_contOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:04:23.40903+00:00
 -- url     : https://prove2.me/theorems/b246333e-5170-4128-a329-5195051cc7e9

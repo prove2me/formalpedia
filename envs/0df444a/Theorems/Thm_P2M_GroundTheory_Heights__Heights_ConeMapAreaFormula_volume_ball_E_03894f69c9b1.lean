@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_volume_ball_E_03894f69c9b1
 -- name    : P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_volume_ball_E_03894f69c9b1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:16:54.378353+00:00
 -- url     : https://prove2.me/theorems/06738a6c-8884-4c7c-9eb8-485b70fd0f3b

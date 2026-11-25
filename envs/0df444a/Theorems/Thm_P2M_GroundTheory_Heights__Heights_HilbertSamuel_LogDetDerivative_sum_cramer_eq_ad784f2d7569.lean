@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_LogDetDerivative_sum_cramer_eq_ad784f2d7569
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_LogDetDerivative_sum_cramer_eq_ad784f2d7569
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:18:43.021362+00:00
 -- url     : https://prove2.me/theorems/630b5eb1-e34f-5293-a32f-fc60cc6e339a

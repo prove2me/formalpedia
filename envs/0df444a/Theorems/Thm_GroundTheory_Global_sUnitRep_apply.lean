@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_sUnitRep_apply
 -- name    : GroundTheory.Global.sUnitRep_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:15:00.243744+00:00
 -- url     : https://prove2.me/theorems/419b16de-0c79-4c08-a239-0e5b7498591b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_SphericalExistsU
 -- name    : Formalism.UG.Final.SphericalExistsU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:14:36.326841+00:00
 -- url     : https://prove2.me/theorems/fd787b56-3f78-43ac-b620-c4b5ecc39773

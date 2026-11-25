@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrthNear_dmin_cpt_eq
 -- name    : GlobalTheory.OrthNear.dmin_cpt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:59:34.10203+00:00
 -- url     : https://prove2.me/theorems/92631f36-2ea7-47d8-8961-115783858ea2

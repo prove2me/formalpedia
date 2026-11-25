@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentFlagBasis_exists_indep
 -- name    : GlobalTheory.LaurentFlagBasis.exists_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:45:16.43819+00:00
 -- url     : https://prove2.me/theorems/4caad086-3c74-4359-8054-c03b7c1d74f4

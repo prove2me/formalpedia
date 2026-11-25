@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_hadamard_decomposition_4d7972bd588d
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_hadamard_decomposition_4d7972bd588d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:21:08.076875+00:00
 -- url     : https://prove2.me/theorems/250a64e1-8380-4976-ad6f-4e5977445814

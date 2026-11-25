@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gaussian_iteratedFDeriv_weighted_exp_bounded
 -- name    : GlobalTheory.T.gaussian_iteratedFDeriv_weighted_exp_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:53:54.750869+00:00
 -- url     : https://prove2.me/theorems/8decb7f0-dab2-4f00-8709-c3fc8b877350

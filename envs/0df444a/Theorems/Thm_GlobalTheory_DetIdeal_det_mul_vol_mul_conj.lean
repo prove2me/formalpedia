@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetIdeal_det_mul_vol_mul_conj
 -- name    : GlobalTheory.DetIdeal.det_mul_vol_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:49:30.244711+00:00
 -- url     : https://prove2.me/theorems/b66ac3cd-d17e-41c0-8191-c0ecff341ff3

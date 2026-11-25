@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_exists_linear_of_first_order
 -- name    : GlobalTheory.ArtinKernel.exists_linear_of_first_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:59:22.727594+00:00
 -- url     : https://prove2.me/theorems/25d6094d-6693-4e19-a305-1324844d4a20

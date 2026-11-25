@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_PrimeZariskiDense_eval_eq_zero_of_mem_map_c9c7b8d71cbd
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_PrimeZariskiDense_eval_eq_zero_of_mem_map_c9c7b8d71cbd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:19:33.096268+00:00
 -- url     : https://prove2.me/theorems/e292c378-471c-4926-8d5d-35d4af56f82f

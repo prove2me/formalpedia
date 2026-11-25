@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryZariskiDense_eq_zero_of_eval_skew
 -- name    : GlobalTheory.UnitaryZariskiDense.eq_zero_of_eval_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:46:13.973824+00:00
 -- url     : https://prove2.me/theorems/64ae5fc2-7f35-4ab8-8561-26c1b8044df4

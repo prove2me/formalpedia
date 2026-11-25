@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_BrC_norm_two
 -- name    : Formalism.L2.Th1.D.BrC.norm_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:38:32.818063+00:00
 -- url     : https://prove2.me/theorems/6030cda7-d459-4be3-89bd-df17583174a8

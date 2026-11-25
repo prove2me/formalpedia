@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_padicInt_of_mem_OL
 -- name    : GlobalTheory.exists_padicInt_of_mem_OL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:55:32.621841+00:00
 -- url     : https://prove2.me/theorems/dae669a3-43a1-49a3-86fa-55aeed8dafc1

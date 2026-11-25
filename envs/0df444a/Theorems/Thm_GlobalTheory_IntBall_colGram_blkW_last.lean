@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_colGram_blkW_last
 -- name    : GlobalTheory.IntBall.colGram_blkW_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:44:55.72991+00:00
 -- url     : https://prove2.me/theorems/ff3b2b85-d59f-537b-944f-5a1186a6556b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CompletionNormalDescent_dvd_of_dvd_completion_be13a3116679
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CompletionNormalDescent_dvd_of_dvd_completion_be13a3116679
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:19:21.730454+00:00
 -- url     : https://prove2.me/theorems/5c977caa-2d57-5e66-8b1f-913f902ef038

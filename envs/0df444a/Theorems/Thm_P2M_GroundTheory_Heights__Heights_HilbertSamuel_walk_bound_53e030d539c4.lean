@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_walk_bound_53e030d539c4
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_walk_bound_53e030d539c4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:12.76755+00:00
 -- url     : https://prove2.me/theorems/36eef61f-5fc9-4678-b24f-67ea788c60af

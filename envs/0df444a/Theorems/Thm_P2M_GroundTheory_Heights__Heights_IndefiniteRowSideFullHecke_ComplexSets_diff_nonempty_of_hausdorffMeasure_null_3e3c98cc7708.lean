@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_diff_nonempty_of_hausdorffMeasure_null_3e3c98cc7708
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_diff_nonempty_of_hausdorffMeasure_null_3e3c98cc7708
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:20:58.332821+00:00
 -- url     : https://prove2.me/theorems/41340b40-2264-4c47-9fe7-b3f05b993ad9

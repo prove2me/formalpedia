@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CurveProperClosedFinite_no_chain_two_1b7260404b30
 -- name    : P2M_GroundTheory_Heights__Heights_CurveProperClosedFinite_no_chain_two_1b7260404b30
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:41.651443+00:00
 -- url     : https://prove2.me/theorems/673317f3-f8f4-567a-be28-8bf37c3248d4

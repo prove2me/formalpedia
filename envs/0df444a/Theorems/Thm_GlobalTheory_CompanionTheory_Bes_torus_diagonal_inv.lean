@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Bes_torus_diagonal_inv
 -- name    : GlobalTheory.CompanionTheory.Bes.torus_diagonal_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:11:56.588485+00:00
 -- url     : https://prove2.me/theorems/3e286e7e-e0b7-42cd-92e1-4f7bd6c92a2b

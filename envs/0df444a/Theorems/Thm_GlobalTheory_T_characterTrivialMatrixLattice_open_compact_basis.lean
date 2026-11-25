@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_characterTrivialMatrixLattice_open_compact_basis
 -- name    : GlobalTheory.T.characterTrivialMatrixLattice_open_compact_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:27:28.640285+00:00
 -- url     : https://prove2.me/theorems/7372a1a0-d687-48d0-8377-816637ed1e68

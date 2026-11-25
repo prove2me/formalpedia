@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_genericSection_reindex
 -- name    : GlobalTheory.genericSection_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:58:27.9904+00:00
 -- url     : https://prove2.me/theorems/00025173-dfe7-4237-bcf4-d7ec12ef1d96

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Decay_coef_sing
 -- name    : GlobalTheory.SW.Decay.coef_sing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:40:27.041381+00:00
 -- url     : https://prove2.me/theorems/ed03d3d7-8719-4c64-9b63-8f4ab7eca3ee

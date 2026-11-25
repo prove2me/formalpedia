@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionSum_liftS_fieldRange
 -- name    : GlobalTheory.SectionSum.liftS_fieldRange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:55:18.241805+00:00
 -- url     : https://prove2.me/theorems/dfe394c0-ee64-4088-a47e-b37f03a16731

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonDomZero_dualWeyl_eq_bot_of_not_antitone
 -- name    : GlobalTheory.NonDomZero.dualWeyl_eq_bot_of_not_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:47:32.970859+00:00
 -- url     : https://prove2.me/theorems/0a753627-9411-5957-acec-1bcdf9364da4

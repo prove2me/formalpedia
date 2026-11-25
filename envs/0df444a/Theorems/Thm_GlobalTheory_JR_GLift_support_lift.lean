@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_GLift_support_lift
 -- name    : GlobalTheory.JR.GLift.support_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:31:57.308751+00:00
 -- url     : https://prove2.me/theorems/2550b798-2b6e-4472-9a93-4cb63d92badc

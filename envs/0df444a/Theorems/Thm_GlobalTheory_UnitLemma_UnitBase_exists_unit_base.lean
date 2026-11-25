@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_UnitBase_exists_unit_base
 -- name    : GlobalTheory.UnitLemma.UnitBase.exists_unit_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:34:35.95951+00:00
 -- url     : https://prove2.me/theorems/38212252-d0d5-4ba2-a1e5-6a468c217f7f

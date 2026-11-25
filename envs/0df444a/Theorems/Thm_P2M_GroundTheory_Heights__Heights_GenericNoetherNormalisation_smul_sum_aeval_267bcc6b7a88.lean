@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericNoetherNormalisation_smul_sum_aeval_267bcc6b7a88
 -- name    : P2M_GroundTheory_Heights__Heights_GenericNoetherNormalisation_smul_sum_aeval_267bcc6b7a88
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:18:28.196851+00:00
 -- url     : https://prove2.me/theorems/d05246b6-2c84-4aa7-bda5-df8ed527e981

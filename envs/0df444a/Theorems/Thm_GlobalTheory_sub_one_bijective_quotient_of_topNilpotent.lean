@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sub_one_bijective_quotient_of_topNilpotent
 -- name    : GlobalTheory.sub_one_bijective_quotient_of_topNilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:55:22.675677+00:00
 -- url     : https://prove2.me/theorems/789cf206-0236-5645-91e9-b6db1616d13e

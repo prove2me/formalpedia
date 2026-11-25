@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_eval_pullback_eq_33c6b9794aef
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_eval_pullback_eq_33c6b9794aef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:21:42.143409+00:00
 -- url     : https://prove2.me/theorems/3388aaef-1a12-4bae-ae4b-ea0903e73fde

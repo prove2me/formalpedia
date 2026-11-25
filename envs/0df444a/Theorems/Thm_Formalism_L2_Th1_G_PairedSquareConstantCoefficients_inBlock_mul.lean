@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_PairedSquareConstantCoefficients_inBlock_mul
 -- name    : Formalism.L2.Th1.G.PairedSquareConstantCoefficients.inBlock_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:02:18.641449+00:00
 -- url     : https://prove2.me/theorems/ec291448-eb3d-5ed9-bc47-16c99c5393ef

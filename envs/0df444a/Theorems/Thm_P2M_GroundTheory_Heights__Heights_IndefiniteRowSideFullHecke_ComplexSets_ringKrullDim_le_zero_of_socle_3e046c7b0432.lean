@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ringKrullDim_le_zero_of_socle_3e046c7b0432
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ringKrullDim_le_zero_of_socle_3e046c7b0432
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:21:41.835681+00:00
 -- url     : https://prove2.me/theorems/03b7eb3a-df5d-5e73-ba43-6edefeac15f7

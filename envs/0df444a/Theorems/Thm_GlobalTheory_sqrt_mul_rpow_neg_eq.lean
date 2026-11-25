@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sqrt_mul_rpow_neg_eq
 -- name    : GlobalTheory.sqrt_mul_rpow_neg_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:55:18.53087+00:00
 -- url     : https://prove2.me/theorems/75e0cc22-601a-59b1-b2e3-9475b2ef0337

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_map_maximalIdeal_localization_eq_110903f3d502
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_map_maximalIdeal_localization_eq_110903f3d502
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:21:25.864811+00:00
 -- url     : https://prove2.me/theorems/e7f3bbb8-3193-4340-b73e-44f8540b23a9

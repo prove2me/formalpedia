@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_coeff_X_sub_C_differentiableAt_26a00f44276f
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_coeff_X_sub_C_differentiableAt_26a00f44276f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:12.194514+00:00
 -- url     : https://prove2.me/theorems/cb31f23c-e260-4ff4-b508-e1b44b8122d5

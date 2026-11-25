@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HypersurfacePresentation_exists_mul_eq_aeval_af68aaf6f222
 -- name    : P2M_GroundTheory_Heights__Heights_HypersurfacePresentation_exists_mul_eq_aeval_af68aaf6f222
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:22.95379+00:00
 -- url     : https://prove2.me/theorems/27d17544-c7bc-5e7e-a513-5f0879bd42a3

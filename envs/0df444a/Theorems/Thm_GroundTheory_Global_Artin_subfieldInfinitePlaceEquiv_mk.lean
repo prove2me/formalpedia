@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_subfieldInfinitePlaceEquiv_mk
 -- name    : GroundTheory.Global.Artin.subfieldInfinitePlaceEquiv_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:56:16.257708+00:00
 -- url     : https://prove2.me/theorems/7a2dbfd3-8503-5692-9857-73ab3f151acd

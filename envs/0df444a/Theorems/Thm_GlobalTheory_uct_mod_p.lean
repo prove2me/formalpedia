@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_uct_mod_p
 -- name    : GlobalTheory.uct_mod_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:25:02.094933+00:00
 -- url     : https://prove2.me/theorems/192ab9a8-9ea3-47a3-b15b-c26ca78fe393

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MassOrth_coe_starInt
 -- name    : GlobalTheory.MassOrth.coe_starInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:16:05.046505+00:00
 -- url     : https://prove2.me/theorems/5c30dd1d-ff85-47de-88e0-f3488370da56

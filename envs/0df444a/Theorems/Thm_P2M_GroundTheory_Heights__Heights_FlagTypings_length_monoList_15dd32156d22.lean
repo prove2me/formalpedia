@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FlagTypings_length_monoList_15dd32156d22
 -- name    : P2M_GroundTheory_Heights__Heights_FlagTypings_length_monoList_15dd32156d22
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:18:04.341574+00:00
 -- url     : https://prove2.me/theorems/5a111471-002f-4edd-b397-2f90479cf316

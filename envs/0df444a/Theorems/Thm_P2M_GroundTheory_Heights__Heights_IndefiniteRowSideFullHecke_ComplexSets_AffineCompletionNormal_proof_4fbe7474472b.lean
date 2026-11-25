@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_AffineCompletionNormal_proof_4fbe7474472b
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_AffineCompletionNormal_proof_4fbe7474472b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:20:24.039153+00:00
 -- url     : https://prove2.me/theorems/cb1dc2c5-3713-40a1-8d52-dbf300f10b5d

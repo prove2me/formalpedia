@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ProperSheetedFibreEsymm_analyticOnNhd_of_differentiableOn_617276966518
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ProperSheetedFibreEsymm_analyticOnNhd_of_differentiableOn_617276966518
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:20:08.818822+00:00
 -- url     : https://prove2.me/theorems/df1c6229-9ac5-4b7c-a8c4-9d87e6707967

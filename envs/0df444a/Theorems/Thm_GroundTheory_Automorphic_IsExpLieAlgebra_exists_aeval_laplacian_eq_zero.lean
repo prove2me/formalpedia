@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_exists_aeval_laplacian_eq_zero
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.exists_aeval_laplacian_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:15:56.816958+00:00
 -- url     : https://prove2.me/theorems/76eb072f-34e0-4a60-a384-c46cd528871f

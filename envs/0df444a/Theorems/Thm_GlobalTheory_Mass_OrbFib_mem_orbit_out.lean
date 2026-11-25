@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_OrbFib_mem_orbit_out
 -- name    : GlobalTheory.Mass.OrbFib.mem_orbit_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:20:32.234867+00:00
 -- url     : https://prove2.me/theorems/f50fe3a5-1dfc-42b2-bc79-09ee7b2eae7e

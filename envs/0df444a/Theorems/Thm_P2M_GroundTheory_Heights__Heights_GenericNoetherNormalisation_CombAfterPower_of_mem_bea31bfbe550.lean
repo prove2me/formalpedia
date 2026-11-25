@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericNoetherNormalisation_CombAfterPower_of_mem_bea31bfbe550
 -- name    : P2M_GroundTheory_Heights__Heights_GenericNoetherNormalisation_CombAfterPower_of_mem_bea31bfbe550
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:18:15.773808+00:00
 -- url     : https://prove2.me/theorems/f2af9af2-e7ee-44b9-88b9-c218161aa434

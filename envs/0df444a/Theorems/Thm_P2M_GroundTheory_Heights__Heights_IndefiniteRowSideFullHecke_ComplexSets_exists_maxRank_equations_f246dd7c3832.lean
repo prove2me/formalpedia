@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_exists_maxRank_equations_f246dd7c3832
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_exists_maxRank_equations_f246dd7c3832
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:20:39.344924+00:00
 -- url     : https://prove2.me/theorems/d575f322-7f4a-5b71-90ba-024b7db9cbad

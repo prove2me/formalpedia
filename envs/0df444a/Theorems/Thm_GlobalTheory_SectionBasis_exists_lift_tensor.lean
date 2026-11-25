@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionBasis_exists_lift_tensor
 -- name    : GlobalTheory.SectionBasis.exists_lift_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:00:12.14466+00:00
 -- url     : https://prove2.me/theorems/56df90b4-6989-5159-b652-b45af3750ab0

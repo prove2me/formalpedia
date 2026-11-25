@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_FormalSeriesBounds_MapFB_map_expS__5faa65c8ae0f
 -- name    : P2M_Formalism_L2_FormalSeriesBounds_MapFB_map_expS__5faa65c8ae0f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:16:34.430495+00:00
 -- url     : https://prove2.me/theorems/e3d657a5-7554-41b5-a08a-d13ff4e735c0

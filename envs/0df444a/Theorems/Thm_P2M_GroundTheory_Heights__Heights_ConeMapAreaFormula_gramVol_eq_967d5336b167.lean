@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_gramVol_eq_967d5336b167
 -- name    : P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_gramVol_eq_967d5336b167
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:17:03.932391+00:00
 -- url     : https://prove2.me/theorems/54250e88-903c-5abe-9269-1ccd7fdab9ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_minpoly_dvd_of_aeval_one_tmul
 -- name    : GlobalTheory.map_minpoly_dvd_of_aeval_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:56:38.868203+00:00
 -- url     : https://prove2.me/theorems/5be03267-f1dc-4a26-b603-8fab02a20eb9

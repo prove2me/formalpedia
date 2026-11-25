@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_polar_mem_UJ
 -- name    : CompanionTheory.D.Upq.polar_mem_UJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:44:33.979098+00:00
 -- url     : https://prove2.me/theorems/17591f7c-3236-47a1-8096-398b9b4ef4ac

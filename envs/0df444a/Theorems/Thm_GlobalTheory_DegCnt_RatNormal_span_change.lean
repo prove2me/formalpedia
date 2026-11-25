@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_RatNormal_span_change
 -- name    : GlobalTheory.DegCnt.RatNormal.span_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:26:55.626632+00:00
 -- url     : https://prove2.me/theorems/ccfd2756-13ed-45a1-82b4-c8479386eeae

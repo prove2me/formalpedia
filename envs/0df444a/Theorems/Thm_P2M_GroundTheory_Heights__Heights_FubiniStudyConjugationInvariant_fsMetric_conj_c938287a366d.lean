@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FubiniStudyConjugationInvariant_fsMetric_conj_c938287a366d
 -- name    : P2M_GroundTheory_Heights__Heights_FubiniStudyConjugationInvariant_fsMetric_conj_c938287a366d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:17:19.814869+00:00
 -- url     : https://prove2.me/theorems/1f58ebff-0fd9-58ae-87a3-23c0b5fdce1e

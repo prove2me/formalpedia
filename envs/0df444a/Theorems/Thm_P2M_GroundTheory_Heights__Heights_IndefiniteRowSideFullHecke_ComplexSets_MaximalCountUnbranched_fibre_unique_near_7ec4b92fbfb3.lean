@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_MaximalCountUnbranched_fibre_unique_near_7ec4b92fbfb3
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_MaximalCountUnbranched_fibre_unique_near_7ec4b92fbfb3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:20:52.196258+00:00
 -- url     : https://prove2.me/theorems/52742fa4-1fb5-4959-a6f6-abe94b654fc0

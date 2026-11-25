@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DetPowPairing_coeff_pderiv__dbf7971f6bc0
 -- name    : P2M_GlobalTheory_DetPowPairing_coeff_pderiv__dbf7971f6bc0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:15:16.177739+00:00
 -- url     : https://prove2.me/theorems/4b39a769-a149-4302-8881-81b1f1510844

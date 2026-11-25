@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_resOne_funs
 -- name    : GlobalTheory.PDivGroup.resOne_funs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:52:38.778853+00:00
 -- url     : https://prove2.me/theorems/0167a63b-1026-4d57-ac5e-7aa82f94dc42

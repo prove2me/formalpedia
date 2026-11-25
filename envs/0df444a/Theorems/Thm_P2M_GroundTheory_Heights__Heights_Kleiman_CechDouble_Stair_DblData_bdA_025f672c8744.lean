@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CechDouble_Stair_DblData_bdA_025f672c8744
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_CechDouble_Stair_DblData_bdA_025f672c8744
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:27:05.474438+00:00
 -- url     : https://prove2.me/theorems/1600b978-275e-45d0-89ff-4f83c8a9b7bb

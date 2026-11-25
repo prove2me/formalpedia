@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameUnits_val_eq_one_of_corr
 -- name    : GlobalTheory.FrameUnits.val_eq_one_of_corr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:39:19.698805+00:00
 -- url     : https://prove2.me/theorems/ddfb9b2e-b96a-4ff2-949b-5d099748b426

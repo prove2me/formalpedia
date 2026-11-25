@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaAmple_relAmple_thetaBundle
 -- name    : GlobalTheory.ThetaAmple.relAmple_thetaBundle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:05:51.0931+00:00
 -- url     : https://prove2.me/theorems/76009a87-a56c-4561-a7d2-98b44219e376

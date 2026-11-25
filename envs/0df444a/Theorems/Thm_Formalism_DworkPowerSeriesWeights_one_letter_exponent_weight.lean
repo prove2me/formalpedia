@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_one_letter_exponent_weight
 -- name    : Formalism.DworkPowerSeriesWeights.one_letter_exponent_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:59:56.044986+00:00
 -- url     : https://prove2.me/theorems/3315b302-f145-4abf-8f55-62fd52401b37

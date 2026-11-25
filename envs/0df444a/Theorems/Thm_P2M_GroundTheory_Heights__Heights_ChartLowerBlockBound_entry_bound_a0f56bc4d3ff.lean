@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartLowerBlockBound_entry_bound_a0f56bc4d3ff
 -- name    : P2M_GroundTheory_Heights__Heights_ChartLowerBlockBound_entry_bound_a0f56bc4d3ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:16:19.338888+00:00
 -- url     : https://prove2.me/theorems/e4234139-0eaf-499d-a559-57fbc24e9382

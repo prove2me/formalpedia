@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_exists_iso_of_sabMap_id
 -- name    : GlobalTheory.ChartCmp.exists_iso_of_sabMap_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:21:45.799835+00:00
 -- url     : https://prove2.me/theorems/f060c2ff-ba4f-5f80-84b9-2c5eb8cd32f7

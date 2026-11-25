@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_val_monoidHom_units
 -- name    : GlobalTheory.isIntegral_val_monoidHom_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:56:53.527804+00:00
 -- url     : https://prove2.me/theorems/1994a55e-0e10-41f5-b444-b23b02fc3b0a

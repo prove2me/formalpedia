@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_genericSection_quotient
 -- name    : GlobalTheory.genericSection_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:56:12.93701+00:00
 -- url     : https://prove2.me/theorems/5a13c3be-720a-5978-b799-25ca3de736a2

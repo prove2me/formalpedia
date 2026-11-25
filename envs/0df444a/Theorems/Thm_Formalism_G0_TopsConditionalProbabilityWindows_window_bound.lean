@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_TopsConditionalProbabilityWindows_window_bound
 -- name    : Formalism.G0.TopsConditionalProbabilityWindows.window_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:08:01.777338+00:00
 -- url     : https://prove2.me/theorems/86072c29-fd43-4e0f-b800-179d00708e56

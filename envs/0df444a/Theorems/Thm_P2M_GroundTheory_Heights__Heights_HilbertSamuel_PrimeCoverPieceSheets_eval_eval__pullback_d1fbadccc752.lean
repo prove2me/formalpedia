@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_PrimeCoverPieceSheets_eval_eval__pullback_d1fbadccc752
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_PrimeCoverPieceSheets_eval_eval__pullback_d1fbadccc752
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:19:22.627447+00:00
 -- url     : https://prove2.me/theorems/96390bb0-b94b-483b-9018-119833511194

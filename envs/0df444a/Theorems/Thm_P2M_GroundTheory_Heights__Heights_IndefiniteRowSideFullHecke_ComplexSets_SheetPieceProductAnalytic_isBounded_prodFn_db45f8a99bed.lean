@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_SheetPieceProductAnalytic_isBounded_prodFn_db45f8a99bed
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_SheetPieceProductAnalytic_isBounded_prodFn_db45f8a99bed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:20:25.268751+00:00
 -- url     : https://prove2.me/theorems/31993032-d8a7-5df4-b5e0-3c52b173bb10

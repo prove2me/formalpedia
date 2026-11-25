@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_exists_apOp_add_lower_sum
 -- name    : GlobalTheory.HCA.exists_apOp_add_lower_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:11:59.928776+00:00
 -- url     : https://prove2.me/theorems/1807d353-68d7-47f9-8479-c3f7931254b0

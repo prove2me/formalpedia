@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_matrix_exists_common_eigenvector_mem
 -- name    : GlobalTheory.matrix_exists_common_eigenvector_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:55:29.473183+00:00
 -- url     : https://prove2.me/theorems/c2073786-e85e-4eaf-9140-54834f3da893

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutBP_JmuHC_numHC_addI_le
 -- name    : Formalism.FourierDecayAlt.P.CutBP.JmuHC.numHC_addI_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:32:20.799129+00:00
 -- url     : https://prove2.me/theorems/11a9950b-fa04-403c-97a2-47548c457e88

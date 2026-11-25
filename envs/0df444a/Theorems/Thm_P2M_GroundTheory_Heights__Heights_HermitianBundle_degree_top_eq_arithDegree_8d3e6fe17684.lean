@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermitianBundle_degree_top_eq_arithDegree_8d3e6fe17684
 -- name    : P2M_GroundTheory_Heights__Heights_HermitianBundle_degree_top_eq_arithDegree_8d3e6fe17684
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:18:19.036919+00:00
 -- url     : https://prove2.me/theorems/40fc9ef9-8c68-4da3-ae06-73c8058a8c4d

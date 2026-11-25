@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WachLettersCompare_letE_mul_self
 -- name    : GlobalTheory.WachLettersCompare.letE_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:10:24.213276+00:00
 -- url     : https://prove2.me/theorems/0f09152d-4780-4b1e-b18a-19fecebd05a4

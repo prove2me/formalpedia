@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_pt_split
 -- name    : Formalism.FourierDecayAlt.P.PBD.pt_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:10:10.276998+00:00
 -- url     : https://prove2.me/theorems/1a9b5474-5103-49de-bbbf-44e91e77a3ca

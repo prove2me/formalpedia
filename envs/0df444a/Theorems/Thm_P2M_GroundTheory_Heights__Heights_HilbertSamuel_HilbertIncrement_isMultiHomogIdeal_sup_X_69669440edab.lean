@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_HilbertIncrement_isMultiHomogIdeal_sup_X_69669440edab
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_HilbertIncrement_isMultiHomogIdeal_sup_X_69669440edab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:19:24.685249+00:00
 -- url     : https://prove2.me/theorems/67fc7731-8bba-43b6-942c-274621b88c78

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_KernelCokernelKilling_alt_sum_odd
 -- name    : ReciprocityTheory.Coh.KernelCokernelKilling.alt_sum_odd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:42:50.871623+00:00
 -- url     : https://prove2.me/theorems/baeeae4f-ec31-4d3d-8343-e9a19c24dd90

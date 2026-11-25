@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_KGroup_gN_biinv
 -- name    : GlobalTheory.HCXi.KGroup.gN_biinv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:09:56.954915+00:00
 -- url     : https://prove2.me/theorems/a9f41b3f-dd68-46b4-ba5c-2f6afb866fb4

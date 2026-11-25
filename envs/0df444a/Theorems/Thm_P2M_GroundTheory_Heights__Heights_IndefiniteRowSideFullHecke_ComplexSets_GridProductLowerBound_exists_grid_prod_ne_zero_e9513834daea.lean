@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_GridProductLowerBound_exists_grid_prod_ne_zero_e9513834daea
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_GridProductLowerBound_exists_grid_prod_ne_zero_e9513834daea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:54.339505+00:00
 -- url     : https://prove2.me/theorems/d736ccc5-3108-4a7d-8a88-6b6b33cb3362

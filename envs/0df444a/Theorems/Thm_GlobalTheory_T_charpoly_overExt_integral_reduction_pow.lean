@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_charpoly_overExt_integral_reduction_pow
 -- name    : GlobalTheory.T.charpoly_overExt_integral_reduction_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:47:39.194371+00:00
 -- url     : https://prove2.me/theorems/d1effeec-b394-42ff-b0fd-544ac88bb2e1

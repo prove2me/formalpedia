@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionSum_exists_ae_cons
 -- name    : GlobalTheory.SectionSum.exists_ae_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:01:18.119921+00:00
 -- url     : https://prove2.me/theorems/ca7fbfbb-226f-4602-9ea1-971754de4d7a

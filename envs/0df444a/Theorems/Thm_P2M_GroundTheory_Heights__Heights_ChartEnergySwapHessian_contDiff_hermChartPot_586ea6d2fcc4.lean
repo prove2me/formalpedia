@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartEnergySwapHessian_contDiff_hermChartPot_586ea6d2fcc4
 -- name    : P2M_GroundTheory_Heights__Heights_ChartEnergySwapHessian_contDiff_hermChartPot_586ea6d2fcc4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:20:11.119273+00:00
 -- url     : https://prove2.me/theorems/9601891c-436d-4b17-beb2-9c4d60e4c5e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeSlice_form_eq
 -- name    : GlobalTheory.HCXi.ConeSlice.form_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:27:32.614867+00:00
 -- url     : https://prove2.me/theorems/9d6a0283-1406-4b5e-97d1-891b5be9c848

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_GramPos_sq_half
 -- name    : GlobalTheory.HCXi.GramPos.sq_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:55:51.635022+00:00
 -- url     : https://prove2.me/theorems/e04b322f-24ed-4f07-b23c-1588ac9b8577

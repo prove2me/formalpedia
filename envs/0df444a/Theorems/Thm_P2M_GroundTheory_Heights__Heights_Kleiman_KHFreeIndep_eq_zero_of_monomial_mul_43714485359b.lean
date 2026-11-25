@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHFreeIndep_eq_zero_of_monomial_mul_43714485359b
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHFreeIndep_eq_zero_of_monomial_mul_43714485359b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:26:41.482562+00:00
 -- url     : https://prove2.me/theorems/8db0b98b-23be-4e32-ab6c-cd58822c1b5c

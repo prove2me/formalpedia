@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhat_fixed_near_one_siegelParabolic
 -- name    : GlobalTheory.T.schwartzBruhat_fixed_near_one_siegelParabolic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:34:57.029803+00:00
 -- url     : https://prove2.me/theorems/1cae02d5-c229-4efa-ad47-e1b6f34e7c76

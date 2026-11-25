@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermitianFormComparison_re_quad_ge_029b28a6484c
 -- name    : P2M_GroundTheory_Heights__Heights_HermitianFormComparison_re_quad_ge_029b28a6484c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:18:11.494792+00:00
 -- url     : https://prove2.me/theorems/97bd5e8f-4602-4b5a-87ee-c07c77b6985b

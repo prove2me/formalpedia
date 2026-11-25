@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_tailL_apply_e006b4191384
 -- name    : P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_tailL_apply_e006b4191384
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:17:28.505345+00:00
 -- url     : https://prove2.me/theorems/9c5ffabc-aa0f-4bd1-9acd-9bab5c497a6b

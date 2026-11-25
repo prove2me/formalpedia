@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_EulerSES_coh_mk_eq_904b9ec6a130
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_EulerSES_coh_mk_eq_904b9ec6a130
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:28:02.179704+00:00
 -- url     : https://prove2.me/theorems/d140c9d9-c8bf-4b4d-9c03-64cde3033cb9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_muMax_incl
 -- name    : Formalism.LFunctionChainParameters.LChain2.muMax_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:50:40.73246+00:00
 -- url     : https://prove2.me/theorems/5198e0d4-208f-4837-9c7d-49a831571095

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_cosetIntegral__99481b71f059
 -- name    : P2M_GlobalTheory_T_cosetIntegral__99481b71f059
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:09:31.950003+00:00
 -- url     : https://prove2.me/theorems/244ddad2-ae1b-4ac8-894c-58d675952852

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceExt_exists_approx_base
 -- name    : GlobalTheory.PlaceExt.exists_approx_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:00:04.988396+00:00
 -- url     : https://prove2.me/theorems/d6a88b2b-a5d6-5290-be3d-6f20e7093346

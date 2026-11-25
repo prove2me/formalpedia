@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_measurePreserving_sphereRotation
 -- name    : GlobalTheory.measurePreserving_sphereRotation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:55:21.48044+00:00
 -- url     : https://prove2.me/theorems/baae14d3-10d3-45a9-b7d0-cdd1cd49cb19

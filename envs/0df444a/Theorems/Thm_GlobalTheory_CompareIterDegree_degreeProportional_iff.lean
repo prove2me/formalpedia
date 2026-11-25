@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_degreeProportional_iff
 -- name    : GlobalTheory.CompareIterDegree.degreeProportional_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:59:15.706582+00:00
 -- url     : https://prove2.me/theorems/cf83ac88-9154-5643-a34d-57feb98684f0

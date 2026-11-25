@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_not_countable_witnessSet
 -- name    : SZ.not_countable_witnessSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:23:04.092978+00:00
 -- url     : https://prove2.me/theorems/9321a577-0417-57fa-a64a-d7ba74a3d4a5

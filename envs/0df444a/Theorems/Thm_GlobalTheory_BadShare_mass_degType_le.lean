@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_mass_degType_le
 -- name    : GlobalTheory.BadShare.mass_degType_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:12:25.603675+00:00
 -- url     : https://prove2.me/theorems/6569d992-f3dd-451c-afc2-cfbb4d5f81d1

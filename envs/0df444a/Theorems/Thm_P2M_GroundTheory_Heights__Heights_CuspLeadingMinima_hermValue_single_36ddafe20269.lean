@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CuspLeadingMinima_hermValue_single_36ddafe20269
 -- name    : P2M_GroundTheory_Heights__Heights_CuspLeadingMinima_hermValue_single_36ddafe20269
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:39.300083+00:00
 -- url     : https://prove2.me/theorems/bd85a965-2787-43b5-bcc2-0e701a44a38f

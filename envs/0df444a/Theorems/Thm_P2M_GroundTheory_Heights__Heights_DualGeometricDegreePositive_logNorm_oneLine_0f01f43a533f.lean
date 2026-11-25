@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualGeometricDegreePositive_logNorm_oneLine_0f01f43a533f
 -- name    : P2M_GroundTheory_Heights__Heights_DualGeometricDegreePositive_logNorm_oneLine_0f01f43a533f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:17:17.918914+00:00
 -- url     : https://prove2.me/theorems/76add0fa-f6bb-47b5-b6ba-44513a06e86f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormReduced_proof_of_prime_separate_2a74ccfe0360
 -- name    : P2M_GroundTheory_Heights__Heights_ChowFormReduced_proof_of_prime_separate_2a74ccfe0360
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:15:57.486126+00:00
 -- url     : https://prove2.me/theorems/9a11e39f-9f47-571d-a078-e024e0fa0457

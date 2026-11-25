@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_injective_of_isIntegral_57e3e3cc9dbd
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_injective_of_isIntegral_57e3e3cc9dbd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:20.272801+00:00
 -- url     : https://prove2.me/theorems/81980083-fecb-4c11-977e-7c8cd43f8c57

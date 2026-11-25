@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_ReflChar0_exists_prod_mulVec_eq
 -- name    : GlobalTheory.UTrans.ReflChar0.exists_prod_mulVec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:30:13.386648+00:00
 -- url     : https://prove2.me/theorems/15acf19c-1490-4579-b709-af2e8ae12ff4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_iteratedDeriv_expG_line_eq_foldr_rightDeriv
 -- name    : GlobalTheory.T.iteratedDeriv_expG_line_eq_foldr_rightDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:11:47.851425+00:00
 -- url     : https://prove2.me/theorems/1310ee73-33e2-4c24-83ee-746e21137c24

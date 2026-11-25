@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_map_eq_of_measurePreserving_coordinates_3ae251505cbd
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_map_eq_of_measurePreserving_coordinates_3ae251505cbd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:18:00.632132+00:00
 -- url     : https://prove2.me/theorems/19156f11-f9aa-4477-86d4-aee90c914a59

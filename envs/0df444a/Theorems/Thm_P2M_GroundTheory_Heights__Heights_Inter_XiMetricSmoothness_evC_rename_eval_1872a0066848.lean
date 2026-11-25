@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_XiMetricSmoothness_evC_rename_eval_1872a0066848
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_XiMetricSmoothness_evC_rename_eval_1872a0066848
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:24:55.921067+00:00
 -- url     : https://prove2.me/theorems/bc9e7727-b710-4b96-b221-1b9eeda5ee16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_InvBound_detIm_nonneg
 -- name    : GlobalTheory.SW.InvBound.detIm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:32:41.643799+00:00
 -- url     : https://prove2.me/theorems/f6fc6183-72a3-5b4f-9c11-ab58e246fcf8

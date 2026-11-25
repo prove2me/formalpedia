@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RelAlgClosureFinite_linearIndependent_adjoin_bb5beed916b1
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RelAlgClosureFinite_linearIndependent_adjoin_bb5beed916b1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:22:34.095704+00:00
 -- url     : https://prove2.me/theorems/52aca611-bb9b-4345-8368-332ea15febcc

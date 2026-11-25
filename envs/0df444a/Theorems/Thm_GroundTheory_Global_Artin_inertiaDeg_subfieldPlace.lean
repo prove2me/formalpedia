@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_inertiaDeg_subfieldPlace
 -- name    : GroundTheory.Global.Artin.inertiaDeg_subfieldPlace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:31:01.447731+00:00
 -- url     : https://prove2.me/theorems/b32ca4e0-9c63-4fa4-82e3-8191e7d546e2

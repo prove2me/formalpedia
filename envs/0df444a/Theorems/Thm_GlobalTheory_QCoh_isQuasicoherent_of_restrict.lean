@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isQuasicoherent_of_restrict
 -- name    : GlobalTheory.QCoh.isQuasicoherent_of_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:17:33.83562+00:00
 -- url     : https://prove2.me/theorems/4e8e655e-3513-4949-98a8-a1acce4aeac2

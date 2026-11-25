@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartLowerBlockBound_period_apply_of_le_d76b460d7d89
 -- name    : P2M_GroundTheory_Heights__Heights_ChartLowerBlockBound_period_apply_of_le_d76b460d7d89
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:16:01.522992+00:00
 -- url     : https://prove2.me/theorems/2f0af139-dddc-4f36-a2fb-c17d82a07814

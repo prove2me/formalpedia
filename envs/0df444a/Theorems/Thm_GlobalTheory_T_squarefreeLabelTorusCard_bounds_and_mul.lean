@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_squarefreeLabelTorusCard_bounds_and_mul
 -- name    : GlobalTheory.T.squarefreeLabelTorusCard_bounds_and_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:52:47.148533+00:00
 -- url     : https://prove2.me/theorems/298d7eb3-c07d-481b-a1c0-b671feadcf14

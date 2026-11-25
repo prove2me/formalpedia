@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_nodeOf_mem_grid_or_grid1
 -- name    : Formalism.FourierDecayAlt.P.PBD.nodeOf_mem_grid_or_grid1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:05:32.888479+00:00
 -- url     : https://prove2.me/theorems/935488f1-f9cf-4cd6-a734-0734077219ae

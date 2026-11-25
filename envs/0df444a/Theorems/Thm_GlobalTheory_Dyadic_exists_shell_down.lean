@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Dyadic_exists_shell_down
 -- name    : GlobalTheory.Dyadic.exists_shell_down
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:27:08.920738+00:00
 -- url     : https://prove2.me/theorems/fa3caa5a-fbd8-4c13-a20b-d69c2216fd70

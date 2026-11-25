@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GrassmannianRootBound_eval_grassPolyCoord_a7272b63b5bb
 -- name    : P2M_GroundTheory_Heights__Heights_GrassmannianRootBound_eval_grassPolyCoord_a7272b63b5bb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:01.038881+00:00
 -- url     : https://prove2.me/theorems/877618b2-83c2-40b5-971f-343fe62e23bf

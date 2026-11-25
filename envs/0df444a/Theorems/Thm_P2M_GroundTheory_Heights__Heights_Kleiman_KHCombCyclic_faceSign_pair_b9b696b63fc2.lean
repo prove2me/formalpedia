@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHCombCyclic_faceSign_pair_b9b696b63fc2
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHCombCyclic_faceSign_pair_b9b696b63fc2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:27:31.363272+00:00
 -- url     : https://prove2.me/theorems/4b16a2ee-79f5-4d57-8dad-3309c1b850a8

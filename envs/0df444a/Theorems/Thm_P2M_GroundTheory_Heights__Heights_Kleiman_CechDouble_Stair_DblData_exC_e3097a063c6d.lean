@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CechDouble_Stair_DblData_exC_e3097a063c6d
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_CechDouble_Stair_DblData_exC_e3097a063c6d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:25:53.663387+00:00
 -- url     : https://prove2.me/theorems/df60775f-64e9-566d-82fb-ae543f87450e

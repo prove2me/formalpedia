@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_Relabel_weight_mapDomain_f5b33ab6271c
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_Relabel_weight_mapDomain_f5b33ab6271c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:17:35.45221+00:00
 -- url     : https://prove2.me/theorems/56da1a74-1e91-4a98-8389-ca397e2efb0a

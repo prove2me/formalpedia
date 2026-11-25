@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_exists_schwartz_rhoFun
 -- name    : GlobalTheory.RealWeil.exists_schwartz_rhoFun
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:03:49.046853+00:00
 -- url     : https://prove2.me/theorems/cfa1acfd-547c-47fb-b233-29166dac14d7

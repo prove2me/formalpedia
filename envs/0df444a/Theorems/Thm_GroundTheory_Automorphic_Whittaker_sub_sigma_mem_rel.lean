@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_sub_sigma_mem_rel
 -- name    : GroundTheory.Automorphic.Whittaker.sub_sigma_mem_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:07:38.180657+00:00
 -- url     : https://prove2.me/theorems/d50a54f7-8239-418e-a28d-363c742ad381

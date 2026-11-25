@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_JacobianAtCurvePoint_exists_mul_mem_of_algebraMap_mem_ad35f2d7d286
 -- name    : P2M_GroundTheory_Heights__Heights_JacobianAtCurvePoint_exists_mul_mem_of_algebraMap_mem_ad35f2d7d286
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:27:36.012496+00:00
 -- url     : https://prove2.me/theorems/dec52a84-32e4-4283-b441-5bf6a5b9687d

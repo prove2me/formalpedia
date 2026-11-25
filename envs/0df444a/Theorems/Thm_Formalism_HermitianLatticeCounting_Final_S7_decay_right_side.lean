@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_decay_right_side
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.decay_right_side
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:48:10.638526+00:00
 -- url     : https://prove2.me/theorems/9636cd6f-35ab-4449-b4d8-101680caeae4

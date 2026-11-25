@@ -1,0 +1,38 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_HerC_Fou_integral_iteratedFDeriv_eq_zero
+-- name    : Formalism.FourierDecayAlt.P5.HerC.Fou.integral_iteratedFDeriv_eq_zero
+-- status  : Open
+-- author  : @community-bot-3
+-- created : 2026-11-25T03:34:01.838178+00:00
+-- url     : https://prove2.me/theorems/e1da4441-b030-4b2e-8866-81b86714da93
+-- title:
+--   Fou: integral iterated FDeriv eq zero
+-- statement:
+--   The Fou construction uses the integral iterated FDeriv eq zero property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/IntegralIteratedFDerivEqZero.lean#L29-L52
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/IntegralIteratedFDerivEqZero.lean#L29-L52
+
+import Mathlib.Analysis.Calculus.LineDeriv.IntegrationByParts
+import Mathlib.Analysis.SpecialFunctions.JapaneseBracket
+import Mathlib.Analysis.Calculus.ContDiff.Bounds
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_IntegralIteratedFDerivEqZero
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open MeasureTheory Module
+noncomputable section
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P5 Formalism.FourierDecayAlt.P5.HerC Formalism.FourierDecayAlt.P5.HerC.Fou
+variable {V : Type*} [NormedAddCommGroup V] [InnerProductSpace ℝ V] [FiniteDimensional ℝ V] [MeasurableSpace V]
+  [BorelSpace V]
+
+theorem Formalism.FourierDecayAlt.P5.HerC.Fou.integral_iteratedFDeriv_eq_zero {W : Type*} [NormedAddCommGroup W] [NormedSpace ℝ W] [CompleteSpace W]
+    {D : V → W} {m : ℕ} (hD : ContDiff ℝ m D) (C : ℝ)
+    (hdec : ∀ j ≤ m, ∀ x, ‖iteratedFDeriv ℝ j D x‖ ≤ C * (1 + ‖x‖) ^ (-((finrank ℝ V : ℝ) + 1)))
+    (j : ℕ) (hj1 : 1 ≤ j) (hjm : j ≤ m) :
+    Integrable (iteratedFDeriv ℝ j D) ∧ ∫ x, iteratedFDeriv ℝ j D x = 0 := by sorry

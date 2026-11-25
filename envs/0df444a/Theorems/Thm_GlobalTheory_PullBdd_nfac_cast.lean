@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PullBdd_nfac_cast
 -- name    : GlobalTheory.PullBdd.nfac_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:56:28.872909+00:00
 -- url     : https://prove2.me/theorems/a81d1973-618d-4657-92a8-1c82ff4a6a0a

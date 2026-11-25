@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TripInv_isom_symm
 -- name    : GlobalTheory.TripInv.isom_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:18:51.8098+00:00
 -- url     : https://prove2.me/theorems/0e33f342-3ed0-4d29-bfa4-59ee44ccc17f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_hasInv_of_lift
 -- name    : GlobalTheory.JR.Step.hasInv_of_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:39:17.666804+00:00
 -- url     : https://prove2.me/theorems/223952c1-60c3-4f20-9698-b213f63f535b

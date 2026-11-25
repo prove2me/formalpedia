@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Arch_HuaInt_inner_eq
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Arch.HuaInt.inner_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:15:07.948786+00:00
 -- url     : https://prove2.me/theorems/0c87ba01-454a-482f-a49f-72154eff03cc

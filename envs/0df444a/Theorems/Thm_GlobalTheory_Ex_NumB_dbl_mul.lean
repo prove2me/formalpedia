@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumB_dbl_mul
 -- name    : GlobalTheory.Ex.NumB.dbl_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:38:12.179955+00:00
 -- url     : https://prove2.me/theorems/a76f99bc-b887-426e-a6ae-30017980fc6e

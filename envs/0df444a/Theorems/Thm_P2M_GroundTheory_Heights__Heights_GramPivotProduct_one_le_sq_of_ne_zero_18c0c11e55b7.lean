@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GramPivotProduct_one_le_sq_of_ne_zero_18c0c11e55b7
 -- name    : P2M_GroundTheory_Heights__Heights_GramPivotProduct_one_le_sq_of_ne_zero_18c0c11e55b7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:18:26.731799+00:00
 -- url     : https://prove2.me/theorems/cbf7563e-71fb-48f2-bc61-b67e746b64cf

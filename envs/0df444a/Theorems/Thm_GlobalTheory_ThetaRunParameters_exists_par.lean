@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaRunParameters_exists_par
 -- name    : GlobalTheory.ThetaRunParameters.exists_par
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:00:21.108512+00:00
 -- url     : https://prove2.me/theorems/64b841dc-b33d-4a0c-b03b-c134daf3ba6e

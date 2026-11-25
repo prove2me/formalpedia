@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_NumbersDVR_isProjVarF_line_922058d2e971
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_NumbersDVR_isProjVarF_line_922058d2e971
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:22:27.544038+00:00
 -- url     : https://prove2.me/theorems/5e85d124-3d63-4557-86a5-5966cb0c7c28

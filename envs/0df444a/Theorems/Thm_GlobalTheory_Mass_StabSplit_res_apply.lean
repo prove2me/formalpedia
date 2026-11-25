@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_StabSplit_res_apply
 -- name    : GlobalTheory.Mass.StabSplit.res_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:20:21.44269+00:00
 -- url     : https://prove2.me/theorems/c8179068-a434-5a19-b046-c2c8c76c810c

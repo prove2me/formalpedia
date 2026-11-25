@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VerticalGauss_isDVR
 -- name    : GlobalTheory.VerticalGauss.isDVR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:55:21.819252+00:00
 -- url     : https://prove2.me/theorems/6ec5e892-5095-42df-8bd7-cf2343ee5579

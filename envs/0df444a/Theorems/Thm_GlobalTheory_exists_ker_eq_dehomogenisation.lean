@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_ker_eq_dehomogenisation
 -- name    : GlobalTheory.exists_ker_eq_dehomogenisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:33:06.735054+00:00
 -- url     : https://prove2.me/theorems/412b199d-0a39-41ed-ae43-5e086b46d238

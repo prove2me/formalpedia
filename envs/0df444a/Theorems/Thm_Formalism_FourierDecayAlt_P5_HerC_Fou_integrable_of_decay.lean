@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_HerC_Fou_integrable_of_decay
 -- name    : Formalism.FourierDecayAlt.P5.HerC.Fou.integrable_of_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:24:03.774017+00:00
 -- url     : https://prove2.me/theorems/02fcae7b-99a4-54ff-92a3-dfebdbc11f7d

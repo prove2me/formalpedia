@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FrameImplicitGraph_hasStrictFDerivAt_phi_7970470bf85b
 -- name    : P2M_GroundTheory_Heights__Heights_FrameImplicitGraph_hasStrictFDerivAt_phi_7970470bf85b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:17:59.116498+00:00
 -- url     : https://prove2.me/theorems/b65a664a-0175-4ce0-830f-0cc159ebc89d

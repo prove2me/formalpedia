@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceExt_exists_ext
 -- name    : GlobalTheory.PlaceExt.exists_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:50:20.131546+00:00
 -- url     : https://prove2.me/theorems/d4671817-9cf7-54d0-b731-ee807e4291e8

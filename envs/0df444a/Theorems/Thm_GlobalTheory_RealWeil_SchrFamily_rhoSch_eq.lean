@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_SchrFamily_rhoSch_eq
 -- name    : GlobalTheory.RealWeil.SchrFamily.rhoSch_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:17:08.878772+00:00
 -- url     : https://prove2.me/theorems/d81ba5f6-73e7-44f3-8ddc-5fc47b89c4a5

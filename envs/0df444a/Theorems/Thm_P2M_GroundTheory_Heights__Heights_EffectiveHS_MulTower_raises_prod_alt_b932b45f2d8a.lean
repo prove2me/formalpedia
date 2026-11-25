@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_EffectiveHS_MulTower_raises_prod_alt_b932b45f2d8a
 -- name    : P2M_GroundTheory_Heights__Heights_EffectiveHS_MulTower_raises_prod_alt_b932b45f2d8a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:16:19.546569+00:00
 -- url     : https://prove2.me/theorems/d34aa2a9-6188-5f17-a1fa-25b1dcd1eb34

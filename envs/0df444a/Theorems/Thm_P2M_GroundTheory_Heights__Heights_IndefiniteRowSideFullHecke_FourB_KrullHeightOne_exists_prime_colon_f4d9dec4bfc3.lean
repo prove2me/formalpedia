@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_KrullHeightOne_exists_prime_colon_f4d9dec4bfc3
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_KrullHeightOne_exists_prime_colon_f4d9dec4bfc3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:21:38.604851+00:00
 -- url     : https://prove2.me/theorems/c1dc5822-33e4-407c-9530-2bfa760b155a

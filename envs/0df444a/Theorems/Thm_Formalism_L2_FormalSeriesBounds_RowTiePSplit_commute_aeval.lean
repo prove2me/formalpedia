@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RowTiePSplit_commute_aeval
 -- name    : Formalism.L2.FormalSeriesBounds.RowTiePSplit.commute_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:24:00.935576+00:00
 -- url     : https://prove2.me/theorems/f8dc21e2-0aed-4017-a0a4-d66db2f8ba3a

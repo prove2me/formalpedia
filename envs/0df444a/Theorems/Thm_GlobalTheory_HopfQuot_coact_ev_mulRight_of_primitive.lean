@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HopfQuot_coact_ev_mulRight_of_primitive
 -- name    : GlobalTheory.HopfQuot.coact_ev_mulRight_of_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:56:29.102466+00:00
 -- url     : https://prove2.me/theorems/f072a30d-e7e4-5610-8f76-33b76380f408

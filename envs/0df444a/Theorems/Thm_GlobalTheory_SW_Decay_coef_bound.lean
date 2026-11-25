@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Decay_coef_bound
 -- name    : GlobalTheory.SW.Decay.coef_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:06.206795+00:00
 -- url     : https://prove2.me/theorems/8bc777e1-a61a-4620-921b-40d8bb8dc777

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_DiscOrder_lattice_between
 -- name    : GlobalTheory.Mass.DiscOrder.lattice_between
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:21:00.210991+00:00
 -- url     : https://prove2.me/theorems/750a9e14-e43c-40fe-8a48-52589a5508fa

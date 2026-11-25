@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_isMGraded_punit_4e0d05a18e96
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_isMGraded_punit_4e0d05a18e96
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:08.845832+00:00
 -- url     : https://prove2.me/theorems/13c1ee6e-fa4d-5f44-bcb5-bce98d37b31b

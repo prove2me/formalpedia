@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertDoubling_exists_block
 -- name    : GlobalTheory.CompanionTheory.InertDoubling.exists_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:01:19.067091+00:00
 -- url     : https://prove2.me/theorems/8c60fad5-a654-4100-a9b9-ff4e05c3785d

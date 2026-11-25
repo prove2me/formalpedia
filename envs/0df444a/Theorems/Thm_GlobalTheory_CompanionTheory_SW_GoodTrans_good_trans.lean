@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GoodTrans_good_trans
 -- name    : GlobalTheory.CompanionTheory.SW.GoodTrans.good_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:22:30.27836+00:00
 -- url     : https://prove2.me/theorems/541d068c-4c75-43bc-b72e-336fee756fc5

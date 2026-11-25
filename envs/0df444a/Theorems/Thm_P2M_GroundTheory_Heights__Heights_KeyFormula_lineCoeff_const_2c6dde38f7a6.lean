@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_lineCoeff_const_2c6dde38f7a6
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_lineCoeff_const_2c6dde38f7a6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:25:45.361702+00:00
 -- url     : https://prove2.me/theorems/5c11c727-b11e-559f-8d6a-3c3f4cc4ed33

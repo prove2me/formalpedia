@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_FrameOrth_fvec_castSucc
 -- name    : GlobalTheory.HCXi.FrameOrth.fvec_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:56:05.928253+00:00
 -- url     : https://prove2.me/theorems/b38fd037-16e8-4b3a-af0f-a8bfb41b06b6

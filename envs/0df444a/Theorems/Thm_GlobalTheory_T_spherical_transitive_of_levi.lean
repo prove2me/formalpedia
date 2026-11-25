@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_spherical_transitive_of_levi
 -- name    : GlobalTheory.T.spherical_transitive_of_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:59:43.993451+00:00
 -- url     : https://prove2.me/theorems/bd0c13fd-1656-4c7b-8de2-f3508fef572e

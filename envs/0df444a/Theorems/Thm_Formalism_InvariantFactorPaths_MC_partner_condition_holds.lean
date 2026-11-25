@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_MC_partner_condition_holds
 -- name    : Formalism.InvariantFactorPaths.MC.partner_condition_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:47:52.708711+00:00
 -- url     : https://prove2.me/theorems/dc300c18-6c00-5ade-b4fc-ba46ca84abf8

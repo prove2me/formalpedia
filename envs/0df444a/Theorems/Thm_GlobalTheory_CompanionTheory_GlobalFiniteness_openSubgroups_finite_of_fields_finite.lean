@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GlobalFiniteness_openSubgroups_finite_of_fields_finite
 -- name    : GlobalTheory.CompanionTheory.GlobalFiniteness.openSubgroups_finite_of_fields_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:00:08.032738+00:00
 -- url     : https://prove2.me/theorems/ca4a72c8-b4b2-4acb-950a-d27cdfbbc44d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_min_add_le_min_add_min_327a0a674e02
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_min_add_le_min_add_min_327a0a674e02
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:21:40.399832+00:00
 -- url     : https://prove2.me/theorems/a995974e-3388-48db-88e8-2044426bf65c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_InvarianceOfDomain_smoothSubalgebra_separatesPoints_dc2671d39c14
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_InvarianceOfDomain_smoothSubalgebra_separatesPoints_dc2671d39c14
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:20:29.66415+00:00
 -- url     : https://prove2.me/theorems/a9f667b9-5288-474c-9ca5-b8ba55c8b9e0

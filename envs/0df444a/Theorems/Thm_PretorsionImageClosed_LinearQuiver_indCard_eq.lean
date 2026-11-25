@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_indCard_eq
 -- name    : PretorsionImageClosed.LinearQuiver.indCard_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:27:25.075058+00:00
 -- url     : https://prove2.me/theorems/8cd273c7-3b10-4add-9300-eabe75b003c5

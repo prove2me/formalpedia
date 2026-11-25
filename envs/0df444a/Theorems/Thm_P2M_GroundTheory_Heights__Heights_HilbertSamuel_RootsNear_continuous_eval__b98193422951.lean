@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_RootsNear_continuous_eval__b98193422951
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_RootsNear_continuous_eval__b98193422951
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:29.074993+00:00
 -- url     : https://prove2.me/theorems/bac58679-b747-484b-ad28-768c8c401f5c

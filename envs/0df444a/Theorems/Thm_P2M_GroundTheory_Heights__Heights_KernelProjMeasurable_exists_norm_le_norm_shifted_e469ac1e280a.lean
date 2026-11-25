@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KernelProjMeasurable_exists_norm_le_norm_shifted_e469ac1e280a
 -- name    : P2M_GroundTheory_Heights__Heights_KernelProjMeasurable_exists_norm_le_norm_shifted_e469ac1e280a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:26:39.136963+00:00
 -- url     : https://prove2.me/theorems/40356d66-96ad-438e-b51a-427777a4c116

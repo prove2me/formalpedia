@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GrassmannianGeometricDegreeChart_eq_single1_9e84b068a51a
 -- name    : P2M_GroundTheory_Heights__Heights_GrassmannianGeometricDegreeChart_eq_single1_9e84b068a51a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:22.585801+00:00
 -- url     : https://prove2.me/theorems/468d75dd-4520-5a67-a0bb-7e511452bc03

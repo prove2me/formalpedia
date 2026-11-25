@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_twist_pow_zero_sub_58264d6a7b2c
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_twist_pow_zero_sub_58264d6a7b2c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:29:02.016524+00:00
 -- url     : https://prove2.me/theorems/09eced99-bfbe-42c4-988a-6936176fba40

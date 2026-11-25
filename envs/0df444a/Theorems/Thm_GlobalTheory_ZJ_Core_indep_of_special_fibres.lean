@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZJ_Core_indep_of_special_fibres
 -- name    : GlobalTheory.ZJ.Core.indep_of_special_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:04:10.677352+00:00
 -- url     : https://prove2.me/theorems/8b377044-f883-4a11-92af-052ef04537a1

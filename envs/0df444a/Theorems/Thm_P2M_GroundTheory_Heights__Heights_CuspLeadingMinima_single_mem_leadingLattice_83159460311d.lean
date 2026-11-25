@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CuspLeadingMinima_single_mem_leadingLattice_83159460311d
 -- name    : P2M_GroundTheory_Heights__Heights_CuspLeadingMinima_single_mem_leadingLattice_83159460311d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:18.390107+00:00
 -- url     : https://prove2.me/theorems/9320ad9c-e913-567e-839c-a2297097f613

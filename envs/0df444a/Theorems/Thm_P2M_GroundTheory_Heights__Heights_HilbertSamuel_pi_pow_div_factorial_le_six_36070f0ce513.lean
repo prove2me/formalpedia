@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_pi_pow_div_factorial_le_six_36070f0ce513
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_pi_pow_div_factorial_le_six_36070f0ce513
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:20:02.838794+00:00
 -- url     : https://prove2.me/theorems/ff032657-19ee-4b68-870b-08166bce0c2f

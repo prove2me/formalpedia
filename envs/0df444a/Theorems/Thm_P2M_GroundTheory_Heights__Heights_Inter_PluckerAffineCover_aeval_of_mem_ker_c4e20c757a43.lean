@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PluckerAffineCover_aeval_of_mem_ker_c4e20c757a43
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PluckerAffineCover_aeval_of_mem_ker_c4e20c757a43
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:24:56.200802+00:00
 -- url     : https://prove2.me/theorems/599af100-3b40-4210-b74b-f090224c7622

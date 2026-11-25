@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GapSizeCheck_thresholds
 -- name    : GlobalTheory.GapSizeCheck.thresholds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:28:06.528399+00:00
 -- url     : https://prove2.me/theorems/7ad1f064-392d-4bfe-a16f-8cf68cd3c450

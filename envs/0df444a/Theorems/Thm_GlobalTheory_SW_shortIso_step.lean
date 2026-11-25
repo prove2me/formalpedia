@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_shortIso_step
 -- name    : GlobalTheory.SW.shortIso_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:45:48.475418+00:00
 -- url     : https://prove2.me/theorems/cd325904-3de8-4ef4-911b-05188b9aae24

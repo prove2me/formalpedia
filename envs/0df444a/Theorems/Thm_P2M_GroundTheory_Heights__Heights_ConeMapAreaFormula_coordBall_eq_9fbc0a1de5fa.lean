@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_coordBall_eq_9fbc0a1de5fa
 -- name    : P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_coordBall_eq_9fbc0a1de5fa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:16:58.385402+00:00
 -- url     : https://prove2.me/theorems/e4f0f11e-dadc-5a66-9351-88410bebec6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TrivCrys_isCrys_of_trivial
 -- name    : GlobalTheory.TrivCrys.isCrys_of_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:53:18.83235+00:00
 -- url     : https://prove2.me/theorems/28fa8e78-a4fd-4843-bb3d-ac0512ebfd53

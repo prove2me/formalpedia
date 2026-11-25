@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_baire_one_candidate
 -- name    : GlobalTheory.baire_one_candidate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:53:02.889899+00:00
 -- url     : https://prove2.me/theorems/f2195f40-6312-53f2-a351-88067f615d12

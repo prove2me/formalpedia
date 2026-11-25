@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_MultigradedFiltration_exists_homog_not_mem_09e7af4d2347
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_MultigradedFiltration_exists_homog_not_mem_09e7af4d2347
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:19:09.681822+00:00
 -- url     : https://prove2.me/theorems/0df7d886-b7bf-4c64-9c2c-00a584539243

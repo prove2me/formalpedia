@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_sum_mul_mul_eq
 -- name    : GroundTheory.Global.Artin.sum_mul_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:14:31.336661+00:00
 -- url     : https://prove2.me/theorems/7273d03b-3af5-47d8-9a44-f8187d898063

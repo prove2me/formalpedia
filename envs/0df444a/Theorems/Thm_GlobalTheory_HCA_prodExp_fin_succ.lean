@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_prodExp_fin_succ
 -- name    : GlobalTheory.HCA.prodExp_fin_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:43:16.887024+00:00
 -- url     : https://prove2.me/theorems/3af7b6d3-02d0-512f-8e91-13390f63a038

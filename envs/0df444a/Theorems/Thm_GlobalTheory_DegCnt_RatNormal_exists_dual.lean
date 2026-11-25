@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_RatNormal_exists_dual
 -- name    : GlobalTheory.DegCnt.RatNormal.exists_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:26:22.16188+00:00
 -- url     : https://prove2.me/theorems/29a1bab3-2498-41c3-96e2-c4d8de8d35d7

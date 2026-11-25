@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_WordTransvectionCongruences_ofWord_q_congr
 -- name    : Formalism.FourierDecayAlt.P5.WordTransvectionCongruences.ofWord_q_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:45:55.801695+00:00
 -- url     : https://prove2.me/theorems/522d135f-87a5-476e-9212-81ef1f90a3f1

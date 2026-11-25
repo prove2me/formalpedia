@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_host_unram
 -- name    : Formalism.LFunctionChainParameters.LHost.host_unram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:23:47.418596+00:00
 -- url     : https://prove2.me/theorems/96cd456b-9de4-49f3-9880-01597b97fb32

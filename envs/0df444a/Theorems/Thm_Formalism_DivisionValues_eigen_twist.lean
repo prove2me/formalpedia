@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_eigen_twist
 -- name    : Formalism.DivisionValues.eigen_twist
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:10:09.139191+00:00
 -- url     : https://prove2.me/theorems/8e57e68d-890d-456b-a0c1-9af97291e28c

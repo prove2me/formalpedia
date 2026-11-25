@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolyNorm_ev_compat
 -- name    : GlobalTheory.PolyNorm.ev_compat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:50:42.867393+00:00
 -- url     : https://prove2.me/theorems/de40bdd8-bc4f-4ef8-881f-eb1dbb1aad88

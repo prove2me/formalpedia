@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GraphAreaIntegral_continuous_areaJacobian_da03433f263c
 -- name    : P2M_GroundTheory_Heights__Heights_GraphAreaIntegral_continuous_areaJacobian_da03433f263c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:19:05.941798+00:00
 -- url     : https://prove2.me/theorems/45e49e20-7003-4ce2-a66f-ab7696e0f9d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HlCoc_main
 -- name    : GlobalTheory.HlCoc.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:29:13.03432+00:00
 -- url     : https://prove2.me/theorems/9051f4e2-8544-47fb-80c9-d853678d3153

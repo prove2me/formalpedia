@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kleiman_coneMap_monomial_a001c687d6e0
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kleiman_coneMap_monomial_a001c687d6e0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:21:41.099069+00:00
 -- url     : https://prove2.me/theorems/ed491e86-0fcf-457f-ac59-c67d1e7ed612

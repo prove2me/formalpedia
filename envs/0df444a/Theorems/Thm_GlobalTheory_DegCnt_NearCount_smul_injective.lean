@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_NearCount_smul_injective
 -- name    : GlobalTheory.DegCnt.NearCount.smul_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:26:24.331155+00:00
 -- url     : https://prove2.me/theorems/a4d85f9a-78f5-461b-9f99-6deb8c68b55d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_coe_eval__map_74b9cdedd646
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_coe_eval__map_74b9cdedd646
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:23:14.376506+00:00
 -- url     : https://prove2.me/theorems/5ce83404-ea69-5ae5-aa8b-253470501ae8

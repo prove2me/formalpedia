@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_proposition_final_minimum
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.proposition_final_minimum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:32.674809+00:00
 -- url     : https://prove2.me/theorems/f1241bfa-0e40-4942-8f76-e925bded57b9

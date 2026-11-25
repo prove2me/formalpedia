@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ForSecondHalf_FibreIncompressibility_coeff_eval__scale_c1644af1f8da
 -- name    : P2M_GroundTheory_Heights__Heights_ForSecondHalf_FibreIncompressibility_coeff_eval__scale_c1644af1f8da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:17:55.359001+00:00
 -- url     : https://prove2.me/theorems/d42695e1-5e6b-5380-9179-c6e6332e466f

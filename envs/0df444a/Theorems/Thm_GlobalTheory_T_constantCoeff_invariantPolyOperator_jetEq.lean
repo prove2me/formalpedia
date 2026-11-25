@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_constantCoeff_invariantPolyOperator_jetEq
 -- name    : GlobalTheory.T.constantCoeff_invariantPolyOperator_jetEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:11:45.184659+00:00
 -- url     : https://prove2.me/theorems/c5392dd4-dcdf-5fee-a957-3bb6f47fd724

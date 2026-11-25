@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_FnDegAdjoin_quotEquiv_mk_e3a6de09a4c9
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_FnDegAdjoin_quotEquiv_mk_e3a6de09a4c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:23:18.548509+00:00
 -- url     : https://prove2.me/theorems/1629163a-4d4c-4c33-ab6a-2cbdb97bba8c

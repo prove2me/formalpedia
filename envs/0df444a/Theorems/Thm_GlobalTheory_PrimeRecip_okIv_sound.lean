@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeRecip_okIv_sound
 -- name    : GlobalTheory.PrimeRecip.okIv_sound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:50:48.477007+00:00
 -- url     : https://prove2.me/theorems/8e377248-b391-4cac-8df0-0bdf6abae6bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Bes_torus_col_conj
 -- name    : GlobalTheory.CompanionTheory.Bes.torus_col_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:54:50.788258+00:00
 -- url     : https://prove2.me/theorems/f5bd842d-2159-4cdf-8004-969c9ffc7bff

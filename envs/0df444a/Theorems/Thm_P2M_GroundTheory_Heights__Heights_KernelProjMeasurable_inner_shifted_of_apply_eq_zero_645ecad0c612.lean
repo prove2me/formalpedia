@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KernelProjMeasurable_inner_shifted_of_apply_eq_zero_645ecad0c612
 -- name    : P2M_GroundTheory_Heights__Heights_KernelProjMeasurable_inner_shifted_of_apply_eq_zero_645ecad0c612
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:26:34.176985+00:00
 -- url     : https://prove2.me/theorems/cb87bedd-817c-53b9-b86b-8f44e85e8690

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VerticalGauss_mem_extPrime
 -- name    : GlobalTheory.VerticalGauss.mem_extPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:13:07.163648+00:00
 -- url     : https://prove2.me/theorems/e4759a02-cc4d-4444-a91e-0eeda1359940

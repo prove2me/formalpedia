@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_NearCount_count_between
 -- name    : GlobalTheory.DegCnt.NearCount.count_between
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:26:21.026387+00:00
 -- url     : https://prove2.me/theorems/a696f85e-30ea-4a7b-92d8-989f4557f546

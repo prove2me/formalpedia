@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowHeightCycleEq_archOfPlaces_embedding_2ed4d34525ea
 -- name    : P2M_GroundTheory_Heights__Heights_ChowHeightCycleEq_archOfPlaces_embedding_2ed4d34525ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:16:19.331977+00:00
 -- url     : https://prove2.me/theorems/b88e7adb-20a3-4686-91dc-95e6ecd0a8c9

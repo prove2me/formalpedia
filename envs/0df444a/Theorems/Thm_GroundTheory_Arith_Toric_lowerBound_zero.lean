@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_lowerBound_zero
 -- name    : GroundTheory.Arith.Toric.lowerBound_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:55:16.617895+00:00
 -- url     : https://prove2.me/theorems/fce0abe7-ed35-43d0-9a3f-f45a4c0a27d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finsum_embeddings_over_eq_sum_roots
 -- name    : GlobalTheory.finsum_embeddings_over_eq_sum_roots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:56:05.543214+00:00
 -- url     : https://prove2.me/theorems/89501fad-70de-41de-b4f3-1f6fcc4336d7

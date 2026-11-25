@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_DiscOrder_idxN_eq_card
 -- name    : GlobalTheory.Mass.DiscOrder.idxN_eq_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:20:41.237452+00:00
 -- url     : https://prove2.me/theorems/5a3a052d-d75a-5741-af5c-84683723a299

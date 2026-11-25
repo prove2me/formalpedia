@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ClosedPointAffineChart_ratio_mem_103cf4a641af
 -- name    : P2M_GroundTheory_Heights__Heights_ClosedPointAffineChart_ratio_mem_103cf4a641af
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:17:43.367246+00:00
 -- url     : https://prove2.me/theorems/d5b42ebe-6e29-5841-9649-bf2dfa233873

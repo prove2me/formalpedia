@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_mk_pow_smul_of_isArithFrobAt
 -- name    : GroundTheory.Global.Artin.mk_pow_smul_of_isArithFrobAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:15:21.716146+00:00
 -- url     : https://prove2.me/theorems/8c4d4edf-7aa2-4cbb-9fdf-0c5c9d1a523c

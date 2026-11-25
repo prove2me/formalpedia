@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermNorm_pointEquiv_apply_448488b77ab2
 -- name    : P2M_GroundTheory_Heights__Heights_HermNorm_pointEquiv_apply_448488b77ab2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:19:23.813439+00:00
 -- url     : https://prove2.me/theorems/212b2131-c06a-5e39-9021-0a80ce09a887

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WachLettersCompare_Q_pow_smul_cancel
 -- name    : GlobalTheory.WachLettersCompare.Q_pow_smul_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:10:23.882158+00:00
 -- url     : https://prove2.me/theorems/b57feaa7-cbb1-4e64-ba95-969dcf092519

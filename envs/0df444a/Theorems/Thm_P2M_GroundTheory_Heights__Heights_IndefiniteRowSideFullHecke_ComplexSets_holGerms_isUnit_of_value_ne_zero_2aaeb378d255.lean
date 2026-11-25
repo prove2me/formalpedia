@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_holGerms_isUnit_of_value_ne_zero_2aaeb378d255
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_holGerms_isUnit_of_value_ne_zero_2aaeb378d255
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:21:28.525015+00:00
 -- url     : https://prove2.me/theorems/a220ab83-09c5-446d-bb8d-34ad1f7f0426

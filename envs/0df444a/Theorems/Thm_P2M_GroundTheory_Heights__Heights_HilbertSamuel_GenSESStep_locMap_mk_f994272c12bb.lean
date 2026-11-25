@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_GenSESStep_locMap_mk_f994272c12bb
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_GenSESStep_locMap_mk_f994272c12bb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:38.283846+00:00
 -- url     : https://prove2.me/theorems/a4481846-78a7-4d94-af7e-7563501a3c28

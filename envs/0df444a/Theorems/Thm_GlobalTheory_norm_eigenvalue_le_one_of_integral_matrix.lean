@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_eigenvalue_le_one_of_integral_matrix
 -- name    : GlobalTheory.norm_eigenvalue_le_one_of_integral_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:55:30.839442+00:00
 -- url     : https://prove2.me/theorems/0ccb9aa6-f7c8-4fbd-9f0f-e781e7523514

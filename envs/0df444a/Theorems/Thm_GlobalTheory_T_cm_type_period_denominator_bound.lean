@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cm_type_period_denominator_bound
 -- name    : GlobalTheory.T.cm_type_period_denominator_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:29:01.213724+00:00
 -- url     : https://prove2.me/theorems/c63aa6e3-63c2-444d-8a80-6dfafb8a3ab4

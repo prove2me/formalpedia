@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_commuting_twist
 -- name    : Formalism.DivisionValues.commuting_twist
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:24:38.757236+00:00
 -- url     : https://prove2.me/theorems/f3d4bb5f-4d32-4399-9047-3be07ba15f38

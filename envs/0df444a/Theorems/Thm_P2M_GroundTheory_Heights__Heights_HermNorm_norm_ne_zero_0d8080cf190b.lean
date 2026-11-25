@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermNorm_norm_ne_zero_0d8080cf190b
 -- name    : P2M_GroundTheory_Heights__Heights_HermNorm_norm_ne_zero_0d8080cf190b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:18:27.090969+00:00
 -- url     : https://prove2.me/theorems/12f2a5b1-7119-49e6-89f2-246337988a4a

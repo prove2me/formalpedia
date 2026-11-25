@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_locPrincipal_locally_const_49196ce6d1ea
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_locPrincipal_locally_const_49196ce6d1ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:03:52.707995+00:00
 -- url     : https://prove2.me/theorems/354aad86-5aee-4646-83d2-913b5fe5f436

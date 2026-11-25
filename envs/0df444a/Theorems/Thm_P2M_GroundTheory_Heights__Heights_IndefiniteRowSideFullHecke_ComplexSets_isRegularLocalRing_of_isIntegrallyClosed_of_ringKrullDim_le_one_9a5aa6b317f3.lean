@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_isRegularLocalRing_of_isIntegrallyClosed_of_ringKrullDim_le_one_9a5aa6b317f3
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_isRegularLocalRing_of_isIntegrallyClosed_of_ringKrullDim_le_one_9a5aa6b317f3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:20:39.338543+00:00
 -- url     : https://prove2.me/theorems/9e6c4e13-7176-5991-87cb-53efced298d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_double_coset_sum_fundamental_domain
 -- name    : GlobalTheory.T.double_coset_sum_fundamental_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:51:59.190082+00:00
 -- url     : https://prove2.me/theorems/4e432bb9-308e-4c7c-93a3-cfa3e6642247

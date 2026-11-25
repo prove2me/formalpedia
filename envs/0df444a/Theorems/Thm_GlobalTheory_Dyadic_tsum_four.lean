@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Dyadic_tsum_four
 -- name    : GlobalTheory.Dyadic.tsum_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:27:04.181729+00:00
 -- url     : https://prove2.me/theorems/ff805ca1-0305-4f01-bbd4-d947b53095b1

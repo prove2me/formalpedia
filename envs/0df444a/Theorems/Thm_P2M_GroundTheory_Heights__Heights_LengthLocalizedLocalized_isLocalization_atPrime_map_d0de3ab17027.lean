@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LengthLocalizedLocalized_isLocalization_atPrime_map_d0de3ab17027
 -- name    : P2M_GroundTheory_Heights__Heights_LengthLocalizedLocalized_isLocalization_atPrime_map_d0de3ab17027
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:29:10.257941+00:00
 -- url     : https://prove2.me/theorems/6f4e5fe8-e7a5-458c-b3e3-140f9ed859bc

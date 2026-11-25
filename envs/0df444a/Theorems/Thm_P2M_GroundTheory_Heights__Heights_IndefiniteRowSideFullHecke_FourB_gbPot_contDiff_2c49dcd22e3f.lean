@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_gbPot_contDiff_2c49dcd22e3f
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_gbPot_contDiff_2c49dcd22e3f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:25:23.345596+00:00
 -- url     : https://prove2.me/theorems/ae4ae60d-6ec7-5015-b982-c04002722a6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Comparison__prim_read_a62b442f7a8d
 -- name    : P2M_UpperTheory_Comparison__prim_read_a62b442f7a8d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:38:28.412323+00:00
 -- url     : https://prove2.me/theorems/9c58a696-f396-4d09-adb3-7f03321e7656

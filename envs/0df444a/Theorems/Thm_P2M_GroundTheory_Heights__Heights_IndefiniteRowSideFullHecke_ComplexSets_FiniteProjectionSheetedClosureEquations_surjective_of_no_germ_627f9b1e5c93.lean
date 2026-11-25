@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FiniteProjectionSheetedClosureEquations_surjective_of_no_germ_627f9b1e5c93
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FiniteProjectionSheetedClosureEquations_surjective_of_no_germ_627f9b1e5c93
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:21.659813+00:00
 -- url     : https://prove2.me/theorems/7b6ffeca-460a-5d68-a0fa-82f2dd1b02c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_rho_eq
 -- name    : PretorsionImageClosed.LinearQuiver.rho_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:27:46.492062+00:00
 -- url     : https://prove2.me/theorems/31d007f8-9661-4933-a497-718611b95b33

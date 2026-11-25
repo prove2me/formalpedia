@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HeightOfPointAlt_archDualNorm_pos_3023062927e8
 -- name    : P2M_GroundTheory_Heights__Heights_HeightOfPointAlt_archDualNorm_pos_3023062927e8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:19:06.00612+00:00
 -- url     : https://prove2.me/theorems/4e8c677f-6364-5a52-b228-a950f51517bc

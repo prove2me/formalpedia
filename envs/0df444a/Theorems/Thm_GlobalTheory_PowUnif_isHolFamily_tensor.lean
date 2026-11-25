@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowUnif_isHolFamily_tensor
 -- name    : GlobalTheory.PowUnif.isHolFamily_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:53:10.097904+00:00
 -- url     : https://prove2.me/theorems/01550243-6e30-44d2-839b-33ad0fbe4668

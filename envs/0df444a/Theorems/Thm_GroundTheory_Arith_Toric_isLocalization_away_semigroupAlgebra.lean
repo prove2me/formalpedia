@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_isLocalization_away_semigroupAlgebra
 -- name    : GroundTheory.Arith.Toric.isLocalization_away_semigroupAlgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:55:53.038211+00:00
 -- url     : https://prove2.me/theorems/7c510f4c-5403-56a6-a57e-2cd63bfc3ecc

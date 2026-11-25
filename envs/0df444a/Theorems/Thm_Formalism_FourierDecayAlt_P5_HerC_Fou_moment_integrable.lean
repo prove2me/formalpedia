@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_HerC_Fou_moment_integrable
 -- name    : Formalism.FourierDecayAlt.P5.HerC.Fou.moment_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:23:47.479296+00:00
 -- url     : https://prove2.me/theorems/2c7f4095-0cb2-4356-8041-00e8ca245227

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lift_forms_of_card_isUnit
 -- name    : GlobalTheory.lift_forms_of_card_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:56:29.435074+00:00
 -- url     : https://prove2.me/theorems/5a3baf47-2cb9-4e16-aaef-02fc8bf1d5cf

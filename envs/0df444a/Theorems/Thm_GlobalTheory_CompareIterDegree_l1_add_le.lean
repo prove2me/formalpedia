@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_l1_add_le
 -- name    : GlobalTheory.CompareIterDegree.l1_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:00:03.071692+00:00
 -- url     : https://prove2.me/theorems/e499af91-87db-5a68-b3f6-b2b8f144c98a

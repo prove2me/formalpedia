@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RowTiePSplit_X_sub_mul_basis
 -- name    : Formalism.L2.FormalSeriesBounds.RowTiePSplit.X_sub_mul_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:29:56.615467+00:00
 -- url     : https://prove2.me/theorems/a8f04cf8-afac-4400-94c4-eaeff6862f4a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_PieceRootProductPolynomial_coeff_bound_37ce09f513ed
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_PieceRootProductPolynomial_coeff_bound_37ce09f513ed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:19:15.674081+00:00
 -- url     : https://prove2.me/theorems/305f5860-9aba-4d2d-9859-0570bd2f1aff

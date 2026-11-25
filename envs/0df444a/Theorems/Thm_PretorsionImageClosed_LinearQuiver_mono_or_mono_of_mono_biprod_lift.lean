@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_mono_or_mono_of_mono_biprod_lift
 -- name    : PretorsionImageClosed.LinearQuiver.mono_or_mono_of_mono_biprod_lift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:13:25.637561+00:00
 -- url     : https://prove2.me/theorems/c6d96b36-b48a-56fe-a07e-beca73cf7667

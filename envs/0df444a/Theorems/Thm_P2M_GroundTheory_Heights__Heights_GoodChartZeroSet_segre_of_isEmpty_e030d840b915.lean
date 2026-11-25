@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_segre_of_isEmpty_e030d840b915
 -- name    : P2M_GroundTheory_Heights__Heights_GoodChartZeroSet_segre_of_isEmpty_e030d840b915
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:18:29.289589+00:00
 -- url     : https://prove2.me/theorems/4cf88165-31a5-4a5a-b88b-5278cf2d8235

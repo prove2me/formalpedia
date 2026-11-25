@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DeligneSerre_norm_eigen_le_one
 -- name    : GlobalTheory.DeligneSerre.norm_eigen_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:08:18.266697+00:00
 -- url     : https://prove2.me/theorems/402ae87c-d862-5e05-bd16-5ec1cfbe1207

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_tp_exists
 -- name    : Formalism.InvariantFactorPaths.L4.tp_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:07:35.861423+00:00
 -- url     : https://prove2.me/theorems/e3127727-ddb2-48c1-b848-7ff9d257efbe

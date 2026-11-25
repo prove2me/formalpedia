@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowlaSelberg_IntSeriesNorm_intSeriesEval_X_5d0b12571f15
 -- name    : P2M_GroundTheory_Heights__Heights_ChowlaSelberg_IntSeriesNorm_intSeriesEval_X_5d0b12571f15
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:15:27.433103+00:00
 -- url     : https://prove2.me/theorems/0d5dbf53-60be-42d2-bd39-f2d8637149a5

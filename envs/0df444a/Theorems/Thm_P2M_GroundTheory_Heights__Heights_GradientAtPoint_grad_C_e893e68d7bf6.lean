@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GradientAtPoint_grad_C_e893e68d7bf6
 -- name    : P2M_GroundTheory_Heights__Heights_GradientAtPoint_grad_C_e893e68d7bf6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:18:03.882998+00:00
 -- url     : https://prove2.me/theorems/dd02e753-6846-49fe-ba26-ec376cc06127

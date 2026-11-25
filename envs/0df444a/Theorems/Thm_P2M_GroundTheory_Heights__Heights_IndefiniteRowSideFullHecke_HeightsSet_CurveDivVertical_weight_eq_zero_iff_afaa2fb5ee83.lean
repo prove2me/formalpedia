@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_CurveDivVertical_weight_eq_zero_iff_afaa2fb5ee83
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_CurveDivVertical_weight_eq_zero_iff_afaa2fb5ee83
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:22:04.533102+00:00
 -- url     : https://prove2.me/theorems/68cab8f0-8e7d-43d2-9a04-2d030e069e64

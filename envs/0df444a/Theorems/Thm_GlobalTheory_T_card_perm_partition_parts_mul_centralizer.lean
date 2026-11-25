@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_perm_partition_parts_mul_centralizer
 -- name    : GlobalTheory.T.card_perm_partition_parts_mul_centralizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:59:17.890352+00:00
 -- url     : https://prove2.me/theorems/4cdce85e-3b7f-544d-bea6-39f8acf69fd0

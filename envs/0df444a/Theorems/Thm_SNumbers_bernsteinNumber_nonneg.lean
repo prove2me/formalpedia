@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_bernsteinNumber_nonneg
 -- name    : SNumbers.bernsteinNumber_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:48:47.24306+00:00
 -- url     : https://prove2.me/theorems/af289071-378c-4e97-8dd4-8c226c08d485

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_one_add_zeta_three_add_sq_09cce8161b7e
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_one_add_zeta_three_add_sq_09cce8161b7e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:26:14.344339+00:00
 -- url     : https://prove2.me/theorems/9e8d6265-5fdf-438f-ae37-cd63c8c101b0

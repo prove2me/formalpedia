@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Split_phNorm_natCast
 -- name    : Formalism.L2.Th1.B.Split.phNorm_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:58:40.01598+00:00
 -- url     : https://prove2.me/theorems/923dc069-61f1-45dc-8c4c-c81b4d58f13e

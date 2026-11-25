@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_AnalyticGermComponents_apply_eq_zero_of_not_c3046b8ba998
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_AnalyticGermComponents_apply_eq_zero_of_not_c3046b8ba998
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:59.514406+00:00
 -- url     : https://prove2.me/theorems/a87fc0e0-bcf9-4eda-9d51-4124870aeb67

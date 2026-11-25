@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_SwdHeat_isSB_member
 -- name    : GlobalTheory.SW.SwdHeat.isSB_member
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:11:02.717083+00:00
 -- url     : https://prove2.me/theorems/fcdea89f-ec94-52cb-85ef-bbf8ce49687f

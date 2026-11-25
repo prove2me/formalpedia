@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_Lifting_kolmogorovNumber_eq
 -- name    : SNumbers.Lifting.kolmogorovNumber_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:13:36.30552+00:00
 -- url     : https://prove2.me/theorems/6da2e81b-b790-4ca7-b0b1-2b2b84d364d8

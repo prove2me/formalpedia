@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_psi_eq_geomSum
 -- name    : PretorsionImageClosed.Statement.psi_eq_geomSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:11:57.298049+00:00
 -- url     : https://prove2.me/theorems/4628de37-0d99-469b-bc75-619b440f0785

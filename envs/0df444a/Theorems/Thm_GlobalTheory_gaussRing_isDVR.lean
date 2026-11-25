@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussRing_isDVR
 -- name    : GlobalTheory.gaussRing_isDVR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:57:03.517741+00:00
 -- url     : https://prove2.me/theorems/9209992b-fdcf-4388-96eb-48c877beba98

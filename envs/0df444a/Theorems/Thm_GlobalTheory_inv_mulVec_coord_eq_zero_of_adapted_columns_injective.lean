@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_inv_mulVec_coord_eq_zero_of_adapted_columns_injective
 -- name    : GlobalTheory.inv_mulVec_coord_eq_zero_of_adapted_columns_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:56:10.784276+00:00
 -- url     : https://prove2.me/theorems/c8d6618b-743a-40d1-b739-668e0e3dadd5

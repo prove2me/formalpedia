@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FiniteProjectionSheetedClosureEquations_prod_sub_eq_sum_esymm_b2bed9e083b1
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FiniteProjectionSheetedClosureEquations_prod_sub_eq_sum_esymm_b2bed9e083b1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:38.327726+00:00
 -- url     : https://prove2.me/theorems/73a09589-4a08-4840-ae87-634c90c7bc65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_entire_polynomialGrowth_one_var_410c9b15615f
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_entire_polynomialGrowth_one_var_410c9b15615f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:18:30.103446+00:00
 -- url     : https://prove2.me/theorems/ef33863c-7f06-5816-9e4c-4cbcd3249640

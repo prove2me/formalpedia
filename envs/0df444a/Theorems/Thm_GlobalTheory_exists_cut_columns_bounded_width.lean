@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_cut_columns_bounded_width
 -- name    : GlobalTheory.exists_cut_columns_bounded_width
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:34:12.12407+00:00
 -- url     : https://prove2.me/theorems/03fd1afc-1fa9-417e-9fe5-b2f80e888914

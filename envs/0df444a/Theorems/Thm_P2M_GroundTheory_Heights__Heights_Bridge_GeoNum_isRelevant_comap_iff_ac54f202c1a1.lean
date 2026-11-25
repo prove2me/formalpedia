@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Bridge_GeoNum_isRelevant_comap_iff_ac54f202c1a1
 -- name    : P2M_GroundTheory_Heights__Heights_Bridge_GeoNum_isRelevant_comap_iff_ac54f202c1a1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:57:56.143801+00:00
 -- url     : https://prove2.me/theorems/f1c67f86-70be-4ea1-9a8e-8fe699456189

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_range_of_map_eq_of_isLocalHom
 -- name    : GlobalTheory.mem_range_of_map_eq_of_isLocalHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:56:12.042253+00:00
 -- url     : https://prove2.me/theorems/6bc328b1-2318-4805-8d4c-365ed4f8acf9

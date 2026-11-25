@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_RatPrimeDense_continuous_aeval_9170a0851d8e
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_RatPrimeDense_continuous_aeval_9170a0851d8e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:18:57.764616+00:00
 -- url     : https://prove2.me/theorems/053d142b-46e5-43f6-b036-50345289e75e

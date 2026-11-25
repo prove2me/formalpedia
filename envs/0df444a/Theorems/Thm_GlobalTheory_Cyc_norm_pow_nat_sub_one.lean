@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_norm_pow_nat_sub_one
 -- name    : GlobalTheory.Cyc.norm_pow_nat_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:56:09.368573+00:00
 -- url     : https://prove2.me/theorems/0e1c0468-b93d-437f-bf88-e1770378939d

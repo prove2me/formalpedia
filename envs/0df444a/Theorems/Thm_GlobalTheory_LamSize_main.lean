@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LamSize_main
 -- name    : GlobalTheory.LamSize.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:20:30.090804+00:00
 -- url     : https://prove2.me/theorems/b4c0f547-5af0-40ce-808c-1befae8ca55b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_isOpen_of_sieg_of_opp
 -- name    : GlobalTheory.KSp.isOpen_of_sieg_of_opp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:07:50.243935+00:00
 -- url     : https://prove2.me/theorems/18c27ad2-1c98-4677-9a7a-719398bab369

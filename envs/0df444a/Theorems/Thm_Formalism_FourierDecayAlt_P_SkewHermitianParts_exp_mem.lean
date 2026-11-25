@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SkewHermitianParts_exp_mem
 -- name    : Formalism.FourierDecayAlt.P.SkewHermitianParts.exp_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:15:56.080114+00:00
 -- url     : https://prove2.me/theorems/2d28db13-040c-5edb-add0-79a1f2e20026

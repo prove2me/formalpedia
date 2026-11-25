@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CuspShortVectors_intVec_eq_d2880f61d088
 -- name    : P2M_GroundTheory_Heights__Heights_CuspShortVectors_intVec_eq_d2880f61d088
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:13.517542+00:00
 -- url     : https://prove2.me/theorems/86d34851-913a-4fff-b106-f445af5524bf

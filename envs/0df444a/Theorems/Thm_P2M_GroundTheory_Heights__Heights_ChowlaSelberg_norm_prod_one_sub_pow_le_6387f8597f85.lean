@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowlaSelberg_norm_prod_one_sub_pow_le_6387f8597f85
 -- name    : P2M_GroundTheory_Heights__Heights_ChowlaSelberg_norm_prod_one_sub_pow_le_6387f8597f85
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:16:24.714823+00:00
 -- url     : https://prove2.me/theorems/a14f24ad-d15c-4f2a-adc6-1c921fe5c7d9

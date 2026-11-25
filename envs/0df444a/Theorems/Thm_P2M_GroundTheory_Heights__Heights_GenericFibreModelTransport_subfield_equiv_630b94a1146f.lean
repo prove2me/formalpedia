@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericFibreModelTransport_subfield_equiv_630b94a1146f
 -- name    : P2M_GroundTheory_Heights__Heights_GenericFibreModelTransport_subfield_equiv_630b94a1146f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:17:53.5668+00:00
 -- url     : https://prove2.me/theorems/c7790c9e-41a3-440c-8fb2-6c5ae48256b5

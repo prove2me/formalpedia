@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_GermProjectionFunctionForm_germPull_toGerm_aad33b7ed9c6
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_GermProjectionFunctionForm_germPull_toGerm_aad33b7ed9c6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:21:36.329174+00:00
 -- url     : https://prove2.me/theorems/11b5cced-f0dc-54c1-9829-a7d3962b2667

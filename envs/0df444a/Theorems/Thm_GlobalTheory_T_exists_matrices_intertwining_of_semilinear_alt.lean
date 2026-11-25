@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_matrices_intertwining_of_semilinear_alt
 -- name    : GlobalTheory.T.exists_matrices_intertwining_of_semilinear_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:52:29.8232+00:00
 -- url     : https://prove2.me/theorems/c41b8069-dc80-44ad-8aa4-dbdc9f7c029c

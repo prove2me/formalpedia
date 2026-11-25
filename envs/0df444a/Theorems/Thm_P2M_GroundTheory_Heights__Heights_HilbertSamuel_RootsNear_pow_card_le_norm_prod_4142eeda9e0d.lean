@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_RootsNear_pow_card_le_norm_prod_4142eeda9e0d
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_RootsNear_pow_card_le_norm_prod_4142eeda9e0d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:10.814797+00:00
 -- url     : https://prove2.me/theorems/39abef57-f965-46d7-9238-82f187be6fca

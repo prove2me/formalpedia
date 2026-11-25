@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Bridge_GeoNum_ker_red_0b1d28022722
 -- name    : P2M_GroundTheory_Heights__Heights_Bridge_GeoNum_ker_red_0b1d28022722
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:06:03.9648+00:00
 -- url     : https://prove2.me/theorems/d5cb77e4-f088-4a36-a240-85f506d09e43

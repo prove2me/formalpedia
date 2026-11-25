@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_smul_prod_pow_div
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.smul_prod_pow_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:00:36.091981+00:00
 -- url     : https://prove2.me/theorems/6349b420-bb71-4e46-bbc7-edc57a377395

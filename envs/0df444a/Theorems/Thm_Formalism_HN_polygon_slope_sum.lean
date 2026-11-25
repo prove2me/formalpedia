@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_polygon_slope_sum
 -- name    : Formalism.HN.polygon_slope_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:27:13.342125+00:00
 -- url     : https://prove2.me/theorems/9a1645ea-e1f9-47c6-b044-53021f5cf1dc

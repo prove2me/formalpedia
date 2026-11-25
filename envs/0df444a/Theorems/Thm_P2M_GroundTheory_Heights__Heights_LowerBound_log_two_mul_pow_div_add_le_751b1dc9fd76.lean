@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBound_log_two_mul_pow_div_add_le_751b1dc9fd76
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBound_log_two_mul_pow_div_add_le_751b1dc9fd76
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:28:51.280508+00:00
 -- url     : https://prove2.me/theorems/6619d3ba-18de-46a6-b8a6-3d3f2021d1b0

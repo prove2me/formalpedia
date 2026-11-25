@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_kerIdeal_mulP
 -- name    : GlobalTheory.PDivGroup.kerIdeal_mulP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:02:28.486892+00:00
 -- url     : https://prove2.me/theorems/02db6cc7-fcc6-411f-9dcf-49a2d85657da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CompactHolomorphicFibreFinite_sum_normSq_sub_a47ef27fa32f
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CompactHolomorphicFibreFinite_sum_normSq_sub_a47ef27fa32f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:19:09.943802+00:00
 -- url     : https://prove2.me/theorems/2b46cb6c-2612-597e-9304-d28efd36da5c

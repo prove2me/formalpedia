@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_EffectiveHS_lift_normSq_le_of_589f075b1e6f
 -- name    : P2M_GroundTheory_Heights__Heights_EffectiveHS_lift_normSq_le_of_589f075b1e6f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:16:25.285992+00:00
 -- url     : https://prove2.me/theorems/5d57ff5d-7549-52c8-b0fa-6c7144e6162a

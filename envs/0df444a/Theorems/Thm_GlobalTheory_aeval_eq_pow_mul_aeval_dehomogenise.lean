@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_aeval_eq_pow_mul_aeval_dehomogenise
 -- name    : GlobalTheory.aeval_eq_pow_mul_aeval_dehomogenise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:29:56.969775+00:00
 -- url     : https://prove2.me/theorems/810d890b-198a-4369-8515-690e2a2edc35

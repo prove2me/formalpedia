@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_GradedSubquot_monomial_smul_mem_af862516b9bb
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_GradedSubquot_monomial_smul_mem_af862516b9bb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:13.735118+00:00
 -- url     : https://prove2.me/theorems/1aecb84c-57dc-5bec-a43d-6f9d586c3c7e

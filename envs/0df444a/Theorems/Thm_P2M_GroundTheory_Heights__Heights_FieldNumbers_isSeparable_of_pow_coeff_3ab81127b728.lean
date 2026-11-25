@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_isSeparable_of_pow_coeff_3ab81127b728
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_isSeparable_of_pow_coeff_3ab81127b728
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:33.614281+00:00
 -- url     : https://prove2.me/theorems/92e1502a-7be2-4f35-af8c-4a17bfd0bf25

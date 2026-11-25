@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeHankelTransformAB_differentiableOn_sigma
 -- name    : GlobalTheory.T.heckeHankelTransformAB_differentiableOn_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:43:49.524023+00:00
 -- url     : https://prove2.me/theorems/ecfc2d3c-8401-42d7-b318-9c956632f3b1

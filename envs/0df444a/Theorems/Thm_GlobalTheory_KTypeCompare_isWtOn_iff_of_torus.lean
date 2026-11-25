@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeCompare_isWtOn_iff_of_torus
 -- name    : GlobalTheory.KTypeCompare.isWtOn_iff_of_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:58:32.603086+00:00
 -- url     : https://prove2.me/theorems/46dc5200-941a-4a68-8f10-4d2b1e6aae81

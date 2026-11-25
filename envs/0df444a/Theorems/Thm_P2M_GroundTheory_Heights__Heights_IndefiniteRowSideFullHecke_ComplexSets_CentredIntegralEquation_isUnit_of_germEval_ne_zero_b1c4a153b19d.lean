@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CentredIntegralEquation_isUnit_of_germEval_ne_zero_b1c4a153b19d
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CentredIntegralEquation_isUnit_of_germEval_ne_zero_b1c4a153b19d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:35.902799+00:00
 -- url     : https://prove2.me/theorems/1d66e65f-c83c-444f-8717-271ac0c55528

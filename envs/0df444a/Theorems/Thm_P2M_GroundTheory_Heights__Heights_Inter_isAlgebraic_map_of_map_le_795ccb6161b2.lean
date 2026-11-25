@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_isAlgebraic_map_of_map_le_795ccb6161b2
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_isAlgebraic_map_of_map_le_795ccb6161b2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:24:31.981926+00:00
 -- url     : https://prove2.me/theorems/140729fb-f361-4405-81ce-c8cee9f1343f

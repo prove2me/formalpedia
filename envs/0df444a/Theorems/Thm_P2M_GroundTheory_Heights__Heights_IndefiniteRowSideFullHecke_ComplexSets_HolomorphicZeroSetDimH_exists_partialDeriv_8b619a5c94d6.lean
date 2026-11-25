@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HolomorphicZeroSetDimH_exists_partialDeriv_8b619a5c94d6
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HolomorphicZeroSetDimH_exists_partialDeriv_8b619a5c94d6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:20:19.770294+00:00
 -- url     : https://prove2.me/theorems/b9338868-b4a4-5dd9-9210-c968eaa598a8

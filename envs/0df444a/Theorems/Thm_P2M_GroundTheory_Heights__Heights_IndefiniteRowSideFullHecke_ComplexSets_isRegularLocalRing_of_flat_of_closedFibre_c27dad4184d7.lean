@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_isRegularLocalRing_of_flat_of_closedFibre_c27dad4184d7
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_isRegularLocalRing_of_flat_of_closedFibre_c27dad4184d7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:20:49.711066+00:00
 -- url     : https://prove2.me/theorems/bde91cda-b3ad-4bcb-897b-9d3aee038f9e

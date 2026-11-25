@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_RelBaseChange_aeval_map_7e88154197c4
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_RelBaseChange_aeval_map_7e88154197c4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:22:06.776336+00:00
 -- url     : https://prove2.me/theorems/5f9597b3-83d9-4112-946a-0065a3928301

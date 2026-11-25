@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_PrimeCoverPieceSheets_dvd_of_dvd_map_eval_139eb59d4b54
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_PrimeCoverPieceSheets_dvd_of_dvd_map_eval_139eb59d4b54
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:19:45.533674+00:00
 -- url     : https://prove2.me/theorems/59d13a3d-d7ae-50f6-9a3f-1aa3b3987a7c

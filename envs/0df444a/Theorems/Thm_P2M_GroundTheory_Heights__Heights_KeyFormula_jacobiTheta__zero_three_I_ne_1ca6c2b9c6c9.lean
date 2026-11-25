@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_jacobiTheta__zero_three_I_ne_1ca6c2b9c6c9
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_jacobiTheta__zero_three_I_ne_1ca6c2b9c6c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:25:52.886988+00:00
 -- url     : https://prove2.me/theorems/aa424b16-9596-430b-993b-76906392eef0

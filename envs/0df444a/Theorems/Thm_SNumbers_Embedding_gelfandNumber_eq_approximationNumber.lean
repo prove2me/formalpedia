@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_Embedding_gelfandNumber_eq_approximationNumber
 -- name    : SNumbers.Embedding.gelfandNumber_eq_approximationNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:14:56.493147+00:00
 -- url     : https://prove2.me/theorems/cd9679c2-ade0-4f2f-88d1-a08c802e218e

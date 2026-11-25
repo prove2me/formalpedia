@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_GramPos_pair_iso_right
 -- name    : GlobalTheory.HCXi.GramPos.pair_iso_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:09:56.846689+00:00
 -- url     : https://prove2.me/theorems/68aaf6f0-3e08-46cd-96f6-81f5e5f08920

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_exists_transcendental_mem_witnessSet
 -- name    : SZ.exists_transcendental_mem_witnessSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:25:11.864431+00:00
 -- url     : https://prove2.me/theorems/e1e336d9-47a2-4a3a-bba3-7f3ebdf226be

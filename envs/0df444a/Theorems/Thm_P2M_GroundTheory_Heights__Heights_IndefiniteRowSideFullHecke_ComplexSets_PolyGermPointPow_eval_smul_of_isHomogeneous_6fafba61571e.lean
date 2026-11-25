@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolyGermPointPow_eval_smul_of_isHomogeneous_6fafba61571e
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolyGermPointPow_eval_smul_of_isHomogeneous_6fafba61571e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:20:52.267652+00:00
 -- url     : https://prove2.me/theorems/bb456cfd-2bd0-4014-8845-f175d9b9ec66

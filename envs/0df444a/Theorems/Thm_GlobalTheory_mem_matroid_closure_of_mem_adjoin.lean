@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_matroid_closure_of_mem_adjoin
 -- name    : GlobalTheory.mem_matroid_closure_of_mem_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:55:21.859+00:00
 -- url     : https://prove2.me/theorems/003966ea-ae40-4b9f-af64-9e5f719f6f57

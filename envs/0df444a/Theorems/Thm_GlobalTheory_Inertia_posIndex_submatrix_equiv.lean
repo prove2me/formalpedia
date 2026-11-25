@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_posIndex_submatrix_equiv
 -- name    : GlobalTheory.Inertia.posIndex_submatrix_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:38:20.186062+00:00
 -- url     : https://prove2.me/theorems/1a3c351a-7742-4334-a20e-d584a3830971

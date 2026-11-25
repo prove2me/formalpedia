@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_UnitaryLeft_thH_mul
 -- name    : GlobalTheory.SW.UnitaryLeft.thH_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:18.275462+00:00
 -- url     : https://prove2.me/theorems/67e9a7e4-566c-49e7-bd07-b30b3140b8c7

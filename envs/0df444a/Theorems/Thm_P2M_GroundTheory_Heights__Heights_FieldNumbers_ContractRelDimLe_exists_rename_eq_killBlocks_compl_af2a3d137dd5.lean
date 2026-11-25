@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_ContractRelDimLe_exists_rename_eq_killBlocks_compl_af2a3d137dd5
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_ContractRelDimLe_exists_rename_eq_killBlocks_compl_af2a3d137dd5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:16:44.316695+00:00
 -- url     : https://prove2.me/theorems/82a7005d-c9ba-5a33-8241-260c07ad6605

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowlaSelberg_IntSeriesRing_hasSum_eval_662cca95f5ec
 -- name    : P2M_GroundTheory_Heights__Heights_ChowlaSelberg_IntSeriesRing_hasSum_eval_662cca95f5ec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:15:30.109105+00:00
 -- url     : https://prove2.me/theorems/97ec1077-c5fa-4b3c-bbb1-8294d8e7b346

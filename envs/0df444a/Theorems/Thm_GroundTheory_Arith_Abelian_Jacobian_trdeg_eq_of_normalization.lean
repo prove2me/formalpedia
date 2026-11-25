@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_Jacobian_trdeg_eq_of_normalization
 -- name    : GroundTheory.Arith.Abelian.Jacobian.trdeg_eq_of_normalization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:55:48.709214+00:00
 -- url     : https://prove2.me/theorems/a6401977-f5a1-5733-87c9-4302b9a6d040

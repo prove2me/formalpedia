@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_primTangent_bijective
 -- name    : GlobalTheory.PDiv.primTangent_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:59:44.793413+00:00
 -- url     : https://prove2.me/theorems/d97b6bf0-92c1-4eba-8e63-48216d623046

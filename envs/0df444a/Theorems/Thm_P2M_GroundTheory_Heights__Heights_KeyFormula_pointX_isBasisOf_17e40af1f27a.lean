@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_pointX_isBasisOf_17e40af1f27a
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_pointX_isBasisOf_17e40af1f27a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:27:30.928292+00:00
 -- url     : https://prove2.me/theorems/789c44c2-1e45-4cad-8521-8e9fd46b2ad0

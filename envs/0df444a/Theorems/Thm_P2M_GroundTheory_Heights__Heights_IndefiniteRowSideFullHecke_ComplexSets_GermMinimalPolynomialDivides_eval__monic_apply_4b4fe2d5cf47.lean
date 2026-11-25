@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_GermMinimalPolynomialDivides_eval__monic_apply_4b4fe2d5cf47
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_GermMinimalPolynomialDivides_eval__monic_apply_4b4fe2d5cf47
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:36.010296+00:00
 -- url     : https://prove2.me/theorems/5648128b-b9d8-555c-ae13-7b0cebedeeb5

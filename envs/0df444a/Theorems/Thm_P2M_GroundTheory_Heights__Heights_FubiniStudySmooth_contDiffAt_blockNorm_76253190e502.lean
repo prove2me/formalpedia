@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FubiniStudySmooth_contDiffAt_blockNorm_76253190e502
 -- name    : P2M_GroundTheory_Heights__Heights_FubiniStudySmooth_contDiffAt_blockNorm_76253190e502
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:17:33.530407+00:00
 -- url     : https://prove2.me/theorems/2e629e5d-8a01-4b92-827f-9ea8e8284004

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Cocycles_finite_right_invariant
 -- name    : GlobalTheory.CompanionTheory.Cocycles.finite_right_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:59:31.532131+00:00
 -- url     : https://prove2.me/theorems/66100607-80b3-577c-a152-d894a3bdea65

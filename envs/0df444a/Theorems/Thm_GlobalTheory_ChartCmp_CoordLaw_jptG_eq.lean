@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_CoordLaw_jptG_eq
 -- name    : GlobalTheory.ChartCmp.CoordLaw.jptG_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:37:53.874872+00:00
 -- url     : https://prove2.me/theorems/96ef623b-374e-55e2-9998-c198eb1abc0a

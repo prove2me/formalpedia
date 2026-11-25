@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_diagonal_entry_of_semilinear_mod_subspace_alt
 -- name    : GlobalTheory.T.diagonal_entry_of_semilinear_mod_subspace_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:51:32.648014+00:00
 -- url     : https://prove2.me/theorems/3dd331e3-f07d-5059-bfef-7f1bbf9b5f7f

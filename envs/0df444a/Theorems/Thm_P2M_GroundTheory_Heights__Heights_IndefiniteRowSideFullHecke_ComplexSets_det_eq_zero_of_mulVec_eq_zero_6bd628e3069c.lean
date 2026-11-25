@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_det_eq_zero_of_mulVec_eq_zero_6bd628e3069c
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_det_eq_zero_of_mulVec_eq_zero_6bd628e3069c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:20:57.582092+00:00
 -- url     : https://prove2.me/theorems/7cee32cc-bb2e-46d6-beb5-5490c817f746

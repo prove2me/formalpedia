@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GradientAtPoint_sub_C_eval_mem_span_40e355beff8a
 -- name    : P2M_GroundTheory_Heights__Heights_GradientAtPoint_sub_C_eval_mem_span_40e355beff8a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:53.580576+00:00
 -- url     : https://prove2.me/theorems/781dd679-d4ff-500c-9cdd-ff5d9ed1dd76

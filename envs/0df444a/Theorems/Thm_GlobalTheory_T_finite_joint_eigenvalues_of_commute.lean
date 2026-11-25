@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_joint_eigenvalues_of_commute
 -- name    : GlobalTheory.T.finite_joint_eigenvalues_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:52:45.482867+00:00
 -- url     : https://prove2.me/theorems/09705d60-1148-44be-a9f0-13cfadeb8d01

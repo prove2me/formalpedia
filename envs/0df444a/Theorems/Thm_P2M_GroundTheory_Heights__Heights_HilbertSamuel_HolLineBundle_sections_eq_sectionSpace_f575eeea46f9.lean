@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_HolLineBundle_sections_eq_sectionSpace_f575eeea46f9
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_HolLineBundle_sections_eq_sectionSpace_f575eeea46f9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:18:31.980897+00:00
 -- url     : https://prove2.me/theorems/1793d54e-0bf9-5e89-9839-d136ef3f1768

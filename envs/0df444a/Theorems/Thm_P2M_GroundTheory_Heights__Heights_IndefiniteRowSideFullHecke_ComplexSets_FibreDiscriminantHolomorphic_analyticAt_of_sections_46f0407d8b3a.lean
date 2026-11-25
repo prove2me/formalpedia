@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FibreDiscriminantHolomorphic_analyticAt_of_sections_46f0407d8b3a
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FibreDiscriminantHolomorphic_analyticAt_of_sections_46f0407d8b3a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:19:43.009047+00:00
 -- url     : https://prove2.me/theorems/5c71dd9c-4bce-465c-9665-801aca914b9e

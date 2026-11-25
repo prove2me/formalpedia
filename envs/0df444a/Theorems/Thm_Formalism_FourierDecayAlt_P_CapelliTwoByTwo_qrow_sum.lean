@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliTwoByTwo_qrow_sum
 -- name    : Formalism.FourierDecayAlt.P.CapelliTwoByTwo.qrow_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:02:57.883583+00:00
 -- url     : https://prove2.me/theorems/2675a12c-2950-5d83-8d7c-dc6ad7f73621

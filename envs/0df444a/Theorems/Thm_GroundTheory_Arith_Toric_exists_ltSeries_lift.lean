@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_exists_ltSeries_lift
 -- name    : GroundTheory.Arith.Toric.exists_ltSeries_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:56:17.489541+00:00
 -- url     : https://prove2.me/theorems/6fb42c45-fb49-4a1c-b510-20129521efea

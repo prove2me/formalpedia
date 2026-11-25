@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_transfer_triples
 -- name    : Formalism.FourierDecayAlt.P.transfer_triples
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:24:40.578314+00:00
 -- url     : https://prove2.me/theorems/42aafcd4-6516-43f7-b8cb-4d6eaf79f795

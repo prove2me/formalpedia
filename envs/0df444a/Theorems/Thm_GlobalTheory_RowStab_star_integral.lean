@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowStab_star_integral
 -- name    : GlobalTheory.RowStab.star_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:26:03.629413+00:00
 -- url     : https://prove2.me/theorems/1b383f92-ccfd-4cc2-848a-ae42f5ea2247

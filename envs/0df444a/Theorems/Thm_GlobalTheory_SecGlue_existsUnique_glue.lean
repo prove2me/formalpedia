@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_existsUnique_glue
 -- name    : GlobalTheory.SecGlue.existsUnique_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:50:58.034131+00:00
 -- url     : https://prove2.me/theorems/368599d1-919f-4e3b-96a9-6d27c9867277

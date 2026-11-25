@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_Objects_orthoRows_eq_3882db7d1ef6
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_Objects_orthoRows_eq_3882db7d1ef6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:20:13.055314+00:00
 -- url     : https://prove2.me/theorems/75453da4-87aa-47b0-ac6f-473ab0cbab4d

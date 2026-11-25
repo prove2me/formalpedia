@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_EffectiveHS_JetOfMonomialSum_snoc_const_55250f806c20
 -- name    : P2M_GroundTheory_Heights__Heights_EffectiveHS_JetOfMonomialSum_snoc_const_55250f806c20
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:17:10.114398+00:00
 -- url     : https://prove2.me/theorems/817b221a-1669-4f3e-814b-f8631269a13f

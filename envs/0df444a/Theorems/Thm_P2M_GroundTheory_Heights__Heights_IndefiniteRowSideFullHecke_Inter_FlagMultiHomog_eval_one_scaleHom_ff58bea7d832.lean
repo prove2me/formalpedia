@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagMultiHomog_eval_one_scaleHom_ff58bea7d832
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagMultiHomog_eval_one_scaleHom_ff58bea7d832
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:23:07.194519+00:00
 -- url     : https://prove2.me/theorems/3a605462-d5c7-4d34-b7d4-f83dc93f868e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_two_lt_of_four_lt
 -- name    : Formalism.FourierDecayAlt.P.PBD.two_lt_of_four_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:47:58.237423+00:00
 -- url     : https://prove2.me/theorems/b80205a2-c1f8-54ba-9e91-fc1d4fc62e56

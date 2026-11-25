@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_thetaModel_groupLaw
 -- name    : GlobalTheory.thetaModel_groupLaw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:59:19.499031+00:00
 -- url     : https://prove2.me/theorems/76addcab-411d-451a-a12a-26aefefffb37

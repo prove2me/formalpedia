@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualStdGenDeg_eq_fibreBlk__7ccb16f65f47
 -- name    : P2M_GroundTheory_Heights__Heights_DualStdGenDeg_eq_fibreBlk__7ccb16f65f47
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:17:15.728449+00:00
 -- url     : https://prove2.me/theorems/905304f3-1f90-573a-9429-c2d05638ad11

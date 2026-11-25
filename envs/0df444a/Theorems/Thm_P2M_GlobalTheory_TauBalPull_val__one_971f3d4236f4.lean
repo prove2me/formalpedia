@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_TauBalPull_val__one_971f3d4236f4
 -- name    : P2M_GlobalTheory_TauBalPull_val__one_971f3d4236f4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:11:15.262951+00:00
 -- url     : https://prove2.me/theorems/a9723fd2-7c36-4ba2-b8fa-b3302ad9d763

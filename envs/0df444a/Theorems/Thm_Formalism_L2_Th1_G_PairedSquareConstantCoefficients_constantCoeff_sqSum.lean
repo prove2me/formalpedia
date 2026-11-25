@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_PairedSquareConstantCoefficients_constantCoeff_sqSum
 -- name    : Formalism.L2.Th1.G.PairedSquareConstantCoefficients.constantCoeff_sqSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:02:18.333041+00:00
 -- url     : https://prove2.me/theorems/58d96f71-89c7-41a1-b00f-f5364a557ff0

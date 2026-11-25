@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_mulL2_isSelfAdjoint
 -- name    : MeasureTheory.mulL2_isSelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:11:14.948593+00:00
 -- url     : https://prove2.me/theorems/7773d117-8b09-4c09-ab9f-97fe7b1aa12f

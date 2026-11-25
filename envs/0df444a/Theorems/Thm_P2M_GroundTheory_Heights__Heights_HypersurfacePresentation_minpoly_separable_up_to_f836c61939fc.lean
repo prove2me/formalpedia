@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HypersurfacePresentation_minpoly_separable_up_to_f836c61939fc
 -- name    : P2M_GroundTheory_Heights__Heights_HypersurfacePresentation_minpoly_separable_up_to_f836c61939fc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:44.743409+00:00
 -- url     : https://prove2.me/theorems/88c424dd-8d69-4047-952b-dfbfb22f096c

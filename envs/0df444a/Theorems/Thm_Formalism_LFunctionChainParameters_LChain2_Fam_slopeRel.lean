@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_Fam_slopeRel
 -- name    : Formalism.LFunctionChainParameters.LChain2.Fam.slopeRel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:43:12.120874+00:00
 -- url     : https://prove2.me/theorems/bdc5b85e-e419-41da-bb70-1fa6c291b886

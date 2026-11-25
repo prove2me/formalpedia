@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitDenom_sum_castLE
 -- name    : GlobalTheory.OrbitDenom.sum_castLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:16:26.472726+00:00
 -- url     : https://prove2.me/theorems/b45bb302-4faf-44f3-a1ab-91fa94974661

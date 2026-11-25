@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_thmAOp
 -- name    : Formalism.DworkPowerSeriesWeights.thmAOp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:08:35.372971+00:00
 -- url     : https://prove2.me/theorems/9d8fe25c-f6aa-47c4-ba4e-dea58b9c99c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_resHom_baseMap
 -- name    : GroundTheory.Automorphic.Anisotropic.resHom_baseMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:56:01.680673+00:00
 -- url     : https://prove2.me/theorems/eef0c286-9024-57c7-a1c4-b70aea6113ae

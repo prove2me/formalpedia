@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_normal_of_le_of_zpowers_eq_top
 -- name    : GroundTheory.Global.Artin.normal_of_le_of_zpowers_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:14:03.225527+00:00
 -- url     : https://prove2.me/theorems/cf7dafc7-bed2-4341-939c-20a4afcd329f

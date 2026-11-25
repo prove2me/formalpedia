@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_injective_of_isZero_groupHomology_one
 -- name    : GroundTheory.GroupCoh.injective_of_isZero_groupHomology_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:43:29.930978+00:00
 -- url     : https://prove2.me/theorems/d05040de-85b9-4fef-8564-1afbc2f97849

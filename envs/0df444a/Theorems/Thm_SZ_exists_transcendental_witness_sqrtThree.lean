@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_exists_transcendental_witness_sqrtThree
 -- name    : SZ.exists_transcendental_witness_sqrtThree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:02:45.400064+00:00
 -- url     : https://prove2.me/theorems/247ef4aa-642c-5e4d-9713-83fc6d7d69df

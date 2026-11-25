@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FlagTypings_weight_blockWeight_8aa7cbb3c809
 -- name    : P2M_GroundTheory_Heights__Heights_FlagTypings_weight_blockWeight_8aa7cbb3c809
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:20:46.595055+00:00
 -- url     : https://prove2.me/theorems/b7c0b358-9bec-5235-a816-33201ddde5d5

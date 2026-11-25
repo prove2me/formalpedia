@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_RiemannExtensionAnalytic_circleIntegral_inv_smul_eq_123c7f3e4e62
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_RiemannExtensionAnalytic_circleIntegral_inv_smul_eq_123c7f3e4e62
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:20:39.276007+00:00
 -- url     : https://prove2.me/theorems/fbc81ab9-83e9-4a2f-81dc-91134c7c04ac

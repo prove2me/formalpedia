@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMongeAmpereAffineInvariance_mulVec_cons_of_row_zero_5b804bab8996
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMongeAmpereAffineInvariance_mulVec_cons_of_row_zero_5b804bab8996
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:15:33.073181+00:00
 -- url     : https://prove2.me/theorems/086c765f-1c69-5879-9222-070fc547b45e

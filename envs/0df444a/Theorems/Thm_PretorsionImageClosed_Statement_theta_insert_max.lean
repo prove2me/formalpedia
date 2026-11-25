@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_theta_insert_max
 -- name    : PretorsionImageClosed.Statement.theta_insert_max
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:12:29.452798+00:00
 -- url     : https://prove2.me/theorems/4e8b7841-cc96-4fda-864a-f88673c38b12

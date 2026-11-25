@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_eq_of_retract_interval
 -- name    : PretorsionImageClosed.LinearQuiver.eq_of_retract_interval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:15:43.08169+00:00
 -- url     : https://prove2.me/theorems/e1b44b07-5782-45e0-ba07-08e3b8e01796

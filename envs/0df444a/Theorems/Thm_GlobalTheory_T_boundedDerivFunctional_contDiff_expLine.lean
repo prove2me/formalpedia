@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_boundedDerivFunctional_contDiff_expLine
 -- name    : GlobalTheory.T.boundedDerivFunctional_contDiff_expLine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:11:00.7948+00:00
 -- url     : https://prove2.me/theorems/cb97061d-d122-539a-be20-1594d8b52938

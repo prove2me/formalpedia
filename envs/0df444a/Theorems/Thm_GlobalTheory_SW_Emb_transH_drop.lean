@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Emb_transH_drop
 -- name    : GlobalTheory.SW.Emb.transH_drop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:39:02.928594+00:00
 -- url     : https://prove2.me/theorems/b06c48a6-a6ca-40dd-9ca7-d92162019788

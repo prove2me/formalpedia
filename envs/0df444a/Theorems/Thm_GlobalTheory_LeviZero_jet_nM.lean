@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeviZero_jet_nM
 -- name    : GlobalTheory.LeviZero.jet_nM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:03:31.178557+00:00
 -- url     : https://prove2.me/theorems/86719a52-5862-4a94-b41f-ce31d771777a

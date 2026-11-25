@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_RankOfSections_position_nsmul_f2c745582da5
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_RankOfSections_position_nsmul_f2c745582da5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:15.892377+00:00
 -- url     : https://prove2.me/theorems/a6832b12-f2c6-46fc-a84e-ae780711f6fe

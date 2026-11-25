@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_lattice_discriminant_reduction
 -- name    : Formalism.LFunctionChainParameters.LChain2.lattice_discriminant_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:00:23.190687+00:00
 -- url     : https://prove2.me/theorems/e450710e-43c7-47b0-b9eb-4985235d281c

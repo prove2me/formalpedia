@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeMeetNull_null_of_mem_not_mem_360c3fd12496
 -- name    : P2M_GroundTheory_Heights__Heights_ConeMeetNull_null_of_mem_not_mem_360c3fd12496
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:16:40.150475+00:00
 -- url     : https://prove2.me/theorems/32bd0e66-8c50-4974-8762-1e6734f1c399

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isBaseChange_subtype_of_basis_after_extension
 -- name    : GlobalTheory.isBaseChange_subtype_of_basis_after_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:56:18.604282+00:00
 -- url     : https://prove2.me/theorems/1a1abf0a-ab9d-4864-a66f-815ae9d8b706

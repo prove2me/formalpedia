@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_IsPosFrame_quot
 -- name    : GlobalTheory.HermFrame.IsPosFrame.quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:37:40.679886+00:00
 -- url     : https://prove2.me/theorems/8cd50384-25f8-4c9b-8ecc-9c888be965f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_levi_finset_sum_e74cda080f38
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_levi_finset_sum_e74cda080f38
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:17:47.148797+00:00
 -- url     : https://prove2.me/theorems/1bf43c2c-9d8a-4201-b71b-fe68d8609afc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_norm_eval_le_sum_norm_coeff_mul_b54267a9929a
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_norm_eval_le_sum_norm_coeff_mul_b54267a9929a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:19:15.290407+00:00
 -- url     : https://prove2.me/theorems/b6d31c12-53d3-5f7b-9b19-009175d6c1f4

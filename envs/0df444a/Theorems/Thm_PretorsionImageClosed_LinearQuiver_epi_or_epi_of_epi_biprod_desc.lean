@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_epi_or_epi_of_epi_biprod_desc
 -- name    : PretorsionImageClosed.LinearQuiver.epi_or_epi_of_epi_biprod_desc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:14:01.057697+00:00
 -- url     : https://prove2.me/theorems/e10aeb86-e852-4b6e-ad86-9e8f4bfd248e

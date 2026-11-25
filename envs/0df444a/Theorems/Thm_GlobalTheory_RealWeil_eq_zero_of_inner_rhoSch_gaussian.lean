@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_eq_zero_of_inner_rhoSch_gaussian
 -- name    : GlobalTheory.RealWeil.eq_zero_of_inner_rhoSch_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:16:42.73562+00:00
 -- url     : https://prove2.me/theorems/9a7eaea3-a237-4b18-a5a4-41c7cf1444ab

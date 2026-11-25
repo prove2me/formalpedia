@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeadBound_IsDom_of_sq_le
 -- name    : GlobalTheory.LeadBound.IsDom.of_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:46:20.491893+00:00
 -- url     : https://prove2.me/theorems/a6bceeae-72ea-45af-92a8-5b60dbf03440

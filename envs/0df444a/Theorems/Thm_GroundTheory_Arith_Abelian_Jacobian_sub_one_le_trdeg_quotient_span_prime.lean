@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_Jacobian_sub_one_le_trdeg_quotient_span_prime
 -- name    : GroundTheory.Arith.Abelian.Jacobian.sub_one_le_trdeg_quotient_span_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:56:21.604187+00:00
 -- url     : https://prove2.me/theorems/537c769e-d8e9-4db6-8480-3b5fde0402c5

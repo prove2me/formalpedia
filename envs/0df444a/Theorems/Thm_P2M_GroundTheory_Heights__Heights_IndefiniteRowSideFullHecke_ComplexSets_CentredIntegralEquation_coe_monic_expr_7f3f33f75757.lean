@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CentredIntegralEquation_coe_monic_expr_7f3f33f75757
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CentredIntegralEquation_coe_monic_expr_7f3f33f75757
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:43.726459+00:00
 -- url     : https://prove2.me/theorems/c1aaf017-b372-4a01-9283-1954156b2730

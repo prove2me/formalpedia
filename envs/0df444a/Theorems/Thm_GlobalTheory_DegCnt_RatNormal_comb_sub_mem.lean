@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_RatNormal_comb_sub_mem
 -- name    : GlobalTheory.DegCnt.RatNormal.comb_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:25:42.728776+00:00
 -- url     : https://prove2.me/theorems/5bd35d89-cfe0-5c05-bd6b-5dde1fb941d8

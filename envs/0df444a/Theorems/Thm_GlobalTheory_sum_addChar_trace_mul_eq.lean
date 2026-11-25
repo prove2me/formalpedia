@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_addChar_trace_mul_eq
 -- name    : GlobalTheory.sum_addChar_trace_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:55:21.730616+00:00
 -- url     : https://prove2.me/theorems/bedca60a-4204-53a5-805e-da07981a450b

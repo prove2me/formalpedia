@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_SheetPieceProductAnalytic_differentiableAt_prodFn_c88dec3fd0bb
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_SheetPieceProductAnalytic_differentiableAt_prodFn_c88dec3fd0bb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:20:33.477107+00:00
 -- url     : https://prove2.me/theorems/28e5b336-9b21-4a13-8018-8ac63c3dc6c0

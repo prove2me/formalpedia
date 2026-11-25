@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain6_log_ne_bound
 -- name    : Formalism.LFunctionChainParameters.LChain6.log_ne_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:08:12.977536+00:00
 -- url     : https://prove2.me/theorems/f0808ebd-0eb4-4433-906e-e7fa9b2dce97

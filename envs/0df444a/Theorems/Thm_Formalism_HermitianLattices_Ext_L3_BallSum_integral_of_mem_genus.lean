@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallSum_integral_of_mem_genus
 -- name    : Formalism.HermitianLattices.Ext.L3.BallSum.integral_of_mem_genus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:59:37.216933+00:00
 -- url     : https://prove2.me/theorems/9e655c6b-cbb8-4694-93fa-075c131753a8

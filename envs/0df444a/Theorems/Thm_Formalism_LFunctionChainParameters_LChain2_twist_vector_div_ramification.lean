@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_twist_vector_div_ramification
 -- name    : Formalism.LFunctionChainParameters.LChain2.twist_vector_div_ramification
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:35:06.925592+00:00
 -- url     : https://prove2.me/theorems/a72196fd-7e2e-48d9-a5b6-320a4ebc0ee9

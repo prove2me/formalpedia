@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_eq_zero_on_chart_of_eventually_eq_zero_fd49f49455cd
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_eq_zero_on_chart_of_eventually_eq_zero_fd49f49455cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:21:04.543954+00:00
 -- url     : https://prove2.me/theorems/93a70086-9be9-4b1d-8bd7-bafe7f38095c

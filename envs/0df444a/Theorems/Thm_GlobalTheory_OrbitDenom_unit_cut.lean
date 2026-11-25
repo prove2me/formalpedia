@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitDenom_unit_cut
 -- name    : GlobalTheory.OrbitDenom.unit_cut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:24:39.595244+00:00
 -- url     : https://prove2.me/theorems/17e2ed44-3062-4ee7-b9ea-e83767aa5ad6

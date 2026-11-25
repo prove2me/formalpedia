@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_deriv_deriv_log_norm_eval_1579c03559df
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_deriv_deriv_log_norm_eval_1579c03559df
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:17:31.039796+00:00
 -- url     : https://prove2.me/theorems/aac8eed6-ec36-5994-8033-1b84e7aa2df8

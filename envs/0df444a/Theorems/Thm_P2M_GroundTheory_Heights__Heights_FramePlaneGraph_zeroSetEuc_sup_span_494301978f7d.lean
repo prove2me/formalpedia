@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FramePlaneGraph_zeroSetEuc_sup_span_494301978f7d
 -- name    : P2M_GroundTheory_Heights__Heights_FramePlaneGraph_zeroSetEuc_sup_span_494301978f7d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:00.90705+00:00
 -- url     : https://prove2.me/theorems/0ff018d4-eb83-467e-8132-b91a39665b0f

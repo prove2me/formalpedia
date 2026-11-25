@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_EffectiveHS_cD_le_1c08ca7d6cd0
 -- name    : P2M_GroundTheory_Heights__Heights_EffectiveHS_cD_le_1c08ca7d6cd0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:16:10.367677+00:00
 -- url     : https://prove2.me/theorems/383886cb-af2d-58fc-85e5-8083ebddb82a

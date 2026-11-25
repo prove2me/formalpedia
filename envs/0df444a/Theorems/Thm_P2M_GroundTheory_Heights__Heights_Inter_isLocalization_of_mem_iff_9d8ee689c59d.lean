@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_isLocalization_of_mem_iff_9d8ee689c59d
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_isLocalization_of_mem_iff_9d8ee689c59d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:23:20.373843+00:00
 -- url     : https://prove2.me/theorems/32e700dc-7699-4c06-ad46-088837b9d01d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DivisorBranches_not_mem_zeroSet_of_le_070b3c6613ef
 -- name    : P2M_GroundTheory_Heights__Heights_DivisorBranches_not_mem_zeroSet_of_le_070b3c6613ef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:00.604824+00:00
 -- url     : https://prove2.me/theorems/7bfb8ec6-d6d6-53c1-af23-980084f769f5

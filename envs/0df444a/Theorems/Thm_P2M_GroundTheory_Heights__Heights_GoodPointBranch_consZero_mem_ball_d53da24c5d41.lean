@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GoodPointBranch_consZero_mem_ball_d53da24c5d41
 -- name    : P2M_GroundTheory_Heights__Heights_GoodPointBranch_consZero_mem_ball_d53da24c5d41
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:18:10.821886+00:00
 -- url     : https://prove2.me/theorems/81c09c20-2902-4eb1-a74f-45bb1911a35b

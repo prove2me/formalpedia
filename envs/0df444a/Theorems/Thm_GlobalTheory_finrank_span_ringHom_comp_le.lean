@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_span_ringHom_comp_le
 -- name    : GlobalTheory.finrank_span_ringHom_comp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:55:43.800166+00:00
 -- url     : https://prove2.me/theorems/5d7aae80-5e4b-4f65-8877-0f345b893aa0

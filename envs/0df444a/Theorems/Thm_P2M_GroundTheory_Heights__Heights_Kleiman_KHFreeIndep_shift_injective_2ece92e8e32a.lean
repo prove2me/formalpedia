@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHFreeIndep_shift_injective_2ece92e8e32a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHFreeIndep_shift_injective_2ece92e8e32a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:26:34.546728+00:00
 -- url     : https://prove2.me/theorems/6fb22dcc-4084-4a9d-8b51-8b48a0c8452b

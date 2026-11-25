@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvSmooth_secondCountable_units
 -- name    : GlobalTheory.ConvSmooth.secondCountable_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:41:31.730428+00:00
 -- url     : https://prove2.me/theorems/e9df0ab2-4c12-4af2-9e1f-131532facaa0

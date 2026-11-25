@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushSecondLaw_alg_step
 -- name    : GlobalTheory.PushSecondLaw.alg_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:57:55.659801+00:00
 -- url     : https://prove2.me/theorems/2d386083-9ba4-4a86-8050-2e681f022feb

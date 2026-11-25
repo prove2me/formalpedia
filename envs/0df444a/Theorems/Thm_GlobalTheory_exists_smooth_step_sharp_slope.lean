@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smooth_step_sharp_slope
 -- name    : GlobalTheory.exists_smooth_step_sharp_slope
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:55:37.560906+00:00
 -- url     : https://prove2.me/theorems/f9bfa496-153a-4d05-ba37-ccce05f1060b

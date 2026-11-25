@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WachFree_basis_of_baseChange
 -- name    : GlobalTheory.WachFree.basis_of_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:14:00.836796+00:00
 -- url     : https://prove2.me/theorems/1fa3ae6f-9891-407a-9d77-813511ef2338

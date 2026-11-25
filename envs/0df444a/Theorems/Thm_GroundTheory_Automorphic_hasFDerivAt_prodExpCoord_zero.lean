@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hasFDerivAt_prodExpCoord_zero
 -- name    : GroundTheory.Automorphic.hasFDerivAt_prodExpCoord_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:35:44.442832+00:00
 -- url     : https://prove2.me/theorems/b1444b27-f2cf-4bdc-92e1-b63ef511cac9

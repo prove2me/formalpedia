@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_prime_map_of_prime_795d521bbf73
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_prime_map_of_prime_795d521bbf73
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:22:16.303095+00:00
 -- url     : https://prove2.me/theorems/6e84ead7-b705-5684-a474-90f9f4505a1f

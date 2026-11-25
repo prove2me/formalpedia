@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ClosedPointAffineChart_mem_curveRing_of_forall_780a7c40c442
 -- name    : P2M_GroundTheory_Heights__Heights_ClosedPointAffineChart_mem_curveRing_of_forall_780a7c40c442
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:16:24.690065+00:00
 -- url     : https://prove2.me/theorems/f6271e52-9b99-5063-8d48-d3b65d766c94

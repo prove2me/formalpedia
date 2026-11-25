@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitChartMax_map_homogenize_3648309def12
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitChartMax_map_homogenize_3648309def12
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:21:23.034476+00:00
 -- url     : https://prove2.me/theorems/c47314a2-b6e1-4438-b3c0-c3977307bdbf

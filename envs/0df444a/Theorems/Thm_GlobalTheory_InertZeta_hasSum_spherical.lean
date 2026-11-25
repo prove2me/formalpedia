@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_hasSum_spherical
 -- name    : GlobalTheory.InertZeta.hasSum_spherical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:45:06.540748+00:00
 -- url     : https://prove2.me/theorems/651ace42-6e14-4a67-849d-bd4f609768d5

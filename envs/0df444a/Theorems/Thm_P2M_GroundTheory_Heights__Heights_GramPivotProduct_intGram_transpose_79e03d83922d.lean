@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GramPivotProduct_intGram_transpose_79e03d83922d
 -- name    : P2M_GroundTheory_Heights__Heights_GramPivotProduct_intGram_transpose_79e03d83922d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:18:11.445172+00:00
 -- url     : https://prove2.me/theorems/49650fb3-1d54-48f2-bb0f-0f2577753479

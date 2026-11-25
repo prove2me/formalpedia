@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeLocalSheets_homogenize_ne_zero_b4aa12b26ec4
 -- name    : P2M_GroundTheory_Heights__Heights_ConeLocalSheets_homogenize_ne_zero_b4aa12b26ec4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:23:50.234455+00:00
 -- url     : https://prove2.me/theorems/354402d9-2dca-51ea-a993-93259a08afbb

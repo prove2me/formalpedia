@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Dyadic_lintegral_mul_le_of_sq
 -- name    : GlobalTheory.Dyadic.lintegral_mul_le_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:26:45.607342+00:00
 -- url     : https://prove2.me/theorems/bd33e73e-091f-4cc9-8dfc-8e9f38ceff6a

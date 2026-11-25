@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_CoordDir_fst_tp
 -- name    : GlobalTheory.ChartCmp.CoordDir.fst_tp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:09:10.877272+00:00
 -- url     : https://prove2.me/theorems/5b7d32b4-ce24-43e4-9e56-623f70810ac4

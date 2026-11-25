@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_unit_rule_over_places
 -- name    : Formalism.LFunctionChainParameters.LChain2.unit_rule_over_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:07:02.707382+00:00
 -- url     : https://prove2.me/theorems/5db60f77-cf69-4b17-91bb-c6e0d5126d0f

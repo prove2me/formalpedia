@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_Cutoff_norm_entry_le_opNorm
 -- name    : GlobalTheory.IntBall.Cutoff.norm_entry_le_opNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:45:18.745221+00:00
 -- url     : https://prove2.me/theorems/cc3f9cc4-446b-58f2-ac68-1d45251736fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_aemeasurable_coneIntegrand_23ef9853180b
 -- name    : P2M_GroundTheory_Heights__Heights_ConeMapAreaFormula_aemeasurable_coneIntegrand_23ef9853180b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:17:12.805915+00:00
 -- url     : https://prove2.me/theorems/9f8d0228-2e8f-4b16-9e6a-9a28b4d2ca08

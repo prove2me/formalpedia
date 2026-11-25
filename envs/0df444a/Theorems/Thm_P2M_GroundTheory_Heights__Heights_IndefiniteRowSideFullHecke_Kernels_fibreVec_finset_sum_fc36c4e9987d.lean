@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_fibreVec_finset_sum_fc36c4e9987d
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_fibreVec_finset_sum_fc36c4e9987d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:25:35.976168+00:00
 -- url     : https://prove2.me/theorems/d28d1621-ae9e-469b-8b9f-000b43309970

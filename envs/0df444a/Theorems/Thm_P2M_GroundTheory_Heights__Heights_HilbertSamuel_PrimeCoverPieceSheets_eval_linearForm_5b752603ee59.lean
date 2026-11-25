@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_PrimeCoverPieceSheets_eval_linearForm_5b752603ee59
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_PrimeCoverPieceSheets_eval_linearForm_5b752603ee59
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:19:18.68791+00:00
 -- url     : https://prove2.me/theorems/f6235619-7e7c-560b-8173-b52d4d400d5d

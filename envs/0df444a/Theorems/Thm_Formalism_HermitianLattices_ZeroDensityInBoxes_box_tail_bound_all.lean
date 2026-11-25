@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroDensityInBoxes_box_tail_bound_all
 -- name    : Formalism.HermitianLattices.ZeroDensityInBoxes.box_tail_bound_all
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:55.634698+00:00
 -- url     : https://prove2.me/theorems/37cd983f-2462-4ebd-841c-f7895ec5b6a1

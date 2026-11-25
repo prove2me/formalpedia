@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_monic_root_branch_eventuallyEq_94398728a4f6
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_monic_root_branch_eventuallyEq_94398728a4f6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:22:02.11794+00:00
 -- url     : https://prove2.me/theorems/f33ee847-4934-41f0-8a3d-aef9485b6020

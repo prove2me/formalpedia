@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBallMinorOne_schur_bound
 -- name    : GlobalTheory.IntBallMinorOne.schur_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:46:07.775986+00:00
 -- url     : https://prove2.me/theorems/f078005f-ceee-4b2d-bdcc-f3a5d10b8938

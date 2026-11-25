@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowlaSelberg_isIntegral_of_map_5350c19fe2cc
 -- name    : P2M_GroundTheory_Heights__Heights_ChowlaSelberg_isIntegral_of_map_5350c19fe2cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:16:00.793799+00:00
 -- url     : https://prove2.me/theorems/f14e51e9-29a8-5540-819e-ea4ae5f63745

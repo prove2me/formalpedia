@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QHolo_summable_key
 -- name    : GlobalTheory.QHolo.summable_key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:23:13.814045+00:00
 -- url     : https://prove2.me/theorems/048b34df-a94b-4a11-843c-7e12d8dbb50b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PrimeGermNullstellensatz_exists_of_mem_holGermIdeal_830af1ccc461
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PrimeGermNullstellensatz_exists_of_mem_holGermIdeal_830af1ccc461
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:20:49.219453+00:00
 -- url     : https://prove2.me/theorems/90586abd-2fb4-4d98-a7e9-a856b7231aa5

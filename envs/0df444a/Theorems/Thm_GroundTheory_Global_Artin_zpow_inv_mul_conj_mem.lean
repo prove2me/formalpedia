@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_zpow_inv_mul_conj_mem
 -- name    : GroundTheory.Global.Artin.zpow_inv_mul_conj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:14:16.053024+00:00
 -- url     : https://prove2.me/theorems/451d95dc-2548-406a-9f07-5af79ae24699

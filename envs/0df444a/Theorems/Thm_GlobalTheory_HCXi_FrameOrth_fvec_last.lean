@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_FrameOrth_fvec_last
 -- name    : GlobalTheory.HCXi.FrameOrth.fvec_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:09:17.10642+00:00
 -- url     : https://prove2.me/theorems/fa0ebafe-1388-5f4c-959b-b77e065b75a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHFreeDecomp_overDen_apply_c50c6731e4a1
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHFreeDecomp_overDen_apply_c50c6731e4a1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:27:00.979718+00:00
 -- url     : https://prove2.me/theorems/13f050ac-5241-441d-9304-8c851fbc543d

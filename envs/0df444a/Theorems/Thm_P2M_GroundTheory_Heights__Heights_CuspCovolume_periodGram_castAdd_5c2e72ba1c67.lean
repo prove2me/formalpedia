@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CuspCovolume_periodGram_castAdd_5c2e72ba1c67
 -- name    : P2M_GroundTheory_Heights__Heights_CuspCovolume_periodGram_castAdd_5c2e72ba1c67
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:14.297957+00:00
 -- url     : https://prove2.me/theorems/6bc406f4-9440-47e7-8f7e-ea1c3566d4e2

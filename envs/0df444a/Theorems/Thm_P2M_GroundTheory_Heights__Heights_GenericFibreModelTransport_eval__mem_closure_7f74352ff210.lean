@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericFibreModelTransport_eval__mem_closure_7f74352ff210
 -- name    : P2M_GroundTheory_Heights__Heights_GenericFibreModelTransport_eval__mem_closure_7f74352ff210
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:17:47.748551+00:00
 -- url     : https://prove2.me/theorems/0d5e7a37-bafc-4e26-b51c-a4d0c7f1ef49

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_mem_dom
 -- name    : GlobalTheory.TwoLines.mem_dom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:11:20.929496+00:00
 -- url     : https://prove2.me/theorems/e816bc16-f9e4-577a-945b-e4dd40bbc6c9

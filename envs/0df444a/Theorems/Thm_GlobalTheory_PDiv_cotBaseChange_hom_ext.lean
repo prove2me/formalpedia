@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_cotBaseChange_hom_ext
 -- name    : GlobalTheory.PDiv.cotBaseChange_hom_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:01:20.444947+00:00
 -- url     : https://prove2.me/theorems/07604e72-3e38-5bf5-a7a3-f114c858b62f

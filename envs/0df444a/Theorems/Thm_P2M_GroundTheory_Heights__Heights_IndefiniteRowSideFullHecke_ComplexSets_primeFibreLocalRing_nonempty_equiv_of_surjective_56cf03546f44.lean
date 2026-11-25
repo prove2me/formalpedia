@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_primeFibreLocalRing_nonempty_equiv_of_surjective_56cf03546f44
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_primeFibreLocalRing_nonempty_equiv_of_surjective_56cf03546f44
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:21:47.183813+00:00
 -- url     : https://prove2.me/theorems/0ada6796-aff3-4f64-83fa-ce2ce0fadb97

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_not_mem_zeroLocus_multiIrrelevantIdeal_4f8d0c60fed7
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_not_mem_zeroLocus_multiIrrelevantIdeal_4f8d0c60fed7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:25:00.073442+00:00
 -- url     : https://prove2.me/theorems/ccaf90a4-b9b4-53a2-9aeb-5b4049472b37

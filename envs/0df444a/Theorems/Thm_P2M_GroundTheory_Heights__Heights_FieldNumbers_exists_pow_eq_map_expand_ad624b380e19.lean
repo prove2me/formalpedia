@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_exists_pow_eq_map_expand_ad624b380e19
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_exists_pow_eq_map_expand_ad624b380e19
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:16:53.565215+00:00
 -- url     : https://prove2.me/theorems/710ff125-1a8a-5ee0-a771-289b8521370c

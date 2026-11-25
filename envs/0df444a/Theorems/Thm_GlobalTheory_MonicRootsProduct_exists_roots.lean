@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonicRootsProduct_exists_roots
 -- name    : GlobalTheory.MonicRootsProduct.exists_roots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:46:23.981971+00:00
 -- url     : https://prove2.me/theorems/9bb263f1-626b-4634-bd25-c1d52d4765b5

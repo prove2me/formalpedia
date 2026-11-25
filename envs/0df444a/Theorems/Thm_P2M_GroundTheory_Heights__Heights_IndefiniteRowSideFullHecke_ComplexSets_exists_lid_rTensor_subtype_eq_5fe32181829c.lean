@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_exists_lid_rTensor_subtype_eq_5fe32181829c
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_exists_lid_rTensor_subtype_eq_5fe32181829c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:20:47.500576+00:00
 -- url     : https://prove2.me/theorems/7bf5fc05-a974-4362-b2c4-0fae75a05070

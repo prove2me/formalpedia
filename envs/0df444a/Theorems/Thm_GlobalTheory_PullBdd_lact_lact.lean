@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PullBdd_lact_lact
 -- name    : GlobalTheory.PullBdd.lact_lact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:01:38.849472+00:00
 -- url     : https://prove2.me/theorems/d49bd038-2ead-47b9-ba46-7cabc6cc9f03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_continuous_fsv
 -- name    : Formalism.FourierDecayAlt.P5.continuous_fsv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:53:33.867084+00:00
 -- url     : https://prove2.me/theorems/fb267999-7680-5375-966c-c026b9426ab3

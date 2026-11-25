@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DivisorBranches_quotient_inf_dim_lt_0a71c29a111f
 -- name    : P2M_GroundTheory_Heights__Heights_DivisorBranches_quotient_inf_dim_lt_0a71c29a111f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:06.422629+00:00
 -- url     : https://prove2.me/theorems/dbf18e28-a6ef-545b-8e2c-34258d38325e

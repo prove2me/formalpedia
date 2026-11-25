@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericFreeness_isLocalizedModule_powers_mul_0b09b1d3491f
 -- name    : P2M_GroundTheory_Heights__Heights_GenericFreeness_isLocalizedModule_powers_mul_0b09b1d3491f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:17:33.386885+00:00
 -- url     : https://prove2.me/theorems/378abeca-4112-47fc-9396-c8a30c872038
