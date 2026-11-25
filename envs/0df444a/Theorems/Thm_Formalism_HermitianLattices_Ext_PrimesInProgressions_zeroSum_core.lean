@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_zeroSum_core
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.zeroSum_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:18:17.143548+00:00
 -- url     : https://prove2.me/theorems/6ec1b292-576c-4f14-ba8f-9b6a5aae5942

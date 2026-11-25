@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_exists_isKMeas
 -- name    : GlobalTheory.HCXi.exists_isKMeas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:48:43.480929+00:00
 -- url     : https://prove2.me/theorems/19b82d88-e4c0-550c-abea-5e26a9e91222

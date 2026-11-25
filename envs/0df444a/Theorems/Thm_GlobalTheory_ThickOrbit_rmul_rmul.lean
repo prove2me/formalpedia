@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickOrbit_rmul_rmul
 -- name    : GlobalTheory.ThickOrbit.rmul_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:05:52.925165+00:00
 -- url     : https://prove2.me/theorems/2ef2cefc-a693-4e01-9191-9df598326632

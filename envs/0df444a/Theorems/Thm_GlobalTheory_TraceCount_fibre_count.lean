@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceCount_fibre_count
 -- name    : GlobalTheory.TraceCount.fibre_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:19:21.087395+00:00
 -- url     : https://prove2.me/theorems/4641d30a-254b-4cc2-b8aa-b179564baa99

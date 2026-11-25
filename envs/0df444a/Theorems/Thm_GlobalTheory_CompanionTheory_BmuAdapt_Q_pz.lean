@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuAdapt_Q_pz
 -- name    : GlobalTheory.CompanionTheory.BmuAdapt.Q_pz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:19:56.825137+00:00
 -- url     : https://prove2.me/theorems/e2d978da-cb6d-53dc-8c26-e8eacd89fbad

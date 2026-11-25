@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_eOf_char_sq
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.eOf_char_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:16:32.542881+00:00
 -- url     : https://prove2.me/theorems/30d7b1b7-3e1b-5a3f-97d1-117b858976a5

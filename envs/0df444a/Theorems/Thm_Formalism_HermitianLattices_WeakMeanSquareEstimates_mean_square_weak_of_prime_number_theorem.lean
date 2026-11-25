@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_WeakMeanSquareEstimates_mean_square_weak_of_prime_number_theorem
 -- name    : Formalism.HermitianLattices.WeakMeanSquareEstimates.mean_square_weak_of_prime_number_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:43.995534+00:00
 -- url     : https://prove2.me/theorems/1dc560eb-8865-4120-814d-59cfc9ed582b

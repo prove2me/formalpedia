@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldedEntries_firstVertexChains
 -- name    : GlobalTheory.UnfoldedEntries.firstVertexChains
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:39:15.733414+00:00
 -- url     : https://prove2.me/theorems/b664acef-974e-4db8-bc44-c8d25e68fd3e

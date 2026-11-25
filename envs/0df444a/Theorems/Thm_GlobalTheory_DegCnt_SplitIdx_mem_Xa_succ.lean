@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_SplitIdx_mem_Xa_succ
 -- name    : GlobalTheory.DegCnt.SplitIdx.mem_Xa_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:26:17.708459+00:00
 -- url     : https://prove2.me/theorems/b897b244-4759-46d8-b0b4-a287e6530670

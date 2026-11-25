@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BesselCartan_dot_herm
 -- name    : GlobalTheory.CompanionTheory.BesselCartan.dot_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:10:28.786094+00:00
 -- url     : https://prove2.me/theorems/953bcdc0-28af-57d9-92e5-82447c922cc2

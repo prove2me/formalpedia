@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_edenic_semiprime_not_sum_two_squares
 -- name    : edenic_semiprime_not_sum_two_squares
--- status  : Open
+-- status  : Proved
 -- author  : @mwm
 -- created : 2026-11-25T07:28:12.119264+00:00
 -- url     : https://prove2.me/theorems/8bd22029-fe1b-4cf5-9243-02078578f620

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CloseTuples_exists_skew
 -- name    : GlobalTheory.HL.CloseTuples.exists_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:28:59.098027+00:00
 -- url     : https://prove2.me/theorems/7994e679-a021-5bba-96c4-4d3d76d5cbd5

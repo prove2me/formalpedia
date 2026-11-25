@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameOver_hf_comb
 -- name    : GlobalTheory.FrameOver.hf_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:27:57.578223+00:00
 -- url     : https://prove2.me/theorems/11e825d8-7eea-5d52-a74d-52bc1639306a

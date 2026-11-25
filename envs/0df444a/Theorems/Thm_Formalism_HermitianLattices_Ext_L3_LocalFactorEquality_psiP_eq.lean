@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocalFactorEquality_psiP_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.LocalFactorEquality.psiP_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:16:15.336916+00:00
 -- url     : https://prove2.me/theorems/96761650-a7b3-58da-9a09-7b38d9452814

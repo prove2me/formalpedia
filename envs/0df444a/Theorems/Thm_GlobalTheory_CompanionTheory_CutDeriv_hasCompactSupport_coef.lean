@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CutDeriv_hasCompactSupport_coef
 -- name    : GlobalTheory.CompanionTheory.CutDeriv.hasCompactSupport_coef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:04:29.757794+00:00
 -- url     : https://prove2.me/theorems/9db6cf2a-1f7a-5576-abbc-1fba9f3e3659

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_FlagDisc_exists_unitri
 -- name    : GlobalTheory.DegCnt.FlagDisc.exists_unitri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:20:58.846514+00:00
 -- url     : https://prove2.me/theorems/211af05c-3e6e-5df6-b709-c2f2a2bb7070

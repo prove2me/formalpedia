@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_FrameEqv_inN_gr
 -- name    : GlobalTheory.DegAsm.FrameEqv.inN_gr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:23:21.517275+00:00
 -- url     : https://prove2.me/theorems/8f1faa73-8203-4342-90ac-b4fe4dfa94f3

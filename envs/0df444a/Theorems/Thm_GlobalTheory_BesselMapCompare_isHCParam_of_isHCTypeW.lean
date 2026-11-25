@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselMapCompare_isHCParam_of_isHCTypeW
 -- name    : GlobalTheory.BesselMapCompare.isHCParam_of_isHCTypeW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:17:03.321835+00:00
 -- url     : https://prove2.me/theorems/1ed8434d-9e63-4437-bf44-d383056095de

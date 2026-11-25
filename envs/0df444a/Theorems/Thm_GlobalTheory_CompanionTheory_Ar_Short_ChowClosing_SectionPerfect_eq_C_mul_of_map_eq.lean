@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Short_ChowClosing_SectionPerfect_eq_C_mul_of_map_eq
 -- name    : GlobalTheory.CompanionTheory.Ar.Short.ChowClosing.SectionPerfect.eq_C_mul_of_map_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:17:38.377798+00:00
 -- url     : https://prove2.me/theorems/468bca24-65b1-53b7-b4a0-dcbc161d1159

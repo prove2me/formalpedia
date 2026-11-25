@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_sum_excW_le
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.sum_excW_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:18:28.545244+00:00
 -- url     : https://prove2.me/theorems/15bd9293-8271-413f-989f-5411972c609e

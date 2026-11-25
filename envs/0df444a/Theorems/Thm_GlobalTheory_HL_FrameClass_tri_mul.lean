@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameClass_tri_mul
 -- name    : GlobalTheory.HL.FrameClass.tri_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:29:57.673606+00:00
 -- url     : https://prove2.me/theorems/62456b12-a5cc-5006-ba12-c268a4b0bc8c

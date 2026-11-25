@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuRootVec_dg_rootE
 -- name    : GlobalTheory.CompanionTheory.BmuRootVec.dg_rootE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:21:33.919803+00:00
 -- url     : https://prove2.me/theorems/da3cd076-7460-580b-bd30-fb5675c9d12d

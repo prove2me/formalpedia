@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_prod_restrict_four
 -- name    : Formalism.L2.S.Pv.EnergyAbs.prod_restrict_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:16:23.296871+00:00
 -- url     : https://prove2.me/theorems/3ef2d735-52ad-4347-ae54-63fc7e957b7b

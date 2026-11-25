@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lev_offDiag_normSq_le
 -- name    : GlobalTheory.lev_offDiag_normSq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:54:51.650545+00:00
 -- url     : https://prove2.me/theorems/9153d100-15ef-433f-aa4c-17d654f950e2

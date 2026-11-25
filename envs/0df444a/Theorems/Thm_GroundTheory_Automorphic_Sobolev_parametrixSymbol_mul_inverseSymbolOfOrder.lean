@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_parametrixSymbol_mul_inverseSymbolOfOrder
 -- name    : GroundTheory.Automorphic.Sobolev.parametrixSymbol_mul_inverseSymbolOfOrder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:19:51.371059+00:00
 -- url     : https://prove2.me/theorems/fa328345-7aa9-51ea-ad47-aa9e21055af8

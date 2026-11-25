@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutBP_LimitNormalForms_realF_listsum
 -- name    : Formalism.FourierDecayAlt.P.CutBP.LimitNormalForms.realF_listsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:28:34.007932+00:00
 -- url     : https://prove2.me/theorems/43fba3cb-d7ed-5356-8018-4af8cb7d3910

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_SplitLift_flag_vector_mem_base_lattice
 -- name    : GlobalTheory.DegCnt.SplitLift.flag_vector_mem_base_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:26:58.705133+00:00
 -- url     : https://prove2.me/theorems/9c53ca33-161e-4325-97fe-04c10f531ba4

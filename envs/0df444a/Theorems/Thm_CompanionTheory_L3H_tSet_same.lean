@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_L3H_tSet_same
 -- name    : CompanionTheory.L3H.tSet_same
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:58:37.454657+00:00
 -- url     : https://prove2.me/theorems/4db9799d-b85d-48b6-b794-75f14aa79c42

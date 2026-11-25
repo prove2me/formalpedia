@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_lintegral_kG_shift_lt_top
 -- name    : Formalism.L2.S.Pv.EnergyAbs.lintegral_kG_shift_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:25:28.658994+00:00
 -- url     : https://prove2.me/theorems/09b5304f-92b1-4ccc-b2ef-5a7f4158bdaf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_Procyclic_continuousOn_twHom
 -- name    : GlobalTheory.Cyc.Procyclic.continuousOn_twHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:26:27.370144+00:00
 -- url     : https://prove2.me/theorems/ac4e52e9-ad84-4a5b-bbdb-7ac9ede696bd

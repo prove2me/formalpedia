@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_Procyclic_algebraMap_eq_coe
 -- name    : GlobalTheory.Cyc.Procyclic.algebraMap_eq_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:27:15.832062+00:00
 -- url     : https://prove2.me/theorems/26edd5ca-a9a6-4b90-a369-efa1ede5003e

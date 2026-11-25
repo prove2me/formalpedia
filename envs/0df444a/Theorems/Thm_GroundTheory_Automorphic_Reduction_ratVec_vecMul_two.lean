@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_ratVec_vecMul_two
 -- name    : GroundTheory.Automorphic.Reduction.ratVec_vecMul_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:08:01.835511+00:00
 -- url     : https://prove2.me/theorems/b0052578-01fd-594d-b6f1-0c7528988a72

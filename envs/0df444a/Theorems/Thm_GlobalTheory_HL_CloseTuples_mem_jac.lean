@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CloseTuples_mem_jac
 -- name    : GlobalTheory.HL.CloseTuples.mem_jac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:28:59.50059+00:00
 -- url     : https://prove2.me/theorems/80bb51c3-780e-563c-a17a-27d46598cc6f

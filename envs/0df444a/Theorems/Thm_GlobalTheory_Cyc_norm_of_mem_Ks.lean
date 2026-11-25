@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_norm_of_mem_Ks
 -- name    : GlobalTheory.Cyc.norm_of_mem_Ks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:33:58.908011+00:00
 -- url     : https://prove2.me/theorems/1cd9e63f-64bd-4eb4-b4f1-044cfaac8f74

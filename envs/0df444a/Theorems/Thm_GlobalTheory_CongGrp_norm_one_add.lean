@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongGrp_norm_one_add
 -- name    : GlobalTheory.CongGrp.norm_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:18:35.829648+00:00
 -- url     : https://prove2.me/theorems/bbb029dd-6dac-5802-9c7b-0eff6690949d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_BiextensionAlongSeries_integral_serAlong
 -- name    : Formalism.L2.Th1.D.BiextensionAlongSeries.integral_serAlong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:02:41.216733+00:00
 -- url     : https://prove2.me/theorems/72c91759-5a5b-5a06-901b-800e5a759750

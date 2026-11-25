@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleDim_mem_sub_of_mem_secs_9323478d1234
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleDim_mem_sub_of_mem_secs_9323478d1234
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:08:45.900241+00:00
 -- url     : https://prove2.me/theorems/1fba42cf-63df-45fe-9ff1-7d682add694f

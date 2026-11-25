@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_nsmul_cohomology_eq_zero
 -- name    : GroundTheory.ProfCoh.nsmul_cohomology_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:47:29.558368+00:00
 -- url     : https://prove2.me/theorems/8d7c4b52-aef0-42d4-b805-ce86fe4e43cb

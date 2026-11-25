@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_OrbF_gmap_smul
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.OrbF.gmap_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:28:42.310966+00:00
 -- url     : https://prove2.me/theorems/88cfb80a-5b48-5ff6-891a-fa4116e9ca68

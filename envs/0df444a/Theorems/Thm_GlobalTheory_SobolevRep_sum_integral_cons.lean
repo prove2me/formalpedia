@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SobolevRep_sum_integral_cons
 -- name    : GlobalTheory.SobolevRep.sum_integral_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:54:46.579568+00:00
 -- url     : https://prove2.me/theorems/f7fd5b56-a0d9-4644-b225-75d14d8b1c2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_rank_equivariantFunctionals_le_one
 -- name    : GroundTheory.Automorphic.Whittaker.rank_equivariantFunctionals_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:08:00.964454+00:00
 -- url     : https://prove2.me/theorems/cd8011e7-4d88-4d4a-a239-2226e52f6413

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_MixedDiffLinear_proof_c8fa9d60a210
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_MixedDiffLinear_proof_c8fa9d60a210
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:27:43.996798+00:00
 -- url     : https://prove2.me/theorems/ca8ddc00-ee99-45a2-a7bb-58567c61d3fb

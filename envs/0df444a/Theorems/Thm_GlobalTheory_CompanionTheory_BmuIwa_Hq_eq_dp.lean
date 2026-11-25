@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuIwa_Hq_eq_dp
 -- name    : GlobalTheory.CompanionTheory.BmuIwa.Hq_eq_dp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:20:39.056105+00:00
 -- url     : https://prove2.me/theorems/d9ce63e5-5640-583f-8254-03fb35d32798

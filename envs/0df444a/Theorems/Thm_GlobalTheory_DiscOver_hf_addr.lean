@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscOver_hf_addr
 -- name    : GlobalTheory.DiscOver.hf_addr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:25:43.107815+00:00
 -- url     : https://prove2.me/theorems/3c7322c3-472d-4bcb-b3f1-72cbd511540b

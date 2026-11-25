@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocResidueFrac_length_quot_eq_relfinrank_5f604ca6cb09
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocResidueFrac_length_quot_eq_relfinrank_5f604ca6cb09
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:47:29.19313+00:00
 -- url     : https://prove2.me/theorems/3391d3e7-9f86-4e21-8e68-7ba273f1eef3

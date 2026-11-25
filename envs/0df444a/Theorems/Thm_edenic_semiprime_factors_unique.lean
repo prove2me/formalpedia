@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_edenic_semiprime_factors_unique
 -- name    : edenic_semiprime_factors_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mwm
 -- created : 2026-11-25T07:28:11.700805+00:00
 -- url     : https://prove2.me/theorems/ee9d1ae8-037c-4129-a524-9299dae9228d

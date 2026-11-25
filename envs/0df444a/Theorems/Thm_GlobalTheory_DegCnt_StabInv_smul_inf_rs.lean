@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_StabInv_smul_inf_rs
 -- name    : GlobalTheory.DegCnt.StabInv.smul_inf_rs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:00:29.323551+00:00
 -- url     : https://prove2.me/theorems/7113ed2a-c7f0-4523-a04a-456d2c1b7672

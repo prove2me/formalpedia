@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscOver_hf_addl
 -- name    : GlobalTheory.DiscOver.hf_addl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:25:06.977814+00:00
 -- url     : https://prove2.me/theorems/916adad8-b453-51c4-aa48-af65bb9dbc79

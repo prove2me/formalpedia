@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_sum_char_unit_mul_ip_eq_zero
 -- name    : GlobalTheory.GramCount.sum_char_unit_mul_ip_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:28:43.961464+00:00
 -- url     : https://prove2.me/theorems/3f1dfa24-b06d-4347-b6c6-3c47804b14f6

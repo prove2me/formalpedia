@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_rsub_frameMat_of_mem_inv
 -- name    : GlobalTheory.MinorFrame.rsub_frameMat_of_mem_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:34:48.526531+00:00
 -- url     : https://prove2.me/theorems/fb6ee3b0-b451-4fab-a794-416f38c5b581

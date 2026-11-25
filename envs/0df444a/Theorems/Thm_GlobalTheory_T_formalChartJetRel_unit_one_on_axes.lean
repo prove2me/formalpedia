@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_formalChartJetRel_unit_one_on_axes
 -- name    : GlobalTheory.T.formalChartJetRel_unit_one_on_axes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:56:17.925827+00:00
 -- url     : https://prove2.me/theorems/185af84c-b4df-4560-ab44-6406bbb0d6a1

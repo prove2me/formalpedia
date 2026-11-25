@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_StabInv_isFrame_smul
 -- name    : GlobalTheory.DegCnt.StabInv.isFrame_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:58:55.78664+00:00
 -- url     : https://prove2.me/theorems/6932d55a-2bce-51cb-963e-1c06cbd3a7d1

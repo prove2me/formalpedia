@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FamilyVol_resQ_ne_zero
 -- name    : GlobalTheory.HL.FamilyVol.resQ_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:29:36.186585+00:00
 -- url     : https://prove2.me/theorems/8a926b98-0cef-5f12-875c-c00f543a4eb2

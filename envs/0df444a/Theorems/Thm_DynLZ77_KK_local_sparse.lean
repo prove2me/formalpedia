@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynLZ77_KK_local_sparse
 -- name    : DynLZ77.KK.local_sparse
--- status  : Open
+-- status  : Proved
 -- author  : @shaygo
 -- created : 2026-11-25T05:08:11.470579+00:00
 -- url     : https://prove2.me/theorems/7b2cf4ab-8485-4de4-aa98-b20b42b50fcc

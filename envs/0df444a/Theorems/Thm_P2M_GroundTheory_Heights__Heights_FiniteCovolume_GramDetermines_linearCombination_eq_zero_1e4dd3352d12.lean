@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_GramDetermines_linearCombination_eq_zero_1e4dd3352d12
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_GramDetermines_linearCombination_eq_zero_1e4dd3352d12
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:46:06.797405+00:00
 -- url     : https://prove2.me/theorems/63669491-9825-454e-9221-203a0dbd40cc

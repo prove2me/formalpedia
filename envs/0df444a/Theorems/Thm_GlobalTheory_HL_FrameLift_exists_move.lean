@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameLift_exists_move
 -- name    : GlobalTheory.HL.FrameLift.exists_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:30:03.965918+00:00
 -- url     : https://prove2.me/theorems/e709dabe-ee9f-5b6b-9fd8-c40201000ead

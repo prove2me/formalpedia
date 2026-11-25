@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryCharacter_kills_unitaryTransvections
 -- name    : GlobalTheory.T.unitaryCharacter_kills_unitaryTransvections
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:52:37.318489+00:00
 -- url     : https://prove2.me/theorems/59af992f-35a6-4bf0-a8b9-c836a720c23a

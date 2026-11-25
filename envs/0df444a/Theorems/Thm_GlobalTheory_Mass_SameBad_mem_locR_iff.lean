@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_SameBad_mem_locR_iff
 -- name    : GlobalTheory.Mass.SameBad.mem_locR_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:42:45.011681+00:00
 -- url     : https://prove2.me/theorems/e79e1883-3acb-46d3-bf9d-9fd6f68c10bb

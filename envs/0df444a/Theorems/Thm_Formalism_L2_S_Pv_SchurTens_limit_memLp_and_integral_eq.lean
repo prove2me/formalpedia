@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_SchurTens_limit_memLp_and_integral_eq
 -- name    : Formalism.L2.S.Pv.SchurTens.limit_memLp_and_integral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:13:45.606637+00:00
 -- url     : https://prove2.me/theorems/8f94b561-a26f-4e79-81a7-588c568304ae

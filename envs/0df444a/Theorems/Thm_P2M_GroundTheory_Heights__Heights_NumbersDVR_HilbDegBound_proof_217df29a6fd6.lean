@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HilbDegBound_proof_217df29a6fd6
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HilbDegBound_proof_217df29a6fd6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:29:46.984799+00:00
 -- url     : https://prove2.me/theorems/a3e77161-5d1b-48cc-b817-02263b7d9a71

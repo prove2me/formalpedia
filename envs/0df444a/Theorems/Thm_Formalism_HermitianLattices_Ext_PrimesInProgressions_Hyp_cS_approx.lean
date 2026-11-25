@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Hyp_cS_approx
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Hyp.cS_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:23:33.554842+00:00
 -- url     : https://prove2.me/theorems/01c12a87-e7cf-5f4a-9ea4-6f1092070795

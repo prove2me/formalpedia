@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Formal_IsoThick_exists_unit_kills
 -- name    : GlobalTheory.CompanionTheory.Formal.IsoThick.exists_unit_kills
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:20:13.866809+00:00
 -- url     : https://prove2.me/theorems/b24b0612-8626-5c21-81b9-dbe74316dfd3

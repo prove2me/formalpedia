@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_quadratic_top_algebra_holds
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.quadratic_top_algebra_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:20:18.441695+00:00
 -- url     : https://prove2.me/theorems/6cb4ac72-54f9-5ccc-a641-abe877130874

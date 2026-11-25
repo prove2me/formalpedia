@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_IntNumBaseChange_intersectionNumber_baseChange_006254404d6b
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_IntNumBaseChange_intersectionNumber_baseChange_006254404d6b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:45:48.889071+00:00
 -- url     : https://prove2.me/theorems/41981d54-0055-4376-a5aa-a991ec9a736d

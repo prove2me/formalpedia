@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_SymLift_dbl_mul
 -- name    : GlobalTheory.Ex.SymLift.dbl_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:33:31.966171+00:00
 -- url     : https://prove2.me/theorems/beb57f2c-8424-4691-9d09-468360ed35ee

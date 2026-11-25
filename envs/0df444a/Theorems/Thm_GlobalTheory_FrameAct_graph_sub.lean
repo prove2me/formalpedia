@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameAct_graph_sub
 -- name    : GlobalTheory.FrameAct.graph_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:29:51.095581+00:00
 -- url     : https://prove2.me/theorems/c4beca6b-927a-4da5-a3a7-86f27477b372

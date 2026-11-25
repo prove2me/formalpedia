@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Short_ChowClosing_SectionPerfect_isChowFormCycle_zero
 -- name    : GlobalTheory.CompanionTheory.Ar.Short.ChowClosing.SectionPerfect.isChowFormCycle_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:21:33.439087+00:00
 -- url     : https://prove2.me/theorems/f615c1a8-4581-416a-b88b-80e584c63e8d

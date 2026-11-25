@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_GoodGenusOrbits_isIntegralAt_gmap
 -- name    : Formalism.HermitianLattices.Ext.L3.GoodGenusOrbits.isIntegralAt_gmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:18:07.076992+00:00
 -- url     : https://prove2.me/theorems/6ae952c7-ec68-4585-85d4-fb52ded56204

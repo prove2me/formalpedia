@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_MultigradedFiltration_equiv_a29fe5898a86
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_MultigradedFiltration_equiv_a29fe5898a86
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:10:46.961653+00:00
 -- url     : https://prove2.me/theorems/bfe2a900-6395-4ae8-877c-7057e1eb0ded

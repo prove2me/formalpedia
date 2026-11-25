@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_ncard_gram_mod_eq_card_ker_pow_mul
 -- name    : GlobalTheory.GramCount.ncard_gram_mod_eq_card_ker_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:27:41.386191+00:00
 -- url     : https://prove2.me/theorems/540bb698-8d75-53ab-b287-3afa8bbf8eb9

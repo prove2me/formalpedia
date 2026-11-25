@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_DatMove_sameGr_push
 -- name    : GlobalTheory.DegAsm.DatMove.sameGr_push
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:25:22.933685+00:00
 -- url     : https://prove2.me/theorems/6c602f2e-7ff3-4676-bb00-ba54aa9f81a5

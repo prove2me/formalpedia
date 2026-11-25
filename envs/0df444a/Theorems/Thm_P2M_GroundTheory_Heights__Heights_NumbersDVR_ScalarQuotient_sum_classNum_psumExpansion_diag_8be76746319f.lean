@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_sum_classNum_psumExpansion_diag_8be76746319f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_sum_classNum_psumExpansion_diag_8be76746319f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:08:38.457061+00:00
 -- url     : https://prove2.me/theorems/f4f2cf6b-5685-4de6-936e-f69a9b3170a4

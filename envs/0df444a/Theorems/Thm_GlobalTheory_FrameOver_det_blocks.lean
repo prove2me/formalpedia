@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameOver_det_blocks
 -- name    : GlobalTheory.FrameOver.det_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:27:51.904797+00:00
 -- url     : https://prove2.me/theorems/c3fb274f-117d-5c42-80b7-fd442155174e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_large_vonMangoldtLogPowerSeries_near_zero
 -- name    : GlobalTheory.T.exists_large_vonMangoldtLogPowerSeries_near_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:37:41.140219+00:00
 -- url     : https://prove2.me/theorems/86ed92e5-1f42-4acf-867b-cf08335f253a

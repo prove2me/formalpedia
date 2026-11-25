@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_RationalUnipotent_unipElem_inv_smul_c1eaf2eb5e18
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_RationalUnipotent_unipElem_inv_smul_c1eaf2eb5e18
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:55:45.064566+00:00
 -- url     : https://prove2.me/theorems/148596c1-686a-443d-908a-450fadee35b4

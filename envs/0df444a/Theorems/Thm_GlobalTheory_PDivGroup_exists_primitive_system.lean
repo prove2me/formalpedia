@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_exists_primitive_system
 -- name    : GlobalTheory.PDivGroup.exists_primitive_system
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:56:47.132796+00:00
 -- url     : https://prove2.me/theorems/56c1d9b9-15b5-41a7-95b1-6935ecb9c262

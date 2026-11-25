@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NGCut_SplitEmbedding_phiInv_phiMap
 -- name    : Formalism.L2.SG.NGCut.SplitEmbedding.phiInv_phiMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:16:21.303677+00:00
 -- url     : https://prove2.me/theorems/4b6d1731-2ff9-416b-8a8c-4730e272ae70

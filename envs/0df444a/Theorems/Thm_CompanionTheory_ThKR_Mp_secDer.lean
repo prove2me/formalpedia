@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_secDer
 -- name    : CompanionTheory.ThKR.Mp.secDer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:26:57.58657+00:00
 -- url     : https://prove2.me/theorems/6b3a397c-6ad3-4909-a3b0-47c8f97c63c3

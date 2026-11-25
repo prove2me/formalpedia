@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DegCnt_FixDisc_idx_gmap__5fad5dddc642
 -- name    : P2M_GlobalTheory_DegCnt_FixDisc_idx_gmap__5fad5dddc642
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:18:34.621568+00:00
 -- url     : https://prove2.me/theorems/c7650c46-d68a-47c5-a70d-aadf9b777f49

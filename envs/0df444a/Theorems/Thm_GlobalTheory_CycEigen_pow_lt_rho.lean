@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycEigen_pow_lt_rho
 -- name    : GlobalTheory.CycEigen.pow_lt_rho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:25:34.168597+00:00
 -- url     : https://prove2.me/theorems/24b9f779-bb2f-401a-b4e6-3a747cb41705

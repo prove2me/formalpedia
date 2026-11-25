@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuAdapt_col_o
 -- name    : GlobalTheory.CompanionTheory.BmuAdapt.col_o
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:20:33.130155+00:00
 -- url     : https://prove2.me/theorems/16be6876-1358-554b-ac1b-79e7a4d83675

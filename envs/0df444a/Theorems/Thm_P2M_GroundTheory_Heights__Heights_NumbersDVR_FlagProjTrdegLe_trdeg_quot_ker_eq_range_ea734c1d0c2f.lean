@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagProjTrdegLe_trdeg_quot_ker_eq_range_ea734c1d0c2f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagProjTrdegLe_trdeg_quot_ker_eq_range_ea734c1d0c2f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:11:02.60816+00:00
 -- url     : https://prove2.me/theorems/cddf7f9e-6f6e-47bf-8ec2-994f656f9905

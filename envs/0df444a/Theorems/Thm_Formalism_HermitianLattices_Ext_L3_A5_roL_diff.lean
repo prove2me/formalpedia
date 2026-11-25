@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_roL_diff
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.roL_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:15:50.110403+00:00
 -- url     : https://prove2.me/theorems/357ac278-dc7e-5027-9347-afd10d0e1187

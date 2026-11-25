@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_supplyPrimesOf
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.supplyPrimesOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:28.311353+00:00
 -- url     : https://prove2.me/theorems/eae32eaa-68e5-4d23-ac3e-309b18b3f2b3

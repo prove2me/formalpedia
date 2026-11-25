@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_measureReal_valBall
 -- name    : GroundTheory.LocalField.measureReal_valBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:26:18.386095+00:00
 -- url     : https://prove2.me/theorems/e145897c-e2fe-40a1-a3bf-0fb137820cd9

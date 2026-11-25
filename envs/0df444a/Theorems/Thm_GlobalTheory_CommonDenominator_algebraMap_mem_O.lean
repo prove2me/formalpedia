@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommonDenominator_algebraMap_mem_O
 -- name    : GlobalTheory.CommonDenominator.algebraMap_mem_O
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:17:38.166458+00:00
 -- url     : https://prove2.me/theorems/68d07324-77d0-410c-a13a-52b7b1fa0739

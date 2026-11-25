@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_projectionOntoCommonIsotropicPart_anisotropicVector
 -- name    : GlobalTheory.DegCnt.LiftS.projectionOntoCommonIsotropicPart_anisotropicVector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:30:05.79337+00:00
 -- url     : https://prove2.me/theorems/32e41e01-11b1-4879-ab4c-9587ffdfe09c

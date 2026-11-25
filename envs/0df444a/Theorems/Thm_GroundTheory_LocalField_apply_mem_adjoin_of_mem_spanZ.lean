@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_apply_mem_adjoin_of_mem_spanZ
 -- name    : GroundTheory.LocalField.apply_mem_adjoin_of_mem_spanZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:35:13.424293+00:00
 -- url     : https://prove2.me/theorems/0b55c22b-3c2f-4814-9684-0df3960b6db1

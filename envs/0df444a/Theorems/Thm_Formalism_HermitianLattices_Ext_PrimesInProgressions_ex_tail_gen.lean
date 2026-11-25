@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_ex_tail_gen
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.ex_tail_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:16:45.754536+00:00
 -- url     : https://prove2.me/theorems/646f085a-99c3-499b-85ce-729114068b9b

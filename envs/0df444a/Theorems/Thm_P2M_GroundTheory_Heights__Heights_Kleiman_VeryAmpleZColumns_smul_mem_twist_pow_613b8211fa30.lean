@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZColumns_smul_mem_twist_pow_613b8211fa30
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZColumns_smul_mem_twist_pow_613b8211fa30
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:08:21.349542+00:00
 -- url     : https://prove2.me/theorems/828bd8cf-bb7a-5eba-a950-68863cda9526

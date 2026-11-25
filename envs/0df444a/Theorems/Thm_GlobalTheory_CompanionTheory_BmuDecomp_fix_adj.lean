@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuDecomp_fix_adj
 -- name    : GlobalTheory.CompanionTheory.BmuDecomp.fix_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:19:32.002206+00:00
 -- url     : https://prove2.me/theorems/86d82db7-62f0-54ce-a5f6-236902f7ad73

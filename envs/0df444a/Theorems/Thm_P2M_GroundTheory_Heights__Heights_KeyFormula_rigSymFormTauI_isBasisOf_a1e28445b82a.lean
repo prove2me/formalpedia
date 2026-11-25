@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_rigSymFormTauI_isBasisOf_a1e28445b82a
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_rigSymFormTauI_isBasisOf_a1e28445b82a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:01:39.919812+00:00
 -- url     : https://prove2.me/theorems/46f12209-fec3-4718-b6c9-e637cf370034

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_mul_inv_mem_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.mul_inv_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:32:46.490197+00:00
 -- url     : https://prove2.me/theorems/27a40403-4173-5545-bd6c-afd252525fab

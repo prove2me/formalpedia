@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_half_le_of_pos
 -- name    : CompanionTheory.WaveGrid.half_le_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:15:34.836067+00:00
 -- url     : https://prove2.me/theorems/03716b55-3a87-5b8a-80ae-6d33b7c378e3

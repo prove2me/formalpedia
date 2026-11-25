@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_SplitIdx_span_inf
 -- name    : GlobalTheory.DegCnt.SplitIdx.span_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:26:38.114142+00:00
 -- url     : https://prove2.me/theorems/b7d95147-e1b4-4127-b3e8-faf9f499d60b

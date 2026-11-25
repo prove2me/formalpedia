@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_mass_not_rootsAvoid_le
 -- name    : GlobalTheory.BadShare.mass_not_rootsAvoid_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:47:34.286793+00:00
 -- url     : https://prove2.me/theorems/6998ed85-5203-402c-8c0b-97ca9ff155ea

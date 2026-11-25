@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ComplAct_graph_mem
 -- name    : GlobalTheory.HL.ComplAct.graph_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:29:13.608336+00:00
 -- url     : https://prove2.me/theorems/f541cbe1-0c89-5912-b5c2-c3132e8a0122

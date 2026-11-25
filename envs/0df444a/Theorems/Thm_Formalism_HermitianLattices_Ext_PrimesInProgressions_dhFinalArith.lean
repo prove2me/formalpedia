@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhFinalArith
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhFinalArith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:25:00.958619+00:00
 -- url     : https://prove2.me/theorems/ac4fc819-990c-5d82-a693-489d90a365e4

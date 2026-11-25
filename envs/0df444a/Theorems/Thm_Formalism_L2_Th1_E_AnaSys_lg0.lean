@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_AnaSys_lg0
 -- name    : Formalism.L2.Th1.E.AnaSys.lg0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:23:34.966849+00:00
 -- url     : https://prove2.me/theorems/11550b25-1b41-53b3-8902-c65ffb35ebc9

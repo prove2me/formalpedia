@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Formal_IsoThick_exists_tmul_one
 -- name    : GlobalTheory.CompanionTheory.Formal.IsoThick.exists_tmul_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:21:45.230024+00:00
 -- url     : https://prove2.me/theorems/2d277a1f-9498-528a-b442-ad9e073b5eda

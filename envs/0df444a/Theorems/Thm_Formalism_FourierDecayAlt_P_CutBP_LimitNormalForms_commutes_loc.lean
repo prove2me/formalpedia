@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutBP_LimitNormalForms_commutes_loc
 -- name    : Formalism.FourierDecayAlt.P.CutBP.LimitNormalForms.commutes_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:19:22.384207+00:00
 -- url     : https://prove2.me/theorems/220cae2f-33a4-5e45-9282-ed16b2435e75

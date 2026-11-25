@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_PinF_newton_iter
 -- name    : Formalism.HermitianLattices.Ext.L3.PinF.newton_iter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:20:50.099605+00:00
 -- url     : https://prove2.me/theorems/f036b183-eb1e-4b67-bfd7-736b8973c1c4

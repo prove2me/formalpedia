@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameAct_sat_smul
 -- name    : GlobalTheory.FrameAct.sat_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:27:09.8159+00:00
 -- url     : https://prove2.me/theorems/484baa32-e57a-4742-b29e-8ec402b46845

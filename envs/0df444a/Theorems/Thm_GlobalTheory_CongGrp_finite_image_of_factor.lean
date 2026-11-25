@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongGrp_finite_image_of_factor
 -- name    : GlobalTheory.CongGrp.finite_image_of_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:19:06.435999+00:00
 -- url     : https://prove2.me/theorems/e78b1472-ff54-5a06-a606-68fb8b70ecd0

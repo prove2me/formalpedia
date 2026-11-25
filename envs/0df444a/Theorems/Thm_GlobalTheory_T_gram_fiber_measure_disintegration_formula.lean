@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_fiber_measure_disintegration_formula
 -- name    : GlobalTheory.T.gram_fiber_measure_disintegration_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:43:57.097522+00:00
 -- url     : https://prove2.me/theorems/1d52417e-b840-4a4d-9e14-68e143e28170

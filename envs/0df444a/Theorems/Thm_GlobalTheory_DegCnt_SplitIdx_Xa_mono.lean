@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_SplitIdx_Xa_mono
 -- name    : GlobalTheory.DegCnt.SplitIdx.Xa_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:00:22.362316+00:00
 -- url     : https://prove2.me/theorems/54060de0-34a7-5bbe-97d2-084f405dfb32

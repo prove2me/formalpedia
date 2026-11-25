@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_frobAIsom
 -- name    : Formalism.L2.Th1.D.frobAIsom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:20:20.389718+00:00
 -- url     : https://prove2.me/theorems/7e59b594-692e-5a90-8b2e-9289ad3b863c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_inv_sq_le_wignerCoeffSqRaising
 -- name    : GlobalTheory.T.inv_sq_le_wignerCoeffSqRaising
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:05:41.517149+00:00
 -- url     : https://prove2.me/theorems/680deae9-8d63-5cf0-bd00-3926a8f8452b

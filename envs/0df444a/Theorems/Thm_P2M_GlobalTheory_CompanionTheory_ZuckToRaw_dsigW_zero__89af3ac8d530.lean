@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_ZuckToRaw_dsigW_zero__89af3ac8d530
 -- name    : P2M_GlobalTheory_CompanionTheory_ZuckToRaw_dsigW_zero__89af3ac8d530
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:04:04.546376+00:00
 -- url     : https://prove2.me/theorems/7df96cd9-3ac6-41ae-85c1-25dbab33c0f4

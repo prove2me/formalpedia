@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_cons_mem_sols
 -- name    : GlobalTheory.GramCount.cons_mem_sols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:28:40.448898+00:00
 -- url     : https://prove2.me/theorems/27c1e1fc-8c9f-5224-beac-ff1c7130a3fc

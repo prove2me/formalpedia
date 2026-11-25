@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_Procyclic_norm_move_psum_le
 -- name    : GlobalTheory.Cyc.Procyclic.norm_move_psum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:21:08.60445+00:00
 -- url     : https://prove2.me/theorems/8e2d9520-1feb-44f0-a765-9bd7802271f4

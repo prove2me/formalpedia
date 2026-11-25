@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_constantCoeff_ttPull
 -- name    : Formalism.L2.FormalSeriesBounds.constantCoeff_ttPull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:27:16.44848+00:00
 -- url     : https://prove2.me/theorems/31b3036e-6029-4192-87b9-79256508cc58

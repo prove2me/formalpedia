@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_rangeA_card_char_le
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.rangeA_card_char_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:17:06.723021+00:00
 -- url     : https://prove2.me/theorems/1cac8e1f-b08f-4a7d-ac88-e30fb57e7cb1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_DatMove_mem_map_iff
 -- name    : GlobalTheory.DegAsm.DatMove.mem_map_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:24:04.60294+00:00
 -- url     : https://prove2.me/theorems/0a2e1f24-bf03-5e0d-a274-a7aebb647bf4

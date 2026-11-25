@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_zero_notMem_ann
 -- name    : Formalism.FourierDecayAlt.P.PBK.zero_notMem_ann
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:29:41.643781+00:00
 -- url     : https://prove2.me/theorems/ffea7d7b-215e-5f75-9617-f82b1298eb0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LocFin_fibre_loc_fin
 -- name    : GlobalTheory.CompanionTheory.SW.LocFin.fibre_loc_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:08:16.071445+00:00
 -- url     : https://prove2.me/theorems/db15b937-1a65-4328-a31f-01074a2575e7

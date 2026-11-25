@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NodalCubic_nonsingular_points
 -- name    : GlobalTheory.NodalCubic.nonsingular_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:51:25.980904+00:00
 -- url     : https://prove2.me/theorems/ba90adb4-0578-4808-ac2c-68fbf2ff3bbd

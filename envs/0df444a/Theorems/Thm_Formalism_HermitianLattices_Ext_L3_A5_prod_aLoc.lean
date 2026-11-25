@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_prod_aLoc
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.prod_aLoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:08:18.149893+00:00
 -- url     : https://prove2.me/theorems/7a34b0b4-1d08-5be5-9f23-161acf2c09b8

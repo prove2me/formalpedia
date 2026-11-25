@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TripInv_isDat_gmap
 -- name    : GlobalTheory.TripInv.isDat_gmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:34:23.177157+00:00
 -- url     : https://prove2.me/theorems/cca951a4-19b8-4adb-9566-60a7ee2ffae2

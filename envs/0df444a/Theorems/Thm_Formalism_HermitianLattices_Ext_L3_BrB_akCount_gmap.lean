@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BrB_akCount_gmap
 -- name    : Formalism.HermitianLattices.Ext.L3.BrB.akCount_gmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:18:37.540706+00:00
 -- url     : https://prove2.me/theorems/da5ea503-9caf-4884-8a20-1bf0a6f61de2

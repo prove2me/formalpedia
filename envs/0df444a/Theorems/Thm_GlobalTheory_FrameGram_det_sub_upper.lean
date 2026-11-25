@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameGram_det_sub_upper
 -- name    : GlobalTheory.FrameGram.det_sub_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:27:42.395929+00:00
 -- url     : https://prove2.me/theorems/32ac2521-4383-447e-a489-d9ee43fcd85e

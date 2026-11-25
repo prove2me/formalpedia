@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_WeierstrassCurveSeries_endoCurve_neg_one
 -- name    : Formalism.L2.Th1.G.WeierstrassCurveSeries.endoCurve_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:03:30.050542+00:00
 -- url     : https://prove2.me/theorems/2460c66d-e9a4-5ef4-aa99-4482bd569336

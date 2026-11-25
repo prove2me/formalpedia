@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_tail_mem_sols
 -- name    : GlobalTheory.GramCount.tail_mem_sols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:28:29.606449+00:00
 -- url     : https://prove2.me/theorems/48544e11-ed36-5ea8-9f9e-9068db12a241

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_exists_sdiff_eq_singleton_of_covby
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.exists_sdiff_eq_singleton_of_covby
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T07:21:18.366984+00:00
 -- url     : https://prove2.me/theorems/8eecd729-71f3-4626-bf89-384ae859a499

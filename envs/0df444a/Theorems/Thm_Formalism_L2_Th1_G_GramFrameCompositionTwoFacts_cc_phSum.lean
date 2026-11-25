@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_GramFrameCompositionTwoFacts_cc_phSum
 -- name    : Formalism.L2.Th1.G.GramFrameCompositionTwoFacts.cc_phSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:25:51.708341+00:00
 -- url     : https://prove2.me/theorems/f4456bb0-3dfb-4766-ace7-4d8f1071a24f

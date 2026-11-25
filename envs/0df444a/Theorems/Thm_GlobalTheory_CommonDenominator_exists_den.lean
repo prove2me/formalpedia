@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommonDenominator_exists_den
 -- name    : GlobalTheory.CommonDenominator.exists_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:17:14.605218+00:00
 -- url     : https://prove2.me/theorems/8119dbfc-6a01-5456-8794-c181fc73ddc8

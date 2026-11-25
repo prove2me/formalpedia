@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_BiextensionAlongSeries_hsX
 -- name    : Formalism.L2.Th1.D.BiextensionAlongSeries.hsX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:46:19.570906+00:00
 -- url     : https://prove2.me/theorems/1f8d5f78-0980-43a5-a728-8218f7faf676

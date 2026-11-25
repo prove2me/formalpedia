@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_kap_alg
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.kap_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:18:17.077434+00:00
 -- url     : https://prove2.me/theorems/df3bb6f8-5592-5718-ad76-f098a1170f1f

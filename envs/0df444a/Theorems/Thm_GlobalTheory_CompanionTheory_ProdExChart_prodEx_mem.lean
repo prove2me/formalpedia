@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ProdExChart_prodEx_mem
 -- name    : GlobalTheory.CompanionTheory.ProdExChart.prodEx_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:40:47.777148+00:00
 -- url     : https://prove2.me/theorems/78723ebe-ec2a-50f5-a456-b343b596fafb

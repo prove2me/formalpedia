@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycSeries_exists_factor
 -- name    : GlobalTheory.CycSeries.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:21:19.290427+00:00
 -- url     : https://prove2.me/theorems/42b97791-e646-4fec-8627-664d0aa85d11

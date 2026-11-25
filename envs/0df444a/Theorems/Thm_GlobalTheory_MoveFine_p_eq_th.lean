@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFine_p_eq_th
 -- name    : GlobalTheory.MoveFine.p_eq_th
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:39:40.410047+00:00
 -- url     : https://prove2.me/theorems/9bbf7832-9ba9-48f5-92c9-4e10b95fdbbb

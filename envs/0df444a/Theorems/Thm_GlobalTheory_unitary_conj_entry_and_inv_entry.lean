@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unitary_conj_entry_and_inv_entry
 -- name    : GlobalTheory.unitary_conj_entry_and_inv_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:12:42.164891+00:00
 -- url     : https://prove2.me/theorems/86effcb4-463e-523e-a5ac-fcb1a1cb38c7

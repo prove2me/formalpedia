@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_exists_norm_eq_norm_inf_ker
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.exists_norm_eq_norm_inf_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:35:14.323797+00:00
 -- url     : https://prove2.me/theorems/66f1fc2a-77fb-4a8c-bde0-6a3e656a0425

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameGram_vE_const
 -- name    : GlobalTheory.FrameGram.vE_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:27:45.99903+00:00
 -- url     : https://prove2.me/theorems/55782aa5-96df-4437-b1f2-d07f87e23ed5

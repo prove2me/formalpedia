@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuFactor_exists_factor
 -- name    : GlobalTheory.CompanionTheory.BmuFactor.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:22:12.14293+00:00
 -- url     : https://prove2.me/theorems/73b2c410-90c0-4f8a-af0e-577ed46c13a9

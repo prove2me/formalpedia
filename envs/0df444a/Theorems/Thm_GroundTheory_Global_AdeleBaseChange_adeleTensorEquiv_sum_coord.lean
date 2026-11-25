@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_AdeleBaseChange_adeleTensorEquiv_sum_coord
 -- name    : GroundTheory.Global.AdeleBaseChange.adeleTensorEquiv_sum_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:05:05.699008+00:00
 -- url     : https://prove2.me/theorems/28ee952a-b603-5a0b-bfc6-6e8ba15a5607

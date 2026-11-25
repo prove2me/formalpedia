@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosIso_hermForm_ist_mem_coeffIdeal_of_mem_reference
 -- name    : GlobalTheory.DegCnt.PosIso.hermForm_ist_mem_coeffIdeal_of_mem_reference
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:26:28.406236+00:00
 -- url     : https://prove2.me/theorems/288a01fa-2a5a-4672-ac3e-c661c31bf90b

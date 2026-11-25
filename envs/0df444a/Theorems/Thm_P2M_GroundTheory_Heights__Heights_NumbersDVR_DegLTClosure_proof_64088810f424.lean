@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_DegLTClosure_proof_64088810f424
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_DegLTClosure_proof_64088810f424
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:27:29.157898+00:00
 -- url     : https://prove2.me/theorems/12164c44-51b1-4518-beb3-ec74f5909fa5

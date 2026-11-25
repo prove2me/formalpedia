@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_lenDescent_of_lengthBaseChangeLocal
 -- name    : Formalism.L2.Pj.QAt.lenDescent_of_lengthBaseChangeLocal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:37:27.526352+00:00
 -- url     : https://prove2.me/theorems/818b851f-0e62-497e-a948-bb6bca49eb37

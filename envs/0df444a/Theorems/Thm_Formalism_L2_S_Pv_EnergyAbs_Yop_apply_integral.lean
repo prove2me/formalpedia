@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_Yop_apply_integral
 -- name    : Formalism.L2.S.Pv.EnergyAbs.Yop_apply_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:15:58.788737+00:00
 -- url     : https://prove2.me/theorems/4bafb33c-5512-417c-8b13-04d2dc5c029b

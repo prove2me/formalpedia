@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_exists_move_high
 -- name    : GlobalTheory.SW.exists_move_high
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:46:20.887501+00:00
 -- url     : https://prove2.me/theorems/c1641f34-2327-4c39-921e-274238f0bcef

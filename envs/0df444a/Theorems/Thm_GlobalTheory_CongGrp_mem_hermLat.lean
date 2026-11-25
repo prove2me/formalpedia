@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongGrp_mem_hermLat
 -- name    : GlobalTheory.CongGrp.mem_hermLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:19:45.133036+00:00
 -- url     : https://prove2.me/theorems/e873e628-368a-4192-af17-c6f0cf269b27

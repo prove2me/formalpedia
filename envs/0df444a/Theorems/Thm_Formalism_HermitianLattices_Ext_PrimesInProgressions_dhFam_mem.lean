@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhFam_mem
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhFam_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:18:03.478306+00:00
 -- url     : https://prove2.me/theorems/b3a95c1f-077f-4b51-8384-fe1f80402ee8

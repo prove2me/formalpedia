@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_BiextensionAlongSeries_cc_sumE
 -- name    : Formalism.L2.Th1.D.BiextensionAlongSeries.cc_sumE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:42:50.05778+00:00
 -- url     : https://prove2.me/theorems/2a2e7712-5b9e-515a-8356-28f725ad2ba6

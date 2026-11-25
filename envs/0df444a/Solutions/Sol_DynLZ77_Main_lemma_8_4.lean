@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for DynLZ77.Main.lemma_8_4
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @shaygo
 -- created : 2026-11-25T05:08:45.481816+00:00
 -- url     : https://prove2.me/submissions/d19f3ff3-273e-431b-9f7b-75229be9231a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.List.PeriodicityLemma
 import Theorems.Thm_DynLZ77_KK_local_sparse

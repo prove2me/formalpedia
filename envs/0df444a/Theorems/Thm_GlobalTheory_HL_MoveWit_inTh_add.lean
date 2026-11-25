@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveWit_inTh_add
 -- name    : GlobalTheory.HL.MoveWit.inTh_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:18:02.06351+00:00
 -- url     : https://prove2.me/theorems/681b4081-fde6-4e31-a2e6-1cb82c60403d

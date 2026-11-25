@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameGram_det_conj
 -- name    : GlobalTheory.FrameGram.det_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:27:58.992535+00:00
 -- url     : https://prove2.me/theorems/530fd52b-6fe6-4048-a287-440dc6a28113

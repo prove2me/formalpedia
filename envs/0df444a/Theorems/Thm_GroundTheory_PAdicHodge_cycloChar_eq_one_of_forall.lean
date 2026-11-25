@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_cycloChar_eq_one_of_forall
 -- name    : GroundTheory.PAdicHodge.cycloChar_eq_one_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:12:13.084917+00:00
 -- url     : https://prove2.me/theorems/68eafd3d-4af4-4dff-a1b1-8a31abbbac47

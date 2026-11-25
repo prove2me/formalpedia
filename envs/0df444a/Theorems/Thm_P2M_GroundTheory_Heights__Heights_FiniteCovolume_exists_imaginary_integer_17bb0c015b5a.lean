@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_exists_imaginary_integer_17bb0c015b5a
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_exists_imaginary_integer_17bb0c015b5a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:09:48.384383+00:00
 -- url     : https://prove2.me/theorems/5d187173-216d-412b-901a-66c8dda70a34

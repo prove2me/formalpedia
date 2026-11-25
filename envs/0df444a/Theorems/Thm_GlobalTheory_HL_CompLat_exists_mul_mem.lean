@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CompLat_exists_mul_mem
 -- name    : GlobalTheory.HL.CompLat.exists_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:29:51.449264+00:00
 -- url     : https://prove2.me/theorems/999df4cf-45df-44e8-a4b6-926bc7ab6655

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CutDeriv_inner_iso
 -- name    : GlobalTheory.CompanionTheory.CutDeriv.inner_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:22:03.773886+00:00
 -- url     : https://prove2.me/theorems/c98004ce-df02-5ef4-ac0d-b3366fc8a07c

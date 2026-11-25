@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh___splittingSES_res____76acf067f5e4
 -- name    : P2M_GroundTheory_GroupCoh___splittingSES_res____76acf067f5e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:19:44.805733+00:00
 -- url     : https://prove2.me/theorems/c4dfdbfd-006d-430b-ab94-d6c2fe2941c0

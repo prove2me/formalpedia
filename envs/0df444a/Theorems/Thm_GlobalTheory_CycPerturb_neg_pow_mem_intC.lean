@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycPerturb_neg_pow_mem_intC
 -- name    : GlobalTheory.CycPerturb.neg_pow_mem_intC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:22:06.711924+00:00
 -- url     : https://prove2.me/theorems/641561a4-7ec9-5ed5-83e9-aa1d1c40ae09

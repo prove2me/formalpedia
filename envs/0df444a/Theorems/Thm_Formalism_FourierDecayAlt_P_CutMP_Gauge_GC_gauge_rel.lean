@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_gauge_rel
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.gauge_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:15:10.302814+00:00
 -- url     : https://prove2.me/theorems/233322c5-e877-5216-aba0-eaaaaac0bb2e

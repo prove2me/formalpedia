@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_mk_norm_eq_primeNorm
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.mk_norm_eq_primeNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:35:29.65609+00:00
 -- url     : https://prove2.me/theorems/8d08fc1b-0fe2-4c16-b6f3-2cc0409413a6

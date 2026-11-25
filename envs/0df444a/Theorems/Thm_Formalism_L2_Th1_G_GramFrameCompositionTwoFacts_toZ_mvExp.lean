@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_GramFrameCompositionTwoFacts_toZ_mvExp
 -- name    : Formalism.L2.Th1.G.GramFrameCompositionTwoFacts.toZ_mvExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:19:46.256352+00:00
 -- url     : https://prove2.me/theorems/11018d3d-6db2-5d96-98ed-5f34fedd5e23

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MinimalPrimePlace_exists_localization_ringEquiv_bf72767a7e08
 -- name    : P2M_GroundTheory_Heights__Heights_MinimalPrimePlace_exists_localization_ringEquiv_bf72767a7e08
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:26:12.901856+00:00
 -- url     : https://prove2.me/theorems/8bf45029-d477-4531-a8af-1accbe219738

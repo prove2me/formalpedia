@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smooth_hasCompactSupport_conv_of_integrable_compact
 -- name    : GlobalTheory.T.smooth_hasCompactSupport_conv_of_integrable_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:52:18.548826+00:00
 -- url     : https://prove2.me/theorems/2ca924e1-2984-55c5-8218-7d6b71f22a27

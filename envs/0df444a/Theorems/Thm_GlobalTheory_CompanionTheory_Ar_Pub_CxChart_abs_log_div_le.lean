@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxChart_abs_log_div_le
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxChart.abs_log_div_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:18:06.580008+00:00
 -- url     : https://prove2.me/theorems/52cdb74b-c1e6-59d2-81a2-c253fe484155

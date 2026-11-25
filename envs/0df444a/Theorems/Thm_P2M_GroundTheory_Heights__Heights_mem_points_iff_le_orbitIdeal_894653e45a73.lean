@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_points_iff_le_orbitIdeal_894653e45a73
 -- name    : P2M_GroundTheory_Heights__Heights_mem_points_iff_le_orbitIdeal_894653e45a73
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:12:00.904998+00:00
 -- url     : https://prove2.me/theorems/99c0535e-b747-55e8-bad4-d37bc5697379

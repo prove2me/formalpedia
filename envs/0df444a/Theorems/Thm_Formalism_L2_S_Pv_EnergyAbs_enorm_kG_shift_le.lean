@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_enorm_kG_shift_le
 -- name    : Formalism.L2.S.Pv.EnergyAbs.enorm_kG_shift_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:24:40.374932+00:00
 -- url     : https://prove2.me/theorems/d5e019ee-aa62-43fa-92db-3773ca0c5149

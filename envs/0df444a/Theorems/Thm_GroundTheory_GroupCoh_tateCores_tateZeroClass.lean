@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateCores_tateZeroClass
 -- name    : GroundTheory.GroupCoh.tateCores_tateZeroClass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:02:17.495564+00:00
 -- url     : https://prove2.me/theorems/bfd670f3-7622-5b46-ab4c-08b69a7b1f36

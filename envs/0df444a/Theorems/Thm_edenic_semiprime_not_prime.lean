@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_edenic_semiprime_not_prime
 -- name    : edenic_semiprime_not_prime
--- status  : Open
+-- status  : Proved
 -- author  : @mwm
 -- created : 2026-11-25T07:28:06.28504+00:00
 -- url     : https://prove2.me/theorems/57371981-ebce-45dd-90f3-5ff94a9bd872

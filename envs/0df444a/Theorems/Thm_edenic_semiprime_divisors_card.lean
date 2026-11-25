@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_edenic_semiprime_divisors_card
 -- name    : edenic_semiprime_divisors_card
--- status  : Open
+-- status  : Proved
 -- author  : @mwm
 -- created : 2026-11-25T07:28:02.963273+00:00
 -- url     : https://prove2.me/theorems/68ccea2b-d63d-5934-9caa-ad5402ec8151

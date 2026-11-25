@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SegreFlagConeAlg_apply_castLE_b8045d7b44e9
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_SegreFlagConeAlg_apply_castLE_b8045d7b44e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:15:30.946985+00:00
 -- url     : https://prove2.me/theorems/f79a824a-e1b7-42a9-97c1-5972c10e2a0f

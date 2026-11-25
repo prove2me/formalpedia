@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_floor_eq_close
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.floor_eq_close
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:17:29.135064+00:00
 -- url     : https://prove2.me/theorems/8c94155c-3e5d-4e10-9cd3-a05208f8cadb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_PairNumberRelabel_map_rename_eq_b2ed89479a26
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_PairNumberRelabel_map_rename_eq_b2ed89479a26
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:56:02.587477+00:00
 -- url     : https://prove2.me/theorems/55450429-c810-5fb8-914a-06d01b94f162

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleDim_mem_funField_of_mem_chartRing_f686adb35fde
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleDim_mem_funField_of_mem_chartRing_f686adb35fde
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:08:53.687191+00:00
 -- url     : https://prove2.me/theorems/c2f7de74-4732-45a9-bcf5-cdd76797ca41

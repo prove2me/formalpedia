@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothLocusAdd_exists_triples
 -- name    : GlobalTheory.SmoothLocusAdd.exists_triples
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:06:59.748745+00:00
 -- url     : https://prove2.me/theorems/e70a70d3-1316-5429-8216-18475d84f84b

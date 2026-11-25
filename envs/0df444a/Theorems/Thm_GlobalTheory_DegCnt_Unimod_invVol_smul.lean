@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Unimod_invVol_smul
 -- name    : GlobalTheory.DegCnt.Unimod.invVol_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:46:03.275646+00:00
 -- url     : https://prove2.me/theorems/72d4a654-ce8c-45a1-9cf1-3d62ce6fded9

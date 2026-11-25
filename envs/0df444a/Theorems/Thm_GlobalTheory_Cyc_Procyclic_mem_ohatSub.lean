@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_Procyclic_mem_ohatSub
 -- name    : GlobalTheory.Cyc.Procyclic.mem_ohatSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:20:59.625856+00:00
 -- url     : https://prove2.me/theorems/954060fe-49b7-4de9-b9dd-38b37269e798

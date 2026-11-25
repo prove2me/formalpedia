@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_rowCopy_mul_exp
 -- name    : Formalism.L2.FormalSeriesBounds.VP.rowCopy_mul_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:25:38.461434+00:00
 -- url     : https://prove2.me/theorems/06ec729e-1e10-4990-930a-97bb3c3f78cf

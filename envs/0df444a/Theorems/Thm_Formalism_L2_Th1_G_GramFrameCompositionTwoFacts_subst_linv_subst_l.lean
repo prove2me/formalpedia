@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_GramFrameCompositionTwoFacts_subst_linv_subst_l
 -- name    : Formalism.L2.Th1.G.GramFrameCompositionTwoFacts.subst_linv_subst_l
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:19:34.855885+00:00
 -- url     : https://prove2.me/theorems/f5161321-b1de-557e-a19c-c23ac7f4a6f6

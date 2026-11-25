@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeEmb_laplace
 -- name    : GlobalTheory.CompanionTheory.WedgeEmb.laplace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:26:26.338113+00:00
 -- url     : https://prove2.me/theorems/8ace3cf1-8407-4e1b-b879-5a31968020f1

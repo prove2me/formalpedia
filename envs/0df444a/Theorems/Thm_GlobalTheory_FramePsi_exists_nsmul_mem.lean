@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePsi_exists_nsmul_mem
 -- name    : GlobalTheory.FramePsi.exists_nsmul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:27:57.413246+00:00
 -- url     : https://prove2.me/theorems/86c56ef7-7b8f-4030-a304-fbb76ace274a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_FlagDisc_eq_zero_of_smul_mem
 -- name    : GlobalTheory.DegCnt.FlagDisc.eq_zero_of_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:23:45.092808+00:00
 -- url     : https://prove2.me/theorems/98ec688e-b440-4f2d-a4ac-e550696043d3

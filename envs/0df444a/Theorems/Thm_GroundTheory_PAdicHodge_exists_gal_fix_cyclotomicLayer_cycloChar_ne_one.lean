@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_gal_fix_cyclotomicLayer_cycloChar_ne_one
 -- name    : GroundTheory.PAdicHodge.exists_gal_fix_cyclotomicLayer_cycloChar_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:10:23.405987+00:00
 -- url     : https://prove2.me/theorems/c5ea4d23-93bb-5e5f-9e9b-b8fb40c115fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LeftDerivativeCurves_swap_list
 -- name    : Formalism.FourierDecayAlt.P.LeftDerivativeCurves.swap_list
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:00:17.547148+00:00
 -- url     : https://prove2.me/theorems/27ceec85-5f34-57d3-baf7-54f1fd9b7026

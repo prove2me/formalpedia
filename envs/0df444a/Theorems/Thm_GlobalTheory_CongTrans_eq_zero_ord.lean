@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongTrans_eq_zero_ord
 -- name    : GlobalTheory.CongTrans.eq_zero_ord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:18:40.377292+00:00
 -- url     : https://prove2.me/theorems/18a4d29a-36df-5687-8032-c5bed95cde16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuSpan_pr_val
 -- name    : GlobalTheory.CompanionTheory.BmuSpan.pr_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:16:15.268776+00:00
 -- url     : https://prove2.me/theorems/1a8b7045-b741-5a2a-9543-c774482e27e4

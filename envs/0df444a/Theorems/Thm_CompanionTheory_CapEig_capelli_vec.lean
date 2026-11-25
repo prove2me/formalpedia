@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_CapEig_capelli_vec
 -- name    : CompanionTheory.CapEig.capelli_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:49:11.086909+00:00
 -- url     : https://prove2.me/theorems/6b68b3d5-f79a-579d-bd38-6a573ad6cf38

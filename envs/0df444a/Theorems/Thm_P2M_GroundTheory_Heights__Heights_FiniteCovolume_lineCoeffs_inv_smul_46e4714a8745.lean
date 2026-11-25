@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_lineCoeffs_inv_smul_46e4714a8745
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_lineCoeffs_inv_smul_46e4714a8745
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:05:51.697951+00:00
 -- url     : https://prove2.me/theorems/c15f2cb2-7604-49e2-b3cb-35fd99931099

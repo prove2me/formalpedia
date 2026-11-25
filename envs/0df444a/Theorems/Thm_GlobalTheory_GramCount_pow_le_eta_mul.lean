@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_pow_le_eta_mul
 -- name    : GlobalTheory.GramCount.pow_le_eta_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:28:23.916337+00:00
 -- url     : https://prove2.me/theorems/7abe7e4f-8fb6-5e27-8843-e3d14cb2d3ca

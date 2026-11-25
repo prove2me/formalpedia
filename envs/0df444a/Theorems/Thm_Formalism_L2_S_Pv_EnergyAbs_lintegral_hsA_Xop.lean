@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_lintegral_hsA_Xop
 -- name    : Formalism.L2.S.Pv.EnergyAbs.lintegral_hsA_Xop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:16:20.549652+00:00
 -- url     : https://prove2.me/theorems/fd5f2997-1736-49ae-9973-2def25994c12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LieBracketMultiplication_op_hasDeriv
 -- name    : Formalism.FourierDecayAlt.P.LieBracketMultiplication.op_hasDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:17:39.065874+00:00
 -- url     : https://prove2.me/theorems/da3f37a7-56eb-53ca-87aa-1c27e2065dd8

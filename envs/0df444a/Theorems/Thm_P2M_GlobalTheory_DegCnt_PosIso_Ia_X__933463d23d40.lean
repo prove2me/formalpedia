@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DegCnt_PosIso_Ia_X__933463d23d40
 -- name    : P2M_GlobalTheory_DegCnt_PosIso_Ia_X__933463d23d40
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:28:40.768797+00:00
 -- url     : https://prove2.me/theorems/9c42f0c4-1870-5a22-b7b2-654a6b6c1388

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_vHalf_left_inv_and_mul
 -- name    : GlobalTheory.HCXi.vHalf_left_inv_and_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:50:22.2958+00:00
 -- url     : https://prove2.me/theorems/efcb9246-555f-416b-bf5b-618c1a04b439

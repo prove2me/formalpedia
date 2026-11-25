@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_TateS_norm_prim_sub_one
 -- name    : GlobalTheory.Cyc.TateS.norm_prim_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:20:07.284807+00:00
 -- url     : https://prove2.me/theorems/bf7e4d41-6450-5c5b-8569-556a67c49289

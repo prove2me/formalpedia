@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CongFin_exists_level
 -- name    : GlobalTheory.HL.CongFin.exists_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:29:03.004163+00:00
 -- url     : https://prove2.me/theorems/296beb78-c4b2-437b-98e7-ba4207f1a9c5

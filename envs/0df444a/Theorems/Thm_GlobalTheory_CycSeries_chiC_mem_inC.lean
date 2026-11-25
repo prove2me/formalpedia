@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycSeries_chiC_mem_inC
 -- name    : GlobalTheory.CycSeries.chiC_mem_inC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:20:57.587213+00:00
 -- url     : https://prove2.me/theorems/187059f8-7870-4a92-90e3-fc448653eba2

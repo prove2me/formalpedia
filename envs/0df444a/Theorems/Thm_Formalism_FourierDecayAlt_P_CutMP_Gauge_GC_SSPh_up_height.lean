@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_SSPh_up_height
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.SSPh.up_height
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:25:21.177569+00:00
 -- url     : https://prove2.me/theorems/cdc4ff62-4bc7-4007-b6d9-876793f60e98

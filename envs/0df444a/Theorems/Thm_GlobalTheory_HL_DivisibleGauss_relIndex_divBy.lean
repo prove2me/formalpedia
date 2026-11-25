@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_DivisibleGauss_relIndex_divBy
 -- name    : GlobalTheory.HL.DivisibleGauss.relIndex_divBy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:29:22.289642+00:00
 -- url     : https://prove2.me/theorems/afe22c8a-27bc-5558-a4fa-83b7d4b96480

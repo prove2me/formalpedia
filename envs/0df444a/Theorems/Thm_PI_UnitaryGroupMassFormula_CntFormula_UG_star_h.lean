@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_UG_star_h
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.UG.star_h
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:04:23.911053+00:00
 -- url     : https://prove2.me/theorems/00bbee00-5bbc-46fe-9223-540ba59836de

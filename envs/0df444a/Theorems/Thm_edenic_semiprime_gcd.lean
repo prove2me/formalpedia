@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_edenic_semiprime_gcd
 -- name    : edenic_semiprime_gcd
--- status  : Open
+-- status  : Proved
 -- author  : @mwm
 -- created : 2026-11-25T07:28:33.939593+00:00
 -- url     : https://prove2.me/theorems/93d0e903-9525-414f-8688-86dedbd985ef

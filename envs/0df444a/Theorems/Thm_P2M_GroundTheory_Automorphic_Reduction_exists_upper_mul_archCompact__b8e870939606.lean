@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Automorphic_Reduction_exists_upper_mul_archCompact__b8e870939606
 -- name    : P2M_GroundTheory_Automorphic_Reduction_exists_upper_mul_archCompact__b8e870939606
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:37:50.99261+00:00
 -- url     : https://prove2.me/theorems/3eed7e70-6dff-4c10-8078-de63f03cb676

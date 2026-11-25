@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongGrp_vE_unit
 -- name    : GlobalTheory.CongGrp.vE_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:18:34.819335+00:00
 -- url     : https://prove2.me/theorems/4632ea1d-91fe-5c0e-9e0d-ea2d9e00d62c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularisedIntegral_coef_continuousOn
 -- name    : GlobalTheory.RegularisedIntegral.coef_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:51:37.133397+00:00
 -- url     : https://prove2.me/theorems/cf5be7bc-feb7-5687-8e8d-26b3f0f43a38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_formalism_iff
 -- name    : GlobalTheory.FontCmp.formalism_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:32:04.687989+00:00
 -- url     : https://prove2.me/theorems/9d06aa87-7ac0-55f5-96f0-d41eb0cfe9b7

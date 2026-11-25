@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_LineStabiliser_acts_through_level_one
 -- name    : GlobalTheory.HCXi.LineStabiliser.acts_through_level_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:19:11.845263+00:00
 -- url     : https://prove2.me/theorems/4ae2e870-eb6b-4a3e-917d-3bddb988a3ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScatCaps_Caps_theorem_4_2
 -- name    : ScatCaps.Caps.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:06:11.858547+00:00
 -- url     : https://prove2.me/theorems/cbd2abc2-f9d0-405e-8b51-ea1af83cc223

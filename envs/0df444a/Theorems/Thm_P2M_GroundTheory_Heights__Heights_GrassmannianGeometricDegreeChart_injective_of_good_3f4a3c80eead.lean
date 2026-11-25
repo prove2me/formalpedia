@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GrassmannianGeometricDegreeChart_injective_of_good_3f4a3c80eead
 -- name    : P2M_GroundTheory_Heights__Heights_GrassmannianGeometricDegreeChart_injective_of_good_3f4a3c80eead
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:15.379894+00:00
 -- url     : https://prove2.me/theorems/856ecc69-cf0e-4351-93ab-6d8aceb5c02d

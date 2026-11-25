@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_GenSect_s1T
 -- name    : Formalism.L2.Pj.GenSect.s1T
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:56:04.699789+00:00
 -- url     : https://prove2.me/theorems/f9cf0181-7af6-4d98-94ef-0cdaf745c31a

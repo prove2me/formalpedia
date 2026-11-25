@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameAct_eq_smul_of
 -- name    : GlobalTheory.FrameAct.eq_smul_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:29:19.369877+00:00
 -- url     : https://prove2.me/theorems/934b07dc-2c1c-5688-85ae-82d72aaa7d4d

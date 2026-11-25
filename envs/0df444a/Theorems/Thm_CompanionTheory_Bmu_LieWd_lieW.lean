@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Bmu_LieWd_lieW
 -- name    : CompanionTheory.Bmu.LieWd.lieW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:06:04.883964+00:00
 -- url     : https://prove2.me/theorems/5896625b-ea1d-40e1-ab1e-b44d8adf0e87

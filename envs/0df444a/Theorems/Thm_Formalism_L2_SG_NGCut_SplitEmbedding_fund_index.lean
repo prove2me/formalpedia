@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NGCut_SplitEmbedding_fund_index
 -- name    : Formalism.L2.SG.NGCut.SplitEmbedding.fund_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:15:36.006414+00:00
 -- url     : https://prove2.me/theorems/415668db-b97f-4148-af50-48101dfa7078

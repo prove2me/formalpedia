@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_pairD_eq
 -- name    : Formalism.FourierDecayAlt.P.PBK.pairD_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:01:21.714889+00:00
 -- url     : https://prove2.me/theorems/462a5165-341d-423e-bec2-5a91a792cf7a

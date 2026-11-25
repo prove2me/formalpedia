@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckUIso_isHom_res
 -- name    : GlobalTheory.CompanionTheory.ZuckUIso.isHom_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:10:36.056775+00:00
 -- url     : https://prove2.me/theorems/ab05bd00-2501-5dd0-a2dc-65e19d849926

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckTransport_transport
 -- name    : GlobalTheory.CompanionTheory.ZuckTransport.transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:58:21.341151+00:00
 -- url     : https://prove2.me/theorems/ae70bb6c-8ab4-4bd2-9139-9745234ec0bd

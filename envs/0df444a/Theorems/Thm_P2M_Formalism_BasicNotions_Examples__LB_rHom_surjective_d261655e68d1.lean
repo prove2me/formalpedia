@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_rHom_surjective_d261655e68d1
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_rHom_surjective_d261655e68d1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:35:17.391615+00:00
 -- url     : https://prove2.me/theorems/5af13e79-fa4e-51c6-815f-1468f5f20ceb

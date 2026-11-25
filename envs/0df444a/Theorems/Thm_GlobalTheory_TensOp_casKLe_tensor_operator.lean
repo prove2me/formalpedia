@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensOp_casKLe_tensor_operator
 -- name    : GlobalTheory.TensOp.casKLe_tensor_operator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:03:15.448804+00:00
 -- url     : https://prove2.me/theorems/e190585e-71a2-506d-ad7e-1f0030f46ad2

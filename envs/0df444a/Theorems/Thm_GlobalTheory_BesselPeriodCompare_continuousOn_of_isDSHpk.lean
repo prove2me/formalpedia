@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_continuousOn_of_isDSHpk
 -- name    : GlobalTheory.BesselPeriodCompare.continuousOn_of_isDSHpk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:18:47.86717+00:00
 -- url     : https://prove2.me/theorems/811e9d0e-db58-4a42-9cdd-264cb8cc85e3

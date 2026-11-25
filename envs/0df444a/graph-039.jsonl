@@ -8282,11 +8282,11 @@
 {"parent": "GlobalTheory.FormalCocycle.cen_addAt", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_FormalLogEqSumOfMultiplicativeParam", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FormalCocycle.cen_addAt", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_ChartChg", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FormalCocycle.cen_addAt", "child": "Development_AbelianVarietyTheory_Proofs_FormalGroupCharts_FormalSeriesSubstPointsStandardThree", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.Ex.SymLift.wQ_iff", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_DegenerationWeilPairingPropertiesStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.Ex.SymLift.wQ_iff", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_MulqLawsStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.Ex.SymLift.wQ_iff", "child": "Development_AbelianVarietyTheory_Definitions_Degenerations_SepticCharacterInjective", "via": ["statement"]}
-{"parent": "GlobalTheory.Ex.SymLift.wQ_iff", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_DegenerationDataPsiQuadraticGeneratorsLinearStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.Ex.SymLift.wQ_iff", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_NormalisingFactor", "via": ["statement"]}
+{"parent": "GlobalTheory.Ex.SymLift.wQ_iff", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_DegenerationWeilPairingPropertiesStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Ex.SymLift.wQ_iff", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_MulqLawsStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Ex.SymLift.wQ_iff", "child": "Development_AbelianVarietyTheory_Definitions_Degenerations_SepticCharacterInjective", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Ex.SymLift.wQ_iff", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_DegenerationDataPsiQuadraticGeneratorsLinearStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Ex.SymLift.wQ_iff", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_NormalisingFactor", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LabelsAgree.wp_tor", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_DegenerationDataTorsionStructureAlgClosed", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LabelsAgree.wp_tor", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_HomTransportStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LabelsAgree.wp_tor", "child": "Development_AbelianVarietyTheory_Definitions_Degenerations_NotAllMatchRankZero", "via": ["solution", "statement"]}
@@ -18512,12 +18512,12 @@
 {"parent": "Formalism.DV.GaussP.length_residue", "child": "Formalism_GaussIdealIdentity_GaussIdealPrimality_GaussLocalizationLengthHolds", "via": ["solution", "statement"]}
 {"parent": "Formalism.DV.GaussP.length_residue", "child": "Formalism_GaussIdealIdentity_StatementLA", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_PowSubDvdChoosePrimePowOfLtStatement", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_PowSubDvdChoosePrimePowOfLt", "via": ["statement"]}
-{"parent": "GlobalTheory.Cyc.minpoly_unramifiedSubfield_eq_cyclotomic", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormPrimitiveRootPrimePowSubOnePadicComplexStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.Cyc.minpoly_unramifiedSubfield_eq_cyclotomic", "child": "Formalism_SharpRestriction_LevelLetterCocycles_DataNLoc", "via": ["statement"]}
-{"parent": "GlobalTheory.Cyc.minpoly_unramifiedSubfield_eq_cyclotomic", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormEqZpowOfMemMaxUnramifiedSubfieldStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.Cyc.minpoly_unramifiedSubfield_eq_cyclotomic", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_CyclotomicCharacterPadicBasicProperties", "via": ["statement"]}
-{"parent": "GlobalTheory.Cyc.minpoly_unramifiedSubfield_eq_cyclotomic", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_FinrankCyclotomicExtAndCyclotomicCharSurjective", "via": ["statement"]}
-{"parent": "GlobalTheory.Cyc.minpoly_unramifiedSubfield_eq_cyclotomic", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_HTBasis", "via": ["statement"]}
+{"parent": "GlobalTheory.Cyc.minpoly_unramifiedSubfield_eq_cyclotomic", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormPrimitiveRootPrimePowSubOnePadicComplexStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Cyc.minpoly_unramifiedSubfield_eq_cyclotomic", "child": "Formalism_SharpRestriction_LevelLetterCocycles_DataNLoc", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Cyc.minpoly_unramifiedSubfield_eq_cyclotomic", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NormEqZpowOfMemMaxUnramifiedSubfieldStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Cyc.minpoly_unramifiedSubfield_eq_cyclotomic", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_CyclotomicCharacterPadicBasicProperties", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Cyc.minpoly_unramifiedSubfield_eq_cyclotomic", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_FinrankCyclotomicExtAndCyclotomicCharSurjective", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Cyc.minpoly_unramifiedSubfield_eq_cyclotomic", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_HTBasis", "via": ["solution", "statement"]}
 {"parent": "Formalism.CountingSumsFrames.segment_terms_above_bound", "child": "Formalism_PolynomialDimension_MultinomialDepth_SegmentHypOfIntervalHyp", "via": ["solution", "statement"]}
 {"parent": "Formalism.CountingSumsFrames.segment_terms_above_bound", "child": "Formalism_PolynomialDimension_DigitSumValuationBound", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Proof.sum_coset_reps_ne_zero_iff_commensurable.finsum_quot_eq", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_SumCosetRepsNeZeroIffCommensurable", "via": ["solution", "statement"]}
@@ -63016,8 +63016,8 @@
 {"parent": "P2M_Formalism_InvariantFactorPaths_G7_LogarithmEquivalence_subst_mvExp__fa9db9cd36a6", "child": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FrobeniusLiftNorms_LogarithmEquivalence", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_InvariantFactorPaths_G7_LogarithmEquivalence_subst_mvExp__fa9db9cd36a6", "child": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_CyclicPowerClassOfExpEquiv", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_InvariantFactorPaths_G7_LogarithmEquivalence_subst_mvExp__fa9db9cd36a6", "child": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FrobeniusLiftNorms_TopsChoicePartA", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.T.dvd_all_pow_of_frobenius_eq_killed_by_perfect_points", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_DvdAllPowOfFrobeniusEqKilledByPerfectPointsStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.T.dvd_all_pow_of_frobenius_eq_killed_by_perfect_points", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_DvdAllPowOfFrobeniusEqKilledByPerfectPoints", "via": ["statement"]}
+{"parent": "GlobalTheory.T.dvd_all_pow_of_frobenius_eq_killed_by_perfect_points", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_DvdAllPowOfFrobeniusEqKilledByPerfectPointsStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.dvd_all_pow_of_frobenius_eq_killed_by_perfect_points", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_DvdAllPowOfFrobeniusEqKilledByPerfectPoints", "via": ["solution", "statement"]}
 {"parent": "Formalism.ELL.cube_two", "child": "Formalism_EllipticTorsion_EllipticTorsionProofs_CubeTwo", "via": ["solution", "statement"]}
 {"parent": "Formalism.ELL.cube_two", "child": "Formalism_EllipticTorsion_EllipticTorsionProofs_FormalGroupPointsHomDef", "via": ["solution", "statement"]}
 {"parent": "Formalism.ELL.cube_two", "child": "Formalism_EllipticTorsion_EllipticTorsionProofs_ExistsUnitFactor", "via": ["solution", "statement"]}

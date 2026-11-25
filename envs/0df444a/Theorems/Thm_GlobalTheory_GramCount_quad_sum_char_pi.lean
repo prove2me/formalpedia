@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_quad_sum_char_pi
 -- name    : GlobalTheory.GramCount.quad_sum_char_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:28:22.081104+00:00
 -- url     : https://prove2.me/theorems/626fa8f2-d52d-5071-a840-2617fbdc9fda

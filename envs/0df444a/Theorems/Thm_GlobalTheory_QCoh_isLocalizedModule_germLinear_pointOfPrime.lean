@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isLocalizedModule_germLinear_pointOfPrime
 -- name    : GlobalTheory.QCoh.isLocalizedModule_germLinear_pointOfPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:57:39.771347+00:00
 -- url     : https://prove2.me/theorems/98f63a8e-b5a7-4f95-869f-c36e899a4ae6

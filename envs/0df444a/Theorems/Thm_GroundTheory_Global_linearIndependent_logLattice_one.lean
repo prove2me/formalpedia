@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_linearIndependent_logLattice_one
 -- name    : GroundTheory.Global.linearIndependent_logLattice_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:26:29.603193+00:00
 -- url     : https://prove2.me/theorems/19ed4160-ec09-5856-99d6-2ce765626a9a

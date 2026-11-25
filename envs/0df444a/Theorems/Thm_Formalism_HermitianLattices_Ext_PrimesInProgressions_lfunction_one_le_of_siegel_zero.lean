@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_lfunction_one_le_of_siegel_zero
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.lfunction_one_le_of_siegel_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:29:32.260709+00:00
 -- url     : https://prove2.me/theorems/25fee2ad-c3b7-5af7-8582-71cc983b4b12

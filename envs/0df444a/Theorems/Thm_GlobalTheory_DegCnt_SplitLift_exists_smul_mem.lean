@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_SplitLift_exists_smul_mem
 -- name    : GlobalTheory.DegCnt.SplitLift.exists_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:26:12.474641+00:00
 -- url     : https://prove2.me/theorems/2becf4a0-25e5-47e2-8179-9d41210e23d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CutDeriv_continuous_of
 -- name    : GlobalTheory.CompanionTheory.CutDeriv.continuous_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:19:06.331676+00:00
 -- url     : https://prove2.me/theorems/1ee29407-6e61-54da-9674-44158b3b6893

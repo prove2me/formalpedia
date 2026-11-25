@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_space_card_char_le
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.space_card_char_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:19:03.443873+00:00
 -- url     : https://prove2.me/theorems/858b391e-b52b-486e-8b7c-caf6f245008f

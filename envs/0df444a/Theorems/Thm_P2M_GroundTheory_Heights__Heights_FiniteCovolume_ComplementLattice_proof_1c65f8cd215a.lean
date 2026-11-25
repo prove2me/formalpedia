@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_ComplementLattice_proof_1c65f8cd215a
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_ComplementLattice_proof_1c65f8cd215a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:20:04.565665+00:00
 -- url     : https://prove2.me/theorems/b59bdd35-45ab-5e40-80e2-436d539d1ffb

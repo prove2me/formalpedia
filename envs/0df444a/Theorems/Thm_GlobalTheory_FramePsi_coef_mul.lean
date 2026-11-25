@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePsi_coef_mul
 -- name    : GlobalTheory.FramePsi.coef_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:28:05.420093+00:00
 -- url     : https://prove2.me/theorems/7fb43fd4-5bdb-425b-b4d2-9d5573450cdd

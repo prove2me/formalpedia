@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_GenusOrb_main
 -- name    : GlobalTheory.Mass.GenusOrb.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:55:48.800508+00:00
 -- url     : https://prove2.me/theorems/43ded4f8-85ce-40cc-95e1-6adabeef5ddd

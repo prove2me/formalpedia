@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveVerticalPointNagata_aeval_C_mul_X_of_isMultiHomog_1c91891aa8ea
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveVerticalPointNagata_aeval_C_mul_X_of_isMultiHomog_1c91891aa8ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:11:33.707471+00:00
 -- url     : https://prove2.me/theorems/b89d3252-a5fe-547b-8ad4-30d57ebaa3e9

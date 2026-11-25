@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_SplitIdx_gidx_eq_idx
 -- name    : GlobalTheory.DegCnt.SplitIdx.gidx_eq_idx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:00:29.902457+00:00
 -- url     : https://prove2.me/theorems/1efd41e3-6c53-5c73-ae0e-99f1f238ca33

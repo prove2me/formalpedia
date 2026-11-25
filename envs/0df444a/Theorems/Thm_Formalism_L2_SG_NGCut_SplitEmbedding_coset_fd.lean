@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NGCut_SplitEmbedding_coset_fd
 -- name    : Formalism.L2.SG.NGCut.SplitEmbedding.coset_fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:16:18.412837+00:00
 -- url     : https://prove2.me/theorems/07b9034c-91a2-47ea-a2aa-4460c0420fbf

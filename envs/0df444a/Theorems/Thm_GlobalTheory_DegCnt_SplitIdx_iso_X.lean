@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_SplitIdx_iso_X
 -- name    : GlobalTheory.DegCnt.SplitIdx.iso_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:26:31.131004+00:00
 -- url     : https://prove2.me/theorems/ab3f1739-37be-43b0-8973-60ea8c0f1c81

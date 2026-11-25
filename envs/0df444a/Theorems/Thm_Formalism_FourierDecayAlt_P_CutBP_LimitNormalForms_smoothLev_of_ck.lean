@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutBP_LimitNormalForms_smoothLev_of_ck
 -- name    : Formalism.FourierDecayAlt.P.CutBP.LimitNormalForms.smoothLev_of_ck
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:36:59.328491+00:00
 -- url     : https://prove2.me/theorems/1a8c38a1-0c87-4454-a68c-bdd23e129626

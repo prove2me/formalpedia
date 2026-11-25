@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_coe_filter_box
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.coe_filter_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:17:17.185427+00:00
 -- url     : https://prove2.me/theorems/5ace87c6-85d1-5c2e-8ce0-852992f3f5b6

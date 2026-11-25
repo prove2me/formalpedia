@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Hyp_charSum_le
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Hyp.charSum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:25:38.135971+00:00
 -- url     : https://prove2.me/theorems/5c7bed95-b81e-4c75-b1ac-2767ec042002

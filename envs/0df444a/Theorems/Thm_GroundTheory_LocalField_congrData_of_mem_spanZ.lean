@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_congrData_of_mem_spanZ
 -- name    : GroundTheory.LocalField.congrData_of_mem_spanZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:31:30.233484+00:00
 -- url     : https://prove2.me/theorems/11c4dc40-aff9-4a41-ab40-5fbcc5db74b7

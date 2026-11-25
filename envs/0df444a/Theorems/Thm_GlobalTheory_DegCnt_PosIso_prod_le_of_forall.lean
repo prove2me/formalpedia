@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosIso_prod_le_of_forall
 -- name    : GlobalTheory.DegCnt.PosIso.prod_le_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:25:03.411701+00:00
 -- url     : https://prove2.me/theorems/65c4ae59-575c-5ce1-9632-cadeb33fb359

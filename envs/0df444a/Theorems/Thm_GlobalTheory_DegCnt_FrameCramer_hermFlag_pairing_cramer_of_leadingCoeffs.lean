@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_FrameCramer_hermFlag_pairing_cramer_of_leadingCoeffs
 -- name    : GlobalTheory.DegCnt.FrameCramer.hermFlag_pairing_cramer_of_leadingCoeffs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:27:16.034057+00:00
 -- url     : https://prove2.me/theorems/a78bede3-a2a2-4d3c-8478-8de64a1c54fa

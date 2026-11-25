@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosIso_exists_section
 -- name    : GlobalTheory.DegCnt.PosIso.exists_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:24:57.845843+00:00
 -- url     : https://prove2.me/theorems/7f8d06c5-1f4b-5ae2-acac-572d01babd94

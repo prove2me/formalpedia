@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhc_cauchy
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhc_cauchy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:27:05.626105+00:00
 -- url     : https://prove2.me/theorems/c78df2ae-3629-5231-97d9-41f3a448bdfd

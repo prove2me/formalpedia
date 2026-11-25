@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_galois_matrix_gaussSum_eq_char_pow_mul
 -- name    : GlobalTheory.T.galois_matrix_gaussSum_eq_char_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:51:57.904549+00:00
 -- url     : https://prove2.me/theorems/48256da7-7e44-4ce2-a7ca-95429a062bbd

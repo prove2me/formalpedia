@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_SplitPlaceGoodSignature_isoLoc_eq_of_hasParamX
 -- name    : GlobalTheory.Proof.SplitPlaceGoodSignature.isoLoc_eq_of_hasParamX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:36:54.608043+00:00
 -- url     : https://prove2.me/theorems/adb0e925-bb45-43f2-bb1d-a80e32e933e4

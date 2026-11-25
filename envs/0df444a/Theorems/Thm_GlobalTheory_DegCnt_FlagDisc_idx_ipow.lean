@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_FlagDisc_idx_ipow
 -- name    : GlobalTheory.DegCnt.FlagDisc.idx_ipow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:22:02.259807+00:00
 -- url     : https://prove2.me/theorems/b20a8074-390b-4e1d-9366-e63748f334cf

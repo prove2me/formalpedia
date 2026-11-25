@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_classNum_rename_vars_c54e0d859ef5
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_classNum_rename_vars_c54e0d859ef5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:10:05.182532+00:00
 -- url     : https://prove2.me/theorems/e8219acf-5885-4423-8c2e-f54094419d67

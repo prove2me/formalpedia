@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BesselCartan_exists_refl
 -- name    : GlobalTheory.CompanionTheory.BesselCartan.exists_refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:22:05.301226+00:00
 -- url     : https://prove2.me/theorems/47192623-ef5e-4117-9228-8b72a1a8ac48

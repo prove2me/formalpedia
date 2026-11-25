@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_pairOK_of_moved
 -- name    : CompanionTheory.WaveGrid.pairOK_of_moved
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:14:50.134838+00:00
 -- url     : https://prove2.me/theorems/f3605a17-e531-457b-8138-66151dbbd2e4

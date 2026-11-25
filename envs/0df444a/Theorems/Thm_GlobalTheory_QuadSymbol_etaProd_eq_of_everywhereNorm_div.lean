@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_etaProd_eq_of_everywhereNorm_div
 -- name    : GlobalTheory.QuadSymbol.etaProd_eq_of_everywhereNorm_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:31:26.595105+00:00
 -- url     : https://prove2.me/theorems/055a6a83-690a-43b6-b44b-9f2b8a0e99d8

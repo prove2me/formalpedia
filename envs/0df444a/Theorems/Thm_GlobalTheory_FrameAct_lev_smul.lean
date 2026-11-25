@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameAct_lev_smul
 -- name    : GlobalTheory.FrameAct.lev_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:27:50.136258+00:00
 -- url     : https://prove2.me/theorems/e2c08181-c077-491b-88ca-6e6da9b3929a

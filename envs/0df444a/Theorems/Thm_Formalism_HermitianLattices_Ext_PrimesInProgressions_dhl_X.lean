@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhl_X
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhl_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:29:43.13158+00:00
 -- url     : https://prove2.me/theorems/9a412ecc-1e9c-5eca-bf6c-01b729d72eae

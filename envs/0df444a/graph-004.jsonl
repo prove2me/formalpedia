@@ -52672,7 +52672,7 @@
 {"parent": "ScatCaps.Caps.proposition_4_7", "child": "ScatCaps_LinearSets_Model", "via": ["statement"]}
 {"parent": "ScatCaps.Caps.theorem_1_3", "child": "ScatCaps_Caps_Model", "via": ["statement"]}
 {"parent": "ScatCaps.Caps.theorem_2_10", "child": "ScatCaps_LinearSets_Model", "via": ["statement"]}
-{"parent": "ScatCaps.Caps.theorem_4_2", "child": "ScatCaps_Caps_Model", "via": ["statement"]}
+{"parent": "ScatCaps.Caps.theorem_4_2", "child": "ScatCaps_Caps_Model", "via": ["solution", "statement"]}
 {"parent": "ScatCaps.Caps.translation_cap_bound", "child": "ScatCaps_Caps_Model", "via": ["solution", "statement"]}
 {"parent": "ScatCaps.LinearSets.baer_subplane", "child": "ScatCaps_LinearSets_Model", "via": ["solution", "statement"]}
 {"parent": "ScatCaps.LinearSets.lemma_2_6", "child": "ScatCaps_LinearSets_Model", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_JA_SSn_ChainPf_expand
 -- name    : Formalism.FourierDecayAlt.P.CutMP.JA.SSn.ChainPf.expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:20:28.596884+00:00
 -- url     : https://prove2.me/theorems/47794b17-d023-580f-b721-00a57f710cfd

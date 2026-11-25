@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_isHCParam_of_interlaces
 -- name    : GlobalTheory.BesselPeriodCompare.isHCParam_of_interlaces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:18:52.281271+00:00
 -- url     : https://prove2.me/theorems/337ffe63-27c3-4f5b-926f-acd8a1d661c8

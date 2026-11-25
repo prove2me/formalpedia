@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_map_mul_left_infiniteAdeleMeasure
 -- name    : GroundTheory.Global.map_mul_left_infiniteAdeleMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:26:14.436813+00:00
 -- url     : https://prove2.me/theorems/766ff5b2-d25f-4678-91c2-1489529e0d00

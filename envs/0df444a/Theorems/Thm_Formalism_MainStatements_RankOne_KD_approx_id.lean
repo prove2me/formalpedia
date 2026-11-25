@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainStatements_RankOne_KD_approx_id
 -- name    : Formalism.MainStatements.RankOne.KD.approx_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:19:09.966237+00:00
 -- url     : https://prove2.me/theorems/1209649a-12f6-5043-a399-8f7015f1a6e0

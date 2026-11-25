@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_Bit_Oppbank_RankCheck_tableBlock18432
 -- name    : IntMul.Kappa.R8.Bit.Oppbank.RankCheck.tableBlock18432
--- status  : Open
+-- status  : Proved
 -- author  : @immiq
 -- created : 2026-11-25T06:45:53.792163+00:00
 -- url     : https://prove2.me/theorems/557cbd92-06ed-4997-8bb1-524cd438e693

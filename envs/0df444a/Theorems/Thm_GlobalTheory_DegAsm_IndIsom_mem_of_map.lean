@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_IndIsom_mem_of_map
 -- name    : GlobalTheory.DegAsm.IndIsom.mem_of_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:21:08.684468+00:00
 -- url     : https://prove2.me/theorems/b774a8da-bed6-5a31-9b93-6e25b6598654

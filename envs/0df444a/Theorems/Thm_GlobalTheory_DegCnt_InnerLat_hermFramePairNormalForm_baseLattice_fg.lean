@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_InnerLat_hermFramePairNormalForm_baseLattice_fg
 -- name    : GlobalTheory.DegCnt.InnerLat.hermFramePairNormalForm_baseLattice_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:29:48.555296+00:00
 -- url     : https://prove2.me/theorems/8aa26b28-97c9-4f2a-8dee-5f9c19215e3d

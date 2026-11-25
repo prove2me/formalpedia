@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_constantCoeff_single_point_zero
 -- name    : Formalism.L2.FormalSeriesBounds.VP.constantCoeff_single_point_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:16:03.420006+00:00
 -- url     : https://prove2.me/theorems/8525ef87-7032-548e-b47e-6ae43b9a38d0

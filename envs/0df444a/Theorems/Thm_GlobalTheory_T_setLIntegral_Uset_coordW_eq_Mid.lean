@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_setLIntegral_Uset_coordW_eq_Mid
 -- name    : GlobalTheory.T.setLIntegral_Uset_coordW_eq_Mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:58:11.752395+00:00
 -- url     : https://prove2.me/theorems/4082e90e-198c-4ba5-8615-a36dcd4d3b97

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_isExcPair_of_region
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.isExcPair_of_region
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:29:32.980805+00:00
 -- url     : https://prove2.me/theorems/415bf5ce-d81e-4b23-b3e1-8d5879a838da

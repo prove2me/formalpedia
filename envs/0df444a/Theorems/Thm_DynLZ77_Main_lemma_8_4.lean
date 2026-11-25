@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynLZ77_Main_lemma_8_4
 -- name    : DynLZ77.Main.lemma_8_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T21:21:44.487108+00:00
 -- url     : https://prove2.me/theorems/7cad5be2-70c3-4c3d-81eb-f5f1cea85010

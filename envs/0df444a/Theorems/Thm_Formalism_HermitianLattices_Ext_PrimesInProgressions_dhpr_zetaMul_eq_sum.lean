@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhpr_zetaMul_eq_sum
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhpr_zetaMul_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:27:16.315634+00:00
 -- url     : https://prove2.me/theorems/77d86b90-c9bd-5bd1-9338-627c5cd72f4a

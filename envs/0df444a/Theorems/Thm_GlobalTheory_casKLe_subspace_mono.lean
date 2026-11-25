@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_casKLe_subspace_mono
 -- name    : GlobalTheory.casKLe_subspace_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:07:22.733738+00:00
 -- url     : https://prove2.me/theorems/a8b35592-f506-4390-a140-66b40e9b29ca

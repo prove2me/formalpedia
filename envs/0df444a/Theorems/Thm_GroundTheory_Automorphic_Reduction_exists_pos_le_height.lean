@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_exists_pos_le_height
 -- name    : GroundTheory.Automorphic.Reduction.exists_pos_le_height
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:04:01.121856+00:00
 -- url     : https://prove2.me/theorems/87a17a7b-dc65-4951-ab57-95cd190fa8a1

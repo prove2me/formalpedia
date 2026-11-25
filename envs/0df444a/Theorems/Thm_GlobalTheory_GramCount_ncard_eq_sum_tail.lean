@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_ncard_eq_sum_tail
 -- name    : GlobalTheory.GramCount.ncard_eq_sum_tail
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:29:26.244247+00:00
 -- url     : https://prove2.me/theorems/e38472a6-e730-4cf6-b6a3-1c1d2bee9823

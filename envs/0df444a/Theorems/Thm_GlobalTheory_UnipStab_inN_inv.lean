@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipStab_inN_inv
 -- name    : GlobalTheory.UnipStab.inN_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:54:45.984987+00:00
 -- url     : https://prove2.me/theorems/ed1b71a0-fc03-4d84-bcfb-e07b10bf0ca2

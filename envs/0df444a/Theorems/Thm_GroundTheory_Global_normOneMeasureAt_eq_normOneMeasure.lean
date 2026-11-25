@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_normOneMeasureAt_eq_normOneMeasure
 -- name    : GroundTheory.Global.normOneMeasureAt_eq_normOneMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:15:25.330733+00:00
 -- url     : https://prove2.me/theorems/3e186880-853d-5b7c-b2f3-04bd934124f3

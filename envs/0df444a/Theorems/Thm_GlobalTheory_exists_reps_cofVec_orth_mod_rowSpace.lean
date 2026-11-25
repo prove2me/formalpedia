@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_reps_cofVec_orth_mod_rowSpace
 -- name    : GlobalTheory.exists_reps_cofVec_orth_mod_rowSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:18:07.715143+00:00
 -- url     : https://prove2.me/theorems/f2bd7b07-6e05-49c9-8d9d-0a62cadf489b

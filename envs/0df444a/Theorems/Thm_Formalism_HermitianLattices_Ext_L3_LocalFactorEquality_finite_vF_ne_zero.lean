@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocalFactorEquality_finite_vF_ne_zero
 -- name    : Formalism.HermitianLattices.Ext.L3.LocalFactorEquality.finite_vF_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:11:53.069118+00:00
 -- url     : https://prove2.me/theorems/635d0285-0ee0-5c7f-b4ea-4dc6625ec52a

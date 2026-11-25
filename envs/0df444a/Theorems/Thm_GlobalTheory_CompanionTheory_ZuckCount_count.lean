@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckCount_count
 -- name    : GlobalTheory.CompanionTheory.ZuckCount.count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:56:33.54114+00:00
 -- url     : https://prove2.me/theorems/6b2ddc9e-59a5-5205-af9c-20a7a056dee6

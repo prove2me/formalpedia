@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Coinv_rename_esymm_mem_1c581a89718a
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Coinv_rename_esymm_mem_1c581a89718a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:18:44.596445+00:00
 -- url     : https://prove2.me/theorems/e48f4d19-b653-40a3-9b8e-504f8889ffdd

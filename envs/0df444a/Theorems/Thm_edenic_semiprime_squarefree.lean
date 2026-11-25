@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_edenic_semiprime_squarefree
 -- name    : edenic_semiprime_squarefree
--- status  : Open
+-- status  : Proved
 -- author  : @mwm
 -- created : 2026-11-25T07:28:13.229627+00:00
 -- url     : https://prove2.me/theorems/0bffdf85-6894-4c21-9a11-4f70d02888ad

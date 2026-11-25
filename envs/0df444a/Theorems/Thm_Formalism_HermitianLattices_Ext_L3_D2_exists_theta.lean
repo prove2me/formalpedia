@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_exists_theta
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.exists_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:26:52.59721+00:00
 -- url     : https://prove2.me/theorems/d57109c4-f4ce-50d0-8530-b511fb7d4a3d

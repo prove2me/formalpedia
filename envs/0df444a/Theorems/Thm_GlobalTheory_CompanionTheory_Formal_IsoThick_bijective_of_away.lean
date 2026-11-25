@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Formal_IsoThick_bijective_of_away
 -- name    : GlobalTheory.CompanionTheory.Formal.IsoThick.bijective_of_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:19:06.437837+00:00
 -- url     : https://prove2.me/theorems/199119df-6790-5ef1-90c5-a108967ae90f

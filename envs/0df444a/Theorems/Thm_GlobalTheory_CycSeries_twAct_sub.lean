@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycSeries_twAct_sub
 -- name    : GlobalTheory.CycSeries.twAct_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:24:02.677442+00:00
 -- url     : https://prove2.me/theorems/c2feeba0-b877-4950-961c-ebc178085e4c

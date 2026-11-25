@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_SymLift_wQ_iff
 -- name    : GlobalTheory.Ex.SymLift.wQ_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:51:58.535827+00:00
 -- url     : https://prove2.me/theorems/5828e49f-8610-4cb9-9100-81b272ba2ae3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuSpan_mask_neg
 -- name    : GlobalTheory.CompanionTheory.BmuSpan.mask_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:04:57.453932+00:00
 -- url     : https://prove2.me/theorems/c5c1210d-8602-5841-856a-86e8363eb2e4

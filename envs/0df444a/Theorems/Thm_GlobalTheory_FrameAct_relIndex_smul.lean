@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameAct_relIndex_smul
 -- name    : GlobalTheory.FrameAct.relIndex_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:28:02.516709+00:00
 -- url     : https://prove2.me/theorems/28a0b0ad-cad3-41af-8966-4b071f945415

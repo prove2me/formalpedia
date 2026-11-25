@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_KleimanIntersectionNumberCut_proof__9272f1faa9bf
 -- name    : P2M_UpperTheory_Reformulated_B_KleimanIntersectionNumberCut_proof__9272f1faa9bf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:24:02.304795+00:00
 -- url     : https://prove2.me/theorems/9d63e37a-e24c-45f2-a36a-07df119e71ae

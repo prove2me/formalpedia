@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_subst_row_toLeaf
 -- name    : Formalism.L2.FormalSeriesBounds.subst_row_toLeaf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:01:24.467192+00:00
 -- url     : https://prove2.me/theorems/cfeb7591-ddb7-50ce-a32a-7ee1b2000d68

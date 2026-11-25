@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_DatMove_jointSpan_comm
 -- name    : GlobalTheory.DegAsm.DatMove.jointSpan_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:24:43.023478+00:00
 -- url     : https://prove2.me/theorems/e4c10448-b5ff-4d44-86d7-9b1d46420371

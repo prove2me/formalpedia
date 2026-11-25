@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_pderiv_subst_linS
 -- name    : Formalism.L2.FormalSeriesBounds.pderiv_subst_linS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:27:02.45927+00:00
 -- url     : https://prove2.me/theorems/76a6e377-5cfb-4910-8755-7213f28305be

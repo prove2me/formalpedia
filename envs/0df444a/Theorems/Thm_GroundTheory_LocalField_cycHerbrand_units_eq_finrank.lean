@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_cycHerbrand_units_eq_finrank
 -- name    : GroundTheory.LocalField.cycHerbrand_units_eq_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:29:27.422745+00:00
 -- url     : https://prove2.me/theorems/8cb630e6-bcff-4386-b79f-ff3d0eb1f93b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuIwa_adapted_dec_one
 -- name    : GlobalTheory.CompanionTheory.BmuIwa.adapted_dec_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:20:52.231468+00:00
 -- url     : https://prove2.me/theorems/b0d98d95-9b04-5e0a-90bc-e8e979019eae

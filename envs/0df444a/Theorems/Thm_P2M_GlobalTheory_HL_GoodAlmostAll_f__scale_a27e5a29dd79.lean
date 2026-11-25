@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HL_GoodAlmostAll_f__scale_a27e5a29dd79
 -- name    : P2M_GlobalTheory_HL_GoodAlmostAll_f__scale_a27e5a29dd79
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:05:43.034439+00:00
 -- url     : https://prove2.me/theorems/599d879b-947b-45c0-a177-d041a813c2e2

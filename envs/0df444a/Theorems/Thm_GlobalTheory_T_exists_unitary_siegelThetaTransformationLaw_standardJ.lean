@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unitary_siegelThetaTransformationLaw_standardJ
 -- name    : GlobalTheory.T.exists_unitary_siegelThetaTransformationLaw_standardJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:38:27.308568+00:00
 -- url     : https://prove2.me/theorems/b2d9ed33-1b5f-4944-a160-3bac4484010c

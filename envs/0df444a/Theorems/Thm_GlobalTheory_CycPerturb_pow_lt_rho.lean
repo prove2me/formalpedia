@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycPerturb_pow_lt_rho
 -- name    : GlobalTheory.CycPerturb.pow_lt_rho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:22:09.622788+00:00
 -- url     : https://prove2.me/theorems/2ac24d53-fb0d-54d7-a3fe-d01eda1d7f7e

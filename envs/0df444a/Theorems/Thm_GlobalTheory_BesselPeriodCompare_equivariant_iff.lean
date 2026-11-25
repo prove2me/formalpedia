@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_equivariant_iff
 -- name    : GlobalTheory.BesselPeriodCompare.equivariant_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:18:24.576432+00:00
 -- url     : https://prove2.me/theorems/79158545-6edc-566a-8ade-80b1733dee48

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BlockAdjoinPrime_sup_eq_comap_c789fdbae33b
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BlockAdjoinPrime_sup_eq_comap_c789fdbae33b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:06:31.491714+00:00
 -- url     : https://prove2.me/theorems/87fafba3-cbca-54df-9d58-8a08c01f109c

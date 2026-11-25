@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_ProductWithProjectiveSpace_proof_878b39cc99c3
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_ProductWithProjectiveSpace_proof_878b39cc99c3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:41:11.254812+00:00
 -- url     : https://prove2.me/theorems/1dd8d45d-f8bd-40ea-9aef-4ca149812bff

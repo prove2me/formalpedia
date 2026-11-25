@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_CutByEffectiveDivisor_proof_d4a5ba733edb
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_CutByEffectiveDivisor_proof_d4a5ba733edb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:54:41.655896+00:00
 -- url     : https://prove2.me/theorems/51ef3a7f-0651-48b3-80f7-bbf31ab90da8

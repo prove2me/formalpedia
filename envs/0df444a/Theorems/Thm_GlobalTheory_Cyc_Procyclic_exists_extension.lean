@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_Procyclic_exists_extension
 -- name    : GlobalTheory.Cyc.Procyclic.exists_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:21:16.237087+00:00
 -- url     : https://prove2.me/theorems/fe833330-25ad-4b2a-8504-a6d5e541000d

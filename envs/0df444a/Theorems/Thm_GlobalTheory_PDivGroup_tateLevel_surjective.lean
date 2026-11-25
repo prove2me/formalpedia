@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_tateLevel_surjective
 -- name    : GlobalTheory.PDivGroup.tateLevel_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:58:18.682735+00:00
 -- url     : https://prove2.me/theorems/73f85a19-acf5-4ad8-9519-b07ebeb44725

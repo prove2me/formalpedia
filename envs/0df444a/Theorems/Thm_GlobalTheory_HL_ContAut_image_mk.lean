@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ContAut_image_mk
 -- name    : GlobalTheory.HL.ContAut.image_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:28:57.424803+00:00
 -- url     : https://prove2.me/theorems/34b8d1f5-a246-4b6c-84f1-9d597d227081

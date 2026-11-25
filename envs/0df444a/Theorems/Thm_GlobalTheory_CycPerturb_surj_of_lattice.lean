@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycPerturb_surj_of_lattice
 -- name    : GlobalTheory.CycPerturb.surj_of_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:24:18.033989+00:00
 -- url     : https://prove2.me/theorems/85d59235-37ea-4ffd-87a1-001e46308547

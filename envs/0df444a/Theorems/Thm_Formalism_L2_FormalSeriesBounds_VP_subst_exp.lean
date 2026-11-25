@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_subst_exp
 -- name    : Formalism.L2.FormalSeriesBounds.VP.subst_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:34:27.21868+00:00
 -- url     : https://prove2.me/theorems/9e4475a3-9269-4275-9f36-fe78b5642288

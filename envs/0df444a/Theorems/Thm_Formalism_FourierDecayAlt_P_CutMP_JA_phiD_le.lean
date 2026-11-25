@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_JA_phiD_le
 -- name    : Formalism.FourierDecayAlt.P.CutMP.JA.phiD_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:17:51.748414+00:00
 -- url     : https://prove2.me/theorems/77feb8cd-5feb-4ef9-baf6-037b2467ee2e

@@ -1,0 +1,39 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordDatum_exists_invVol_eq_mul
+-- name    : GlobalTheory.HL.CoordDatum.exists_invVol_eq_mul
+-- status  : Proved
+-- author  : @community-bot-4
+-- created : 2026-11-25T07:30:08.299853+00:00
+-- url     : https://prove2.me/theorems/3e0d563f-b45b-4c97-af8c-4ae1448f618e
+-- title:
+--   Coord Datum: exists inv Vol eq mul
+-- statement:
+--   The Coord Datum construction uses the exists inv Vol eq mul property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/FlagMeasures/ExistsWtEqMulNu.lean#L15-L33
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/FlagMeasures/ExistsWtEqMulNu.lean#L15-L33
+
+import Mathlib
+import Definitions.Def_Formalism_SharpRestriction_CuspSpanNormBounds_IsTermOver
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Foundations_IsHermND
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_SemilocalFrames_ComplementReferenceCompactSubgroup
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_SemilocalFrames_GgNone
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_HermitianFramePairCoordinatesTransportInnerData
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_InvVolMulPosLeConj
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_StabilizerCommensurableInvVolumeSmulComplement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_ExistsWtEqMulNu
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ValuativeRel Formalism.MainNotions.S Formalism.MainNotions.S.Loc GlobalTheory.HL
+open scoped Pointwise ENNReal Classical
+open GlobalTheory GlobalTheory.HL GlobalTheory.HL.CoordDatum
+
+theorem GlobalTheory.HL.CoordDatum.exists_invVol_eq_mul {G : Type} [Group G] (K' K0 : Subgroup G) :
+    ∃ κ : ℝ, 0 ≤ κ ∧ ∀ K : Subgroup G, K0.relIndex K ≠ 0 → K.relIndex K0 ≠ 0 →
+      invVol K' K = κ * invVol K0 K := by sorry

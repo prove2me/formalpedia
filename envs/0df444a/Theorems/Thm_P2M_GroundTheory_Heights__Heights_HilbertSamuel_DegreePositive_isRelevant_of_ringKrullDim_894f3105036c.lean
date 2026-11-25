@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_DegreePositive_isRelevant_of_ringKrullDim_894f3105036c
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_DegreePositive_isRelevant_of_ringKrullDim_894f3105036c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:58:53.51052+00:00
 -- url     : https://prove2.me/theorems/87e37f17-5c4d-4426-9761-f2309fbe9505

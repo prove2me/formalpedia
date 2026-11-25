@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_FSLevi_leviForm_nonneg_f186cf19c0d3
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_FSLevi_leviForm_nonneg_f186cf19c0d3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:02:33.368655+00:00
 -- url     : https://prove2.me/theorems/a56d8466-df34-40ce-bde8-37bead22318d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_capelli_operator_unitaryGroup_local
 -- name    : GlobalTheory.T.capelli_operator_unitaryGroup_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:02:38.539374+00:00
 -- url     : https://prove2.me/theorems/8c0d5be2-e54e-5625-a894-5f027b6f8140

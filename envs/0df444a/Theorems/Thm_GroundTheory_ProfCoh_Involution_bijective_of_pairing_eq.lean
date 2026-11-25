@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_Involution_bijective_of_pairing_eq
 -- name    : GroundTheory.ProfCoh.Involution.bijective_of_pairing_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:11:59.770899+00:00
 -- url     : https://prove2.me/theorems/61ab3bcd-a29b-43bf-8287-f64cb489bf85

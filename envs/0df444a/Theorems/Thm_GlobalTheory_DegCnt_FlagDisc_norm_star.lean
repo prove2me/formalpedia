@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_FlagDisc_norm_star
 -- name    : GlobalTheory.DegCnt.FlagDisc.norm_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:21:31.225528+00:00
 -- url     : https://prove2.me/theorems/a6d7cc6b-850a-5db8-95c1-44b50fb95233

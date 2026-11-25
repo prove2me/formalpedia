@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_TateS_act_continuous
 -- name    : GlobalTheory.Cyc.TateS.act_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:21:13.51193+00:00
 -- url     : https://prove2.me/theorems/e71316cc-fd40-4f9e-ace7-be42a6664cae

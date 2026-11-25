@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_setIntegral_norm_prodExp_mul_le_haar
 -- name    : GlobalTheory.T.exists_setIntegral_norm_prodExp_mul_le_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:12:43.522266+00:00
 -- url     : https://prove2.me/theorems/009c17ef-cbdc-487f-9172-c51730f8aeff

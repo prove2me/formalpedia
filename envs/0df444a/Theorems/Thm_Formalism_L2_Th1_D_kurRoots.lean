@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_kurRoots
 -- name    : Formalism.L2.Th1.D.kurRoots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:36:22.740002+00:00
 -- url     : https://prove2.me/theorems/0e6e966b-213c-5f93-871b-15c6b29e84c7

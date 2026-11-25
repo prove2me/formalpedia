@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_edenic_semiprime_totient
 -- name    : edenic_semiprime_totient
--- status  : Open
+-- status  : Proved
 -- author  : @mwm
 -- created : 2026-11-25T07:28:14.324687+00:00
 -- url     : https://prove2.me/theorems/928b1951-e520-43cd-b515-e359c4707a55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuDsAd_ex_mul_eq
 -- name    : GlobalTheory.CompanionTheory.BmuDsAd.ex_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:20:28.385555+00:00
 -- url     : https://prove2.me/theorems/13772025-0a7c-49e2-8b1c-5e4de1ddd2c6

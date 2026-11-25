@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Bmu_norm_psiGen
 -- name    : CompanionTheory.Bmu.norm_psiGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:15:14.306148+00:00
 -- url     : https://prove2.me/theorems/398c4989-72f3-464c-8d90-c8dfccff970d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_finrank_Ks
 -- name    : GlobalTheory.Cyc.finrank_Ks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:34:22.016822+00:00
 -- url     : https://prove2.me/theorems/69cfcdfa-3bc8-48a7-b133-e8bb334c1d09

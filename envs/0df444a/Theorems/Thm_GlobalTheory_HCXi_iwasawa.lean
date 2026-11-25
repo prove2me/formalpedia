@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_iwasawa
 -- name    : GlobalTheory.HCXi.iwasawa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:32:52.155387+00:00
 -- url     : https://prove2.me/theorems/e4a12514-1238-495d-8cb4-119b879c5f49

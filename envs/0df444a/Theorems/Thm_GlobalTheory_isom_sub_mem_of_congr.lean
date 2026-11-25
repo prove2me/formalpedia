@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isom_sub_mem_of_congr
 -- name    : GlobalTheory.isom_sub_mem_of_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:22:09.269381+00:00
 -- url     : https://prove2.me/theorems/999f4ddc-a32e-5231-bf64-ab324b4c72c6

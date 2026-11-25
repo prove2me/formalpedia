@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_det_rmat_conjBase
 -- name    : GroundTheory.Automorphic.Anisotropic.det_rmat_conjBase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:57:25.923835+00:00
 -- url     : https://prove2.me/theorems/f7209d97-3c9f-4903-98e0-df6e962a8952

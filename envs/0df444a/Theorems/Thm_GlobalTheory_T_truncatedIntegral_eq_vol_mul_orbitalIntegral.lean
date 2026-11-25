@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_truncatedIntegral_eq_vol_mul_orbitalIntegral
 -- name    : GlobalTheory.T.truncatedIntegral_eq_vol_mul_orbitalIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:59:57.33965+00:00
 -- url     : https://prove2.me/theorems/633c6538-7c1b-4dcf-9229-963dda57ea65

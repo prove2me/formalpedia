@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Bmu_spanFam
 -- name    : CompanionTheory.Bmu.spanFam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:15:28.237062+00:00
 -- url     : https://prove2.me/theorems/9b000083-a8cc-4a65-a6f9-56f8c6f51ab0

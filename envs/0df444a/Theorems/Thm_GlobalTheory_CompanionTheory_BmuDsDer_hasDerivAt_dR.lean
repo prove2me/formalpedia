@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuDsDer_hasDerivAt_dR
 -- name    : GlobalTheory.CompanionTheory.BmuDsDer.hasDerivAt_dR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:22:11.363827+00:00
 -- url     : https://prove2.me/theorems/15ac82d9-5a61-4943-aa9c-9dc5fb5a73c3

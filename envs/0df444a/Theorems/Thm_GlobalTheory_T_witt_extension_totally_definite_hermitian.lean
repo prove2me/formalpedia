@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_witt_extension_totally_definite_hermitian
 -- name    : GlobalTheory.T.witt_extension_totally_definite_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:08:44.877586+00:00
 -- url     : https://prove2.me/theorems/e01f3048-7baf-4e30-ac94-94f22ca94dad

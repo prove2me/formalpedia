@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_space_harm
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.space_harm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:18:01.522861+00:00
 -- url     : https://prove2.me/theorems/589e5334-466d-5873-93f2-bcdf516f4e2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycSeries_inj_of_small
 -- name    : GlobalTheory.CycSeries.inj_of_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:21:14.428802+00:00
 -- url     : https://prove2.me/theorems/06438145-edb7-4eaf-b089-32ccfbb8b0cd

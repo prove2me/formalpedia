@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_one_le_log_of_three_le__619f5b1cd3f0
 -- name    : P2M_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_one_le_log_of_three_le__619f5b1cd3f0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:18:24.816928+00:00
 -- url     : https://prove2.me/theorems/7df0797c-fd4d-5577-9bd1-9b0bf060f224

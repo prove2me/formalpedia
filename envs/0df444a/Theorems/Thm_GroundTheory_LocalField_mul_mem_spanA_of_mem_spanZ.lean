@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_mul_mem_spanA_of_mem_spanZ
 -- name    : GroundTheory.LocalField.mul_mem_spanA_of_mem_spanZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:33:51.0498+00:00
 -- url     : https://prove2.me/theorems/b7768085-97ef-4001-818f-d3df8f12e9cd

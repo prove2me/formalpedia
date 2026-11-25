@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sum_eigen_split_of_resolvent
 -- name    : GlobalTheory.exists_sum_eigen_split_of_resolvent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:07:22.789245+00:00
 -- url     : https://prove2.me/theorems/73cde024-722d-5818-aa47-010911657cfb

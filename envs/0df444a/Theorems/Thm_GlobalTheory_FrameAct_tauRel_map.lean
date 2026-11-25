@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameAct_tauRel_map
 -- name    : GlobalTheory.FrameAct.tauRel_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:27:29.968871+00:00
 -- url     : https://prove2.me/theorems/32002c3e-baf3-5587-af16-5e65d108e7fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongGrp_intM_one
 -- name    : GlobalTheory.CongGrp.intM_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:19:21.117176+00:00
 -- url     : https://prove2.me/theorems/50949067-6f42-4699-b31e-9cd20341c390

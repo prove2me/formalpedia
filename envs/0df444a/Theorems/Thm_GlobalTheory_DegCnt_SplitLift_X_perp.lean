@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_SplitLift_X_perp
 -- name    : GlobalTheory.DegCnt.SplitLift.X_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:26:51.841685+00:00
 -- url     : https://prove2.me/theorems/f949f484-2f22-4a6b-ac9d-932c4f4d42df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceCount_exists_gen_mod
 -- name    : GlobalTheory.TraceCount.exists_gen_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:18:19.91902+00:00
 -- url     : https://prove2.me/theorems/3efd891d-b9be-45ba-b205-fa25aa5806b5

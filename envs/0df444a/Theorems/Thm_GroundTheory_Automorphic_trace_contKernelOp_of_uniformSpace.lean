@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_trace_contKernelOp_of_uniformSpace
 -- name    : GroundTheory.Automorphic.trace_contKernelOp_of_uniformSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:11:04.105691+00:00
 -- url     : https://prove2.me/theorems/2b2e4e7f-3953-44da-96ea-2d4c955c0ac5

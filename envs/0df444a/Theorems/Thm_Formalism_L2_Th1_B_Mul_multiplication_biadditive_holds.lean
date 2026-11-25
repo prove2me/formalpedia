@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Mul_multiplication_biadditive_holds
 -- name    : Formalism.L2.Th1.B.Mul.multiplication_biadditive_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:29:19.260449+00:00
 -- url     : https://prove2.me/theorems/a72c1252-18f1-4560-a68f-7b0a2e010055

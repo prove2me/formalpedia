@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LocGauss_fibre_rapid_eq_density
 -- name    : GlobalTheory.CompanionTheory.SW.LocGauss.fibre_rapid_eq_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:10:05.362797+00:00
 -- url     : https://prove2.me/theorems/0d3bb0e6-30e5-442e-9fb8-866c07910035

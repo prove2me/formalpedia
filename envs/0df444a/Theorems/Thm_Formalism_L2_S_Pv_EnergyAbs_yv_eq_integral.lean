@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_yv_eq_integral
 -- name    : Formalism.L2.S.Pv.EnergyAbs.yv_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:21:53.380804+00:00
 -- url     : https://prove2.me/theorems/18302ccc-4582-4d48-a48e-865c52020bca

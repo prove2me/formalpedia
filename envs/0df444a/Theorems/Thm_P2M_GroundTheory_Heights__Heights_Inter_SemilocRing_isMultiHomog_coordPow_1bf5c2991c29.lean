@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocRing_isMultiHomog_coordPow_1bf5c2991c29
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocRing_isMultiHomog_coordPow_1bf5c2991c29
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:44:44.077053+00:00
 -- url     : https://prove2.me/theorems/6f20e6fa-cd53-42ff-b882-2e4190ba31d6

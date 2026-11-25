@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_exists_weil_of_symplectic
 -- name    : GlobalTheory.SW.exists_weil_of_symplectic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:45:23.297557+00:00
 -- url     : https://prove2.me/theorems/7257e774-6d2e-4714-b303-cce8f45320f0

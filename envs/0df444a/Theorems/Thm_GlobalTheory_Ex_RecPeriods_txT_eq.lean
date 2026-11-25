@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_RecPeriods_txT_eq
 -- name    : GlobalTheory.Ex.RecPeriods.txT_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:05:32.661798+00:00
 -- url     : https://prove2.me/theorems/f69194ef-9026-49ef-8d8f-3775f07e1f51

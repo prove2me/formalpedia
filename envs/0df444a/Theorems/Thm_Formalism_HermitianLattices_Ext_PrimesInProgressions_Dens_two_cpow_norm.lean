@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_two_cpow_norm
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.two_cpow_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:29:21.307451+00:00
 -- url     : https://prove2.me/theorems/dc249501-f656-59ff-af43-b695dd53d1a1

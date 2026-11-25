@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_isCompact_ann
 -- name    : Formalism.FourierDecayAlt.P.PBK.isCompact_ann
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:16:21.217952+00:00
 -- url     : https://prove2.me/theorems/52b80f41-b213-401c-94f4-bb2623d5112c

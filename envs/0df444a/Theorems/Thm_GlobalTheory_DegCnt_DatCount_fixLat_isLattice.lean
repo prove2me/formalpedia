@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_DatCount_fixLat_isLattice
 -- name    : GlobalTheory.DegCnt.DatCount.fixLat_isLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:18:18.535487+00:00
 -- url     : https://prove2.me/theorems/cc4f4e21-3ac5-40dc-a14c-81fdf3b9b32a

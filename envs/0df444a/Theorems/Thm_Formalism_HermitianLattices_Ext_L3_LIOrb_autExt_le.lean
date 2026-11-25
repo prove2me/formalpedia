@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_autExt_le
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.autExt_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:16:31.419833+00:00
 -- url     : https://prove2.me/theorems/cc226294-bad5-5deb-90f2-6d38ecfeb7a1

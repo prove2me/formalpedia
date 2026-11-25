@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycSeries_norm_zpow_sub_one_le
 -- name    : GlobalTheory.CycSeries.norm_zpow_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:21:35.203412+00:00
 -- url     : https://prove2.me/theorems/22c7895b-af11-4581-bd58-b7dd775d85f8

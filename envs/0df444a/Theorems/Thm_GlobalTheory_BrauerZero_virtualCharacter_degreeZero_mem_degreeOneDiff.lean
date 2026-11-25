@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BrauerZero_virtualCharacter_degreeZero_mem_degreeOneDiff
 -- name    : GlobalTheory.BrauerZero.virtualCharacter_degreeZero_mem_degreeOneDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:59:29.127282+00:00
 -- url     : https://prove2.me/theorems/a942d367-9373-4eeb-b07e-9edb6648e2e3

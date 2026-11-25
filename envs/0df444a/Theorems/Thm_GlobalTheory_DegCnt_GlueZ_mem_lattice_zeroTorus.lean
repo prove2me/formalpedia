@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_GlueZ_mem_lattice_zeroTorus
 -- name    : GlobalTheory.DegCnt.GlueZ.mem_lattice_zeroTorus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:26:07.027885+00:00
 -- url     : https://prove2.me/theorems/f4b0239e-0b44-51fa-b264-3ccd82da1da3

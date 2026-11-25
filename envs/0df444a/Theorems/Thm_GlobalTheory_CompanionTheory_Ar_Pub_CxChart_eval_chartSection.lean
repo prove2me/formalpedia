@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxChart_eval_chartSection
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxChart.eval_chartSection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:30:01.773548+00:00
 -- url     : https://prove2.me/theorems/7b614128-294e-5b35-9cd4-468f6915110b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealZeroNearOne_main
 -- name    : GlobalTheory.RealZeroNearOne.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:36:18.267639+00:00
 -- url     : https://prove2.me/theorems/52557fc3-d4ce-453e-85b5-4172243044aa

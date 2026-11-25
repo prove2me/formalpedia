@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Mul_multiplication_square_holds
 -- name    : Formalism.L2.Th1.B.Mul.multiplication_square_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:28:36.161384+00:00
 -- url     : https://prove2.me/theorems/ec8daec1-e200-474f-bffb-021202b29624

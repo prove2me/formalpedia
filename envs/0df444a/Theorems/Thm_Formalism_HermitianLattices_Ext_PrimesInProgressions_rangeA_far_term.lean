@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_rangeA_far_term
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.rangeA_far_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:18:14.106573+00:00
 -- url     : https://prove2.me/theorems/b24931e5-de88-4705-92f9-1508b1760d1d

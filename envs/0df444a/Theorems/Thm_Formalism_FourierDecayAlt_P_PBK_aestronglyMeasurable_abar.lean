@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_aestronglyMeasurable_abar
 -- name    : Formalism.FourierDecayAlt.P.PBK.aestronglyMeasurable_abar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:22:23.323303+00:00
 -- url     : https://prove2.me/theorems/5fbd2cdb-3f8b-4be1-bc16-c53b2c240c87

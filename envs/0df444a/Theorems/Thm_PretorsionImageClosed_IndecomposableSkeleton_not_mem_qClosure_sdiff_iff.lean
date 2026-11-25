@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_not_mem_qClosure_sdiff_iff
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.not_mem_qClosure_sdiff_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T07:07:08.421615+00:00
 -- url     : https://prove2.me/theorems/267bb2b1-fae8-5bf2-871d-3223177eea58

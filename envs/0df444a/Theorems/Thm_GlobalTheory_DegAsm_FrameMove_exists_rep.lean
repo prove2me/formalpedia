@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_FrameMove_exists_rep
 -- name    : GlobalTheory.DegAsm.FrameMove.exists_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:24:28.606589+00:00
 -- url     : https://prove2.me/theorems/29d79f7b-f950-4e3d-a62e-330febd8b345

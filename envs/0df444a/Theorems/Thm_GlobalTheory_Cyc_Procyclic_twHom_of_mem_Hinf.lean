@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_Procyclic_twHom_of_mem_Hinf
 -- name    : GlobalTheory.Cyc.Procyclic.twHom_of_mem_Hinf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:21:22.218998+00:00
 -- url     : https://prove2.me/theorems/2a9380f8-83a7-4d93-a9be-e54f3838a3a4

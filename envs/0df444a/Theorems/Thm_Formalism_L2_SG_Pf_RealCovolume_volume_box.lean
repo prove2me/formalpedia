@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RealCovolume_volume_box
 -- name    : Formalism.L2.SG.Pf.RealCovolume.volume_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:16:06.456014+00:00
 -- url     : https://prove2.me/theorems/96802509-9a31-546f-b0c1-75d97a15bd89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_opBound_mulPrin
 -- name    : GroundTheory.Automorphic.Sobolev.opBound_mulPrin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:19:45.126869+00:00
 -- url     : https://prove2.me/theorems/59879ab0-29ef-5a34-a936-c0b51fc89fb9

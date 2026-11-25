@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TheSecStab_uwset_block
 -- name    : Formalism.FourierDecayAlt.P.TheSecStab.uwset_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:23:50.407326+00:00
 -- url     : https://prove2.me/theorems/7ad2fc9a-3213-4f5c-8863-41f16123f352

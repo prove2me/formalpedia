@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_AnaSys_opU_zero_ne
 -- name    : Formalism.L2.Th1.E.AnaSys.opU_zero_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:26:54.673459+00:00
 -- url     : https://prove2.me/theorems/a4b9eb4d-9988-5147-8959-7019ff502fd8

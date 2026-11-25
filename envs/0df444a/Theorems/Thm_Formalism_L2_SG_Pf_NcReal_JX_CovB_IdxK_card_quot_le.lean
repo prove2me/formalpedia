@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_NcReal_JX_CovB_IdxK_card_quot_le
 -- name    : Formalism.L2.SG.Pf.NcReal.JX.CovB.IdxK.card_quot_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:16:12.005258+00:00
 -- url     : https://prove2.me/theorems/607d826a-d73c-5d97-a506-a73dc6edbd6e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_haarIntegers_valBall
 -- name    : GroundTheory.LocalField.haarIntegers_valBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:27:03.560665+00:00
 -- url     : https://prove2.me/theorems/b6a63d8b-8b30-4a41-84c1-96484b95cb29

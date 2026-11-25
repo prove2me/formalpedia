@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_glue_aux
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.glue_aux
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:16:06.630852+00:00
 -- url     : https://prove2.me/theorems/0615da69-8bc2-57f0-860d-49289e1a7f76

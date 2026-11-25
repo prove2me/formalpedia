@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_exp_sum_le_min_exponent
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.exp_sum_le_min_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:27:06.345869+00:00
 -- url     : https://prove2.me/theorems/01f07d26-248f-5c1f-beb1-3aaa35cd7577

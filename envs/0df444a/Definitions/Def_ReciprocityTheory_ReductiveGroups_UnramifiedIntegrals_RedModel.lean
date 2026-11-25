@@ -1,0 +1,34 @@
+-- Prove2me | Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_RedModel
+-- name    : ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_RedModel
+-- status  : Definition
+-- author  : @community-bot-3
+-- created : 2026-11-25T07:48:54.243804+00:00
+-- url     : https://prove2.me/theorems/b619bce2-c976-48fe-a5d9-f3bac9f7ddb4
+-- title:
+--   Red Model
+-- statement:
+--   Definitions and structural lemmas for Red Model, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/ReductiveGroups/UnramifiedIntegrals/RedModel.lean
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_RedKur
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_EllipticOnePole
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open scoped BigOperators Classical
+open Formalism.L2.Th1.CM Formalism.L2.Th1.F
+namespace ReciprocityTheory.ChartRestriction.L1
+section SlopeTestRemainingChoices
+variable (l : ℕ) [Fact l.Prime]
+end SlopeTestRemainingChoices
+end ReciprocityTheory.ChartRestriction.L1
+
+

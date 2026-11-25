@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Compl_span_inf
 -- name    : GlobalTheory.DegCnt.Compl.span_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:41:05.790797+00:00
 -- url     : https://prove2.me/theorems/522cfa9e-27fa-59da-ae74-6f5b10e20a8c

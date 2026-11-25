@@ -1817,10 +1817,10 @@
 {"parent": "Formalism.FourierDecayAlt.P.Fr8.fcomm", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_GaussFormMinusLetter", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr8.fcomm", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PositionInsertionDiagonalCompat", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr8.fcomm", "child": "Formalism_HermitianCurvature_StatementFr", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.Ex.RecPeriods.txT_eq", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_ExistsIsoOnG", "via": ["statement"]}
-{"parent": "GlobalTheory.Ex.RecPeriods.txT_eq", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_DegenerationDataTorsionStructureAlgClosed", "via": ["statement"]}
-{"parent": "GlobalTheory.Ex.RecPeriods.txT_eq", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_MulqLawsStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.Ex.RecPeriods.txT_eq", "child": "Development_AbelianVarietyTheory_Definitions_Degenerations_NotAllMatchRankZero", "via": ["statement"]}
+{"parent": "GlobalTheory.Ex.RecPeriods.txT_eq", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_ExistsIsoOnG", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Ex.RecPeriods.txT_eq", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_DegenerationDataTorsionStructureAlgClosed", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Ex.RecPeriods.txT_eq", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_MulqLawsStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Ex.RecPeriods.txT_eq", "child": "Development_AbelianVarietyTheory_Definitions_Degenerations_NotAllMatchRankZero", "via": ["solution", "statement"]}
 {"parent": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RestrictedDualKernel", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DualKernelLemmas", "via": ["statement"]}
 {"parent": "FunctorialResolution.EmbeddedResolution.AffineSpacePrincipalizationData.comapAmbientCenter_eq", "child": "Development_ResolutionOfSingularities_Foundations_Schemes_IdealSheafData", "via": ["solution", "statement"]}
 {"parent": "FunctorialResolution.EmbeddedResolution.AffineSpacePrincipalizationData.comapAmbientCenter_eq", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_IteratedBlowups_ClopenRestriction", "via": ["solution", "statement"]}
@@ -32424,10 +32424,10 @@
 {"parent": "Formalism.FourierDecayAlt.P.B2x8.three_block_last", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_CmHalfIntegralGeneratorMemAlgebraicClosure", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B2x8.three_block_last", "child": "Formalism_HermitianCurvature_WeylElementCommutesLevelOne", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.B2x8.three_block_last", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["solution", "statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.aux_statement_17", "child": "Formalism_HermitianCurvature_StatementU", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.aux_statement_17", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_DetNormLe", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.aux_statement_17", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_GBasic", "via": ["statement"]}
-{"parent": "Formalism.FourierDecayAlt.P.aux_statement_17", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_Block3MulBlocks", "via": ["statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.aux_statement_17", "child": "Formalism_HermitianCurvature_StatementU", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.aux_statement_17", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_DetNormLe", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.aux_statement_17", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_GBasic", "via": ["solution", "statement"]}
+{"parent": "Formalism.FourierDecayAlt.P.aux_statement_17", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_Block3MulBlocks", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DenominatorOfSpan.exists_denominator", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_ExistsSmulMemOfSpanEqTop", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DenominatorOfSpan.exists_denominator", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_LinearDescent", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DenominatorOfSpan.exists_denominator", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_UnitLemmaGroup", "via": ["solution", "statement"]}

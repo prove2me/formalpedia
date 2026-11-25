@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_density_norm
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.density_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:15:28.635891+00:00
 -- url     : https://prove2.me/theorems/17dd2a0d-06b4-56d0-a4a1-5782b4ccf560

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CongFin_mem_stab_of_cong
 -- name    : GlobalTheory.HL.CongFin.mem_stab_of_cong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:29:11.028331+00:00
 -- url     : https://prove2.me/theorems/ea84ec5b-9e71-4f55-a9ce-d5673b753a49

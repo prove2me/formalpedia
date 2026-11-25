@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_constantCoeff_upG
 -- name    : Formalism.L2.FormalSeriesBounds.constantCoeff_upG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:29:40.933858+00:00
 -- url     : https://prove2.me/theorems/6d266e12-bef2-4e85-9f5b-1506c39ca2ef

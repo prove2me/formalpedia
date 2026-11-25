@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericProjClosureDivisor_IsZPair_cross_a0643cc62b0e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericProjClosureDivisor_IsZPair_cross_a0643cc62b0e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:03.861973+00:00
 -- url     : https://prove2.me/theorems/a164456d-0464-408e-b799-8fe1b59203b8

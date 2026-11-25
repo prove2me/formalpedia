@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxE_capAdInv
 -- name    : Formalism.FourierDecayAlt.P.JFxE.capAdInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:53:36.598811+00:00
 -- url     : https://prove2.me/theorems/5dc5542e-aa1d-4f0a-86c9-bbf3c616decb

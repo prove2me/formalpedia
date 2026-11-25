@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhc_removable
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhc_removable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:16:16.219113+00:00
 -- url     : https://prove2.me/theorems/4d8811fd-cdc1-5997-975d-717dc9202651

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ProdExChart_inv_of_mem
 -- name    : GlobalTheory.CompanionTheory.ProdExChart.inv_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:22:07.209007+00:00
 -- url     : https://prove2.me/theorems/f8f92c5b-a373-4ef4-854e-58bd3583da76

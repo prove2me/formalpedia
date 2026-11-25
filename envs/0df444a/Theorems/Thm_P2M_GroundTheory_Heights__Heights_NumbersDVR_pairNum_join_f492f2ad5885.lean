@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_pairNum_join_f492f2ad5885
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_pairNum_join_f492f2ad5885
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:12:08.664868+00:00
 -- url     : https://prove2.me/theorems/9834e8fd-b893-4360-8eab-2209b6718037

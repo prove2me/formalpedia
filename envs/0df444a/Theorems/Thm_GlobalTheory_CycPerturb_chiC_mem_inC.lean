@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycPerturb_chiC_mem_inC
 -- name    : GlobalTheory.CycPerturb.chiC_mem_inC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:24:00.600249+00:00
 -- url     : https://prove2.me/theorems/07c4ba5d-96d7-4d96-a7fd-99fd0339f29b

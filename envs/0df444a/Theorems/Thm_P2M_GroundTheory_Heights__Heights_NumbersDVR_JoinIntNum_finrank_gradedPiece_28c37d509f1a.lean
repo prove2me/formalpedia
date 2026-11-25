@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinIntNum_finrank_gradedPiece_28c37d509f1a
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinIntNum_finrank_gradedPiece_28c37d509f1a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:06:43.225194+00:00
 -- url     : https://prove2.me/theorems/08df13f5-4003-424f-9c23-7e2c119ee2bf

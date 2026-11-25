@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_cfg_b_ge_one
 -- name    : Formalism.FourierDecayAlt.P.CutMP.cfg_b_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:33:23.286387+00:00
 -- url     : https://prove2.me/theorems/57e883ae-6b7f-5b38-84f0-f6c9bac381ec

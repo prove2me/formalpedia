@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_mass_not_rootsAvoid_le__80e9465e9883
 -- name    : P2M_GlobalTheory_T_mass_not_rootsAvoid_le__80e9465e9883
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:59:54.424339+00:00
 -- url     : https://prove2.me/theorems/b6aa7ea0-5cf6-47f2-ba04-b98027adaf6c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VerticalPointMultiplicityChart_length_quotient_of_surjective_03e6ae1fdf04
 -- name    : P2M_GroundTheory_Heights__Heights_VerticalPointMultiplicityChart_length_quotient_of_surjective_03e6ae1fdf04
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:12:14.214241+00:00
 -- url     : https://prove2.me/theorems/338fbe59-e8cb-5ab8-b41b-ef4fb8ba3da9

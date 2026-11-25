@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_cycloChar_sub_one_le
 -- name    : GroundTheory.PAdicHodge.norm_cycloChar_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:10:54.76487+00:00
 -- url     : https://prove2.me/theorems/af1b1029-b987-479d-848a-8da52075aafe

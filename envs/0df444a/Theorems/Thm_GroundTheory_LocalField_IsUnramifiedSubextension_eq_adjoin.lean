@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsUnramifiedSubextension_eq_adjoin
 -- name    : GroundTheory.LocalField.IsUnramifiedSubextension.eq_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:49:13.542257+00:00
 -- url     : https://prove2.me/theorems/74405b95-c29b-4ea5-a4cc-1388e992235d

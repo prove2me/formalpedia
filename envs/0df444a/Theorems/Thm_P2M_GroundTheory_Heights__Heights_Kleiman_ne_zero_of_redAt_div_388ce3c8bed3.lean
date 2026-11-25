@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_ne_zero_of_redAt_div_388ce3c8bed3
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_ne_zero_of_redAt_div_388ce3c8bed3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:56:57.23998+00:00
 -- url     : https://prove2.me/theorems/566dd375-ae11-58e5-89cf-3f13172fa95f

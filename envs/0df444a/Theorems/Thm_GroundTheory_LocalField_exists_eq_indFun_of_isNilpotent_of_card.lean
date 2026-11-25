@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_eq_indFun_of_isNilpotent_of_card
 -- name    : GroundTheory.LocalField.exists_eq_indFun_of_isNilpotent_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:31:36.071848+00:00
 -- url     : https://prove2.me/theorems/272cebec-fe80-4106-8307-7f840e787ae1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_edenic_semiprime_sqrt
 -- name    : edenic_semiprime_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @mwm
 -- created : 2026-11-25T07:28:30.44628+00:00
 -- url     : https://prove2.me/theorems/3c12e649-c23e-45a5-8d45-dda366fd4f94

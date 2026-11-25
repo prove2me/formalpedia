@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_JA_scal_bound_of_ubl
 -- name    : Formalism.FourierDecayAlt.P.CutMP.JA.scal_bound_of_ubl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:17:58.978746+00:00
 -- url     : https://prove2.me/theorems/763416b4-7fc3-4a24-b1df-b4c695576e9f

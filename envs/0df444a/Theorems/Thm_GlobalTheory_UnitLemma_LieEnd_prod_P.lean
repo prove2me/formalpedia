@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_LieEnd_prod_P
 -- name    : GlobalTheory.UnitLemma.LieEnd.prod_P
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:03:07.478835+00:00
 -- url     : https://prove2.me/theorems/92d36a91-911f-5bf3-a677-d31d448bfcce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_mem_tube_bot
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.mem_tube_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:20:44.379964+00:00
 -- url     : https://prove2.me/theorems/85e6edc2-f615-434d-bfb1-96af65afc25b

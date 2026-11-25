@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_exists_pos_lt_top
 -- name    : GlobalTheory.BesselPeriodCompare.exists_pos_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:19:28.369858+00:00
 -- url     : https://prove2.me/theorems/1b68eb8d-4d17-54ab-9dd2-7186881223d6

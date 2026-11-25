@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isHermE_phZ_eq
 -- name    : GlobalTheory.exists_isHermE_phZ_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:55:49.165312+00:00
 -- url     : https://prove2.me/theorems/d0d44895-28f7-45dd-8ed3-fac05f76ed67

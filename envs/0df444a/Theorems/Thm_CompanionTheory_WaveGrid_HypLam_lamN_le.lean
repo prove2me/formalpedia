@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_HypLam_lamN_le
 -- name    : CompanionTheory.WaveGrid.HypLam.lamN_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:00:27.891618+00:00
 -- url     : https://prove2.me/theorems/2286f0a5-5601-4c8b-b934-c0690f0c5d0c

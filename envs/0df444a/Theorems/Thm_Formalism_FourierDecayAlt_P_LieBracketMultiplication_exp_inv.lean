@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LieBracketMultiplication_exp_inv
 -- name    : Formalism.FourierDecayAlt.P.LieBracketMultiplication.exp_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:20:58.964216+00:00
 -- url     : https://prove2.me/theorems/f7d72588-41d4-4670-a580-d9c0a79b24ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_mem_secs_iff_forall_sub_69edc3c1eb74
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_mem_secs_iff_forall_sub_69edc3c1eb74
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:28:53.628811+00:00
 -- url     : https://prove2.me/theorems/7dc6e1b1-e894-4628-b7a8-befff810d178

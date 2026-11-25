@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_exists_isPrimitive_invol_invariant
 -- name    : GlobalTheory.GramCount.exists_isPrimitive_invol_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:28:29.080808+00:00
 -- url     : https://prove2.me/theorems/00c05819-f348-5c08-9cb8-5b8969e2aa89

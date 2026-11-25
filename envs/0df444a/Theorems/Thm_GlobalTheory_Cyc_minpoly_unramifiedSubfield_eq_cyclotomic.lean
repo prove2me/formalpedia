@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_minpoly_unramifiedSubfield_eq_cyclotomic
 -- name    : GlobalTheory.Cyc.minpoly_unramifiedSubfield_eq_cyclotomic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:46.861806+00:00
 -- url     : https://prove2.me/theorems/81faccb7-20c0-4f77-8b56-0917b59bbace

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_SplitLift_latTh_eq
 -- name    : GlobalTheory.DegCnt.SplitLift.latTh_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:25:36.961512+00:00
 -- url     : https://prove2.me/theorems/1d1aa534-0df5-557c-977a-49c24ae4cd02

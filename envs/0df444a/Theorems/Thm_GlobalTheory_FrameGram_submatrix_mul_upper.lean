@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameGram_submatrix_mul_upper
 -- name    : GlobalTheory.FrameGram.submatrix_mul_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:28:10.852446+00:00
 -- url     : https://prove2.me/theorems/f990cae8-8236-4f02-be62-9b5ed654b66a

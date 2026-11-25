@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_ncard_fibre_latProj
 -- name    : GlobalTheory.UnitLemma.ncard_fibre_latProj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:07:13.35237+00:00
 -- url     : https://prove2.me/theorems/dc5e58eb-a4ce-473e-9dd0-26cc1226bac4

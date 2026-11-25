@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_pairD_of_cvec
 -- name    : Formalism.FourierDecayAlt.P.PBK.pairD_of_cvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:22:51.071937+00:00
 -- url     : https://prove2.me/theorems/95e1265a-2199-4f61-94ef-731e1f44648b

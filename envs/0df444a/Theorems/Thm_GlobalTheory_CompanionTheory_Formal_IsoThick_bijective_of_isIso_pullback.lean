@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Formal_IsoThick_bijective_of_isIso_pullback
 -- name    : GlobalTheory.CompanionTheory.Formal.IsoThick.bijective_of_isIso_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:27:58.926821+00:00
 -- url     : https://prove2.me/theorems/73850a2a-1a6f-4099-a77d-d0f4c02cb6cb

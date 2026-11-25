@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_KummerIndex_natCard_localUnitClasses
 -- name    : GroundTheory.Global.KummerIndex.natCard_localUnitClasses
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:40:55.124686+00:00
 -- url     : https://prove2.me/theorems/2aed9100-7f83-488a-8d12-f40f6994185e

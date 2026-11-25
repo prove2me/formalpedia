@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagProjTrdegLe_rename_comp_pointConeMap_7ec05c7ad4fe
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagProjTrdegLe_rename_comp_pointConeMap_7ec05c7ad4fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:27:03.852098+00:00
 -- url     : https://prove2.me/theorems/0ef5d4e3-0a0f-5b2f-ba50-cb7a37c6a345

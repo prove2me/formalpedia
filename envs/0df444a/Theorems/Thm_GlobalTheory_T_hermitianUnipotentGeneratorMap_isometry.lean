@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianUnipotentGeneratorMap_isometry
 -- name    : GlobalTheory.T.hermitianUnipotentGeneratorMap_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:28:39.670421+00:00
 -- url     : https://prove2.me/theorems/3543f578-aca5-4eb6-b976-65e04921a049

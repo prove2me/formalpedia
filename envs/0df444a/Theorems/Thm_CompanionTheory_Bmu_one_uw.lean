@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Bmu_one_uw
 -- name    : CompanionTheory.Bmu.one_uw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:15:54.294046+00:00
 -- url     : https://prove2.me/theorems/78c24116-c5c2-5325-8c1d-67f50e05baed

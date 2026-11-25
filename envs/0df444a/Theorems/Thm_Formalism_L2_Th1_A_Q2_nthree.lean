@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Q2_nthree
 -- name    : Formalism.L2.Th1.A.Q2.nthree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:28:11.94864+00:00
 -- url     : https://prove2.me/theorems/236bd18d-4075-466b-a1c2-64e64acee5f0

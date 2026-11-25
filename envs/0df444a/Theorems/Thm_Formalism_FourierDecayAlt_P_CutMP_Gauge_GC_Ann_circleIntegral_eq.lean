@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_Ann_circleIntegral_eq
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.Ann.circleIntegral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:12:41.229843+00:00
 -- url     : https://prove2.me/theorems/b4b6b319-23d5-4f47-b53d-0ab581995c42

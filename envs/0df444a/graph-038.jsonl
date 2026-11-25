@@ -45156,9 +45156,9 @@
 {"parent": "GroundTheory.ProfCoh.isProPGroup_subgroup_iff", "child": "GroundTheory_ProfiniteCohomology_IsProPGroupSubgroupIffIsPGroupMap", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SplitWeil.nabs_mul", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_MatrixMeasurableSpace", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SplitWeil.nabs_mul", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_PadicIsNonarchimedeanLocalField", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.T.gram_fiber_measure_locallyFinite_and_ne_zero_of_isOpen", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_IsEulerProd", "via": ["statement"]}
-{"parent": "GlobalTheory.T.gram_fiber_measure_locallyFinite_and_ne_zero_of_isOpen", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_GramFiberMeasuresContinuityStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.T.gram_fiber_measure_locallyFinite_and_ne_zero_of_isOpen", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_GramFiberMeasuresContinuity", "via": ["statement"]}
+{"parent": "GlobalTheory.T.gram_fiber_measure_locallyFinite_and_ne_zero_of_isOpen", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_IsEulerProd", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.gram_fiber_measure_locallyFinite_and_ne_zero_of_isOpen", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_GramFiberMeasuresContinuityStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.gram_fiber_measure_locallyFinite_and_ne_zero_of_isOpen", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_GramFiberMeasuresContinuity", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.SG.Pf.Unip.inPat_neg", "child": "Formalism_LocalToGlobal_SiegelLatticeTheory_HaarTransversals_UnitaryHaarProducts_UnipTool", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.ProfCoh.finite_of_exact", "child": "GroundTheory_ProfiniteCohomology_LocalEulerCharacteristic_AdditiveSnake", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.ProfCoh.finite_of_exact", "child": "GroundTheory_ProfiniteCohomology_LocalEulerCharacteristic_AdditiveDefs", "via": ["solution", "statement"]}
@@ -51999,8 +51999,8 @@
 {"parent": "Formalism.HermitianLattices.GL2a2.kronecker_two", "child": "Formalism_GL3MeanSquares_PrimeCountAsymptoticInProgressions", "via": ["solution", "statement"]}
 {"parent": "P2M_GroupTheoreticShannonCapacity_MAlpha_M__factorization_ff46d0e46406", "child": "GroupTheoreticShannonCapacity_MAlpha", "via": ["solution", "statement"]}
 {"parent": "P2M_GroupTheoreticShannonCapacity_MAlpha_M__factorization_ff46d0e46406", "child": "GroupTheoreticShannonCapacity_P0Matrix", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.WeakMeanSquareEstimates.mean_square_weak_of_prime_number_theorem", "child": "Formalism_GL3MeanSquares_HookFormulaTorsion_MeanSquareOfPrimeNumberTheorem", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.WeakMeanSquareEstimates.mean_square_weak_of_prime_number_theorem", "child": "Formalism_GL3MeanSquares_HookFormulaTorsion_MeanSquareWeakOfPrimeNumberTheorem", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.WeakMeanSquareEstimates.mean_square_weak_of_prime_number_theorem", "child": "Formalism_GL3MeanSquares_HookFormulaTorsion_MeanSquareOfPrimeNumberTheorem", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.WeakMeanSquareEstimates.mean_square_weak_of_prime_number_theorem", "child": "Formalism_GL3MeanSquares_HookFormulaTorsion_MeanSquareWeakOfPrimeNumberTheorem", "via": ["solution", "statement"]}
 {"parent": "StrategicRFx_Benefit_Supplement_Tendering", "child": "StrategicRFx_Benefit_Supplement_PreferenceGame", "via": ["statement"]}
 {"parent": "StrategicRFx_Benefit_Supplement_Tendering", "child": "StrategicRFx_Benefit_Supplement_Primitives", "via": ["statement"]}
 {"parent": "StrategicRFx_Benefit_Supplement_Tendering", "child": "StrategicRFx_Benefit_Supplement_TechnicalSelector", "via": ["statement"]}

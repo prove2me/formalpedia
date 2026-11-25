@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_CmStdChar_proof
 -- name    : Formalism.L2.Th1.H.CmStdChar_proof
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:08.680605+00:00
 -- url     : https://prove2.me/theorems/ee3bc386-2021-4b3f-9158-9bd0f6c59388

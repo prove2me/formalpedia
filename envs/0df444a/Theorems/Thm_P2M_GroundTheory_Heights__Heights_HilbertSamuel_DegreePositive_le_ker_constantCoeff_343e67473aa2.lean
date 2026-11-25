@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_DegreePositive_le_ker_constantCoeff_343e67473aa2
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_DegreePositive_le_ker_constantCoeff_343e67473aa2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:58:38.088836+00:00
 -- url     : https://prove2.me/theorems/5f4827ab-ef83-4b15-a347-605266f91dca

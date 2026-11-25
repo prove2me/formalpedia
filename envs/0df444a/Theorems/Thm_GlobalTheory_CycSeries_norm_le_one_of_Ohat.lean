@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycSeries_norm_le_one_of_Ohat
 -- name    : GlobalTheory.CycSeries.norm_le_one_of_Ohat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:21:32.670679+00:00
 -- url     : https://prove2.me/theorems/19402ece-9496-41d8-bc78-2b0f06b6fdbc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_distribHaarChar_eq_modulus
 -- name    : GroundTheory.LocalField.distribHaarChar_eq_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:27:32.212168+00:00
 -- url     : https://prove2.me/theorems/02dd1ad9-5f2c-40d4-9f11-db8d491da874

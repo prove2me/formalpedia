@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_JacobianAtCurvePoint_exists_of_isDiscreteValuationRing_315fc3a6886b
 -- name    : P2M_GroundTheory_Heights__Heights_JacobianAtCurvePoint_exists_of_isDiscreteValuationRing_315fc3a6886b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:26:05.23965+00:00
 -- url     : https://prove2.me/theorems/95c524a2-15d0-41be-8ea2-da091c813c6c

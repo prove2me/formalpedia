@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_RadTTaylor_poly_contDiff
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.RadTTaylor.poly_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:15:17.582589+00:00
 -- url     : https://prove2.me/theorems/95a3e8b4-98bb-4903-a9ff-69b0fa6fb6a9

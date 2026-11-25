@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_PairNumberRelabel_diffStep_comm_16b0beed7080
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_PairNumberRelabel_diffStep_comm_16b0beed7080
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:04:33.348338+00:00
 -- url     : https://prove2.me/theorems/c8a7d784-e328-463f-9a74-6dd19ab719fd

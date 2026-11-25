@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_ann_mono
 -- name    : Formalism.FourierDecayAlt.P.PBK.ann_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:16:42.873586+00:00
 -- url     : https://prove2.me/theorems/a663a512-47bf-4e13-88dd-6771e7efc2df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_GlueZ_Good_proj
 -- name    : GlobalTheory.DegCnt.GlueZ.Good.proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:26:54.717365+00:00
 -- url     : https://prove2.me/theorems/706aa16e-a870-49f0-8600-ecf72ee6db75

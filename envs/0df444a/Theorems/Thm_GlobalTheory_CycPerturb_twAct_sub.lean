@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycPerturb_twAct_sub
 -- name    : GlobalTheory.CycPerturb.twAct_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:24:02.191837+00:00
 -- url     : https://prove2.me/theorems/f7f907ae-c54f-452b-8915-e2c1672191e0

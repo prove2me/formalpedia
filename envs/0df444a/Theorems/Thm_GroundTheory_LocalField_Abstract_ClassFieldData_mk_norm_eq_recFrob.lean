@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_mk_norm_eq_recFrob
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.mk_norm_eq_recFrob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:29:38.503723+00:00
 -- url     : https://prove2.me/theorems/efe5d96e-55be-5c85-a314-1b51e38aa2a7

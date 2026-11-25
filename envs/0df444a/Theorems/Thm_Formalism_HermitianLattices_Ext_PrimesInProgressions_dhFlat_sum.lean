@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhFlat_sum
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhFlat_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:15:53.714999+00:00
 -- url     : https://prove2.me/theorems/2a6d4bfb-d768-59b3-b5fd-f22cd4960d57

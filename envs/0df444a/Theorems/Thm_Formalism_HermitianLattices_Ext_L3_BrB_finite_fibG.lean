@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BrB_finite_fibG
 -- name    : Formalism.HermitianLattices.Ext.L3.BrB.finite_fibG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:18:20.535148+00:00
 -- url     : https://prove2.me/theorems/13efd833-287a-4312-9e52-991f8c025a49

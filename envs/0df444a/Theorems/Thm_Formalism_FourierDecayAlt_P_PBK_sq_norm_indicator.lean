@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_sq_norm_indicator
 -- name    : Formalism.FourierDecayAlt.P.PBK.sq_norm_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:18:06.788951+00:00
 -- url     : https://prove2.me/theorems/faa0d072-7695-41ad-8359-a347883cadbd

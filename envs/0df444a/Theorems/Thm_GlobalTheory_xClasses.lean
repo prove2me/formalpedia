@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_xClasses
 -- name    : GlobalTheory.xClasses
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:16:49.393828+00:00
 -- url     : https://prove2.me/theorems/61e50bfb-83bd-5a68-8f75-160a66e23315

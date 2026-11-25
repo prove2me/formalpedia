@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_dvd_all_pow_of_frobenius_eq_killed_by_perfect_points
 -- name    : GlobalTheory.T.dvd_all_pow_of_frobenius_eq_killed_by_perfect_points
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:31.375122+00:00
 -- url     : https://prove2.me/theorems/9aa4d34c-91fd-4a21-8d35-aa076a8b8389

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_TorusModulus_commute_fb4adc1d71d2
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_TorusModulus_commute_fb4adc1d71d2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:58:38.37721+00:00
 -- url     : https://prove2.me/theorems/c7487765-5035-42c3-8338-3666b4ea9e74

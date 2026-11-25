@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rayClassLFunction_zero_free_region
 -- name    : GlobalTheory.T.rayClassLFunction_zero_free_region
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:56:48.610207+00:00
 -- url     : https://prove2.me/theorems/ea7522fb-557b-4d36-99c9-3e95833201b7

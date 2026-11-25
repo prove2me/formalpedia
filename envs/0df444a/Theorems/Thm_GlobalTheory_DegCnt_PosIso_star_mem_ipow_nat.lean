@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosIso_star_mem_ipow_nat
 -- name    : GlobalTheory.DegCnt.PosIso.star_mem_ipow_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:28:40.697961+00:00
 -- url     : https://prove2.me/theorems/dff5dc9a-bac1-53c7-91df-38947335b8ce

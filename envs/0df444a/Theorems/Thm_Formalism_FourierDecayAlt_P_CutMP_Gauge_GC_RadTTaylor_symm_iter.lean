@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_RadTTaylor_symm_iter
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.RadTTaylor.symm_iter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:18:21.226336+00:00
 -- url     : https://prove2.me/theorems/e6a89f10-95eb-5f7b-8274-70b71d5bce6d

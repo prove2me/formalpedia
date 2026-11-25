@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordDatum_stab_eq
 -- name    : GlobalTheory.HL.CoordDatum.stab_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:29:08.519881+00:00
 -- url     : https://prove2.me/theorems/1bd202b6-4cd1-43cf-bd19-5154597289bd

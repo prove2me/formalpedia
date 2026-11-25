@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Cot_exists_nbhd
 -- name    : GlobalTheory.CompanionTheory.Cot.exists_nbhd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:11:14.880746+00:00
 -- url     : https://prove2.me/theorems/9b8192cc-f596-49cf-bc5e-6bbb07fdda60

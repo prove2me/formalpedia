@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_EichlerUnip_mem_spanTo
 -- name    : GlobalTheory.HL.EichlerUnip.mem_spanTo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:30:02.232672+00:00
 -- url     : https://prove2.me/theorems/80614df2-51ef-4590-971d-cd639d71d05c

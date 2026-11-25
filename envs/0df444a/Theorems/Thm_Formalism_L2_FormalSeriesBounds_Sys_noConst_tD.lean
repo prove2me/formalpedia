@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Sys_noConst_tD
 -- name    : Formalism.L2.FormalSeriesBounds.Sys.noConst_tD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:28:28.431059+00:00
 -- url     : https://prove2.me/theorems/855158db-61f9-47f5-b03a-5fd8b252e312
