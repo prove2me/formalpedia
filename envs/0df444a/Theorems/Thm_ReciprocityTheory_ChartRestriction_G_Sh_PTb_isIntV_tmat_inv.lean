@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_PTb_isIntV_tmat_inv
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.PTb.isIntV_tmat_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:34:55.436156+00:00
 -- url     : https://prove2.me/theorems/0744ef40-c1ed-4391-9b42-8aba7a4334e6

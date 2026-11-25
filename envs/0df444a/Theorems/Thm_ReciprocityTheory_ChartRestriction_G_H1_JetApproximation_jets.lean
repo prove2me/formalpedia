@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_JetApproximation_jets
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.JetApproximation.jets
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:23:22.305462+00:00
 -- url     : https://prove2.me/theorems/8e1ab31e-628c-4065-a2f2-aeb6352149dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_divPushFibre_of
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.divPushFibre_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:23:27.807893+00:00
 -- url     : https://prove2.me/theorems/c3617db5-1a32-52c1-a051-332a387f9b3b

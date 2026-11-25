@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_le_of_add_mul_choose_pred_le
 -- name    : GlobalTheory.le_of_add_mul_choose_pred_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:56:14.921106+00:00
 -- url     : https://prove2.me/theorems/f4d08dc2-6892-508e-bdbd-3db7cd7ba9a0

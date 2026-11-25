@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_twelve_dvd_five_pow_three_add_seven_pow_five
 -- name    : ReciprocityTheory.ChartRestriction.L1.twelve_dvd_five_pow_three_add_seven_pow_five
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:47:31.196467+00:00
 -- url     : https://prove2.me/theorems/32a1924f-d0b0-5b7f-b623-3e521d1ad8cc

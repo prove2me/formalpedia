@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajorantContinuity_continuousAt_maj
 -- name    : GlobalTheory.MajorantContinuity.continuousAt_maj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:05:46.122896+00:00
 -- url     : https://prove2.me/theorems/af78fb75-8627-463c-a08d-6a7767c073fe

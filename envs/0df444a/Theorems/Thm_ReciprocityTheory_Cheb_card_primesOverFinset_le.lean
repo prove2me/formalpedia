@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_card_primesOverFinset_le
 -- name    : ReciprocityTheory.Cheb.card_primesOverFinset_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:47:52.158949+00:00
 -- url     : https://prove2.me/theorems/0ace659f-557b-4269-bcbe-d9c029ab20ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_mem_isotypicKernel
 -- name    : GroundTheory.Automorphic.Parabolic.mem_isotypicKernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:29:55.340393+00:00
 -- url     : https://prove2.me/theorems/829dca08-3068-57a0-846c-3c7e9acc2cbf

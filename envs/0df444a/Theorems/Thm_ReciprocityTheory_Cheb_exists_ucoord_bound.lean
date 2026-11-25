@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_exists_ucoord_bound
 -- name    : ReciprocityTheory.Cheb.exists_ucoord_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:48:35.115325+00:00
 -- url     : https://prove2.me/theorems/4bae664f-29bd-4c23-b4ed-08666cd65138

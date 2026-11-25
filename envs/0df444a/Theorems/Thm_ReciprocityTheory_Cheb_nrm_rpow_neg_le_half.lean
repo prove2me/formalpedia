@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_nrm_rpow_neg_le_half
 -- name    : ReciprocityTheory.Cheb.nrm_rpow_neg_le_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:49:45.129574+00:00
 -- url     : https://prove2.me/theorems/cbd0a8e7-e1f1-4733-8a65-a10b2170259e

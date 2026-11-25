@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_KU_posDef_Zt
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.KU.posDef_Zt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:05:19.701605+00:00
 -- url     : https://prove2.me/theorems/a8b0eda7-8f0f-5457-b47d-4dfedbb33c68

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_perm_Tmat_det
 -- name    : ReciprocityTheory.ChartRestriction.L1.perm_Tmat_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:46:19.998841+00:00
 -- url     : https://prove2.me/theorems/a512f249-8ac5-4117-9597-851a53115d24

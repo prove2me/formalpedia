@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KerPow_whisker_translPt
 -- name    : GlobalTheory.KerPow.whisker_translPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:28:32.255284+00:00
 -- url     : https://prove2.me/theorems/176bc32e-77b3-588f-9d2c-841d56a23e49

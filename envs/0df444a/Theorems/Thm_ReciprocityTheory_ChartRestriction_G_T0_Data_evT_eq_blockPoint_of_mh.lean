@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_evT_eq_blockPoint_of_mh
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.evT_eq_blockPoint_of_mh
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:40:54.905282+00:00
 -- url     : https://prove2.me/theorems/ad1de710-824e-4926-8ff9-15749995cb9f

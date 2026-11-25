@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_pt_v_natCast_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.pt_v_natCast_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:36:14.228653+00:00
 -- url     : https://prove2.me/theorems/608add95-409a-45cf-aadb-39d5adeaaf91

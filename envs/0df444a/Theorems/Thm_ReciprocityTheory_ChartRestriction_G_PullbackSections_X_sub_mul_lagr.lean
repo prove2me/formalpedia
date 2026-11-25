@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_X_sub_mul_lagr
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.X_sub_mul_lagr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:32:57.889895+00:00
 -- url     : https://prove2.me/theorems/1594a935-cc72-4753-8b10-dd0ad558426c

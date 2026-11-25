@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_TCPf_isTayF_subst
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.TCPf.isTayF_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:25:52.103615+00:00
 -- url     : https://prove2.me/theorems/1467c4df-cc58-425d-88d5-d3e30d4fd472

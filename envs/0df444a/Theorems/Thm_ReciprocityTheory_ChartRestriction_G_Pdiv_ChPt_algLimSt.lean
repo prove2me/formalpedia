@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Pdiv_ChPt_algLimSt
 -- name    : ReciprocityTheory.ChartRestriction.G.Pdiv.ChPt.algLimSt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:36:44.53779+00:00
 -- url     : https://prove2.me/theorems/f1386a3d-d750-5c5c-9764-74f4d69eb2bf

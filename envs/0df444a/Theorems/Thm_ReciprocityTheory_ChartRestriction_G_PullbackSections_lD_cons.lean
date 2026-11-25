@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_lD_cons
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.lD_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:33:28.723246+00:00
 -- url     : https://prove2.me/theorems/0391e6da-05fd-49c8-b3b5-56acbd045f06

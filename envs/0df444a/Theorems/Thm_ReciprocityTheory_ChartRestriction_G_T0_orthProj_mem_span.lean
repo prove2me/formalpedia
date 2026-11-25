@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_orthProj_mem_span
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.orthProj_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:39:44.255299+00:00
 -- url     : https://prove2.me/theorems/7623ba01-aef7-4955-b78c-67e5a0bd8af3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_eisensteinFourInt_eq
 -- name    : ReciprocityTheory.ChartRestriction.L1.eisensteinFourInt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:43:27.724709+00:00
 -- url     : https://prove2.me/theorems/2b6fa9fe-e59d-52d2-ab57-b61101d37931

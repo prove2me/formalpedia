@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimilUnit_IsVal_exists_unit
 -- name    : GlobalTheory.SimilUnit.IsVal.exists_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:29:51.764984+00:00
 -- url     : https://prove2.me/theorems/fe82c0ba-e26f-5e93-9d7d-0f04a7a39deb

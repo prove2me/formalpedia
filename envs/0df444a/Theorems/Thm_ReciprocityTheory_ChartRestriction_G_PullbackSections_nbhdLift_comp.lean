@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_nbhdLift_comp
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.nbhdLift_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:32:48.961836+00:00
 -- url     : https://prove2.me/theorems/09b4ff46-7583-50ff-8e9e-6f46f078392a

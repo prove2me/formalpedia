@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_WA_quasiRefl_isom
 -- name    : ReciprocityTheory.ChartRestriction.L3.WA.quasiRefl_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:47:18.87345+00:00
 -- url     : https://prove2.me/theorems/f9d4c06a-4d4d-48e5-bbb5-51ddd9d45ca3

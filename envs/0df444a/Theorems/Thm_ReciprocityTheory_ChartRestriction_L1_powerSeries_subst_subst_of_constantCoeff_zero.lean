@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_powerSeries_subst_subst_of_constantCoeff_zero
 -- name    : ReciprocityTheory.ChartRestriction.L1.powerSeries_subst_subst_of_constantCoeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:46:11.794405+00:00
 -- url     : https://prove2.me/theorems/2f92bfdd-106c-45f2-9e47-cefbe6803f39

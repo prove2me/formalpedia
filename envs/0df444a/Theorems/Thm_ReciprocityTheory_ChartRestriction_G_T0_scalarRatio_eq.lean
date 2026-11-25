@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_scalarRatio_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.scalarRatio_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:39:00.731966+00:00
 -- url     : https://prove2.me/theorems/5143894e-952c-5ea7-843c-8824bee84678

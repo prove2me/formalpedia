@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_zetaRoot_ne_zero
 -- name    : ReciprocityTheory.ChartRestriction.L1.zetaRoot_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:47:07.693379+00:00
 -- url     : https://prove2.me/theorems/dea3fd70-5441-4808-915f-fe9ea1ffa72c

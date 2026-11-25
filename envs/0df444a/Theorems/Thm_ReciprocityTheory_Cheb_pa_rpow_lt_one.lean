@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_pa_rpow_lt_one
 -- name    : ReciprocityTheory.Cheb.pa_rpow_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:48:39.41487+00:00
 -- url     : https://prove2.me/theorems/c28fe396-1a10-41f4-be64-4cbaec27108b

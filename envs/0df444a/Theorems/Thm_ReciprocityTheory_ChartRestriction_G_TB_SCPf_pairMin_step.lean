@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_SCPf_pairMin_step
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.SCPf.pairMin_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:41:11.936599+00:00
 -- url     : https://prove2.me/theorems/30c30fbd-09ac-5816-a3fb-a5ad8b33f71e

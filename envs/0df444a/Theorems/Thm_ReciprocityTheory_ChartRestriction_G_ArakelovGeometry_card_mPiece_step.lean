@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_card_mPiece_step
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.card_mPiece_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:12:57.9774+00:00
 -- url     : https://prove2.me/theorems/da6873f8-47d0-4629-82cf-2b70e4fc3d9f

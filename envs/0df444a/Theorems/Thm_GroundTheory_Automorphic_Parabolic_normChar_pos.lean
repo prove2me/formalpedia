@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_normChar_pos
 -- name    : GroundTheory.Automorphic.Parabolic.normChar_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:09:32.866743+00:00
 -- url     : https://prove2.me/theorems/1da51f99-7309-58d7-92a7-33943dcceb73

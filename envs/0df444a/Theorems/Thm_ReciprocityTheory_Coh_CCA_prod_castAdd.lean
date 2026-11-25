@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_CCA_prod_castAdd
 -- name    : ReciprocityTheory.Coh.CCA.prod_castAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:49:26.332998+00:00
 -- url     : https://prove2.me/theorems/87dc5203-0b85-5181-b5da-ad5857051db2

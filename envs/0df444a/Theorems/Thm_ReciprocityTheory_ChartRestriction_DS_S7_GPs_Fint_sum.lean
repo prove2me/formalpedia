@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_GPs_Fint_sum
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.GPs.Fint_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:59:47.093703+00:00
 -- url     : https://prove2.me/theorems/cd15efa1-b9cf-44ee-b9e4-29a2687ac77a

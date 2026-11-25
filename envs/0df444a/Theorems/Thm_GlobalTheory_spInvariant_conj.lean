@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_spInvariant_conj
 -- name    : GlobalTheory.spInvariant_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:17.149163+00:00
 -- url     : https://prove2.me/theorems/bc19a2ff-b4e6-4b45-be2c-4546b4cea089

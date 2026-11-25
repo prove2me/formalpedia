@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_pt_order_pow_sub
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.pt_order_pow_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:35:33.400472+00:00
 -- url     : https://prove2.me/theorems/b13ab6ae-b018-4e3e-be07-624bbc00b7e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_HDiscLat_trace_algebraMap_mul
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.HDiscLat.trace_algebraMap_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:37:10.246444+00:00
 -- url     : https://prove2.me/theorems/cebbff5b-ed16-4e23-95b8-3e2fedb6b2f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_addition_linear
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.addition_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:45:51.865792+00:00
 -- url     : https://prove2.me/theorems/e2143377-3182-4b04-9141-a1e8defb8ccc

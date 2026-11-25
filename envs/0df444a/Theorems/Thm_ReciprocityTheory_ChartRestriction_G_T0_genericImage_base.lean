@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_genericImage_base
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.genericImage_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:38:02.898226+00:00
 -- url     : https://prove2.me/theorems/13092c76-1b89-48be-8545-fbe8b5adac4b

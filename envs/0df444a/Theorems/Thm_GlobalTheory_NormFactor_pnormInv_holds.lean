@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormFactor_pnormInv_holds
 -- name    : GlobalTheory.NormFactor.pnormInv_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:39:34.483867+00:00
 -- url     : https://prove2.me/theorems/d2d726e6-c3a9-425f-b56d-696587f0475a

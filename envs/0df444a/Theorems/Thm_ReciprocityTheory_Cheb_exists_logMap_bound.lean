@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_exists_logMap_bound
 -- name    : ReciprocityTheory.Cheb.exists_logMap_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:47:39.684178+00:00
 -- url     : https://prove2.me/theorems/7673eda0-182d-5694-ba60-e836be20def2

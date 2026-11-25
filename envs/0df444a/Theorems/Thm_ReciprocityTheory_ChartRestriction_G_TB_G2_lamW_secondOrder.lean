@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_G2_lamW_secondOrder
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.G2.lamW_secondOrder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:40:42.490696+00:00
 -- url     : https://prove2.me/theorems/a415cadf-7546-51c5-aa00-cd223da2a889

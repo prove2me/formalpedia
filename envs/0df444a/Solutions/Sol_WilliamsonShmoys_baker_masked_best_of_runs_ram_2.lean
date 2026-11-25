@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for WilliamsonShmoys.baker_masked_best_of_runs_ram
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @もち
 -- created : 2026-11-24T11:22:28.84312+00:00
 -- url     : https://prove2.me/submissions/d3f4e672-df43-414b-b361-7886b66aafe2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarIndependentSetRAM
 import Definitions.Def_WilliamsonShmoys_BakerLevel

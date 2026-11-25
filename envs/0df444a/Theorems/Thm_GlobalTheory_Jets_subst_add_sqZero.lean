@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Jets_subst_add_sqZero
 -- name    : GlobalTheory.Jets.subst_add_sqZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:50:04.581559+00:00
 -- url     : https://prove2.me/theorems/0e6bd268-9a01-464b-b188-c7e726cb16c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubledSpace_map_snd_eq
 -- name    : GlobalTheory.DoubledSpace.map_snd_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:24:48.839895+00:00
 -- url     : https://prove2.me/theorems/2f6a53be-5cf1-5728-85fa-98255df537ad

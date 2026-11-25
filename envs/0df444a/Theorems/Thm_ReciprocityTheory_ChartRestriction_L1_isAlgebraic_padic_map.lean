@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_isAlgebraic_padic_map
 -- name    : ReciprocityTheory.ChartRestriction.L1.isAlgebraic_padic_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:45:00.270525+00:00
 -- url     : https://prove2.me/theorems/5fd5cccd-ca97-4c4a-98e6-67b84ba7ce1f

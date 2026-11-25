@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_denseRange_finiteAdele
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.denseRange_finiteAdele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:33:26.056377+00:00
 -- url     : https://prove2.me/theorems/a12b7ce0-60a1-42cb-bf04-25bc61931a72

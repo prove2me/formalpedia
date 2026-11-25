@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_MHF_coeff_psiB_ne_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.MHF.coeff_psiB_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:37:54.797467+00:00
 -- url     : https://prove2.me/theorems/ece38796-41df-4a6e-8fae-8b08a44dc7ef

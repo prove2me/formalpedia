@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_tile_measure
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.tile_measure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:56:31.538553+00:00
 -- url     : https://prove2.me/theorems/41a0eaae-a18e-4b4b-ab85-d24c8f82e70d

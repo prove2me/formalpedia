@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_pt_coeff_single_subst
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.pt_coeff_single_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:36:44.609024+00:00
 -- url     : https://prove2.me/theorems/e7a90e03-989c-4543-bb22-b1904ac7f6dd

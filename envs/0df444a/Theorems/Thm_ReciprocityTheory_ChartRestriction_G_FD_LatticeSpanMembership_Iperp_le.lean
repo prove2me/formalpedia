@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_LatticeSpanMembership_Iperp_le
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.LatticeSpanMembership.Iperp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:20:13.463738+00:00
 -- url     : https://prove2.me/theorems/78d469a7-66d6-53ec-a2ee-24f4847ee307

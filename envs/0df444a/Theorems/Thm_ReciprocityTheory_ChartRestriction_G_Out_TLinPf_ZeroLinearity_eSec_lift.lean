@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_TLinPf_ZeroLinearity_eSec_lift
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.TLinPf.ZeroLinearity.eSec_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:32:05.389778+00:00
 -- url     : https://prove2.me/theorems/770f86dc-6348-53aa-a843-eb18b186f905

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CapG_top_contDiffOn
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CapG.top_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:15:38.507594+00:00
 -- url     : https://prove2.me/theorems/f83b8f13-a2df-5f64-a283-9feb69393a56

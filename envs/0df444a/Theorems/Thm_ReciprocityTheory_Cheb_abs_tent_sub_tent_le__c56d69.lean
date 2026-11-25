@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_abs_tent_sub_tent_le__c56d69
 -- name    : ReciprocityTheory.Cheb.abs_tent_sub_tent_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:48:56.583004+00:00
 -- url     : https://prove2.me/theorems/c56d6919-c776-475c-b337-94f5f71140d4

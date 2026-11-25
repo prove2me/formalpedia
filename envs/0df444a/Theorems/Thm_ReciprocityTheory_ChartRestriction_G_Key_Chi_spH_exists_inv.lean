@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Key_Chi_spH_exists_inv
 -- name    : ReciprocityTheory.ChartRestriction.G.Key.Chi.spH_exists_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:31:06.567605+00:00
 -- url     : https://prove2.me/theorems/90fc3af3-2af8-4d5b-8b2b-6e2cc363363a

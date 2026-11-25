@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_GluingBases_form_sum_orth
 -- name    : Formalism.L2.SG.Pf.GluingBases.form_sum_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:07:28.900803+00:00
 -- url     : https://prove2.me/theorems/6a182d7c-fc98-5bfb-807c-49f96f7a613a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_exists_frob_above
 -- name    : ReciprocityTheory.Cheb.exists_frob_above
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:47:41.489939+00:00
 -- url     : https://prove2.me/theorems/3fe4bc3e-e305-5e70-881b-04d20b9735a3

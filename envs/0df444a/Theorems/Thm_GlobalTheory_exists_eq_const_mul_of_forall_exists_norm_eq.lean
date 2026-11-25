@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_eq_const_mul_of_forall_exists_norm_eq
 -- name    : GlobalTheory.exists_eq_const_mul_of_forall_exists_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:18:42.210912+00:00
 -- url     : https://prove2.me/theorems/a343a250-b152-4c2d-acdd-64715530e3d4

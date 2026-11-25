@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_CardG_coord_unique
 -- name    : ReciprocityTheory.ChartRestriction.L1.CardG.coord_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:44:39.771847+00:00
 -- url     : https://prove2.me/theorems/ea06518f-146b-49fe-8fa7-a76d41abe6be

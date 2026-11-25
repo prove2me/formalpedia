@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_orthogonalProjector_mulVec_conjugate
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.orthogonalProjector_mulVec_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:38:45.442599+00:00
 -- url     : https://prove2.me/theorems/638bd063-7723-554f-97ab-76800248d477

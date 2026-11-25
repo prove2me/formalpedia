@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_so_sum_emb
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.so_sum_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:33:17.369694+00:00
 -- url     : https://prove2.me/theorems/046b12c2-e562-582a-9ac0-2ad2f75bfb22

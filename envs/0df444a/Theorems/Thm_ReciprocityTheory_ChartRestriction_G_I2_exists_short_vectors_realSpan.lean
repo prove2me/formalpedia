@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_exists_short_vectors_realSpan
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.exists_short_vectors_realSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:30:29.94253+00:00
 -- url     : https://prove2.me/theorems/bc1c1a3e-9c54-47c9-b389-26399637ad4e

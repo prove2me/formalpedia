@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxSpan_isProper_powObj
 -- name    : GlobalTheory.BoxSpan.isProper_powObj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:03:37.790952+00:00
 -- url     : https://prove2.me/theorems/8f475c11-87a3-4a87-8565-a77af6fc83e4

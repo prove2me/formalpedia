@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_EigenframeMatrices_Mmat_unitary
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.EigenframeMatrices.Mmat_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:13:58.56221+00:00
 -- url     : https://prove2.me/theorems/a00b6a97-2831-446f-90a0-97a5aefc0758

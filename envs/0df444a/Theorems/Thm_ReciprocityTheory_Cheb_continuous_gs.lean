@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_continuous_gs
 -- name    : ReciprocityTheory.Cheb.continuous_gs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:48:29.750172+00:00
 -- url     : https://prove2.me/theorems/cb23124d-cf65-4bdb-8ccd-4918c9b81ec7

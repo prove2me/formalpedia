@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_WH_hom_of_psiP
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.WH.hom_of_psiP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:37:09.081772+00:00
 -- url     : https://prove2.me/theorems/f831c863-6773-53ea-8855-4dcf2c540718

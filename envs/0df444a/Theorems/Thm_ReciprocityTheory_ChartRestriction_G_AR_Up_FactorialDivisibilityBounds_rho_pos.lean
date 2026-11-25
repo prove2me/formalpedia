@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_FactorialDivisibilityBounds_rho_pos
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.FactorialDivisibilityBounds.rho_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:41:05.923451+00:00
 -- url     : https://prove2.me/theorems/5cb18a30-c116-4201-ac47-d7c919150548

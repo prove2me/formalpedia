@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_lemS_vol_le
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.lemS_vol_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:29:00.298983+00:00
 -- url     : https://prove2.me/theorems/5cf77b1e-8264-4246-99dc-7a9036bc2d0d

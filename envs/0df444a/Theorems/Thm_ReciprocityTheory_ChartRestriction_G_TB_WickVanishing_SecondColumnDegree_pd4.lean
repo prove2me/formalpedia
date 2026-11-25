@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_SecondColumnDegree_pd4
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.SecondColumnDegree.pd4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:43:56.281979+00:00
 -- url     : https://prove2.me/theorems/cae6c29f-2123-5741-844d-c9ca6da38026

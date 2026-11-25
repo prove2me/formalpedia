@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_polyIn_monomial_of_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.polyIn_monomial_of_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:39:01.446813+00:00
 -- url     : https://prove2.me/theorems/59818ad7-c9cd-56e9-bd92-df57f73c37cf

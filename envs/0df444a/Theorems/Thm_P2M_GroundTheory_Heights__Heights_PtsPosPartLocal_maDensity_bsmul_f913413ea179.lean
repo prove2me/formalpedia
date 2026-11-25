@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsPosPartLocal_maDensity_bsmul_f913413ea179
 -- name    : P2M_GroundTheory_Heights__Heights_PtsPosPartLocal_maDensity_bsmul_f913413ea179
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:13.312096+00:00
 -- url     : https://prove2.me/theorems/b401479e-041a-4719-9491-cfcdb94859df

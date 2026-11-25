@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_KrullColonIdeal_exists_prime_colon
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.KrullColonIdeal.exists_prime_colon
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:36:06.319803+00:00
 -- url     : https://prove2.me/theorems/c1d757d9-3a16-5312-b73c-5c269a6e0f95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_block_data_all
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.block_data_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:28:34.424056+00:00
 -- url     : https://prove2.me/theorems/268ea96f-f6b7-55b8-b104-e1856f9f2b74

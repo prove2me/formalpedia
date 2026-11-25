@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_GaussGen_cS_ne_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.GaussGen.cS_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:36:46.357041+00:00
 -- url     : https://prove2.me/theorems/356b81a3-a84c-41ff-8318-1323159df0b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_kmuIncl_denseRange
 -- name    : ReciprocityTheory.ChartRestriction.L1.kmuIncl_denseRange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:46:07.660841+00:00
 -- url     : https://prove2.me/theorems/b616d349-582a-57ab-a4d3-98bd8c5387a0

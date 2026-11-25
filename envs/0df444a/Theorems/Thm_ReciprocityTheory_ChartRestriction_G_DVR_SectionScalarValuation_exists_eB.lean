@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_SectionScalarValuation_exists_eB
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.SectionScalarValuation.exists_eB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:57:00.501383+00:00
 -- url     : https://prove2.me/theorems/a72146c7-4dfa-4373-9745-28e0991fd234

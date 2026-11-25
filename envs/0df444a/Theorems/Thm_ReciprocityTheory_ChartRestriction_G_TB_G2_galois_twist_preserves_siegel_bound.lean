@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_G2_galois_twist_preserves_siegel_bound
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.G2.galois_twist_preserves_siegel_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:39:59.751402+00:00
 -- url     : https://prove2.me/theorems/e1d9d3d2-fdc0-5d19-bfa5-55c38d89079b

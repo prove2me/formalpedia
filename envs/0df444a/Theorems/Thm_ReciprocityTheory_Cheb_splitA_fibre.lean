@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_splitA_fibre
 -- name    : ReciprocityTheory.Cheb.splitA_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:49:08.367902+00:00
 -- url     : https://prove2.me/theorems/f074ddd1-edcd-51ce-b2d8-5d4eb955d33d

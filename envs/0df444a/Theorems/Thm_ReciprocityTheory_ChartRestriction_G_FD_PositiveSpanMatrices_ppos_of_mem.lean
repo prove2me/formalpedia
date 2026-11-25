@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PositiveSpanMatrices_ppos_of_mem
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PositiveSpanMatrices.ppos_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:21:53.475418+00:00
 -- url     : https://prove2.me/theorems/3c7a929f-3740-5bba-bb7d-c8624f3df40d

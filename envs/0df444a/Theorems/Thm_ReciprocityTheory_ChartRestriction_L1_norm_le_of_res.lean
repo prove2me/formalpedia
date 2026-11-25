@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_norm_le_of_res
 -- name    : ReciprocityTheory.ChartRestriction.L1.norm_le_of_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:47:43.429809+00:00
 -- url     : https://prove2.me/theorems/f66ddb79-2e3f-5595-8b36-c1d66240486b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_latOf_sign_prod
 -- name    : ReciprocityTheory.Cheb.latOf_sign_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:49:32.622008+00:00
 -- url     : https://prove2.me/theorems/f01048ef-3e7e-5721-8ccb-75c38ce2dafe

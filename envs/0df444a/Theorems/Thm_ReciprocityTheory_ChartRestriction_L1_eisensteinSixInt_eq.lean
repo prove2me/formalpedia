@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_eisensteinSixInt_eq
 -- name    : ReciprocityTheory.ChartRestriction.L1.eisensteinSixInt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:43:41.93409+00:00
 -- url     : https://prove2.me/theorems/a0c2ea98-8056-455b-a1e5-eafcfeaf478a

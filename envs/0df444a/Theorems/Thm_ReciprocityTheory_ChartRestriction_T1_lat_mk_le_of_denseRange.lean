@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_T1_lat_mk_le_of_denseRange
 -- name    : ReciprocityTheory.ChartRestriction.T1.lat_mk_le_of_denseRange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:47:13.079167+00:00
 -- url     : https://prove2.me/theorems/9b2f9a92-8438-4192-aeea-e23f0214b3db

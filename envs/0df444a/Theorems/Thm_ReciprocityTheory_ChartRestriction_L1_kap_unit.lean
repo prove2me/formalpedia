@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_kap_unit
 -- name    : ReciprocityTheory.ChartRestriction.L1.kap_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:44:16.284697+00:00
 -- url     : https://prove2.me/theorems/9999812a-a570-4a73-84e2-55b7fa62b78c

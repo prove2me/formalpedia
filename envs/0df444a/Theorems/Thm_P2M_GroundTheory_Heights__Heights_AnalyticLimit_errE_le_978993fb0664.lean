@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_errE_le_978993fb0664
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_errE_le_978993fb0664
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:28:47.192819+00:00
 -- url     : https://prove2.me/theorems/e6f86e1b-edea-5d59-a58e-1f0e3c854011

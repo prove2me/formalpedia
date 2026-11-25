@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_idealZetaR_tendsto_sum_card_div
 -- name    : ReciprocityTheory.Cheb.idealZetaR_tendsto_sum_card_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:48:17.449038+00:00
 -- url     : https://prove2.me/theorems/deeccca6-bd95-41b2-86a1-f4913ed9dddc

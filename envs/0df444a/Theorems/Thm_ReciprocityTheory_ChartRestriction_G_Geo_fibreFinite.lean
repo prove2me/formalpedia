@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_fibreFinite
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.fibreFinite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:38:45.384395+00:00
 -- url     : https://prove2.me/theorems/611b0c0c-2376-452a-9572-d3d1c959648a

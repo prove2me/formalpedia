@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_locEmb
 -- name    : ReciprocityTheory.ChartRestriction.L1.locEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:45:17.780822+00:00
 -- url     : https://prove2.me/theorems/9e612e2e-9dd1-46f0-a5e6-ffd945d228a8

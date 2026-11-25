@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_mem_nonunits_Aio
 -- name    : ReciprocityTheory.ChartRestriction.L1.mem_nonunits_Aio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:45:40.665912+00:00
 -- url     : https://prove2.me/theorems/54894f04-e369-417b-8155-c5bac72dd4e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_LawD_subst_of_log
 -- name    : ReciprocityTheory.ChartRestriction.L1.LawD.subst_of_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:43:39.791802+00:00
 -- url     : https://prove2.me/theorems/6b04887e-94fc-44a0-af24-297d04dd87a1

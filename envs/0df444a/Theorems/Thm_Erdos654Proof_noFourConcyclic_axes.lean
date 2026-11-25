@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos654Proof_noFourConcyclic_axes
 -- name    : Erdos654Proof.noFourConcyclic_axes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:43:24.087629+00:00
 -- url     : https://prove2.me/theorems/58202312-5c6d-4fa8-8e96-e7ef84a30880

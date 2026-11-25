@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_pairingMap_apply_apply
 -- name    : GroundTheory.Automorphic.Parabolic.pairingMap_apply_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:26:04.04706+00:00
 -- url     : https://prove2.me/theorems/eb94b8a4-9892-5dc4-9257-63403e55b287

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_isCurve_iff_good
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.isCurve_iff_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:35:22.696801+00:00
 -- url     : https://prove2.me/theorems/c6f17677-32ed-4d8a-8ded-03ff77429a85

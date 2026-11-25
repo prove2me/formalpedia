@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_PTb_multiset_prod_sub_dvd
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.PTb.multiset_prod_sub_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:35:00.792821+00:00
 -- url     : https://prove2.me/theorems/8062c466-b070-4983-a6fb-7dd5d083729e

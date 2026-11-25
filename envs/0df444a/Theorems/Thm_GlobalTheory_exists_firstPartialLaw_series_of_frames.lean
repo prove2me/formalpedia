@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_firstPartialLaw_series_of_frames
 -- name    : GlobalTheory.exists_firstPartialLaw_series_of_frames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:33:03.431696+00:00
 -- url     : https://prove2.me/theorems/4c48e60c-5b07-454f-90c4-3c32db94b4fc

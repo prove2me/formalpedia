@@ -1,0 +1,31 @@
+-- Prove2me | solution 1 for ReciprocityTheory.ChartRestriction.G.Lift.valuation_approximation
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T13:32:33.10388+00:00
+-- url     : https://prove2.me/submissions/5b8a3dbb-dcea-4b28-92be-1aabb168b908
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ValuationLifting_LiftSt
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ValuationLifting_ValuationApproximation_Development
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ValuationLifting_ValuationApproximation_RhoProjectionAssembly
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ValuationLifting_ValApprox
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Lift_VA_large_small_separation
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Lift_VA_near_one_approximation
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Lift_VA_pair_separation
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Lift_VA_rho_projection_assembly
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Lift_VA_valApprox_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+
+namespace ReciprocityTheory.ChartRestriction.G.Lift
+theorem _root_.solution : ReciprocityTheory.ChartRestriction.G.Lift.ApproxStatement :=
+  ReciprocityTheory.ChartRestriction.G.Lift.VA.valApprox_of ReciprocityTheory.ChartRestriction.G.Lift.VA.pair_separation ReciprocityTheory.ChartRestriction.G.Lift.VA.large_small_separation ReciprocityTheory.ChartRestriction.G.Lift.VA.near_one_approximation ReciprocityTheory.ChartRestriction.G.Lift.VA.rho_projection_assembly
+end ReciprocityTheory.ChartRestriction.G.Lift

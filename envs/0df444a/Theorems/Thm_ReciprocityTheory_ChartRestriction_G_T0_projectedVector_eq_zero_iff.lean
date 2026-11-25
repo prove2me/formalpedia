@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_projectedVector_eq_zero_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.projectedVector_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:03:49.436494+00:00
 -- url     : https://prove2.me/theorems/5acbe7b0-5a18-47e9-9472-6945843973a3

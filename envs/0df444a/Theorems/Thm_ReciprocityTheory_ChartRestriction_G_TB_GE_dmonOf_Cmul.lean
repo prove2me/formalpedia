@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_GE_dmonOf_Cmul
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.GE.dmonOf_Cmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:28:12.458963+00:00
 -- url     : https://prove2.me/theorems/18f9f640-5631-4f7b-9544-56dbfc48d960

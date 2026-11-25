@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_KE_norm_le_one_of_integral_int
 -- name    : ReciprocityTheory.ChartRestriction.L1.KE.norm_le_one_of_integral_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:42:34.178248+00:00
 -- url     : https://prove2.me/theorems/bab43214-7b05-5c72-8d5e-ab01da16360d

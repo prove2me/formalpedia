@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_av_prime_dim_one
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.av_prime_dim_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:37:14.947093+00:00
 -- url     : https://prove2.me/theorems/f434789b-8bb6-44bb-9696-1ad497bea0d6

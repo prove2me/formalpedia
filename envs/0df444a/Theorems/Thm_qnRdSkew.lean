@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_qnRdSkew
 -- name    : qnRdSkew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:02:55.062646+00:00
 -- url     : https://prove2.me/theorems/99d564d1-9056-4df8-bad7-fcf79ab04c94

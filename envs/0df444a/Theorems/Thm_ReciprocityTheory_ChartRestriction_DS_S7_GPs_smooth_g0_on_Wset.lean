@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_GPs_smooth_g0_on_Wset
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.GPs.smooth_g0_on_Wset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:59:35.99188+00:00
 -- url     : https://prove2.me/theorems/6c687853-44ca-5ee2-a25c-56744988b971

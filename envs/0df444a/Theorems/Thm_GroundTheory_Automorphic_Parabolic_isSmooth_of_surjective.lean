@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_isSmooth_of_surjective
 -- name    : GroundTheory.Automorphic.Parabolic.isSmooth_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:28:56.168453+00:00
 -- url     : https://prove2.me/theorems/04d022a6-f522-4479-abc1-3cbc98e3b009

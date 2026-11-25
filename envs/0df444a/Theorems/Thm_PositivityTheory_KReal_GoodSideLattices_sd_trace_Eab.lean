@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_GoodSideLattices_sd_trace_Eab
 -- name    : PositivityTheory.KReal.GoodSideLattices.sd_trace_Eab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:29:50.653297+00:00
 -- url     : https://prove2.me/theorems/df26c293-503c-4653-b1de-ba1524ad0d03

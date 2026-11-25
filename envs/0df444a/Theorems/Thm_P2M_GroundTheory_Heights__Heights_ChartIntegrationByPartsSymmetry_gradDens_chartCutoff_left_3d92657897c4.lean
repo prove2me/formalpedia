@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_gradDens_chartCutoff_left_3d92657897c4
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_gradDens_chartCutoff_left_3d92657897c4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:29:19.216395+00:00
 -- url     : https://prove2.me/theorems/ecc0750f-a036-4b86-89b1-205ee0d3211a

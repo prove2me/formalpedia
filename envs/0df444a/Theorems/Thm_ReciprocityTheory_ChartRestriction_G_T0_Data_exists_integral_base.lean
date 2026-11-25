@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_exists_integral_base
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.exists_integral_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:36:07.485244+00:00
 -- url     : https://prove2.me/theorems/ff77e7ce-dd66-4919-ba15-2f7aed028d63

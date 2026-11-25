@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_pa_fderiv_bound
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.pa_fderiv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:00.120226+00:00
 -- url     : https://prove2.me/theorems/1ac4213c-cc4a-44b6-a6d9-28128a9ab884

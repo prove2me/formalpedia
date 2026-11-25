@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_ValUFD_mult_prime
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.ValUFD.mult_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:37:27.93209+00:00
 -- url     : https://prove2.me/theorems/583e6c75-3f79-5bd5-b109-06faf76beadd

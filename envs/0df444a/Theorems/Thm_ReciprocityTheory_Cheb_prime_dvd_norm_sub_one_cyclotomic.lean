@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_prime_dvd_norm_sub_one_cyclotomic
 -- name    : ReciprocityTheory.Cheb.prime_dvd_norm_sub_one_cyclotomic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:48:26.096468+00:00
 -- url     : https://prove2.me/theorems/ecfa9228-7522-4bb6-84e3-920fe8e67276

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos654Proof_axis1_sum
 -- name    : Erdos654Proof.axis1_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:43:25.080621+00:00
 -- url     : https://prove2.me/theorems/189295dd-5714-4540-bafe-419a8d4cff10

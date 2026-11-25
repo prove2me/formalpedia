@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_succ_le_ringKrullDim_of_algebraicIndependent
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.succ_le_ringKrullDim_of_algebraicIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:25:20.000461+00:00
 -- url     : https://prove2.me/theorems/ce05e494-e28d-5b46-937d-c889d5acd307

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_ValuationResidueLemmas_wt_pos
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.ValuationResidueLemmas.wt_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:37:17.230272+00:00
 -- url     : https://prove2.me/theorems/75790fe3-911f-5b58-88e7-40586856946f

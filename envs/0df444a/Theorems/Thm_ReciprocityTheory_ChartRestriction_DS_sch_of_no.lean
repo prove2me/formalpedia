@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_sch_of_no
 -- name    : ReciprocityTheory.ChartRestriction.DS.sch_of_no
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:55:00.743258+00:00
 -- url     : https://prove2.me/theorems/5d881e9c-ce0b-5ced-87a3-c7325666b516

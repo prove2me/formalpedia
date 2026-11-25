@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_PTb_degree_eq_one
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.PTb.degree_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:34:47.489805+00:00
 -- url     : https://prove2.me/theorems/6e29e5cb-c8a4-5f36-9bb7-0e8f815567d8

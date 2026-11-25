@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_PfSupSec_thetaSectionPointwiseNormSq_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.PfSupSec.thetaSectionPointwiseNormSq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:54:32.148034+00:00
 -- url     : https://prove2.me/theorems/49881662-046a-4316-8a20-727c205aa9e8

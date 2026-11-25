@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_IsHalfReps_fW_ne
 -- name    : ReciprocityTheory.ChartRestriction.L1.IsHalfReps.fW_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:44:36.439303+00:00
 -- url     : https://prove2.me/theorems/2a8c3cdd-de53-5d9b-a2b3-dc3d64313d6a

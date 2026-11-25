@@ -1,0 +1,39 @@
+-- Prove2me | solution 1 for ReciprocityTheory.ChartRestriction.G.AR.Up.OntoB.densF_continuousOn
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-25T13:43:59.368739+00:00
+-- url     : https://prove2.me/submissions/24bf23fb-0b25-4fd2-bfec-4ca5f1bb2ba8
+
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_FundSetMeasStatement
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_ExhaustStatementPfB
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_FourierCoefficientDomain
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_LeviForms_EventuallyDifferentiableAtOfContDiffAt
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_OntoStatementPfB
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_OntoB_isOpen_OmF
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_OntoB_densF_pos
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_OntoB_logDens_contDiffAt
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ReciprocityTheory ReciprocityTheory.ChartRestriction ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.AR ReciprocityTheory.ChartRestriction.G.AR.Up ReciprocityTheory.ChartRestriction.G.AR.Up.OntoB
+open NumberField Complex Matrix Topology Filter ReciprocityTheory.ChartRestriction.G.FD ReciprocityTheory.ChartRestriction.G.AR.Inst
+  ReciprocityTheory.L2DbarEstimates ReciprocityTheory.ChartRestriction.G.AR.Up ReciprocityTheory.ChartRestriction.G.AR.Up.ExhC ReciprocityTheory.ChartRestriction.G.AR.Up.ExhD
+open scoped ComplexConjugate ContDiff
+noncomputable section
+variable {E : Type} [Field E] [NumberField E] [IsCMField E] {r : ℕ} (X : Data E r) (x0 : Frame X.Ψ r)
+variable {X x0}
+variable (X x0)
+variable {X x0}
+namespace ReciprocityTheory.ChartRestriction.G.AR.Up.OntoB
+theorem _root_.solution : ContinuousOn (densF X x0) (OmF X x0) := by
+  intro z hz
+  have h := Real.continuous_exp.continuousAt.comp (logDens_contDiffAt hz).continuousAt
+  refine (ContinuousAt.congr h ?_).continuousWithinAt
+  filter_upwards [(isOpen_OmF X x0).mem_nhds hz] with w hw using Real.exp_log (densF_pos hw)
+end ReciprocityTheory.ChartRestriction.G.AR.Up.OntoB

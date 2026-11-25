@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_euler_fin_pow
 -- name    : ReciprocityTheory.Cheb.euler_fin_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:48:16.201217+00:00
 -- url     : https://prove2.me/theorems/46d8504f-a31b-40a6-94e1-845c3df6c2c0

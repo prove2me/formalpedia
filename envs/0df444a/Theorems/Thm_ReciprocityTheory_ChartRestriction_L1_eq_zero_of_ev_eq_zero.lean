@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_eq_zero_of_ev_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.L1.eq_zero_of_ev_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:43:38.613332+00:00
 -- url     : https://prove2.me/theorems/f3c0b382-3b89-4812-b436-693e70bdff01

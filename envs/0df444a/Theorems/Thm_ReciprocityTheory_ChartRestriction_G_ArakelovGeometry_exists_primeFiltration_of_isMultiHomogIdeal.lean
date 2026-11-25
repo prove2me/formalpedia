@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_exists_primeFiltration_of_isMultiHomogIdeal
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.exists_primeFiltration_of_isMultiHomogIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:07:32.552965+00:00
 -- url     : https://prove2.me/theorems/6ce9ba81-9895-4316-a96d-3bab4126ad44

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_smooth_insert_decomp
 -- name    : ReciprocityTheory.Cheb.smooth_insert_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:49:02.279029+00:00
 -- url     : https://prove2.me/theorems/54cd0b9b-96ce-57da-accc-1a92f22946c6

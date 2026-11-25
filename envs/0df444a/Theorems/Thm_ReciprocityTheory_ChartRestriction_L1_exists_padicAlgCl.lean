@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_exists_padicAlgCl
 -- name    : ReciprocityTheory.ChartRestriction.L1.exists_padicAlgCl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:43:51.487407+00:00
 -- url     : https://prove2.me/theorems/c76ff1bf-0e2a-4689-85c5-39fe80294a1d

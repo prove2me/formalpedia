@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_hom_eigen
 -- name    : ReciprocityTheory.ChartRestriction.L1.hom_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:51:25.07929+00:00
 -- url     : https://prove2.me/theorems/ee7d4ba2-f570-5aab-861e-c578a3746fba

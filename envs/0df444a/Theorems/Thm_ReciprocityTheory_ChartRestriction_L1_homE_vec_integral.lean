@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_homE_vec_integral
 -- name    : ReciprocityTheory.ChartRestriction.L1.homE_vec_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:44:31.943418+00:00
 -- url     : https://prove2.me/theorems/ce520f1c-6325-4fd6-b361-ccb28a6ceb83

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_multAt_horizontal_eq_zero_6581e9cd0bbe
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_multAt_horizontal_eq_zero_6581e9cd0bbe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:24:10.574875+00:00
 -- url     : https://prove2.me/theorems/6002d5de-6d9b-4e00-a5b6-78acd466b505

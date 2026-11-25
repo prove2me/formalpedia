@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_FPw_gaussianInner_monomial_orthogonal
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.FPw.gaussianInner_monomial_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:32:04.37437+00:00
 -- url     : https://prove2.me/theorems/b1c07652-0357-536d-bc76-03168c5cddff

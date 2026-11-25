@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_natCast_notMem_sq_of_isUnramifiedAt
 -- name    : ReciprocityTheory.Cheb.natCast_notMem_sq_of_isUnramifiedAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:48:07.531038+00:00
 -- url     : https://prove2.me/theorems/ede991c4-b41d-4d44-90ef-9a45b1595a11

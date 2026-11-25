@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_cab_dirCauchy
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.cab_dirCauchy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:28:01.276694+00:00
 -- url     : https://prove2.me/theorems/d9bd27e5-8717-4f41-bbb6-c8c34a919ba5

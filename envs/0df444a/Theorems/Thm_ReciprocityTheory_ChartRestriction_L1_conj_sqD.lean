@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_conj_sqD
 -- name    : ReciprocityTheory.ChartRestriction.L1.conj_sqD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:44:09.916057+00:00
 -- url     : https://prove2.me/theorems/f9695a21-afbe-43ca-8840-debbe9e046c4

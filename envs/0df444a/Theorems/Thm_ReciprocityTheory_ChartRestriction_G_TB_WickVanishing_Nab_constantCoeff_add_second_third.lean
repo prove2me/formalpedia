@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_Nab_constantCoeff_add_second_third
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.Nab.constantCoeff_add_second_third
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:43:06.720279+00:00
 -- url     : https://prove2.me/theorems/2e74483f-9bdd-51f4-ae21-b5c895a7305b

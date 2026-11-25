@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_exists_normalized
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.exists_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:16:08.023938+00:00
 -- url     : https://prove2.me/theorems/4474d176-b4de-4083-b455-94e4cf5b55fa

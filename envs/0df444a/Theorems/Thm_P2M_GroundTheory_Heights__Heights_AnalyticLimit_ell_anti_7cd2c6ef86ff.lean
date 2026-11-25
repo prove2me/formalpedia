@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_ell_anti_7cd2c6ef86ff
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_ell_anti_7cd2c6ef86ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:29:53.853126+00:00
 -- url     : https://prove2.me/theorems/90dc347b-5bb6-4b64-9209-ce3df6b42a25

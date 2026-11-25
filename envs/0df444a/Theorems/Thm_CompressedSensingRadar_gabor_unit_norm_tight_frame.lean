@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompressedSensingRadar_gabor_unit_norm_tight_frame
 -- name    : CompressedSensingRadar.gabor_unit_norm_tight_frame
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:43:58.397632+00:00
 -- url     : https://prove2.me/theorems/d17e442a-3d1a-4142-a8fe-4ad94e2ff8d8

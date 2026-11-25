@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.baker_shifting_ram_reduction
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @もち
 -- created : 2026-11-24T05:56:06.739233+00:00
 -- url     : https://prove2.me/submissions/572e24ab-2323-45ea-9710-e04f45c2c465
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarIndependentSetRAM
 import Definitions.Def_WilliamsonShmoys_BakerLevel

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_TR_Weyl_antitone_of_mem_interl
 -- name    : ReciprocityTheory.ChartRestriction.TR.Weyl.antitone_of_mem_interl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:47:08.288394+00:00
 -- url     : https://prove2.me/theorems/d1d461bc-0d53-5a66-9bcc-ee3a3462a9ab

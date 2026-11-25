@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_ValuationResidueLemmas_isUnit_of_val_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.ValuationResidueLemmas.isUnit_of_val_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:38:05.32308+00:00
 -- url     : https://prove2.me/theorems/74afcb16-f7c6-4679-a676-22e8a52b1625

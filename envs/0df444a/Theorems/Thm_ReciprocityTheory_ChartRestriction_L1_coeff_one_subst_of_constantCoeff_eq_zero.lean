@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_coeff_one_subst_of_constantCoeff_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.L1.coeff_one_subst_of_constantCoeff_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:43:50.895735+00:00
 -- url     : https://prove2.me/theorems/131bf531-eaeb-54bb-a9c0-53ac239e5cb0

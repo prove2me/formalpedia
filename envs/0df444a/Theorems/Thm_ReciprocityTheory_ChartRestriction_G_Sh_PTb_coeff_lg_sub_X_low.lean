@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_PTb_coeff_lg_sub_X_low
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.PTb.coeff_lg_sub_X_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:34:39.227117+00:00
 -- url     : https://prove2.me/theorems/b66bc400-196d-5461-98a6-b284a26c8d99

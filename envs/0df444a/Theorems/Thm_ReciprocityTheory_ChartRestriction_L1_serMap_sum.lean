@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_serMap_sum
 -- name    : ReciprocityTheory.ChartRestriction.L1.serMap_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:48:20.539877+00:00
 -- url     : https://prove2.me/theorems/7a75982b-d47a-4724-b7fa-51beef0c7f9b

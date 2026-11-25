@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubledSpace_finrank_reduced
 -- name    : GlobalTheory.DoubledSpace.finrank_reduced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:25:00.317282+00:00
 -- url     : https://prove2.me/theorems/6456d274-ecc7-5e3b-bf5f-0a7535c00a2c

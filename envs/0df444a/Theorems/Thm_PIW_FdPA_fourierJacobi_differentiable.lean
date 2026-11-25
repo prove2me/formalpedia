@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_FdPA_fourierJacobi_differentiable
 -- name    : PIW.FdPA.fourierJacobi_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:53.095576+00:00
 -- url     : https://prove2.me/theorems/05a20cb2-30d9-437d-bbb7-1e78713c84e0

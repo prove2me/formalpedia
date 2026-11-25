@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_sixVal
 -- name    : ReciprocityTheory.ChartRestriction.L1.sixVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:48:48.791848+00:00
 -- url     : https://prove2.me/theorems/1cb0173f-4b91-55b0-b104-5e0a8b9d3510

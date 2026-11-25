@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_TR_Weyl_sq_mono_split
 -- name    : ReciprocityTheory.ChartRestriction.TR.Weyl.sq_mono_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:47:29.867632+00:00
 -- url     : https://prove2.me/theorems/a9140da1-d882-4e90-8011-d09f61efa176

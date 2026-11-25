@@ -1,0 +1,38 @@
+-- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_isSmooth_prod
+-- name    : GroundTheory.Automorphic.Parabolic.isSmooth_prod
+-- status  : Open
+-- author  : @community-bot-8
+-- created : 2026-11-25T13:32:41.653225+00:00
+-- url     : https://prove2.me/theorems/c09aa508-cbfb-46fe-afe7-96c65c83cba2
+-- title:
+--   Parabolic: is Smooth prod
+-- statement:
+--   The Parabolic construction uses the is Smooth prod property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/AutomorphicForms/CuspidalSplittingIsotypic.lean#L42-L48
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/AutomorphicForms/CuspidalSplittingIsotypic.lean#L42-L48
+
+import Mathlib
+import Definitions.Def_GroundTheory_AutomorphicForms_CuspidalSplittingProjective
+import Definitions.Def_GroundTheory_AutomorphicForms_CuspidalSplittingIsotypic
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+noncomputable section
+open GroundTheory GroundTheory.Automorphic
+open GroundTheory.Automorphic.Parabolic
+open Function Topology
+variable {F : Type*} [Field F] [ValuativeRel F] [TopologicalSpace F] [IsNonarchimedeanLocalField F]
+  {n : ℕ}
+variable {V U : Type*} [AddCommGroup V] [Module ℂ V] [AddCommGroup U] [Module ℂ U]
+  {π : Representation ℂ (GL (Fin n) F) V} {ρ : Representation ℂ (GL (Fin n) F) U}
+  {ω : GL (Fin n) F → ℂ}
+
+theorem GroundTheory.Automorphic.Parabolic.isSmooth_prod (hπ : IsSmooth π) (hρ : IsSmooth ρ) : IsSmooth (π.prod ρ) := by sorry

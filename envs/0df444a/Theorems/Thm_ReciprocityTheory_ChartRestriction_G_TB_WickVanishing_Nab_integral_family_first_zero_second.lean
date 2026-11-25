@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_Nab_integral_family_first_zero_second
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.Nab.integral_family_first_zero_second
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:43:30.739377+00:00
 -- url     : https://prove2.me/theorems/ad7dcb2d-9baf-45ee-b82c-ac809236a038

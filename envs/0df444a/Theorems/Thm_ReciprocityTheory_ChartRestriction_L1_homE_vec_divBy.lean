@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_homE_vec_divBy
 -- name    : ReciprocityTheory.ChartRestriction.L1.homE_vec_divBy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:45:14.226276+00:00
 -- url     : https://prove2.me/theorems/58cce320-52b0-5e70-b22c-fd450777432c

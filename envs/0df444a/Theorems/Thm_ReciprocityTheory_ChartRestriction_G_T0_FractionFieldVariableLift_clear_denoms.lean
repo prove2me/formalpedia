@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_FractionFieldVariableLift_clear_denoms
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.FractionFieldVariableLift.clear_denoms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:35:59.547488+00:00
 -- url     : https://prove2.me/theorems/d897ea66-8c46-5e8e-9203-d418a3dbaf0b

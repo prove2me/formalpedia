@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_core_const_eq
 -- name    : ReciprocityTheory.Cheb.core_const_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:48:37.149803+00:00
 -- url     : https://prove2.me/theorems/65b4f29b-888c-4b8d-af89-f27bd26e896f

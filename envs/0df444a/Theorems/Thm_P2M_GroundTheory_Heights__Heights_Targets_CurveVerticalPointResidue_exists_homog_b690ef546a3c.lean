@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveVerticalPointResidue_exists_homog_b690ef546a3c
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveVerticalPointResidue_exists_homog_b690ef546a3c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:53:43.64781+00:00
 -- url     : https://prove2.me/theorems/c9d652c0-d424-4748-99b9-b36e58135100

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FrameDegreeData_Hf_sameFlag
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FrameDegreeData.Hf_sameFlag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:18:16.233395+00:00
 -- url     : https://prove2.me/theorems/86d6dadd-4265-4e49-87c0-e1bb164fd86e

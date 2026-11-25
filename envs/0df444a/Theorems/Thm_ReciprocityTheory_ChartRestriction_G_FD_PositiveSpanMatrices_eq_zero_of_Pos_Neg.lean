@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PositiveSpanMatrices_eq_zero_of_Pos_Neg
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PositiveSpanMatrices.eq_zero_of_Pos_Neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:43:48.316761+00:00
 -- url     : https://prove2.me/theorems/ac12a01b-4603-4729-81f3-925776f85f41

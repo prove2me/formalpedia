@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_star_dotProduct_self_re
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.star_dotProduct_self_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:38:36.187418+00:00
 -- url     : https://prove2.me/theorems/70b3bf5a-a61d-54d1-8330-89fa2d06ecfa

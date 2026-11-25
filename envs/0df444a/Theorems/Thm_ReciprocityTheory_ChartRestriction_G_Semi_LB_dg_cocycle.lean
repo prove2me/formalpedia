@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_LB_dg_cocycle
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.LB.dg_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:34:46.278232+00:00
 -- url     : https://prove2.me/theorems/c66d4b9b-4966-4ee4-9d50-c497a945ae2e

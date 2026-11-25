@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_LowerBlockMatrices_colZ
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.LowerBlockMatrices.colZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:19:00.989403+00:00
 -- url     : https://prove2.me/theorems/9511162d-6b8e-468e-bfc3-4ffe6fa528d6

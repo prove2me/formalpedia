@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_nsmulF_eq_subst
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.nsmulF_eq_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:35:24.707846+00:00
 -- url     : https://prove2.me/theorems/9c0e0727-bea6-5b33-b634-657788c04da7

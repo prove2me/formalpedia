@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_pushForward
 -- name    : ReciprocityTheory.AnForm.M.pushForward
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:51:49.547892+00:00
 -- url     : https://prove2.me/theorems/da8e88b2-2627-5b2f-a919-666b419ec21d

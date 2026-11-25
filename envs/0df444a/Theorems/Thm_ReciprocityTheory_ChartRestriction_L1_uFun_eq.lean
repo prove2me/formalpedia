@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_uFun_eq
 -- name    : ReciprocityTheory.ChartRestriction.L1.uFun_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:48:09.92188+00:00
 -- url     : https://prove2.me/theorems/55a5511f-1fba-5f62-9fa5-5c6f10420b53

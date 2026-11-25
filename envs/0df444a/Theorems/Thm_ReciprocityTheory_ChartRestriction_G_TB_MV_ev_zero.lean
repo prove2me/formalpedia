@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_MV_ev_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.MV.ev_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:41:02.146343+00:00
 -- url     : https://prove2.me/theorems/b00c7090-4303-5d39-8759-78239e29d1ea

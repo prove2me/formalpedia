@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_PotentialCharts_glue_eq_pad_7acbd7ed4c16
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_PotentialCharts_glue_eq_pad_7acbd7ed4c16
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:16:14.024627+00:00
 -- url     : https://prove2.me/theorems/6ea08f5e-83ea-5103-b23e-3c6901750bd7

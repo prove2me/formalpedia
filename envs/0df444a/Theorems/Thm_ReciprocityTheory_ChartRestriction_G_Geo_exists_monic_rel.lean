@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_exists_monic_rel
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.exists_monic_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:23:39.001287+00:00
 -- url     : https://prove2.me/theorems/c05f503f-dba8-435a-aa80-3cbfa6014bd0

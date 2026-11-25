@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_abs_prod_sub_prod_le_sum_abs_sub
 -- name    : ReciprocityTheory.Cheb.abs_prod_sub_prod_le_sum_abs_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:48:51.483023+00:00
 -- url     : https://prove2.me/theorems/9c02b747-7bbc-47df-a6cd-3add528a096f

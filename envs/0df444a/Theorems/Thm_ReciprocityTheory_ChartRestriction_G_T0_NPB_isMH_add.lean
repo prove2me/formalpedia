@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_NPB_isMH_add
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.NPB.isMH_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:37:33.350123+00:00
 -- url     : https://prove2.me/theorems/d987b39a-91d8-54b1-8467-4d34a5c24b1c

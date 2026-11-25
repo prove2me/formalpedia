@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_exists_hermite_normal_form_coords
 -- name    : ReciprocityTheory.ChartRestriction.L1.exists_hermite_normal_form_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:43:02.356617+00:00
 -- url     : https://prove2.me/theorems/e8b5a9d9-0595-59b9-ba56-1bf6aadd4778

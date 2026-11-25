@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_herm_eq_zero_of_trace_form_vanish
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.herm_eq_zero_of_trace_form_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:26:11.443796+00:00
 -- url     : https://prove2.me/theorems/9f811bcd-cfac-5117-a887-46d7930eca4c

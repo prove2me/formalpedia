@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_PTb_sum_smul_tangent
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.PTb.sum_smul_tangent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:35:28.094565+00:00
 -- url     : https://prove2.me/theorems/a2e3222d-a8df-4098-b3cb-ea89305efcd3

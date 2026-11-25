@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_lgS_coeff_one
 -- name    : ReciprocityTheory.ChartRestriction.L1.lgS_coeff_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:46:03.521078+00:00
 -- url     : https://prove2.me/theorems/96c4861a-b68a-4a3b-ad9f-8dec5c9c81be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TupleCone_pow_mem_piece
 -- name    : GlobalTheory.TupleCone.pow_mem_piece
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:02:43.765338+00:00
 -- url     : https://prove2.me/theorems/2a40ad08-4b48-5548-a2e6-1f8f779d2112

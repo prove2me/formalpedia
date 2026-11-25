@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_exists_e_eq
 -- name    : ReciprocityTheory.ChartRestriction.L1.exists_e_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:43:53.366088+00:00
 -- url     : https://prove2.me/theorems/26eca081-dda8-4e0b-9708-f3cb5fb21281

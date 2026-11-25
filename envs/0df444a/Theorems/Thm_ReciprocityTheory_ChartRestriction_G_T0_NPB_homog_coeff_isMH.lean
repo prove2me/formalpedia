@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_NPB_homog_coeff_isMH
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.NPB.homog_coeff_isMH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:37:07.706803+00:00
 -- url     : https://prove2.me/theorems/70e547e7-ef45-4e0a-b09c-da649a7203ad

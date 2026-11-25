@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_zetaRoot_mem_cyclotomicSubring_self
 -- name    : ReciprocityTheory.ChartRestriction.L1.zetaRoot_mem_cyclotomicSubring_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:47:34.879437+00:00
 -- url     : https://prove2.me/theorems/ca8e3148-9e1f-4243-aeed-e3dc13ef5e6d

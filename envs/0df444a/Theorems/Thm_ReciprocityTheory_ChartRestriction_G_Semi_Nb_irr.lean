@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_Nb_irr
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.Nb.irr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:35:15.213839+00:00
 -- url     : https://prove2.me/theorems/42d60dde-77d7-4df1-8c26-4bbd74468baa

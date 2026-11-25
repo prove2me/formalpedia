@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_tsum_latOf
 -- name    : ReciprocityTheory.Cheb.tsum_latOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:50:46.143296+00:00
 -- url     : https://prove2.me/theorems/3b88c573-fbd7-59ca-b45d-5ea2c2d11814

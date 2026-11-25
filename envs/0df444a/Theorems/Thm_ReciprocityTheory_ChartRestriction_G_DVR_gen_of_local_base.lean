@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_gen_of_local_base
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.gen_of_local_base
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:12:41.075841+00:00
 -- url     : https://prove2.me/theorems/7bd2dc5e-dd61-4eea-b2d7-f8a4b093216c

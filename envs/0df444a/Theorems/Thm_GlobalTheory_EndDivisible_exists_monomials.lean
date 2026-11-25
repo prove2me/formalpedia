@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EndDivisible_exists_monomials
 -- name    : GlobalTheory.EndDivisible.exists_monomials
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:57:53.499795+00:00
 -- url     : https://prove2.me/theorems/21ef4ebe-e54e-4bf6-807b-7df42d17239d

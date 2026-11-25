@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_norm_unramifiedField_coe
 -- name    : ReciprocityTheory.ChartRestriction.L1.norm_unramifiedField_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:46:44.61982+00:00
 -- url     : https://prove2.me/theorems/1fb6bce8-f674-5231-89be-4c9bdbd2e36c

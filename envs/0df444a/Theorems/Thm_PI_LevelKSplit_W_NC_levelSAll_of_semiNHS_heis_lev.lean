@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_NC_levelSAll_of_semiNHS_heis_lev
 -- name    : PI.LevelKSplit.W.NC.levelSAll_of_semiNHS_heis_lev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:41:00.947706+00:00
 -- url     : https://prove2.me/theorems/be18fac3-9b3e-4ddc-b38a-cdedfc8f52a6

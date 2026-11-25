@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulPull_HasGen_pull
 -- name    : GlobalTheory.MulPull.HasGen.pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:32:41.191382+00:00
 -- url     : https://prove2.me/theorems/a6929cef-7476-4900-8e51-b30646fd0336

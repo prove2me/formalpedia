@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_p_mem_span
 -- name    : ReciprocityTheory.ChartRestriction.L1.p_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:47:13.628903+00:00
 -- url     : https://prove2.me/theorems/c390a98e-c645-5c28-a324-f55a1df52005

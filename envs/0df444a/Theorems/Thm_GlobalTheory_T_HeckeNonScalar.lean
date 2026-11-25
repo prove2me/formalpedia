@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_HeckeNonScalar
 -- name    : GlobalTheory.T.HeckeNonScalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:06:28.723945+00:00
 -- url     : https://prove2.me/theorems/4735d343-f0d6-5728-870f-b09e953ce6c0

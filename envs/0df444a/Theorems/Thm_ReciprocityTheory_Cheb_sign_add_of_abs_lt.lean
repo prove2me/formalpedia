@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_sign_add_of_abs_lt
 -- name    : ReciprocityTheory.Cheb.sign_add_of_abs_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:50:10.045037+00:00
 -- url     : https://prove2.me/theorems/abb71cc9-b8a5-59dc-831c-6734c2579bc3

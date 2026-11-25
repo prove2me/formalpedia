@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_sepInt
 -- name    : ReciprocityTheory.ChartRestriction.L1.sepInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:47:03.448807+00:00
 -- url     : https://prove2.me/theorems/a29f4c50-1f6b-46e3-91a2-f3d7177d01ca

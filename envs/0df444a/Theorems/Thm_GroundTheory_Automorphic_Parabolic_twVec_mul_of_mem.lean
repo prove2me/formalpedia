@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_twVec_mul_of_mem
 -- name    : GroundTheory.Automorphic.Parabolic.twVec_mul_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:15:07.376521+00:00
 -- url     : https://prove2.me/theorems/2aa52fa2-6b2d-5398-8f7c-5abc2c9e31fa

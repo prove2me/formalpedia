@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_mem_primesOverFinset_primeBelow
 -- name    : ReciprocityTheory.Cheb.mem_primesOverFinset_primeBelow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:48:50.134129+00:00
 -- url     : https://prove2.me/theorems/b0d5045a-6c1d-4cc8-97a4-2235c0ede569

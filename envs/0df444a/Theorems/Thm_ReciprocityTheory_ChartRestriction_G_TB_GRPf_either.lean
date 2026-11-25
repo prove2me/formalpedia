@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_GRPf_either
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.GRPf.either
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:40:12.727863+00:00
 -- url     : https://prove2.me/theorems/aefd3a9b-fe37-5316-886f-e9c2b6313c65

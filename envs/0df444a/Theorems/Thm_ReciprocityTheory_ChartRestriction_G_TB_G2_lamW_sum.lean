@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_G2_lamW_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.G2.lamW_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:39:59.157926+00:00
 -- url     : https://prove2.me/theorems/d782b17d-2c42-47d4-81b3-1baf4de7b41c

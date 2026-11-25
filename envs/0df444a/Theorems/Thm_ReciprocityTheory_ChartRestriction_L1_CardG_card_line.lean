@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_CardG_card_line
 -- name    : ReciprocityTheory.ChartRestriction.L1.CardG.card_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:44:31.316303+00:00
 -- url     : https://prove2.me/theorems/f8af3d24-3ca5-5c80-8d08-eb90d83b66ee

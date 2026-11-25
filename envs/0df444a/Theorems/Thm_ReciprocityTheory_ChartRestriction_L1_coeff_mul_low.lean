@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_coeff_mul_low
 -- name    : ReciprocityTheory.ChartRestriction.L1.coeff_mul_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:43:37.131954+00:00
 -- url     : https://prove2.me/theorems/2ce6dc34-5ffb-483d-aa15-164293252d7d

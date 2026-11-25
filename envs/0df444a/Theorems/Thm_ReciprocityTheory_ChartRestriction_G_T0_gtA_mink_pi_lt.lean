@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_gtA_mink_pi_lt
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.gtA_mink_pi_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:37:47.824958+00:00
 -- url     : https://prove2.me/theorems/d82e79bb-1e2f-481a-a8b8-091aef0d7587

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_tendsto_pt
 -- name    : ReciprocityTheory.ChartRestriction.L1.tendsto_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:47:14.711434+00:00
 -- url     : https://prove2.me/theorems/3e23a3f2-0da5-40c1-ad56-ef77b6b0433f

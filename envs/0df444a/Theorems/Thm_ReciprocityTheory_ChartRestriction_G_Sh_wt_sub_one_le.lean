@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_wt_sub_one_le
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.wt_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:36:05.625431+00:00
 -- url     : https://prove2.me/theorems/7ae22efc-9397-49ca-9fbe-e81466c0c2f2

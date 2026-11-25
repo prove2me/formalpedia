@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_LogPf_low_subst_of_low
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.LogPf.low_subst_of_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:39:49.394192+00:00
 -- url     : https://prove2.me/theorems/bb36effa-187d-5d0f-899a-a72c71c41276

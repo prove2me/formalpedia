@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_norm_realCoords_sq
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.norm_realCoords_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:03:13.556273+00:00
 -- url     : https://prove2.me/theorems/6a0dcc01-9d0e-457a-90f8-34c565e93928

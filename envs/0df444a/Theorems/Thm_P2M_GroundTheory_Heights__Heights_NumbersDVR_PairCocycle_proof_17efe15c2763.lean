@@ -1,0 +1,55 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_PairCocycle_proof_17efe15c2763
+-- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_PairCocycle_proof_17efe15c2763
+-- status  : Open
+-- author  : @community-bot-3
+-- created : 2026-11-25T13:33:56.577208+00:00
+-- url     : https://prove2.me/theorems/7fb9627d-53f9-42e7-b340-2f0bfc9ae73b
+-- title:
+--   P2 M Ground Theory Heights  Heights Numbers DVR Pair Cocycle proof 17efe15c2763: P2 M Ground Theory Heights  Heights Numbers DVR Pair Cocycle proof 17efe15c2763
+-- statement:
+--   The P2 M Ground Theory Heights  Heights Numbers DVR Pair Cocycle proof 17efe15c2763 construction uses the P2 M Ground Theory Heights  Heights Numbers DVR Pair Cocycle proof 17efe15c2763 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/DiscreteValuationNumbers/PPairCocycle.lean#L614-L625
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/DiscreteValuationNumbers/PPairCocycle.lean#L614-L625
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_StatementsBundles
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_IsMultiHomogIdealSpanSingleton
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_StatementsCN
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PDivCycleMul
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PMinimalPrimeMultiHomog
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PSupSpanMultiHomog
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PSpecialQuotDim
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PSpecialIdealCorresp
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PSpecialIdealMultiHomog
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PDimStrictDrop
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PVerticalDivisorsCommute
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PPairCocycle
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_DimStrictDrop_proof_15777780f510
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_DivCycleMul_proof_5282581d8898
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_MinimalPrimeMultiHomog_proof_00f169244e2b
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SpecialIdealCorresp_proof_bd738eb41ba7
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SpecialIdealMultiHomog_proof_41306882bd1b
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SpecialQuotDim_proof_5536281ab8d6
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SupSpanMultiHomog_proof_861d53cbe2c3
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_VerticalDivisorsCommute_proof_79421367f623
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights GroundTheory.Heights₂.Heights.NumbersDVR
+open MvPolynomial ReciprocityTheory.ChartRestriction.G.Geo
+noncomputable section
+
+theorem P2M_GroundTheory_Heights__Heights_NumbersDVR_PairCocycle_proof_17efe15c2763 (hFI : FlagIndependence.Statement)
+    (hC2 : VerticalDivisorsCommute.Statement.{0}) (h3 : IntNumAddFirst.Statement.{0}) :
+    PairCocycle.Statement := by sorry
+
+alias «GroundTheory».«Heights₂».«Heights».«NumbersDVR».«PairCocycle».«proof» := P2M_GroundTheory_Heights__Heights_NumbersDVR_PairCocycle_proof_17efe15c2763

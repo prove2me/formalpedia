@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_CubeGen_fibTriv_clopen
 -- name    : GlobalTheory.AbLaw.CubeGen.fibTriv_clopen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:50:41.975803+00:00
 -- url     : https://prove2.me/theorems/f7285c52-9fcb-4d44-b48e-1fed6d161372

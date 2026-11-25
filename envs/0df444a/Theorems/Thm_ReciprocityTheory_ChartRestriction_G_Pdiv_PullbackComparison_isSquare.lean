@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Pdiv_PullbackComparison_isSquare
 -- name    : ReciprocityTheory.ChartRestriction.G.Pdiv.PullbackComparison.isSquare
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:35:49.616273+00:00
 -- url     : https://prove2.me/theorems/210fe8b5-b3e5-5b0c-85af-2652b4169675

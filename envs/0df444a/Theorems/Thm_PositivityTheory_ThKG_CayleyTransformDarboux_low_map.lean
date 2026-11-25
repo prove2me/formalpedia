@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_CayleyTransformDarboux_low_map
 -- name    : PositivityTheory.ThKG.CayleyTransformDarboux.low_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:28:25.070315+00:00
 -- url     : https://prove2.me/theorems/5042e497-4b68-5c32-8c95-a585edb147d6

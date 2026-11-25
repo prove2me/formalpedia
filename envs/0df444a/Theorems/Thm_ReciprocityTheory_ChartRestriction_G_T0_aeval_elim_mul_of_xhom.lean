@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_aeval_elim_mul_of_xhom
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.aeval_elim_mul_of_xhom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:37:34.038814+00:00
 -- url     : https://prove2.me/theorems/efe8af94-7074-4564-83de-a622e7c713f6

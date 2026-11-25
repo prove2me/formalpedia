@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_isFunEqType_of_mv
 -- name    : ReciprocityTheory.ChartRestriction.L1.isFunEqType_of_mv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:45:27.43448+00:00
 -- url     : https://prove2.me/theorems/3e4f5a50-11b6-4a31-84be-ee7b52ea33a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_st_left_piece
 -- name    : ReciprocityTheory.AnForm.M.st_left_piece
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:58:30.95389+00:00
 -- url     : https://prove2.me/theorems/a5d951fb-5bcb-45b6-9c15-276f5a661852

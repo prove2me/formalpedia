@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_finite_ordAt
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.finite_ordAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:23:26.060626+00:00
 -- url     : https://prove2.me/theorems/846c49fb-263b-45b4-9bf0-0024fee320b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCone_isIntegral_proj
 -- name    : GlobalTheory.ProjCone.isIntegral_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:22:34.000642+00:00
 -- url     : https://prove2.me/theorems/003c42a8-9832-538b-b69d-31fbd6846e98

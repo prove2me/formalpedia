@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_prime_choice_class
 -- name    : ReciprocityTheory.ChartRestriction.L1.prime_choice_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:45:57.772829+00:00
 -- url     : https://prove2.me/theorems/4839d9ce-849f-43ae-966b-ad063bcb3d1f

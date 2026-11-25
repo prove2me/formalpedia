@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_ct_iter_single_eq_polyDeriv
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.ct_iter_single_eq_polyDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:28:56.465302+00:00
 -- url     : https://prove2.me/theorems/56f939b8-1142-4b9d-a590-622db9c4a739

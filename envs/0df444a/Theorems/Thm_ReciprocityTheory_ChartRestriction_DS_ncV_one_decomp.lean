@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_ncV_one_decomp
 -- name    : ReciprocityTheory.ChartRestriction.DS.ncV_one_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:08:24.985842+00:00
 -- url     : https://prove2.me/theorems/37be70f5-2526-4c04-a22f-98eba95cc539

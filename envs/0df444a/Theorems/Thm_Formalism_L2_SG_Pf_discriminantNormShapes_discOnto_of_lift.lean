@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantNormShapes_discOnto_of_lift
 -- name    : Formalism.L2.SG.Pf.discriminantNormShapes.discOnto_of_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:23:33.539704+00:00
 -- url     : https://prove2.me/theorems/e818789c-0556-50d8-af21-aec956db6a8f

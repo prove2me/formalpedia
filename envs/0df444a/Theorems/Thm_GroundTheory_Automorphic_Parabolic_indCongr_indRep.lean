@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_indCongr_indRep
 -- name    : GroundTheory.Automorphic.Parabolic.indCongr_indRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:03:57.902081+00:00
 -- url     : https://prove2.me/theorems/bf8723ae-ad59-5309-a5ee-6fff73251fe2

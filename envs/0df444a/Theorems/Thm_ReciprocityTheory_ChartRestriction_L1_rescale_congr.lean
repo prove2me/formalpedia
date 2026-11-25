@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_rescale_congr
 -- name    : ReciprocityTheory.ChartRestriction.L1.rescale_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:46:56.976545+00:00
 -- url     : https://prove2.me/theorems/c4ee58df-b840-46e0-80e2-2a843b6a742e

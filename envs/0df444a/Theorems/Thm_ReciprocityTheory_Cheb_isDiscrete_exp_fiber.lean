@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_isDiscrete_exp_fiber
 -- name    : ReciprocityTheory.Cheb.isDiscrete_exp_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:48:05.609058+00:00
 -- url     : https://prove2.me/theorems/e35ef52c-9677-5a2a-8942-1278b4db20b5

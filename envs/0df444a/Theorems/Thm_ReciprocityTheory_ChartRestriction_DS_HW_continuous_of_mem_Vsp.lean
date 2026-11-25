@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_continuous_of_mem_Vsp
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.continuous_of_mem_Vsp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:52:40.649846+00:00
 -- url     : https://prove2.me/theorems/70c384d6-c1a6-4bf2-9174-0686197fa150

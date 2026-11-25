@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_OFC_S1_mem_OmF
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.OFC.S1_mem_OmF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:02:26.117418+00:00
 -- url     : https://prove2.me/theorems/d57ef651-6f3c-5d13-94f4-48c4973de401

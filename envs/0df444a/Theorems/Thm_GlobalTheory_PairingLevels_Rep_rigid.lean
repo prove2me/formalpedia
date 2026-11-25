@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairingLevels_Rep_rigid
 -- name    : GlobalTheory.PairingLevels.Rep.rigid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:41:45.812486+00:00
 -- url     : https://prove2.me/theorems/d7cec3b7-2329-4a99-a6dd-9ca20a940169

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DefectSumCompare_conjDifferent_pow
 -- name    : GlobalTheory.DefectSumCompare.conjDifferent_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:35:30.811095+00:00
 -- url     : https://prove2.me/theorems/6d3de21f-8245-4623-8baf-b04263847c07

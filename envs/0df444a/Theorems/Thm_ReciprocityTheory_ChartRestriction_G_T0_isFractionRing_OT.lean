@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_isFractionRing_OT
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.isFractionRing_OT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:38:31.002293+00:00
 -- url     : https://prove2.me/theorems/44a386c7-9589-5569-80df-aff22f423137

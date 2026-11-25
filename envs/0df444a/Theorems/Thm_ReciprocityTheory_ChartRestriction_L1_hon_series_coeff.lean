@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_hon_series_coeff
 -- name    : ReciprocityTheory.ChartRestriction.L1.hon_series_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:45:42.197526+00:00
 -- url     : https://prove2.me/theorems/09641b12-b44b-5b4f-ad6a-ca9a7894735e

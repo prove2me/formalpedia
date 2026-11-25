@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_unitaryTransvection_zero_second_mem_closure
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.unitaryTransvection_zero_second_mem_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:34:38.819725+00:00
 -- url     : https://prove2.me/theorems/1442fbfc-d399-4747-ba76-808ae57f59b1

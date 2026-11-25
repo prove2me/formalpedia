@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_rootPoly_erase
 -- name    : ReciprocityTheory.ChartRestriction.L1.rootPoly_erase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:47:54.81592+00:00
 -- url     : https://prove2.me/theorems/5b9e6fae-a588-49c0-9da1-ad1be0302a46

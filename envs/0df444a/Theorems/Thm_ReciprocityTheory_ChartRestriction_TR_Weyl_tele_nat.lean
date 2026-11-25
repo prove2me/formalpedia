@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_TR_Weyl_tele_nat
 -- name    : ReciprocityTheory.ChartRestriction.TR.Weyl.tele_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:47:23.828137+00:00
 -- url     : https://prove2.me/theorems/9dab1610-df68-5d9e-a096-6c1dee3aedfc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_pointwiseNormSq_add_period
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.pointwiseNormSq_add_period
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:43:22.36999+00:00
 -- url     : https://prove2.me/theorems/7d20be9f-ca16-447d-a2d5-589fa66433cb

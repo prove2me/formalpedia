@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_cmPoint
 -- name    : ReciprocityTheory.ChartRestriction.L1.cmPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:38:07.478867+00:00
 -- url     : https://prove2.me/theorems/35f05f63-a82b-4fbb-ad5f-b3d6c0157d4c

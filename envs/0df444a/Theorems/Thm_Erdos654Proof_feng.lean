@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos654Proof_feng
 -- name    : Erdos654Proof.feng
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:43:00.677701+00:00
 -- url     : https://prove2.me/theorems/07a0eeda-1820-5d4d-b3d0-97171a191718

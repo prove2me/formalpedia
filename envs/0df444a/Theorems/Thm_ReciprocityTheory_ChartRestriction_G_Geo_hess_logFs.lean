@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_hess_logFs
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.hess_logFs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:23:47.762148+00:00
 -- url     : https://prove2.me/theorems/4ca0daa0-a82c-4534-a72c-5582c5418bdb

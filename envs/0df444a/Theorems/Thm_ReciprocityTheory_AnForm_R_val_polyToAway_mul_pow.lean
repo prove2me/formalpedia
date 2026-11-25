@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_val_polyToAway_mul_pow
 -- name    : ReciprocityTheory.AnForm.R.val_polyToAway_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:17:06.680827+00:00
 -- url     : https://prove2.me/theorems/18348324-54ae-494e-b17b-5bd9353a69e5

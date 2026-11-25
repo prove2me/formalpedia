@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubledSpace_map_fst_glue
 -- name    : GlobalTheory.DoubledSpace.map_fst_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:25:01.831264+00:00
 -- url     : https://prove2.me/theorems/e77e9d08-e8fd-431d-874f-1aa6530fa25c

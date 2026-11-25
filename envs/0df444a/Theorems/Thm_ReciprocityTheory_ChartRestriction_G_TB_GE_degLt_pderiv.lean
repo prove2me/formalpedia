@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_GE_degLt_pderiv
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.GE.degLt_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:40:19.539448+00:00
 -- url     : https://prove2.me/theorems/905e780f-4d82-5af4-befb-9d20ea968185

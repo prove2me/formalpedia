@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_SCPf_betaH_antisymm
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.SCPf.betaH_antisymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:41:44.104335+00:00
 -- url     : https://prove2.me/theorems/33b674e0-3cf4-526e-b69c-b241d85c974b

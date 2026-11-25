@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PrinSumP_prinSum
 -- name    : GlobalTheory.CompanionTheory.PrinSumP.prinSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:56:12.66675+00:00
 -- url     : https://prove2.me/theorems/3bc1b190-7f15-4938-a916-8e22f11c50ad

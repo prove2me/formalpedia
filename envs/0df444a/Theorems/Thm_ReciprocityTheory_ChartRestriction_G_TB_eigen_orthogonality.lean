@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_eigen_orthogonality
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.eigen_orthogonality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:43:11.155626+00:00
 -- url     : https://prove2.me/theorems/0aa749c7-e8f6-560b-956f-fcefb0e689d3

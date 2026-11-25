@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubledSpace_map_fst_eq
 -- name    : GlobalTheory.DoubledSpace.map_fst_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:24:27.473303+00:00
 -- url     : https://prove2.me/theorems/4fa23f03-9176-50b7-9717-4fbe6e64b8dd

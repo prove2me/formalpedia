@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxPosMeas_exists_setLift_family
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxPosMeas.exists_setLift_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:22:11.098777+00:00
 -- url     : https://prove2.me/theorems/0102846e-c3bc-41f7-ba57-97979106084c

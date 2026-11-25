@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_translate_pullbackSection
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.translate_pullbackSection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:31:56.590604+00:00
 -- url     : https://prove2.me/theorems/927bfa44-470e-5a49-9781-6ca5c1797c24

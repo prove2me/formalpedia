@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ReducedCutLength_intersectionNumber_baseChange_461afd068e57
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ReducedCutLength_intersectionNumber_baseChange_461afd068e57
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:30:16.976941+00:00
 -- url     : https://prove2.me/theorems/961abc88-4bb7-440a-9097-b7ef399ab519

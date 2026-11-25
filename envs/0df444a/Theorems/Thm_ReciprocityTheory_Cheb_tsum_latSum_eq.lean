@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_tsum_latSum_eq
 -- name    : ReciprocityTheory.Cheb.tsum_latSum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:49:12.799019+00:00
 -- url     : https://prove2.me/theorems/20cdafad-1581-4546-adbb-155c0285f1d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_neg_of_perp
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.neg_of_perp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:15:42.501803+00:00
 -- url     : https://prove2.me/theorems/12ebb0c4-8fc6-478a-985c-a10079559032

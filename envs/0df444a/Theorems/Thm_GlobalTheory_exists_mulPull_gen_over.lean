@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_mulPull_gen_over
 -- name    : GlobalTheory.exists_mulPull_gen_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:35:52.418802+00:00
 -- url     : https://prove2.me/theorems/358e3e3c-c875-45b3-a8c0-bb19e50ee3f8

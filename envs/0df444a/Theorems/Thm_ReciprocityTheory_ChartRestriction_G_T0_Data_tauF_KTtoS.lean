@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_tauF_KTtoS
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.tauF_KTtoS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:36:13.879259+00:00
 -- url     : https://prove2.me/theorems/2a7ec2fc-a0e1-42e6-a83b-6c7ccc3d92ff

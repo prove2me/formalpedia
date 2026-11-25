@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_CubePf_tb_lift3
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.CubePf.tb_lift3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:47:34.105034+00:00
 -- url     : https://prove2.me/theorems/e2908d72-86cf-49a5-b12f-fb502c457870

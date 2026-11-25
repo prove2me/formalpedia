@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_cxgal_exists_sf
 -- name    : ReciprocityTheory.Cheb.cxgal_exists_sf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:47:42.190801+00:00
 -- url     : https://prove2.me/theorems/c54daed9-7172-58f4-9ebc-4a5d83ffb7f4

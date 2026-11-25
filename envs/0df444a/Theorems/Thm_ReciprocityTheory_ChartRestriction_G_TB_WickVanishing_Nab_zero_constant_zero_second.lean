@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_Nab_zero_constant_zero_second
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.Nab.zero_constant_zero_second
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:43:18.285825+00:00
 -- url     : https://prove2.me/theorems/1d72cb07-2aad-501b-a427-6ac4023467d2

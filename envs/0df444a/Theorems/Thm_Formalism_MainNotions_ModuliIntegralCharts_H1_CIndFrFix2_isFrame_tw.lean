@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix2_isFrame_tw
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix2.isFrame_tw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:58:34.036796+00:00
 -- url     : https://prove2.me/theorems/b2885436-affc-44b8-a0b0-0ebe7de430cd

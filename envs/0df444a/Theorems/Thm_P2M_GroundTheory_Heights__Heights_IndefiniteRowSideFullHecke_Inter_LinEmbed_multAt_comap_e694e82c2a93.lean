@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_LinEmbed_multAt_comap_e694e82c2a93
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_LinEmbed_multAt_comap_e694e82c2a93
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:01:44.1994+00:00
 -- url     : https://prove2.me/theorems/97ea86f8-c835-5d61-b620-de674be50198

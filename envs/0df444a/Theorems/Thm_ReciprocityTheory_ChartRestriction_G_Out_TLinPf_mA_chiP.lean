@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_TLinPf_mA_chiP
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.TLinPf.mA_chiP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:33:11.678276+00:00
 -- url     : https://prove2.me/theorems/a7d313e8-5783-4140-80d4-813f8f9ae378

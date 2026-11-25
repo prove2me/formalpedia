@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_jInv_ratio
 -- name    : ReciprocityTheory.ChartRestriction.L1.jInv_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:45:54.596877+00:00
 -- url     : https://prove2.me/theorems/74e004c1-2da6-464a-aca8-9c26d4ece4ba

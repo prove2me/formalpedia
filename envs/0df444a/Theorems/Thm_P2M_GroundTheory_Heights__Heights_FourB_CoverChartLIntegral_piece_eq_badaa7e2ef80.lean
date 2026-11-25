@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_CoverChartLIntegral_piece_eq_badaa7e2ef80
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_CoverChartLIntegral_piece_eq_badaa7e2ef80
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:41:27.874692+00:00
 -- url     : https://prove2.me/theorems/76d105ef-86d0-5c7c-86f9-b2d212739d15

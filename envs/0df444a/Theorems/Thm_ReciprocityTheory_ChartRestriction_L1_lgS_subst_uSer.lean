@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_lgS_subst_uSer
 -- name    : ReciprocityTheory.ChartRestriction.L1.lgS_subst_uSer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:45:51.093444+00:00
 -- url     : https://prove2.me/theorems/238ad6a6-b3d9-41bf-977a-daf5741044ac

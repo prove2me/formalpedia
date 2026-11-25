@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_SaturatedCharts_chartTan_of
 -- name    : Formalism.L2.Pj.SaturatedCharts.chartTan_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:27:10.431863+00:00
 -- url     : https://prove2.me/theorems/8d8450a1-a830-4825-92a3-831eb34cd2f7

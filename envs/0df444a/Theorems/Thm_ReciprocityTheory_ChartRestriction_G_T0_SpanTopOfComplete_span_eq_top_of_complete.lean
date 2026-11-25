@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_SpanTopOfComplete_span_eq_top_of_complete
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.SpanTopOfComplete.span_eq_top_of_complete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:37:30.069431+00:00
 -- url     : https://prove2.me/theorems/17e34659-accd-4ce4-9ed6-939ed5c7121e

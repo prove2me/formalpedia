@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_IsCutoffFamily_ofPotentialCharts_4721dcb9cfaf
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_IsCutoffFamily_ofPotentialCharts_4721dcb9cfaf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:15:03.073587+00:00
 -- url     : https://prove2.me/theorems/0598d4ff-a413-52ce-9eef-e09229a35ead

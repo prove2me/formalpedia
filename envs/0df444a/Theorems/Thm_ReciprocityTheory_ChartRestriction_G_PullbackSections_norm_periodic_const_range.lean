@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_norm_periodic_const_range
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.norm_periodic_const_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:37:37.254739+00:00
 -- url     : https://prove2.me/theorems/e2269d68-40af-5eea-b21a-7b69bf434cf3

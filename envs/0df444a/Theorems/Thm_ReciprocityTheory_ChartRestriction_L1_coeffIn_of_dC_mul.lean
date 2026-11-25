@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_coeffIn_of_dC_mul
 -- name    : ReciprocityTheory.ChartRestriction.L1.coeffIn_of_dC_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:42:59.876432+00:00
 -- url     : https://prove2.me/theorems/162c7c63-3e1b-5842-a6df-f0d211e4841c

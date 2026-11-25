@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_TLinPf_eSec_struct
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.TLinPf.eSec_struct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:38:08.621012+00:00
 -- url     : https://prove2.me/theorems/73887d04-3f93-4ba0-85ff-7a1911ab14ab

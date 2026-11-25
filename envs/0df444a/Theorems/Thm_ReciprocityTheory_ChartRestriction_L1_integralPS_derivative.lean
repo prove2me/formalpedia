@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_integralPS_derivative
 -- name    : ReciprocityTheory.ChartRestriction.L1.integralPS_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:45:47.741179+00:00
 -- url     : https://prove2.me/theorems/439d62a3-8628-556f-8264-e3bf255b3a8d

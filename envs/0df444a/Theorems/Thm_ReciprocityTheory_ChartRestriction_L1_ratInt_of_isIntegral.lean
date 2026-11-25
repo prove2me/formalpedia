@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_ratInt_of_isIntegral
 -- name    : ReciprocityTheory.ChartRestriction.L1.ratInt_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:48:28.464386+00:00
 -- url     : https://prove2.me/theorems/0fcb29e4-f691-564e-a5e4-8f3ab25c94b0

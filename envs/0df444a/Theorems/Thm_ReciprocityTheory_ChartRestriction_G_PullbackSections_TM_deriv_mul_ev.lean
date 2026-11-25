@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_TM_deriv_mul_ev
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.TM.deriv_mul_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:33:52.40138+00:00
 -- url     : https://prove2.me/theorems/1ab7516e-7310-512c-81e9-89940964f8d1

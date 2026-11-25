@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_G2_sum_splits_evalTwo_word
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.G2.sum_splits_evalTwo_word
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:38:32.166796+00:00
 -- url     : https://prove2.me/theorems/f6ae9d3e-b6ab-4c63-b5c3-74833e284620

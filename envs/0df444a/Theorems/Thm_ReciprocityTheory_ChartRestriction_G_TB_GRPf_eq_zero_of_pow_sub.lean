@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_GRPf_eq_zero_of_pow_sub
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.GRPf.eq_zero_of_pow_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:40:36.952396+00:00
 -- url     : https://prove2.me/theorems/0153e790-aea3-4646-bf61-a21138b21a65

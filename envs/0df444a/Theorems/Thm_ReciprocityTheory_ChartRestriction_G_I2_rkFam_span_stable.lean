@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_rkFam_span_stable
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.rkFam_span_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:30:08.938481+00:00
 -- url     : https://prove2.me/theorems/e7fa1f8e-c8f2-41a0-8477-a7a3f614c71f

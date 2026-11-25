@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_cutoffSecondDeriv_continuous_0910450e5b6f
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_cutoffSecondDeriv_continuous_0910450e5b6f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:13:26.815724+00:00
 -- url     : https://prove2.me/theorems/ab09cfb4-7fa7-5e32-bba6-93e23b4f43aa

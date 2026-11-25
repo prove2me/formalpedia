@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_split_bot
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.split_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:32:19.565356+00:00
 -- url     : https://prove2.me/theorems/7f659857-642a-49ec-a724-3b0c079f3232

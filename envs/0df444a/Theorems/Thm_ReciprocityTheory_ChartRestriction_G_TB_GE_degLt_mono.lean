@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_GE_degLt_mono
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.GE.degLt_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:39:50.504406+00:00
 -- url     : https://prove2.me/theorems/7c5c7e3a-90b2-4791-9ebf-efcb06f6781a

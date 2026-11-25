@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_splitD_natCast_not_mem
 -- name    : ReciprocityTheory.Cheb.splitD_natCast_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:49:26.713976+00:00
 -- url     : https://prove2.me/theorems/eaccf07c-6804-52c5-919a-68a028646f2d

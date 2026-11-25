@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubledSpace_glue_injective
 -- name    : GlobalTheory.DoubledSpace.glue_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:25:08.454193+00:00
 -- url     : https://prove2.me/theorems/f709d4ec-a044-4b52-804d-b1ead4501a6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_OntoB_densF_continuousOn
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.OntoB.densF_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:21:13.775859+00:00
 -- url     : https://prove2.me/theorems/4f9ba10c-e367-46a7-b260-a825540f2716

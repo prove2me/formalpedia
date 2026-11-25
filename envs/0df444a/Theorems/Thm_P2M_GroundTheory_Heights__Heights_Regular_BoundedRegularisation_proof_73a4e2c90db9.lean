@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_BoundedRegularisation_proof_73a4e2c90db9
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_BoundedRegularisation_proof_73a4e2c90db9
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:46:16.097469+00:00
 -- url     : https://prove2.me/theorems/c9c32690-3a8e-4667-89af-07f901ed4284

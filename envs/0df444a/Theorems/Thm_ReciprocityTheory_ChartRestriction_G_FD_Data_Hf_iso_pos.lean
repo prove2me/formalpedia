@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_Hf_iso_pos
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.Hf_iso_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:11:56.622018+00:00
 -- url     : https://prove2.me/theorems/7705a32a-1071-53f8-a2b4-dc54ec7f79fb

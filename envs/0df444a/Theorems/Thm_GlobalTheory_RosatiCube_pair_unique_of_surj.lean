@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RosatiCube_pair_unique_of_surj
 -- name    : GlobalTheory.RosatiCube.pair_unique_of_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:30:52.362884+00:00
 -- url     : https://prove2.me/theorems/e0d8201a-84fb-456b-80ed-58100eedb60e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_NonScalProof_nonScal
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.NonScalProof.nonScal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:52:32.091457+00:00
 -- url     : https://prove2.me/theorems/8887a02f-076b-4cac-858c-787527d6df09

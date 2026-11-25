@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_TLinPf_orbitMap_conj_smul_two
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.TLinPf.orbitMap_conj_smul_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:32:41.259374+00:00
 -- url     : https://prove2.me/theorems/814bd8f3-6ccc-58e6-9cec-21eb80c1a0a9

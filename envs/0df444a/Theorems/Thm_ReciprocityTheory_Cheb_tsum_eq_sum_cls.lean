@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_tsum_eq_sum_cls
 -- name    : ReciprocityTheory.Cheb.tsum_eq_sum_cls
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:49:58.426424+00:00
 -- url     : https://prove2.me/theorems/849be316-fe84-4cde-9c6f-cae5b8f8b341

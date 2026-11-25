@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_iso_pull_cancel
 -- name    : GlobalTheory.exists_iso_pull_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:36:28.38602+00:00
 -- url     : https://prove2.me/theorems/c2ec265c-89c8-441d-8ec6-2192115f5a28

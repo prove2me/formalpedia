@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_UH_herm_eq_of_im
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.UH.herm_eq_of_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:33:34.243108+00:00
 -- url     : https://prove2.me/theorems/68429a78-211e-44f1-8c6d-051b81b70075

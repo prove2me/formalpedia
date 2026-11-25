@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finset_boundedBasis
 -- name    : GlobalTheory.exists_finset_boundedBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:32:41.028839+00:00
 -- url     : https://prove2.me/theorems/5e1291cf-7204-4adb-bd27-81bb558965ef

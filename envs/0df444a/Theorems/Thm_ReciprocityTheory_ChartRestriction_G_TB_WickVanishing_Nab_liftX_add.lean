@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_Nab_liftX_add
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.Nab.liftX_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:43:02.173828+00:00
 -- url     : https://prove2.me/theorems/216851f3-a437-421c-9ddb-c15c34ca7b57

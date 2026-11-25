@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_inertia_trivial_cyclotomic_coprime
 -- name    : ReciprocityTheory.Cheb.inertia_trivial_cyclotomic_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:48:56.419631+00:00
 -- url     : https://prove2.me/theorems/04fe9226-facc-524a-97e5-7dcefc4166fc

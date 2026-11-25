@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_ERam_mem_factors_of_mem
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.ERam.mem_factors_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:32:57.136809+00:00
 -- url     : https://prove2.me/theorems/4f5ad90e-e23e-56d0-8fa4-d32064be01bb

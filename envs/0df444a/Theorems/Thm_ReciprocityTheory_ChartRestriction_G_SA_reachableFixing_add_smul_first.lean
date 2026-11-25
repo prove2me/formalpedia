@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_reachableFixing_add_smul_first
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.reachableFixing_add_smul_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:34:49.000538+00:00
 -- url     : https://prove2.me/theorems/448eb33b-4e90-5ead-92aa-368d4a9394c1

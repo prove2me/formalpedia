@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_cW_unfold
 -- name    : ReciprocityTheory.ChartRestriction.L1.cW_unfold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:44:57.098804+00:00
 -- url     : https://prove2.me/theorems/03d6b96b-4af1-5ed5-b24d-1ec4812deff9

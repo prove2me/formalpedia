@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxPosMeas_setBadSet_null
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxPosMeas.setBadSet_null
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:21:39.844185+00:00
 -- url     : https://prove2.me/theorems/203d72de-26f6-499b-85a7-4eb9356b6bbc

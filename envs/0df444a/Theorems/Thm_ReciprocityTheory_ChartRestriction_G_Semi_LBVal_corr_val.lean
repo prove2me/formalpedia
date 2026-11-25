@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_LBVal_corr_val
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.LBVal.corr_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:35:27.838959+00:00
 -- url     : https://prove2.me/theorems/dbccbf9c-443b-48ba-82c7-d00f202a3e61

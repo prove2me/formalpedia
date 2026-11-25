@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_quotientGram_eq_projector
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.quotientGram_eq_projector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:38:41.882403+00:00
 -- url     : https://prove2.me/theorems/de51d0b5-46d0-4349-b9ea-ecb79dd0c9a2

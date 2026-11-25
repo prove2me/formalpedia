@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_PowerSeriesCoeffGaps_v_one_sub_le
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.PowerSeriesCoeffGaps.v_one_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:35:13.005797+00:00
 -- url     : https://prove2.me/theorems/49ca22d2-e653-421e-a328-b95120b807c2

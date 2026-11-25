@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_unipotent_lattice_lift
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.unipotent_lattice_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:45:58.84136+00:00
 -- url     : https://prove2.me/theorems/fa837d96-f62e-48dc-ba61-105ad4c8c95d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCurve_isIntegrallyClosed_integralClosure
 -- name    : GlobalTheory.NormCurve.isIntegrallyClosed_integralClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:28:43.241841+00:00
 -- url     : https://prove2.me/theorems/99a8dabe-e7e5-4005-be4c-b6065160321a

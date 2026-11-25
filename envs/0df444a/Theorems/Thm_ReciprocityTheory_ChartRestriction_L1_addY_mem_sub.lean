@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_addY_mem_sub
 -- name    : ReciprocityTheory.ChartRestriction.L1.addY_mem_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:45:15.707839+00:00
 -- url     : https://prove2.me/theorems/1864aa62-bdc1-4221-8dbe-9133b2842496

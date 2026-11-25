@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_exists_holo_coords
 -- name    : ReciprocityTheory.AnForm.R.exists_holo_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:37:49.728581+00:00
 -- url     : https://prove2.me/theorems/e34597b2-b91c-5e16-a9d2-a2b11c1c8b8b

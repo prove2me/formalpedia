@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_TLinPf_ZeroLinearity_zz_0
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.TLinPf.ZeroLinearity.zz_0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:33:05.364862+00:00
 -- url     : https://prove2.me/theorems/08bab3ba-3569-5de1-812b-f936e91828f8

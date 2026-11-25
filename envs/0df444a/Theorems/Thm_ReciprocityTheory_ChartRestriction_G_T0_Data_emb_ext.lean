@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_emb_ext
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.emb_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:36:04.831922+00:00
 -- url     : https://prove2.me/theorems/6fa96afc-05ec-5acf-a253-78b9ec7c568e

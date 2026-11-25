@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_gtD_lat
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.gtD_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:37:44.699872+00:00
 -- url     : https://prove2.me/theorems/7f9a706a-47a9-52da-b505-b54df229f4e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_R_eval__smul_of_isMultiHomog__a1eea59a9f1b
 -- name    : P2M_ReciprocityTheory_AnForm_R_eval__smul_of_isMultiHomog__a1eea59a9f1b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:08:27.672229+00:00
 -- url     : https://prove2.me/theorems/70a4d191-5165-5246-8c0a-5a1c9bdf07a9

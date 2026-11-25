@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExtFPf_Gf_inv
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExtFPf.Gf_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:10:50.505053+00:00
 -- url     : https://prove2.me/theorems/8aa1df6e-10de-417e-8e65-fb4e3805b7cf

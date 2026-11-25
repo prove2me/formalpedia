@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_segre_rel
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.segre_rel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:44:22.041749+00:00
 -- url     : https://prove2.me/theorems/2e1a554f-0523-4026-b967-2de8603730ce

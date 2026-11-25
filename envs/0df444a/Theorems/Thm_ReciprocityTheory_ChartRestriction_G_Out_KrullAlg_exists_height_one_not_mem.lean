@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_KrullAlg_exists_height_one_not_mem
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.KrullAlg.exists_height_one_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:31:20.406259+00:00
 -- url     : https://prove2.me/theorems/29ba5bd1-78c9-47a6-89ff-1e88c98115b2

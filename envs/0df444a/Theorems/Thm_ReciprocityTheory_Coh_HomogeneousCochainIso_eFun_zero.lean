@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_HomogeneousCochainIso_eFun_zero
 -- name    : ReciprocityTheory.Coh.HomogeneousCochainIso.eFun_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:49:41.284099+00:00
 -- url     : https://prove2.me/theorems/9454f4f1-0c64-549a-afb0-f2a3328d4c34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_chord_eval_est
 -- name    : ReciprocityTheory.ChartRestriction.L1.chord_eval_est
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:44:27.453947+00:00
 -- url     : https://prove2.me/theorems/d298b92b-3c29-5f64-8bf7-54d2b91df8ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PerpLatticeTransfer_LB_selfDual
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PerpLatticeTransfer.LB_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:22:35.578836+00:00
 -- url     : https://prove2.me/theorems/11b9f646-971c-5828-87a7-33d05db15539

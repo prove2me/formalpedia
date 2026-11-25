@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_mIntNonneg
 -- name    : ReciprocityTheory.AnForm.M.mIntNonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:57:39.614805+00:00
 -- url     : https://prove2.me/theorems/22e1dac9-61c8-4cd7-ba9e-6583646d54d4

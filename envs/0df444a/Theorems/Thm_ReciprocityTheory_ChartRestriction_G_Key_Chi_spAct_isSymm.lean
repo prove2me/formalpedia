@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Key_Chi_spAct_isSymm
 -- name    : ReciprocityTheory.ChartRestriction.G.Key.Chi.spAct_isSymm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:36:12.52984+00:00
 -- url     : https://prove2.me/theorems/e054ca63-83b0-4d56-baf7-f9364256c44c

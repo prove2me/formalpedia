@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalLift_exists_symLift_pull
 -- name    : GlobalTheory.GlobalLift.exists_symLift_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:27:23.983654+00:00
 -- url     : https://prove2.me/theorems/21c19267-1ac5-4a9c-bb88-7e58069a27d2

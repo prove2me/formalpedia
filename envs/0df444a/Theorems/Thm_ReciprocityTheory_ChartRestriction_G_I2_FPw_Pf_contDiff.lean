@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_FPw_Pf_contDiff
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.FPw.Pf_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:54:18.1998+00:00
 -- url     : https://prove2.me/theorems/c99607b3-9cbc-41a3-b887-27b3477679c0

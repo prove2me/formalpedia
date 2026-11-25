@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_levJacquetAction_mk
 -- name    : GroundTheory.Automorphic.Parabolic.levJacquetAction_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:12:56.890099+00:00
 -- url     : https://prove2.me/theorems/ffe71238-fab5-5ea8-be59-923e8c12fb8c

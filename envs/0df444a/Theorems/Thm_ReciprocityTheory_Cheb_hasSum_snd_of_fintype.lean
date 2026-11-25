@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_hasSum_snd_of_fintype
 -- name    : ReciprocityTheory.Cheb.hasSum_snd_of_fintype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:48:41.954176+00:00
 -- url     : https://prove2.me/theorems/5615fcf7-8c42-4c09-9166-6ff40853669a

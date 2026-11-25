@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormRos_isNormRos_unique
 -- name    : GlobalTheory.NormRos.isNormRos_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:37:18.629009+00:00
 -- url     : https://prove2.me/theorems/1689c077-c4e5-4941-bb9b-ac70a935ab29

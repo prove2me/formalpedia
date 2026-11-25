@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_muM_exists_gen
 -- name    : ReciprocityTheory.ChartRestriction.L1.muM_exists_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:45:01.366479+00:00
 -- url     : https://prove2.me/theorems/4d7addc2-d94a-4051-b60e-e4f717ffd676

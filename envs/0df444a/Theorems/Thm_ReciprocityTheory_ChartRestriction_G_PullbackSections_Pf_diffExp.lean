@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_diffExp
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.diffExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:55:47.132805+00:00
 -- url     : https://prove2.me/theorems/dc7eff40-2aae-4979-8ab5-786df8fc36ec

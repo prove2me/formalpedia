@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaExist_paTh_centre
 -- name    : GlobalTheory.ThetaExist.paTh_centre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:05:25.114432+00:00
 -- url     : https://prove2.me/theorems/aedcc852-4ad3-4145-beaa-24716476ca25

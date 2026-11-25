@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_gtB_inner_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.gtB_inner_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:37:42.762793+00:00
 -- url     : https://prove2.me/theorems/7c125d79-9a96-5b24-ba32-0775ee26ab7a

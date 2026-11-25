@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommutatorPairing_thetaVal_ratio
 -- name    : GlobalTheory.CommutatorPairing.thetaVal_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:17:02.862814+00:00
 -- url     : https://prove2.me/theorems/49b2eda0-23b1-4b58-b58e-002978f236ec

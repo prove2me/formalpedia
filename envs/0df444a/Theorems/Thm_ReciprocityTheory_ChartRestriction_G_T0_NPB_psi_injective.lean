@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_NPB_psi_injective
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.NPB.psi_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:11:35.449042+00:00
 -- url     : https://prove2.me/theorems/90aae91a-4871-4e3a-963e-b5a6a19a9e0a

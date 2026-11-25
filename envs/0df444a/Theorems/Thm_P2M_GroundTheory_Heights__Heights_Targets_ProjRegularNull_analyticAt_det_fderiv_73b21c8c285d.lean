@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjRegularNull_analyticAt_det_fderiv_73b21c8c285d
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjRegularNull_analyticAt_det_fderiv_73b21c8c285d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:07:53.476002+00:00
 -- url     : https://prove2.me/theorems/8ab61a64-2cfb-4b51-84ef-822e558ac2e8

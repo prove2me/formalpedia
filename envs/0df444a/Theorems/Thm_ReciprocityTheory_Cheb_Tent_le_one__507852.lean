@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_Tent_le_one__507852
 -- name    : ReciprocityTheory.Cheb.Tent_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:47:12.043055+00:00
 -- url     : https://prove2.me/theorems/50785297-dc31-5182-a52b-e9d637407adf

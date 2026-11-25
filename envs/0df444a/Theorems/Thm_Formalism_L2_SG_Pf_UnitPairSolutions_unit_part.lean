@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_UnitPairSolutions_unit_part
 -- name    : Formalism.L2.SG.Pf.UnitPairSolutions.unit_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:59:07.752027+00:00
 -- url     : https://prove2.me/theorems/d3b082f1-7efa-5dc6-afea-48fe8b53f2e8

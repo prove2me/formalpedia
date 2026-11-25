@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_kmu_le_kur
 -- name    : ReciprocityTheory.ChartRestriction.L1.kmu_le_kur
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:47:12.162296+00:00
 -- url     : https://prove2.me/theorems/ab2a0ffe-1acc-54ea-a336-99937618b498

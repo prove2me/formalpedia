@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_Geo_Tor_eSec_th__1cd1bf797aec
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_Geo_Tor_eSec_th__1cd1bf797aec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:18:25.526484+00:00
 -- url     : https://prove2.me/theorems/f1195c07-20ef-49c9-9070-9b237270db68

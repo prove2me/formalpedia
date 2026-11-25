@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_gpt_one
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.gpt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:37:10.215257+00:00
 -- url     : https://prove2.me/theorems/9656d410-edb0-4ac2-8778-8a9e89439573

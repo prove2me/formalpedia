@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_CoefficientPositivity_fz_zero_of_inv
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.CoefficientPositivity.fz_zero_of_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:16:40.885179+00:00
 -- url     : https://prove2.me/theorems/b01ee691-45b2-4914-a561-d4bc53ef9dc9

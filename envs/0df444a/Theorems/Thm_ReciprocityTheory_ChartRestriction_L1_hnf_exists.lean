@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_hnf_exists
 -- name    : ReciprocityTheory.ChartRestriction.L1.hnf_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:44:07.982281+00:00
 -- url     : https://prove2.me/theorems/d4a670c9-d154-4ef1-82ee-37a57430967e

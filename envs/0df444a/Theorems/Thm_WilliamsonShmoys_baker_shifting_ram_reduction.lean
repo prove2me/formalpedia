@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_baker_shifting_ram_reduction
 -- name    : WilliamsonShmoys.baker_shifting_ram_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @amirh
 -- created : 2026-10-30T23:33:34.94026+00:00
 -- url     : https://prove2.me/theorems/9cfb4667-2638-4d30-91f4-fc0d1744d0ea

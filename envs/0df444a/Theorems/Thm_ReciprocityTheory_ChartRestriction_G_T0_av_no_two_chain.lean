@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_av_no_two_chain
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.av_no_two_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:37:23.213988+00:00
 -- url     : https://prove2.me/theorems/8d7c4ced-b059-4e04-a73d-bfc8ebf2cc71

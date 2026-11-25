@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_FractionFieldVariableLift_hL_rename
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.FractionFieldVariableLift.hL_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:36:34.43958+00:00
 -- url     : https://prove2.me/theorems/565ee6c8-1909-4076-98f5-d6e6ff9d75f9

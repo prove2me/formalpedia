@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_desc_key
 -- name    : ReciprocityTheory.ChartRestriction.L1.desc_key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:44:19.709448+00:00
 -- url     : https://prove2.me/theorems/1ff08c02-0a9f-45a2-b5da-a3e42ab6c200

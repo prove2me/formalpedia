@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_MBdd_mul
 -- name    : GroundTheory.Automorphic.Spherical.MBdd.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:08:19.164514+00:00
 -- url     : https://prove2.me/theorems/5a0f43f8-fb48-52a1-bd40-1fc508a02b06

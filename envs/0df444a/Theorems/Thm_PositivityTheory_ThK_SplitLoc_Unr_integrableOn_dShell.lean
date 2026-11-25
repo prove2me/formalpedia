@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_integrableOn_dShell
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.integrableOn_dShell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:13:24.746018+00:00
 -- url     : https://prove2.me/theorems/5b7445e8-6293-4c21-806e-d29e7952b616

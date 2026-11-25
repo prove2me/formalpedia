@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_sameOrbit_of_segre
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.sameOrbit_of_segre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:05:59.619182+00:00
 -- url     : https://prove2.me/theorems/08e4de0b-7f51-426f-8615-65144acd4c54

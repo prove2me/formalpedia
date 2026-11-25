@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_eq_zero_of_eventually
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.eq_zero_of_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:41.942709+00:00
 -- url     : https://prove2.me/theorems/e3cc10dc-16f4-418c-9eed-c86bdeca4af8

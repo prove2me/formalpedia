@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_quot_of_local
 -- name    : PositivityTheory.KReal.quot_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:08:12.329738+00:00
 -- url     : https://prove2.me/theorems/61343764-7728-5000-8ad9-b4aba8bd633c

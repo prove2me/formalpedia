@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_phiM_mem
 -- name    : ReciprocityTheory.ChartRestriction.L1.phiM_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:46:02.571797+00:00
 -- url     : https://prove2.me/theorems/3ad261a3-dd69-4b68-8817-2732ab80bc2e

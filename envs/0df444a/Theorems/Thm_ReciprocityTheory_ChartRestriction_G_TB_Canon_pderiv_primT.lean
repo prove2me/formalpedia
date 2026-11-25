@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_Canon_pderiv_primT
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.Canon.pderiv_primT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:39:35.06281+00:00
 -- url     : https://prove2.me/theorems/c372cc5a-50d6-42bf-b2c2-05021eb097f6

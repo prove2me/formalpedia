@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_RealPlaceEmbeddings_linIndR
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.RealPlaceEmbeddings.linIndR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:47:35.315801+00:00
 -- url     : https://prove2.me/theorems/0ae0ae7a-bbe2-4c10-9010-e8c5bfe861c0

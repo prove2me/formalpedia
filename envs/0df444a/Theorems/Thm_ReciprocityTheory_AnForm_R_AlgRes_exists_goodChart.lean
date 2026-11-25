@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_AlgRes_exists_goodChart
 -- name    : ReciprocityTheory.AnForm.R.AlgRes.exists_goodChart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:21.373472+00:00
 -- url     : https://prove2.me/theorems/36db27c9-341d-4ef7-94a6-6b219c2e9e23

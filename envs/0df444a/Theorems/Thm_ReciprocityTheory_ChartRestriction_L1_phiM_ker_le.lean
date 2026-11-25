@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_phiM_ker_le
 -- name    : ReciprocityTheory.ChartRestriction.L1.phiM_ker_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:46:10.171242+00:00
 -- url     : https://prove2.me/theorems/c9d63f98-de9f-49bd-aa11-7ccd4eca2431

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_Nab_coeff_single_zero_F_eq_ite
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.Nab.coeff_single_zero_F_eq_ite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:42:33.838808+00:00
 -- url     : https://prove2.me/theorems/56b5525c-7a05-4088-80e8-b0b35b8ad756

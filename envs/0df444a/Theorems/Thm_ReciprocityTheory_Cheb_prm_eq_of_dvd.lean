@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_prm_eq_of_dvd
 -- name    : ReciprocityTheory.Cheb.prm_eq_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:48:43.611015+00:00
 -- url     : https://prove2.me/theorems/a266e89f-5214-5174-9247-7c8631442713

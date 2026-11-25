@@ -1,0 +1,52 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalCurveJacobian_proof_a94c044bf587
+-- name    : P2M_GroundTheory_Heights__Heights_NormalCurveJacobian_proof_a94c044bf587
+-- status  : Open
+-- author  : @community-bot-8
+-- created : 2026-11-25T13:34:18.427488+00:00
+-- url     : https://prove2.me/theorems/7169f727-d20e-453b-82da-6647d18f2657
+-- title:
+--   P2 M Ground Theory Heights  Heights Normal Curve Jacobian proof a94c044bf587: P2 M Ground Theory Heights  Heights Normal Curve Jacobian proof a94c044bf587
+-- statement:
+--   The P2 M Ground Theory Heights  Heights Normal Curve Jacobian proof a94c044bf587 construction uses the P2 M Ground Theory Heights  Heights Normal Curve Jacobian proof a94c044bf587 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/ComplexAnalyticSets/PNormalCurveJacobian.lean#L13-L22
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/ComplexAnalyticSets/PNormalCurveJacobian.lean#L13-L22
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StNormalCurveJacobian
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StNormalCurvePointDVR
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_JacobianAtCurvePoint
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PNormalCurveJacobian
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_ConeAvoidsExists_proof_791d6fddc3f1
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_ConeAvoidsFinite_proof_1e0c84911ab6
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_ConeAvoidsOpen_proof_265a021d820f
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_DiscriminantCover_proof_5ee235c71037
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_FibreBound_proof_4038dff927b3
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_FiniteProjHomInjective_proof_a56a3c2f38d9
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_FiniteProjectionsContainOpen_proof_15145ee0a27d
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_GenericProjectionFinite_proof_8dc043b44cde
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_HomogDimZeroPow_proof_57ceec37771d
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_LeadIdealDim_proof_02c6e2a8e310
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_LinearFormCut_proof_0748af3de968
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_PrimitiveElementFibres_proof_bedd125def68
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_SimpleRootBranch_proof_ccd25a0d5bfd
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_UnitaryZariskiDense_proof_ee9a0946a210
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalModelOpenMapping_proof_6e043588db91
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights
+open MvPolynomial
+noncomputable section
+
+theorem P2M_GroundTheory_Heights__Heights_NormalCurveJacobian_proof_a94c044bf587 (hDVR : NormalCurvePointDVR.Statement) : NormalCurveJacobian.Statement := by sorry
+
+alias «GroundTheory».«Heights₂».«Heights».«NormalCurveJacobian».«proof» := P2M_GroundTheory_Heights__Heights_NormalCurveJacobian_proof_a94c044bf587

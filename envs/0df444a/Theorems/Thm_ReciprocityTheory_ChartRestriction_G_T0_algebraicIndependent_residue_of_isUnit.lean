@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_algebraicIndependent_residue_of_isUnit
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.algebraicIndependent_residue_of_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:37:24.978705+00:00
 -- url     : https://prove2.me/theorems/5670025d-0882-44b8-9917-abac43d3b737

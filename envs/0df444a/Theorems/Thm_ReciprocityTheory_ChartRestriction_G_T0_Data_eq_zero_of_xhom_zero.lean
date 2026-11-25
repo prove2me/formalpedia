@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_eq_zero_of_xhom_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.eq_zero_of_xhom_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:35:45.884457+00:00
 -- url     : https://prove2.me/theorems/b989c89f-8914-46a2-b403-fdd434afff17

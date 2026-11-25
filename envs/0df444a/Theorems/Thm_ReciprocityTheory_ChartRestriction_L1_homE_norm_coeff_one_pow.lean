@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_homE_norm_coeff_one_pow
 -- name    : ReciprocityTheory.ChartRestriction.L1.homE_norm_coeff_one_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:44:45.384649+00:00
 -- url     : https://prove2.me/theorems/cc33017b-ca0f-42ba-b968-3caefba2565a

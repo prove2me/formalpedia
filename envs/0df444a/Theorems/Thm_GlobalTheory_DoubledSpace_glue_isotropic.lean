@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubledSpace_glue_isotropic
 -- name    : GlobalTheory.DoubledSpace.glue_isotropic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:25:20.833517+00:00
 -- url     : https://prove2.me/theorems/6ea87382-f7e9-49bd-9849-fb95ca0894d0

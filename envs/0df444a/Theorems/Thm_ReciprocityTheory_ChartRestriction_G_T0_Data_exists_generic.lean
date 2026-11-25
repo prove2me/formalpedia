@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_exists_generic
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.exists_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:37:40.271615+00:00
 -- url     : https://prove2.me/theorems/7c275215-3848-4043-938a-a444456a79e0

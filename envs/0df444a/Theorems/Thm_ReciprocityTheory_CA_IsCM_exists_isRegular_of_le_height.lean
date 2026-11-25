@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_IsCM_exists_isRegular_of_le_height
 -- name    : ReciprocityTheory.CA.IsCM.exists_isRegular_of_le_height
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:00:15.763377+00:00
 -- url     : https://prove2.me/theorems/b1032574-835b-4848-8123-9d7b666da9c5

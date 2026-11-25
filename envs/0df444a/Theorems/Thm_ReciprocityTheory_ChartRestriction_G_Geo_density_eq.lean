@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_density_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.density_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:16:51.16646+00:00
 -- url     : https://prove2.me/theorems/705a3259-69c3-4ff0-aaae-cea75f89d94e

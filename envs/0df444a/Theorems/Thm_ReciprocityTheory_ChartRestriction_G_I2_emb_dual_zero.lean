@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_emb_dual_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.emb_dual_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:28:45.150811+00:00
 -- url     : https://prove2.me/theorems/d536c8a7-34a7-4d36-a014-85eb304af148

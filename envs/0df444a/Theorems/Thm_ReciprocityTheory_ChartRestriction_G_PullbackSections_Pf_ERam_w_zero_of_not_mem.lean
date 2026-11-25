@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_ERam_w_zero_of_not_mem
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.ERam.w_zero_of_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:33:06.252805+00:00
 -- url     : https://prove2.me/theorems/81f3c1b0-d13e-49d6-9fa5-b52038c751db

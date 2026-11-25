@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_normPoly_of
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.normPoly_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:24:36.018649+00:00
 -- url     : https://prove2.me/theorems/08e4ee8d-4b80-5bf1-8c7f-2a992174ce82

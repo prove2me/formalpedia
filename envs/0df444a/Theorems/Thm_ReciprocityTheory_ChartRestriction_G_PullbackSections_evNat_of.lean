@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_evNat_of
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.evNat_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:33:50.049114+00:00
 -- url     : https://prove2.me/theorems/b7fa15af-7fdc-56c2-8c20-9e042e42f838

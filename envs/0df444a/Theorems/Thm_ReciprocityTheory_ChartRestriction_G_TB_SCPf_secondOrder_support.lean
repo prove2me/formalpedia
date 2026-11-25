@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_SCPf_secondOrder_support
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.SCPf.secondOrder_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:41:04.889382+00:00
 -- url     : https://prove2.me/theorems/e962a276-4bbd-54fa-95f4-a29ee45c8a0f

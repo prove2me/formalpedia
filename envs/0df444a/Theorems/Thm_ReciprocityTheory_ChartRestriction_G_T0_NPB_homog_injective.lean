@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_NPB_homog_injective
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.NPB.homog_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:36:51.03132+00:00
 -- url     : https://prove2.me/theorems/f467c8dc-30ce-5f1d-a298-f24b46dc7a17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_GE_eq_zero_of_degLt_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.GE.eq_zero_of_degLt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:39:59.919359+00:00
 -- url     : https://prove2.me/theorems/466a964a-cb66-470e-ac96-0d50683298eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_sum_attach_dite
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.sum_attach_dite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:25:24.612677+00:00
 -- url     : https://prove2.me/theorems/fa9878da-e6a6-561a-a57b-dbedd3f83b04

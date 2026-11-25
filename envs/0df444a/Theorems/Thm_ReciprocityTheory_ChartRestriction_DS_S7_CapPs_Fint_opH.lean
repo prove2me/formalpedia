@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CapPs_Fint_opH
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CapPs.Fint_opH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:15:05.370706+00:00
 -- url     : https://prove2.me/theorems/cb6e1dfd-c697-538f-a368-d7cbdc931ad3

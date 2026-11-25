@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_pointwiseNormSq_translate
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.pointwiseNormSq_translate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:57:51.128219+00:00
 -- url     : https://prove2.me/theorems/8d1c795f-1d08-4cd9-811a-4fc07cc2e88d

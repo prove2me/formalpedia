@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_aeval_sumElim_factor
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.aeval_sumElim_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:23:08.060991+00:00
 -- url     : https://prove2.me/theorems/39ea7318-ac48-45cb-aed7-aa62f17658e1

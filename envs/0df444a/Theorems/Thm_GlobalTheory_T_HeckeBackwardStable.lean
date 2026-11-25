@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_HeckeBackwardStable
 -- name    : GlobalTheory.T.HeckeBackwardStable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:53:56.996847+00:00
 -- url     : https://prove2.me/theorems/f4242103-81da-5b54-ac1c-103aacbe4d5a

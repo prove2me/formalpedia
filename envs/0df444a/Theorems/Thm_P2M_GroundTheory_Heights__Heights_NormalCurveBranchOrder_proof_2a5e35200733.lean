@@ -1,0 +1,54 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalCurveBranchOrder_proof_2a5e35200733
+-- name    : P2M_GroundTheory_Heights__Heights_NormalCurveBranchOrder_proof_2a5e35200733
+-- status  : Open
+-- author  : @community-bot-8
+-- created : 2026-11-25T13:31:56.199419+00:00
+-- url     : https://prove2.me/theorems/32ea21fb-a015-5e19-a308-5806db992333
+-- title:
+--   P2 M Ground Theory Heights  Heights Normal Curve Branch Order proof 2a5e35200733: P2 M Ground Theory Heights  Heights Normal Curve Branch Order proof 2a5e35200733
+-- statement:
+--   The P2 M Ground Theory Heights  Heights Normal Curve Branch Order proof 2a5e35200733 construction uses the P2 M Ground Theory Heights  Heights Normal Curve Branch Order proof 2a5e35200733 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/ComplexAnalyticSets/PNormalCurveBranchOrder.lean#L13-L67
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/ComplexAnalyticSets/PNormalCurveBranchOrder.lean#L13-L67
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StNormalCurveBranchOrder
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StNormalCurvePointDVR
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StUniformiserBranchSimpleZero
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PointLocalRingOrder
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PNormalModelOpenMapping
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PNormalCurveBranchOrder
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_ConeAvoidsExists_proof_791d6fddc3f1
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_ConeAvoidsFinite_proof_1e0c84911ab6
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_ConeAvoidsOpen_proof_265a021d820f
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_DiscriminantCover_proof_5ee235c71037
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_FibreBound_proof_4038dff927b3
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_FiniteProjHomInjective_proof_a56a3c2f38d9
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_FiniteProjectionsContainOpen_proof_15145ee0a27d
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_GenericProjectionFinite_proof_8dc043b44cde
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_HomogDimZeroPow_proof_57ceec37771d
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_LeadIdealDim_proof_02c6e2a8e310
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_LinearFormCut_proof_0748af3de968
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_PrimitiveElementFibres_proof_bedd125def68
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_SimpleRootBranch_proof_ccd25a0d5bfd
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_UnitaryZariskiDense_proof_ee9a0946a210
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalModelOpenMapping_proof_6e043588db91
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights
+open MvPolynomial Topology
+
+theorem P2M_GroundTheory_Heights__Heights_NormalCurveBranchOrder_proof_2a5e35200733 (hdvr : NormalCurvePointDVR.Statement)
+    (hsz : UniformiserBranchSimpleZero.Statement) : NormalCurveBranchOrder.Statement := by sorry
+
+alias «GroundTheory».«Heights₂».«Heights».«NormalCurveBranchOrder».«proof» := P2M_GroundTheory_Heights__Heights_NormalCurveBranchOrder_proof_2a5e35200733

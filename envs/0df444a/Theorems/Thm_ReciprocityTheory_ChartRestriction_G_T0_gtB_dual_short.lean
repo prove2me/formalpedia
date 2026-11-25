@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_gtB_dual_short
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.gtB_dual_short
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:37:52.561293+00:00
 -- url     : https://prove2.me/theorems/de81abdc-7fe3-449a-a0be-2364ed76b307

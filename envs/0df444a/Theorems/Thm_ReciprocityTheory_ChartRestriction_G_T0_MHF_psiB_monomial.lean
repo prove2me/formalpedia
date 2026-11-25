@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_MHF_psiB_monomial
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.MHF.psiB_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:59:19.962125+00:00
 -- url     : https://prove2.me/theorems/b103076a-abb3-4f61-b0b0-dbd217b4eb22

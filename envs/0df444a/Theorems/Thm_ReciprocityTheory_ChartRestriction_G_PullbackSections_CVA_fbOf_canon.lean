@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_CVA_fbOf_canon
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.CVA.fbOf_canon
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:33:16.060352+00:00
 -- url     : https://prove2.me/theorems/b4567d96-2f4a-41aa-aa36-8431f27f31dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExF_rhF_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExF.rhF_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:31:02.318357+00:00
 -- url     : https://prove2.me/theorems/fc001a47-4fac-4e44-82f3-538e0263c99f

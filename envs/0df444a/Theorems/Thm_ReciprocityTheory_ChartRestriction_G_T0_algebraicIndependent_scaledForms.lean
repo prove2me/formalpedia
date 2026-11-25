@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_algebraicIndependent_scaledForms
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.algebraicIndependent_scaledForms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:37:35.733983+00:00
 -- url     : https://prove2.me/theorems/fb098a3a-c138-43a9-a2e7-1e017cff3a75

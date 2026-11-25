@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_latMap_bijective
 -- name    : ReciprocityTheory.ChartRestriction.L1.latMap_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:45:52.930633+00:00
 -- url     : https://prove2.me/theorems/7974c335-343a-5b26-b10c-b630afcbc4c4

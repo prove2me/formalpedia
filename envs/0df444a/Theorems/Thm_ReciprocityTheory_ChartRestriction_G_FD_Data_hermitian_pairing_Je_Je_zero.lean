@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_hermitian_pairing_Je_Je_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.hermitian_pairing_Je_Je_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:44:47.942328+00:00
 -- url     : https://prove2.me/theorems/1e29e2a7-ee87-475e-8367-84b1a315006f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormFactor_nfacLact_holds
 -- name    : GlobalTheory.NormFactor.nfacLact_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:51:31.047092+00:00
 -- url     : https://prove2.me/theorems/f829ee84-6673-471b-846a-deb8277c4dcb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_FPw_vol_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.FPw.vol_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:27:44.733355+00:00
 -- url     : https://prove2.me/theorems/b47d021d-01f2-583e-bfbe-97045de43b0e

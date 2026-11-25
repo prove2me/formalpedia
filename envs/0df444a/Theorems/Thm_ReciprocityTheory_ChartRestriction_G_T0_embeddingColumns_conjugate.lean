@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_embeddingColumns_conjugate
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.embeddingColumns_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:37:37.434797+00:00
 -- url     : https://prove2.me/theorems/50445c6b-a600-5a4a-8c0f-9ee64d4232fb

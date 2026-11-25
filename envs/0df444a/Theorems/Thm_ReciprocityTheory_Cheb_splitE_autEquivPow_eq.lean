@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_splitE_autEquivPow_eq
 -- name    : ReciprocityTheory.Cheb.splitE_autEquivPow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:49:12.790322+00:00
 -- url     : https://prove2.me/theorems/75e93f4f-82fb-54f5-adfd-3aeb9a56eb05

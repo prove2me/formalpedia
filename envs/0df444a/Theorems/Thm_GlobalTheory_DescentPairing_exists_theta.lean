@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DescentPairing_exists_theta
 -- name    : GlobalTheory.DescentPairing.exists_theta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:03:51.029186+00:00
 -- url     : https://prove2.me/theorems/24ed3f36-f4fb-428f-82c6-0514d513ef56

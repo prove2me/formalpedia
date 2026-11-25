@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_indRep_mem_range_cellJacquetMap
 -- name    : GroundTheory.Automorphic.Parabolic.indRep_mem_range_cellJacquetMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:09:27.931449+00:00
 -- url     : https://prove2.me/theorems/f5dcd031-cc6c-42c8-be5e-dda669939a3a

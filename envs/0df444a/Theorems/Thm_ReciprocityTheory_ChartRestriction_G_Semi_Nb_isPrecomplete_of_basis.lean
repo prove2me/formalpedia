@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_Nb_isPrecomplete_of_basis
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.Nb.isPrecomplete_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:58:45.837513+00:00
 -- url     : https://prove2.me/theorems/53712403-6f7d-49d6-9844-890cb0253265

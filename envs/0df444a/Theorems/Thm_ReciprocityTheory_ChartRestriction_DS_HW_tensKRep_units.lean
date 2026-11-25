@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_tensKRep_units
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.tensKRep_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:58:33.707942+00:00
 -- url     : https://prove2.me/theorems/8e1602f3-c71b-50f2-a852-87b2e8048f79

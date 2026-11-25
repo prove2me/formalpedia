@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_trdeg_eq_of_card
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.trdeg_eq_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:39:33.299503+00:00
 -- url     : https://prove2.me/theorems/9d6d8571-acfb-4484-89d5-50a5b07e94ca

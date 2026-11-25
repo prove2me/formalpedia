@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ReciprocityTheory.ChartRestriction.G.Sh.ptSolveMap_good
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:28:25.87795+00:00
 -- url     : https://prove2.me/submissions/535793b7-4354-4ff6-828d-f21bc38de781
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ReciprocityTheory_DualLattices_VEqZeroOfPowEqOne

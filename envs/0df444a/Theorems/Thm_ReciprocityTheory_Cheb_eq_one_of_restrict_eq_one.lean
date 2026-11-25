@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_eq_one_of_restrict_eq_one
 -- name    : ReciprocityTheory.Cheb.eq_one_of_restrict_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:48:16.816019+00:00
 -- url     : https://prove2.me/theorems/3d7df88d-41cb-4fff-bf3d-1a62eb24b20a

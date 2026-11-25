@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_mvpoly_pderiv_comm
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.mvpoly_pderiv_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:43:15.309172+00:00
 -- url     : https://prove2.me/theorems/ff7242b4-85ab-44a5-a049-4e1fa85836d1

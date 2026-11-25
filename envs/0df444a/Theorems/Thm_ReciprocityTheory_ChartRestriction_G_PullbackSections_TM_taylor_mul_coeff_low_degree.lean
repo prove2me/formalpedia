@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_TM_taylor_mul_coeff_low_degree
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.TM.taylor_mul_coeff_low_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:33:20.598499+00:00
 -- url     : https://prove2.me/theorems/1e9837dc-3469-4612-8f90-058eb62af2b0

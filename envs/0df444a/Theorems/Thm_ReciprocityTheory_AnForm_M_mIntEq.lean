@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_mIntEq
 -- name    : ReciprocityTheory.AnForm.M.mIntEq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:38:49.78121+00:00
 -- url     : https://prove2.me/theorems/78c8e694-e1d7-455e-89f3-2e89ab37f8cc

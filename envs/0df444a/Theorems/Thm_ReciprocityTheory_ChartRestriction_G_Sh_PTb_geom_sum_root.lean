@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_PTb_geom_sum_root
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.PTb.geom_sum_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:35:25.338826+00:00
 -- url     : https://prove2.me/theorems/c259b43c-987e-4e6e-a015-2738d229106c

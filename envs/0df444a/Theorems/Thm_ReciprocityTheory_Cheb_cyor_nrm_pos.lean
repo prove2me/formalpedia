@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_cyor_nrm_pos
 -- name    : ReciprocityTheory.Cheb.cyor_nrm_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:47:46.329058+00:00
 -- url     : https://prove2.me/theorems/d6bc0851-7293-5570-9d12-e3b996d29337

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePeriod_exists_upper_diag
 -- name    : GlobalTheory.FramePeriod.exists_upper_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:39:00.048176+00:00
 -- url     : https://prove2.me/theorems/a877cf06-0c92-469d-b4a3-11d4d378402e

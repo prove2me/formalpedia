@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_JGPf_ext_of_fromSpecStalk
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.JGPf.ext_of_fromSpecStalk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:28:26.981473+00:00
 -- url     : https://prove2.me/theorems/eb886f0f-4720-4dcc-be22-abb1b6bc1332

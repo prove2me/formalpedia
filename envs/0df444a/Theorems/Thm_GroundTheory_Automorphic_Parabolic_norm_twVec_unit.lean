@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_norm_twVec_unit
 -- name    : GroundTheory.Automorphic.Parabolic.norm_twVec_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:09:54.524329+00:00
 -- url     : https://prove2.me/theorems/5dc35dad-4093-5b1c-812c-aedf722fb613

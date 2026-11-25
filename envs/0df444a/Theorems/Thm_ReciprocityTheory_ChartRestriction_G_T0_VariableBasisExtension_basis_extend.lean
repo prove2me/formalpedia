@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_VariableBasisExtension_basis_extend
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.VariableBasisExtension.basis_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:37:13.101709+00:00
 -- url     : https://prove2.me/theorems/fe9e02cd-a27d-42f2-9dd8-08205ec74872

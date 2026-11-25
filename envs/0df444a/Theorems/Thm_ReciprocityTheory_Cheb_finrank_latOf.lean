@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_finrank_latOf
 -- name    : ReciprocityTheory.Cheb.finrank_latOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:47:59.64475+00:00
 -- url     : https://prove2.me/theorems/a8a83ec4-4e4a-5901-b2e6-8214dd3a9574

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_algebraMap_K_OmS
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.algebraMap_K_OmS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:37:40.659678+00:00
 -- url     : https://prove2.me/theorems/d71c476c-0c5a-40fb-ae70-89717788f6f0

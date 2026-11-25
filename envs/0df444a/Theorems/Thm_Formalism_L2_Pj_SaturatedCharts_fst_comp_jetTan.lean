@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_SaturatedCharts_fst_comp_jetTan
 -- name    : Formalism.L2.Pj.SaturatedCharts.fst_comp_jetTan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:27:24.080271+00:00
 -- url     : https://prove2.me/theorems/2d03ecd5-8ce2-5d8d-87a1-38abdafb357f

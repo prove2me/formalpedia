@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_ContinuousSections_admissible_chain_inf
 -- name    : ReciprocityTheory.Coh.ContinuousSections.admissible_chain_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:51:32.046597+00:00
 -- url     : https://prove2.me/theorems/b69e0b8d-00e3-45fc-b42e-0f179aba7064

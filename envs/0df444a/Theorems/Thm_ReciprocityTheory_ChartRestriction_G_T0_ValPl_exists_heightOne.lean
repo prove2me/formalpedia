@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_ValPl_exists_heightOne
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.ValPl.exists_heightOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:37:37.169583+00:00
 -- url     : https://prove2.me/theorems/d1c5ce56-2199-5660-86ab-3c491e80fab7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_sub_mul_choose_le_mul_choose
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.sub_mul_choose_le_mul_choose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:38:36.227047+00:00
 -- url     : https://prove2.me/theorems/df5e94d7-7b09-45a7-8bcf-2e3fe41f1657

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_exists_integral_completion
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.exists_integral_completion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:38:10.62982+00:00
 -- url     : https://prove2.me/theorems/ad425cec-9216-5087-a2b4-d0aa397bebfc

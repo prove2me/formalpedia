@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_inSub_neg
 -- name    : ReciprocityTheory.ChartRestriction.L1.inSub_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:46:22.934624+00:00
 -- url     : https://prove2.me/theorems/312e7a0f-e905-4039-86fa-4525e77f6a08

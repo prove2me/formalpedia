@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_NPB_back_homog
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.NPB.back_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:36:59.796336+00:00
 -- url     : https://prove2.me/theorems/aab67e45-1c99-59ef-a507-939501ab7ce2

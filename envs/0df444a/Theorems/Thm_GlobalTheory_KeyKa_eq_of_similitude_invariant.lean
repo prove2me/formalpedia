@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_eq_of_similitude_invariant
 -- name    : GlobalTheory.KeyKa.eq_of_similitude_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:54:31.837847+00:00
 -- url     : https://prove2.me/theorems/5a452773-530c-4e04-b9e1-37aa48904f93

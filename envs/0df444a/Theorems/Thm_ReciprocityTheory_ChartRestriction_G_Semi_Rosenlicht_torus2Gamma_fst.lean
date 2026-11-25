@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_Rosenlicht_torus2Gamma_fst
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.Rosenlicht.torus2Gamma_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:34:36.011394+00:00
 -- url     : https://prove2.me/theorems/b64e7899-73ea-5632-bbc2-8272e430c0c6

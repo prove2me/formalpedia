@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_monomialMass_pos
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.monomialMass_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:37:37.842421+00:00
 -- url     : https://prove2.me/theorems/a8fe919e-407f-4a49-9d95-1c35ee22260b

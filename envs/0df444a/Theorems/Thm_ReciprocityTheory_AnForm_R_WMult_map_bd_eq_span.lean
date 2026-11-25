@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_WMult_map_bd_eq_span
 -- name    : ReciprocityTheory.AnForm.R.WMult.map_bd_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:04:07.158823+00:00
 -- url     : https://prove2.me/theorems/75426ab6-c5b2-5a6f-8dee-ad81c722c67b

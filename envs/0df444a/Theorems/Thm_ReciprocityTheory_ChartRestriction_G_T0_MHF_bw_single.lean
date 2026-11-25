@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_MHF_bw_single
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.MHF.bw_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:37:29.683837+00:00
 -- url     : https://prove2.me/theorems/713497e9-549b-4a9e-bd88-f1db40e8ff9f

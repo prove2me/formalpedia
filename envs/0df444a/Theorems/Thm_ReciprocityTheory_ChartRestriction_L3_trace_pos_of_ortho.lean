@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_trace_pos_of_ortho
 -- name    : ReciprocityTheory.ChartRestriction.L3.trace_pos_of_ortho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:48:13.753817+00:00
 -- url     : https://prove2.me/theorems/7376c833-9154-586d-912c-a1d582704e9b

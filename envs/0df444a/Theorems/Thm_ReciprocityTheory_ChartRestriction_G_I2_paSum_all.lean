@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_paSum_all
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.paSum_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:30:22.691674+00:00
 -- url     : https://prove2.me/theorems/2fd64ad6-26cb-4f85-8ba7-1fa2547ef113

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_homE_vec_const
 -- name    : ReciprocityTheory.ChartRestriction.L1.homE_vec_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:45:43.464806+00:00
 -- url     : https://prove2.me/theorems/b61fb878-ce56-594b-a74d-be43048c00b3

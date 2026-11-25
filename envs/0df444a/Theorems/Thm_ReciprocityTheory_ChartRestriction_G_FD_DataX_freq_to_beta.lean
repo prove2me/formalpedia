@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_DataX_freq_to_beta
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.DataX.freq_to_beta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:17:27.482843+00:00
 -- url     : https://prove2.me/theorems/19509949-100d-4595-a731-94cab4b952bd

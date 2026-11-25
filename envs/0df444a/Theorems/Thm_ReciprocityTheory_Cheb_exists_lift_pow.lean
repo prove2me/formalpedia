@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_exists_lift_pow
 -- name    : ReciprocityTheory.Cheb.exists_lift_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:47:47.201819+00:00
 -- url     : https://prove2.me/theorems/62fc817e-3b64-4b68-abaa-6c76f0e8c53e

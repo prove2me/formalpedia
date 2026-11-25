@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_Canon_bilinearOp_eval_two
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.Canon.bilinearOp_eval_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:44:51.480625+00:00
 -- url     : https://prove2.me/theorems/2423b4d1-e110-5ad0-b2bf-7a380a469548

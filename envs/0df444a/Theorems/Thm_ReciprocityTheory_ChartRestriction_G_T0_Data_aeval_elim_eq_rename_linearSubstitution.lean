@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_aeval_elim_eq_rename_linearSubstitution
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.aeval_elim_eq_rename_linearSubstitution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:35:32.560859+00:00
 -- url     : https://prove2.me/theorems/445e5e45-3e93-5b10-93f0-a8d37c993d55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_divBy_mul_left
 -- name    : ReciprocityTheory.ChartRestriction.L1.divBy_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:50:07.483726+00:00
 -- url     : https://prove2.me/theorems/3dba4f13-a0b8-498a-b5af-1be4a0bd9ccf

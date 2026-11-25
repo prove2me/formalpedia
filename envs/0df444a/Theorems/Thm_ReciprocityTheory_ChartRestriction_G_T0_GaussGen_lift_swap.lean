@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_GaussGen_lift_swap
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.GaussGen.lift_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:36:53.682729+00:00
 -- url     : https://prove2.me/theorems/9693388c-5d41-5751-bdeb-7eae92f4a84f

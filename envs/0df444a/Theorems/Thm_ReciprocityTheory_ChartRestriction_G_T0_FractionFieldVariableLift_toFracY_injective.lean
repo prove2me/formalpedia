@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_FractionFieldVariableLift_toFracY_injective
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.FractionFieldVariableLift.toFracY_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:36:31.970525+00:00
 -- url     : https://prove2.me/theorems/e2c87776-cee3-4a4a-a489-61360226b86d

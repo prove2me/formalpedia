@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_pow_le_norm_of_le
 -- name    : ReciprocityTheory.Cheb.pow_le_norm_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:48:15.957511+00:00
 -- url     : https://prove2.me/theorems/5ef9ddab-9e29-59ce-b3f0-c3758851d139

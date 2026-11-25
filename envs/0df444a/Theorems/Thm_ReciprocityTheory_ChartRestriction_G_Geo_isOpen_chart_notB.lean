@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_isOpen_chart_notB
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.isOpen_chart_notB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:14:38.227886+00:00
 -- url     : https://prove2.me/theorems/bb4a1d21-f2e7-41f7-a233-8c3e016d632b

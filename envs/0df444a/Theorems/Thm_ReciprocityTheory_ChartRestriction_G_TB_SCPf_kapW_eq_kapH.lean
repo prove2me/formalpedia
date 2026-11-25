@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_SCPf_kapW_eq_kapH
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.SCPf.kapW_eq_kapH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:41:56.655112+00:00
 -- url     : https://prove2.me/theorems/83d0926e-2551-4bb8-9835-11fe33d70ca3

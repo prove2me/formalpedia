@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_spAct_spDiag_eq
 -- name    : GlobalTheory.spAct_spDiag_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:01:15.96672+00:00
 -- url     : https://prove2.me/theorems/61f83b30-2b4e-4139-bba5-913c2c51e343

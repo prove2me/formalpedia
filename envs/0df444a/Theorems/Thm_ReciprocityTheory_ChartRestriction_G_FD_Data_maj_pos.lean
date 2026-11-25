@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_maj_pos
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.maj_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:50:33.765805+00:00
 -- url     : https://prove2.me/theorems/8d4c6832-4437-4d55-b4f0-b898dec21460

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_map_ne_zero_of_ne_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.map_ne_zero_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:38:47.687367+00:00
 -- url     : https://prove2.me/theorems/bfcfb0df-e792-5e3b-8e6e-0c25ac4fb8d1

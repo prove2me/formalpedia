@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_measurable_log_eval_torus
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.measurable_log_eval_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:39:06.30036+00:00
 -- url     : https://prove2.me/theorems/26122140-9d35-5ff6-badc-26ac58a70a01

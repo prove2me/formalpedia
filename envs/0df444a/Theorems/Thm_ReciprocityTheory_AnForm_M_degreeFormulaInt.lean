@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_degreeFormulaInt
 -- name    : ReciprocityTheory.AnForm.M.degreeFormulaInt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:57:53.179499+00:00
 -- url     : https://prove2.me/theorems/c4625f48-39c8-4ca7-b616-ead923580a91

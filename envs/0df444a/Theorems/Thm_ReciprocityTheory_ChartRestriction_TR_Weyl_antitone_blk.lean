@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_TR_Weyl_antitone_blk
 -- name    : ReciprocityTheory.ChartRestriction.TR.Weyl.antitone_blk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:50:25.541799+00:00
 -- url     : https://prove2.me/theorems/34af1204-7d3b-50f5-a04e-dd6f5932469a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_CCA_pp_tail
 -- name    : ReciprocityTheory.Coh.CCA.pp_tail
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:49:58.297642+00:00
 -- url     : https://prove2.me/theorems/28030657-a4d3-4022-a849-792817c4f34b

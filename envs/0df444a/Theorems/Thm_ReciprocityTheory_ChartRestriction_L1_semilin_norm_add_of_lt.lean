@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_semilin_norm_add_of_lt
 -- name    : ReciprocityTheory.ChartRestriction.L1.semilin_norm_add_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:46:40.069192+00:00
 -- url     : https://prove2.me/theorems/0d88cc55-80ca-4475-9cb4-7999d2852ef0

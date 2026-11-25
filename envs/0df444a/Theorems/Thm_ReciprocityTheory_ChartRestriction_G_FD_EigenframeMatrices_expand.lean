@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_EigenframeMatrices_expand
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.EigenframeMatrices.expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:29:21.251092+00:00
 -- url     : https://prove2.me/theorems/ee42c920-e6de-45c2-972f-5fedd397f8de

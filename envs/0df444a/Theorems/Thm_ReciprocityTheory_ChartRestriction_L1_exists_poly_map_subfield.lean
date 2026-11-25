@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_exists_poly_map_subfield
 -- name    : ReciprocityTheory.ChartRestriction.L1.exists_poly_map_subfield
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:44:39.461543+00:00
 -- url     : https://prove2.me/theorems/b9930bab-0a58-520c-ac46-7a6ec5b7c18d

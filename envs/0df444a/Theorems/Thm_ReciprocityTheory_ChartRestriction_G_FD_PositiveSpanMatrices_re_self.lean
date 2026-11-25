@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PositiveSpanMatrices_re_self
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PositiveSpanMatrices.re_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:22:18.448801+00:00
 -- url     : https://prove2.me/theorems/518ba90e-6691-53cb-b938-ccad3f051b0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_MajorantOperators_maj_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.MajorantOperators.maj_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:42:16.747786+00:00
 -- url     : https://prove2.me/theorems/65bff642-9eb9-437b-88e7-e1a23b5eb753

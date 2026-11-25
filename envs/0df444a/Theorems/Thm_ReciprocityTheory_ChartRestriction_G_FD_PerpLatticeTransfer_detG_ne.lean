@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PerpLatticeTransfer_detG_ne
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PerpLatticeTransfer.detG_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:22:43.425385+00:00
 -- url     : https://prove2.me/theorems/d260b26f-8379-4a7e-abeb-cef388dca41b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_psd_det_re_le_prod_diag
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.psd_det_re_le_prod_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:38:18.408122+00:00
 -- url     : https://prove2.me/theorems/4733f3dd-066e-5546-9ad9-92f9b7313275

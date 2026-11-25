@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_JGPf_comp_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.JGPf.comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:40:06.887952+00:00
 -- url     : https://prove2.me/theorems/fe77d649-40be-5a25-87b0-b4b1df473105

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_T1_lat_mk_Cp
 -- name    : ReciprocityTheory.ChartRestriction.T1.lat_mk_Cp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:47:22.049198+00:00
 -- url     : https://prove2.me/theorems/6248af84-b8f5-4f7a-81a7-0d640bfc3f98

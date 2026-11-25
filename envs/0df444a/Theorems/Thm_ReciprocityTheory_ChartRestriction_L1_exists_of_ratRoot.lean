@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_exists_of_ratRoot
 -- name    : ReciprocityTheory.ChartRestriction.L1.exists_of_ratRoot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:43:34.379091+00:00
 -- url     : https://prove2.me/theorems/cdb47cde-d75d-4bc7-b29e-4970837e57cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_isCoprime_span_mul_of_coprime_absNorm
 -- name    : ReciprocityTheory.Cheb.isCoprime_span_mul_of_coprime_absNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:48:26.885607+00:00
 -- url     : https://prove2.me/theorems/f27547a8-2abf-52a1-91ff-c63eb1682a41

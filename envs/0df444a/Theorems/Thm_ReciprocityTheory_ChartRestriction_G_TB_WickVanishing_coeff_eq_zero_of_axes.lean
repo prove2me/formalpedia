@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_coeff_eq_zero_of_axes
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.coeff_eq_zero_of_axes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:28:23.069813+00:00
 -- url     : https://prove2.me/theorems/08bad7e2-6b55-4851-a899-40cec38c831f

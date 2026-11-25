@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_heights_arith
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.heights_arith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:38:28.389796+00:00
 -- url     : https://prove2.me/theorems/dad4d759-c63b-451b-97cb-e96563a32e48

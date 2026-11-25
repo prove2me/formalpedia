@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_KrullAlg_mem_range_of_forall_height_one
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.KrullAlg.mem_range_of_forall_height_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:31:33.397211+00:00
 -- url     : https://prove2.me/theorems/512ccf21-ebb0-48e5-b54c-84b359937106

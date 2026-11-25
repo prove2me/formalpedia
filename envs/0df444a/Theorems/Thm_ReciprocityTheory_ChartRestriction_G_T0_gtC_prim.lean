@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_gtC_prim
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.gtC_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:38:05.37511+00:00
 -- url     : https://prove2.me/theorems/3a18ebe0-6e06-4a8d-a545-36b6e09a1b61

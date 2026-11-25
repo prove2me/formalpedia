@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_continuous_pderiv_disc
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.continuous_pderiv_disc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:42:19.37594+00:00
 -- url     : https://prove2.me/theorems/753da99d-cd7f-4728-a1ec-9c6415829b7d

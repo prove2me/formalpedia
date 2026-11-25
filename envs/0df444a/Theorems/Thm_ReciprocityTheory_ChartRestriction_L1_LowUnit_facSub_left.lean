@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_LowUnit_facSub_left
 -- name    : ReciprocityTheory.ChartRestriction.L1.LowUnit.facSub_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:43:18.263197+00:00
 -- url     : https://prove2.me/theorems/33ee1c79-7cfe-42e6-8b77-f51217e9cff9

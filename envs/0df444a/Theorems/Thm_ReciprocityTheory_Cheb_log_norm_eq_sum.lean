@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_log_norm_eq_sum
 -- name    : ReciprocityTheory.Cheb.log_norm_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:49:52.656829+00:00
 -- url     : https://prove2.me/theorems/4cdf630d-e510-58c5-b3dd-5de1b359f97d

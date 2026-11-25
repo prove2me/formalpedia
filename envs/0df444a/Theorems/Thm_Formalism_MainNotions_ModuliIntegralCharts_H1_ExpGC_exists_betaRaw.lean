@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGC_exists_betaRaw
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGC.exists_betaRaw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:00:04.145813+00:00
 -- url     : https://prove2.me/theorems/27d02b52-d549-4118-a1c7-a56c19f6b6df

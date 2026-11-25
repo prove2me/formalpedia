@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_ValAt_hol_of_isHolTo
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.ValAt.hol_of_isHolTo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:41:38.714234+00:00
 -- url     : https://prove2.me/theorems/7e79764c-9043-4936-a761-41e9b4d57f1f

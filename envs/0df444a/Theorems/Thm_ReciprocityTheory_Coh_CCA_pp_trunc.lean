@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_CCA_pp_trunc
 -- name    : ReciprocityTheory.Coh.CCA.pp_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:49:21.763514+00:00
 -- url     : https://prove2.me/theorems/bed4fdab-e17d-5f87-a925-0cea77b870f4

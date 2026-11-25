@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_exists_relevant_minimalPrime_of_chart
 -- name    : ReciprocityTheory.AnForm.R.exists_relevant_minimalPrime_of_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:29:05.302946+00:00
 -- url     : https://prove2.me/theorems/1b3e630b-33ea-47c6-a6c6-617f1d960805

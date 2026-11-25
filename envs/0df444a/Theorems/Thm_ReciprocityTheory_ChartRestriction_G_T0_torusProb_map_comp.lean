@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_torusProb_map_comp
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.torusProb_map_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:39:26.724266+00:00
 -- url     : https://prove2.me/theorems/90f99f59-0b11-51a6-9ad8-b983b38c3315

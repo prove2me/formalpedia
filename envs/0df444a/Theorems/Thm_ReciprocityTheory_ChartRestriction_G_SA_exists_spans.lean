@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_exists_spans
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.exists_spans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:33:30.81897+00:00
 -- url     : https://prove2.me/theorems/6e029287-e900-44ae-af6b-e1c647aeff8f

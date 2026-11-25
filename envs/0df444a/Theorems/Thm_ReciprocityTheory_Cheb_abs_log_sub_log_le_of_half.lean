@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_abs_log_sub_log_le_of_half
 -- name    : ReciprocityTheory.Cheb.abs_log_sub_log_le_of_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:49:31.805617+00:00
 -- url     : https://prove2.me/theorems/b3190675-2bff-4838-86d3-5527f32f77a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_chartCoord_overlap
 -- name    : ReciprocityTheory.AnForm.R.chartCoord_overlap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:10:22.940696+00:00
 -- url     : https://prove2.me/theorems/bad582ba-f478-41c7-b52e-8489d6c71cb4

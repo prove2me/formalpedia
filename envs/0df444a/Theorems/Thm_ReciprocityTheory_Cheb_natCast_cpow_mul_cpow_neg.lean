@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_natCast_cpow_mul_cpow_neg
 -- name    : ReciprocityTheory.Cheb.natCast_cpow_mul_cpow_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:48:46.949246+00:00
 -- url     : https://prove2.me/theorems/d4ddb1bf-7459-5619-bd7a-d123fe83de9b

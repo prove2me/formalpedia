@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_exists_extend_endomorphism_fractions
 -- name    : ReciprocityTheory.ChartRestriction.L1.exists_extend_endomorphism_fractions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:43:59.908801+00:00
 -- url     : https://prove2.me/theorems/c49670ea-7441-5ae7-9062-aae857ace827

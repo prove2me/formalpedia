@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_eich_inv
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.eich_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:33:26.600154+00:00
 -- url     : https://prove2.me/theorems/122e8548-4731-4aa5-98bb-4aae7c7ff51d

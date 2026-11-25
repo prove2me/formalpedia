@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_SCPf_prod_perm_comm
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.SCPf.prod_perm_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:42:05.204614+00:00
 -- url     : https://prove2.me/theorems/aa3e25b4-014f-4c16-b3c3-f2fdd534e60e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_xsOf_filter
 -- name    : ReciprocityTheory.ChartRestriction.L1.xsOf_filter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:48:19.478293+00:00
 -- url     : https://prove2.me/theorems/9e9af5ee-3863-5ff8-b948-50c656959b7a

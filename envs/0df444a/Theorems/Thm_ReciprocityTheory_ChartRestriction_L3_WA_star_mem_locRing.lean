@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_WA_star_mem_locRing
 -- name    : ReciprocityTheory.ChartRestriction.L3.WA.star_mem_locRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:47:39.656452+00:00
 -- url     : https://prove2.me/theorems/ebc48aad-d8fd-566a-b328-d714349c074f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommutatorPairing_exists_commIsOf
 -- name    : GlobalTheory.CommutatorPairing.exists_commIsOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:54.478203+00:00
 -- url     : https://prove2.me/theorems/e06338c7-a098-44b8-bafe-1a337c5f83ad

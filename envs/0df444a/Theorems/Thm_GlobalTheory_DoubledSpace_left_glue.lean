@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubledSpace_left_glue
 -- name    : GlobalTheory.DoubledSpace.left_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:24:39.063967+00:00
 -- url     : https://prove2.me/theorems/6d8e7577-800a-5caa-a3b3-da9483bc1ff3

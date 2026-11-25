@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestWeight_contract_mem_dom
 -- name    : GlobalTheory.LowestWeight.contract_mem_dom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:15:20.612571+00:00
 -- url     : https://prove2.me/theorems/cdf4fd16-a372-4cbc-b75f-eeb36917ddae

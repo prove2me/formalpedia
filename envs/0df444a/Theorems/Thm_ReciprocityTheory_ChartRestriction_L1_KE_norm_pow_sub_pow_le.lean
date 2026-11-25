@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_KE_norm_pow_sub_pow_le
 -- name    : ReciprocityTheory.ChartRestriction.L1.KE.norm_pow_sub_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:42:50.441827+00:00
 -- url     : https://prove2.me/theorems/6db7aaf7-4c6c-4d23-a02a-79921b32f7be

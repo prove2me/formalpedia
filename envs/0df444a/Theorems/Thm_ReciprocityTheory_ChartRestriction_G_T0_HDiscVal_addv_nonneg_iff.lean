@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_HDiscVal_addv_nonneg_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.HDiscVal.addv_nonneg_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:36:54.232044+00:00
 -- url     : https://prove2.me/theorems/76afd30c-a585-5b3c-a77b-dee0fb4d8f06

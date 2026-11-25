@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_brW_injOn
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.brW_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:51:25.739091+00:00
 -- url     : https://prove2.me/theorems/603f2b3d-596d-494f-b1bc-7e36629d2b37

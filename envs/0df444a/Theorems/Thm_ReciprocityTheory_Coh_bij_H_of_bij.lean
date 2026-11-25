@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_bij_H_of_bij
 -- name    : ReciprocityTheory.Coh.bij_H_of_bij
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:51:27.650127+00:00
 -- url     : https://prove2.me/theorems/7ed79075-fd7b-44c9-975f-1db56e49c181

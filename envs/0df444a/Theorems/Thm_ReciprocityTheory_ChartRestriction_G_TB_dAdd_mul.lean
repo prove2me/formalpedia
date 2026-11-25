@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_dAdd_mul
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.dAdd_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:44:27.295449+00:00
 -- url     : https://prove2.me/theorems/8fa2b69a-93c2-51f3-9c10-685265044b6a

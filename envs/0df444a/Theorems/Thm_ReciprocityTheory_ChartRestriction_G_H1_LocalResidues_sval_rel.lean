@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_LocalResidues_sval_rel
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.LocalResidues.sval_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:27:59.83994+00:00
 -- url     : https://prove2.me/theorems/8edf60a4-88d3-402a-bd2a-d47547d8004f

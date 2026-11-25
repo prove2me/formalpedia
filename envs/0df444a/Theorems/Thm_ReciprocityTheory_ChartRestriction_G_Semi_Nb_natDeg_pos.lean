@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_Nb_natDeg_pos
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.Nb.natDeg_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:35:02.829928+00:00
 -- url     : https://prove2.me/theorems/07ef2911-c7a2-40fc-b1d3-ec2596e877ad

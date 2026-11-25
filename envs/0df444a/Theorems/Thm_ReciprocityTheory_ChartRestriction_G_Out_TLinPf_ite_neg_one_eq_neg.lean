@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_TLinPf_ite_neg_one_eq_neg
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.TLinPf.ite_neg_one_eq_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:33:11.608457+00:00
 -- url     : https://prove2.me/theorems/fa5284b1-3c75-5e96-8c75-d6d49d7b4b12

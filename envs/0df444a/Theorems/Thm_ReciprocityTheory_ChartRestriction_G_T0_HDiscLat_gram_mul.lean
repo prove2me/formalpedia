@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_HDiscLat_gram_mul
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.HDiscLat.gram_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:36:41.170227+00:00
 -- url     : https://prove2.me/theorems/53314967-59e1-44f0-ab62-0e49530bb260

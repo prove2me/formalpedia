@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_IW_leviM_comb
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.IW.leviM_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:00:31.957634+00:00
 -- url     : https://prove2.me/theorems/7066dd71-1ea7-5e8d-9a49-9950a238d43b

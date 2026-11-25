@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_vmv_mulVec
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.vmv_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:34:40.992718+00:00
 -- url     : https://prove2.me/theorems/0bac932f-191b-4934-a764-2a3106bd2c5a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_LB_isGen_oneGen
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.LB.isGen_oneGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:42:54.62002+00:00
 -- url     : https://prove2.me/theorems/a326380d-1520-4d4c-b056-d697c2aa59b4

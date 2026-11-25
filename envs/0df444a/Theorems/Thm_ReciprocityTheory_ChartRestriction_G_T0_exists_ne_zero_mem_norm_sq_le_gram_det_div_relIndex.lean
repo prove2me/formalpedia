@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_exists_ne_zero_mem_norm_sq_le_gram_det_div_relIndex
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.exists_ne_zero_mem_norm_sq_le_gram_det_div_relIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:37:28.518829+00:00
 -- url     : https://prove2.me/theorems/e1938d3e-14cb-4aaf-a151-b37c6cee5ea6

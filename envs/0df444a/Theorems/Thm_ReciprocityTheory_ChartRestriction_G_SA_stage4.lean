@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_stage4
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.stage4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:14:55.330094+00:00
 -- url     : https://prove2.me/theorems/9cc348c0-63bc-42e7-8a4c-b171766c1b7e

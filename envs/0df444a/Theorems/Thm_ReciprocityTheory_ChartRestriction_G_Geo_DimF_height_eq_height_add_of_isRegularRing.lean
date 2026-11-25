@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_DimF_height_eq_height_add_of_isRegularRing
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.DimF.height_eq_height_add_of_isRegularRing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:16:26.870004+00:00
 -- url     : https://prove2.me/theorems/882fe0c1-63d5-42b4-916b-b8475fd9533e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_st_mInt_eq_piece
 -- name    : ReciprocityTheory.AnForm.M.st_mInt_eq_piece
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:57:59.888635+00:00
 -- url     : https://prove2.me/theorems/51b6f2b8-04d9-4728-81f9-dac41d436289

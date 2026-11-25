@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_TR_Weyl_sq_ext_ll
 -- name    : ReciprocityTheory.ChartRestriction.TR.Weyl.sq_ext_ll
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:47:42.72833+00:00
 -- url     : https://prove2.me/theorems/d99415d6-d8c3-42cc-8d30-357fd099d92c

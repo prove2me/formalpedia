@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_transvMat_mulVec_eq
 -- name    : GlobalTheory.transvMat_mulVec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:24:44.848409+00:00
 -- url     : https://prove2.me/theorems/903d1e4e-56ae-5406-8b97-6c2a2aaf5c9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_splitC_nrm_pos
 -- name    : ReciprocityTheory.Cheb.splitC_nrm_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:49:06.858918+00:00
 -- url     : https://prove2.me/theorems/33f65952-7a56-5aa7-95ea-b5d39e407217

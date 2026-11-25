@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_card_baseOrOffColumn
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.card_baseOrOffColumn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:37:29.644679+00:00
 -- url     : https://prove2.me/theorems/d68ec8a6-ea6d-56a8-b796-fa1672ef4f27

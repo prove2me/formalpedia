@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_eisensteinFourCubeSeries_coeff_zero
 -- name    : ReciprocityTheory.ChartRestriction.L1.eisensteinFourCubeSeries_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:43:44.788399+00:00
 -- url     : https://prove2.me/theorems/c5d13a24-965b-5df0-ba1f-01ceb24078da

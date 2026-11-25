@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_Nrm_rpow_neg_le_inv
 -- name    : ReciprocityTheory.Cheb.Nrm_rpow_neg_le_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:47:14.091776+00:00
 -- url     : https://prove2.me/theorems/248782e8-48c4-5684-85e4-c96d26345308

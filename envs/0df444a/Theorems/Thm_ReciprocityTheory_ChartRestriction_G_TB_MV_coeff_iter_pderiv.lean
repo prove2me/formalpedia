@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_MV_coeff_iter_pderiv
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.MV.coeff_iter_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:40:38.048156+00:00
 -- url     : https://prove2.me/theorems/833c1d69-e25b-4e4d-a308-2bdc5c9f5d56

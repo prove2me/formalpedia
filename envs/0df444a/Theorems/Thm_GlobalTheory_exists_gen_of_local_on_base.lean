@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_gen_of_local_on_base
 -- name    : GlobalTheory.exists_gen_of_local_on_base
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:44:13.721736+00:00
 -- url     : https://prove2.me/theorems/3e10b7a2-839d-41dc-98a1-1ee166414ca0

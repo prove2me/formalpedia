@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_Rosenlicht_torus_const_mul_chi
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.Rosenlicht.torus_const_mul_chi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:23.668105+00:00
 -- url     : https://prove2.me/theorems/bf8462e3-e57d-4114-95cc-41f0c5fb4b62

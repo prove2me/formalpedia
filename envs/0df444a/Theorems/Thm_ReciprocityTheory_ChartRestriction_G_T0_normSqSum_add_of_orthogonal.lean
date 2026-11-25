@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_normSqSum_add_of_orthogonal
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.normSqSum_add_of_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:38:28.411888+00:00
 -- url     : https://prove2.me/theorems/ef614ef0-d3fa-5613-b190-418584069ff8

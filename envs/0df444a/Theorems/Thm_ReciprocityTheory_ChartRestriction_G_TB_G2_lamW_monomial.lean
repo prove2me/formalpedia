@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_G2_lamW_monomial
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.G2.lamW_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:40:06.098805+00:00
 -- url     : https://prove2.me/theorems/bfe67abe-7cff-560e-bf02-da3fe5397e44

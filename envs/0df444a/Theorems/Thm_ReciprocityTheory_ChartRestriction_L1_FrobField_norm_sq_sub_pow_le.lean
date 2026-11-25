@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_FrobField_norm_sq_sub_pow_le
 -- name    : ReciprocityTheory.ChartRestriction.L1.FrobField.norm_sq_sub_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:35:51.92322+00:00
 -- url     : https://prove2.me/theorems/dd88f623-c4d3-496f-b895-1c1a00e4feaf

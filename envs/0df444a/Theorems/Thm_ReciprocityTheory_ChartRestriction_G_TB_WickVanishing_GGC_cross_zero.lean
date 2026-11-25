@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_GGC_cross_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.GGC.cross_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:41:15.515495+00:00
 -- url     : https://prove2.me/theorems/d5b385fe-a65e-490d-a12c-b1e45f8b7179

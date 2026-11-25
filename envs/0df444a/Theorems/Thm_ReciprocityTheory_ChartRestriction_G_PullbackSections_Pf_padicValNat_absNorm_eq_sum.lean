@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_padicValNat_absNorm_eq_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.padicValNat_absNorm_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:33:04.028042+00:00
 -- url     : https://prove2.me/theorems/a23db296-84f6-565a-91fd-f5d361d50dff

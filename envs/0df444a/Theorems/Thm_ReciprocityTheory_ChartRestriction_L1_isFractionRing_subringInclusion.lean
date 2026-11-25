@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_isFractionRing_subringInclusion
 -- name    : ReciprocityTheory.ChartRestriction.L1.isFractionRing_subringInclusion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:46:34.687905+00:00
 -- url     : https://prove2.me/theorems/2ebb2df3-f06d-5cac-b6ae-7bf42ee8c838

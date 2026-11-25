@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_LogPf_pderiv_aeval
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.LogPf.pderiv_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:40:30.350556+00:00
 -- url     : https://prove2.me/theorems/3c35fa76-b690-4ca5-85b3-c8bf0f4afb20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_exists_khw_of_not_sch
 -- name    : ReciprocityTheory.ChartRestriction.DS.exists_khw_of_not_sch
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:51:34.671351+00:00
 -- url     : https://prove2.me/theorems/71c0e777-2864-5e86-b5d6-fe8131fb8e4e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimensionalCollapse_linear_weight_flow
 -- name    : DimensionalCollapse.linear_weight_flow
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T06:51:04.748288+00:00
 -- url     : https://prove2.me/theorems/dadc86ce-ca9f-42d6-bbf7-44c8c5d06ce0

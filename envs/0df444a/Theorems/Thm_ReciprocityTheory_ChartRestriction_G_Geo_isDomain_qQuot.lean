@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_isDomain_qQuot
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.isDomain_qQuot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:08:11.112851+00:00
 -- url     : https://prove2.me/theorems/1836ccff-fe9c-4921-8223-8a9c403b79be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_gtE_bound
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.gtE_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:37:51.715199+00:00
 -- url     : https://prove2.me/theorems/9ae4ea1e-0735-53b4-90e6-39540bc7ca9c

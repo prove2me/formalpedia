@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_MHF_psiB_eq_of_hom
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.MHF.psiB_eq_of_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:37:01.106977+00:00
 -- url     : https://prove2.me/theorems/f1ef03db-4456-4f14-a936-d4c99507329c

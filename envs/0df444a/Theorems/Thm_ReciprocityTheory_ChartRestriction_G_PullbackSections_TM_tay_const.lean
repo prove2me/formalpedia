@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_TM_tay_const
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.TM.tay_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:53:35.329417+00:00
 -- url     : https://prove2.me/theorems/ece692b6-a754-4496-b99d-9925c86865cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_GRPf_cc_cc
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.GRPf.cc_cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:40:03.35573+00:00
 -- url     : https://prove2.me/theorems/c13862c3-7db1-51e6-876e-8348cfeef094

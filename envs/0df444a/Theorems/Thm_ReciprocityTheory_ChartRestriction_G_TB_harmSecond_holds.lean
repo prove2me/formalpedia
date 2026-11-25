@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_harmSecond_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.harmSecond_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:07:00.189848+00:00
 -- url     : https://prove2.me/theorems/2f4db112-894a-4995-92eb-5241292125fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_smul_SL_coe
 -- name    : ReciprocityTheory.ChartRestriction.L1.smul_SL_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:48:54.585143+00:00
 -- url     : https://prove2.me/theorems/2827901a-e1d6-5e02-94f0-925303005f84

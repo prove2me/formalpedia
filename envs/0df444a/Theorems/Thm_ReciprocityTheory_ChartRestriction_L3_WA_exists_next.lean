@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_WA_exists_next
 -- name    : ReciprocityTheory.ChartRestriction.L3.WA.exists_next
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:46:59.689197+00:00
 -- url     : https://prove2.me/theorems/4ee816a3-7bb3-5d22-b4e7-c06055803eea

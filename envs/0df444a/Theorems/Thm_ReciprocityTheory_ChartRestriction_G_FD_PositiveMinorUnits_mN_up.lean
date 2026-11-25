@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PositiveMinorUnits_mN_up
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PositiveMinorUnits.mN_up
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:16:41.736553+00:00
 -- url     : https://prove2.me/theorems/7ccd7971-3b08-4482-853b-3bf382186966

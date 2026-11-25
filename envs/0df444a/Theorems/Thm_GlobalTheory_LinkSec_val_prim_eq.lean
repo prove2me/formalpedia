@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinkSec_val_prim_eq
 -- name    : GlobalTheory.LinkSec.val_prim_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:59:54.186729+00:00
 -- url     : https://prove2.me/theorems/fc6ac93b-dd1b-4444-b564-c41002753796

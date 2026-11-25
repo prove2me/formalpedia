@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_triSol_eq
 -- name    : ReciprocityTheory.ChartRestriction.L1.triSol_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:48:24.296871+00:00
 -- url     : https://prove2.me/theorems/14d4c98d-3017-56d4-b470-f76f406da081

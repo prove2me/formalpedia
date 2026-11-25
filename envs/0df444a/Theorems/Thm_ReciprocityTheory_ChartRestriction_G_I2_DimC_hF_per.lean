@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_DimC_hF_per
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.DimC.hF_per
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:27:39.916462+00:00
 -- url     : https://prove2.me/theorems/cbc4fb4c-1930-44c0-af23-91a11c32ca9a

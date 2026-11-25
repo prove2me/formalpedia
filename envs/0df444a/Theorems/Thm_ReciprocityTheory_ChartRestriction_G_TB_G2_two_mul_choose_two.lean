@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_G2_two_mul_choose_two
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.G2.two_mul_choose_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:45:09.542334+00:00
 -- url     : https://prove2.me/theorems/4d1edf30-dff2-4329-8b57-613fd951dc6d

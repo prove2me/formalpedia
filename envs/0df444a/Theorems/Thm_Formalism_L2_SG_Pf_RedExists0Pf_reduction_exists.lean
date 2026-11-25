@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedExists0Pf_reduction_exists
 -- name    : Formalism.L2.SG.Pf.RedExists0Pf.reduction_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:30:07.285187+00:00
 -- url     : https://prove2.me/theorems/be722f2a-1d7f-4573-912f-ca167d4641b6

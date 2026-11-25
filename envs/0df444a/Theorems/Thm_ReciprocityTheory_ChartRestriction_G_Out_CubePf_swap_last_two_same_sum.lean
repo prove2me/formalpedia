@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_CubePf_swap_last_two_same_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.CubePf.swap_last_two_same_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:58:09.550407+00:00
 -- url     : https://prove2.me/theorems/f25321a8-f5ee-48fe-ae7e-39b7aebfdf0e

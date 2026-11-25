@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_baker_union_single_call_ram
 -- name    : WilliamsonShmoys.baker_union_single_call_ram
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T11:22:14.767487+00:00
 -- url     : https://prove2.me/theorems/b22e577d-d5b9-439f-9a5e-32cae62765b9

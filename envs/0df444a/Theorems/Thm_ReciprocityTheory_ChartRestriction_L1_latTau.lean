@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_latTau
 -- name    : ReciprocityTheory.ChartRestriction.L1.latTau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:12:06.538021+00:00
 -- url     : https://prove2.me/theorems/ad3afe81-205f-4ef2-a7ba-a70e3ee82880

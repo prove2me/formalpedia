@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_an_two_sq
 -- name    : ReciprocityTheory.ChartRestriction.L1.an_two_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:51:15.612567+00:00
 -- url     : https://prove2.me/theorems/1eef5192-d42c-5523-8771-4e6597625f61

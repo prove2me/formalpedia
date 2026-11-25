@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_SCPf_rename_qsmul
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.SCPf.rename_qsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:43:41.581531+00:00
 -- url     : https://prove2.me/theorems/04d8e9a5-199c-45ea-8653-c3ea1888427e

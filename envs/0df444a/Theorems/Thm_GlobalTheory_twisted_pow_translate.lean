@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_twisted_pow_translate
 -- name    : GlobalTheory.twisted_pow_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:25:00.355594+00:00
 -- url     : https://prove2.me/theorems/ee6fbc73-6c83-446c-9e44-837db4bdfa22

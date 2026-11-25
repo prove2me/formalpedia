@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_SCPf_good_ofFn
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.SCPf.good_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:42:14.105806+00:00
 -- url     : https://prove2.me/theorems/13d65079-612b-583c-b3d7-59bc2ef36d73

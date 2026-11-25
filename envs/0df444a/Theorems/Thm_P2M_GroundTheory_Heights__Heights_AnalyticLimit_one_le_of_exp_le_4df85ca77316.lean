@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_one_le_of_exp_le_4df85ca77316
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_one_le_of_exp_le_4df85ca77316
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:28:32.978399+00:00
 -- url     : https://prove2.me/theorems/2c8a8d7d-f48b-57ec-abf2-88f834ad5f4a

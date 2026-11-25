@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_ValUFD_factor_int
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.ValUFD.factor_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:37:25.258118+00:00
 -- url     : https://prove2.me/theorems/63e6f249-9a4e-5c5a-9caf-2a76dcb9cee3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_TLinPf_appLE_mulGen
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.TLinPf.appLE_mulGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:33:27.971309+00:00
 -- url     : https://prove2.me/theorems/0d0667d2-9506-4b5b-b94f-5e150154cb0c

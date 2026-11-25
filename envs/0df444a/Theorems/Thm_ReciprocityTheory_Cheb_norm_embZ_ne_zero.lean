@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_norm_embZ_ne_zero
 -- name    : ReciprocityTheory.Cheb.norm_embZ_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:48:52.963557+00:00
 -- url     : https://prove2.me/theorems/8eb7ce49-7634-5b25-8538-424cca230ba6

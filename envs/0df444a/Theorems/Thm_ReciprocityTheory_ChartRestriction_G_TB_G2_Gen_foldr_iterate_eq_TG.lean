@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_G2_Gen_foldr_iterate_eq_TG
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.G2.Gen.foldr_iterate_eq_TG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:46:27.005488+00:00
 -- url     : https://prove2.me/theorems/615b5ef6-6273-4ec8-bf7a-d5258a1e7df9

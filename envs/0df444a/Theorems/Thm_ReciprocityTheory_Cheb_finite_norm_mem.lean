@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_finite_norm_mem
 -- name    : ReciprocityTheory.Cheb.finite_norm_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:47:57.653041+00:00
 -- url     : https://prove2.me/theorems/5b0d9a90-0db3-4ab2-af39-e9638dca3585

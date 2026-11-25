@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGC_Bq_isGen
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGC.Bq_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:59:34.994045+00:00
 -- url     : https://prove2.me/theorems/fffaa8ed-bb78-4615-933c-6fb1a1e2a5e9

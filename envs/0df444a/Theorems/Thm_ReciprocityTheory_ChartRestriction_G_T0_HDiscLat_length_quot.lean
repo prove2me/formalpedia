@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_HDiscLat_length_quot
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.HDiscLat.length_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:36:39.906479+00:00
 -- url     : https://prove2.me/theorems/692139d9-e168-4dbc-8c9c-d685214300b7

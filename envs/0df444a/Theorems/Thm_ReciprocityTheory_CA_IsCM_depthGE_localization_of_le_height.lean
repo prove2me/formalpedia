@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_IsCM_depthGE_localization_of_le_height
 -- name    : ReciprocityTheory.CA.IsCM.depthGE_localization_of_le_height
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:38:37.110541+00:00
 -- url     : https://prove2.me/theorems/865131b3-194b-5b9e-8de1-8fc6238427ad

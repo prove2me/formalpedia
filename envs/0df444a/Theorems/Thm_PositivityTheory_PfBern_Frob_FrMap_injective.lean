@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Frob_FrMap_injective
 -- name    : PositivityTheory.PfBern.Frob.FrMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:40:38.1276+00:00
 -- url     : https://prove2.me/theorems/d0a11449-7b36-4542-8d2f-f3c7e73b32fb

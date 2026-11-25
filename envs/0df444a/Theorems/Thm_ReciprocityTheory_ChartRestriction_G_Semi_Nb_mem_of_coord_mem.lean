@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_Nb_mem_of_coord_mem
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.Nb.mem_of_coord_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:35:08.534701+00:00
 -- url     : https://prove2.me/theorems/0a01f246-5e9c-48ea-acc7-4acd5e83516d

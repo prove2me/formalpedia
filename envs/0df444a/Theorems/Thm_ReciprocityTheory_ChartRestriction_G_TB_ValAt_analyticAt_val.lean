@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_ValAt_analyticAt_val
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.ValAt.analyticAt_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:41:41.792149+00:00
 -- url     : https://prove2.me/theorems/721b17d6-ec30-4096-baab-3d6d4f0aa848

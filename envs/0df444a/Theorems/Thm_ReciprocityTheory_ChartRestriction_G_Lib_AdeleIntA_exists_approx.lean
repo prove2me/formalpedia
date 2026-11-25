@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Lib_AdeleIntA_exists_approx
 -- name    : ReciprocityTheory.ChartRestriction.G.Lib.AdeleIntA.exists_approx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:14:20.405689+00:00
 -- url     : https://prove2.me/theorems/85058485-49c7-452e-b930-819fb5d9b547

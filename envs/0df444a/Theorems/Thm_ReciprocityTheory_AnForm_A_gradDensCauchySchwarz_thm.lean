@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_gradDensCauchySchwarz_thm
 -- name    : ReciprocityTheory.AnForm.A.gradDensCauchySchwarz_thm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:51:07.49192+00:00
 -- url     : https://prove2.me/theorems/ad7d8ca9-2e36-4b78-be1f-5f1848f35134

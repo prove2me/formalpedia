@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_integral_log_maDens_psiRef
 -- name    : ReciprocityTheory.AnForm.A.integral_log_maDens_psiRef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:06:50.622138+00:00
 -- url     : https://prove2.me/theorems/7fd65172-d935-4729-913b-c1e422e6761a

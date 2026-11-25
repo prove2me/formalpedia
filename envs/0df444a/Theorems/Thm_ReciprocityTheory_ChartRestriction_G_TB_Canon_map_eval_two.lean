@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_Canon_map_eval_two
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.Canon.map_eval_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:40:22.698664+00:00
 -- url     : https://prove2.me/theorems/d44de501-2321-5dd4-85cf-c288f2cede66

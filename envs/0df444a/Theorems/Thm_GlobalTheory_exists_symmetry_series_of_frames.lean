@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_symmetry_series_of_frames
 -- name    : GlobalTheory.exists_symmetry_series_of_frames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:42:47.180772+00:00
 -- url     : https://prove2.me/theorems/1e640a5b-2d2d-4897-bdc2-6b4244382709

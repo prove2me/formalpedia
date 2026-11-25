@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_indTwist_twist
 -- name    : GroundTheory.Automorphic.Parabolic.indTwist_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:57:06.94927+00:00
 -- url     : https://prove2.me/theorems/4398db0b-fe2f-5bc6-8a58-ee16bead77da

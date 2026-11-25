@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_isArithFrobAt_restrictNormal
 -- name    : ReciprocityTheory.Cheb.isArithFrobAt_restrictNormal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:48:01.534702+00:00
 -- url     : https://prove2.me/theorems/77138adb-158c-5792-bc4b-dba9d9819fc8

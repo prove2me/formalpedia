@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Lift_valuation_approximation
 -- name    : ReciprocityTheory.ChartRestriction.G.Lift.valuation_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:31:01.997518+00:00
 -- url     : https://prove2.me/theorems/ba944909-d381-5285-98b1-06e7f7bfa3ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_ERam_betaH_sum_right
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.ERam.betaH_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:35:17.489999+00:00
 -- url     : https://prove2.me/theorems/10983530-87a7-41b6-9fd3-7bbc00f3ee88

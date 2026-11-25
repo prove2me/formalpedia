@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_LinearSubstitution_iota_injective
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.LinearSubstitution.iota_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:36:40.388589+00:00
 -- url     : https://prove2.me/theorems/c149dbf4-5a63-5fce-a54f-33e5ef49a3d0

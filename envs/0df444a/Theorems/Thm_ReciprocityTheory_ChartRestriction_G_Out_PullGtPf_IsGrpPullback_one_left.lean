@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_PullGtPf_IsGrpPullback_one_left
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.PullGtPf.IsGrpPullback.one_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:37:08.153909+00:00
 -- url     : https://prove2.me/theorems/5ee78de7-9c62-5343-bfc1-014a1d2da799

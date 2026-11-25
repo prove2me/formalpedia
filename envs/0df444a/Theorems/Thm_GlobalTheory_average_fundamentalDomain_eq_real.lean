@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_average_fundamentalDomain_eq_real
 -- name    : GlobalTheory.average_fundamentalDomain_eq_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:21:04.108004+00:00
 -- url     : https://prove2.me/theorems/d1386d43-7707-427a-95f6-e254a911f3c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_exists_rename_notMem
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.exists_rename_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:38:34.194904+00:00
 -- url     : https://prove2.me/theorems/08ab3cf8-aa71-4630-ae1a-4fafcf2a3b9c

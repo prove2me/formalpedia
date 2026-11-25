@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_TR_Weyl_ne_zero_of_toMK_diag
 -- name    : ReciprocityTheory.ChartRestriction.TR.Weyl.ne_zero_of_toMK_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:47:59.971491+00:00
 -- url     : https://prove2.me/theorems/4b302e35-59f5-4f85-83a7-1aa66aeac357

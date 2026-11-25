@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_CompatibleChartOperations_mk_eq_zero_iff
 -- name    : ReciprocityTheory.Coh.CompatibleChartOperations.mk_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:49:43.442943+00:00
 -- url     : https://prove2.me/theorems/fbd8c792-ed00-4237-8c93-b0bcc8ef0f5b

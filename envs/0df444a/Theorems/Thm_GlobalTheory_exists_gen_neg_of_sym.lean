@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_gen_neg_of_sym
 -- name    : GlobalTheory.exists_gen_neg_of_sym
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:16:52.75593+00:00
 -- url     : https://prove2.me/theorems/c27b8bc9-6766-4d15-adb9-a75be8640ff2

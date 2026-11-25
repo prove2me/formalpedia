@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_frobFix_root
 -- name    : ReciprocityTheory.ChartRestriction.L1.frobFix_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:43:32.328142+00:00
 -- url     : https://prove2.me/theorems/382cf438-000c-4525-9d20-63339ce84f8c

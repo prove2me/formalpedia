@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_smooth_empty_iff
 -- name    : ReciprocityTheory.Cheb.smooth_empty_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:49:23.776795+00:00
 -- url     : https://prove2.me/theorems/e10f2451-0daf-5e63-8f15-4fd10013f378

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_tor_mul
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.tor_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:14:42.687994+00:00
 -- url     : https://prove2.me/theorems/ebf3e2ad-17e1-4030-a201-2f93232acdc3

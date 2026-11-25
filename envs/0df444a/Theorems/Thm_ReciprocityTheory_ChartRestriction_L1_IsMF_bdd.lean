@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_IsMF_bdd
 -- name    : ReciprocityTheory.ChartRestriction.L1.IsMF.bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:43:12.959463+00:00
 -- url     : https://prove2.me/theorems/5bc6b4a6-01cd-4b7c-81c3-807efad4fa91

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_WA_frac_locRing
 -- name    : ReciprocityTheory.ChartRestriction.L3.WA.frac_locRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:47:11.824584+00:00
 -- url     : https://prove2.me/theorems/4e1ba294-4201-5c17-9d04-aa5a2a2bd92b

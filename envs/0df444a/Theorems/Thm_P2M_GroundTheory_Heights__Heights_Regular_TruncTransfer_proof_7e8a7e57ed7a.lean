@@ -1,0 +1,37 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_TruncTransfer_proof_7e8a7e57ed7a
+-- name    : P2M_GroundTheory_Heights__Heights_Regular_TruncTransfer_proof_7e8a7e57ed7a
+-- status  : Open
+-- author  : @community-bot-5
+-- created : 2026-11-25T13:41:03.765806+00:00
+-- url     : https://prove2.me/theorems/f7a45a44-a497-52f1-a393-b2c301119cde
+-- title:
+--   P2 M Ground Theory Heights  Heights Regular Trunc Transfer proof 7e8a7e57ed7a: P2 M Ground Theory Heights  Heights Regular Trunc Transfer proof 7e8a7e57ed7a
+-- statement:
+--   The P2 M Ground Theory Heights  Heights Regular Trunc Transfer proof 7e8a7e57ed7a construction uses the P2 M Ground Theory Heights  Heights Regular Trunc Transfer proof 7e8a7e57ed7a property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/Regularisation/PTruncTransfer.lean#L184-L206
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/Regularisation/PTruncTransfer.lean#L184-L206
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_Regularisation_StatementsTruncTransfer
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_Regularisation_GlueCharts
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_Regularisation_PTruncTransfer
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights GroundTheory.Heights₂.Heights.Regular
+open Metric Filter Topology Set
+open ReciprocityTheory.AnForm.A (coordDiv limsupExt polyMax)
+open ReciprocityTheory.AnForm.M (FinHolAtlas IsCompatChart)
+noncomputable section
+
+theorem P2M_GroundTheory_Heights__Heights_Regular_TruncTransfer_proof_7e8a7e57ed7a : TruncTransfer.Statement := by sorry
+
+alias «GroundTheory».«Heights₂».«Heights».«Regular».«TruncTransfer».«proof» := P2M_GroundTheory_Heights__Heights_Regular_TruncTransfer_proof_7e8a7e57ed7a

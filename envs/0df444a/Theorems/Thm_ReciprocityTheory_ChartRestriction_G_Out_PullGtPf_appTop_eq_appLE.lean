@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_PullGtPf_appTop_eq_appLE
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.PullGtPf.appTop_eq_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:32:06.034654+00:00
 -- url     : https://prove2.me/theorems/d7436e07-e512-56b6-9b7b-b4b58e5ae6d3

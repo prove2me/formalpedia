@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_galAct_mem_baseSpan
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.galAct_mem_baseSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:22:14.780104+00:00
 -- url     : https://prove2.me/theorems/8f750448-b9c9-5f28-ab41-490453ee3ca8

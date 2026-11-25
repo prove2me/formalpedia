@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_dirs_add_single
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.dirs_add_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:32:21.858412+00:00
 -- url     : https://prove2.me/theorems/2584c9be-bd91-549f-b952-412fc04ef295

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FdFjNearSup_W_fourierJacobi_holomorphic
 -- name    : PI.FdFjNearSup.W.fourierJacobi_holomorphic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:30:18.094152+00:00
 -- url     : https://prove2.me/theorems/32e19957-615d-42b7-8e67-16fe507b39b0

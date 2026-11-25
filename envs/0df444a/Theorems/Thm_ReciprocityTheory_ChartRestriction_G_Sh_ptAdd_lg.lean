@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_ptAdd_lg
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.ptAdd_lg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:35:43.696467+00:00
 -- url     : https://prove2.me/theorems/f54ec940-384a-581d-80c6-23d99aef5594

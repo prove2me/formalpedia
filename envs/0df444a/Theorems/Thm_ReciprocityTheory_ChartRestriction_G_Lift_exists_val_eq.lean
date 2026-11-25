@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Lift_exists_val_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.Lift.exists_val_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:44:53.238456+00:00
 -- url     : https://prove2.me/theorems/075492ec-0557-4be3-b20e-d8a68fabf82d

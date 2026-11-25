@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_ChartChgPfTP_ordGE_finsuppProd
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.ChartChgPfTP.ordGE_finsuppProd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:39:41.856802+00:00
 -- url     : https://prove2.me/theorems/2867f73b-d326-4bcc-926d-6b7f1fb7594f

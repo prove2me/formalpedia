@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_hermitian_dual_lattice_identity
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.hermitian_dual_lattice_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:21:23.445395+00:00
 -- url     : https://prove2.me/theorems/616dff58-f4c9-42c9-87c6-41fbbb2cf1bc

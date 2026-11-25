@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_G2_secondOrder_add
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.G2.secondOrder_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:44:22.348473+00:00
 -- url     : https://prove2.me/theorems/4e6163ea-cff2-5852-8cf9-ae265413dcd8

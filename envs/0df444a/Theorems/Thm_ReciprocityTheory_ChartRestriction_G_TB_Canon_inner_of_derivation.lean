@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_Canon_inner_of_derivation
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.Canon.inner_of_derivation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:39:19.133173+00:00
 -- url     : https://prove2.me/theorems/d621df27-8d0e-506b-b2b5-33b4f609e0d5

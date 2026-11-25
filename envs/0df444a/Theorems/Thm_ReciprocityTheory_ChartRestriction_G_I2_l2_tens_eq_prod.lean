@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_l2_tens_eq_prod
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.l2_tens_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:03:34.437545+00:00
 -- url     : https://prove2.me/theorems/946f325c-d7a4-4ecb-a925-8450266e4939

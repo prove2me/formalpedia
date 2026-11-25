@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_subst_C_mul_mv
 -- name    : ReciprocityTheory.ChartRestriction.L1.subst_C_mul_mv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:48:24.473084+00:00
 -- url     : https://prove2.me/theorems/6959c3fc-c493-4481-9e64-c049a9ed85b6

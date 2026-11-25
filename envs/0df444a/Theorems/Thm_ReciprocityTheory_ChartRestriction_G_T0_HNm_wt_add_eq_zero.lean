@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_HNm_wt_add_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.HNm.wt_add_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:36:41.909884+00:00
 -- url     : https://prove2.me/theorems/bed9049d-ae8d-511a-b2a0-c76257eb38a4

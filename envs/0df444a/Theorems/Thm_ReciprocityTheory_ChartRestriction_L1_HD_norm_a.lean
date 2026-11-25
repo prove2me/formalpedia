@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_HD_norm_a
 -- name    : ReciprocityTheory.ChartRestriction.L1.HD.norm_a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:43:09.477476+00:00
 -- url     : https://prove2.me/theorems/7fc6cbe8-958e-4519-b4de-dda3ce4e0e26

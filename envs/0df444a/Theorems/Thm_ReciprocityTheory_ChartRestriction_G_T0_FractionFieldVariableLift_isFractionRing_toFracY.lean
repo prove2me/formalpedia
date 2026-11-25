@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_FractionFieldVariableLift_isFractionRing_toFracY
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.FractionFieldVariableLift.isFractionRing_toFracY
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:59:33.773116+00:00
 -- url     : https://prove2.me/theorems/39442c53-0efe-46ae-9565-f15bb4565005

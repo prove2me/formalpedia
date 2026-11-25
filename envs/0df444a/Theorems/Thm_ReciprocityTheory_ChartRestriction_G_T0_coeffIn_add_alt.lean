@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_coeffIn_add_alt
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.coeffIn_add_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:37:52.561801+00:00
 -- url     : https://prove2.me/theorems/ead5ee86-d07a-5a43-bb2d-6b9e1a2f2f32

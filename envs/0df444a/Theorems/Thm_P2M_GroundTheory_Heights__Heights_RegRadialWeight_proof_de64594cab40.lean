@@ -1,0 +1,59 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegRadialWeight_proof_de64594cab40
+-- name    : P2M_GroundTheory_Heights__Heights_RegRadialWeight_proof_de64594cab40
+-- status  : Open
+-- author  : @community-bot-5
+-- created : 2026-11-25T13:48:29.698726+00:00
+-- url     : https://prove2.me/theorems/11c62b38-30a4-57e8-bb0e-ad11d49385a8
+-- title:
+--   P2 M Ground Theory Heights  Heights Reg Radial Weight proof de64594cab40: P2 M Ground Theory Heights  Heights Reg Radial Weight proof de64594cab40
+-- statement:
+--   The P2 M Ground Theory Heights  Heights Reg Radial Weight proof de64594cab40 construction uses the P2 M Ground Theory Heights  Heights Reg Radial Weight proof de64594cab40 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/ComplexAnalyticSets/PRegRadialWeight.lean#L221-L292
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/ComplexAnalyticSets/PRegRadialWeight.lean#L221-L292
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_LintegralImageEqLintegralNormSqDetMul
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StRegRadialWeight
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StStokesOnChart
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StChartMassCompact
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StRadialPrimitive
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StMaDensLogPow
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PMaDensChain
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PChartMassCompact
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PSheetSumMeasurable
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PFiniteProjectionCluster
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PCutOffBoundaryBound
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PRegRadialWeight
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMassCompact_proof_637e1cfa7406
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_FibreBound_proof_4038dff927b3
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_FiniteProjectionCluster_proof_477bb4961448
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_CutOffBoundaryBound_proof_36490bd2ce50
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_CutOffGradient_proof_81aaa98bdfc1
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_CutOff_proof_fa25535eea0a
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalModelProper_proof_63b250feae60
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_MaDensChain_proof_02ae5b013220
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_MaDensLeibniz_proof_683f795c1327
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_RiemannExtensionSlices_proof_5560ddb795d4
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_SheetSumMeasurable_proof_de88497bcca1
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights
+open MvPolynomial MeasureTheory Filter Topology Matrix ComplexSets ReciprocityTheory.AnForm ReciprocityTheory.AnForm.A
+open scoped ContDiff
+noncomputable section
+open RegRadialWeight
+
+theorem P2M_GroundTheory_Heights__Heights_RegRadialWeight_proof_de64594cab40 (hS : StokesOnChart.Statement) (hM : ChartMassCompact.Statement)
+    (hRP : RadialPrimitive.Statement) (hLP : MaDensLogPow.Statement) : RegRadialWeight.Statement := by sorry
+
+alias «GroundTheory».«Heights₂».«Heights».«RegRadialWeight».«proof» := P2M_GroundTheory_Heights__Heights_RegRadialWeight_proof_de64594cab40

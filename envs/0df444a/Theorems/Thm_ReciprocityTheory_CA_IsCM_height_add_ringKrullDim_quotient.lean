@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_IsCM_height_add_ringKrullDim_quotient
 -- name    : ReciprocityTheory.CA.IsCM.height_add_ringKrullDim_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:59:34.002913+00:00
 -- url     : https://prove2.me/theorems/cddcc117-0b5a-4c8a-b3e5-d264746379fb

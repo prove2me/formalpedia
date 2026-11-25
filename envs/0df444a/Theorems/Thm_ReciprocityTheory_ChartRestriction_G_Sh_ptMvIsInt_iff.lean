@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_ptMvIsInt_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.ptMvIsInt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:35:21.966737+00:00
 -- url     : https://prove2.me/theorems/1adc1b6b-89a1-5001-9b92-27bb63c91116

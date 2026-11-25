@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_Hf_add_rightSquareIntegrability
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.Hf_add_rightSquareIntegrability
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:29:12.61033+00:00
 -- url     : https://prove2.me/theorems/f3f49e57-749e-59a9-bafc-f731899ca57d

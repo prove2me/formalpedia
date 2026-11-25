@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TorusAtDataPf_posPart_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.TorusAtDataPf.posPart_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:28:02.567631+00:00
 -- url     : https://prove2.me/theorems/a2135c9f-b117-527f-84c7-cd479976b574

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationTower_Hs_succ_le
 -- name    : ReciprocityTheory.Coh.InflationTower.Hs_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:50:45.961088+00:00
 -- url     : https://prove2.me/theorems/c6cda907-2541-5478-b2b6-9808b8ce41f5

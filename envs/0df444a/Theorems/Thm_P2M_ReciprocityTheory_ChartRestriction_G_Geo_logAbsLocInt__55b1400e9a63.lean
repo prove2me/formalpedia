@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_Geo_logAbsLocInt__55b1400e9a63
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_Geo_logAbsLocInt__55b1400e9a63
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:51:31.293148+00:00
 -- url     : https://prove2.me/theorems/15481bc3-87a9-4937-9052-d62b568e0198

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxGoodProj_aeval_sumElim_factor_cx
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxGoodProj.aeval_sumElim_factor_cx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:19:11.017811+00:00
 -- url     : https://prove2.me/theorems/db8d32ca-dcda-41c4-b22a-c5183d374307

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_height_eq_add_of_isCM_localization
 -- name    : ReciprocityTheory.CA.height_eq_add_of_isCM_localization
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:26:26.663369+00:00
 -- url     : https://prove2.me/theorems/396d2042-91ee-4ff6-9316-f23ae4fa07f6

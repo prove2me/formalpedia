@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KernelEigen_commIsOf_of_weilIs
 -- name    : GlobalTheory.KernelEigen.commIsOf_of_weilIs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:49:16.759805+00:00
 -- url     : https://prove2.me/theorems/f79c5439-8cd1-46e1-bddf-e0e643b34dd3

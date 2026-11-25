@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_PT_l2_sum_eq_sum_norm_sq_of_orthogonal
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.PT.l2_sum_eq_sum_norm_sq_of_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:29:02.235888+00:00
 -- url     : https://prove2.me/theorems/640745e5-a303-5edd-8661-7b83e754309d

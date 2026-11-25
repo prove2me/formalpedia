@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_degree_piece
 -- name    : ReciprocityTheory.AnForm.M.degree_piece
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:20:33.117262+00:00
 -- url     : https://prove2.me/theorems/aeaa1dc7-76a2-40b2-be20-8ed780e5c250

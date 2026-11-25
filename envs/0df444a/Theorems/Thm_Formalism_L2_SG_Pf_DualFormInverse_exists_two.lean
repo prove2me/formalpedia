@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_DualFormInverse_exists_two
 -- name    : Formalism.L2.SG.Pf.DualFormInverse.exists_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:26:11.209277+00:00
 -- url     : https://prove2.me/theorems/d09bbab9-d87f-5937-b83d-6d9249b6383c

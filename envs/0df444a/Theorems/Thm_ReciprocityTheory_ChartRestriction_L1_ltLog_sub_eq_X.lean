@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_ltLog_sub_eq_X
 -- name    : ReciprocityTheory.ChartRestriction.L1.ltLog_sub_eq_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:47:06.34363+00:00
 -- url     : https://prove2.me/theorems/fa3dc1e8-83b3-5293-922c-7ecfcfb13f7a

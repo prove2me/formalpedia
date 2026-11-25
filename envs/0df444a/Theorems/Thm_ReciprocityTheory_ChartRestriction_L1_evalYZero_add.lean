@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_evalYZero_add
 -- name    : ReciprocityTheory.ChartRestriction.L1.evalYZero_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:50:56.409662+00:00
 -- url     : https://prove2.me/theorems/23f76531-495b-4c24-888b-3a8c808fdc3c

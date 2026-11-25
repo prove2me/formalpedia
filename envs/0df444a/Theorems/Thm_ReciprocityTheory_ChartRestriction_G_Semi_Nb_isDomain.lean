@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_Nb_isDomain
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.Nb.isDomain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:26:28.210316+00:00
 -- url     : https://prove2.me/theorems/4f61f913-5706-46bd-9e2a-bd6e13aa086d

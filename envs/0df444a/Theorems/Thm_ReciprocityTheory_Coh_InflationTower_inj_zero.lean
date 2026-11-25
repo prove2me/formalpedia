@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationTower_inj_zero
 -- name    : ReciprocityTheory.Coh.InflationTower.inj_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:50:06.336734+00:00
 -- url     : https://prove2.me/theorems/93dc1bd1-cdf8-415c-a564-1a0563a99b2a

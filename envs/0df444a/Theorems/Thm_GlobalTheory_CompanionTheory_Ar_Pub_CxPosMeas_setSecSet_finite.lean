@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxPosMeas_setSecSet_finite
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxPosMeas.setSecSet_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:32:03.173322+00:00
 -- url     : https://prove2.me/theorems/ed3b6a6a-69bd-4296-a7fa-1f740a574a12

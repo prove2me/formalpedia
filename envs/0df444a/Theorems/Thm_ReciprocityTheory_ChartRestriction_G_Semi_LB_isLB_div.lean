@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_LB_isLB_div
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.LB.isLB_div
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:18:52.376225+00:00
 -- url     : https://prove2.me/theorems/51e3bd6c-d7d4-45ad-aa0e-2482c11e06b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos654Proof_noFourConcyclic_A
 -- name    : Erdos654Proof.noFourConcyclic_A
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:50:32.17506+00:00
 -- url     : https://prove2.me/theorems/2809023a-cfa3-5743-b771-37c3ed1e3d58

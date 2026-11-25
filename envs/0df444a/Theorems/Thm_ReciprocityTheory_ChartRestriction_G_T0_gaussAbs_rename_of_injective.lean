@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_gaussAbs_rename_of_injective
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.gaussAbs_rename_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:39:15.286488+00:00
 -- url     : https://prove2.me/theorems/ba9d10a7-ce13-463d-8309-cf5632b645c9

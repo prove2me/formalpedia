@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_CCA_normF_zsmul
 -- name    : ReciprocityTheory.Coh.CCA.normF_zsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:49:39.533955+00:00
 -- url     : https://prove2.me/theorems/0450ac81-9c16-4031-81cb-07c77bf9fa3e

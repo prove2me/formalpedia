@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiableOn_of_theta_transform
 -- name    : GlobalTheory.differentiableOn_of_theta_transform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:16:15.807006+00:00
 -- url     : https://prove2.me/theorems/5d6935d1-06d7-4c66-aa62-1752102153c9

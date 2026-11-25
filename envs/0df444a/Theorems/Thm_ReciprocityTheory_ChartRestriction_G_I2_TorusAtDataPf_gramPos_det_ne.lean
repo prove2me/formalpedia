@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TorusAtDataPf_gramPos_det_ne
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.TorusAtDataPf.gramPos_det_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:27:56.022396+00:00
 -- url     : https://prove2.me/theorems/7609b312-9010-4fd0-9672-5d57d1f7ce43

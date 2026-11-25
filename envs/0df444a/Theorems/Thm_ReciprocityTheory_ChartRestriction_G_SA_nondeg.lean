@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_nondeg
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:34:08.292321+00:00
 -- url     : https://prove2.me/theorems/a3f73356-72d6-4947-99a1-85f059056488

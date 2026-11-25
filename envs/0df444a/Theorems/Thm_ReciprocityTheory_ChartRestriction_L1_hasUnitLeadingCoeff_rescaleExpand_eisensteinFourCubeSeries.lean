@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_hasUnitLeadingCoeff_rescaleExpand_eisensteinFourCubeSeries
 -- name    : ReciprocityTheory.ChartRestriction.L1.hasUnitLeadingCoeff_rescaleExpand_eisensteinFourCubeSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:44:08.360025+00:00
 -- url     : https://prove2.me/theorems/963d7bf8-c9ac-5ced-9c4c-bff6c7f70ed4

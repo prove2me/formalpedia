@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_logEmbedding_prod_fundSystem
 -- name    : ReciprocityTheory.Cheb.logEmbedding_prod_fundSystem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:48:50.735807+00:00
 -- url     : https://prove2.me/theorems/bf943f76-0572-4b5c-8816-b202d240e5af

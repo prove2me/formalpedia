@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_S7_CasPsB_sum_FY__2d9eaf88065a
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_S7_CasPsB_sum_FY__2d9eaf88065a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:12:26.49783+00:00
 -- url     : https://prove2.me/theorems/f9c115e8-50de-4923-9530-a8ae3d3b2422

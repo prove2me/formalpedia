@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FlowMajorantFlags_maj_flag
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FlowMajorantFlags.maj_flag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:43:17.280549+00:00
 -- url     : https://prove2.me/theorems/61aaece1-30ea-4319-b036-6f44f8df109c

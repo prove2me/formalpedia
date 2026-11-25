@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_norm_neg_log_one_sub_sub_le
 -- name    : ReciprocityTheory.Cheb.norm_neg_log_one_sub_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:48:38.230778+00:00
 -- url     : https://prove2.me/theorems/177358c8-a35d-5d0d-a6c0-f2916f48b2c4

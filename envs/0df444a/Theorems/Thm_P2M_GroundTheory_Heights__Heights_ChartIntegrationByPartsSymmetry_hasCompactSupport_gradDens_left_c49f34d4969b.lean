@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_hasCompactSupport_gradDens_left_c49f34d4969b
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_hasCompactSupport_gradDens_left_c49f34d4969b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:35:38.368615+00:00
 -- url     : https://prove2.me/theorems/c55329b5-8e9f-4f52-855c-2aa3ffa1ce31

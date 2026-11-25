@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_Transport_cg5
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.Transport.cg5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:35:25.676374+00:00
 -- url     : https://prove2.me/theorems/6b9fea2c-1629-414e-874d-90200a658292

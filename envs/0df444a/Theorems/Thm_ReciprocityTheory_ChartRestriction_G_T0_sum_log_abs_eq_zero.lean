@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_sum_log_abs_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.sum_log_abs_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:00:08.934885+00:00
 -- url     : https://prove2.me/theorems/df9f90c2-6a77-4cc0-b1f7-e1ecdf53a02e

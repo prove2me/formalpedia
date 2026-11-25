@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_pa_one_le_absNorm
 -- name    : ReciprocityTheory.Cheb.pa_one_le_absNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:48:36.43841+00:00
 -- url     : https://prove2.me/theorems/1bdc3305-db86-45d8-81e7-5b1cca018061

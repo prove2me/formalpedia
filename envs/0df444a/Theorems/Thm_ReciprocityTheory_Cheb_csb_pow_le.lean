@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_csb_pow_le
 -- name    : ReciprocityTheory.Cheb.csb_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:48:12.120827+00:00
 -- url     : https://prove2.me/theorems/e9415f20-38d1-5521-9a2b-a4f448de28de

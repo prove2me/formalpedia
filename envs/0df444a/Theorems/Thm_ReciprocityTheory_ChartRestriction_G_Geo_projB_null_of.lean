@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_projB_null_of
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.projB_null_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:25:36.376174+00:00
 -- url     : https://prove2.me/theorems/642ea3fa-d5b4-5f14-b746-6a44b0c64049

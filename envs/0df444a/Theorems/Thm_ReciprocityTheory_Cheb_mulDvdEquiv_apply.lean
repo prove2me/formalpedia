@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_mulDvdEquiv_apply
 -- name    : ReciprocityTheory.Cheb.mulDvdEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:48:44.141496+00:00
 -- url     : https://prove2.me/theorems/a5709e80-f78c-4875-89e0-702eac7f7e38

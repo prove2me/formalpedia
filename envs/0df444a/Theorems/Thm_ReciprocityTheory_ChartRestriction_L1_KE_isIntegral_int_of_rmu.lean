@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_KE_isIntegral_int_of_rmu
 -- name    : ReciprocityTheory.ChartRestriction.L1.KE.isIntegral_int_of_rmu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:42:51.72241+00:00
 -- url     : https://prove2.me/theorems/0203a178-d0e5-429e-916a-ca9754409ffa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_integralWithIndep
 -- name    : ReciprocityTheory.AnForm.M.integralWithIndep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:38:13.934512+00:00
 -- url     : https://prove2.me/theorems/a3fff6c2-9639-4725-a686-fd7747c5a338

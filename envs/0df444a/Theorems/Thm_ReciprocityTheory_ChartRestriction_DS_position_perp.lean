@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_position_perp
 -- name    : ReciprocityTheory.ChartRestriction.DS.position_perp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:08:35.258803+00:00
 -- url     : https://prove2.me/theorems/fd7094dd-76c1-40c6-9e13-6d759cf91e5c

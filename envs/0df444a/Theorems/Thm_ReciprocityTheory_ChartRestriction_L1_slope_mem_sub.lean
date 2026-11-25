@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_slope_mem_sub
 -- name    : ReciprocityTheory.ChartRestriction.L1.slope_mem_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:48:06.34166+00:00
 -- url     : https://prove2.me/theorems/ee54061e-5e32-4d51-b337-b0c7ed00b532

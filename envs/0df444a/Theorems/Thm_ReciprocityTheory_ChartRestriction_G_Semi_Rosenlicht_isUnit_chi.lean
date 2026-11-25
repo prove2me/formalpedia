@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_Rosenlicht_isUnit_chi
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.Rosenlicht.isUnit_chi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:34:47.828898+00:00
 -- url     : https://prove2.me/theorems/ead52873-3807-5c59-b6c3-07af25657a56

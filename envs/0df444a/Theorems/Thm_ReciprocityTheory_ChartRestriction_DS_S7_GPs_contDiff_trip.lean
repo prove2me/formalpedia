@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_GPs_contDiff_trip
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.GPs.contDiff_trip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:03:54.456289+00:00
 -- url     : https://prove2.me/theorems/3044c885-71b7-52ab-a6cf-36c64dcb09fe

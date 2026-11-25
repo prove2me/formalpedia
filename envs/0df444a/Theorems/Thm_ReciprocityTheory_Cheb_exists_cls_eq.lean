@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_exists_cls_eq
 -- name    : ReciprocityTheory.Cheb.exists_cls_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:48:42.190525+00:00
 -- url     : https://prove2.me/theorems/e65e8f6f-279a-45de-8718-0f9e6883a57b

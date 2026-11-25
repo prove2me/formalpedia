@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_wa_pair
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.wa_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:39:24.234138+00:00
 -- url     : https://prove2.me/theorems/951a64a4-1753-5632-9be5-bc1b0635ca49

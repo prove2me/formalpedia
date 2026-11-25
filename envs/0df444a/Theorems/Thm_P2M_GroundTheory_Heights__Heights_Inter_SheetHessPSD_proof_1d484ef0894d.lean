@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SheetHessPSD_proof_1d484ef0894d
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SheetHessPSD_proof_1d484ef0894d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:46:18.250009+00:00
 -- url     : https://prove2.me/theorems/71adddce-c8d6-50c0-b6ed-52710c7b867f

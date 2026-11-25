@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_DimensionQuotientBound_one_le_dim
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.DimensionQuotientBound.one_le_dim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:35:38.834535+00:00
 -- url     : https://prove2.me/theorems/a055134d-41a5-5ebc-8a52-dd84f644a7e9

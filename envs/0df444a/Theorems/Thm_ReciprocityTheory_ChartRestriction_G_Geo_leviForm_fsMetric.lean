@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_leviForm_fsMetric
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.leviForm_fsMetric
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:14:41.127671+00:00
 -- url     : https://prove2.me/theorems/2b63d315-91d7-43f6-8cd3-e49572790f05

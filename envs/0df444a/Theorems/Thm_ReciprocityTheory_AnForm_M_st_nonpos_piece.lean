@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_st_nonpos_piece
 -- name    : ReciprocityTheory.AnForm.M.st_nonpos_piece
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:33:00.856107+00:00
 -- url     : https://prove2.me/theorems/ed55c583-65bf-5016-816a-ebd6c4b17305

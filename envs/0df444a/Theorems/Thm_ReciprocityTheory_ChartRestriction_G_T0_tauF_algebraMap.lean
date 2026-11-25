@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_tauF_algebraMap
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.tauF_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:38:49.170418+00:00
 -- url     : https://prove2.me/theorems/d9a92e78-61ef-5460-aefa-b0bcfcefdf54

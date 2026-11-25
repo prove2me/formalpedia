@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxGoodProj_card_le_ringKrullDim
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxGoodProj.card_le_ringKrullDim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:20:06.017803+00:00
 -- url     : https://prove2.me/theorems/8e69cef2-f71f-4319-a380-2f11544081dd

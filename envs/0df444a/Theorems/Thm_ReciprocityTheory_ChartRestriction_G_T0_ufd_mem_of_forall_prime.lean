@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_ufd_mem_of_forall_prime
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.ufd_mem_of_forall_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:39:14.692692+00:00
 -- url     : https://prove2.me/theorems/24df060a-582d-5543-93dd-37710a265fbd

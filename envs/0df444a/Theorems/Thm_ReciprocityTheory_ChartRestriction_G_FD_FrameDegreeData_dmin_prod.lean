@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FrameDegreeData_dmin_prod
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FrameDegreeData.dmin_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:16:02.363016+00:00
 -- url     : https://prove2.me/theorems/99525382-3bc3-4820-8d33-4aa6c91f64e1

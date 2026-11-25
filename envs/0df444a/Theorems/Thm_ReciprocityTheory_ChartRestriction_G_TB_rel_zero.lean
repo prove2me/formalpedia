@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_rel_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.rel_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:42:31.86634+00:00
 -- url     : https://prove2.me/theorems/08986680-cfd9-4be0-88ff-e8da9616df51

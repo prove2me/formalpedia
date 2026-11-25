@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_homE_norm_coeff_atX_mul_atY
 -- name    : ReciprocityTheory.ChartRestriction.L1.homE_norm_coeff_atX_mul_atY
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:45:35.025707+00:00
 -- url     : https://prove2.me/theorems/49b1a08a-0bf6-56ac-8507-325753237011

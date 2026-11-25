@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_eq_zero_of_secTrace_mul_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.eq_zero_of_secTrace_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:11.029798+00:00
 -- url     : https://prove2.me/theorems/f0ea135b-1603-433b-b066-e6518664ec9b

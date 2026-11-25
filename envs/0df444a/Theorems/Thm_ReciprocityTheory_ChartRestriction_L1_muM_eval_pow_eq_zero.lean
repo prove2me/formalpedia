@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_muM_eval_pow_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.L1.muM_eval_pow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:44:48.026547+00:00
 -- url     : https://prove2.me/theorems/02ebd0fe-95d7-4bea-8bf6-c4b1d8054e30

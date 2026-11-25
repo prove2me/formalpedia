@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_continuous_scalarDet
 -- name    : GroundTheory.Automorphic.Parabolic.continuous_scalarDet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:16:43.443682+00:00
 -- url     : https://prove2.me/theorems/7d1de892-d35f-5555-b3d3-3a851d444afa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_UUA_hv_comp
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.UUA.hv_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:50:35.306386+00:00
 -- url     : https://prove2.me/theorems/6666e8a1-885a-4516-921c-8baca8d85d6e

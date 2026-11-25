@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_trace_gram_det_ne_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.trace_gram_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:39:25.677606+00:00
 -- url     : https://prove2.me/theorems/1679c1fb-19b5-58f3-9ce4-bd31acf73d3f

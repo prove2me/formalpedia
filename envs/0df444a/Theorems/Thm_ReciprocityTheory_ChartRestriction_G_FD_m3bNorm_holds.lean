@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_m3bNorm_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.m3bNorm_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:49:04.686531+00:00
 -- url     : https://prove2.me/theorems/36878b76-79ae-4e85-9338-70ef7e532b73

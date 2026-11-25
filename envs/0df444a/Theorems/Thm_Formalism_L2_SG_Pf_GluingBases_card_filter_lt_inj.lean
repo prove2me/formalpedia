@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_GluingBases_card_filter_lt_inj
 -- name    : Formalism.L2.SG.Pf.GluingBases.card_filter_lt_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:08:52.664579+00:00
 -- url     : https://prove2.me/theorems/b73dcd47-1414-57c0-a73b-a0bf4f65030a

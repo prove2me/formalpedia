@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_sum_crt_weight_eq_zero
 -- name    : ReciprocityTheory.Cheb.sum_crt_weight_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:49:12.481155+00:00
 -- url     : https://prove2.me/theorems/497b0edf-ede9-4cb5-aa57-5b52dee01a80

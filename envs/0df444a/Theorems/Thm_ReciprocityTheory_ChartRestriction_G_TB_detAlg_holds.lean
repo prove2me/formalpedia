@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_detAlg_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.detAlg_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:42:10.610347+00:00
 -- url     : https://prove2.me/theorems/179b4d7c-850c-5834-b4c7-379a951bb01c

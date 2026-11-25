@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_orthogonalProjector_orthogonal
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.orthogonalProjector_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:38:52.879602+00:00
 -- url     : https://prove2.me/theorems/2a5e6724-7861-430a-a5ed-edfbc2860191

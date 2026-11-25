@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_ValuationResidueLemmas_mem_max_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.ValuationResidueLemmas.mem_max_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:41:31.94077+00:00
 -- url     : https://prove2.me/theorems/e0ca7cd8-6d59-4209-8b71-22224848e0d7

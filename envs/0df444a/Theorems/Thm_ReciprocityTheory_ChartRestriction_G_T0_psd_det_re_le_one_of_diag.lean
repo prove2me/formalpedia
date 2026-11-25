@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_psd_det_re_le_one_of_diag
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.psd_det_re_le_one_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:38:56.234871+00:00
 -- url     : https://prove2.me/theorems/1a79293e-d372-4ec6-826a-5992e1dd1a5f

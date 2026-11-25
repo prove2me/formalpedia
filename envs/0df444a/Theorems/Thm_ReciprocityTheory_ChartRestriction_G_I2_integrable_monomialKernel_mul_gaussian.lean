@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_integrable_monomialKernel_mul_gaussian
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.integrable_monomialKernel_mul_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:28:38.01819+00:00
 -- url     : https://prove2.me/theorems/a8dd20bf-e1f5-5e36-8351-4d8534a2aa21

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_restrictNormal_pow_of_gal
 -- name    : ReciprocityTheory.Cheb.restrictNormal_pow_of_gal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:48:16.757809+00:00
 -- url     : https://prove2.me/theorems/5aec2667-07cd-5c7b-bb9a-ea2e2700d3f7

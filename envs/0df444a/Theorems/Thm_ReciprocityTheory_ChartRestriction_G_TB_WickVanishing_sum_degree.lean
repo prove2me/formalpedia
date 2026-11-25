@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_sum_degree
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.sum_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:43:30.43057+00:00
 -- url     : https://prove2.me/theorems/2dcd2105-9c61-5fe9-9b2b-dd9fc66cdfa4

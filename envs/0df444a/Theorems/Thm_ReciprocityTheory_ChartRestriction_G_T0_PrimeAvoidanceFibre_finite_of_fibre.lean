@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_PrimeAvoidanceFibre_finite_of_fibre
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.PrimeAvoidanceFibre.finite_of_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:03:09.33294+00:00
 -- url     : https://prove2.me/theorems/5192bb30-5fc4-47e9-8f5f-82ffe646488a

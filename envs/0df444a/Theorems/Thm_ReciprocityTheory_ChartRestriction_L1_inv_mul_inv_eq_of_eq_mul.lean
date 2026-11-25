@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_inv_mul_inv_eq_of_eq_mul
 -- name    : ReciprocityTheory.ChartRestriction.L1.inv_mul_inv_eq_of_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:45:10.95013+00:00
 -- url     : https://prove2.me/theorems/d25d7865-2a6b-4357-91d6-f0e7c0fef3b9

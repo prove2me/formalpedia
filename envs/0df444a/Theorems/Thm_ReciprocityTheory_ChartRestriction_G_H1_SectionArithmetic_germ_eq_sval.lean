@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_SectionArithmetic_germ_eq_sval
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.SectionArithmetic.germ_eq_sval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:31:49.145429+00:00
 -- url     : https://prove2.me/theorems/31e766c2-e558-4ec6-bfdf-57830c6d9b70

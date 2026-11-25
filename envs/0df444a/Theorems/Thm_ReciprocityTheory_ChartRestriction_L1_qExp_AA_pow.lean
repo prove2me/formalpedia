@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_qExp_AA_pow
 -- name    : ReciprocityTheory.ChartRestriction.L1.qExp_AA_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:47:12.837448+00:00
 -- url     : https://prove2.me/theorems/430673e0-555c-58ca-bf9d-9008ce33db28

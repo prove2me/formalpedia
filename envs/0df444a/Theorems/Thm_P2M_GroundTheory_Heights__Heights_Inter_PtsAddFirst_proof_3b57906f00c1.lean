@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PtsAddFirst_proof_3b57906f00c1
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PtsAddFirst_proof_3b57906f00c1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:57:05.354803+00:00
 -- url     : https://prove2.me/theorems/430f569e-4126-4cd6-a33e-9d22be9c16cd

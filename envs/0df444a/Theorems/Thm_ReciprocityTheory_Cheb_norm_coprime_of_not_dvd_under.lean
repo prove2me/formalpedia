@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_norm_coprime_of_not_dvd_under
 -- name    : ReciprocityTheory.Cheb.norm_coprime_of_not_dvd_under
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:48:07.158041+00:00
 -- url     : https://prove2.me/theorems/f9b98aaf-3ae5-438f-a04c-3a631bb698ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_Geo_pushForward_null__3fd5754950cb
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_Geo_pushForward_null__3fd5754950cb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:16:20.244644+00:00
 -- url     : https://prove2.me/theorems/613425e7-3865-5330-8757-66c337a2858c

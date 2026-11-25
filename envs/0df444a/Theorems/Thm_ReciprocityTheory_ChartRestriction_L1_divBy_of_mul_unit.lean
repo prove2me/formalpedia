@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_divBy_of_mul_unit
 -- name    : ReciprocityTheory.ChartRestriction.L1.divBy_of_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:45:04.988856+00:00
 -- url     : https://prove2.me/theorems/e1b54f3e-2772-5b35-b0e5-3dd61bc080f6

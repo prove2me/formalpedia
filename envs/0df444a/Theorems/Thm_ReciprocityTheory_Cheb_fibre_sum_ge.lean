@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_fibre_sum_ge
 -- name    : ReciprocityTheory.Cheb.fibre_sum_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:48:12.887893+00:00
 -- url     : https://prove2.me/theorems/8f48b04c-4703-4452-a09c-675ba6458050

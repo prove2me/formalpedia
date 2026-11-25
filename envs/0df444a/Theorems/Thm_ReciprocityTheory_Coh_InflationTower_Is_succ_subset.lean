@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationTower_Is_succ_subset
 -- name    : ReciprocityTheory.Coh.InflationTower.Is_succ_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:50:22.52037+00:00
 -- url     : https://prove2.me/theorems/2a9e34d1-3b6b-4260-8dd8-ad05c4ef90c4

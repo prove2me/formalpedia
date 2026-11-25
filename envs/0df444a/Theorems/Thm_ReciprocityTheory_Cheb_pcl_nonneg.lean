@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_pcl_nonneg
 -- name    : ReciprocityTheory.Cheb.pcl_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:48:07.812818+00:00
 -- url     : https://prove2.me/theorems/64fdbaf7-5831-4903-ae8e-9c2bb7afd3c8

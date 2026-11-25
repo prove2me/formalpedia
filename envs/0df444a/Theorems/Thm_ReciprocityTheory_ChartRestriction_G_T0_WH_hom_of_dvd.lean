@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_WH_hom_of_dvd
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.WH.hom_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:37:39.930603+00:00
 -- url     : https://prove2.me/theorems/6c20d7a4-5377-409c-b39c-d758c97efb7b

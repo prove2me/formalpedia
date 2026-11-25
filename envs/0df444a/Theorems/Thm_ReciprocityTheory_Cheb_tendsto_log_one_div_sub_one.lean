@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_tendsto_log_one_div_sub_one
 -- name    : ReciprocityTheory.Cheb.tendsto_log_one_div_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:58:08.64263+00:00
 -- url     : https://prove2.me/theorems/e3710832-1762-472e-ab01-b3e0fb4cdebf

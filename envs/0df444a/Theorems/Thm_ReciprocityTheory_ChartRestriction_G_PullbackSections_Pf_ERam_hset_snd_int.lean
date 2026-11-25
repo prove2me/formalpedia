@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_ERam_hset_snd_int
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.ERam.hset_snd_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:37:32.989932+00:00
 -- url     : https://prove2.me/theorems/1e0ed815-3759-58ff-b286-a95bd4576f81

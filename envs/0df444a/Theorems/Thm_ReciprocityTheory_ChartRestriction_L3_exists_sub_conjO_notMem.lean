@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_exists_sub_conjO_notMem
 -- name    : ReciprocityTheory.ChartRestriction.L3.exists_sub_conjO_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:47:32.043699+00:00
 -- url     : https://prove2.me/theorems/10b1ff62-b2ca-4bdf-b004-6fdf8c8d2bd6

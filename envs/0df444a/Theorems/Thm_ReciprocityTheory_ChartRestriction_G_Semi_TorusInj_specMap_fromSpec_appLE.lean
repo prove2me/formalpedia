@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_TorusInj_specMap_fromSpec_appLE
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.TorusInj.specMap_fromSpec_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:35:10.290626+00:00
 -- url     : https://prove2.me/theorems/cbc16da2-8b15-450e-b196-fe79e9dec7ed

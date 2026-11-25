@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_gCauchy
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.gCauchy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:31:21.954476+00:00
 -- url     : https://prove2.me/theorems/0602a127-f12f-5aa3-b341-1a3b98dce944

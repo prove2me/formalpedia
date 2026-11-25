@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_GRPf_pair_prod
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.GRPf.pair_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:40:32.814365+00:00
 -- url     : https://prove2.me/theorems/d616c4b0-1220-530b-8133-4935f7100574

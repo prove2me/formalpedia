@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_KE_finite_domain_frob
 -- name    : ReciprocityTheory.ChartRestriction.L1.KE.finite_domain_frob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:42:28.252163+00:00
 -- url     : https://prove2.me/theorems/e1c10395-13bf-56a1-8413-605968564c3c

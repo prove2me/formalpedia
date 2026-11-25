@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PerpComponentCombination_uc_comb
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PerpComponentCombination.uc_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:24:55.443685+00:00
 -- url     : https://prove2.me/theorems/cf468d4a-518e-57ff-91c8-f9f32f04a434

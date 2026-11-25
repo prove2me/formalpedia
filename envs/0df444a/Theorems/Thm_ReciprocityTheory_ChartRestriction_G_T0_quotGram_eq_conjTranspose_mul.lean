@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_quotGram_eq_conjTranspose_mul
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.quotGram_eq_conjTranspose_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:38:28.344644+00:00
 -- url     : https://prove2.me/theorems/ff44286e-03a6-52f1-acbb-1680b4abf201

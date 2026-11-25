@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_map_sub_const
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.map_sub_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:33:55.953277+00:00
 -- url     : https://prove2.me/theorems/cfedf0b7-ed16-4b94-96f1-17dad0e5ca73

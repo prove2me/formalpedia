@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_ProcyclicCohomology_comm_of_dense
 -- name    : ReciprocityTheory.Coh.ProcyclicCohomology.comm_of_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:50:24.771453+00:00
 -- url     : https://prove2.me/theorems/c921e4d7-35d6-41d3-8dcb-d465e00f714b

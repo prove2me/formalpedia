@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogNormGradDensNonneg_proof_7c7673e23d37
 -- name    : P2M_GroundTheory_Heights__Heights_LogNormGradDensNonneg_proof_7c7673e23d37
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:16:43.609542+00:00
 -- url     : https://prove2.me/theorems/d074df34-5dd2-4b68-9043-c14df8cb3169

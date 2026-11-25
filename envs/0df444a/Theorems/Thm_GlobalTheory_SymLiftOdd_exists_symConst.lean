@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftOdd_exists_symConst
 -- name    : GlobalTheory.SymLiftOdd.exists_symConst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:25:39.837789+00:00
 -- url     : https://prove2.me/theorems/53cde769-adff-4397-8adf-1eaa42ece0fb

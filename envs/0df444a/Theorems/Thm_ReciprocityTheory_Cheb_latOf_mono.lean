@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_latOf_mono
 -- name    : ReciprocityTheory.Cheb.latOf_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:49:18.501317+00:00
 -- url     : https://prove2.me/theorems/fec7389e-d5c9-59c4-b8b9-4e1b542137e0

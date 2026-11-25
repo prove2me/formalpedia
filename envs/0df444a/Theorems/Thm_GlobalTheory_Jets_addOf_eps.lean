@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Jets_addOf_eps
 -- name    : GlobalTheory.Jets.addOf_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:52:36.343628+00:00
 -- url     : https://prove2.me/theorems/a73650bd-df08-41ea-987b-4e7310237e92

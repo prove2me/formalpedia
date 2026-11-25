@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_divBy_derivative
 -- name    : ReciprocityTheory.ChartRestriction.L1.divBy_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:43:52.346068+00:00
 -- url     : https://prove2.me/theorems/c696ca8f-5bd7-4c58-bbf2-3d209a934f4d

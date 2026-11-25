@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairingLevels_Rep_pow
 -- name    : GlobalTheory.PairingLevels.Rep.pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:42:24.251846+00:00
 -- url     : https://prove2.me/theorems/1175615a-2225-4b9e-a074-2d93680325be

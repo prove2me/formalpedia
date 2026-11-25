@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_GRPf_two_mul_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.GRPf.two_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:40:46.383874+00:00
 -- url     : https://prove2.me/theorems/d32a64cd-869f-50d3-9efc-8ed80550f25b

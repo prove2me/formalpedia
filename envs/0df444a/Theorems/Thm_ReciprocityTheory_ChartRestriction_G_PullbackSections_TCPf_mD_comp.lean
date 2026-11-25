@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_TCPf_mD_comp
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.TCPf.mD_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:37:33.396618+00:00
 -- url     : https://prove2.me/theorems/77364e9f-f804-597b-9918-2cc7a56f443d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_natDegree_polMap_le
 -- name    : ReciprocityTheory.ChartRestriction.L1.natDegree_polMap_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:46:20.704145+00:00
 -- url     : https://prove2.me/theorems/7f319392-c1d4-4452-9975-2c670095b401

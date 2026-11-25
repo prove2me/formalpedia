@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_coeff_X_add_X_pow
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.coeff_X_add_X_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:42:18.308886+00:00
 -- url     : https://prove2.me/theorems/55436a84-360b-4d85-9021-8e81b1f727d0

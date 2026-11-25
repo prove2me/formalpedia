@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_CCA_normF_sub
 -- name    : ReciprocityTheory.Coh.CCA.normF_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:49:20.608439+00:00
 -- url     : https://prove2.me/theorems/d2cd266b-c38b-57f8-b4b5-c386ad54cba8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_ERam_dual_mul_expand
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.ERam.dual_mul_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:33:43.376853+00:00
 -- url     : https://prove2.me/theorems/914c0ada-e1b9-5766-9f68-cb9a9c3e0b90

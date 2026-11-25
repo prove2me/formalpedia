@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_PTb_finsupp_prod_eq_multiset
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.PTb.finsupp_prod_eq_multiset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:34:37.947489+00:00
 -- url     : https://prove2.me/theorems/436a143b-5051-4164-a798-b56761a3419c

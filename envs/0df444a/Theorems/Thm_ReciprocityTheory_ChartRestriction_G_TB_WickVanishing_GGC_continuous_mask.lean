@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_GGC_continuous_mask
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.GGC.continuous_mask
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:41:04.328514+00:00
 -- url     : https://prove2.me/theorems/f3009daf-9a75-4307-8fda-e54b50f3a84d

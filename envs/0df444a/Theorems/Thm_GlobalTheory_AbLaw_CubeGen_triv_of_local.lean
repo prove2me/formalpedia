@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_CubeGen_triv_of_local
 -- name    : GlobalTheory.AbLaw.CubeGen.triv_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:50:34.098122+00:00
 -- url     : https://prove2.me/theorems/0b7563a0-4a10-441f-a63f-117d276e3043

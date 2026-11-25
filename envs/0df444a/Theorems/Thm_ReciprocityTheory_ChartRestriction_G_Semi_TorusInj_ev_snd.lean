@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_TorusInj_ev_snd
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.TorusInj.ev_snd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:28:05.941805+00:00
 -- url     : https://prove2.me/theorems/2a6f6527-25ce-4bf4-b894-f3d909493575

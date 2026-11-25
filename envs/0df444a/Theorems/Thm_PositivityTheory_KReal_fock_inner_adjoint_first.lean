@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_fock_inner_adjoint_first
 -- name    : PositivityTheory.KReal.fock_inner_adjoint_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:30:22.822958+00:00
 -- url     : https://prove2.me/theorems/1d51bf68-2b95-5b1f-8c7d-4c751a0f7da9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_pt_v_intCast_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.pt_v_intCast_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:36:28.054077+00:00
 -- url     : https://prove2.me/theorems/cd5d37ba-f3d8-58a6-96ae-961ba005b06d

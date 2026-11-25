@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_CVA_fbOf_nabVal
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.CVA.fbOf_nabVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:33:36.75839+00:00
 -- url     : https://prove2.me/theorems/195fd663-3a2c-5833-818c-bd9b1d1eab31

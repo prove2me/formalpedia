@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftOdd_exists_scale
 -- name    : GlobalTheory.SymLiftOdd.exists_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:25:42.70379+00:00
 -- url     : https://prove2.me/theorems/69f9b818-1bd6-420f-a4c4-6d92b2617a94

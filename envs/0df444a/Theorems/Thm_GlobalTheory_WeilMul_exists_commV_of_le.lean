@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilMul_exists_commV_of_le
 -- name    : GlobalTheory.WeilMul.exists_commV_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:55:10.333798+00:00
 -- url     : https://prove2.me/theorems/a8b91b11-6dd4-4c1f-9c4e-8721dc19b3b9

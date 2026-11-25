@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsIntegralZeroLowerNEAux_bij_fibre_d4c596ff703d
 -- name    : P2M_GroundTheory_Heights__Heights_PtsIntegralZeroLowerNEAux_bij_fibre_d4c596ff703d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:15:53.194789+00:00
 -- url     : https://prove2.me/theorems/fb1e2ec6-3696-44cd-a132-9e99c99c7c49

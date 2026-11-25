@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_DimC_exists_pairs
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.DimC.exists_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:27:47.201194+00:00
 -- url     : https://prove2.me/theorems/a5a278b4-9a02-4a10-b64b-977bb09bb838

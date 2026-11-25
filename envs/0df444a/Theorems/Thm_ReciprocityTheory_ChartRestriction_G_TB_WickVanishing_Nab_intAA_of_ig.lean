@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_Nab_intAA_of_ig
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.Nab.intAA_of_ig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:42:32.40566+00:00
 -- url     : https://prove2.me/theorems/886c894c-3fde-456b-abcd-c7555672b1f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_ThreeTorsionChord_chordBig
 -- name    : ReciprocityTheory.ChartRestriction.L1.ThreeTorsionChord.chordBig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:43:38.527152+00:00
 -- url     : https://prove2.me/theorems/9bef4a76-a6b7-5d1d-ad46-c9dc1d106a3c

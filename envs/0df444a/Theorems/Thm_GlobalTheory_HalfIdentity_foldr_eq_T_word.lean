@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HalfIdentity_foldr_eq_T_word
 -- name    : GlobalTheory.HalfIdentity.foldr_eq_T_word
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:01:51.989331+00:00
 -- url     : https://prove2.me/theorems/97d6a58e-d683-4494-878e-8b185431066e

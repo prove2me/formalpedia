@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_baker_masked_best_of_runs_ram
 -- name    : WilliamsonShmoys.baker_masked_best_of_runs_ram
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T05:55:34.94416+00:00
 -- url     : https://prove2.me/theorems/9cd4f83f-a088-4d3b-8711-40843d784ff4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_uphi_embZ_zero
 -- name    : ReciprocityTheory.Cheb.uphi_embZ_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:49:58.983397+00:00
 -- url     : https://prove2.me/theorems/ec68eea9-6fe0-4a4d-b6b5-c459069f1fe2

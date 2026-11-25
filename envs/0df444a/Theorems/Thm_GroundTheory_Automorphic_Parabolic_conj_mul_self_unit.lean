@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_conj_mul_self_unit
 -- name    : GroundTheory.Automorphic.Parabolic.conj_mul_self_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:09:36.540809+00:00
 -- url     : https://prove2.me/theorems/c0e6415f-01a7-55bd-936c-cbe0c14180a9

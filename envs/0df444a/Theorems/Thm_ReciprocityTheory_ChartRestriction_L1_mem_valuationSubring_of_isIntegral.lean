@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_mem_valuationSubring_of_isIntegral
 -- name    : ReciprocityTheory.ChartRestriction.L1.mem_valuationSubring_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:46:14.205652+00:00
 -- url     : https://prove2.me/theorems/44299fef-bcd9-4755-8e87-d4187bf5b9b1

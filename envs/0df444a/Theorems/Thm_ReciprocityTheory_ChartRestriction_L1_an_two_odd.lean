@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_an_two_odd
 -- name    : ReciprocityTheory.ChartRestriction.L1.an_two_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:47:22.709903+00:00
 -- url     : https://prove2.me/theorems/16554cbe-4eaf-4f42-8822-2d723cb5f06e

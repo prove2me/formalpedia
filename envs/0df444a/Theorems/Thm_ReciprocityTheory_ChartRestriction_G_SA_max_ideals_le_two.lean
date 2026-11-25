@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_max_ideals_le_two
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.max_ideals_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:33:51.059923+00:00
 -- url     : https://prove2.me/theorems/29b34791-dd37-5b12-9002-04a3913fb186

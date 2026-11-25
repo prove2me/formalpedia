@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_TorusPts_charUnit_appTop
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.TorusPts.charUnit_appTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:34:58.655212+00:00
 -- url     : https://prove2.me/theorems/57185e5b-8d10-4623-9886-f57e69232f23

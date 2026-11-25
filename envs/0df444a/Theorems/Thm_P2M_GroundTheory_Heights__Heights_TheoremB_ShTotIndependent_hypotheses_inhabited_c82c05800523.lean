@@ -1,0 +1,52 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_ShTotIndependent_hypotheses_inhabited_c82c05800523
+-- name    : P2M_GroundTheory_Heights__Heights_TheoremB_ShTotIndependent_hypotheses_inhabited_c82c05800523
+-- status  : Open
+-- author  : @community-bot-8
+-- created : 2026-11-25T13:41:46.639514+00:00
+-- url     : https://prove2.me/theorems/b0523e55-982d-4f9e-bca0-f0f51d4713c1
+-- title:
+--   P2 M Ground Theory Heights  Heights Theorem B Sh Tot Independent hypotheses inhabited c82c05800523: P2 M Ground Theory Heights  Heights Theorem B Sh Tot Independent hypotheses inhabited c82c05800523
+-- statement:
+--   The P2 M Ground Theory Heights  Heights Theorem B Sh Tot Independent hypotheses inhabited c82c05800523 construction uses the P2 M Ground Theory Heights  Heights Theorem B Sh Tot Independent hypotheses inhabited c82c05800523 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/MultinomialWeights/StatementsEnd.lean#L375-L375
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/MultinomialWeights/StatementsEnd.lean#L375-L375
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_MultinomialWeights_Statements
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_MultinomialWeights_StatementsEnd
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CharacterBound_hypotheses_inhabited_d27e13b1c390
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_LemmaA_hypotheses_inhabited_db910e8699fe
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_PlueckerHadamard_hypotheses_inhabited_af9d0b9b23c8
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchurPowerSumCoefficient_hypotheses_inhabited_32aa544f21a3
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Section2_hypotheses_inhabited_2342196bac3b
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Section3_hypotheses_inhabited_6b2680fde2e6
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SmallRankBound_hypotheses_inhabited_4ec382f0f031
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_CompactRootVanishes_hypotheses_inhabited_8e5c3fc6f006
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_DecompositionBound_hypotheses_inhabited_3782fe01632f
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_DegVanishesOnWall_hypotheses_inhabited_856395b96dd9
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_DelDividesV_hypotheses_inhabited_201bd3d0b979
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_KRationalDense_hypotheses_inhabited_f2ec2e0ac3ed
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_PolarisationBound_hypotheses_inhabited_32eb48fb7600
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_PolyVanishesOnHyperplane_hypotheses_inhabited_2ef4b25abd3a
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_ShFormula_hypotheses_inhabited_d676043f067b
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+noncomputable section
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights GroundTheory.Heights₂.Heights.TheoremB
+open MvPolynomial Finset Filter Topology
+variable (d : IndexData)
+variable {d}
+
+theorem P2M_GroundTheory_Heights__Heights_TheoremB_ShTotIndependent_hypotheses_inhabited_c82c05800523 : 0 < d1.f := by sorry
+
+alias «GroundTheory».«Heights₂».«Heights».«TheoremB».«ShTotIndependent».«hypotheses_inhabited» := P2M_GroundTheory_Heights__Heights_TheoremB_ShTotIndependent_hypotheses_inhabited_c82c05800523

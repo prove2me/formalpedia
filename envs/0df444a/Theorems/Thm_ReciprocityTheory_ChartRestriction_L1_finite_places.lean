@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_finite_places
 -- name    : ReciprocityTheory.ChartRestriction.L1.finite_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:43:55.715373+00:00
 -- url     : https://prove2.me/theorems/781638ec-cca7-45b0-bfa7-05a534ec2c7c

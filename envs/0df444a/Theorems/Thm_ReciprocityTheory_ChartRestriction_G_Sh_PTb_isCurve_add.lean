@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_PTb_isCurve_add
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.PTb.isCurve_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:59:18.262498+00:00
 -- url     : https://prove2.me/theorems/05792a90-3233-4322-8ca3-0bfc856549fc

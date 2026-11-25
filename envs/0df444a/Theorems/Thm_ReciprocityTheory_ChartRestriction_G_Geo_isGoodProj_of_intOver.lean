@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_isGoodProj_of_intOver
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.isGoodProj_of_intOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:24:32.77414+00:00
 -- url     : https://prove2.me/theorems/6256ddaf-7691-5ffc-8c2a-33f7ef4da0f7

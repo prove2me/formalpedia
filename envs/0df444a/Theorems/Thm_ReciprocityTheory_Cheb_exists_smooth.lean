@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_exists_smooth
 -- name    : ReciprocityTheory.Cheb.exists_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:47:50.66784+00:00
 -- url     : https://prove2.me/theorems/6d1d9ced-dd47-4683-9c47-cf0d03b3b0d3

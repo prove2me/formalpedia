@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_GtBCPf_coord_affineBC
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.GtBCPf.coord_affineBC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:31:14.769522+00:00
 -- url     : https://prove2.me/theorems/15c0447c-69a9-4cae-b805-94b4e9dff3e4

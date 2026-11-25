@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_TorusPts_ringHom_ext_ZU
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.TorusPts.ringHom_ext_ZU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:34:58.531799+00:00
 -- url     : https://prove2.me/theorems/a9a1661f-fb86-520f-8346-557b0d8456cc

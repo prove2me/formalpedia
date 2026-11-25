@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FixedPointImaginarySpan_exists_basis
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FixedPointImaginarySpan.exists_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:13:36.362888+00:00
 -- url     : https://prove2.me/theorems/59966a28-993b-5517-bc07-772a91ee10e7

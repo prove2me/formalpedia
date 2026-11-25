@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_tent_add_int_eq_zero_of_notMem__f19901
 -- name    : ReciprocityTheory.Cheb.tent_add_int_eq_zero_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:49:15.571803+00:00
 -- url     : https://prove2.me/theorems/f1990177-09b5-4da1-a1f6-400a2f5dda2d

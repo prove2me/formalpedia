@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_le_of_forall_pos_div_sq
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.le_of_forall_pos_div_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:30:39.508726+00:00
 -- url     : https://prove2.me/theorems/d3a90277-f01b-5178-a029-81794d958dcd

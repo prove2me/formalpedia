@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KerPow_HasGen_comb
 -- name    : GlobalTheory.KerPow.HasGen.comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:29:29.059634+00:00
 -- url     : https://prove2.me/theorems/f0e04dec-4556-599a-ab7d-743071e756c8

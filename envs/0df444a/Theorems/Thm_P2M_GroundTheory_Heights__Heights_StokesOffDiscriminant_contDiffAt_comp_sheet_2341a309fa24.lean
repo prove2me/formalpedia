@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StokesOffDiscriminant_contDiffAt_comp_sheet_2341a309fa24
 -- name    : P2M_GroundTheory_Heights__Heights_StokesOffDiscriminant_contDiffAt_comp_sheet_2341a309fa24
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:19:36.300977+00:00
 -- url     : https://prove2.me/theorems/54b2cf3a-7921-42f0-a37b-a557242d85b7

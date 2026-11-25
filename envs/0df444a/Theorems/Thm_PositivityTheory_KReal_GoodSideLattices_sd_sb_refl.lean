@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_GoodSideLattices_sd_sb_refl
 -- name    : PositivityTheory.KReal.GoodSideLattices.sd_sb_refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:29:27.495965+00:00
 -- url     : https://prove2.me/theorems/0ecfef54-aa54-57f8-a339-f0aab3779430
