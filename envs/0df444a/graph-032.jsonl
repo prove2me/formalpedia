@@ -58560,7 +58560,7 @@
 {"parent": "PelagicFF.Supplement.theorem_6_4", "child": "PelagicFF_Supplement_DDP", "via": ["statement"]}
 {"parent": "ParityBarrier563.Trilinear.Supplement.lemma_6_5", "child": "ParityBarrier563_Trilinear_Supplement_SeedAndSubset", "via": ["statement"]}
 {"parent": "HypercliqueRefutation_FourClique_Supplement_ScalarMachine", "child": "SubspaceEvasion312_Explicit_machine", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise_4_6_i_goalV2", "child": "Kyprianou_Ch04_Exercise4_6Certification", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise_4_6_i_goalV2", "child": "Kyprianou_Ch04_Exercise4_6Certification", "via": ["solution", "statement"]}
 {"parent": "MatchedUCLB.Supplement.theorem_D_11", "child": "MatchedUCLB_phaseI", "via": ["statement"]}
 {"parent": "MatchedUCLB.Supplement.theorem_D_11", "child": "MatchedUCLB_phaseO", "via": ["statement"]}
 {"parent": "MatchedUCLB.Supplement.theorem_D_11", "child": "MatchedUCLB_alphaC", "via": ["statement"]}

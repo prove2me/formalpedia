@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Menger_Aux_fam_of_le
 -- name    : Menger.Aux.fam_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:09:02.802898+00:00
 -- url     : https://prove2.me/theorems/81d03b01-43dd-527d-88c9-b8caebf840e0

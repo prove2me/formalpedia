@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindSubgroups_two_mul_dedekindSum_int
 -- name    : DedekindSubgroups.two_mul_dedekindSum_int
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:09:51.613125+00:00
 -- url     : https://prove2.me/theorems/f39e784b-455b-4762-bb69-d3f456872f3b

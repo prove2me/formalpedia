@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_Inner_machine_cached_clock
 -- name    : OAI.Optimization.LinearProgramming.Compression.Inner.machine_cached_clock
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T20:16:44.612503+00:00
 -- url     : https://prove2.me/theorems/5e1f3225-0cf1-5e73-a92b-ddfd9fe3b6c5

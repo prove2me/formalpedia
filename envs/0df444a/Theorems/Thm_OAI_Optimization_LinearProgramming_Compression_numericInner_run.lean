@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_numericInner_run
 -- name    : OAI.Optimization.LinearProgramming.Compression.numericInner_run
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T20:19:53.098939+00:00
 -- url     : https://prove2.me/theorems/0cad5d70-4952-5093-a8ea-cf49466a9b4e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46FiniteClockLawV1
 -- name    : Kyprianou.Ch04.exercise46FiniteClockLawV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T21:08:34.292947+00:00
 -- url     : https://prove2.me/theorems/912f1b08-e7b4-4000-b459-f45cf1690aa3

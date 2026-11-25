@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LonelyRunnerConjecture_five_runners
 -- name    : LonelyRunnerConjecture.five_runners
--- status  : Open
+-- status  : Proved
 -- author  : @bbchallenge_user
 -- created : 2026-11-24T21:04:05.260832+00:00
 -- url     : https://prove2.me/theorems/f27bd97c-64fe-4685-bd99-a4a89033f65a

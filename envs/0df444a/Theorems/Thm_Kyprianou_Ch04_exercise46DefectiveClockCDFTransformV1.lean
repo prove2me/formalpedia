@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46DefectiveClockCDFTransformV1
 -- name    : Kyprianou.Ch04.exercise46DefectiveClockCDFTransformV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T21:02:14.208863+00:00
 -- url     : https://prove2.me/theorems/a2c36a94-a952-5cd7-b8e0-05cbceb4ff5a

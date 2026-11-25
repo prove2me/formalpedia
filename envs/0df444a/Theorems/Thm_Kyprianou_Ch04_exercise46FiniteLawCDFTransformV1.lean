@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46FiniteLawCDFTransformV1
 -- name    : Kyprianou.Ch04.exercise46FiniteLawCDFTransformV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T21:08:34.504937+00:00
 -- url     : https://prove2.me/theorems/c5fe4b05-3f16-48c2-8659-4f35c1614ed4

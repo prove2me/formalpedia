@@ -7699,15 +7699,15 @@
 {"parent": "OAILP_Recovery_RowIndex", "child": "OAILP_Recovery_SupportRAM", "via": ["statement"]}
 {"parent": "OAILP_Recovery_RowIndex", "child": "OAILP_Compat_Core", "via": ["statement"]}
 {"parent": "OAILP_Recovery_RowIndex", "child": "OAILP_BitRAM_IndexScript", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedFderivIntegralLimitV1", "child": "Kyprianou.Ch04.bvNNRealFiniteAffineRightCoercionV1", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedFderivIntegralLimitV1", "child": "Kyprianou.Ch04.exercise42LipschitzFiniteJumpFderivIntegrableV1", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedFderivIntegralLimitV1", "child": "Kyprianou.Ch04.bvUniformSetIntegralLimitV1", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedFderivIntegralLimitV1", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedFderivIntegralLimitV1", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedFderivIntegralLimitV1", "child": "Kyprianou.Ch04.exercise42LipschitzTruncatedDerivativeUniformV1", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedFderivIntegralLimitV1", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedFderivIntegralLimitV1", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedFderivIntegralLimitV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedFderivIntegralLimitV1", "child": "Kyprianou.Ch04.bvNNRealFiniteAffineRightCoercionV1", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedFderivIntegralLimitV1", "child": "Kyprianou.Ch04.exercise42LipschitzFiniteJumpFderivIntegrableV1", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedFderivIntegralLimitV1", "child": "Kyprianou.Ch04.bvUniformSetIntegralLimitV1", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedFderivIntegralLimitV1", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedFderivIntegralLimitV1", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedFderivIntegralLimitV1", "child": "Kyprianou.Ch04.exercise42LipschitzTruncatedDerivativeUniformV1", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedFderivIntegralLimitV1", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedFderivIntegralLimitV1", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedFderivIntegralLimitV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "OAILP_Recovery_PairTimePolynomial", "child": "OAILP_Compression_InnerCostEnvelope", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_MarketFlowMachine", "child": "OAILP_OracleSpec_BitStack", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_MarketFlowMachine", "child": "OAILP_PriceGame_MarketContextMap", "via": ["statement"]}
@@ -7830,7 +7830,7 @@
 {"parent": "SourceProof_b8a5a233a0879d7b1a262eac", "child": "SourceProof_4a90e1998d81dac996f193f9", "via": ["statement"]}
 {"parent": "SourceProof_b8a5a233a0879d7b1a262eac", "child": "SourceProof_0f51da54d5b7a9d3fd68b580", "via": ["statement"]}
 {"parent": "OAI.Optimization.LinearProgramming.Recovery.PairBuilder.row_time_bound", "child": "OAILP_Recovery_PairBuilderBounds", "via": ["solution", "statement"]}
-{"parent": "OAI.Optimization.LinearProgramming.Compression.numericInner_run", "child": "OAILP_Compression_NumericROMLogic", "via": ["statement"]}
+{"parent": "OAI.Optimization.LinearProgramming.Compression.numericInner_run", "child": "OAILP_Compression_NumericROMLogic", "via": ["solution", "statement"]}
 {"parent": "RPLib_FX_EtPBC_077", "child": "RPLib_FX_EtPBC_071", "via": ["statement"]}
 {"parent": "SourceProof_d131488cf582eb29dc48ae9b", "child": "SourceProof_24278e78a60501166c68bfc8", "via": ["statement"]}
 {"parent": "SourceProof_d131488cf582eb29dc48ae9b", "child": "SourceProof_ff07642989734d14cb2ac8eb", "via": ["statement"]}
@@ -7932,7 +7932,7 @@
 {"parent": "OAILP_Compression_ServiceImplementation", "child": "OAILP_Compression_ServiceGeneratorLookup", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_ControlCampaignPhysicalComplete", "child": "OAILP_PriceGame_ControlCampaignSourceRuns", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_ControlCampaignPhysicalComplete", "child": "OAILP_PriceGame_ControlTrialNativeCorrect", "via": ["statement"]}
-{"parent": "OAI.Optimization.LinearProgramming.Compression.Inner.machine_cached_clock", "child": "OAILP_Compression_InnerRAMAdapter", "via": ["statement"]}
+{"parent": "OAI.Optimization.LinearProgramming.Compression.Inner.machine_cached_clock", "child": "OAILP_Compression_InnerRAMAdapter", "via": ["solution", "statement"]}
 {"parent": "OAILP_PriceGame_ControlCampaignWeights", "child": "OAILP_PriceGame_ControlCampaignData", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_ControlCampaignWeights", "child": "OAILP_PriceGame_ControlRatListSum", "via": ["statement"]}
 {"parent": "OAILP_PriceGame_ControlCampaignWeights", "child": "OAILP_PriceGame_ControlCampaignPower", "via": ["statement"]}
@@ -11348,7 +11348,7 @@
 {"parent": "AllOnesLab.A071642_terms_ge_two", "child": "AllOnesLab_Hard", "via": ["solution", "statement"]}
 {"parent": "AllOnesLab.trace_root_allOnes", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
 {"parent": "AllOnesLab.trace_root_allOnes", "child": "AllOnesLab_Trace", "via": ["solution", "statement"]}
-{"parent": "Poly1305Debian.internalOk_poly1305_update_of_blocks_whole", "child": "Poly1305Debian_Spec", "via": ["statement"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_update_of_blocks_whole", "child": "Poly1305Debian_Spec", "via": ["solution", "statement"]}
 {"parent": "AllOnesLab.allOnes_nextCoeff", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
 {"parent": "AllOnesLab.allOnes_nextCoeff", "child": "AllOnesLab_Defs", "via": ["solution", "statement"]}
 {"parent": "AllOnesLab.allOnes_coeff", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
@@ -11357,7 +11357,7 @@
 {"parent": "AllOnesLab.allOnesP_eq_comp", "child": "AllOnesLab_Defs", "via": ["solution", "statement"]}
 {"parent": "AllOnesLab.asPoly_eval", "child": "AllOnesLab_Hard", "via": ["solution", "statement"]}
 {"parent": "AllOnesLab.asPoly_eval", "child": "AllOnesLab_Trace", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.finiteCutoffWindowStepsV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.finiteCutoffWindowStepsV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.finiteCutoffWindowStepsV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
 {"parent": "AllOnesLab.trace_one_allOnes", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
 {"parent": "AllOnesLab.trace_one_allOnes", "child": "AllOnesLab_Trace", "via": ["solution", "statement"]}
@@ -11394,7 +11394,7 @@
 {"parent": "AllOnesLab.allOnes_coeff_of_lt", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
 {"parent": "AllOnesLab.allOnes_coeff_of_lt", "child": "AllOnesLab_Defs", "via": ["solution", "statement"]}
 {"parent": "ManyServerQED.Scheduling.poisson_integer_grid_donsker", "child": "DurrettProbability_Donsker", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.poisson_integer_grid_donsker", "child": "ManyServerQED_Scheduling_Model", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.poisson_integer_grid_donsker", "child": "ManyServerQED_Scheduling_Model", "via": ["solution", "statement"]}
 {"parent": "AllOnesComparator_Solution", "child": "AllOnesLab", "via": ["statement"]}
 {"parent": "AllOnesGallardo.main", "child": "AllOnesLab", "via": ["solution", "statement"]}
 {"parent": "AllOnesGallardo.main", "child": "AllOnesComparator_Solution", "via": ["solution", "statement"]}
@@ -11453,11 +11453,11 @@
 {"parent": "SteklovTriangles.int_x_sin_sq", "child": "SteklovTriangles_CosBound", "via": ["solution", "statement"]}
 {"parent": "AllOnesLab.irreducible_allOnesP_of_irreducible_allOnes", "child": "AllOnesLab_Hard", "via": ["solution", "statement"]}
 {"parent": "AllOnesLab.irreducible_allOnesP_of_irreducible_allOnes", "child": "AllOnesLab_Trace", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.klsWindowIntegerValuedV1", "child": "LevyStochCalc_Probability_IntegerValuedMeasure_F003", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.klsWindowIntegerValuedV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.klsWindowIntegerValuedV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.klsWindowIntegerValuedV1", "child": "SourceProof_adf2db00933ba5955625daf4", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.klsWindowIntegerValuedV1", "child": "LevyStochCalc_Probability_IntegerValuedMeasure_F002", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.klsWindowIntegerValuedV1", "child": "LevyStochCalc_Probability_IntegerValuedMeasure_F003", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.klsWindowIntegerValuedV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.klsWindowIntegerValuedV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.klsWindowIntegerValuedV1", "child": "SourceProof_adf2db00933ba5955625daf4", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.klsWindowIntegerValuedV1", "child": "LevyStochCalc_Probability_IntegerValuedMeasure_F002", "via": ["solution", "statement"]}
 {"parent": "AllOnesLab.allOnesP_natDegree", "child": "AllOnesLab_Basic", "via": ["solution", "statement"]}
 {"parent": "AllOnesLab.allOnesP_natDegree", "child": "AllOnesLab_Defs", "via": ["solution", "statement"]}
 {"parent": "RPLib_FX_EtPBC_224", "child": "RPLib_FX_EtPBC_046", "via": ["statement"]}
@@ -11568,3 +11568,154 @@
 {"parent": "AllOnesLab.allOnesP_natDegree", "child": "AllOnesLab.allOnesP_eq_comp", "via": ["solution"]}
 {"parent": "AllOnesLab.main", "child": "AllOnesLab.irreducible_allOnes_of_irreducible_allOnesP", "via": ["solution"]}
 {"parent": "AllOnesLab.main", "child": "AllOnesLab.irreducible_allOnesP_of_irreducible_allOnes", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise46WeakPassageSandwichV1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise46WeakPassageSandwichV1", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "StochLean_Probability_Process_Semimartingale_StochasticExponential_Characteristic_F000", "child": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "via": ["statement"]}
+{"parent": "StochLean_Probability_Process_Semimartingale_StochasticExponential_Characteristic_F000", "child": "StochLean_Probability_Process_Path_Complex_F000", "via": ["statement"]}
+{"parent": "Poly1305Debian_BlocksWhole", "child": "Poly1305Debian_Spec", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.kw47_actual_exp_grid_linearization_limit", "child": "Kyprianou.Ch04.kw47_reflected_exp_bounds", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_actual_exp_grid_linearization_limit", "child": "Kyprianou.Ch04.kw47_exp_grid_linearization_limit", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_actual_exp_grid_linearization_limit", "child": "AvramDividend.Classical.runningSup_continuous_actual", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_actual_exp_grid_linearization_limit", "child": "AvramDividend.Classical.runningSup_monotone_and_path_le", "via": ["solution", "statement"]}
+{"parent": "RPLib_FX_EtPBC_063", "child": "RPLib_FX_EtPBC_034", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_063", "child": "RPLib_FX_EtPBC_053", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_063", "child": "RPLib_FX_EtPBC_051", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_063", "child": "RPLib_FX_EtPBC_050", "via": ["statement"]}
+{"parent": "Poly1305Debian.internalOk_donna_oneshot", "child": "Poly1305Debian_Spec", "via": ["statement"]}
+{"parent": "SourceProof_314794411901083e0cc253d3", "child": "SourceProof_2c0d4ca99a3f51a9d8eb6cb0", "via": ["statement"]}
+{"parent": "SourceProof_314794411901083e0cc253d3", "child": "SourceProof_9a889647ae0a35373dc0068d", "via": ["statement"]}
+{"parent": "SourceProof_314794411901083e0cc253d3", "child": "SourceProof_00a8a291a5ec377d57feab0f", "via": ["statement"]}
+{"parent": "SourceProof_314794411901083e0cc253d3", "child": "SourceProof_a2c8327cbb95fe609809545d", "via": ["statement"]}
+{"parent": "SourceProof_314794411901083e0cc253d3", "child": "SourceProof_8a4a12d702db4efcb2478f93", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.pathJumpMeasureZeroTimeV1", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Poly1305Debian.internalOk_donna_init_update_final", "child": "Poly1305Debian_Spec", "via": ["statement"]}
+{"parent": "SourceProof_a2c8327cbb95fe609809545d", "child": "SourceProof_b39c46ea153c4c96354bca13", "via": ["statement"]}
+{"parent": "SourceProof_a2c8327cbb95fe609809545d", "child": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "via": ["statement"]}
+{"parent": "SourceProof_a2c8327cbb95fe609809545d", "child": "SourceProof_4c53178c24a5f39c8484090d", "via": ["statement"]}
+{"parent": "collatz_mergers_lift_at_independent_shortcut_clocks", "child": "collatzStepMap", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.smallJumpReciprocalQuadraticTailV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_reflected_record_quadrature", "child": "Kyprianou.Ch04.kw47_right_grid_integral_convergence", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_reflected_record_quadrature", "child": "Kyprianou.Ch04.kw47_reflected_exp_real_path", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_reflected_record_quadrature", "child": "Kyprianou.Ch04.kw47_runningSup_contact_measure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_reflected_record_quadrature", "child": "AvramDividend.Classical.runningSup_dividendMeasure_Ioc_eq_record_increment", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_reflected_record_quadrature", "child": "AvramDividend.Classical.runningSup_monotone_and_path_le", "via": ["solution", "statement"]}
+{"parent": "SourceProof_9a889647ae0a35373dc0068d", "child": "SourceProof_ac2ebac4addb5d2fcfe359a6", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_092", "child": "RPLib_FX_EtPBC_072", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_092", "child": "RPLib_FX_EtPBC_077", "via": ["statement"]}
+{"parent": "SourceProof_ac2ebac4addb5d2fcfe359a6", "child": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "via": ["statement"]}
+{"parent": "SourceProof_ac2ebac4addb5d2fcfe359a6", "child": "SourceProof_6d3db110f0519c19963e703d", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_098", "child": "RPLib_FX_EtPBC_051", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_098", "child": "RPLib_FX_EtPBC_087", "via": ["statement"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_blocks_v2", "child": "Poly1305Debian_BlocksWhole", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.actualCutoffAffineStepsV1", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.actualCutoffAffineStepsV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.actualCutoffAffineStepsV1", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.smallJumpContinuousQuadraticTailV1", "child": "LeanLevy_Levy_LevyMeasure", "via": ["solution", "statement"]}
+{"parent": "SourceProof_a21e6b2a65717feabd6bc579", "child": "SourceProof_911b993558830136570eb23c", "via": ["statement"]}
+{"parent": "SourceProof_a21e6b2a65717feabd6bc579", "child": "SourceProof_3bb9a7fade1f7d012d20523e", "via": ["statement"]}
+{"parent": "SourceProof_a21e6b2a65717feabd6bc579", "child": "StochLean_Probability_Process_Semimartingale_StochasticExponential_Basic_F000", "via": ["statement"]}
+{"parent": "SourceProof_8a4a12d702db4efcb2478f93", "child": "SourceProof_6ed3c177b9234dc2ab8ed747", "via": ["statement"]}
+{"parent": "SourceProof_8a4a12d702db4efcb2478f93", "child": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "via": ["statement"]}
+{"parent": "SourceProof_8a4a12d702db4efcb2478f93", "child": "SourceProof_7062939edfbaae600c8a129c", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise46StrictPassagePathKernelV1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise46StrictPassagePathKernelV1", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_085", "child": "RPLib_FX_EtPBC_075", "via": ["statement"]}
+{"parent": "StochLean_Probability_Process_Semimartingale_StochasticExponential_Basic_F001", "child": "StochLean_Probability_Process_Semimartingale_StochasticExponential_Basic_F000", "via": ["statement"]}
+{"parent": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_PureJump_F000", "child": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "via": ["statement"]}
+{"parent": "SourceProof_7062939edfbaae600c8a129c", "child": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise46NonzeroStrictPassageNotAntitoneV1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise46NonzeroStrictPassageNotAntitoneV1", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "collatz_residual_fifteen_mod_sixteen_after_independent_clock_lifts", "child": "collatzMinPreimage", "via": ["statement"]}
+{"parent": "collatz_residual_fifteen_mod_sixteen_after_independent_clock_lifts", "child": "collatzStepMap", "via": ["statement"]}
+{"parent": "SourceProof_b2af300e8e7381ed92a14088", "child": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "via": ["statement"]}
+{"parent": "SourceProof_b2af300e8e7381ed92a14088", "child": "SourceProof_6dedeeef2014456de8ce028c", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise46RandomStrictPassageTransformV1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise46RandomStrictPassageTransformV1", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.kw47_exp_grid_linearization_limit", "child": "Kyprianou.Ch04.kw47_exp_grid_linearization", "via": ["solution", "statement"]}
+{"parent": "RPLib_FX_EtPBC_075", "child": "RPLib_FX_EtPBC_036", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_075", "child": "RPLib_FX_EtPBC_068", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_075", "child": "RPLib_FX_EtPBC_069", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_075", "child": "RPLib_FX_EtPBC_067", "via": ["statement"]}
+{"parent": "SourceProof_29ce176e0a41eb350a93631c", "child": "StochLean_Probability_Process_Semimartingale_QuadraticCovariation_ContinuousPart_F000", "via": ["statement"]}
+{"parent": "SourceProof_29ce176e0a41eb350a93631c", "child": "SourceProof_31d0de13ef1656df97c05a7d", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.kw47_reflected_exp_real_path", "child": "AvramDividend.Classical.chat04_levy_joint_time_state_measurable", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_reflected_exp_real_path", "child": "Kyprianou.Ch04.kw47_reflected_exp_bounds", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_reflected_exp_real_path", "child": "AvramDividend.Classical.levy_runningSup_joint_time_path_measurable", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_reflected_exp_real_path", "child": "AvramDividend.Classical.runningSup_continuous_actual", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedJumpSumLimitV1", "child": "Kyprianou.Ch04.bvCompactSpatialLipschitzV1", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedJumpSumLimitV1", "child": "Kyprianou.Ch04.bvFiniteSetDominatedSumLimitV1", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedJumpSumLimitV1", "child": "Kyprianou.Ch04.bvFiniteTruncationJumpDifferenceV1", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedJumpSumLimitV1", "child": "Kyprianou.Ch04.bvContDiffSpatialEvalTendstoV1", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedJumpSumLimitV1", "child": "Kyprianou.Ch04.bvTruncatedPathsUniformV1", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedJumpSumLimitV1", "child": "Kyprianou.Ch04.bvTruncatedPathCompactBoundV1", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou.Ch04.exercise42LipschitzFiniteJumpFderivIntegrableV1", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou.Ch04.exercise42LipschitzTruncatedDerivativeUniformV1", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou.Ch04.exercise42LipschitzTimeDerivativeBoundV1", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou.Ch04.uniformBoundedMultiplierV1", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou.Ch04.bvNNRealFiniteAffineRightCoercionV1", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou.Ch04.bvUniformSetIntegralLimitV1", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise42LipschitzTruncatedWeightedIntegralLimitV1", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_072", "child": "RPLib_FX_EtPBC_063", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_072", "child": "RPLib_FX_EtPBC_062", "via": ["statement"]}
+{"parent": "SourceProof_7a2cd734cad19a873789e942", "child": "SourceProof_c3d82db2ca7eee09ee06d809", "via": ["statement"]}
+{"parent": "SourceProof_7a2cd734cad19a873789e942", "child": "SourceProof_4c53178c24a5f39c8484090d", "via": ["statement"]}
+{"parent": "SourceProof_7a2cd734cad19a873789e942", "child": "SourceProof_4429ff27e307e8c02b004131", "via": ["statement"]}
+{"parent": "SourceProof_7a2cd734cad19a873789e942", "child": "SourceProof_97ac1be72f56ff014f1c8e3a", "via": ["statement"]}
+{"parent": "SourceProof_7a2cd734cad19a873789e942", "child": "SourceProof_1883eb1f483d860c03239c47", "via": ["statement"]}
+{"parent": "SourceProof_7a2cd734cad19a873789e942", "child": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "via": ["statement"]}
+{"parent": "RPLib_FX_EtPBC_068", "child": "RPLib_FX_EtPBC_061", "via": ["statement"]}
+{"parent": "SourceProof_1d0b25291561423c84395ca8", "child": "SourceProof_60b183cce884b1ffa7a599f8", "via": ["statement"]}
+{"parent": "SourceProof_1d0b25291561423c84395ca8", "child": "StochLean_Probability_Process_Semimartingale_QuadraticCovariation_ContinuousPart_F000", "via": ["statement"]}
+{"parent": "SourceProof_1d0b25291561423c84395ca8", "child": "SourceProof_e0591ffe772e5ca30a6f7079", "via": ["statement"]}
+{"parent": "SourceProof_1d0b25291561423c84395ca8", "child": "SourceProof_31d0de13ef1656df97c05a7d", "via": ["statement"]}
+{"parent": "SourceProof_1d0b25291561423c84395ca8", "child": "SourceProof_7a2cd734cad19a873789e942", "via": ["statement"]}
+{"parent": "SourceProof_1d0b25291561423c84395ca8", "child": "SourceProof_5a35c10e8d17dd593b89b4ce", "via": ["statement"]}
+{"parent": "SourceProof_1d0b25291561423c84395ca8", "child": "SourceProof_c207270dc0d962c8e8bb99f9", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.kw47_reflected_time_quadrature", "child": "Kyprianou.Ch04.kw47_right_grid_integral_convergence", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.kw47_reflected_time_quadrature", "child": "Kyprianou.Ch04.kw47_reflected_exp_real_path", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.simplePredictableFullyDiagonalFiniteIsometry", "child": "Kyprianou.Ch04.simplePredictableFiniteOrthogonalIsometry", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.simplePredictableFullyDiagonalFiniteIsometry", "child": "Kyprianou.Ch04.simplePredictableDiagonalRealMoment", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.simplePredictableFullyDiagonalFiniteIsometry", "child": "LevyStochCalc_Poisson_CompensatedIsometry_F001", "via": ["solution", "statement"]}
+{"parent": "StochLean_Probability_Process_Semimartingale_StochasticExponential_Basic_F000", "child": "StochLean_Probability_Process_Semimartingale_QuadraticVariation_ContinuousPart_F000", "via": ["statement"]}
+{"parent": "StochLean_Probability_Process_Semimartingale_StochasticExponential_Basic_F000", "child": "StochLean_Analysis_PathVariation_ExponentialJumpFactor_F000", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise_4_6_i_goalV2", "child": "Kyprianou.Ch04.exercise46RandomWeakPassageTransformV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise_4_6_i_goalV2", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise_4_6_i_goalV2", "child": "Kyprianou.Ch04.exercise46DefectiveClockCDFTransformV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise_4_6_i_goalV2", "child": "Kyprianou.Ch04.exercise46QueueLaplaceExponentV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise_4_6_i_goalV2", "child": "Kyprianou.Ch04.totalIdleTrafficMaximalRootV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise_4_6_i_goalV2", "child": "Kyprianou.Ch03.upwardFirstPassageLaplaceTransform", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_donna_init_update_final_oneshot", "child": "Poly1305Debian.internalOk_donna_init_update_final", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_donna_init_update_final_oneshot", "child": "Poly1305Debian.internalOk_donna_oneshot", "via": ["solution"]}
+{"parent": "OAI.Optimization.LinearProgramming.Compression.numericInner_run", "child": "OAI.Optimization.LinearProgramming.Compression.Inner.machine_cached_clock", "via": ["solution"]}
+{"parent": "OAI.Optimization.LinearProgramming.Compression.Inner.machine_cached_clock", "child": "OAI.Optimization.LinearProgramming.Compression.compareProxyAffine_correct", "via": ["solution"]}
+{"parent": "OAI.Optimization.LinearProgramming.Compression.Inner.machine_cached_clock", "child": "OAI.Optimization.LinearProgramming.Compression.Inner.machine_computes_trace_for", "via": ["solution"]}
+{"parent": "OAI.Optimization.LinearProgramming.Compression.Inner.machine_cached_clock", "child": "OAI.Optimization.LinearProgramming.Compression.manuscript_homogeneous_grid_fuel", "via": ["solution"]}
+{"parent": "OAI.Optimization.LinearProgramming.Compression.Inner.machine_cached_clock", "child": "OAI.Optimization.LinearProgramming.Compression.Inner.matches_coordinates_of_magnitudes", "via": ["solution"]}
+{"parent": "OAI.Optimization.LinearProgramming.Compression.Inner.machine_cached_clock", "child": "OAI.Optimization.LinearProgramming.BitRAM.remainder_of_halted", "via": ["solution"]}
+{"parent": "collatz_residual_fifteen_mod_sixteen_after_binary_merger_lifts", "child": "collatz_mergers_lift_at_independent_shortcut_clocks", "via": ["solution"]}
+{"parent": "collatz_residual_fifteen_mod_sixteen_after_binary_merger_lifts", "child": "collatz_residual_fifteen_mod_sixteen_after_independent_clock_lifts", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_update_of_blocks_whole", "child": "Link_LinkOk", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_update_of_blocks_whole", "child": "Poly1305Debian_PlacedObj", "via": ["solution"]}
+{"parent": "Poly1305Debian.internalOk_poly1305_update_of_blocks_whole", "child": "Arm64Facts.steps_codeLoaded_v2", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.finiteCutoffWindowStepsV1", "child": "Kyprianou.Ch04.klsWindowIntegerValuedV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.finiteCutoffWindowStepsV1", "child": "Kyprianou.Ch02.integerValuedFiniteDiracV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.finiteCutoffWindowStepsV1", "child": "Kyprianou.Ch02.prmFiniteWindowStepFromDiracV1", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.poisson_integer_grid_donsker", "child": "AvramDividend.Classical.avram_wave4_p1_poisson_centered_count_variance_hasSum", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.poisson_integer_grid_donsker", "child": "AvramDividend.Classical.poisson_count_expected_rate_ws01b", "via": ["solution"]}
+{"parent": "ManyServerQED.Scheduling.poisson_integer_grid_donsker", "child": "DurrettProbability.donsker", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise46DefectiveClockCDFTransformV1", "child": "Kyprianou.Ch04.exercise46FiniteClockLawV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise46DefectiveClockCDFTransformV1", "child": "Kyprianou.Ch04.exercise46FiniteLawCDFTransformV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.exercise46FiniteLawCDFTransformV1", "child": "AvramDividend.Classical.positiveLaplace_cumulative_measure", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.klsWindowIntegerValuedV1", "child": "LevyStochCalc.Probability.isIntegerValued_of_isPiSystem", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.smallJumpReciprocalQuadraticTailV1", "child": "Kyprianou.Ch04.smallJumpQuadraticTailV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.actualCutoffAffineStepsV1", "child": "Kyprianou.Ch04.zeroTimeRestrictionIccIocV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.actualCutoffAffineStepsV1", "child": "Kyprianou.Ch04.finiteCutoffWindowStepsV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.actualCutoffAffineStepsV1", "child": "Kyprianou.Ch04.pathJumpMeasureZeroTimeV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.smallJumpContinuousQuadraticTailV1", "child": "Kyprianou.Ch04.smallJumpReciprocalQuadraticTailV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.rightContinuousDyadicSupV1", "child": "AvramDividend.Classical.avram_ws01e_b_right_continuous_strict_dyadic_grid_event", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.dyadicMartingaleL2V1", "child": "AvramDividend.Classical.avram_ga_a426_dyadic_sampled_martingale_L2_norm_bound", "via": ["solution"]}
+{"parent": "Kyprianou.Ch04.dyadicMartingaleL2V1", "child": "AvramDividend.Classical.avram_ga_a428_L2_maximal_envelope_integrability_bridge", "via": ["solution"]}

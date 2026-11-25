@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindSubgroups_twelve_mul_subgroupSum_modEq_eight
 -- name    : DedekindSubgroups.twelve_mul_subgroupSum_modEq_eight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:07:58.86594+00:00
 -- url     : https://prove2.me/theorems/305fab13-8d14-4606-b5f4-e1ee43e175ec

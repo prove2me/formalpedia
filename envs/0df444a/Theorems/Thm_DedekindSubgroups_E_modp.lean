@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DedekindSubgroups_E_modp
 -- name    : DedekindSubgroups.E_modp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:09:40.877599+00:00
 -- url     : https://prove2.me/theorems/3fcd667c-7dec-4e70-8261-8a6d511ef29c

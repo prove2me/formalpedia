@@ -51825,7 +51825,7 @@
 {"parent": "GlobalTheory.T.poitou_tate_euler_characteristic", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_PoitouTateEulerCharacteristic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.TangentCrit.smooth_of_tangent", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsLieBasis", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.TangentCrit.smooth_of_tangent", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_FormallyUnramifiedOfTangentMapInjective", "via": ["solution", "statement"]}
-{"parent": "LonelyRunnerConjecture.five_runners", "child": "LonelyRunnerConjecture_Defs", "via": ["statement"]}
+{"parent": "LonelyRunnerConjecture.five_runners", "child": "LonelyRunnerConjecture_Defs", "via": ["solution", "statement"]}
 {"parent": "WirtingerFlow.gaussian_moment_identities", "child": "WirtingerFlow_Basic", "via": ["statement"]}
 {"parent": "GlobalTheory.ThetaFn.IsFnAt.value_origin", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ThetaUnifAV", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ThetaFn.IsFnAt.value_origin", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_LinCombTrivG", "via": ["solution", "statement"]}

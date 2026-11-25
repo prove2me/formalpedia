@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Menger_exists_separator_and_paths
 -- name    : Menger.exists_separator_and_paths
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:09:51.741421+00:00
 -- url     : https://prove2.me/theorems/7c45ff25-e9e4-4106-8dd8-a7ba6e30e4f4

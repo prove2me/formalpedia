@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_finiteCutoffWindowStepsV1
 -- name    : Kyprianou.Ch04.finiteCutoffWindowStepsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T21:09:18.021499+00:00
 -- url     : https://prove2.me/theorems/39591490-c342-44aa-80ab-a10a1b3fcc31

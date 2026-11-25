@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise42LipschitzTruncatedFderivIntegralLimitV1
 -- name    : Kyprianou.Ch04.exercise42LipschitzTruncatedFderivIntegralLimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T20:06:26.585682+00:00
 -- url     : https://prove2.me/theorems/5a397491-eb0d-5c7e-a0bb-6ee66661d4bc

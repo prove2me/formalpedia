@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Menger_Aux_fam_step
 -- name    : Menger.Aux.fam_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:08:52.948139+00:00
 -- url     : https://prove2.me/theorems/8ccb9053-e858-44f7-b8c0-d2a4197d4677

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Menger_isEdgeReachable_iff
 -- name    : Menger.isEdgeReachable_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:10:01.691169+00:00
 -- url     : https://prove2.me/theorems/0db29ae4-feba-589f-b487-22a5d9664664
